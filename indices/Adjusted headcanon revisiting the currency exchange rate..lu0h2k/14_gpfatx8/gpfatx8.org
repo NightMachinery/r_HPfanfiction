@@ -1,0 +1,35 @@
+:PROPERTIES:
+:Author: crownjewel82
+:Score: 1
+:DateUnix: 1614699875.0
+:DateShort: 2021-Mar-02
+:END:
+
+I appreciate the effort put into this and I might make some changes to some things based on it. However, I'm concerned that your estimate is actually too high because currency exchange doesn't always relate to cost of goods. Things are just cheaper in some countries and the currency doesn't always reflect this. For example, [[https://www.globalpetrolprices.com/USA/gasoline_prices/][gas in the US is about $3 / gallon]]. [[https://www.globalpetrolprices.com/United-Kingdom/gasoline_prices/][In the UK it's about £4-5 which is $6-7 per gallon.]] The actual exchange rate today is $2 to £1.44. This happens largely because of factors that make getting gas to the UK more expensive.
+
+There are a lot of factors in wizarding society that would probably make prices overall cheaper.
+
+1. Reparo and other transfigurations. People transfigure things rather than buy new ones with a few exceptions. Someone like Molly Weasley is probably fairly gifted at this kind of spell especially considering necessity.
+2. Duplication and growth enhancing charms. There are certain things where supply is literally infinite. For example, something like parchment could only be a viable medium through the use of duplication charms since there's only so many sheep in the world.
+3. Portkeys, et al. Free or nearly free long distance transportation.
+4. Government subsidies. Making already low prices even lower.
+
+So because of all of this, it's likely that prices in the wizarding world are significantly lower than in their muggle counterpart countries because costs are lower. If we carry that assumption to the daily paper, it's possible that 5 knuts is closer to 10 or even as low as 5 pence rather than 20.
+
+Going with the 5 knuts to 10 pence or 1 knut to 2 pence:
+
+| Galleon   | Sickle     | Knut      | Pounds | Dollars (£ 1 to $1.684) |
+|-----------+------------+-----------+--------+-------------------------|
+|           |            | 1 Knut    | £0.02  | $0.03                   |
+|           | 1 Sickle   | 29 Knuts  | £0.58  | $0.98                   |
+| 1 Galleon | 17 Sickles | 493 Knuts | £9.86  | $16.60                  |
+
+Going with the 5 knuts to 5 pence or 1 knut to 1 pence:
+
+| Galleon   | Sickle     | Knut      | Pounds | Dollars (£ 1 to $1.684) |
+|-----------+------------+-----------+--------+-------------------------|
+|           |            | 1 Knut    | £0.01  | $0.02                   |
+|           | 1 Sickle   | 29 Knuts  | £0.29  | $0.49                   |
+| 1 Galleon | 17 Sickles | 493 Knuts | £4.93  | $8.30                   |
+
+This is probably where JKR got the 1 Galleon to £5 exchange rate. But, *I agree that this is entirely too low.* Even if we account for the fact that the pound has halved in value since 1991 due to inflation (meaning that something £5 then is £10 now) it's still kind of low. That said, it's likely that the actual rate should be somewhere between £10 and £25.

@@ -1,0 +1,32 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 19
+:DateUnix: 1614499303.0
+:DateShort: 2021-Feb-28
+:END:
+
+#+begin_quote
+  Turns out it comes from a bit of bad economics and a touch of US-centric thinking.
+#+end_quote
+
+So you decide to double down on bad economics?
+
+The price of a good is determined by supply and demand; there's no reason at all to think that a good in the wizarding world would have an equivalent price to its "equivalent" good in the Muggle world, because the supply and demand are likely substantially different.
+
+Supply and demand apply to currency as well, and that is the best lens through which you can consider the exchange rate.
+
+Wizarding demand for Muggle currency is likely very low relative to supply. This is because (i) there is a huge supply of Muggle currency, given the size of the Muggle economy relative to the wizard economy and the fact that gold is valued in the Muggle world as a commodity, but (ii) there are very few times when a wizard would want to purchase Muggle goods and therefore need Muggle currency.
+
+Meanwhile, in the other direction, there is also very little Muggle demand for wizarding currency, with Muggleborns (of which there were 2 in Harry's year) being the only real source of Muggle demand for wizarding currency. However, while the demand is low, the supply is also low - if left to market forces, a Muggleborn is going to struggle to find someone who wants to buy Muggle currency off them in exchange for wizarding currency, because Muggle currency has no value beyond its ability to purchase Muggle goods, which are likely considered far inferior to wizarding goods.
+
+What this all means is:
+
+1. The market should be very volatile due to low trading volumes. There's not a steady presence of supply and demand and the price available would swing wildly. In particular, each summer the price of wizarding currency should shoot up, because the Muggleborns have a regular need to purchase the next year's Hogwarts materials and would be competing with each other to secure the limited supply of wizarding currency available to buy for Muggle currency.
+
+2. When trades do take place, Muggle currency likely has very little value, resulting in a very high exchange rate.
+
+So much for what result the market would deliver. And yet we don't really see this - the goblins exchange Muggle currency to wizarding gold for Hermione without too much of a problem. How can this be?
+
+To me, the answer is obvious: state intervention. Exchange rate controls have been common throughout history and even today many countries do not maintain a free market for their currency. I think it's likely that the Ministry forces Gringotts to exchange wizarding gold to Muggle currency at a certain loss-making rate, in order to facilitate the entry of Muggleborns into the wizarding world. To minimise the loss the goblins make on these trades, this would likely be subject to limits in volume - no one is going to be able to exchange a million pounds all at once.
+
+So there wouldn't really be a wizarding currency market at all, just a limited-volume state-supported exchange service. The price the Ministry sets can therefore be largely arbitrary, and £5 works as well as any other arbitrary price (though in Victoria Potter I set it at closer to £20 per galleon).
