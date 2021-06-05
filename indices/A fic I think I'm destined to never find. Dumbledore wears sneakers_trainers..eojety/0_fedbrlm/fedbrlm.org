@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 7
+:DateUnix: 1579006903.0
+:DateShort: 2020-Jan-14
+:END:
+
+try google variants of that phrase with 'site:reddit.com', 'site:fanfiction.net', and 'site:archiveofourown.org' - without the quotes attached to the end of it. It'll search that site specifically for instances of that phrase, or whatever is the closest it can find. If you put the phrase in speech marks like "Dumbledore hiked up his robes etc" then it'll look for that phrase specifically. Otherwise it'll just look for similarities.
