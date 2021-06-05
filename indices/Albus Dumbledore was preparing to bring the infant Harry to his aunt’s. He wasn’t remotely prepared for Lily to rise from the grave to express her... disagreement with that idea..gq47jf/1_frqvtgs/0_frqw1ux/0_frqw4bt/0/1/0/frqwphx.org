@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Vercalos
+:Score: 2
+:DateUnix: 1590390218.0
+:DateShort: 2020-May-25
+:END:
+
+Looks like the bot failed this time around. Maybe the period prevented its detection script from firing, or parsing the title properly?
