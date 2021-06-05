@@ -1,0 +1,409 @@
+#+TITLE: [promotion] I've written an app that makes finding fics on FFN a bit less tedious
+
+* [promotion] I've written an app that makes finding fics on FFN a bit less tedious
+:PROPERTIES:
+:Author: zerkses
+:Score: 88
+:DateUnix: 1518043720.0
+:DateShort: 2018-Feb-08
+:FlairText: Promotion
+:END:
+It's called Flipper and it allows you to search within fanfiction.net in some ways ffn, or ever Scryer won't allow. Additionally, it allows you to gradually cleanup your searches from the stuff you've already read leaving only the fics you haven't seen yet in your search results.
+
+Oh, and with it you can have your read queue and keep track of what you've already finished.
+
+I've been personally using it for more than a year now and I can finally share a version that doesn't have much inexplicable quirks, which could annoy people unfamiliar with how it operates.
+
+Flipper for Windows can be found here: [[https://github.com/Zeks/flipper/releases/download/1.0.0/flipper_1.0.0.7z]]
+
+(it requires MSVC2015 redistributable installed)
+
+Flipper for Mac is not yet a thing, but now that I have a stable version I can finally research what I can do about that.
+
+(though apparently Wine3.1 runs it without problems)
+
+The manual can be found here: [[https://docs.google.com/document/d/1fJ1P3y3UBY4OjEHosBCo3OtlIC2sycfrL3aC2yqNiP8/edit?usp=sharing]]
+
+
+** Oh man I was so excited and then realized I have a Mac... dang it!
+:PROPERTIES:
+:Author: cparen3
+:Score: 23
+:DateUnix: 1518047130.0
+:DateShort: 2018-Feb-08
+:END:
+
+*** I really want to make a mac build, it shouldn't even be that hard since the code is portable, but I will have to do something about the fact that I don't own a mac first :) Hopefully there is a way to set up a virtual machine or something. Alternatively if someone helps me build it.
+
+Eventualy I plan to separate flipper core into a website with similar functionality, but this is quite some time away.
+:PROPERTIES:
+:Author: zerkses
+:Score: 8
+:DateUnix: 1518047286.0
+:DateShort: 2018-Feb-08
+:END:
+
+**** I'm heading offline soon, but i'll bookmark the thread and can run a mac build for you tommorrow when i have some free time if you like?
+
+I'm not overly familiar with c++, preferring other languages, but, meh, compilers are mostly all the same.
+:PROPERTIES:
+:Author: Saelora
+:Score: 7
+:DateUnix: 1518051226.0
+:DateShort: 2018-Feb-08
+:END:
+
+***** Unfortunately I have a migraine today so I really don't want to explain technical stuff needed, I will PM you when I get better though
+:PROPERTIES:
+:Author: zerkses
+:Score: 3
+:DateUnix: 1518077040.0
+:DateShort: 2018-Feb-08
+:END:
+
+****** Hey I also have a Mac I'm willing to dedicate to the cause
+
+Let me clone the repo and tackle it
+:PROPERTIES:
+:Author: chaosattractor
+:Score: 3
+:DateUnix: 1518097613.0
+:DateShort: 2018-Feb-08
+:END:
+
+
+****** Hi!
+
+So I did give it a shot but I keep getting a bunch of header file-related errors. Is there any chance you could check your .pro file into the repo?
+
+Also what version of Qt did you use for this?
+:PROPERTIES:
+:Author: chaosattractor
+:Score: 1
+:DateUnix: 1518370005.0
+:DateShort: 2018-Feb-11
+:END:
+
+******* There is no .pro file. See .qbs files, this is qt's own build system that they are promoting. It is bundled with qt creator.
+
+Qt 5.10 was used
+
+The main project file is flipper_project.qbs Just open that with creator
+
+(you will have to edit modules/modules/conditionals.qbs,there is a path there taht leads to where the result should be built, change it to something of yours)
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1518370436.0
+:DateShort: 2018-Feb-11
+:END:
+
+******** Ohhh you used Qt creator, I've been trying to build it from the command line
+
+Let me try that instead
+:PROPERTIES:
+:Author: chaosattractor
+:Score: 1
+:DateUnix: 1518370622.0
+:DateShort: 2018-Feb-11
+:END:
+
+********* it's possible to build it from command line, but those will have to be QBS commands :)
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1518371291.0
+:DateShort: 2018-Feb-11
+:END:
+
+********** Yeah I just figured
+
+Now I am getting this error:
+
+#+begin_example
+  /Users/X/Projects/flipper/libs/GlobalHeaders/SingletonHolder.h:190:45: error: member reference base type 'T *' is not a structure or union
+  void copy(const An<U>& a)         { data.reset(new U(*a.data)); }
+#+end_example
+:PROPERTIES:
+:Author: chaosattractor
+:Score: 1
+:DateUnix: 1518371479.0
+:DateShort: 2018-Feb-11
+:END:
+
+*********** very likely your compiler is too old
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1518371654.0
+:DateShort: 2018-Feb-11
+:END:
+
+************ :thinking_face:
+
+I switched to the built-in clang so XCode would not complain. Let me switch back to GCC 7
+:PROPERTIES:
+:Author: chaosattractor
+:Score: 1
+:DateUnix: 1518371849.0
+:DateShort: 2018-Feb-11
+:END:
+
+************* tbh I haven't build flipper on GCC but this particular singleton wrapper is also used in my apps at work and both gcc and clang have built otehr types wrapped in it.
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1518372121.0
+:DateShort: 2018-Feb-11
+:END:
+
+
+*** It's working for me via WINE 3.1. No workarounds or dll overrides needed, just a 64-bit prefix. Native Linux and Mac ports would be very nice though.
+:PROPERTIES:
+:Author: Khraft
+:Score: 2
+:DateUnix: 1518056913.0
+:DateShort: 2018-Feb-08
+:END:
+
+
+** Just checking it out now. Looks pretty good so far. Take a bit of getting used to the interface, but I don't notice anything too bad. Nice that you allow people to create and add their own tags. It'd be nice to have a favorites (aside from the favorite authors section?) But I suppose people can just make a tag for favorite fics instead.
+
+Now, you know what has an even worse search then FFnet? AO3. But I guess 3/4 of the problem there is over-tagging, so not sure if a client side app even CAN do anything about that.
+:PROPERTIES:
+:Author: Daimonin_123
+:Score: 9
+:DateUnix: 1518056151.0
+:DateShort: 2018-Feb-08
+:END:
+
+*** Oh, there is a perfectly good solution to AO3. Just scrap their tags altogether. That's what I am going to do once I get to parsing AO3 into my app.
+
+Though when is this going to happen I am unsure. Current plans are to make a server version of flipper first to allow searches within <60k words (wihout overtaxing ffn) and allow recommendation lists to be used in other builds than my personal one.
+
+Recommendation lists is a really cool feature flipper already has working, but unfortunately it depends on either shippable build being over 500 megabytes(over 2GB unpacked) slowing it down depending on PC speed or users having to parse over 10k favourites pages taxing FFN needlessly.
+
+When server is created I will just serve results for both of these use cases.
+
+Tho I am known for taking detours so who knows, maybe one day I just decide to parse AO3 "here and now and screw schedule"
+:PROPERTIES:
+:Author: zerkses
+:Score: 7
+:DateUnix: 1518077378.0
+:DateShort: 2018-Feb-08
+:END:
+
+
+*** On the subject of favourites, I just use "Rec" tag created specifically for this. There simply isn't a need for anything else since you can assign multiple tags to a fic
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1518077927.0
+:DateShort: 2018-Feb-08
+:END:
+
+
+*** Also, it's not a favourite authors section, it's "favourite favourite lists" section :)
+
+The main purpose of this tab is to have a way to keep track of people who like and favourite the same things that you do and view their lists with already seen fics filtered out.
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1518094665.0
+:DateShort: 2018-Feb-08
+:END:
+
+
+** I was so excited about this until I see it's only for computers😤😢
+:PROPERTIES:
+:Author: MagicParrot36
+:Score: 5
+:DateUnix: 1518075405.0
+:DateShort: 2018-Feb-08
+:END:
+
+*** The FFN app (for android at least) is actually not terrible.
+:PROPERTIES:
+:Author: MrThorifyable
+:Score: 4
+:DateUnix: 1518157819.0
+:DateShort: 2018-Feb-09
+:END:
+
+**** I'll second this, I was surprised at how non shit the FFnet mobile app was.
+:PROPERTIES:
+:Author: Kaladin_MemeBlessed
+:Score: 5
+:DateUnix: 1518490933.0
+:DateShort: 2018-Feb-13
+:END:
+
+
+** This sounds great, I'll give it a try. Thanks for creating it. I've long wished for an option to exclude fics from my search that I've already seen and don't want to read.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1518092796.0
+:DateShort: 2018-Feb-08
+:END:
+
+*** Yeah, rereading all the same summaries over and over and over is /really/ annoying.
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1518093172.0
+:DateShort: 2018-Feb-08
+:END:
+
+**** It looks pretty neat for the most part. The only thing I'm missing is the ability to search by character. I'm only interested in stories that have Harry as the main character, but because app doesn't do this I actually get more unwanted stories in my search results than if I just searched on FF.net.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1518099059.0
+:DateShort: 2018-Feb-08
+:END:
+
+***** I am afraid that character search is completely out of scope at the moment as this would require quite considerable development time to implement character releated stuff in the database and the code interfacing with it within the app. That on top of parsing characters from webpages.
+
+As a workaround I can probably implement something that searches just within all characters string.
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1518099219.0
+:DateShort: 2018-Feb-08
+:END:
+
+****** It's fine, it's pretty impressive what you have already. I hope you keep posting here if you've got updates. It still looks like a good app to use, I'm just getting used to the interface now.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1518099377.0
+:DateShort: 2018-Feb-08
+:END:
+
+******* As a very quick and dirty workaround you could use +Words Harry. This will make sure he is at least mentioned in the summary or character section
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1518099659.0
+:DateShort: 2018-Feb-08
+:END:
+
+******** Thanks!
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1518101364.0
+:DateShort: 2018-Feb-08
+:END:
+
+
+** OP is it fine if I can fork the code and see if I can port it to Android?
+:PROPERTIES:
+:Author: gadgetroid
+:Score: 2
+:DateUnix: 1518111289.0
+:DateShort: 2018-Feb-08
+:END:
+
+*** Sure. Tho keep in mind that I will soon start separting GUI code from server part and if you want to stay compatible you will have to follow those changes. This will probably start in a week or so as I need a break from coding it.
+
+Also, I am not exactly the brightest programmer around so some of the code might make you cringe :)
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1518111531.0
+:DateShort: 2018-Feb-08
+:END:
+
+
+*** Just please do not enable below 60k searches and recommendation lists. we do not want FFN taking action because users started parsing thousands of pages each. These will come with a server
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1518111778.0
+:DateShort: 2018-Feb-08
+:END:
+
+
+** Glad to see you finally released this! It looks pretty nice. I'll have to give it a shot when I boot back to Windows.
+
+My concern is that every user of Flipper must individually index FFN themselves, thereby increasing load on FFN and potentially leading them to want to shut down indexing operations such as Flipper and Scryer.
+
+Perhaps we can work together. Potentially, Scryer could provide periodic fandom-specific DB dumps to bootstrap Flipper users to reduce their initial load on FFN for the fandoms that Scryer indexes.
+
+You know where to find me if you'd like to chat more about it.
+:PROPERTIES:
+:Author: Lord_Ravenclaw
+:Score: 2
+:DateUnix: 1518304752.0
+:DateShort: 2018-Feb-11
+:END:
+
+*** I have done a couple of optimisations that should see to it that FFN isn't TOO overtaxed and plan to do more.
+
+1) All pages are cached and this cache is stored for two days, so repeated loading of a fandom won't re-scrape everything.
+
+2) The major fandoms are pre-indexed into the database that comes with flipper so users don't need to parse juggernauts like naruto and HP fully
+
+3) load is limited to 2 pages per second singlethreaded
+
+4) all errors are recoverable so not ALL of the work is lost on errors
+
+I plan to add more in the form of actually removing FFN parse altogether and serving results from a server instead of parsing on the client.
+
+I was afraid that giving parsing tools to users will backfire too, but it was either that or uncertainty if I ever get actual release. So I made a couple safeguards and will encourage the users to switch to server side version later.
+
+/IDEALLY/ and if I understand use cases correctly, the users of current version of flipper, that arent f@#@#ing with it just for fun, would consume less FFN traffic than non users since they won't be browsing search over and over. But you are totally right I should release V2 working with a server asap
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1518306768.0
+:DateShort: 2018-Feb-11
+:END:
+
+
+*** I already had plans to make my own server to serve results but it is probably possible to do scryer integration too.
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1518307150.0
+:DateShort: 2018-Feb-11
+:END:
+
+
+** Is it possible to use logical search tools? OR, AND, etc. I was testing the search by words, and it doesn't seem like it uses them.
+
+Edit: Based on src/querybuilder.cpp's DefaultQueryBuilder::ProcessWordInclusion, it seems to just be ANDing every search term together, which isn't really ideal. Would it be possible to add checks for if the search term includes OR or AND, then use the appropriate one to combine the multiple terms?
+:PROPERTIES:
+:Author: LilithTheLamb
+:Score: 2
+:DateUnix: 1518412174.0
+:DateShort: 2018-Feb-12
+:END:
+
+*** Sorry, for the late answer, didn't have time originally and forgot.
+
+No, logical search tools atm aren't possible. I have a development plan for Flipper and it sacrifices such things for more relevant stuff for the time being.
+
+You're welcome to fork and add those in yourself though.
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1518957158.0
+:DateShort: 2018-Feb-18
+:END:
+
+
+** Oh, this is really nice! Wish I knew how to code mobile apps so I could make this for my device!
+:PROPERTIES:
+:Author: SnowingSilently
+:Score: 1
+:DateUnix: 1518073289.0
+:DateShort: 2018-Feb-08
+:END:
+
+
+** Mac users keep in mind Wine should let you run windows programs. I haven't touched Mac in awhile so I cannot confirm myself.
+:PROPERTIES:
+:Author: dagfighter_95
+:Score: 1
+:DateUnix: 1518183836.0
+:DateShort: 2018-Feb-09
+:END:

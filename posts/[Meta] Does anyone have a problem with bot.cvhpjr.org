@@ -1,0 +1,44 @@
+#+TITLE: [Meta] Does anyone have a problem with bot?
+
+* [Meta] Does anyone have a problem with bot?
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 2
+:DateUnix: 1566784787.0
+:DateShort: 2019-Aug-26
+:FlairText: Meta
+:END:
+Whenever I try to download a fic in EPUB or MOBI format, I get sometimes an error message like this page: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12980210&source=ff&filetype=epub]]
+
+It only happens for some fics, such as [[https://www.reddit.com/r/HPfanfiction/comments/cvbpm7/smart_voldemort_that_doesnt_monologue/ey3uecw/][this one]] and [[https://www.reddit.com/r/HPfanfiction/comments/cv3emm/fanfics_that_are_400k_or_higher/ey2ki4m/][that one]], but not for the two fics linked in [[https://www.reddit.com/r/HPfanfiction/comments/cv3emm/fanfics_that_are_400k_or_higher/ey1r08t/][this comment]].
+
+Why?
+
+
+** The maintainer of ff2ebook created a custom backend for the bot, but this backend seemingly relies on the old version of ff2ebook which seems to have recently gained a bug or two.
+
+The new version of ff2ebook does not have this issue from what I understand. I currently cannot contribute to the bot myself but if anyone is interested in changing the backend to the new version and figuring out if it actually fixes the issue, feel free to submit a PR - it would be greatly appreciated.
+:PROPERTIES:
+:Author: tusing
+:Score: 3
+:DateUnix: 1566824107.0
+:DateShort: 2019-Aug-26
+:END:
+
+
+** You may want to ask [[/u/tusing]]
+:PROPERTIES:
+:Author: dehue
+:Score: 1
+:DateUnix: 1566800561.0
+:DateShort: 2019-Aug-26
+:END:
+
+
+** I get that too, or "missing titles info"
+:PROPERTIES:
+:Author: Alinte
+:Score: 1
+:DateUnix: 1566804351.0
+:DateShort: 2019-Aug-26
+:END:

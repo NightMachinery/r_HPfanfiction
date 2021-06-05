@@ -1,0 +1,63 @@
+#+TITLE: Harry Potter: RPG - Part 2: Skills
+
+* Harry Potter: RPG - Part 2: Skills
+:PROPERTIES:
+:Author: HaltCPM
+:Score: 8
+:DateUnix: 1509512808.0
+:DateShort: 2017-Nov-01
+:END:
+Part 1: Attributes - [[https://www.reddit.com/r/HPfanfiction/comments/79noeo/harry_potter_rpg/]] Rulebook (in Google Doc) - [[https://docs.google.com/document/d/1uTBU_a5T-yQeMLT0xgjLZgt2LDwc4qkMpm2MZD8o_uA/edit#bookmark=id.j4ycktvit3f]]
+
+Part 2: Skils and Specialty
+
+#+begin_example
+  Skills are learned abilities that you can hone and develop over time. These are classified as either Magical Skills or Muggle Skills. Each Skill has a skill level which represents your proficiency in a subject. Note that for Wand and Incantation Skill, the bonuses below do not apply. These two have special bonuses and penalties for the sake of balance.
+#+end_example
+
+[ 1 ] - Your skill is that of a Firstie. Penalty to Difficulty +4.
+
+[ 2 ] - You are a Student of this field. Penalty to Difficulty +2.
+
+[ 3 ] - You could get your OWLs. Bonus to Difficulty 0.
+
+[ 4 ] - You could get your NEWTs. Bonus to Difficulty -1.
+
+[ 5 ] - You could be a Professor - Bonus to Difficulty -2. Fame +1.
+
+[ 6 ] - You are considered a master of the subject, enough to Head a House. Bonus to Difficulty -3. Fame +2.
+
+[ 7 ] - You are widely regarded as an authority in your field, enough to be a Headmaster of a school. Bonus to Difficulty -4. Fame +4.
+
+Specialty represents that you have become proficient enough in a field to look into a specific Sub-branch more deeply. You unlock one Specialty at OWL, Professor and Headmaster. Choosing a Specialty grants you another -1 Bonus to Difficulty on top of your Skill if you choose a Sub-branch or a -4 Bonus to Difficulty if you choose a Spell. Thus, you can decide whether you prefer a large bonus to a range of things or a large bonus to a signature spell.
+
+Specialty has different rules for Branches of Magic. You may only choose Four (4) Specialties across all Six (6) Branches and their Eighteen (18) Subbranches. If you choose to have Two (2) Specialties in the same Sub-branch, you may only choose the second upon reaching Head of House Rank [ 6 ]. If you choose to have Three (3) Specialties in the same Sub-branch, you may choose the third upon Headmaster Rank [ 7 ].
+
+The Six Branches of Magic Are: -DADA, Dark Arts, Healing, Potions, Transfiguration, Charms
+
+The Six Magical Skills Are: -Wand Motion, Incantation, Flying, Elective Knowledge, Core Knowledge, Elective Languages
+
+The 12 Muggle Skills are: -Alertness, Athletics, Muggle Fighting, Survival, Investigation, Art, Charisma, Intimidation, Stealth, Etiquette, Politics and Law, Finance.
+
+I don't want to bog down this post too much so I'll end here, but do note that each of the skills listed above have 3 subbranches which you can find in the link above (it should bring you straight to the magical branches section of the document). As always, feel free to leave feedback here or in the google doc if anything is unclear.
+
+Thanks!
+
+
+** (EDIT: was about Specialties - Never mind... my comprehension is lacking today lol)
+
+The Muggle Studies Sub-branch is intriguing... with all of those Muggle Skills, I'm assuming that it would produce different results in gameplay?
+:PROPERTIES:
+:Author: Ihateseatbelts
+:Score: 1
+:DateUnix: 1509562787.0
+:DateShort: 2017-Nov-01
+:END:
+
+*** Exactly right. While we use the term muggle skills, some can actually provide interesting bonuses to your magic, or help you in things magic would be less than useful (after all, unless you go around liberally using Imperius, you will need High Social and either Charisma or Intimidation to get people to do what you want)
+:PROPERTIES:
+:Author: HaltCPM
+:Score: 2
+:DateUnix: 1509590010.0
+:DateShort: 2017-Nov-02
+:END:

@@ -1,0 +1,184 @@
+#+TITLE: Help with article writing
+
+* Help with article writing
+:PROPERTIES:
+:Author: phanhp
+:Score: 6
+:DateUnix: 1513927893.0
+:DateShort: 2017-Dec-22
+:END:
+How do you write articles? Especially with the flair that Rita skeeter has, how did yall do it? Thanks
+
+
+** Right, traditional article writing has a few rules, simplified it's like this:
+
+- The headline summarizes what happened, and quickly tells the reader if they should bother reading or not
+- Then you try to get the facts out as quickly as possible, a guidance as to how are the five 'W's (Who? What? Where? When? Why?)
+- And then you go into details and even more details. The important thing is that the reader can stop reading at any point, depending on their level of interest.
+- Only once you get all the facts out, you start with interpretation and context.
+- Opinion mostly goes in a separate article, but not always.
+
+Quick example:
+
+#+begin_quote
+  ** Harry Potter slays basilisk and saves Hogwarts student from Chamber of Secrets
+     :PROPERTIES:
+     :CUSTOM_ID: harry-potter-slays-basilisk-and-saves-hogwarts-student-from-chamber-of-secrets
+     :END:
+  /by Affluent Awwriter/
+
+  Yesterday, Harry Potter defeated an at least forty feet long basilisk in the Chamber of Secrets at Hogwarts. After the sister of Harry Potter's best friend Ronald W. was kidnapped into the Chamber, Harry Potter, alongside with Ronald W. and famous author Gilderoy Lockhard successfully discovered the location of Hogwarts' legendary Chamber of Secrets. They immediately started a rescue mission for Ronald's sister.
+
+  Reports say that in the Chamber Harry was separated from Ronald and Lockhard due to a cave-in, but went on regardless. What happened next is partially speculation, however all sources agree that Harry Potter not only fought an at least forty feet long Basilisik, but also slayed it with a the legendary "Sword of Gryffindor" and successfully rescued the student. A basilisk is a dark creature, classified as XXXXX (dangerous and undomestiacable) creature by the Ministry of Magic. The last confirmed sighting of a basilisk in Europe was 242 years ago, when one killed 14 wizards and seven muggles in the siphonia-incident.
+
+  Details of what went down exactly are still emerging, but no matter the details, such bravery at this age shows once more that Harry Potter is a true Gryffindor. For a detailed account of the events leading up to the chamber incident see page 3. For a summary of Harry Potter's past achievement see page 7. More on Basilisks on page 12. Daniella Radiculiffa writes more about Lockhard's possible involvement on page 17.
+#+end_quote
+
+As you can see, I tried to do the following:
+
+- I answer the 5 'W's as soon as possible, starting with the headline
+- I get more detailed as a move on, getting the most information out in the beginning.
+- Then I actually tell what's happened as much as possible
+- Then I provide context, interpretation and opinion.
+
+Of course, a real article about that topic would be way longer, but the beginning could look /somewhat/ like this.
+
+If you know this, and keep that in mind it's way easier to understand how Rita writes her articles: She breaks every of those rules, but with a few more goals:
+
+- Make the reader read till the end
+- Present your own opinion as fact
+- Make it still look like an article
+- Market herself as 'friend' of the reader
+- Make the reader feel good about themselves (mostly by showing how /useless/ some people are, see also: Daytime TV. "Ha, I'd never be this dumb!")
+
+Let's look at [[http://harrypotter.wikia.com/wiki/Daily_Prophet_articles#DUMBLEDORE.27S_GIANT_MISTAKE][this article ("Dumbledore's giant mistake")]] for example
+
+- The headline says nothing but something about what happened, but makes it seem important. So while it makes you curious about the article, it doesn't tell you if you're interested in reading it or not. Whether /care/ about half-giants or not, you still have to read most of the article to know that it's about that. Also, it's a cool play with words, but I think that's Rowling shining through :)
+
+- She /starts/ with context:
+
+#+begin_quote
+  Albus Dumbledore, eccentric Headmaster of Hogwarts School of Witchcraft and Wizardry, has never been afraid to make controversial staff appointments, writes Rita Skeeter, Special Correspondent
+#+end_quote
+
+- She heavily mixes fact and opinion completely:
+
+#+begin_quote
+  Mad-Eye Moody, however, looks responsible and kindly when set beside the part-human Dumbledore employs to teach Care of Magical Creatures. Rubeus Hagrid,
+#+end_quote
+
+- She puts the real information at the end, /after/ she set the scene on how to interpret them
+
+#+begin_quote
+  As if this were not enough, the Daily Prophet has now unearthed evidence that Hagrid is not --- as he has always pretended --- a pure-blood wizard. He is not, in fact, even pure human. His mother, we can exclusively reveal, is none other than the giantess Fridwulfa
+#+end_quote
+
+(this is in the bottom third of the long-ish article)
+
+- She doesn't answer the five 'W's at all.
+
+- She also uses relativising phrases whenever possible ('sources say', 'the word is', 'some claim', 'some say', 'are of the opinion that', ...)
+
+--------------
+
+So how would you write a skeeter article?
+
+First, the headline must be 'click-baity', but can be more vague than typical modern click-bait.
+
+#+begin_quote
+  ** HARRY POTTER'S DISCOVERS DANGEROUS HOGWARTS SECRET
+     :PROPERTIES:
+     :CUSTOM_ID: harry-potters-discovers-dangerous-hogwarts-secret
+     :END:
+#+end_quote
+
+Next, put the characters the article talks about in the light she wants them to present.
+
+#+begin_quote
+  Harry Potter, defeater of You-Know-Who, gained only more attention last year after his historic defeat of the demon-possessed Professor Quirrell who viciously attacked him. In both this and the last adventure Ronald Weasley, son of the notoriously indebted Arthur Weasley, claims to have supported Harry.
+#+end_quote
+
+(Feel free to go into more detail here, and mis-represent your characters as much as possible, but always with a kernel of truth!)\\
+And then slowly introduce the topic you're talking about, but don't actually tell any news yet - be sure, to also set the opinion!
+
+#+begin_quote
+  The tale of loyalty, chivalry and bravery I, your reporter Rita Skeeter, am about to tell should surprise no one, though unbelievable it is!
+#+end_quote
+
+Here, I also let introduce Rita herself - in a way that hopefully feels natural. I think I'd find a more natural way when editing this, but I'll keep it in for now. And now, it's really time to set the opinion and already provide all the context:
+
+#+begin_quote
+  As the readers may know, over the last year at Hogwarts multiple students were viciously and cowardly attacked! Indeed, many upstanding students were PETRIFIED at Hogwarts, the once safes places in England, and sources claim that no remedy has been found yet. The tragedy struck close to Harry as another student was petrified. The student in question was Hermione Granger, a smart and supporting muggleborn student, who last year received the highest marks of any first-year attending Hogwarts and accompanied Harry in his defeat of Quirrel until the very end!
+#+end_quote
+
+She also sometimes explicitly puts questions in the mouth of the reader and answers them:
+
+#+begin_quote
+  So why why Harry only intervene when a student was kidnapped, do you ask? His 'best friend', Ronald Weasley, convinced him to recklessly go into the Chamber of Secrets himself, to rescue his foolishly kidnapped sister, only to leave poor Harry alone when the time came.
+#+end_quote
+
+And now you can start with the actual facts, it's just a bit more juicy news reporting.
+
+#+begin_quote
+  Harry Potter entered the chamber of secrets alone and slayed the basilisk. The end.
+#+end_quote
+
+So basically, you can do this as a step-by-step instruction and you'll probably get something okay. But read a few of her articles that I linked, they all follow the same pattern:
+
+- Establish the characters with opinion
+- Establish the settings
+- Tell the story, with opinion.
+
+Basically, she tells stories disguised as articles.
+:PROPERTIES:
+:Author: fflai
+:Score: 12
+:DateUnix: 1513950469.0
+:DateShort: 2017-Dec-22
+:END:
+
+*** That's REALLY good, content-wise, but a little too personal.
+
+Rita Skeeter uses exclamation marks only sparingly, and she would never write "I" to refer to herself in an article. More likely she'd write something like "special correspondant Rita Skeeter informs us that..." and so on.
+
+Also, she wouldn't directly address the reader in a newspaper article, especially not to ask questions; she'd be more likely to phrase the question as a statement. Such as "one must ask oneself whether Harry Potter would not do better to re-examine the motives of his so-called friends."
+:PROPERTIES:
+:Author: Dina-M
+:Score: 2
+:DateUnix: 1513975483.0
+:DateShort: 2017-Dec-23
+:END:
+
+**** I agree, you're completely right. I'm just not in the mood for rewriting this right now :)
+:PROPERTIES:
+:Author: fflai
+:Score: 2
+:DateUnix: 1513980992.0
+:DateShort: 2017-Dec-23
+:END:
+
+
+** Well, I wouldn't recommend it otherwise, but read the Daily Mail. I once stumbled across an article that was so mean-spirited that I actually thought this journalist must have been the inspiration behind Rita Skeeter. Can't find the article anymore, but I think the author was Jan Moir. She comes up with lovely articles like [[http://www.dailymail.co.uk/femail/article-3903730/JAN-MOIR-Harry-s-tragedy-No-sane-girl-marry-him.html][JAN MOIR: Harry's tragedy? No sane girl would marry him]]:
+
+#+begin_quote
+  Cupid, get out thy lute and prepare for a royal pluck. Love sweet love is in the air once more for dashing Prince Harry, who has been linked to a sultry American actress called Meghan Markle. [...]
+
+  He is a playboy prince with a glint in his eye, but Dirty Harry could easily turn into Seedy Harry if he is not careful. For time is not on his side --- and already the royal shutters are rolling down on his window of opportunity.
+#+end_quote
+:PROPERTIES:
+:Author: cheo_
+:Score: 2
+:DateUnix: 1513941931.0
+:DateShort: 2017-Dec-22
+:END:
+
+
+** It's kind of tough. I've taken a stab at it myself a couple of times and I've never been quite satisfied with the results. I try to think of someone just being so eager to tell you what they've got to say that they're totally breathless. Imagine you're sitting with this person at a table in a crowded cafe gossiping about a friend and she keeps looking over her shoulder as she tells you things that she really mustn't, but she simply can't help herself, darling!
+
+Also, read a lot of tabloids to pick up the language and rhythms. It really is a different style of writing.
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 1
+:DateUnix: 1513934593.0
+:DateShort: 2017-Dec-22
+:END:

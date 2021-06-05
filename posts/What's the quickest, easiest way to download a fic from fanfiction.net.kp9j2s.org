@@ -1,0 +1,79 @@
+#+TITLE: What's the quickest, easiest way to download a fic from fanfiction.net?
+
+* What's the quickest, easiest way to download a fic from fanfiction.net?
+:PROPERTIES:
+:Author: greenstripedcat
+:Score: 1
+:DateUnix: 1609633732.0
+:DateShort: 2021-Jan-03
+:FlairText: Misc
+:END:
+I'm mostly making this post so that I can leave a comment on it and use the fanfiction bot to get a download link tbh, but this doesn't seem like the most convenient way - do I need to create a post every time I need a fic so that I don't flood other people's posts? I just wanted some easy quick website that would give me a file after I insert the link to fanfic, without giving them my email or anything. The FicSave didn't work, so here I am.
+
+
+** Or just use something like fanfictiondownloader from fanfictiondownloader.net
+:PROPERTIES:
+:Author: reddog44mag
+:Score: 6
+:DateUnix: 1609641270.0
+:DateShort: 2021-Jan-03
+:END:
+
+
+** You can message the bot directly so that you don't need to make a new post.
+
+Edit: Direct message the linkfnn(insert fic name name) to [[/u/FanfictionBot][u/FanfictionBot]]
+:PROPERTIES:
+:Author: Nathen_Drake_392
+:Score: 3
+:DateUnix: 1609633879.0
+:DateShort: 2021-Jan-03
+:END:
+
+*** Oh, I didn't know I could do that, thank you!
+:PROPERTIES:
+:Author: greenstripedcat
+:Score: 1
+:DateUnix: 1609634267.0
+:DateShort: 2021-Jan-03
+:END:
+
+
+** You can directly to [[http://www.ff2ebook.com/]] with your browser and put URL of the story there. However, the quickest, easiest way is to get [[https://github.com/JimmXinu/FanFicFare]] (either as the command-line application or Calibre plugin) and download EPub directly.
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1609657342.0
+:DateShort: 2021-Jan-03
+:END:
+
+
+** linkffn([[https://www.fanfiction.net/s/6342684/1/Whom-the-Goddess-Chooses][6342684]])
+
+​
+
+nevermind me, just talking here to myself, downloading a fic to translate it
+:PROPERTIES:
+:Author: greenstripedcat
+:Score: 1
+:DateUnix: 1609633802.0
+:DateShort: 2021-Jan-03
+:END:
+
+*** [[https://www.fanfiction.net/s/6342684/1/][*/Whom the Goddess Chooses/*]] by [[https://www.fanfiction.net/u/1374460/Aurette][/Aurette/]]
+
+#+begin_quote
+  Madeleone's GiftFic for the SS/HG Bingo. Wherein Hermione learns about a type of magic not taught in school. SS/HG. Complete. M for reasons people. You know me.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Words/:} ^{8,326} ^{*|*} ^{/Reviews/:} ^{265} ^{*|*} ^{/Favs/:} ^{1,201} ^{*|*} ^{/Follows/:} ^{158} ^{*|*} ^{/Published/:} ^{9/21/2010} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{6342684} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Romance/Supernatural} ^{*|*} ^{/Characters/:} ^{Severus} ^{S.,} ^{Hermione} ^{G.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=6342684&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=6342684&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/FanfictionBot/reddit-ffn-bot/wiki/Usage][Usage]] | [[https://www.reddit.com/message/compose?to=tusing][Contact]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1609633824.0
+:DateShort: 2021-Jan-03
+:END:

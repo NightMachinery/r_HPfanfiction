@@ -1,0 +1,24 @@
+#+TITLE: FFN Follow / AO3 Mark for Later as Bookmarklets for Desktop
+
+* FFN Follow / AO3 Mark for Later as Bookmarklets for Desktop
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 7
+:DateUnix: 1564938544.0
+:DateShort: 2019-Aug-04
+:FlairText: Misc
+:END:
+Create a new bookmark with the following location:
+
+=javascript:(function() {$.post('/api/ajax_subs.php',{storyid: storyid,storyalert: 1},function(data) {if(data.error) xtoast("Error");else xtoast("Success:" + data.payload_data,3500);},'json')})()=
+
+Clicking this while on the FFN site will add the current fic to your followed fics. It does the same as clicking "Follow/Fav", then checkmarking "Follow Story" and "Save", but in a single button. So you can follow a ffnbot link, follow the story and return to satisfy your Reddit addiction with 2 less clicks.
+
+It should work on all Desktop browsers, altough I've only tested it on Firefox.
+
+Here's a similar piece of code to mark the current AO3 story for later:
+
+=javascript:window.location+="/mark_for_later"=
+
+This one isn't too useful since it's just the "Mark for later" button but you can have it in the bookmark bar if you like it there.
+

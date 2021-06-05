@@ -1,0 +1,476 @@
+#+TITLE: A Model of Magical Government.
+
+* A Model of Magical Government.
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 27
+:DateUnix: 1614739321.0
+:DateShort: 2021-Mar-03
+:FlairText: Discussion
+:END:
+I had a discussion today over in the Harry/Fleur discord server ([[https://discord.gg/yAKBFxzM][here]]) about the structure of the government of Magical Britain. Our debate was inspired by another post from today, one about Lucius Malfoy not being a canonical member of the Wizengamot ([[https://www.reddit.com/r/HPfanfiction/comments/lw1db8/why_is_lucius_malfoy_always_depicted_as_a_member/?utm_medium=android_app&utm_source=share][here]]), and it inspired me to write a basic framework for how the Magical Government of Britain distributes its powers.
+
+Here is that model:
+
+~---------------------------------~
+
+Here is my theory on the structure of Magical British Government:
+
+The government of Magical Britain operates via a unitary system of government in which the powers of legislature and judiciary are rolled into one, this is the Wizengamot. In addition to the wizengamot there exists the executive power of the Minister of Magic, who is elected from among the Wizengamot's members, and the office of Chief Warlock, who is also elected internally.
+
+/Included in the powers and responsibilities of the Wizengamot are:/
+
+#+begin_quote
+  *i.* The creation, amendment, and repeal of law.
+
+  *ii.* The management of the treasury.
+
+  *iii.* The interpretation of the law in legal proceedings.
+
+  *iv.* The Appointment of a Minister of Magic by internal election.
+
+  *v.* The removal of a sitting Minister of Magic by majority vote.
+
+  *vi.* The appointment of a Chief Warlock to preside over wizengamot proceedings.
+
+  *vii.* The power to charge citizens with criminal offenses, and preside over their trial and sentencing.
+#+end_quote
+
+/The powers and responsibilities of the Chief Warlock are:/
+
+#+begin_quote
+  *i.* To bring motions before the Wizengamot for debate.
+
+  *ii.* To determine the order in which matters on the docket are addressed by the wizengamot.
+
+  *iii.* To act as the prosecuting attorney in criminal proceedings under the auspices of the wizengamot.
+
+  *iv.* To begin and end Wizengamot sessions.
+
+  *v.* To formally appoint the Wizengamot's elected Minister of Magic.
+
+  *vi.* To formally remove the sitting Minister of Magic at the request of a Wizengamot majority.
+#+end_quote
+
+/The powers and responsibilities of the Minister of Magic are:/
+
+#+begin_quote
+  *i.* To appoint and oversee the heads of the various departments of the Ministry of Magic.
+
+  *ii.* To enact and enforce the laws passed by the Wizengamot.
+
+  *iii.* To act as the facilitator for for government functions and events.
+
+  *iv.* To act as the representative head of Magical Britain in matters of international import.
+
+  *v.* To act as the primary liaison between the government of Magical Britain and the office of the Muggle Prime Minister.
+
+  *vi.* To act as the prosecuting attorney in criminal proceedings under the auspices of the wizengamot in lieu of the Chief Warlock when they are unable to fulfill this role.
+
+  *vii.* To assume the responsibilies of the Chief Warlock when they are unable to fulfill their role, or in the interim between a sitting Chief Warlock being removed from office and a new Chief Warlock being elected.
+
+  *viii.* To bring matters of legal import before the Wizengamot for consideration.
+
+  *ix.* To enact and execute the budgets of the Ministry of Magic as they have been created by the Wizengamot.
+
+  *x.* To oversee all legal proceedings not under the auspices of the wizengamot.
+
+  *xi.* To oversee the management of national resources.
+
+  *xii.* To oversee the management of national infrastructure.
+
+  *xiii.* To oversee the management of social programs such as education.
+
+  *xiv.* To oversee the management of the safe research into magical phenoma.
+
+  *xv.* To oversee the management of the magical economy, especially the management of relations between Magical Britain and the institution of Gringotts.
+
+  *xvi.* To create and oversee governmental institutions in the form of departments and offices, for the purpose of fulfilling the responsibilities of the office of the Minister, and subject to Wizengamot approval.
+
+  *xvii.* To uphold the statute of secrecy by the employment of the powers granted to the office of the Minister of Magic.
+
+  *xviii.* The power dismiss a sitting Chief Warlock by calling for a vote of no confidence before the full Wizengamot.
+
+  /(Sections/ */x/* /-/ */xv/* /are to be achieved by the appointment of competent heads of relevant departments and offices.)/
+#+end_quote
+
+~---------------------------------~
+
+This model is based primarily on what we see the magical government doing in the books, and completely disregards anything JK might have said on the matter outside them. It also disregards Pottermore. It incorporates what little we see in of the ministry of magic before Voldemort takes over, and borrows a slot of structure from real world governments.
+
+The main power of this government is the assembly. The Chief Warlock and Minister do ehat the Wizengamot wants, and do so at their pleasure. They have considerably more power than any individual member of the body, but the Wizengamot as a whole dwarfs them utterly. One of the key elements of this model is that the Wizengamot holds three of the four major governmental powers, they make the laws, they interpret the laws, and they control the money. All that's left is enacting and executing the laws, both of which fall to the executive (the Minister of Magic). The Chief Warlock acts as a sort of spokesman for the will of the Wizengamot, and the only real power of that position that can be used against the assembly is the power to decide the docket, and therfore bury discussions they want to delay underneath all other items.
+
+The one big thing left out of this model is how the wizengamot gets their members. It works with both hereditary and non-hereditary systems, but hereditary systems lend themselves far easier to the culture of perpetuating power and institutions that we see in characters like Slughorn.
+
+
+** Personally I go with my headcanon that Wizengamot membership is obtained through internal nomination and election. So the seats aren't technically hereditary, but old pureblood families have a sort of unspoken agreement that when their heir is nominated for a seat, they'll all vote in favor of their inclusion. This gives it a thin veneer of democracy because anyone can technically get in, but the purebloods have made it into a self-perpetuating system where their families are all assured seats. This also makes having connections all the more important because the only way to get in the Wizengamot is to know the people in it.
+:PROPERTIES:
+:Author: FlattWhite
+:Score: 24
+:DateUnix: 1614747733.0
+:DateShort: 2021-Mar-03
+:END:
+
+*** That is an excellent headcanon that perfectly reflects what I have seen of British Magical society, I shall now procede to steal it.
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 6
+:DateUnix: 1614747926.0
+:DateShort: 2021-Mar-03
+:END:
+
+
+** So, basically what you're saying is that to British wizards, Montesquieu's declaration of the separation of powers, and indeed fair universal elections with a secret ballot, were just things that happened to other people?
+
+Yep, that checks out. I think it actually fits with the insular presentation of the wizarding world. Much like how in post Roman Britain up to the end of the Georgian period people rejected democracy in part because it was "old fashioned", I can see wizards rejecting it because it's a "Muggle idea." Everyone in the government seems appointed, not elected, and wizards don't seem to question that. There doesn't seem to be any concept that politicans owe something to the electorate. That if you're in charge of a government, your role /should/ be to make the country better for the citizens. Wizarding Britain is basically a dictatorship, everyone thinks Fudge is a tool but there's never any move to get him voted out. Therefore we must assume that to vote him out is not an option for the public.
+
+As I've said before on this sub, though, it really surprises me. JKR is quite political, at the time she was writing the books she was a member of a UK political party. I'd have thought she'd have thought about a few of the things she's insinuating through her books.
+:PROPERTIES:
+:Author: Ermithecow
+:Score: 8
+:DateUnix: 1614763066.0
+:DateShort: 2021-Mar-03
+:END:
+
+*** I agree with everything you said, but there is a big difference between being politically active and being politically literate. I don't doubt JK is politically active, I do doubt that she was politically literate at the time of writing the books.
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 3
+:DateUnix: 1614764472.0
+:DateShort: 2021-Mar-03
+:END:
+
+**** I think if you're an active member of a political party, as she was, you should understand that universal voting is a thing at the very least. Sure, it's not a reason to expect her to understand the inner workings of government, but you'd think if she cared enough to join a party, she might have put a line in Book Six when Fudge goes about the election. Maybe even Ron saying to Harry "mum and dad voted for Scridgemour. Dad says he's a bit traditional, but he at least seems to believe you know who is back." Harry wouldn't have to have had an opinion on that, totally in character that unless he's shooting his magic gun or playing his magic sport he doesn't care. So it could literally have been that throwaway!
+:PROPERTIES:
+:Author: Ermithecow
+:Score: 3
+:DateUnix: 1614764730.0
+:DateShort: 2021-Mar-03
+:END:
+
+***** While I would agree with you if the intent was to imply a society with democratic process, I'm not sure that's what JK wanted. There is a pretty heavy theme of corruption and barbarity in the way the books depict the government of Magical Britain. The low-level workers like the weasleys are innocent of the corruption, but at the same time that corruption keeps them firmly where they are, out of the way. I honestly think that JK intended to create a society with a thoroughly flawed and outdated system, including not having a say in who was in charge. It's also worth noting that the British system of government also elects its prime minister from within its own legislature. Yeah the people vote for which member of parliament gets the job, but it's always a member of parliament. The Magical british system would be like that, just one step behind in evolution.
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 3
+:DateUnix: 1614765490.0
+:DateShort: 2021-Mar-03
+:END:
+
+****** Oh I agree with you, I do think the whole point is its corrupt and outdated. It just surprises me, knowing what I know about her political activity, that she didn't sort of go more strongly either way, if you get me? It's /implied/ that it's a dictatorship, or a benign autocracy, but she doesn't make a major point out of it even in the later books. If anything, there's an impicaton that Voldemort is going to take over and be a dictator yet there's no acknowledgement that the MoM is nothing more than a dictator!!
+
+#+begin_quote
+  Yeah the people vote for which member of parliament gets the job, but it's always a member of parliament.
+#+end_quote
+
+Well, we don't vote directly on who's PM. We vote for our own individual constituency MPs and the party with the most seats is invited to form a government. Obviously it amounts to the same thing though as we know at the time of the election who the party leaders, and thus the defacto nominees, are. Interestingly enough, convention states that the leader of that party takes on the role, but constitutionally there's actually nothing that says the PM must be an MP. Until the early 20th century it was quite common for the PM to be a member of the House of Lords. I wonder what would actually happen if it was challenged, and for example the parliamentary leader of the largest party said "I don't want the job. I'll represent the PM in the Commons, but I want to nominate [random member of the public] to actually be PM." I don't think there's anything explicitly forbidding that, but I also can't see any major party voting it through even if it's what their current leader wanted. It would be an interesting experiment though.
+:PROPERTIES:
+:Author: Ermithecow
+:Score: 3
+:DateUnix: 1614766578.0
+:DateShort: 2021-Mar-03
+:END:
+
+******* In that case, the status of Magical Britain's government being a dictatorship hinges on the method by which members are admitted to the Wizengamot. In the system I have described, the offices of the Chief Warlock and Minister of Magic are limited to only those powers that they are expressly given by the Wizengamot, which is very few for the chief warlock, and what amounts to "achieve our directives by any means necessary" for the Minister. If the Wizengamot is accessible to all people then it is a democracy, if it is hereditary then it is essentially an aristocracy mixed with an oligarchy.
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 3
+:DateUnix: 1614767001.0
+:DateShort: 2021-Mar-03
+:END:
+
+******** Ah but we only ever see the Wizengamot /enforce/ the law. The Minister aside, we don't know who /creates/ the law. And we don't know how those people, the minister included, are chosen. I think the Wizengamot is more like the judiciary, Arthur even referred to it as a court. A parliament is not a court, in any democracy they must be separated.
+
+It always seemed to me that the Minister wasn't a Minister in the parliamentary sense, he was more like a senior civil servant. If you progress through the ministry, as a worker, you can eventually become Minister. There's no differentiation between people who work at the ministry and people who represent it. That's always been my issue.
+
+#+begin_quote
+  If the Wizengamot is accessible to all people then it is a representative democracy
+#+end_quote
+
+Yes and no. If the Wizengamot is the parliament equivalent, and I'm not sure it is but let's go with that for the sake of what you're saying, it's only representative democracy if any magical adult is able to be /elected/ to it. If any magical adult is able to be /co-opted/ to it, it's not a democracy, even if it is representative!
+:PROPERTIES:
+:Author: Ermithecow
+:Score: 1
+:DateUnix: 1614767354.0
+:DateShort: 2021-Mar-03
+:END:
+
+********* All of my arguements are based on the assumption that the government of Magical Britain operates in the manner I described above. This means that I am assuming that the Wizengamot is indeed both legislature /and/ judiciary. This also includes the distinctions between the people who work at the ministry and those that represent it. I am not using the "canon" system as the basis for ny arguements because there isn't enough present to base anything on, and frankly what is present is a hot mess. What I have created here is an attempt at extrapolating a logical framework of government based on what we know of canon, without directly adhering to its every detail, or more critically, lack of detail. It isn't fair to say that the Wizengamot is /only/ a legal court just because we don't see them acting out legislative duties. The only other people we see doing this are Arthur Weasley and Barty Crouch, and I have reaponded to that idea elsewhere. The fact remains that the Wizengamot is the /most likely/ optipn for a legislative body, even if it is never explicitly stated to be such.
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 3
+:DateUnix: 1614767920.0
+:DateShort: 2021-Mar-03
+:END:
+
+********** Yep. Which brings me back to my original point, that even in your incredibly logical and well thought out interpretation, the things we would see as basic cornerstones of not just democracy but functioning government are missing.
+
+If the legislative and the judiciary are the same body, that body does not protect the liberty of the people it alleges to represent.
+
+The system Rowling created, potentially even by accident, is really really broken if you follow her implications, as you have done, to their logical conclusion. And the wizarding population just accept this, despite being heavily armed to a man!
+
+I'm really glad you did this post. Not just because it's really well done, but because it inherently proves just how much wizarding Britain actually sucks once you get past the "wow" factor of magic and the fact that it looks quaint and old. It's hiding a really dark heart behind all that tweeness.
+:PROPERTIES:
+:Author: Ermithecow
+:Score: 1
+:DateUnix: 1614768969.0
+:DateShort: 2021-Mar-03
+:END:
+
+*********** I still find some flaws with your argument, and they stem from this sentence.
+
+#+begin_quote
+  If the legislative and the judiciary are the same body, that body does not protect the liberty of the people it alleges to represent.
+#+end_quote
+
+You make two critical assumptions in this, 1. That the government was created to represent the people, and 2. That the government is designed to protect liberty.
+
+We have to keep in mind that wizarding society is not very socially advanced, and that they don't really need a whole lot of support on an individual level to survive, which then leads to slow advancement in social change. Wizarding Britain diverged from muggle britain in 1692 with the statute of secrecy, and despite many trappings of modernization it seems like their government is still very much a contemporary of that time.
+
+Back then things like liberty and representation weren't the primary objectives of government, the primary objectives were security and stability. We see the government of Magical Britain upholding security with the statute, and given how much Fudge freaks out over even the possibility of "You Know Who" being back, saying it will incite panic, it seems that stability is another key element.
+
+The things that we would look for in a modern society just aren't things that most of Wizarding Britain values.
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 3
+:DateUnix: 1614769493.0
+:DateShort: 2021-Mar-03
+:END:
+
+************ Yes, I see all that. I even made that point in my first reply- much like the older forms of Government in the Muggle world, it seems wizarding society sees democracy as something of an irrelevance.
+
+My point is that the implications are terrifying. And Rowling touches on it, on numerous occasions, and then just lets it go. The later books could have been much more of a dystopia if she'd followed that thread a bit.
+
+#+begin_quote
+  We have to keep in mind that wizarding society is not very socially advanced, and that they don't really need a whole lot of support on an individual level to survive, which then leads to slow advancement in social change.
+#+end_quote
+
+Agree, but again I don't think the canon works show it properly. They have an old fashioned economic system, they have an autocratic government, they don't seem to understand basic things like separation of powers; yet they have state education and healthcare, which absolutely doesn't fit in with the contemporary of the 1690s argument, as state education came 200 years later in Muggle Britain, and state healthcare 250. So they have some really quite modern and advanced ideas, yet they have some absolutely broken ones in other ways.
+
+I guess I just feel like a society that had advanced socially to the point where it understands children must be educated and people should get free healthcare should also understand that communities should vote for their leaders.
+
+A book based around "get rid of the evil man who wants to enslave us all and be a bad dictator" shouldn't then default to the status quo of benign dictatorship, I mean is the logical conclusion of what we are both saying ultimately that Rowling's world has the message that it's fine if people are denied their rights as long as the person doing the denying isn't a racist mass murderer and throws them a bone occasionally?! The inherent corruption and obsession with security over liberty is exactly the conditions that allowed Voldemort to rise, twice. By dealing with the symptom not the cause, I feel like the books didn't deal with the deeper message she hints at occasionally.
+:PROPERTIES:
+:Author: Ermithecow
+:Score: 1
+:DateUnix: 1614770362.0
+:DateShort: 2021-Mar-03
+:END:
+
+************* With that, I agree wholeheartedly.
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 2
+:DateUnix: 1614770742.0
+:DateShort: 2021-Mar-03
+:END:
+
+
+** Have you read this fic? It's an analysis of the legal system compared to real world systems, and you might find it interesting.
+
+LinkAO3(27016036)
+:PROPERTIES:
+:Author: Niko_of_the_Stars
+:Score: 3
+:DateUnix: 1614754780.0
+:DateShort: 2021-Mar-03
+:END:
+
+*** [[https://archiveofourown.org/works/27016036][*/Ministry v. Harry Potter: An Analysis of Wizarding Britain's Legal System IntroductionCaveatsThe Three (3) Canonical Trial Scenes: What can they tell us?The Trial of Peers in Great BritainBringing It All Together: AnalysisBut what does it all mean?! Worldbuilding and the “Canonical” Wizarding Legal SystemConclusionReferences/*]] by [[https://www.archiveofourown.org/users/kitsunerei88/pseuds/kitsunerei88][/kitsunerei88/]]
+
+#+begin_quote
+  Harry Potter has three canonical trials and many other references to legal processes and systems which are never really explained in their totality. The few glimpses we do see are puzzling: why is Harry being tried before the full WIzengamot? Why does Fudge have such a huge role? What about Umbridge, and how does it all work? It's easy to say that JKR just didn't think of a cohesive legal system (and that may very well be correct), but what happens if we do an analysis of the legal processes shown in Harry Potter?Or: A lawyer takes on Harry Potter, and discovers that all witches and wizards are noble. Actually.
+#+end_quote
+
+^{/Site/:} ^{Archive} ^{of} ^{Our} ^{Own} ^{*|*} ^{/Fandoms/:} ^{Harry} ^{Potter} ^{-} ^{J.} ^{K.} ^{Rowling,} ^{Original} ^{Work} ^{*|*} ^{/Published/:} ^{2020-10-14} ^{*|*} ^{/Words/:} ^{5698} ^{*|*} ^{/Chapters/:} ^{1/1} ^{*|*} ^{/Comments/:} ^{21} ^{*|*} ^{/Kudos/:} ^{76} ^{*|*} ^{/Bookmarks/:} ^{30} ^{*|*} ^{/Hits/:} ^{626} ^{*|*} ^{/ID/:} ^{27016036} ^{*|*} ^{/Download/:} ^{[[https://archiveofourown.org/downloads/27016036/Ministry%20v%20Harry%20Potter.epub?updated_at=1603322974][EPUB]]} ^{or} ^{[[https://archiveofourown.org/downloads/27016036/Ministry%20v%20Harry%20Potter.mobi?updated_at=1603322974][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/FanfictionBot/reddit-ffn-bot/wiki/Usage][Usage]] | [[https://www.reddit.com/message/compose?to=tusing][Contact]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1614754948.0
+:DateShort: 2021-Mar-03
+:END:
+
+**** Huh, despite refreshing it the the title is still screwed up. I wonder why.
+:PROPERTIES:
+:Author: Niko_of_the_Stars
+:Score: 2
+:DateUnix: 1614755042.0
+:DateShort: 2021-Mar-03
+:END:
+
+***** Looks interesting, I'll give it a read.
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 1
+:DateUnix: 1614763947.0
+:DateShort: 2021-Mar-03
+:END:
+
+
+*** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1614754801.0
+:DateShort: 2021-Mar-03
+:END:
+
+**** ffnbot!refresh
+:PROPERTIES:
+:Author: Niko_of_the_Stars
+:Score: 1
+:DateUnix: 1614754921.0
+:DateShort: 2021-Mar-03
+:END:
+
+
+** I love how we can have such intense disscusions about a fantasy legal system lol
+:PROPERTIES:
+:Author: Als_pancake_world
+:Score: 3
+:DateUnix: 1614789674.0
+:DateShort: 2021-Mar-03
+:END:
+
+*** The best worlds are the ones that have every element fleshed out even if we never see them. Simply by having those elements written down we can make the visible elements more believable by taling into account how the unseen factors affect the visible elements.
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 3
+:DateUnix: 1614794305.0
+:DateShort: 2021-Mar-03
+:END:
+
+
+** Well if you go by canon, the Wizengamot doesn't have any legislative power. They are just a court of judges. The Minister for Magic and their employees pretty much rule through decrees and there is no hereditary position in the Wizengamot considering that Amelia Bones and Tiberius Ogden make it there without being traditionally purebloods and the Malfoys are not despite being one of the oldest pureblood family in Britain.
+:PROPERTIES:
+:Author: I_love_DPs
+:Score: 3
+:DateUnix: 1614767937.0
+:DateShort: 2021-Mar-03
+:END:
+
+*** I would argue that what you described is not canon on the grounds of none of those things ever being explicitly stated. We are shown the Wizengamot acting as a court, but we are never told that that is all it is. The Canon government is barely shown and full of holes, there isn't enough there to really make any decisive statements as to what the canon government is or isn't. That's why I made this, it's an extrapolation of canon information that attempts to make sense of as many disparate elements as possible.
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 2
+:DateUnix: 1614768234.0
+:DateShort: 2021-Mar-03
+:END:
+
+**** Harry goes to a hearing in front of the Wizengamot.
+:PROPERTIES:
+:Author: I_love_DPs
+:Score: 3
+:DateUnix: 1614768382.0
+:DateShort: 2021-Mar-03
+:END:
+
+***** Here is a full breakdown of the legal system as it is shown in canon, including all court scenes in the entire series, which supports my claims that the Wizengamot is both a legislative and judicial body.
+
+LinkAO3(27016036)
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 2
+:DateUnix: 1614768499.0
+:DateShort: 2021-Mar-03
+:END:
+
+****** [[https://archiveofourown.org/works/27016036][*/Ministry v. Harry Potter: An Analysis of Wizarding Britain's Legal System IntroductionCaveatsThe Three (3) Canonical Trial Scenes: What can they tell us?The Trial of Peers in Great BritainBringing It All Together: AnalysisBut what does it all mean?! Worldbuilding and the “Canonical” Wizarding Legal SystemConclusionReferences/*]] by [[https://www.archiveofourown.org/users/kitsunerei88/pseuds/kitsunerei88][/kitsunerei88/]]
+
+#+begin_quote
+  Harry Potter has three canonical trials and many other references to legal processes and systems which are never really explained in their totality. The few glimpses we do see are puzzling: why is Harry being tried before the full WIzengamot? Why does Fudge have such a huge role? What about Umbridge, and how does it all work? It's easy to say that JKR just didn't think of a cohesive legal system (and that may very well be correct), but what happens if we do an analysis of the legal processes shown in Harry Potter?Or: A lawyer takes on Harry Potter, and discovers that all witches and wizards are noble. Actually.
+#+end_quote
+
+^{/Site/:} ^{Archive} ^{of} ^{Our} ^{Own} ^{*|*} ^{/Fandoms/:} ^{Harry} ^{Potter} ^{-} ^{J.} ^{K.} ^{Rowling,} ^{Original} ^{Work} ^{*|*} ^{/Published/:} ^{2020-10-14} ^{*|*} ^{/Words/:} ^{5698} ^{*|*} ^{/Chapters/:} ^{1/1} ^{*|*} ^{/Comments/:} ^{21} ^{*|*} ^{/Kudos/:} ^{77} ^{*|*} ^{/Bookmarks/:} ^{31} ^{*|*} ^{/Hits/:} ^{636} ^{*|*} ^{/ID/:} ^{27016036} ^{*|*} ^{/Download/:} ^{[[https://archiveofourown.org/downloads/27016036/Ministry%20v%20Harry%20Potter.epub?updated_at=1603322974][EPUB]]} ^{or} ^{[[https://archiveofourown.org/downloads/27016036/Ministry%20v%20Harry%20Potter.mobi?updated_at=1603322974][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/FanfictionBot/reddit-ffn-bot/wiki/Usage][Usage]] | [[https://www.reddit.com/message/compose?to=tusing][Contact]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1614768516.0
+:DateShort: 2021-Mar-03
+:END:
+
+
+****** The Wizengamot is never shown passing laws in the books. Only later did JK claim that it served both as a legislative and judicial body. And don't be so petty as to downvote if you don't agree or I'll sink myself to your practices as well.
+:PROPERTIES:
+:Author: I_love_DPs
+:Score: 1
+:DateUnix: 1614768648.0
+:DateShort: 2021-Mar-03
+:END:
+
+******* I disagree with you because I have a full breakdown of the legal system /as it is shown in the books/ on my side. I downvoted you because it seemed like you didn't read anything I wrote in my response and just kept on going with your opinion without looking at my response. And as for the Wizengamot not being shown passing laws, why would they? In what context would Harry, the pov character, be in a legislative session in any capacity? There are all kinds of things that aren't explicitly shown in the books but are implied to exist, it's a part of fiction that not everything is shown.
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 0
+:DateUnix: 1614768943.0
+:DateShort: 2021-Mar-03
+:END:
+
+******** Whatever. That's why it's fanfiction. You can do whatever you want with your world and I'm not going to argue over a fictional world. But don't claim you only relied on the books for stuff that is never mentioned in the books.
+:PROPERTIES:
+:Author: I_love_DPs
+:Score: 1
+:DateUnix: 1614769101.0
+:DateShort: 2021-Mar-03
+:END:
+
+********* It's called extrapolation, a basic logical process that involves taking a set of known pieces of information (in this case stuff taken directly from the books) and inferring their implications on each other to arrive at a larger whole.
+
+So yes, I did rely wholly on the books to make this governmental framework, and if you had read everything I wrote and the source I showed you regarding the legal system, you would understand why I arrived at the conclusions I did.
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: -1
+:DateUnix: 1614769701.0
+:DateShort: 2021-Mar-03
+:END:
+
+********** Extrapolation is not the same thing as imagination. We're not given any particular information about how government works in the books because they are primarily stories for children and children don't give a shit about politics. And the moment you started being so petty as to downvote cause you disagreed I lost any interest in your opinions. I mostly read the main ideas.
+:PROPERTIES:
+:Author: I_love_DPs
+:Score: 2
+:DateUnix: 1614770038.0
+:DateShort: 2021-Mar-03
+:END:
+
+
+** Except it's clearly stated in the books that the Wizengamot is just a judicial system, it's not legislative at all, that's pure fanon.
+:PROPERTIES:
+:Author: Zarion222
+:Score: -3
+:DateUnix: 1614747946.0
+:DateShort: 2021-Mar-03
+:END:
+
+*** Well, I said it was primarily based on the books, not wholly. I admit that I must have forgotten about that, if you could provide a reference for me to find the relevant quote that would be most helpful. That said, I genuinely do think that this system works best with what we know of the Magical Britain that JK wanted to create.
+
+Edit: After further and extensive deliberation on the subject, I can wholeheartedly say that it is likely that the Wizengamot acts a legislative body in canon.
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 3
+:DateUnix: 1614748111.0
+:DateShort: 2021-Mar-03
+:END:
+
+**** Not who you were responding to, but we know Arthur Weasley writes laws, including loopholes, about magical misuse of muggle artefacts. This is mentioned in CoS by Molly before the degnoming of the garden in the Burrow. It's strongly indicated that Crouch sr, as the Head of the Auror department at the time, wrote a law that put all or some suspected Death Eaters in Azkaban without a trial after the first war ended. This can be derived from Sirius's talk in the cave in GoF. Likely all departments at the ministry write laws concerning things they are responsible for.
+:PROPERTIES:
+:Author: nirvanarchy
+:Score: 6
+:DateUnix: 1614762015.0
+:DateShort: 2021-Mar-03
+:END:
+
+***** Hmm, that's certainly true. Although, it might not only mean what you said. Using the framework I created, it is the responsibility of the Minister, and by extension the departments they create, to achieve what the Wizengamot wants. If there is a need that arises unexpectedly it would make sense for the departments to deal with it internally so long as it does not step outside the limits of their stated Wizengamot directive. In this way it would be possible for the various departments and offices to write '"laws" relating to their specific subject matter. So long as these policies did not conflict with the larger departmental directive, then the policies would be upheld.
+
+It's a bit like a judicial review, the laws of the Wizengamot have primacy over the policies instituted by the offices and departments of the ministry, and when the two come into conflict the laws of the Wizengamot win.
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 2
+:DateUnix: 1614764317.0
+:DateShort: 2021-Mar-03
+:END:

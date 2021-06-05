@@ -1,0 +1,775 @@
+#+TITLE: Adjusted headcanon: revisiting the currency exchange rate.
+
+* Adjusted headcanon: revisiting the currency exchange rate.
+:PROPERTIES:
+:Author: JennaSayquah
+:Score: 67
+:DateUnix: 1614469962.0
+:DateShort: 2021-Feb-28
+:FlairText: Discussion
+:END:
+*Scroll to the table at the bottom for the tl;dr.*
+
+I've said before and I'll say again: JKR's decision---after 4 books and just before the first movie came out---to change the exchange rate from 50 pounds per galleon to 5 pounds per galleon was ludicrous. (Largely because the Weasley family's vault containing a single galleon plus some-odd sickles and knuts---at the beginning of their school shopping in CoS---made them absolutely destitute.)
+
+But where did that "50 pounds" value come from? She never stated an exchange rate until that interview; it was calculated (and debated) by fans. Turns out it comes from a bit of bad economics and a touch of US-centric thinking.
+
+First, it's important to note that there is *only one thing* in the books that had both a specific price and a real-world equivalent: that morning in "Hut-on-the-Rock, The Sea," Hagrid has Harry pay five knuts for the daily paper.
+
+So, this is where the US centric thinking comes in: a US daily paper was 50¢ back then, and the assumption was that a British daily paper would likewise be 50p. The bad economics then makes a knut both approximately 10¢ and 10p, completely ignoring the exchange rate. Multiply by the 493 knuts in a galleon, and you get £49.30---roughly £50.
+
+Or, you know, roughly $50, which is not at all the same thing. And that problem---a calculation that gave both $50 and £50 per galleon, is what inspired my research today. /(Shoutout to Silently Watching, who skipped the bad economics part and calculated their own headcanon of roughly $50/£30 per galleon without ignoring the exchange rate, that started me down this rabbit hole.)/
+
+I had a bit of free time today, so I spent a couple hours (don't judge me) trying to find out what, exactly, a daily London newspaper cost in 1991. It's not as easy as you might think. I ended up doing image searches, using a LOT of different permutations because they all seem to want to give recent results.
+
+There's also a wide variety in British newspapers, so I ended up deciding that the Daily Prophet is more like the Sun or the Star than the Times. (Luckily for me, these were also the ones that were easiest to read the price from an enlarged version of a not-so-great picture.)
+
+Turns out both of these papers cost 25p back then, not 50p, so the previous calculation was essentially based on a series of bad assumptions piled atop one another. Insert your own sarcastic "of course" comment.
+
+*>> TL;DR <<*
+
+So, here's the new calculations based on *5p per sickle* and the [[https://www.poundsterlinglive.com/bank-of-england-spot/historical-spot-exchange-rates/gbp/GBP-to-USD-1991][official exchange rate]] of *1.684 pounds to the dollar* on 31 July 1991:
+
+​
+
+|           |            | 1 knut    | £0.05  | $0.08  |
+|-----------+------------+-----------+--------+--------|
+|           | 1 sickle   | 29 knuts  | £1.45  | $2.44  |
+| 1 galleon | 17 sickles | 493 knuts | £24.65 | $41.51 |
+
+So, here's my new headcanon: *during the (early) books, a galleon was roughly £25/$40*.
+
+/(There's no realistic inflation rate that would make that £5 per galleon in a span of 4 years or less. Maybe at the end of the war because, you know, WAR, but I stand by my belief in the utter insanity of the £5 equivalence.)/
+
+​
+
+*Edited to add: Thanks for the award!*
+
+
+** I actually have no problem with any "solution" as long as it results in 1 Galleon being more than £5. But I will admit that I prefer the explanations that try to relate it to the real world.
+
+The problem remains however JKR's self admitted problem with math. The prices of various items makes no sense. A wand from Ollivander's a tool you will most likely keep your entire life is only 7 Galleon's £35 according to JKR, £350 to folks who went with the £50 to 1 exchange rate and now £175 with your £25 to 1 exchange rate.
+
+Either way that still sounds very cheap for such an important tool that will see a lifetime of use. But then you have the Weasley's selling fake/trick wands for 5 Galleon's. Why would anyone spend that much for a fake wand when a real one only costs slightly more? And if you use a higher exchange rate purchasing a fake wand makes less sense.
+
+As much as we love JKR's world and reading works from fanfic writers who play in it, it is quite clear that JKR didn't really plan out a wizarding economy and choose an amount out of thin air when she needed a character to purchase an item without realizing how it compared to other purchases.
+
+With that said, I like the £25 to 1 exchange rate, hopefully fanfic writers will then try to better figure out all the other prices in relationship to that such that the economy seems more consistent (or at least do a better job of explaining the discrepancies).
+:PROPERTIES:
+:Author: reddog44mag
+:Score: 44
+:DateUnix: 1614471611.0
+:DateShort: 2021-Feb-28
+:END:
+
+*** my headcannon for the wand issue is that the ministry subsidizes the first wand purchase, because most able bodied citizens need a wand to work in the Wizarding world. if your wand breaks it costs more.
+:PROPERTIES:
+:Author: Sabita_Densu
+:Score: 21
+:DateUnix: 1614486866.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+*** Just because wands are important doesn't mean they should be absurdly expensive.
+
+The fake wands certainly seem a bit pricey for a fairly simple practical joke, sure they might not be simple to make, but who'd pay that much just for the mild laugh that comes from someone holding a rubber chicken.
+:PROPERTIES:
+:Author: Electric999999
+:Score: 24
+:DateUnix: 1614472698.0
+:DateShort: 2021-Feb-28
+:END:
+
+**** Even using JKR'S numbers I can't see anyone spending £25 for a rubber chicken. £5-£7 sure but not £25.
+
+Absurdly expensive, I can't see making them the same price as a small car (which I have seen in a fic or two), but the same price as a computer, or a basic set of tradesman's tools that I can see.
+:PROPERTIES:
+:Author: reddog44mag
+:Score: 14
+:DateUnix: 1614473083.0
+:DateShort: 2021-Feb-28
+:END:
+
+***** Well, Amazon UK is selling a rubber chicken for just short of £12.
+:PROPERTIES:
+:Author: Clell65619
+:Score: 1
+:DateUnix: 1614492231.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+***** Some people like to make others think they're choking the chicken when they're not, so Fred and George could easily market it as "here's something to help you keep peace and quiet when you want"
+:PROPERTIES:
+:Author: adambomb90
+:Score: 0
+:DateUnix: 1614485199.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+*** I'd really like to see more writers give prices that are more along the lines of "3 galleons, 5 sickles, 23 knuts" than to see all the prices stated in galleons.
+:PROPERTIES:
+:Author: JennaSayquah
+:Score: 13
+:DateUnix: 1614472352.0
+:DateShort: 2021-Feb-28
+:END:
+
+**** Well the lunch special at the leaky cauldron (like fish and chips) should have been under 2 sickles under the £25 to 1 exchange rate as I believe it cost £2.45 in the 90's. Even under JKR's math it would have been 8 sickles and 13 knuts not the multiple galleons we see in the stories.
+:PROPERTIES:
+:Author: reddog44mag
+:Score: 16
+:DateUnix: 1614473640.0
+:DateShort: 2021-Feb-28
+:END:
+
+***** Weren't the omnioculars at the Quidditch World Cup Final like 10 galleons? At £250 no wonder Ron thought Harry was showing off by buying multiples. (It's worse before this adjustment!)
+:PROPERTIES:
+:Author: JennaSayquah
+:Score: 18
+:DateUnix: 1614473928.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+*** OK, here's an idea --- between years 3 and 4 the wizarding Britain suffers a total economic crisis that leads to the devaluation of the galleon. Say, 1:10. Since Harry never bothered himself with money, he doesn't know about it.
+
+Now we just need to figure out why it could have happened.
+:PROPERTIES:
+:Author: AreYouOKAni
+:Score: 10
+:DateUnix: 1614473630.0
+:DateShort: 2021-Feb-28
+:END:
+
+**** Sirius Black takes control of the black vaults and assets, using the teachings of the legendary Arcturus Black in all things economical Sirius gives one last prank to these rich purebloods and tanks the value of there hordes of gold
+:PROPERTIES:
+:Author: jasoneill23
+:Score: 12
+:DateUnix: 1614481675.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+**** Ironically, the common fanon inheritance test could be the answer - Harry inheriting a bunch of money and just throwing it around like a madman could definitely crash the value of the galleon.
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 8
+:DateUnix: 1614506139.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+*** Nah. I agree the price of wands makes no sense (see above, or below, wherever my comment appears for you), but that and the TriWiz winnings are the exception. By and large, there is a coherent pricing level in the books. Not that that is very hard to achieve -- all you have to keep in mind is Sickles for small items, Galleons for big items. Things like Knightbus fares or Butterbeer get low Sickle numbers. Joke items low Galleon numbers. The textbook is 9 Galleons. Magical items cost many hundred Galleons.
+
+In terms of what makes sense, FF is a lot worse. Harry forking over a couple Galleons for a Butterbeer is wutlol but really common.
+:PROPERTIES:
+:Author: Sescquatch
+:Score: 10
+:DateUnix: 1614484509.0
+:DateShort: 2021-Feb-28
+:END:
+
+**** IMO the wand price does make sense. When you think about it, after so many generations of wizards, the wizarding world must be awash with an excess of wands. It's not like they go bad over time, after all. And we see that it's quite common for wands to be passed down the family.
+
+Ollivander is the only wand maker we know of in Britain, but that does not mean he has no competition. In truth his competition is the pre-existing large supply of family wands each wizarding family likely has access to - the difficult sales pitch he must make is persuading wizards they need to buy a new wand at all, instead of just using one of the family ones.
+
+Yes, "the wand chooses the wizard". But we also know that this idea is an Ollivander innovation and is not universally accepted. Conveniently for Ollivander, the more wizards who accept this model of wand selection, the more wands he will sell...
+:PROPERTIES:
+:Author: Taure
+:Score: 12
+:DateUnix: 1614505155.0
+:DateShort: 2021-Feb-28
+:END:
+
+***** Yes but he still needs to turn a profit. How is he getting phoenix feathers for <5 Gal each?
+
+Dragon heartstring and unicorn hair are more plausible. We know there is dragon farming and a heart contains >20 heartstrings. Unicorns aren't farmed, but each unicorn has hundreds of hairs. Otoh, phoenixes are rare, immortal and impossible to farm --- each dropped feather must be very valuable and every tear is worth a fortune.
+:PROPERTIES:
+:Author: DooomCookie
+:Score: 2
+:DateUnix: 1614518718.0
+:DateShort: 2021-Feb-28
+:END:
+
+****** I don't think he /buys/ any of his ingredients. He speaks of Fawkes "giving" a feather. Similarly, in the Pottermore articles on wand wood he notes that not just any wood works for a wand - you have to carefully select what tree to take it from, based on qualities known only to the wand maker.
+
+I think he just wanders the wilds obtaining the ingredients for himself.
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1614519413.0
+:DateShort: 2021-Feb-28
+:END:
+
+******* Yep it's canon that he harvests the ingredients himself. But that doesn't make him immune to the laws of economics and arbitrage --- the production side of his business would still be running at a loss. (e.g. why can't an enterprising apothecary buy all the Ollivander phoenix wands and resell them for parts?)
+
+The conclusion I've come to is that:
+
+- Phoenix feathers simply aren't consumed much outside of wand-making. (Where they are used they can be reused.)
+
+- Even in wandcraft, phoenix wands are considered niche and often an unreliable match. (This is backed by Pottermore, which calls them 'rare', 'picky' and 'disliked' by many.) Ollivander might be the only wandmaker who even bothers with them.
+
+So Ollivander is basically the only guy interested in phoenix feather and he only has to procure a few each year (which he can do thanks to a few family contacts).
+:PROPERTIES:
+:Author: DooomCookie
+:Score: 4
+:DateUnix: 1614520572.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+***** Well, we know wizards can get (sometimes? often? always?) buried with their wands.
+
+But leaving aside that, yes. On the other hand, no. /Is/ his competition the second-hand market?
+
+It would contend that it is not. His niche is selling new wands that are attuned to the user. It's an entirely different item. You don't sell a supercar cheap because any hobo can buy a rusty MG for spare change. It would make no sense. Either the supercar sells at the pricepoint or it doesn't, but you can't make it cheaper, because it costs a ton to make. And wands are the same. Remember that Slughorn prices one unicorn hair at 10 Galleons. So selling a wand /with/ a unicorn hair for 7 Galleons ??? No profit.
+
+As a personal side note, I would go without dinner for weeks if it meant getting the best wand I could have. Maybe there is an exception for a wand of an ancestor, if it fits, but otherwise, I can't even image what people are thinking that are settling with slightly-below-average quality for the most important (and sloppy-second-state for the most intimate) tool that exists for wizards.
+:PROPERTIES:
+:Author: Sescquatch
+:Score: 4
+:DateUnix: 1614507083.0
+:DateShort: 2021-Feb-28
+:END:
+
+****** I think there's a few problems with this:
+
+1. The analogy to the rusty MG shows the key disanalogy: old wands are not rusty. As far as we know, they are in fact just as good as new wands in terms of quality - wands do not deteriorate over time. The only difference is that Ollivander has a large stock of wands (many of which have been sitting on the shelves for decades) so if you go to him you are likely to find a better match. But a similar benefit could be achieved if you had a large stock of second hand wands and went through them to find your best match.
+
+2. Furthermore, it is not clear that this benefit of a well-matched wand will even be recognised by most wizards. As stated, the idea that the wand chooses the wizard is an Ollivander innovation, apparently not followed in other countries, and the Pottermore articles about wandlore (written from Ollivander's perspective) demonstrate that many wizards prefer to identify for themselves what specification of wand they think suits them best, then they go out and seek to buy a wand of the specification they have identified.
+
+3. Returning to the car analogy - the existence of a second-hand market /does/ in fact exert downward pressure on first-hand prices, even in the luxury car market. If there was no alternative to buying first-hand, you could expect first-hand luxury cars to be more expensive.
+
+#+begin_quote
+  . Remember that Slughorn prices one unicorn hair at 10 Galleons. So selling a wand with a unicorn hair for 7 Galleons ??? No profit.
+#+end_quote
+
+It seems likely that Ollivander obtains his ingredients directly, through foraging expeditions, rather than by purchasing them on the market. So yes, Ollivander makes a loss if he "marks to market" his unicorn hair stock. But the "MTM" figure does not reflect his actual cash position, which is that he has obtained the unicorn hair for free and sold it for a price.
+:PROPERTIES:
+:Author: Taure
+:Score: 8
+:DateUnix: 1614507627.0
+:DateShort: 2021-Feb-28
+:END:
+
+******* We'll have to disagree on that one. A Pagani or a Noble cost what they cost. The used car market doesn't affect this. Rather, the other way round, if you want to buy a used version of them, if you get one, /that/ price is influenced by the price for a new one. They can set the price at whatever they want, because people don't buy those because they /need/ one, but because they /want/ one. The price is fictive. The car would sell at one million or at five. They calculate their investments, add a margin that suits them, and that's the price.
+
+And additionally, if Ollivander can get 10 Galleons for the hair, but 7 Galleons for the wand with a fuckton of overhead in terms of working hours invested, he's actually off his rocker if he sells the wand and not the hair. Which he might be, to be fair, but in terms of FF, I'm always going to tweak the wand price to 100 Galleons and up.
+
+Ollivander wands are exclusive and prestigious magical artefacts, and I'm sticking with that :P
+:PROPERTIES:
+:Author: Sescquatch
+:Score: 2
+:DateUnix: 1614509157.0
+:DateShort: 2021-Feb-28
+:END:
+
+******** The simplest 'backsplanation' (because lbr we all know JKR is just terrible at maths) is that the unicorn hair price moved. Hogwarts has the UK's largest unicorn herd but they stopped allowing harvesting after the events of Philosopher's Stone, which caused the price to increase. Ollivanders had to raise his prices to compensate.
+
+Alternatively, Slughorn is getting ripped off by his supplier. Ollivander is buying direct from Hagrid.
+:PROPERTIES:
+:Author: DooomCookie
+:Score: 3
+:DateUnix: 1614519118.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+*** It seems to me like the the series started with Victorian era purchasing power, pounds to be very expensive things, but most every day items are bought with some combination of shillings and pence, but the series ended with modern purchasing power, anything under £10 is cheap/affordable and pence are essentially worthless.
+:PROPERTIES:
+:Author: minerat27
+:Score: 4
+:DateUnix: 1614510935.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+** Yes, I agree with you that £5 per galleon is nonsense, and that JKR is more or less a dyscalcul. Thank you for the history of the effort. The only problem I have is that it is based on so extremely cheap product as newspapers. I can imagine quite easily that in the small market of the Wizarding Britain newspapers could be relatively more expensive and then you can get easily to that 5Op price (moreover, how much owl delivery costs; isn't it significantly more expensive than Royal Mail? that could be another justification for the higher cost of the British Wizarding newspapers v the British Muggle ones). So, I would gladly accept either £25 or £50 per galleon.
+:PROPERTIES:
+:Author: ceplma
+:Score: 12
+:DateUnix: 1614470945.0
+:DateShort: 2021-Feb-28
+:END:
+
+*** u/JennaSayquah:
+#+begin_quote
+  The only problem I have is that it is based on so extremely cheap product as newspapers.
+#+end_quote
+
+This is literally the only option we have in canon.
+:PROPERTIES:
+:Author: JennaSayquah
+:Score: 3
+:DateUnix: 1614472419.0
+:DateShort: 2021-Feb-28
+:END:
+
+**** Is it?
+
+#+begin_quote
+  “Three butterbeers, please,” said Hermione.
+
+  The man reached beneath the counter and pulled up three very dusty, very dirty bottles, which he slammed on the bar.
+
+  “Six Sickles,” he said.
+#+end_quote
+
+(that's obviously the first DA meeting in The Hog's Head in OotP)
+
+How much was a pint of beer or a pint of soft drink in a pub?
+:PROPERTIES:
+:Author: ceplma
+:Score: 3
+:DateUnix: 1614495791.0
+:DateShort: 2021-Feb-28
+:END:
+
+***** A pint of lager or bitter [[https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/czms/mm23][would be just above £1. Maybe £1.50.]] [[https://www.nytimes.com/1991/01/14/business/the-media-business-newspapers-raising-prices-as-advertising-falls.html][And papers costing 25 ct in the 1990s wasn't uncommon.]] [[https://www.irishtimes.com/business/sun-and-mirror-cost-less-as-british-tabloid-price-war-begins-1.1056991][The Sun was 20 p in Britain in 1993.]]
+
+Either gives you ballpark of a pound (or dollar) a sickle, which is an easy-to-use conversion if you want to have a quick idea of values.
+:PROPERTIES:
+:Author: Sescquatch
+:Score: 3
+:DateUnix: 1614503741.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+**** There is also the Twins being able to start a business (rent, supplies, staff) for 1000 Galleons.
+
+In London. One of the more expensive cities in the world. If the magical world had a lick of sense, they would buy some failed farm somewhere, move Diagon (and the other alleys) to the farm, redirect all the Floo addresses, and sell off all that square footage in London.
+:PROPERTIES:
+:Author: Clell65619
+:Score: 3
+:DateUnix: 1614492517.0
+:DateShort: 2021-Feb-28
+:END:
+
+***** Exactly! Why would a society with widespread point-to-point travel need to keep their amenities in a so-called "central location"? Everybody's getting there by floo/apparation/Knight Bus anyway.
+:PROPERTIES:
+:Author: JennaSayquah
+:Score: 3
+:DateUnix: 1614528258.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+** The money in HP is nonsensical. I like to think it's deliberately so, but it could just be JKR not taking the time to make it work. My mind canon is that wizards have trouble with muggle money specifically because it does make sense, and they can't wrap their minds around the idea of money (or probably any numbers) making sense.
+:PROPERTIES:
+:Author: ChasingAnna
+:Score: 12
+:DateUnix: 1614478513.0
+:DateShort: 2021-Feb-28
+:END:
+
+*** It's definitely JKR not taking the time to make it work, she has the math and logistics skills of an intoxicated pigeon that was recently run over by a bus. Her bad math skills are too pervasive in the work for it to be otherwise --- the number of students and teachers in Hogwarts (and for that matter the relative size of the wizarding world) is another example of where she presents a ton of inconsistent and nonsensical information that makes no sense if you think about it for more than like 10 seconds.
+:PROPERTIES:
+:Author: Invincible-Doormat
+:Score: 10
+:DateUnix: 1614484958.0
+:DateShort: 2021-Feb-28
+:END:
+
+**** u/adambomb90:
+#+begin_quote
+  she has the math and logistics skills of an intoxicated pigeon that was recently run over by a bus.
+#+end_quote
+
+I'm kinda surprised that there's no mathematics class in Hogwarts. This type of description would be perfect for why people took the class/avoided the class
+:PROPERTIES:
+:Author: adambomb90
+:Score: 4
+:DateUnix: 1614485445.0
+:DateShort: 2021-Feb-28
+:END:
+
+***** Whatever actually happens in Arithmancy class, it's clearly some sort of maths. Just based on the name, it might be non-maths use of numbers, but then it's taught by Professor /Vector/. Clearly maths.
+:PROPERTIES:
+:Author: thrawnca
+:Score: 3
+:DateUnix: 1614511441.0
+:DateShort: 2021-Feb-28
+:END:
+
+****** In my defense, I was sleep deprived when I wrote the reply
+:PROPERTIES:
+:Author: adambomb90
+:Score: 2
+:DateUnix: 1614522590.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+*** Keep in mind that until the 1970s, money in Britain was one pound = 20 shillings = 240 pence. It's one of these many things that are less nonsensical and more very British.
+
+The (or one, anyway) historical reason, by the way, is buying things by the dozen: So if one egg is a pence, you know at once a dozen eggs are a shilling. You could easily imagine the same for HP: A chocolate frog costs a Sickle, and one box of chocolate frogs contains 17 pieces and costs a Galleon. 17 could be a magically relevant number, and wizards often be buying things in 17s. This would make 17 Sickles a Galleon quite practical.
+:PROPERTIES:
+:Author: Sescquatch
+:Score: 9
+:DateUnix: 1614485668.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+** u/Taure:
+#+begin_quote
+  Turns out it comes from a bit of bad economics and a touch of US-centric thinking.
+#+end_quote
+
+So you decide to double down on bad economics?
+
+The price of a good is determined by supply and demand; there's no reason at all to think that a good in the wizarding world would have an equivalent price to its "equivalent" good in the Muggle world, because the supply and demand are likely substantially different.
+
+Supply and demand apply to currency as well, and that is the best lens through which you can consider the exchange rate.
+
+Wizarding demand for Muggle currency is likely very low relative to supply. This is because (i) there is a huge supply of Muggle currency, given the size of the Muggle economy relative to the wizard economy and the fact that gold is valued in the Muggle world as a commodity, but (ii) there are very few times when a wizard would want to purchase Muggle goods and therefore need Muggle currency.
+
+Meanwhile, in the other direction, there is also very little Muggle demand for wizarding currency, with Muggleborns (of which there were 2 in Harry's year) being the only real source of Muggle demand for wizarding currency. However, while the demand is low, the supply is also low - if left to market forces, a Muggleborn is going to struggle to find someone who wants to buy Muggle currency off them in exchange for wizarding currency, because Muggle currency has no value beyond its ability to purchase Muggle goods, which are likely considered far inferior to wizarding goods.
+
+What this all means is:
+
+1. The market should be very volatile due to low trading volumes. There's not a steady presence of supply and demand and the price available would swing wildly. In particular, each summer the price of wizarding currency should shoot up, because the Muggleborns have a regular need to purchase the next year's Hogwarts materials and would be competing with each other to secure the limited supply of wizarding currency available to buy for Muggle currency.
+
+2. When trades do take place, Muggle currency likely has very little value, resulting in a very high exchange rate.
+
+So much for what result the market would deliver. And yet we don't really see this - the goblins exchange Muggle currency to wizarding gold for Hermione without too much of a problem. How can this be?
+
+To me, the answer is obvious: state intervention. Exchange rate controls have been common throughout history and even today many countries do not maintain a free market for their currency. I think it's likely that the Ministry forces Gringotts to exchange wizarding gold to Muggle currency at a certain loss-making rate, in order to facilitate the entry of Muggleborns into the wizarding world. To minimise the loss the goblins make on these trades, this would likely be subject to limits in volume - no one is going to be able to exchange a million pounds all at once.
+
+So there wouldn't really be a wizarding currency market at all, just a limited-volume state-supported exchange service. The price the Ministry sets can therefore be largely arbitrary, and £5 works as well as any other arbitrary price (though in Victoria Potter I set it at closer to £20 per galleon).
+:PROPERTIES:
+:Author: Taure
+:Score: 19
+:DateUnix: 1614499303.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+** Here's what I think: it should be the sickle, not the galleon, that is used as the base of currency exchange, and the purchasing of everyday items.
+:PROPERTIES:
+:Author: Raesong
+:Score: 16
+:DateUnix: 1614480005.0
+:DateShort: 2021-Feb-28
+:END:
+
+*** I agree. Who carries a bunch of 50s around in their wallets, whether pounds or dollars?
+:PROPERTIES:
+:Author: JennaSayquah
+:Score: 6
+:DateUnix: 1614480488.0
+:DateShort: 2021-Feb-28
+:END:
+
+**** And also think about how insane it would be if the largest denomination of your currency was like $7? Even $50 is pretty low.
+:PROPERTIES:
+:Author: Invincible-Doormat
+:Score: 3
+:DateUnix: 1614485183.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+**** People looking to get robbed. But in all seriousness it almost never happened. The kinds of people who had the capital to deal with such large sums of money would use promisary notes, and later on cheques, to make their purchases, and these days almost every financial transaction is done either via card or mobile app.
+:PROPERTIES:
+:Author: Raesong
+:Score: 7
+:DateUnix: 1614482121.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+** I like the idea that no Magical really knows how their economy works either. The Goblins run it, after all, so they're the ones who set everything. So, years back, they set values for Sickles, Knuts, and Galleons and then just never told anyone. People keep trying to find out, but the amount of paperwork and processing it takes to get those answers discourages all but the most dedicated - and they just disappear into Gringotts, never to be seen again.
+
+Turns out the big secret is that there is no exchange rate, or set value for any of it. Goblins are warriors and craftsmen by both culture and disposition, not bankers, what the shit do they know about financial management? Whenever a wizard wants to exchange one currency for another, or trade galleons for sickles or whatever, the Goblin they interact with just... picks a number at random and gives them that much in return. If the Magical complains, then the Goblin just tells them to put in a complaint and it gets buried in the paperwork mines beneath Gringotts.
+
+Basically, imagine if we enslaved every wrestler and mixed-martial-artist on the planet and gave them control of the economy just because they like to get paid and collect shiny things. They'd hate us too, and probably have just as much idea of how to manage a large-scale economy. :D
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 9
+:DateUnix: 1614506248.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+** The Washington Post was 25 cents as late as 2001. 50 cents seems a bit high for a daily newspaper in 1991.
+
+Other than that, I'll agree with your assessment.
+:PROPERTIES:
+:Author: Jaded_Cryptographer
+:Score: 6
+:DateUnix: 1614470347.0
+:DateShort: 2021-Feb-28
+:END:
+
+*** I remember the daily paper being 35¢ from the box in the late 70s/early 80s. The next decade was a time of pretty high inflation so 50¢ sounded quite reasonable to me. I have no personal recollection because we had an actual subscription then, so I wasn't buying individual papers.
+:PROPERTIES:
+:Author: JennaSayquah
+:Score: 6
+:DateUnix: 1614472711.0
+:DateShort: 2021-Feb-28
+:END:
+
+**** Maybe the largest national papers were able to subsidise the price more through advertising.
+:PROPERTIES:
+:Author: Jaded_Cryptographer
+:Score: 5
+:DateUnix: 1614473222.0
+:DateShort: 2021-Feb-28
+:END:
+
+***** That makes sense.
+:PROPERTIES:
+:Author: JennaSayquah
+:Score: 3
+:DateUnix: 1614474012.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+** I think it works better if you just have the economies not be linked. Like Gringotts will exchange some muggle money for galleons for the benefit of muggleborns under a treatise with the Ministry (with a price potentially set in stone centuries ago, yes the golbins would be angry at this, but they seem to be angry at wizards in general), but not more than needed.
+
+Like if you try to exchange large amounts of currency you will just get told to fuck off.
+:PROPERTIES:
+:Author: Byakko-WesternTiger
+:Score: 11
+:DateUnix: 1614478324.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+** u/Sescquatch:
+#+begin_quote
+  First, it's important to note that there is only one thing in the books that had both a specific price and a real-world equivalent: that morning in "Hut-on-the-Rock, The Sea," Hagrid has Harry pay five knuts for the daily paper.
+#+end_quote
+
+Eh. There are more. The fare of the Knightbus (11 Sickles), a Butterbeer (2 Sickles), an expensive textbook (9 Galleons). [[https://www.hp-lexicon.org/2016/07/06/what-is-the-value-of-the-galleon/][This]] has a full list of prices.
+
+And yes, my rule of thumb always has been a pound (or dollar) a Sickle, so roughly three times the rate Rowling set. But two things are clear in any case:
+
+- 1) The Weasleys /are/ flat-broke. No amount of moving the rate up or down can change this, because this is true relative to the prices /in the books/. As you note, they go shopping for a full set of school supplies with a Galleon and change. That doesn't get them one new textbook, and is what Dobby earns per week in Hogwarts. (As a side note, now consider how awfully, awfully the fine for the car must've hurt them -- /50 Galleons/. Wouldn't be surprised if they had to take out a loan for that.) I'd vaguely estimate Arthur earns some 1.5k Galleon/year pre-HBP -- which, funnily enough, means Malfoy is entirely correct when he says they have more children than they can afford. With just one or two children, they wouldn't be rich, but living a modest life, if they could manage their money well.
+
+- 2), some prices don't fit in or at least aren't where you would expect them to be. I don't think it makes sense that a wand costs less than a textbook. It (the wand) should be more like towards a hundred Galleons or so at least. An expensive item a lot of families need to save up for, so their children can get it. And the TriWiz tournament winnings of 1k Galleons is too little, if it's supposed to be as attractive as described in the books. It needs another zero or two for that. But /that aside/, the prices we see in the books are quite coherent. They fit, relatively to one another.
+
+But indeed, I agree with the other comment: If there's one thing to take away from all this, it's that FF authors should start to think in Sickles. Sickles are coins. Galleons are bills. It always irritates me when figures in Galleons are thrown around in stories. No, unless your restaurant is ridiculously upper class, the menu will have prices in Sickles, not Galleons. No one lists prices for every day items in fractions of 20 or 50 pound/dollar bills IRL either.
+:PROPERTIES:
+:Author: Sescquatch
+:Score: 10
+:DateUnix: 1614483496.0
+:DateShort: 2021-Feb-28
+:END:
+
+*** u/thrawnca:
+#+begin_quote
+  If there's one thing to take away from all this, it's that FF authors should start to think in Sickles. Sickles are coins. Galleons are bills. It always irritates me when figures in Galleons are thrown around in stories.
+#+end_quote
+
+Harry's summer job in the later books of The Pureblood Pretense works in sickles :). And someone remarks that people in the Lower Alleys might never have two galleons to rub together but are still happy.
+:PROPERTIES:
+:Author: thrawnca
+:Score: 3
+:DateUnix: 1614511325.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+** You could maybe evaluate if real-world prices even apply from the cafe scenes and such. Movie canon only I suppose
+:PROPERTIES:
+:Author: Auditor_of_Reality
+:Score: 1
+:DateUnix: 1614487086.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+** Hell yeah. I did something similar, and arrived at 30 pound/Galleon. I took the known prices of items Knight bus ride (Hot chocolate, water and toothbrush, butterbeer,1 yr bookset, newspaper, WWW candy, Dobby's salary, Apparation licence) and looked up the price for modern nonmagical equivalents (I was too lazy to search for prices in 1995). I then averaged out the ratio of Galleons/pound and arived to 30pound ~ $41 per Galleon.
+
+I *should* have taken inflation into account, but I reasoned that while the same amount in $ in 1995 would be worth more now, manufacturing costs are lower now, and hoped that they would even out.
+
+We should keep in mind that some items in the Wizarding world would be manufactured cheaper, and some would be a lot more expensive (I think that mass production would be cheaper for us, and individualized items would be cheaper for the Wizarding world), and I hope that by averaging the ratio, that it would even out a bit.
+:PROPERTIES:
+:Author: spacesleep
+:Score: 1
+:DateUnix: 1614523593.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+** You should crosspost this to [[/r/harrypotter][r/harrypotter]]
+:PROPERTIES:
+:Author: VarnusJulius
+:Score: 1
+:DateUnix: 1614528230.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+** From looking at the prices as the books go on a clear picture of how JK handled money occurs. When she needed to come up with the cost for something she did so based on only a few criteria.\\
+Particularly Cheap\\
+Particularly Expensive\\
+Rather Average\\
+Very Specific
+
+When the books started it was clear that wizarding currency fell into a status of Knut -> Coinage, Sickle -> Daily use denomination, Galleon -> High denomination. Things that were particularly cheap cost knuts, things that were rather average cost sickles and knuts, and things that were particularly expensive cost galleons. As the series went on though, there was a shift, and Galleon became used for both rather average items as well as particularly expensive ones. Knuts and sickles were only used for particularly cheap or very specific values. This shift to the 5 pound conversion rate style of thinking, where Galleons are the everyday currency rather than the high denomination, throws off all concepts of a consistent economy.
+
+It's also wise to remember that when JK was writing the first books she was poor, and that as the series gained popularity that changed dramatically. To a poor single mother, the idea of dropping ~800 pounds equivalent (given inflation) on a single piece of school equipment would be much different than the idea of dropping ~35 pound equivalent on a joke product would be for a newly minted millionaire.
+:PROPERTIES:
+:Author: Kingsonne
+:Score: 3
+:DateUnix: 1614623703.0
+:DateShort: 2021-Mar-01
+:END:
+
+*** Very good points.
+:PROPERTIES:
+:Author: JennaSayquah
+:Score: 1
+:DateUnix: 1614624062.0
+:DateShort: 2021-Mar-01
+:END:
+
+
+** I'd never heard about the earlier 50 Pounds to the galleon exchange rate, only the even more nonsensical 5 to 1, especially if one believes the 'coin the size of a hubcap' line from the proprietor of the campgrounds at the Quidditch World Cup. Granted a 'hubcap' can be substantially smaller than what most Americans think when they hear 'hubcap' but a 2-inch coin made of solid gold hasn't been worth 50 pounds much less 5 since the US went off the Gold Standard.
+
+I've even addressed it in a fic or two.
+
+Twenty minutes later Harry and Neville were sitting in the Three Broomsticks following a short and for Neville, fairly expensive, stop at a local jewelry store.
+
+Neville had ordered a butterbeer while Harry had asked for, and gotten a glass of water.
+
+"Neville Franklin Longbottom!" The use of all three of his names had Neville looking for the speaker. He found her via Harry pointing at the raging brunette who was stomping toward the table the young men shared.
+
+"Something wrong Hermione?" He asked, wondering what he had done to earn the use of all three of his names.
+
+"You were supposed to have words with your grandmother." She said hotly as she sat down. "She approached my father yesterday and tried to negotiate a marriage contract."
+
+"Oh hell." He said. "I did tell Gran no and that you weren't interested. She just told me that we were too young to know what we wanted, but I thought she'd gone off the idea. Are your parents angry?"
+
+"She offered Daddy Half a Million Pounds. Half a Million! He says he's thinking about it. When I get home I am going to give him something to think about I assure you!"
+
+"Half a million pounds?" Neville asked. "How much is that in real money?"
+
+"One hundred thousand Galleons," Harry said, earning himself an odd look from both of the 6th year Gryffindor prefects. "What? The exchange rate is pegged at 5 Pounds Sterling to the Galleon. It's been that way since the goblins quit making Galleons out of gold in the early 1830s."
+
+"What do you mean they quit making Galleons out of gold?" Neville asked.
+
+"Everyone knows that Galleons are gold." Hermione agreed.
+
+"Then 'everyone' is idiots," Harry said dismissively, fishing a galleon coin from a pocket, and held it up. "This coin weighs exactly 31.1034768 grams, that's one troy ounce. Gold closed yesterday at 369 US Dollars to the troy ounce, or 198.38 Pounds Sterling. That means that if this Galleon is made of gold, its exchange rate Sterling should be just short of 200 Pounds. Since the exchange rate is pegged to 5 Pounds, that means that the most gold that this coin could contain is less than .78 of a gram. The Goblins are a mercantile race, business is in their blood. There is no way in hell they would bankrupt themselves to keep the Wizards on the gold standard. This coin is charmed to look and feel like gold, but it isn't gold."
+
+"Not gold?" Neville asked, shocked at the revelation.
+:PROPERTIES:
+:Author: Clell65619
+:Score: 3
+:DateUnix: 1614492083.0
+:DateShort: 2021-Feb-28
+:END:
+
+*** Whyever would the goblins care about Muggle gold prices though?
+
+It's clear from the moment we read PS that things aren't the same in the wizarding world. Internet source:
+
+#+begin_quote
+  As of 2020, the 125West is the largest ruby in the world. It is a rough stone and has not yet been polished, measures 4.8 inches x 4.4 inches x 5.27 inches and weighs an astonishing 8.2 pounds, which would be 18,696 carats.
+#+end_quote
+
+And the goblins randomly handle
+
+#+begin_quote
+  Harry watched the goblin on their right weighing a pile of rubies as big as glowing coals.
+#+end_quote
+
+a pile of that?
+
+Clearly, supply is entirely different in the wizarding world. Maybe demand is, too, but either way, the price of gold and gems can be anything, actually the only thing we /can/ say is that Muggle notions of worth don't matter.
+
+(And before anyone comes with the IAmVerySmart plot of melting down Galleons and selling the Gold for higher prices in the Muggle world, the only needed answer to that is /It's Magic/ and the goblins did any number of things to prevent that; and for that matter, if you just try selling them we /know/ what happens to people bringing magical items into the Muggle world: The Ministry catches them, because it breaks the Statute, whose protection is their raîson d'être.)
+:PROPERTIES:
+:Author: Sescquatch
+:Score: 3
+:DateUnix: 1614501598.0
+:DateShort: 2021-Feb-28
+:END:
+
+**** > Whyever would the goblins care about Muggle gold prices though?
+
+Well, whichever version of Goblins JKR presented us you prefer to use as your personal head-canon, the one thing they are not is stupid.
+
+As a penalty for one of their 'Revolts' the Goblins were given complete and utter control of the Wizard's financial system... or at least as much of it as we were shown. The value of a Galleon is pegged, by the word of Gohd, to 5 Pounds Sterling. In a situation where the value of the metal in the coin is worth substantially more than the face value of the coin itself, only an idiot with complete control of a culture's monetary system would not take advantage of that fact.
+
+Think about it, if you had utter control of a nation's financials, could take advantage of an outside market willing to pay you almost 40 times the value of your base metal, AND through the all-powerful magic, were able to create perfect counterfeits, wouldn't you do it?
+
+> And the goblins randomly handle
+
+#+begin_quote
+  Harry watched the goblin on their right weighing a pile of rubies as big as glowing coals.
+#+end_quote
+
+> a pile of that?
+
+Another example of JKR using comparison examples that mean nothing. How big is a 'glowing coal'? Much like the much Obliviated owner of the campground's 'coin the size of a hubcap' example from the World Cup, it tells you nothing. How big is a coal? Having lived in Britain while coal was a common heating source for houses, I can tell you that you loaded the fireplace with chunks of coal smaller than a softball and that once lit they glowed from about four inches across to the size of pebbles.
+
+As an aside, the local Brits found teaching the ignorant Americans, the bulk of whom had never seen, much less handled actual coal, how to start a coal fire to be highly amusing.
+
+Which pile of glowing coals was Harry comparing the rubies to?
+
+> And before anyone comes with the IAmVerySmart plot of melting down Galleons and selling the Gold for higher prices in the Muggle world
+
+And if the Goblins themselves are moving the gold into the Muggle world for a massive profit? All of the Goblin protections won't matter in the slightest.
+
+As far as the Ministry's ability to prevent trade with the Muggles... The head of that office was unable to determine the purpose of a Rubber Duck. I'm not sure how you came up with competence at any level of the Ministry given what we are shown in the books.
+:PROPERTIES:
+:Author: Clell65619
+:Score: 0
+:DateUnix: 1614528809.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+*** I like it!!!!
+:PROPERTIES:
+:Author: JennaSayquah
+:Score: 1
+:DateUnix: 1614528105.0
+:DateShort: 2021-Feb-28
+:END:
+
+
+** I appreciate the effort put into this and I might make some changes to some things based on it. However, I'm concerned that your estimate is actually too high because currency exchange doesn't always relate to cost of goods. Things are just cheaper in some countries and the currency doesn't always reflect this. For example, [[https://www.globalpetrolprices.com/USA/gasoline_prices/][gas in the US is about $3 / gallon]]. [[https://www.globalpetrolprices.com/United-Kingdom/gasoline_prices/][In the UK it's about £4-5 which is $6-7 per gallon.]] The actual exchange rate today is $2 to £1.44. This happens largely because of factors that make getting gas to the UK more expensive.
+
+There are a lot of factors in wizarding society that would probably make prices overall cheaper.
+
+1. Reparo and other transfigurations. People transfigure things rather than buy new ones with a few exceptions. Someone like Molly Weasley is probably fairly gifted at this kind of spell especially considering necessity.
+2. Duplication and growth enhancing charms. There are certain things where supply is literally infinite. For example, something like parchment could only be a viable medium through the use of duplication charms since there's only so many sheep in the world.
+3. Portkeys, et al. Free or nearly free long distance transportation.
+4. Government subsidies. Making already low prices even lower.
+
+So because of all of this, it's likely that prices in the wizarding world are significantly lower than in their muggle counterpart countries because costs are lower. If we carry that assumption to the daily paper, it's possible that 5 knuts is closer to 10 or even as low as 5 pence rather than 20.
+
+Going with the 5 knuts to 10 pence or 1 knut to 2 pence:
+
+| Galleon   | Sickle     | Knut      | Pounds | Dollars (£ 1 to $1.684) |
+|-----------+------------+-----------+--------+-------------------------|
+|           |            | 1 Knut    | £0.02  | $0.03                   |
+|           | 1 Sickle   | 29 Knuts  | £0.58  | $0.98                   |
+| 1 Galleon | 17 Sickles | 493 Knuts | £9.86  | $16.60                  |
+
+Going with the 5 knuts to 5 pence or 1 knut to 1 pence:
+
+| Galleon   | Sickle     | Knut      | Pounds | Dollars (£ 1 to $1.684) |
+|-----------+------------+-----------+--------+-------------------------|
+|           |            | 1 Knut    | £0.01  | $0.02                   |
+|           | 1 Sickle   | 29 Knuts  | £0.29  | $0.49                   |
+| 1 Galleon | 17 Sickles | 493 Knuts | £4.93  | $8.30                   |
+
+This is probably where JKR got the 1 Galleon to £5 exchange rate. But, *I agree that this is entirely too low.* Even if we account for the fact that the pound has halved in value since 1991 due to inflation (meaning that something £5 then is £10 now) it's still kind of low. That said, it's likely that the actual rate should be somewhere between £10 and £25.
+:PROPERTIES:
+:Author: crownjewel82
+:Score: 1
+:DateUnix: 1614699875.0
+:DateShort: 2021-Mar-02
+:END:

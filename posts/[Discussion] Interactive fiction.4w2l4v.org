@@ -1,0 +1,138 @@
+#+TITLE: [Discussion] Interactive fiction?
+
+* [Discussion] Interactive fiction?
+:PROPERTIES:
+:Author: anathea
+:Score: 4
+:DateUnix: 1470281734.0
+:DateShort: 2016-Aug-04
+:FlairText: Discussion
+:END:
+This would be text games, stuff like choose your own adventure or something with more freedom, like Zork.
+
+I've been dabbling with writing interactive fiction for a while now, and I've wanted to do a Harry Potter one for so long. Do any exist already? What sorts of things would be cool to see in something like this?
+
+
+** While it could be cool, everything more interactive than a Choose Your Own Adventure might be a /little/ too much for the publisher to just let happen.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 2
+:DateUnix: 1470282267.0
+:DateShort: 2016-Aug-04
+:END:
+
+*** Ooh, scary thought. There's a lot of HP-themed roleplaying sites out there, and they slide by. Is it okay as long as you're not making money? Even if it is something more in-depth?
+:PROPERTIES:
+:Author: anathea
+:Score: 2
+:DateUnix: 1470284203.0
+:DateShort: 2016-Aug-04
+:END:
+
+**** Don't know. I figure out of all things, Harry Potter would be the safest to go with.
+
+It just came to mind because of that Star Wars fan game that just got shut down by Disney.
+
+EDIT: Text based stuff is probably the safest bet.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 3
+:DateUnix: 1470285347.0
+:DateShort: 2016-Aug-04
+:END:
+
+
+** Do quests count? If so there are loads on Spacebattles and Sufficient Velocity.
+:PROPERTIES:
+:Author: technoninja1
+:Score: 1
+:DateUnix: 1470282411.0
+:DateShort: 2016-Aug-04
+:END:
+
+*** I.... have no idea what those are. Do you have a link? That sounds super cool! (googling spacebattles was about as productive as you would expect.)
+
+edit: Okay, googling Sufficient Velocity was more helpful but I have no idea what the heck's going on.
+:PROPERTIES:
+:Author: anathea
+:Score: 1
+:DateUnix: 1470284256.0
+:DateShort: 2016-Aug-04
+:END:
+
+**** Okay, so quests are sort of like online choose-your-own-adventure stories. The author writes a chapter, and then gives the community of reader/commenters a vote on what the characters should do next or whatever. The author writes the next chapter based on what they voted for, and offers the readers their next vote, and etc. Quest choice systems can be complicated with points and scores and that sort of thing, or they can just be the author telling the commenters to write what they want the characters to do, or something else. It's up to the author. I don't really read Harry Potter quests, so I can't recommend any specific ones. Spacebattles and Sufficient Velocity are forums that both have relatively large sections for quests. Here are the links to the [[https://forums.spacebattles.com/forums/roleplaying-quests.60/?order=post_date][Spacebattles]] and [[https://forums.sufficientvelocity.com/forums/quests.29/][Sufficient Velocity]] quest sections. Unfortunately, there is not a good way to sort by fandom, so there are also quests for lots of other fandoms besides Harry Potter on their. Sorry about that.
+:PROPERTIES:
+:Author: technoninja1
+:Score: 2
+:DateUnix: 1470286696.0
+:DateShort: 2016-Aug-04
+:END:
+
+
+** I'd aim it in something the style of Choice Of Games/Hosted Games. They do mobile CYOA type games. Never seen an HP based one but I think the way they do it is best. It's simple design and format but it allows for a wide range of possibilities.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1470284552.0
+:DateShort: 2016-Aug-04
+:END:
+
+
+** What app you using? I've been doing an erotic horror choose your path story with Twine.
+
+Edit: forgot horror
+:PROPERTIES:
+:Author: viol8er
+:Score: 1
+:DateUnix: 1470285927.0
+:DateShort: 2016-Aug-04
+:END:
+
+*** Inform! It's probably my favorite interactive fiction writer.
+:PROPERTIES:
+:Author: anathea
+:Score: 1
+:DateUnix: 1470360440.0
+:DateShort: 2016-Aug-05
+:END:
+
+
+** FYI, choose your own adventure stories are not allowed on FFN. But, quests have been super popular for the last year on a couple other websites, but the quality in many of those is highly variable.
+:PROPERTIES:
+:Author: Lord_Anarchy
+:Score: 1
+:DateUnix: 1470312008.0
+:DateShort: 2016-Aug-04
+:END:
+
+
+** Oh man, I haven't seen any, but I want this. To answer your other question, it really depends on whether you've settled on a language/system already. Since you mentioned Zork, are you using Inform? I've seen spellcasting (non-HP) done in Inform: [[http://davidfisher.info/if/suveh_nux.html][Suveh Nux]]
+:PROPERTIES:
+:Author: spacehurps
+:Score: 1
+:DateUnix: 1470335910.0
+:DateShort: 2016-Aug-04
+:END:
+
+*** Yeah, I love inform. It'll always have a special place in my heart, and I'm always thinking of what sort of text game I'd want to write in it. I've got one in the works right now, but honestly I haven't been working on it nearly as much as I should.
+:PROPERTIES:
+:Author: anathea
+:Score: 2
+:DateUnix: 1470359732.0
+:DateShort: 2016-Aug-05
+:END:
+
+**** Hey, as long as the passion remains... Better a slow journey than getting burned out, I'd say. I'm glad to find another Inform writer. Just outta curiosity, are you using 6 or 7?
+:PROPERTIES:
+:Author: spacehurps
+:Score: 1
+:DateUnix: 1470362168.0
+:DateShort: 2016-Aug-05
+:END:
+
+***** I'm using 7, the most recent update. I'm really glad they didn't abandon it, and I actually quite like some of the changes they've made.
+:PROPERTIES:
+:Author: anathea
+:Score: 1
+:DateUnix: 1470448239.0
+:DateShort: 2016-Aug-06
+:END:

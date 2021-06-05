@@ -1,0 +1,342 @@
+#+TITLE: Just wrote a fic, looking for feedback!
+
+* Just wrote a fic, looking for feedback!
+:PROPERTIES:
+:Author: penelope-taynt
+:Score: 5
+:DateUnix: 1466277266.0
+:DateShort: 2016-Jun-18
+:FlairText: Request
+:END:
+Not sure if this is the correct place to post this, but wanted to share a short fic I wrote; looking for some feedback! [[https://www.fanfiction.net/s/12005207/1/You-look-a-lot-like-your-dad-but-you-ve-got-your-mum-s-eyes][You look a lot like your dad, but you've got your mum's eyes]]
+
+
+** Disclaimer: I'm just a random reader, feel free to criticize my critics. Also, the few mistakes among those are mistakes I did make and I may still make in the future. Here are some resources:
+
+- [[https://www.reddit.com/r/HPfanfiction/comments/4nikv4/what_would_you_want_in_a_10_commandments_of/d44qob6]]
+- [[http://www.accessdenied-rms.net/guide/fwg.txt]]
+
+Keep in mind that I will to list every minor quip I can find, even though it might be insignificant. It is of course up to you to decide whether my remarks are relevant or not.
+
+--------------
+
+* Chapter 1: Petunia
+  :PROPERTIES:
+  :CUSTOM_ID: chapter-1-petunia
+  :END:
+The very first sentence is the most important, since it is the own that should pick the interest of your readers.
+
+#+begin_quote
+  Petunia crept slowly down the stairs, taking care not to tread on the creaky step halfway down so as not to wake her still slumbering husband and child.
+#+end_quote
+
+1. writing style: the sentence is long, convoluted and miss a comma (also “halfway down” is just not necessary and makes the sentence even harder to parse)
+2. story telling: there is no tension yet; some very good stories do begin without, but it can help
+
+#+begin_quote
+  Little Dudders was just starting to sleep through the night. Mrs. Polkiss down the street had told her that her son still woke her up at three in the morning, but Dudley, already advanced for his age, was peacefully fast asleep in his crib.
+#+end_quote
+
+There might be some improvements for this part (as I said, I am not a very good writer, so I cannot really tell), but I do see that “peacefully fast” sounds like one adverb too much.
+
+#+begin_quote
+  any spot+s+
+#+end_quote
+
+Just a minor mistake.
+
+#+begin_quote
+  her evening cleaning the night before
+#+end_quote
+
+This feels repetitive:
+
+#+begin_quote
+  But no
+#+end_quote
+
+This is spoken language, it seems unnatural from the narrator.
+
+#+begin_quote
+  Dudley was absolutely perfect, of course, but he could hardly talk to her about the developments on her favorite television program*[,]* or the scandalous affair the next door neighbor was having with his secretary.
+#+end_quote
+
+Maybe add a comma to simplify the reading of this long sentence?
+
+#+begin_quote
+  she couldn't help but wonder what Lily was doing at this very moment. She wondered if Lily
+#+end_quote
+
+This is redundant.
+
+#+begin_quote
+  doing *L*ord knows what
+#+end_quote
+
+That's referencing to /the/ Lord, hence uppercase.
+
+#+begin_quote
+  As Petunia made her way to the front door to retrieve the milk +from the front steps+
+#+end_quote
+
+Redundant. (also, it may not be necessary to explain the motive (the milk) at this point)
+
+#+begin_quote
+  She pulled open the door; as leaned down to get the milk her heart jumped into her throat and a shriek escaped her lips before she could stop herself.
+#+end_quote
+
+It's hard to read. I would expect something more of the style of:
+
+#+begin_quote
+  She leaned down to grab the milk. She shrieked.
+#+end_quote
+
+She felt her heart freeze in her chest as something that felt quite like dread passed through her.
+
+#+begin_quote
+  It appears that I am destined to write to you only unhappy things; unfortunately
+#+end_quote
+
+I feel a period would be more appropriate than a semi-colon here (just reading in my head).
+
+#+begin_quote
+  the letter I wrote you so many moons ago
+#+end_quote
+
+Counting time in “moons” feels unnatural, even for Dumbledore.
+
+Harry's future and the future of the wizarding world rest+s+
+
+#+begin_quote
+  what I am about to scrawl on this insignificant parchment
+#+end_quote
+
+Does not feel very natural either.
+
+#+begin_quote
+  +unnamable+
+#+end_quote
+
+“unnam*e*able” or “unspeakable”
+
+#+begin_quote
+  She couldn't give a name to the tumult of emotions swimming through her chest, +even if asked+.
+#+end_quote
+
+I do not really see the point of that portion of the sentence.
+
+#+begin_quote
+  she and Lily hadn't spoken in ages...
+#+end_quote
+
+But she did recognize Harry. Did she send a picture?
+
+Petunia hadn't even invited her to her wedding. But somewhere in the back of her mind she had always found some comfort in the fact that Lily was out there somewhere. And now she quite suddenly wasn't.
+
+#+begin_quote
+  She didn't know anything about this Lord Volde... whatever his name, he sounded like awful trouble and she didn't want anything to do with him.
+#+end_quote
+
+A semi-colon would be more appropriate than the comma to seperate two propositions.
+
+--------------
+
+All-in-all, it's pretty good. I think the main critic I can do is of redundant passages; I think you can keep your style of story telling while cutting some words here and there.
+:PROPERTIES:
+:Author: HermioneGPEV
+:Score: 7
+:DateUnix: 1466285393.0
+:DateShort: 2016-Jun-19
+:END:
+
+*** * Chapter 2: Severus
+  :PROPERTIES:
+  :CUSTOM_ID: chapter-2-severus
+  :END:
+
+#+begin_quote
+  Severus wasn't entirely sure who he was trying to convince of this
+#+end_quote
+
+Missing period.
+
+#+begin_quote
+  This was Lucius and Narcissa's boy, of course he would be in Slytherin.
+#+end_quote
+
+A semi-colon would be more natural.
+
+He immediately returned to his vigil, his back tense. He would be sorted soon.
+
+"Potter, Harry!"
+
+#+begin_quote
+  This irked Severus more than he wanted it to.
+#+end_quote
+
+This suggests that he /wants/ it to irk him. You may be looking for something like (not sure if better):
+
+#+begin_quote
+  This irked Severus more than he cared to admit.
+
+  Severus was perhaps more annoyed by than he should have been
+#+end_quote
+
+This feel redundant with the sentence from the previous remark.
+
+#+begin_quote
+  He was faintly aware of the idiot Quirrell was talking to him about something or other, but he didn't even bother to pretend he was listening.
+#+end_quote
+
+“idiot” seems like a childish characterization. It may be easier to represent this feeling with an action:
+
+#+begin_quote
+  Quirrel pretended to engage in conversation, but Severus simply ignored him.
+#+end_quote
+
+(note that the shorter formulation strengthens the idea that “he does not bother”)
+
+#+begin_quote
+  What a fucking cruel joke this was.
+#+end_quote
+
+Not JKR style, not in-character, even outside dialogue.
+
+#+begin_quote
+  And more than anything, +he hated him+ for reminding him +so incredibly forcefully of+ what he had done.
+#+end_quote
+
+Less words, more punch.
+
+--------------
+
+A noticeable improvement in the writing style. I feel it harder to relate to Snape, but that may just be the character.
+:PROPERTIES:
+:Author: HermioneGPEV
+:Score: 7
+:DateUnix: 1466286747.0
+:DateShort: 2016-Jun-19
+:END:
+
+**** * Chapter 3: Sirius
+  :PROPERTIES:
+  :CUSTOM_ID: chapter-3-sirius
+  :END:
+
+#+begin_quote
+  Sirius trotted through the perfectly *cut* lawn
+#+end_quote
+
+[[https://en.wiktionary.org/wiki/manicure#Verb]]
+
+#+begin_quote
+  The light of the street lamp was yellowed and bright
+#+end_quote
+
+“yellow*ed*” suggests a change in color. I would expect “yellow” or a similar ajective.
+
+#+begin_quote
+  footsteps had +so+ alarmed him moments ago
+#+end_quote
+
+This expression does not read naturally.
+
+#+begin_quote
+  intending to scamper in the direction he was sure Harry's house was when he stopped, his heart in his throat.
+#+end_quote
+
+That sentence is very hard to parse; split it up.
+
+#+begin_quote
+  James would be thirty-two now, like him. And this boy was hardly a teenager.
+#+end_quote
+
+James is born March 27th, 1960. Sirius is born November 3rd, 1959. That makes them both 33 in summer 1993.
+
+#+begin_quote
+  It couldn't be anybody else that looked so eerily like James that even now that Sirius knew it couldn't be, he was having a hard time really believing it wasn't.
+#+end_quote
+
+Very convoluted.
+
+#+begin_quote
+  who would procreate with a stupid git like that?
+#+end_quote
+
+“procreate” is weird. “have a child” may be enough.
+
+#+begin_quote
+  the rest of reality caught up with him.
+
+  This couldn't be James, not just because this boy was too young, but because James was dead.
+#+end_quote
+
+But he already realized it before:
+
+#+begin_quote
+  James was alive somehow
+
+  because of fucking Peter Pettigrew, and Pettigrew was still alive and at Hogwarts. He'd been living with Harry for two fucking years as the rat he was.
+#+end_quote
+
+Not JKR style. Probably in-character.
+
+#+begin_quote
+  his best friend +in the world+
+#+end_quote
+
+This would read childish.
+
+#+begin_quote
+  He appeared to be thinking about something.
+#+end_quote
+
+This is not very useful: most people are thinking about something most of the time. However:
+
+#+begin_quote
+  He appeared to be pondering about something.
+#+end_quote
+
+better translates the idea you want to instil.
+
+#+begin_quote
+  He would see Harry again at Hogwarts. And maybe by that point he would be more accustomed to a world without James Potter+, and the tear in his heart wouldn't threaten to rip open at the sight of his godson.+
+#+end_quote
+
+I feel that this last part rephrases and undermines a perfectly good ending.
+
+--------------
+
+I really liked those three alternative viewpoints. I was able to find what I think were minor flaws, but your writing is pretty good! Keep up the good work!
+:PROPERTIES:
+:Author: HermioneGPEV
+:Score: 4
+:DateUnix: 1466288393.0
+:DateShort: 2016-Jun-19
+:END:
+
+
+** Fucking great man, this was really good. Only really have an issue with the Petunia one, because how can someone feel that way then proceed to abuse the child for years. Well written and very realistic. Horrible title though, I get why you have it and it does make sense but it's just a bad title.
+:PROPERTIES:
+:Author: Burning_M
+:Score: 3
+:DateUnix: 1466285392.0
+:DateShort: 2016-Jun-19
+:END:
+
+
+** Shorten the title, but otherwise not that bad.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1466290053.0
+:DateShort: 2016-Jun-19
+:END:
+
+
+** I liked Petunia. she really is the only reason Harry lived with Dursleys when they could have dropped him off somewhere else. And shorten title.
+:PROPERTIES:
+:Author: abuell
+:Score: 2
+:DateUnix: 1466324455.0
+:DateShort: 2016-Jun-19
+:END:

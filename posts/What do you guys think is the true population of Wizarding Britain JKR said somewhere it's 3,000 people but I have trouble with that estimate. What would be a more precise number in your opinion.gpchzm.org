@@ -1,0 +1,332 @@
+#+TITLE: What do you guys think is the true population of Wizarding Britain? JKR said somewhere it's 3,000 people but I have trouble with that estimate. What would be a more precise number in your opinion?
+
+* What do you guys think is the true population of Wizarding Britain? JKR said somewhere it's 3,000 people but I have trouble with that estimate. What would be a more precise number in your opinion?
+:PROPERTIES:
+:Author: maxart2001
+:Score: 7
+:DateUnix: 1590267414.0
+:DateShort: 2020-May-24
+:FlairText: Discussion
+:END:
+
+** Many ways to get an estimate. You can assume every child goes to Hogwarts, and calculate the population by taking Harry's year and assuming a certain average life expectancy. You can also calculate how many students a year could have as a maxium, for the teachers we see to cope with the courses. The former does, indeed, get you to 3,000 or thereabouts. The latter to 15k or 20k (and it also fits with Rowling initial claim of 1,000 Hogwarts students, which she used in PoA, when she described 200 students of Slytherin at Quidditch). If you assume not every child goes to Hogwarts, of course the number becomes arbitrary. But I do like the 15k well enough for FF purposes. It's a small town, it fits with my image and the cozy feel of the wizarding world.
+
+Just for fun, here's another way to calculate it. In GoF, when they travel to the Quidditch WC, it is said that 200 Portkeys are placed all over Britain -- in strategic positions, and we know that wizards tend to cluster. There is no reason to believe the Portkey we see is in any way special, and it serves four families (Weasleys, Diggories, Lovegoods, Fawcetts, even if they don't all take it). Thus, there can be said to be 800 families, and if "family" means three persons on average, that's 24k, a bit higher than the high estimate for Hogwarts.
+:PROPERTIES:
+:Author: Sescquatch
+:Score: 18
+:DateUnix: 1590269390.0
+:DateShort: 2020-May-24
+:END:
+
+*** Yeah I'd agree, like 15-20k, then the world would have approximately 1,880,000 wizards. Assuming there is no drastic differences between the wizarding and muggle worlds of course
+:PROPERTIES:
+:Author: maxart2001
+:Score: 3
+:DateUnix: 1590270970.0
+:DateShort: 2020-May-24
+:END:
+
+
+*** u/RookRider:
+#+begin_quote
+  calculate the population by taking Harry's year and assuming a certain average life expectancy
+#+end_quote
+
+The trouble with this method is that Harry was born in the middle of a war. The number of children near his age should be lower than normal due to a) people holding off on having babies in such an unstable situation and b) the people who died in the war not being around to make any babies. (Presumably, this would be followed by a baby boom after Voldemort was vanquished.)
+:PROPERTIES:
+:Author: RookRider
+:Score: 4
+:DateUnix: 1590280247.0
+:DateShort: 2020-May-24
+:END:
+
+**** People like to say this a lot, and I guess it is popular because of the concept of the baby boomers. But here is a graph of the UK fertility rate from 1800 to 2020:
+
+[[https://www.statista.com/statistics/1033074/fertility-rate-uk-1800-2020/]]
+
+Throughout that period the UK fought numerous wars. They cannot be seen on the graph. Fertility in 1940 to 1945 is actually higher than 1935 to 1940. You /can/ see the post-WWII baby boom, but this was a temporary boost in the fertility rate, not a recovery from a wartime drop.
+
+Changes in society like increasing prosperity and decreasing infant mortality are the main factors; wars barely factor.
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1590305582.0
+:DateShort: 2020-May-24
+:END:
+
+***** That's fascinating, and thank you for bringing actual data to the table. However, even your website acknowledges the phenomenon of post-war baby booms.
+
+#+begin_quote
+  The fertility rate then jumped from 2.6 to 3.1 children per woman between 1915 and 1920, as many men returned from the war.
+#+end_quote
+
+I did some quick research of my own and came up with [[https://www.closer.ac.uk/data/total-fertility-rate/][this website]] which points out the sharp drop in UK fertility when contraception was legalized.
+
+I still stand by my original argument, because I'm not convinced that magical birth rates would follow the same trends as Muggle UK. As you point out, birth rates are linked to prosperity and infant mortality. I'll add contraception to that, at least in modern times. And I believe magical Britain has a much better standard in all of those than Muggle UK. Therefore, I'm not convinced that a chart of IRL data is a solid basis for what happened in the books.
+:PROPERTIES:
+:Author: RookRider
+:Score: 2
+:DateUnix: 1590329530.0
+:DateShort: 2020-May-24
+:END:
+
+****** Like I say above, baby booms do happen, but they are a temporary increase in the normal fertility rate, not a recovery from a wartime fall in the fertility rate. So you would expect Harry's class size to be historically normal, and then the classes in the years /after/ his to be larger-than-normal for a few years, before returning to the norm.
+
+I agree that wizarding demographics will not follow Muggle ones - they will have gone through the demographic transition much earlier - but that was not my point. My point is that there's no reason to think that fertility would fall in wartime, because historically that has not occurred.
+:PROPERTIES:
+:Author: Taure
+:Score: 4
+:DateUnix: 1590333432.0
+:DateShort: 2020-May-24
+:END:
+
+******* I went looking for data on how generally war affects birth rate, not limiting myself to the UK and US during the World Wars. What I found is that basically we don't know how war in general affects birth rates, only specific wars, because detailed birth records are a historically recent phenomenon and the small amount of data we have varies significantly. Plus, I'll argue that war in a time and place when effective family planning is freely available should be considered separately from war without reliable contraception.
+
+In light of this ambiguity, I'll ease off my earlier stance and change it to "the effects of the war should be considered when calculating HP population sizes and birth rates".
+:PROPERTIES:
+:Author: RookRider
+:Score: 1
+:DateUnix: 1590338920.0
+:DateShort: 2020-May-24
+:END:
+
+
+****** It is also intresting to note that there were over a hundred people in the marauders' year group based on Snape's memory of the OWL test.
+:PROPERTIES:
+:Author: creation-of-cookies
+:Score: 2
+:DateUnix: 1590333171.0
+:DateShort: 2020-May-24
+:END:
+
+
+*** Not everyone goes to the World Cup final though, only those who can afford it. In football you can buy a ticket at the stadium for ten or twenty pounds but the 2018 final tickets started at $500 and for the most part were selling at 1000-1500 a head.
+
+So I'd assume only the very top of society, or die-hard Quidditch fans, would be able to travel to the final, and I think many, many Hogwarts students don't even choose to go. I'd assume maybe 5-10% of British Wizarding families can afford and decide to go, which is consistent with 25% of a massive stadium (100k, like the Big House) being occupied by the host country. But the overall population is likely much larger.
+:PROPERTIES:
+:Author: francoisschubert
+:Score: 1
+:DateUnix: 1590274186.0
+:DateShort: 2020-May-24
+:END:
+
+**** I didn't count who went to the WC, I counted which families live in the area of the Portkey. In the example, the Lovegoods aren't taking the Portkey, and the Fawcetts don't have tickets.
+
+#+begin_quote
+  “Must be nearly time,” said Mr. Weasley quickly, pulling out his watch again. “Do you know whether we're waiting for any more, Amos?”
+
+  “No, the Lovegoods have been there for a week already and the Fawcetts couldn't get tickets,” said Mr. Diggory. “There aren't any more of us in this area, are there?”
+
+  “Not that I know of,” said Mr. Weasley.
+#+end_quote
+
+The only possible argument here is that this Portkey is not representative for the other 199, but I see no reason to assume that. Additionally, given the ease of travelling, there is no problem with the 100k in the stadium being >90% foreign wizards and witches.
+
+Anyway, this is just one way to look at it and what I use for FF purposes. I will say, though, that any number that's much higher, such as a population of 100k or 200k, is quite at odds with the impressions from the books. You'd have to assume there's a lot of stuff out there we never see and isn't mentioned. More schools, more hospitals, more shopping districts, etc.
+:PROPERTIES:
+:Author: Sescquatch
+:Score: 3
+:DateUnix: 1590275525.0
+:DateShort: 2020-May-24
+:END:
+
+***** u/francoisschubert:
+#+begin_quote
+  I will say, though, that any number that's much higher, such as a population of 100k or 200k, is quite at odds with the impressions from the books. You'd have to assume there's a lot of stuff out there we never see and isn't mentioned. More schools, more hospitals, more shopping districts, etc.
+#+end_quote
+
+For me there all these things exist - that's the beauty of the ambiguity. My headcanon is that Hogwarts consists of the highest echelons of society and that the rest is just not mentioned or glossed over by those who are at the top.
+:PROPERTIES:
+:Author: francoisschubert
+:Score: 0
+:DateUnix: 1590280490.0
+:DateShort: 2020-May-24
+:END:
+
+
+** 3041.7
+
+It used to be 3042 until a rather disastrous splinching.
+:PROPERTIES:
+:Author: Vercalos
+:Score: 25
+:DateUnix: 1590267732.0
+:DateShort: 2020-May-24
+:END:
+
+
+** Do you have a source for that? I thought Hogwarts had on the order of 1000 students officially, so it would be weird if 1/3 of the population was under 18
+:PROPERTIES:
+:Author: ChasingAnna
+:Score: 3
+:DateUnix: 1590267905.0
+:DateShort: 2020-May-24
+:END:
+
+
+** Hogwarts has about 850-900 students, and about 120-130 students a year, meaning that is pretty much the birth rate, there life expectancy is probably also about 120-150 year(Dumbledore was still very healthy and fit at 115). So the wizarding Population is about 15000-20000.
+
+As to how I get the number of 850-900 sudents.
+
+In Prisoner of Azkaban we see during a Quidditch match that Slytherin alone has over 200 people in it and even specifies that they make up a quarter of the spectators.
+
+#+begin_quote
+  They walked out onto the field to a tidal wave of noise. *Three quarters of the crowd was wearing scarlet rosettes*, waving scarlet flags with the Gryffindor lion upon them, or brandishing banners with slogans like “GO GRYFFINDOR!” and “LIONS FOR THE CUP.” Behind the Slytherin goal posts, *however, two hundred people were wearing green;* the silver serpent of Slytherin glittered on their flags, and Professor Snape sat in the very front row, wearing green like everyone else, and a very grim smile.
+#+end_quote
+
+Also in the same book we see that there are over hundred carriages transporting the Students to Hogsmeade
+
+#+begin_quote
+  Harry, Ron, and Hermione followed the rest of the school along the platform and out onto a rough mud track, *where at least a hundred stagecoaches awaited the remaining students, each pulled, Harry could only assume, by an invisible horse*, because when they climbed inside and shut the door, the coach set off all by itself, bumping and swaying in procession.
+#+end_quote
+
+In Goblet of Fire during the Yule Ball there were also about hundred tables with a dozen seats each.
+
+#+begin_quote
+  The walls of the Hall had all been covered in sparkling silver frost, with hundreds of garlands of mistletoe and ivy crossing the starry black ceiling.T*he House tables had vanished; instead, there were about a hundred smaller, lantern-lit ones, each seating about a dozen people*
+#+end_quote
+
+We also see that there are 31 Gryffindors in Harry's year, since he mentions that many to be in class at one point during Defense against the Dark Arts, which is a class the Gryffindors take without the other houses.
+
+#+begin_quote
+  ʹCedric Diggoryʹs death was a tragic accident,ʹ she said coldly.\\
+  ʹIt was murder,ʹ said Harry. He could feel himself shaking. He had hardly spoken to anyone about this, *least of all thirty eagerly listening classmates*. ʹVoldemort killed him and you know it.ʹ
+#+end_quote
+
+This is all consistent with Rowlings statements that there are about a thousand students at Hogwarts and that Harry has considerably more than 40 students in his year(though she admitted that she only created backgrounds for 40 of them).
+
+#+begin_quote
+  While I imagined that there would be *considerably more than forty students in each year at Hogwarts*, I thought that it would be useful to know a proportion of Harry's classmates, and to have names at my fingertips when action was taking place around the school.
+#+end_quote
+:PROPERTIES:
+:Author: aAlouda
+:Score: 2
+:DateUnix: 1590304424.0
+:DateShort: 2020-May-24
+:END:
+
+
+** I have a huge issue with how Hogwarts is always referenced in these calculations. It's a snooty private school and churns out important people but there's no way a wizarding world could sustain itself around just Hogwarts kids. Plus if you look at the British Quidditch league, 10 players per team and a generous 10 year career average would mean that the league is recruiting 9 or 10 players from Hogwarts every year, which is pretty ridiculous assuming everyone goes to Hogwarts. Also, the 200 Slytherins number from PoA is a massive inconsistency because throughout the books we're given the impression of a much more tightly-knit school, and two dorms per year (so a school population closer to 350-400). Rowling can say what she wants but she also has the Sorting sheet which has a class size of about 50.
+
+The problem is that since the conflict of HP is fought at the very top of the Wizarding social ladder (the lowest-class character we see by far is Mundungus Fletcher) we don't know what the educational or social structure is underneath this. In addition, the isolationism of British Wizarding culture (e.g. the Triwizard Tournament being a BIG DEAL) kind of limits our understanding of Wizarding in the world at large.
+
+It's hard to actually estimate the population of Wizarding Britain. I see two ways to go about this - you can estimate the upper bound for the Statute to hold, which would probably be around 1% of the total population of Britain, or around 600,000. Or you can take the 3000 number as a sort of 1% or 2% tier, which gives you a total of 150,000-300,000. I think it's probably closer to the latter, but the former would be a pretty good estimate for the carrying capacity of the population.
+:PROPERTIES:
+:Author: francoisschubert
+:Score: 2
+:DateUnix: 1590273702.0
+:DateShort: 2020-May-24
+:END:
+
+*** For the whole of Britain and plus Ireland, my headcanon is 700 kids going to Hogwarts, another 2000 to other schools and 1000 being homeschooled. I think kids would make up the 1% of wizards since they live long so 370.000 in total, maybe up to 400.000 with werewolves included
+:PROPERTIES:
+:Author: gluesandsticks
+:Score: 2
+:DateUnix: 1590286952.0
+:DateShort: 2020-May-24
+:END:
+
+
+*** No other schools in Britain are ever hinted at, indeed every indication is that it's your only option, muggleborns are introduced to magic by its staff and end up there, even the poorest wizarding families send their children there, even penniless orphans end up there.\\
+And do note that there's no indication that it's just the rich or that some degree if merit is required, the closest we get is Neville's family being worried he might be a squib. .
+:PROPERTIES:
+:Author: Electric999999
+:Score: 2
+:DateUnix: 1590288412.0
+:DateShort: 2020-May-24
+:END:
+
+
+** I got from linkao3(The Accidental Animagus by White_Squirrel) number of something like ten-to-fifteen thousand.
+
+[[https://harrypotter.fandom.com/wiki/Wizarding_world]]
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1590269957.0
+:DateShort: 2020-May-24
+:END:
+
+*** [[https://archiveofourown.org/works/14078862][*/The Accidental Animagus/*]] by [[https://www.archiveofourown.org/users/White_Squirrel/pseuds/White_Squirrel][/White_Squirrel/]]
+
+#+begin_quote
+  Harry escapes the Dursleys with a unique bout of accidental magic and eventually winds up at the Grangers' house. Now, he has what he always wanted: a loving family---and he'll need their help to take on the magical world and vanquish the dark lord who has pursued him from birth. Years 1-4.
+#+end_quote
+
+^{/Site/:} ^{Archive} ^{of} ^{Our} ^{Own} ^{*|*} ^{/Fandom/:} ^{Harry} ^{Potter} ^{-} ^{J.} ^{K.} ^{Rowling} ^{*|*} ^{/Published/:} ^{2018-03-24} ^{*|*} ^{/Completed/:} ^{2018-04-07} ^{*|*} ^{/Words/:} ^{666696} ^{*|*} ^{/Chapters/:} ^{112/112} ^{*|*} ^{/Comments/:} ^{603} ^{*|*} ^{/Kudos/:} ^{1453} ^{*|*} ^{/Bookmarks/:} ^{377} ^{*|*} ^{/Hits/:} ^{48626} ^{*|*} ^{/ID/:} ^{14078862} ^{*|*} ^{/Download/:} ^{[[https://archiveofourown.org/downloads/14078862/The%20Accidental%20Animagus.epub?updated_at=1587092261][EPUB]]} ^{or} ^{[[https://archiveofourown.org/downloads/14078862/The%20Accidental%20Animagus.mobi?updated_at=1587092261][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1590270009.0
+:DateShort: 2020-May-24
+:END:
+
+
+** I think I heard somewhere that the actual student population of Hogwarts is supposed to be around 1000 students. If that's the case, then the total wizarding population would be a lot more. Probably 10 000 or more
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1590270341.0
+:DateShort: 2020-May-24
+:END:
+
+
+** I'm pretty sure that the most consistent thing JK Rowling has said (between canon and interviews) about the population size is that she is "bad at maths."
+
+I think that she had a vision of what Harry's year, then Hogwarts as a whole, then finally what the British wizarding world looked like. Often these visions did not coexist happily in a logical population.
+
+Usually I don't think about uk's wizarding population too much when reading fanfiction.\\
+The exception is some of the intense "pureblood society" type fanfics where authors expand pureblood culture to the extent of massive class striations with a large and thriving pureblood nobility with no obvious change in the uk's pureblood population.
+:PROPERTIES:
+:Author: FriendofDobby
+:Score: 1
+:DateUnix: 1590565514.0
+:DateShort: 2020-May-27
+:END:
+
+
+** If she says it's 3000 I believe her. Since she is the author. I also believe her when she says wizards used to relieve themselves wherever they stood and vanish the evidence.
+:PROPERTIES:
+:Author: Ghost16275
+:Score: -1
+:DateUnix: 1590267635.0
+:DateShort: 2020-May-24
+:END:
+
+*** But dont you think that then it's like everyone is everyone's cousin?
+:PROPERTIES:
+:Author: maxart2001
+:Score: 2
+:DateUnix: 1590267793.0
+:DateShort: 2020-May-24
+:END:
+
+**** Eh, everyone is everyone's cousin is an exaggeration, and even first cousin marriage is pretty common in the world at large. Muggle borns, having kids with muggles, and imitation adds to the gene pool.
+:PROPERTIES:
+:Author: BackUpAgain
+:Score: 0
+:DateUnix: 1590280328.0
+:DateShort: 2020-May-24
+:END:
+
+
+*** For what it's worth, I doubt she intended for the number to be exactly 3000. It was probably just an estimate.
+:PROPERTIES:
+:Author: Vercalos
+:Score: 2
+:DateUnix: 1590267799.0
+:DateShort: 2020-May-24
+:END:
+
+
+*** I don't think this makes sense for Hogwarts though. (The relieving themselves part). I've always had a problem with it since she said it. Slytherin built the entrance to the Chamber of Secrets in a BATHROOM. Why in the world would Hogwarts have had bathrooms if the students were shitting wherever they wanted them just vanishing it?
+:PROPERTIES:
+:Author: butiamthechosenone
+:Score: 1
+:DateUnix: 1590288789.0
+:DateShort: 2020-May-24
+:END:

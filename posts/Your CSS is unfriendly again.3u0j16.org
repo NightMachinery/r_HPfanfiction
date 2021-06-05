@@ -1,0 +1,81 @@
+#+TITLE: Your CSS is unfriendly again
+
+* Your CSS is unfriendly again
+:PROPERTIES:
+:Author: paperhurts
+:Score: 3
+:DateUnix: 1448325310.0
+:DateShort: 2015-Nov-24
+:FlairText: Meta
+:END:
+It randomly stopped working on my chromebook. I disabled all addons, still not working. Up to date in everything, have no issue in any other sub I read.
+
+I see no counts for points/replies/etc.
+
+Logged into my computer, still no numbers. Very strange.
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 7
+:DateUnix: 1448357391.0
+:DateShort: 2015-Nov-24
+:END:
+
+*** Already done. Last night I only noticed it was borked because it accidentally got unchecked.
+:PROPERTIES:
+:Author: paperhurts
+:Score: 1
+:DateUnix: 1448367577.0
+:DateShort: 2015-Nov-24
+:END:
+
+
+** Well for ONLY this communities CSS, disabling ublock fixed the issue so with the style I see numbers. ONLY for this community has some block in the CSS that ublock says "uh uh, nope" on...wtf?
+:PROPERTIES:
+:Author: paperhurts
+:Score: 1
+:DateUnix: 1448325414.0
+:DateShort: 2015-Nov-24
+:END:
+
+*** The css hasn't changed in over a month, and I'm using ublock without a problem.
+:PROPERTIES:
+:Author: denarii
+:Score: 2
+:DateUnix: 1448327527.0
+:DateShort: 2015-Nov-24
+:END:
+
+**** I don't know wtf is going on...was hoping someone else did. No counts anywhere while ublock is on.
+:PROPERTIES:
+:Author: paperhurts
+:Score: 1
+:DateUnix: 1448328901.0
+:DateShort: 2015-Nov-24
+:END:
+
+***** Maybe you added some custom filters to Ublock recently?
+:PROPERTIES:
+:Author: deirox
+:Score: 1
+:DateUnix: 1448331432.0
+:DateShort: 2015-Nov-24
+:END:
+
+****** Nope.
+:PROPERTIES:
+:Author: paperhurts
+:Score: 1
+:DateUnix: 1448345842.0
+:DateShort: 2015-Nov-24
+:END:
+
+
+*** I should note I had to do a cache/etc. total reset one by one after a "disable" all of my addons to figure this out. Sorry that wasn't my first inclination. Should have realized cache would have fucked shit up.
+:PROPERTIES:
+:Author: paperhurts
+:Score: 1
+:DateUnix: 1448325463.0
+:DateShort: 2015-Nov-24
+:END:

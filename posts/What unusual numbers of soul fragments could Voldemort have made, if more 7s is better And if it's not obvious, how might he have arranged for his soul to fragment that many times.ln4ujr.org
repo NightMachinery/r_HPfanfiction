@@ -1,0 +1,91 @@
+#+TITLE: What unusual numbers of soul fragments could Voldemort have made, if more 7s is better? And if it's not obvious, how might he have arranged for his soul to fragment that many times?
+
+* What unusual numbers of soul fragments could Voldemort have made, if more 7s is better? And if it's not obvious, how might he have arranged for his soul to fragment that many times?
+:PROPERTIES:
+:Author: Devil_May_Kare
+:Score: 7
+:DateUnix: 1613703378.0
+:DateShort: 2021-Feb-19
+:FlairText: Discussion
+:END:
+I saw someone suggesting 49 (7*7), which might have been a joke or not, and 823,543 (7^7) jokingly, and thought this might be a fun thing to talk about.
+
+It's obvious how an evil person with magic could go about killing a bit under 50 people for that many soul fragments, but don't see how he'd perform enough murders to make 7^7 horcruxes. So maybe he obliviated his horcrux of everything after committing the murder and used a compulsion spell to make it use the memory of the murder to try to create another horcrux from that? Then he would only need O(log n) time to make n horcruxes, which is much more feasible.
+
+When you get to really totally theoretical numbers of fragments like 7↑↑↑↑↑↑↑7 (which is written in Knuth up-arrow notation because it's way too big to calculate on any computer), you could horcrux every atom in the observable universe, and run out of atoms long before you ran out of soul fragments to stick to them. With numbers that big, O(log n) isn't good enough.
+
+
+** What I don't get is how Dumbledore was so sure he had only made 7 based on a comment Voldemort said to a professor he was trying to deceive when he was a teenager.
+:PROPERTIES:
+:Author: Jon_Riptide
+:Score: 7
+:DateUnix: 1613710536.0
+:DateShort: 2021-Feb-19
+:END:
+
+*** The Doylish reason is because Rowling needed Harry (and the readers I guess) to know the number of Horcruxe to give him a final goal, so she let Dumbledore make this deduction. The same way Doyle often let Sherlock Holmes pull deduction out of his ass, that were somehow always right.
+
+The Watsonian explanation is that Dumbledore made this deduction thanks to all the previous informations he had :
+
+- He knew that Voldemort had made several Horcruxie
+- He knew that, considering his personality, he would go for a strong magical number
+- He knew that in Arithmancy, 3 and 7 were 2 of the strongest number magically speaking
+- He knew that after dextroying 2 Horcruxie (diary and ring), he still had several leads (that one Horcruxe he was tracking, + Nagini), meaning Voldemort probably did more than 3
+- And finally, he was that Riddle showed a strong interest in the number 7 while talking with Slughorn.
+
+Slughorn's memory didn't really taught him anything knew, but just confirmed something he strongly suspected from the start.
+:PROPERTIES:
+:Author: PlusMortgage
+:Score: 12
+:DateUnix: 1613720004.0
+:DateShort: 2021-Feb-19
+:END:
+
+**** It totally makes sense, but it's odd Dumbledore never seems to stare emptily at open space wondering "Dude... What if he made more?"
+:PROPERTIES:
+:Author: Jon_Riptide
+:Score: 6
+:DateUnix: 1613744577.0
+:DateShort: 2021-Feb-19
+:END:
+
+
+**** ​
+
+But imagine if there really is more hocruxe and Voldemort is not as superstitious as Dumbledore thought? Yes, Voldemort was the one who suggested 7, but he could think of doing more anyway.
+:PROPERTIES:
+:Author: ItsukiKurosawa
+:Score: 2
+:DateUnix: 1614390837.0
+:DateShort: 2021-Feb-27
+:END:
+
+***** Well, canon made it pretty clear that splitting his soul is /not/ a good idea. Wizards were already horified at the idea of creating 1 Horcruxe, and Voldemort said himself (during his monologue in GoF) that he pushed back the limits of magic (by doing several). The normal reaction to Voldemort 7 Horcruxie would be to ask "How the hell are you still alive" (and then get killed).
+
+But while it's clear that doing thousands of those is impossible, I guess Voldemort may have done 1 or 2 more. And in that case, he would have won. But it's Harry Potter we are talking about. If Voldemort had never heard of the prophecy, he would probably have won the first time. If Harry had not planified how the events would play out until /1 year after his death/, Voldemort would have won. You can't really use "what if" in Harry Potter.
+
+Also, I want to point out that 7 is truly a powerful number. We may not why or how it would impact his spell, but canon made it clear that Arithmancy was a kind of magical science, not superstition.
+:PROPERTIES:
+:Author: PlusMortgage
+:Score: 2
+:DateUnix: 1614391722.0
+:DateShort: 2021-Feb-27
+:END:
+
+
+** 1. All of them attached to knuts. Oi, here's the trolley dears. Only one piece of the dark lords soul for a chocolate frog or a box of every flavored beans
+:PROPERTIES:
+:Author: LeviticusGlenwood
+:Score: 9
+:DateUnix: 1613708555.0
+:DateShort: 2021-Feb-19
+:END:
+
+
+** 70 minus his own soul. So he would think of them as "Me and my 69"
+:PROPERTIES:
+:Author: Jon_Riptide
+:Score: 4
+:DateUnix: 1613710594.0
+:DateShort: 2021-Feb-19
+:END:

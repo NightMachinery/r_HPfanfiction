@@ -1,0 +1,492 @@
+#+TITLE: How do you think muggle electronics could work in a highly magical area?
+
+* How do you think muggle electronics could work in a highly magical area?
+:PROPERTIES:
+:Score: 9
+:DateUnix: 1489714746.0
+:DateShort: 2017-Mar-17
+:FlairText: Discussion
+:END:
+How do you think wizards could get muggle electronics/electricity to work in a highly magical area?
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 19
+:DateUnix: 1489718063.0
+:DateShort: 2017-Mar-17
+:END:
+
+*** Yes, I believe this is it exactly. To expand further, it would be very easy for magicals to come to the conclusion that electronics don't work at Hogwarts (or with any magic). Imagine the following: some muggleborn a long time ago tries to bring his electric desk lamp/clock/radio/whatever to Hogwarts. There are no outlets to plug anything in and any batteries will run out soon enough. The magicals who have absolutely no understanding of electricity see that it either doesn't work or stops working and the muggleborn with primary school education can't properly explain it. The magicals then come up with the (to them) logical conclusion that the muggle thing didn't work in the magical place so it must be the magic stopping it from working (which subconsciously reinforces the idea that magic trumps muggle). Word spreads and soon enough it's been codified in Hogwarts: A History and professors are telling it to all the new muggleborn.
+:PROPERTIES:
+:Author: A_Rabid_Pie
+:Score: 13
+:DateUnix: 1489735906.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+*** I should have made it clear that my post is assuming Hogwarts: A History is in fact correct.
+
+But you do make a good point, even if the book is correct. What kind of shielding prevents Diagon Alley, the Ministry, and King's Cross from producing electrical dead zones?
+:PROPERTIES:
+:Score: 9
+:DateUnix: 1489718862.0
+:DateShort: 2017-Mar-17
+:END:
+
+**** It could be that the amount of magic needs to be massive to interfere with electricity, like it would be within Hogwarts castle and Diagon Alley. Right outside those areas would be OK, since the magic pollution tapers off sharply. So Hogwarts grounds would be OK, as would anything outside magically "enclosed" areas like Diagon Alley and the Ministry. King's Cross would mess up radio signals very near the platform entrance, which wouldn't be remarkable in any way. Cell phone coverage will always be somewhat spotty.
+:PROPERTIES:
+:Author: WizardOffArts
+:Score: 8
+:DateUnix: 1489741597.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+**** I think you're missing the point that only Hogwarts has enough magic in the air to affect electronics, thus why there aren't dead zones in London.
+:PROPERTIES:
+:Author: DirectorAgentCoulson
+:Score: 3
+:DateUnix: 1489732858.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+**** If we look at what traditionally interferes with magic, cold iron, running water, circles of salt all fit the profile. My personal opinion is that iron can absorb magic like a sponge, but it's properties can be altered by runework on it. A sort of antimagic if you will. Then, you could create a lattice of iron runestones to absorb magic escaping diagon alley, and sucking it up.
+:PROPERTIES:
+:Author: Dorgamund
+:Score: 2
+:DateUnix: 1489761975.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+*** u/deleted:
+#+begin_quote
+  alarm clocks
+#+end_quote
+
+Is there a specific reference to them being digital? I don't have the book on-hand at the minute, but mechanical alarm clocks are not unusual at all.
+:PROPERTIES:
+:Score: 7
+:DateUnix: 1489738320.0
+:DateShort: 2017-Mar-17
+:END:
+
+**** u/UndeadBBQ:
+#+begin_quote
+  but mechanical alarm clocks are not unusual at all.
+#+end_quote
+
+Just the devils way of reminding you there is evil in the world, every single morning.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 8
+:DateUnix: 1489741328.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+**** Quite a lot of those still are battery-powered, though. Of course it still is possible that it's one of those spring-powered ones (those are always fun).
+
+And as far as I remember there's no reference to them being any specific kind.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 1
+:DateUnix: 1489791086.0
+:DateShort: 2017-Mar-18
+:END:
+
+
+*** u/fflai:
+#+begin_quote
+  The whole magic destroys electrical thing is nonsense. Diagon ally, the MoM and Kings Cross all exist in the middle of London
+#+end_quote
+
+We have evidence that Magic and Electricity don't mix well, for example from the FB movie (Spoiler, duh): [[https://streamable.com/5mig4]] - When the magical thing (you know what I mean) travels through New York lights go out around it, in a way that normally wouldn't happen (not every streetlight after each other)
+
+I think I have an explanation for this: Like Newt's case, Diagon Alley and King's cross aren't really there, they are their own pocket dimension. We know magic doesn't really believe in space and time :)
+
+That is why stuff doesn't work at Hogwarts, it wouldn't work /inside/ Diagon Alley either, however it would work right next to it - and the bit of magic around Diagon that 'leaks' or is used to concealed Diagon isn't too much. I'd imagine they have to swap out light-bulbs a bit more often, hard-drives die a bit faster, stuff like that. Noticeable, but not enough to warrant investigation, and it sounds like something Rowling would say.
+:PROPERTIES:
+:Author: fflai
+:Score: 4
+:DateUnix: 1489760840.0
+:DateShort: 2017-Mar-17
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1489789715.0
+:DateShort: 2017-Mar-18
+:END:
+
+***** I think it's about magic being wielded, not the magical potential of creatures. For example a niffle mostly uses magic passively and internally, and most muggleborn children don't use magic mots of the time. We know that Harry
+
+- apparated once
+- let his hair grow
+- turned his teacher's wig blue
+- shrunk a sweater
+- let a snake lose
+
+These are all instances that we know of. Five times in the history of nine years, which isn't much magic. And three of them were not at home. If other magical children are similar... not that much. Compare that to Hogwarts where hundreds of children use magic daily, Diagon Alley or even to the Burrow.
+
+We also have no canonical information about how how muggleborns deal with... well, everything. Imagine your child can let things fly around, banish food they doesn't like... I think your electric stuff breaking relatively frequent would hardly be worth a mention and is low on your list of worries.
+
+Also Newt calls an Obscurus a "magical force", it isn't a 'creature', it's raw (dark) magical power (in my understanding).
+
+The biggest hole in my theory is Grimmauld Place, and again I think there never was a huge amount of magic used on a daily basis, and probably affects the neighbors only a bit - although more than at Diagon Alley, but since the neighboorhood isn't that great people maybe don't notice stuff breaking? Not sure.
+:PROPERTIES:
+:Author: fflai
+:Score: 2
+:DateUnix: 1489792667.0
+:DateShort: 2017-Mar-18
+:END:
+
+
+*** yep i was always under the impression it was magic overload that caused electronics to fail in hogwarts, as a ancient castle its probebly build above magical leyline or somthing.
+:PROPERTIES:
+:Author: Archimand
+:Score: 3
+:DateUnix: 1489735440.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+*** This. I would also like to say that it is further disproven by Grindelwald when he 'fought' Newt in the subway station. He was capable of harnessing electricity and shooting it out, even from someone else's wand, one would think that you wouldn't be capable of producing things like that, if electricity itself is malfunctioned by magic.
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1489722990.0
+:DateShort: 2017-Mar-17
+:END:
+
+**** Yes, but that's a macro scale, not a microscale. You can hold magnets around a Tesla coil, but if you hold a magnet near more complicated electronics, which aren't shielded or hardened in some way, it could mess it up.
+:PROPERTIES:
+:Author: Dorgamund
+:Score: 5
+:DateUnix: 1489762109.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+*** You do know about wind up Alarm clocks right
+:PROPERTIES:
+:Author: KidCoheed
+:Score: 1
+:DateUnix: 1489988256.0
+:DateShort: 2017-Mar-20
+:END:
+
+
+*** Even if you take it at face value that electronics don't work at Hogwarts, there is also the possibility that the Hermione's book's explanation of why could be wrong. Maybe instead of there just being too much magic, there could be some specific magic at Hogwarts screwing with electronics, either intentionally or unintentionally, that would be present at other magical places. Like there could be some defensive enchantment that shoots lightning at enemies, and as an unknown at the time it was deployed side effect it increases the current in any circuit present in its field of effect, which would fry electronics.
+:PROPERTIES:
+:Author: prism1234
+:Score: 1
+:DateUnix: 1490160588.0
+:DateShort: 2017-Mar-22
+:END:
+
+
+** EMP Shielded Electronics, Magic seems to want to fill everything including Electronics and their circuits and so surrounding them in EMP cages which are designed to prevent the circuits from being overwhelmed by the energy expelled. So it should theoretically also prevent Magic from overwhelmed the circuits and killing the current.
+:PROPERTIES:
+:Author: KidCoheed
+:Score: 14
+:DateUnix: 1489715347.0
+:DateShort: 2017-Mar-17
+:END:
+
+*** Your theory sounds quite reasonable, and yet someone downvoted you already.
+
+I just upvoted you.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 3
+:DateUnix: 1489717156.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+** I'm always of the opinion that if you get adult Hermione, Arthur Weasley, Professor Flitwick, and a group of Unspeakables together, they will solve the problem of using electronics at Hogwarts.
+
+Just because a 12 year old Hermione said there was problem, did it mean it would stay a problem forever.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 7
+:DateUnix: 1489721764.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+** Why make electronic items work? Make magic analogues.
+:PROPERTIES:
+:Author: viol8er
+:Score: 6
+:DateUnix: 1489731621.0
+:DateShort: 2017-Mar-17
+:END:
+
+*** That's what I figure is happening with the Wizarding Radio Network or whatever it was called. They're not /actually/ using radio waves, but just made a spell that works like radio waves, or potentially the concept of radios themselves. It certainly wouldn't be the most unusual thing magic has done.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1489738164.0
+:DateShort: 2017-Mar-17
+:END:
+
+**** Yep. I mean they were ahead of muggles in terms of communication and travel for ages. The floo network for example is older than the telephone (Bell got the patent for the telephone in 1876, and we know of an accident with Floo in 1855). We also know that James and Sirius had used the mirrors while in school, so they had wireless video-telephony by 1978 latest, which only is common since earliest ~2005 in 'our' world.
+
+So magicals aren't as technically behind as we'd like to make them out to be in this sub. Sure, they underestimate Muggles, but all the things that in many fanfictions impress the purebloods aren't that impressive.
+
+- Telephone? We got the floo. You can actually pass objects through it.
+- Cars? Who wants a car when you can apparate and have a travel-time of zero?
+- Planes? Floo and Portkeys are superior. Don't know how about it's internationally as it isn't said in canon, but within < 12 hours after the death in the FB movie the ICW had sent a delegation (~ 50 people) which included the British Minister and Swiss delegate to the US. So they have something that can transport wizards fast, and that probably can also transport masses (See: Quidditch World Cup)
+
+Seriously, all our big 'technological advantages' save the internet (well, and TV) have actually explained counterparts in the magical world, and we have a lot of things we don't know about.
+
+In my headcanon that is what prompted the wizarding wars and the hatred of muggleborn wizards - they brought in muggle ideas, and marketed them very successfully, magically adapted. This weakened the pureblood elite, and hurt some of the less skilled purebloods even more. While new stuff is harder to actually produce for muggles they have a lot of people that have great ideas, that is why the ideas are adapted, the implementations aren't.
+
+The success of 'mudbloods' is what Voldemort used to convince the purebloods to fight a war. People don't just start randomly killing their inferior servants, they need to be in a shitty situation. Muggleborns were successful and a great target for hate.
+:PROPERTIES:
+:Author: fflai
+:Score: 3
+:DateUnix: 1489762025.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+**** Don't see what they can't be producing radio waves.
+
+If a simple charm can make wands emit electro-magnetic radiation in the form of light. There's no reason what a magical device can't produce longer wave EM radiation in the form of radio.
+:PROPERTIES:
+:Author: Madeline_Basset
+:Score: 1
+:DateUnix: 1489788628.0
+:DateShort: 2017-Mar-18
+:END:
+
+
+*** [deleted]
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1489883512.0
+:DateShort: 2017-Mar-19
+:END:
+
+**** Analogue
+
+Noun: an item or person seen as equal to another.
+:PROPERTIES:
+:Author: viol8er
+:Score: 1
+:DateUnix: 1489884075.0
+:DateShort: 2017-Mar-19
+:END:
+
+
+** Assuming it really is an issue and not just the wizard's misunderstanding of electronics that created the accepted fact that electronic stuff doesn't work amongst magic, I could think of a few things. I think its also important to note that single wizards and witches obviously don't "produce" enough magic on their own to shorten out electronics. Muggleborns would have a bit of a problem then.
+
+I once read a fic in which mages used Null-Fields linked to a small plate of copper to shield electronics from high magic areas. It would make the magic "flow around it" without touching it. The explanation behind it, if I remember correctly, was some tattoo that Pharaos would brand warlocks with to quell their magic.
+
+One fic established the notion that magic was some sort of conscious entity. While it was content to let the other forces of nature have a majority of Earth, it got quite jealous about its very own places. The solution therefore was to produce electricity with magic. Mages built powerplants run entirely by Animation Charms = usable "magical" electricity. It was a bit stupid, but thats why I liked it.
+
+Another theory I once read was that the nature of magic was some sort of "meta-energy"-thingy. Long exposition, short - the electronics would break as if you connected every contact with every other contact. A perfect short-circuit. The solution was to find ways to let magic flow through a device instead of electricity. I think the final solution was to remove all conduits between elements and then "command" the device to work. Magic would replace the conduits so that the device would work "according to its creators wishes" - which may lead a alarm clock made by a vindictive chinese factory worker to always wake you /juuuust/ a minute too late for you to be punctual, and computers assembled by a slighted retail-employee to crash when you got that very important document finished but not saved. Wizards and witches would then go ahead and buy up a lot of these production pipelines, make sure that the employees have the right mindset and good working conditions, all in order to make well-meaning and helpful devices.
+
+The last I can think of is the simple "its impossible, deal with it". Electronics and electricity is not working in high-magic areas. Period. Therefore the solutions have to be redone with magic. The Wireless is an example. So are the communication mirrors. The way to make devices work in Hogwarts and other places such as the castle, is to re-do them in a magical form of their function.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 3
+:DateUnix: 1489739789.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+** I usually assume electronics don't work inside warded areas - which would include most wizard homes and of course Hogwarts .
+:PROPERTIES:
+:Author: Starfox5
+:Score: 2
+:DateUnix: 1489734354.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+** Oh, I've done this one! Hope you like walls of text.
+
+Before we even go into how electronics could work around magic, we first have to figure out /why/ they don't work around magic. My theory is that they don't work around magic because there's some kind of jinx preventing it. Think global, or at least Europe-wide magic, which specifically prevents /electronics/ from /functioning as intended/.
+
+Let me go over the possibilities for why magic and electricity seem to not play nice together, so we can see why this is probably the case. One of three things has to be happening:
+
+1. Magic creates electromagnetic fields powerful enough to interfere with electronics. I don't think this is the case, because I'm fairly certain such a powerful EM field would have all sorts of obvious secondary effects that never get mentioned. Magic should be arcing like nobody's business when cast, but it doesn't. Nobody's hair ever stands on end. Besides that, it would have been impossible to hide magic by the 50s-70s. Either the widespread use of electricity, or the constant measuring for EMPs from nuclear detonations would have tipped somebody off. It'd be like trying to hide magic today, in the age of information.
+
+2. Magic screws with the fundamental force of electromagnetism. This would prevent electricity from working, since the very foundation for electricity doesn't work any longer, and doesn't require there being constant EMPs. However, if this was the case, chemistry would stop working. Clearly, it doesn't stop working, because nobody instantly dies due to a sudden lack of human-friendly physics, like hydrogen no longer bonding to oxygen. It could be that this is what's happening /and/ magic also somehow counteracts this effect, but that's getting pretty obtuse.
+
+3. An application of magic is preventing electronics from working. Now, let me make /another/ list of supporting evidence, incidental or not:
+
+- Magic is overwhelmingly presented as a tool, with specific applications, and not an omnipresent force. Whether or not it is a force on some level is irrelevant, because on the macro level, it just doesn't appear to be the case. When magic is doing something, it's because somebody or something has willed it to be so, not because magic itself is doing it by nature of existing. It always comes from somewhere.
+
+- We already know magic on this scale and on this level of abstraction exists. The Taboo is a spell effect which can detect a name being spoken. That's extraordinarily far out there, if you think about that on a mechanical level. It can only feasibly work because you can cast magic on concepts or ideas. "Electricity", from a human perspective, is just as much a concept or idea as a name.
+
+- It's unbelievably convenient. Honestly, magic just happens to cause arguably the single greatest muggle tool to malfunction? The same society that absolutely refuses to have anything to do with muggle society? It's far too convenient, for an entire race of people who do not want to be discovered, to be outright incompatible with the world that their ruling classes don't want anything to do with. Especially considering they could do it.
+
+So, I think it's intentional, and potentially even a conspiracy. If you wanted to use magic on an electronic, I think you'd need to develop a counter-jinx, or find a way to create a magically isolated environment, so that you can control exactly what sort of magic works on whatever is in that environment. Neither of which sounds easy to me. Even putting aside whether or not it's a conspiracy, you probably don't have access to the jinx, and I imagine you need that to develop a counter-jinx in any reasonable amount of time. I don't know about controlling the magic environment, if that's even a term which makes sense, or if you can do that against this sort of jinx.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1489737930.0
+:DateShort: 2017-Mar-17
+:END:
+
+*** Could it be that magic has wierd influences on physics? We have already seen that no matter how much you try to nerf conjuration and vanishing, magic still spits on physics. What if magical fields had their own fluctuations? Anything living, containing a spark of magic themselves,(yes I'm including muggles here) could not be affected, but any nonliving object would be subject to random effects like heat and cold, spontaneous combustion, and in the case of electrons flowing, increases frequency and distance of quantum tunneling. If electrons start teleporting between wires and semiconductors, then only simple circuits would work, such as a lightbulb or alarm clock. But if anything uses a complex motherboard for instance, then they will short out, and possibly catch fire.
+:PROPERTIES:
+:Author: Dorgamund
+:Score: 2
+:DateUnix: 1489762676.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+** This may seem a bit mundane as a solution, but it fits my headcanon:
+
+The problem isn't with Hogwarts being just highly magical. As noted elsewhere, the Ministry building, Diagon Alley and St. Mungo's all operate within London having no particular effect on the nearby muggle businesses. The problem is that, being a school, Hogwarts has a high concentration of /accidental/ magic; the sort of unguided, unrestrained invocations of intent that will screw with anything if it has half a reason to.
+
+To me, this is the reason Peeves exists- he's a conglomeration of angst that feeds on accidental magic that has been absorbed into the walls of the castle as a kind of safety valve. Durmstrang and Beauxbatons probably experience similar expressions of wild magic.
+
+The other not-very-inspiring aspect that has a bearing is that Hermione, when she brought it up, was talking about spy gear and radios. Since Hogwarts (and other important landmarks) is Unplottable- as in, 'magically can't be found on a map' - it makes sense that radio signals don't function as intended. If the protective enchantments are bending light around the place, you can imagine that tv and radio signals have similar difficulties getting through.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 2
+:DateUnix: 1489767390.0
+:DateShort: 2017-Mar-17
+:END:
+
+*** I always use hogwarts as being a crossing of 3, 5, or 7 ley lines and the other areas as having significantly less magical buildup due to not having x sacrifices used to ritually protect the castle durong its construction.
+:PROPERTIES:
+:Author: viol8er
+:Score: 1
+:DateUnix: 1489768839.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+** There's an old fic, Slytherin Rising, where the girls engineer walkmans and other electronics to work at Hogwarts. I forget if the author goes into detail about the theory but I remember it being a lot of work for them.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1489718718.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+** Sometimes, I wonder if the issue is not that electronics wouldn't work, but that it would, depending on its complexity, eventually gain a sort of sapience. I've always wondered why the Ford Anglia became wild/alive when before it showed no signs of doing so. Did Arthur Weasley mess up the enchantments that badly, or was it a natural consequence of exposing electronics to so much magic?
+
+Anyway, to prevent Hogwarts from being run over by sentient electronics, they spread the myth that electronics don't work in Hogwarts, and maybe even backed it up by charming the grounds too.
+:PROPERTIES:
+:Author: Selofain
+:Score: 1
+:DateUnix: 1489739071.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+** I think you could get things work just be removing the power of the object. Rowling once said that Colin Creevys camera works in Hogwarts on magic not electricity. So maybe you could just remove the batteries from a gameboy for example and cast a animation charm on it
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1489743628.0
+:DateShort: 2017-Mar-17
+:END:
+
+*** Cameras don't need batteries to function. hell, I can make a camera out of a cardboard box, film, a pin, and a well lit scene.
+:PROPERTIES:
+:Author: viol8er
+:Score: 2
+:DateUnix: 1489768959.0
+:DateShort: 2017-Mar-17
+:END:
+
+**** I didn't say all cameras needs batteries I said that Rowling mentioned in an interview that in Hogwarts Colin Creeveys camera works with magic instead of batteries.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1489772111.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+** Put the magic underground. The Ministry and London worked just fine together.
+:PROPERTIES:
+:Author: Conneron
+:Score: 1
+:DateUnix: 1489749549.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+** Thanks for this post because I was thinking through a potential fic that has some muggle electronics in it!
+:PROPERTIES:
+:Author: amoeba-tower
+:Score: 1
+:DateUnix: 1489753773.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+** I invented a device called an implecto which is a sort of aerial that plugs into the usb port of a computer and uses the magical energy to power the device. And I had Grimmauld place wired for electricity but it tends to blow fuses and the TV only gets channel 4.
+:PROPERTIES:
+:Author: booksandpots
+:Score: 1
+:DateUnix: 1489754727.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+** They catch on fire.
+:PROPERTIES:
+:Author: Bombshell_Amelia
+:Score: 1
+:DateUnix: 1489760775.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+** They couldn't.\\
+What we see of magic is a capacity to bend (and, basically, forget) reality to will. There are no "highly magical area", there are area where beings with the capacity to bend reality to their will, do; not much in a muggleborn house, every day in a pureblood house, and nearly permanently in Diagon or Hogwarts.\\
+On the other side, the use of electricity (and, even further on this scale, electronic components) are an affirmation of reality. A power cord would still transmit electricity in an arrea with magicl beings are active (basically, electricity is just electrons galivanting); an incandescent lamp may still be basic enough to work for a time. A microchip? Hell, it's very existence is anchored in the notion that the world follow very strict rules at any moment.\\
+To give an example : no smartphone could survive entry into the leaky cauldron because it works based on the principle that it can say where it is at any moment, but the leaky cauldron is charmed in order for non magical not to be able to find it.
+
+You will tell me, yes, but isn't it a problem for the shop next door from the leaky cauldron? Then my answer would be, why would it?\\
+OK, let's go a little further : most of what we read in fanfiction is based on the fact that magic can be explained in a (pseudo) scientific way, that arithmancy is a science, that magic manifests itself as a field. While Bacon (be it Roger or Francis) or Occam published before the status of secrecy, what we non-magical call science did not have the same definition at the end of the 17th century. Even Newton did not publish it's magnus opus before 1687 (5 years before the Statute), and he still was an alchemist. Most of what we consider "science" today is at most 2 centuries old.\\
+Let's get our hammer on this nail : science is a method, which allow to create predictive rules based on observation; magic is a way to put past observations to the bin, crush predictions and, damned be Darwin, turn a toirtoise into a rabbit. Arithmancy is where you learn that if your rabbit has a litter of seven in the morning, you'll be unlucky till lunch, while you'll be lucky till dinner if it's in the afternoon. Charms would have Newton seizure, and Transfiguration Einstein. Ancient runes is multi-layered poetry, a discipline where the meaning of words and individual "letters" are as important as the general rules of versification in order to reach the needed effect (and basically, are the current standard of /classical studies/ in the magical world, the equivalent of Latin for non-magical: interesting, but not of real use outside of litterary criticism (well, it would be curse-breaking in the magical world: ancient egyptian poetry-bound curses are hell to decipher).
+
+Sometimes, it's like everyone in the fanfiction community is with Milton, and I'm the only one /of the devil's party/ with Pullman. Clarke's third law does not mean that magic is an advanced science: I want my magical world to be magical, not a science I would be unable to understand; magic shall not be quantified and ruled, it must be an (ill defined) object of wonder and fables. I want my witches and wizards to forget logic on their way to greatness and change the world by willing it to be something else; I want my Trelawney able to see because she's unable to interpret, my Babbling thought process working alliterativelly, my Hagrid laughing to tears reading Darwin, my Dumbledore so powerfull because he never understood the meaning o the world "logic". I don't want want midichlorians, I want the old religion; I don't want magical computers, I want a pet cerberus.
+
+Ps : sorry for the rant.
+:PROPERTIES:
+:Author: graendallstud
+:Score: 1
+:DateUnix: 1489778784.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+** wizards are more immune to all the radiation magic spells cause, delicate technology isn't. muggles are unaware and unable to properly detect it because of the confundus like properties of anti muggle protection spells.
+:PROPERTIES:
+:Author: tomintheconer
+:Score: 1
+:DateUnix: 1489779191.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+** Maybe its not accidental at all, if the Dark Lord Tom could get a curse to stick that makes keeping a defense against the dark arts teacher longer then a year impossible, it would make sense that he(or some one else) could put up a ward/curse that ruins technology.
+:PROPERTIES:
+:Author: coalface92
+:Score: 1
+:DateUnix: 1489779459.0
+:DateShort: 2017-Mar-17
+:END:
+
+
+** I think its more liekly hogwarts is warded against electricity than it not working around magic. As for why, hogwarts was built to be a school first and castle second. It wouldnt surpise me to ward against lightning hitting quidditch players. Or to ward against some dark wizard with a lightning fetish.
+:PROPERTIES:
+:Author: AdolfWilks
+:Score: 1
+:DateUnix: 1501200978.0
+:DateShort: 2017-Jul-28
+:END:

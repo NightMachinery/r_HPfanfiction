@@ -1,0 +1,340 @@
+#+TITLE: What would magical gene expression be like?
+
+* What would magical gene expression be like?
+:PROPERTIES:
+:Author: parchment_33
+:Score: 12
+:DateUnix: 1587562874.0
+:DateShort: 2020-Apr-22
+:FlairText: Discussion
+:END:
+My first assumption is that magic is not polygenic. Because if magic was polygenic, muggleborns would probably have lower magical power than purebloods.
+
+So alleles may be:
+
+M = muggle, most dominant
+
+W = wizard
+
+S = squib, most recessive
+
+Combinations result in:
+
+MM = muggle
+
+MW = muggle
+
+MS = muggle
+
+WW = wizard
+
+WS = wizard
+
+SS = squib
+
+Do you think this theory would be possible? Is squibness inherited?
+
+Edit:
+
+polygenic = you have many loci or 'slots' for the alleles (An example is height)
+
+polyallelic = you have many alleles for one slot (An example is blood type because you have A, B, or O)
+
+
+** I actually think that the wizard gene is dominant, just very rare. It's my understanding that most muggle/wizard couples produce wizard children so MW = wizard. But at the same time, if it was a dominant inheritance pattern, there's no way to explain muggleborns. A recessive pattern would fit better in that case, because both of their parents would have to carry a wizard gene but not express it. Maybe it's generally a dominant gene but randomly shows up in some cases.
+:PROPERTIES:
+:Author: Abie775
+:Score: 17
+:DateUnix: 1587565410.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+** I don't know if it's necessarily a good idea to really define - because it starts getting iffy pretty quickly. For example in canon, JKR has said that all muggleborn are descended from Wizards, if you go back far enough. That'd imply that the wizarding gene is recessive, since there wouldn't be any muggles carrying the gene otherwise.
+
+Yet, at the same time, children from two wizards can still be squibs. Are they all the result of cheating? And muggles aren't likely to carry that recessive gene - so shouldn't muggle/wizard couples almost invariably have squibs/muggles as kids?
+
+I think that means that if we were really looking at it in canon, there'd probably need to be multiple genes to make it work - since you need both wizards carrying a recessive non-magic gene /and/ muggles carrying a recessive magic gene. Perhaps Gene A, being magical is dominant, and for gene B, it's recessive - and having either of the two 'active' means you can use magic and there's no benefit to having both active. That'd seem to match canon by having squibs be unlikely to occur (since you'd need a pretty specific combination of genes to occur) and having muggleborns also unlikely.
+
+I'm not a huge fan of digging into it and quantifying like this, however.
+:PROPERTIES:
+:Author: matgopack
+:Score: 14
+:DateUnix: 1587570233.0
+:DateShort: 2020-Apr-22
+:END:
+
+*** I had a similar idea but gave up on the napkin math pretty quickly -- genetics is /not/ my field. But I think it has merit.
+:PROPERTIES:
+:Author: ParanoidDrone
+:Score: 1
+:DateUnix: 1587574563.0
+:DateShort: 2020-Apr-22
+:END:
+
+**** The math itself is pretty easy - it's just all the different combinations that get easy to mix up, at least for the ones that end up in a squib, because they're all being expressed as something like AaBB and start to look the same ><
+:PROPERTIES:
+:Author: matgopack
+:Score: 3
+:DateUnix: 1587577205.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+*** Maybe being a squib is like a genetical disorder,
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1587579149.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+** I highly doubt it'd be simple mendelian patterns (if magic was genetic). Remember, you either have magic or you don't canonically. There's not spectrum of power canonically. Greater power is revealed to be greater skill. As such, a polygenic inheritance pattern would make sense and allow for the complexity of inheritance to factor in. That said, I personally dislike the idea that magic can be explained through genes or science. It detracts from the wonder of the magic and magic seems to be tied to the soul in canon. Souls obviously are not featured in scientific literature.
+:PROPERTIES:
+:Author: Impossible-Poetry
+:Score: 8
+:DateUnix: 1587595131.0
+:DateShort: 2020-Apr-23
+:END:
+
+
+** How to you propose Muggleborns are created?
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 8
+:DateUnix: 1587563489.0
+:DateShort: 2020-Apr-22
+:END:
+
+*** Two heterozygous Muggles have a 25% chance (assuming no complicating factors) for any given child to be magical assuming that at least one of them is MW.
+:PROPERTIES:
+:Author: WhosThisGeek
+:Score: 3
+:DateUnix: 1587566960.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+** I'm of the opinion that squibs are the result of a mutated recessive gene caused by inbreeding that neutralizes the majority of the M gene. What's left allows Squibs to see magic, but not actually practice it.
+
+"Muggleborn" are actually descendants of squibs who successfully bred out the recessive Squib gene.
+
+The original M gene? Let's call it a survival trait from eating stuff they shouldn't back in the caveman days.
+:PROPERTIES:
+:Author: Nyanmaru_San
+:Score: 4
+:DateUnix: 1587576292.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+** Squibs are born from two magic parents, therefore SS= M I don't know a lot about biology, but I think we just have to assume magical lineage does not follow normal human constraints
+:PROPERTIES:
+:Author: Beccy_Nerd
+:Score: 4
+:DateUnix: 1587563969.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+** I think being a squib is not a gene, and actually is just a magical disorder. THis magical disorder is on a spectrum, from not being able to channel things through a wand (wandless magic only), to only being able to affect your own body (health and glamours) to not being able to express ANY magic but still be able to see and inteact with it as the muggle reppelling wards sense magic in them
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1587579064.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+** As you may realize from the Sugar Quill article that [[/u/DarkLordRowan][u/DarkLordRowan]] posted this idea has been around since the beginning of HP especially because the blood purity rhetoric of the Death Eaters is so similar to Eugenics movements like those in Nazi Germany. It is one I have looked into when building background for fics though I haven't posted any of them. Here is another resource for you. It looks similar to the SQ article but perhaps a bit longer.
+
+[[https://hp-essays.livejournal.com//16503.html][https://hp-essays.livejournal.com/16503.html]]
+
+It links another LJ essay at the end too, but that journal is behind the 18+ LJ wall so I didn't want to post it directly. Happy reading.
+:PROPERTIES:
+:Author: IamProudofthefish
+:Score: 3
+:DateUnix: 1587673762.0
+:DateShort: 2020-Apr-24
+:END:
+
+
+** If this were the case, muggleborns wouldn't be a thing and Snape, Seamus, Dean, Voldemort, and Umbridge would be muggles.
+
+This magical gene has to be dominant and also a relatively common mutation, like achondroplasia without homozygosity being lethal. Squibs are either the result of the gene mutating again or another gene mutating to mute expression. Canon seems to contradict the idea that halfbloods are more likely to be squibs, so the latter would make more sense, with the mutated second gene impacting the expression of magic regardless of if there are one or two copies.
+:PROPERTIES:
+:Author: tipsytops2
+:Score: 2
+:DateUnix: 1587567030.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+** It could still be polygenic. Only one gene = magic? You're actually a muggleborn squib.
+:PROPERTIES:
+:Author: Sam-HobbitOfTheShire
+:Score: 2
+:DateUnix: 1587575203.0
+:DateShort: 2020-Apr-22
+:END:
+
+*** Mind blown. So they would be able to feel (maybe even see) Demontors and all of the rest of it, but they would have not idea why and no one there to help them, because they don't have enough magic or at all.
+
+Damn, that would be interesting. xD
+:PROPERTIES:
+:Author: Seiridis
+:Score: 2
+:DateUnix: 1587576836.0
+:DateShort: 2020-Apr-22
+:END:
+
+**** Who knows, maybe that's one source of one type of schizophrenia?
+:PROPERTIES:
+:Author: Sam-HobbitOfTheShire
+:Score: 2
+:DateUnix: 1587576879.0
+:DateShort: 2020-Apr-22
+:END:
+
+***** :O
+:PROPERTIES:
+:Author: Seiridis
+:Score: 2
+:DateUnix: 1587578188.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+** There's a good website I came across that went through the logic of using Jks random genetics and trying to work out the probabilities and such. Turns out JK saying the magic gene being dominant is actually incorrect by her other claims of certain wizards being squibs turns out it's much more complex.
+:PROPERTIES:
+:Author: DarkLordRowan
+:Score: 1
+:DateUnix: 1587576277.0
+:DateShort: 2020-Apr-22
+:END:
+
+*** ...what's the website? xD
+:PROPERTIES:
+:Author: Seiridis
+:Score: 2
+:DateUnix: 1587576879.0
+:DateShort: 2020-Apr-22
+:END:
+
+**** Okay I finally found it, after tons of google searches [[http://www.sugarquill.net/index.php?action=gringotts&st=genetics]]
+
+Although it is worth mentioning already that we know for a fact genetics in Harry Potter don't work like real world genetics, but I still think it's fun to try and make some logic out of it.
+
+The entire idea of a wizard being able to produce half giants or half veelas or quarter veelas is already impossible in our society. Because although you can breed a lion and a tiger, all results of that breeding is sterile and unable to reproduce, which we know isn't the case in HP since Fleur has a veela grandmother and can have kids herself. I mean I guess veelas, vampires, giants, etc. could all be homo sapiens, which would be pretty weird.
+:PROPERTIES:
+:Author: DarkLordRowan
+:Score: 3
+:DateUnix: 1587580217.0
+:DateShort: 2020-Apr-22
+:END:
+
+***** Thank you very much for your effort, I saved your comment for future reference. :D
+:PROPERTIES:
+:Author: Seiridis
+:Score: 2
+:DateUnix: 1587591647.0
+:DateShort: 2020-Apr-23
+:END:
+
+
+** It doesn't really make sense to have a different allele for squibs. The most likely explanation I can think of would be the magical gene being recessive and not independently sorted which would decrease the rate of recombination. Squibs would simply be genetically equivalent to muggles. It also may be a less expressed portion of the genome based on environment. So, if a child never encounters a magical environment, it would be under expressed. However, we're talking about magic that defies the laws of physics, so I don't really think that normal genetic inheritance would apply.
+:PROPERTIES:
+:Author: greenpeapanda
+:Score: 1
+:DateUnix: 1587577621.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+** the least contrived way to make sense of it imo is to have the “magic gene” be a fairly mutable endogenous retrovirus
+:PROPERTIES:
+:Author: colorandtimbre
+:Score: 1
+:DateUnix: 1587582859.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+** I don't think squibness would be inherited, but polygenetic sounds right. I think squibness would probably be related to the amount of expression of a gene.
+
+There might be genes A,B,C,D that all have to be inherited to produce magical traits. Maybe mutations in one or more of the genes causes the other genes to be repressed or unable to be expressed, leading to squibs.
+
+Say magicals are A+A+, etc. usually. A mutation happens. The child gets A+A-. The wild type A+ allele still produces some magical protein whatever, but the A- is mutated and doesn't. The child only has 50% or whatever number of the usual magical protein, so they cannot do magic because they don't reach the magic threshold.
+
+Maybe some muggles have some of the genes or have weakened versions of genes.When the right combination happens in offspring, muggleborns are born.
+
+There might be something going on with deletion mutations or repeat mutations like how in diseases like Huntingtons, some sections of genes get repeated as they're passed down generations, causing earlier onset of disease. Though you're right that muggleborns aren't necc weaker than purebloods, so this conjecture is probably out.
+
+There's probably some epigenetic weirdness going on where conditions in the womb or whatever causes changes to the configuration of the DNA (chromatin structure, methylation, idk, magical particles attaching and allowing for increased transcription) that makes it more likely for the trait to be expressed in magicals. I read that tere's some type of corn trait where if you cross purple and yellow, even if some of their descendants end up only having yellow alleles, the offspring are still purple due to some other factors.
+:PROPERTIES:
+:Author: 4noki
+:Score: 1
+:DateUnix: 1587583057.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+** linkffn(The Well Groomed Mind) goes into this
+:PROPERTIES:
+:Author: FinnD25
+:Score: 1
+:DateUnix: 1587594907.0
+:DateShort: 2020-Apr-23
+:END:
+
+*** [[https://www.fanfiction.net/s/8163784/1/][*/The Well Groomed Mind/*]] by [[https://www.fanfiction.net/u/1509740/Lady-Khali][/Lady Khali/]]
+
+#+begin_quote
+  On Halloween 1994, Harry learns his mind isn't his own. On Samhain morn, he vows to question everything. Armed with logic and an unlikely ally, Harry makes a last ditch bid to reclaim his life. The goal: survive at all costs.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{30} ^{*|*} ^{/Words/:} ^{193,050} ^{*|*} ^{/Reviews/:} ^{4,235} ^{*|*} ^{/Favs/:} ^{9,850} ^{*|*} ^{/Follows/:} ^{10,869} ^{*|*} ^{/Updated/:} ^{12/30/2017} ^{*|*} ^{/Published/:} ^{5/29/2012} ^{*|*} ^{/id/:} ^{8163784} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Drama} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8163784&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8163784&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1587594930.0
+:DateShort: 2020-Apr-23
+:END:
+
+
+** This is what I use in my fanfics
+
+So, my theory, magic core is technically the magic all people have. Rather than an orb or anything it's just the presence of magic. Everyone has it but not everyone can access it.
+
+Another is a magic circuit, it is a system that shares the circulatory system. It allows magic to flow throughout the body.
+
+Basically, (if the link doesn't work)
+
+Magic incomplete dominant gene
+
+MM - strong magic M'M & MM' - average M'M'- weak
+
+Magic circuit. Recessive gene
+
+CC - true muggle cC & Cc - Wizarding descent cc - wizard /witch
+
+Magic circuit suppressor - dominant gene
+
+SS- true pure muggle Ss & sS - average muggle ss- wizard /wizard descent
+
+Type of combination MM'CcSs- Average muggles M'M'ccss - hedge wizard (squibs occur when magic is preoccupied keeping a defective kid alive or a birth defect on magic circuit) MMccss or M'Mccss - muggleborn and regular wizards.
+
+The dominant magic suppressor and recessive circuit causes several generations before a squib line gives birth to a muggleborn.
+
+An M gene genetically linked to s gene. If you inherit M you most likely inherit s gene. It's why most half blood has magic and powerful but is still possible to have a non magical kid.
+
+It is also important to point out that magic tend to compensate birth defects. It tend to accumulate until there isn't enough usable magic anymore so it's not that squibs suddenly get suppressor gene or no circuit gene, just magic just is occupied with life support.
+:PROPERTIES:
+:Author: Rift-Warden
+:Score: 1
+:DateUnix: 1587652061.0
+:DateShort: 2020-Apr-23
+:END:

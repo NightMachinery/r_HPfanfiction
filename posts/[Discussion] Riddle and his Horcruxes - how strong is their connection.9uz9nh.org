@@ -1,0 +1,565 @@
+#+TITLE: [Discussion] Riddle and his Horcruxes - how strong is their connection?
+
+* [Discussion] Riddle and his Horcruxes - how strong is their connection?
+:PROPERTIES:
+:Author: SomeKibble
+:Score: 2
+:DateUnix: 1541596134.0
+:DateShort: 2018-Nov-07
+:FlairText: Discussion
+:END:
+I'm currently trying my best to create (for myself) as comprehensive a knowledge base on Riddle's Horcruxes as possible. During my research I've realised I've yet to find out one important factor in the relationship between Riddle and his soul shards:
+
+Was he aware of their status - in particular - when each was destroyed? I'm aware that the movies showed he was clearly aggravated and even hurt by each horcruxe's destruction, but since they showed Riddle dying all “Thanos Spring Cleaning” style I put no stock in film interpretation.
+
+I'm currently waiting because I've loaned OotP, HBP and DH to a friend so I have no source to read from rip me. Help for pls anyone?
+
+
+** So many fics just get horcrux mechanics all wrong.
+
+1. You can't directly affect a horcrux. *That's the point of a horcrux*. You can't kill a horcrux with a killing curse, a Dementor can't suck a horcrux out of its receptacle, and certainly there aren't any medical procedures that can extract it. Even when you do something to destroy the horcrux, like stabbing one of Voldemort's horcruxes with a basilisk fang, you're not directly affecting the soul piece. The basilisk venom doesn't kill the soul, it destroys the physical object, after which the soul must move on. *The only way to destroy a horcrux is to physically destroy the receptacle*. This is such a basic point that so many people fail to understand.
+
+2. Horcruxes don't have default invulnerability. Something being a horcrux does not in itself grant that object any special invulnerability to damage. The Dark wizard creating the horcrux must enchant the receptacle to resist damage separately from the process of making it a horcrux.
+
+3. There isn't a default set of horcrux-protecting enchantments that all horcruxes possess. The wizard creating the horcrux puts the protections on the receptacle, and what things that wizard chooses to protect against depends on the wizard's choices and capabilities. *Different horcruxes will therefore be protected against different things*. This is what it means to put a horcrux beyond magical repair (and thus destroy it): *you put the horcrux beyond that horcrux's specific ability to magically repair*, not beyond some abstract concept of magical repair in general. Basilisk venom for example, does not necessarily put something beyond magical repair: if you have phoenix tears, you can repair the damage of basilisk venom. So the horcrux in Harry wasn't destroyed by basilisk venom, because he wasn't put beyond magical repair by it, but it does destroy the others because Voldemort didn't protect them against basilisk venom. It's specifically stated, however, that had Voldemort had access to phoenix tears, he would have been able to protect his horcruxes against basilisk venom. *Basilisk venom is not some set-in-stone horcrux-destroyer, it destroys horcruxes simply because the ingredient necessary to resist it is so rare*.
+
+All of this was explained explicitly in Deathly Hallows chapter 6.
+
+Horcrux being tied innately to its physical container:
+
+#+begin_quote
+  “But even if we wreck the thing it lives in,” said Ron, “why can't the bit of soul in it just go and live in something else?”
+
+  “Because a Horcrux is the complete opposite of a human being.” Seeing that Harry and Ron looked thoroughly confused, Hermione hurried on. “Look, if I picked up a sword right now, Ron, and ran you through with it, I wouldn't damage your soul at all.”
+
+  ”Which would be a real comfort to me, I'm sure,” said Ron. Harry laughed.
+
+  “It should be, actually! But my point is that whatever happens to your body, your soul will survive, untouched,” said Hermione. “But it's the other way round with a Horcrux. *The fragment of soul inside it depends on its container, its enchanted body, for survival*. It can't exist without it.”
+#+end_quote
+
+Protections on a horcrux are put there separately by the Dark wizard making it:
+
+#+begin_quote
+  “No,” said Ron, before Harry could answer. “So does it say how to destroy Horcruxes in that book?”
+
+  “Yes,” said Hermione, now turning the fragile pages as if examining rotting entrails, “because *it warns Dark wizards how strong they have to make the enchantments on them*.
+#+end_quote
+
+Efficacy of basilisk fangs in destroying horcruxes depends on horcruxes not being protected against it, due to the rarity of its single counteracting force:
+
+#+begin_quote
+  "From all that I've read, what Harry did to Riddle's diary was one of the few really foolproof ways of destroying a Horcrux.”
+
+  “What, stabbing it with a basilisk fang?” asked Harry.
+
+  “Oh well, lucky we've got such a large supply of basilisk fangs, then,” said Ron. “I was wondering what we were going to do with them.”
+
+  “It doesn't have to be a basilisk fang,” said Hermione patiently. “It has to be *something so destructive that the Horcrux can't repair itself. Basilisk venom only has one antidote, and it's incredibly rare* --“
+
+  “-- phoenix tears,” said Harry, nodding.
+
+  “Exactly,” said Hermione.
+#+end_quote
+
+Another misconception is that Voldemort and his horcruxes are in some sense equal in terms of their claims to being Voldemort. But Voldemort is specifically referred to by JKR as the "master soul". Even if he wasn't, however, I think it would be strongly implied. The fact that the horcruxes act as anchors for Voldemort but do not anchor each other, and the fact that Voldemort's soul does not anchor the soul fragments in the horcruxes, demonstrates that the relationship between the horcrux and Voldemort is very much a subservient one.
+:PROPERTIES:
+:Author: Taure
+:Score: 13
+:DateUnix: 1541617722.0
+:DateShort: 2018-Nov-07
+:END:
+
+*** Sometimes I feel like you know more about the mechanics of the HP universe than Rowling herself.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1541641104.0
+:DateShort: 2018-Nov-08
+:END:
+
+
+*** Why wouldn't a dementor work?
+:PROPERTIES:
+:Author: ZePwnzerRJ
+:Score: 1
+:DateUnix: 1541649972.0
+:DateShort: 2018-Nov-08
+:END:
+
+**** Because we are told that the only way to destroy a horcrux is to destroy the physical object, and we are even given an explanation: the relationship between body and soul in a human is different to that in a horcrux. A human is a soul that happens to have a body - the soul is primary, and the loss of the body does not affect it. A horcrux is the opposite: it is a body that happens to have a bit of soul. Unlike a human, the soul of a horcrux is not independent of the body: they are one and the same, and the soul's fate is tied to the fate of the body.
+:PROPERTIES:
+:Author: Taure
+:Score: 1
+:DateUnix: 1541661700.0
+:DateShort: 2018-Nov-08
+:END:
+
+
+** He was not: when he learns that there has been a break-in at Gringotts - where he knows there is a horcrux - Harry gets a vision of him checking all the horcrux locations and finding them gone. And then resolving to go check on the one at Hogwarts, which is how they know he's coming.
+:PROPERTIES:
+:Author: ConsiderableHat
+:Score: 10
+:DateUnix: 1541598409.0
+:DateShort: 2018-Nov-07
+:END:
+
+*** Ahk thought as much, cheers!
+:PROPERTIES:
+:Author: SomeKibble
+:Score: 1
+:DateUnix: 1541598829.0
+:DateShort: 2018-Nov-07
+:END:
+
+
+** Canon[books only, no twitter addends] information of horcruxes is quite vague.\\
+And Voldemort seems to realize that Harry was after the horcruxes because of the Gringotts break-in. In essence, they are totally off the gird, homing beacons like anchors which don't let his soul pass ahead. He isn't aware of their status through any telepathic links. Other than say Harry and Nagini which are passive.\\
+It might be possible that Voldemort had this connection before Halloween 1991, and that night might've caused the connections with horcruxes to block out from him.
+
+If you're planning on writing a fic, go with whatever you feel suits the story.
+
+​
+:PROPERTIES:
+:Author: Abishek_Ravichandran
+:Score: 3
+:DateUnix: 1541598566.0
+:DateShort: 2018-Nov-07
+:END:
+
+*** Funnily enough despite the fact I am this post was more for my own sanity haha. I'm more then confident in writing the Horcruxes up however I see fit, but I always feel safer in doing so with a firm knowledge base of the topic, hence my research :)
+:PROPERTIES:
+:Author: SomeKibble
+:Score: 1
+:DateUnix: 1541598911.0
+:DateShort: 2018-Nov-07
+:END:
+
+
+** He isn't aware of them getting destroyed until he hears about the break-in at Gringotts.
+
+There's yet another plot hole here however - he gets the knowledge of the blood protection from the diary, but is unaware of its destruction until HP's sixth year. Draco taking the mark was Lucius' punishment for losing the diary. So he was apparently able to get information across the horcrux, but was not aware of its destruction by itself?
+
+Same goes for the locket - even though the he could glean information from the diary, he is unable to do that through the locket, otherwise he would have found out the trio's location quite easily.
+
+Edit: For people wanting to know where and how Voldemort comes to know about the sacrificial magic, here.
+
+#+begin_quote
+  "To business, Harry," said Riddle, still smiling broadly. "Twice - in your past, in my future - we have met. And twice I failed to kill you. How did you survive? Tell me everything. The longer you talk," he added softly, "the longer you stay alive."
+
+  Harry was thinking fast, weighing his chances. Riddle had the wand. He, Harry, had Fawkes and the Sorting Hat, neither of which would be much good in a duel. It looked bad, all right... but the longer Riddle stood there, the more life was dwindling out of Ginny... and in the meantime, Harry noticed suddenly, Riddle's outline was becoming clearer, more solid... If it had to be a fight between him and Riddle, better sooner than later.
+
+  "No one knows why you lost your powers when you attacked me," said Harry abruptly. "I don't know myself. But I know why you couldn't kill me. Because my mother died to save me. My common Muggle-born mother," he added, shaking with suppressed rage. "She stopped you killing me. And I've seen the real you, I saw you last year. You're a wreck. You're barely alive. That's where all your power got you. You're in hiding. You're ugly, you're foul--"
+
+  Riddle's face contorted. Then he forced it into an awful smile. "So. Your mother died to save you. Yes, that's a powerful countercharm. I can see now... there is nothing special about you, after all. I wondered, you see. There are strange likenesses between us, after all. Even you must have noticed. Both half-bloods, orphans, raised by Muggles. Probably the only two Parselmouths to come to Hogwarts since the great Slytherin himself We even look something alike... but after all, it was merely a lucky chance that saved you from me. That's all I wanted to know."
+#+end_quote
+
+And the part from book 4 where Voldemort explains to his Death Eaters.
+
+#+begin_quote
+  "Yes," said Voldemort, a grin curling his lipless mouth as the eyes of the circle flashed in Harry's direction. "Harry Potter has kindly joined us for my rebirthing party. One might go so far as to call him my guest of honor."
+
+  There was a silence. Then the Death Eater to the right of Wormtail stepped forward, and Lucius Malfoy's voice spoke from under the mask.
+
+  "Master, we crave to know...we beg you to tell us...how you have achieved this...this miracle...how you managed to return to us...."
+
+  "Ah, what a story it is, Lucius," said Voldemort. "And it begins - and ends - with my young friend here."
+
+  He walked lazily over to stand next to Harry, so that the eyes of the whole circle were upon the two of them. The snake continued to circle.
+
+  "You know, of course, that they have called this boy my downfall?" Voldemort said softly, his red eyes upon Harry, whose scar began to burn so fiercely that he almost screamed in agony. "You all know that on the night I lost my powers and my body, I tried to kill him. His mother died in the attempt to save him - and unwittingly provided him with a protection I admit I had not foreseen....I could not touch the boy."
+
+  Voldemort raised one of his long white fingers and put it very close to Harry's cheek.
+
+  "His mother left upon him the traces other sacrifice....This is old magic, I should have remembered it, I was foolish to overlook it...but no matter. I can touch him now."
+#+end_quote
+:PROPERTIES:
+:Author: avittamboy
+:Score: 0
+:DateUnix: 1541598373.0
+:DateShort: 2018-Nov-07
+:END:
+
+*** u/Dalai_Java:
+#+begin_quote
+  he gets the knowledge of the blood protection from the diary
+#+end_quote
+
+Where is this said? I just assumed that he, being the magic nerd that he is, worked it out based on the original backfire + what happened in PS.
+:PROPERTIES:
+:Author: Dalai_Java
+:Score: 6
+:DateUnix: 1541599281.0
+:DateShort: 2018-Nov-07
+:END:
+
+**** Tom RIddle asks HP about it in the Chamber, and HP tells him.
+
+Later, in book 4, Voldemort tells the gathered Death Eaters how HP survived.
+:PROPERTIES:
+:Author: avittamboy
+:Score: -3
+:DateUnix: 1541599454.0
+:DateShort: 2018-Nov-07
+:END:
+
+***** I recall that, but I don't think that it is transmitted knowledge. If he got to learn what the diary knew, he should have known it had been destroyed (or at least put into use). I think that he's just a smart dude who worked it out independent of the diary.
+:PROPERTIES:
+:Author: Dalai_Java
+:Score: 5
+:DateUnix: 1541599800.0
+:DateShort: 2018-Nov-07
+:END:
+
+
+*** Both Diary!Riddle in CoS and Voldemort in GoF state that Lily's blood protection is a known counter-charm. He didn't need to "find out" about it from anyone - this piece of magic was already part of his knowledge base. It emphasises that Voldemort's weakness is not ignorance -- he has a vast knowledge of magic -- but rather failing to value certain types of magic.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1541617267.0
+:DateShort: 2018-Nov-07
+:END:
+
+**** Just because Riddle and Voldemort are knowledgeable about exotic magic does not mean that they are omniscient.
+
+To use an analogy, I'm quite decent at university level Mathematics, but I can occasionally struggle with simpler problems because I'm not approaching the problems the way they're meant to be. When these simpler problems are explained to me, I get a facepalm moment, because they're quite simple, in hindsight.
+
+It is the same way with Riddle - he's looking at the causation of his defeat from all sorts of angles, thinking that the reason he was defeated was something incredibly powerful and innate to Harry himself. When he does find out the true reason, he too gets a facepalm moment.
+:PROPERTIES:
+:Author: avittamboy
+:Score: 1
+:DateUnix: 1541618219.0
+:DateShort: 2018-Nov-07
+:END:
+
+
+*** Bugger, I figured from my memory of the books that it was convoluted but that is bloody ridiculous. You wouldn't happen to remember which book that information regarding Riddle learning of the Blood Protection comes from?
+:PROPERTIES:
+:Author: SomeKibble
+:Score: 1
+:DateUnix: 1541598795.0
+:DateShort: 2018-Nov-07
+:END:
+
+**** The diary version of him asks HP about how he survived the killing curse as a toddler and HP tells him. 2nd book. Later, in book 4, during Voldemort's welcome back speech, he elaborates to the Death Eaters how HP survived.
+:PROPERTIES:
+:Author: avittamboy
+:Score: 0
+:DateUnix: 1541599314.0
+:DateShort: 2018-Nov-07
+:END:
+
+***** Except that that instance of Riddle had encountered the blood protection twice: the night he was discarnated and the night he met Harry in the mirror room at the end of Philosophers' Stone. You don't have to presume that the graveyard-instance of Riddle communicated with the diary-instance, graveyard-Riddle has his own eyewitness evidence - and by the sound of what he's saying, it's a magic he knew as well, and considered himself foolish to have forgotten it until he suffered from it.
+:PROPERTIES:
+:Author: ConsiderableHat
+:Score: 3
+:DateUnix: 1541601310.0
+:DateShort: 2018-Nov-07
+:END:
+
+****** Sure, but then, there's no other reason to include the part in the Chamber.
+
+Also, check out what Riddle says - '"Twice - in your past, in my future - we have met. And twice I failed to kill you."'
+
+How does the diary know that they've met /twice/? Sure, Ginny would have told him about the fated encounter when Harry was a toddler, but what about the time with the Stone? There's no way Ginny would have known about that, considering Ron doesn't speak to his sister at all. Riddle knew about that encounter, and knew that he was thwarted too.
+
+That's more or less a confirmation that there is some form of information transfer going on.
+:PROPERTIES:
+:Author: avittamboy
+:Score: -2
+:DateUnix: 1541602108.0
+:DateShort: 2018-Nov-07
+:END:
+
+******* u/ConsiderableHat:
+#+begin_quote
+  That's more or less a confirmation that there is some form of information transfer going on.
+#+end_quote
+
+I think you're reaching a bit, there, as it happens: Ron may not talk to his sister, but he surely talks to his parents, who might well have discussed it where Ginny could hear. There's also the Hogwarts rumour mill, which would have had /much/ to say about Gryffindor coming from behind in the points the previous year, and as Dumbledore observes at the end of PS, the entire castle had had the full story. (As it happens, I think this is the more likely way for Ginny to have heard the tale, writing down every version of the rumours in her diary and Tom analysing those to figure out what elements are truth and what embroidery.)
+
+If you're not reaching, the diary was different to the other horcruxes in that it came the closest of any of them to full incarnation: that could have been enough to form the link that the living horcruxes (Harry and Nagini) had, so that Riddle-prime was at least having a vision of the events in the Chamber.
+:PROPERTIES:
+:Author: ConsiderableHat
+:Score: 2
+:DateUnix: 1541605598.0
+:DateShort: 2018-Nov-07
+:END:
+
+******** u/avittamboy:
+#+begin_quote
+  he surely talks to his parents, who might well have discussed it
+#+end_quote
+
+I doubt it. They never make any mention of the happenings of first year ever. I would imagine that they'd have a lot of things to say about a mountain troll, a cerberus, detentions in a freaky forest with giant spiders and dark lords teaching at a school, but they don't touch on any of that. Granted, the books are children's books, but still.
+
+#+begin_quote
+  the Hogwarts rumour mill
+#+end_quote
+
+They can be saying anything, literally anything. Why would the headmaster of the school, who also happens to be one the most powerful political figures in their world, tell a bunch of teenagers information that is supposed to be extremely confidential?
+
+When he awards those points to the trio at the end of the year, he uses the most vague reasons possible. He awards Ron points for playing the finest game of chess, for crying out loud.
+
+#+begin_quote
+  Dumbledore observes at the end of PS, the entire castle had had the full story
+#+end_quote
+
+You cannot be serious here. This was said in jest. Surely you understand that.
+
+#+begin_quote
+  If you're not reaching, the diary was different to the other horcruxes in that it came the closest of any of them to full incarnation: that could have been enough to form the link that the living horcruxes (Harry and Nagini) had, so that Riddle-prime was at least having a vision of the events in the Chamber.
+#+end_quote
+
+Probably. But he doesn't know about its destruction until much later after he comes back to power, which is where my gripe is. If he's having a vision or something similar about the events that happened inside the Chamber, then he should also have had the info about the destruction of the diary passed over, or at the very least, the images of HP moving to stab the diary with the basilisk fang. He doesn't.
+:PROPERTIES:
+:Author: avittamboy
+:Score: 0
+:DateUnix: 1541608170.0
+:DateShort: 2018-Nov-07
+:END:
+
+
+******* u/MindForgedManacle:
+#+begin_quote
+  How does the diary know that they've met twice
+#+end_quote
+
+Because as Dumbledore said at the end of Book 1 everyone in the school knew Harry had just fought and defeated Voldemort again.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 1
+:DateUnix: 1541602419.0
+:DateShort: 2018-Nov-07
+:END:
+
+******** Uh huh.
+
+And of course, the news that the most feared dark lord wasn't as dead as people believed does not throw the country into an uproar. Of course, let's go with that.
+
+In case you're not old enough to understand, he says that bit in jest. He also never uses the name Voldemort. He says Quirrel.
+:PROPERTIES:
+:Author: avittamboy
+:Score: 0
+:DateUnix: 1541603390.0
+:DateShort: 2018-Nov-07
+:END:
+
+********* u/MindForgedManacle:
+#+begin_quote
+  And of course, the news that the most feared dark lord wasn't as dead as people believed does not throw the country into an uproar. Of course, let's go with that.
+#+end_quote
+
+"Most" people didn't believe he was dead, some just hoped he was after being defeated. Crouch Sr. says at his son's own trial that the Ministry knew Voldemort wasn't dead (he mentions that Jr. and Bella and co. were known to have been searching for the " present whereabouts of [their] exiled master"). And your understanding of Dumbledore's comments would make nonsense of the series because then the school would think Harry just killed Quirrell as opposed to stopping someone possessed by Voldemort. No, Dumbledore says they all know what happened there and there's nothing to indicate that excludes Voldemort's presence. And I suppose we'll just ignore OoTP confirming that everyone knew about Voldemort being there. Neville says it in the Hog's Head - that Harry stopped Voldemort from getting the Stone - and no one contradicts him:
+
+​
+
+#+begin_quote
+  'And in our first year,' said Neville to the group at large, 'he saved that Philo­log­ical Stone -'
+
+  'Philoso­pher's,' hissed Hermione.
+
+  'Yes, that - from You-​Know-​Who,' fin­ished Neville.
+
+  Han­nah Ab­bott's eyes were as round as Galleons.
+#+end_quote
+
+​
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 1
+:DateUnix: 1541611682.0
+:DateShort: 2018-Nov-07
+:END:
+
+********** u/avittamboy:
+#+begin_quote
+  he mentions that Jr. and Bella and co. were known to have been searching for the " present whereabouts of [their] exiled master
+#+end_quote
+
+This means that Bellatrix and co thought/believed that their master wasn't dead, merely exiled. It does not, however, mean that Crouch Sr shared or agreed with their thoughts.
+
+#+begin_quote
+  then the school would think Harry just killed Quirrell as opposed to stopping someone possessed by Voldemort
+#+end_quote
+
+Sure, they could think that an otherwise normal eleven year old is capable of killing. Or they could use their brains just think that Harry stopped Quirrel from stealing something by sheer chance, and Quirrel was immediately apprehended and sent to prison.
+
+#+begin_quote
+  And I suppose we'll just ignore OoTP
+#+end_quote
+
+You said it yourself - that's OoTP, when Voldemort's resurrection has been outed. The public outcry following Harry's declaration and his (and Albus') character assassinations are what happened after they said that a dead dark lord came back to life.
+
+Also, Hannah Abbott's reaction is quite telling. The fact that her eyes were as wide as saucers is a very good indicator that the part about the Stone and the persons involved were completely new to her, an otherwise completely ordinary student (average joe).
+:PROPERTIES:
+:Author: avittamboy
+:Score: 0
+:DateUnix: 1541614667.0
+:DateShort: 2018-Nov-07
+:END:
+
+*********** u/MindForgedManacle:
+#+begin_quote
+  This means that Bellatrix and co thought/believed that their master wasn't dead, merely exiled. It does not, however, mean that Crouch Sr shared or agreed with their thoughts.
+#+end_quote
+
+No, Crouch Sr. referred to Voldemort as exiled, not dead. There's no way to read that scene as him randomly speaking to the assumptions of Death Eaters. There was no corpse of Voldemort's so far as any material has stated.
+
+#+begin_quote
+  Sure, they could think that an otherwise normal eleven year old is capable of killing. Or they could use their brains just think that Harry stopped Quirrel from stealing something by sheer chance, and Quirrel was immediately apprehended and sent to prison.
+#+end_quote
+
+No one thought Quirrel was sent to prison. They knew the whole story according to Dumbledore.
+
+#+begin_quote
+  You said it yourself - that's OoTP, when Voldemort's resurrection has been outed. The public outcry following Harry's declaration and his (and Albus') character assassinations are what happened after they said that a dead dark lord came back to life.
+#+end_quote
+
+No no no, this is in the Hog's Head well before Voldemort's return is known. As stated near the beginning of that book, almost no one outside the Order knew anything substantial had happened. And Hannah's reaction isn't that difficult to understand. It might have been something she didn't believe or had even just forgotten. After all, it's not like she went up against Voldemort and saw him. Their school had been, prior to OoTP, on the receiving end of many direct threats (Basilisks, Dementors, dragons,etc.) besides one she never saw. And though you don't want to admit it, that Neville knew about it proves Dumbledore was being literal. The whole school knew everything that happened there; Neville had been put in a Body Bind so he didn't know anything from experience.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 2
+:DateUnix: 1541615553.0
+:DateShort: 2018-Nov-07
+:END:
+
+************ u/avittamboy:
+#+begin_quote
+  No, Crouch Sr. referred to Voldemort as exiled, not dead
+#+end_quote
+
+Not going to argue about this, don't have the book with me.
+
+#+begin_quote
+  They knew the whole story according to Dumbledore.
+#+end_quote
+
+You do understand what a joke is, don't you? When Dumbledore says that line, he's joking. It's dry humour.
+
+#+begin_quote
+  No no no, this is in the Hog's Head well before Voldemort's return is known
+#+end_quote
+
+This is after Harry declares that Voldemort is back, after the Ministry and their media outlets launch a smear campaign against him and send a stooge to their school to ensure that Harry's lies aren't allowed to take root.
+
+#+begin_quote
+  Their school had been, prior to OoTP, on the receiving end of many direct threats (Basilisks, Dementors, dragons,etc.)
+#+end_quote
+
+Of those things, the only real threat was the basilisk. The dementors were sent there to guard the school, and the dragons are part of a tournament - the students watch the task from far away. That's hardly a /threat/ to a school.
+
+#+begin_quote
+  Neville knew about it
+#+end_quote
+
+Neville knew about it because he tried to stop them from leaving on their nightly jaunt and got cursed for his troubles. You could say that the trio eventually explained their reasons to him afterwards, since they're not complete assholes.
+
+#+begin_quote
+  Dumbledore was being literal
+#+end_quote
+
+Not this again. That was dry humour. Not Dumbledore being literal.
+
+#+begin_quote
+  And Hannah's reaction isn't that difficult to understand. It might have been something she didn't believe
+#+end_quote
+
+Because rumours are generally unreliable even in the situation that they're true.
+:PROPERTIES:
+:Author: avittamboy
+:Score: 0
+:DateUnix: 1541617379.0
+:DateShort: 2018-Nov-07
+:END:
+
+************* u/MindForgedManacle:
+#+begin_quote
+  You do understand what a joke is, don't you? When Dumbledore says that line, he's joking. It's dry humour.
+#+end_quote
+
+Except that Neville later confirms this in OoTP. The point of the joke is that there are no well kept secrets among Hogwarts students.
+
+#+begin_quote
+  This is after Harry declares that Voldemort is back, after the Ministry and their media outlets launch a smear campaign against him and send a stooge to their school to ensure that Harry's lies aren't allowed to take root.
+#+end_quote
+
+You referred to Voldemort's existence as having been outed, it had not been outed until the end of OoTP. So no, it didn't occur afterwards. Their declarations that Voldemort was back were kept out of the papers by the Ministry, only the students heard it and few took it seriously.
+
+#+begin_quote
+  Of those things, the only real threat was the basilisk. The dementors were sent there to guard the school, and the dragons are part of a tournament - the students watch the task from far away. That's hardly a threat to a school.
+#+end_quote
+
+That is absurd, even Dumbledore warned the students to do everything in their power to not make the Dementors come to them as they wouldn't hear excuses nor show mercy.
+
+#+begin_quote
+  Neville knew about it because he tried to stop them from leaving on their nightly jaunt and got cursed for his troubles.
+#+end_quote
+
+He didn't know what they were doing. In fact, in the scene all they say is they had to do something important.
+
+#+begin_quote
+  Not this again. That was dry humour. Not Dumbledore being literal.
+#+end_quote
+
+You can ignore OoTP but then that's a silly way to go about things. You are literally ignoring the most direct confirmation that the student body knowing it was not a joke because... nothing. You're simply saying "No".
+
+#+begin_quote
+  Because rumours are generally unreliable even in the situation that they're true.
+#+end_quote
+
+What kind of admission is this? If Hannah heard the rumor and then later was reminded about it and considered it now as possibly being true, that just shows (as Neville already proved) that the whole school knew what happened. Hell, they all knew Slytherin's monster was about but only a few knew (some from the ghosts) that Harry slayed it with Gryffindor's sword.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 0
+:DateUnix: 1541626270.0
+:DateShort: 2018-Nov-08
+:END:
+
+
+*** u/MindForgedManacle:
+#+begin_quote
+  There's yet another plot hole here however - he gets the knowledge of the blood protection from the diary,
+#+end_quote
+
+Um, no he didn't. The fact that Diary Riddle knew that the magic existed indicates the older Voldemort knew it as well. Not because Voldemort got the knowledge from the Horcrux, nothing says that. But because he'd obviously read about the obscure magical effect while in school even if he didn't recognize that he caused the effect to manifest when he killed Lily. As Dumbledore said, Voldemort had long since knew about the existence of love magic but he always underestimated it and didn't consider it, hence his defeats.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 1
+:DateUnix: 1541602315.0
+:DateShort: 2018-Nov-07
+:END:
+
+**** Then please, ask yourself why the explanation was made a part of the book. Conversations between the primary antagonist and the protagonist are usually done for the sake of furthering the plot.
+
+The best you could fit this is that Voldemort had a number of suspicions regarding what exactly happened, and HP confirmed the exact one.
+:PROPERTIES:
+:Author: avittamboy
+:Score: 1
+:DateUnix: 1541603613.0
+:DateShort: 2018-Nov-07
+:END:
+
+***** There's nothing in the explanation that indicates anything about Voldemrot getting knowledge from the Horcrux. The explanation had two obvious purposes: They explained why Voldemort's supporters (and the man himself) hadn't gotten Harry yet (he's protected at Number 4), and they give a foundation for Voldemort's desire for and success at achieving immortality. Voldemort already knew about the enchantment's existence as a type of magic in his teen years (that's why Diary Riddle knew of it). The issue was, as Dumbeldore said, he always underestimated that kind of magic and hence (as Voldemort himself said), he overlooked it being cast when he decided to kill Lily who he swore to keep alive. Even Diary Riddle had to have Harry explain what magic allowed him to survive, but he immediately knows what kind of magic Harry is talking about ("You're mother died for you, that is powerful protection").
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 1
+:DateUnix: 1541611838.0
+:DateShort: 2018-Nov-07
+:END:
+
+****** I was talking about the conversation between Riddle and Harry, where he coerces the truth about how Harry survived him twice out of him. Not the graveyard part.
+
+Explain to me why that part is illustrated at all, since the reader already knows how he survived. If Voldemort already knew, then there is no need for the author to write a sequence where Voldemort is told how or why such a thing happened.
+:PROPERTIES:
+:Author: avittamboy
+:Score: -1
+:DateUnix: 1541614853.0
+:DateShort: 2018-Nov-07
+:END:
+
+******* Because Diary Riddle didn't yet know how Harry survived, he didn't have memories of what his original self did after he made the Horcrux. But Diary Riddle did know that the sacrificial protection magic was a type of powerful magic, he makes that clear. The point of the scene is to show Riddle's consistent interest in understanding and overcoming anything that stands in his way. Hence his monologuing while Harry is dying.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 1
+:DateUnix: 1541615242.0
+:DateShort: 2018-Nov-07
+:END:

@@ -1,0 +1,58 @@
+#+TITLE: MMVIII - AI Generated Harry Potter Fan Fiction
+
+* MMVIII - AI Generated Harry Potter Fan Fiction
+:PROPERTIES:
+:Author: CleverestEU
+:Score: 3
+:DateUnix: 1595538768.0
+:DateShort: 2020-Jul-24
+:FlairText: Self-Promotion
+:END:
+[[https://youtu.be/zg4sjeUSEDA][MMVIII - AI Generated Harry Potter Fan Fiction]]
+
+I believe everyone has already seen/heard/read "The Harry Potter chapter written by AI" from Botnik Studios available at [[https://botnik.org/content/harry-potter.html]]
+
+I decided to do something not entirely different using the GPT-2 model (instead of the naïve Markov Chain -approach, which I believe Botnik used) ... with a bit of editorial control ... I had an idea for what I wanted the story to start from and where I wanted the story to end ... and I fed the sentences into the model again and (the generated sentences again and) again - until I got something out of it that made sense in context of the story I had in mind.
+
+Regarding "editorial control"... the AI occasionally seemed to have difficulties following "who"/"what gender" is talking; those were corrected manually. These didn't happen too often, but - in such a short of a story, "quite often" anyway. Those were mainly just small changes to the dialogue.
+
+For each iteration of each of the sentences, I took various options to choose from where to continue it into and built the story based on my original outline. In the end, admittedly, it failed to end up according to my "script" but ... ended up "close enough".
+
+Also, (this needs to be mentioned) personally I wanted to avoid necromancy (bringing dead people into the story out of nowhere) - but I allowed it for one sentence, since ... it sorta did make sense at that point and - without that mention of Remus, the rest of the story never went the way I wanted it to from there on. I don't know why, but - that was interesting.
+
+The narrative is purely based on GPT-2, the audio track for the dialogue comes from AWS Polly (and due to the voices available, Molly seems to be of Indian origin:) ... video was rendered using Blender (as can be seen, I'm not too proficient with that) and ... that's about it :) Computer generated Harry Potter fanfiction ... which kinda makes sense :D
+
+
+** Can you post the text? It's hard for me to follow the synthetic speech.
+:PROPERTIES:
+:Author: vanfalkenburg
+:Score: 1
+:DateUnix: 1595550479.0
+:DateShort: 2020-Jul-24
+:END:
+
+*** I agree with this. The synthetic speech just did not work at all.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 1
+:DateUnix: 1595553969.0
+:DateShort: 2020-Jul-24
+:END:
+
+
+*** The pages of the animation are in [[https://imgur.com/a/FK9SjnY]] ... I do have the plaintext-version stored on the university systems, but am unable to access them from home.
+:PROPERTIES:
+:Author: CleverestEU
+:Score: 1
+:DateUnix: 1595576611.0
+:DateShort: 2020-Jul-24
+:END:
+
+
+** Regarding a private message I received ... yes, there are times when the audio does not exactly match the text. This is because AWS Polly occasionally sounded extremely awkward (even more so than it currently does:) with the original sentences that was easily fixed without changing the content **too much**. Examples of these changes are: narrator interpause moved to another part of the sentence, dropping or replacing a word for more dynamic sentence flow ... little things like that.
+:PROPERTIES:
+:Author: CleverestEU
+:Score: 1
+:DateUnix: 1595577080.0
+:DateShort: 2020-Jul-24
+:END:

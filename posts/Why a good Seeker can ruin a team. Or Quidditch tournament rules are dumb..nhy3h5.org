@@ -1,0 +1,167 @@
+#+TITLE: Why a good Seeker can ruin a team. Or: Quidditch tournament rules are dumb.
+
+* Why a good Seeker can ruin a team. Or: Quidditch tournament rules are dumb.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 0
+:DateUnix: 1621618242.0
+:DateShort: 2021-May-21
+:FlairText: Discussion
+:END:
+Let's say Team A has a really good Seeker, capable of ending the game in a few minutes. Skill of other players is irrelevant. Immediate win in every game. Sounds good, right?
+
+But what if Team B has a bad Seeker but great other players, and uses their Beaters to harass the opponent Seeker?
+
+For the sake of the argument, let's assume two other teams C and D that are average, with C slightly better.
+
+A-B: Over very quickly. 150-0.
+
+A-C: Again, super Seeker ends it fast. 150-0.
+
+A-D: Again, 150-0.
+
+B-C: The Seeker of B is bad and the one of C is having a hard time because of bludgers, so the game drags on. Meanwhile the Chasers of both teams score lots. Eventually Seeker C ends the game. 250-160+150.
+
+B-D: Similar to the previous one. B has better Chasers but eventually D wins with the Snitch. 270-120+150.
+
+C-D: More average Quidditch game, Beaters mostly focus on Chasers and let Seekers do their thing. C is slightly better and ends the game. 50+150-40.
+
+Final tally:
+
+Team A: 3/3 wins, 450 points.
+
+Team B: *0*/3 wins, *520* points.
+
+Team C: 2/3 wins, 510 points.
+
+Team D: 1/3 wins, 310 points.
+
+Despite winning every single individual game, Team A with the super Seeker has the second worst score. Meanwhile Team B, which lost every game and caught no Snitches, comes out on top.
+
+WTF????
+
+It appears that dragging on a game for as long as possible to accumulate more points is a really, really good strategy.
+
+
+** The Seeker game is a game of chicken. If the teams are evenly matched they will both wait to see if either Chasers pull ahead, once it is obvious that one side is leading that score the losing side Seeker will want to end the game sooner to minimise the loss or get a Snitch win. Now one Seeker is trying to score while the other “defends” by feinting and interfering. If the first Seeker wins the game early it is because there is a certain case that they'd have lost more points in the Quaffle game, which is why the rest of the team is relevant to the game. If the other Seeker who is defending catches the Snitch then they have lost some potential points but probably still won. Ideally that player will have successfully defended until the Captain decides they have enough points to end the game.
+
+So, if your Team A Seeker was actually a good Seeker they would be able to wait until the best time to catch the Snitch.
+
+The incentive is that viewers don't want a game where the Seeker wins it instantly.
+:PROPERTIES:
+:Author: CorsoTheWolf
+:Score: 5
+:DateUnix: 1621635257.0
+:DateShort: 2021-May-22
+:END:
+
+
+** Even if it was the case (I'm not totally sure about the Hogwart Quidditch Tournament's rules but someone mentioned that the points could be calculated thanks to the score difference), your example only work with the Hogwart's Tournament.
+
+From what we saw in GoF, the World Cup is a basic knockout tournament. This is the reason why Krump, despite having what seem to be a subpar team, managed to carry them until the finals (which I guess may ruin a team for totally different reasons).
+
+As for the National Quidditch League, Canon gave no details about how it works. Personally, I guess it should be something similar to the Football National Leagues, where the result (Victory, Draw, or Defeat) determine the amount of points earned, but we can't be sure.
+
+​
+
+​
+
+#+begin_quote
+  It appears that dragging on a game for as long as possible to accumulate more points is a really, really good strategy.
+#+end_quote
+
+On a related note, points earned during a Quidditch match also count toward the House Cup, so it is indeed strange that no House thought about earning a massive amount of points during the last match of the year (I guess one of the reason if because it would only work the first year).
+
+Also, the winner of a Quidditch match has, at the very least, 150 points , which means that the winner of the Quidditch Cup should earn, by itself, at least 450 points (and usually more thanks to the Chasers). With that in mind, I find it strange that at the end of the year, the Houses all had around 400 points (even after taking into account the points earned during classes). I can only think of 2 possibilities to explain this:
+
+- Rowling sucks at math
+- Most student are losing a lot more points than they earn, and they are carried by some frontliner.
+:PROPERTIES:
+:Author: PlusMortgage
+:Score: 5
+:DateUnix: 1621642111.0
+:DateShort: 2021-May-22
+:END:
+
+*** u/Sescquatch:
+#+begin_quote
+  As for the National Quidditch League, Canon gave no details about how it works.
+#+end_quote
+
+Extended Canon does: Rowling wrote "Daily Prophet" Newsletters way back when, and they show a ranking with points -- either scored, or point difference.
+
+[[https://www.hp-lexicon.org/thing/quidditch-league-table-match-information/]]
+
+And with the way Quidditch is set up, I think you'd expect this, too. It just makes more sense, given the rules.
+
+As for how the points count towards the House Cup -- it's never said, but of course you can take the point difference as well. The consequence is that Houses with rubbish teams /lose/ points while playing Quidditch, of course. YMMV on that -- I think here, we're getting into the "Rowling is bad with maths" area again, so I'm not sure how useful extrapolating this is. If you take the table from my other post, there's the some ballpark figures, and we know e.g. in PS that
+
+#+begin_quote
+  “[...] In fourth place, Gryffindor, with three hundred and twelve points; in third, Hufflepuff, with three hundred and fifty two; Ravenclaw has four hundred and twenty six and Slytherin, four hundred and seventy-two.”
+#+end_quote
+
+Additionally, the matches were Gryffindor win against Slytherin (170-60) and Hufflepuff (150-10?), and huge loss against Ravenclaw. Taking into account the -150 points of McG for Harry & co, that's 462 points earned for Gryffindor at least, of which 250-x, x being the Ravenclaw loss, comes from Quidditch. On the flip side, Hufflepuff, which appears to have the worst team, still can't have racked up three losses, or they'd be down like 400 points, and would have needed to earn 700 points outside of Quidditch.
+
+Perhaps that works out. The alternative, using points scored, would mean basically all points in the House Cup are Quidditch points(1). If Gryffindor scored another 30 points against Ravenclaw, 3/4 are Quidditch points. Does that make sense? Maybe, Gryffindor isn't all that academically inclined.
+
+But perhaps it's also a fraction of either (say, 1/10) or a fix amount for a win ... or perhaps, see above, this is just the end of Rowling's maths.
+
+ 
+
+(1) Note that intentionally agreeing to keep playing to rack up 1,000 points each is not an issue, however: One, this is very unsportsmanlike, so people just don't /do/ that, and two, everyone can do it, so all it leads to is a points inflation.
+:PROPERTIES:
+:Author: Sescquatch
+:Score: 1
+:DateUnix: 1621649207.0
+:DateShort: 2021-May-22
+:END:
+
+
+** Not quite. At least at Hogwarts, the relevant metric is *point difference* (see below). The table would therefore look like this:
+
+Team A: 450 points
+
+Team C: 70 points
+
+Team B: -210 points
+
+Team D: -310 points
+
+If I haven't miscalculated. However, your example might be how it works in the national Quidditch League, so the question remains:
+
+#+begin_quote
+  It appears that dragging on a game for as long as possible to accumulate more points is a really, really good strategy.
+#+end_quote
+
+It's /a/ strategy. And in this sense, quite -- which is why "Quidditch rules are dumb" and "you only need Seekers" isn't true. You just came to the same result (rules make no sense) by citing the /opposite/ reason (Seekers don't matter) than what is usually presented in arguments.
+
+The conclusion, therefore, is that the game is actually quite balanced and the rules work -- a good Seeker needn't /just/ be good at catching the snitch, but catching it at the right moment, and preventing the /other/ Seeker from catching it at the wrong moment, to allow the rest of the team to score. And the Beaters, in turn, are a huge element, because they can compensate a bad Seeker to a degree. But either can't win championships if your Chasers are trash, because you need their points to move up in the table.
+
+And depending on how strong your respective team parts are, you have to develop your match plan. There's definitively a lot of room for strategy, and it should be fascinating to watch two teams with entirely different strategies playing against each other.
+
+ 
+
+(PoA:)
+
+#+begin_quote
+  Slytherin was leading the tournament by exactly two hundred points. This meant (as Wood constantly reminded his team) that they needed to win the match by more than that amount to win the Cup. It also meant that the burden of winning fell largely on Harry, because capturing the Snitch was worth one hundred and fifty points.
+
+  "So you must catch it only if we're more than fifty points up," Wood told Harry constantly. "Only if we're more than fifty points up, Harry, or we win the match but lose the Cup.
+#+end_quote
+:PROPERTIES:
+:Author: Sescquatch
+:Score: 3
+:DateUnix: 1621636759.0
+:DateShort: 2021-May-22
+:END:
+
+
+** The seekers ruin the game because of the points. Ending the game when the snitch is caught is good, even giving 3 goals worth of points. Aside from games where you just catch it right away though 15 goals worth of points can and do make the rest of the game and players worthless.
+
+As pointed out early in the books the team who catches the snitch nearly always wins because of the 150 points awarded to the seeker who catches it.
+:PROPERTIES:
+:Author: Old-Break-8909
+:Score: 1
+:DateUnix: 1621972842.0
+:DateShort: 2021-May-26
+:END:

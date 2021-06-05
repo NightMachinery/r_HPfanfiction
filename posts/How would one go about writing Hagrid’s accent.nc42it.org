@@ -1,0 +1,159 @@
+#+TITLE: How would one go about writing Hagrid’s accent?
+
+* How would one go about writing Hagrid’s accent?
+:PROPERTIES:
+:Author: Island_Crystal
+:Score: 12
+:DateUnix: 1620982762.0
+:DateShort: 2021-May-14
+:FlairText: Discussion
+:END:
+There are others in the HP universe that I have trouble writing the accents or ways they speak but Hagrid's is, by far, the most difficult for me. I'm American so I'm pretty sure I butcher the English accents too but I want to at least try to get them right.
+
+Is there like a list of requirements that can be specified? I'll probably go back to the books to study his speech patterns but it's still a bit difficult to think of what would be “required” for it to sound like Hagrid's voice.
+
+
+** Sorry I'm not answering your question but I wanted to give you a readers opinion on accents. I can't speak for others but I personally find a written accent one of the fastest ways to ruin an otherwise good story. If it's only a couple of sentences it's not that annoying but more than that and I'm hitting the back button no matter how good the fic is.
+
+Carn ya see whort aye meeyan?
+
+Unless you're really intent on writing the accent maybe just describe it and then write normally.
+:PROPERTIES:
+:Author: varrsar
+:Score: 15
+:DateUnix: 1620986214.0
+:DateShort: 2021-May-14
+:END:
+
+*** I second this!
+:PROPERTIES:
+:Author: Deiskos
+:Score: 1
+:DateUnix: 1621026840.0
+:DateShort: 2021-May-15
+:END:
+
+**** I too agree as a reader and writer
+:PROPERTIES:
+:Author: karigan_g
+:Score: 1
+:DateUnix: 1621088117.0
+:DateShort: 2021-May-15
+:END:
+
+
+** You have two choices when deciding how to write an accent. Do you want to write it phonetically? (How most people do it, with Fleur dropping Aitches and slurring Zes all over the place). Or would you rather do it in prose? (It took Harry a moment, but he finally translated the kind words hiding behind the broad accent - "Blah blah" Said Hagrid.).
+
+Really, that choice depends on if you're trying to show, or to tell. There are three parts to any dialogue - what they say, how they say it, and what it implies about other stuff - and that all changes depending on whether you're trying to show the Reader/POV Protagonist something or tell the Reader/POV Protagonist something. Remember, dialogue is there to convey information, and whether you're doing that through showing or telling, you want to keep the things you're trying to convey in mind. Specifically, does the accent add to that effort or take away from it?
+
+Generally, everything you want to 'tell' through dialogue is more easily done without the accent. A thing I've heard that I quite like for this is: 'Write dialect, imply accent'. After all, no matter the accent IRL, the words are still spelled the same, they're just pronounced differently. For example, a Brummie (person from Birmingham) might say 'aight' instead of 'alright'. It's not accent, because it's not a mispronunciation, it's actually dialect because it's a different word they're using. It's part of the words they say, not the way they say those words. So, you write the words they say (ie. the information they're trying to tell someone) and not how they say it, because in this case, the accent can detract. If you had a scene with Hagrid and Harry coming across Barty Crouch Snr's corpse and he said something like:
+
+"Blimey 'Arry! Tha's Barty Crouch that is. Somethin' awf'l happ'ned to him, by the look a'things. Nuthin' t'do fer it. We're gon' havta tell Dumbledore about this!"
+
+The accent, there, detracts. You're not focusing first on what was said - ie. the statement of events that have occurred and Hagrid's observations and idea of what they should do about it - you're initially focusing on the accent and translating that in your head before you focus on the information he provided. The reader's attention is drawn to how he's saying what he's saying, rather than what he's actually saying. In this case, a minimal touch is far better for conveying the information he's verbally giving to Harry (and thereby us, as readers) because it makes the impact of the 'sudden shock' of finding Barty stronger if it is sudden and not the product of five minutes of mental translation.
+
+"Blimey Harry! Tha's Barty Crouch, tha' is. Somethin' awful happened to him, by the look a' things. Nothing to do fer it. We're going to have to talk to Dumbledore about this!"
+
+In this second less-accented version, it's a lot clearer - you know exactly what's happening, you're not distracted trying to work out what the heck he's saying through layers of West Country Phonetics, and you can still use the narration and a lighter touch of the phonetics to tell your audience that he has a thick accent. In short, no accent is better for conveying information to the reader directly through dialogue. A heavier accent just makes it harder for the reader to absorb and understand the dialogue.
+
+Which brings us nicely onto implication. ie. What the way a person with an accent says things tells you about things other than what they're directly saying. To use an example from the books, Draco's exclamation of "You're next, Mudbloods!" in CoS implies to us that Draco is a bigot and is excited about the Muggleborns being hurt like Filch's cat was. It doesn't directly convey the information ("I hate Mudbloods and I hope you're all killed next, like Filch's cat was!"), it tells us that indirectly through implication. So, how can accent help us with that?
+
+As we've established, writing phonetically in an accent makes the content of a sentence more difficult to understand. So, you can use accent and that lacking or difficult comprehension to imply things unrelated to the content being directly conveyed by the dialogue itself. (eg. when Harry first meets Hagrid, emphasising the accent can heighten a reader's appreciation of Harry's feeling of being adrift and confused and too distracted to mentally translate the accent while first stepping into a world he knows nothing about, or Draco finding it hard to understand Victor's accent can help convey his inexperience, British-centricness, or xenophobia, or Fleur's accent can even convey that she's new to English and struggles with pronunciation and improves over the course of the story [but that's better done if it's accompanied with her actually saying those things and characters talking about them, IMO]).
+
+And particularly if you want to make a point that the POV character doesn't understand what's being said, then that's a time to use accent or even language in telling (if you state "Harry had no idea what they were saying.") or showing (if you just leave it in French or in heavily-accented English with no indication Harry understands).
+
+Essentially, phonetic accent will make your characters harder to understand, but if making your characters difficult to understand adds to the story or character, or just fits the personality of a particular Character you're writing from the POV of, writing it phonetically can be done. Otherwise, just write the speech in standard English (or whatever language you're writing in) with a very minimal touch and describe the accent in narrative.
+
+In terms of actually how to write French and Hagrid Accents phonetically, I'd say everyone else has it covered with the linked resources - though something I find useful for accent stuff myself is the International Dialects of English Archive (IDEA). It covers a bunch of different people from different regions speaking English and can help you work out how to write that phonetically in a realistic, non-comical way. Hagrid's accent is also in there, under the 'England' section. It's a West Country accent, so check any place names mentioned in the West Country wikipedia article and compare them against the dialect archive to see what's right for you to use.
+
+[[https://www.dialectsarchive.com/]]
+
+[[https://en.wikipedia.org/wiki/West_Country]]
+
+TL:DR - Write what people say and take a light touch on the accent phonetics to help distinguish characters, unless writing how they say it adds something to your story or characters somehow and if you're writing phonetically, do some research to find out how the people with the accents you're writing actually speak. Otherwise, keep it mild/light and stick to just making a point of it in your prose - narrative description beats phonetic transcription for keeping your prose clear and understandable when writing accents.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 10
+:DateUnix: 1621009736.0
+:DateShort: 2021-May-14
+:END:
+
+
+** I found this useful: [[https://manu86.livejournal.com/25048.html]]
+
+If in doubt, don't worry too much. Nobody really cares and even JKR wasn't perfectly consistent.
+:PROPERTIES:
+:Author: greatandmodest
+:Score: 3
+:DateUnix: 1620990578.0
+:DateShort: 2021-May-14
+:END:
+
+
+** I struggle with Crabbe and Goyle. They can't form correct sentences and that's fun and all as comic relief, but as soon as their roles are bigger, it becomes clear how unrealistic that is and how impossible to write.
+:PROPERTIES:
+:Author: Mikill1995
+:Score: 3
+:DateUnix: 1620997246.0
+:DateShort: 2021-May-14
+:END:
+
+
+** Personally, it drives me up the wall and I wish authors would just take a pass on writing accents.
+
+Part of the problem when writing accents is that the English speaking world isn't exactly consistent with their pronunciation. Not everyone thinks than cot and caught sound the same, after all.
+
+I've seen this with author-written sorting hat songs where a stanza will quite obviously not rhyme... to me. I'm going to guess they do for the writer, however.
+
+Stock and talk. Say them out loud - do they rhyme? Well, it depends on who you ask.
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 3
+:DateUnix: 1621012515.0
+:DateShort: 2021-May-14
+:END:
+
+
+** Unless you're from the West Country I wouldn't even bother, it's an unnecessary stress for you and few people will notice or thank you for it. Maybe do it if you're a perfectionist or trying to go pro?
+:PROPERTIES:
+:Author: Demandred3000
+:Score: 2
+:DateUnix: 1621010567.0
+:DateShort: 2021-May-14
+:END:
+
+
+** [[https://lingojam.com/EnglishtoHagridEnglish]]
+
+This website works pretty well.
+:PROPERTIES:
+:Author: Subject-Gain
+:Score: 4
+:DateUnix: 1620986783.0
+:DateShort: 2021-May-14
+:END:
+
+
+** [[https://www.reddit.com/r/HPfanfiction/comments/nbfu6d/writing_nonnative_speakers/]] just 22 hours ago. Please, search this subreddit before posting another duplicate of the same question.
+:PROPERTIES:
+:Author: ceplma
+:Score: -2
+:DateUnix: 1620989326.0
+:DateShort: 2021-May-14
+:END:
+
+*** He is asking for help with writing an accent, I was discussing use of foreign words.
+:PROPERTIES:
+:Author: greatandmodest
+:Score: 1
+:DateUnix: 1620990658.0
+:DateShort: 2021-May-14
+:END:
+
+**** OK, then I will just point to [[https://www.reddit.com/r/HPfanfiction/comments/nbfu6d/writing_nonnative_speakers/gxz0zvq?utm_source=share&utm_medium=web2x&context=3][my comment]].
+:PROPERTIES:
+:Author: ceplma
+:Score: -1
+:DateUnix: 1620992463.0
+:DateShort: 2021-May-14
+:END:

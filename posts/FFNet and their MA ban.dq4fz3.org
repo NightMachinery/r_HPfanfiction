@@ -1,0 +1,329 @@
+#+TITLE: FFNet and their MA ban
+
+* FFNet and their MA ban
+:PROPERTIES:
+:Author: SmartAssBlaine
+:Score: 37
+:DateUnix: 1572615973.0
+:DateShort: 2019-Nov-01
+:FlairText: Discussion:hufflepuff_author:
+:END:
+Does anyone actually know whether the MA content ban on [[https://fanfiction.net][fanfiction.net]] is actually applied? I still see a lot, and I mean a LOT, of explicitly explicit smut. And horrifying gore too, which I believe is filed under MA content rating. I'm asking because I'm beginning wok on my first story, and I want to learn what my limitations are.
+
+
+** There's still smut, explicit violence and gore, but if someone reports you, you're out of luck.
+:PROPERTIES:
+:Author: Thrwforksandknives
+:Score: 56
+:DateUnix: 1572621817.0
+:DateShort: 2019-Nov-01
+:END:
+
+
+** Post to AO3--no such bans there.
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 61
+:DateUnix: 1572619773.0
+:DateShort: 2019-Nov-01
+:END:
+
+*** But then you have to deal with the appalling and byzantine custom tags problem.
+:PROPERTIES:
+:Score: 27
+:DateUnix: 1572636030.0
+:DateShort: 2019-Nov-01
+:END:
+
+**** What is the problem with the tags? I've been using Ao3 since the beginning and I love the tags for searching.
+
+I'm not trying to be a smartass or anything; I've just never heard that criticism before and I'm genuinely wondering what it's about.
+
+I do have my settings on keeping tags hidden and then I unhide tags when the summary interests me, so maybe whatever it is has just has never bothered me...
+:PROPERTIES:
+:Author: vichan
+:Score: 10
+:DateUnix: 1572656008.0
+:DateShort: 2019-Nov-02
+:END:
+
+***** The problem is that some authors tag everything that was even vaguely mentioned. As a result, the same fics pop up again and again no matter what you are searching for. In many cases, it can be difficult to search for a particular fandom at all because half the fics tagged with it are massive crossovers that are primarily a different fandom and barely mention the one I'm looking for. I much prefer the way that FFN makes you pick the one or two fandoms and short list of main characters.
+
+I should note that I am usually sorting by kudos or favorites rather than anything else. It means that there are some fics that inevitably end up on the top of my search no matter what I am looking for because they had moderate success in a major fandom and now drown out everything else.
+:PROPERTIES:
+:Author: Crayshack
+:Score: 6
+:DateUnix: 1572660790.0
+:DateShort: 2019-Nov-02
+:END:
+
+****** Ah. I use filters to avoid the fics that pop up over and over, and I filter out crossovers cuz I'm usually not into them. If I'm finding myself annoyed by a specific fic, I just pick a tag on the fic that keeps popping up and add it to the "exclude" list on the filter options.
+
+I guess I just don't have the same issues. Maybe it's because I'm usually searching for specific scenarios instead of pairings.
+
+I can't stand FFnet's lack of search options. I feel like I have to wade through acres of crap to find a story that interests me, usually because I have to actually click on the fic and read through a bit to find out if it's actually what I'm looking for.
+:PROPERTIES:
+:Author: vichan
+:Score: 7
+:DateUnix: 1572662142.0
+:DateShort: 2019-Nov-02
+:END:
+
+******* I mostly read crossovers, so filtering them out doesn't work for me. Maybe I've just got to get better at excluding stuff. For a while, that wasn't an option and I haven't fully explored what it can do. I'm also usually searching for settings or particular characters, not pairings or scenarios.
+
+#+begin_quote
+  I feel like I have to wade through acres of crap to find a story that interests me
+#+end_quote
+
+That is exactly what I feel about AO3. Part of that might be a difference in what type of fics get posted, but on FFN I can select a fandom and a character and I know that both will be major aspects of anything that comes up. The same isn't true of AO3 and it requires more sorting to get what I want.
+
+I think it could be solved if AO3 separated major tags from minor tags. If there was a limit of major tags for a story, you could search for them when you are interested in something that forms a central aspect to the story while still being able to search minor tags for anything that even mentions the aspect you are looking for.
+:PROPERTIES:
+:Author: Crayshack
+:Score: 3
+:DateUnix: 1572699662.0
+:DateShort: 2019-Nov-02
+:END:
+
+******** Prior to filtering becoming a feature I would do it manually by adding my own filter to the URL, but I'm probably a slightly weird person for doing that. I also like applying more sorting to find something I want since I don't have as much time to read fic as I used to, so it cuts down on my search time.
+
+But yeah, it might just be because we're just looking for different things. If I want to read Vampire Harry, I can click on the tag for it, whereas FFnet will give me a million stories that just mention a vampire. Characters would almost certainly be messier simply because of the flexibility in tagging.
+
+Another issue I have with FFnet is that they really borked some of the formatting on older fics during one of their updates, and they never fixed it. (It's why you sometimes come across fics that are a wall of text, or find one that's completely underlined. I'm not sure when that update happened, but there are fics that I read in 2006 that were fine, and now their formatting is screwed.)
+
+Separating major and minor tags would be awesome. I tend to only tag major things, so I wouldn't even have to re-tag my fics all that much.
+:PROPERTIES:
+:Author: vichan
+:Score: 4
+:DateUnix: 1572700557.0
+:DateShort: 2019-Nov-02
+:END:
+
+
+**** No you don't, just use the “chose not to tag” tag. You don't have to use any other tags if you use that one.
+:PROPERTIES:
+:Author: MTheLoud
+:Score: 10
+:DateUnix: 1572636254.0
+:DateShort: 2019-Nov-01
+:END:
+
+***** 'Choose not to warn' just means you're choosing not to use the main set of archive warnings.
+
+The only other thing you /have/ to tag is the fandom.
+
+Ships, characters, and the long custom tags some people like are completely optional. The posting form shows a red asterisk on the few things you /must/ fill in. The rest of it you can scroll past if you want.
+:PROPERTIES:
+:Author: Franzeska
+:Score: 15
+:DateUnix: 1572647418.0
+:DateShort: 2019-Nov-02
+:END:
+
+****** Or the tag EVERY THING even mentioned just once.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1572650771.0
+:DateShort: 2019-Nov-02
+:END:
+
+******* You can choose to hide tags when browsing.
+:PROPERTIES:
+:Author: vichan
+:Score: 1
+:DateUnix: 1572656141.0
+:DateShort: 2019-Nov-02
+:END:
+
+******** Yea but I mean I might be looking for a ship, and it will be tagged, and then mentioned like once
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1572656323.0
+:DateShort: 2019-Nov-02
+:END:
+
+********* Ah. I tend to take note of where a ship is tagged in the list of tags since it shows in order of how the author tagged it. If it's pretty far down, it's generally not a prominent ship.
+
+And authors tend to get yelled at/scolded for not tagging ships, so I don't blame them for tagging minor ships.
+
+I guess I just don't often run into that problem, not really sure why. I think maybe I'm usually looking for a fic using additional tags, not ship tags.
+
+Edit: my pro-tip is that you can also avoid tags, so you can look for the ship you want and also filter out the "big" ships, which may net you better, more relevant results.
+
+(I'm just really in love with Ao3's search and filter, sorry, haha. I love spending 2 minutes looking for a fic to read rather than the 20+ I spend on FFnet.)
+:PROPERTIES:
+:Author: vichan
+:Score: 4
+:DateUnix: 1572657094.0
+:DateShort: 2019-Nov-02
+:END:
+
+********** But thanks for the hiding tags thing. I get sick of one's that have dozens and dozens of tags.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1572657162.0
+:DateShort: 2019-Nov-02
+:END:
+
+
+**** If you're new to AO3 tagging just tag: fandom, main ship (if any; romantic ships have '/', non-romantic '&', ex. Harry Potter/Draco Malfoy is romantic while Harry&Draco might be friendship or rivalry - just shown in-depth), main characters, archive warnings (use 'chose not to use archive warnings' if you can't be bothered). That's it. Don't overdo it. Better to undertag than overtag.
+
+If you want to go further you can tag general genre/mood (like 'angst', 'crack', 'psychological horror'), any fandom tropes and specifics of your AU ('enemies to lovers', 'high school AU', 'time travel'), more specific warnings (excessive violence/torture would probably warrant a mention, so does explicit porn).
+
+Tags are a bit hard to get used to at first, but they are amazingly useful. The better your tags, the easier it will be for readers to find you.
+:PROPERTIES:
+:Author: Karaeir
+:Score: 5
+:DateUnix: 1572655763.0
+:DateShort: 2019-Nov-02
+:END:
+
+***** I don't have a problem with AO3's tagging system, I have a problem with the authors who game it.
+
+#+begin_quote
+  The better your tags, the easier it will be for readers to find you.
+#+end_quote
+
+This would be ideal, but it's not true. At least, not anymore. Very early on someone thought to themselves, “Hey, I could probably get more viewership if I just tag every minor detail,” and then everyone else had to do the same thing to catch up, and then some people, feeling the need to be unique and catch your eye thought, “Hey, what if I made a bunch of really long, crack-esque tags to make searchers laugh,” and then everyone else had to do the same thing, again, to catch up.
+
+I would agree that some of the best fics on AO3 are probably from authors who are confident enough to not feel the need to arbitrarily grab as many search results as possible, but that does come with the drawback of not being /nearly/ as noticeable.
+
+A simple solution would be to limit the number of tags a story can have or, at least, the ability to filter out by tag count. Once a punishment, passive or not, is introduced, you'll start to see the tags recede.
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 2
+:DateUnix: 1572666831.0
+:DateShort: 2019-Nov-02
+:END:
+
+
+** MA is technically not allowed but it only really gets enforced if the fic is reported, or FFN is going on one it it's purges
+:PROPERTIES:
+:Author: ConfusedPolatBear
+:Score: 14
+:DateUnix: 1572623913.0
+:DateShort: 2019-Nov-01
+:END:
+
+*** Most of which is due to large groups reporting.
+:PROPERTIES:
+:Author: rocketsp13
+:Score: 12
+:DateUnix: 1572627818.0
+:DateShort: 2019-Nov-01
+:END:
+
+
+*** u/deleted:
+#+begin_quote
+  It's purging time.
+#+end_quote
+:PROPERTIES:
+:Score: 9
+:DateUnix: 1572627771.0
+:DateShort: 2019-Nov-01
+:END:
+
+
+** its a CYA rule. It's there so they can take down any story that has explicit sexual or graphic content, but scanning their library of stories for that is a huge task so they are content to not care unless someone kicks up a big fuss about someone's story.
+
+If you're worried about your story, just post to AO3 like the others said.
+:PROPERTIES:
+:Author: ferret_80
+:Score: 12
+:DateUnix: 1572629645.0
+:DateShort: 2019-Nov-01
+:END:
+
+
+** It's all based on reporting, so it's completely idiosyncratic.
+
+Do you have fandom enemies? Are you writing a ship that has fandom enemies? Are you writing slash? Any of that can make it more likely that you'll be reported, but there's no guarantee either way.
+:PROPERTIES:
+:Author: Franzeska
+:Score: 6
+:DateUnix: 1572647520.0
+:DateShort: 2019-Nov-02
+:END:
+
+
+** Not really. I think people have to go out of their way to report your story and it'll probably done only if the characters in question are super young. Even then it's not likely.
+:PROPERTIES:
+:Author: Ash_Lestrange
+:Score: 12
+:DateUnix: 1572617025.0
+:DateShort: 2019-Nov-01
+:END:
+
+*** The fact the real us is still up means no one there cares.
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1572622365.0
+:DateShort: 2019-Nov-01
+:END:
+
+**** I mean kinda, but I have somehow heard of worse...
+:PROPERTIES:
+:Author: bonsly24
+:Score: 2
+:DateUnix: 1572627801.0
+:DateShort: 2019-Nov-01
+:END:
+
+***** Oh definitely, but I was referencing the longevity rather than just the content.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1572628119.0
+:DateShort: 2019-Nov-01
+:END:
+
+****** True.
+:PROPERTIES:
+:Author: bonsly24
+:Score: 3
+:DateUnix: 1572628309.0
+:DateShort: 2019-Nov-01
+:END:
+
+
+** I agree with jenorama_CA I would post in AO3 if your fanfic is extremely smutty or its so graphic. You can as well post at [[http://hp.adult-fanfiction.org]] so that you won't risk violating FFN's terms
+:PROPERTIES:
+:Author: maits18
+:Score: 10
+:DateUnix: 1572623179.0
+:DateShort: 2019-Nov-01
+:END:
+
+*** hpFanfictionarchive is still a thing and is much more active and well supported than adultfanfiction.
+:PROPERTIES:
+:Author: Hobbitcraftlol
+:Score: 6
+:DateUnix: 1572641500.0
+:DateShort: 2019-Nov-02
+:END:
+
+**** Wow didn't know also that site is still active...
+:PROPERTIES:
+:Author: maits18
+:Score: 2
+:DateUnix: 1572669916.0
+:DateShort: 2019-Nov-02
+:END:
+
+
+*** That site is still alive? They've been struggling on funds for who knows how long... that's persistence in a nutshell. I ought to take notes.
+:PROPERTIES:
+:Author: DeDe_at_it_again
+:Score: 3
+:DateUnix: 1572630463.0
+:DateShort: 2019-Nov-01
+:END:
+
+
+** People who report should stub their toes and wear a dunce cap.
+:PROPERTIES:
+:Author: hananimtteokbokki
+:Score: 5
+:DateUnix: 1572642438.0
+:DateShort: 2019-Nov-02
+:END:

@@ -1,0 +1,101 @@
+#+TITLE: PSA: Drop some flair on your posts so the mods don't have to! There's Discussion, Request, Meta, Misc, Promotion, and Suggestion. The button to do so is right under the body of your post.
+
+* PSA: Drop some flair on your posts so the mods don't have to! There's Discussion, Request, Meta, Misc, Promotion, and Suggestion. The button to do so is right under the body of your post.
+:PROPERTIES:
+:Score: 39
+:DateUnix: 1452811940.0
+:DateShort: 2016-Jan-15
+:FlairText: Meta
+:END:
+[deleted]
+
+
+** Unfortunately I'm on mobile 99℅ of the time via an app and the forced-desktop view on a browser required in order for me to do that would end up with me pressing every button /except/ flair no matter how I zoom.
+
++1 for those on computers, though!
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 13
+:DateUnix: 1452825870.0
+:DateShort: 2016-Jan-15
+:END:
+
+*** Depending on which app you use I think you can still set flair. I've done it in Reddit is Fun.
+:PROPERTIES:
+:Author: denarii
+:Score: 1
+:DateUnix: 1452866439.0
+:DateShort: 2016-Jan-15
+:END:
+
+**** I use Reddit Sync, which doesn't have the option.
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 2
+:DateUnix: 1452872534.0
+:DateShort: 2016-Jan-15
+:END:
+
+***** I use Bacon Reader, which doesn't have it, either, or if it does I've been too dumb to find it....
+:PROPERTIES:
+:Author: SincereBumble
+:Score: 2
+:DateUnix: 1452914484.0
+:DateShort: 2016-Jan-16
+:END:
+
+
+** And if you forget, you can also flair afterwards under the title of your post in the list.
+:PROPERTIES:
+:Author: TheBlueMenace
+:Score: 3
+:DateUnix: 1452829257.0
+:DateShort: 2016-Jan-15
+:END:
+
+*** Actually that's the only way to flair your post. afaik putting [flair] in the title doesn't apply the reddit side flair.
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1452829370.0
+:DateShort: 2016-Jan-15
+:END:
+
+
+** Hear Here!
+:PROPERTIES:
+:Author: MystycMoose
+:Score: 1
+:DateUnix: 1452812176.0
+:DateShort: 2016-Jan-15
+:END:
+
+
+** I approve of this post.
+:PROPERTIES:
+:Author: denarii
+:Score: 1
+:DateUnix: 1452823469.0
+:DateShort: 2016-Jan-15
+:END:
+
+*** I asked another mod who uses a bot to ensure posts are flaired by replying to the post and then deleting the reply when it's flaired, and he sent me this [thanks [[/u/rubysown]] (= ].
+
+#+begin_quote
+  Sure, couple notes:
+
+  1. reddit is requiring OAuth in the future for all bots, so the whole login part of this bot may stop working soon.
+  2. You can just mod [[/u/flair_your_post_bot]] ([[https://redd.it/28tspq][bot watch post]]) and he will either remove it or just leave a comment that will say to flair their post.
+  3. This may not be the cleanest or best way to do this, but it works
+  4. It requires python, a server with cronjob ability and the PRAW library.
+
+  I'd probably lean towards letting the flair bot do it (you don't have to give it all permissions) since it's easier to setup and will always be supported. I'd be glad to answer any questions regarding the setup but to be honest I'm not really looking to be technical support.
+
+  Code: [[http://pastebin.com/85jFW79K]]
+#+end_quote
+
+Might be easier just to look into that flair bot instead of bugging [[/u/tusing]] to add *another* functionality =)
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1452824121.0
+:DateShort: 2016-Jan-15
+:END:

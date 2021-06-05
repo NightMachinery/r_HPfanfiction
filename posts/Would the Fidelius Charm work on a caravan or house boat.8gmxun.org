@@ -1,0 +1,408 @@
+#+TITLE: Would the Fidelius Charm work on a caravan or house boat?
+
+* Would the Fidelius Charm work on a caravan or house boat?
+:PROPERTIES:
+:Author: Faeriniel
+:Score: 5
+:DateUnix: 1525313446.0
+:DateShort: 2018-May-03
+:END:
+
+** The Fidelius hides a secret not just a "secret place", right? You could make the existence of said caravan a secret.
+
+"This (vehicle) exists".
+
+I could be completely wrong though.
+:PROPERTIES:
+:Author: will1707
+:Score: 23
+:DateUnix: 1525315067.0
+:DateShort: 2018-May-03
+:END:
+
+*** I would say you're most likely mostly correct.
+
+What we know of the Fidelius Charm is that it takes a /secret/ and hides it in /someone else's/ soul, and if the Secret Keeper dies, those who know the Secret become Secret Keepers themselves.
+
+From the above, it is likely Fidelius Charm has the following properties/requirements:
+
+1. The "object" (heretofore called /the Secret/) upon which the Fidelius Charm is cast must be a secret /before/ the Charm is cast. Because obviously it is secret afterwards. Presumably the Charm could be used on any Secret a person has regardless of the content of the Secret, though we only directly see it used to hide Grimmauld Place.^{1} As a hypothetical, this means that things like Harry using the Fidelius on something like [[https://www.fanfiction.net/s/8257400/6/Harry-Potter-and-the-Power-of-Paranoia]["Harry James Potter, the son of Lily and James Potter, survived the killing curse as a child and is known as the boy who lived"]] doesn't make sense because Harry surviving the Killing Curse isn't a secret.
+
+2. The owner of the Secret cannot be the Secret Keeper. Or else James and/or Lily would have been their own Secret Keeper. On a purely speculative level, it seems likely to me that the Secret Keeper must be someone whom the Secret Owner (person whose Secret is being hidden) trusts (based mostly on the name of the Fidelius Charm and the obvious derivation of the name from fidelity). As such, in a continuation of the hypothetical above, [[https://www.fanfiction.net/s/8257400/6/Harry-Potter-and-the-Power-of-Paranoia][even if Harry would be able to use the Fidelius on that “secret” he wouldn't be able to do something like kidnap a muggle, make them the Secret Keeper and then obliviate them as Harry obviously doesn't trust said muggle on any level.]]
+
+3. The owner of the Secret in essence transfers the ownership of the Secret to the Secret Keeper. This seems obvious to me for two reasons. Reason the first: The Secret Keeper is the ultimate authority in deciding who can learn the Secret. Reason the second: When the Secret Keeper dies, the Fidelius Charm neither fails nor has the original owner of the Secret become the Secret Keeper. Rather, it is those to whom the original Secret Keeper has shared the Secret who become the new Secret Keepers.
+
+4. As a continuation of 3: The more people with whom the Secret is shared, the weaker the Charm is. The power of hiding a Secret lies in keeping the knowledge of the Secret to the fewest people possible. As a Secret becomes more and more known, the less secret it by nature is (this brings up an interesting question, can a Secret Keeper share a Secret with enough people that the Secret is no longer an actual secret and as such the Charm “fails” or fades from the Secret?). Furthermore, the true power behind the Fidelius Charm is that the Secret is hidden in the Secret Keeper's soul. If those to whom the Secret is shared become the new Secret Keepers upon the previous' death, this means that the Secret is either placed into their souls as well or partially hidden within their souls, making the Secret less secure.
+
+I think about the Fidelius Charm quite often. And I never want to type the word “secret” this much again.
+
+^{1} I say directly used, because although Flitwick describes the spell in /PoA/ and states something about how using the Charm, Voldemort could put his nose against a window of the Potter's home yet not see/know that the Potters were in it, we never actually see this effect. Assuming Flitwick's statement is how the Potter's Fidelius behaved, there are two possible explanations for the difference in behavior to the Grimmauld Place Fidelius. First, the Secret was of a different nature, perhaps emphasizing the Potters living in the location instead of the location itself being the secret. And second, perhaps a difference in how well the spell was cast (Dumbledore was the caster and Secret Keeper for the Grimmauld Place Secret, but we have no knowledge of who actually cast the Fidelius for the Potters. Since Dumbledore didn't know that Pettigrew was the Secret Keeper, I assume he did not cast it himself).
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 10
+:DateUnix: 1525317749.0
+:DateShort: 2018-May-03
+:END:
+
+**** Sorry I am procrastinating and felt like being annoying.
+
+1) At what point is something no longer considered a secret? I think that is too subjective to be a requirement. I think amount of power increase for each person that needs to "forget" is a more likely limiter.
+
+2) Bill was the secret keeper for shell cottage
+
+3) Upon death of the secret keeper the original owner of the secret as you put it would become a secret keeper just not the only one
+
+4) The number of people knowing the secret would not change the strength of the charm. It is a binary thing. either it works or it doesn't. If a ton of people know it when the keeper dies that means there are a bunch of liabilities, but it would not effect the whether the charm works,
+:PROPERTIES:
+:Author: Yes_I_Know_Im_Stupid
+:Score: 4
+:DateUnix: 1525323637.0
+:DateShort: 2018-May-03
+:END:
+
+***** double return\n
+
+\n
+
+for new paragraphs.
+:PROPERTIES:
+:Author: Murphy540
+:Score: 1
+:DateUnix: 1525337216.0
+:DateShort: 2018-May-03
+:END:
+
+****** Thanks
+:PROPERTIES:
+:Author: Yes_I_Know_Im_Stupid
+:Score: 1
+:DateUnix: 1525360015.0
+:DateShort: 2018-May-03
+:END:
+
+
+***** We don't know to whom the shell cottage actually belonged, only that at least at some point it belonged to Bill's relative and that he and Fleur at living there during the 7th book. As such, him being able to be a secret keeper for it is not necessarily proof against point 2.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 1
+:DateUnix: 1525357845.0
+:DateShort: 2018-May-03
+:END:
+
+****** Well, why couldn't Lily be the secret keeper? Or James? Only one of them has to own the property. What do we define as owning it? I highly doubt that the magic is interested in who has the legal rights to the deed.
+:PROPERTIES:
+:Author: Pielikeman
+:Score: 1
+:DateUnix: 1525367094.0
+:DateShort: 2018-May-03
+:END:
+
+******* Except that this all falls apart at the fact that, as already written, we have no idea what Bill and Fleur's deal with the shell cottage is, and for all we know it could have been that whoever it belongs to just allowed them to kip there for a year until they're able to get their own place.
+
+Until we have sufficient proof to discard this possibility, and we neither have nor will have, using the shell cottage as any kind of proof about ownership surely not mattering for the Fidelius is ... not necessarily the best move because then it moves to pure speculations with no backing.
+:PROPERTIES:
+:Author: Kazeto
+:Score: -1
+:DateUnix: 1525367654.0
+:DateShort: 2018-May-03
+:END:
+
+******** Well, no, because if ownership matters then whichever one of James or Lily who didn't own it could have used the fidelius.
+:PROPERTIES:
+:Author: Pielikeman
+:Score: 0
+:DateUnix: 1525367967.0
+:DateShort: 2018-May-03
+:END:
+
+********* This is not going to result in anything productive, because I dot consider your arguments to be legitimate because of reasons that should be clear by now and you aren't going to really read what I write, whatever your reason for this is, so let's just agree to disagree and end it at that.
+:PROPERTIES:
+:Author: Kazeto
+:Score: -1
+:DateUnix: 1525368677.0
+:DateShort: 2018-May-03
+:END:
+
+********** Correct me if I'm wrong, but you haven't actually addressed my argument, right? Just because I disagree with you doesn't mean I didn't read your argument.
+
+Only one of either James or Lily has to own it. Therefore, if James owns it, Lily can be the secret keeper. Since this didn't happen, I think we can conclude that it isn't based off of who owns the deed.
+:PROPERTIES:
+:Author: Pielikeman
+:Score: 0
+:DateUnix: 1525368773.0
+:DateShort: 2018-May-03
+:END:
+
+*********** Sure, then, let's address your argument then:
+
+Magic works on concepts to at least some degrees. As such, it's very likely that as far as magic cares it's both of them who own the house because it's their house and that's the end of it. This has been touched multiple times, by multiple people (including [[/u/Taure][u/Taure]], who may or may not want to chime in), as a response to multiple posts.
+
+Unless you are new to this place, you can't be unaware of this.
+
+Not to mention you having started your reply with “well, no” to something that you can't provide an actual argument against, which links it to it. Well, no, there's no “well, no” for you here, not in this case and with those things.
+:PROPERTIES:
+:Author: Kazeto
+:Score: -1
+:DateUnix: 1525369877.0
+:DateShort: 2018-May-03
+:END:
+
+************ Did you just respond to my argument and then say I didn't actually make an argument? Anyway, if you had read my original comment, you'd see that I asked "how do we define ownership" as I sincerely doubt magic works off of who legally owns the deed, as that can be disputed. How do we define, "their house"? I'm not talking about Fleur and Bill's house, simply James and Lily's.
+:PROPERTIES:
+:Author: Pielikeman
+:Score: 1
+:DateUnix: 1525382262.0
+:DateShort: 2018-May-04
+:END:
+
+************* A misunderstanding, then. I apologise ... it was a bit unclear and you did jump to a reply that was about the place that was allegedly Bill and Fleur's, but no matter, let's just move on.
+
+So, to reply the actual question (or what I think the actual question to be), the truth is that the information about the Fidelius charm that we have is really vague when it comes to limitations. We do know a few things, such as the fact that the caster does not have to be the same as either the secret keeper or the secret owner nor does he actually have to be in the presence of the former when casting the spell (according to the information we have, the Fidelius on the Potters' house was supposed to have been cast by Dumbledore, who has no knowledge that it is not Sirius who is the secret keeper), which I suppose makes sense because the whole thing is about trust and loyalty. There's also the fact that magic works on concepts ... usually, and as such may very well work on concepts this time too, meaning that if this is true the Potters' home would belong to both of them as far as the spell is concerned and that is the end of it; however, we /do not/ actually know this for sure and ultimately are working just on assumptions, maybe sensible ones or maybe note, but just on assumptions.
+
+Some people propose specific, in some instances quite well thought-out, rules for how the charm works, and there were quite a few both posts and comments about the issue (again, I point you towards Taure, as he usually manages to cobble together quite sensible takes on how stuff could work, so if you want to talk pure mechanics of how whatever works he really is one of your best choices); some, on the other hand, favour a more ... wild, yes, approach. In this particular case there's some ... animosity, let's say, that stems from the fact that some people from the second camp throw the shell cottage as some kind of counter-proof for nearly bloody everything about the charm when it doesn't even quality, and I won't argue if you decide that this is why I misinterpreted what you wrote because I can't be sure it did not contribute to it.
+
+So, how do we define ownership? /Probably/ on some esoteric “well if they're partners then anything that's not personal belongs to them both” way, but ultimately if you write anything you can choose any way to define it for as long as you keep it internally consistent because Madam Rowling did not actually speak about this ... not yet, anyway.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 2
+:DateUnix: 1525436191.0
+:DateShort: 2018-May-04
+:END:
+
+************** Fair enough. My thoughts were mostly along the lines of that it probably relies on whether they consider the place to be "theirs" or not, and if so then why not just move to a safe house that isn't theirs? Of course, they trusted Peter (though he could always fall to torture) so they could have decided that staying home was worth the risk.
+:PROPERTIES:
+:Author: Pielikeman
+:Score: 2
+:DateUnix: 1525436561.0
+:DateShort: 2018-May-04
+:END:
+
+*************** Yeah, it's hard to see the limits of the thing sometimes. I don't think Peter revealing it under torture, if he was actually a decent person, would really give them the secret as Madam Rowling did make it clear that it has to be given willingly and the magic may very well not count a confession of a torturee as willing.
+
+Some people speculate further, stating that there is way more to the trust/loyalty element in how it works: that there has to be genuine trust of the secret owner or else the charm will not work, and that the secret can become undone on its own if the secret keeper has no loyalty towards them. /If/ one takes it to be true then moving to a shelter may or may not count as a lack of genuine trust ... but, again, there isn't much that proves this theory so it may very well be that them not doing this is simply plot-induced stupidity. The same for your line of thinking about the safe house: there's not much proof either way, and no decisive proof, so for your own stories you are free to go for whichever interpretation for as long as you keep it internally consistent.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 1
+:DateUnix: 1525437991.0
+:DateShort: 2018-May-04
+:END:
+
+
+**** u/TheAccursedOnes:
+#+begin_quote
+  The "object" (heretofore called the Secret) upon which the Fidelius Charm is cast must be a secret before the Charm is cast.
+#+end_quote
+
+This isn't true. It doesn't really make sense. Even Grimmauld Place wasn't a complete secret. Sirius and Kreacher knew about it, and it's arguable that Bellatrix knew about it, seeing as the Order was afraid that it would be hers after Sirius's death.
+
+And surely Aunt Muriel's house wasn't a secret. I find it hard to believe that no one outside the Weasleys knew where she lived.
+
+And the cottage in Godric's Hollow wasn't hidden from plain view. It could be seen from the street, a street in an entire village, so others had to know of it as well.
+
+Edit: From Pottermore: /The chosen person, or Secret Keeper, is the only person who is thenceforth capable of revealing the protected information to others, however many previously knew it./
+
+[[https://www.pottermore.com/writing-by-jk-rowling/secret-keeper]]
+
+#+begin_quote
+  The owner of the Secret cannot be the Secret Keeper.
+#+end_quote
+
+Also not true. Bill is the Secret Keeper for Shell Cottage. It's more likely that the Fidelius Charm was simply improved upon after James and Lily's deaths.
+:PROPERTIES:
+:Author: TheAccursedOnes
+:Score: 2
+:DateUnix: 1525354593.0
+:DateShort: 2018-May-03
+:END:
+
+***** This is correct.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 1
+:DateUnix: 1525363669.0
+:DateShort: 2018-May-03
+:END:
+
+
+***** u/that_big_negro:
+#+begin_quote
+  It's more likely that the Fidelius Charm was simply improved upon after James and Lily's deaths.
+#+end_quote
+
+I think it's most likely that JKR, despite creating a wonderful fantasy universe, just wasn't that sophisticated a writer. She created insanely broken spells and powers in the first few books, and when they became too constricting for her later she just poked holes in them rather than creatively writing around them.
+:PROPERTIES:
+:Author: that_big_negro
+:Score: 1
+:DateUnix: 1525416968.0
+:DateShort: 2018-May-04
+:END:
+
+
+**** On your secpnd point, wasn't Bill the secret keeper of his home's location in the 7^{th} book?
+:PROPERTIES:
+:Author: will1707
+:Score: 1
+:DateUnix: 1525345638.0
+:DateShort: 2018-May-03
+:END:
+
+***** We don't know for certain as the place is supposed to have belonged to someone else to start with, and we don't know at what point, if at all, it changed ownership.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 0
+:DateUnix: 1525357690.0
+:DateShort: 2018-May-03
+:END:
+
+
+*** That ought to work from the available canon information, but canon makes this hard to believe. Otherwise the Potters could have just hidden their existence from Voldemort as opposed to just their location. Voldemort wouldn't know who they were, or heck, make Voldemort not know who the prophecy child was.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 7
+:DateUnix: 1525315616.0
+:DateShort: 2018-May-03
+:END:
+
+**** Are there any canon factors that could change the effect/strength/scope of the Fidelius?
+:PROPERTIES:
+:Author: will1707
+:Score: 2
+:DateUnix: 1525315764.0
+:DateShort: 2018-May-03
+:END:
+
+***** Short of giving too many people the secret, not as far as I know. JKR says that the charm would work no matter how many people knew the information beforehand, but presumably there has to be some information too widely known or large to hide that way (otherwise the Charm is too fucking powerful).
+
+However, someone told me of a clever way someone thought of how to break the charm in a fanfic (I haven't read it). Basically, Voldemort Imperiused the mayor of London into changing the name of the Grimmauld Place (the street name), thus invalidating the information hidden by the Fidelius. Since "Number 12 on Grimmauld Place is the Headquarters of the Order of the Phoenix" was no longer true, the Fidelius would fail to hide it. Fucking genius,
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 9
+:DateUnix: 1525316018.0
+:DateShort: 2018-May-03
+:END:
+
+****** No, I meant it like this: If two different wizards cast the same fidelius on two identical items, would they get the same results? Or if a Wizard uses two wands, his and someone else's; and casts a fidelius each, would they be different?
+
+If so, you could make the case for an extremely powerful wizard using the Death wand or equivalent to be able to hide a moving target.
+:PROPERTIES:
+:Author: will1707
+:Score: 2
+:DateUnix: 1525316292.0
+:DateShort: 2018-May-03
+:END:
+
+******* No, the Fidelius is all-or-nothing in this regard, the information is simply hidden and that's that. Each Fideliused object would be equally as well hidden as the other in the cases you gave.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 8
+:DateUnix: 1525316458.0
+:DateShort: 2018-May-03
+:END:
+
+******** Oh, ok; So it's all in the wording then.
+:PROPERTIES:
+:Author: will1707
+:Score: 2
+:DateUnix: 1525316686.0
+:DateShort: 2018-May-03
+:END:
+
+
+**** A common idea is that the Secret has to be yours to protect. So that wouldn't work, because "James and Lily Potter exist" was in no way shape or form a secret to begin with (whereas "they're hiding in Godric's Hollow" or "the Order of the Phoenix Headquarters are Number 12 Grimmauld Place" are).
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 2
+:DateUnix: 1525348676.0
+:DateShort: 2018-May-03
+:END:
+
+***** I'd buy that for sure, but JKR had other ideas:
+
+#+begin_quote
+  The chosen person, or Secret Keeper, is the only person who is thenceforth capable of revealing the protected information to others, however many previously knew it.
+#+end_quote
+
+[[https://www.pottermore.com/writing-by-jk-rowling/secret-keeper]]
+
+This is possibly determinable from canon as well if people knew where the Potters lived in Godric's Hollow before the Fidelius (I can't remember if the information was public prior).
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 1
+:DateUnix: 1525349439.0
+:DateShort: 2018-May-03
+:END:
+
+****** I said the secret has to be yours. Never that it can't be a very /open/ sort of secret. But the secret protected by that Fidelius, I believe, wasn't "James and Lily Potter live in Godric's Hollow": it was "James and Lily Potter are /hiding/ in Godric's Hollow". Not a terribly hard thing to guess if you knew they lived there, but technically a secret.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 2
+:DateUnix: 1525364726.0
+:DateShort: 2018-May-03
+:END:
+
+
+**** As far as i understand, Fidelius prevents new people knowing secret but not makes old people forget it.
+
+So they couldnt.
+:PROPERTIES:
+:Author: Kaennal
+:Score: 1
+:DateUnix: 1525336933.0
+:DateShort: 2018-May-03
+:END:
+
+***** Not according to JKR:
+
+#+begin_quote
+  The chosen person, or Secret Keeper, is the only person who is thenceforth capable of revealing the protected information to others, however many previously knew it.
+#+end_quote
+
+[[https://www.pottermore.com/writing-by-jk-rowling/secret-keeper]]
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 4
+:DateUnix: 1525349165.0
+:DateShort: 2018-May-03
+:END:
+
+****** Umm, yes? Knowers know but are not able to share it.
+:PROPERTIES:
+:Author: Kaennal
+:Score: 2
+:DateUnix: 1525355781.0
+:DateShort: 2018-May-03
+:END:
+
+******* Because even if you “know” (as is the case with Bellatrix and 12 Grimmauld Place), it's all blocked until you get told it by a secret keeper, meaning you can neither use the knowledge in any way nor pass it on. As such, it's virtually the same as forgetting it.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 3
+:DateUnix: 1525358198.0
+:DateShort: 2018-May-03
+:END:
+
+
+******* That's not really the case. Flitwick's statement in PoA clears this up:
+
+#+begin_quote
+  As long as the Secret-Keeper refused to speak, You-Know-Who could search the village where Lily and James were staying for years and never find them, not even if he had his nose pressed against their sitting room window!
+#+end_quote
+
+Voldemort could know that they were in Godric's Hollow and yet not be able to find them. Unless you are given the secret, by definition you don't know (just see Narcissa and Bellatrix). It would probably be a sort of perpetual on the tip of your tongue situation.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 3
+:DateUnix: 1525362620.0
+:DateShort: 2018-May-03
+:END:
+
+
+*** I want to point something out.
+
+Driving the Fideliused caravan, or the houseboat, or anything, seems like it would be an awful idea.
+:PROPERTIES:
+:Author: jpk17041
+:Score: 1
+:DateUnix: 1525379573.0
+:DateShort: 2018-May-04
+:END:

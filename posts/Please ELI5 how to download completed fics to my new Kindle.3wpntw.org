@@ -1,0 +1,226 @@
+#+TITLE: Please ELI5 how to download completed fics to my new Kindle!
+
+* Please ELI5 how to download completed fics to my new Kindle!
+:PROPERTIES:
+:Score: 12
+:DateUnix: 1450050550.0
+:DateShort: 2015-Dec-14
+:FlairText: Discussion
+:END:
+I'm so frustrated! I got a Kindle Paperwhite the other day and I can't seem to figure out how to download fics onto it. I want to download as these are my favourites and I'd like to be able to read them even if I have no internet. I need to know, step by step what I need to do, both on my computer and on my Kindle to make this work. I'm not super computer literate, hence the ELI5. I have a PC if that makes any difference. Thanks.
+
+
+** [[http://calibre-ebook.com/]]
+
+This program lets you put all sorts of ebook filetypes onto your kindle. There is also an app to do so over your wifi so you don't have to plug in.
+
+linkffn(C'est La Vie)
+:PROPERTIES:
+:Author: howtopleaseme
+:Score: 10
+:DateUnix: 1450051994.0
+:DateShort: 2015-Dec-14
+:END:
+
+*** [[http://www.fanfiction.net/s/8730465/1/][*/C'est La Vie/*]] by [[https://www.fanfiction.net/u/4019839/cywscross][/cywscross/]]
+
+#+begin_quote
+  A year after the war ends, Fate takes the opportunity to toss her favourite hero into a different dimension to repay her debt. A new life in exchange for having fulfilled her prophecy. Harry just wants to know why he has no say in the matter. And why Fate thinks that his hero complex won't eventually kick in. Then again, that might be exactly why Fate dumped him there.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 9 *|* /Words/: 107,884 *|* /Reviews/: 4,333 *|* /Favs/: 9,672 *|* /Follows/: 10,020 *|* /Updated/: 5/9/2013 *|* /Published/: 11/23/2012 *|* /id/: 8730465 *|* /Language/: English *|* /Genre/: Adventure/Friendship *|* /Characters/: Harry P. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=8730465][EPUB]]}
+
+--------------
+
+*Bot v1.3.0 - 9/7/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* Use /ffnbot!delete/ to delete a comment! Use /ffnbot!refresh/ to refresh bot replies!
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1450052011.0
+:DateShort: 2015-Dec-14
+:END:
+
+**** See the 'Download: EPUB' there, you can use it to easily download links straight from here. Or you can use one of several websites to download from ff.net.
+:PROPERTIES:
+:Author: howtopleaseme
+:Score: 4
+:DateUnix: 1450052066.0
+:DateShort: 2015-Dec-14
+:END:
+
+***** EPUB doesn't work on Kindle... I've always thought they should include a MOBI download link.
+:PROPERTIES:
+:Author: mikexcao
+:Score: 2
+:DateUnix: 1450054905.0
+:DateShort: 2015-Dec-14
+:END:
+
+****** Calibre
+:PROPERTIES:
+:Author: howtopleaseme
+:Score: 3
+:DateUnix: 1450054965.0
+:DateShort: 2015-Dec-14
+:END:
+
+******* It's more complicated to convert EPUB to MOBI, I like it simple.
+:PROPERTIES:
+:Author: mikexcao
+:Score: 1
+:DateUnix: 1450057714.0
+:DateShort: 2015-Dec-14
+:END:
+
+******** Isn't really complicated. Most people use calibre anyway, it'll convert to mobi automatically when you sent to kindle.
+:PROPERTIES:
+:Author: howtopleaseme
+:Score: 3
+:DateUnix: 1450057789.0
+:DateShort: 2015-Dec-14
+:END:
+
+
+******** I think there's a Calibre Fanfiction Downloader plugin that will do it for you. Calibre really is worth the 10-15 minutes it will take you to learn, and with plugins and whatnot, it becomes really easy to sync and update all of your fics to your device in literally 2 clicks.
+
+Edit: Also, Calibre will convert to azw3 format for your Kindle, which is more compatible and will offer more features for you.
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1450064083.0
+:DateShort: 2015-Dec-14
+:END:
+
+
+***** That bot is awesome!
+:PROPERTIES:
+:Author: d3jake
+:Score: 1
+:DateUnix: 1450067901.0
+:DateShort: 2015-Dec-14
+:END:
+
+
+*** There's also a plugin for calibre that downloads stories for you: [[https://fanficfare.appspot.com/][FanFicFare]]
+
+By default it saves things as epubs, but you can set it to mobi which I believe kindles will accept. You can configure it with login details for sites that require it even.
+:PROPERTIES:
+:Author: Riversz
+:Score: 1
+:DateUnix: 1450167364.0
+:DateShort: 2015-Dec-15
+:END:
+
+
+** There are a handful of ways. Many people use this:
+
+- Download Calibre from [[http://calibre-ebook.com/download_windows64][here for Windows 64-bit]], or [[http://calibre-ebook.com/download_windows][here for Windows 32-bit]] (If you don't know which you have, open Control Panel on your PC, then "System", and partway down it will say "System Type: ##-bit operating system".) Click the relevant download link and save the file.
+- Double click the saved file and follow the installer instructions.
+- When it's done, open Calibre and click the "Preferences" button along the top. It has pictures of gears. (If you can't see it, check for a >> symbol that will show hidden menus.)
+- In the Preferences menu, under Advanced, click "Plug-Ins" (green puzzle piece picture).
+- At the bottom, click "Get new plug-ins"
+- In the top right search bar, type in "Fanficfare". It should bring up only one plug-in. Click it and then click the install button. You may get a security warning, but agree to install anyway. Afterwards, it will tell you to restart Calibre.
+- When restarted, you will now have a "FanFicFare" button in the menu. Click it and copy/paste the fanfic urls into the box. It can do more than one at a time, but make sure each url is on a seperate line. Check the "Show Download Options" box and chose an output format of mobi. Click "OK".
+- Depending on how many fics you download and how long they are, it may take a while to download them all. You can keep an eye on the progress by clicking [[http://i.imgur.com/B3jb2G6.jpg][this symbol]] in the bottom right. When it is done you will get a pop up [[http://imgur.com/FDRaevz][like this]]. Click "Yes" and wait for it to finish; again, if there are a lot or they are long then it could take a while.
+
+  - If you accidentally download it in the wrong format, don't worry! Just click the "Convert" button when it's done and make sure to choose mobi or AZW3 from the top-right drop-down menu (both will work on the Kindle).
+
+- Plug your Kindle into your PC. Calibre should pick it up automatically and a menu option will turn up called "Device". An extra column will appear next to the titles of your ebooks titled "On Device" and will have a blank box next to each one.
+- Select which stories you want on your Kindle. If you click on one and then shift+click on another further down the list, it will select all books in-between them, or you can use ctrl+left click to pick multiple books not next to each other, or ctrl+A to select all. Click the "Send to device" button in the menu.
+- When it is finished transferring, click the down arrow just right of the "Device" menu and click "Eject this device". The fics should now be on your Kindle.
+:PROPERTIES:
+:Author: SilverCookieDust
+:Score: 9
+:DateUnix: 1450053389.0
+:DateShort: 2015-Dec-14
+:END:
+
+*** Choosing azw3 for the output is WAY nicer on the kindle. It retains the "goto chapter" table of contents functionality from the menu instead of just from a ToC page like mobi
+
+I download epubs and calibre auto-converts to azw3 when I send it to my kindle
+:PROPERTIES:
+:Author: MystycMoose
+:Score: 2
+:DateUnix: 1450060574.0
+:DateShort: 2015-Dec-14
+:END:
+
+
+** [[http://www.fanfictiondownloader.net/]]
+
+I use this one. It's a standalone program that you install on your computer. Paste a fic link from popular archives like FFN or AO3 into the "Storylink" field and press "Check & Download". Make sure "Output Format" is set to .mobi for Kindle. Then connect your Kindle via USB and copy over the .mobi file.
+:PROPERTIES:
+:Author: deirox
+:Score: 8
+:DateUnix: 1450052157.0
+:DateShort: 2015-Dec-14
+:END:
+
+*** This is one of the best, there's also a function that you can download multiple files with. I use this and then email the MOBI files to my Kindle Paperwhite for reading.
+:PROPERTIES:
+:Author: mikexcao
+:Score: 2
+:DateUnix: 1450054858.0
+:DateShort: 2015-Dec-14
+:END:
+
+**** The ability to email things to my kindle account was never really used (I emailed PDF to it once, years ago) but I plan on taking high advantage of this once I get a paperwhite =D
+:PROPERTIES:
+:Author: paperhurts
+:Score: 1
+:DateUnix: 1450060553.0
+:DateShort: 2015-Dec-14
+:END:
+
+
+** Aside from calibre (which I also recommend btw), if you don't mind not organizing, you can just copy-paste it directly to the folder.
+
+If you use [[http://ficsave.com/][ficsave.com]], it also has an option to email to kindle. ficsave is an awesome ff.net to epub/mobi online downloader. Works great on desktop & mobile browsers.
+:PROPERTIES:
+:Author: serenehime
+:Score: 8
+:DateUnix: 1450060796.0
+:DateShort: 2015-Dec-14
+:END:
+
+*** ficsave is awesome! I too have a paperwhite and use the email to kindle function all the time - The best/easiest solution you're looking for by far! :)
+:PROPERTIES:
+:Author: mr_soren
+:Score: 1
+:DateUnix: 1450363341.0
+:DateShort: 2015-Dec-17
+:END:
+
+
+** I use a combination of:
+
+- Use [[http://www.fanfictiondownloader.net/webversion_kindle.php][FanfictionDownloader Mobile Webversion]] to email fanfiction.net stories directly to Kindle (must add address to allowed senders in your Manage my Kindle settings on Amazon site)
+- Download .mobi files from [[http://archiveofourown.org/faq/downloading-fanworks?language_id=en#accesslater][Ao3]] for stories found there, transfer to Kindle via USB
+- add stories/chapters to [[https://www.instapaper.com/u][Instapaper]] and have emailed to Kindle daily (again, add sending address) (almost only method that works with Livejournal)
+- use [[http://grabmybooks.com/][GrabMyBooks]] extension to create file, transfer via USB (works on password-protected sites, BTW)
+- download using FanFicFare add-on to Calibre, transfer to Kindle via USB
+:PROPERTIES:
+:Author: t1mepiece
+:Score: 2
+:DateUnix: 1450141237.0
+:DateShort: 2015-Dec-15
+:END:
+
+
+** Easiest way?
+
+- Go to ff.net's mobile page on your computer. [[http://m.fanfiction.net]]
+
+- Find your chosen story, copy/paste it into a text file. (Open notepad, save as "Plain Text" or .txt.
+
+- Copy into your Kindle. (I don't know which folder, as I have a 1stGen nook)
+
+- Enjoy.
+:PROPERTIES:
+:Author: d3jake
+:Score: 1
+:DateUnix: 1450067864.0
+:DateShort: 2015-Dec-14
+:END:

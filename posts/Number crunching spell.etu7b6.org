@@ -1,0 +1,41 @@
+#+TITLE: Number crunching spell
+
+* Number crunching spell
+:PROPERTIES:
+:Author: Master_of_Chaos000
+:Score: 6
+:DateUnix: 1579975793.0
+:DateShort: 2020-Jan-25
+:FlairText: Discussion
+:END:
+What type of calculator with work at Hogwarts?
+
+
+** You could probably enchant a piece of parchment to do calculations, with a similar amount of effort as it'd take to enchant one to do complicated mapping. It'd be a pretty big project for a group of students but possible. Maybe if you could make it programmable to run arbitrary code you could create a PC emulator that could run Matlab, then you wouldn't have to program everything yourself.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 3
+:DateUnix: 1579987766.0
+:DateShort: 2020-Jan-26
+:END:
+
+*** Or much simpler option: Buy two connected A4 sized magic mirrors, a computer with a screen and 2 keyboards and 2 mice and a spare power button. Enchant the spare power button to be linked (protean) to the actual power button on the computer so that you can remotely turn it on. Then repeat the procedure with every button on the keyboards and mice. Plug one keyboard into the computer and you can remotely use the computer with the other keyboard. Then attach one mirror to the screen and by looking into the other mirror you can use the computer from far away. Put the computer in a muggle home with electricity and internet and you can remotely control it from Hogwarts with your mirror and enchanted keyboard, mouse and power button. Then install whatever math software you want. Maybe write your own matlab plugin for crunching arithmancy problems.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 3
+:DateUnix: 1579988003.0
+:DateShort: 2020-Jan-26
+:END:
+
+
+** - [[https://en.wikipedia.org/wiki/Mechanical_calculator][Mechanical Calculators]]
+- [[https://en.wikipedia.org/wiki/Curta][Curta Pocket Mechanical Calculator]]
+- Abacus
+
+And then there's how the "magic interferes with electricity" is probably/most likely BS with St. Mungos, The ministry, and Diagon Alley right in the middle of Muggle London not creating electrical dead zones. So probably a regular calculator.
+:PROPERTIES:
+:Author: Nyanmaru_San
+:Score: 4
+:DateUnix: 1579994563.0
+:DateShort: 2020-Jan-26
+:END:

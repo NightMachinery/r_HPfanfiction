@@ -1,0 +1,343 @@
+#+TITLE: Transmutation vs Transfiguration
+
+* Transmutation vs Transfiguration
+:PROPERTIES:
+:Author: Ruljinn
+:Score: 14
+:DateUnix: 1450974790.0
+:DateShort: 2015-Dec-24
+:FlairText: Discussion
+:END:
+So, I asked a question about +Transmutation ala+ Alchemy and got a lot of answers talking about /Transfiguration./
+
+*In fairness, I myself didn't even realize that they might be separate branches of magic with separate magical laws until this morning.*
+
+The thought I had that gave me the idea: You can't transmute gold without the philosophers stone... but... leprechauns can conjure it temporarily. +Edit: I feel a sudden need for a picture of the 'aliens' guy changed to say 'leprechauns'+ [[http://cdn.meme.am/instances/57098116.jpg][found it]]
+
+So is it reasonable, *by which I mean can anyone think of anything in the books that would directly contradict the statement,* that Transfiguration/Conjuration is the magical art of making something appear/act like something else temporarily and +transmutation is the magical/+ Alchemy is the art of changing what it truly is?
+
+Does it ever come up in the books if tranfigurations are permanent changes vs temporary ones? AKA is the desk TRULY a pig or just a fleshy golemlike thing that looks and acts like one? I'm fine with filling in gaps my own way, but want to avoid having anything that runs directly counter to an established detail in the books.
+
+
+** I think you're conflating the difference between Charms and Transfiguration with different aspects of Transfiguration. Just remember that the words transfiguration, transformation, transmutation and transmogrification are synonymous in English. Anything we work out is really just an agreement within our circle of participants.
+
+Charms are spells that apply properties to a target that they don't normally have. Statues that move, teapots that sing, people that are invisible. These tend to wear off.
+
+Transfiguration changes the targets 'definition'. The needle becomes a matchstick. The cactus arms merge into Neville's earholes to replace his ears. In a sense, the spell is only active in the process of the change, and once complete there's nothing magical about the end result (as far as defying physics or chemistry or biology is concerned).
+
+My assumption, built up over years of ruminating, theorizing and discussing, is that Gamp's Law of Elemental Transfiguration states: 'A perfect transfiguration changes the existence of a thing into another thing, with no vestiges remaining to indicate it hadn't been that new thing all along'. The five Exceptions, of which food is the first, involve limitations in the new item; aspects that cannot be imbued or removed in the process of transfiguration. These exceptions appear to be:
+
+1 Nutritive value - food that wasn't food isn't really food. For related reasons, a conjured dog cannot procreate
+
+2 Material value due to rarity - making gold (or uranium) out of lead isn't cricket; reasons why were chewed on in the other thread
+
+3 Magical value - make a horcrux into a shoe and it's still a horcrux; make a goat into a unicorn and it's still nonmagical. The fake sword of Gryffindor was a sword, but it was not capable of destroying a horcrux
+
+4 Informational value - make a comic book into a copy of the Pickwick Papers and it'll look like the book, but the words won't fill the pages if you don't know them
+
+5 Sapience resists. Transform a living thing into an object and it will eventually recover... if it wants to. (cf. Quintapeds and Animagi that 'go native')
+:PROPERTIES:
+:Author: wordhammer
+:Score: 11
+:DateUnix: 1450978327.0
+:DateShort: 2015-Dec-24
+:END:
+
+*** It's occurring to me that posting to this sub the past few days feels like I'm playing phone tag with [[/u/wordhammer][u/wordhammer]] which amuses me greatly because I remember you from the last time I was active ish in the sub (over a year ago).
+
+Anyway, back on topic, our discussion yesterday led me to wonder if I could come up with 5 Gamp's laws that would all represent odd edge cases of some singular rule of transfiguration.
+
+What I came up with is that transfiguration can change the form of a thing but not it's true nature. A rule that is only really relevant in the case of life-energy/souls. How magic defines an [entity] is left vague on purpose in the sense that I don't want to worry about when a tree stops being a [tree] and becomes a [desk]. My five laws would be
+
+-No Food: that pig is still technically a desk and lacks any of the substantive life energy that you would get from food.
+
+-No True Life: as above, the pig is just a facsimile of a pig, it's really just a desk that's pretending really hard.
+
+-No Potions Ingredients: same as food, when broken down the transfigured ingredient wouldn't actually work.
+
+-No Altering the true age of an item: (fred and george, even under an aging potion, are still technically not old enough)
+
+-Fifth law intentionally left blank and assigned by McG as homework.
+
+Your second law would be an implicit side effect of things true states remaining constant.
+
+Your third law might actually be a *really good* fit as my 'blank' fifth law, since the goat->unicorn thing is what i'm talking about.
+
+I also /really/ like your 4th rule, but would posit that it's not a Gamps law of /just transfiguration/ so much as a natural quirk of magic that since it's your mind/knowledge that shapes the thing you're making, you can no more transfigure something into the Pickwick Papers (What is that even?) than I could a pig if I had no idea what a pig is.
+
+Likewise, I suspect your 5th rule /may/ not apply to only transfiguration, in the sense that it may also be harder to make charms stick to a sapient being than a rock?
+:PROPERTIES:
+:Author: Ruljinn
+:Score: 4
+:DateUnix: 1450981761.0
+:DateShort: 2015-Dec-24
+:END:
+
+**** First, clarifications: [[http://en.wikipedia.org/wiki/The_Pickwick_Papers][The Pickwick Papers]] is a novel by Charles Dickens.
+
+Also, Gamp has one law with 5 exceptions, which is why you have to frame the law before providing the exceptions.
+
+The 5th exception is almost a translation of gaming speak: objects don't get a saving throw, resistance check or chance to dodge. Animals might. Humans do. Wizards get to check more than once.
+
+I heartily encourage the exploration of different magical theories that help to explain the events in canon, but I would suggest that you avoid giving 'Magic' any sort of underlying intelligence or sense of judgement. This is one reason why magical vows taste sour to the refined palate- it assumes that an omniscient third party is witness to those involved and will somehow judge a person for violating a promise the moment it is violated. In canon, the Unbreakable Vow is made by Snape to Narcissa as witnessed and arbitrated by Bellatrix- it's her judgment ruling whether Snape is abiding by the agreement, and I get the sense it wouldn't be resolved until all three met again. (The fact that Snape was putting his fate in the hands of Bellatrix' damaged psyche is proof of his courage, if nothing else.)
+
+Your theory has an advantage in that it explains how McGonagall could un-Vanish or un-Transfigure the students' spellwork when they were unsuccessful. A True Nature might explain that, also indicating a way to predict what would happen if you were to transfigure an infant into a rock and then restore it after 20 years. If nothing else, the experiments by Rookwood would make for a great Lovecraftian horror story.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 3
+:DateUnix: 1450982939.0
+:DateShort: 2015-Dec-24
+:END:
+
+***** u/Ruljinn:
+#+begin_quote
+  I would suggest that you avoid giving 'Magic' any sort of underlying intelligence or sense of judgement.
+#+end_quote
+
+Agreed. The only 'judgement' I would want magic to make would be the sort that are necessary for a spell like 'point me' to work.
+
+AKA magic can 'judge'/determine your intended target and point the wand at the matching person. But, it's not /really/ magic itself that's doing it so much as it is you the spellcaster are supplying the judgement process if that makes sense?
+:PROPERTIES:
+:Author: Ruljinn
+:Score: 1
+:DateUnix: 1450985982.0
+:DateShort: 2015-Dec-24
+:END:
+
+
+*** u/Ruljinn:
+#+begin_quote
+  Just remember that the words transfiguration, transformation, transmutation and transmogrification are synonymous in English. Anything we work out is really just an agreement within our circle of participants.
+#+end_quote
+
+Yeah, It's been pointed out that Transmutation may not be the best word choice.
+
+I meant more: IFF Alchemy is a extant, and separate, thing akin to it's historical analog... Is this a fair delineation between the two magical disciplines /without directly contradicting anything in the books?/
+:PROPERTIES:
+:Author: Ruljinn
+:Score: 1
+:DateUnix: 1450980080.0
+:DateShort: 2015-Dec-24
+:END:
+
+
+** I recommend reading the Wikipedia page on alchemy. It's not anything like transfiguration, nor potions. It is (broadly speaking) a process by which one perfects substances. This manifests as gold for physical matter, and as gnosis (or "enlightenment") for the alchemist's spiritual substance. The physical and the spiritual can't really be separated here, as alchemical theory ties the two together.
+
+Transfiguration is primarily concerned with the physical, alchemy is primarily concerned with the spiritual. The physical, in alchemy, is largely symbolic of the much more important spiritual changes occurring in the alchemist. And where alchemy is concerned with the physical, it is concerned not with its form/shape but its substance, in the philosophical sense of substance - the base level of reality, that which gives existence, sometimes associated with god.
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1450983207.0
+:DateShort: 2015-Dec-24
+:END:
+
+*** I get what you're referencing and I can see where it would make some excellent story-fodder, but this definition of Alchemy has very little to do with how it was treated in the works of Jo Rowling.
+
+If alchemy is an exploration of spiritual enlightenment and desire for perfection, it's most successful practitioner isn't treated as such. Dumbledore dismissed Flamel's accomplishments as essentially a mistake, heading in the opposite direction from wisdom and enlightenment, and he does so with barely an afterthought. If anything, JKR, through Dumbledore, is suggesting that alchemy has nothing to do with Grace and good alchemy only creates corruptive influences.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 4
+:DateUnix: 1450984991.0
+:DateShort: 2015-Dec-24
+:END:
+
+**** I disagree. I think Dumbledore treats Flamel with great respect. What are you referencing when you say you think Dumbledore dismissed it as a mistake?
+
+On top of all this, you have JKR's statements about doing a huge amount of research on alchemy for the books. That rather implies HP alchemy is the same as real life alchemy.
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1450985215.0
+:DateShort: 2015-Dec-24
+:END:
+
+***** If you'll permit the paraphrase...
+
+"The Stone has been destroyed. It could give limitless money and eternal life but that's a bad thing in the wrong hands, so I've convinced Nicolas to accept death and destroy his greatest work."
+
+I'm sure Dumbledore has respect for Flamel's talents and achievement, but in the spiritual essence of the story, he felt Flamel was on the road to Hell. In a sense, Flamel had demonstrated the most decency by not using the fruits of his labors and generally staying out of the way of the story and the magical world. I'm certain that JKR took all sorts of alchemy writings in mind when putting together the symbolism used for potion making in the books, but the spiritual understanding that you suggested defines the use of alchemy in the books is nowhere to be seen.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 1
+:DateUnix: 1450986293.0
+:DateShort: 2015-Dec-24
+:END:
+
+****** I don't see how you get that from the quote. It doesn't seem to follow at all. Nothing Dumbledore said suggests he thinks that Flamel is a bad person for creating and using the Philosopher's Stone. It being bad in Voldemort's hands doesn't mean it's bad in Flamel's. Indeed, Dumbledore and Flamel being good friends when Flamel has been using the stone for hundreds of years goes against this idea.
+:PROPERTIES:
+:Author: Taure
+:Score: 7
+:DateUnix: 1450986564.0
+:DateShort: 2015-Dec-24
+:END:
+
+
+** I don't get your obsession with the word Transmutation. It was never mentioned in canon, as far as I recall. Alchemy was, and is a different branch with similar processes to Transfiguration.
+
+#+begin_quote
+  and transmutation is the magical/alchemical art of changing what it truly is?
+#+end_quote
+
+It isn't, because there's no such thing as "Transmutation" in the Potterverse, and if there is, we haven't heard of it and so your question can't possibly be answered.
+
+We have no indication that Leprechaun gold is real gold.
+:PROPERTIES:
+:Author: Almavet
+:Score: 3
+:DateUnix: 1450979382.0
+:DateShort: 2015-Dec-24
+:END:
+
+*** I didn't mean to come across as obsessed.
+
+I used the word transmutation yesterday thinking of alchemy.
+
+AKA Nicolas Flamel, the famous /alchemist/ and then got a bunch of responses on transfiguration. I assume from that specific title that he's in a different field than Dumbledore the transfiguration master.
+
+I just meant to clarify, and used the same word I did yesterday in the title. Mostly this is because if Alchemy is a thing... Err- is there a better word for what an alchemist does?
+:PROPERTIES:
+:Author: Ruljinn
+:Score: 1
+:DateUnix: 1450979861.0
+:DateShort: 2015-Dec-24
+:END:
+
+**** Again, this is conjecture, but it seems like Potions is to Alchemy as Charms is to Transfiguration. Potions wear off, alchemical elixirs don't.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 2
+:DateUnix: 1450980222.0
+:DateShort: 2015-Dec-24
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1450981111.0
+:DateShort: 2015-Dec-24
+:END:
+
+*** I wonder about vanished objects as well because on my last re-read of OOTP I noticed that the spell Bill uses on the documents (Evanesco) is the same spell Snape uses on Harry's botched potion later in the book. So does this mean:
+
+1. vanished objects can be unvanished; or,
+2. those documents were actually worthless to the Order so vanishing them didin't matter; or,
+3. you can cast the spell with different levels of intent - Bill semi-vanished the documents for later retrieval while Snape completely vanished the potion?
+:PROPERTIES:
+:Author: SilverCookieDust
+:Score: 2
+:DateUnix: 1450982412.0
+:DateShort: 2015-Dec-24
+:END:
+
+
+*** Well, I like [[/u/Taure][u/Taure]] 's work as much as the next guy and really wish they'd update their stories, but I'm more interested in not contradicting the books themselves.
+
+Temporary doesn't have to mean fades away on its own QUICKLY. The timer on it reverting naturally could be X number of years. What I mean is more that it's not a true change, in that if you hit it with a spell that reverts it (finite incantatem or transfiguration's equivalent, some manner of reset spell perhaps?), it would turn back into its original self even if you had no idea what that was.
+
+#+begin_quote
+  Also the Dursleys had to get Dudleys tail surgically removed (didn't go away on its own).
+#+end_quote
+
+I could see the Dursleys having it removed immediately even if the expected duration was a month.
+
+#+begin_quote
+  Dean who had a pincushion who kept squirming or something in fear any time a needle went near it- ie. the transfiguration if imperfect remains in place, and doesn't revert.
+#+end_quote
+
+...
+
+Hmmm... I think I remember that too, but how long after the class was it doing that? Wouldn't the fact that imperfect transfigurations continue to act like their original [entity] in spite of lacking some or all of the parts that would make that make sense be a point in favor of their retaining their original being even while having their form warped?
+:PROPERTIES:
+:Author: Ruljinn
+:Score: 2
+:DateUnix: 1450982451.0
+:DateShort: 2015-Dec-24
+:END:
+
+**** While it is possible that it is not permanent but temporary lasting numerous years, it is not likely. The simplest exaplantion which takes all evidence into account is the most likely and 'Transfiguration is Permanent' is a lot more simple than 'Transfiguration is Temporary but lasts many years'.
+
+You seem to have thought that Transfiguration was permanent and then tried to look for all possibilities that support your claim however unlikely and ignore direct evidence to the contrary. That is confirmation bias.
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1450983144.0
+:DateShort: 2015-Dec-24
+:END:
+
+***** Worse.
+
+It's confirmation bias rooted in faulty memory and reading too much fanfiction to the point where I can't recall which idea came from where.
+:PROPERTIES:
+:Author: Ruljinn
+:Score: 4
+:DateUnix: 1450983837.0
+:DateShort: 2015-Dec-24
+:END:
+
+
+**** The doc he was referring to was not a fic but my headcanon doc which has a variety of evidence in it which points rather strongly towards transfiguration being permanent in canon. The two most significant being:
+
+1. Wizards exhibit belief that transfiguration is permanent unless untransfigured (and you'd think they'd know). This is shown by their belief in the origin of quintapeds as transfigured wizards.
+
+2. JKR has stated that transfiguration does not just change the appearance of objects, but alters its fundamental physical structure on a molecular level. This rather supports the first point - you need active magic (aka untransfiguration) to reverse the transfiguration, because physical objects don't spontaneously change into other physical objects.
+:PROPERTIES:
+:Author: Taure
+:Score: 3
+:DateUnix: 1450982820.0
+:DateShort: 2015-Dec-24
+:END:
+
+***** u/Krististrasza:
+#+begin_quote
+  Wizards exhibit belief that transfiguration is permanent unless untransfigured (and you'd think they'd know). This is shown by their belief in the origin of quintapeds as transfigured wizards.
+#+end_quote
+
+And Untransfiguration is its own specialisation, related to but separate from transfiguration.
+:PROPERTIES:
+:Author: Krististrasza
+:Score: 1
+:DateUnix: 1451154122.0
+:DateShort: 2015-Dec-26
+:END:
+
+
+** No, all evidence says that Transfiguration changes an object truly and permanently.
+
+No character ever says 'Transfiguration is permanent' but that is because they don't need to. It is the default assumption. The burden of proof is upon the position 'transfiguration is not permanent' as assuming it were true we would almost certainly see a transfigured object untransfigure in the books. As we do not we can say that there is significant evidence that transfiguration is permanent.
+
+Additionally transfigured objects act like 'real' objects, an example is conjured water putting out a fire. More implied support comes from 'Fantastic Beasts and Where to Find Them' where a Magical Creature is said to be descended from another which was created by wizards through Transfiguration. If transfiguration were ethier not permenant or only an illusion this would not be possible.
+
+As for alchemy, it is not very well defined. We know that Flamel practiced it, that it is realted to Transfiguration and Potions and that some Alchemical process created the Philosopher's stone but we know little else about it. Therefore it is impossible to say anything much about it that is compliant with canon.
+
+Also what in canon led you to believe that Transfiguration was temporary?
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1450982245.0
+:DateShort: 2015-Dec-24
+:END:
+
+
+** I thought transfiguration is supposed to be temporary while transmutation is permanent.
+:PROPERTIES:
+:Author: aspectq
+:Score: 1
+:DateUnix: 1450975561.0
+:DateShort: 2015-Dec-24
+:END:
+
+*** I have that same impression... I just can't recall if it's canon or fanon or where it comes from in either case.
+:PROPERTIES:
+:Author: Ruljinn
+:Score: 1
+:DateUnix: 1450976079.0
+:DateShort: 2015-Dec-24
+:END:
+
+
+*** Huh I thought transfiguration was permanent.
+:PROPERTIES:
+:Author: boomberrybella
+:Score: 1
+:DateUnix: 1450982648.0
+:DateShort: 2015-Dec-24
+:END:

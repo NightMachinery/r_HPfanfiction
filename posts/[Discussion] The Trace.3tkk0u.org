@@ -1,0 +1,167 @@
+#+TITLE: [Discussion] The Trace
+
+* [Discussion] The Trace
+:PROPERTIES:
+:Author: cheo_
+:Score: 9
+:DateUnix: 1448030284.0
+:DateShort: 2015-Nov-20
+:FlairText: Discussion
+:END:
+So, the trace is one of the things never properly explained in canon. I'm interested in your opinions on the matter, your personal headcanon concerning the trace.
+
+A few things we know from canon: - it must be on the wizard, not the wand (> Dobby levitates smth at the Dursleys, Harry gets the letter) - it tells the Ministry exactly *what* was used, *when*, *where* and *next to whom*.
+
+#+begin_quote
+  CoS: We have received intelligence that a Hover Charm was used at your place of residence this evening at twelve minutes past nine.
+
+  OotP: We have received intelligence that you performed the Patronus Charm at twenty-three minutes past nine this evening in a Muggle-inhabited area and in the presence of a Muggle."
+
+  DH quote 1: "The Trace, the Trace!" said Mad-Eye impatiently. "The charm that detects magical activity around under-seventeens, the way the Ministry finds out about underage magic! If you, or anyone around you, casts a spell to get you out of here, Thicknesse is going to know about it, and so will the Death Eaters."
+
+  DH quote 2: "You'll be going to Tonks's parents. *Once you're within the boundaries of the protective enchantments* we've put on their house you'll be able to use a Portkey to the Burrow. Any questions?"
+#+end_quote
+
+Any canon information I missed?
+
+My questions:
+
+a) Does the Trace document /every/ spell cast by and in the vicinity of a kid? And only gives alarm when it's cast next to muggles, but theoretically the Ministry could look up every spell?
+
+b) Is it charmed to only record spells cast in muggle environment? And the rest is not recorded at all?
+
+c) Is the Ministry automatically informed when a student uses magic outside of school? Or do they have to pay attention/look for it?
+
+- Harry got the letters in CoS and OotP very fast, which would suggest an automatic system.
+
+- Harry was at the graveyard, so out of school, and he as well as other wizards in his vicinity used magic. Why didn't the Ministry know? (Trace deactivated while at Hogwarts, or they don't pay attention during the school year, or ??)
+
+d) DH quote 2, could this mean that there are protective enchantments that disable the trace?
+
+e) What happens when the children are at Hogwarts? Is every spell recorded? Is it deactivated? On 'pause'? Are there protective enchantments that disable it?
+
+f) DH quote 1: Does Moody's quote suggest that the Ministry can theoretically spy on every wizard/witch who uses magic in vicinity of kids (familes etc.)? (as long as they don't have certain protective enchantments on their property, if those exist)
+
+
+** I think JKR didn't think much about the details of it when she first decided to have underage magic forbidden/tracked, and only really came up with 'the Trace' when she needed a reason not to Portkey/floo Harry out of Privet Drive in DH. I certainly don't have any good answers for your questions. It's conflicting, because CoS notes that "a Hover Charm /was used/", suggesting that magic is detected without detecting WHO (which we're told repeatedly), yet OotP says "/you/ performed the Patronus Charm", implying an ability to distinguish the caster. (This is, perhaps, just the Ministry being presumptive and assuming Harry was the one to cast the spell.)
+
+Then you've got HBP:
+
+#+begin_quote
+  "[Riddle] was under age at the time, wasn't he? I thought [the Ministry] could detect under-age magic!"
+
+  "...they can detect magic, but not the perpetrator [...] They will certainly be unable to tell who performed the magic [...] They rely on witch and wizard parents to enforce their offspring's obedience while within their walls."
+#+end_quote
+
+- If the Ministry detects /any/ magic cast in the vicinity of an underage wizard, why didn't they know that one had been present at the time of the Riddle murders?
+
+  - Even if they did detect an underage wizard was present at the time of the murders, and were just really bad detectives who failed to ask about it when questioning Morfin (entirely possible given what we've seen of the MoM), it begs the question of how big the distance of "in the vicinity of an underage wizard" is. The Riddle Manor is across the valley from the hill where the Gaunt hovel is, with the entire village in between. So... a mile between them, perhaps?
+
+- Why did the Ministry never detect Mundungus Apparating from Privet Drive in OotP and blame that on Harry? I can't believe he was more than a mile from Number 4 when the noise of his Apparition is described as being as loud as a gunshot.
+- Slightly unrelated, but in PS it's said that Harry is no further behind in his studies than the pureblood kids. I know Gryffindor and Slytherin only shared Potion classes at that time, but nevertheless it's implied through the book that Malfoy is no more skilled in magic than any other first year. Are you really telling me that Lucius Malfoy, Death Eater extraordinaire and all around snob, did not take advantage of a Ministry that cannot determine a spell's caster and teach his son any magic before Hogwarts?
+
+But one theory I did come up with once was that the Trace is some kind of spell that's applied to students every summer when they leave Hogwarts. In PS:
+
+#+begin_quote
+  notes were handed out to all students, warning them not to use magic over the holidays ("I always hope they'll forget to give us these," said Fred Weasley sadly)
+#+end_quote
+
+This makes me wonder if a spell is attached to the note that activates when the children touch it (or just from having it, but most of them are going to throw the note away ASAP so that theory doesn't hold up well), especially given that Fred's comment implies that, without the note, they would be able to use magic.
+:PROPERTIES:
+:Author: SilverCookieDust
+:Score: 5
+:DateUnix: 1448070854.0
+:DateShort: 2015-Nov-21
+:END:
+
+*** There is a fic that does exactly that. They simply don't grab them on their way out. I'd look for it to tell you exactly which one but lord knows it would take a month.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1448092138.0
+:DateShort: 2015-Nov-21
+:END:
+
+
+*** Thanks for sharing! About the Fred Weasley quote... I don't take that too seriously. It think it's more wishful thinking on his part. A "If they don't tell me, then I can say I didn't know." kind of thing...
+
+The theory above, posted by Abyranass actually also makes sense with the Tom Riddle/Morfin problem.
+
+If the Trace is a spell that only alerts the Ministry when it can't find an adult wizard in vicinity, then it would make sense that the Trace never alerted the Ministry concerning Tom Riddle's presence The Trace found Morfin and was satisfied.
+
+The different wording in the letters Harry received is curious. My theory now is that maybe while in CoS the Trace couldn't find an adult wizard in vicinity, the presence of another being capable of using magic confused it, and that's why it was worded more neutrally, while in OotP there was only Harry and a muggle it could find...
+:PROPERTIES:
+:Author: cheo_
+:Score: 1
+:DateUnix: 1448099753.0
+:DateShort: 2015-Nov-21
+:END:
+
+
+** I think it was explained well in... Potter vs Paradox? I think it was?
+
+The Trace is neither on the wizard nor the wand; it is on the spell. When a spell is cast, the Trace centers its detection radius around it and if it detects an underage wizard in the vicinity without finding an overage one as well, then it alerts the Ministry.
+
+Elf magic is completely different from wizard magic; it doesn't set off the Trace, that is why Harry never got a letter for Dobby Apparating into his room. Dobby, being the tricky elf he is, was able to replicate a wizard spell that he'd watched Draco practice and used that as his final resort to keep Harry out of Hogwarts.
+
+You can't go back if you're expelled after all.
+
+And now that I think about it, during The Order of the Phoenix when Harry was surrounded by overage wizards guarding him, he could have used magic and he might not have been detected.
+:PROPERTIES:
+:Author: Abyranss
+:Score: 5
+:DateUnix: 1448066880.0
+:DateShort: 2015-Nov-21
+:END:
+
+*** I like that theory, thanks for sharing! For it to make sense with DH though (Moody saying Thicknesse/the Ministry would know if Harry or someone in his vicinity cast a spell) there would also have to be a way to control that spell so that it tells you everything cast around a specific wizard. Otherwise Moody's fear wouldn't make sense, as according to this theory with adults around him, the Trace shouldn't alert the Ministry anyway.
+:PROPERTIES:
+:Author: cheo_
+:Score: 1
+:DateUnix: 1448099060.0
+:DateShort: 2015-Nov-21
+:END:
+
+
+** the seven potters bit was stupid, it's not about the trace so much as stealth. the minute the death eaters appeared everyone should have gone, fuck the law, and apparated away.
+:PROPERTIES:
+:Author: tomintheconer
+:Score: 2
+:DateUnix: 1448105649.0
+:DateShort: 2015-Nov-21
+:END:
+
+
+** My theory is it's cast around the homes of muggle-born students only.
+
+I know there is some canon quote about how the ministry doesn't bother tracking homes with adult wizards, they instead trust the adult wizards to keep the kids in line.
+
+In fact, reading the Wiki entry on it, I think that it's possible that Moody and other adults are spreading misinformation about the trace to make kids think they are tracked all the time, when really only muggleborns are tracked in their homes once they become Hogwarts students.
+:PROPERTIES:
+:Author: cavelioness
+:Score: 2
+:DateUnix: 1448110588.0
+:DateShort: 2015-Nov-21
+:END:
+
+
+** Regarding the graveyard, I'd say it's raesonable to argue that Voldemort isn't stupid and put up protections, enchantments, wards, or whatever you want to call them to prevent Harry from being found. Something like that would either automatically prevent underage magic from being detected or that was added in (his duel with Harry was likely planned well in advance).
+
+At any rate, I incorporated that into my current fic, since Voldemort has Potter for a longer period of time, making protections all the more necessary.
+
+Abyranss' explanation works, but comes with the problem that /every/ spell is being monitored at all times by the Ministry. Even though only underage magicals who are alone get alerts, every spell is monitored and theoretically recorded. Yet somehow, unforgivables aren't getting caught - if this "Trace" can be used to catch kids, how can it not be modified to catch unforgivables?
+
+Even if we ignore that, the "Trace" is still incredibly Orwellian, and while not a reason why it can't exist, it still strikes me rather too large. How on earth did anyone cast any sort of magic that monitors every single spell on the entire island?
+:PROPERTIES:
+:Author: philosophize
+:Score: 1
+:DateUnix: 1448147977.0
+:DateShort: 2015-Nov-22
+:END:
+
+
+** Good questions. Same topic was discussed extensively a few months ago [[https://www.reddit.com/r/HPfanfiction/comments/34v3e9/the_trace/][here]].
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1448311494.0
+:DateShort: 2015-Nov-24
+:END:

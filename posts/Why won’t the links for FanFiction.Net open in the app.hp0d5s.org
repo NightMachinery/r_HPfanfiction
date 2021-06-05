@@ -1,0 +1,57 @@
+#+TITLE: Why won’t the links for FanFiction.Net open in the app
+
+* Why won’t the links for FanFiction.Net open in the app
+:PROPERTIES:
+:Author: sjriehl60
+:Score: 6
+:DateUnix: 1594426559.0
+:DateShort: 2020-Jul-11
+:FlairText: Discussion
+:END:
+I have an iPhone 11 Max Pro and opening links on safari, chrome, or here on Reddit never open in the app. Does anyway know a work around or why it won't work?
+
+
+** On my Android it worked just fine from chrome and here it's was a note 8 then I got this and lost the ability almost makes me wanna switch back I use my phone for reading so much plus it doesn't open the reddit right either if I google it
+:PROPERTIES:
+:Author: sjriehl60
+:Score: 6
+:DateUnix: 1594427272.0
+:DateShort: 2020-Jul-11
+:END:
+
+
+** I would love an answer for this, but I'm kinda assuming it's just because the app isn't built for it
+:PROPERTIES:
+:Author: kdbvols
+:Score: 4
+:DateUnix: 1594427206.0
+:DateShort: 2020-Jul-11
+:END:
+
+
+** I have android but it may be transferable.
+
+Top right corner of where it opens. Usually the button to copy link. The drop down menu gives you an "open in Chrome" option. Clicking on it then gave me the option to turn on fanfiction.
+:PROPERTIES:
+:Author: omnenomnom
+:Score: 2
+:DateUnix: 1594436568.0
+:DateShort: 2020-Jul-11
+:END:
+
+
+** On iOS the app devs need to register the domain with Apple and build that feature themselves so that safari will offer to open it in the app. It's just because the devs didn't do it.
+:PROPERTIES:
+:Author: arcane_in_a_box
+:Score: 2
+:DateUnix: 1594464859.0
+:DateShort: 2020-Jul-11
+:END:
+
+*** Well it's more like they stopped working on this feature half-way. The Universal link is already registered which is why the “Open” appears when on a [[https://ff.net][ff.net]] page. For some reason they just never bothered to actually handle the links to open the fics.
+:PROPERTIES:
+:Author: Nouserentered
+:Score: 2
+:DateUnix: 1594477818.0
+:DateShort: 2020-Jul-11
+:END:

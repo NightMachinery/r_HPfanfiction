@@ -1,0 +1,170 @@
+#+TITLE: Do not do this with your Goblet of Fire
+
+* Do not do this with your Goblet of Fire
+:PROPERTIES:
+:Author: Avaday_Daydream
+:Score: 47
+:DateUnix: 1489393983.0
+:DateShort: 2017-Mar-13
+:FlairText: Mini-Fic
+:END:
+Barty Crouch Jr., masquerading as Mad-Eye Moody, looked around the Great Hall in the dead of night.
+
+Nobody was around. Certainly nobody was watching him or the Goblet of Fire. Good.
+
+He waved his wand, beginning his Confundus Charm on the Goblet. The changes he needed to make were simple, though large in magnitude.
+
+*/SET #PARTICIPANTS ("Triwizard Tournament") = 58200000*
+
+*/SET ENFORCE ("Did Not Participate In: Event #W2 (Wand Weighing)") = run SummaryExecution18.crs*
+
+Confundus done, Barty lowered his wand.
+
+Then he pulled out a copy of the White Pages for Britain and dropped it in the Goblet.
+
+Forget getting Harry Potter, this was going to be /much/ more entertaining.
+
+--------------
+
+The next morning, the Goblet of Fire paused after spitting out Cedric Diggory's name.
+
+Then it spewed a massive amount of shredded paper everywhere, filling the Great Hall with a layer of confetti.
+
+Looking very puzzled, Dumbledore waved his wand, summoning a handful of the pieces of paper to him, ones with names he recognized.
+
+"Vernon Dursley...? John Major?" he announced with a questioning tone, "Just what is going on here?"
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 17
+:DateUnix: 1489399104.0
+:DateShort: 2017-Mar-13
+:END:
+
+*** And that day went down in history as the day Hogwarts died, her students suffocated and paper-cut to death by a whirling storm of confetti.
+
+** 
+   :PROPERTIES:
+   :CUSTOM_ID: section
+   :END:
+Of course, it was only in the news for a few days before the news of 90% of the muggle population having their heads explode simultaneously came out. Apparently 'all of the organizers are dead' isn't a good enough excuse to skip the Wand Weighing for the Goblet of Fire.
+:PROPERTIES:
+:Author: Avaday_Daydream
+:Score: 12
+:DateUnix: 1489403434.0
+:DateShort: 2017-Mar-13
+:END:
+
+
+** This is a really funny idea. But my question is... Could you have a magical contract as a muggle? Also I thought the only reason it worked for Harry in canon was that it was a name from a homework assignment. A phone book wouldn't have hand written names.
+:PROPERTIES:
+:Author: dagfighter_95
+:Score: 10
+:DateUnix: 1489403106.0
+:DateShort: 2017-Mar-13
+:END:
+
+*** It worked for Harry because his name was on it, /and/ because a school that hadn't already had a champion chosen was on there in combination with the confundus.
+
+I don't think the 'torn off homework' was specified in canon.
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 7
+:DateUnix: 1489406529.0
+:DateShort: 2017-Mar-13
+:END:
+
+**** Does canon actually say that he was entered under a fourth school's name? I've always figured that /that/ was 'sensible fanon'.
+:PROPERTIES:
+:Author: shAdOwArt
+:Score: 3
+:DateUnix: 1489411811.0
+:DateShort: 2017-Mar-13
+:END:
+
+***** It's strongly implied when Barty/Moody is first explaining how it might have happened.
+
+#+begin_quote
+  "Because they hoodwinked a very powerful magical object!" said Moody. "It would have needed an exceptionally strong Confundus Charm to bamboozle that goblet into forgetting that only three schools compete in the tournament....I'm guessing they submitted Potter's name under a fourth school, to make sure he was the only one in his category...."
+#+end_quote
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 11
+:DateUnix: 1489414206.0
+:DateShort: 2017-Mar-13
+:END:
+
+****** Thanks!
+:PROPERTIES:
+:Author: shAdOwArt
+:Score: 1
+:DateUnix: 1489414645.0
+:DateShort: 2017-Mar-13
+:END:
+
+
+*** Hmm...is 'the name was torn from one of Harry's homework assignments' actually canon, or is it just popular fanon?
+
+** 
+   :PROPERTIES:
+   :CUSTOM_ID: section
+   :END:
+But yeah, the phone book doesn't have handwritten names...but it has names linked with phone numbers and some addresses too. That's something of a unique-identifier that the Goblet could use, right?
+
+** 
+   :PROPERTIES:
+   :CUSTOM_ID: section-1
+   :END:
+I dunno, the point of this is just a funny way to kill a lot of muggles. What do you suppose SummaryExecution18.crs would entail?
+:PROPERTIES:
+:Author: Avaday_Daydream
+:Score: 1
+:DateUnix: 1489403827.0
+:DateShort: 2017-Mar-13
+:END:
+
+**** u/Kazeto:
+#+begin_quote
+  Hmm...is 'the name was torn from one of Harry's homework assignments' actually canon, or is it just popular fanon?
+#+end_quote
+
+It's not canon, but it is a canon-compliant possibility as we never learn what happened to Harry's homework assignments in general---so one of them might have gotten withheld for that very purpose---and making it happen that way eliminates one of the “what the heck” points of the entirety of how the Goblet of Fire works since, with it being a contract that one enters, you'd expect it to require someone to throw in their name that they themselves have willingly written and with just any random paper on which Junior would have written Harry's name it would then enter Harry into a binding contract with no action of his own whatsoever.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 3
+:DateUnix: 1489432411.0
+:DateShort: 2017-Mar-13
+:END:
+
+
+**** Well, considering that it was /wizards/ who made it, it would probably contain some /really/ nasty curses. Considering that this is Barty Crouch Jr. who set the enforcement policy, he probably picked the nastiest one he could find, one that would make the muggles suffer.
+
+My idea, which comes after binging on /Worm/ fanfics, is that the goblet sets everyone in a [[http://worm.wikia.com/wiki/Gray_Boy#Abilities_and_Powers][Gray Boy loop.]] You know those time travel fics where the traveler /can't stop/ repeating, like the original Groundhog's day movie? Now imagine if that loop was anywhere from 0.1 to 1 second long, and that the world around you keeps moving forwards while you're reset to the same position over and over again. And now imagine that any injuries you suffer in this loop never heal and constantly hurt you again. /That's/ a Gray Boy loop.
+
+Imagine, the entirety of Britain mostly frozen, able to slowly talk one word or syllable at a time, but unable to ever leave that spot, forever tortured by injuries they receive. They are functionally dead, but most tragically /not./
+
+Yeah, Harry Potter as written by Wildbrow would have been a very different, very depressing story.
+:PROPERTIES:
+:Author: wille179
+:Score: -1
+:DateUnix: 1489419525.0
+:DateShort: 2017-Mar-13
+:END:
+
+
+** I'd love to read a fanfic by a software developer.
+:PROPERTIES:
+:Author: riddlewriting
+:Score: 3
+:DateUnix: 1489466513.0
+:DateShort: 2017-Mar-14
+:END:
+
+*** The Arithmancer, but with Ancient Runes?
+:PROPERTIES:
+:Author: Avaday_Daydream
+:Score: 1
+:DateUnix: 1489486980.0
+:DateShort: 2017-Mar-14
+:END:

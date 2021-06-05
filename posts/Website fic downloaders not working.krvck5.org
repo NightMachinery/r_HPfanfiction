@@ -1,0 +1,30 @@
+#+TITLE: Website fic downloaders not working
+
+* Website fic downloaders not working
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1609961713.0
+:DateShort: 2021-Jan-06
+:FlairText: Misc
+:END:
+[deleted]
+
+
+** I believe ffn did an update recently that prevented its APIs from working with third party websites...don't quote me on that though.
+:PROPERTIES:
+:Author: canttouchthis87
+:Score: 1
+:DateUnix: 1609962039.0
+:DateShort: 2021-Jan-06
+:END:
+
+
+** Apparently you did, yeah. FFNet recently changed a big thing in how their servers work (not sure entirely what it is - I am not a techhead) but it's thrown off a lot of the downloaders. The local FicBot (ran by our very own Tusing) can still access the site to get its pop-up thingies, so it's possible to get around it - I think it'll just take time for the people who run the various bots and downloaders and such to update them to get around the new protections.
+
+If you do a sub search for stuff around this, there were a bunch of posts a couple weeks ago (I think?) that talked about what happened in more detail, if you want specifics/technical details.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 1
+:DateUnix: 1609962510.0
+:DateShort: 2021-Jan-06
+:END:

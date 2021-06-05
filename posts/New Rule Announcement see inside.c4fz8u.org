@@ -1,0 +1,963 @@
+#+TITLE: New Rule Announcement: see inside!
+
+* New Rule Announcement: see inside!
+:PROPERTIES:
+:Author: the-phony-pony
+:Score: 283
+:DateUnix: 1561338392.0
+:DateShort: 2019-Jun-24
+:FlairText: Meta
+:END:
+The mod team has created *Rule 9*. Please see below.
+
+#+begin_quote
+  9: Request threads are for fic requests, not opinions on the requested item. /Do not bash the requests people make. Instead, make a discussion post if you wish to discuss the style of fic requested./
+#+end_quote
+
+Long explanation:
+
+Request threads are for requests /only/. Not discussion of the request, or about the merits of the type of story requested. Just a request. So even if you hate Harry/Ginny with a passion, *do not spew your dislike all over a thread where someone is asking for fics of that nature*.
+
+This even includes some of the lesser-liked requests that people might make. Like Tom Riddle/Harry. Like mpreg. Like slash. Like Death Eater Redemption. Like Harry-turns-bad. If you wish to discuss the type of request made, *make a discussion thread for it*. Do not bash a request made inside a request thread. Do not downvote a request made. Simply ignore it if you don't like it, and move on.
+
+We all are readers here who love Harry Potter. We just happen to like different parts of Harry Potter. Remember rules 2 & 3 and remember the human behind the screen.
+
+
+** This makes sense, except for the part about downvoting
+
+​
+
+> Do not downvote a request made.
+
+​
+
+The problem here is by default what people usually do is "If I want to see more of this post, Upvote, otherwise Downvote". Since votes are not really moderated it really isn't an easy thing to police either. Nor does it really make sense to expect people to change that without strong guidance otherwise.
+
+​
+
+Unless we explicitly change the standards for voting on requests (for example, Upvote if it is a clear and well thought out request, Downvote if it is something that could be found by searching or isn't well written), I don't think you can reasonably expect things not to engage. If someone gets onto the hot page via upvotes, people who don't like it are gonna downvote.
+
+(Changing the standard for voting would work, but takes work. Like a bot that posts on every request reminding people how they should be voting. Either that our a sub-wide standard for voting, not just requests).
+
+​
+
+Alternatively, disabling downvotes for requests would also do that.
+:PROPERTIES:
+:Author: StarDolph
+:Score: 62
+:DateUnix: 1561349949.0
+:DateShort: 2019-Jun-24
+:END:
+
+*** Disabling the downvote button does not work in my experience and only makes the people who want to downvote angrier & more likely to brigade.
+
+This is because when you disable the downvote button it is done purley through CSS. CSS does not exist on individual user pages, nor does it exist if you turn CSS off for any particular sub (or reddit entirely). I'm also not fully sure how this would translate to new reddit.
+
+While a decent idea, it ends up being more harm than its worth.
+
+For reference, Reddit's site wide rule is that downvoting should only be used when something does not belong on reddit. Such as harassment, comments/posts that go against the sub's rules or include personal information. Otherwise, the downvote button is not a disagree button and should not be used as such.
+:PROPERTIES:
+:Author: kemistreekat
+:Score: 13
+:DateUnix: 1561487705.0
+:DateShort: 2019-Jun-25
+:END:
+
+
+*** u/thrawnca:
+#+begin_quote
+  Upvote if it is a clear and well thought out request, Downvote if it is something that could be found by searching or isn't well written
+#+end_quote
+
+That's already the proper [[https://www.reddit.com/wiki/reddiquette][Reddiquette]] and always has been afaik. Downvoting is never supposed to mean "I don't enjoy this," it's supposed to mean "This doesn't belong on Reddit /for anyone/." That's already the standard. If you personally dislike something but others may like it, the proper response is to hide it.
+:PROPERTIES:
+:Author: thrawnca
+:Score: 29
+:DateUnix: 1561361912.0
+:DateShort: 2019-Jun-24
+:END:
+
+**** Pretty sure the current standard is "do you feel the post contributes". That is vague (and has to be, given the diversity of communities on Reddit. )
+
+There is nothing wrong with a community that downvotes requests it doesn't like and upvotes requests it does. In a community of like minded individuals,bit can be valuable. It may not be what we want here, but it doesn't mean it isn't good elsewhere.
+:PROPERTIES:
+:Author: StarDolph
+:Score: 15
+:DateUnix: 1561400744.0
+:DateShort: 2019-Jun-24
+:END:
+
+***** The Reddiquette standard says "contributes /to dialogue or discussion/," though (emphasis added). It also suggests that before downvoting, you consider providing constructive criticism about why. So, as an alternative to simply hiding a post or comment, you could reply and point out your reasons for disliking it. But there's really quite a low bar for being good enough to belong.
+
+#+begin_quote
+  There is nothing wrong with a community that downvotes requests it doesn't like and upvotes requests it does.
+#+end_quote
+
+I only half agree. The upvoting is sufficient to distinguish popular from unpopular, unless posts are actually off-topic or against subreddit rules. Remember, once downvoting reaches a threshold, content is hidden from /everyone/. So under a "downvote whatever you dislike" policy, some posts with only niche appeal, but not violating any rules, could well be hidden from their target audience. The appropriate response is instead to just ignore or hide them, upvote your preferred posts to the top of the subreddit, and let niche readers find what they're after unhindered if they take the time to wade through.
+:PROPERTIES:
+:Author: thrawnca
+:Score: 9
+:DateUnix: 1561408433.0
+:DateShort: 2019-Jun-25
+:END:
+
+
+**** It doesn't matter if there are some written or unwritten guides about up/down-voting.
+
+It is like/dislike buttons and the only way to fight it is to track downvoters and "punish" them. Does Reddit provide such capabilities to mods?
+
+[Edit] Good example of this: I got downvoted, because someone disliked my opinion, but had nothing to say.
+:PROPERTIES:
+:Author: DrunkBystander
+:Score: 8
+:DateUnix: 1561383865.0
+:DateShort: 2019-Jun-24
+:END:
+
+
+*** I never downvote anything at all, only ever upvote if I agree or want people to see the post.
+:PROPERTIES:
+:Author: nauze18
+:Score: 5
+:DateUnix: 1561414945.0
+:DateShort: 2019-Jun-25
+:END:
+
+
+** Good rule.
+:PROPERTIES:
+:Author: Dalai_Java
+:Score: 58
+:DateUnix: 1561344028.0
+:DateShort: 2019-Jun-24
+:END:
+
+
+** I thought that was already a rule. We had a discussion a year or two ago.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 11
+:DateUnix: 1561356261.0
+:DateShort: 2019-Jun-24
+:END:
+
+*** It was (the old rule 7), but when they migrated to new Reddit it disappeared off the rule list (but continued to be on the rule list for users of old Reddit).
+
+Indeed, if you use old Reddit, the old rule 7 is still there (with modified wording). So there are now two "request threads are only for requests" rules...
+
+[[https://i.imgur.com/rFurxZz.png]]
+:PROPERTIES:
+:Author: Taure
+:Score: 11
+:DateUnix: 1561364742.0
+:DateShort: 2019-Jun-24
+:END:
+
+**** They seem to be serving different purposes to me. Rule 7 makes a distinction between "Request" and "What's that fic", whereas Rule 9 is very clearly laying out that "I don't like slash" comments are no longer welcome in threads asking for Drarry recs
+:PROPERTIES:
+:Author: ligirl
+:Score: 9
+:DateUnix: 1561375452.0
+:DateShort: 2019-Jun-24
+:END:
+
+***** The new phrasing of Rule 7 is that indeed. But the old wording of rule 7 was very much "don't discuss in request threads".
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1561377147.0
+:DateShort: 2019-Jun-24
+:END:
+
+****** u/nauze18:
+#+begin_quote
+  don't discuss in request threads".
+#+end_quote
+
+What if I'm simply explaining a fic about the request the person had, and someone else argues about it, in a non-negative way? Is this allowed?
+:PROPERTIES:
+:Author: nauze18
+:Score: 4
+:DateUnix: 1561415129.0
+:DateShort: 2019-Jun-25
+:END:
+
+******* So are you saying if someone makes a request, you rec a story, and then someone replies to you and says "Actually, I don't think this story fulfills the request, and here's why..."
+
+I'd hope that'd be allowed. It would definitely help the OP who made the request get a better idea of any potential stories people recommend.
+:PROPERTIES:
+:Author: Threedom_isnt_3
+:Score: 4
+:DateUnix: 1561531124.0
+:DateShort: 2019-Jun-26
+:END:
+
+******** u/nauze18:
+#+begin_quote
+  "Actually, I don't think this story fulfills the request, and here's why..."
+#+end_quote
+
+Not exactly that. Lets say someone asked for a femHarry timetravel story. My rec is like... Mistakes and Second Choices (a necromancer femHarry genderbend time travel fic). I say somethings that are immediatly discernible from the first few chapters, like there will be some Dumbledore Bash, no Weasley bash, though no love either, and she uses a couple of elemental spells for being a necro.
+
+Someone then responds to me that they either dislike the fic in general or point out its flaws. That should be allowed in a Request fic, because its expands upon the request itself, not if its a bad Request or if the suggested fic isn't what was requested.
+
+But yes, what you said should also be allowed.
+
+All of this is my opinion, ofc.
+:PROPERTIES:
+:Author: nauze18
+:Score: 6
+:DateUnix: 1561572802.0
+:DateShort: 2019-Jun-26
+:END:
+
+
+****** Ah. I use old reddit exclusively, and assumed that the old wording was on old reddit. I just went to check out the wording on new reddit and can see that there's definitely some redundancy in that version (and also that rule 9 hasn't been officially added yet). Hopefully the mods will fix 7 when they add 9
+:PROPERTIES:
+:Author: ligirl
+:Score: 2
+:DateUnix: 1561377459.0
+:DateShort: 2019-Jun-24
+:END:
+
+******* My interpretation of this thread is the mod team announcing that they now intend to actually enforce it.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1561377538.0
+:DateShort: 2019-Jun-24
+:END:
+
+******** It's more like we only just noticed that at some point this was lost from the rules list.
+:PROPERTIES:
+:Author: denarii
+:Score: 3
+:DateUnix: 1561425611.0
+:DateShort: 2019-Jun-25
+:END:
+
+
+******** They've always enforced the rule when people reported infractions. Here's a mod response on the subject: [[https://www.reddit.com/r/HPfanfiction/comments/a7eh26/downvoting_should_be_reserved_for_shitposting_and/ec4erjx/][link]]
+
+If anything, I think this thread was just about clarifying and raising awareness of the existing rule. I'm not sure why they called it "new" though.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 1
+:DateUnix: 1561378077.0
+:DateShort: 2019-Jun-24
+:END:
+
+
+****** Taure is right everyone lol, we were all kinda confused tbh bc we thought this rule existed.
+:PROPERTIES:
+:Author: kemistreekat
+:Score: 1
+:DateUnix: 1561487783.0
+:DateShort: 2019-Jun-25
+:END:
+
+
+***** Correct, this is the distinction we wanted to make.
+
+Consider it the “no kink shaming” rule of the subreddit. The fics you enjoy someone else might not, so let those people find the fics they want to enjoy and you can find your own.
+:PROPERTIES:
+:Author: the-phony-pony
+:Score: 6
+:DateUnix: 1561376688.0
+:DateShort: 2019-Jun-24
+:END:
+
+
+** This rule is perfectly fine, so long as it is consistently enforced (which it hasn't been up til now). Namely, it needs to be enforced just as much against the OP as the people in the comments.
+
+The problem is that people who make request threads rarely limit themselves to a request. It's never "Looking for stories where Dumbledore is evil." It's always "Looking for stories where Dumbledore is evil because no one in their right mind could justify his actions in canon."
+
+If OP creates a combination request-discussion thread, I don't think they can complain when people respond to them in the same terms. Labelling a thread a "request" should not be some kind of shield that people can use to give themselves a soap box from which they can profess controversial opinions without any risk of being called out.
+
+That said "make a discussion thread if you want to discuss a request" idea is the kind of silly rule that can only exist because the rule-makers don't expect people to actually follow it. Imagine if for every request made in the sub, there was a corresponding discussion thread. The sub would be overrun with spam.
+:PROPERTIES:
+:Author: Taure
+:Score: 23
+:DateUnix: 1561365203.0
+:DateShort: 2019-Jun-24
+:END:
+
+*** If it's labelled "request"; it's not a discussion - no matter the wording. I think we can expect people to follow such a simple rule, instead of trying to mince words about how "he totally asked for a discussion!!! Them's fighting words!".
+:PROPERTIES:
+:Author: Starfox5
+:Score: 6
+:DateUnix: 1561400450.0
+:DateShort: 2019-Jun-24
+:END:
+
+**** I disagree, but am of the opinion that top-level comments should consist of fic requests or clarification.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1561753528.0
+:DateShort: 2019-Jun-29
+:END:
+
+
+*** Actually, I've seen multiple occasions where discussion threads popped up in reaction to fic requests, and many times the discussion was lively and interesting.
+
+Judging by that, I'd say this rule works very well when people bother to follow it.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 4
+:DateUnix: 1561375336.0
+:DateShort: 2019-Jun-24
+:END:
+
+
+** We can use more than one flair correct? So someone if they wanted discussion as well could flair Request/Discussion?
+:PROPERTIES:
+:Author: Fizban195
+:Score: 3
+:DateUnix: 1561348614.0
+:DateShort: 2019-Jun-24
+:END:
+
+*** It's not possible to apply more than one flair to a post.
+:PROPERTIES:
+:Author: denarii
+:Score: 7
+:DateUnix: 1561425986.0
+:DateShort: 2019-Jun-25
+:END:
+
+
+*** as [[/u/denarii][u/denarii]] said, you can't use more than 1 flair to a post. However, you can add characters to a flair so that it reads as "Request/Discussion" so there is that option.
+:PROPERTIES:
+:Author: Efficient_Assistant
+:Score: 3
+:DateUnix: 1561500330.0
+:DateShort: 2019-Jun-26
+:END:
+
+
+** Just disable downvotes. People won't be able to help themselves, there isn't a reason to have downvotes in this sub at all really. Disable them and prevent controversial threads / requests from being buried.
+:PROPERTIES:
+:Author: Squishysib
+:Score: 14
+:DateUnix: 1561348346.0
+:DateShort: 2019-Jun-24
+:END:
+
+*** That's not possible, only on old reddit with CSS changes. But that won't work on any of the mobile apps or the new design.
+:PROPERTIES:
+:Author: Wombarly
+:Score: 23
+:DateUnix: 1561355358.0
+:DateShort: 2019-Jun-24
+:END:
+
+**** Mmm that sucks. Well hopefully this will stop at least some of it.
+:PROPERTIES:
+:Author: Squishysib
+:Score: 2
+:DateUnix: 1561359297.0
+:DateShort: 2019-Jun-24
+:END:
+
+
+** How does this translate to discussing the replies. For example, let's say someone asks for Snamione and the first reply is some 4th year fic. Are we still allowed from pointing out that this suggested fic is bad due to the fact that it's statutory rape and Snape is abusing his powers as a teacher over a student? Or that Snape's past in the magical Nazis is whitewashed?
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 9
+:DateUnix: 1561368699.0
+:DateShort: 2019-Jun-24
+:END:
+
+*** I'm also curious if this rule applies to discussion of the recommended stories in a request thread.
+
+As I recall, in the rule proposal thread a few years ago the mod(s) said this rule was only meant to apply to top-tier comments, and discussion of the recommendations was ok as long as the comments obeyed rules 2 & 3. Hopefully that is still the case.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 5
+:DateUnix: 1561375073.0
+:DateShort: 2019-Jun-24
+:END:
+
+**** Yeah, I hope it works this way.
+
+I like getting random discussion about stories in request threads, personally. Even if it's sometimes because someone feels negatively about a particular story.
+:PROPERTIES:
+:Author: OrionTheRed
+:Score: 3
+:DateUnix: 1561395327.0
+:DateShort: 2019-Jun-24
+:END:
+
+
+*** u/denarii:
+#+begin_quote
+  For example, let's say someone asks for Snamione and the first reply is some 4th year fic.
+#+end_quote
+
+In this case you should report it for violation of the rule against sexualizing minors.
+:PROPERTIES:
+:Author: denarii
+:Score: 3
+:DateUnix: 1561425761.0
+:DateShort: 2019-Jun-25
+:END:
+
+**** When I asked about this rule before I was told that it only applied to stories which were explicit about it, not where a relationship (or more) was implied.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 3
+:DateUnix: 1561455857.0
+:DateShort: 2019-Jun-25
+:END:
+
+
+**** No one said it had to include sex. Romance, suprisingly, is not dependant on sex.
+:PROPERTIES:
+:Author: Lakas1236547
+:Score: 1
+:DateUnix: 1561450090.0
+:DateShort: 2019-Jun-25
+:END:
+
+***** u/chiruochiba:
+#+begin_quote
+  No one said it had to include sex.
+#+end_quote
+
+Take a closer look at the comment the mod was responding to and you will see:
+
+#+begin_quote
+  Are we still allowed from pointing out that this suggested fic is bad due to the fact that it's *statutory rape*(...)
+#+end_quote
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 1
+:DateUnix: 1561453522.0
+:DateShort: 2019-Jun-25
+:END:
+
+
+*** Just stay out of the thread, it's that simple. If you want to make a thread discussing Death Eater apologist fics, do that.
+:PROPERTIES:
+:Author: Squishysib
+:Score: 6
+:DateUnix: 1561412521.0
+:DateShort: 2019-Jun-25
+:END:
+
+
+*** I think it's also a matter of degree. If your arguments against this particular recced fic extend to cover all of whatever category the OP asked for, then it probably falls under this new rule.
+:PROPERTIES:
+:Author: ligirl
+:Score: 2
+:DateUnix: 1561375877.0
+:DateShort: 2019-Jun-24
+:END:
+
+**** I think you've raised an interesting point. But I think you can make almost every trope and pairing work if you go far enough AU.
+
+It's certainly possible to write an AU where Dramione is believable (eg Draco starts to question pureblood supremacy after Hermione outperformed everyone during PS, he befriends Hermione to find her secret only to realize that she isn't cheating), or to write a good Lord Harry fic, but doing so usually means to disregard the common interpretation and tropes surrounding that type of story. But as far as I know, there are no stories which do so, which makes arguing in that direction difficult and in return means that the existing fics are subjectively awful.
+
+Which means that I'd trash the recommended fic and the common stories and motives, but not deny that the premise can be done well. It gets really difficult when OP asks for the elements which make something awful (eg Snarry while Harry is fed a love potion and still 13).
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 4
+:DateUnix: 1561377020.0
+:DateShort: 2019-Jun-24
+:END:
+
+***** I wouldn't mind a Lord Harry fic that's written where he just inherits a title. No money or politics from it, just a neat title.
+
+People forget Draco was proud to be affliated with the +Hitler Youth+ junior Death Eaters in Hogwarts until his parents were threatened and that he advocated genocide as a 12 year old. Your premise is actually the basis for what could be a good fic.
+
+Giving criticism, provided it isn't trolling or flaming, just opens up discussions on canon that I find refreshing.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1561753967.0
+:DateShort: 2019-Jun-29
+:END:
+
+****** I wouldn't even mind a seat in parliament, or an actual feudal title, as long as other people have political agency as well and don't just bend over.
+
+And Draco was actually part of the magical Waffen-SS, not just the Hitler youth. He carried out three assassination attempts for fuck's sake. And countless war crimes in the process.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 1
+:DateUnix: 1561756885.0
+:DateShort: 2019-Jun-29
+:END:
+
+******* u/galatea_and_acis:
+#+begin_quote
+  And Draco was actually part of the magical Waffen-SS, not just the Hitler youth.
+#+end_quote
+
+he joined under threat of his family being tortured, & himself too.
+
+#+begin_quote
+  "The Dark Lord will not be persuaded, and I am not stupid enough to attempt it," said Snape flatly. "I cannot pretend that the Dark Lord is not angry with Lucius. Lucius was supposed to be in charge. He got himself captured, along with how many others, and failed to retrieve the prophecy into the bargain. Yes, the Dark Lord is angry, Narcissa, very angry indeed. "
+
+  "Then I am right, he has chosen Draco in revenge!" choked Narcissa. "He does not mean him to succeed, he wants him to be killed trying!"
+#+end_quote
+
+--------------
+
+#+begin_quote
+  (...) in an explosion of agony, he felt the rage that did not belong to him possess his soul, saw a long room lit only by firelight, and the great blond Death Eater on the floor, screaming and writhing, and a slighter figure standing over him, wand outstretched, while Harry spoke in a high, cold, merciless voice. “More, Rowle, or shall we end it and feed you to Nagini? Lord Voldemort is not sure that he will forgive this time. . . . You called me back for this, to tell me that Harry Potter has escaped again? Draco, give Rowle another taste of our displeasure . . . *Do it, or feel my wrath yourself!”* (...) He sat up. Malfoy's gaunt, petrified face seemed branded on the inside of his eyes. Harry felt sickened by what he had seen, by the use to which Draco was now being put by Voldemort.
+
+  --------------
+
+  He carried out three assassination attempts for fuck's sake
+#+end_quote
+
+on dumbledore. he didn't intend to hurt other students.
+
+and he's not even able to kill dumbledore in the end.
+
+--------------
+
+fenrir wasn't supposed to enter the castle;
+
+#+begin_quote
+  "That's right," said Greyback. "Shocks you, that, does it, Dumbledore? Frightens you?"
+
+  "Well, I cannot pretend it does not disgust me a little," said Dumbledore. "And, yes, I am a little shocked that Draco here invited you, of all people, into the school where his friends live. . . "
+
+  "I didn't," breathed Malfoy. He was not looking at Greyback; he did not seem to want to even glance at him. "I didn't know he was going to come--"
+#+end_quote
+
+--------------
+
+#+begin_quote
+  And countless war crimes in the process
+#+end_quote
+
+like what?
+:PROPERTIES:
+:Author: galatea_and_acis
+:Score: 2
+:DateUnix: 1562229239.0
+:DateShort: 2019-Jul-04
+:END:
+
+******** u/Hellstrike:
+#+begin_quote
+  Like what
+#+end_quote
+
+Well, let's have a look at the Hague convention:
+
+#+begin_quote
+  Art. 23. Besides the prohibitions provided by special Conventions, it is especially prohibited
+
+  (a) To employ poison or poisoned arms;
+
+  (b) To kill or wound treacherously individuals belonging to the hostile nation or army;
+#+end_quote
+
+And by not wearing Death Eater insignia during his attacks, he also violates the spirit of:
+
+#+begin_quote
+  (f) To make improper use of a flag of truce, the national flag or military ensigns and uniform of the enemy, as well as the distinctive badges of the Geneva Convention;
+#+end_quote
+
+Article 24 allows ruses, but not for carrying out assassinations since they are forbidden by 23. And countless articles in the Geneva convention reinforce that point as well as extend protection towards civilans, whom Malfoy attacked (Rosmerta, Katie Bell). And he again violated 23a in the process.
+
+#+begin_quote
+  He was forced
+#+end_quote
+
+He got exactly what he had been advocating for half of the past decade. He welcomed the return of Voldemort and had no qualms about hurting civilians. He only got cold feet when he had to look Dumbledore in the eyes while doing the deed. He had several choices, from fleeing to siding with Dumbledore (or the Ministry). And coercion is not a valid defence for capital crimes such as murder or attempted murder.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 1
+:DateUnix: 1562237651.0
+:DateShort: 2019-Jul-04
+:END:
+
+
+******* I meant before the Half-Blood Prince for Draco. I probably should have mentioned him joining the +Waffen-SS+ Death Eaters afterwards.
+
+Funny thing is he's still way more of a sympathetic figure than Snape. Go figure.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1561763655.0
+:DateShort: 2019-Jun-29
+:END:
+
+
+*** The mods didn't think that far ahead.
+
+Someone whined that people were saying their whitewash!deatheaters !misunderstood!voldemort 70 year old Tom Riddle / 14 year old Harry Potter was getting replies but no stories, so they made this new rule. If you can't handle a discussion about the real flaws of whatever you're requesting, you're probably too young to be reading said fic. But now we're removing another mode of discussion from this subreddit, and instead bringing in a new lane for more spam threads.
+:PROPERTIES:
+:Author: themegaweirdthrow
+:Score: 3
+:DateUnix: 1561388732.0
+:DateShort: 2019-Jun-24
+:END:
+
+**** It's not a new rule. This rule has been in the sidebar in various iterations for over a year. Rather than jumping to bizarrely false assumptions, you would be better served by reading the well reasoned arguments that community members made for and against it [[https://www.reddit.com/r/HPfanfiction/comments/5v5f2v/new_rule_proposals/?depth=15][back when the rule was first proposed]].
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 3
+:DateUnix: 1561389928.0
+:DateShort: 2019-Jun-24
+:END:
+
+***** I said they didn't think far enough ahead, in the context of the OP I responded to. Maybe instead of making false assumptions, and downvoting me, you can remember it wasn't on the sidebar.
+
+I've heard it used to be on the sidebar, but it wasn't there at all for a while, and because of that, threads had people talking and not linking. So for most people, and what can be assumed in general, is that this is a new rule, no matter if it had been there in the past and then removed.
+:PROPERTIES:
+:Author: themegaweirdthrow
+:Score: 0
+:DateUnix: 1561390176.0
+:DateShort: 2019-Jun-24
+:END:
+
+****** u/chiruochiba:
+#+begin_quote
+  you can remember it wasn't on the sidebar.
+#+end_quote
+
+Actually, as I said, the rule has been in the sidebar for over a year, just phrased differently.
+
+As others have mentioned elsewhere in this thread, before this change it used to be part of the wording of rule 7. Apparently some commenters just overlooked it or chose to ignore it. Thus, the mods have now clarified the matter by making it a separate rule.
+
+#+begin_quote
+  So for most people, and what can be assumed in general, is that this is a new rule, no matter if it had been there in the past and then removed.
+#+end_quote
+
+In the past year there was never a time period when the rule was not in the sidebar. Mods have been enforcing the rule consistently whenever they get reports.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 4
+:DateUnix: 1561390870.0
+:DateShort: 2019-Jun-24
+:END:
+
+******* u/themegaweirdthrow:
+#+begin_quote
+  Actually, as I said, the rule has been in the sidebar for over a year, just phrased differently.
+#+end_quote
+
+Which rule? 7? Because that just says which flair to use. Rule 2? Well, discussing the failings of underage m/m mpreg isn't hate speech.
+
+#+begin_quote
+  In the past year there was never a time period when the rule was not in the sidebar. Mods have been enforcing the rule consistently whenever they get reports.
+#+end_quote
+
+The Request threads are full of people only talking about the request and not linking. Even now, one of the threads is literally just people talking, and not linking. If they've been enforcing this rule, they're doing it only to certain people. Otherwise, they're not enforcing it, because people here obviously think it's nonsense and not needed.
+:PROPERTIES:
+:Author: themegaweirdthrow
+:Score: 0
+:DateUnix: 1561391139.0
+:DateShort: 2019-Jun-24
+:END:
+
+******** u/chiruochiba:
+#+begin_quote
+  Which rule? 7? Because that just says which flair to use. Rule 2? Well, discussing the failings of underage m/m mpreg isn't hate speech.
+#+end_quote
+
+As I mentioned, the answer to that question was already covered [[https://www.reddit.com/r/HPfanfiction/comments/c4fz8u/new_rule_announcement_see_inside/erwu0bb/][earlier in this thread]].
+
+#+begin_quote
+  If they've been enforcing this rule, they're doing it only to certain people.
+#+end_quote
+
+If you read [[https://www.reddit.com/r/HPfanfiction/comments/c4fz8u/new_rule_announcement_see_inside/erx97hq/][other comments]] in this thread you would find an answer to that question also.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 1
+:DateUnix: 1561391669.0
+:DateShort: 2019-Jun-24
+:END:
+
+********* Lol
+
+Yeah, people can report them, but if they're not, it just answers my second point of that discussion. People aren't reporting those posts because they think it's a nonsense rule, or they don't care enough, which makes the rule unneeded.
+:PROPERTIES:
+:Author: themegaweirdthrow
+:Score: 1
+:DateUnix: 1561393118.0
+:DateShort: 2019-Jun-24
+:END:
+
+********** u/chiruochiba:
+#+begin_quote
+  People aren't reporting those posts because they think it's a nonsense rule, or they don't care enough, which makes the rule unneeded.
+#+end_quote
+
+Or, like yourself, they never noticed that the rule existed.
+
+If you followed [[https://www.reddit.com/r/HPfanfiction/comments/a7eh26/downvoting_should_be_reserved_for_shitposting_and/ec4erjx/][the link]] in the second comment chain I mentioned, you would see an example of someone who agreed with the rule but didn't realize it existed until it was pointed out to them.
+
+Judging by your previous comment, you seem to think that upvotes/downvotes are an indicator of like/dislike. You could look at how many people upvoted this announcement thread as an indication of how many more people view the rule favorably vs. unfavorably
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 4
+:DateUnix: 1561393735.0
+:DateShort: 2019-Jun-24
+:END:
+
+
+*** Your case is rather extreme, but I believe the reasonable thing here is to /always/ allow discussing recommended fics as reply to the one recommending -- be it because they don't like the fic (assuming their post is more elaborate than "this fic sucks"), it doesn't align with what OP requested, the fic is disturbing because reasons (such as the one you mentioned), etc.
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 1
+:DateUnix: 1563580822.0
+:DateShort: 2019-Jul-20
+:END:
+
+
+** BUT I HATE STORIES ABOUT RULES THIS REQUEST THREAD IS TRASH REEEEEEEEEEEEEEEEEEEEEEEE
+:PROPERTIES:
+:Author: SilenceoftheSamz
+:Score: 15
+:DateUnix: 1561344483.0
+:DateShort: 2019-Jun-24
+:END:
+
+*** Is your username a mix of silence of the lambs and the son of sam?
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1561754027.0
+:DateShort: 2019-Jun-29
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1561761571.0
+:DateShort: 2019-Jun-29
+:END:
+
+***** Probably should delete the comment. Not good to put personal information out there.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1561763444.0
+:DateShort: 2019-Jun-29
+:END:
+
+
+*** Meta much?
+:PROPERTIES:
+:Author: YOB1997
+:Score: -18
+:DateUnix: 1561345058.0
+:DateShort: 2019-Jun-24
+:END:
+
+
+** Nice
+:PROPERTIES:
+:Author: InfernoItaliano
+:Score: 8
+:DateUnix: 1561343440.0
+:DateShort: 2019-Jun-24
+:END:
+
+
+** That's cool and all, but can we get a rule about people recing fics that don't relate to the request at all?
+:PROPERTIES:
+:Author: glencoe2000
+:Score: 2
+:DateUnix: 1561387256.0
+:DateShort: 2019-Jun-24
+:END:
+
+*** Also the one where the exact same req threads are getting reposted every other day and cluttering things up because people are either too lazy or too stupid to use the damn search bar.
+:PROPERTIES:
+:Author: jholland513
+:Score: 3
+:DateUnix: 1561395483.0
+:DateShort: 2019-Jun-24
+:END:
+
+
+*** Is that a common problem? I've seen that happen a few times, but it seems to be rare, and in the cases I've seen the person who posted the recommendation is acting in good faith. I wouldn't think it's a issue that needs mod action.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 2
+:DateUnix: 1561388936.0
+:DateShort: 2019-Jun-24
+:END:
+
+
+** Thank you.
+:PROPERTIES:
+:Author: CalamityJaneDoe
+:Score: 3
+:DateUnix: 1561344854.0
+:DateShort: 2019-Jun-24
+:END:
+
+
+** I like this rule.
+:PROPERTIES:
+:Author: THEHYPERBOLOID
+:Score: 3
+:DateUnix: 1561346793.0
+:DateShort: 2019-Jun-24
+:END:
+
+
+** Thank you!!! Someone went ballistic the other day here that I was looking for a particular type of fic. I appreciate this rule so much!
+:PROPERTIES:
+:Author: litnut17
+:Score: 3
+:DateUnix: 1561351825.0
+:DateShort: 2019-Jun-24
+:END:
+
+
+** Hey, somebody mentioned Rule 8 so I wanted to look up the rules, but I cannot find them in the wiki?
+:PROPERTIES:
+:Author: maryfamilyresearch
+:Score: 1
+:DateUnix: 1561565276.0
+:DateShort: 2019-Jun-26
+:END:
+
+*** Rules are located on the sidebar, but I'll repost them for you here:
+
+1. No personal information.
+
+2. No hateful speech or witch hunting. Homophobia, transphobia, sexism, racism or any other derogatory language will not be tolerated.
+
+3. No personal attacks or insults. Purposefully inciting arguments, personal attacks and threats will not be tolerated.
+
+4. No impersonating authors. Pretending to be an author and making comments on an authors' behalf will not be tolerated.
+
+5. All spoilers must use the spoiler tags: >!it was his sled!<
+
+6. Do not use this subreddit to try to circumvent the rules of other fanfiction communities or the will of authors.
+
+7. Request threads are for recommendations of a certain critera. "What's that fic?" is for finding a specific fic. Flair accordingly. See here for an explanation.
+
+8. No direct links to sexual or suggestive content involving minors. Please note reddit's policy regarding this issue. All direct links to such content will be removed.
+
+9. Request threads are for fic requests, not opinions on the requested item. Do not bash the requests people make. Instead, make a discussion post if you wish to discuss the style of fic requested.
+
+If you have any questions, you can PM the modteam by [[https://www.reddit.com/message/compose?to=%2Fr%2FHPfanfiction][clicking here]].
+:PROPERTIES:
+:Author: the-phony-pony
+:Score: 2
+:DateUnix: 1561673359.0
+:DateShort: 2019-Jun-28
+:END:
+
+
+** I take it this doesn't apply to prompt-flaired posts?
+:PROPERTIES:
+:Author: will1707
+:Score: 1
+:DateUnix: 1562191129.0
+:DateShort: 2019-Jul-04
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1562442813.0
+:DateShort: 2019-Jul-07
+:END:
+
+*** [[/r/badmaleanatomy]]
+:PROPERTIES:
+:Author: SilenceoftheSamz
+:Score: 1
+:DateUnix: 1562467429.0
+:DateShort: 2019-Jul-07
+:END:
+
+
+** Question: if a request post gets me thinking about a plot premise/story idea related to it, can I make a comment on the aforementioned post, or should I make my own prompt post for it?
+:PROPERTIES:
+:Author: Raesong
+:Score: 1
+:DateUnix: 1562661433.0
+:DateShort: 2019-Jul-09
+:END:
+
+
+** love u
+:PROPERTIES:
+:Author: galatea_and_acis
+:Score: 1
+:DateUnix: 1561345473.0
+:DateShort: 2019-Jun-24
+:END:
+
+
+** Good mod.
+:PROPERTIES:
+:Author: smae998
+:Score: 1
+:DateUnix: 1561346269.0
+:DateShort: 2019-Jun-24
+:END:
+
+
+** So if OP makes a request: “Any good ______ stories?” And someone responds with “Yes, I recommend (Insert Shitty Story).” Am i then allowed to discuss the shitty story that was recommended? Or do we also have to baby those as well?
+:PROPERTIES:
+:Author: lucyroesslers
+:Score: 1
+:DateUnix: 1561523862.0
+:DateShort: 2019-Jun-26
+:END:
+
+*** Let me see if I understand.
+
+OP asks for "good Harry/Ginny stories".
+
+Someone provides a link to "bad story here" which /is/ a Hinny story but is not a good fic for x, y, or z reason.
+
+You would like to comment on why "bad story here" is not a good example of a Hinny.
+
+Does this hypothetical situation match what you were asking?
+:PROPERTIES:
+:Author: the-phony-pony
+:Score: 2
+:DateUnix: 1561673539.0
+:DateShort: 2019-Jun-28
+:END:
+
+**** Yes. Basically they asked for a good Hinny, and someone gave them a bad Hinny suggestion. Of course no reason to be cunty about it and say “That fic sucks” and be rude. But if I say “while it's a Hinny story, it's not good because (insert attempt at explanation why it's not good)”... surely this type of dialogue is okay?
+:PROPERTIES:
+:Author: lucyroesslers
+:Score: 2
+:DateUnix: 1561678586.0
+:DateShort: 2019-Jun-28
+:END:
+
+***** Yes! What is /not/ okay are these things:
+
+OP asks for "good Harry/Ginny stories".
+
+You explain why Harry/Ginny is a horrible ship and why the author shouldn't be reading it.
+
+OR
+
+OP asks for "good Harry/Ginny stories".
+
+Someone provides a link to "bad story here" which is a Hinny story but is not a good fic for x, y, or z reason.
+
+You comment that Hinny is a bad ship and do not address the technical reasons why the story is bad or address the request at all.
+
+Essentially, you may discuss linked fics that match the OP's request. What isn't okay is a discussion on the merits of OP's request. In this example, discussing Hinny stories is okay. Discussing whether Hinny is a good ship is not okay.
+:PROPERTIES:
+:Author: the-phony-pony
+:Score: 2
+:DateUnix: 1561691602.0
+:DateShort: 2019-Jun-28
+:END:
+
+****** Just like why ships are considered "bad" is opinion, so too is it true for fanfictions.
+:PROPERTIES:
+:Author: Squishysib
+:Score: 0
+:DateUnix: 1562037793.0
+:DateShort: 2019-Jul-02
+:END:

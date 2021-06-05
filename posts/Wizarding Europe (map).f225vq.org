@@ -1,0 +1,260 @@
+#+TITLE: Wizarding Europe (map)
+
+* Wizarding Europe (map)
+:PROPERTIES:
+:Author: SnobbishWizard
+:Score: 13
+:DateUnix: 1581390866.0
+:DateShort: 2020-Feb-11
+:FlairText: Misc
+:END:
+[[https://cdn.discordapp.com/attachments/670638015378620416/675556729567576075/Wizzarding_Europe.jpg][The Map]]
+
+So a couple of months ago, a friend and I did a map of wizarding Europe using the game HOI4 to make the borders. Looking back at it, I didn't like it very much and wanted to make some changes. From one part the map went clearly against canon, and on the other the states in the games weren't really the best when you needed to make borders from five centuries ago (HOI4 is a WW2 game, so I think you see what I mean). Anyway, we took another game, one going from 1400 to 1830, and made a new attempt at it. I also want to say this was made with no thoughts of offending anyone, so I am deeply sorry if you find to be after looking at the map. It was made so that I could have an image to represent my vision.
+
+/Comments:/
+
+1) In regards to Corsica, I'll admit we completely forgot about it (we did the whole world and it took like three hours doing it all), but it's supposed to be part of France.
+
+2) You'll see a grey/white spot between France and Italy. This isn't Austrian clay, the game consider this part of the Alps as inhabitable and therefore wasteland.
+
+3) Transylvania is a slightly darker/more purple than Hungary. This means Transylvania is part of Hungary but has a great autonomy from the Hungarian Ministry. I wanted to do the same for other countries (i.e. Ukraine, Lithuania, Crimea, Caucasus, Baltics, and Central Steppes) but it would have taken ages and my friend wasn't really keen since he was the one actually doing it because he knew the game and I didn't want to push him. but that's why this is a prototype.
+
+4) The small red spot between France and Germany is Luxembourg before it was partitioned. The yellow beside that is Wallonia. Flanders is part of the Netherlands, but is like Wales is to England.
+
+5) It's difficult to see, but Albania and Greece are both sovereign countries. Their shared border is the modern one. Staying with Greece, the state of Thrace was really awkward and included Eastern and Western Thrace and a bit of the Bulgarian coast. So, for aesthetic reasons I gave it to Bulgaria.
+
+6) We weren't able to name Romania 'Romania', that's why it's called Moldavia. And yes, we also misspelled Yugoslavia. We're francophones, fight me.
+
+7) We couldn't make Liechtenstein, Andorra, Vatican, or San Marino show because they're too small to have their own state, but in my heart they are there.
+
+What do you guys think?
+
+
+** You're missing a canonical wizarding country in Mesopotamia: Assyria (Neville says his uncle went there).
+
+Generally speaking, my impression is that wizards are more likely to be grouped into states along ethnic-nationalist lines rather than existing in large empires. This is for a few reasons:
+
+1. By all appearances, magical wars between states do not happen. They appear to be banned by the ICW. Though we know that some wizards defied the ban in WW1, we also know that in other conflicts such as the American Revolution, wizards followed the rule of "kind over country".
+
+2. Territory will mean very little to wizards anyway. They don't really need natural resources, they don't need much in the way of physical infrastructure, and wizarding travel is disconnected from physical geography. I think it's much more likely that wizarding governments view themselves as governing a /people/, not a /territory/. That's not to say there wouldn't be borders, but they may be quite fuzzy.
+
+3. Transylvannia is mentioned as having an international Quidditch team.
+
+Ultimately, my view of magical geography is that it likely diverged from Muggle geography very early on in history. We know that magical Britain was governed as a single entity since at least the 1200s, the earliest date we have for the existence of the Wizard's Council, which we know governed both England and Scotland.
+
+However, the date of divergence may well be significantly earlier - the collapse of the Western Roman Empire is a decent candidate, I think. Since that time, wizarding geography in Europe could have remained pretty static, being only affected my major migrations of /people/, but largely unaffected by Muggle exchanges of territory.
+
+Whenever Muggles exchanged territory, one can imagine the wizards just shrugging and continue to administer themselves in the community they have traditionally considered themselves a part of. While it's true that we know of wizards occasionally participating in Muggle wars (e.g. Malfoys in the Norman conquest), to me this is clearly an example of the occasional wizard lending aid to Muggles for personal reward - the army is still a Muggle army, not a mixed Muggle/wizard army.
+:PROPERTIES:
+:Author: Taure
+:Score: 4
+:DateUnix: 1581406248.0
+:DateShort: 2020-Feb-11
+:END:
+
+*** For Assyria, I believe that it's not stated to be a country categorically - wizards might use it as a name for a region (eg, similar to how I might say someone went to the Caribbean).
+
+One aspect to consider for the ethnic-nationalist lines is that, historically speaking, it doesn't really make much sense pre-19th century (or late 18th). It's pretty clear that JKR, to the extent that she cared about it, worked backwards from the current state of the world - looking too in depth at how the magical elements/governments formed probably wouldn't make much sense (eg, your example of magical Britain being united far earlier).
+
+I'm not sure about the fall of the Western Roman Empire being static geography - that would have a very different ethnic makeup across Europe than the modern one, and obviously doesn't keep count of the fact that it took a long time to have people stop viewing themselves as Roman, nor that the eastern half of the empire kept going. I completely get what you mean with how the wizards might react to different muggle political entities ruling over them - but in that case, I'd expect very different wizarding entities than our current ones.
+
+(Personally, I quite like the idea of the main point of divergence being when they put the statute of secrecy in place)
+:PROPERTIES:
+:Author: matgopack
+:Score: 4
+:DateUnix: 1581430568.0
+:DateShort: 2020-Feb-11
+:END:
+
+**** u/Taure:
+#+begin_quote
+  One aspect to consider for the ethnic-nationalist lines is that, historically speaking, it doesn't really make much sense pre-19th century (or late 18th).
+#+end_quote
+
+I think you are confusing the time at which nation came to be /valued/ for its own sake as identical to the time where the nation existed at all.
+
+To take the example of Germany, German nationalism /as a movement/ didn't really exist until the 1800s. Before that time, the idea of organising your political geography around your nation just wasn't part of the political landscape. If you suggested unifying the lands of German peoples into a single political entity in the 1600s, the response would be a scratch of the head and the question "Why?".
+
+But that doesn't mean that the idea of "Germany" didn't exist. It clearly did. To take just one example, the full name of the HRE was the "Holy Roman Empire of the German Nation" /centuries/ before political unification was contemplated.
+
+#+begin_quote
+  For Assyria, I believe that it's not stated to be a country categorically - wizards might use it as a name for a region (eg, similar to how I might say someone went to the Caribbean).
+#+end_quote
+
+If you adopt this approach, there are in fact very few wizarding nations we can be sure of, because suddenly even mentioning one by name is not enough to confirm its existence as a state.
+:PROPERTIES:
+:Author: Taure
+:Score: 1
+:DateUnix: 1581452599.0
+:DateShort: 2020-Feb-11
+:END:
+
+***** Keep in mind that 'Holy Roman Empire of the German Nation' was a name for a small period of the HRE, and it's debatable how much it was even used - I know that even during the time it was the 'official' name, documents were far less likely to use it than just Holy Roman Empire. To me, it's also much more hearkening to the idea of the 'Kingdom of Germany' from earlier times, over the idea of a German nation.
+
+But the main point of what I was saying seems to be something you agree with - that it simply wasn't a consideration at the time, and I don't exactly see why wizards would have aligned themselves centuries before along the boundaries of current ethno-nationalist lines... particularly since those have shifted pretty heavily in many regions just inside Europe.
+
+#+begin_quote
+  If you adopt this approach, there are in fact very few wizarding nations we can be sure of, because suddenly even mentioning one by name is not enough to confirm its existence as a state.
+#+end_quote
+
+I was just saying that a single throwaway reference in the books to what could easily be a region is not enough to conclusively say it had to be a nation or state. Your first comment was a pretty strong statement that it was canonical, and I was just putting a bit more doubt there because it's not as clearcut as some others that we know of (Bulgaria, France, Transylvania, Flanders, etc).
+:PROPERTIES:
+:Author: matgopack
+:Score: 4
+:DateUnix: 1581455209.0
+:DateShort: 2020-Feb-12
+:END:
+
+
+** Cool!
+:PROPERTIES:
+:Author: tcal23
+:Score: 2
+:DateUnix: 1581394745.0
+:DateShort: 2020-Feb-11
+:END:
+
+
+** This is very cool :) well done
+:PROPERTIES:
+:Author: LiriStorm
+:Score: 2
+:DateUnix: 1581413292.0
+:DateShort: 2020-Feb-11
+:END:
+
+
+** When EU IV and Harry Potter collide
+:PROPERTIES:
+:Author: ForlongElGordo
+:Score: 2
+:DateUnix: 1581443487.0
+:DateShort: 2020-Feb-11
+:END:
+
+
+** omg cant believe i see EU4 here
+:PROPERTIES:
+:Author: raapster
+:Score: 2
+:DateUnix: 1581471237.0
+:DateShort: 2020-Feb-12
+:END:
+
+
+** The only thing I'd comment about is Italy.
+
+Italy as it is today is a very recent concept. The current shape is barely a century old, and even tho you seem to have used its pre WW size that's also fairly recent, if we compare it with France, Spain or Britain.\\
+So, taking into account the stagnation (?) of the wizarding world I find it a bit unlikely that would be the current shape of it. Especially considering their lifespan, it's entirely likely there are plenty of wizards around who were born before the concept of Italy as country even existed.
+:PROPERTIES:
+:Author: Nagiarutai
+:Score: 1
+:DateUnix: 1581394828.0
+:DateShort: 2020-Feb-11
+:END:
+
+*** I think it's vague enough that it's justifiable - particularly if we take Germany as unifying in the magical world early on, I don't see a reason why Italy wouldn't. The nationalistic ideals came up at around the same time for the Slavs, Czechs, Germans, Italians, etc.
+:PROPERTIES:
+:Author: matgopack
+:Score: 2
+:DateUnix: 1581395527.0
+:DateShort: 2020-Feb-11
+:END:
+
+
+*** u/Taure:
+#+begin_quote
+  Italy as it is today is a very recent concept.
+#+end_quote
+
+The [[https://en.wikipedia.org/wiki/Roman_Italy][Romans]] would like to talk to you.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1581404697.0
+:DateShort: 2020-Feb-11
+:END:
+
+**** *Roman Italy*
+
+Italia (the Latin and Italian name for the Italian Peninsula) was the homeland of the Romans and metropole of Rome's empire in classical antiquity. According to Roman mythology, Italy was the ancestral home promised by Jupiter to Aeneas of Troy and his descendants, whose descendants were the founders of Rome. Aside from the legendary accounts, Rome was an Italian city-state that changed its form of government from kingdom to republic and then grew within the context of a peninsula dominated by the Celts in the North, the Etruscans and Umbrians in the Centre, and the Messapians ( Illyrian Colonies) and Greeks colonies in the south.
+
+The consolidation of Italy into a single entity occurred during the Roman expansion in the peninsula, when Rome formed a permanent association with most of the local tribes and cities.
+
+--------------
+
+^{[} [[https://www.reddit.com/message/compose?to=kittens_from_space][^{PM}]] ^{|} [[https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme][^{Exclude} ^{me}]] ^{|} [[https://np.reddit.com/r/HPfanfiction/about/banned][^{Exclude} ^{from} ^{subreddit}]] ^{|} [[https://np.reddit.com/r/WikiTextBot/wiki/index][^{FAQ} ^{/} ^{Information}]] ^{|} [[https://github.com/kittenswolf/WikiTextBot][^{Source}]] ^{]} ^{Downvote} ^{to} ^{remove} ^{|} ^{v0.28}
+:PROPERTIES:
+:Author: WikiTextBot
+:Score: 1
+:DateUnix: 1581404707.0
+:DateShort: 2020-Feb-11
+:END:
+
+
+**** Why yes thank you, for about three centuries, maybe four. Then we have 15 of them in which Italy has been fragmented in countless tiny kingdoms and city states. You'll forgive me for finding it more plausible that the current wizarding world is closer to how it's been for a millennia and a half rather than How it was 2000 years ago.
+:PROPERTIES:
+:Author: Nagiarutai
+:Score: 0
+:DateUnix: 1581408311.0
+:DateShort: 2020-Feb-11
+:END:
+
+***** My point is that the /concept/ of Italy is not the same thing as its configuration of states, just as the /concept/ of Germany far predates its unification as a single state. The concept of "being German" dates back to the 1100s, centuries before unification.
+
+Throughout the medieval period, if you spoke about "Italy", everyone would know what you meant. The fragmentation of its territory into independently governed states did not remove the concept of a distinct Italian region from popular imagination and culture.
+
+The true modern idea is the concept of alignment of your state and your nation.
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1581409270.0
+:DateShort: 2020-Feb-11
+:END:
+
+****** Yes.\\
+But I did say "as it is today". And since the topic at hand is nations, I thought it went without saying that I meant not the geographical area but the current geopolitical situation, which *is* in fact a fairly recent concept.
+
+#+begin_quote
+  Throughout the medieval period, if you spoke about "Italy", everyone would know what you meant.
+#+end_quote
+
+​
+
+Before the unification in 1861 Italy was never a country (at best it was part of one), and Italia was ever only used to refer to the geographical region, like one would when using 'Baltic region" or "Balkans" et simila. So yes, everyone would know what you meant with "Italy", just as everyone would know what one meant by "Europe", "Africa" or any other geographical area known at that time.\\
+I apologize if you feel I should have specified it better, but again, since the topic was countries, I thought it was pretty obvious.
+:PROPERTIES:
+:Author: Nagiarutai
+:Score: 1
+:DateUnix: 1581411250.0
+:DateShort: 2020-Feb-11
+:END:
+
+******* I am not talking about geographical region. I am talking about the idea of a [[https://en.wikipedia.org/wiki/Nation][nation]].
+
+In modern times, the nation is associated with the state. But that is a relatively recent invention. For most of history, and definitely across the medieval period, a nation was often divided into different administrative entities ("states", though in the feudal system states did not really exist).
+
+The German /nation/ existed centuries before the German /state/. So did the Italian one. The idea of "Italian people", identified by a common language and culture, and associated with a specific geographical region (i.e. the area approximately the same as modern Italy), existed in the medieval period even when that nation was divided into many small states.
+:PROPERTIES:
+:Author: Taure
+:Score: 3
+:DateUnix: 1581411916.0
+:DateShort: 2020-Feb-11
+:END:
+
+******** You should definitely check your facts if you think that during the middle ages the 'italian people' identified themselves as such especially if you wish to play the 'common language' card...LOL
+:PROPERTIES:
+:Author: Nagiarutai
+:Score: 1
+:DateUnix: 1581412868.0
+:DateShort: 2020-Feb-11
+:END:
+
+********* It's not solely the Italians, either - the Germans were in a similar situation. The idea of a german nation is distinctly 19th century.
+:PROPERTIES:
+:Author: matgopack
+:Score: 3
+:DateUnix: 1581446545.0
+:DateShort: 2020-Feb-11
+:END:

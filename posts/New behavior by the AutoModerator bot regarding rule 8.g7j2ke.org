@@ -1,0 +1,641 @@
+#+TITLE: New behavior by the AutoModerator bot regarding rule 8
+
+* New behavior by the AutoModerator bot regarding rule 8
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 160
+:DateUnix: 1587770859.0
+:DateShort: 2020-Apr-25
+:FlairText: Meta
+:END:
+At some point in the past week someone configured the AutoModerator bot to start responding with a warning about rule 8 to any post that mentions certain keywords. It's looks ridiculous because so far most of the threads that triggered the bot had nothing to do with rule 8.
+
+One of the tagged threads ended up locked and full of obviously deleted comments. Apparently most of the recommended fics in that thread featured a character who was in fourth or fifth year at Hogwarts at the time in the fic. Thus, it looks like the changes to the bot are part of a move by the mods to start aggressively enforcing reddit's sitewide policy. This is odd, because it's a steep departure from their previous [[https://www.reddit.com/r/HPfanfiction/comments/dgwpit/petition_to_have_blindness_by_angelastarcat/][more relaxed precedent]] of only going after "egregious violations".
+
+- [[https://www.reddit.com/r/HPfanfiction/comments/g5s6nj/i_want_to_review_your_fics/][Example 1]] (4/21/2020)
+
+- [[https://www.reddit.com/r/HPfanfiction/comments/g68t2g/diagon_drama/][Example 2]] (4/22/2020) - The bot apparently doesn't like some keywords in [[/u/Avalon1632]]'s standard disclaimer about being nonjudgemental regarding any recommended fics. Their posts have triggered the bot several times in the past few days.
+
+- [[https://www.reddit.com/r/HPfanfiction/comments/g68v65/fics_that_involve_magical_games_incl_quidditch/fo80j9r/][Example 3]] (4/22/2020) - Harmless Avalon1632 disclaimer.
+
+- [[https://www.reddit.com/r/HPfanfiction/comments/g6qso1/looking_for_a_specific_harry_x_fleur_fic/][Example 4]] (4/23/2020) - The aforementioned threadlock with many deleted comments.
+
+- [[https://www.reddit.com/r/HPfanfiction/comments/g6vtrv/short_fic_recs/][Example 5]] (4/23/2020) - Post content before deletion: [[https://www.removeddit.com/r/HPfanfiction/comments/g6vtrv/short_fic_recs/fod23k8/][link]]. It's another case of a polite disclaimer wrongly triggering the bot.
+
+- [[https://www.reddit.com/r/HPfanfiction/comments/g7a2eo/looking_for_a_george_x_fred_fanfic/fofqknq/][Example 6]] (4/24/2020) - Post content before deletion: [[https://www.removeddit.com/r/HPfanfiction/comments/g7a2eo/looking_for_a_george_x_fred_fanfic/fofqknq/][link]]. It's not clear if the bot scared the poster into deleting it themselves or if the mods deleted it regardless of it not actually breaking rule 8.
+
+- [[https://www.reddit.com/r/HPfanfiction/comments/g7alyj/azkaban_breakout_fics/fofu797/][Example 7]] (4/24/2020) - Another harmless Avalon1632 disclaimer.
+
+- [[https://www.reddit.com/r/HPfanfiction/comments/g7h36z/are_there_any_fics_that_deal_with_matters_of_soul/][Example 8]] (4/24/2020) - Yet another harmless Avalon1632 disclaimer.
+
+- Edit: [[https://www.reddit.com/r/HPfanfiction/comments/g7m5u4/looking_for_stories_like_lightning_lord/][Example 9]] (4/24/2020) - Another random person's disclaimer triggered the bot.
+
+- Edit 2: [[https://www.reddit.com/r/HPfanfiction/comments/g7p7bi/can_someone_give_me_a_drarry_one_shot_idea/][Example 10]] (4/25/2020)
+
+I made this post because it's pretty clear that whatever triggers that the bot is working off of need to be finetuned. One correct trigger out of (ten) in just four days is a pretty terrible success rate, and it looks like the bot might be scaring off newer posters by wrongly making them think that they broke a rule.
+
+Also, I think the mods need to make a statement clarifying their position so that the community of this sub isn't caught off guard or wrongfooted by the change. We've already had one embarrassingly public episode of drama in the past when mod stance on enforcing rule 8 was unclear/inconsistent. So please, mods, can you explain a little what your plans are going forward? Is there something in particular that prompted this abrupt change?
+
+
+** Update from the team:
+
+We are tweaking the keywords so that Automod only comments in relevant threads. Please remember, this is just a *comment* that reminds viewers of rule 8. It is not removing anything.
+
+Link to previously stickied comment: [[https://www.reddit.com/r/HPfanfiction/comments/g7j2ke/new_behavior_by_the_automoderator_bot_regarding/fojnbd0/][click me!]]
+:PROPERTIES:
+:Author: the-phony-pony
+:Score: 1
+:DateUnix: 1587832918.0
+:DateShort: 2020-Apr-25
+:END:
+
+
+** I wish there was an alternative hpfanfic discussion sub. I'm not sure if the mods are just trigger-happy or the sense of power has started to make them trip, but they've gradually turned this place from an interesting discussion platform into something bland and... overly sterile.
+
+In the last few months I've caught myself several times on the notion of wanting to ask for a request on this sub, and then remembered what it has become like and just lost any interest in going through with it.
+
+The only alternative I know is the DLP forums, and that is a PHPBB forum, which usually tend to have their own kinds of problems.
+:PROPERTIES:
+:Author: BiteSizedHuman
+:Score: 41
+:DateUnix: 1587789440.0
+:DateShort: 2020-Apr-25
+:END:
+
+*** The mods of the sub like to say that their hand was forced by Reddit-wide rules, but I don't think anyone really believes that.
+
+For comparison, the Rule 34 sub has 20 times the subscribers as this one, is much better known than this one, is full of pics of e.g. Hermione in Hogwarts robes, and no one blinks an eye. Because everyone knows that the Reddit-wide rule is not targeted at legitimate fan or artistic works.
+
+The fact is that the mods of this sub have a history of trying to prevent discussion of fic types they personally dislike and the Reddit-wide rule was just a convenient excuse for them to implement the plans which had always been their preference, even though the measures introduced here go well beyond what the Reddit-wide rule requires.
+
+But there are other communities out there, as you mention. So I just participate here on the basis of "it is what it is" - you obey the rules of the community so long as you are a part of it. Meanwhile, if I want free and open discussion I go to DLP.
+:PROPERTIES:
+:Author: Taure
+:Score: 25
+:DateUnix: 1587800713.0
+:DateShort: 2020-Apr-25
+:END:
+
+
+*** There's nothing stopping you from creating your own HPFanFic sub. You can even make one with blackjack and hookers!
+:PROPERTIES:
+:Author: Freshenstein
+:Score: 7
+:DateUnix: 1587826604.0
+:DateShort: 2020-Apr-25
+:END:
+
+**** [[/r/haphne]]
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1587826844.0
+:DateShort: 2020-Apr-25
+:END:
+
+***** I wouldn't wish that subreddit on anyone!
+:PROPERTIES:
+:Author: Freshenstein
+:Score: 6
+:DateUnix: 1587827151.0
+:DateShort: 2020-Apr-25
+:END:
+
+****** [[https://www.youtube.com/watch?v=i0ZFkm5D9C8]]
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1587827490.0
+:DateShort: 2020-Apr-25
+:END:
+
+
+***** I thought you were one of the good ones. I guess I am still a bit naive.
+:PROPERTIES:
+:Author: JaimeJabs
+:Score: 3
+:DateUnix: 1587842282.0
+:DateShort: 2020-Apr-25
+:END:
+
+****** There is no good or evil, only Haphne and those too weak to read it.
+:PROPERTIES:
+:Author: Taure
+:Score: 8
+:DateUnix: 1587889872.0
+:DateShort: 2020-Apr-26
+:END:
+
+
+***** This is my favorite recurring joke on Reddit.
+:PROPERTIES:
+:Author: PetrificusSomewhatus
+:Score: 3
+:DateUnix: 1587858266.0
+:DateShort: 2020-Apr-26
+:END:
+
+
+*** To be fair this sub has always been a drama filled mess at times. There was a ton of mod drama when the original creator added a mod randomly, there's been random rule changes, and power users, people spamming their own fics.
+
+It comes and goes.
+
+Tbh the thing that gets me is the rec threads are all identical to the point people are just linking old threads/comments. Like yes, I know, i'm looking for new time travel/funny fics, we've all heard of Seventh Horcrux.
+
+Also replying to one of those threads with 20 recs. Pick one. Otherwise it's not a rec, it's just every random fic you can remember.
+:PROPERTIES:
+:Score: 9
+:DateUnix: 1587808983.0
+:DateShort: 2020-Apr-25
+:END:
+
+
+** Paging [[/u/denarii]], [[/u/kemistreekat]], [[/u/tusing]], [[/u/the-phony-pony]]
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 24
+:DateUnix: 1587771312.0
+:DateShort: 2020-Apr-25
+:END:
+
+*** Reddit only notifies a max of three tagged users. Since you have four in that comment, none of them will see your comment.
+:PROPERTIES:
+:Author: Lightwavers
+:Score: 12
+:DateUnix: 1587796647.0
+:DateShort: 2020-Apr-25
+:END:
+
+**** That's awkward.
+
+[[/u/denarii]], [[/u/kemistreekat]]
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 12
+:DateUnix: 1587796876.0
+:DateShort: 2020-Apr-25
+:END:
+
+***** Hi!
+
+I did know that the bot had been set up, but I wasn't aware of the extent that it was removing posts (I'm not the one who coded it). I will start a discussion amongst the mod team and we will work out something that hopefully everyone can agree to. I apologize that this is causing strife for some. Give us a few days to talk and I'll bring an update back to you all.
+:PROPERTIES:
+:Author: kemistreekat
+:Score: 11
+:DateUnix: 1587823904.0
+:DateShort: 2020-Apr-25
+:END:
+
+
+***** [[/u/tusing]], [[/u/the-phony-pony]]
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 11
+:DateUnix: 1587796891.0
+:DateShort: 2020-Apr-25
+:END:
+
+****** You won't get a response. Except for Tusing, the mods don't care for us lowly mortals here. At least from my experience.
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 8
+:DateUnix: 1587804163.0
+:DateShort: 2020-Apr-25
+:END:
+
+******* I got an explaining response from denarii when I initially messaged the mods to ask why my post was flagged.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 3
+:DateUnix: 1587804701.0
+:DateShort: 2020-Apr-25
+:END:
+
+******** And when I complained that a user was slandering me to the point where it was a criminal act in all of Europe and in 48 out of 50 US states, I got two empty platitudes and a message block for a few days.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 7
+:DateUnix: 1587810493.0
+:DateShort: 2020-Apr-25
+:END:
+
+********* Shit bruh, that sounds awful.
+
+Also I really like your stories, they feel original and not forced.
+:PROPERTIES:
+:Author: CinnamonGhoulRL
+:Score: 3
+:DateUnix: 1587855523.0
+:DateShort: 2020-Apr-26
+:END:
+
+********** u/Hellstrike:
+#+begin_quote
+  Also I really like your stories, they feel original and not forced
+#+end_quote
+
+Thanks, that's what I strive for even if it takes some of the tension out.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 1
+:DateUnix: 1587857549.0
+:DateShort: 2020-Apr-26
+:END:
+
+
+********* Oh, sure, I definitely wasn't claiming the mod experience was universally good, only that it wasn't universally bad either. But really, I haven't been in the sub long enough to have all that bad an experience like I assume you and Uncommonality have.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 1
+:DateUnix: 1587818556.0
+:DateShort: 2020-Apr-25
+:END:
+
+
+********* [removed]
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1587820085.0
+:DateShort: 2020-Apr-25
+:END:
+
+********** Exhibit A
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 6
+:DateUnix: 1587821920.0
+:DateShort: 2020-Apr-25
+:END:
+
+
+******* excuse you, speak for yourself - oh wait you're not a mod? weird.
+
+I genuinely care about this community, I wouldn't volunteer my free time to do this if I didn't care about the community & its users.
+:PROPERTIES:
+:Author: kemistreekat
+:Score: 4
+:DateUnix: 1587823963.0
+:DateShort: 2020-Apr-25
+:END:
+
+******** This certainly doesn't seem like "caring about the community". It should be obvious that programming a bot to respond to trigger words needs an exception when those trigger words are stated in a negative sense.
+
+Deleting posts with "sex", "smut", "lemons" etc in them seems like a /really/ half-assed approach.
+
+And yes, alright - maybe /you/ don't do stuff like this, but Phony Pony for example was only active once in the last month, and that was to self promote. (at least at the time this thread was posted)
+
+So with all this in mind, don't try to take the high road here. Inaction is also an action.
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 4
+:DateUnix: 1587825623.0
+:DateShort: 2020-Apr-25
+:END:
+
+********* What you haven't seen are behind-the-curtain actions, like checking modqueue and approving posts. And you're right, I haven't been that active on reddit in the past month, which is because I'm a teacher and my focus has been on adapting to online learning after my school was closed until the end of the year.
+:PROPERTIES:
+:Author: the-phony-pony
+:Score: 8
+:DateUnix: 1587826796.0
+:DateShort: 2020-Apr-25
+:END:
+
+********** Alright, that makes sense, and is valid. Still, I'm a bit perplexed that we had to discover this by ourselves instead of through a pinned modpost. Imo it's too large of a change to happen behind the curtain.
+
+Even just a small announced period of testing for tuning purposes would have been better than just doing it with no warning whatsoever.
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 6
+:DateUnix: 1587827109.0
+:DateShort: 2020-Apr-25
+:END:
+
+*********** Neither [[/u/kemistreekat][u/kemistreekat]], [[/u/tusing][u/tusing]], nor I coded it. I'm sorry to sound like a broken record, but I really have no insight into what filter words were used, how it was set up, etc.
+
+As kemkat said, we are in a discussion with the team to figure out what is going on. I'm sorry I don't have any more information to give.
+:PROPERTIES:
+:Author: the-phony-pony
+:Score: 5
+:DateUnix: 1587827406.0
+:DateShort: 2020-Apr-25
+:END:
+
+************ That clears up a lot, and I'm sorry for accusing the mod team. However, if that's the case, then the only option remaining is either denarii or some outside influence.
+
+It's definitely weird.
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 3
+:DateUnix: 1587828117.0
+:DateShort: 2020-Apr-25
+:END:
+
+
+********* Do you even know which mod implemented the automod? No? Thought so. Don't blame people for things they had no control over.
+
+Also, you do know there's a discord chat where the mods are far more visibly active, right? It's right over there in the sidebar. If it's that big of a deal you can join it and vent your spleen there.
+:PROPERTIES:
+:Author: Freshenstein
+:Score: 3
+:DateUnix: 1587826296.0
+:DateShort: 2020-Apr-25
+:END:
+
+
+****** I did not set up the filter so I can't speak to how it works. I'm sorry that I can't offer more insight.
+:PROPERTIES:
+:Author: the-phony-pony
+:Score: 3
+:DateUnix: 1587821375.0
+:DateShort: 2020-Apr-25
+:END:
+
+
+** It is flagging everything. If mods keep continue to use same settings then this sub is as good as dead. It's Harry potter world where all main characters are minors except in Post-Hogwarts stories.
+
+It's better if we look for alternate subreddits.
+:PROPERTIES:
+:Author: kprasad13
+:Score: 30
+:DateUnix: 1587787809.0
+:DateShort: 2020-Apr-25
+:END:
+
+
+** linkffn(10937871)
+
+Also, how does the bot actually work? Is it like programmed in python or something? Is there like lists of fanfic links to autoban? Words that trigger?
+
+Is there like a repo somewhere to look at? I'd be more than happy to see if my high-school level coding can help make the bot, and by extension this entire community better.
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1587789600.0
+:DateShort: 2020-Apr-25
+:END:
+
+*** Currently it just looks like the AutoModerator bot responds to any post that contains a synonym or slang version of the word "sex", including any version of the word "smut". As shown by the examples, the bot is mostly responding to people who say they /don't/ want to be recommended those things.
+
+Very sloppy design.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 15
+:DateUnix: 1587791675.0
+:DateShort: 2020-Apr-25
+:END:
+
+**** Thanks.
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1587792858.0
+:DateShort: 2020-Apr-25
+:END:
+
+
+** So instead of working to actually make the sub a better place by streamlining reminders, or tweaking the linkbot, they do something like this? On my thread a few days ago about the remindmebot spam I gave a solution that would be perfect, but I had crickets from the mods. No comment, no pm, nothing. Not even a "sorry, no".
+
+We need new mods. The ones that are here have allowed their "power" and "authority" to get to their heads.
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 14
+:DateUnix: 1587804101.0
+:DateShort: 2020-Apr-25
+:END:
+
+*** To be fair, I think maybe they just didn't see your thread? The mods haven't been present on this sub much lately.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 3
+:DateUnix: 1587804181.0
+:DateShort: 2020-Apr-25
+:END:
+
+**** I can't recall a time when they would actually talk to us instead of doing shit like this behind the curtains.
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 7
+:DateUnix: 1587804598.0
+:DateShort: 2020-Apr-25
+:END:
+
+***** There have actually been multiple times over the course of this sub's history when the mods created a sticky thread to notify or request community feedback about a potential new rule. Looking back, I'd say that there was a time when communication between the mods and this sub community was fairly decent.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 5
+:DateUnix: 1587806027.0
+:DateShort: 2020-Apr-25
+:END:
+
+
+** It also doesn't seem to be working to do what it's actually meant to. Someone actually posted a fic tagged with underage sex in one of my posts and the bot doesn't seem to have noticed. It was 'A Second Chance at Life' in the Azkaban Breakout fics post, if anyone is curious.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 5
+:DateUnix: 1587804564.0
+:DateShort: 2020-Apr-25
+:END:
+
+
+** Here's another one for your list: [[https://www.reddit.com/r/HPfanfiction/comments/g7m5u4/looking_for_stories_like_lightning_lord/]]
+:PROPERTIES:
+:Author: JennaSayquah
+:Score: 2
+:DateUnix: 1587793036.0
+:DateShort: 2020-Apr-25
+:END:
+
+*** I already listed that one as Example 9. Thanks though.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 3
+:DateUnix: 1587793116.0
+:DateShort: 2020-Apr-25
+:END:
+
+
+** People have generally ignored rule 8 since it was introduced. We constantly have to remove reported violations and there is surely more that don't get reported. So I added a rule to post a warning in threads where it might be relevant. Automod can't be fine-tuned to be smarter about what it matches. Matching keywords is pretty much the limit of what it's capable of. If anyone has suggestions for improving the wording of the bot's warning, I will take it under advisement.
+:PROPERTIES:
+:Author: denarii
+:Score: 3
+:DateUnix: 1587825187.0
+:DateShort: 2020-Apr-25
+:END:
+
+*** I recommend a softer, politely conversational wording of the bots message.
+
+With the current way the bot is operating, that warning message is the first (so to speak) face-to-face interaction that many new posters will have with this sub. The current wording turns that first interaction into an overtly threatening Big Brother-esque impression of "step carefully potential criminal; we've got our eyes on you!" Many first-time posters have never taken the time to read the sidebar and have never seen a comment or post by a mod on this sub. Thus this first impersonal interaction gives them a false impression of the mods as draconian adversaries harshly cracking down on an innocent mistake.
+
+For a first-time automated warning I would always recommend something more human and friendly, such as:
+
+#+begin_quote
+  "Hi! Welcome to the [[/r/hpfanfiction]] community! Something in your post triggered this automated reminder message. If you haven't already, please take the time to read the sidebar and familiarize yourself with this sub's rules. We try to ensure that this is a welcoming place for all of our members while also abiding by Reddit's sitewide policies. In particular, please keep in mind rule 8. If you have any questions about this message or any of the rules, feel free to contact one of our moderators."
+#+end_quote
+
+The more bluntly worded warnings should only come out when it's absolutely clear that someone intentionally broke a rule.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 6
+:DateUnix: 1587836080.0
+:DateShort: 2020-Apr-25
+:END:
+
+
+*** Wait so it's literally just a comment? I thought it was removing threads from the sound of this post, who cares about an automod comment?
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1587830904.0
+:DateShort: 2020-Apr-25
+:END:
+
+**** As I said in the post and throughout this thread, the problem is /not/ that the bot has deleted anything. The problem is that its warning ends up in so many threads that have nothing to do with rule 8.
+
+This malfunction of the bot's design confuses and alarms the community by making it look like the mods are trying to crack down on any mention of sex. Judging by past mod comments, that's not actually their intention, but nonetheless that's the impression conveyed by the bot's actions. Also, as I stated in my post, some of the examples seem to show that the posters who are new to the sub and unfamiliar with its rules get spooked by the harsh unmerited warning, electing to delete their own post. In online communities that sort of mostly-off-target approach to issuing warnings tends to scare away potential new members and build a bad reputation for the moderation team.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 5
+:DateUnix: 1587833935.0
+:DateShort: 2020-Apr-25
+:END:
+
+
+** Clicked on the automod account not realising it does every subreddit.
+
+Man Reddit needs to clean house, there is an unreal amount of disgusting content hosted here.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1587809328.0
+:DateShort: 2020-Apr-25
+:END:
+
+
+** The bot has been tuned fine for me, the content policy of reedit is now uphold. The majority of the exemples triggered correctly on the inappropriate fantasy content with minors (understand fanfics in the case). In the case of the disclaimer, it does contain too much inappropriate content for a site that is accessible to minors. The rules are simply uphold with more motivation.
+:PROPERTIES:
+:Author: sebo1715
+:Score: -35
+:DateUnix: 1587798749.0
+:DateShort: 2020-Apr-25
+:END:
+
+*** If you had actually taken the time to look at the examples listed you would in fact see that /none/ of the posts that triggered the bot asked for or even mentioned underage content, which is what rule 8 is about. In the one thread that got locked only the deleted recommendation comments actually broke the rules - and as far as we know those were deleted by a human moderator, not the bot.
+
+As for the "majority" of the other times the bot triggered: 6 out of 10 were people using the word "smut" in a sentence saying THEY DON'T WANT SMUT.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 26
+:DateUnix: 1587799371.0
+:DateShort: 2020-Apr-25
+:END:
+
+**** Yes If you take rule 8 as it is written. But in the reedit general policy rules, it was not restricted to links but all content. All text was concerned by this. Reddit prohibits any sexual or suggestive content involving minors or someone who appears to be a minor. The word s... does answer to suggestive content for me involving minors in Harry Potter fandom case. There is just too much of Harry Potter that is when the characters are minors to allow any content that is not purified of all this if one wants to adhere fully to the full extent of reedit content policy.
+:PROPERTIES:
+:Author: sebo1715
+:Score: -26
+:DateUnix: 1587799998.0
+:DateShort: 2020-Apr-25
+:END:
+
+***** Looks like you didn't actually read anything I just said. If you had, you would realize that nothing you just said has anything to do with the way the bot is functioning right now.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 19
+:DateUnix: 1587800145.0
+:DateShort: 2020-Apr-25
+:END:
+
+****** I think he is genuinely arguing that the word "smut" should be banned on Reddit.
+:PROPERTIES:
+:Author: Taure
+:Score: 22
+:DateUnix: 1587802927.0
+:DateShort: 2020-Apr-25
+:END:
+
+******* I don't know, it's starting to look like a humorous attempt at playing devils advocate.
+
+One of the funny things about such a claim is that in the past the mods have expressly said that this is not intended to be a SFW subreddit. ([[https://www.reddit.com/r/HPfanfiction/comments/ckfxc0/stop_downvoting_slash_fics/evq8jbj/][source 1]], [[https://www.reddit.com/r/HPfanfiction/comments/c3wfph/drarry_mpreg/ervudf8/][source 2]])
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 11
+:DateUnix: 1587805064.0
+:DateShort: 2020-Apr-25
+:END:
+
+
+******* I wonder if they are aware of places like[[/r/askredditafterdark]]. Or all the porn subs.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 7
+:DateUnix: 1587810634.0
+:DateShort: 2020-Apr-25
+:END:
+
+
+****** What is the rule the bot is upholding ? Rule Eight of no links to content which is inappropriate. Or the rule of no suggestive content even to tell we don't want it ? (Because in the letter of no suggestive content, the negation of said suggestive content is also banned. The user must simply never think of it like someone that was never informed of what is this activity that minors must not know about.) if the bot is upholding the latter, it does a sufficiently good job. If the bot is upholding rule eight, you are right to tell that it is triggered by mere key words. You will see that I avoided using those key words to not trigger it.
+:PROPERTIES:
+:Author: sebo1715
+:Score: -13
+:DateUnix: 1587800772.0
+:DateShort: 2020-Apr-25
+:END:
+
+******* u/chiruochiba:
+#+begin_quote
+  Because in the letter of no suggestive content, the negation of said suggestive content is also banned. The user must simply never think of it like someone that was never informed of what is this activity that minors must not know about.
+#+end_quote
+
+Thought crime not allowed. Got it. 👍
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 18
+:DateUnix: 1587800930.0
+:DateShort: 2020-Apr-25
+:END:
+
+******** The rules needs to be more specific to not be interpreted in the extreme like I just did. And also the bot would need to understand the context if he has to operate with keywords. Just see how the rule of no MA on FanFiction.Net was never fully uphold and so many MA fictions are still on the site. Whose types of rules are difficult to uphold by an AI.
+:PROPERTIES:
+:Author: sebo1715
+:Score: -3
+:DateUnix: 1587801572.0
+:DateShort: 2020-Apr-25
+:END:
+
+********* I agree, and that's part of why I made this thread. The bot's trigger needs to be refined (by adding more complex and foolproof conditions if possible) in order to stop acting on false positives. Otherwise it will just keep confusing people and scaring them away from this sub.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 11
+:DateUnix: 1587801926.0
+:DateShort: 2020-Apr-25
+:END:
+
+********** There is only one solution, the bot would have to be able to learn on its own. Deep learning on specific signals and confidence on signals type, on their number.
+:PROPERTIES:
+:Author: sebo1715
+:Score: -2
+:DateUnix: 1587802398.0
+:DateShort: 2020-Apr-25
+:END:
+
+*********** Nah. This is actually a rudimentary problem that wikis have already handled years ago with automated bots using regex pattern matching ([[https://www.mediawiki.org/wiki/Extension:AbuseFilter][example extension]]). And that's part of why it's so embarrassing that the mods on this sub failed so hard at it.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 14
+:DateUnix: 1587803096.0
+:DateShort: 2020-Apr-25
+:END:
+
+
+*** u/Uncommonality:
+#+begin_quote
+  The Majority
+#+end_quote
+
+you call 10% accuracy good?
+
+The bot triggers when you write "sex", or any other variation of the word. I don't know how you/they could have been so incompetent as not to see that it would also trigger when people say "without smut" or "I want fics that don't include [trigger word]".
+
+Your comments are ridiculous. Deflate your ego and actually read what you're responding to.
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 8
+:DateUnix: 1587804462.0
+:DateShort: 2020-Apr-25
+:END:

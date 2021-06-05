@@ -1,0 +1,290 @@
+#+TITLE: how to donwload fics from FF and A03
+
+* how to donwload fics from FF and A03
+:PROPERTIES:
+:Author: ccoottyy123
+:Score: 12
+:DateUnix: 1518468527.0
+:DateShort: 2018-Feb-13
+:FlairText: Misc
+:END:
+my internet will be out for a few days next week adn i was wondering if there was a way to download all my stuff without having the bot link it
+
+
+** AO3 has a download option. There are a few sites for FF. I use Ffnet-downloader.fr as it let's you download fics as PDF files.
+:PROPERTIES:
+:Author: TheAccursedOnes
+:Score: 13
+:DateUnix: 1518469014.0
+:DateShort: 2018-Feb-13
+:END:
+
+*** You are a life saver with Ffnet-downloader.fr. No more do I have to manually type up every word in a fic for offline reading!
+:PROPERTIES:
+:Author: DannyPhantomPhandom
+:Score: 4
+:DateUnix: 1518472624.0
+:DateShort: 2018-Feb-13
+:END:
+
+**** Wait, what? Why would you need to type up fics? Even if the downloader weren't a thing, there's still copy and paste>>Save as PDF and then Dropbox. Et voila.
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 9
+:DateUnix: 1518482888.0
+:DateShort: 2018-Feb-13
+:END:
+
+***** 10 years ago, when I had to go to my grandparents home for summer, I spent 2 or 3 days beforehand just copying and pasting chapters and chapters in .txt files.
+
+That's when I decided to make a website which allows you to download a fanfiction in one go.
+
+The advantage of using a website? You download the whole fanfiction in one go. Second advantage. Just provide your profiles link, and it will download ALL your favorites to your pc.
+
+Isn't that easier? [[http://ffnet-downloader.fr/#/][ffnet-downloader]]
+:PROPERTIES:
+:Author: calypso78
+:Score: 3
+:DateUnix: 1518521363.0
+:DateShort: 2018-Feb-13
+:END:
+
+****** That's like a superhero origin story! I don't do much on FF.net besides upload my work, so I didn't realize that text copying was blocked. Most excellent.
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 2
+:DateUnix: 1518527206.0
+:DateShort: 2018-Feb-13
+:END:
+
+
+***** Copy and paste doesn't work on FF.net on my computer for some reason. Same goes to numerous other writing websites. /Shrugs/
+:PROPERTIES:
+:Author: DannyPhantomPhandom
+:Score: 1
+:DateUnix: 1518483120.0
+:DateShort: 2018-Feb-13
+:END:
+
+****** Well there you go! I just saw that text can't be selected on FF.net. What a pisser! I guess to prevent pirating? As an author, when I go to the story manager there's a "download" option and I can select the text on there, but as a reader there is indeed no such option. I know on AO3 there are links to DL stories in ePub and Mobi format.
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 3
+:DateUnix: 1518487400.0
+:DateShort: 2018-Feb-13
+:END:
+
+******* Most likely, and I can't blame them. For the most part, there isn't much reason for a reader on FF.net to copy and paste things on the website. Sure, there are writers who adopt stories - and then there's us who want to read offline, but I'm fairly sure FF.nrt disregards that, believing viewers will be fine with the minor inconvenience.
+:PROPERTIES:
+:Author: DannyPhantomPhandom
+:Score: 4
+:DateUnix: 1518489273.0
+:DateShort: 2018-Feb-13
+:END:
+
+
+******* There are addons for Chrome that let you select the text.
+
+I do so surprisingly often - generally, when something looks like a reference that I am missing, or the author recommends fics in the endnotes.
+:PROPERTIES:
+:Author: ABZB
+:Score: 2
+:DateUnix: 1518538981.0
+:DateShort: 2018-Feb-13
+:END:
+
+******** I'm on a Mac and don't use Chrome, but it's good to know. I do most of my reading on AO3, but I haven't downloaded anything for offline as I usually have at least my phone with me.
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 1
+:DateUnix: 1518539315.0
+:DateShort: 2018-Feb-13
+:END:
+
+
+******* If anyone wants to get around this on Firefox, put the following on your [[http://kb.mozillazine.org/index.php?title=UserContent.css][userContent.css]] file in the profile folder:
+
+#+begin_example
+  @-moz-document domain(fanfiction.net)
+  {* {user-select: text !important; -moz-user-select: text !important; }}
+#+end_example
+:PROPERTIES:
+:Author: deirox
+:Score: 1
+:DateUnix: 1518541991.0
+:DateShort: 2018-Feb-13
+:END:
+
+
+****** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1518486230.0
+:DateShort: 2018-Feb-13
+:END:
+
+******* Ooh... thanks!
+:PROPERTIES:
+:Author: DannyPhantomPhandom
+:Score: 2
+:DateUnix: 1518486862.0
+:DateShort: 2018-Feb-13
+:END:
+
+
+****** Click on Reader View and you can copy and paste from it
+:PROPERTIES:
+:Author: viol8er
+:Score: 1
+:DateUnix: 1518488975.0
+:DateShort: 2018-Feb-13
+:END:
+
+
+**** Yeah! That's my website :) So many years and it's shared here! You can access it with ffnet.fr too
+:PROPERTIES:
+:Author: calypso78
+:Score: 2
+:DateUnix: 1518472739.0
+:DateShort: 2018-Feb-13
+:END:
+
+
+*** thanks
+:PROPERTIES:
+:Author: ccoottyy123
+:Score: 1
+:DateUnix: 1518475444.0
+:DateShort: 2018-Feb-13
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 7
+:DateUnix: 1518472964.0
+:DateShort: 2018-Feb-13
+:END:
+
+*** Love ficsave, my go-to for moving fics onto my kindle.
+:PROPERTIES:
+:Author: bgottfried91
+:Score: 2
+:DateUnix: 1518476010.0
+:DateShort: 2018-Feb-13
+:END:
+
+
+*** thank you
+:PROPERTIES:
+:Author: ccoottyy123
+:Score: 1
+:DateUnix: 1518475450.0
+:DateShort: 2018-Feb-13
+:END:
+
+
+** I use this one:
+
+[[https://fanfictiondownloader.net/#/download]]
+
+It's a standalone program which supports many different sites and formats.
+:PROPERTIES:
+:Author: deirox
+:Score: 4
+:DateUnix: 1518473682.0
+:DateShort: 2018-Feb-13
+:END:
+
+*** thank you
+:PROPERTIES:
+:Author: ccoottyy123
+:Score: 1
+:DateUnix: 1518475456.0
+:DateShort: 2018-Feb-13
+:END:
+
+
+** I use pocket fiction by bjued on iOS
+:PROPERTIES:
+:Author: viol8er
+:Score: 3
+:DateUnix: 1518488918.0
+:DateShort: 2018-Feb-13
+:END:
+
+
+** [[http://ficsave.xyz][ficsave]] then I open as ePub into iBooks on my phone
+
+Edit:ezpz
+:PROPERTIES:
+:Author: lizwrites007
+:Score: 3
+:DateUnix: 1518493440.0
+:DateShort: 2018-Feb-13
+:END:
+
+
+** The fanfiction bot in this subreddit also links a download link for each fic.
+:PROPERTIES:
+:Author: dehue
+:Score: 2
+:DateUnix: 1518476486.0
+:DateShort: 2018-Feb-13
+:END:
+
+
+** I have good luck with [[https://fanfictiondownloader.net/#/home][Fanfiction Downloader]] it works well for my needs
+:PROPERTIES:
+:Author: 944tim
+:Score: 2
+:DateUnix: 1518481014.0
+:DateShort: 2018-Feb-13
+:END:
+
+
+** The fanfiction.net has a app which you can download them
+:PROPERTIES:
+:Author: YoyoT-Bone
+:Score: 2
+:DateUnix: 1518498057.0
+:DateShort: 2018-Feb-13
+:END:
+
+
+** If you're looking for mobile solution, Codex Reader in the Android app store is my go-to for it. Supports FFN & AO3. Not sure if it's on Apple though.
+:PROPERTIES:
+:Author: archangelceaser
+:Score: 1
+:DateUnix: 1518482963.0
+:DateShort: 2018-Feb-13
+:END:
+
+
+** i use Calibre for all my fanfic'ing since i usually read them on the Kindle app, so using a plugin to grab them, convert them to epub seemed a decent way to do it.
+:PROPERTIES:
+:Author: Wirenfeldt
+:Score: 1
+:DateUnix: 1518619473.0
+:DateShort: 2018-Feb-14
+:END:
+
+
+** For FF you can also use the mobile app. It can download all you fics
+:PROPERTIES:
+:Author: MajinCloud
+:Score: 1
+:DateUnix: 1518715961.0
+:DateShort: 2018-Feb-15
+:END:
+
+
+** [[http://ff2ebook.com/]]
+
+Much better than others linked!
+:PROPERTIES:
+:Author: Edocsiru
+:Score: 1
+:DateUnix: 1519205779.0
+:DateShort: 2018-Feb-21
+:END:

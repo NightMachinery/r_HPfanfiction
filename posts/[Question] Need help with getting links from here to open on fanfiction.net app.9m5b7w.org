@@ -1,0 +1,66 @@
+#+TITLE: [Question] Need help with getting links from here to open on fanfiction.net app
+
+* [Question] Need help with getting links from here to open on fanfiction.net app
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1538921512.0
+:DateShort: 2018-Oct-07
+:FlairText: Misc
+:END:
+I love a lot of the a fanfics that get posted on here but I want to be able to open them in the app so I can download them to read later. However, I can't seem to find the fics on the app even when I search the name in the app. Any help with this issue is helpful! (PS. I have an iPhone if this helps)
+
+Thanks in advance!
+
+
+** I've only ever been able to get direct links to open in ffn app via Google search results. I copy/paste into a Google search on chrome, and then when I select the result it offers to open it in the app.
+
+It doesn't work with a direct link in the address bar. You need to search Google for it.
+
+--------------
+
+As far as in app searches, it's pretty picky. The key is to select the right search topic ("story title" for the title, or "user" for the author if it's a generic title). Also, double check spelling and things, as the search doesn't do well if a word is out of order or spelled British instead of American, etc.
+:PROPERTIES:
+:Author: MystycMoose
+:Score: 3
+:DateUnix: 1538966058.0
+:DateShort: 2018-Oct-08
+:END:
+
+
+** I know that Android has a feature where you can set it to open all links to an website in a specific app (eg YouTube in the YT App and not the mobile page). That feature can be used to force the FFN app to open all links as well.
+
+Not sure if IOS has the same feature though.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 2
+:DateUnix: 1538922013.0
+:DateShort: 2018-Oct-07
+:END:
+
+*** Thanks, is this built into reddit or the android settings?
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1538922418.0
+:DateShort: 2018-Oct-07
+:END:
+
+**** Android default, not from the reddit app (which I don't have).
+
+It's under Settings -> Apps -> App configuration -> Opening of links
+
+(Translated from German).
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 3
+:DateUnix: 1538922962.0
+:DateShort: 2018-Oct-07
+:END:
+
+
+** Yeah, the ffn app is what I use too, just summon the bot (when it's up again) and it has the link built in, then just open and download it. The hard part is reading through the 400 fics I downloaded this way.
+:PROPERTIES:
+:Author: A2i9
+:Score: 2
+:DateUnix: 1538946174.0
+:DateShort: 2018-Oct-08
+:END:

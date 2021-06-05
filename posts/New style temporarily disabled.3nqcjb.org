@@ -1,0 +1,28 @@
+#+TITLE: New style temporarily disabled
+
+* New style temporarily disabled
+:PROPERTIES:
+:Author: denarii
+:Score: 25
+:DateUnix: 1444152724.0
+:DateShort: 2015-Oct-06
+:FlairText: Meta
+:END:
+Until we can figure out what's causing display issues for some people as well as fixing some other things. If you're one of the people for whom it was displaying incorrectly and you're willing to help us test it, please let me know.
+
+
+** Can someone posted how it used to look like? I've only seen screenshots of the display issues and I'm curious.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1444160852.0
+:DateShort: 2015-Oct-06
+:END:
+
+
+** Thank you! the colours of the new theme looked really washed out - maybe its something you can look into as well.
+:PROPERTIES:
+:Author: albeva
+:Score: 2
+:DateUnix: 1444211017.0
+:DateShort: 2015-Oct-07
+:END:

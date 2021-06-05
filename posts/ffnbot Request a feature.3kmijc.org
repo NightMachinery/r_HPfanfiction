@@ -1,0 +1,183 @@
+#+TITLE: ffnbot: Request a feature
+
+* ffnbot: Request a feature
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 10
+:DateUnix: 1442027475.0
+:DateShort: 2015-Sep-12
+:FlairText: Misc
+:END:
+You know. We need suggestions! We changed a great many things for the next release. But now is the last chance to request anything before we release the new version of the bot.
+
+It can be anything from new sites to new commands to literally anything.
+
+Please make only one request per comment.
+
+
+** First, love the bot!
+
+An enhancement I've been wishing for a while now is a more prominent display of a fic status (whether it is complete or not). Currently one has to find the status amongst a string of other metadata, and it's never in the same bloody place!
+:PROPERTIES:
+:Author: sherm_p
+:Score: 17
+:DateUnix: 1442034735.0
+:DateShort: 2015-Sep-12
+:END:
+
+
+** Would be nice to be able to put in the fandom to narrow down the fics. I know a few times people have put in linkffn(Insert The Fic Title Here) and gotten some random fic from a different fandom with the same name. I know we can put in the ID# in the URL, but it would be nice to be able to put in the title.
+
+So: linkffn(Harry Potter; Insert The Fic Title Here)
+
+Or something like that.
+
+Also being able to pick up on comments where another link is edited into the comment later. Not sure it's possible.
+
+^{^{edit:}} ^{^{oops.}}
+:PROPERTIES:
+:Author: OwlPostAgain
+:Score: 5
+:DateUnix: 1442027986.0
+:DateShort: 2015-Sep-12
+:END:
+
+*** A new feature of the bot is ffnbot!refresh with should do quite nicely for updating the bot on edits. [[/u/tusing]] and I are currently thinking about automating this process (at least for sufficiently new comments). ([[https://github.com/tusing/reddit-ffn-bot/issues/89][Click Issue Link Here]])
+
+As for narrowing down the fics: The bot just googles everything that does not look like a link or a number. Narrowing down should be easy by adding additional things to the query like
+
+#+begin_quote
+  linkffn(30 Minutes in Harry Potter by Radaslab)\\
+  linkffn(Harry Potter 30 Minutes that changed everything)
+#+end_quote
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 5
+:DateUnix: 1442028445.0
+:DateShort: 2015-Sep-12
+:END:
+
+
+*** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1442028838.0
+:DateShort: 2015-Sep-12
+:END:
+
+
+** A download mobi link next to the epub option, please.
+
+I tend to email mobi files to read on kindle.
+:PROPERTIES:
+:Author: inimically
+:Score: 5
+:DateUnix: 1442033097.0
+:DateShort: 2015-Sep-12
+:END:
+
+*** A pdf or plaintext option would be nice too.
+:PROPERTIES:
+:Author: waylandertheslayer
+:Score: 1
+:DateUnix: 1442166105.0
+:DateShort: 2015-Sep-13
+:END:
+
+
+** Not a feature, but a bugfix: when the bot prints the notes section after a call to linkao3(), extra backslashes end up being inserted before every fullstop and dash.
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1442048345.0
+:DateShort: 2015-Sep-12
+:END:
+
+
+** Slimffn()
+
+Gives a smaller return: just the title, wordcount, complete/incomplete, and summary. Like so:
+
+slimffn(The One He Feared by Taure)
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1442049182.0
+:DateShort: 2015-Sep-12
+:END:
+
+*** This is actually an interesting idea. Shouldn't be difficult at all, either... We'll see what we can do.
+:PROPERTIES:
+:Author: tusing
+:Score: 6
+:DateUnix: 1442049729.0
+:DateShort: 2015-Sep-12
+:END:
+
+
+*** With download link, please
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1442109742.0
+:DateShort: 2015-Sep-13
+:END:
+
+
+*** *[[https://www.fanfiction.net/s/9778984/1/The-One-He-Feared][The One He Feared]]* (Incomplete, 42,225)
+
+Post-HBP, DH divergence. Albus Dumbledore left Harry more than just a snitch. Armed with 63 years of memories, can Harry take charge of the war? No bashing, canon compliant tone.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1442049188.0
+:DateShort: 2015-Sep-12
+:END:
+
+
+** Sorting of the results, if there are multiple requests.
+
+If I link three fics, for example, I could want them sorted based on number of reviews, on which was updated most recently, etc.
+:PROPERTIES:
+:Author: NMR3
+:Score: 3
+:DateUnix: 1442050701.0
+:DateShort: 2015-Sep-12
+:END:
+
+
+** A ffnbot!fichunt for people looking for fics.
+
+Someone can attach it to a comment with a fic link and the bot would suggest fics that have been linked with it before, by popularity.
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 3
+:DateUnix: 1442084095.0
+:DateShort: 2015-Sep-12
+:END:
+
+
+** A way of linking to a author's profile. You'd probably have to skip their biography, but showing what stories they've written shouldn't be too hard, right?
+:PROPERTIES:
+:Author: NMR3
+:Score: 1
+:DateUnix: 1442089826.0
+:DateShort: 2015-Sep-13
+:END:
+
+*** No it isn't and more importamtly it's coming for sure.
+
+We just need some refinements in some requirements for this feature.
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 3
+:DateUnix: 1442095815.0
+:DateShort: 2015-Sep-13
+:END:
+
+
+** Spacebattles support.
+:PROPERTIES:
+:Author: TyrialFrost
+:Score: 1
+:DateUnix: 1442219549.0
+:DateShort: 2015-Sep-14
+:END:

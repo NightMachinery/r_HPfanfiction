@@ -1,0 +1,117 @@
+#+TITLE: any ways to download from ff.net?
+
+* any ways to download from ff.net?
+:PROPERTIES:
+:Author: bukgu
+:Score: 1
+:DateUnix: 1616897315.0
+:DateShort: 2021-Mar-28
+:FlairText: Request
+:END:
+the two downloaders that i usually use (ficsave and ff2ebook) aren't working. are there any others?
+
+
+** You can use the fanfic fare plugin for Calibre to download from ffn.
+:PROPERTIES:
+:Author: Welfycat
+:Score: 2
+:DateUnix: 1616899143.0
+:DateShort: 2021-Mar-28
+:END:
+
+*** which is based on [[https://github.com/JimmXinu/FanFicFare][FanFicFare]] ... there is constant battle with Cloudfare to get through, so you need to update constantly.
+:PROPERTIES:
+:Author: ceplma
+:Score: 0
+:DateUnix: 1616921142.0
+:DateShort: 2021-Mar-28
+:END:
+
+**** I haven't updated it in months and it works just fine for me.
+:PROPERTIES:
+:Author: Welfycat
+:Score: 1
+:DateUnix: 1616943219.0
+:DateShort: 2021-Mar-28
+:END:
+
+
+** There's a website called fichub that lets you download pdfs straight away. It's a little bit slow tho. [[https://fichub.net/][FicHub]]
+:PROPERTIES:
+:Author: Subject-Gain
+:Score: 2
+:DateUnix: 1616948660.0
+:DateShort: 2021-Mar-28
+:END:
+
+*** Indeed. FicHub currently uses Calibre to generate pdfs which is unfortunately incredibly slow and resource intensive, so only a single pdf export across all users is allowed at any one time. FicHub has already moved to a better server once, but it's simply not viable to keep throwing money at the problem and will take some time to properly address.
+
+In general EPUB is a much better format and I'd suggest you and [[/u/bukgu]] only resort to pdf as a last resort. As a bonus, EPUB export is generally extremely quick :)
+:PROPERTIES:
+:Author: iridescent_beacon
+:Score: 1
+:DateUnix: 1617101199.0
+:DateShort: 2021-Mar-30
+:END:
+
+
+*** Thanks! FicHub worked great for me.
+:PROPERTIES:
+:Author: lala9007
+:Score: 1
+:DateUnix: 1619654909.0
+:DateShort: 2021-Apr-29
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1616897356.0
+:DateShort: 2021-Mar-28
+:END:
+
+*** [[https://www.fanfiction.net/s/2388416/1/][*/Growing Pains/*]] by [[https://www.fanfiction.net/u/747438/SensiblyTainted][/SensiblyTainted/]]
+
+#+begin_quote
+  The summer after Sirius' death: the abuse at the Dursley's leaves him broken. Snape is asked to try and help, and discovers that the key to saving Harry may be Draco, who has returned after his own difficult summer. HD Slash
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{29} ^{*|*} ^{/Words/:} ^{190,497} ^{*|*} ^{/Reviews/:} ^{3,395} ^{*|*} ^{/Favs/:} ^{6,602} ^{*|*} ^{/Follows/:} ^{1,845} ^{*|*} ^{/Updated/:} ^{Apr} ^{24,} ^{2006} ^{*|*} ^{/Published/:} ^{May} ^{10,} ^{2005} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{2388416} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Drama/Romance} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Draco} ^{M.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=2388416&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=2388416&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/FanfictionBot/reddit-ffn-bot/wiki/Usage][Usage]] | [[https://www.reddit.com/message/compose?to=tusing][Contact]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 0
+:DateUnix: 1616897385.0
+:DateShort: 2021-Mar-28
+:END:
+
+
+** You could also download the App which has a download button for fics
+:PROPERTIES:
+:Author: Janniinger
+:Score: 1
+:DateUnix: 1616926987.0
+:DateShort: 2021-Mar-28
+:END:
+
+
+** There's always the old-fashioned way (copy-and-paste each chapter). It's blocked on the main site but not the mobile version. Using a computer, replace the "www" with "m" to get the mobile version, and you're free to select and copy the text there. More time consuming but you can paste it into the word processor of your choice.
+:PROPERTIES:
+:Author: JennaSayquah
+:Score: 1
+:DateUnix: 1616962879.0
+:DateShort: 2021-Mar-29
+:END:
+
+
+** I've recently started to use [[http://www.fanfictiondownloader.net/#/home]] which seems to work for me.
+:PROPERTIES:
+:Author: sineout
+:Score: 1
+:DateUnix: 1616978907.0
+:DateShort: 2021-Mar-29
+:END:

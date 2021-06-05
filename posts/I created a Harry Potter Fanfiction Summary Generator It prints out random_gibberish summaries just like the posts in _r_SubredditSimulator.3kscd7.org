@@ -1,0 +1,523 @@
+#+TITLE: I created a Harry Potter Fanfiction Summary Generator! It prints out random/gibberish summaries just like the posts in /r/SubredditSimulator
+
+* [[http://uncertaindecisions.com/index.php/2015/09/12/generating-gibberish-from-harry-potter-fanfiction-summaries/][I created a Harry Potter Fanfiction Summary Generator! It prints out random/gibberish summaries just like the posts in /r/SubredditSimulator]]
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 49
+:DateUnix: 1442155252.0
+:DateShort: 2015-Sep-13
+:FlairText: Misc
+:END:
+
+** u/ARevolt:
+#+begin_quote
+  DH spoilers, ignores epilogue, HPDM preslash. When Ron dies, Hermione falls into a coma and when he realized he was shorter than the headmaster. That couldn't be, he'd been taller than Albus ever since he was three, and now has to face Voldemort and learns to be human again.
+#+end_quote
+
+Uhm okay
+:PROPERTIES:
+:Author: ARevolt
+:Score: 31
+:DateUnix: 1442163305.0
+:DateShort: 2015-Sep-13
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 25
+:DateUnix: 1442160669.0
+:DateShort: 2015-Sep-13
+:END:
+
+*** ... I'd read that crack fic.
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 8
+:DateUnix: 1442195327.0
+:DateShort: 2015-Sep-14
+:END:
+
+
+** "Author's note, apologies for not updating"
+
+The realism is stunning. LOL. :-)
+:PROPERTIES:
+:Author: fastfinge
+:Score: 20
+:DateUnix: 1442158049.0
+:DateShort: 2015-Sep-13
+:END:
+
+*** Haha, yep, author's notes are pretty common. There were 119 uses of the word "author" in the list of summaries I used to create the generator
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 5
+:DateUnix: 1442158863.0
+:DateShort: 2015-Sep-13
+:END:
+
+
+** u/imjustafangirl:
+#+begin_quote
+  The Heir
+
+  Hermione, Ginny and Percy bashing story - just to see if you can handle pretty messed up and disturbing things. Not for the easily offended!! /Now Complete with Epilogue/
+#+end_quote
+
+This is actually 10000000% believable. I literally see nothing beyond the possible in this one.
+
+This, however...
+
+#+begin_quote
+  The Wand Cores
+
+  Hermione has promised to keep Severus out of Azkaban, but the Ministry seems determined to throw them together. My version of how Lily and James Potter was not having a good day when Longbottom did IT.Now,all they have to pay for her education. Desperation and a chance to have something that he's always wanted. To meet his parents. Re-vamp of previous 24 chapter story HPGW
+#+end_quote
+:PROPERTIES:
+:Author: imjustafangirl
+:Score: 15
+:DateUnix: 1442164238.0
+:DateShort: 2015-Sep-13
+:END:
+
+*** u/vir_innominatus:
+#+begin_quote
+  This is actually 10000000% believable
+#+end_quote
+
+The best part? I checked to see if this was mostly an existing summary with a few words changed (which does happen), but it didn't in this case! That was strung together from 6 different summaries!
+
+Edit: actually 5, sorry. I thought the "Now complete with epilogue" came from a different one since that summary had asterisks around it, until I realized the asterisks in the reddit comment just made it italicized
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 8
+:DateUnix: 1442164655.0
+:DateShort: 2015-Sep-13
+:END:
+
+**** /6?/
+
+Wow. I honestly thought this was maybe one main one with Hermione or Percy thrown in. woow. Not sure what this says about fan fiction exactly but I'm pretty sure it's not really a good thing XD
+:PROPERTIES:
+:Author: imjustafangirl
+:Score: 6
+:DateUnix: 1442164759.0
+:DateShort: 2015-Sep-13
+:END:
+
+
+*** Maybe someone should write the first one?
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1442187240.0
+:DateShort: 2015-Sep-14
+:END:
+
+
+** u/deleted:
+#+begin_quote
+  Harry's schooling gets derailed. Dumbledore's manipulations cause great dissatisfaction among his allies. Lucius Malfoy goes on trial. And Snape is forced to fight his war. Word Count: 109,175, not counting Author's Notes.
+#+end_quote
+
+This one makes the most sense so far, I think.
+:PROPERTIES:
+:Score: 12
+:DateUnix: 1442162040.0
+:DateShort: 2015-Sep-13
+:END:
+
+*** Nobody Tell
+
+Harry Potter has set himself up with a blonde french veela. Will she get in over her head or could she possibly seduce Harry Potter?
+
+Rated: M - English - Chapters: 2 - Words: 5477 - Reviews: 257 - Favs: 547 - Follows: 60 - Harry P., Remus L.
+
+This one for me, I'm surprised at how straightforward it was.
+:PROPERTIES:
+:Author: AGrainOfDust
+:Score: 10
+:DateUnix: 1442164344.0
+:DateShort: 2015-Sep-13
+:END:
+
+**** That one was spliced together from 4 different summaries!
+
+1. Harry Potter has set himself up with...
+2. ...up with a blonde french veela. Will she...
+3. Will she get in over her head...
+4. ...over her head or could she possibly seduce Harry Potter?
+
+I'm actually surprised it worked that well in this case. You can often see mistakes like changing pronouns from "he" to "she"
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 9
+:DateUnix: 1442165630.0
+:DateShort: 2015-Sep-13
+:END:
+
+
+** u/deleted:
+#+begin_quote
+  "Harry has died again and his Grim Angel is not happy. Given another chance to save his loved ones, and must choose between his loyalty and helping his former enemy recover from her experience in the Chamber of Secrets, the last thing she needs is to meet someone else who should..."
+#+end_quote
+
+Is it a bad sign I'm not even sure if this is fake any more?
+:PROPERTIES:
+:Score: 10
+:DateUnix: 1442158360.0
+:DateShort: 2015-Sep-13
+:END:
+
+*** Haha that's an effect of using multiple previous words to predict the next, so it can pull out complete phrases from existing summaries if that particular phrase is especially unique.
+
+You can tell in that example that it has pulled words from at least two summaries, since the pronoun changes from "his" to "her"
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 6
+:DateUnix: 1442158676.0
+:DateShort: 2015-Sep-13
+:END:
+
+
+** u/tomintheconer:
+#+begin_quote
+  A marriage law puts everyone in the wizarding world.
+#+end_quote
+:PROPERTIES:
+:Author: tomintheconer
+:Score: 13
+:DateUnix: 1442161231.0
+:DateShort: 2015-Sep-13
+:END:
+
+*** Warning: Harem Fic.
+:PROPERTIES:
+:Author: schumi23
+:Score: 6
+:DateUnix: 1442166373.0
+:DateShort: 2015-Sep-13
+:END:
+
+
+** u/deleted:
+#+begin_quote
+  The Boy
+
+  EPILOGUE ADDED! RonHermione, sixth year. When Ron accidentally drinks a wrongly brewed potion, he wakes up five years earlier... on his 11th birthday... HHr Paring.
+
+  Rated: T - English - Humor/Friendship - Chapters: 24 - Words: 180179 - Reviews: 860 - Favs: 713 - Follows: 322 - Harry P., Ginny W.
+#+end_quote
+
+I'd like to read this.
+:PROPERTIES:
+:Score: 9
+:DateUnix: 1442186779.0
+:DateShort: 2015-Sep-14
+:END:
+
+*** I wonder how it goes from Ron and Hermione, to Harry and Hermione, and then finally to (seemingly) Harry and Ginny
+:PROPERTIES:
+:Author: bindingofshear
+:Score: 8
+:DateUnix: 1442187503.0
+:DateShort: 2015-Sep-14
+:END:
+
+**** Body switching?
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1442187631.0
+:DateShort: 2015-Sep-14
+:END:
+
+
+** Since people seemed to like my previous post analyzing character choices, this time I analyzed the word and phrasing choices used in the summaries! It's based on the use of a Markov chain (read post for more info) that was constructed by analyzing the top 25,000 fanficition summaries on FFN, sorted by number of reviews.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 8
+:DateUnix: 1442155378.0
+:DateShort: 2015-Sep-13
+:END:
+
+
+** So, as a student, I really want to do some work in machine learning and AI. I absolutely /loved/ your explanation of Markov Chains and the supplementary post - you explained Markov Chains extremely well, approachable to someone who hasn't touched on probability for years.
+
+Thank you for that! Two questions:
+
+1. What is the time complexity for the algorithm? The thought makes me shudder. It feels like it would be between O(n^{2} ) and O(n!) (of course, there are multiple inputs, so that's not very specific)
+
+2. Where can I go to learn more about stuff like this? Any recommendations for videos/websites/books/PDFs etc?
+:PROPERTIES:
+:Author: tusing
+:Score: 8
+:DateUnix: 1442171152.0
+:DateShort: 2015-Sep-13
+:END:
+
+*** Thanks! To answer your questions:
+
+1. I don't know the exact complexity, but it's definitely not efficient. I'm also not very familiar with algorithm analysis, but I'll give it a shot. The heavy lifting is done with the matlab function ismember(a,b) which takes two lists of strings /a/ and /b/ and returns the locations in /a/ that are found in /b/. According [[http://www.mathworks.com/matlabcentral/newsreader/view_thread/271030][to this thread]], ismember first sorts the lists, an O(n*log(n)) process, and then starts comparing, so it can terminate early once it's found a match. I think there's too many factors for me to give a good answer, e.g. as the list of keys gets larger, the searching for existing keys takes longer.
+2. You can find plenty of blog posts like mine, e.g. the two I linked to in the supplementary post or [[http://blog.codinghorror.com/markov-and-you/][here]]. Also, I haven't read these sources, but they seem promising: [[https://www-alg.ist.hokudai.ac.jp/%7Ethomas/publications/fow06hz.pdf][1]] [[http://www.cs.princeton.edu/courses/archive/spr05/cos126/assignments/markov.html][2]].
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 5
+:DateUnix: 1442173317.0
+:DateShort: 2015-Sep-14
+:END:
+
+
+** "Warning: CP"
+
+o no
+:PROPERTIES:
+:Score: 15
+:DateUnix: 1442156252.0
+:DateShort: 2015-Sep-13
+:END:
+
+*** Yeah, I saw that a couple times. I'm going to pretend it stands for "crappy puns" and not the other thing.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 7
+:DateUnix: 1442156616.0
+:DateShort: 2015-Sep-13
+:END:
+
+**** I've been so embroiled in other arenas where that acronym has a definition (chemical pregnancy and/or cervical position), I'm having trouble figuring out what that could possibly mean in context.
+:PROPERTIES:
+:Author: rainbowmoonheartache
+:Score: 7
+:DateUnix: 1442160979.0
+:DateShort: 2015-Sep-13
+:END:
+
+***** Let it be known I had to look this up.
+
+^{CP means "Child Porn"}
+:PROPERTIES:
+:Author: inimically
+:Score: 8
+:DateUnix: 1442170545.0
+:DateShort: 2015-Sep-13
+:END:
+
+****** Oh. My. D:
+
+Yuck.
+
+Thank you for looking it up so I didn't have to!
+:PROPERTIES:
+:Author: rainbowmoonheartache
+:Score: 6
+:DateUnix: 1442172378.0
+:DateShort: 2015-Sep-13
+:END:
+
+******* If you see someone talking about "cheese pizza" and it seems weird, it's sometimes used to refer to that.
+:PROPERTIES:
+:Author: boomberrybella
+:Score: 5
+:DateUnix: 1442173033.0
+:DateShort: 2015-Sep-14
+:END:
+
+******** Oh gods why.
+
+I appreciate the warning. That is not a surprise I want to find in my fic.
+:PROPERTIES:
+:Author: rainbowmoonheartache
+:Score: 6
+:DateUnix: 1442173392.0
+:DateShort: 2015-Sep-14
+:END:
+
+********* It's from 4chan. Some dickheads would post child porn when "mods were asleep". Then it became a joke to just post lots of pictures of cheese pizza.
+:PROPERTIES:
+:Author: Slindish
+:Score: 5
+:DateUnix: 1442183418.0
+:DateShort: 2015-Sep-14
+:END:
+
+********** The hacker called 4chan?
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1442187378.0
+:DateShort: 2015-Sep-14
+:END:
+
+*********** u/inimically:
+#+begin_quote
+  4chan is a simple image-based bulletin board where anyone can post comments and share images anonymously.
+#+end_quote
+:PROPERTIES:
+:Author: inimically
+:Score: 1
+:DateUnix: 1442193922.0
+:DateShort: 2015-Sep-14
+:END:
+
+************ Poe's law in action right here.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1442197390.0
+:DateShort: 2015-Sep-14
+:END:
+
+
+****** You're probably on list somewhere now.
+:PROPERTIES:
+:Author: ulobmoga
+:Score: 1
+:DateUnix: 1442231716.0
+:DateShort: 2015-Sep-14
+:END:
+
+
+***** It probably stands for Corporal Punishment in this scenario.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1442187439.0
+:DateShort: 2015-Sep-14
+:END:
+
+
+** This is cool! And the ones I've seen are (sadly) realistic. Maybe we should have an event where we all pick one to expand on? I think that could be fun!
+:PROPERTIES:
+:Author: boomberrybella
+:Score: 6
+:DateUnix: 1442172573.0
+:DateShort: 2015-Sep-13
+:END:
+
+*** The challenge: take three or so randomly generated fanfiction summaries and write a story based on one.
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1442193087.0
+:DateShort: 2015-Sep-14
+:END:
+
+
+** u/girlikecupcake:
+#+begin_quote
+  /Disaster's Sweet Ecstasy, My Muggle Devices/ The new Magical Marriage and Procreation Act leaves Snape in a dilemma when the most feared Dark Wizard around, Harry wants answers. Chapter 8 up! Rated: T - English - Humor - Chapters: 23 - Words: 117158 - Reviews: 470 - Favs: 564 - Follows: 392 - Draco M., OC
+#+end_quote
+
+Okay I'd actually read that, especially since it's categorized as humor.
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 6
+:DateUnix: 1442195910.0
+:DateShort: 2015-Sep-14
+:END:
+
+
+** My only issue is that I wish the characters listed in the summary were the ones listed in the info section.
+:PROPERTIES:
+:Author: ApteryxAustralis
+:Score: 3
+:DateUnix: 1442169947.0
+:DateShort: 2015-Sep-13
+:END:
+
+*** I briefly mentioned this in the supplementary info [[http://uncertaindecisions.com/index.php/markov_details/][here]]. I decided not to do this because (1) it would take more time to implement, and (2) sometimes the generated summaries mention one or two characters, and then it changes completely and talks about others. So I think the random characters adds to the gibberish nature of it.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 4
+:DateUnix: 1442173849.0
+:DateShort: 2015-Sep-14
+:END:
+
+**** Some of the summaries I got were actually good. So if would be nice to have the characters paired up correctly as well. People could use this if they wanted a quick idea, like say for a oneshot.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1442187145.0
+:DateShort: 2015-Sep-14
+:END:
+
+
+** I would love to see competitions on here for one shots where we write a fic based off the description.
+:PROPERTIES:
+:Author: BobVosh
+:Score: 4
+:DateUnix: 1442214406.0
+:DateShort: 2015-Sep-14
+:END:
+
+
+** u/Ch1pp:
+#+begin_quote
+  Whole Story
+
+  Maybe James isn't really as bad as they both become attracted to each other? Smart and powerful Harry. Master of Death Harry) Rated: M - English - Romance/Humor - Chapters: 10 - Words: 22668 - Reviews: 203 - Favs: 79 - Follows: 51 - Harry P.
+#+end_quote
+
+I could see this one happening. Harry becomes master of death and is allowed to see his parents growing up and getting closer to each other. I've almost certainly read worse.
+:PROPERTIES:
+:Author: Ch1pp
+:Score: 3
+:DateUnix: 1442187235.0
+:DateShort: 2015-Sep-14
+:END:
+
+
+** Can you ELI5 Markov chains?
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1442186687.0
+:DateShort: 2015-Sep-14
+:END:
+
+*** Hmm. In this context, it's just a way of thinking about likely word transitions, so if I ask you to complete the phrase "Chamber of...", what would pick as the next word? Being a Harry Potter fan, you might say "Secrets", but someone who hasn't read the series might say "Commerce". It's all about your prior experience.
+
+I wrote a computer program to mimic this. I fed it a large body of text (in this case fanfiction summaries), and the program "learned" which words are most likely to follow others. Then, to generate a fake summary, I give it a starting phrase and ask it to keep going, randomly choosing words based on what it has learned.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 5
+:DateUnix: 1442188219.0
+:DateShort: 2015-Sep-14
+:END:
+
+**** Thanks for the explanation.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1442188703.0
+:DateShort: 2015-Sep-14
+:END:
+
+
+** u/bloopenstein:
+#+begin_quote
+  Harry Potter is a boy...a normal boy...a happy boy...a loving boy...a pansy boy...a man boy...a cactus...
+#+end_quote
+:PROPERTIES:
+:Author: bloopenstein
+:Score: 2
+:DateUnix: 1442272597.0
+:DateShort: 2015-Sep-15
+:END:
+
+
+** AU. Harry thought he was betrayed by Lily, however it was far from the truth, for he is a submissive Veela who can't sense his Mate, because his Mate's a Horcrux. Voldemort is finally gone, but now Hermione faces a new challenge. Can a new friendship be formed? SS/HG, canon for most part but with several key changes. H/HR. Super H & Voldemort
+:PROPERTIES:
+:Author: Doomchicken7
+:Score: 2
+:DateUnix: 1442430237.0
+:DateShort: 2015-Sep-16
+:END:
+
+
+** To aid mobile-users, I'll link small subreddits, which are named in the title, yet are not linked.
+
+[[/r/SubredditSimulator]]: Subreddit Simulator 2015
+
+--------------
+
+^{I} ^{am} ^{a} ^{bot} ^{|} [[http://reddit.com/message/compose/?to=DarkMio&subject=SmallSubBot%20Report][^{Mail} ^{BotOwner}]] ^{|} ^{v0.6} ^{|} ^{[[https://github.com/DarkMio/Massdrop-Reddit-Bot][Changelog]]} ^{|} [[https://www.reddit.com/message/compose/?to=SmallSubBot&subject=SmallSubBot%20Report&message=ban%20/r/Subreddit][^{Ban}]] ^{-} [[https://www.reddit.com/r/MassdropBot/wiki/index#wiki_banning_a_bot][^{Help}]]
+:PROPERTIES:
+:Author: SmallSubBot
+:Score: 2
+:DateUnix: 1442155277.0
+:DateShort: 2015-Sep-13
+:END:

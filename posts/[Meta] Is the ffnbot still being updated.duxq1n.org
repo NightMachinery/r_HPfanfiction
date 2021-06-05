@@ -1,0 +1,186 @@
+#+TITLE: [Meta] Is the ffnbot still being updated?
+
+* [Meta] Is the ffnbot still being updated?
+:PROPERTIES:
+:Author: meandyouandyouandme
+:Score: 20
+:DateUnix: 1573501494.0
+:DateShort: 2019-Nov-11
+:FlairText: Meta
+:END:
+I checked out the repo and the last push was 1 1/2 years ago.\\
+Is the project abandoned?
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 20
+:DateUnix: 1573505648.0
+:DateShort: 2019-Nov-12
+:END:
+
+*** u/deleted:
+#+begin_quote
+  Yes, the original author started to work at a new company and the company forbid him to maintain his projects
+#+end_quote
+
+Holy flying fuck, in what kinda ancapball dystopian country is he living where a company can do that and not crucified for it at the next day??
+:PROPERTIES:
+:Score: 12
+:DateUnix: 1573507185.0
+:DateShort: 2019-Nov-12
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 20
+:DateUnix: 1573507415.0
+:DateShort: 2019-Nov-12
+:END:
+
+***** I almost can't believe they have such barbaric laws 😓😰😨
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1573507896.0
+:DateShort: 2019-Nov-12
+:END:
+
+****** As someone who works in that industry, it's one of the few corporate policies that I almost don't mind. At minimum it has a solid basis in reality, unlike a lot of other really dumb policies I have to deal with.
+:PROPERTIES:
+:Author: stay-awhile
+:Score: 9
+:DateUnix: 1573522586.0
+:DateShort: 2019-Nov-12
+:END:
+
+******* People get used to worse stuff
+:PROPERTIES:
+:Score: -2
+:DateUnix: 1573535384.0
+:DateShort: 2019-Nov-12
+:END:
+
+
+****** Eh, I kinda get it honestly. The general idea is 'what if he accidentally leaks something that compromises an important system somewhere' through people being able to dig through his open source program.
+
+It's not like he /can't/ work on something like this. He just can't keep it open source. Combine that with the fact that he didn't have the time to keep updating and bugfixing it alone, and he decided to let development continue without him and he would continue to host the bot.
+:PROPERTIES:
+:Author: OrionTheRed
+:Score: 7
+:DateUnix: 1573524143.0
+:DateShort: 2019-Nov-12
+:END:
+
+******* A really big and far-fetched "what if"
+:PROPERTIES:
+:Score: -1
+:DateUnix: 1573535341.0
+:DateShort: 2019-Nov-12
+:END:
+
+******** Yeah, but it's a what-if that could have serious repercussions if it comes about, so it's taken fairly seriously.
+:PROPERTIES:
+:Author: OrionTheRed
+:Score: 2
+:DateUnix: 1573547723.0
+:DateShort: 2019-Nov-12
+:END:
+
+********* It's too far-fetched and unrealistic, no idea how that kinda craziness doesn't get struck down in the courts.
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1573548139.0
+:DateShort: 2019-Nov-12
+:END:
+
+********** Mostly because nobody cares enough to challenge it, or nobody that /does/ care has the resources to challenge it.
+:PROPERTIES:
+:Author: OrionTheRed
+:Score: 2
+:DateUnix: 1573596272.0
+:DateShort: 2019-Nov-13
+:END:
+
+*********** My goodness, this is barbaric.
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1573599199.0
+:DateShort: 2019-Nov-13
+:END:
+
+
+**** A lot of tech companies have you sign non compete agreements and non disclosure agreements prior to starting. It's pretty common in large, well-known companies in the United States.
+:PROPERTIES:
+:Author: TheEmeraldDoe
+:Score: 9
+:DateUnix: 1573513402.0
+:DateShort: 2019-Nov-12
+:END:
+
+***** That's not what I'm talking about, I'm talking about him but being able to continue to write stuff on the side.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1573513589.0
+:DateShort: 2019-Nov-12
+:END:
+
+****** yeah I'm having trouble believing that that's actually legal to do. It may say in the contract, but is it enforceable? I doubt it.
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 2
+:DateUnix: 1573570241.0
+:DateShort: 2019-Nov-12
+:END:
+
+
+****** Yeah it's a dumb rule, but these companies don't want employees potentially moonlighting/prioritizing side projects that might be successful at the expense of their daytime job. Obviously a fanfic bot is an extreme application of this policy
+:PROPERTIES:
+:Author: TheEmeraldDoe
+:Score: 1
+:DateUnix: 1573513858.0
+:DateShort: 2019-Nov-12
+:END:
+
+******* I am a developer, but the only restriction the company I work for puts on me is that I will not use company resources, namely laptops, workstations, MSDN licensed software, etc, to work on non-work related projects.
+
+I'm still allowed to clock off, go home, open my personal laptop up and start hacking away at something without worrying about my employer. This policy seems extremely harsh. Is this normal in the USA?
+:PROPERTIES:
+:Author: hamoboy
+:Score: 3
+:DateUnix: 1573525906.0
+:DateShort: 2019-Nov-12
+:END:
+
+******** You can hack away on your personal computer as long as it can't be publicly attributable to you.
+:PROPERTIES:
+:Author: TheEmeraldDoe
+:Score: 1
+:DateUnix: 1573603871.0
+:DateShort: 2019-Nov-13
+:END:
+
+********* Why would a company be concerned about that at all? Why is it their business? Can they police charitable donations or volunteer hours too? What sort of ancap nightmare is corporate America?
+
+I mean, it would be one thing if it was something that was being used to generate revenue. But an open-source project with no commercial application in sight?
+:PROPERTIES:
+:Author: hamoboy
+:Score: 1
+:DateUnix: 1573605131.0
+:DateShort: 2019-Nov-13
+:END:
+
+
+*** [removed]
+:PROPERTIES:
+:Score: -15
+:DateUnix: 1573505652.0
+:DateShort: 2019-Nov-12
+:END:
+
+**** Bad bot
+:PROPERTIES:
+:Author: overide
+:Score: 8
+:DateUnix: 1573506445.0
+:DateShort: 2019-Nov-12
+:END:

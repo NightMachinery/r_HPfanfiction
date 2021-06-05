@@ -1,0 +1,200 @@
+#+TITLE: About electronics not working around magic.
+
+* About electronics not working around magic.
+:PROPERTIES:
+:Score: 10
+:DateUnix: 1620398112.0
+:DateShort: 2021-May-07
+:FlairText: Discussion
+:END:
+[deleted]
+
+
+** No proof, really, and some proof otherwise.
+
+If magic really screwed up tech, it's likely that there'd be a great deal of issues around Diagon Alley especially, as well as likely around the Ministry and St Mungo's.
+
+There isn't.
+
+My opinion is that it's likely the result of lies that's been taken as fact due to time spent known to be "truth".
+:PROPERTIES:
+:Author: Cyfric_G
+:Score: 16
+:DateUnix: 1620398392.0
+:DateShort: 2021-May-07
+:END:
+
+*** Its also possible that given the long life of magicals and how slowly their culture seems to advance that it was tried originally when electricity was first becoming discovered
+
+They experimented with it but due to it still being a relatively new technology using limited conductors it didn't work at first so the magicals just wrote it off entirely
+
+Meanwhile muggles continued advancing both the development and improvement of electricity to the point where nowadays there is no issue but the belief still holds due to the slow advancement of the magic world
+:PROPERTIES:
+:Author: Corvidaeyn
+:Score: 11
+:DateUnix: 1620400030.0
+:DateShort: 2021-May-07
+:END:
+
+**** Well, the issue is vintage electronics is actually more resistant to EMP than modern (non-shielded) electronics. Or so I read.
+
+While magic isn't an EMP, it seems to work similarly, so it's more likely to be a lie.
+:PROPERTIES:
+:Author: Cyfric_G
+:Score: 0
+:DateUnix: 1620400739.0
+:DateShort: 2021-May-07
+:END:
+
+***** You mean EMC/EMI or ESD not EMP. And you're wrong anyway.
+
+EMP is "electromagnetic pulse" which works by causing EMI and ESD, but isn't a thing any consumer electronics is going to experience.
+
+Modern electronics are actually far less susceptible to EMI than vintage electronics. Vacuum tubes for example, are incredibly sensitive to phonic and electromagnetic interference.
+
+Modern ICs are rated to a higher level of ESD and EMI protection.
+
+Metal casings on boards, used for shielding from all the EMI around us in the form of microwaves for communication, are designed specifically to protect from interference.
+
+The issue probably comes down to macro or microelectronics rather than age. Or whether it is actually electrical mains and not an electronic device.
+
+Source: I have a postgraduate degree in electronic engineering and work on electronics installations which contain unshielded solenoids (basically mini EMI generators).
+:PROPERTIES:
+:Author: QueerBallOfFluff
+:Score: 6
+:DateUnix: 1620406864.0
+:DateShort: 2021-May-07
+:END:
+
+****** I'll bow to your expertise then! I read that older electronics were less susceptible in some ways, but no, I'm not an expert. :) From what I read, it has to do with the SSG.
+:PROPERTIES:
+:Author: Cyfric_G
+:Score: 2
+:DateUnix: 1620407349.0
+:DateShort: 2021-May-07
+:END:
+
+
+***** Ah I was more meaning the actual metals,
+
+In the Fae legends that JKR, drew some inspiration from for her world building they are often weakened by Cold Iron, so I wondered if maybe that could also be why magic supposedly blocks electricity, its not the electrics themselves but the conducting metals and components used that interfere with it
+
+With progress and development however the metals and other components used have been refined and altered to where they are no longer affected directly by magic and thus "modern technology" does work in the HP Universe with little to no issues where as the original tests and experiments would have been classed by the Magicals as a failure
+
+Alas, tis only a theory anyways
+:PROPERTIES:
+:Author: Corvidaeyn
+:Score: 3
+:DateUnix: 1620402261.0
+:DateShort: 2021-May-07
+:END:
+
+****** Ah. Well, if it were iron-based, modern electronics still do use a lot of iron. Who knows though. Like I said, all we really know is it doesn't block things.
+
+As for the accidental mentioned above, I don't believe the quote in the books mentions accidental magic at all, just magic. Don't have the books on me, though, being at work.
+:PROPERTIES:
+:Author: Cyfric_G
+:Score: 1
+:DateUnix: 1620402488.0
+:DateShort: 2021-May-07
+:END:
+
+
+** Considering the location of Diagon Ally, the ministry, and St Mungos, hell, even Grimmauld Place, it's safe to say that the mere presence of magic even in fairly high concentration does not impede electronics. Otherwise muggles could easily find wizards just by trying to figure out those weird electrical deadzones.
+
+The best theory I've read about it is that part of the standard suite of spells for magical locations, especially open-air ones, is something to prevent lightning strikes. Depending on how broadly "lightning" is defined by the spell, that could easily stop electronics from working.
+
+And since it's a deliberate spell instead of some weird side effect of magical concentration, of course it would have sharply delineated edges and not spill into the muggle world.
+
+And sure, wizards could change the boundaries of the spell or even cast a nullifying spell on the piece of tech in question in order to make electronics work... but why? There's probably not going to be much overlap between "People who have active knowledge of the spell," "People who know that the spell stops electronics from working" and "People who want to use electronics in a magical area."
+
+There's also the issue that modern electronics, at least, have practically molecular level precision required in some of their components in order to function (modern high end processors have transistors a mere 70 atoms wide!). Any sort of distortion /at all/ will cause them to fail. So shrinking? Transfiguring? Maybe even shoving them into a portable hole (hermoine's beaded bag)? Who knows if they come out *exactly* the same. Sure, for most things a shift of 10 atoms left or right won't matter, but electronics? Broken.
+:PROPERTIES:
+:Author: Astramancer_
+:Score: 7
+:DateUnix: 1620418273.0
+:DateShort: 2021-May-08
+:END:
+
+
+** I'm of the opinion that ambient magic doesn't inherently impede electronics any more than ambient gravity. They are simply two entirely separate forces of nature. Magic would only stop a device from working if a specific spell being cast at it has an effect that alters it in such a way as to render it inoperable, such as an unbreakability charm stopping a hard drive from writing for example, just like gravity would only affect it by breaking it from a fall or sufficiently warping space.
+
+Our only official canon source on the issue as far as I recall is a throwaway line by Hermione quoting a history book written by pureblood wizards.
+
+Frankly I don't consider anything a bunch of purebloods wrote on this subject to be a particularly reliable source when there isn't any firsthand evidence to back it up.
+
+I theorize that someone tried bringing a simple lamp or radio to Hogwarts back in the early 20th century, found nowhere to plug it in, and the ignorant wizarding staff just dismissed it out of hand without understanding why it didn't work. They then go on to write that down and tell new muggleborn not to bother trying. When asked why it doesn't work, they just throw out 'because magic' since that's essentially a viable catch-all answer in the wizarding world for any effect that isn't really understood.
+
+Muggleborn then enter the wizarding world primed with this 'fact' from their supposedly knowledgeable professors, then adapt to wizarding society and never pursue the question further.
+
+Thus the cycle of ignorance is perpetuated.
+
+It wouldn't be until the modern day where personal portable electronics have become so entrenched in everyday life that there might be sufficient motivation for a young muggleborn to really take a crack at solving the problem in order to bring their precious smartphone back into their life.
+:PROPERTIES:
+:Author: A_Rabid_Pie
+:Score: 3
+:DateUnix: 1620422741.0
+:DateShort: 2021-May-08
+:END:
+
+
+** OK, listen up. Having been involved with electronics since the 90's and having dealt with 80s, 90s, and 00s tech I can tell you that electronics from those eras were incredibly poor quality in design reliability compared to their modern counterparts.
+
+Most of the issues came from two sources. First one being the internal clocks on the boards that could easily get damaged or develop some sort of issue, resulting in errors and problems galore.
+
+Two the power supplies were notoriously bad, which on top of faults in manufacturing of individual parts and the designs themselves being not very robust coupled with not many protections against fluctuations in the electric current often resulted in high failure rate.
+
+What many take for granted these days is the standardization and certification both of manufacture and design that ensure good compatibility between components and protections against issues with the current, overheating, electrostatic et cetera ad nauseam.
+
+All those micro chips and switches and injectors and spinning discs and lasers and sensors are designed to work in very precisely conditioned environments and any deviation in the amount of static in the air, like let's say skin contact with a wand or a magical object and touching an electronic device would result in frying of said device. The already overheating capacitors, power lines, and whateverthefuckwasgoing on with the power supplies of the 90's just would have no chance in contact with magic. I mean I'm sure you remember getting a shock from an electronic device at least once in your childhood, so if you were to multiply it by 10 or more you could definitely imagine electronics frying themselves.
+
+Sorry for chaotic muggle answer but it's getting late and it's the best that I've got.
+:PROPERTIES:
+:Author: pycus
+:Score: 3
+:DateUnix: 1620427887.0
+:DateShort: 2021-May-08
+:END:
+
+
+** Sirius' motorcycle, the Weasley Ford Anglia, & the Knight Bus are all proof that electronics & magic can go hand in hand quite easily.
+:PROPERTIES:
+:Author: zugrian
+:Score: 3
+:DateUnix: 1620462655.0
+:DateShort: 2021-May-08
+:END:
+
+
+** It isn't that electronics don't work around magic. It's that the amount of /accidental/ magic floating around Hogwarts makes electronics unreliable. I believe one of the reasons Hogwarts is kept so remote is to concentrate most of the potential accidental magic (coming from children struggling through puberty) in one place where they can manage it, away from muggle interference.
+
+I also believe that the protections making the school appear as a ruin to muggles and that make it Unplottable on maps interferes with radio signals. One other thing - even if a student got some electronics to work there, it's nearly certain that the electrical grid hasn't been extended into that area, so their batteries would be the only source of power. Can a refilling charm recharge your batteries? Sounds like NEWT level work.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 6
+:DateUnix: 1620400099.0
+:DateShort: 2021-May-07
+:END:
+
+*** Do you mean ambient magic? Most people in the fandom believe that ambient magic prevents electricity from working properly. Accidental magic is just a spell that has been casted unintentionally.
+
+I believe that Howarts is as remote as it is because the Scottish highlands are a strategic location for a castle that is supposed to keep people safe.
+
+I highly doubt that the wards can stop all muggle technology like radar and satrelites.
+:PROPERTIES:
+:Author: Soviet_God-Emperor
+:Score: 3
+:DateUnix: 1620404865.0
+:DateShort: 2021-May-07
+:END:
+
+
+** If you go by a strict canon explanation... we don't really know more than the fact that electronics don't work at Hogwarts (although Colin's camera - unless he had a really old one - worked). However unlike Diagon Alley and the Ministry, which are public properties and any witch or wizard can go to, Hogwarts is heavily protected by spells, unlike the others which seem to only have a concealed entrance to the Muggles. Also Hogwarts has a magical architecture with moving stairs, switching rooms and hundreds of people performing spells at once. Diagon Alley seems to be mostly a regular shopping street with magic items where only the few vendors practice magic on a regular basis. While you could argue that some of the magic in the Ministry would be powerful enough to disrupt electronics, it is still buried deep underground and probably that's why the Department of Mysteries is the lowest floor... because it has so powerful magic that it could really make Muggles suspicious.
+
+Otherwise if you want to put it in a fic, you have pretty much free reign.
+:PROPERTIES:
+:Author: I_love_DPs
+:Score: 2
+:DateUnix: 1620415054.0
+:DateShort: 2021-May-07
+:END:

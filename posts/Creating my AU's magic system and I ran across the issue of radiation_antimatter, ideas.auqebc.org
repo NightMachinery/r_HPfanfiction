@@ -1,0 +1,399 @@
+#+TITLE: Creating my AU's magic system and I ran across the issue of radiation/antimatter, ideas?
+
+* Creating my AU's magic system and I ran across the issue of radiation/antimatter, ideas?
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 7
+:DateUnix: 1551128939.0
+:DateShort: 2019-Feb-26
+:FlairText: Discussion
+:END:
+Greetings all!
+
+So I've been working on developing my AU for a full-series rewrite (plus one more book) that's a crossover between HP, the SCP universe, and the Lovecraft Mythos. I've got a ton done and I'm really happy with where I'm at, but I'm struggling with one bit: how does it handle radiation and/or antimatter?
+
+Firstly, I'm waffling over whether transfiguration of radioactive matter and antimatter should even be possible (a la The Arithmancer/Lady Archimedes). If it is possible, my thought is that it would take Hogwarts-professor-level skill and focus to be able to pull it off, plus muggle-PhD-level knowledge of particle physics to be able to know what is needed to be visualized. This would effectively make it impossible, since both of those skill-sets existing in one person is absurd. Except. One of my main villains (not Voldemort) is totally within range of both of those skill-sets, making him absurdly OP. Brokenly so.
+
+Secondly, if they are impossible.... why? I'm obsessive about rational rules for my magical systems, and it's a nonsensical arbitrary rule of magic. I do have Laws of Magic, but they are also human-created (except for the Interdict of Life one which came in the package with magic at its dawn) with a very difficult ritual needed to create them, to the point that only two have been added since the dawn of magic (Interdict of Wealth and Interdict of Merlin). And the understanding of the necessity for banning transfiguration of volatile substances like Co-60 (you think U-235 is bad?) and antimatter hasn't coincided with the ability to ban it, ever.
+
+My only surviving brainstorm is that radiation (probably only Beta and Gamma, not Alpha, or just Gamma) annihilates magic itself, making it so that any attempt to convert to a substance that generates radiation decays the spell itself before it can succeed. This is a stretch, since the radiation happens /after/ the transfiguration, not /before/, meaning if you did it fast enough you could make it work. And in the case of antimatter, it doesn't even do anything until it touches regular matter, so you could just conjure it within a vacuum and suspend it magically, then lob it at the spot you want to not exist anymore. :P
+
+Anyway, that's where I'm at with it. Ideas? Brainstorms?
+
+Thanks for your time and thoughts!
+
+
+** If magic itself is grounded in an extension of the standard model, perhaps the underlying particles of magic have antimatter counterparts, and thus magic cannot create antimatter, but antimagic could create antimatter (although extremely inefficient things akin to particle accelerators should be possible)
+:PROPERTIES:
+:Author: ABZB
+:Score: 6
+:DateUnix: 1551130540.0
+:DateShort: 2019-Feb-26
+:END:
+
+*** Huh. Interesting idea. Definitely going in the notebook!
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 2
+:DateUnix: 1551131227.0
+:DateShort: 2019-Feb-26
+:END:
+
+
+** I have this notion that spells are enacted by free-roaming spirits, so unless the spirit trying to implement the spell was the ghost of an advanced physicist, it'd be like asking an Aztec priest to build a Ferrari engine, which he can do if he would just patiently listen for the next three months. Duplicating something that exists is much easier.
+
+Your concept may be fundamentally the opposite, so take from that what you will.
+
+EDIT for radioactivity: duplicating things that are common is much easier than duplicating things that are rare, which may explain why precious metals tend to come out 'fragile' and are prone to dissolving like Leprechaun gold.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 2
+:DateUnix: 1551131005.0
+:DateShort: 2019-Feb-26
+:END:
+
+*** Actually that's pretty close to my idea. Except my magic is the descended entities of the ghosts of the Outer Gods the Atlanteans slew to steal their power, and the Outer Gods know about particle physics and antimatter way more than we do.
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 2
+:DateUnix: 1551131352.0
+:DateShort: 2019-Feb-26
+:END:
+
+
+** What about muons? Take a bit of hydrogen, replace some of the electrons with muons, and you got cold fusion. Relatively controlled and low effort fusion.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 2
+:DateUnix: 1551135195.0
+:DateShort: 2019-Feb-26
+:END:
+
+*** That... is a fascinating avenue of exploration. A magical fusion reactor the size of Iron Man's chest piece would be totally feasible.
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 1
+:DateUnix: 1551138813.0
+:DateShort: 2019-Feb-26
+:END:
+
+
+** Hermione experiments with radiation in the arithmancer series, that was pretty neat
+:PROPERTIES:
+:Author: natus92
+:Score: 2
+:DateUnix: 1551137337.0
+:DateShort: 2019-Feb-26
+:END:
+
+*** Yeah, I really love that series. That was one thing that got me started down this rabbit trail, haha.
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 2
+:DateUnix: 1551138645.0
+:DateShort: 2019-Feb-26
+:END:
+
+
+** I think you're fine with it being possible.
+
+It's already debatable in the canonical /HP/ universe, but frankly, I think the ability to Transfigure radioactive material or antimatter isn't really anything like "OP" if your story is a crossover with freaking /SCP and the Cthulhu Mythos all at once/. There are much,* much* more powerful things out there than fancy explosives. And that's really what both boil down to in a HP context: wizards (and SCP-613, and Cthulhu) can just shrug off radiation sickness, only the blast is of any use to them.
+
+Even the use of a non-magical blast is extremely debatable. There are some understandings of how magic works in /HP/ that argue that you /can't/ penetrate a magical Shield with /anything/ Muggle, whether it's a thrown pebble or a supernova: brute strength simply will not do, you have to use a curse that actively tries to subvert and weaken the Shield. If you accept this, if you accept that a well-timed Shield Charm similar to what they used on Hogwarts in /DH/ could shrug off a nuclear blast or antimatter blast, it is no longer quite so brokenly OP at all.
+
+And that's without going into the fact that explosives are a lousy tool for wizards, being hard to aim and cover up. The canonical Lord Voldemort really doesn't want to bring down the Statute of Secrecy, or at least, not before he's already in control of the entire worldwide Wizarding World. If yours is the same on this issue, he'll stay away from anything that might accidentally blow a Muggle city off the map, methinks. Especially with equally-destructive, but much more finely-controlled options at his disposal, like /Fiendfyre/.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 2
+:DateUnix: 1551129410.0
+:DateShort: 2019-Feb-26
+:END:
+
+*** Hmm, that is a tempting perspective. (Though, did you mean SCP-682?) My wizards are reasonably impervious mostly due to magic symbiosis and personal wards, but handling larger attacks would drain them. Mundane assaults like bullets and hand grenades that aren't magically enhanced are orders of magnitude easier, but still dangerous on warhead-scales. Also, transfiguring one's bones to Co-60, even for a fraction of a second, would induce instant coma and certain death within minutes from my research. Even wizards would be hard pressed to manage that.
+
+The villain in question is anarchist and wants to destroy the Statute, so blowing up cities is within character.
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 1
+:DateUnix: 1551131114.0
+:DateShort: 2019-Feb-26
+:END:
+
+**** u/Achille-Talon:
+#+begin_quote
+  Though, did you mean SCP-682?
+#+end_quote
+
+I did. No idea why I keep getting that poor thing (?)'s number wrong, but I have various named it as SCP-687, SCP-671 and SCP-645 over the last year, and I have no idea why.
+
+...Someone should write a SCP about a SCP-creature whose number keeps changing.
+
+Anyway, "transfiguring one's bones to Co-60" feels to me like it should be impossible to all but Merlin, or maybe Dumbledore on a /really/ good day. Transfiguring yourself is hard enough, but finely transfiguring the innards of your /enemy/ in the middle of a duel? /Please/.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 1
+:DateUnix: 1551131794.0
+:DateShort: 2019-Feb-26
+:END:
+
+***** Check out SCP-2718. ;)
+
+Isn't the bat-bogey hex basically transfiguring one's boogers into bats? Moody transfigured Draco into a ferret. It doesn't seem entirely out of reach.
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 1
+:DateUnix: 1551139072.0
+:DateShort: 2019-Feb-26
+:END:
+
+****** u/Achille-Talon:
+#+begin_quote
+  Isn't the bat-bogey hex basically transfiguring one's boogers into bats?
+#+end_quote
+
+Pretty sure it's a Charm: the bats are still made out of snot, just made to behave like a bat. And secreted waste might not count as "part of the body".
+
+#+begin_quote
+  Moody transfigured Draco into a ferret. It doesn't seem entirely out of reach.
+#+end_quote
+
+There, I'd say, first, Barty Crouch Jr. is a magical genius (as is Moody whom he's impersonating), not a random wizard. Second, I feel like transfiguring something you can't see (such as someone's bones alone) should be significantly harder than transfiguring a person in front of whom you're standing, and that transfiguring whole things is easier than transfiguring part of a thing.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 2
+:DateUnix: 1551203179.0
+:DateShort: 2019-Feb-26
+:END:
+
+******* Very good comments. Particularly, about not being able to see the whole thing, and transfiguring whole things vs parts. I take your points.
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 1
+:DateUnix: 1551203461.0
+:DateShort: 2019-Feb-26
+:END:
+
+
+** Here is a thought experiment:
+
+Given how close Muggles were at destroying each other during the Cold War, why wouldn't Voldemort pull a Skynet and make Muggles finish each other off? He had experienced Muggle destructive powers first hand, and he definitely should know nuclear weapons.
+
+If he really wanted to imperius the American President and order him to fire all US nukes against their targets, I doubt those MACUSA could stop him. Then the Soviet counterattack would destroy the West, and the nuclear winter would wipe out 90% of Muggles within a few months. The whole world would be ready for his magical utopia. He and his minions could of course build well protected and self sufficient Wizarding enclaves deep underground, ride out the mayhem, and emerge as the total winner. If a single shield charm was able to protect them against nuclear blasts, like some wizard worshippers here postulate, then he would have even more incentives to induce such a scenario.
+
+So, why didn't Voldemort do that? My thesis is that radiations are like the darkest form of magic and harm Magicals far more than Muggles. He had checked out Hiroshima and Nagasaki as soon as he heard the news. When he got there after a few days, he discovered that while 100000 out of 350000 Muggles had died at Hiroshima and 60000 out of 260000 Muggles had died at Nagasaki, the three Wizarding enclaves in the two cities had been completely killed off. Japanese Ministry of Magic was in utter panic, and decided to intervene in persuading the Emperor to surrender.
+
+Later during the 1950s, Muggle powers conducted over 500 atmospheric nuclear tests, resulting in unprecedented level of radioactive fallout in human history. Coincidentally, squib births skyrocketed, and led to great panic and increased hostility against Muggleborns, whose numbers had actually grown because rapidly increasing Muggle population. These Muggleborns, many of them strongly influenced by equal rights thinking in the Muggle world, would no longer subject themselves to Pureblood dominance. In 1962, a Muggleborn named Nobby Leach was even elected to the British Minister of Magic. Voldemort, who originally wanted to wait out Dumbledore, decided that he could no longer put things off.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 2
+:DateUnix: 1551132020.0
+:DateShort: 2019-Feb-26
+:END:
+
+*** Wow, that's a great theory! I'm just now digging into my melding of HP and SCP histories of WW2, and that might fit in nicely. Thanks!
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 2
+:DateUnix: 1551139533.0
+:DateShort: 2019-Feb-26
+:END:
+
+
+** First rule of writing (as dictated by me): All because you can do something, doesn't mean you should do something.
+:PROPERTIES:
+:Author: Lord_Anarchy
+:Score: 1
+:DateUnix: 1551129449.0
+:DateShort: 2019-Feb-26
+:END:
+
+*** Mad scientist villains with god-complexes tend to break rules, particularly that one. ;)
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 2
+:DateUnix: 1551130281.0
+:DateShort: 2019-Feb-26
+:END:
+
+**** I would at least try to turn spacetime itself into my Horcrux
+:PROPERTIES:
+:Author: ABZB
+:Score: 2
+:DateUnix: 1551130670.0
+:DateShort: 2019-Feb-26
+:END:
+
+***** Fun idea! Wouldn't work with my horcrux system, but that would be pretty badass, lol.
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 2
+:DateUnix: 1551131182.0
+:DateShort: 2019-Feb-26
+:END:
+
+
+** If you want to balance it just ensure that it's not possible to shield charm or apparate away fast enough to make it anything but a truly terrifying suicide bomb.
+:PROPERTIES:
+:Author: Electric999999
+:Score: 1
+:DateUnix: 1551155677.0
+:DateShort: 2019-Feb-26
+:END:
+
+*** Something being a suicide mission isn't a deterrent in a world with the imperious curse, though.
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 1
+:DateUnix: 1551156564.0
+:DateShort: 2019-Feb-26
+:END:
+
+**** It is if it's also sufficiently difficult, as OP says it is.\\
+Imperious lets you give orders, but doesn't seem to let you puppet their bodies. So if they can't perform a given spell you can't make them
+:PROPERTIES:
+:Author: Electric999999
+:Score: 1
+:DateUnix: 1551164809.0
+:DateShort: 2019-Feb-26
+:END:
+
+***** Good point.
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 1
+:DateUnix: 1551190948.0
+:DateShort: 2019-Feb-26
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1551155850.0
+:DateShort: 2019-Feb-26
+:END:
+
+*** They definitely haven't tested the boundaries of their magic, true. Just, in my plot and characterization, it's inevitable that if it's possible, he'll do it.
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 1
+:DateUnix: 1551156679.0
+:DateShort: 2019-Feb-26
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1551163909.0
+:DateShort: 2019-Feb-26
+:END:
+
+***** Yeah, there is some research into underlying principles, but it's not really to 'discover' new spells directly. My magic is derived from the ghost-blood of ancient outer gods still pouring from their deathlessly sleeping corpses, spawning half-sentient entities (magical cores) in the blood of the descendants of ancient Atlantis (wizards). In SCP-terms, wizards are type black reality benders, with no practical limits to their abilities. The problem is that magic in this form is very hard to tame to one's will, and so basically you do the hard work once, tie it to a ritual, then link a verbal command and gesture to that ritual so that the magic will remember it and perform it on command later on. A wand acts like a passkey giving one access to the repository of spells created by generations of wizards, remembered by the sleeping super-intelligence of Magic. The problem was that too much power resulted in provoking war with the Outer Gods and creating aforesaid corpses along with the annihilation of Atlantis and Lemuria and nearly obliterating the entirety of time, space, and magic omni-dimensionally. Oops. So a ritual was formed to put restrictions on magic, Laws that prevent or hinder such things from happening again.
+
+Does that help a bit? I'd love questions and feedback on this, so I can flesh it out more and fill in holes. :D
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 2
+:DateUnix: 1551473138.0
+:DateShort: 2019-Mar-02
+:END:
+
+
+** I like the idea that transfiguration and conjuration doesn't actually change the fundamental nature of what it's changing, it just applies a magical mask (kinda like polyjuice or animagus. Regardless of what you look like, you're still you). So you couldn't make something radioactive that wasn't radioactive before, nor could you make antimatter unless you started with antimatter. Even chemical reactions using transfigured materials are just an extension of the mask with the energy coming from magic rather than breaking chemical bonds.
+
+And that's what makes the philosophers stone so astounding - it actually does facilitate fundamental changes.
+
+My half-assed idea is why curse damage is so hard to heal, it damages at a more fundamental level than most magic, making it difficult to heal since healing magics are about bringing the fundamental self back to the surface.
+:PROPERTIES:
+:Author: Astramancer_
+:Score: 1
+:DateUnix: 1551158569.0
+:DateShort: 2019-Feb-26
+:END:
+
+*** Aaah, yeah, that's a neat theory! I think I'll have to explore that further. It's a tough one to distinguish. How fleshed out is this idea? Can you point to examples that could corroborate it or contradict it?
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 1
+:DateUnix: 1551473212.0
+:DateShort: 2019-Mar-02
+:END:
+
+**** Barely fleshed out beyond "that would be neat"
+
+Examples include It's Magic, It's Magic, and also It's Magic.
+
+But really it's just curse damage is hard to heal, but why? Magical diseases exist but they can regrow bones overnight and reattach limbs like it's nothing, but why?
+
+The limb thing could be specifically related to splinching, but even so.
+
+I mostly like the idea because it gives a reasonable high level explanation that isn't really contradicted by the books and helps an author come up with magical interactions that are consistent.
+
+Plus it would make sense that magic is more philosophical than naturalistic, so the idea of a "platonic object" as part of the very being of a physical object that is difficult, but not impossible, to magically manipulate is poetic to me.
+
+It also helps explain why Remus, or any wizard, for that matter, has threadbare or tattered belongings. The platonic self has degraded and magic can only patch it up for so long and it's relatively easy to cause the platonic object to reassert itself in reality, possibly easy enough that merely being in a magic-rich environment causes it to happen spontaneously. So using charms to make knitting needles autonomously knit a sweater? Making a new platonic self. But using transfiguration to turn a pile of yarn into a sweater? I hope you like waking up to a pile of yard in your closet, because it /will/ happen, eventually.
+:PROPERTIES:
+:Author: Astramancer_
+:Score: 2
+:DateUnix: 1551473742.0
+:DateShort: 2019-Mar-02
+:END:
+
+***** Bringing in the concept of magic working on a more philosophical instead of naturalistic level makes a /ton/ of sense, actually. In fact, if played just right, that could be used to explain a lot of 'rules' in-universe in non-nonsensical fashion. If I develop the wizarding philosophical schools of thought, I can use them to constrain and empower all kinds of things. Thanks for that brainstorm!
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 1
+:DateUnix: 1551492892.0
+:DateShort: 2019-Mar-02
+:END:
+
+
+** Is it going to come up in your story at any point in a plot related way?
+:PROPERTIES:
+:Author: KnittingOverlady
+:Score: 1
+:DateUnix: 1551129354.0
+:DateShort: 2019-Feb-26
+:END:
+
+*** Yes, no matter which direction it goes. At least five of my characters will think of this issue independently and address it one way or another.
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 1
+:DateUnix: 1551130056.0
+:DateShort: 2019-Feb-26
+:END:
+
+**** Easiest way would be to up the ante: requires too much knowledge or power to pull off. Or is indeed in some way limited as they nullify magic or there is a law against it (law of magic style) that makes impossible.
+
+Also you could argue that you would need a phd in like transfigurations and radiation physics to pull it off, at which point I am pretty sure said person would also realize it is a terrible idea to mess with it. Wizards could murder the planet in a multitude of other ways every single day. They don't, heck even voldemort doesn't, cause ya got to have a planet in order to rule it.
+:PROPERTIES:
+:Author: KnittingOverlady
+:Score: 1
+:DateUnix: 1551132346.0
+:DateShort: 2019-Feb-26
+:END:
+
+***** I could make transfiguration on the subatomic level impossible due to exponential power needs as you get more fine-tuned. Or say it can't be visualized properly at all due to quantum uncertainty. Those might work.
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 1
+:DateUnix: 1551139213.0
+:DateShort: 2019-Feb-26
+:END:
+
+****** Or make it so only two known magical laws after the first and your characters find out the hard way that at least one was added in secret.
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 1
+:DateUnix: 1551160270.0
+:DateShort: 2019-Feb-26
+:END:
+
+******* Within the realm of possibility, that. I'll consider that option too. :)
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 1
+:DateUnix: 1551191106.0
+:DateShort: 2019-Feb-26
+:END:

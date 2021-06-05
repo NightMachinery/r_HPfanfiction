@@ -1,0 +1,365 @@
+#+TITLE: TIL Out of 364,006 fics not marked as complete 134,425 of them haven't been updated since they were first published.
+
+* TIL Out of 364,006 fics not marked as complete 134,425 of them haven't been updated since they were first published.
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 69
+:DateUnix: 1502968811.0
+:DateShort: 2017-Aug-17
+:END:
+While out of 346,241 stories marked as completed 257,191 haven't been updated since the day they were uploaded.
+
+That means for fics marked as complete only 89,050 of them were updated after they were posted.
+
+
+** As a quick question, I'm too lazy to check myself but what proportion of completed fics are considerd one-shots? Only multi-chaptered fics would require updates to upload new chapters and that relies on the assumption that they haven't been pre-written and uploaded in one chuck.
+:PROPERTIES:
+:Author: herO_wraith
+:Score: 34
+:DateUnix: 1502969110.0
+:DateShort: 2017-Aug-17
+:END:
+
+*** I'm starting to wonder if I should learn how to Database, I got these numbers as a side effect of trying to set up an update.
+
+On Archive.org there is a 2015 scrape of fanfiction.net [[/u/nerdguy1138]] was nice enough to format it into something reasonable instead of needing to download all 111G of it.
+
+Nothing has been updated since then, and I'm hoping to come up with a sane way to do it (For Harry Potter at least)
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 6
+:DateUnix: 1502970047.0
+:DateShort: 2017-Aug-17
+:END:
+
+**** I have a feeling FFlai might have done a data scrape a few months back but I'm not sure. Fflai is often in the IRC if they don't see this post and they might be able to help.
+:PROPERTIES:
+:Author: herO_wraith
+:Score: 3
+:DateUnix: 1502970176.0
+:DateShort: 2017-Aug-17
+:END:
+
+***** Is FFlai a shortened username?
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 2
+:DateUnix: 1502970276.0
+:DateShort: 2017-Aug-17
+:END:
+
+****** [[/u/fflai]]
+
+Fflai, am I making this up or did you do a huge Fanfiction data scrape a while back?
+:PROPERTIES:
+:Author: herO_wraith
+:Score: 3
+:DateUnix: 1502970393.0
+:DateShort: 2017-Aug-17
+:END:
+
+******* Nope, I did!
+:PROPERTIES:
+:Author: fflai
+:Score: 8
+:DateUnix: 1502972322.0
+:DateShort: 2017-Aug-17
+:END:
+
+******** Could you tell me more before I go about recreating the wheel?
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 2
+:DateUnix: 1502973404.0
+:DateShort: 2017-Aug-17
+:END:
+
+********* The id numbers are sequential, and not rE-used. A gap means deleted. Out of the first million, 130k stories remain.
+:PROPERTIES:
+:Author: nerdguy1138
+:Score: 4
+:DateUnix: 1502988095.0
+:DateShort: 2017-Aug-17
+:END:
+
+
+**** i would so love to be able to have a current sortable and searchable harry potter and crossover list.
+:PROPERTIES:
+:Author: pieisbetterthancake
+:Score: 3
+:DateUnix: 1502972413.0
+:DateShort: 2017-Aug-17
+:END:
+
+***** Yeah, I want to see how much into scripting I can get with this,
+
+[[https://paste.ubuntu.com/25332049/]] Here is the header from one of the earlier fics
+
+I don't know how I am going to pull off searching any better than FF.net
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 1
+:DateUnix: 1502972937.0
+:DateShort: 2017-Aug-17
+:END:
+
+
+***** Have you checked the dark lord potter scryer database? You don't have to be a member to use it. [[https://scryer.darklordpotter.net]]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1502992890.0
+:DateShort: 2017-Aug-17
+:END:
+
+
+**** Hi!
+
+I've uploaded the next bits since then.
+
+[[https://archive.org/details/Fanfictiondotnet111million]]
+
+[[https://archive.org/details/Fanfictiondotnet1011dump]]
+
+Metadata db included.
+:PROPERTIES:
+:Author: nerdguy1138
+:Score: 2
+:DateUnix: 1502986812.0
+:DateShort: 2017-Aug-17
+:END:
+
+
+**** there's a metadata db included in that one, too.
+
+[[https://archive.org/details/fanfictiondotnet_repack]]
+
+That's the re-pack.
+:PROPERTIES:
+:Author: nerdguy1138
+:Score: 1
+:DateUnix: 1502987564.0
+:DateShort: 2017-Aug-17
+:END:
+
+***** I just grabbed your original full dump.
+
+#+begin_quote
+  Number of files: 6,930,544 (reg: 6,760,976, dir: 169,568)
+
+  Total file size: 314,598,257,108 bytes
+#+end_quote
+
+Jesus christ. 6.7 million fictions.
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 1
+:DateUnix: 1503475565.0
+:DateShort: 2017-Aug-23
+:END:
+
+****** If you have the space, could you compare that to the repack here [[https://archive.org/details/fanfictiondotnet_repack]]
+
+I recently discovered some stories I should have are missing from the repacked version.
+:PROPERTIES:
+:Author: nerdguy1138
+:Score: 2
+:DateUnix: 1503476256.0
+:DateShort: 2017-Aug-23
+:END:
+
+******* I wonder how I would even go about comparing them.
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 1
+:DateUnix: 1503477482.0
+:DateShort: 2017-Aug-23
+:END:
+
+******** [[/u/nerdguy1138]]
+
+Mostly a note to myself, but it is your fault I am doing this so deal with the notification.
+
+[[https://stackoverflow.com/questions/4997693/given-two-directory-trees-how-can-i-find-out-which-files-differ]]
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 1
+:DateUnix: 1503480072.0
+:DateShort: 2017-Aug-23
+:END:
+
+********* Don't bother with hashes, yet anyway. Check names. And thanks a heap, seriously!
+:PROPERTIES:
+:Author: nerdguy1138
+:Score: 1
+:DateUnix: 1503480706.0
+:DateShort: 2017-Aug-23
+:END:
+
+********** Halfway flattened for the first one.
+
+#+begin_quote
+  ls -f | wc -l
+
+  3505393
+#+end_quote
+
+Do you have a current copy of the repack? I could probably walk you through hardlinking (making a bunch of shortcuts that don't seem like shortcuts) flattening and we could compare directories that way.
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 1
+:DateUnix: 1503481464.0
+:DateShort: 2017-Aug-23
+:END:
+
+*********** The canonical copy of the repack is that one on Archive.org
+:PROPERTIES:
+:Author: nerdguy1138
+:Score: 1
+:DateUnix: 1503510281.0
+:DateShort: 2017-Aug-23
+:END:
+
+************ I was just thinking a list would be better than me downloading another 120gb.
+
+Fun fact, my computer didn't like it at around the 5.7m file in one directory mark.
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 1
+:DateUnix: 1503510401.0
+:DateShort: 2017-Aug-23
+:END:
+
+************* Metadata.sqlite has a path column. That's the full path of all the files they should both have.
+:PROPERTIES:
+:Author: nerdguy1138
+:Score: 1
+:DateUnix: 1503511658.0
+:DateShort: 2017-Aug-23
+:END:
+
+************** I found a bug!
+
+#+begin_quote
+  Harry Potter - cozypancakes - The Heirs.txt
+
+  Harry Potter - blackhearts14 - The Heirs.txt
+#+end_quote
+
+are both [[https://www.fanfiction.net/s/11067551/1/]]
+
+In your 11m download (flattening 6.7m files wasn't working so I started messing around with other ways to flatten and found this.
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 1
+:DateUnix: 1503567046.0
+:DateShort: 2017-Aug-24
+:END:
+
+*************** Interesting, authors can change their names, but the author id remains the same. How many of those are there?
+:PROPERTIES:
+:Author: nerdguy1138
+:Score: 1
+:DateUnix: 1503589795.0
+:DateShort: 2017-Aug-24
+:END:
+
+**************** In the 11m range of just that one AFAIK almost have the 0-10m ready to do the same sort.
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 1
+:DateUnix: 1503590369.0
+:DateShort: 2017-Aug-24
+:END:
+
+***************** Cool, thanks for running this check!
+:PROPERTIES:
+:Author: nerdguy1138
+:Score: 1
+:DateUnix: 1503622503.0
+:DateShort: 2017-Aug-25
+:END:
+
+****************** Looks like in the original big one it happens quite a bit in the 9M+ ffid range, 4649 found so far.
+
+Still going but not one under 9M
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 1
+:DateUnix: 1503686582.0
+:DateShort: 2017-Aug-25
+:END:
+
+
+******* It's on now!
+
+[[https://paste.ubuntu.com/25375385/]]
+
+Using this [[https://superuser.com/a/658078/327489]]
+
+To flatten the directories.
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 1
+:DateUnix: 1503478122.0
+:DateShort: 2017-Aug-23
+:END:
+
+******** The zips alone are ~120gb total.
+:PROPERTIES:
+:Author: nerdguy1138
+:Score: 1
+:DateUnix: 1503478980.0
+:DateShort: 2017-Aug-23
+:END:
+
+********* I love my ISP and their unlimited bandwidth.
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 1
+:DateUnix: 1503479891.0
+:DateShort: 2017-Aug-23
+:END:
+
+
+******** Also, to speed up the flattening, the stories themselves are guaranteed to be .txt files.
+:PROPERTIES:
+:Author: nerdguy1138
+:Score: 1
+:DateUnix: 1503479055.0
+:DateShort: 2017-Aug-23
+:END:
+
+
+** Are you just looking at multichapter fics though? I would have thought the majority of posted fics would be one-shots in any case, so without knowing how many are multichaptered stories do those figures say anything useful? What can you do with the information?
+:PROPERTIES:
+:Author: booksandpots
+:Score: 5
+:DateUnix: 1502977756.0
+:DateShort: 2017-Aug-17
+:END:
+
+*** I filtered these ones out so I wouldn't check for updates. I figure if they haven't updated since the day they posted I shouldn't need to check for an update
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 2
+:DateUnix: 1502977885.0
+:DateShort: 2017-Aug-17
+:END:
+
+
+** Hmm. This is awesome. I've been wondering how I'd go about the etl for ffnet and ao3. Been playing with the idea of training a model based on stories I've read repeatedly and predicting whether I'd enjoy a new one or not. This info will be a huge help!
+:PROPERTIES:
+:Author: Pooquey
+:Score: 1
+:DateUnix: 1503057543.0
+:DateShort: 2017-Aug-18
+:END:
+
+
+** Some of those are mine, though I batch-posted a lot of chapters at once. Like, I had several chapters done and posted them all at the same time, then never went back to them.
+:PROPERTIES:
+:Author: wille179
+:Score: 1
+:DateUnix: 1503076870.0
+:DateShort: 2017-Aug-18
+:END:

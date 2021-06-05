@@ -1,0 +1,206 @@
+#+TITLE: Ff.net app
+
+* Ff.net app
+:PROPERTIES:
+:Author: Laika_1
+:Score: 10
+:DateUnix: 1554463137.0
+:DateShort: 2019-Apr-05
+:END:
+After posting regarding the invasion of ads on ff.net I was advised to grab the official app. However, I think I might have run into a dealbreaker. Is there a way to sort my library by update date? It looks to me like I can only sort alphabetically. How am I supposed to know that library stories have updated in app?
+
+
+** There is at least I think that's what it's doing, click on the symbol that's 3/4 lines with dots it's next to the alphabet sorting on the left and it will bring up a little bar at the top of the page and a small drop down menu where you can choose from a clock and an eye. I believe the clock is by lasted updated and the eye is by last viewed.
+:PROPERTIES:
+:Author: CMRD31
+:Score: 4
+:DateUnix: 1554464461.0
+:DateShort: 2019-Apr-05
+:END:
+
+*** So I thought that, but it doesn't seem to update properly. Case in point, basilisk eyes updated on April 3rd and updates regularly. ff.net seems stuck on it last updating mid March. So maybe it works, but is kinda buggy
+:PROPERTIES:
+:Author: Laika_1
+:Score: 1
+:DateUnix: 1554465418.0
+:DateShort: 2019-Apr-05
+:END:
+
+**** You mean that it doesnt update the fics automatically when they come out? Mine does that too, but that is because my phone is in powersave mode. Clicking the sync button, (the eye) downloading a new fic, closing and opening the app etc will cause it to refresh and download the chapter updates.
+:PROPERTIES:
+:Author: luminphoenix
+:Score: 1
+:DateUnix: 1554495018.0
+:DateShort: 2019-Apr-06
+:END:
+
+***** It won't update the doc I mentioned as a specific example, I have a bunch of others that have the same problem
+:PROPERTIES:
+:Author: Laika_1
+:Score: 1
+:DateUnix: 1554496879.0
+:DateShort: 2019-Apr-06
+:END:
+
+****** Huh odd. I had the same problem a few months ago. After the app updated the problem went away. But usually closing and opening the map works. Or just clicking sync. Can tell you though that it is a bug. (My app wont dowbload updates as long as i am reading a fic. As soon as i exit the fic, or enters the authors profile, then it will update everything
+:PROPERTIES:
+:Author: luminphoenix
+:Score: 1
+:DateUnix: 1554497123.0
+:DateShort: 2019-Apr-06
+:END:
+
+
+** How is that a dealbreaker? The website version of FFN doesn't /have/ a 'library', let alone give you an option to sort it.
+
+If the library doesn't work for you, just go back to getting your updates however you did it before you got the app.
+:PROPERTIES:
+:Author: pointysparkles
+:Score: 5
+:DateUnix: 1554466641.0
+:DateShort: 2019-Apr-05
+:END:
+
+*** It's a dealbreaker for the app. The ability to add them to my library so I don't have to troll through ff.net sorted by update date is wonderful, but due to this feature being a half baked makes it a dealbreaker on the app for me. I believe I am not the only person who is not pleased with the official app
+:PROPERTIES:
+:Author: Laika_1
+:Score: 1
+:DateUnix: 1554467811.0
+:DateShort: 2019-Apr-05
+:END:
+
+**** But you still get all the features of the website without the ads.
+:PROPERTIES:
+:Author: pointysparkles
+:Score: 2
+:DateUnix: 1554467880.0
+:DateShort: 2019-Apr-05
+:END:
+
+
+**** just add it to your follow list
+:PROPERTIES:
+:Author: TurtlePig
+:Score: 2
+:DateUnix: 1554477332.0
+:DateShort: 2019-Apr-05
+:END:
+
+***** I have. For some reason it won't sort everything correctly
+:PROPERTIES:
+:Author: Laika_1
+:Score: 1
+:DateUnix: 1554480687.0
+:DateShort: 2019-Apr-05
+:END:
+
+****** I'm pretty sure both the favorite lists and follow lists on the app sort by last update
+:PROPERTIES:
+:Author: TurtlePig
+:Score: 3
+:DateUnix: 1554481173.0
+:DateShort: 2019-Apr-05
+:END:
+
+
+** I use the library page only to store my reading history and downloaded stories. If I want to know when a story updates I follow it. The screen that shows followed stories is sorted by Update Date so then I can keep track of it there.
+:PROPERTIES:
+:Author: ThePuddlestomper
+:Score: 2
+:DateUnix: 1554469172.0
+:DateShort: 2019-Apr-05
+:END:
+
+
+** To the left of [A..Z] you will see what looks like 3 bullet points getting shorter as they go down. Hit that and you should be able to sort by updates by hitting the right drop down menu and selecting the clock and sort by fandom on the left drop down menu
+
+<Library-eye-Refresh/sync-Bullet point menu(this one)-[A..Z]-three lines-vertical ellipses
+
+Or you might just need to sync it
+:PROPERTIES:
+:Author: Daemon-Blackbrier
+:Score: 2
+:DateUnix: 1554469886.0
+:DateShort: 2019-Apr-05
+:END:
+
+
+** When I was first using that clock sort it seemed to be sorting via library add date
+:PROPERTIES:
+:Author: Laika_1
+:Score: 1
+:DateUnix: 1554465492.0
+:DateShort: 2019-Apr-05
+:END:
+
+
+** (I use Calibre to track fics.)
+:PROPERTIES:
+:Author: Huntrrz
+:Score: 1
+:DateUnix: 1554475170.0
+:DateShort: 2019-Apr-05
+:END:
+
+
+** I prefer to use Codex Reader, which can track Ao3 fics as well as ones from ffn. It's no longer on the app store but you can find it available to download elsewhere on the Internet. Works great!
+:PROPERTIES:
+:Author: hudsonaere
+:Score: 1
+:DateUnix: 1554477257.0
+:DateShort: 2019-Apr-05
+:END:
+
+
+** As far as I am aware, no. There is a Reason I don't use the app.
+:PROPERTIES:
+:Author: Sefera17
+:Score: 1
+:DateUnix: 1554485972.0
+:DateShort: 2019-Apr-05
+:END:
+
+
+** Yes, you can sort the library by update date.
+
+[[https://cdn.discordapp.com/attachments/450447837210083328/563780422018793490/tempFileForShare_20190405-194153.jpg]]
+
+First, click on the list-thingy on the top, and then on sort you can select the "clock" icon. It's not very intuitive, but it works.
+:PROPERTIES:
+:Author: fflai
+:Score: 1
+:DateUnix: 1554486185.0
+:DateShort: 2019-Apr-05
+:END:
+
+*** I have a bunch of fics it won't sort that way
+:PROPERTIES:
+:Author: Laika_1
+:Score: 1
+:DateUnix: 1554496608.0
+:DateShort: 2019-Apr-06
+:END:
+
+
+** My problem with the official app is that you can't sort by recently added. And I don't remember the name of 10+ fics I just added.
+
+I like the other ff app, but now I can't log in 😔 something about java not enabled or something. Rip.
+:PROPERTIES:
+:Author: Deadlift-Friday
+:Score: 1
+:DateUnix: 1554499933.0
+:DateShort: 2019-Apr-06
+:END:
+
+
+** If you are not rooted get blockada app(not play store version, get website version)
+
+It will block your advertisements and it is free.
+
+Or you can get Adguard, first apply for a beta license. This way you don't need to buy it
+:PROPERTIES:
+:Author: ladyaribeth19
+:Score: 1
+:DateUnix: 1554626990.0
+:DateShort: 2019-Apr-07
+:END:

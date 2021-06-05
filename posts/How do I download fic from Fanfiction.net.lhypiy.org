@@ -1,0 +1,116 @@
+#+TITLE: How do I download fic from Fanfiction.net?
+
+* How do I download fic from Fanfiction.net?
+:PROPERTIES:
+:Author: somebody325
+:Score: 4
+:DateUnix: 1613088338.0
+:DateShort: 2021-Feb-12
+:FlairText: Misc
+:END:
+I have tried several options today, my usual stuff doesn't work.
+
+I had FanFicFare for Calibre. it got an error message, refused to download and uninstalled itself. it won't re-install
+
+I tried [[https://FicSave.xyz][FicSave.xyz]]. It says a server error occurred and won't download.
+
+I tried FFtoEbook and it downloaded most, but not all of the posted story and i think it created spelling errors not present on original.
+
+I tried PMing FanFictionBot and hitting both formats of the download links it replied with and got Error: MISSING FIC INFOS: TITLE
+
+I have [[https://FF.net][FF.net]] app on my android but I want to read on my computer, I can't figure out how to transfer the story to my computer if that is even possible. I can share the link address and read it online but it doesn't help me download it.
+
+This is all the options I currently know. What might I have missed?
+
+
+** ff2ebook works for me
+:PROPERTIES:
+:Author: katsy11
+:Score: 3
+:DateUnix: 1613089379.0
+:DateShort: 2021-Feb-12
+:END:
+
+*** I tried again just now. it only downloaded 37/41 chapters and says
+
+Converted using [[http://www.ff2ebook.com/][www.FF2EBOOK.com]]\\
+Date: 2020-12-14
+
+why can't I make it convert today and have all the updates?
+:PROPERTIES:
+:Author: somebody325
+:Score: 0
+:DateUnix: 1613093847.0
+:DateShort: 2021-Feb-12
+:END:
+
+**** Can't you click the checkbox for "force update" under options? That should pull in the latest chapters.
+:PROPERTIES:
+:Author: FutureDetective
+:Score: 3
+:DateUnix: 1613104538.0
+:DateShort: 2021-Feb-12
+:END:
+
+
+**** That's because the fic has probably been downloaded before and it's part of the site's cache. No one can download from FF2Ebook anymore cause of ffnet's newest cloudflare since it got hacked a few months ago.
+:PROPERTIES:
+:Author: Professor_Oswin
+:Score: 1
+:DateUnix: 1613277362.0
+:DateShort: 2021-Feb-14
+:END:
+
+
+** [[https://fichub.net/?from_pw=1]]
+:PROPERTIES:
+:Author: Trythenewpage
+:Score: 1
+:DateUnix: 1613100171.0
+:DateShort: 2021-Feb-12
+:END:
+
+
+** [[https://fanfictiondownloader.net][fanfictiondownloader.net]]
+
+I use this, but you have to download and install the program on your computer.
+:PROPERTIES:
+:Author: SuspiciousString3
+:Score: 1
+:DateUnix: 1613126109.0
+:DateShort: 2021-Feb-12
+:END:
+
+
+** I do it one chapter at a time, copy-and-paste into MSWord. It's more time-consuming, but I then have control of formatting.
+:PROPERTIES:
+:Author: JennaSayquah
+:Score: 1
+:DateUnix: 1613148049.0
+:DateShort: 2021-Feb-12
+:END:
+
+
+** It is a hit-and-miss, but [[https://github.com/JimmXinu/FanFicFare]] is under heavy development, so they follow all different waves of FFnet's fight with downloaders pretty well.
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1613148419.0
+:DateShort: 2021-Feb-12
+:END:
+
+*** Always works for me.
+:PROPERTIES:
+:Author: kikechan
+:Score: 1
+:DateUnix: 1613151136.0
+:DateShort: 2021-Feb-12
+:END:
+
+**** [[https://github.com/JimmXinu/FanFicFare/issues/637]] currently, for example. [[https://github.com/JimmXinu/FanFicFare/issues/639]] is the past one.
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1613155388.0
+:DateShort: 2021-Feb-12
+:END:

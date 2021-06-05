@@ -1,0 +1,305 @@
+#+TITLE: Philosophy of Time travel
+
+* Philosophy of Time travel
+:PROPERTIES:
+:Author: iamanautomator
+:Score: 2
+:DateUnix: 1594632334.0
+:DateShort: 2020-Jul-13
+:FlairText: Discussion
+:END:
+In the HP universe, there exists time travel. But, it is not discussed in length, and I was curious to hear what your personal theory is about it.
+
+​
+
+For example, I subscribe to this:
+
+- When a decision is made, a new timeline is created.
+- Given the infinite number of decisions, an infinite number of timelines must necessarily exist concurrently.
+- The closer a timeline is to a reference timeline, the lower the energy cost is for travel. So, to travel say an hour ago would be easier than to go say 100 years ago.
+- The time-turners of HP lore are crude holders of energy that store only a small amount (when compared to the cost of mass time travel( over long times) and are therefore limited. )
+- When a jump is made, the following process is followed:
+
+1. A new timeline where a jump was made is created.
+2. Then, it is checked if the person exists at that point of time in the new timeline
+3. If the person exists at that point, the local person is removed, but will continue to exist in a timeline where the jump did not happen.
+4. Energy is converted into another form and then the person is moved to the desired timeline.
+
+- Due to the inherently chaotic nature of life and magic, there may also exist a timeline where the removal did not happen or there is a overjump of sorts, there may also exist multiple copies of sorts of the same person. This chaotic occurrence, may also cause insanity in another timeline, and such an event may occur.
+
+What is your preffered theory, what are the holes in my theory?
+
+I thought the last point was a bit weak, and felt too forced.
+
+
+** We didn't actually see a new timeline being created in PoA, everything happened exactly like they observed it before the time jump, although the conclusions they made based on these observations were wrong. Which means that you can jump back and change details that you did not observe before the jump without having to create a new timeline.
+
+I doubt that they would give a device of creating new timelines and erasing everything that happened in the world over a span of several hours to schoolkids for better learning. The time turner is therefore probably incapable of creating new timelines, severely limiting the things you can do. But it still allows you to save your own ass, as long as you already got your ass saved by a mysterious figure.
+
+I am guessing that Divination is similar, seeing something from the future does not allow you to create a new alternate timeline where that doesn't happen but you can alter details that you did not observe.
+
+HPMoR does a lot of this closed loop time travel, with the main character doing multiple things at the same time all the time.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 9
+:DateUnix: 1594644336.0
+:DateShort: 2020-Jul-13
+:END:
+
+*** Since there exist an infinite number of timelines, there must also exist an infinite number of timelines where all events untill the jump is made are or were same. Therefore, the time traveller only notes that a jump was made. The two of them were unable to change the events that they observed, because they erroneously believed that if they changed the events that led to facts that they knew, they would destroy their timeline.
+
+The decision creates a new timeline( that is, if I decided to travel in time,and some effect occurs as a result of that decision, then a new timeline is created) . The ability to switch to it is what the timeturner provides. So, for example if at 7 o clock, a car hit a old lady, but she was saved, and then at 8 o clock in that timeline, she or somebody goes back, and saves the old lady, a new timeline will be created, though the outcome would be the same.
+
+The other thing is that the universe, or rather the container of timelines never gets destroyed. Ergo, it cannot erase the world on it's own. Of a human acts, and somehow causes the timeline to get destroyed, there must also exist another timeline where it did not get destroyed. An example for this will be if there are n items, and you choose any number and combination at once, then you will have 2^{n} possible events(sigma nCr) and if you choose one combination, then there will exist at the very least 2^{n} otherwise identical timelines. The same way, if a time traveller makes some mistake,or otherwise screws up, there will still exist an infinite number of timelines where it did not happen.
+
+The seeing of the future ie. prophecies are quite vague that they may refer to an infinite number of timelines where events that satisfy it occur.
+
+I am afraid I have never read HPMoR, so I am unqualified to comment upon it.
+:PROPERTIES:
+:Author: iamanautomator
+:Score: -1
+:DateUnix: 1594646246.0
+:DateShort: 2020-Jul-13
+:END:
+
+**** I don't think there's an infinite number of timelines. My explanation for what we see in PoA works without them, so it's unnecessarily complicated to assume that they exist.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 6
+:DateUnix: 1594647213.0
+:DateShort: 2020-Jul-13
+:END:
+
+***** The whole premise of the theory is that each choice creates a new timeline where the other was chosen, and the person only knows of his timeline.
+:PROPERTIES:
+:Author: iamanautomator
+:Score: 0
+:DateUnix: 1594647440.0
+:DateShort: 2020-Jul-13
+:END:
+
+
+** The Harry Potter time travel mechanic is different form most others, and is an extremely useful tool, just not for the standard time travel things you might think of. Because it allows you to go back in time and then be in two places at once it allows you to alter the /future or present/, but not the past.
+
+Harry is faced by a horde of Dementors and he can't beat them, instead himself from the future saves him. Harry needs to free Sirius now, so he goes back and does it.
+
+In theory if you had a time turner you could control, you could simply say to yourself, “I'll come back later and do -x-.” And then that thing will happen. It also allows you to double the amount of time you experience relative to everyone else.
+:PROPERTIES:
+:Author: MachaiArcanum
+:Score: 5
+:DateUnix: 1594645564.0
+:DateShort: 2020-Jul-13
+:END:
+
+*** The theory should still hold and allow for timeturners and multiple copies of the same mind/soul to exist concurrently.
+:PROPERTIES:
+:Author: iamanautomator
+:Score: 0
+:DateUnix: 1594646374.0
+:DateShort: 2020-Jul-13
+:END:
+
+
+** My theory is one of determinism, where you can't go back and change the past because the past already exist with you having gone back. For example, Harry didn't go back and save himself and create a new timeline, the timeline is fixed with Harry always saving himself in a loop.
+:PROPERTIES:
+:Author: uplock_
+:Score: 3
+:DateUnix: 1594648769.0
+:DateShort: 2020-Jul-13
+:END:
+
+*** So if my understanding is correct, in the timeline, there will be a new copy of the same person, whose ability to further travel is restricted to only 2 points in time, that is of the divergence and of the convergence( ie. Where he travelled to and where he arrived at)
+:PROPERTIES:
+:Author: iamanautomator
+:Score: 1
+:DateUnix: 1594649039.0
+:DateShort: 2020-Jul-13
+:END:
+
+**** I might not be understanding properly but, yes there is anew copy but no the copy isn't restricted from further travel. The example i gave was a simple loop but nothing can stop you from going around in loops. You can travel to a day ago, spend an hour and go back another day and live through 47 hours to your original point in the timeline. Think of it like this: the Timeline is a line drawn on a paper, your own personal timeline is like a piece of string. You can lay it across the line exactly straight, you can create loops going back or jump ahead without touching the line. As you do this you still spend some of the length of the string meaning you spend your "life", you get old. Does that make sense?
+:PROPERTIES:
+:Author: uplock_
+:Score: 3
+:DateUnix: 1594650036.0
+:DateShort: 2020-Jul-13
+:END:
+
+***** Mostly except for one part, if the length of string is predetermined, then your death is also predetermined. If your death is predetermined, the future is no longer free.0, because there are some certainties.
+:PROPERTIES:
+:Author: iamanautomator
+:Score: 1
+:DateUnix: 1594650231.0
+:DateShort: 2020-Jul-13
+:END:
+
+****** As we are looking at the timeline from the outside, the death of "you" is already on the paper as with everything else that happens in your life, but as you're living it it wouldn't be that way. Think of it like this: if you decide to cut the string at 20 cm or 30 cm, you still spent 1 cm when you traveled back. So you spent 1 cm of the final amount. You dont know if you're going to end with 20 cm or 30 cm when you're laying the string. The final amount doesn't have to be predetermined for you to use up string.
+
+Also I should probably add that the parts of the string not touching the line do not count as I don't think travelling takes any time.
+:PROPERTIES:
+:Author: uplock_
+:Score: 3
+:DateUnix: 1594650909.0
+:DateShort: 2020-Jul-13
+:END:
+
+
+** What I always assumed:
+
+The timeline is a straight line. You don't deviate from that straight line because that's always how it has existed. Because all your timetravel actions are rationalised by your past self, it means that there never was a timeline when you didn't timetravel.
+
+Sirius Black always escaped, even before Harry went back in time to save him, because he had /already/ gone back in time to save him.
+
+Basically, timetravel is inevitable, though entirely out of free will, because its the question of what came first- the chicken or the egg. There is no timeline without the timetravel and there is no timetravel without the already manipulated timeline.
+
+If that makes any sense?
+
+uplock (as I just read) had the same idea as me, I think.
+:PROPERTIES:
+:Author: Responsible_Juice_31
+:Score: 3
+:DateUnix: 1594649663.0
+:DateShort: 2020-Jul-13
+:END:
+
+*** u/Raesong:
+#+begin_quote
+  There is no timeline without the timetravel and there is no timetravel without the already manipulated timeline.
+#+end_quote
+
+This is why I hate time travel. I always get a migrane trying to comprehend it.
+:PROPERTIES:
+:Author: Raesong
+:Score: 2
+:DateUnix: 1594665504.0
+:DateShort: 2020-Jul-13
+:END:
+
+**** Eh. Don't worry, I got a helluva headache writing it. The simplest way to think of it is to not think of time as linear, but rather as a sequence of events and choices
+:PROPERTIES:
+:Author: iamanautomator
+:Score: 1
+:DateUnix: 1594667832.0
+:DateShort: 2020-Jul-13
+:END:
+
+
+*** u/uplock_:
+#+begin_quote
+  Basically, timetravel is inevitable
+
+  there never was a timeline when you didn't timetravel.
+#+end_quote
+
+yeah basically this. i get too much into metaphors and i think you explained it in a more understandable way.
+:PROPERTIES:
+:Author: uplock_
+:Score: 2
+:DateUnix: 1594669924.0
+:DateShort: 2020-Jul-14
+:END:
+
+
+*** There exist a timeline where it happens, the timeturner merely switches your timeline?. Every possible eventuality is covered in my pet theory, because the number of possible timelines and therefore outcomes is infinite. if there exist an infinite number of timelines, then there will be no need to manipulate a single timeline, just by switching to a timeline where all events but that one point of difference will also mean the same thing as manipulating the timeline, but only in the eyes of the traveller and not the superset of timelines.
+:PROPERTIES:
+:Author: iamanautomator
+:Score: 1
+:DateUnix: 1594663696.0
+:DateShort: 2020-Jul-13
+:END:
+
+**** Oh, I wasn't saying that your theory doesn't match and cover all possibilities, just sharing what I had always assumed. I love your theory, it allows a free will that many others in the comments don't.
+
+However, in writing, how would you go about explaining it? For all intents and purposes, there is no way for the characters to tell the two of our theories from one another. How would you have it be explained if the characters don't have a definite proof for it? Or is it just worldbuilding/fanon. Genuinely curious.
+:PROPERTIES:
+:Author: Responsible_Juice_31
+:Score: 2
+:DateUnix: 1594664143.0
+:DateShort: 2020-Jul-13
+:END:
+
+***** Just worldbuiling. I am pretty sure you can write entire theses on just each bullet point.
+:PROPERTIES:
+:Author: iamanautomator
+:Score: 1
+:DateUnix: 1594761254.0
+:DateShort: 2020-Jul-15
+:END:
+
+
+** [[https://www.youtube.com/watch?v=XayNKY944lY]["grandfather paradox" by minutephysics]]
+:PROPERTIES:
+:Author: solidmentalgrace
+:Score: 2
+:DateUnix: 1594643970.0
+:DateShort: 2020-Jul-13
+:END:
+
+*** The theory allows for the grandfather paradox to be sidestepped, because for every timeline where you killed your grandfather, there will also exist an otherwise similar timeline where your grandfather lives.
+:PROPERTIES:
+:Author: iamanautomator
+:Score: 1
+:DateUnix: 1594646515.0
+:DateShort: 2020-Jul-13
+:END:
+
+
+** I see your point about a new timeline being made where time-travel occurs. Though, from what is shown in PoA, we see only one timeline- of which its very past is altered through the use of the time turner. It can be assumed either way if a new timeline was created or not, so both are plausible yet in the end, they are still assumptions.
+
+If in fact it is the same timeline only altering, while it is rather hard to pin point when exactly the timeline starts, or the defining moment that allows for the time-travel to occur and be plausible- I've come to see it as a constant loop instead, where every point is leading up to AND is caused by the consequent time-travel and altering of the timeline.
+:PROPERTIES:
+:Author: jhsriddle
+:Score: 2
+:DateUnix: 1594652692.0
+:DateShort: 2020-Jul-13
+:END:
+
+*** A timeline is created at every decision and not instant of travel. Since there exist an infinite number of timelines, referring to a timeline as the timeline is not accurate. Rather, we refer to the timeline involved. So, what we see as a time travel, is actually mere timeline hopping.
+
+When the character appears to travel through time, he travels to one of the infinite number of timelines that are otherwise identical at the time of it's creation.
+:PROPERTIES:
+:Author: iamanautomator
+:Score: 1
+:DateUnix: 1594653349.0
+:DateShort: 2020-Jul-13
+:END:
+
+**** I wonder, where you've been informed about this? You state as it is factual and definitive. I'd love to read/watch more on this theory.
+:PROPERTIES:
+:Author: jhsriddle
+:Score: 2
+:DateUnix: 1594707815.0
+:DateShort: 2020-Jul-14
+:END:
+
+***** It is now more philosophy than anything else. My inspiration was a particularly horrible implementation of git, where a new branch was created every commit.
+:PROPERTIES:
+:Author: iamanautomator
+:Score: 1
+:DateUnix: 1594708708.0
+:DateShort: 2020-Jul-14
+:END:
+
+****** Your ideas are real interesting!
+:PROPERTIES:
+:Author: jhsriddle
+:Score: 2
+:DateUnix: 1594709352.0
+:DateShort: 2020-Jul-14
+:END:
+
+******* Thank you kind hooman.
+:PROPERTIES:
+:Author: iamanautomator
+:Score: 1
+:DateUnix: 1594709480.0
+:DateShort: 2020-Jul-14
+:END:
+
+
+** So, if I age when I go back in time, and I don't return to to the copy of my body at the time where I return, but I return to my physical body that is aged correctly as observed from outside. Right?
+:PROPERTIES:
+:Author: iamanautomator
+:Score: 1
+:DateUnix: 1594651637.0
+:DateShort: 2020-Jul-13
+:END:

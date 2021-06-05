@@ -1,0 +1,189 @@
+#+TITLE: Planning to write my own fic
+
+* Planning to write my own fic
+:PROPERTIES:
+:Author: AlperenGr
+:Score: 0
+:DateUnix: 1599926706.0
+:DateShort: 2020-Sep-12
+:FlairText: Self-Promotion
+:END:
+Edit: I have uploaded a short and edited version of the text that I've written with paragraphs. I really don't have any idea why no paragraphs were to be seen in Reddit.
+
+For starters, I would like to point out that I am neither English nor American, nor English is my mother-tongue. Yet, for quite some time I have been dreading to write a fic of my own about Harmony with McGonagall raising Harry. I would be more than thrilled if you could give me some tips or constructive criticism about how I should write this fic, or more importantly, should I continue to write it. To say the least, I have been using English to write essays rather than stories and am only 16. Hopefully, it exceeds your expectations even if it is not as outstanding as it could have been, had I written t later on. Here goes nothing: [[https://www.fanfiction.net/s/13695921/1/Breath-of-The-Dragon]]
+
+
+** Whoa! Holy walls of text, Batman!
+
+I would be happy to read this over if you'd add line breaks and paragraphs. It's tough to parse through as it is!
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1599928789.0
+:DateShort: 2020-Sep-12
+:END:
+
+*** Agreed. And if the line breaks that /are/ present were actually supposed to be there (a quick skim shows some rather random ones).
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 2
+:DateUnix: 1599929950.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+*** Doing it right away :), but I don't know why there are no paragraphs
+:PROPERTIES:
+:Author: AlperenGr
+:Score: 1
+:DateUnix: 1599933714.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+*** Did it.
+:PROPERTIES:
+:Author: AlperenGr
+:Score: 1
+:DateUnix: 1600012045.0
+:DateShort: 2020-Sep-13
+:END:
+
+
+** Alright. I dumped it in a word processor and made some paragraphs and... it's still rather hard to read. Honestly, relax a bit because I think you're trying too hard. You should also try to find a beta I think.
+
+It's a very good attempt, but...
+
+Here's some things I noticed:
+
+#+begin_quote
+  It was a late, warm night while the seventh month of the year was dying.
+#+end_quote
+
+Your very first sentence isn't even a sentence: it's a fragment and should be connected to the next one somehow. The next sentence, like many, /many/ other ones, should be chopped up and simplified.
+
+#+begin_quote
+  This man had lines on his pale face along with silver hair and beard, so long that they could be tucked into his belt.
+#+end_quote
+
+I would change two things about this one. Since in the previous sentence you talked about Minerva's wrinkled face, I would start this one off with "This man *also* had lines on his pale face..." The second thing is your comma after beard that breaks the flow of the sentence and disguises its meaning. "...silver hair and *a* beard so long that *it* could be tucked into his belt."
+
+#+begin_quote
+  The old yet energetic and, apparently fiery, the lady exclaimed loudly,
+#+end_quote
+
+Remove the word apparently because it doesn't serve a purpose. The "the" before lady should also be removed - it's a duplicate. "*The* old yet energetic and fiery lady exclaimed loudly,"
+
+#+begin_quote
+  Although this conversation did not differ in any aspect from the other discussions, she continued her passionate form, declaring her arguments in a rather heated manner, so unlike to her unless it was about this particular subject.
+#+end_quote
+
+Overly wordy, and "her passionate form" makes little sense. "Although this conversation did not differ greatly from previous ones, she passionately declared her arguments once more." Done. "in a rather heated manner" is redundant after telling us that she's passionate.
+
+#+begin_quote
+  Inwardly, she knew that she was never going to come to a conclusion unless she took the matter in her hands.
+#+end_quote
+
+You're a bit mixed up here. By saying that "she was never going to come to a conclusion" you're telling us that she wouldn't be able to make a /decision/ or a /judgment/ when what (I believe) you're trying to talk about is the situation. So. "Inwardly, she knew that the situation would never be resolved to her satisfaction unless she took the matter *into her own* hands."
+
+#+begin_quote
+  He is as thin as a paper
+#+end_quote
+
+While the simile works, it's a weird one. Common ones that you could use instead include: thin as a rail or thin as a reed. You could also just say "he is unnaturally thin", or "he's skin and bones".
+
+#+begin_quote
+  This statement of his colleague, dear friend, and, in a way, mentor caused her blood to boil.
+#+end_quote
+
+Her colleague. Yes, Albus is a dude, but Minerva isn't male.
+
+#+begin_quote
+  subject on hand
+#+end_quote
+
+Subject *at* hand.
+
+#+begin_quote
+  would not be wasting (!) her precious time
+#+end_quote
+
+See this thing? (!) Don't do that.
+
+--------------
+
+I stopped reading there. You're trying to be too flowery and stuffing way too much into each and every sentence... and half of it is redundant and should be simply deleted.
+
+Your vocabulary is fantastic, and while the grammar needs work I wish my Spanish was even half as good as your English. That being said - and I truly mean no offence here - you're trying too hard. Try to be more concise: it's not just for essays. I like your writing style overall, but... you're going overboard with descriptions. Relax a little bit :D
+
+Finally, paragraphs are a thing. Please use them.
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 1
+:DateUnix: 1599932441.0
+:DateShort: 2020-Sep-12
+:END:
+
+*** I can't find the right words to express my appreciation towards you. Thank you for every word you have written and I am more than sure you excel at Spanish. You are right about the flowery language and trying too hard. That's what my English teacher continues to say. I just have two questions if you would answer them: By saying try to be more concise, did you mean that I should have a more relaxed writing style or just tell what I mean more concisely? The second one is about the description part. Isn't it better to write with descriptions as much as possible to help the reader with imagining, as in classics and alike? Thanks again for your review and kind words. You can't know how much it means to me.
+:PROPERTIES:
+:Author: AlperenGr
+:Score: 3
+:DateUnix: 1599934318.0
+:DateShort: 2020-Sep-12
+:END:
+
+**** Both of your questions can be answered the same way - you have a tendency to repeat yourself and say everything in the wordiest way possible. (And trust me, I used to make the wordiest wordy sentences ever, I know what they look like lol.)
+
+I'll give you a couple examples, chosen randomly by skimming the rest.
+
+For repeating yourself... right near the beginning you had Minerva say "I am telling you this for the thousandth time, and I am sure that it will not get into your thick-headed mind 'till I tell you for a thousand more." Which is fine. But a few sentences later, you have her continue to argue "for what seemed like the thousandth time." And honestly? The whole after-dialogue thing can be cut:
+
+#+begin_quote
+  listed she for what seemed the thousand time.
+#+end_quote
+
+We already know that she had gave him a list of things, and we already know that she's done it many times in the past. There isn't any need to tell us again, especially so soon. Delete it.
+
+#+begin_quote
+  Grateful for catching a glimpse of grief, Minerva began shouting louder and louder with every word, spitting out each word with the hatred of preserving her thoughts and observations on the well-known but neglected topic.
+#+end_quote
+
+Again, it's just... very wordy and that makes it unclear. Where was the "glimpse of grief"? Was it on his face? In his eyes? Was it even Albus' grief? Why did she "preserve" her thoughts and observations if she hated remembering them so much? What topic was neglected? It certainly seems like they've argued about Harry's condition a lot, so it can't be that. Are you talking about how Harry /was/ neglected? If so, that meaning isn't obvious, and it should be.
+
+It seems to me that you're trying to do four things with this sentence. One - tell us that Minerva's words are making Albus feel grief, Two - that Minerva notices that grief. Three - that Minerva is really mad and is therefore yelling. Four - She's been thinking about this situation for a long time.
+
+"Grateful for that flash of grief in his eyes, Minverva's enraged voice rose as her bottled up emotions over the child's predicament burst forth."
+
+That rewrite shows that... Minerva is relieved that Albus is showing remorse, Minerva is really pissed off and yelling, and that she had been thinking about this situation but repressing her feelings for a long time. It's still written in somewhat flowery language, but it's nearly half as many words and it means more or less the same thing. (Assuming that I understood what you were trying to say.)
+
+#+begin_quote
+  Harry muttered, "Help!" after getting a blow on his head from the big, beefy man with a large purple face; thick, dark hair, a bushy black mustache, and with hardly any neck, who Albus knew as Vernon Dursley, Harry's worthless uncle.
+#+end_quote
+
+"Harry muttered, 'Help!' after being struck on the head by the mustachioed brute that Albus recognized as Vernon Dursley, the child's worthless uncle."
+
+Do we need to know that he has a purple face, thick hair and a short neck? Is it necessary to the story? Probably not. So delete it. I kept in the moustache - feel free to change that to a different descriptor, but remember to keep it brief: don't go all out describing side characters that aren't relevant to the plot. Think about the first book - Harry's relatives are minor characters, but they still contribute to the plot, they're in the all the books - he lives with them, after all. Now compare that to Dudley's "gang". What do you know about them? One of them as a rat-like face... and that's all we know about that particular kid. Do we need to know more? No, not really. Telling us more about him would just be filler.
+
+Now, in your story, Harry is going to be moved to Hogwarts and no longer live with the Dursleys. So wouldn't it make more sense to treat him like Piers Polkinson (or however his name is spelt) and be brief when you describe him?
+
+--------------
+
+Some tools that might help you out include Hemingway and Grammarly. Keep in mind that the grammar check in MS word is rather useless and will miss a LOT of things (while flagging things that are fine). MS Word (or at least my version of it) also seems to have a rather incomplete dictionary. [[https://www.reddit.com/r/HPfanfiction/comments/iqs5lm/i_made_an_editing_and_proofreading_checklist_for/][There's also a checklist that was posted yesterday with a lot of tips in it]]. You might want to check it out :D
+
+Now. I wouldn't necessarily /use/ any of the examples I gave because they don't match how you write. You have a very unique storytelling voice and I adore it, but mine kind of clashes :D Just.. try to stop cramming so much information into every single sentence :P
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 3
+:DateUnix: 1599943493.0
+:DateShort: 2020-Sep-13
+:END:
+
+
+**** hi! I'm not really an expert or anything, but from what I gather you have to write what you mean more concisely and not use too many descriptions, especially if any of them are the same/similar in meaning. And yes, generally descriptions are great, and vivid imagery helps a lot, particularly in the beginning, but don't overuse it/make it too 'flowery'.
+
+Hope I'm not being offensive--this is just some stuff I thought I could elaborate on. I really enjoyed reading that piece; please link it when you do decide to post it on fanfiction.net or ao3 or something
+:PROPERTIES:
+:Author: clockworkgirl1
+:Score: 1
+:DateUnix: 1599941991.0
+:DateShort: 2020-Sep-13
+:END:

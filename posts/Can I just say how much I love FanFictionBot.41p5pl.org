@@ -1,0 +1,237 @@
+#+TITLE: Can I just say how much I love FanFictionBot?
+
+* Can I just say how much I love FanFictionBot?
+:PROPERTIES:
+:Author: beetnemesis
+:Score: 166
+:DateUnix: 1453217856.0
+:DateShort: 2016-Jan-19
+:FlairText: Meta
+:END:
+Seriously, I can't think of a single other sub that has such a useful, purpose-made bot. It's quickly became an invaluable tool for this sub, and has made sharing and recommending fics VASTLY easier.
+
+So, cheers to you, [[/u/FanfictionBot][u/FanfictionBot]] ! And its creator, of course, [[/u/tusing]]
+
+Edit- AND [[/u/stuxcrystal]]
+
+
+** Thanks! Don't forget to give [[/u/stuxcrystal]] a lot of credit, too, he has contributed a great deal to the bot!
+:PROPERTIES:
+:Author: tusing
+:Score: 39
+:DateUnix: 1453225040.0
+:DateShort: 2016-Jan-19
+:END:
+
+
+** I'm ashamed to say I've found myself starting to take [[/u/FanFictionbot]] for granted. It really is awesome! Thank you [[/u/tusing]]!!!!
+:PROPERTIES:
+:Author: silva-rerum
+:Score: 25
+:DateUnix: 1453222680.0
+:DateShort: 2016-Jan-19
+:END:
+
+
+** [[/u/tusing]] will you allow other subreddits to use Fanfictionbot? Like [[/r/fanfiction][r/fanfiction]] would benifit from it greatly. just curious.
+:PROPERTIES:
+:Author: Zerokun11
+:Score: 12
+:DateUnix: 1453228623.0
+:DateShort: 2016-Jan-19
+:END:
+
+*** Right now, probably not. While the bot is capable of multiple subs, I think introducing multiple subs would add too much time overhead to every reply.
+
+Bot v1.4.0 which we tried to deploy a couple of days ago would work fine, I think, but that's quite buggy right now! Combine that with the fact that [[/r/fanfiction]] has half the activity of our sub and fewer users, it might be best to wait until the bot updates to handle that.
+:PROPERTIES:
+:Author: tusing
+:Score: 10
+:DateUnix: 1453250699.0
+:DateShort: 2016-Jan-20
+:END:
+
+**** Any chances of adding mobi to the download list for those of us with Kindles?
+:PROPERTIES:
+:Author: Musical_life
+:Score: 3
+:DateUnix: 1453303760.0
+:DateShort: 2016-Jan-20
+:END:
+
+***** [[https://www.reddit.com/r/HPfanfiction/comments/41ymth/psa_mobi_downloads_added_to_fanfictionbot/][Your request has been implemented!]]
+:PROPERTIES:
+:Author: tusing
+:Score: 5
+:DateUnix: 1453356717.0
+:DateShort: 2016-Jan-21
+:END:
+
+
+***** Should be a relatively simple change. I'll see what I can do.
+:PROPERTIES:
+:Author: tusing
+:Score: 4
+:DateUnix: 1453316078.0
+:DateShort: 2016-Jan-20
+:END:
+
+
+***** I know this isn't a perfect solution but with calibre you can change an EPUB to a MOBI very easily and it's a good library manager.
+:PROPERTIES:
+:Author: FutureTrunks
+:Score: 1
+:DateUnix: 1453304560.0
+:DateShort: 2016-Jan-20
+:END:
+
+****** I know, but I haven't managed how to load it on the Kindle under books via Calibre. (The proper way)
+:PROPERTIES:
+:Author: Musical_life
+:Score: 1
+:DateUnix: 1453326340.0
+:DateShort: 2016-Jan-21
+:END:
+
+
+*** I've asked him to implement it to other subreddits, so you can probably PM him and ask.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1453236912.0
+:DateShort: 2016-Jan-20
+:END:
+
+
+*** If you have RES you can just summon the bot in this sub (just find a random post or whatever, it's nbd) and copy the source over to a reply in th other sub.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1453256383.0
+:DateShort: 2016-Jan-20
+:END:
+
+
+** Agreed, I wish it included Mobi though.
+:PROPERTIES:
+:Author: Musical_life
+:Score: 7
+:DateUnix: 1453219929.0
+:DateShort: 2016-Jan-19
+:END:
+
+*** [[https://www.reddit.com/r/HPfanfiction/comments/41ymth/psa_mobi_downloads_added_to_fanfictionbot/][Implemented!]]
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1453356738.0
+:DateShort: 2016-Jan-21
+:END:
+
+
+** Yes, yes you can.
+:PROPERTIES:
+:Author: ForgotMyLastPasscode
+:Score: 3
+:DateUnix: 1453242122.0
+:DateShort: 2016-Jan-20
+:END:
+
+*** 10/10
+
+11/10 with rice
+:PROPERTIES:
+:Author: beetnemesis
+:Score: 4
+:DateUnix: 1453242362.0
+:DateShort: 2016-Jan-20
+:END:
+
+
+** yeah, very amazing thing
+:PROPERTIES:
+:Author: sfjoellen
+:Score: 2
+:DateUnix: 1453230396.0
+:DateShort: 2016-Jan-19
+:END:
+
+
+** Absolutely. Brilliant piece of work!
+:PROPERTIES:
+:Author: rpeh
+:Score: 2
+:DateUnix: 1453237019.0
+:DateShort: 2016-Jan-20
+:END:
+
+
+** How does it work?
+:PROPERTIES:
+:Author: thedeceitfulone
+:Score: 1
+:DateUnix: 1453266163.0
+:DateShort: 2016-Jan-20
+:END:
+
+*** It's magic!
+
+Also, thanks for the bot!
+:PROPERTIES:
+:Author: Deygn
+:Score: 3
+:DateUnix: 1453266616.0
+:DateShort: 2016-Jan-20
+:END:
+
+
+*** Type the word linkffn followed by the name or ID of the fic in parentheses. It also works with a few other sites, click on the link in the comment that replies to this one.
+
+linkffn(Seventh Horcrux)
+:PROPERTIES:
+:Author: beetnemesis
+:Score: 3
+:DateUnix: 1453267155.0
+:DateShort: 2016-Jan-20
+:END:
+
+**** [[http://www.fanfiction.net/s/10677106/1/][*/Seventh Horcrux/*]] by [[https://www.fanfiction.net/u/4112736/Emerald-Ashes][/Emerald Ashes/]]
+
+#+begin_quote
+  The presence of a foreign soul may have unexpected side effects on a growing child. I am Lord Volde...Harry Potter. I'm Harry Potter. In which Harry is insane, Hermione is a Dark Lady-in-training, Ginny is a minion, and Ron is confused.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 21 *|* /Words/: 104,212 *|* /Reviews/: 834 *|* /Favs/: 3,195 *|* /Follows/: 1,951 *|* /Updated/: 2/3/2015 *|* /Published/: 9/7/2014 *|* /Status/: Complete *|* /id/: 10677106 *|* /Language/: English *|* /Genre/: Humor/Parody *|* /Characters/: Harry P. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=10677106][EPUB]]}
+
+--------------
+
+*FanfictionBot*^{1.3.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=%2Fu%2Ftusing][Contact]]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1453267197.0
+:DateShort: 2016-Jan-20
+:END:
+
+
+** 2 thumbs up!
+:PROPERTIES:
+:Author: vurio
+:Score: 1
+:DateUnix: 1453556485.0
+:DateShort: 2016-Jan-23
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1459199645.0
+:DateShort: 2016-Mar-29
+:END:
+
+*** Thanks!
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1459201143.0
+:DateShort: 2016-Mar-29
+:END:

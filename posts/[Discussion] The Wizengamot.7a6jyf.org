@@ -1,0 +1,255 @@
+#+TITLE: [Discussion] The Wizengamot
+
+* [Discussion] The Wizengamot
+:PROPERTIES:
+:Author: Jahoan
+:Score: 12
+:DateUnix: 1509570097.0
+:DateShort: 2017-Nov-02
+:FlairText: Discussion
+:END:
+There is woefully little information given in canon regarding how the Wizengamot is organized, and most fics that feature it are usually Lord-fics. What I'm looking for are tips for how to write the Wizengamot for a world without any sort of Lord system, and when they would meet.
+
+
+** From the original Books, I get the impression that the Wizengamot only served as a judicial body, but did not have legislative powers. For example, Arthur Weasley, who ranked relatively low on Ministry hierarchy and was not a member of Wizengamot, was able to jam through the controversial Muggle Protection Act. Later, Fudge was able to appoint a High Inquisitor without Wizengamot input, although two members resigned in protest. He was able to further pass many educational decrees at will. Throughout the Books, there wasn't any instance of Wizengamot debating and passing laws.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 18
+:DateUnix: 1509572085.0
+:DateShort: 2017-Nov-02
+:END:
+
+*** I'm not sure that wizarding Britain has such a strong idea of separation of powers that the Wizengamot can be defined as a judicial or legislative body. I doubt that wizarding Britain has anything like a codified constitution and as such I suspect that the Wizengamot is a body with loosely defined powers and purpose largely based on convention - essentially a council of influential people whose power, like earlier British Parliaments, likely rises and falls with the calibre of its members as well as the relative strength of executive leadership.
+
+The etymology of the name, from the Anglo-Saxon "Witenagemot", is suggestive - an informal, ad hoc precursor to Parliament with an undefined membership consisting of whoever happened to have influence at the time, with loose powers.
+
+Further there *are* clues here and there that the Wizengamot's power extends beyond what we Muggles would consider judicial, such as the power to remove the Minister for Magic (or force them to resign, as the Muggle British Parliament does). We know from Pottermore that the Wizengamot has this power, but even if Pottermore hadn't made it clear, there's still the issue of Fudge at the end of OotP. There is clearly some institution/process which has the power to force the Minister for Magic out of power without a fresh election. Further, from HBP, there is clearly a process whereby a new Minister can be /appointed/ without fresh elections. The Wizenagemot is the only body that we know of that would fit the bill, even without Pottermore.
+
+But it is also clear that the executive has broad powers.
+
+In relation to some of your specific comments:
+
+#+begin_quote
+  For example, Arthur Weasley, who ranked relatively low on Ministry hierarchy and was not a member of Wizengamot, was able to jam through the controversial Muggle Protection Act.
+#+end_quote
+
+Firstly it is interesting to note that the Muggle Protection Act was named as such, compared to later legislation which is always referred to as a Decree. "Act" is typically associated with legislation passed by a legislature whereas "Decree" is typically associated with secondary legislation (i.e. legislation passed directly into law by the executive). Indeed, the fact that the Muggle Protection Act was difficult to pass suggests some kind of legislative debate, whereas an executive order of some kind would presumably be within Arthur's power to pass directly.
+
+Regardless, the executive having power to write legislation does not exclude the possibility of a legislature. The Muggle British executive passes far more legislation in the form of Statutory Instruments than Parliament does in the form of Acts.
+
+#+begin_quote
+  Later, Fudge was able to appoint a High Inquisitor without Wizengamot input, although two members resigned in protest. He was able to further pass many educational decrees at will.
+#+end_quote
+
+It's worth mentioning again that the Muggle British government has complete discretion to use its executive power to rearrange the provision of education in terms of its structure, the individuals charged with running various services, etc. Again, this does not mean that there is no legislature.
+:PROPERTIES:
+:Author: Taure
+:Score: 19
+:DateUnix: 1509576128.0
+:DateShort: 2017-Nov-02
+:END:
+
+
+*** Pottermore says the Wizengamot removed a minister of magic because he acted senile. so their power has to be at least partly legislative
+
+edit: I also found this on pottermore
+
+#+begin_quote
+  The Order of Merlin (sometimes abbreviated to O.M.) is awarded by the Wizengamot, an organisation that predates the Ministry of Magic and nowadays functions *as a combination of court and parliament*. The Order comprises a handsome golden medal on a green ribbon (First Class), purple ribbon (Second Class) or white ribbon (Third Class).
+#+end_quote
+:PROPERTIES:
+:Score: 10
+:DateUnix: 1509574305.0
+:DateShort: 2017-Nov-02
+:END:
+
+**** In many countries, a president can be impeached by the parliament and is then tried by the constitutional court.
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1509575376.0
+:DateShort: 2017-Nov-02
+:END:
+
+***** yeah, but the wording strongly implies that their wasn't a trial. to quote
+
+#+begin_quote
+  Faris "Spout-hole" Spavin 1865 - 1903
+
+  Longest-ever serving Minister for Magic, and also the most long-winded, he survived an 'assassination attempt' (kicking) from a centaur who resented the punchline of Spavin's infamous 'a centaur, a ghost and a dwarf walk into a bar' joke. Attended Queen Victoria's funeral in an admiral's hat and spats, at which point the Wizengamot suggested gently that it was time he move aside (Spavin was 147 when he left office).
+#+end_quote
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1509575564.0
+:DateShort: 2017-Nov-02
+:END:
+
+****** It doesn't take any legislative authority to remove a head of state, just authority rendered from whatever legal document forms the basis of the government.
+:PROPERTIES:
+:Author: The_Truthkeeper
+:Score: 2
+:DateUnix: 1509576573.0
+:DateShort: 2017-Nov-02
+:END:
+
+
+****** Ok, point taken. I'm not that familiar with the more obscure Pottermore stuff.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1509575671.0
+:DateShort: 2017-Nov-02
+:END:
+
+
+*** Furthermore, Lucius Malfoy was not a member.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 2
+:DateUnix: 1509573755.0
+:DateShort: 2017-Nov-02
+:END:
+
+
+** As mentioned above in response to InquisitorCOC, the Wizengamot's name is based on the Anglo-Saxon "Witenagemot", an informal, ad hoc precursor to Parliament with an undefined membership consisting of whoever happened to have influence at the time. I would suggest that this is a good direction to take for Wizengamot membership - it is attended by the influential. One possibility that I feel suits the conservative nature of the world as well as the relative informality of wizarding political process is that members would be appointed by the current membership by consensus (not the same thing as unanimity, as you don't vote in consensus. It's more discussion-based. Success doesn't mean convincing everyone you're right, it just means convincing those opposed to withdraw their objections).
+
+As for when they meet, it depends on what you mean by "they". I think it's clear from Dumbledore's comments in OotP that Wizengamot meetings have different levels of attendance and that full meetings are relatively rare. But probably sub-committees of the Wizengamot with specific functions (e.g. the more limited, low-key hearing that Harry /should/ have got for his underage magic) meet on a more regular basis.
+
+As for Lords, no, there's no evidence in canon that a wizarding nobility exists. But it's worth mentioning (as always) that this does not exclude the possibility of wizards happening to hold Muggle noble titles. From what we know about how the Malfoy family came to England and their later activities within the country, it is highly likely that the Malfoys hold a Muggle noble title (i.e. of the rank of Baron or above. Likely above given their proximity to royalty).
+:PROPERTIES:
+:Author: Taure
+:Score: 13
+:DateUnix: 1509576922.0
+:DateShort: 2017-Nov-02
+:END:
+
+*** I'm not sure you could call the Witengamot's membership 'undefined' really. There may have been a lot of fluctuation in attendance at the individual witan's based on member's availability and popularity with the King, but anyone who held a position as Thegn, Ealdorman or higher level Clergy (Bishops, Abbots, Abbesses and Arch-Bishops) could attend. As a note, being a Thegn was inheritable, but also a position you could be advanced to, while the Ealdorman were technically appointed on merit from the Thegns.
+
+How I update the Witan system is for the Minister (taking the position of a combination of the King and the modern British cabinet) to have his own small group of advisors in his office to generate his legislation, which can be passed by executive decree.
+
+The Wizengamot is then made up of the Minister and his direct underlings (how Umbridge got in), the major department heads and then a series of local representatives (taking the place of the Thegns), and a fixed number of people appointed by the rest of the Wizengamot due to achievement (so, when one leaves someone new is invited in). Any office head is allowed to draft and submit laws to the Wizengamot to be screened, and then debated to be passed by vote.
+
+This does make it a predominantly legislative body (though this is set up for post-canon when more separation-of-powers has been done). But as you say, there would certainly be sub-committees working on things, and one of them would be for enforcing the laws they've made (perhaps Wizards see enforcement of laws as an aspect of creating them, and thus have to be dealt with by the same people?).
+
+If you want to largely get rid of the judicial part though, even in canon, it could be argued that Wizards subscribe to the jury being drawn from the victim's peers, so crimes against the law must be tried by the lawmakers. This would add the subtext of Fudge trying Harry for treason in OotP
+:PROPERTIES:
+:Author: Grad_Phi
+:Score: 5
+:DateUnix: 1509612935.0
+:DateShort: 2017-Nov-02
+:END:
+
+
+** While Lords do fit with the universe, should be pretty easy to come up with some alternative systems to play with. What we know about governance in the wizarding world':
+
+- It is either a low power institution or can be easily deadlocked/sidelined. The executive branch seems to hold some power, and while they show concern about public opinion in the books, they do not really worry about other parts of the government.
+- It does a poor job: Multiple wars with pathetic government response would suggest it has a loose hand at governing. Likely without a strong incorporating document / nationalist inspiring institutions.
+- It is old
+- It evolved from a previous form of government. (Not revolutionary)
+- Excludes sentient magical creatured
+
+I would start with your "British wizarding council" and give them some interesting rules. Then imagine how those would evolve into the modern government.
+
+Some ideas on how the old, pre ministry system could have worked:
+
+- Fixed number of government members, membership passing on assassination
+- Fixed Number of government members, membership going to whoever holds some magical trinket
+- Fixed Government Members, when one dies some feat of magic is held to pick successor.
+- Open membership, limited to those who can prove themselves somehow.
+- Some sort of geographical system
+
+Now take that and imagine it evolving to a tamer ministry system. If your council of wizards used assassination to pick successors, maybe the ministry uses a symbolic ritual, where the new member symbolically 'kills' the previous abdicating member when he is retiring.
+
+Have fun with it!
+:PROPERTIES:
+:Author: StarDolph
+:Score: 4
+:DateUnix: 1509580619.0
+:DateShort: 2017-Nov-02
+:END:
+
+
+** About the Wizengamot, there are some key facts that must be remembered
+
+- It is not hereditary
+- It is not exclusive to pure-bloods
+- It is largely redundant
+
+Firstly, Lucius was NOT a member of the Wizengamot, even despite how close he was to Fudge and despite the Malfoys being an ancient pure-blood wizarding family. This should speak volumes to the fact that simply being a rich pure-blood family is not going to get someone into the Wizengamot, even if that rich pure-blood has close ties to the Minister.
+
+Secondly, both Dumbledore and Umbridge were apart of the Wizengamot despite neither being pure-blood and neither coming from wealthy backgrounds. Even if you ignored Pottermore, its basically spelled out in Deathly Hallows that Umbridge isn't a pure-blood by the way she lies about the Slytherin locket, claiming it to be a Selwyn family locket and also claiming she descended from the Selwyn family.
+
+Third, as others have noted, Arthur Weasley was able to get the Muggle Protection Act passed despite his low position. If the Wizengamot was a legislative body, then its made redundant by the fact that seemingly every Ministry official can write up legislation and get it passed. Even if that Ministry official is a low-ranked employee from a family of known blood traitors.
+
+Finally, the Wizengamot is weak. This one is my opinion rather than a canonical fact like the rest. Yes, it can remove the Ministry for Magic under certain conditions, but Muggle Britain has the 'vote of no confidence'. If a Minister for Magic was deemed incompetent and/or a threat to the Statute of Secrecy, then the Wizengamot could have the Minister removed. There is a reason that Tom Riddle's professors (except Dumbledore) thought it was likely that Riddle would end up the Minister for Magic, not the head of the Wizengamot. Since being the Minister for Magic is ultimately a far superior position than being a mere Wizengamot member. Being head of the Auror Office, let alone the Department of Magical Law Enforcement would be a higher position than being a mere Wizengamot member. I'd even argue that being either a headmaster, deputy head, or head of house at Hogwarts would each be more prestigious than being a member of the Wizengamot.
+
+Remember that the wizarding world is a democracy, despite how often fanon forgets this fact. Most notably in DH, Lee Jordan said he would vote for Kingsley, so the wizarding world being a democracy was always canon. Wizards decide the Minister by voting, with the implication being that there are no political parties in the wizarding world since every candidate runs independently from each other. Coupled with the Ministry being made up of employees who gained their position on merit, along with an elected Minister for Magic, its easy to see why the Ministry seems like it never changes. It would be like if David Cameron's 2010 cabinet was made up of the same people as Gordon Brown's cabinet. The Minister of Magic must get democratically elected by the electorate and, like Muggle Britain's prime ministers, the Minister for Magic can be removed by a vote of no confidence. Fudge's actions in OotP in regards to Voldemort would basically be the wizarding equivalent of Chamberlain's failed appeasement of Hitler. The main difference being is that Chamberlain's appeasement gave Britain more time to prepare for the coming war; Fudge's appeasement of Voldemort had no positive outcome for the wizarding world. Hence why Fudge was immediately removed following his failure. I suppose a more fair example would comparing Fudge's forced removal to James Callaghan's removal following the Winter of Discontent in 1979.
+:PROPERTIES:
+:Author: lunanight
+:Score: 3
+:DateUnix: 1509599541.0
+:DateShort: 2017-Nov-02
+:END:
+
+
+** The Wizengamot is, contrary to common fanon, a court, not the wizard equivalent of the House of Lords.
+
+I assume that separation of powers exists to some degree in the magical world, so I guess there's a parliament too, separate from the wizengamot. (maybe call it a senate because that sounds more ancient).
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1509573653.0
+:DateShort: 2017-Nov-02
+:END:
+
+*** I disagree. While I agree it shouldn't be Lord-based, I refuse to believe the wizarding government is anywhere near serious or competent enough to have /two/ functioning bodies, or a clear idea what "separation of powers" even means.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 3
+:DateUnix: 1509577392.0
+:DateShort: 2017-Nov-02
+:END:
+
+
+** think of it like this.
+
+a bunch of savages get together in the wild and figure out how to farm
+
+they stay in a group and split off into a bunch of families
+
+they discover a need to work as a group for common projects like a road to the lake and electing a sheriff to stop jimmy from pissing in the pig trough again
+
+so how do you go about making this group? easy, the people that are generally considered to have power over others are part of it. so basically the dad in every house in the small town.
+
+eventually this gets half-assed because nonsense laws are decided on the fly like no jumping off the tree outside the pub when margeries dogs are nearby.
+
+once this ad-hoc stuff gets big enough they need to formalize a bit. everyone whose already part of the house circle gets grandfathered into the new council which is now a bit more legitimate since they decided to write things down finally. so now instead of meeting at the pub every saturday they have an building with a meeting room and a person to write down their decisions. it's also a bit more difficult to become part of the new council because with formalization comes exclusivity.
+
+also magic exists so the halfassed jackassery that was magically built into their laws was also grandfathered in as well and continues to be added.
+
+everything evolves from there.
+
+half-assed ideas that made it into formalized law and magic when combined with exclusivity over generations results in a sort of Nobility and ruling body for the region who have a better internal understanding of the laws than anyone else. they've come a long way from asking sheriff joe to kick jimmy in the dick again.
+:PROPERTIES:
+:Author: ForumWarrior
+:Score: 1
+:DateUnix: 1509598121.0
+:DateShort: 2017-Nov-02
+:END:
+
+
+** I know this isn't particularly helpful, but I just wanted to say that I do */like/* the lord system, even if it is just an escape to a power fantasy for me.
+:PROPERTIES:
+:Author: motoko_urashima
+:Score: 1
+:DateUnix: 1509609424.0
+:DateShort: 2017-Nov-02
+:END:
+
+
+** I assumed that in cannon the Wizengamot was a general governing and court system filled with hereditary members. As the requirements were hereditary this also led me to automatically assume that the majority of the members don't know the majority of the laws. I feel that making it "Lordless" would logically make it more law-abiding and would pretty much instantly derail almost all plot points concerning the Ministry of Magic.
+
+I mean really, one of the first things I realized when thinking about the rules and laws of the British Wizarding World is that they seem to have mostly decent laws, but no one follows them, even Dumbledore constantly breaks what seem to be existing laws at his leisure.
+:PROPERTIES:
+:Author: LurkerBeDammed
+:Score: 1
+:DateUnix: 1509575023.0
+:DateShort: 2017-Nov-02
+:END:

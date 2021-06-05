@@ -1,0 +1,91 @@
+#+TITLE: FFN appears to have blocked all attempts at downloading stories as epubs.
+
+* FFN appears to have blocked all attempts at downloading stories as epubs.
+:PROPERTIES:
+:Author: chlorinecrownt
+:Score: 3
+:DateUnix: 1608974210.0
+:DateShort: 2020-Dec-26
+:FlairText: Meta
+:END:
+Has this happened before, and the fanficfare/ficsave/ff2epub devs work around it?
+
+
+** Just tried downloading fanfiction.net/s/12741827/1/ through ff2ebook.com/
+
+It went through without issue.
+:PROPERTIES:
+:Author: Faeriniel
+:Score: 3
+:DateUnix: 1608975662.0
+:DateShort: 2020-Dec-26
+:END:
+
+*** Tick "Force update" so it would download and not serve a cached version and it won't work.
+:PROPERTIES:
+:Author: rek-lama
+:Score: 6
+:DateUnix: 1608975991.0
+:DateShort: 2020-Dec-26
+:END:
+
+**** It downloaded the currently listed chapters.
+
+My previous epub (months old) is only 22 chapters long, this fresh download is 37 chapters.
+:PROPERTIES:
+:Author: Faeriniel
+:Score: 1
+:DateUnix: 1608976454.0
+:DateShort: 2020-Dec-26
+:END:
+
+
+** Not working for me either
+:PROPERTIES:
+:Author: TheEmeraldDoe
+:Score: 2
+:DateUnix: 1609003041.0
+:DateShort: 2020-Dec-26
+:END:
+
+*** Did you try updating Fanficfare and use that? The thing ceplma posted suggests that should work
+:PROPERTIES:
+:Author: chlorinecrownt
+:Score: 1
+:DateUnix: 1609003359.0
+:DateShort: 2020-Dec-26
+:END:
+
+
+** [[https://github.com/JimmXinu/FanFicFare/issues/614]]
+:PROPERTIES:
+:Author: ceplma
+:Score: 3
+:DateUnix: 1608979045.0
+:DateShort: 2020-Dec-26
+:END:
+
+*** Awesome, thank you!
+:PROPERTIES:
+:Author: chlorinecrownt
+:Score: 1
+:DateUnix: 1608979153.0
+:DateShort: 2020-Dec-26
+:END:
+
+
+** App makers are currently adapting to the recent changes but so far it doesn't seem like anything world ending has happened. There are ways around cloudflare.
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1609035138.0
+:DateShort: 2020-Dec-27
+:END:
+
+*** The updated calibre works for me, I'm happy
+:PROPERTIES:
+:Author: chlorinecrownt
+:Score: 1
+:DateUnix: 1609036360.0
+:DateShort: 2020-Dec-27
+:END:

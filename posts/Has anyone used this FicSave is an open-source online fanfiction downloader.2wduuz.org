@@ -1,0 +1,146 @@
+#+TITLE: Has anyone used this?: FicSave is an open-source online fanfiction downloader
+
+* [[http://ficsave.com/][Has anyone used this?: FicSave is an open-source online fanfiction downloader]]
+:PROPERTIES:
+:Score: 23
+:DateUnix: 1424312033.0
+:DateShort: 2015-Feb-19
+:FlairText: Misc
+:END:
+
+** I actually asked awhile ago on [[/r/FanFiction]] what peoples preferred methods were to backup fics. The most amazing seemed to be using Calibre with the fanfiction plug-in to download and convert stories to epub files. Lots of neat little things done by it too like updating stories and having a bunch of metatags. I liked it.
+
+Edit: You can download multiple files at once. Yesterday I downloaded over 300.
+:PROPERTIES:
+:Author: Urukubarr
+:Score: 8
+:DateUnix: 1424315272.0
+:DateShort: 2015-Feb-19
+:END:
+
+
+** I also use this one, which is a standalone program:
+
+[[http://www.fanfictiondownloader.net/]]
+:PROPERTIES:
+:Author: deirox
+:Score: 5
+:DateUnix: 1424315321.0
+:DateShort: 2015-Feb-19
+:END:
+
+
+** I have! I love it. It's really great when you are going to be on a plane or long drive.
+:PROPERTIES:
+:Author: grace644
+:Score: 5
+:DateUnix: 1424313409.0
+:DateShort: 2015-Feb-19
+:END:
+
+*** Seconded on this one. It's simple and you don't have to download any programs
+:PROPERTIES:
+:Author: 12th_companion
+:Score: 2
+:DateUnix: 1424377313.0
+:DateShort: 2015-Feb-19
+:END:
+
+
+** It'll probably just get asked to cut off access to FanFiction.net stories, just as FlagFic was. FanFiction.net doesn't like story-download sites because they run the risk of overloading the site's servers when they access dozens of chapters in less than a second.
+
+I wrote a program for myself to download in .html format story chapters (one chapter every ten seconds), which I then convert to a single .epub file with (a rather old version of) the [[http://sigil-ebook.com/about/][Sigil]] software--I like to put a personal touch on my electronic books, especially since I can clean up the formatting in Sigil.
+:PROPERTIES:
+:Author: ToaKraka
+:Score: 4
+:DateUnix: 1424314019.0
+:DateShort: 2015-Feb-19
+:END:
+
+*** They'd have to serve me a DCMA before I'd take the site down.
+:PROPERTIES:
+:Author: waylaidwanderer
+:Score: 2
+:DateUnix: 1424713679.0
+:DateShort: 2015-Feb-23
+:END:
+
+
+*** Which is a shame, really. I think online sites are in a good position to cache stories. Barely even touch ff.net if you've already downloaded a copy of the latest version.
+:PROPERTIES:
+:Author: oneonetwooneonetwo
+:Score: 1
+:DateUnix: 1424354679.0
+:DateShort: 2015-Feb-19
+:END:
+
+**** I don't think something like that would be realistic to implement. For lesser known (or unpopular fanfics) it would be a waste of database space. To check if fanfics have been updated, I'd have to get FicSave to access the URL anyway to check if the number of chapters are the same, and there's no easy way to check if the author has edited or made revisions to an existing chapter either.
+:PROPERTIES:
+:Author: waylaidwanderer
+:Score: 2
+:DateUnix: 1424713571.0
+:DateShort: 2015-Feb-23
+:END:
+
+
+** I use this to stick fics on my kindle. I like it, its nice and straightfoward.
+:PROPERTIES:
+:Author: LoveableJeron
+:Score: 3
+:DateUnix: 1424351916.0
+:DateShort: 2015-Feb-19
+:END:
+
+
+** I use it all the time when I'm know I'm not gonna have network access
+:PROPERTIES:
+:Author: Waldorf_
+:Score: 1
+:DateUnix: 1424313354.0
+:DateShort: 2015-Feb-19
+:END:
+
+
+** YAY!!! Now I can actually download FF.net again.
+:PROPERTIES:
+:Author: Karinta
+:Score: 1
+:DateUnix: 1424314294.0
+:DateShort: 2015-Feb-19
+:END:
+
+
+** Yes I use it all the time. It's amazing for reading where WiFi is not available.
+:PROPERTIES:
+:Author: LazyZo
+:Score: 1
+:DateUnix: 1424314763.0
+:DateShort: 2015-Feb-19
+:END:
+
+
+** I used it at the start of my addiction, now with the higher dosage I take I switched to the Calibre plug-in, as I already used the program to manage my kindle anyways.
+:PROPERTIES:
+:Author: AnthropAntor
+:Score: 1
+:DateUnix: 1424353594.0
+:DateShort: 2015-Feb-19
+:END:
+
+
+** I stick to the calibre fanfiction downloader. Simple to copypasta a ton of fict in with a bunch of chapters and works on most major sites. Now I just need a solid solution for downloading aff ficts when I am on my Linux machine.
+:PROPERTIES:
+:Author: tootiredtobother
+:Score: 1
+:DateUnix: 1424409657.0
+:DateShort: 2015-Feb-20
+:END:
+
+
+** Yep, always use ficsave to download my favorite [[https://fictionpad.com/][fanfiction]] sotries. then i can read them on the train to work.
+:PROPERTIES:
+:Author: SSJGodAnimations
+:Score: 1
+:DateUnix: 1425949770.0
+:DateShort: 2015-Mar-10
+:END:

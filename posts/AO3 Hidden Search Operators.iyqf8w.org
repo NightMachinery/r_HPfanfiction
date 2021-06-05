@@ -1,0 +1,107 @@
+#+TITLE: AO3 Hidden Search Operators
+
+* AO3 Hidden Search Operators
+:PROPERTIES:
+:Author: fireflii
+:Score: 19
+:DateUnix: 1600921830.0
+:DateShort: 2020-Sep-24
+:FlairText: Misc
+:END:
+[[https://archiveofourown.org/admin_posts/10851][AO3 Hidden search operators cheatsheet]]
+
+I'm sure many of y'all know this, but I just found this out, and I thought some others who don't know would appreciate knowing about it, too. Basically these are extra (hidden) search filters to help narrow down your search! I'd recommend checking out the list in the link, but here are some examples that stand out to me:
+
+- -creators: username [exclude works by a particular author]
+- expected_number_of_chapters: 1 [for single chap works only]
+- otp: true [filters out fics with other ships, leaving fics where your pair is the main ship]
+
+There are a lot more, and this is from 2018, so some things listed there are already implemented (such as sorting by kudos or only fics between certain word count). But I think it's worth skimming through to see if there are any operators that might help y'all. :)
+
+[These aren't HP-specific, but I almost exclusively read HP fanfic, so helping this community was the first one to come to mind! You can use them for any fandom you read on AO3.]
+
+
+** Does otp actually work? Ao3 is very funky on pairings, f.ex. searching for dark!Harry and setting it to exclude M/M still pops up ridiculous amounts of slashfics.
+:PROPERTIES:
+:Author: Myreque_BTW
+:Score: 2
+:DateUnix: 1600972301.0
+:DateShort: 2020-Sep-24
+:END:
+
+*** Yes it works; I just tested it on the front page of HP on AO3. I made a quick gif of it [[https://i.gyazo.com/7859f10ee80af492e6785cad2949e425.mp4][here]]. Just gotta tag a relationship, type "otp: true" into the "Search within results", and it pops up fics where the only main pairing is the relationship you chose.
+
+The issue with searching things like Dark Harry and excluding M/M is that it relies on the author to put it in the M/M category in the first place. So if they put it in, for example, "Gen" category but it has a slash pairing, it'll still show up. The best alternative I can think of is to search Dark Harry, exclude M/M, and then exclude popular slash relationship tags. It won't get all of them, but it'll get more of them.
+:PROPERTIES:
+:Author: fireflii
+:Score: 1
+:DateUnix: 1600986387.0
+:DateShort: 2020-Sep-25
+:END:
+
+
+*** I'm guessing that's because those slash fics aren't tagged with M/M in their description. In my experience, if you exclude M/M and also Harry/Draco, Harry/Tom, Harry/Snape you're basically guaranteed a slash free experience.
+:PROPERTIES:
+:Author: T0lias
+:Score: 1
+:DateUnix: 1601000894.0
+:DateShort: 2020-Sep-25
+:END:
+
+**** Honestly, setting it to exclude Harry/Draco doesn't even seem to guarantee you won't see any Harry/Draco... Not that I'm overly against this pairing in particular, but it feels like an overwhelming majority of fics on ao3 is that exact pairing, and it does get boring after a while.
+:PROPERTIES:
+:Author: Myreque_BTW
+:Score: 1
+:DateUnix: 1601016779.0
+:DateShort: 2020-Sep-25
+:END:
+
+
+** Ooh, I had no idea you could exclude authors.
+
+That's fantastic, in both HP and MHA fandom I find that there are certain prolific authors I just don't like at all.
+:PROPERTIES:
+:Author: Wireless-Wizard
+:Score: 1
+:DateUnix: 1600954297.0
+:DateShort: 2020-Sep-24
+:END:
+
+
+** Ooh, didn't know you could filter chapter count. Sometimes I forget about fics, but end up remembering the chapter count of all things (for example, there was one time when I had forgotten a fanfic's title but knew it had 7 chapters. Ended up browsing like 30 pages on a particular ao3 tag, and ctrl+f 7/7 on all of them). Good to know you can filter on it.
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 1
+:DateUnix: 1600956367.0
+:DateShort: 2020-Sep-24
+:END:
+
+
+** the -expected_number_of_chapters: 1 did not work tried -expected_number_of_chapters: 40 and it did not work
+:PROPERTIES:
+:Author: unevenmango99
+:Score: 1
+:DateUnix: 1601092415.0
+:DateShort: 2020-Sep-26
+:END:
+
+*** Don't put a hyphen at the beginning.
+:PROPERTIES:
+:Author: fireflii
+:Score: 1
+:DateUnix: 1601158706.0
+:DateShort: 2020-Sep-27
+:END:
+
+**** u/unevenmango99:
+#+begin_quote
+  expected_number_of_chapters: 1
+#+end_quote
+
+can you only do expected 5/n? or can you do the n/100 like the current number of chapters?
+:PROPERTIES:
+:Author: unevenmango99
+:Score: 1
+:DateUnix: 1601170719.0
+:DateShort: 2020-Sep-27
+:END:

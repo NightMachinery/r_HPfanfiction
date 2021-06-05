@@ -1,0 +1,774 @@
+#+TITLE: (Article?)A Crazily Comprehensive Canon Exploration of: Wizarding Economy
+
+* (Article?)A Crazily Comprehensive Canon Exploration of: Wizarding Economy
+:PROPERTIES:
+:Author: Choice_Caterpillar
+:Score: 149
+:DateUnix: 1584353369.0
+:DateShort: 2020-Mar-16
+:FlairText: Discussion
+:END:
+Hi everyone, it's me again for this second installment (and last for a little while, phew), I was eager to take a look at wizarding economy. So, I tracked down every instance of someone mentioning a price in the books (oh yes... yes I did). This time, I'll put all the sources at the bottom, and the meat of the article up front (there is rather a lot of sources... nb:/I won't use the spoiler tag this time, so spoiler warning for the 7 hp books I guess/).
+
+* Statistics:
+  :PROPERTIES:
+  :CUSTOM_ID: statistics
+  :END:
+To facilitate analysis, I converted every explicit price ever mentioned to a common unit. I chose the *Knut*.
+
+#+begin_quote
+  1 Galleon = 17 Sickles = 493 Knuts
+
+  1 Sickle = 29 Knuts
+#+end_quote
+
+| Item                                              | Price in Knuts |
+|---------------------------------------------------+----------------|
+| Enemy N°1 Harry + his wand Wanted prize           | 98600000       |
+| Sirius Wanted price                               | 4930000        |
+| Initial Harry Wanted price                        | 4930000        |
+| Cursed Necklace                                   | 739500         |
+| Triwizard prize money                             | 493000         |
+| Wanted Death-Eater info                           | 493000         |
+| Daily Prophet lottery                             | 345100         |
+| Burke offer on Goblin-made armor                  | 246500         |
+| Pint of Acromantula Venom                         | 49300          |
+| Fine for bewitching a car                         | 24650          |
+| 16yo Weasley twins whole economies                | 18669          |
+| Twins' common room skieving sales total           | >12818         |
+| Silver unicorn horn                               | 10353          |
+| Twins' Deflagration Deluxe fireworks              | 9860           |
+| “Lovely” Skull                                    | 7888           |
+| Hogwarts Brain Elixir Scam (pint)                 | 5916           |
+| 12 week Apparition Lessons (Hogwarts)             | 5916           |
+| 13yo Hermione, parent's birthday present          | 4930           |
+| Omnioculars (1 pair)                              | 4930           |
+| 17yo Percy Weasley asshole bet                    | 4930           |
+| Black Market Metamorph-Medal Scam                 | 4930           |
+| Slytherin's Locket ^{(Absolute Asshole Bargin})   | 4930           |
+| Unicorn hair (1pc)                                | 4930           |
+| Handful of Venomous Tentacula seeds               | 4930           |
+| /Advanced Potion-Making/ (yr6 potion book)        | 4437           |
+| Ollivander wand                                   | 3451           |
+| 12yo Malfoy casual bet                            | 2465           |
+| Twins' Basic Blaze fireworks                      | 2465           |
+| Twins' fake wand (Bagman appraisal)               | 2465           |
+| Mudblood Wanted prize                             | 2465           |
+| “Many” WeasWizWheez boxes                         | 1741           |
+| Twins' Joke Headless Hat                          | 986            |
+| Mr Weasley's world-cup bet                        | 493            |
+| 2 coffees (running away from date)                | 493            |
+| Overpriced ounce of Dragon liver                  | 464            |
+| Black and gold quill (Scrivenshaft)               | 437            |
+| A lot of candy (Hogwarts Express)                 | 326            |
+| Knight bus ride                                   | 319            |
+| Twins' Canary Cream                               | 203            |
+| Overpriced bag of Knarl quills                    | 174            |
+| Knight bus hot chocolate                          | 58             |
+| Knight bus hot water + custom toothbrush          | 58             |
+| S.P.E.W. membership + badge                       | 58             |
+| Butterbeer (Hog's head)                           | 58             |
+| Bk1 The Daily Prophet ^{(delivered at sea cabin}) | 5              |
+| Scoop of beetle eyes                              | 5              |
+| Bk5 The Daily Prophet ^{(delivered at Hogwarts})  | 1              |
+
+/^{+\}Bk2 Weasley Vault, small pile + corners ~50 sickles? 1943 Knuts?])/
+
+* Synthesis:
+  :PROPERTIES:
+  :CUSTOM_ID: synthesis
+  :END:
+Okay, so that's a lot of data to wrap your head around. All in all... well it's not /absolutely/ horrible. Don't get me wrong, there are a lot of weird inconsistencies, but I meant at least it's better then *totally random* prices... right?
+
+Ollivander wands are apparently an absolute bargain, costing less then a 6th year potions book. I love how Harry overpaid super hard to get out of that tea shop as fast as possible. That necklace Draco bought cost him about as much as the daily prophet's lottery and the Triwizard prize money combined, and I can't help but think that he got scammed. Borgin and Burke seem to be in the business of screwing everyone pretty badly in general.
+
+There is three instances of Hermione getting a Daily Prophet delivered at Hogwarts in book 5, she only pays 1 Knut for it every time. In our first-ever introduction to wizarding moneys, Hagrid gets Harry to pay 5 Knuts for the delivery of the Prophet. Hogwarts might have a deal with the newspaper agency? Or you pay extra for difficulties in delivery?
+
+The priciest ingredient ever mentioned in the books is Acromantula venom, at nearly five time the price of a unicorn horn for a pint. Which sounds a bit ridiculous to me.
+
+The Wanted prizes mentioned by Greyback are absolute lunacy. 10 Galleons for 2 mudbloods is ridiculously low, and I can just imagine Voldemort screwing his little fists in a fit and crying “I'll give anyone a billion million dollars for the capture of Harry Potter!”
+
+As an experiment, if we consider that the price of a beer is about 5$ in a pub (I mean that's steep but let's be generous), we get 58 Knuts ~ 5$, therefore 1 Knut ~ 0.086$, so about 9 cents... but let's imagine that Aberforth is really scamming the kids and we put it at a nice even 10cents. That makes a Sickle 2.90$ and a Galleon 49.30$. So we just have to divide the Knut prices by 10, here are a few exemple:
+
+#+begin_quote
+  Daily prophet: .10/.50$
+
+  Butterbeer: 5.80$
+
+  Bus ride: 31.90$
+
+  Hermione's quill: 43.70$
+
+  Ollivander wand: 345.10$
+
+  6th Year Potion book: 443.70$
+
+  Hermione's birthday present: 493$
+
+  A Unicorn Horn: 1035.30$
+
+  Twins Common room sales: 1281$
+
+  Fine for bewitching a car: 2465$
+
+  Daily Prophet Lottery: 34510$
+
+  Cursed necklace: 73950$
+
+  Sirius/Harry Wanted: 493000$
+
+  Voldemort tantrum: 9860000$
+#+end_quote
+
+Damn, the muggleborn dream is over everyone, apparently you gotta be flushed with cash to enter Hogwarts... I mean it /is/ a British boarding school after all.
+
+/So here we are, I don't know if my Knut value makes any sense, but any lower and they'll basically pay you to read the Daily Prophet xD. I'm gonna head out now, here is a big wall of citation for your entertainment. Bye./
+
+* Sources:
+  :PROPERTIES:
+  :CUSTOM_ID: sources
+  :END:
+
+#+begin_quote
+  ^{bk1 ch5 para 16: “Give him} /^{\}The Daily Prophet owl])/ ^{five Knuts,” said Hagrid sleepily.}
+
+  ^{bk1 ch5 para135: \}...]“Dragon liver, sixteen Sickles an ounce, they're mad.”)
+
+  ^{bk1 ch5 para172: “The gold ones are Galleons,” he explained. “Seventeen silver Sickles to a Galleon and twenty-nine Knuts to a Sickle, it's easy enough.}
+
+  ^{bk1 ch5 para230: \}...]Harry himself examined silver unicorn horns at twenty- one Galleons each and minuscule, glittery-black beetle eyes (five Knuts a scoop).)
+
+  ^{bk1 ch5 para276: He paid seven gold Galleons for his wand, and Mr. Ollivander bowed them from his shop.}
+
+  ^{bk1 ch6 para65: Not wanting to miss anything, he got some of everything and paid the woman eleven silver Sickles and seven bronze Knuts.}
+
+  ^{bk2 ch4 para149: Harry enjoyed the breakneck journey down to the Weasleys' vault, but felt dreadful \}...] when it was opened. There was a very small pile of silver Sickles inside, and just one gold Galleon. Mrs. Weasley felt right into the corners before sweeping the whole lot into her bag.)
+
+  ^{bk2 ch12 para164: Arthur Weasley, Head of the Misuse of Muggle Artifacts Office, was today fined fifty Galleons for bewitching a Muggle car.}
+
+  ^{bk2 ch15 para14: “I'm quite surprised the Mudbloods haven't all packed their bags by now,” Malfoy went on. “Bet you five Galleons the next one dies.}
+
+  ^{bk3 ch1 para50: I couldn't believe it when Dad won the Daily Prophet Draw. Seven hundred galleons! Most of it's gone on this trip, but they're going to buy me a new wand for next year.}
+
+  ^{bk3 ch3 para29: “Eleven Sickles,” said Stan, “but for firteen you get 'ot chocolate, and for fifteen you get an 'ot water bottle an' a toofbrush in the color of your choice.”}
+
+  ^{bk3 ch4 para60: “I've still got ten Galleons,” she said, checking her purse. “It's my birthday in September, and Mum and Dad gave me some money to get myself an early birthday present.”}
+
+  ^{bk3 ch13 para44-46: \}...]“Penelope and I have got a bet on, [...]ten Galleons on the outcome of the match!” [...]“Harry --- make sure you win,” said Percy, in an urgent whisper. “I haven't got ten Galleons. [...]”)
+
+  ^{bk4 ch7 para105: “Oh ... go on then,” said Mr. Weasley. “Let's see ... a Galleon on Ireland to win?”}
+
+  ^{bk4 ch7 para108: “We'll bet thirty-seven Galleons, fifteen Sickles, three Knuts,” said Fred as he and George quickly pooled all their money\}...].)
+
+  ^{bk4 ch7 para110: “Excellent! I haven't seen one} /^{\}a fake wand])/ ^{that convincing in years! I'd pay five Galleons for that!”}
+
+  ^{bk4 ch7 para157: “Omnioculars,” said the saleswizard eagerly. \}...] ten Galleons each.”)
+
+  ^{bk4 ch12 para166: “\}...]An impartial judge will decide which students are most worthy to compete for the Triwizard Cup, the glory of their school, and a thousand Galleons personal prize money.”)
+
+  ^{bk4 ch14 para157: “We start by recruiting members,” said Hermione happily. “I thought two Sickles to join --- that buys a badge \}...])
+
+  ^{bk4 ch21 para37: “Canary Creams!” Fred shouted to the excitable crowd. “George and I invented them --- seven Sickles each, a bargain!”}
+
+  ^{bk5 ch5 para186: “\}...] the Ministry's put a ten-thousand-Galleon price on my head, I can hardly stroll up the street and start handing out leaflets, can I?” said Sirius restlessly.)
+
+  ^{bk5 ch9 para227-237: “Look what Dung's gotten us,” said George, holding out his hand to Harry. It was full of what looked like shriveled black pods.\} ...] “Venomous Tentacula seeds,” said George. “We need them for the Skiving Snackboxes but they're a Class C Non-Tradeable Substance so we've been having a bit of trouble getting hold of them.” | “Ten Galleons the lot, then, Dung?” said Fred. [...] “I'm sorry, lads, but I'm not taking a Knut under twenty.” | “Dung likes his little joke,” Fred said to Harry. | “Yeah, his best one so far has been six Sickles for a bag of knarl quills,” said George. [...] “All right, lads, ten it is, if you'll take 'em quick.”)
+
+  ^{bk5 ch14 para78: But she broke off; the morning post was arriving and, as usual, the Daily Prophet was soaring toward her in the beak of a screech owl, which landed perilously close to the sugar bowl and held out a leg; Hermione pushed a Knut into its leather pouch \}...].)
+
+  ^{bk5 ch16 para58-60: “Three butterbeers, please,” said Hermione. The man reached beneath the counter and pulled up three very dusty, very dirty bottles, which he slammed on the bar. “Six Sickles,” he said.}
+
+  ^{bk 5 ch16 para202: “\}...]Not that she doesn't like you, of course,” she added kindly to Harry while she examined a long black-and-gold quill. [...] “Yes, I think I'll have this one. ...” She went up to the counter and handed over fifteen Sickles and two Knuts, Ron still breathing down her neck.)
+
+  ^{bk5 ch17 para209: “No real use?” said Ron in a strained voice. “Hermione, they've got about twenty-six Galleons already. ...”}
+
+  ^{bk5 ch24 para263: “Headless Hats!” shouted George, as Fred waved a pointed hat decorated with a fluffy pink feather at the watching students. “Two Galleons each --- watch Fred, now!”}
+
+  ^{bk5 ch25 125: The poster “By Order of the Ministry of Magic” offered a thousand-Galleon reward to any witch or wizard with information relating to the recapture of any of the convicts pictured.}
+
+  ^{bk5 ch25 para139 \}+] bk5 ch25 para174: “Two coffees, please,” said Cho. [+} There was total silence within the tea shop. Every eye was upon Harry. He threw a Galleon down onto the table [...] and followed Cho out of the door.)
+
+  ^{bk5 ch28 para113: “If you want to add your name to the waiting list, Hermione, it's five Galleons for your Basic Blaze box and twenty for the Deflagration Deluxe. ...”}
+
+  ^{bk5 ch31 para48: Harry and Ron were much tempted by the bottle of Baruffio's Brain Elixir offered to them by Ravenclaw sixth year Eddie Carmichael, who \}...] was offering the whole pint for a mere twelve Galleons.)
+
+  ^{bk6 ch5 para64: Some idiot's started selling Metamorph-Medals. Just sling them around your neck and you'll be able to change your appearance at will. A hundred thousand disguises, all for ten Galleons!”}
+
+  ^{bk6 ch6 para153: “That's three Galleons, nine Sickles, and a Knut,” said Fred, examining the many boxes in Ron's arms. “Cough up.”}
+
+  ^{bk6 ch6 para217-220: “Is this necklace for sale?” \}...] “If you've got one and a half thousand Galleons,” said Mr. Borgin coldly. “[...]And ... what about this lovely --- um --- skull?” | “Sixteen Galleons.”)
+
+  ^{bk6 ch11 para24: “I'll give Slughorn back the new one} *^{\}Potion Book])*^{, he can't complain, it cost nine Galleons.”}
+
+  ^{bk6 ch13 para26: \}...] She said the locket had been Slytherin's. [...] She didn't seem to have any idea how much it was worth. Happy to get ten Galleons for it. Best bargain we ever made!”)
+
+  ^{bk6 ch17 para57: If you are seventeen years of age,\}...] you are eligible for a twelve-week course of Apparition Lessons from a Ministry of Magic Apparition instructor. [...]Cost: 12 Galleons.)
+
+  ^{bk6 ch20 para97: “Mr. Burke would like to make an improved offer for the goblin-made armor,” said Voldemort. “Five hundred Galleons, he feels it is a more than fair ---”}
+
+  ^{bk6 ch22 para125: “... seems an awful waste not to collect it} /^{\}Aragog's venom])/ ^{... might get a hundred Galleons a pint. ... To be frank, my salary is not large. ...”}
+
+  ^{bk6 ch22 para178: Not long after this, Hagrid became tearful again and pressed the whole unicorn tail upon Slughorn, who pocketed it with cries of, “To friendship! To generosity! To ten Galleons a hair!”}
+
+  ^{bk7 ch12 para69: “And you're supposed to be dying of spattergroit at the Burrow! If anyone shouldn't go, it's Harry, he's got a ten-thousand-Galleon price on his head ---”}
+
+  ^{bk7 ch23 para97: “Who's in charge here?” roared Greyback, covering his moment of inadequacy. “I say that's Potter, and him plus his wand, that's two hundred thousand Galleons right there!}
+
+  ^{bk7 ch23 para100: “Might as well take the lot. We've got two Mudbloods, that's another ten Galleons.\}...]”)
+#+end_quote
+
+
+** I think this is just another point to add to the 'looking for consistency in the Harry Potter world is a fast path to madness and obsession' tally. Rowling may be able to write a world that feels magical and interesting, but she desperately needed a Continuity Editor to keep the series consistent.
+
+I'd be really interested to see one of these where you do each book individually. See if there's any different in each book as opposed to the overarching series.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 69
+:DateUnix: 1584358301.0
+:DateShort: 2020-Mar-16
+:END:
+
+
+** “17yo Percy Weasley asshole bet” has me cracking up, but this is a real fun analysis to look at. Also 10/10 to the twins for their 16yo income. I knew they were good businessmen, but I'd never put a financial context to it before---and am now thoroughly impressed.
+:PROPERTIES:
+:Author: fiddlerontheroof19
+:Score: 35
+:DateUnix: 1584356228.0
+:DateShort: 2020-Mar-16
+:END:
+
+*** u/Aiyania:
+#+begin_quote
+  o Percy Weasley asshole bet” has me cracking up, but this is a real fun analysis to look at. Also 10/10 to the twins for their 16yo income. I knew they were good businessmen, but I'd never put a financial context to it before---and am now thoroughly impr
+#+end_quote
+
+They did end up buying a huge piece of realistate in diagon alley. One of the most famous spots not too far from gringotts has to be worth massive amounts of money. Do you see the kind of traffic that place has during the summer parts of movies? And there just kids out of 6th year, think how big the wizarding world must be for some random kids in school to have scored a top retail location in the magical buisness alley and there basically doing what zonkos was doing but more? Its a little mind boggling and confusing on how that became a reality.
+:PROPERTIES:
+:Author: Aiyania
+:Score: 8
+:DateUnix: 1584382623.0
+:DateShort: 2020-Mar-16
+:END:
+
+**** It doesn't hurt that they were buying at a time when the threat of war was shuttering a number of businesses.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 10
+:DateUnix: 1584387094.0
+:DateShort: 2020-Mar-16
+:END:
+
+
+** I wonder...Knuts, Sickles and Galleons are literally made from bronze, silver, and gold. And 29, 17, and 493 seem like odd values.
+
+Is it possible that Knuts, Sickles and Galleons are three separate currencies rather than one, with varying exchange rates between them and varying buying power depending on the supply of copper/tin, silver and gold? The exchange rate between Knuts and Galleons might have started off at 493-1, but over the course of the books it could have widened or narrowed.\\
+With the second Voldemort war, Nicolas Flamel's death (and the destruction of the gold-making Philosopher's Stone), and ongoing mining activities, the exchange rate and prices on goods could have gone every which way.
+:PROPERTIES:
+:Author: Avaday_Daydream
+:Score: 24
+:DateUnix: 1584358233.0
+:DateShort: 2020-Mar-16
+:END:
+
+*** u/rocketsp13:
+#+begin_quote
+  And 29, 17, and 493 seem like odd values.
+#+end_quote
+
+JKR picked them because 29 and 17 are prime numbers.
+:PROPERTIES:
+:Author: rocketsp13
+:Score: 26
+:DateUnix: 1584361376.0
+:DateShort: 2020-Mar-16
+:END:
+
+
+*** Exchange rates like that are more set by law, at least in modern times (eg, the penny:dollar ratio doesn't actually depend on the price of the raw materials in the penny). Knuts/Sickles/Galleons seems to mimic the british pence/shilling/pound coinage, or at least the earlier one - which was 12p to the shilling, and 20s to the pound. The WW just made it a bit more weird, number wise ;) (though luckily has fewer coins).
+
+My assumption is that there is some sort of reason to not melt down the coins for their metals - probably anti-tampering charms that are woven in to the creation process making it reliable as coinage in a magical world - though the events from the world cup seem to indicate that faking galleons is possible/not too difficult to pass off.
+
+But I wouldn't mind a fic which took the exchange rate/base raw cost of the materials version you put up in your post and used that, it would give it a nice medieval feel.
+:PROPERTIES:
+:Author: matgopack
+:Score: 14
+:DateUnix: 1584365401.0
+:DateShort: 2020-Mar-16
+:END:
+
+
+** You are awesome.
+
+But a simple quill for almost 45$, 500$ birthday presents? Ouch.
+
+For that matter Arthur was able to pay that fine and they are considered poor?!
+
+I want to know how the Weasleys manage to spend the entire Lottery money on a trip to Egypt.
+
+Let's assume that a the cost of getting there is equivalent to that of a plane ticket for each person. Also let's assume that they are staying in some hotel and not with Bill.
+
+That makes the round trip cost around 2*7*372(10% more than a wand costs)=5208$
+
+The cost of staying in hotel, meals, entertainment, tours etc for a month would be around 1800$/person. That would be about
+
+1800*7=12600$
+
+So that totals to 17808$ or a little over half of the lottery price. Where did they spend rest of the money which amounts to roughly 340 Galleons go? Were they staying in the magical equivalent 5 star hotels?
+:PROPERTIES:
+:Author: HHrPie
+:Score: 21
+:DateUnix: 1584357724.0
+:DateShort: 2020-Mar-16
+:END:
+
+*** Honestly, the Weasleys are lower-middle class, not poor. Arthur has a government job that is entry level, but seems to pay decently. They have to scrimp a bit because they have such a large family, and they're at risk of overdrawing on their bank account (or the equivalent) at least once. But on the other hand, they always have plenty of food on their table, even enough to take in a guest, and they take at least one holiday without the windfall of the lottery (Arthur, Molly, and Ginny to Romania in Book 1).
+
+In other words, the Weasleys are poor by British boarding school standards, and Ron is poor compared with his two best friends, the daughter of two working professionals and the heir to a successful cosmetics business. But they're probably doing a fair bit better than JKR herself was when she wrote Book 1.
+:PROPERTIES:
+:Author: TheWhiteSquirrel
+:Score: 23
+:DateUnix: 1584362531.0
+:DateShort: 2020-Mar-16
+:END:
+
+**** I think 'poor' vs 'lower-middle class' is something that's very hard to pin down - and heavily depends on the point of view of the person claiming it. (For instance in the US, /everyone/ wants to be middle class, so the boundary for 'lower-middle class' is set fairly low in a way).
+
+In the case of the Weasleys, food wise they live in the countryside, and they have their own garden + orchard + chickens for food - so it seems like they grow a lot of their own food, instead of having to buy it.
+
+In terms of purchases, we see that they have to save up a lot - not being able to afford another wand for Ron in book 2, re-using old clothing/school items, etc. They're not destitute by any means, and if they had 1-2 kids instead of 7 it's likely they'd be much more comfortable - but I don't know if that alone is /really/ enough to put them into a well-off category.
+
+Part of what makes it difficult is the very narrow view we get of the WW and its economy - because we don't really have many points of comparison for the Weasleys in terms of wealth. I think a fanfic author can adjust them in whatever direction is appropriate for their story because of that.
+:PROPERTIES:
+:Author: matgopack
+:Score: 10
+:DateUnix: 1584381576.0
+:DateShort: 2020-Mar-16
+:END:
+
+
+**** Mr Weasley's job isn't entry level at all. Even before he's promoted he's right there in the thick of things and knows everyone. Lucius Malfoy, for example, specifically targets Ginny because of entirely ordinary aspects of Arthur's job. It's disrespected as opposed to insignificant.
+
+The problem with the Weasleys is that the Wizarding World seems to consist of a society where almost everyone works either in the Ministry or in retail. There also appears to be no tax system whatsoever... it's entirely possible Lucius Malfoy funded the entire wizarding government (which explains /so/ much incidentally it's got to be somewhat true).
+
+It's not even clear what exactly a Ministry job means. People like Mr Weasley are simultaneously bureaucrats and legislators... that's /canon/. Hell, often it seems like Arthur goes on the raids himself, which makes him a lot like a cop (Aurors are, after all, termed /Dark Wizard/ catchers).
+
+The Weasleys aren't working class by our standards but nor are they middle class. They own their own home, the father is more white collar than bobby, they have well off relatives, are ingratiated in /the/ upper echelons of informal and formal society (between the Order and Ministry), their children secure what seem to be sought after jobs, the children go to school with the wealthiest members of society, the father has a personal & political rivalry with the wealthiest wizard and they have large durable household goods (the clock and the car fall in here). By our standards they're much more upper class... but of the land rich, income poor variety (beggared by tax and inheritance laws).
+
+Applying "class" to the wizarding world is just not going to yield useful results. The Weasleys are poor is pretty much all that it makes sense to say. The entire system that underpins notions of class IRL just doesn't exist in the dystopic nightmare that is wizarding Britain.
+
+But if we insist on applying class to the Weasleys... they're upper class. And not just because they're purebloods.
+:PROPERTIES:
+:Author: FrameworkisDigimon
+:Score: 6
+:DateUnix: 1584436148.0
+:DateShort: 2020-Mar-17
+:END:
+
+***** I never got the feeling that Arthur was a legislator. He wrote a bill that was relevant to his office (a bill that personally hurt Malfoy, at that), but legislators often don't write their own bills, while bureaucrats sometimes do--probably more in a parliamentary system, although I'm not familiar enough with it to be sure.
+
+As for class, well, to start, you have the problem that the British notion of class is not the same as the American one, neither of which are exactly the same as economic status.
+
+Jobs in the magical world would be a whole post in itself. Personally, I don't think it's /that/ different from the muggle world, but let's set that aside. Arthur's job may not be entry level, but it's still pretty low level. He only has one person under him; his office isn't given much space or seemingly funding; he's been passed over for promotions (not that he wants one), and most notably in terms of actual class, as you say, he's not respected by the elites.
+
+I'll grant that the family broadly does pretty well for themselves. Most if not all of them are uncommonly intelligent or talented. You're right that they're cash-poor (something that's more common in rural areas anyway, I think). I didn't quite have that worked out before.
+
+But I wouldn't call the Order the upper echelons, even with Dumbledore leading it. It didn't exist for the first four books (and the Weasleys weren't in the first Order), and when it did, it was a secret society of dissidents, not connected with the social or economic structure of society at large.
+:PROPERTIES:
+:Author: TheWhiteSquirrel
+:Score: 2
+:DateUnix: 1584441633.0
+:DateShort: 2020-Mar-17
+:END:
+
+****** u/FrameworkisDigimon:
+#+begin_quote
+  I never got the feeling that Arthur was a legislator.
+#+end_quote
+
+Well, I don't think Wizarding Britain has a legislature. The Wizengamot never does anything other than act as a court in canon... and Dumbledore's presence on it but refusal to be Minister is weird if it is a legislative body.
+
+The important point here is that no-one appears to ask Arthur to prepare his Bill. If that was the case, Lucius would have targeted them instead of Arthur.
+
+#+begin_quote
+  he's not respected by the elites
+#+end_quote
+
+Mostly because he doesn't behave like he's meant to. He likes muggles. He doesn't want a promotion. He has a bunch of kids (in an era where few children is the norm... actually, hardly anyone appears to have relatives, especially grandparents). But when events overtake Arthur's own wishes he rises in importance quite a lot... and I think that reflects the amount of respect his department has in terms of its power rather than its social capital. It's a bit like internal revenue... lots of power, no respect.
+
+#+begin_quote
+  it was a secret society of dissidents, not connected with the social or economic structure of society at large.
+#+end_quote
+
+I think we have to remember that wizarding Britain is a dystopia (not, I think, intentionally but it is very much a dystopia when you look at what we know of it). There's a reason why the Order exists and spends its time infiltrating the Ministry (just like the Death Eaters)... there's no alternative way of doing things (that we meet).
+
+It's pretty obvious that the Death Eaters are a Nazi analogue, but one of the most fundamental things about the NSDAP is that they were a political party. That there is no "official" political arm to Voldemort's cause really makes me think there's no room for it to exist.
+
+I don't, for example, think the Minister is elected in any way shape or form. It seems, to me, to be a process of affirmation; as long as everyone believes the Minister has the support of everyone, the Minister remains in power. And as soon as that support goes? There's no election or any other event that allows the Minister to engage with the public at large. Fudge's actions make so much more sense from this perspective, Scrimgeour's ascension and actions likewise fit in here and, of course, the way that Dumbledore was always having to turn the post down. Shacklebolt's ending up as Minister also fits in here.
+
+Now... it's obviously important that the Weasleys weren't part of the Order the first time (which I ignored before), but Molly's brothers were. I guess that might play into the whole "rich Prewetts and poor Weasleys" dynamic that Muriel's tiara rather implies but direct familial connections to people like Muriel is sort of another line of evidence, now that I think about it.
+
+#+begin_quote
+  the British notion of class is not the same as the American one, neither of which are exactly the same as economic status.
+#+end_quote
+
+American class is much more closely tied to economic status, I think. Having a double barrelled name is not a class signifier in the States but it is in Britain (e.g. listen to Elton John's All the Young Girls Love Alice). But I think even British class notions break down completely when trying to coerce Harry Potter into them (nebulous though class distinctions are).
+:PROPERTIES:
+:Author: FrameworkisDigimon
+:Score: 3
+:DateUnix: 1584447604.0
+:DateShort: 2020-Mar-17
+:END:
+
+
+*** Being able to scrounge up $2500 for a fine doesn't mean you aren't still poor - it could have been all or most of their savings, for instance, or they could have gotten help. Their vault at the start of CoS had 1 Galleon and 58 Sickles - $217 by the OP's numbers.
+
+What appears to be the case, in my opinion, is that they're poor because they have so many children. Arthur's salary - plus their inheritance, like the Burrow + its land - would probably be easily able to provide for 2 kids. But with so many, and at least /some/ decent chunk of their cash wasted on fines and side projects, they have to re-use a bunch of stuff for the younger kids.
+
+The fact that they splurged on the trip after winning the jackpot is a sign that they really aren't great with money - so that probably plays some role in it too. But I think even despite that they'd clearly not be well off.
+
+For the trip, I assume the costs would have been higher (travel wise) in the 90s compared to today - but I think it's likelier that they didn't /really/ spend it all on the trip, JKR just didn't bother itemizing everything. It's certainly possible that costs are higher in the WW for hotels and food and the like, since it's a smaller community with less travel than the muggle world.
+:PROPERTIES:
+:Author: matgopack
+:Score: 18
+:DateUnix: 1584366242.0
+:DateShort: 2020-Mar-16
+:END:
+
+**** Yeah, because it's completely terrible to take children who otherwise never get nice things on an overseas holiday.
+
+Get some perspective.
+
+A windfall isn't going to change your life if you don't have to pay bills, a mortgage/rent, fix durable goods or repair broken things. The Weasleys face none of these problems and appear to live in a society that doesn't have interest, let alone notable investment options.
+
+That lottery could only be spent. And while you might say "but they could have spent it on new robes". That shit's really not at all important or meaningful. The money did not have the capacity to change their lives because as far as we can tell the only time they struggled was for seasonal purchases in a family where those expenses had /already/ maxed out (i.e. Percy's final year).
+
+Unless you're honestly going to sit there and say second hand stuff is so awful it's better than visiting a brother you haven't seen in years? Second hand stuff is not that bad.
+
+The last money related problem we encounter is Ron's Dress Robes. That's a bit like buying an insurance policy specifically to cover being struck by lightning whilst fishing wearing a tutu.
+
+For a real family, it's silly. There's a reason why poor families don't go on overseas holidays, there is always something more important. But for a family that can magic away most of the issues associated with money and which faces an expected decrease in expenses? Nope. It's an entirely sensible decision... unless someone is averse to second hand goods (and as far as we can tell, it's only Ron that is).
+:PROPERTIES:
+:Author: FrameworkisDigimon
+:Score: 3
+:DateUnix: 1584436822.0
+:DateShort: 2020-Mar-17
+:END:
+
+***** You misunderstand me. Going on an overseas holiday is not a problem - but if, as the books imply/say, they spent basically the entire prize they got on it, that's a problem.
+
+Eg, spending 1/4th of it is fine/normal/reasonable - but 90+% is just bad monetary skills in their financial situation, and that could then be applied to why they're in that situation.
+:PROPERTIES:
+:Author: matgopack
+:Score: 3
+:DateUnix: 1584448173.0
+:DateShort: 2020-Mar-17
+:END:
+
+****** You don't understand how it works, do you? You're probably one of those privileged little people who goes away to uni and treats it as a temporary holiday into poverty before graduating and being rich (read: being able to save money). All those povo student stereotypes? That's a lot of peoples' entire lives.
+
+Let's look at things more closely... what extravagances do we see the Weasleys engage in? As far as we can tell their only expenses are food and school related. They barely cover these costs. But they also don't seem to have any other expenses (aside, for a time, possibly petrol). We don't see them buying clothes they don't need. We don't see them eating fancy food (and we do know they've got food production on the property). Maybe they blew all their money way back when on their clock, but I doubt it. The impression I get is that it's an heirloom of some description. If they bought it they'd either know it was one of a kind (and Molly implies it isn't) or be able to ask who else has one.
+
+Are we going to start talking about secret gambling problems or other "hidden" expenses? Because, if we aren't, we're back at the same problem... holiday or not?
+
+Also, holidays are massively expensive. Have you done a holiday on a tight budget? As in, "if we buy this, are we going to have enough money when we get back" tight? Or, hmm, we might need this cash for the petrol to get home, tight? Somehow I doubt it.
+
+[[https://www.vice.com/en_us/article/ev3dde/most-money-advice-is-worthless][Bad budgeting is an anti-poor myth.]] Not having cash isn't a reason to not act human when you have it. If you don't? You die. Either slowly or quickly.
+
+EDIT: let us also remember Ginny was possessed by Voldemort and almost died just before they go on this holiday.
+:PROPERTIES:
+:Author: FrameworkisDigimon
+:Score: 1
+:DateUnix: 1584449363.0
+:DateShort: 2020-Mar-17
+:END:
+
+
+**** Honestly, the Weasley's being "bad with money" is just pure poor character development. In this case, when we assume that the Weasley's are real people and that they have difficulty organising their money, we are relying on assumptions. This could have been something JKR explored or at least justified. Looking back, any real person would have used that money for their kids and shit, not blown it on a holiday; she only did it so that Sirius could see the newspaper, even though there are so many other, better ways of making that happen... Rant over.
+:PROPERTIES:
+:Author: thepotatobitchh
+:Score: 3
+:DateUnix: 1584387728.0
+:DateShort: 2020-Mar-16
+:END:
+
+
+*** u/A_Rabid_Pie:
+#+begin_quote
+  bk2 ch12 para164: Arthur Weasley, Head of the Misuse of Muggle Artifacts Office, was today fined fifty Galleons for bewitching a Muggle car.
+
+  For that matter Arthur was able to pay that fine and they are considered poor?!
+#+end_quote
+
+This is actually a pretty funny situation. The Misuse of Muggle Artifacts Office would be the one in charge of issuing a fine for illegally bewitching a muggle car.
+
+Arthur Weasley is the head of that office.
+
+I.E., Arthur, honorable law-abiding man that he is, seems to have issued himself a fine and paid it.
+
+Now, depending on how the MoM does its accounting, that fine could very well have been collected by the department issuing it rather than the Ministry's general Treasury.
+
+In such a case, Arthur's fine may likely have been directly added to his own department's operating budget. A budget which he has discretion over the use of.
+
+Its entirely possible that Arthur's tiny little department suddenly decided to comp its employees' lunch expenses for a few months or something to that effect after that fortunate windfall of a fine.
+:PROPERTIES:
+:Author: A_Rabid_Pie
+:Score: 7
+:DateUnix: 1584397680.0
+:DateShort: 2020-Mar-17
+:END:
+
+
+*** u/360Saturn:
+#+begin_quote
+  Arthur was able to pay that fine and they are considered poor?!
+
+  I want to know how the Weasleys manage to spend the entire Lottery money on a trip to Egypt.
+#+end_quote
+
+They're probably poor bc they squander their money & then have little left over for the things they actually need.
+
+Obviously this veers into headcanon territory but what if they're constantly paying fines for things their kids do, if Mr Weasley is constantly buying muggle junk from.wizarding eBay, if Mrs Weasley's clock was expensive etc. They could well be chronically bad with money and constantly finding themselves caught short after splashing out.
+:PROPERTIES:
+:Author: 360Saturn
+:Score: 6
+:DateUnix: 1584362120.0
+:DateShort: 2020-Mar-16
+:END:
+
+**** That's my head canon.
+:PROPERTIES:
+:Author: DeDe_at_it_again
+:Score: 4
+:DateUnix: 1584376042.0
+:DateShort: 2020-Mar-16
+:END:
+
+
+** u/ParanoidDrone:
+#+begin_quote
+  6th Year Potion book: 443.70$
+#+end_quote
+
+Honestly, this is pretty standard for college-level textbooks in the US.
+:PROPERTIES:
+:Author: ParanoidDrone
+:Score: 14
+:DateUnix: 1584370152.0
+:DateShort: 2020-Mar-16
+:END:
+
+
+** u/ConsiderableHat:
+#+begin_quote
+  The priciest ingredient ever mentioned in the books is Acromantula venom, at nearly five time the price of a unicorn horn for a pint. Which sounds a bit ridiculous to me.
+#+end_quote
+
+I'll just invite you to take a moment and reflect on how much /you/ would want to be paid to get close enough to a giant, sapient, man-eating spider to milk it of its venom.
+
+Yeah, thought so.
+:PROPERTIES:
+:Author: ConsiderableHat
+:Score: 15
+:DateUnix: 1584372852.0
+:DateShort: 2020-Mar-16
+:END:
+
+*** Sure, but I can just kill it with my magic... approaching a unicorn without killing it (which I assume is super bad mojo, although the only mention of a curse in the books is when you drink its blood) seems like a very hard proposition, especially to cut off its horn.
+:PROPERTIES:
+:Author: Choice_Caterpillar
+:Score: 1
+:DateUnix: 1584395730.0
+:DateShort: 2020-Mar-17
+:END:
+
+**** Killing unicorns is a bad idea. Keeping them and taking advantage of range deaths, natural causes and old age, well, you can charge for rarity value. But - and this is the important part - at no point do you have to risk your life or go anywhere near giant sapient maneating spiders.
+
+As for killing acromantula, sure, but you've got to do it close enough and delicately enough that you don't rupture anything you want to harvest. Since you'd have to pay me a king's ransom to address GIANT SAPIENT MANEATING SPIDERS with anything daintier than massed artillery from at least a kilometre's distance, and another king's ransom not to scour the site with copious incendiaries afterwards to make sure we got all the eggs, we're back to the original problem.
+:PROPERTIES:
+:Author: ConsiderableHat
+:Score: 4
+:DateUnix: 1584399747.0
+:DateShort: 2020-Mar-17
+:END:
+
+***** Aye, true enough. But I still think both prices should be closer to each-other anyway, and very much on the upper echelon of the range (maybe only surpassed by Basilisk venom and other super rare oddities). There is no indication of life-expectancy for unicorns, but I'd wager that's pretty high, and Accromantulas "only" live about 50+ years (and that was Aragog, a specimen cared for by Hagrid throughout its life). That 5 times multiplier doesn't really make sense to me.
+:PROPERTIES:
+:Author: Choice_Caterpillar
+:Score: 1
+:DateUnix: 1584401785.0
+:DateShort: 2020-Mar-17
+:END:
+
+****** Oldest verifiable horse, a brief google tells me, was 62 when he died.
+
+And we're assuming a unicorn has one horn for its whole life. If they can sell them for a hundred quid, we might be talking about something that's shed annually?
+:PROPERTIES:
+:Author: ConsiderableHat
+:Score: 2
+:DateUnix: 1584403324.0
+:DateShort: 2020-Mar-17
+:END:
+
+******* Yeah, but horse blood doesn't save you from the brink of death now, does it?
+
+As for shedding, I don't know. Deers lose their tusks yearly but narwhals don't and theirs never regrow if broken. It depends if the appendage evolved from a tooth or a nail kind of thing, as far as I can ascertain.
+:PROPERTIES:
+:Author: Choice_Caterpillar
+:Score: 1
+:DateUnix: 1584406389.0
+:DateShort: 2020-Mar-17
+:END:
+
+
+** Good write up! I'd always felt like JK Rowling had basically forgotten about sickles and knuts by the middle of the series and just started using galleons as the base currency with sickles and knuts as vague change even though it didn't fit super well. This gives some interesting clarification.
+
+Book 1: 4/6 references include things other than galleons
+
+Book 2: 1/3
+
+Book 3: 1/4
+
+Book 4: 3/7
+
+Book 5: 3/12
+
+Book 6: 1/10
+
+Book 7: 0/3
+
+So while it's not as bad as I remember, the indication is there that galleons became like pounds and sickles and knuts became like vague pence. Most of the references after book 2 that use sickles or knuts are used to highlight one of two things, exactness on the part of the Weasely twins (their bet with Ludo, their charging of Ron) or the general cheapness of something. If not serving one of those purposes, JK was far more likely to simply go with galleons.
+
+This is most likely due to the movies, which I am pretty sure hardly mention sickles and knuts at all.
+
+I did something similar to this once, though I just went off of the things I could remember rather than searching for every reference. I came up with $50 to the galleon as well, using the daily prophet as a guide rather than a beer.
+:PROPERTIES:
+:Author: Kingsonne
+:Score: 7
+:DateUnix: 1584370181.0
+:DateShort: 2020-Mar-16
+:END:
+
+*** I wonder if some of that is down to inflation - over the period of the books being released, inflation accounted for ~30% (ie, £100 in 1997 -> ~£130 in 2007), which could account for part of the difference. Like if she was thinking a galleon was roughly £5 [[http://www.accio-quote.org/articles/2001/0301-comicrelief-staff.htm][according to this transcript]], that would have cut into the value over time if she was just thinking of what a fiver would buy that year.
+
+But I guess it's most likely that once she decided to have a galleon be ~£5, there wasn't a need to use the smaller coinage - even if the prices don't really make much sense with that rate.
+:PROPERTIES:
+:Author: matgopack
+:Score: 4
+:DateUnix: 1584381998.0
+:DateShort: 2020-Mar-16
+:END:
+
+**** Just double checked, the interview that gave us the five pound conversion came out around the same time as the first movie. No guarantee that they are directly tied together, but its possible.
+:PROPERTIES:
+:Author: Kingsonne
+:Score: 2
+:DateUnix: 1584384127.0
+:DateShort: 2020-Mar-16
+:END:
+
+
+** How does a wand cost less than a unicorn hair?
+:PROPERTIES:
+:Author: ChasingAnna
+:Score: 4
+:DateUnix: 1584393233.0
+:DateShort: 2020-Mar-17
+:END:
+
+*** Probably some sort of government subsidy for wands.
+:PROPERTIES:
+:Author: A_Rabid_Pie
+:Score: 5
+:DateUnix: 1584397890.0
+:DateShort: 2020-Mar-17
+:END:
+
+
+*** Yeah, the wand price is definitely one of the less reasonable of the series. Then again, that's a unicorn hair sold as a specialized potion ingredient by Slughorn, who wants to get his money's worth. The price could be a bit lower in other circumstances and if you buy in bulk.
+
+There is also evidence to suggest that Ollivander collects his ingredients himself:
+
+#+begin_quote
+  bk4 ch18 para185: “Ah, now, this is one of mine, isn't it?” said Mr. Ollivander, with much more enthusiasm, as Cedric handed over his wand. “Yes, I remember it well. Containing a single hair from the tail of a particularly fine male unicorn ... must have been seventeen hands; nearly gored me with his horn after I plucked his tail. Twelve and a quarter inches ... ash ... pleasantly springy. It's in fine condition. ... You treat it regularly?”
+#+end_quote
+
+​
+
+But that still doesn't make much sense anyway, unless he's really not a all concerned by money and just barely recuperate his costs (and maybe not even that). He'd be a sort of philanthropist wand-maker who just wish for everyone to have a well-suited wand that actually chose them.
+:PROPERTIES:
+:Author: Choice_Caterpillar
+:Score: 3
+:DateUnix: 1584396689.0
+:DateShort: 2020-Mar-17
+:END:
+
+
+** I'm too lazy to do the rest of the math but aside from the bus ride these prices (the ones converted) seem fairly reasonable. There's even an argument to be made for the price of the bus ride, people can apparate, floo, take portkeys, or fly and so it seems like the pricing is possible if high to us lowly muggles.
+
+Edit: Also, what could explain the lower cost Hermione pays is a student discount.
+:PROPERTIES:
+:Author: Impossible-Poetry
+:Score: 3
+:DateUnix: 1584381639.0
+:DateShort: 2020-Mar-16
+:END:
+
+
+** A bit of supplementary blather:
+
+Coin and metal ratios:
+
+1 Galleon = 17 Sickles = 493 Knuts [1 Sickle = 29 Knuts] or roughly the purchasing difference of
+
+G = $24.65 | S = $1.45 | K = $.05
+
+20th century floating average of Gold:Silver value by weight (despite being set as 1:15 by Revolution-era US govt) is ~1:47
+
+The historical (like since birth of Christ) Silver:Copper ratio is ~1:110
+
+Assuming the goblins would abide by something near these practical ratios...:\\
+.1 oz Au ~= 4.7 oz Ag\\
+1.0 oz Ag ~= 110 oz Cu\\
+.1 oz Gold ~= 517 oz Cu\\
+A single .1 oz Gold Galleon == 17 x .275 oz Silver Sickles == 493 x 1.05 oz Cu/Bronze Knuts
+
+.1 oz Gold Galleons (slightly less than the mass of an old penny) == 17 x .275 oz Silver Sickles (mass roughly like a Susan B Anthony dollar coin) == 493 x 1.05 oz Cu/Bronze Knuts (20% heavier than an Ike silver dollar)
+
+Since a Washington quarter weighs ~.2 oz, those hubcap-sized [more like drink coaster-sized] coins were actually Knuts!
+
+"Err... keep the change."
+
+Or... a 'bronze' Knut is .03 oz silver + .194 oz copper, a substance known as [[https://en.wikipedia.org/wiki/Corinthian_bronze][Corinthian Bronze]]
+
+As we're talking about relative purchasing power, the actual valuable metal content in goblin-made coins may be half of what's represented, the other half counted as anti-forgery charms and craftsmanship. Either that or they run the conversion from muggle cash at twice the metal value. A Galleon may be .1 oz of gold, but it may cost you $80 to buy one in the 90's when gold traded ~ $400/oz.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 2
+:DateUnix: 1584387879.0
+:DateShort: 2020-Mar-16
+:END:
+
+*** *Corinthian bronze*
+
+Corinthian bronze, also named Corinthian brass or æs Corinthiacum, was a highly valuable metal alloy in classical antiquity. It is thought to be an alloy of copper with gold or silver (or both), although it has also been contended that it was simply a very high grade of bronze, or a kind of bronze that was manufactured in Corinth. It is referred to in various ancient texts, but no certain examples of Corinthian bronze exist today. However, it has been increasingly suggested that a number of artefacts previously described as niello in fact use a technique of patinated metal that may be the same as Corinthian bronze and is similar to the Japanese Shakudō.Long a mystery, contemporary thinking is that Corinthian bronze was "a patinated alloy of copper with some gold and silver", perhaps the same as the hesmen kem or "black copper" of Ancient Egyptian art.
+
+--------------
+
+^{[} [[https://www.reddit.com/message/compose?to=kittens_from_space][^{PM}]] ^{|} [[https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme][^{Exclude me}]] ^{|} [[https://np.reddit.com/r/HPfanfiction/about/banned][^{Exclude from subreddit}]] ^{|} [[https://np.reddit.com/r/WikiTextBot/wiki/index][^{FAQ / Information}]] ^{|} [[https://github.com/kittenswolf/WikiTextBot][^{Source}]] ^{] Downvote to remove | v0.28}
+:PROPERTIES:
+:Author: WikiTextBot
+:Score: 1
+:DateUnix: 1584387890.0
+:DateShort: 2020-Mar-16
+:END:
+
+
+** This shouldnt suprise anyone. Before JK said a galleon was 5 quid we all estinated it was 50 quid a galleon with the size of hogwarts class of 91.
+
+Also hermione has 2 dentist parents that own their own firm. Go on yearly vacations each summer. Shes pretty much a spoiled rich girl who likes books more than people because her parents didnt dial it in at home. They dont give a shot about her friends and never offer to help harry ever. Hell hermione would rather date a guy 4 yrs her sr. In bulgaria whos tech a child molester and her parents let her go where ever she wants. Tldr. Her getting a 500 quid bday present is like tossing coin in a well for the granger family
+:PROPERTIES:
+:Author: Aiyania
+:Score: 2
+:DateUnix: 1584407591.0
+:DateShort: 2020-Mar-17
+:END:

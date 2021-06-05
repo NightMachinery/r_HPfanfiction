@@ -1,0 +1,121 @@
+#+TITLE: [Meta] I wish there was a way to see when chapters were uploaded...
+
+* [Meta] I wish there was a way to see when chapters were uploaded...
+:PROPERTIES:
+:Author: Albuca
+:Score: 15
+:DateUnix: 1482560045.0
+:DateShort: 2016-Dec-24
+:FlairText: Meta
+:END:
+In todays quest to find some new fanfiction that isn't abandoned by the author, I thought of a wonderful feature that I wish existed -- the ability to view when individual chapters were posted, as opposed to the last time the story was updated.
+
+Even a basic statistic would be nice (e.g. Author averages 1 new chapter every 2.3 weeks with 12,345 words).
+
+But alas, that feature does not exist. So the hunt for long (100k) fanfics that are either completed or routinely updated shall continue!
+
+
+** You can check the reviews - they usually bunch up after a new chapter was posted.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 8
+:DateUnix: 1482560467.0
+:DateShort: 2016-Dec-24
+:END:
+
+
+** ao3 provides a "full-page index" which provides the dates the chapters were uploaded. On FFN, you can choose to view only the reviews from a specific chapter -- the earliest dates should correspond to the date the chapter was uploaded. hpfanficarchive's chapter index breaks down the word count by chapters, but not the publication dates.
+
+I just check the last publication/updated date -- if it's within the last few weeks or so, I assume it's being regularly updated.
+
+#+begin_quote
+  So the hunt for long (100k) fanfics that are ... completed...
+#+end_quote
+
+This one, at least, is easy: [[https://www.fanfiction.net/book/Harry-Potter/?&srt=1&lan=1&r=10&len=100&s=2][ffn]]
+:PROPERTIES:
+:Author: munin295
+:Score: 4
+:DateUnix: 1482589232.0
+:DateShort: 2016-Dec-24
+:END:
+
+
+** There is a workaround though. Go to Reviews, then select whichever chapter you want to see the post date of from that drop down list on the top right corner, then scroll down. The bottommost review there will have a date on it, which is the post date of that chapter.
+:PROPERTIES:
+:Author: Conneron
+:Score: 2
+:DateUnix: 1482605777.0
+:DateShort: 2016-Dec-24
+:END:
+
+*** Doesn't that only work if people are regularly reviewing? I've posted 340 some chapters between my five posted stories and so far gotten *3* reviews total (and all on the same story).
+:PROPERTIES:
+:Author: Tlalcopan
+:Score: 1
+:DateUnix: 1482610987.0
+:DateShort: 2016-Dec-24
+:END:
+
+**** That is /highly/ unusual. FFN usually rewards higher number of chapters over pretty much anything else. Got a link to your FFN profile that I can check out?
+
+And yeah, you're right. This method only works for stories where people regularly review. But its the only thing we've got right now, which is why I'm suggesting it.
+:PROPERTIES:
+:Author: Conneron
+:Score: 2
+:DateUnix: 1482614582.0
+:DateShort: 2016-Dec-25
+:END:
+
+***** Normally, that would be incredibly unusual. I checked his FFN profile and found he actually hurt himself with bad uploading habits and odd character choice. He uploaded 30+ chapter complete stories all at once and had background chracters as main characters which means everyone wouldn't even see his story. If I were to hazard a guess, most people are looking for stories with Harry, Hermione, or Draco plus additional people for pairings, having none of those three makes your story invisible to most readers.
+:PROPERTIES:
+:Author: Frystix
+:Score: 1
+:DateUnix: 1482619265.0
+:DateShort: 2016-Dec-25
+:END:
+
+
+***** [[https://www.fanfiction.net/u/8383306/Tlalcopan]]
+
+It may be because my stories feature a couple OCs.
+:PROPERTIES:
+:Author: Tlalcopan
+:Score: 1
+:DateUnix: 1482624679.0
+:DateShort: 2016-Dec-25
+:END:
+
+****** You seem to publish everything on a single day for a story. I doubt you need to worry about anyone having any issues finding when your chapters were posted. And might I suggest spreading out your uploads a bit more? You'll get more exposure from that.
+:PROPERTIES:
+:Author: Conneron
+:Score: 5
+:DateUnix: 1482625973.0
+:DateShort: 2016-Dec-25
+:END:
+
+
+** Do you just want to know how often they upload chapters? I actually have a [[https://drive.google.com/file/d/0B3Tcrqwwl20JSkFpUFV5TVdybGM/view?usp=sharing][user script]] that does that among other things.
+
+If you want to actually use it you need a browser extension to do so, generally you can just google 'browsername userscript' and the best choice is the first result. For chrome it's [[https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en][Tampermonkey]] and for Firefox it's [[https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/][Greasemonkey.]]
+
+On Chrome an icon should pop up to the right of the URL bar after installing Tampermoney, click that then click Dashboard on the menu that pops up. That should take you to a new tab where you will be viewing your installed user scripts, click utilities. Left of File there is a button labeled 'Choose File', click that and upload the user script you downloaded.
+
+Once you get to FFN there should be a box near search labeled 'Fanfiction Tools Options', click it. I strongly suggest changing the options so they look like [[https://i.imgur.com/TyZf5ZF.png][this]] or at least similar to it, else you will have to deal with some annoying changes.
+:PROPERTIES:
+:Author: Frystix
+:Score: 2
+:DateUnix: 1482618003.0
+:DateShort: 2016-Dec-25
+:END:
+
+
+** The Fanfiction Tools plugin gives some update ratio that doesn't seem to be taken directly from chapter count + fic start. So there may be some way. I tried to check for the RSS feed for a fic's updates but there seems to be none.
+
+But yeah, try Fanfiction Tools, it has the basic statistics you want.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 1
+:DateUnix: 1482627052.0
+:DateShort: 2016-Dec-25
+:END:

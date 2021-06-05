@@ -1,0 +1,102 @@
+#+TITLE: Fix those Emerald Orbs!
+
+* Fix those Emerald Orbs!
+:PROPERTIES:
+:Author: nuvan
+:Score: 27
+:DateUnix: 1603479966.0
+:DateShort: 2020-Oct-23
+:FlairText: Misc
+:END:
+Do you dislike seeing 'emerald orbs' and similar throughout the story text?
+
+Sure, once in a while is ok, but every time Harry's eyes are mentioned?! That's too much!
+
+Well, here's a fix!
+
+#+begin_example
+  // ==UserScript==
+  // @name         Emerald Orbs
+  // @namespace    http://tampermonkey.net/
+  // @version      0.1
+  // @description  make them go away!
+  // @author       /u/nuvan
+  // @match        https://www.fanfiction.net/s/*
+  // @grant        none
+  // ==/UserScript==
+
+  (function() {
+      'use strict';
+
+      const story = document.getElementById('storytext');
+
+      // if you want to replace other annoying things, add additional entries here
+      // 'replace' can be either a string, a regex, or a function.
+      // 'with' must be a string
+      // if 'replace' is a function, the current node is given as the first argument, and the value of 'with' is the second argument
+      const matchers = [
+          // if you're unfamiliar with regexes, this will replace any occurrence of
+          // 'emerald orbs', 'emerald orb', 'emerald eyes', or 'emerald eye' with just
+          // 'eyes'. It is case-insensitive (that's the i after the ending slash,
+          // and the question mark after the 's' is what allows it to match both the
+          // singular and plural forms of the words
+          { replace: /emerald (orbs?|eyes?)/i, with: 'eyes' },
+          // string matchers like this must match exactly, including case. If the author
+          // forgets to capitalize hardwin somewhere, this won't match it.
+          { replace: 'Hardwin', with: 'Harry' },
+          // this is what a function-based matcher looks like.
+          { replace: (node, replaceWith) => { /* do something here */ }, with: 'someValue' },
+      ];
+
+      const forEach = (arr, fn) => {
+          if (arr.length && arr.length > 0) {
+              for (var i = 0; i < arr.length; i++) {
+                  fn(arr[i]);
+              }
+          }
+      };
+
+      const replaceNodeText = (node) => {
+          if (node.nodeName === '#text') {
+              forEach(matchers, (matcher) => {
+                  if (typeof matcher.replace === 'string') {
+                      node.nodeValue = node.nodeValue.replace(matcher.replace, matcher.with);
+                  } else if (typeof matcher.replace === 'function') {
+                      matcher.replace(node, matcher.with);
+                  } else if (matcher.replace.test(node.nodeValue)) {
+                      // assume a regexp if not string or function
+                      node.nodeValue = node.nodeValue.replace(matcher.replace, matcher.with);
+                  }
+              });
+          } else {
+              forEach(node.childNodes, replaceNodeText);
+          }
+      };
+
+
+      if (story) {
+          const ps = story.getElementsByTagName('p')
+          forEach(ps, replaceNodeText)
+      }
+  })();
+#+end_example
+
+You'll need a browser that supports the TamperMonkey extension, such as Chrome/Firefox/New-Edge. Just create a new userscript and drop this in. It runs on page load, and replaces any occurrences of 'emerald orbs' or 'emerald eyes' with just the word 'eyes'. It's amazing how much more readable some stories get!
+
+
+** My biggest problem is that if there's a fic that abuses any of these phrases, I can't imagine it's worth reading in any other ways
+:PROPERTIES:
+:Author: kdbvols
+:Score: 12
+:DateUnix: 1603499366.0
+:DateShort: 2020-Oct-24
+:END:
+
+
+** In the Naruto fandom this would be "sun-kissed blond hair" or some variant.
+:PROPERTIES:
+:Author: TurboLobstr
+:Score: 3
+:DateUnix: 1603517042.0
+:DateShort: 2020-Oct-24
+:END:

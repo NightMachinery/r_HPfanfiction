@@ -1,0 +1,115 @@
+#+TITLE: Looking g for advice...
+
+* Looking g for advice...
+:PROPERTIES:
+:Author: josef192
+:Score: 6
+:DateUnix: 1601051554.0
+:DateShort: 2020-Sep-25
+:FlairText: Request
+:END:
+I have recently discovered 'hpfanfictionarchive.com' and I was wondering if there is a filtered search tool? Or something similar.
+
+As I really don't want to have to scroll for hours on end.
+
+Thanks
+
+Joe 🙂
+
+
+** If you go to google and type what you're looking for and finish it with 'site:hpfanficarchive.com/stories/viewstory/), then it'll search every story page on the site for anything with as many of those words as it can find and give you that.
+
+If you type your search terms in speech marks ("search terms") then it'll search for that exact phrase (ie. those specific words in that specific order), but if you just type them it'll match whatever it can of those words. So, if you were looking for Harmony fics, you might type:
+
+"Harmony Romance" site:hpfanficarchive.com/stories/viewstory
+
+And then it would give google results of any story page containing the exact phrase 'harmony romance'.
+
+Equally, you could type some stuff in speech marks for the specifics and some not in speech marks if it's optional. For example:
+
+"Harmony" steal a rocketship mars flirty site:hpfanficarchive.com/stories/viewstory
+
+That would give you any stories containing the word Harmony, along with as many of the other words as it could find.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 8
+:DateUnix: 1601054105.0
+:DateShort: 2020-Sep-25
+:END:
+
+*** Damn.... Thanks. Wasn't expecting such an independent response. But thank you.
+
+How do you know all this?
+
+Thanks again 🙂
+:PROPERTIES:
+:Author: josef192
+:Score: 5
+:DateUnix: 1601054301.0
+:DateShort: 2020-Sep-25
+:END:
+
+**** Sure, happy to help. :)
+
+Actually, I learnt that from my degree. I did a Psychology degree, which means a truly spectacular amount of research to find papers and research and such for essays and projects, and ninety-percent of all the academic papers and research archives we had access to were utterly disorganised trash with no proper search systems. So, I had to learn all those specialist little shortcuts and tricks to make the search engines work in order to actually find anything.
+
+EDIT - It also works for near-every other site too. So, if you want to find anything on any site, you can type in the site URL and it'll search every page of that site for the phrase. For example:
+
+site:[[https://www.fanfiction.net/]]
+
+I'm using just FFNet examples for personal ease, but it'll work with Ao3, Wattpad, etc too. You just have to find the equivalent in the URL of that site.
+
+If you wanna only look on story pages, you take up to the story-marker bit of the URL. In FFNet, that's the '/s/' after the fanfiction-dot-net, for example. It's what marks story pages as different from community pages or user pages. That marker is different for other sites though. If you're not sure, just open two different story pages and check what's similar in both URLs. The following will search every story page on FFNet:
+
+site:[[https://www.fanfiction.net/s/]]
+
+If you wanna look only at specific stories, you take the URL and story code and it'll search every page of that story for your phrase. Just make sure you remove the chapter numbers before you search, or it'll only search that single chapter for your phrase. The following would search every chapter in the story 'the last peverell', for example.
+
+site:[[https://www.fanfiction.net/s/12744735/]]
+
+You don't have to type in the https/www bit, just the name-dot-net and afterward part.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 6
+:DateUnix: 1601055630.0
+:DateShort: 2020-Sep-25
+:END:
+
+***** Well damn..... gonna have to look into all of these now!
+
+Thanks for all of the descriptikns and examples. Leaves little room for error ( except on my part) and helps infinitely. Not just for Mr but everyone that takes the information on board.
+
+Thanks again 🙂
+:PROPERTIES:
+:Author: josef192
+:Score: 2
+:DateUnix: 1601056997.0
+:DateShort: 2020-Sep-25
+:END:
+
+****** Sure. Good luck. Feel free to ask any clarifying questions you might have, if you have them before this thread gets archived. Always happy to share the knowledge. :)
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 2
+:DateUnix: 1601068391.0
+:DateShort: 2020-Sep-26
+:END:
+
+
+** I don't believe there is. I wouldn't bother on that sight much anyways. I used it a year ago and there's not a lot of quality stuff on there. Just the really popular ones.
+:PROPERTIES:
+:Author: Deadstar9790
+:Score: 3
+:DateUnix: 1601051757.0
+:DateShort: 2020-Sep-25
+:END:
+
+*** Okay
+
+Thanks 🙂
+:PROPERTIES:
+:Author: josef192
+:Score: 2
+:DateUnix: 1601057118.0
+:DateShort: 2020-Sep-25
+:END:

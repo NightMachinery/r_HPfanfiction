@@ -1,0 +1,127 @@
+#+TITLE: Plot Idea: Physicists Discover Magic
+
+* Plot Idea: Physicists Discover Magic
+:PROPERTIES:
+:Score: 11
+:DateUnix: 1578270072.0
+:DateShort: 2020-Jan-06
+:FlairText: Prompt
+:END:
+In 2021, the ATLAS detector crashed. Closer examination of the data prior to the crash indicated a new type of particle, one which interferes with electronics. This particle seemed to have almost magical properties, and was named the mageon. Papers were published, and devices were built to harness its incredible power. Then the Ministry of Magic caught wind of this discovery, and sent their best Aurors, including Harry Potter, to Obliviate everyone who knew of this discovery. But it was too late...
+
+I was playing around with this plot bunny. What do you guys think?
+
+
+** Why would the wizards care that Muggles have figured out a particular particle, though? Wizards don't generally care what Muggles do, unless it interferes with what wizard do.
+
+​
+
+I've had a similar plot bunny for a while, though. It starts when an American chemistry professor working on battery technology reads a preprint on Arxiv about a clever method that some experimental physicists had discovered for using some self-replicating organic molecules to stabilise a particular quantum effect. He realises that it might be useful for solving a particular problem that he's been having with one of the battery designs he's been considering, and so he gives it to a grad student to work on.
+
+It works quite well, producing an incremental but meaningful improvement (maybe a 10-20% increase in capacity for the weight/size/cost). The student graduates, and they spin off a startup to develop the technology for industrial use. However, some manufacturing prototypes seem to exhibit an anomaly in that the battery discharges more energy than can be accounted for. More precisely, while the energy spent charging it still exceeds the energy released when discharging it (so it doesn't raise "perpetual motion" red flags), the loss is smaller than it should be according to the physics models. This is noted in the technical reports, but it doesn't appear to degrade the battery, so it's chalked up to measurement inaccuracy or an unaccounted energy leak from the environment, so they go ahead and patent the design.
+
+The design is licensed to car, phone, and other manufacturers. Of course, it turns out to be the first instance of Muggles tapping into the same fundamental forces as those that facilitate magic. Because the separation between the wizards and the "no-maj" in North America is rather strict, the first major interaction actually occurs in the UK.
+
+A Muggle driving his brand-new Tesla through rural Scotland sees a castle in the distance, where he previously recalls seeing only fog-covered ruins. (His car battery interfered with the Muggle-Repelling Charm cast over Hogwarts.) Curious, he decides to take a detour, finding a surprisingly well-kept dirt road, but as he drives onto Hogwarts grounds, his car dies. (Hogwarts protective magic interfered with his car battery.) He uses his phone to call a tow truck. The tow truck gets lost, because of Hogwarts's unplottability.
+
+Tired of waiting, our hapless Muggle decides to go to the apparently well-maintained castle to see if he can get help there. He sees an number of students and creatures, and witnesses a number of magical acts. He takes several pictures and videos, including a number of selfies.
+
+Obliviators are called. As per standard operating procedure (updated for developments in Muggle technology), they incapacitate the Muggle, and cast Memory Charms on him and on any electronic devices he has on him. (The refined Memory Charm can affect inanimate objects with meaningful "memory" as well.) They then move him and his car to a nearby rest stop, where he wakes up and resumes his journey (since the car battery works again).
+
+Having arrived at his destination---having made an assumption that he had stopped to take a nap---he discovers that not only does he have a call record to a towing company from the time he was supposedly asleep, but that his phone has photos and videos that he does not recall taking, of what appears to be a visit to a theme park with some /very/ impressive special effects. (The battery in the phone interfered with the Memory Charm.)
+
+The footage is sent around his social network---taken to be special effects---and a week later, he and his mates get into his Tesla to go looking for that theme park again...
+
+Meanwhile, someone finally gets around to following up on that energy discrepancy and trying to track it down...
+
+And so it goes.
+
+​
+
+Anyway, while there are many Wizard vs. Muggle war fics, we need to have some where Muggles and Wizards just kinda-sorta back into each other, with neither having any clue what's going on nor a good idea for how to handle it.
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 12
+:DateUnix: 1578275810.0
+:DateShort: 2020-Jan-06
+:END:
+
+*** The Muggles manage to harness it in devices that can detect and remove magic. Then one of them accidentally removes the wards on some important place, say, St. Mungo's, and the discovery of magical healing methods gets the biologists and psychologists into it as well. The Muggles want a cultural exchange, the Ministry is trying to keep themselves hidden, and an ultra-xenophobic faction, the Neo-Death Eaters, is created due to the belief that the Ministry is handling things ineffectively.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1578277251.0
+:DateShort: 2020-Jan-06
+:END:
+
+**** The social consequences make sense, but why would they develop devices that can detect and remove magic when they don't know there is anything to detect or remove? Or, more precisely, why would they deploy them broadly enough to actually detect some wizards?
+
+They'd have magic detection and containment devices in the labs that study "mageon" physics, but those would be in universities and research centres, not near where they would have nontrivial amount of magic. There, you might have some Muggleborn trip a detector during the Bring your Child to Work day, but that would be an extremely improbable event.
+
+I guess some general survey of mageon levels in the environment could be justified, though the way you write it, it sounds like it's not a particle common in nature.
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 6
+:DateUnix: 1578277867.0
+:DateShort: 2020-Jan-06
+:END:
+
+***** Mageon fields are present in nature, just not in high enough levels to short out electronics. Wizards produce 'mageon attractors', which condense the BMF (Background Mageon Field) into them and allow the field to be manipulated. During an environmental survey, this phenomenon was noted, and classified as dangerous.
+
+Once this was realized, anti-magic devices were created and added to mass-produced electronics to prevent crashes. Some Muggle took their phone near St. Mungo's, nullified the charms, and unveiled it to the world.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1578278486.0
+:DateShort: 2020-Jan-06
+:END:
+
+****** I am not sure that works either. We already have things like ionising radiation that is considered hazardous at high levels, but we don't put Geiger counters or radiation shielding into everything just because.
+
+I think it would make more sense if they started to put mageon-based technology into devices for some other purpose---and then they might need shielding and similar. Then, Muggles with mageon-using devices stumbling onto St. Mungos or some other wizarding institution would make sense.
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 3
+:DateUnix: 1578278959.0
+:DateShort: 2020-Jan-06
+:END:
+
+******* Yeah, that works well! Maybe a mageon-based car, which runs without needing fuel and just uses the BMF?
+
+Thanks so much for your help!
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1578279400.0
+:DateShort: 2020-Jan-06
+:END:
+
+
+*** This sounds really interesting and well thought out! I'd read it!
+:PROPERTIES:
+:Author: ThePuddlestomper
+:Score: 1
+:DateUnix: 1578281670.0
+:DateShort: 2020-Jan-06
+:END:
+
+**** Written by the right kind of author, it could be hilarious.
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 1
+:DateUnix: 1578306995.0
+:DateShort: 2020-Jan-06
+:END:
+
+
+** I think it's a fun idea, as long as we see it from the perspective of a muggle researcher. Harry would have too many gaps in his knowledge compared to the reader that it would not be very fun.
+:PROPERTIES:
+:Author: SurbhitSrivastava
+:Score: 2
+:DateUnix: 1578270922.0
+:DateShort: 2020-Jan-06
+:END:
+
+*** It'll be from the researcher's perspective. As the plot bunny stands, Harry can easily be taken out of the story with almost nothing changing.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1578271061.0
+:DateShort: 2020-Jan-06
+:END:

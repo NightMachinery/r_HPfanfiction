@@ -1,0 +1,268 @@
+#+TITLE: Where do you think is the magical world on the Kardashev scale?
+
+* Where do you think is the magical world on the Kardashev scale?
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 6
+:DateUnix: 1607112448.0
+:DateShort: 2020-Dec-04
+:FlairText: Discussion
+:END:
+Today, humanity is at a power level of 0.73.
+
+If the entire wizarding world decided to put all their effort together to do something that requires a lot of power, where would their maximum power be in comparison?
+
+
+** I don't think wizards would be properly applicable on that scale. Recently my friend and I have been going deeper into HP magic due to our joint HP fanfic, and our consensus has basically been that magic simply doesn't operate on the same rules that mundane stuff does.
+
+Transfiguration as a field is physically impossible. It completely ignores conservation of mass and various other laws of thermodynamics at its pleasure.
+
+Transfiguring an object into iron, as far as we can tell, produces literal iron. As in, the chemical and physical properties of this transfigured object would mimic iron, and thus we can conclude it has been transfigured to molecular iron. Assuming transfiguration works through normal rules, the energy required to smash so many nuclei together is the kind of stuff you see in a sun-sized star.
+
+But all evidence of conjuration (Sirius conjures manacles from thin air, etc) points to it suddenly having appeared from nowhere. One possibility is that he transfigured air to do it, another possibility is that he dragged it from a different universe, and the last possibility is that he literally created it out of nothing. The first two would have required a ridiculous volume of energy that could power the Earth for the next quadrillion years, and the last one would literally break the scale since it would require /infinite/ energy.
+:PROPERTIES:
+:Author: darienqmk
+:Score: 13
+:DateUnix: 1607121425.0
+:DateShort: 2020-Dec-05
+:END:
+
+*** 100% this. Harry practices accio all day and doesn't run out of some finite magical resource. His accio spell actually improves. And conjuration does create it from nothing, making it different from transfiguration (entity-to-entity) which, per JKR, changes something's nature and molecule composition.
+
+Magic changes things on a conceptual nature. And I'd argue something like the fidelius, which hides a secret in someone's soul from all other existence, is something far more powerful and impossible to empirically define, much less place wizards somewhere on frankly rather overblown scale that was basically a thought experiment.
+:PROPERTIES:
+:Author: Impossible-Poetry
+:Score: 13
+:DateUnix: 1607152667.0
+:DateShort: 2020-Dec-05
+:END:
+
+
+** Easy, boring answer: as wizards' magic can completely break the physical laws of the universe, and they can use that magic as much as they like, the only answer to "How much energy do wizards have?" is either "N/A" or "Infinite".
+
+More interesting answer: magic is as much about what you can do with it as how much power you have. Wizards may have the resource to access an arbitrary amount of energy but the ability to deploy that magic is limited by what spells exist. So, for example, there is no "Planet Breaking Curse", meaning wizards cannot just wipe out planets even though some of the things they do (e.g. time travel, travel faster than the speed of light, creation and destruction of matter) might suggest they have the capability to do so.
+
+So I think the more interesting way to approach this question is not to ask about how much power wizards have in the abstract, but rather to ask: with what we know of the spells available to wizards, how much physical energy, in the terms of Muggle science, could they generate?
+
+Now, since wizards can create perpetual motion, the long term answer to that is still "infinite", but that doesn't necessarily result in a large output per hour (though it does neatly solve the problem of entropy). The renewability of a resource is not the same thing as its output.
+
+Ultimately I think this question is really just a question of "how big a turbine can you build?". A wizard can likely enchant a any number of turbines to just spin at whatever speed you like for as long as you like.
+:PROPERTIES:
+:Author: Taure
+:Score: 9
+:DateUnix: 1607160385.0
+:DateShort: 2020-Dec-05
+:END:
+
+*** The neat thing about Kardashev scale is that it's great at measuring absolutely crazy large things. Even with the entire planet filled with turbines, you'd not get very far. I was mostly wondering whether wizards could do massive things like changing the position or temperature of an entire planet.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 2
+:DateUnix: 1607161261.0
+:DateShort: 2020-Dec-05
+:END:
+
+**** u/Taure:
+#+begin_quote
+  Even with the entire planet filled with turbines, you'd not get very far.
+#+end_quote
+
+I don't know. Does a physicist want to chip in with how much energy you'd generate with a unbreakble turbine spinning in a fictionless environment at light speed?
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1607162409.0
+:DateShort: 2020-Dec-05
+:END:
+
+***** At light speed you'd tear the universe apart.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 2
+:DateUnix: 1607162552.0
+:DateShort: 2020-Dec-05
+:END:
+
+****** Then just cast an unbreakable charm on the universe too :p
+:PROPERTIES:
+:Author: Taure
+:Score: 4
+:DateUnix: 1607162650.0
+:DateShort: 2020-Dec-05
+:END:
+
+******* Even at just very very close to light speed you'd probably fry the entire planet just from the cyclotron rads created by charged matter spinning that fast. I'm not really sure if there's any spell that could make something spin that fast though, if one existed chances are the local part of the universe wouldn't exist any more.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 2
+:DateUnix: 1607163010.0
+:DateShort: 2020-Dec-05
+:END:
+
+
+** Can you explain the Kardashev scale?
+:PROPERTIES:
+:Author: Muffin-Dangerous
+:Score: 2
+:DateUnix: 1607114327.0
+:DateShort: 2020-Dec-05
+:END:
+
+*** u/YOB1997:
+#+begin_quote
+  Kardashev scale?
+#+end_quote
+
+The Kardashev scale is a method of measuring a civilization's level of technological advancement based on the amount of energy they are able to use. The measure was proposed by Soviet astronomer Nikolai Kardashev in 1964. The scale has three designated categories:
+
+A Type I civilization, also called a planetary civilization---can use and store all of the energy available on its planet.
+
+A Type II civilization, also called a stellar civilization---can use and control energy at the scale of its planetary system.
+
+A Type III civilization, also called a galactic civilization---can control energy at the scale of its entire host galaxy.
+
+(From Wikipedia.)
+:PROPERTIES:
+:Author: YOB1997
+:Score: 2
+:DateUnix: 1607114522.0
+:DateShort: 2020-Dec-05
+:END:
+
+
+*** It's a scale for measuring absolutely crazy amounts of power.
+
+Kardashev 0: 1 MW, about as much power as the electricity that a small village uses.
+
+Kardashev 1: The power of an entire Earth sized planet.
+
+Kardashev 2: The power of a Sun sized star.
+
+Kardashev 3: The power of a galaxy.
+
+Kardashev 4: Enough spare power to play billiard with galaxy clusters for the fun of it.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 2
+:DateUnix: 1607114652.0
+:DateShort: 2020-Dec-05
+:END:
+
+**** Kardashev 1: The power Earth receives from the sun. So at 0.73 we are generating/using 73% of the power of the light hitting earth (Which is huge).
+
+Honestly, a wizard does not generate/use so much power. I don't mean he is not capable of unleasing a huge amount of energy (although... yeah, not that much either tbh, comparing to a nuclear reactor or all the combustion engines used every day) but of the AVERAGE power a wizard spends/can generate in a year let's say. (Think, a regular or even powerful mage is casting... 10-20? times a day for a few seconds and mostly it's not that intensive and they also sleep so do nothing about 1/3 of the time)
+
+At 0.73 we are generating and using that power almost CONSTANTLY... the energy a wizard generates/uses in a year is rather low, and there are rather few wizards.
+
+So... maybe between 0.01 and 0.1, if you make an average of all the power generated by all the wizards and witches in 1 year :P (and the scale is exponential)
+:PROPERTIES:
+:Author: liviu_baloiu
+:Score: -2
+:DateUnix: 1607119484.0
+:DateShort: 2020-Dec-05
+:END:
+
+***** ehh, when wizards conjure or transfigures objects, the amount of energy required is insane lol.
+
+They sadly vastly outstrip us when it comes to energy production, but they exist outside of the scale since they exist in a diffrent sort of reality.
+:PROPERTIES:
+:Author: JonasS1999
+:Score: 2
+:DateUnix: 1607191079.0
+:DateShort: 2020-Dec-05
+:END:
+
+
+***** Kardashev is a log scale. 0.73 is 1/500th of 1.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 1
+:DateUnix: 1607119786.0
+:DateShort: 2020-Dec-05
+:END:
+
+
+** Type II easily. I think wizards could easily get to all the planets/moons in our solar system within a decade or so, if only because they know about them. Type III on the other hand would be much more difficult. The nearest star is over 4 light-years away and the Milky Way galaxy is 100,000 light-years across, and is full of undiscovered territory. It would take hundreds if not thousands of years to get to everything, even for wizards, and I think they have better things to do with their time.
+:PROPERTIES:
+:Author: YOB1997
+:Score: 0
+:DateUnix: 1607114897.0
+:DateShort: 2020-Dec-05
+:END:
+
+*** Type two isn't necessarily getting to all the planets (a type 1 could do that) but to have net power equivalent to the output of the Sun.
+
+If there's maybe 10 million wizards and witches in the world, to reach just type 1.5 combined everyone would have to be able to produce about the same amount of power as 100 average sized hurricanes.
+
+I think maybe type 1.2 if all the wizards and witches were all on Dumbledore level. 1.5 if they figured out a way to give muggles magic and turned all of humanity into Dumbledore level mages. If most wizards are nowhere near Dumbledore or Voldemort level, the wizarding world would be just barely type 1.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 1
+:DateUnix: 1607115794.0
+:DateShort: 2020-Dec-05
+:END:
+
+**** All wizards are on the level of Albus and Riddle though, its jus that they are more skillfull than every other mage in the world, except for perhaps Gellert.
+
+Skill is the problem, now if all wizards went and had offspring with muggles and tripled their population since from what we can see in canon, being magical is a dominant trait, they could easily enter a far higher level
+:PROPERTIES:
+:Author: JonasS1999
+:Score: 1
+:DateUnix: 1607191248.0
+:DateShort: 2020-Dec-05
+:END:
+
+***** Tripling the population gives them +0.047 on the Kardashev scale. Not a big change really.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 2
+:DateUnix: 1607191530.0
+:DateShort: 2020-Dec-05
+:END:
+
+
+** Lower than muggles. Wizards aren't even aware of the principals behind much of humanity's energy technology as they have no need of it, magic not obeying the conventional laws of physics in any way.
+:PROPERTIES:
+:Author: datcatburd
+:Score: -1
+:DateUnix: 1607156916.0
+:DateShort: 2020-Dec-05
+:END:
+
+*** a single wizard is capable of conjuring/transfiguring objects from thin air, essentially making energy.
+:PROPERTIES:
+:Author: JonasS1999
+:Score: 3
+:DateUnix: 1607191300.0
+:DateShort: 2020-Dec-05
+:END:
+
+**** Which has nothing to do with the scale's rating, which is about usage of existing power.
+
+Again, magic doesn't obey conventional physics. So while yes, wizards can accomplish a lot of shit mundanes can't, in this *specific measure* they'd score lower because it's not really relevant to them. It's like trying to measure the horsepower of a sandwich.
+:PROPERTIES:
+:Author: datcatburd
+:Score: 0
+:DateUnix: 1607215426.0
+:DateShort: 2020-Dec-06
+:END:
+
+***** Depends on how you messure it, e=mc^{2}
+
+It blows the scale if you conjure something that is around a kg, its energy is greater than that of a nuke, and wizards do shit like that in school, can do so without any adherse effects and can summon it virtually endlessly.
+
+They are far beyond us in a comparison in how much energy they use if we use mundane calculations
+:PROPERTIES:
+:Author: JonasS1999
+:Score: 2
+:DateUnix: 1607216896.0
+:DateShort: 2020-Dec-06
+:END:
+
+****** Except the bit where they're not actually using conventional energy sources at all to fuel that conjuring, hence irrelevancy to the Kardashev scale.
+:PROPERTIES:
+:Author: datcatburd
+:Score: 1
+:DateUnix: 1607340457.0
+:DateShort: 2020-Dec-07
+:END:

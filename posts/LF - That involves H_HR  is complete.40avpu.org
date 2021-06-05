@@ -1,0 +1,402 @@
+#+TITLE: LF - That involves H/HR & is complete?
+
+* LF - That involves H/HR & is complete?
+:PROPERTIES:
+:Score: 14
+:DateUnix: 1452423025.0
+:DateShort: 2016-Jan-10
+:FlairText: Request
+:END:
+[deleted]
+
+
+** portkey.org -> filter by length -> go nuts
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1452439744.0
+:DateShort: 2016-Jan-10
+:END:
+
+*** Cheeers pal :)
+:PROPERTIES:
+:Author: Axelnite
+:Score: 2
+:DateUnix: 1452447852.0
+:DateShort: 2016-Jan-10
+:END:
+
+
+*** How exactly do you sort by length? I only see update date in the dropdown, seems a little broken. Thanks
+:PROPERTIES:
+:Author: dayfvid
+:Score: 1
+:DateUnix: 1452460656.0
+:DateShort: 2016-Jan-11
+:END:
+
+**** I don't have an account, so I can't be sure that there isn't another search page available, but I too can't find it. I was poking around their search php and boy is their setup absolute garbage. Every single page is run off index.php instead of a sub page. And their search function has only one visible option yet takes anything from 1-68, and seems at least to me to give different results with each one. Without seeing the server side page, I couldn't tell you which number sorts by word count, if any at all, but you can try it yourself with this link, just change the last variable:
+
+[[http://fanfiction.portkey.org/index.php?act=searchresultsv2&sortby=1][http://fanfiction.portkey.org/index.php?act=searchresultsv2&*sortby=1*]]
+
+edit: lol I figured it out now:
+
+[[http://fanfiction.portkey.org/index.php?act=searchresultsv2&sortby=wordcount]]
+
+I'm an idiot for not trying variations of that first.
+
+[[http://fanfiction.portkey.org/index.php?act=searchresultsv2&sortby=wordcount&status3=1][for completed fics add &status3=1]] and [[http://fanfiction.portkey.org/index.php?act=searchresultsv2&sortby=wordcount&status3=1&ship1=1][for completed HHR fics add &ship1=1]]
+
+edit: [[http://fanfiction.portkey.org/index.php?act=searchresultsv2&sortby=reviews&status3=1&ship1=1][Here's the Completed H/HR sorted by review count]]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1452463310.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+** I'm going to to downvote hell for this, but... linkffn(6439871) - A Different Halloween by robst.
+
+Yes, it's robst, so there's no tension in the story, but he gets this one done before it gets boring. It's long enough (125k words), it's H/Hr, it's complete, and everyone needs to read ONE robst story so they don't have to read all the others.
+:PROPERTIES:
+:Author: rpeh
+:Score: 9
+:DateUnix: 1452469735.0
+:DateShort: 2016-Jan-11
+:END:
+
+*** [[http://www.fanfiction.net/s/6439871/1/][*/A Different Halloween/*]] by [[https://www.fanfiction.net/u/1451358/robst][/robst/]]
+
+#+begin_quote
+  Could a chance meeting change history? What would a different Halloween in 1981 mean for wizarding Britain?
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 20 *|* /Words/: 124,549 *|* /Reviews/: 3,946 *|* /Favs/: 6,508 *|* /Follows/: 4,042 *|* /Updated/: 5/26/2012 *|* /Published/: 10/31/2010 *|* /Status/: Complete *|* /id/: 6439871 *|* /Language/: English *|* /Characters/: <Harry P., Hermione G.> *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=6439871][EPUB]]}
+
+--------------
+
+*Bot v1.3.0 - 9/7/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* Use /ffnbot!delete/ to delete a comment! Use /ffnbot!refresh/ to refresh bot replies!
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1452469755.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+*** Haha, don't worry I am open minded. I have quite the collection now.
+:PROPERTIES:
+:Author: Axelnite
+:Score: 1
+:DateUnix: 1452470520.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+** sunset over Britain// sunrise over Britainn over on Fanfictionauthors.net
+:PROPERTIES:
+:Author: sfjoellen
+:Score: 3
+:DateUnix: 1452446566.0
+:DateShort: 2016-Jan-10
+:END:
+
+*** u/Axelnite:
+#+begin_quote
+  sunrise over Britainn
+#+end_quote
+
+Brilliant, are these the right links? Is Sunset over Britain the first one, followed up by Sunrise?
+
+[[http://bobmin.fanficauthors.net/Sunset_Over_Britain/index/]] [[http://bobmin.fanficauthors.net/Sunrise_Over_Britain/index/]]
+:PROPERTIES:
+:Author: Axelnite
+:Score: 1
+:DateUnix: 1452447552.0
+:DateShort: 2016-Jan-10
+:END:
+
+**** that's them.. especially good are the twins and arthur saving british heritage.
+:PROPERTIES:
+:Author: sfjoellen
+:Score: 1
+:DateUnix: 1452449285.0
+:DateShort: 2016-Jan-10
+:END:
+
+***** Is this the one with the misused repairo?
+:PROPERTIES:
+:Author: xljj42
+:Score: 1
+:DateUnix: 1452456721.0
+:DateShort: 2016-Jan-10
+:END:
+
+****** yeah and a bit of enthusiasm, well.. a LOT of enthusiasm.
+:PROPERTIES:
+:Author: sfjoellen
+:Score: 1
+:DateUnix: 1452474315.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+** linkffn(Hp and the Lost Demon by Angry Hermione)
+
+linkffn(Resistance by Lorien829) - also everything else by Lorien829
+
+In fact, there's a C2 perfect for this request; [[https://www.fanfiction.net/community/Harry-Hermione-fics/41806/99/4/1/0/0/2/0/][Harry Hermione fics]] as managed by witowsmp
+:PROPERTIES:
+:Author: wordhammer
+:Score: 6
+:DateUnix: 1452447273.0
+:DateShort: 2016-Jan-10
+:END:
+
+*** [[http://www.fanfiction.net/s/2746577/1/][*/Resistance/*]] by [[https://www.fanfiction.net/u/636397/lorien829][/lorien829/]]
+
+#+begin_quote
+  Voldemort has launched an all out war on the Wizarding World, and has taken the Boy Who Lived. But he has not reckoned on the resourcefulness of Hermione Granger. HHr developing in a sort of postapocalyptic environment.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 28 *|* /Words/: 269,062 *|* /Reviews/: 386 *|* /Favs/: 443 *|* /Follows/: 187 *|* /Updated/: 2/8/2009 *|* /Published/: 1/10/2006 *|* /Status/: Complete *|* /id/: 2746577 *|* /Language/: English *|* /Genre/: Angst *|* /Characters/: Hermione G., Harry P. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=2746577][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/2993199/1/][*/Harry Potter and the Lost Demon/*]] by [[https://www.fanfiction.net/u/1025347/Angry-Hermione][/Angry Hermione/]]
+
+#+begin_quote
+  Post HBP. HHr. Harry and Hermione's odd behavior during their 6th year explodes into a maelstrom of chaotic, bitter emotions, caused by a strange 'illness.' Help comes from a young, orphaned girl who is much more than she appears.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 53 *|* /Words/: 318,539 *|* /Reviews/: 786 *|* /Favs/: 1,039 *|* /Follows/: 407 *|* /Updated/: 11/10/2007 *|* /Published/: 6/15/2006 *|* /Status/: Complete *|* /id/: 2993199 *|* /Language/: English *|* /Genre/: Adventure/Drama *|* /Characters/: Harry P., Hermione G. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=2993199][EPUB]]}
+
+--------------
+
+*Bot v1.3.0 - 9/7/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* Use /ffnbot!delete/ to delete a comment! Use /ffnbot!refresh/ to refresh bot replies!
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1452447328.0
+:DateShort: 2016-Jan-10
+:END:
+
+
+*** Thanks for the very helpful link, added to the pile. Very helpful! What's a C2?
+:PROPERTIES:
+:Author: Axelnite
+:Score: 1
+:DateUnix: 1452468039.0
+:DateShort: 2016-Jan-11
+:END:
+
+**** Community Collection, or something like that. It's basically a favorites list that is moderated by multiple users usually. They're usually based around one theme, such as HHR above, or by rating, such as the DLP 5star.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1452468808.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+** [[http://fp.fanficauthors.net/Harry_Potter_and_the_Last_Horcrux_final/index/]]
+:PROPERTIES:
+:Author: deirox
+:Score: 2
+:DateUnix: 1452455528.0
+:DateShort: 2016-Jan-10
+:END:
+
+*** Thank you for that, I look forward to reading it :)
+:PROPERTIES:
+:Author: Axelnite
+:Score: 1
+:DateUnix: 1452463646.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+** linkffn(9753533)
+
+linkffn(2746577)
+
+linkffn(6574535)
+:PROPERTIES:
+:Author: pinkerton_jones
+:Score: 2
+:DateUnix: 1452488015.0
+:DateShort: 2016-Jan-11
+:END:
+
+*** [[http://www.fanfiction.net/s/9753533/1/][*/The Catalyst/*]] by [[https://www.fanfiction.net/u/636397/lorien829][/lorien829/]]
+
+#+begin_quote
+  A little girl of mysterious origins will become the driving force that will change the very nature of Harry and Hermione's relationship with each other. Moves from canon, disregards epilogue.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 19 *|* /Words/: 74,205 *|* /Reviews/: 182 *|* /Favs/: 259 *|* /Follows/: 383 *|* /Updated/: 6/10/2015 *|* /Published/: 10/10/2013 *|* /id/: 9753533 *|* /Language/: English *|* /Genre/: Romance/Angst *|* /Characters/: Harry P., Hermione G. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=9753533][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/2746577/1/][*/Resistance/*]] by [[https://www.fanfiction.net/u/636397/lorien829][/lorien829/]]
+
+#+begin_quote
+  Voldemort has launched an all out war on the Wizarding World, and has taken the Boy Who Lived. But he has not reckoned on the resourcefulness of Hermione Granger. HHr developing in a sort of postapocalyptic environment.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 28 *|* /Words/: 269,062 *|* /Reviews/: 386 *|* /Favs/: 444 *|* /Follows/: 187 *|* /Updated/: 2/8/2009 *|* /Published/: 1/10/2006 *|* /Status/: Complete *|* /id/: 2746577 *|* /Language/: English *|* /Genre/: Angst *|* /Characters/: Hermione G., Harry P. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=2746577][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/6574535/1/][*/Unlike a Sister/*]] by [[https://www.fanfiction.net/u/425801/MADharmony][/MADharmony/]]
+
+#+begin_quote
+  Nineteen years ago, Harry told Ron he saw Hermione as his sister. Now Hermione is in danger and Harry's feelings for her begin to change dramatically, jeopardizing everything he once knew. An Epilogue compliant fic. Rated M for sex and language.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 21 *|* /Words/: 225,547 *|* /Reviews/: 1,277 *|* /Favs/: 1,005 *|* /Follows/: 1,336 *|* /Updated/: 3/14/2015 *|* /Published/: 12/21/2010 *|* /id/: 6574535 *|* /Language/: English *|* /Genre/: Romance/Drama *|* /Characters/: Harry P., Hermione G. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=6574535][EPUB]]}
+
+--------------
+
+*Fanfiction-Bot* ^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=%2Fu%2Ftusing][Contact]]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1452488057.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+*** Is Unlike a Sister complete?
+:PROPERTIES:
+:Author: Axelnite
+:Score: 1
+:DateUnix: 1452499660.0
+:DateShort: 2016-Jan-11
+:END:
+
+**** No, it is not. Shame because I remember enjoying it.
+:PROPERTIES:
+:Author: naraclan31fuzzy
+:Score: 2
+:DateUnix: 1452519353.0
+:DateShort: 2016-Jan-11
+:END:
+
+***** Without spoilers, in the case of that story, does it matter if it finished abruptly?
+:PROPERTIES:
+:Author: Axelnite
+:Score: 1
+:DateUnix: 1452525643.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+** "Faery Heroes" is Harry/Hermione/Luna.
+
+linkffn(8233288)
+:PROPERTIES:
+:Author: Starfox5
+:Score: 2
+:DateUnix: 1452466270.0
+:DateShort: 2016-Jan-11
+:END:
+
+*** [[http://www.fanfiction.net/s/8233288/1/][*/Faery Heroes/*]] by [[https://www.fanfiction.net/u/4036441/Silently-Watches][/Silently Watches/]]
+
+#+begin_quote
+  Response to Paladeus's challenge "Champions of Lilith". Harry, Hermione, and Luna get a chance to travel back in time and prevent the hell that England became under Voldemort's rule, and maybe line their pockets while they're at it. Lunar Harmony; plenty of innuendo, dark humor; manipulative!Dumbles; jerk!Snape; bad!Molly, Ron, Ginny
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 50 *|* /Words/: 245,544 *|* /Reviews/: 5,265 *|* /Favs/: 7,093 *|* /Follows/: 6,337 *|* /Updated/: 7/23/2014 *|* /Published/: 6/19/2012 *|* /Status/: Complete *|* /id/: 8233288 *|* /Language/: English *|* /Genre/: Adventure/Humor *|* /Characters/: <Harry P., Hermione G., Luna L.> *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=8233288][EPUB]]}
+
+--------------
+
+*Bot v1.3.0 - 9/7/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* Use /ffnbot!delete/ to delete a comment! Use /ffnbot!refresh/ to refresh bot replies!
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1452466312.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+** I wish my brain were better.
+
+Its fluff of the highest order but I remember a story where Hermione is asked to teach at Hogwarts after withdrawing after the troll incident. Harry is DADA Professor and they rekindle their friendship into relationship as soon as she gets there.
+
+It's writing is passable and its really fluffy but if i remember it I'll link it. You might like it.
+:PROPERTIES:
+:Author: LothartheDestroyer
+:Score: 1
+:DateUnix: 1452563872.0
+:DateShort: 2016-Jan-12
+:END:
+
+*** linkffn(6737085)
+:PROPERTIES:
+:Author: GGJonsson
+:Score: 2
+:DateUnix: 1455395248.0
+:DateShort: 2016-Feb-13
+:END:
+
+**** Thank you future me.
+:PROPERTIES:
+:Author: LothartheDestroyer
+:Score: 1
+:DateUnix: 1455395794.0
+:DateShort: 2016-Feb-14
+:END:
+
+
+** *Heart and Soul*, linkffn(5681042), and *The Accidental Bond*, linkffn(5604382), are both very long (>400k words) and complete. Both are Harry/Multi with Hermione included.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 1
+:DateUnix: 1452461048.0
+:DateShort: 2016-Jan-11
+:END:
+
+*** [[http://www.fanfiction.net/s/5604382/1/][*/The Accidental Bond/*]] by [[https://www.fanfiction.net/u/1251524/kb0][/kb0/]]
+
+#+begin_quote
+  Harry finds that his "saving people thing" is a power of its own, capable of bonding single witches to him if their life is in mortal danger, with unusual results. H/multi
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 33 *|* /Words/: 415,017 *|* /Reviews/: 3,851 *|* /Favs/: 5,227 *|* /Follows/: 4,199 *|* /Updated/: 1/16/2013 *|* /Published/: 12/23/2009 *|* /Status/: Complete *|* /id/: 5604382 *|* /Language/: English *|* /Genre/: Drama/Adventure *|* /Characters/: Harry P. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=5604382][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/5681042/1/][*/Heart and Soul/*]] by [[https://www.fanfiction.net/u/899135/Sillimaure][/Sillimaure/]]
+
+#+begin_quote
+  The Dementor attack on Harry during the summer after his fourth year leaves him on the verge of having his wand snapped. Unwilling to leave anything to chance, Sirius Black sets events into motion which will change Harry's life forever. HP/HG/FD
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 80 *|* /Words/: 752,614 *|* /Reviews/: 5,789 *|* /Favs/: 6,973 *|* /Follows/: 6,069 *|* /Updated/: 1/19/2014 *|* /Published/: 1/19/2010 *|* /Status/: Complete *|* /id/: 5681042 *|* /Language/: English *|* /Genre/: Drama/Romance *|* /Characters/: Harry P., Hermione G., Fleur D. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=5681042][EPUB]]}
+
+--------------
+
+*Bot v1.3.0 - 9/7/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* Use /ffnbot!delete/ to delete a comment! Use /ffnbot!refresh/ to refresh bot replies!
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1452461068.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+*** Nice, two more that have been added to the collection. Cheers mate :)
+:PROPERTIES:
+:Author: Axelnite
+:Score: 1
+:DateUnix: 1452462923.0
+:DateShort: 2016-Jan-11
+:END:

@@ -1,0 +1,198 @@
+#+TITLE: New Reddit editor messes with the bot
+
+* New Reddit editor messes with the bot
+:PROPERTIES:
+:Author: lightningowl15
+:Score: 16
+:DateUnix: 1526696509.0
+:DateShort: 2018-May-19
+:END:
+Just a PSA, I just discovered the new Reddit editor messes with the bot. Well, not really. It's just that instead of having just text, when you try linking it types something like linkffn \ (Seventh Horcrux \ ) but without the spaces, and it's just invisible, so it looks like a properly formatted bot request but doesn't work. So yeah, you need to swap to the markdown editor if you want to use the bot.
+
+In somewhat related news, there's a new spoiler system.
+
+ExampleSpoiler is >!ExampleSpoiler!<
+
+It works on both the old and new Reddit, but the old [ExampleSpoiler](/spoiler) doesn't work on the new Reddit. It just shows up as a hyperlink.
+
+[[/spoiler][Example Spoiler]] Old spoiler, for reference.
+
+
+** Oh right, I should have actually shown how the new editor messes it up. Well, linkffn(Seventh Horcrux), linkffn(The Shadow of Angmar)
+
+First was done with new editor, second was done with markdown editor.
+:PROPERTIES:
+:Author: lightningowl15
+:Score: 5
+:DateUnix: 1526696730.0
+:DateShort: 2018-May-19
+:END:
+
+*** [[https://www.fanfiction.net/s/11115934/1/][*/The Shadow of Angmar/*]] by [[https://www.fanfiction.net/u/5291694/Steelbadger][/Steelbadger/]]
+
+#+begin_quote
+  The Master of Death is a dangerous title; many would claim to hold a position greater than Death. Harry is pulled to Middle-earth by the Witch King of Angmar in an attempt to bring Morgoth back to Arda. A year later Angmar falls and Harry is freed. What will he do with the eternity granted to him? Story begins 1000 years before LotR. Eventual major canon divergence.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{+} ^{Lord} ^{of} ^{the} ^{Rings} ^{Crossover} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{25} ^{*|*} ^{/Words/:} ^{161,907} ^{*|*} ^{/Reviews/:} ^{3,789} ^{*|*} ^{/Favs/:} ^{8,594} ^{*|*} ^{/Follows/:} ^{10,608} ^{*|*} ^{/Updated/:} ^{4/4} ^{*|*} ^{/Published/:} ^{3/15/2015} ^{*|*} ^{/id/:} ^{11115934} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11115934&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11115934&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1526696749.0
+:DateShort: 2018-May-19
+:END:
+
+
+** What does the new spoiler look like, because the old spoiler has looked like a link for me for a long time but it does hide the spoilers properly.
+:PROPERTIES:
+:Author: VegeKale
+:Score: 4
+:DateUnix: 1526701974.0
+:DateShort: 2018-May-19
+:END:
+
+*** A gray bar that you click on to reveal.
+
+I meant that on the new Reddit it's /only/ a hyperlink, it doesn't hide the spoiler at all.
+:PROPERTIES:
+:Author: lightningowl15
+:Score: 2
+:DateUnix: 1526702227.0
+:DateShort: 2018-May-19
+:END:
+
+**** [[https://i.imgur.com/k5hBl7I.jpg][This is a screenshot of your post having clicked on the spoiler link.]]
+
+This is using Relay. I don't know if i'm seeing what you're seeing.
+:PROPERTIES:
+:Author: VegeKale
+:Score: 1
+:DateUnix: 1526703520.0
+:DateShort: 2018-May-19
+:END:
+
+***** I'm on a computer, not mobile. I have no idea how any of this interacts with mobile.
+:PROPERTIES:
+:Author: lightningowl15
+:Score: 2
+:DateUnix: 1526704520.0
+:DateShort: 2018-May-19
+:END:
+
+****** Well, all I know is the hyperlink text hides the spoiler and if you tried to use an example of a different type of spoiler up higher in your post it didn't work but I can't tell if you were just showing us the code or actually using the spoiler tag.
+
+This text should be hidden using the new spoiler tag
+
+But it displays like normal text in my preview panel without displaying the surrounding characters.
+
+Edit: The new spoiler tag doesn't work on Relay for reddit. It just displays the contained text normally.
+:PROPERTIES:
+:Author: VegeKale
+:Score: 1
+:DateUnix: 1526704951.0
+:DateShort: 2018-May-19
+:END:
+
+******* Ah, I see. Welp, looks like /someone/ will always be automatically seeing spoilers xD
+:PROPERTIES:
+:Author: lightningowl15
+:Score: 1
+:DateUnix: 1526706088.0
+:DateShort: 2018-May-19
+:END:
+
+
+** linkffn/(For the Love of Magic/)
+:PROPERTIES:
+:Author: i_has_cosplay
+:Score: 1
+:DateUnix: 1526740073.0
+:DateShort: 2018-May-19
+:END:
+
+*** linkffn(For the Love of Magic)
+:PROPERTIES:
+:Author: i_has_cosplay
+:Score: 1
+:DateUnix: 1526740107.0
+:DateShort: 2018-May-19
+:END:
+
+
+** Not sure what you're saying. All I have is a text input box that looks the same as always (browser on computer). I don't see a "new editor" or a way to switch to a "markdown editor" (the text input box already encodes markdown?).
+
+test: linkffn(The Shadow of Angmar) -- EDIT: I just typed it normally on the computer and it worked fine.
+
+test spoiler: ExampleSpoiler -- EDIT: I typed this normally too and I like it!
+:PROPERTIES:
+:Author: munin295
+:Score: 1
+:DateUnix: 1526748549.0
+:DateShort: 2018-May-19
+:END:
+
+*** [[https://www.fanfiction.net/s/11115934/1/][*/The Shadow of Angmar/*]] by [[https://www.fanfiction.net/u/5291694/Steelbadger][/Steelbadger/]]
+
+#+begin_quote
+  The Master of Death is a dangerous title; many would claim to hold a position greater than Death. Harry is pulled to Middle-earth by the Witch King of Angmar in an attempt to bring Morgoth back to Arda. A year later Angmar falls and Harry is freed. What will he do with the eternity granted to him? Story begins 1000 years before LotR. Eventual major canon divergence.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{+} ^{Lord} ^{of} ^{the} ^{Rings} ^{Crossover} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{25} ^{*|*} ^{/Words/:} ^{161,907} ^{*|*} ^{/Reviews/:} ^{3,789} ^{*|*} ^{/Favs/:} ^{8,594} ^{*|*} ^{/Follows/:} ^{10,608} ^{*|*} ^{/Updated/:} ^{4/4} ^{*|*} ^{/Published/:} ^{3/15/2015} ^{*|*} ^{/id/:} ^{11115934} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11115934&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11115934&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1526748603.0
+:DateShort: 2018-May-19
+:END:
+
+
+*** Yeah, I'm seeing the same old stuff, but I had a quick look around and it does seem Reddit is testing some new designs but only a few users are getting hit by it for now. Could be OP is one of those users.
+
+There's something definitely happening with the spoiler tags, though. Spoliers have never worked for me (something to do with RES and turning off subreddit styles; I just get the spoilered text formatted as a hyperlink) but this thing with the grey boxes is working, so that's nice.
+:PROPERTIES:
+:Author: SilverCookieDust
+:Score: 1
+:DateUnix: 1526751331.0
+:DateShort: 2018-May-19
+:END:
+
+**** u/lightningowl15:
+#+begin_quote
+  Yeah, I'm seeing the same old stuff, but I had a quick look around and it does seem Reddit is testing some new designs but only a few users are getting hit by it for now. Could be OP is one of those users.
+#+end_quote
+
+Oh, not everybody got access to the new reddit? Did not know that haha. Honestly I don't really like it. I mostly just stay on the old reddit. Although, how do they choose who gets it? It isn't by user, because if I log out or go incognito I still go to the new reddit. Is it by IP or something? To get to the old reddit, I have to go to old.reddit.com, so it's not even just a CSS change or something. Oh well.
+
+Yeah, the new spoilers are good. The old one's were really unreliable.
+:PROPERTIES:
+:Author: lightningowl15
+:Score: 1
+:DateUnix: 1526757129.0
+:DateShort: 2018-May-19
+:END:
+
+***** I don't know how it picks, but I went to a different browser to check out the new version, signed in on that browser, and now on my regular it's just changed to the new version. (I am not impressed.) Could be it's been affected by people signing in, so those who stay logged in all the time escaped it.
+:PROPERTIES:
+:Author: SilverCookieDust
+:Score: 1
+:DateUnix: 1526760882.0
+:DateShort: 2018-May-20
+:END:
+
+****** No, I haven't logged out of my account for probably 2 months, so that can't be it. Or I'm pretty sure I haven't.
+
+And I agree, it isn't very good. Or at least it's very /different/, so it'll take a while to get used to it.
+:PROPERTIES:
+:Author: lightningowl15
+:Score: 1
+:DateUnix: 1526779809.0
+:DateShort: 2018-May-20
+:END:

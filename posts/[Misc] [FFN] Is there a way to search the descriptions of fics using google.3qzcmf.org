@@ -1,0 +1,121 @@
+#+TITLE: [Misc] [FFN] Is there a way to search the descriptions of fics using google?
+
+* [Misc] [FFN] Is there a way to search the descriptions of fics using google?
+:PROPERTIES:
+:Author: DarthFarious
+:Score: 6
+:DateUnix: 1446310011.0
+:DateShort: 2015-Oct-31
+:FlairText: Misc
+:END:
+Like the way you can search a site by using
+
+#+begin_example
+   cute kitties site:www.reddit.com
+#+end_example
+
+Is there a similar way to search for descriptions /after/ you have applied appropriate filters like genre, language, characters,etc?
+
+Like say you want a smut with less plot, stories like this are described as smutfic. I think it would be useful
+
+
+** [[https://scryer.darklordpotter.net/][Scryer]] is pretty much exactly what you're asking for and a bit more.
+
+Edit: Damn. Didn't notice you wanted google and not something that only searches ffn.
+:PROPERTIES:
+:Score: 7
+:DateUnix: 1446316390.0
+:DateShort: 2015-Oct-31
+:END:
+
+*** This works too(on mobile now,will try later). As long as I am able to search it works.
+
+I said google because it already had something like that in place
+:PROPERTIES:
+:Author: DarthFarious
+:Score: 2
+:DateUnix: 1446319577.0
+:DateShort: 2015-Oct-31
+:END:
+
+
+** You just need to employ a little bit of Google Fu.
+
+For example, if you want to search for a genre specific story---let's say an adventure:
+
+#+begin_example
+  site:fanfiction.net/s "English Adventure" "your search terms".
+#+end_example
+
+and
+
+#+begin_example
+  site:fanfiction.net/s "English * Adventure" "your search terms"
+#+end_example
+
+This search isolates the adventure tag that always follows the language tag on a story page. (If you simply type "adventure" it will pick up mentions of the word within the story text as well.) The second search covers possibilities where two genres are listed, i.e. Angst/Adventure.
+
+Making use of this logic, you can expand your search to pretty much anything you want.
+:PROPERTIES:
+:Author: Vardso
+:Score: 3
+:DateUnix: 1446311601.0
+:DateShort: 2015-Oct-31
+:END:
+
+*** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1446311799.0
+:DateShort: 2015-Oct-31
+:END:
+
+**** It works as a word/words replacement. Up there, it means that there are one or more words between our search terms. When combined with the quotes, they make for a very useful searching tool.
+:PROPERTIES:
+:Author: Vardso
+:Score: 2
+:DateUnix: 1446312305.0
+:DateShort: 2015-Oct-31
+:END:
+
+
+*** Can you give some more examples of this code ?
+
+I am still a bit confused, thanks.
+:PROPERTIES:
+:Author: DarthFarious
+:Score: 1
+:DateUnix: 1446312363.0
+:DateShort: 2015-Oct-31
+:END:
+
+**** Sure. If you are looking, say, for an angst fic where McG is listed as a main character and butterbeer has to be mentioned, you could search:
+
+#+begin_example
+  site:fanfiction.net/s "Angst" "Minerva M." "butterbeer"
+#+end_example
+
+For the two first terms I used separate quotes this time, because those words rarely show up within story text, so the results won't be spoiled.
+
+Pm me if you want another example or two, so as to not clutter this thread with the same thing over and over.
+:PROPERTIES:
+:Author: Vardso
+:Score: 2
+:DateUnix: 1446313070.0
+:DateShort: 2015-Oct-31
+:END:
+
+
+** Another way to search in Google would be to search the communities. So for example if you wanted to search for the term bashing there's communities that are focused for that.
+
+So your search would be::
+
+Bashing " Harry Potter" site:[[https://www.Fanfiction.net/community]]
+
+Then once you're in the individual community you can sort by favorites.
+:PROPERTIES:
+:Author: harrypotterref
+:Score: 1
+:DateUnix: 1446335512.0
+:DateShort: 2015-Nov-01
+:END:

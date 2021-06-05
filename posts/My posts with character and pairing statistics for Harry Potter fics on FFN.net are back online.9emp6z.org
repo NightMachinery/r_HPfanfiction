@@ -1,0 +1,72 @@
+#+TITLE: My posts with character and pairing statistics for Harry Potter fics on FFN.net are back online!
+
+* My posts with character and pairing statistics for Harry Potter fics on FFN.net are back online!
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 58
+:DateUnix: 1536582806.0
+:DateShort: 2018-Sep-10
+:FlairText: Misc
+:END:
+I've submitted a few times to this sub with some data analysis of HP fics from Fanfiction.net. I'm also the guy that put together [[https://docs.google.com/spreadsheets/d/169NVDxmtgDuwB7O1rZenT_WfKWTJqs-k-cdxd37xHWw/edit?usp=sharing][this list of most popular fics on this sub]]. I took down my site about a year ago (stopped paying for hosting) but decided to put the info back online using a free account. I've had a few people ask about it, so without further ado, here are the new links!
+
+​
+
+| /Link to original Reddit post/                                                                                                                                                                                                                                             | /Link to new blog!/                                                                                                                                                                                                                            |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [[https://www.reddit.com/r/HPfanfiction/comments/3jmxv0/i_analyzed_the_character_choices_from_200000_fics/][I analyzed the character choices from 200,000 fics on FanFiction.net. A look at the most popular pairings and more! [x-post r/harrypotter]]]                   | [[https://uncertaindecisions.wordpress.com/2018/09/07/character-choices-in-harry-potter-fanfiction/][Character choices in Harry Potter fanfiction]]                                                                                            |
+| [[https://www.reddit.com/r/HPfanfiction/comments/3kscd7/i_created_a_harry_potter_fanfiction_summary/][I created a Harry Potter Fanfiction Summary Generator! It prints out random/gibberish summaries just like the posts in /r/SubredditSimulator]]                       | [[https://uncertaindecisions.wordpress.com/2018/09/08/generating-gibberish-from-harry-potter-fanfiction-summaries/][Generating gibberish from Harry Potter fanfiction summaries]]                                                              |
+| [[https://www.reddit.com/r/HPfanfiction/comments/63djh7/how_have_the_popularity_of_ships_in_hp_fanfiction/][How have the popularity of ships in HP fanfiction changed over time? I tried to answer this by looking at all the submissions to FFN over the past 16 years!]] | [[https://uncertaindecisions.wordpress.com/2018/09/09/the-ship-wars-how-the-popularity-of-pairings-in-harry-potter-fanfiction-changed-over-time/][The Ship Wars: How the popularity of pairings in Harry Potter Fanfiction changed over time]] |
+| Update to pairing analysis. I never submitted this, but check it out to see which pairings have only become popular recently (tl;dr Harry/Daphne and Harry/Fleur)                                                                                                          | [[https://uncertaindecisions.wordpress.com/2018/09/09/the-ship-wars-part-ii-another-look-at-the-most-popular-pairings/][The Ship Wars Part II: Another look at the most popular pairings]]                                                     |
+
+​
+
+
+** Thanks!
+
+Do you have a new list for this year? That would be great.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 7
+:DateUnix: 1536585668.0
+:DateShort: 2018-Sep-10
+:END:
+
+*** I found [[https://pushshift.io][pushshift.io]] as an alternative way for searching reddit and holy crap is it amazing.
+
+I have a script running now that's downloading the data from 2018. I should be able to make a new list soon.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 9
+:DateUnix: 1536609547.0
+:DateShort: 2018-Sep-11
+:END:
+
+
+*** Sadly, no. Reddit no longer allows you to search by timestamp, which is how I collected the data from every post in order to count links. The best I can do is get the 1000 top posts from the last year (sorting by "Top") and count URLS from those posts. My dataset from 2017 had ~7000 posts, though, so 1000 posts probably won't be accurate.
+
+I've heard there are 3rd party search tools available, but I haven't looked into them yet.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 6
+:DateUnix: 1536589818.0
+:DateShort: 2018-Sep-10
+:END:
+
+
+** Thanks :)
+:PROPERTIES:
+:Author: gerbilofgondor
+:Score: 2
+:DateUnix: 1536611922.0
+:DateShort: 2018-Sep-11
+:END:
+
+
+** You, sir, are a gentleman and a scholar.
+:PROPERTIES:
+:Author: throwy09
+:Score: 2
+:DateUnix: 1536615535.0
+:DateShort: 2018-Sep-11
+:END:

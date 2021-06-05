@@ -1,0 +1,236 @@
+#+TITLE: [Misc] Adult-FanFiction.org data breach
+
+* [Misc] Adult-FanFiction.org data breach
+:PROPERTIES:
+:Author: Halandar_0815
+:Score: 44
+:DateUnix: 1533551311.0
+:DateShort: 2018-Aug-06
+:FlairText: Misc
+:END:
+#+begin_quote
+  In May 2018, the website for sharing adult-orientated works of fiction known as [[http://www.adult-fanfiction.org/][Adult-FanFiction.Org]] had 186k records exposed in a data breach. The data contained names, email addresses, dates of birth and passwords stored as /both/ MD5 hashes and plain text. AFF did not respond when contacted about the breach and the site was previously reported as compromised on the [[https://vigilante.pw/][Vigilante.pw]] breached database directory.
+#+end_quote
+
+Quote fom [[https://haveibeenpwned.com/]] recent breach.
+
+You may want to change your password... I did not yet receive a mail from them.
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 27
+:DateUnix: 1533557924.0
+:DateShort: 2018-Aug-06
+:END:
+
+*** And yet:
+
+#+begin_quote
+  I used a throwaway email for AFF, and it was listed in the﻿ data breach.
+
+  Literally no other sites have this email but AFF. You can't claim they're making stuff up.﻿
+#+end_quote
+:PROPERTIES:
+:Score: 21
+:DateUnix: 1533574424.0
+:DateShort: 2018-Aug-06
+:END:
+
+
+*** This admin is either incompetent or too proud to admit the truth.
+
+Like the 2 people in that thread, I also used a unique email for privacy reasons, and it was included in the list. How could that happen? There are only so many emails in the breach. Instead of answering, she completely dodges the question by flexing her admin muscles with a threat to delete their account. (For using a unique email for privacy, really?)
+
+She needs to stop what she's doing right now and admit it before the evidence piles up. She's going to look pretty bad after this.
+:PROPERTIES:
+:Author: nhdta
+:Score: 17
+:DateUnix: 1533576914.0
+:DateShort: 2018-Aug-06
+:END:
+
+**** u/Neptune20:
+#+begin_quote
+  This admin is either incompetent or too proud to admit the truth.
+#+end_quote
+
+It has to be a combination of both. I've had an interaction with that admin before over my account there, and they were one of the most arrogant, completely fucking self-important people I've ever talked to.
+
+They also absolutely refused the idea that they didn't know something.
+
+Following this incident I have deleted all of my stories from AFF.
+:PROPERTIES:
+:Author: Neptune20
+:Score: 4
+:DateUnix: 1533665526.0
+:DateShort: 2018-Aug-07
+:END:
+
+
+*** That is interesting. [[https://haveibeenpwned.com][haveibeenpwned.com]] seemed to be reliable to me.
+
+But the posts you are referring to are 30 minutes old. I might give them the benefit of the doubt, but they have to figure this out and give a definite answer.
+
+I can not rely on an admin just saying, no we are safe. He is also correct, that they show no proof of this breach, but this is normal (for security and more often business reasons). I hope they AAF can figure this out with [[https://haveibeenpwned.com][haveibeenpwned.com]] and/or [[https://vigilante.pw][vigilante.pw]]
+:PROPERTIES:
+:Author: Halandar_0815
+:Score: 10
+:DateUnix: 1533558635.0
+:DateShort: 2018-Aug-06
+:END:
+
+**** Stumbled across this thread while doing some research. Troy Hunt is an extremely well respected security researcher, and I'd take his word over the site's administrators. It's possible that the breach was a different database, or an old backup, but Troy Hunt does verification on breaches before he makes them live on Have I Been Pwned. From what I've seen on Twitter, Troy's trying to reach out, and help them.
+:PROPERTIES:
+:Author: HereComesMyDingDong
+:Score: 4
+:DateUnix: 1533685466.0
+:DateShort: 2018-Aug-08
+:END:
+
+
+** u/DemonPossessed:
+#+begin_quote
+#+end_quote
+
+#+begin_example
+  I used a throwaway email for AFF, and it was listed in the﻿ data breach.
+
+  Literally no other sites have this email but AFF. You can’t claim they’re making stuff up.﻿
+#+end_example
+
+I made that post, just checked in again and I find that not only have the admins threatened to delete my account (Good luck finding me). They've slandered Troy Hunt with fake unbacked facts, denied it again, ignored proof and locked the thread while citing fake news.
+
+I'm just happy I was too lazy to actually log in at the time, my account would 100% have 404'd.
+
+I could write entire essays on the stupidity and immaturity of the admins. Even if I wanted to refuse to admit fault, I'd just say "We're looking into it" and eventually send out a global email with a feasible story where the site is also a victim in this.
+
+I'm stuck here wondering if they have something to be guilty of, or are just this stupid. You literally can't deny this, but they're denying it.
+
+Why are they storing passwords in plaintext?
+
+Why were they pissed off when I mentioned my email isn't used on other sites?
+
+It's beyond obvious that they will never notify their users that there was a database breach. If Troy Hunt didn't send me an email, I would never have found out that my security was blown wide open and the admins didn't give a shit.
+:PROPERTIES:
+:Author: DemonPossessed
+:Score: 9
+:DateUnix: 1533617856.0
+:DateShort: 2018-Aug-07
+:END:
+
+*** Thank you for the update. Seems to be more like plain stupid... If there was a European user to sue them now, that will hurt like hell. Not for loosing the data, but for not announcing it.
+:PROPERTIES:
+:Author: Halandar_0815
+:Score: 4
+:DateUnix: 1533618442.0
+:DateShort: 2018-Aug-07
+:END:
+
+
+** The staff there are complete morons anyway. They take legal stances on things related to fanfiction that don't actually reduce anyone's liability and get all high and mighty about it, which is honestly adorable.
+
+It's like watching a bunch of teenagers pretend they're in a Law and Order episode.
+
+EDIT:
+
+Admin in the linked AFF thread proves me right, lol. Someone points out that they used a throwaway email address and it was listed, and the Admin responds with "well I'll be deleting your account then, we don't allow throw away email addresses".
+
+Yeah, I'm just deleting all my stories off their site. Don't want anything to do with them any more.
+:PROPERTIES:
+:Author: Neptune20
+:Score: 7
+:DateUnix: 1533586809.0
+:DateShort: 2018-Aug-07
+:END:
+
+
+** u/Notosk:
+#+begin_quote
+  passwords stored as both MD5 hashes and plain text.
+
+  plain text
+#+end_quote
+
+why?
+:PROPERTIES:
+:Author: Notosk
+:Score: 5
+:DateUnix: 1533585145.0
+:DateShort: 2018-Aug-07
+:END:
+
+*** Hmm I do not know how their site works. But I know there are valid, although very rare, reasons so store password recoverable. But that still should not be plain text. It seems unlikely for AAF.
+:PROPERTIES:
+:Author: Halandar_0815
+:Score: 2
+:DateUnix: 1533585272.0
+:DateShort: 2018-Aug-07
+:END:
+
+
+** Holy shit...md5 AND plain text
+:PROPERTIES:
+:Author: notwhereyouare
+:Score: 10
+:DateUnix: 1533554960.0
+:DateShort: 2018-Aug-06
+:END:
+
+*** u/Clegko:
+#+begin_quote
+  Holy shot...md5 AND plain text
+#+end_quote
+
+Jesus fucking christ...
+:PROPERTIES:
+:Author: Clegko
+:Score: 1
+:DateUnix: 1533555747.0
+:DateShort: 2018-Aug-06
+:END:
+
+
+** I didn't even know that site existed. Heh.
+:PROPERTIES:
+:Author: SnapDraco
+:Score: 5
+:DateUnix: 1533554519.0
+:DateShort: 2018-Aug-06
+:END:
+
+
+** More good stuff in this twitter thread: [[https://twitter.com/troyhunt/status/1026639755826487297]]
+:PROPERTIES:
+:Author: nhdta
+:Score: 2
+:DateUnix: 1533678418.0
+:DateShort: 2018-Aug-08
+:END:
+
+
+** I got on the page and it shows no breach for my accounts e-mail.
+:PROPERTIES:
+:Author: Tobata
+:Score: 1
+:DateUnix: 1533659714.0
+:DateShort: 2018-Aug-07
+:END:
+
+
+** Thanks for the heads up
+:PROPERTIES:
+:Author: DemeRain
+:Score: 1
+:DateUnix: 1533551737.0
+:DateShort: 2018-Aug-06
+:END:
+
+
+** Welp, no one should use that site ever again.
+:PROPERTIES:
+:Author: cyberjellyfish
+:Score: -1
+:DateUnix: 1533557941.0
+:DateShort: 2018-Aug-06
+:END:

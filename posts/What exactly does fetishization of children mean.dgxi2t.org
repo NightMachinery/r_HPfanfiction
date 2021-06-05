@@ -1,0 +1,329 @@
+#+TITLE: What exactly does fetishization of children mean?
+
+* What exactly does fetishization of children mean?
+:PROPERTIES:
+:Author: VulpineKitsune
+:Score: 4
+:DateUnix: 1570898355.0
+:DateShort: 2019-Oct-12
+:FlairText: Discussion
+:END:
+In the recent [[https://www.reddit.com/r/HPfanfiction/comments/dgortn/psa_rule_9_breaking_fics/][Rule 9 Breaking fic list]] thread, one phrase that was thrown around a lot was "fetishization of children" and that fics that have it are bad. But there are also fics (like Blindness) that belong to the "coming of age" category, and since sex is also something common that teenagers do, fics in that (or similar) categories may contain explicit descriptions of underaged characters having sex.
+
+Where exactly is the line between those two? When does it stop being ok and start being fetishization?
+
+
+** As of right now, whatever arbitrary limits set by the mods, apparently, but really, defending fictional depictions of young people in sexual situations is not a hill I'm willing to die on.
+:PROPERTIES:
+:Author: i_atent_ded
+:Score: 32
+:DateUnix: 1570899027.0
+:DateShort: 2019-Oct-12
+:END:
+
+
+** I think the idea is that a scene written specifically to arouse the reader would count as "fetishization of children" (assuming that the people involved are children, that is).
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 12
+:DateUnix: 1570901102.0
+:DateShort: 2019-Oct-12
+:END:
+
+
+** Since the (legal) status of this was brought up a few times (although it isn't directly related to the subthread by [[/u/360Saturn][u/360Saturn]] so I am putting it on top level), I figured I'd post what I know about it. I'm not a lawyer, just someone in an interest in free speech law (listen to the Popehat podcast, donate to ACLU and fire, etc). This is NOT the standard used on Reddit (the reddit rules are stricter), but what is and is not legally allowed keeps coming up.
+
+tl;dr: Pornography involving actual children is restricted and heavily punished. Pornography not involving actual children but is so realistic that it can not be distinguished from those involving actual children is also restricted and heavily punished. There is also a section that gives an increased punishment for *visual* content that is *obscene* (thus already illegal) and contains depictions of children, although this has been challenged and is likely unconstitutional.
+
+----
+
+The first thing you need to know about free speech is that it is enshrined in the constitution ("Congress shall make no law... abridging the freedom of speech"). This is one of the strongest speech protections in the entire world. It is in a part that has been determined to apply to the states, so the rules on free speech apply nationwide, both federally and at the state level.
+
+Since the government does make laws that impact speech, it has been interpreted as meaning the government must make laws in a content-neutral way, unless it has a strong, legitimate government interest for making such a restriction. And if it does make such a restriction, it is bound to do so in the least-restrictive way.
+
+This is an *extremely* high standard. It is the standard that struck down Citizens United (relating to corporate money in public campaigns). It is the standard that struck down 1996's [[https://en.wikipedia.org/wiki/Child_Pornography_Prevention_Act_of_1996][Child Pornography Prevention Act]] (language prohibiting "any visual depiction, including any photograph, film, video, picture, or computer or computer-generated image or picture" that "is, or appears to be, of a minor engaging in sexually explicit conduct.") as an unconstitutional restriction on free speech.
+
+A standard that does hold up is [[https://en.wikipedia.org/wiki/United_States_obscenity_law][obscenity]]. Obscenity is content that meets the following "(a) whether the average person, applying contemporary community standards would find that the work, taken as a whole, appeals to the prurient interest, (b) whether the work depicts or describes, in a patently offensive way, sexual conduct specifically defined by the applicable state law; and (c) whether the work, taken as a whole, lacks serious literary, artistic, political, or scientific value." In modern times, this is *VERY* high standard. Pornography is not universally considered obscene (it almost certainly hits criteria (a), but not always (b) or (c).
+
+The current reigning law on Child Pornography is the [[https://en.wikipedia.org/wiki/PROTECT_Act_of_2003][PROTECT]] act of 2003. Under this law:
+
+- Child Pornography depicting actual children is disallowed (as the government has an interest in protecting children)
+- Virtual Child Pornography, which is indistinguishable from Child Pornography, is disallowed (as the government has an interest in easily enforcing the first part, and allowing this would hinder that)
+- Other visual depictions ("illustration of sex of fictional minors") that are already illegal under the obscenity standard (via the miller test) are targeted for increased penalties.
+
+There are other important parts of this law (for example, relating to child abuse tourism), but these are the parts that apply to this discussion.
+
+That last point is likely on constitutionally shaky ground. There are two well known cases relating to it and downloaded Japanese Manga. The first was of clearly obscene content and he was also charged with other (non illustrated) offenses under the act. The second was solely related illustrated works, a district judge ruled it unconstitutional, and then was settled (and thus has not been reviewed at a higher level).
+
+Well there you are, the state of things legally. Obscenity can relate to written works, but there is nothing specific to depictions of children in the law. For visual works, there is an additional (possibly unconstitutional) punishment, but the work has to already be obscene.
+
+​
+
+The US has one of the strongest free speech protections in the entire world. That is something to be proud of and celebrated, even if that means certain content we might like to restrict has to be tolerated.
+:PROPERTIES:
+:Author: StarDolph
+:Score: 5
+:DateUnix: 1570908392.0
+:DateShort: 2019-Oct-12
+:END:
+
+
+** I think it's a tricky one to place in a worldwide context when most readers, writers and contributors are coming (on reddit at least) through a US lens.
+
+In the original universe context, any character 16 and up is of age - notably one of the reasons why the wizarding 'of adult age' being 17 is not particularly unorthdox; by UK law, 16 year olds can already have sex, get married, join the army, pay taxes, and in the 1990s when the series was set, could smoke, and can iirc still drink in licensed premises when there is an adult family member present.
+
+In the US none of that is the case, and so the wizarding 17 adulthood to US readers and writers undercuts the US adulthood, (yes, 'adulthood' is a loaded term - I'm meaning the age at which one is no longer considered strictly a child) putting characters who are written as (basically) young adults in the original canon and in British writers' stories in an odd limbo to US readers.
+
+Legally speaking if the website forbids it or is cagey with it, then playing by the rules it can't be promoted, right?
+
+To my mind, things going on below that legal age of consent are muddy territory. Yes, of course, younger teenagers /do/ have sex, but to describe it graphically when the act is illegal to actually do, some might see as skirting the line of legality - no matter the setting. I also feel that this is complicated by the status of sex and sexuality in the US on the whole, that conflates nudity, male-centric views, and shock value all together with sex and depcitions of sexual contexts, which makes it easy to lump it all together and blanket ban.
+
+In my mind there is a line between a fade to black reference, and a graphic description, but legally, I'm not sure where or how that line exists, and so I understand admins erring on the side of caution.
+:PROPERTIES:
+:Author: 360Saturn
+:Score: 6
+:DateUnix: 1570899704.0
+:DateShort: 2019-Oct-12
+:END:
+
+*** u/StarDolph:
+#+begin_quote
+  when the act is illegal to actually do, some might see as skirting the line of legality
+#+end_quote
+
+No, it it is not illegal. Depicting illegal acts is not illegal.
+
+There are reasons, however, Reddit may not want legal content.
+
+Free Speech in the US generally trumps those concerns. This is settled law. If you are curious, I can type up the details.
+
+Talking about what reddits rules are isva sensible point of discussion, but let's be clear: the Reddit rules cover significant behavior that is perfectly legal.
+:PROPERTIES:
+:Author: StarDolph
+:Score: 6
+:DateUnix: 1570901776.0
+:DateShort: 2019-Oct-12
+:END:
+
+**** I have to say a lot of the discussion in this thread while interesting, went over my head a bit. Safe to say it is just complex!
+
+To get back to fics and out of legality, as I say, there is a line in my head between pornographic (written) depiction and admittance that such a thing exists. To that end I would expect at least the former to be on banlists to err on the side of caution. The thrust of my comment was a division of the bounds of borderline acceptability between the minds of British and American readers.
+
+Incidentally, also the reason why I find US teen culture so fascinating. The line between 'well-behaved' and 'badly-behaved' actually carries much higher legal weight than it does in the countries and societies that I am more familiar with. I find it fascinating how UK teen shows like Skins, The Inbetweeners, Shameless etc. were seen as shocking and needing to be toned down for a US audience because they involved things that the US viewers found too unbelievable.
+:PROPERTIES:
+:Author: 360Saturn
+:Score: 3
+:DateUnix: 1570924703.0
+:DateShort: 2019-Oct-13
+:END:
+
+
+**** u/NouvelleVoix:
+#+begin_quote
+  No, it it is not illegal. Depicting illegal acts is not illegal.
+#+end_quote
+
+I think he was accidentally conflating "against the law" with "against the site rules."
+
+#+begin_quote
+  There are reasons, however, Reddit may not want legal content.
+
+  Free Speech in the US generally trumps those concerns. This is settled law. If you are curious, I can type up the details.
+#+end_quote
+
+"Free speech" generally applies to government censorship. Companies can censor their websites however they choose.
+:PROPERTIES:
+:Author: NouvelleVoix
+:Score: 4
+:DateUnix: 1570907299.0
+:DateShort: 2019-Oct-12
+:END:
+
+***** His post explicitly states "legal age" and "the legal age of consent", which is not defined by Reddit (at least not in my state). The inference is that Reddit is doing this to avoid legal jeopardy. Which is almost certainly not the case (Reddit is concerned about bad PR and social norms, not the limits of what is allowed legally), but we shouldn't pass the baton from Reddit to the law for content whose speech protection has been clearly determined.
+:PROPERTIES:
+:Author: StarDolph
+:Score: 2
+:DateUnix: 1570908675.0
+:DateShort: 2019-Oct-12
+:END:
+
+
+*** u/Hellstrike:
+#+begin_quote
+  get married
+#+end_quote
+
+Only in Scotland though.
+
+#+begin_quote
+  but legally, I'm not sure where or how that line exists
+#+end_quote
+
+The thing is, there is no unified line, neither in the US (due to state differences and state vs federal regulations) nor elsewhere. For example, here in Germany anything where the characters are below 14 and it is explicit AND realistic, that counts as CP. But, I remember a school lecture where a 15-year-old boy has a fling with a 30ish woman who has a position of power over him (Der Vorleser). Yet we covered that in school and even watched the movie which had nudity and (technically) a rape scene due to the power imbalance, and that movie was rated 6+ while being considered an important piece of national literature by our education Ministry. Which, according to the Mods interpretation of the rules, would be banned here.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 2
+:DateUnix: 1570901417.0
+:DateShort: 2019-Oct-12
+:END:
+
+**** All over I'm pretty sure:
+
+#+begin_quote
+  You can get married or form a civil partnership in England or Wales if you're:
+
+  - 16 or over
+#+end_quote
+
+[[https://www.gov.uk/marriages-civil-partnerships?step-by-step-nav=724aa735-c4cc-4ffc-9136-dcb43668982b][(Gov.uk)]]
+:PROPERTIES:
+:Author: 360Saturn
+:Score: 1
+:DateUnix: 1570901921.0
+:DateShort: 2019-Oct-12
+:END:
+
+***** You need parental consent in England and Wales though, but not in Scotland. That's the reason the border towns became (in)famous for runaway weddings.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 1
+:DateUnix: 1570902278.0
+:DateShort: 2019-Oct-12
+:END:
+
+
+**** u/StarDolph:
+#+begin_quote
+  there is no unified line, neither in the US (due to state differences and state vs federal regulations)
+#+end_quote
+
+The limits of the law are pretty well established. And the federal law is written to be as strict as it can be and be constitutional, so the norm is Nationwide.
+:PROPERTIES:
+:Author: StarDolph
+:Score: 0
+:DateUnix: 1570903225.0
+:DateShort: 2019-Oct-12
+:END:
+
+***** You have plenty of examples where federal and state law clash. I remember reading that the FBI could bust you for possession even if it was legal in your state.
+
+And the age of consent varies a lot between states, with quite a few Romeo and Juliette laws in between. So what's legal in one can very well be illegal in another.
+
+But the "unified" in that line was meant in an international context. Because, while German law is strict on ages below 14, actually considering explicit, realistic scenes CP, everything above is fair game (for writing). The US law does not have the same clauses.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 3
+:DateUnix: 1570905191.0
+:DateShort: 2019-Oct-12
+:END:
+
+****** Age of Consent laws are not standardized, but child pornography is. Again, this is because the US Feds passed a very strict law that was struck down as unconstitutional, and then passed a law that went as far as the court allowed. Thus, state laws cannot be stricter because to do so would be unconstitutional.
+
+First, Child Pornography laws are not related to age of consent laws. The law does not say "two underage adults". Does this seem weird? Maybe, but it is no stranger than the fact you can be legally old enough to enlist in the army but not legally old enough to make your own medical decisions.
+
+The law in question here is the Protect act of 2003. As I stated, it it was at least partially in response to another law that was overboard and got struck down. There is still a (very narrow) chunk of it that is likely unconstitutional, but overall the lines are clear.
+
+Edit: See my [[https://www.reddit.com/r/HPfanfiction/comments/dgxi2t/what_exactly_does_fetishization_of_children_mean/f3g86ab?utm_source=share&utm_medium=web2x][top level comment]]
+:PROPERTIES:
+:Author: StarDolph
+:Score: 1
+:DateUnix: 1570905921.0
+:DateShort: 2019-Oct-12
+:END:
+
+******* u/chiruochiba:
+#+begin_quote
+  Protect act of 2003
+#+end_quote
+
+Keep in mind that law, like all of the other United States laws against child pornography, only covers /visual media/, i.e. videos, pictures, sculptures etc. Also the [[https://www.oyez.org/cases/2001/00-795][Ashcroft v. Free Speech Coalition]] Supreme Court ruling has set the precedent that the anti-child pornography laws do not apply to depictions of fictional characters. This decision was carried forward to affect the Protect Act by the ruling on [[https://law.justia.com/cases/federal/district-courts/FSupp2/564/996/1407869/][United States v. Handley]] case. Instead, prosecution of fictional depictions depends upon anti-obscenity laws.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 2
+:DateUnix: 1570908939.0
+:DateShort: 2019-Oct-12
+:END:
+
+******** I go through that in my top level comment. It is visual only, although it purports to add an additional punishment for content that is already otherwise obscene. The district judge in Handley ruled it was unconstitutional, but since he took a plea before it went to the appeals court or supreme court, it isn't binding. Thus why I stated that particular chunk is likely unconstitutional. (I fully understand why Handley would plea: Even if he won on the extra charges, he would still be facing an obscenity charge which the government would likely go after for the full extent, and those punishments can be years. He got 6 months and no sex offender registration out of the plea, which I suspect is less than the maximum he could have gotten for only 7 counts of obscenity).
+:PROPERTIES:
+:Author: StarDolph
+:Score: 1
+:DateUnix: 1570909894.0
+:DateShort: 2019-Oct-12
+:END:
+
+********* Thanks for your responses. You gave a nicely thorough rundown of the US laws and precedents as they stand. Now I'm curious if the laws/precedents in the UK are similar.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 1
+:DateUnix: 1570910136.0
+:DateShort: 2019-Oct-12
+:END:
+
+
+** I'm completely out of the loop regarding Blindness (a fic that I have never heard of) and its ban, but the purpose for the ban seems ridiculous. I mean, I see Voc Corporis recced and lauded here all the time and /Chapter 2/ of that story has a fourteen year old and a fifteen year old having sex. Hypocrisy? Or what?
+:PROPERTIES:
+:Author: The_Black_Hart
+:Score: 2
+:DateUnix: 1570901776.0
+:DateShort: 2019-Oct-12
+:END:
+
+
+** I'd suggest looking at real-life court cases regarding anti-obscenity laws, because that's the set of laws which apply when considering fictional explicit depiction of minors.
+
+Here's a decent examination of how the United States has handled such things: [[https://en.wikipedia.org/wiki/United_States_obscenity_law][United States obscenity law]].
+
+Currently the United States uses the "[[https://en.wikipedia.org/wiki/Miller_test][Miller Test]]" when judging potentially "obscene" literary works:
+
+#+begin_quote
+  The Miller test was developed in the 1973 case Miller v. California. It has three parts:
+
+  - Whether "the average person, applying contemporary community standards", would find that the work, taken as a whole, appeals to the prurient interest,
+  - Whether the work depicts or describes, in a patently offensive way, sexual conduct or excretory functions specifically defined by applicable state law,
+  - Whether the work, taken as a whole, lacks serious literary, artistic, political, or scientific value.
+
+  The work is considered obscene only if all three conditions are satisfied.
+#+end_quote
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 1
+:DateUnix: 1570902374.0
+:DateShort: 2019-Oct-12
+:END:
+
+
+** Any fanfic that has Harry or any other character time traveling into a younger body and putting moves on actual 11-18 year olds is immediately creepy to me. First of all I'm not buying how easily they're finding it to be around immature children, but to also then fall in love with a kid?..
+
+Another example are pairings that would be illegal in the real world. Like Snape/School Aged Hermione, Harry/Voldemort, etc. This is pretty much the same issue as my first example with time travelers except the pedos actually look the part instead of being in a kids body... figuratively and literally.
+
+A little more vague to describe are stories where the author isn't quite selling why the sex scenes are important enough to show. You kind of get the feeling they aren't happening because the author wanted to write a realistic story about teenagers and puberty. It's like they've inserted themselves into the story so they can explore their sexual fantasies with child aged HP characters and it's always awkward to experience.
+
+Blindness is a great example of a story that included sex but wasn't creepy. Their ages were similar, it was filled with nervous energy and awkwardness but everything "felt" natural and not like it was some dudes creepy fantasy. It serves as an example of what to do imo.
+:PROPERTIES:
+:Author: StoneTheLoner
+:Score: 1
+:DateUnix: 1570929762.0
+:DateShort: 2019-Oct-13
+:END:
+
+*** I always figured mental time travel actually regresses your maturity, as if the original timeline was one long dream. This is why I generally don't see, for example, teenage Hinny after an adult Harry travelled back in time as disturbing, unless the fic makes it obvious that Harry retains his adult wits.
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 1
+:DateUnix: 1570932274.0
+:DateShort: 2019-Oct-13
+:END:
+
+**** u/i_atent_ded:
+#+begin_quote
+  unless the fic makes it obvious that Harry retains his adult wits.
+#+end_quote
+
+This is the case in all the most popular time travel fics, though, especially if they're non-slash or slash of the Drarry variety. Which is most of them. The rest are gen or have more appropriate pairings in that its adult Harry or Hermione traveling to a place and time where those they interact with are the same physical and mental age as them.
+:PROPERTIES:
+:Author: i_atent_ded
+:Score: 3
+:DateUnix: 1570985202.0
+:DateShort: 2019-Oct-13
+:END:

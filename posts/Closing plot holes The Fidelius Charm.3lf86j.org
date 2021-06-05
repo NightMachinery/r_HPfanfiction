@@ -1,0 +1,742 @@
+#+TITLE: Closing plot holes: The Fidelius Charm
+
+* Closing plot holes: The Fidelius Charm
+:PROPERTIES:
+:Author: Taure
+:Score: 36
+:DateUnix: 1442577803.0
+:DateShort: 2015-Sep-18
+:FlairText: Discussion
+:END:
+The working of the Fidelius charm is often held up as an example of a plot hole in HP. In particular, there's confusion over whether or not you can be your own secret keeper, and if so, why the Potters didn't just be their own secret keeper.
+
+I want to show here that the Fidelius doesn't need to be a plot hole. It's perfectly possible to reconcile everything we know about it from canon in a reasonable, logical and consistent way.
+
+This is the explanation we're given of the Fidelius from PoA:
+
+#+begin_quote
+  Professor Flitwick cleared his throat.
+
+  “An immensely complex spell,” he said squeakily, “involving the magical concealment of a secret inside a single, living soul. The information is hidden inside the chosen person, or Secret-Keeper, and is henceforth impossible to find --- unless, of course, the Secret-Keeper chooses to divulge it. As long as the Secret-Keeper refused to speak, You-Know-Who could search the village where Lily and James were staying for years and never find them, not even if he had his nose pressed against their sitting room window!”
+
+  “So Black was the Potters' Secret-Keeper?” whispered Madam Rosmerta.
+
+  “Naturally,” said Professor McGonagall. “James Potter told Dumbledore that Black would die rather than tell where they were, that Black was planning to go into hiding himself... and yet, Dumbledore remained worried. I remember him offering to be the Potters' Secret-Keeper himself.”
+#+end_quote
+
+This fairly explicitly rules out the possibility of being your own secret keeper: you have to trust another person with the secret, hiding it in that person's soul.
+
+But then, people ask, what about Grimmauld Place? Dumbledore was the secret keeper /and/ cast the spell.
+
+The important thing to realise here is that the person who casts the Fidelius charm isn't that important. The key mechanic is a passing of ownership of a secret, from the "secret giver" (i.e. the person who originally "owns" the secret) to the "secret keeper" (i.e. the person who "owns" the secret after the charm is cast). Who casts the spell which enacts that passing of ownership doesn't seem to matter.
+
+With this caster/giver/keeper distinction in mind, everything in canon can make sense.
+
+*Grimmauld Place*: Sirius Black is the secret giver, as Grimmauld Place is his. Albus Dumbledore casts the charm passing the secret of Grimmauld Place's location from Sirius to himself. Albus Dumbledore is the secret keeper for Sirius Black.
+
+*Godric's Hollow*: James and Lily Potter are jointly the secret giver (see the quote above: "the Potters' secret-keeper"). Godric's Hollow belongs to the both of them, as they are married. They jointly pass the secret to Peter Pettigrew, with an unknown caster.
+
+*Shell Cottage*: Bill is the caster of the Charm and the Secret Keeper. It is unknown who the Secret Giver is, as we're never told who the cottage belongs to. The movies tell us it belongs to Muriel, which would fit with this mechanic, but isn't itself canon. But since it's never said that Bill and Fleur own Shell Cottage, there's no contradiction here.
+
+*Muriel's Home*: Muriel is the Secret Giver, Arthur casts the charm and is the Secret Keeper.
+
+So you can see that everything works out quite neatly simply by thinking about whom the secrets in question originally belonged to. We can see that in fact there is no example in canon of someone being their own secret keeper.
+
+The system set out here even explains how it is you can't abuse the Charm. For example, you might be wondering here "Why didn't the Potters transfer ownership of Godric's Hollow to Sirius to get around the restrictions of the Charm?" But the particulars of property law prevent this. If you transfer property to someone with the common intent that the transferee is holding the property on your behalf and will one day return it, then under English law you haven't actually fully transferred the property. You have transferred the legal title, but have created a resulting trust under which the transferor retains a proprietary right to compel the return of the property. Sirius would be the legal owner of Godric's Hollow, but Lily and James would still be the owners of Godric's Hollow "in equity". It's so neat that, if it weren't so unlikely that JKR knows about the law of trusts, I would think she had planned it out.
+
+
+** Seventh Horcrux, oddly enough, had an interesting blurb on this.
+
+Basically, high level rituals are more subjective and abstract than an ordinary Lumos or whatever. So, you can create an unopenable door- but there has to be a way to go on a quest to piece together a key.
+
+You can curse a teaching position, but you need to leave a loophole such as , "Cursed until an applicant as good as me takes the job."
+
+And you can hide a secret, but you have to tell at least ONE person, because in life you always have to trust someone.
+:PROPERTIES:
+:Author: beetnemesis
+:Score: 36
+:DateUnix: 1442578587.0
+:DateShort: 2015-Sep-18
+:END:
+
+*** linkffn(Seventh Horcrux) because I'm too lazy to download this on my own
+:PROPERTIES:
+:Author: tusing
+:Score: 6
+:DateUnix: 1442605232.0
+:DateShort: 2015-Sep-19
+:END:
+
+**** [[http://www.fanfiction.net/s/10677106/1/][*/Seventh Horcrux/*]] by [[https://www.fanfiction.net/u/4112736/Emerald-Ashes][/Emerald Ashes/]]
+
+#+begin_quote
+  The presence of a foreign soul may have unexpected side effects on a growing child. I am Lord Volde...Harry Potter. I'm Harry Potter. In which Harry is insane, Hermione is a Dark Lady-in-training, Ginny is a minion, and Ron is confused.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 21 *|* /Words/: 104,212 *|* /Reviews/: 755 *|* /Favs/: 2,705 *|* /Follows/: 1,791 *|* /Updated/: 2/3 *|* /Published/: 9/7/2014 *|* /Status/: Complete *|* /id/: 10677106 *|* /Language/: English *|* /Genre/: Humor/Parody *|* /Characters/: Harry P. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=10677106][EPUB]]}
+
+--------------
+
+*Bot v1.3.0 - 9/7/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* Use /ffnbot!delete/ to delete a comment! Use /ffnbot!refresh/ to refresh bot replies!
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 5
+:DateUnix: 1442605297.0
+:DateShort: 2015-Sep-19
+:END:
+
+
+**** I love this bot. And this story.
+:PROPERTIES:
+:Author: beetnemesis
+:Score: 5
+:DateUnix: 1442605872.0
+:DateShort: 2015-Sep-19
+:END:
+
+
+*** Well, I guess I'm reading Seventh Horcrux again.
+:PROPERTIES:
+:Author: orangekayla
+:Score: 4
+:DateUnix: 1442716795.0
+:DateShort: 2015-Sep-20
+:END:
+
+
+*** Bit late to the party, but the Fablehaven series covers this concept well (spoilers for the series, of course).
+
+The main plot of the series is a character working to free a group of demons from a prison, and to do so, he had to retrieve 5 MacGuffins. Well, one of the characters asks why the MacGuffins exist at all; can't they just make a prison that's impossible to open? The answer is that they /could/, but the enchantment would unravel. However, a prison that's fiendishly difficult to open will not fail.
+:PROPERTIES:
+:Author: Maping
+:Score: 2
+:DateUnix: 1447908592.0
+:DateShort: 2015-Nov-19
+:END:
+
+
+** One 'plothole' that you didn't close is the fact that after Dumbledore's death, the fidelius over Grimmauld place still held, but the one over Godric's Hollow disappeared after the Potter's death.
+
+The only conclusion I could come to about the above, is that the fidelius charm also takes into account what the secret is.
+
+The secret at Godric's Hollow was most likely "the Potters live at Godric's Hollow", so when the Potter family was killed and Harry was moved to live elsewhere, the secret is no longer technically true, so the protections dissolve and the broken house becomes visible.
+
+However, the secret at Grimmauld place was "the headquarters of the order of the phoenix is 12 Grimmauld place." It doesn't matter that both Sirius and Dumbledore died at that point, as long as the owner of Grimmauld place still considers that the headquarters of the order of the phoenix, the fidelius holds.
+:PROPERTIES:
+:Author: Ocdar
+:Score: 14
+:DateUnix: 1442585371.0
+:DateShort: 2015-Sep-18
+:END:
+
+*** There's some discussion of this elsewhere - what happens to the Fidelius after it has been cast. My post was largely focused on how one establishes a Fidelius in the first place, not about the various things that can happen to it once established.
+
+For example, we know from HBP that if Bellatrix had inherited Grimmauld Place, she would have been able to access the house even though it was under the Fidelius. So a change in ownership of the original secret either breaks the Charm or enables the new owner to access the secret despite the Charm.
+
+My preference for why the Godric's Hollow Fidelius completely broke is the destruction of the subject matter. It's not a matter of the secret being true or false, it's that there /is no secret/. The house has been destroyed.
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1442585825.0
+:DateShort: 2015-Sep-18
+:END:
+
+
+** What do you think happens if a secret keeper dies without exposing the secret?
+:PROPERTIES:
+:Score: 8
+:DateUnix: 1442583066.0
+:DateShort: 2015-Sep-18
+:END:
+
+*** The Earth is actually over ten times as large, physics and whatnot have just adapted to massive amounts of land being lost as lords and kings managed to die with their secret. Or whatever.
+
+In a more realistic scenario, it'd be really interesting to consider that there may be a /lot/ of places lost due to this. What if there was another Australia sized continent in the Pacific that some Dark Lord took over and then died with the secret to?
+:PROPERTIES:
+:Score: 10
+:DateUnix: 1442584911.0
+:DateShort: 2015-Sep-18
+:END:
+
+**** On a side note, I imagine Voldemort never used the Fidelius because he *A)* did not trust anyone enough *B)* Cannot perform the charm due to a cracked soul or *C)* the charm is obscure enough that he couldn't find out how to do it. Thoughts?
+
+#+begin_quote
+  The Earth is actually over ten times as large, physics and whatnot have just adapted to massive amounts of land being lost as lords and kings managed to die with their secret
+#+end_quote
+
+Maybe. But is the land "lost" as in displaced? I know the movie portrayed it as if Grimmauld Place /expanded/ into existence, so maybe the Fidelius does mess with space, or maybe that is just the visual perception of a secret being revealed. Personally, I think the charm would break if the keeper died.
+
+#+begin_quote
+  What if there was another Australia sized continent in the Pacific that some Dark Lord took over and then died with the secret to?
+#+end_quote
+
+I think the mechanics of 'ownership' would prohibit this. Even if a dark lord has some claim to ownership, there are other ownership areas within his area (i.e. people's home). He could not charm a country if there were spaces within it he did not 'own'.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1442585664.0
+:DateShort: 2015-Sep-18
+:END:
+
+***** Option 1: Enslave all the people, making them his property.
+
+Option 2: Kill all the people, making the land his ownership.
+
+As for the lost land, I don't consider magic relevant to any science at all - it's just different. If something is within a Fidelius, it ceases to exist for everyone and everything that doesn't know about it. It's not hidden, not hidden within a fold of reality, its not that they just cant perceive it - it simply does not exist at all. Magic has no boundaries.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1442587675.0
+:DateShort: 2015-Sep-18
+:END:
+
+****** Right! Like vanishing spells. The things that get vanished don't /go/ anywhere. They just stop being where they are, and the space they were taking up becomes vacant.
+:PROPERTIES:
+:Author: bloopenstein
+:Score: 1
+:DateUnix: 1442683663.0
+:DateShort: 2015-Sep-19
+:END:
+
+
+***** A or C, leaning towards A personally. There's no real evidence that his "cracked" soul constrains him magically (his inability to understand love is connected to Horcruxes, but only inasmuch as it serves as a rejection of compassion for ones own gain), so B doesn't hold.
+
+There are strong indications that Fidelius was unknown before Dumbledore invented/found it, but it's pretty clearly common knowledge by PoA (at least amongst the order) and Voldemort would undoubtedly have investigated it in case it was connected to his defeat, so I think C doesn't work.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1442619320.0
+:DateShort: 2015-Sep-19
+:END:
+
+
+**** DOES THAT MEAN THAT ATLANTIS DIDN'T SINK AFTER ALL??
+:PROPERTIES:
+:Author: Hikkacchi
+:Score: 1
+:DateUnix: 1442893555.0
+:DateShort: 2015-Sep-22
+:END:
+
+
+*** No idea. Nothing in my above explanation indicates what happens one way or another, because it's all about how to establish a Fidelius charm, not what can happen to it afterwards. There would seem to be two options, though: the Charm breaks and the location is accessible by anyone, or the Charm holds and no one can ever access that place again.
+:PROPERTIES:
+:Author: Taure
+:Score: 4
+:DateUnix: 1442583478.0
+:DateShort: 2015-Sep-18
+:END:
+
+**** J.K. Rowling gave us further information on the how the Fidelius Charm works. In a FAQ poll on her official site, she says:
+
+#+begin_quote
+  When a Secret-Keeper dies, their secret dies with them, or, to put it another way, the status of their secret will remain as it was at the moment of their death. Everybody in whom they confided will continue to know the hidden information, but nobody else. (JKRowling.com)
+#+end_quote
+:PROPERTIES:
+:Author: PsychoGeek
+:Score: 13
+:DateUnix: 1442584673.0
+:DateShort: 2015-Sep-18
+:END:
+
+***** Sounds like great fic material. Mysteries lost to time because of dead Secret Keepers...
+:PROPERTIES:
+:Author: tusing
+:Score: 11
+:DateUnix: 1442605424.0
+:DateShort: 2015-Sep-19
+:END:
+
+
+**** u/deleted:
+#+begin_quote
+  the Charm breaks and the location is accessible by anyone, or the Charm holds and no one can ever access that place again.
+#+end_quote
+
+It could go either way, but I lean towards the charm breaking.The 'soul' that had the secret either ceases to exist or it no longer resides on the same level of existence. It seems to me that either of those happening would expose/release the secret, just as if the keeper exposed it by telling it to someone.
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1442585050.0
+:DateShort: 2015-Sep-18
+:END:
+
+***** The downside of this is that you can break the Charm simply by killing the Secret Keeper.
+:PROPERTIES:
+:Author: Taure
+:Score: 3
+:DateUnix: 1442585635.0
+:DateShort: 2015-Sep-18
+:END:
+
+****** It definitely has a downside, but that is the case with most things in life. The charm would still be extremely useful. In the other scenario the downside is that the charmed location is lost forever. The upside is that if things ever get to that point you are already dead, so you don't care. It stinks for anyone who left their stuff at your place though.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1442585934.0
+:DateShort: 2015-Sep-18
+:END:
+
+******* I just don't think it makes sense within the story though. If killing someone is enough to break the charm then the Charm is almost useless against someone like Voldemort who will happily kill anyone. Sirius was of the opinion that Pettigrew should have died rather than betray his friends. He seemed to be under the impression that Pettigrew dying rather than giving up the secret would have kept Lily and James safe.
+:PROPERTIES:
+:Author: Taure
+:Score: 11
+:DateUnix: 1442586123.0
+:DateShort: 2015-Sep-18
+:END:
+
+******** u/deleted:
+#+begin_quote
+  Sirius was of the opinion that Pettigrew should have died rather than betray his friends.
+#+end_quote
+
+Good point, and I think you're probably correct.
+
+ 
+
+I wonder if it would be possible to layer your security by making your keeper take an unbreakable oath to never reveal the secret? It is possible that it would conflict with the magic of the Fidelius i.e. 'it is not a freely given secret if you require the keeper to take the oath' or maybe it conflicts with the subjective nature of trust (Fidelius>fidelity>faithfulness), namely that faithfulness is not genuine if it is guaranteed through force.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1442588921.0
+:DateShort: 2015-Sep-18
+:END:
+
+********* Even if it were possible, I don't think it would help. If you recall, the unbreakable vow acts to punish someone /after/ they break it (by killing them), but it doesn't prevent them from breaking the vow in the first place (except by deterrent).
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1442589297.0
+:DateShort: 2015-Sep-18
+:END:
+
+********** u/deleted:
+#+begin_quote
+  the unbreakable vow acts to punish someone after they break it
+#+end_quote
+
+True, so the only way to reveal the secret is through torture or the keeper effectively committing suicide.
+
+#+begin_quote
+  but it doesn't prevent them from breaking the vow in the first place (except by deterrent).
+#+end_quote
+
+Peter chose to switch sides out of cowardice in an effort to save himself. The unbreakable vow would have eliminated that route as an option for Peter. He would not want to make himself liable to either torture or suicide.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1442591561.0
+:DateShort: 2015-Sep-18
+:END:
+
+*********** No, you can't make a secret keeper confess through torture. It has to be their own will. I think it was in pottermore where I read about it, in the article about fidelius charm.
+:PROPERTIES:
+:Author: Hikkacchi
+:Score: 1
+:DateUnix: 1442893836.0
+:DateShort: 2015-Sep-22
+:END:
+
+
+********* You could just have Lily or James be the secret-keeper of where Sirius is staying, in which case Sirius becomes a viable choice and they protect each other.
+:PROPERTIES:
+:Author: tn5421
+:Score: 1
+:DateUnix: 1442590566.0
+:DateShort: 2015-Sep-18
+:END:
+
+********** Yes, reciprocal fidelius Charms do seem to be highly exploitable as an ultimate defence. I suppose eventually you have to go out for food, but it's still pretty impregnable.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1442592378.0
+:DateShort: 2015-Sep-18
+:END:
+
+
+****** In the book , "“James Potter told Dumbledore that Black would die rather than tell where they were""
+
+This part implies that Secret won't be revealed even if the secret keeper dies. Otherwise all Voldy had to do was to kill Black.The part about Black going into hiding maybe because the secret could be (maybe) accessed through Leglimiens or Commanded through Imperious Curse, or any other manner.
+:PROPERTIES:
+:Author: GSKingg
+:Score: 1
+:DateUnix: 1442594432.0
+:DateShort: 2015-Sep-18
+:END:
+
+
+****** If you kill the secret keeper, the people who have the secret become all secret keepers, I think. Isn't that what happens with Grimmauld Place in DH?
+:PROPERTIES:
+:Author: Hikkacchi
+:Score: 1
+:DateUnix: 1442893982.0
+:DateShort: 2015-Sep-22
+:END:
+
+******* This is indeed the case, but it's unknown what happens when the secret keeper dies and no one else knows the secret.
+:PROPERTIES:
+:Author: Taure
+:Score: 1
+:DateUnix: 1442905889.0
+:DateShort: 2015-Sep-22
+:END:
+
+******** I think it probably stays a secret to all but the owner of the place (secret giver), who is the only one who can break the secret; and if there is no owner at all for whatever reason, then the charm simply dissipates.
+
+I mean, what you wrote in the opening post does seem to imply that this is what would happen.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 1
+:DateUnix: 1443225376.0
+:DateShort: 2015-Sep-26
+:END:
+
+
+**** I think the more likely scenario would be the fidelius holds, simply because it could almost be seen as completing the ritual.
+
+If part of the ritual in casting the fidelius charm is entrusting the secret to someone, then when that same trust is fullfilled even under pain of death it thereby follows that the protections of the ritual would hold even stronger.
+
+In this scenario, it's no different than the secret keeper sacrificing their life for their loved ones, and that is practically the central theme of the story.
+:PROPERTIES:
+:Author: Ocdar
+:Score: 3
+:DateUnix: 1442584827.0
+:DateShort: 2015-Sep-18
+:END:
+
+***** perhaps something along the lines of taking it to the 'other side'.
+:PROPERTIES:
+:Author: tomintheconer
+:Score: 1
+:DateUnix: 1442618296.0
+:DateShort: 2015-Sep-19
+:END:
+
+
+*** Dumbledore died without exposing the secret. Everyone who knew the secret became secret keepers.
+:PROPERTIES:
+:Author: PsychoGeek
+:Score: 2
+:DateUnix: 1442583483.0
+:DateShort: 2015-Sep-18
+:END:
+
+**** I think by "without exposing the secret" he means without telling anyone the secret, so there's no one to become a derivative secret keeper like in canon.
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1442583745.0
+:DateShort: 2015-Sep-18
+:END:
+
+
+**** Good point! Thank you :) That creates a lot of incentive to not tell anyone but the secret keeper though. If your secret keeper dies, then all of a sudden you have multiple people who can expose the secret.
+
+ 
+
+So then, what do you think would happen if only 2 people know the secret, the giver and the keeper, and the keeper dies?
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1442584221.0
+:DateShort: 2015-Sep-18
+:END:
+
+
+*** I'd say the Fidelius collapses, as there is no longer anyone being trusted. The spell is a way of protecting a secret by entrusting it to another person. If the owner establishes the spell with a trust in his best friend and no one else is told the secret, and the best friend or the owner is later killed, there no longer a bond of trust.
+
+Even Dumbledore wasn't certain of what would happen when Sirius died, but his hunch was that the Fidelius was sustained since there were existing bonds of trust between him as secret-keeper and the new owner by Sirius' declaration, whether it was Harry, Remus or Tonks (or anyone else in the Order, but those would be the most likely recipients of the Black homestead).
+
+An interesting scenario would be if Sirius hadn't made a declaration and the house went to Bellatrix or Draco; the Charm may have held together until the owner met with the secret-keeper and declared that they didn't trust him with the safety of the secret.
+
+I agree with [[/u/Taure][u/Taure]] that the Potters' house in Godric's Hollow lost its protection when it lost its roof.
+
+What I haven't reconciled is how Ron could tell Dobby where Shell Cottage was if he wasn't the secret keeper; what he should have said was 'go to the Mausoleum on the green in Tinworth; Bill and Fleur will know someone's come to visit and take them to a safe place'. Then he'd explain that the safe place is under Fidelius.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 1
+:DateUnix: 1442593730.0
+:DateShort: 2015-Sep-18
+:END:
+
+**** u/Taure:
+#+begin_quote
+  What I haven't reconciled is how Ron could tell Dobby where Shell Cottage was if he wasn't the secret keeper; what he should have said was 'go to the Mausoleum on the green in Tinworth; Bill and Fleur will know someone's come to visit and take them to a safe place'. Then he'd explain that the safe place is under Fidelius.
+#+end_quote
+
+I think the only way to explain this is with the typical "House Elves can do whatever the fuck they want but no one will ever realise they could abuse these abilities to solve the plot".
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1442595201.0
+:DateShort: 2015-Sep-18
+:END:
+
+***** Shouldn't that apply to Ron rather than Dobby, though? In any case, the house wasn't under the Fidelius then. The Weasleys were still working under the ministry, and it was only Ron being exposed when the trio got captured that necessitated them to go into hiding. The Fidelius was put up by Bill while Harry buried Dobby.
+:PROPERTIES:
+:Author: PsychoGeek
+:Score: 2
+:DateUnix: 1442605785.0
+:DateShort: 2015-Sep-19
+:END:
+
+****** perhaps it was on the house and not the whole location.
+:PROPERTIES:
+:Author: tomintheconer
+:Score: 1
+:DateUnix: 1442618113.0
+:DateShort: 2015-Sep-19
+:END:
+
+
+** the thing i'm always confused about is how does a house get hidden like that. what do people looking for it experience when they stand outside.
+
+also, i wonder if you can hide secrets other than people's address.
+:PROPERTIES:
+:Author: tomintheconer
+:Score: 3
+:DateUnix: 1442579193.0
+:DateShort: 2015-Sep-18
+:END:
+
+*** While being able to hide secrets other than locations is cool, and would fit with the HP magic system, I think it's the kind of ability that would be so absurdly overpowered that it would become a massive plothole.
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1442579307.0
+:DateShort: 2015-Sep-18
+:END:
+
+**** Like the fic where Harry hides the information "Harry Potter is the boy-who-lived" in the soul of a random muggle, and then bugs out from England.
+
+#+begin_quote
+  I think it's the kind of ability that would be so absurdly overpowered that it would become a massive plothole.
+#+end_quote
+
+How would you resolve the fact that it's technically possible, but unheard of in the books?
+
+ 
+
+Here's my attempt at an explanation: it is possible, but someone put a Fidelius over it, i.e. secret= "the Fidelius can be used on things besides physical locations".
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1442583022.0
+:DateShort: 2015-Sep-18
+:END:
+
+***** u/Taure:
+#+begin_quote
+  How would you resolve the fact that it's technically possible, but unheard of in the books?
+#+end_quote
+
+I wouldn't say it's technically possible. The only thing we see the Fidelius used on in the books is a physical location, so I'd say canon is that the Fidelius is used on physical locations. Anything else is non-canon extrapolation.
+
+That said, if I had to provide an explanation for why you can't hide those sorts of secrets it's that they're not your secrets to hide. The above explanation of the Charm means you can only hide secrets that are "yours", like the location of a home you own. Public domain information would not fall into this category.
+:PROPERTIES:
+:Author: Taure
+:Score: 10
+:DateUnix: 1442583363.0
+:DateShort: 2015-Sep-18
+:END:
+
+****** u/deleted:
+#+begin_quote
+  Public domain information would not fall into this category.
+#+end_quote
+
+I think that is a good rationale. It specifically has to be something you /did not have to tell anyone/. You cannot Fidelius a whole country, "the sky is blue", etc.
+
+#+begin_quote
+  so I'd say canon is that the Fidelius is used on physical locations
+#+end_quote
+
+I think this is much for likely and sensible than the idea that you can Fidelius subjective things. Thanks for your thoughts!
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1442584573.0
+:DateShort: 2015-Sep-18
+:END:
+
+
+***** For people searching for that fic - its called the Power of Paranoia
+:PROPERTIES:
+:Author: OrganToast
+:Score: 2
+:DateUnix: 1442606611.0
+:DateShort: 2015-Sep-19
+:END:
+
+****** Thanks! Could not remember it's name
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1442612715.0
+:DateShort: 2015-Sep-19
+:END:
+
+
+** [[http://www.beyondhogwarts.com/harry-potter/articles/the-secrets-of-the-fidelius-charm.html][This article]] seems to look into the Fidelius charm in some detail. It was published right after DH, so any info after that is not included in the article.
+
+Another thing:
+
+#+begin_quote
+  "As we Disapparated, Yaxley caught hold of me ... we arrived at Grimmauld Place ... I've already taken him inside the Fidelius Charm's protection. Since Dumbledore died, we're Secret-Keepers, so I've given him the secret, haven't I?" There was no pretending; Harry was sure she was right. It was a serious blow. If Yaxley could now get inside the house, there was no way that they could return. Even now he could be bringing other Death Eaters in there by Apparition
+#+end_quote
+
+Can he really? Yaxley isn't a secret keeper (he just knows the secret), yet he can effectively give someone else the secret? Then what is the point in distinguishing between the secret keeper and someone else who knows the secret?
+:PROPERTIES:
+:Author: PsychoGeek
+:Score: 2
+:DateUnix: 1442585020.0
+:DateShort: 2015-Sep-18
+:END:
+
+*** The key is that the original Secret Keeper is dead. After that happens, everyone who is told the secret is also a secret keeper able to pass the information on. So Yaxley is a secret keeper.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1442585567.0
+:DateShort: 2015-Sep-18
+:END:
+
+**** I think I'm missing something in my understanding of the Fidelius. Yes, Hermione was a secret keeper, but giving the secret to Yaxley does not make him a secret keeper (Unless Hermione dies, that is). Harry did not become secret keeper after he got the secret form Dumbledore in OoTP. Unless you're a secret keeper, you shouldn't be able to pass on the secret to anyone else. Yet Yaxley, despite not being secret keeper, can bring other Death Eaters to Grimmauld Place via side along apparition.
+
+Also as the article agrees,
+
+#+begin_quote
+  And this uncovers another big flaw in how the Fidelius Charm works. If you know the secret of a hidden place, you can bring in someone else who doesn't know the secret, if you bring them in using side-along apparition.
+#+end_quote
+
+This makes the difference between the Secret Keeper and someone who isn't a secret keeper but merely knows the secret a mere technicality. It also severely weakens the power of the charm. Also, there is no difference between having one secret keeper or twenty, so there would have been no need to abandon Grimmauld place after Dumbledore's death.
+
+Also, Voldemort could have just asked Snape to side-along apparate him to the Order HQ? How does that work?
+
+Eh. May be I'm missing something obvious. Did Yaxley actually become a secret keeper? Because that's the only way it makes sense. Since Dumbledore died, everyone who knows the secret becomes the Secret Keeper, regardless of whether Dumbledore told them or not. Yaxley isn't directly stated to be a secret keeper in the books though, just someone who knows the secret.
+
+EDIT: Huh. Now that I've written all this, that seemed to be the point of your original point. I only understood after I typed this mess.
+:PROPERTIES:
+:Author: PsychoGeek
+:Score: 5
+:DateUnix: 1442586802.0
+:DateShort: 2015-Sep-18
+:END:
+
+***** is there any reason to assume yaxley was let in on the secret. if i remember correctly all we know is that he was dragged along with hermione. perhaps when he left he lost it. perhaps he got confused being in a secret he didn't know. he might have even been expelled from the place.
+:PROPERTIES:
+:Author: tomintheconer
+:Score: 1
+:DateUnix: 1442617904.0
+:DateShort: 2015-Sep-19
+:END:
+
+
+** Why wouldn't the Potters go in hiding somewhere where they could be the secret keeper rather than secret giver? They may trust their friends, but the possibility still exists that a friend might break under torture if captured by Voldemort.
+:PROPERTIES:
+:Author: denarii
+:Score: 2
+:DateUnix: 1442617782.0
+:DateShort: 2015-Sep-19
+:END:
+
+*** Well, to a certain extent this is less a plot hole and more a character making a bad decision... they already made one pretty awful decision by not accepting Dumbledore's offer to be the secret keeper, so determined were they to demonstrate trust in their friends. It doesn't really surprise me that they didn't think it was necessary to try to game the Charm for extra protection... they will have trusted Peter so much that the possibility of the Charm's failure was not even in their consideration.
+
+That said, I'm sure one could come up with a decent fanon explanation to rule out certain obvious exploits. The two most obvious exploits are a) reciprocal fidelius charms b) switching homes after the charm is cast. Both cases are essentially the same mechanic: a secret keeper living under a fidelius.
+
+The most obvious rule to add is that any attempt to deliberately evade the Charm's limits breaks the trust between the giver and the keeper, and thus breaks the Charm itself. So a secret keeper could incidentally end up living under a fidelius, but they couldn't deliberately plan to do so to remove the element of trust from the spell. Not sure how well that works with Bill and Shell Cottage though.
+:PROPERTIES:
+:Author: Taure
+:Score: 4
+:DateUnix: 1442619016.0
+:DateShort: 2015-Sep-19
+:END:
+
+
+** My biggest issue with the fidelius in cannon is how others are able to access Godric's Hollow after 10/31/81. It's reasonable to accept that Hagrid, Dumbledore, Sirius, or other friends would be in on the secret and thus be able to access it. But others being able to see it doesn't make sense. Pettigrew is still alive and in hiding. How did he reveal the secret?
+:PROPERTIES:
+:Author: Bobo54bc
+:Score: 1
+:DateUnix: 1442618977.0
+:DateShort: 2015-Sep-19
+:END:
+
+*** There are a couple of similar explanations.
+
+The first is that the wording of the secret was such that it ceased to exist with the Potters' deaths. The secret was the Potters' location, so when the Potters no longer exist, the Charm has nothing to hide any more.
+
+The second, contrary to the first, is that the house was the subject of the Charm, but that the destruction of the house has a similar effect to the death of the Potters in the first scenario: there is no longer any secret to hide, because the subject of the secret no longer exists. Thus the Charm breaks.
+
+The third explanation, completely different to the other two, is that inheritance by someone not part of the secret breaks the Charm. In HBP, Dumbledore says that the Order evacuated Grimmauld Place out of fear that Bellatrix might inherit the house. This implies that the Fidelius would not prevent Bellatrix from accessing the house if she had inherited it, meaning that inheritance of the secret can break the Fidelius. But not all inheritance breaks the Charm, as Harry's inheritance did not. The difference seems to be that Harry was already in on the secret. So when Godric's Hollow was inherited by baby Harry/The Ministry, the Charm broke.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1442619598.0
+:DateShort: 2015-Sep-19
+:END:
+
+**** Response to each point: 1) Harry was still alive at this point and yet iirc muggle authorities were arriving shortly after. (Might be fanon memory. Not sure it's been awhile) 2) This is plausible but presents a weakness of the charm. The charm works by hiding something not actually providing physical protection. I don't see destroying an entire village being an issue for Voldemort. All he would need to do would be track people likely to visit to get a general location. 3) Again plausible but still shows inherent weakness. First, do records of properties under fidelius just disappear then show up after it breaks? Does all knowledge get hidden or just the specific location? Second, inheritance is a legal issue determined by law. Law is determined by the government who holds the right to overturn wills. A corrupt government, especially one controlled by V would easily be able to exploit this.
+:PROPERTIES:
+:Author: Bobo54bc
+:Score: 2
+:DateUnix: 1442621292.0
+:DateShort: 2015-Sep-19
+:END:
+
+
+** James could have simply not given Lily part-ownership of the cottage, and made her the secret-keeper. Or Lily could have given her part of the cottage to Harry, with no intention to ever take it back, and could have become the secret keeper. Or they could have simply let Sirius live with them, and keep him safe that way.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 1
+:DateUnix: 1442659833.0
+:DateShort: 2015-Sep-19
+:END:
+
+
+** I think the bit about the ownership can be expanded further, into what is not actually law but rather people and their way of feeling about things.
+
+What I mean is, if you do give someone some property but are still planning to use it until the end of time or whenever, you will still /feel/ that this place is yours. Because you live here, it's your place in a way. Considering how often magic in this series is rooted in emotions and how people feel about things, it might very well be that rather than the law dictating whether this-or-that belongs to you or not or maybe or whatever, it's how you feel about it that matters.
+
+Which might be limiting the charm even further without actually decreasing its potency. Because if you happen to be the secret keeper of someone's property, and you spend all the time here, will you not at some point start feeling that this place is /yours/, in a way, too? And if it were about feelings involved, would that not reveal the secret because the secret keeper is no longer qualified?
+
+And in the same vein, I think it a good guess that the strength of the charm is directly (or close to that) proportional to the strength of the loyalty of the secret keeper to the secret giver; the name of the charm itself is, after all, derived from the Latin word for “loyalty”. If that were the case it would be another possibility for why the Potters' property became visible after Pettigrew betrayed them (because he held no loyalty towards them and so the charm itself disconnected from the secret keeper and stopped working), and a good reason for why it is not possible to get out the secret via torture (“for as long as their loyalty holds”, and thus even if they divulged it under torture by chance it would not give the torturers anything).
+
+Or at least, that's how I approach this particular bit.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 1
+:DateUnix: 1443226158.0
+:DateShort: 2015-Sep-26
+:END:
+
+
+** Why didn't James Potter choose to be his own secret keeper?
+
+The Potters could then hide there indefinitely, and it would Voldemort very long time to find them.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 0
+:DateUnix: 1442593331.0
+:DateShort: 2015-Sep-18
+:END:
+
+*** The post I wrote addresses this point directly. What part exactly do you disagree with?
+:PROPERTIES:
+:Author: Taure
+:Score: 4
+:DateUnix: 1442595084.0
+:DateShort: 2015-Sep-18
+:END:
+
+
+** Right, magic is not elaborated on the series a all. Basically, however you can make it work with details you have, then that's that. It works however you want it to. Your theories are correct if they don't conflict with Canon. I would not worry about how much it works. It doesn't actually work at all, it's magic it's not real. So unless we hear from Rowling otherwise then it works however you want.
+:PROPERTIES:
+:Author: solartai
+:Score: 0
+:DateUnix: 1442642626.0
+:DateShort: 2015-Sep-19
+:END:
+
+*** There's actually quite a lot of information about how magic works scattered about the series. No character ever gives a "magic 101" lecture, sure, but we still have a good idea of how things roughly fit together.
+
+I've put much of the evidence together here: [[https://docs.google.com/document/d/1VOF1eu_B7qpTeTUykW5ZGK2HJmVAG5WouY71a5AiRPo/edit?usp=sharing]]
+
+I'm actually incredibly glad we're never given a systematic explanation of magic. Any such explanation would be overly simplistic. Wizards shouldn't be able to explain magic completely and systematically, just as Muggles can't explain the natural forces of the universe comprehensively. Further, even if you did try to summarise physics, it would require years of study to properly understand that explanation. So it should be also with magic.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1442655181.0
+:DateShort: 2015-Sep-19
+:END:

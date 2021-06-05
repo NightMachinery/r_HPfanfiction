@@ -1,0 +1,166 @@
+#+TITLE: We're about to switch to a brand-new CSS! Take a look - and please report any bugs you come across!
+
+* [[https://www.reddit.com/r/hpfanficcsstest][We're about to switch to a brand-new CSS! Take a look - and please report any bugs you come across!]]
+:PROPERTIES:
+:Author: tusing
+:Score: 6
+:DateUnix: 1444213224.0
+:DateShort: 2015-Oct-07
+:FlairText: Meta
+:END:
+
+** Please don't implement this.
+
+For me my fanfiction addiction is a dirty secret, a guilty pleasure and the current version of this subreddit is discreet. When I'm browsing on this subreddit people just see it as reddit but if it had this new skin it'd be garishly obvious what I'm looking at.
+
+I know I can just untick use subreddit style but that makes this place seem unwelcoming and unfriendly. The soft grey background is top notch, the dark grey banner is homely and voting arrows simple and it's easy to tell what I've pressed.
+
+If the change goes ahead I'll only end up using this subreddit in a locked room with the curtains shut. So please, for me, don't change it.
+:PROPERTIES:
+:Author: IHATEHERMIONESUE
+:Score: 11
+:DateUnix: 1444254916.0
+:DateShort: 2015-Oct-08
+:END:
+
+
+** No bugs on my end:
+
+- Up to date version of Chrome
+- Using RES
+:PROPERTIES:
+:Author: KwanLi
+:Score: 3
+:DateUnix: 1444224379.0
+:DateShort: 2015-Oct-07
+:END:
+
+
+** I hate the deathly hallows upvote/downvote buttons. The color change is practically unnoticeable, and to be honest I think they're just really cliched.
+:PROPERTIES:
+:Author: rowanbrierbrook
+:Score: 3
+:DateUnix: 1444259832.0
+:DateShort: 2015-Oct-08
+:END:
+
+*** Yeah, working on making those more prominent.
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1444261105.0
+:DateShort: 2015-Oct-08
+:END:
+
+**** I like the look of the rest of it though.
+:PROPERTIES:
+:Author: rowanbrierbrook
+:Score: 1
+:DateUnix: 1444264327.0
+:DateShort: 2015-Oct-08
+:END:
+
+
+** Not a fan tbh...
+:PROPERTIES:
+:Score: 8
+:DateUnix: 1444223360.0
+:DateShort: 2015-Oct-07
+:END:
+
+*** Yeah, I agree. The new one is pretty messy and floaty and not really compact. Not really a fan of all the imagery either, it just seems like unnecessary distracting fluff. Lots of wasted space too, which seems weird in a subreddit like this. The post page doesn't really look good when you don't have easily distinctive compact post boxes either.
+:PROPERTIES:
+:Score: 7
+:DateUnix: 1444229714.0
+:DateShort: 2015-Oct-07
+:END:
+
+
+** Who still plays CSS? CSGO is where it's at these days.
+:PROPERTIES:
+:Author: Taure
+:Score: 4
+:DateUnix: 1444259454.0
+:DateShort: 2015-Oct-08
+:END:
+
+
+** I commented on the post with what I noticed. Looking much better than yesterday!
+:PROPERTIES:
+:Author: paperhurts
+:Score: 2
+:DateUnix: 1444229711.0
+:DateShort: 2015-Oct-07
+:END:
+
+
+** I really can't tell the difference between a.title(#444) and a.title:visited(#666). Could you change them to something closer to the current colors, like link(#565656) and visited(#a5a5a5)?
+
+I don't know if this is a bug or it is intended behavior, but just in case it is...
+
+- upvote (Lumos! happens)
+- switch to another tab
+- switch back to the tab I upvoted in (Lumos! happens again)
+
+The same also happens for Nox. The repeated Lumos stopped once I clicked on something else, but it will happen until I do so. This is in Chrome (Windows, 64bit), no reddit related extensions.
+:PROPERTIES:
+:Author: canaki17
+:Score: 1
+:DateUnix: 1444293210.0
+:DateShort: 2015-Oct-08
+:END:
+
+
+** I can't see any of the flairs anymore, and the new style hasn't even come in yet for me.
+:PROPERTIES:
+:Author: Karinta
+:Score: 1
+:DateUnix: 1444317733.0
+:DateShort: 2015-Oct-08
+:END:
+
+*** Same here
+:PROPERTIES:
+:Author: TychoTyrannosaurus
+:Score: 2
+:DateUnix: 1444320965.0
+:DateShort: 2015-Oct-08
+:END:
+
+
+** Some of you may remember we tried switching yesterday, but the implementation was a bit buggy (it was my first attempt at CSS). Credit goes to [[/u/denarii]] in fixing the stylesheet and making it look cleaner and nicer.
+
+We should be switching soon, and it will be a nice visual update, I think. It's a comment of two themes (Slique and Lament) with my own touches (upvote, downvote, and animations). I hope you enjoy it!
+
+*Intended Look*
+
+The stylesheet is intended to look cozy and spacious, yet minimalist and modern. It aims to space information out enough so that things are easy to digest, but not so much that too much space is wasted. It also is an attempt to distinguish our subreddit from the default theme and thousands of other subreddits, and giving us a more established look and feel, and maintaining character.
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1444213572.0
+:DateShort: 2015-Oct-07
+:END:
+
+*** Your first attempt at CSS? You're so cute! I remember my first attempt at CSS...almost 20 years ago ;)
+:PROPERTIES:
+:Author: paperhurts
+:Score: 4
+:DateUnix: 1444229826.0
+:DateShort: 2015-Oct-07
+:END:
+
+
+*** It is better than the previous version yes, but still far from optimal.
+
+It does not look minimalistic. Please reduce the overall amount of whitespace and change the commentthread styling it is not that clear and will get worse with longer and more threaded posts.
+
+Please do not sacrifice usability in the name of cozy and spacious design. Take a look at [[https://www.reddit.com/r/nexus4/comments/3nt2b5/callmealdy_has_already_got_android_m_booting_on/][Nexus4]] or [[https://www.reddit.com/r/leagueoflegends/comments/3n2cs8/whoa_a_new_subreddit_theme/][LoLs]] they have a somewhat different style but still maintains a more usable UI.
+
+EDIT* Please do not switch as the new theme in its current incarnation, as it is not yet ready for primetime. Just removing all margins and paddings from the entry-class (and adding a bottom-margin:5px;) would be a large improvement.
+:PROPERTIES:
+:Author: Unkox
+:Score: 1
+:DateUnix: 1444253531.0
+:DateShort: 2015-Oct-08
+:END:

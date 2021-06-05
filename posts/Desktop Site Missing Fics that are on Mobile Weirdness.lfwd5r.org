@@ -1,0 +1,50 @@
+#+TITLE: Desktop Site Missing Fics that are on Mobile Weirdness
+
+* Desktop Site Missing Fics that are on Mobile Weirdness
+:PROPERTIES:
+:Author: Fiendfyre-Basilisk
+:Score: 1
+:DateUnix: 1612851788.0
+:DateShort: 2021-Feb-09
+:FlairText: Discussion
+:END:
+Hello, I noticed something extremely weird today when I was looking at an authors list of posted fanfics on Fanfiction.net. Some fics are only showing up on the mobile version of the site. Like they where just plain not in the authors list of posted fics when looking through their profile on the desktop, but then when I opened the mobile site they where there.
+
+​
+
+The author I'm talking about is whitetigerwolf.
+
+This is what their profile looks like on the desktop site:
+
+[[https://www.fanfiction.net/u/2016872/whitetigerwolf]]?
+
+And here it is on mobile version:
+
+[[https://m.fanfiction.net/u/2016872/whitetigerwolf]]
+
+​
+
+The mobile version of the site seems to show significantly more fics. In this case the fic I was looking for is called fatal flaw and when I sorted their posted fics by title, on the desktop site it just wasn't there.
+
+​
+
+Does anyone know why that would be? As for as I know their are no filters on an authors page on the desktop site, only methods of sorting like by title alphabetically, or by the posted or updated date.
+
+Edit: Looking at their profile some more, when both the desktop and mobile version are open side by side and are sorted by title the first 5 fics that show up on mobile don't appear at all for me on desktop
+
+​
+
+Edit 2: I found out how to make the desktop site show all of the authors fics (along with what I was doing that made it not). To replicate the issue I was having:
+
+1. Open the link to whitetigerwolf's profile page on [[https://fanfiction.net][fanfiction.net]] through the desktop site link.
+2. Scroll down to my stories and make sure that's the page you are on.
+3. quickly scroll through and look at how many stories there is. (seems like it will be all of them. Also look at how big your scroll bar is/how much of the page you have scrolled through)
+4. Set sorting by title
+5. After changing the sorting method to sort by title *(Edit again: actually changing to any of the fic sorting methods by double clicking a word in the list across from "Sort: " will do it), significantly fewer fics show up.
+
+To make them all show up again simply reload the page, however the fic sorting method (for me at least) resets to by date updated. Changing to a sorting method will again hide a bunch of the fics (even just double clicking updated, which is what it was already sorting by if also defaults to that for everyone else).
+
+​
+
+So far I have only tried chrome browser. I have not tried it in any others to see if its a chrome issue with the site. Edit yet again: Edge chromium does it too. So does Firefox.
+

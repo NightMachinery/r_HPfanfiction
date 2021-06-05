@@ -1,0 +1,119 @@
+#+TITLE: Published in December 31, 1969
+
+* Published in December 31, 1969
+:PROPERTIES:
+:Author: CuriousLurkerPresent
+:Score: 10
+:DateUnix: 1566510967.0
+:DateShort: 2019-Aug-23
+:FlairText: Discussion
+:END:
+That's what I see while rereading Harry and The Power of Time. I had just found a sudden enthusiasm for Hedwig, and her potentially being a Phoenix. Sounds fun, right? Then two chapters in, I get hit by the published date of the fanfiction. December 31, 1969. Now I'm just naturally curious, is this a glitch, or just like something the author put down for a good old laugh.
+
+
+** Yes, it must be a glitch. This date is important for computers because Jan 1, 1970 is the year zero of the Unix (later Linux) operating system. Most web servers today are based on either Unix or Linux.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 20
+:DateUnix: 1566511434.0
+:DateShort: 2019-Aug-23
+:END:
+
+*** Epoch fail.
+:PROPERTIES:
+:Score: 12
+:DateUnix: 1566512303.0
+:DateShort: 2019-Aug-23
+:END:
+
+
+*** To extend on this it is indeed a glitch with it somehow ending up as being published at time "0" (or 1, idk), and then, probably due to your time zone, that being the same as December 31, 1969 in your are.
+:PROPERTIES:
+:Author: SiSkEr
+:Score: 4
+:DateUnix: 1566554721.0
+:DateShort: 2019-Aug-23
+:END:
+
+
+** I KNOW THIS ONE.
+
+It's the default date when a UNIX datestamp has glitched out. UNIX time counts up from a date arbitrarily chosen in the 70s. A datestamp of 0 would be marked as 1st January 1970 GMT, but some timezones being behind GMT puts it into 1969.
+:PROPERTIES:
+:Author: Macallion
+:Score: 4
+:DateUnix: 1566577018.0
+:DateShort: 2019-Aug-23
+:END:
+
+*** I'm guessing it's a bug where the system confused a Null value with 0.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 1
+:DateUnix: 1566596451.0
+:DateShort: 2019-Aug-24
+:END:
+
+**** Most likely, yes.
+:PROPERTIES:
+:Author: Macallion
+:Score: 1
+:DateUnix: 1566655608.0
+:DateShort: 2019-Aug-24
+:END:
+
+
+** Time +travel+/turner/.
+
+/Edit: forgot which sub this was/
+:PROPERTIES:
+:Author: wandererchronicles
+:Score: 6
+:DateUnix: 1566511575.0
+:DateShort: 2019-Aug-23
+:END:
+
+
+** [[https://m.fanfiction.net/s/1657629/2/]]
+:PROPERTIES:
+:Author: CuriousLurkerPresent
+:Score: 2
+:DateUnix: 1566511016.0
+:DateShort: 2019-Aug-23
+:END:
+
+*** Shows "Published: Jan 1, 1970" for me. Which, if it was real (which it cannot be, obviousely) would make sense, as I live in NZ and we are ahead of you guys in time.
+
+So, now I wonder if the author had to give in a time and time zone when choosing a publishing date.
+:PROPERTIES:
+:Author: a_sack_of_hamsters
+:Score: 3
+:DateUnix: 1566535419.0
+:DateShort: 2019-Aug-23
+:END:
+
+**** Definitely would make sense.
+:PROPERTIES:
+:Author: CuriousLurkerPresent
+:Score: 2
+:DateUnix: 1566535540.0
+:DateShort: 2019-Aug-23
+:END:
+
+
+**** Glitched out time probably. There wasn't a timestamp available so through a Null to 0 bug it became Unix time 0, or Jan. 1. 1970 / Dec. 31. 1969 (depending on the time zone).
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 2
+:DateUnix: 1566596408.0
+:DateShort: 2019-Aug-24
+:END:
+
+
+** I did my waiting for this fic to be updated, 12+ years of it!!😪 it was a favorite back when but pretty cliche now. Maybe I'll give it another read. When I saw the title of this thread I immediately knew which story was being discussed lol
+:PROPERTIES:
+:Author: Jaskitime
+:Score: 1
+:DateUnix: 1566542889.0
+:DateShort: 2019-Aug-23
+:END:

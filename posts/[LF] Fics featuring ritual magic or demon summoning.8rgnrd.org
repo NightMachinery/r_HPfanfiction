@@ -1,0 +1,437 @@
+#+TITLE: [LF] Fics featuring ritual magic or demon summoning
+
+* [LF] Fics featuring ritual magic or demon summoning
+:PROPERTIES:
+:Author: pizzahotdoglover
+:Score: 13
+:DateUnix: 1529118795.0
+:DateShort: 2018-Jun-16
+:FlairText: Request
+:END:
+I really enjoyed linkffn(Hermione Granger, Demonologist by BrilliantLady) and linkffn(Prince of the Dark Kingdom by Mizuni-sama). Looking for other fics that feature ritual magic or include demon summoning.
+
+I've also read linkffn(Too Young to Die by thebombhasbeenplanted) and linkffn(Harry Potter and the Untitled Tome by Ihateseatbelts).
+
+
+** It's a crossover, but in my story linkffn(Champions of the Two Worlds) Hermione is warlock who specializes in demon summing using SQL (Summoning Query Language). She basically uses a demon as her lab assistant because she's a bit of a mad scientist. She is more of a side character though, Harry the Paladin and Ron the Shaman (he summons and binds a fire elemental which is pretty important) are who the story focuses on.
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 9
+:DateUnix: 1529119040.0
+:DateShort: 2018-Jun-16
+:END:
+
+*** u/InquisitorCOC:
+#+begin_quote
+  demon summing using SQL (Summoning Query Language)
+#+end_quote
+
+You mean with the same syntax as [[https://en.wikipedia.org/wiki/SQL][the SQL]]?
+
+Then for Harry, you should let him speak the [[https://www.python.org][Python Language]].
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 10
+:DateUnix: 1529119220.0
+:DateShort: 2018-Jun-16
+:END:
+
+**** This is one of Hermione's demon summoing spells:
+
+01100110 01110010 01101111 01101101 00100000 01010011 01010101 01001101 01001101 01001111 01001110 01011111 01010100 01000001 01000010 01001100 01000101 00100000 01110011 01100101 01101100 01100101 01100011 01110100 00100000 01001001 01001101 01010000 00100000 01110011 01110000 01100101 01100011 01101001 01100110 01111001 01011111 01101111 01100010 01101010 01100101 01100011 01110100 00100000 01010000 01001001 01011010 01011001 01000001 01010000
+
+The translation is something along the lines of:
+
+from SUMMON_TABLE get IMP specify_object PIZYAP
+
+Harry actually prays and sings hyms when he casts more complicated ritual spells, because he's a paladin. Specifically he's trained by draenei vindicators so he worships the Holy light and the Naaru. So far, he hasn't had a chance to speak to snakes, though I might just make it so he can speak Nazja if it ever comes up.
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 8
+:DateUnix: 1529120208.0
+:DateShort: 2018-Jun-16
+:END:
+
+***** That is hilarious and just the kind of nerdy shit I need to read right now. xD
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 3
+:DateUnix: 1529121076.0
+:DateShort: 2018-Jun-16
+:END:
+
+****** I'm writing the bit where Hermione is conducting research into social explosiveering for a gnomish research grant by giving surveys to the undead. Which is after the part where Ron slays Cthulu but before the bit where Harry throws down with Sauron. I've been having fun with the Zalgo text generator for those bits.
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 5
+:DateUnix: 1529121611.0
+:DateShort: 2018-Jun-16
+:END:
+
+******* !!! I didn't realize you said you were the author; props!
+
+Since SQL runs on a non-classical logic, you could use some weird expressions that seem illogical in standard logic
+
+Select * From Summon_Table Where Creature = NULL
+
+(Expressions returns the third truth-value UNKNOWN even if there's a row where the Creature field contains NULL)
+
+Hermione can then ammend her statement in /Philosopher's Stone/. It's not that wizards don't have an ounce of logic, they just use a different logic.
+
+This is probably a terrible idea, heh. This is what thinking about maths too much does to one
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 3
+:DateUnix: 1529122361.0
+:DateShort: 2018-Jun-16
+:END:
+
+******** I am definitely using this for when Wilfred Fizzlebang and Hermione screw up summoning the demon for the Argent Tournament and end up with JARAXXUS, EREDAR LORD OF THE BURNING LEGION!
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 2
+:DateUnix: 1529213683.0
+:DateShort: 2018-Jun-17
+:END:
+
+
+*** [[https://www.fanfiction.net/s/12888333/1/][*/Champions of the Two Worlds/*]] by [[https://www.fanfiction.net/u/4497458/mugglesftw][/mugglesftw/]]
+
+#+begin_quote
+  When Arthas seized the Frozen Throne, he cast aside both his humanity and the remnants of Ner'zhul. The Guardian sealed away the spirit of the former Lich King in another world, entrusting them to Albus Dumbledore. Now, however, Ner'zhul has ensnared a new host: Lord Voldemort. With two worlds threatened, heroes are brought to Azeroth to cast down both Lich Kings once and for all.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{+} ^{Warcraft} ^{Crossover} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{17} ^{*|*} ^{/Words/:} ^{94,679} ^{*|*} ^{/Reviews/:} ^{84} ^{*|*} ^{/Favs/:} ^{91} ^{*|*} ^{/Follows/:} ^{126} ^{*|*} ^{/Updated/:} ^{6/12} ^{*|*} ^{/Published/:} ^{4/1} ^{*|*} ^{/id/:} ^{12888333} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure/Fantasy} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Ron} ^{W.,} ^{Ner'zhul,} ^{Lili} ^{Stormstout} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12888333&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12888333&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 3
+:DateUnix: 1529119056.0
+:DateShort: 2018-Jun-16
+:END:
+
+
+*** Interesting! How much knowledge about Warcraft should I have before reading it?
+:PROPERTIES:
+:Author: pizzahotdoglover
+:Score: 2
+:DateUnix: 1529119182.0
+:DateShort: 2018-Jun-16
+:END:
+
+**** It would help to know the very basics. If you ever played Warcraft III or WoW you'll know plenty as a deep knowledge of the lore isn't required (but might help you see a couple of plot twists coming). Really, just watching the original [[https://www.youtube.com/watch?v=ZhNr563aJWs][World of Warcraft cinemati]]c and the [[https://www.youtube.com/watch?v=BCr7y4SLhck][Wrath of the Lich King]] cinematic will tell you plenty. You don't even have to do that, but it will set the table to show you more or less what the difference races look like and show you what kind of high fantasy setting you're diving into. And why Arthas is a stone cold badass you do not want to fuck with, because he can make dragon zombies.
+
+Edit: Also, if you've never played WCIII, you really should. It's hands down one of the best RTS games of all time, and its gameplay and story hold up even today. Especially the Frozen Throne campaigns.
+
+Edit again: [[https://www.youtube.com/watch?v=Ch4rc5W4dKY][The Wrathgate]] shows Arthas in action, kicking ass and taking souls. [[https://www.youtube.com/watch?v=B8XtohlqEeM][The Burning Crusade cinemati]]c will show you what a draenei looks like.
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 4
+:DateUnix: 1529120613.0
+:DateShort: 2018-Jun-16
+:END:
+
+***** /Did you think we had forgotten?/
+
+/Did you think we had forgiven?/
+
+/Behold now, the terrible vengance of the Forsaken!/
+
+*Death to the Scourge, and death to the LIVING!*
+
+Man, Wrathgate is such a hype cinematic.
+:PROPERTIES:
+:Author: will1707
+:Score: 5
+:DateUnix: 1529126991.0
+:DateShort: 2018-Jun-16
+:END:
+
+****** I know man. I'm writing that scene in my fic, and goddammit, Putress is going to get WRECKED SON. REMEMBER FORDRAGON!
+
+(Seriously though when that cutscene played out for the first time I was SO HYPED it was unbelievable. I know the later cinematics are so much better but that was the first one and it has a special place in this nerds heart).
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 3
+:DateUnix: 1529130284.0
+:DateShort: 2018-Jun-16
+:END:
+
+
+*** Link?
+:PROPERTIES:
+:Author: flingerdinger
+:Score: 2
+:DateUnix: 1529125500.0
+:DateShort: 2018-Jun-16
+:END:
+
+**** Linkffn(Champions of the Two Worlds)
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 1
+:DateUnix: 1529130320.0
+:DateShort: 2018-Jun-16
+:END:
+
+***** [[https://www.fanfiction.net/s/12888333/1/][*/Champions of the Two Worlds/*]] by [[https://www.fanfiction.net/u/4497458/mugglesftw][/mugglesftw/]]
+
+#+begin_quote
+  When Arthas seized the Frozen Throne, he cast aside both his humanity and the remnants of Ner'zhul. The Guardian sealed away the spirit of the former Lich King in another world, entrusting them to Albus Dumbledore. Now, however, Ner'zhul has ensnared a new host: Lord Voldemort. With two worlds threatened, heroes are brought to Azeroth to cast down both Lich Kings once and for all.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{+} ^{Warcraft} ^{Crossover} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{17} ^{*|*} ^{/Words/:} ^{94,679} ^{*|*} ^{/Reviews/:} ^{84} ^{*|*} ^{/Favs/:} ^{91} ^{*|*} ^{/Follows/:} ^{126} ^{*|*} ^{/Updated/:} ^{6/12} ^{*|*} ^{/Published/:} ^{4/1} ^{*|*} ^{/id/:} ^{12888333} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure/Fantasy} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Ron} ^{W.,} ^{Ner'zhul,} ^{Lili} ^{Stormstout} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12888333&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12888333&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1529130338.0
+:DateShort: 2018-Jun-16
+:END:
+
+
+** [[https://www.fanfiction.net/s/12614436/1/][*/Hermione Granger, Demonologist/*]] by [[https://www.fanfiction.net/u/6872861/BrilliantLady][/BrilliantLady/]]
+
+#+begin_quote
+  Hermione was eight when she summoned her first demon. She was lonely. He asked what she wanted, and she said a friend to have tea parties with. It confused him a lot. But that wasn't going to stop him from striking a promising deal with the young witch. Dark!Hermione, Slytherin!Hermione, occult theme. Complete.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{11} ^{*|*} ^{/Words/:} ^{50,955} ^{*|*} ^{/Reviews/:} ^{894} ^{*|*} ^{/Favs/:} ^{2,160} ^{*|*} ^{/Follows/:} ^{1,620} ^{*|*} ^{/Updated/:} ^{10/19/2017} ^{*|*} ^{/Published/:} ^{8/14/2017} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{12614436} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Fantasy/Supernatural} ^{*|*} ^{/Characters/:} ^{Hermione} ^{G.,} ^{Theodore} ^{N.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12614436&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12614436&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[https://www.fanfiction.net/s/3766574/1/][*/Prince of the Dark Kingdom/*]] by [[https://www.fanfiction.net/u/1355498/Mizuni-sama][/Mizuni-sama/]]
+
+#+begin_quote
+  Ten years ago, Voldemort created his kingdom. Now a confused young wizard stumbles into it, and carves out a destiny. AU. Nondark Harry. MentorVoldemort. VII Ch.8 In which someone is dead, wounded, or kidnapped in every scene.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{147} ^{*|*} ^{/Words/:} ^{1,253,480} ^{*|*} ^{/Reviews/:} ^{11,078} ^{*|*} ^{/Favs/:} ^{7,232} ^{*|*} ^{/Follows/:} ^{6,474} ^{*|*} ^{/Updated/:} ^{6/17/2014} ^{*|*} ^{/Published/:} ^{9/3/2007} ^{*|*} ^{/id/:} ^{3766574} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Drama/Adventure} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Voldemort} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=3766574&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=3766574&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[https://www.fanfiction.net/s/9057950/1/][*/Too Young to Die/*]] by [[https://www.fanfiction.net/u/4573056/thebombhasbeenplanted][/thebombhasbeenplanted/]]
+
+#+begin_quote
+  Harry Potter knew quite a deal about fairness and unfairness, or so he had thought after living locked up all his life in the Potter household, ignored by his parents to the benefit of his brother - the boy who lived. But unfairness took a whole different dimension when his sister Natasha Potter died. That simply wouldn't do.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{21} ^{*|*} ^{/Words/:} ^{194,707} ^{*|*} ^{/Reviews/:} ^{508} ^{*|*} ^{/Favs/:} ^{1,355} ^{*|*} ^{/Follows/:} ^{758} ^{*|*} ^{/Updated/:} ^{1/26/2014} ^{*|*} ^{/Published/:} ^{3/1/2013} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{9057950} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure/Angst} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9057950&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9057950&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[https://www.fanfiction.net/s/10210053/1/][*/Harry Potter and the Untitled Tome/*]] by [[https://www.fanfiction.net/u/5608530/Ihateseatbelts][/Ihateseatbelts/]]
+
+#+begin_quote
+  The Battle of Nurmengard ended in a stalemate. Half a century later, Harry Potter feels adrift in a world teeming with millions of fantastic folk. Armed with a talking wand, he forays single-minded into the noble art and sport of Duelling, until one book leads him on the path to discovering his ill-fated parents' efforts to conceal a most dangerous magical secret.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{27} ^{*|*} ^{/Words/:} ^{211,891} ^{*|*} ^{/Reviews/:} ^{263} ^{*|*} ^{/Favs/:} ^{921} ^{*|*} ^{/Follows/:} ^{1,122} ^{*|*} ^{/Updated/:} ^{11/7/2017} ^{*|*} ^{/Published/:} ^{3/23/2014} ^{*|*} ^{/id/:} ^{10210053} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Fantasy/Supernatural} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Hermione} ^{G.,} ^{Albus} ^{D.,} ^{Neville} ^{L.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10210053&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10210053&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1529118813.0
+:DateShort: 2018-Jun-16
+:END:
+
+
+** linkffn(11975368) is another cross-over with Warcraft, where Harry is a warlock specializing in summoning and rituals. He works for the demons of the Legion, so the story is pretty dark
+:PROPERTIES:
+:Author: glavbass
+:Score: 2
+:DateUnix: 1529198089.0
+:DateShort: 2018-Jun-17
+:END:
+
+*** [[https://www.fanfiction.net/s/11975368/1/][*/The Stormreaver/*]] by [[https://www.fanfiction.net/u/2637726/Faykan][/Faykan/]]
+
+#+begin_quote
+  A tale of demonic manipulation and a warring Alliance trying to defend their world from a rampaging Horde. Thrown into the mix of this world before he could even walk or talk, Infant Harry Potter is placed into the hands of the most powerful Warlock of his people, Darkness Incarnate himself: Gul'dan, chieftain of the Stormreaver Clan.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{+} ^{Warcraft} ^{Crossover} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{54} ^{*|*} ^{/Words/:} ^{379,439} ^{*|*} ^{/Reviews/:} ^{914} ^{*|*} ^{/Favs/:} ^{1,517} ^{*|*} ^{/Follows/:} ^{1,648} ^{*|*} ^{/Updated/:} ^{6/12} ^{*|*} ^{/Published/:} ^{5/31/2016} ^{*|*} ^{/id/:} ^{11975368} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure/Fantasy} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Gul'dan} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11975368&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11975368&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1529198103.0
+:DateShort: 2018-Jun-17
+:END:
+
+
+*** I have zero exposure to the Warcraft universe. Should I still read it?
+:PROPERTIES:
+:Author: pizzahotdoglover
+:Score: 1
+:DateUnix: 1529198197.0
+:DateShort: 2018-Jun-17
+:END:
+
+**** I only knew random bits of it from watching my ex play but still really enjoyed the story. Harry ends up back on HP-Earth after 4 or 5 initial chapters. I'd say try reading the first chapter. If you don't get bored or confused enough to quit, it will only get better.
+:PROPERTIES:
+:Author: glavbass
+:Score: 2
+:DateUnix: 1529199267.0
+:DateShort: 2018-Jun-17
+:END:
+
+
+** The endgame in [[https://www.fanfiction.net/s/11080542/1/Patron][Patron]], linkffn(11080542), can be seen as the 'duel of the rituals'. Both sides were diving into dark rituals that would give them lethal advantages.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 2
+:DateUnix: 1529119066.0
+:DateShort: 2018-Jun-16
+:END:
+
+*** [[https://www.fanfiction.net/s/11080542/1/][*/Patron/*]] by [[https://www.fanfiction.net/u/2548648/Starfox5][/Starfox5/]]
+
+#+begin_quote
+  In an Alternate Universe where muggleborns are a tiny minority and stuck as third-class citizens, formally aligning herself with her best friend, the famous boy-who-lived, seemed a good idea. It did a lot to help Hermione's status in the exotic society of a fantastic world so very different from her own. And it allowed both of them to fight for a better life and better Britain.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{61} ^{*|*} ^{/Words/:} ^{542,678} ^{*|*} ^{/Reviews/:} ^{1,197} ^{*|*} ^{/Favs/:} ^{1,394} ^{*|*} ^{/Follows/:} ^{1,351} ^{*|*} ^{/Updated/:} ^{4/23/2016} ^{*|*} ^{/Published/:} ^{2/28/2015} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{11080542} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Drama/Romance} ^{*|*} ^{/Characters/:} ^{<Harry} ^{P.,} ^{Hermione} ^{G.>} ^{Albus} ^{D.,} ^{Aberforth} ^{D.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11080542&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11080542&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1529119096.0
+:DateShort: 2018-Jun-16
+:END:
+
+
+*** I actually did read that story a long time ago, and I enjoyed it, though I don't remember the rituals you're referring to.
+:PROPERTIES:
+:Author: pizzahotdoglover
+:Score: 1
+:DateUnix: 1529119235.0
+:DateShort: 2018-Jun-16
+:END:
+
+**** Really?
+
+Voldemort was experimenting with werewolves, while Hermione and Dumbledore were playing around with dementors.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 2
+:DateUnix: 1529119330.0
+:DateShort: 2018-Jun-16
+:END:
+
+
+** I can never remember what it's called, but there was one where the kids summon a demon. It was a digisea (however that's spelled) crossover. They had stuffed penguins that were alive.
+:PROPERTIES:
+:Author: Freshenstein
+:Score: 2
+:DateUnix: 1529124403.0
+:DateShort: 2018-Jun-16
+:END:
+
+*** Found it
+
+Linkffn(Something Wicked this Way Comes by The Mad Mad Reviewer)
+:PROPERTIES:
+:Author: Freshenstein
+:Score: 3
+:DateUnix: 1529124580.0
+:DateShort: 2018-Jun-16
+:END:
+
+**** [[https://www.fanfiction.net/s/5501817/1/][*/Something Wicked This Way Comes/*]] by [[https://www.fanfiction.net/u/699762/The-Mad-Mad-Reviewer][/The Mad Mad Reviewer/]]
+
+#+begin_quote
+  After Cedric's death, Harry and company summon a demon to kill Lord Voldemort. Except, well, when the hell is summoning a demon ever turn out just the way you planned?
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{+} ^{Disgaea} ^{Crossover} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{48} ^{*|*} ^{/Words/:} ^{160,133} ^{*|*} ^{/Reviews/:} ^{1,671} ^{*|*} ^{/Favs/:} ^{2,498} ^{*|*} ^{/Follows/:} ^{1,642} ^{*|*} ^{/Updated/:} ^{6/1/2013} ^{*|*} ^{/Published/:} ^{11/10/2009} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{5501817} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Humor/Horror} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Etna} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=5501817&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=5501817&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1529124609.0
+:DateShort: 2018-Jun-16
+:END:
+
+
+** Princess of the Blacks certainty has the ritual magic, arguably has the demon summoning later in the series. It's a teensy-weensy bit darker than the examples you gave, though - the MC is perfectly willing to kill random people for her goals or safety, and starts the series working in a child brothel.
+
+linkffn(8233291)
+:PROPERTIES:
+:Author: Dusk_Star
+:Score: 2
+:DateUnix: 1529133777.0
+:DateShort: 2018-Jun-16
+:END:
+
+*** I don't mind dark at all. I've actually read this one and I enjoyed it! Know anymore like it?
+:PROPERTIES:
+:Author: pizzahotdoglover
+:Score: 3
+:DateUnix: 1529134090.0
+:DateShort: 2018-Jun-16
+:END:
+
+
+*** [[https://www.fanfiction.net/s/8233291/1/][*/Princess of the Blacks/*]] by [[https://www.fanfiction.net/u/4036441/Silently-Watches][/Silently Watches/]]
+
+#+begin_quote
+  First in the Black Queen series. Sirius searches for his goddaughter and finds her in one of the least expected and worst possible locations and lifestyles. How was he to know just how many problems bringing her home would cause? DARK and NOT for children. fem!Harry
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{35} ^{*|*} ^{/Words/:} ^{189,338} ^{*|*} ^{/Reviews/:} ^{2,041} ^{*|*} ^{/Favs/:} ^{4,761} ^{*|*} ^{/Follows/:} ^{3,098} ^{*|*} ^{/Updated/:} ^{12/18/2013} ^{*|*} ^{/Published/:} ^{6/19/2012} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{8233291} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure/Fantasy} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Luna} ^{L.,} ^{Viktor} ^{K.,} ^{Cedric} ^{D.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8233291&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8233291&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1529133793.0
+:DateShort: 2018-Jun-16
+:END:
+
+
+** Sort of want to throw in Magicks of the Arcane linkffn(Magicks of the Arcane), which has a few ritual scenes, and in particular the depiction of "The Black Arts" is a fantastic piece of writing.
+:PROPERTIES:
+:Author: XeshTrill
+:Score: 1
+:DateUnix: 1529145609.0
+:DateShort: 2018-Jun-16
+:END:
+
+*** [[https://www.fanfiction.net/s/8303194/1/][*/Magicks of the Arcane/*]] by [[https://www.fanfiction.net/u/2552465/Eilyfe][/Eilyfe/]]
+
+#+begin_quote
+  Sometimes, all it takes to rise to greatness is a helping hand, the incentive to survive. And thrust between giants Harry has no choice but become one himself if he wants to keep on breathing. He might've found a way, but life's never that easy. Clock's ticking, Harry. Learn fast now.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{40} ^{*|*} ^{/Words/:} ^{285,843} ^{*|*} ^{/Reviews/:} ^{2,029} ^{*|*} ^{/Favs/:} ^{5,612} ^{*|*} ^{/Follows/:} ^{5,035} ^{*|*} ^{/Updated/:} ^{1/28/2016} ^{*|*} ^{/Published/:} ^{7/9/2012} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{8303194} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Albus} ^{D.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8303194&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8303194&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1529145614.0
+:DateShort: 2018-Jun-16
+:END:

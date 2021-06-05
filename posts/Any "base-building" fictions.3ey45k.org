@@ -1,0 +1,330 @@
+#+TITLE: Any "base-building" fictions?
+
+* Any "base-building" fictions?
+:PROPERTIES:
+:Author: gogo199432
+:Score: 11
+:DateUnix: 1438117723.0
+:DateShort: 2015-Jul-29
+:FlairText: Request
+:END:
+Okay, so this might be a bit of a strange request, but I'm looking for fics where the focus is mainly on the main character building and managing a base, for example a city or school or something else. Oh and preferably goes over a long period of time, so the characters become famous and legends etc. If you still dont get it, I'm looking for fics like The Avalanche which is a LOTR/Hp crossover and it's great so read it! :D
+
+
+** My favorite current fic of this nature is an HP/GOT crossover by joen1801 called The Difference One Man Can Make. The first chapter is a bit shakey but oh boy does it pick up and become excellent. He updates on a regular basis.
+
+linkffn(11132113)
+
+Another HP/GOT base building fic is The Wizard of Harrenhal by DisobedienceWriter. I really, really loved this fic and it's finished which is such a plus. It's all about building up a magic town and taking over Westeros.
+
+linkffn(11255223)
+
+Another favorite fic like this is an HP/SGA crossover called Space Haven by Esama . It's 140k words and abandoned, but still well worth reading. The Wizarding World moves to Atlantis and re-architects their society. This is a popular trope for Esama so you might want to check out some of her other fics including her Island of Fire series [[http://archiveofourown.org/series/205025]].
+
+linka03(2849816)
+
+In Xerosis by Batsutousai wizards move to the moon and create a new society. This is also complete.
+
+linkffn(6985795)
+
+In Harry Potter and the Kindling of the Fire series by TigerShark. Harry goes back in town and builds a magical town with prep-school. It has 2 complete stories in the series so far and 1 that's still WIP. Last update 5/15.
+
+linkffn(1535306)
+:PROPERTIES:
+:Author: tpyrene
+:Score: 4
+:DateUnix: 1438124070.0
+:DateShort: 2015-Jul-29
+:END:
+
+*** ffnbot!parent
+
+[[/u/StuxCrystal]], the connection drops are becoming a real issue. The not seems to drop every third or fourth request. Any idea?
+:PROPERTIES:
+:Author: tusing
+:Score: 4
+:DateUnix: 1438142645.0
+:DateShort: 2015-Jul-29
+:END:
+
+**** With so much info I can do so little.
+
+Where do your HTTP Connections reset and more importantly, why you think they cause the bot to fail?
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 2
+:DateUnix: 1438166779.0
+:DateShort: 2015-Jul-29
+:END:
+
+***** Usually this happens:
+
+= INFO:root:Parsing new submissions.= = INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: api.reddit.com= = INFO:root:Parsing new comments.=
+
+I'll have more time to discuss this in git/chat later, as I'm not exactly able to work on the bot at the moment.
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1438186000.0
+:DateShort: 2015-Jul-29
+:END:
+
+
+*** kindling of fire is on ao3, not on ffn
+:PROPERTIES:
+:Author: WoutervD
+:Score: 1
+:DateUnix: 1438222089.0
+:DateShort: 2015-Jul-30
+:END:
+
+
+*** ffnbot!parent
+
+sorry for the necro, I just found this in my saved links and realised the bot still hasn't worked yet.
+:PROPERTIES:
+:Author: waylandertheslayer
+:Score: 1
+:DateUnix: 1453260105.0
+:DateShort: 2016-Jan-20
+:END:
+
+
+** Harry Potter and the Freedom of Apathy, and its sequel kind of follow this idea.
+
+Lord of Caer Azkaban has some of those elements.
+
+Earl of the North, as well.
+
+Not sure any of them are exactly what you're looking for. But they're not bad stories either way.
+
+Edit: these all have something to do with Azkaban as well, which I only just noticed.
+
+linkffn(2329599;2432499;2107570;2208427)
+:PROPERTIES:
+:Author: Slindish
+:Score: 2
+:DateUnix: 1438126377.0
+:DateShort: 2015-Jul-29
+:END:
+
+*** [[http://www.fanfiction.net/s/2329599/1/][*/Harry Potter and the Freedom of Apathy/*]] by [[https://www.fanfiction.net/u/649528/nonjon][/nonjon/]]
+
+#+begin_quote
+  COMPLETE. PostOotP. After ten years in Azkaban Harry emerges a changed man. Enlightened and respectful, he is creature of magic full of disappointment and shame in his own race. And yet wielding power that none can match.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 15 *|* /Words/: 33,985 *|* /Reviews/: 364 *|* /Favs/: 2,279 *|* /Follows/: 564 *|* /Published/: 3/30/2005 *|* /Status/: Complete *|* /id/: 2329599 *|* /Language/: English *|* /Genre/: Drama/Angst *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=2329599][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/2107570/1/][*/Lord of Caer Azkaban/*]] by [[https://www.fanfiction.net/u/686093/Rorschach-s-Blot][/Rorschach's Blot/]]
+
+#+begin_quote
+  A letter causes Harry to learn some surprising things about his lineage, a different twist on the usual Harry in Azkaban story line.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 34 *|* /Words/: 119,393 *|* /Reviews/: 4,969 *|* /Favs/: 8,327 *|* /Follows/: 4,325 *|* /Updated/: 12/14/2010 *|* /Published/: 10/24/2004 *|* /Status/: Complete *|* /id/: 2107570 *|* /Language/: English *|* /Characters/: Harry P., Hermione G. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=2107570][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/2208427/1/][*/Earl of the North/*]] by [[https://www.fanfiction.net/u/116880/Lord-Silvere][/Lord Silvere/]]
+
+#+begin_quote
+  Harry is framed for the mass murder of Muggles after he deals Voldemort a stunning blow. He is sent to Azkaban where he and his cell mate, Bellatrix Black, begin to discover Harry's heritage and his potential power as they plot to escape.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 50 *|* /Words/: 187,938 *|* /Reviews/: 4,289 *|* /Favs/: 6,500 *|* /Follows/: 3,307 *|* /Updated/: 11/14/2009 *|* /Published/: 1/6/2005 *|* /Status/: Complete *|* /id/: 2208427 *|* /Language/: English *|* /Genre/: Romance *|* /Characters/: Harry P., Bellatrix L. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=2208427][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/2432499/1/][*/Harry Potter and the Apathy of Freedom/*]] by [[https://www.fanfiction.net/u/649528/nonjon][/nonjon/]]
+
+#+begin_quote
+  COMPLETE. OneShot. [Sequel to Harry Potter and the Freedom of Apathy] The wizarding world has been freed from the oppression of the Dark Lord. And it appears they have learned nothing.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Words/: 14,704 *|* /Reviews/: 184 *|* /Favs/: 1,060 *|* /Follows/: 255 *|* /Published/: 6/11/2005 *|* /Status/: Complete *|* /id/: 2432499 *|* /Language/: English *|* /Genre/: Drama/Angst *|* /Characters/: Harry P., N. Tonks *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=2432499][EPUB]]}
+
+--------------
+
+*Bot v1.1.2 - 7/28/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* /Direct EPUB downloads for FFnet!/
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1438126468.0
+:DateShort: 2015-Jul-29
+:END:
+
+
+** linkffn(The Voyage of the Starship Hedwig) involves colonising new planets, and is generally well-written and exciting, although it's /very/ AU.
+:PROPERTIES:
+:Author: waylandertheslayer
+:Score: 2
+:DateUnix: 1438271706.0
+:DateShort: 2015-Jul-30
+:END:
+
+*** [[http://www.fanfiction.net/s/7135971/1/][*/The Voyage of the Starship Hedwig/*]] by [[https://www.fanfiction.net/u/2409341/Ynyr][/Ynyr/]]
+
+#+begin_quote
+  Just before her death Sybill Trelawney makes one last prophecy: to prevent a magical genocide Harry Potter must leave the Earth, and find a new home for his people around a distant star.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 22 *|* /Words/: 100,184 *|* /Reviews/: 342 *|* /Favs/: 677 *|* /Follows/: 518 *|* /Updated/: 2/5/2012 *|* /Published/: 7/1/2011 *|* /Status/: Complete *|* /id/: 7135971 *|* /Language/: English *|* /Genre/: Sci-Fi *|* /Characters/: Harry P. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=7135971][EPUB]]}
+
+--------------
+
+*Bot v1.1.2 - 7/28/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* /Direct EPUB downloads for FFnet!/
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1438271750.0
+:DateShort: 2015-Jul-30
+:END:
+
+
+*** Read it, loved it ;)
+:PROPERTIES:
+:Author: gogo199432
+:Score: 1
+:DateUnix: 1438323652.0
+:DateShort: 2015-Jul-31
+:END:
+
+
+** [[https://www.fanfiction.net/s/7775877/1/Lily-Potter-s-Biggest-Secret][Lily Potter's Biggest Secret]] has the characters building a village at one point, not sure if it's enough to satisfy your requirement or not
+:PROPERTIES:
+:Author: Riversz
+:Score: 1
+:DateUnix: 1438148523.0
+:DateShort: 2015-Jul-29
+:END:
+
+*** [[http://www.fanfiction.net/s/7775877/1/][*/Lily Potter's Biggest Secret/*]] by [[https://www.fanfiction.net/u/1880349/StrongHermione][/StrongHermione/]]
+
+#+begin_quote
+  Following a moment of passion, Lily Potter finds herself in a difficult position. She does her best to hide it. What happens when seventeen years later, her biggest secret comes to light? A story chronicling the formation of a family. Rated M for swearing and suggestive themes. AU, EWE?, Post War, Mild OOC, Spoilers. Pairings: HG/DM HP/GW SS/OC - COMPLETE
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 47 *|* /Words/: 457,065 *|* /Reviews/: 1,014 *|* /Favs/: 971 *|* /Follows/: 655 *|* /Updated/: 6/10/2013 *|* /Published/: 1/25/2012 *|* /Status/: Complete *|* /id/: 7775877 *|* /Language/: English *|* /Genre/: Romance/Family *|* /Characters/: <Hermione G., Draco M.> Severus S. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=7775877][EPUB]]}
+
+--------------
+
+*Bot v1.1.2 - 7/28/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* /Direct EPUB downloads for FFnet!/
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 3
+:DateUnix: 1438148610.0
+:DateShort: 2015-Jul-29
+:END:
+
+
+** This is a type of Fanfix I also enjoy a lot, too bad there ain't a lot of those around...
+
+This crossover has this in spades
+
+linkffn(11132113)
+
+And this triology:
+
+linkffn(7591040;8186304;10301672)
+
+This has elements of it: linkffn(10912355)
+:PROPERTIES:
+:Author: Sitethief
+:Score: 1
+:DateUnix: 1438162751.0
+:DateShort: 2015-Jul-29
+:END:
+
+*** can i read these without reading dragon riders?
+:PROPERTIES:
+:Author: ccoottyy123
+:Score: 2
+:DateUnix: 1438234401.0
+:DateShort: 2015-Jul-30
+:END:
+
+**** Yes, only the dragons crossed over :). Everything you need to know is explained inverse.
+:PROPERTIES:
+:Author: Sitethief
+:Score: 1
+:DateUnix: 1438238246.0
+:DateShort: 2015-Jul-30
+:END:
+
+***** thanks
+:PROPERTIES:
+:Author: ccoottyy123
+:Score: 2
+:DateUnix: 1438238906.0
+:DateShort: 2015-Jul-30
+:END:
+
+
+*** [[http://www.fanfiction.net/s/10301672/1/][*/Beneath Sovereign Skies/*]] by [[https://www.fanfiction.net/u/777540/Bobmin356][/Bobmin356/]]
+
+#+begin_quote
+  Harry and the dragons fight to find their place and gain acceptance amidst growing international tensions. Not all is well and good as the Weyrs threaten established powers and offer new opportunities. Follow Harry and the dragons as they try to navigate increasingly turbulent waters of international politics, terrorism and intrigue. Book 3 in the HP/Dragonrider series
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter + Dragonriders of Pern series Crossover *|* /Rated/: Fiction M *|* /Chapters/: 14 *|* /Words/: 246,366 *|* /Reviews/: 1,128 *|* /Favs/: 1,537 *|* /Follows/: 1,491 *|* /Updated/: 10/26/2014 *|* /Published/: 4/26/2014 *|* /id/: 10301672 *|* /Language/: English *|* /Genre/: Drama/Sci-Fi *|* /Characters/: Harry P., Hermione G., OC *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=10301672][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/10912355/1/][*/Revenge of the Wizard/*]] by [[https://www.fanfiction.net/u/1229909/Darth-Marrs][/Darth Marrs/]]
+
+#+begin_quote
+  A Harry Potter cursed with immortality must not only survive the raping of Earth by monsters far more powerful than any humanity has encountered, but he must rise to save it, and in the process exact one wizard's revenge against the Galactic Empire.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Star Wars + Harry Potter Crossover *|* /Rated/: Fiction T *|* /Chapters/: 26 *|* /Words/: 111,739 *|* /Reviews/: 2,678 *|* /Favs/: 3,163 *|* /Follows/: 3,699 *|* /Updated/: 7/25 *|* /Published/: 12/23/2014 *|* /id/: 10912355 *|* /Language/: English *|* /Genre/: Sci-Fi/Fantasy *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=10912355][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/11132113/1/][*/The Difference One Man Can Make/*]] by [[https://www.fanfiction.net/u/6132825/joen1801][/joen1801/]]
+
+#+begin_quote
+  After the Battle of Hogwarts, Harry Potter decided to travel the world. Twelve years later when a new threat attempts to destroy the progress made in Britain he returns home to deal with the situation. During the fight that puts down the small group of upstarts Harry finds himself in a world of ice and fire
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter + Game of Thrones Crossover *|* /Rated/: Fiction M *|* /Chapters/: 11 *|* /Words/: 138,760 *|* /Reviews/: 1,453 *|* /Favs/: 2,834 *|* /Follows/: 3,203 *|* /Updated/: 7/27 *|* /Published/: 3/22 *|* /id/: 11132113 *|* /Language/: English *|* /Genre/: Adventure *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=11132113][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/8186304/1/][*/On the Wings of Dragons/*]] by [[https://www.fanfiction.net/u/777540/Bobmin356][/Bobmin356/]]
+
+#+begin_quote
+  The Weyr prepares for the step of going public against the backdrop of heightening international tensions and increasingly complex personal issues. And is Britain really secure now that the Ministry has been conquered? Sequel to The Queen Who Fell to Earth. Harry/Hr/OCF
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter + Dragonriders of Pern series Crossover *|* /Rated/: Fiction M *|* /Chapters/: 19 *|* /Words/: 365,930 *|* /Reviews/: 2,141 *|* /Favs/: 2,451 *|* /Follows/: 1,765 *|* /Updated/: 4/7/2013 *|* /Published/: 6/5/2012 *|* /Status/: Complete *|* /id/: 8186304 *|* /Language/: English *|* /Genre/: Drama/Sci-Fi *|* /Characters/: Harry P. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=8186304][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/7591040/1/][*/The Queen who fell to Earth/*]] by [[https://www.fanfiction.net/u/777540/Bobmin356][/Bobmin356/]]
+
+#+begin_quote
+  Forced to compete and abandoned by his friends, he steps from the tent with only one goal in mind, suicide. Instead Harry awakens a power that spans time and space and starts a war between the worlds.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter + Dragonriders of Pern series Crossover *|* /Rated/: Fiction M *|* /Chapters/: 18 *|* /Words/: 302,411 *|* /Reviews/: 2,394 *|* /Favs/: 4,108 *|* /Follows/: 2,313 *|* /Updated/: 3/26/2012 *|* /Published/: 11/28/2011 *|* /Status/: Complete *|* /id/: 7591040 *|* /Language/: English *|* /Genre/: Drama/Sci-Fi *|* /Characters/: Harry P. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=7591040][EPUB]]}
+
+--------------
+
+*Bot v1.1.2 - 7/28/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* /Direct EPUB downloads for FFnet!/
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1438162814.0
+:DateShort: 2015-Jul-29
+:END:

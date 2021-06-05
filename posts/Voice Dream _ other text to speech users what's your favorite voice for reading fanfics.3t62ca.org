@@ -1,0 +1,217 @@
+#+TITLE: Voice Dream / other text to speech users: what's your favorite voice for reading fanfics?
+
+* Voice Dream / other text to speech users: what's your favorite voice for reading fanfics?
+:PROPERTIES:
+:Author: Diadear
+:Score: 6
+:DateUnix: 1447775237.0
+:DateShort: 2015-Nov-17
+:FlairText: Discussion
+:END:
+I've been using Heather from Acapela since I bought her on accident but I think I'd like to move onto a different voice.
+
+The voice samples provided in-app are reading at a pace too slow for me to discern what would be best. What do you use?
+
+I'd prefer a male voice, and one that can read fast without too much degradation. I think I'd like to use James from Neospeech but I read his voice isn't suited for fiction.
+
+
+** I use his voice for fiction just fine. Yes, he does sort of sound like a newscaster, but once you speed him up enough, that stops mattering. For Harry Potter stuff though, I use Bridget, because I'm not OK with having an American voice read British English stuff. I tried Sharon, the voice apparently intended for long-form fiction reading, and I found her to be just awful! Her voice is jerky, slightly too robotic, and mispronounces things in irritating ways that are hard to fix. Whatever you do, though, you're going to need to make a dictionary entry for Hermione. There are only a few voices in the world that get her name right by default, and I don't think any of them are available on IOS. If you're curious, the voices I have who get Hermione right are Ivona Emma (no longer sold or supported) and all of the [[https://www.cereproc.com/en][Cereproc]] voices. You'll still need to go and fix tons and tons of other obscure stuff (Accio and other spell names especially) though.
+:PROPERTIES:
+:Author: fastfinge
+:Score: 5
+:DateUnix: 1447782121.0
+:DateShort: 2015-Nov-17
+:END:
+
+*** Thanks for the great details! And yes. I have tons of dictionary issues LOL
+
+For some reason there will be the occasional sentence where words like "wand" are all wrong when I check the dictionary its normal.
+:PROPERTIES:
+:Author: Diadear
+:Score: 1
+:DateUnix: 1447800952.0
+:DateShort: 2015-Nov-18
+:END:
+
+**** Some voices are sensitive to spacing, capitalization, and punctuation. The Acapela voices, on some platforms, are especially bad for this in my experience. For example, if a sentence ends with a period, but the author forgets to start the next sentence with a capital, those voices often won't pause properly, and instead just run one sentence into another. So it could well be that whatever voice you're using treats "wand ", "wand ", "Wand", "wand!", "wand.", and "wand?" differently for pronunciation. That makes creating pronunciation dictionaries crazy difficult. It's one of the reasons I like neospeech so much; while the voices may be a tad more robotic than something like Ivona, at least they behave in predictable ways. As someone who was born completely blind, so uses TTS for absolutely everything, I have ridiculously strong opinions about what is the best voice and why; I've worked hard to moderate myself here and not just come off as a troll LOL.
+:PROPERTIES:
+:Author: fastfinge
+:Score: 1
+:DateUnix: 1447802254.0
+:DateShort: 2015-Nov-18
+:END:
+
+***** Thank you for your insight! Your opinions are welcome and you don't come off as a troll at all. You've been very helpful actually; I sort of took a shot at the dark with my question since I wasn't sure how many TTS users were in the HP fanfic community.
+
+Acapela has been okay for me so far but I'm glad to know there even better options for me out there.
+:PROPERTIES:
+:Author: Diadear
+:Score: 3
+:DateUnix: 1447852457.0
+:DateShort: 2015-Nov-18
+:END:
+
+
+** In case anyone still cares about this, we finally got word from VoiceDream on [[https://twitter.com/VoiceDreamApp/status/672413267319484416][Twitter]]: "Ivona is discontinuing their iOS TTS. Ivona voices will not longer be available starting December 24 2016." So buy all the ones you want, while you still can [[/u/Diadear]] and [[/u/philosophize]] because we now have a confirmed date when they're going away forever.
+:PROPERTIES:
+:Author: fastfinge
+:Score: 2
+:DateUnix: 1449154295.0
+:DateShort: 2015-Dec-03
+:END:
+
+*** Thanks for coming back with an update! It's very good to know that the voices won't simply vanish.
+:PROPERTIES:
+:Author: Diadear
+:Score: 3
+:DateUnix: 1449207645.0
+:DateShort: 2015-Dec-04
+:END:
+
+
+** I use Ivona voices - I find that they sound much more natural and much less robotic that either Acapela or Neospeech. I've purchased at least one each from those other two services, but I was disappointed in them and frankly wish I hadn't wasted the money.
+
+From Ivona, I've purchased Amy and Emma for British works, Salli for American works, Celine for French, and Marlene for German.
+
+Emma is a bit higher pitched than Amy and can sound like a young girl, but I've also found that which sounds better depends a lot on what you're using to listen to them. In headphones with weak bass, Amy sounds better while Emma sounds way too much like a girl. In headphones with better base, Amy sounds good while Emma sounds way too deep.
+
+On one device of mine that doesn't have Emma installed for Voice Dream Reader, it is still offered, so I woudn't have said that it's no longer offered or supported.
+:PROPERTIES:
+:Author: philosophize
+:Score: 1
+:DateUnix: 1447783354.0
+:DateShort: 2015-Nov-17
+:END:
+
+*** Well, I got the following email from Ivona on Oct 30:
+
+#+begin_quote
+  Dear IVONA Customer,
+
+  Please be informed, that starting from 31st of December 2015 IVONA will no longer be providing support services for the following products for customers:
+
+  • IVONA Voices
+
+  • IVONA 2 Voices
+
+  • IVONA Reader/IVONA MiniReader/IVONA Control Center
+
+  • Expressivo
+
+  • Accessibility package
+
+  This includes recovery of activation keys and installation files as well as software updates and customer support from the IVONA support team.
+#+end_quote
+
+So maybe that doesn't include IOS products? I'm not sure. But to be safe, you might want to consider purchasing and downloading all the Ivona voices you want before year end. Either that or contact VoiceDream support to verify what's going on with Ivona voices there.
+
+Edit: formatting
+:PROPERTIES:
+:Author: fastfinge
+:Score: 3
+:DateUnix: 1447788907.0
+:DateShort: 2015-Nov-17
+:END:
+
+**** Eep. Well they're still available for purchase for me but I'll look into it. Would suck if the voices vanished in 2016.
+:PROPERTIES:
+:Author: Diadear
+:Score: 1
+:DateUnix: 1447801470.0
+:DateShort: 2015-Nov-18
+:END:
+
+***** I tweeted at them (@VoiceDreamApp on Twitter) to see if they knew anything about the status of Ivona voices on IOS, but I have yet to hear anything back. I'll let you know.
+:PROPERTIES:
+:Author: fastfinge
+:Score: 2
+:DateUnix: 1447802537.0
+:DateShort: 2015-Nov-18
+:END:
+
+****** Did you ever hear back? I finally downloaded Voice Dream for iOS after years of user Moon Reader on Android.
+
+I was thinking about purchasing an IVONA voice, but want to ensure that it will continue to be supported.
+:PROPERTIES:
+:Author: aeiou72
+:Score: 1
+:DateUnix: 1456699134.0
+:DateShort: 2016-Feb-29
+:END:
+
+******* Yes, I did hear back, and posted in [[https://www.reddit.com/r/HPfanfiction/comments/3t62ca/voice_dream_other_text_to_speech_users_whats_your/cxlocil][this]] comment:
+
+#+begin_quote
+  In case anyone still cares about this, we finally got word from VoiceDream on [[https://twitter.com/VoiceDreamApp/status/672413267319484416][Twitter]]: "Ivona is discontinuing their iOS TTS. Ivona voices will not longer be available starting December 24 2016." So buy all the ones you want, while you still can
+#+end_quote
+:PROPERTIES:
+:Author: fastfinge
+:Score: 2
+:DateUnix: 1456707468.0
+:DateShort: 2016-Feb-29
+:END:
+
+******** Thank you very much for the follow up and for pointing me in the direction of your other comment.
+:PROPERTIES:
+:Author: aeiou72
+:Score: 1
+:DateUnix: 1456721147.0
+:DateShort: 2016-Feb-29
+:END:
+
+
+**** Since text-to-speech is all they do, ending support for all those services suggests they are folding... but they still seem to be selling their services. At least, their website doesn't say anything about "don't buy this, we won't support it in a couple of months."
+
+Though... you can only get the voices via "partners," which I assume is what VDR did. So maybe Ivona isn't offering direct support to individuals (like you and me), but will still offer voices and the partners will have offer support when there are software issues? That would be nice...
+:PROPERTIES:
+:Author: philosophize
+:Score: 1
+:DateUnix: 1447810837.0
+:DateShort: 2015-Nov-18
+:END:
+
+***** Doing a bit more research, this is on the support page:
+
+#+begin_quote
+  IVONA voices for home users are now sold exclusively via resellers. You can find a list of companies which sell our voices here.
+
+  Customers interested in our business products are invited to contact our Sales Team directly via online contact form.
+#+end_quote
+
+So it looks like instead of shutting down, they're going B2B exclusively. I guess VoiceDreamReader is a reseller, so we'll be OK.
+:PROPERTIES:
+:Author: fastfinge
+:Score: 1
+:DateUnix: 1447852478.0
+:DateShort: 2015-Nov-18
+:END:
+
+
+*** Thanks! Emma luckily sounds fine for me on my headphones but when I switched to my earbuds I noticed when you said about her sounding like a little girl.
+:PROPERTIES:
+:Author: Diadear
+:Score: 1
+:DateUnix: 1447801328.0
+:DateShort: 2015-Nov-18
+:END:
+
+**** I used to use Amy only. I purchased Emma because I liked the accent, but didn't like how she sounded like a little girl - it got on my nerves quickly.
+
+Then I switched to different headphones (Sennheisers finally quit on me) and suddenly Amy sounded way too deep... but Emma sounded fine all of the sudden. Now I only listen to Emma!
+
+It's curious how much the headphones matter, but I wanted to make sure people understood this because in the long run, it might be worthwhile to voices available. You never know what headphones or speakers you'll be using in a year.
+:PROPERTIES:
+:Author: philosophize
+:Score: 2
+:DateUnix: 1447811025.0
+:DateShort: 2015-Nov-18
+:END:
+
+
+** I love Scottish voices...
+:PROPERTIES:
+:Author: Karinta
+:Score: 1
+:DateUnix: 1447901502.0
+:DateShort: 2015-Nov-19
+:END:

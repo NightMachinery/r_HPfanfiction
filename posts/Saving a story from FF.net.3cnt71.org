@@ -1,0 +1,145 @@
+#+TITLE: Saving a story from FF.net?
+
+* Saving a story from FF.net?
+:PROPERTIES:
+:Author: Firestorm2408
+:Score: 7
+:DateUnix: 1436436842.0
+:DateShort: 2015-Jul-09
+:FlairText: Discussion
+:END:
+Hi folks, just a quick question.
+
+Does anybody know of a way that I can Save a copy of a story from FF.net? Particularly [[https://www.fanfiction.net/s/3473224/1/The-Denarian-Renegade][This one]] and it's sequels as i would really love to be able to store it and maybe someday have it printed maybe.
+
+
+** there are several, but I prefer Fanfictiondownloader, from fanfictiondowloader.net.
+
+It's slower than alternatives, but I've found it to be reliable, and it can save to a variety of formats, most importantly .dpf and .epub. Most alternatives that I have encountered do either, not both.
+:PROPERTIES:
+:Author: Ignisami
+:Score: 7
+:DateUnix: 1436437621.0
+:DateShort: 2015-Jul-09
+:END:
+
+*** Thanks for your help :)
+:PROPERTIES:
+:Author: Firestorm2408
+:Score: 1
+:DateUnix: 1436444624.0
+:DateShort: 2015-Jul-09
+:END:
+
+**** [removed]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1436460632.0
+:DateShort: 2015-Jul-09
+:END:
+
+***** The speed depends on the amount of chapters. Each chapter takes about three seconds on average, including the conversion process at the end. It made fics like Ashes of the Past a pain to download >.>
+:PROPERTIES:
+:Author: Ignisami
+:Score: 1
+:DateUnix: 1436460981.0
+:DateShort: 2015-Jul-09
+:END:
+
+
+*** u/waylandertheslayer:
+#+begin_quote
+  .dpf
+#+end_quote
+
+do you mean pdf? or if not, do you know of a site that lets you download in pdf format?
+:PROPERTIES:
+:Author: waylandertheslayer
+:Score: 1
+:DateUnix: 1436469888.0
+:DateShort: 2015-Jul-09
+:END:
+
+**** Derp. .pdf, yes.
+
+As to the site, try ficsave.com
+:PROPERTIES:
+:Author: Ignisami
+:Score: 2
+:DateUnix: 1436475579.0
+:DateShort: 2015-Jul-10
+:END:
+
+
+** The things already mentioned will work for most people but I thought i would just throw this out there:
+
+If you have any ebook reader you can use Calibre (free ebook library management software with MANY features and plugins for even more, de facto standard for this kind of stuff) and the free FanFicFare plugin (fomerly known as FanFictionDownloader). It supports many different fanfiction sites and with calibre you can then put the resulting ebook files on pretty much any device as calibre supports converting books into an astonishing variety of formats.
+
+Also, if you use Calibre and like to sometimes read ebooks on your phone you can use apps like CalibreCompanion (as long as your pc is on and correctly configured) or CalibreBox (as long as your library is synced to dropbox) to find and open any of your books directly on your mobile device or send compatible books to your kindle etc...
+:PROPERTIES:
+:Author: Hofferic
+:Score: 6
+:DateUnix: 1436478692.0
+:DateShort: 2015-Jul-10
+:END:
+
+*** I actually use [[http://calibre-ebook.com][Calibre]] with the [[http://www.mobileread.com/forums/showthread.php?t=259221][FanFicFare]] plugin, plus [[http://www.appstafarian.com/marvin.html][Marvin]] on my iPad. I basically route all my epubs via dropbox and import on Marvin; it's been working extremely well for me, and I have tried /quite/ a few solutions before this one.
+:PROPERTIES:
+:Author: duriel
+:Score: 3
+:DateUnix: 1436499658.0
+:DateShort: 2015-Jul-10
+:END:
+
+**** Careful updating your iPad, Marvin has an error with 8.3+ that prevents uploading via calibre. [[http://www.mobileread.com/forums/showthread.php?t=241143][Info here]]. was very annoying after I refreshed. Had to transfer via iTunes which sucked a lot.
+
+Edit: trying to fix link on mobile.
+:PROPERTIES:
+:Author: DandalfTheWhite
+:Score: 2
+:DateUnix: 1436621909.0
+:DateShort: 2015-Jul-11
+:END:
+
+
+** [[http://ficsave.com/]] is the one I use!
+:PROPERTIES:
+:Author: a_marie_z
+:Score: 3
+:DateUnix: 1436462483.0
+:DateShort: 2015-Jul-09
+:END:
+
+*** I second this.
+:PROPERTIES:
+:Author: leblueballoon
+:Score: 1
+:DateUnix: 1436472251.0
+:DateShort: 2015-Jul-10
+:END:
+
+
+*** I would advise that you go back and check any of the longer fics you've downloaded. I've had problems with it skipping chapters.
+:PROPERTIES:
+:Author: onlytoask
+:Score: 1
+:DateUnix: 1436503862.0
+:DateShort: 2015-Jul-10
+:END:
+
+**** Thanks for the tip - I think I've had that happen once or twice, but it was fine when I re-downloaded.
+:PROPERTIES:
+:Author: a_marie_z
+:Score: 1
+:DateUnix: 1436551611.0
+:DateShort: 2015-Jul-10
+:END:
+
+
+** In addition to FanfictionDownloader, if you want to read on your mobile without having to transfer the downloaded fics to your phone via SD card or data cable, you can download Codex Fanfiction Reader for Android. If you have an iPhone, you can download this: [[https://itunes.apple.com/us/app/fanfiction-200-000+-books/id457484628?mt=8]] I use Codex. With Codex, you can download from AO3 as well as FF.net. It's pretty easy, you just search for the fic you want to read, click the save button and then it's saved for offline reading. With Codex, it may be easier to go to your browser and find the fic and when you click it,it will give you an option to open it in Codex. Do that. It's easier than searching for the fic.
+:PROPERTIES:
+:Author: LadySnape
+:Score: 1
+:DateUnix: 1436470721.0
+:DateShort: 2015-Jul-10
+:END:

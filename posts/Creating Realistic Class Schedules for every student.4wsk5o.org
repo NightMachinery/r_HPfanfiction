@@ -1,0 +1,580 @@
+#+TITLE: Creating Realistic Class Schedules for every student?
+
+* Creating Realistic Class Schedules for every student?
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1470691069.0
+:DateShort: 2016-Aug-09
+:FlairText: Discussion
+:END:
+[deleted]
+
+
+** The problem isn't the schedule for the students, it's for the professors. There is not enough time in a week for them to teach all their courses. The way it is with Canon teachers up until the NEWT years is: each of the five years has two groups (outside of electives and NEWT courses, two houses in a classroom), each has multiple lessons per week (at least two, though Astronomy might only have one). Some classtimes are two periods long, in the same week as a one period long time for the same course. At best, that's 10 hours a week for each teacher (assumes a period is 1 hour, and two normal periods a week per class). Assuming one single period and one double, that's 15 hours a week. I seem to recall some times where Harry had double potions twice in a single week. That'd be 20 hours a week. Add in NEWT courses, the need to grade all the homework (*all* essay work), any tests/quizzes/exams, staff meetings, the need to oversee detentions, and the possibility for teaching one class three times a week, things just don't make sense.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 13
+:DateUnix: 1470691596.0
+:DateShort: 2016-Aug-09
+:END:
+
+*** My school had a two week timetable. I don't think Hogwarts does, but you could use one to get around the problem.
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 8
+:DateUnix: 1470692026.0
+:DateShort: 2016-Aug-09
+:END:
+
+
+*** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1470692021.0
+:DateShort: 2016-Aug-09
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1470692220.0
+:DateShort: 2016-Aug-09
+:END:
+
+***** u/yarglethatblargle:
+#+begin_quote
+  (Filch won't be working at Hogwarts in my story)
+#+end_quote
+
+But who else is going to be in charge of the house elves?
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 1
+:DateUnix: 1470717811.0
+:DateShort: 2016-Aug-09
+:END:
+
+
+*** 20 hours a week of teaching isn't unreasonable, if we assume there are 5 periods a day, then they would teach 4 periods and have 1 free each day. If there are 6 or 7 periods per day, then its even more reasonable with 2-3 frees per day. This would be comparable to a high school teacher hours wise, though they obviously teach fewer classes for more hours each.
+
+Your numbers are a bit off though, as the classes are only half the year since only 2 houses appear to be in each one below newt level.
+
+so 5 years x 2 classes per year plus 2 years with 1 (newt seemed to be all 4 houses combined) makes 12 different classes(sets of kids not individual lectures). At 2 hours per class that's 22 periods worth if there are only 2 hours per class per week.
+
+However if you assume there is more than 2 hours of class, such as if there are 2 double potions per week, for each subject then it stops working. 2 hours does seem a bit low. 7 periods per day would be 35 periods per week, at 3 hours per class and 12 classes that's 36 so it already doesn't work.
+:PROPERTIES:
+:Author: wacct3
+:Score: 1
+:DateUnix: 1472083558.0
+:DateShort: 2016-Aug-25
+:END:
+
+**** I think my numbers are low by a factor of two. Weird, that's not usually the kind of math mistake I make.
+
+I was thinking: 2 groups per year * 5 years * 2 one hour periods a week = at best 20 hours, minus NEWTs. Adding in 1 NEWT group a year * 2 years of NEWTs * 2 one hour periods a week would give at best 24 hours. But like we've both said, the issue seems to be when a teacher has more than 2 hours a week for a particular class (such as 1st year Ravenclaw/Slytherin History of Magic) that things really begin to break down.
+
+But the big thing is that most classes end with essay work given out. That's a lot of fucking essays, especially with how long they start getting in 5th year plus. I don't know about you, but I've spent time throughout my education grading lab reports (many journal article form [abstract, experimentation, results and conclusions, etc.]) and worksheet form (which is almost worse because of the need to see if math errors carried through or not)^{1,} grading takes forever, and I only ever really had to deal with class sizes of about 70 at most. I can't imagine what it must be like for for the core Professors of Hogwarts with about 5 years worth of classes 40ish in size at once.
+
+Add in the fact that they are the disciplinarians, security officers, partially counselors (Heads of Houses, etc.) is when it /really/ really becomes hell.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 1
+:DateUnix: 1472098698.0
+:DateShort: 2016-Aug-25
+:END:
+
+***** Yeah there definitely should be more teachers, but Rowling didn't usually focus on those sort of small details.
+
+You could maybe explain it away with magic being used to grade essays or teaching assistants that are just never mentioned I guess.
+:PROPERTIES:
+:Author: wacct3
+:Score: 1
+:DateUnix: 1472101126.0
+:DateShort: 2016-Aug-25
+:END:
+
+
+** [[/u/yarglethatblargle]] is right -- with the canon teachers (1 per subject) and the class forms posited in canon (divided by house in most subjects) it's literally impossible to create a working, school-wide timetable. I've tried. The best I could come up with was a schedule wherein each year group was all in the same class (i.e. all the 1st years together, 2nd years together, etc), but that's implausible because the class sizes would be too large, especially if you're making a larger student population.
+
+That said, I was making timetables because I was trying to figure out a practical working Hogwarts for an essay I was writing, and I did make one working timetable, but it's based on a two-week schedule, has Saturday morning classes, and includes 4 non-magical subjects. It was a while ago, but assuming I'm remembering my methodology correctly, it keeps only the canon teachers and while it works in theory, it'd be shit in practice because the core subject teachers (transfig, potions, charms, etc) get no free periods, so they'd be worked off their feet and stuck up all night marking homework and preparing for classes.
+
+So at the very least you're going to need some OC teachers (doubly so when you've got a larger population), you might want to consider Saturday morning classes, and give some thought to the idea of a two-week schedule. (That is, one schedule for week one, another for week two, then the third week you use schedule 1 again, and so on.) I personally built mine on Excel, but you could do a search for timetable building software/websites. I tried, but I couldn't get the hang of any of them.
+
+You won't need to make individual timetables for each student, just each class group. I split each year group into two, except 6th/7th years because NEWT classes are generally smaller, so while half the first years were doing one lot of classes, the other half were doing a different lot. Therefore you only need to make a timetable for each class group and then decide who's in which group. From there, just decide which teacher takes which class, and if you've got more than one teacher per subject then you can have two class groups taking the same class at the same time. (Which is par for the course in the real world, even if JKR seemed to ignore the fact.)
+:PROPERTIES:
+:Author: SilverCookieDust
+:Score: 8
+:DateUnix: 1470693603.0
+:DateShort: 2016-Aug-09
+:END:
+
+*** How long is the school day though? Because I've got a timetable that works... even if I don't have time to sleep or eat. Also how long is each class?
+:PROPERTIES:
+:Author: awkwardnamer
+:Score: 1
+:DateUnix: 1470737976.0
+:DateShort: 2016-Aug-09
+:END:
+
+**** 08:45-16:00, six periods at 1 hour each, plus one night a week for Astronomy (classes at midnight, according to the first book, and no indication of daytime classroom-based lessons), based on what I recall of my own school days:
+
+#+begin_example
+  Period 1: 08.40-09.40
+  Period 2: 09.40-10.40
+     Break: 10.40-11.00
+  Period 3: 11.00-12.00
+  Period 4: 12.00-13.00
+     Lunch: 13.00-14.00
+  Period 5: 14.00-15.00
+  Period 6: 15.00-16.00
+#+end_example
+
+In the "whole year in a single class group" timetable I managed, it was a Mon-Fri, one-week schedule, and 3rd-5th years could feasibly take up to four out of the five optional classes without the need of a time turner; if you were only taking two or three, you'd have free periods during the times of the other classes. 1st/2nd years don't actually have any free periods, while 6th/7th years obviously get free periods based on their subject choices. Core subject teachers are teaching for 25/30 periods a week; optional subject teachers are teaching 15/30 periods a week.
+:PROPERTIES:
+:Author: SilverCookieDust
+:Score: 2
+:DateUnix: 1470757138.0
+:DateShort: 2016-Aug-09
+:END:
+
+***** I think you would need classes to end at 17:00 instead of 16:00 to add in time between classes. I can't get from the grounds to the 4th floor in 0 minutes if I need to for consecutive classes.
+:PROPERTIES:
+:Author: naraclan31fuzzy
+:Score: 1
+:DateUnix: 1470761834.0
+:DateShort: 2016-Aug-09
+:END:
+
+****** I was running on the expectation that classes would probably actually end and start five minutes before/after the indicated time, giving 10 minutes to get between classes. Ten minutes might be pushing it, especially if you get caught by a moving staircase and/or are going dungeon-to-tower, but 5pm seems like a late time to finish classes, at least by my experience and understanding of UK schools. I know I was always done with it by 4pm and glad for a 3pm finish instead once I hit sixth form.
+:PROPERTIES:
+:Author: SilverCookieDust
+:Score: 2
+:DateUnix: 1470766030.0
+:DateShort: 2016-Aug-09
+:END:
+
+
+*** u/musingsofapathy:
+#+begin_quote
+  it's literally impossible to create a working, school-wide timetable
+#+end_quote
+
+Check my reply to the main thread. I made timetables years ago and I shared them.
+:PROPERTIES:
+:Author: musingsofapathy
+:Score: 1
+:DateUnix: 1471589998.0
+:DateShort: 2016-Aug-19
+:END:
+
+**** Like [[/u/jfinner1]], you mixed houses on ALL classes. It makes sense, but it's not canon (where only Potions, Herbology, Magical Creatures, and Muggle Studies were mixed, for years 1-5 [although there's the possibility for Arithmancy and Ancient Runes as well]). When I said impossible, I meant under the conditions imposed by canon. But your timetables are good and thanks for sharing!
+:PROPERTIES:
+:Author: SilverCookieDust
+:Score: 1
+:DateUnix: 1471614494.0
+:DateShort: 2016-Aug-19
+:END:
+
+***** Huh? I had 2 houses in each class for years 1-5, as is in canon. I even have the canon house pairings where we learn them. I'm confused.
+:PROPERTIES:
+:Author: musingsofapathy
+:Score: 1
+:DateUnix: 1471668059.0
+:DateShort: 2016-Aug-20
+:END:
+
+****** Canon didn't have two houses in Yrs 1-5 classes for Transfiguration, Charms, History, Defence, Astronomy, or Divination. From what we saw, the Gryffindors were all alone in those lessons, unless you make the argument that the second houses were simply never mentioned, which is possible but not guaranteed. The only ones that are confirmed as shared are Potions (Gryffindor/Slytherin), Herbology (Gryffindor/Hufflepuff), Magical Creatures (Gryffindor/Slytherin), and Muggles Studies (Gryffindor/Hufflepuff). We don't have information on Arithmancy and Runes, so no idea if they're shared or not.
+:PROPERTIES:
+:Author: SilverCookieDust
+:Score: 1
+:DateUnix: 1471704874.0
+:DateShort: 2016-Aug-20
+:END:
+
+******* Well, we have evidence in canon of at least 2 of the core classes divided with 2 houses in each. We have no solid evidence of any of the core classes being different than the ones we do know about. I'll interpret that to mean that the ones not specified follow the pattern of the ones specified. You can interpret it to mean no mention equals they don't share, if you wish.
+
+Somehow, I doubt JK Rowling took the time to write out the course schedules, even for the one book where it matters at all, Prisoner of Azkaban.
+:PROPERTIES:
+:Author: musingsofapathy
+:Score: 1
+:DateUnix: 1471736322.0
+:DateShort: 2016-Aug-21
+:END:
+
+
+** JK sucks at math. Even if you have 40 students per year (five boys & girls in each House), you'd need multiple teachers or Time Turners. Otherwise a timetable is simply impossible.
+:PROPERTIES:
+:Author: ScottPress
+:Score: 4
+:DateUnix: 1470697591.0
+:DateShort: 2016-Aug-09
+:END:
+
+
+** If Hogwarts gives Time Turners to /students/ because they can't fit their work into their schedules, why in the name of all things wrinkly would the /teachers/ not get one.
+
+Use a time turner as a plot device to make your story more interesting and unique. No need to make it a /central/ plot device, just meld it into the worldbuilding.
+
+Makes sense to me.
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1470701962.0
+:DateShort: 2016-Aug-09
+:END:
+
+*** And making the staff work themselves io exhaustion with 30 hour days makes sense too?
+:PROPERTIES:
+:Author: viol8er
+:Score: 1
+:DateUnix: 1470703757.0
+:DateShort: 2016-Aug-09
+:END:
+
+**** Who's to say they can't use it to catch up on some sleep?
+:PROPERTIES:
+:Author: RedKorss
+:Score: 4
+:DateUnix: 1470704467.0
+:DateShort: 2016-Aug-09
+:END:
+
+***** What about the increased aging? For Hermione it was only a year of use, but if all the professors of Hogwarts were using it for years, it would become very noticeable.
+
+Maybe add some teachers instead?
+:PROPERTIES:
+:Author: AnIndividualist
+:Score: 1
+:DateUnix: 1470755942.0
+:DateShort: 2016-Aug-09
+:END:
+
+****** I was just offering a solution to this particular dilemma. But yeah, I think separating the teachers between First- Second year. Third-Fourth yeard. Fifth year. And Newt. Should be possible, and not all that unreasonable. Maybe too over the top, but I don't know. Maybe even just have it be teachers for each house/Class group instead.
+:PROPERTIES:
+:Author: RedKorss
+:Score: 1
+:DateUnix: 1470756306.0
+:DateShort: 2016-Aug-09
+:END:
+
+******* You wouldn't need that much, to be honest, just a second teacher for each of the core subjects. They only need to lighten the load a bit for McGonagall, Flitwick, Snape, Sprout, and Binns.* If anything, from my adventures in class scheduling, the optional class teachers are a little underworked. You could always run the idea that those teachers actually take some of the core subjects as a secondary class, perhaps teaching theory classes instead of practical, or just teaching the lowers years (given the expectation that they're not as skilled in the subject as the primary teacher).
+
+*I know Astronomy is a core subject, but canon implies they only have one class a week, at midnight, so Prof. Sinistra is even more underworked than the optional subject teachers.
+:PROPERTIES:
+:Author: SilverCookieDust
+:Score: 3
+:DateUnix: 1470758380.0
+:DateShort: 2016-Aug-09
+:END:
+
+******** Considering the OP is quadrupling the Wizarding population(At least as my memory recalls, it is in Canon estimated to be 100K), therefore each House in each year will have around 40 students. As said in another topic, a good Student to teacher ratio is about 20:1. So, yeah they'll need a few extra teachers in the Core subjects. Even if they were to do it by each house in each year. They'll by that standard need at least two teachers.
+
+The Elective teachers may not deal with as many students. But they explain and deal with a lot more advanced material, at least in most cases.
+
+Also, Pomfrey is the healer, who you're most likely thinking of is Sprout. Though, that said. I do not doubt that the increase in Student population will mean that Hogwarts needs another Healer or two.
+:PROPERTIES:
+:Author: RedKorss
+:Score: 1
+:DateUnix: 1470761394.0
+:DateShort: 2016-Aug-09
+:END:
+
+********* Oops, yeah, I did mean Sprout, but you're right, they probably would need another couple of healers.
+:PROPERTIES:
+:Author: SilverCookieDust
+:Score: 1
+:DateUnix: 1470765171.0
+:DateShort: 2016-Aug-09
+:END:
+
+
+*** It's really the only plausible explanation for how Umbridge could cover her own classes and still have time to interfere with everyone else's.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 0
+:DateUnix: 1470712921.0
+:DateShort: 2016-Aug-09
+:END:
+
+
+** As long as you introduce new teachers and have classes with two houses, it should be possible. This will show you how a schedule is supposed to look like in hp:
+
+[[https://legacy.hp-lexicon.org/timelines/calendars/calendar_op.html]]
+
+When you do astronomy, have the students who had it have no first class the next day.
+:PROPERTIES:
+:Author: T_M_Riddle
+:Score: 2
+:DateUnix: 1470697434.0
+:DateShort: 2016-Aug-09
+:END:
+
+
+** I think, in its most simplified form, it is possible. But, it would have to be in an ordered fashion, rather than the chaotic jumbled mess of randomness. First, there's a few things we have to figure out, such as how long is a class? I'm pretty sure it's never explicitly said in canon, but it would have to be long enough to make it worth wandering all around the castle, and to make up for the fact that they don't have the same classes every single day.
+
+That being said, some liberties have to be taken. But, we have to start with known information. There are a set of core classes: History, Charms, Transfiguration, Potions, Herbology, DADA, with astronomy happening after dinner. Then there are electives, and the optional newt classes. So, six main classes.
+
+Then, we have to figure out how many classes a teacher has to teach. Years 1 through 5 are split in half, so you have Ravenclaws and Slytherins for one classes, and then the other two for the other half. That's ten classes, plus two more combined classes for the 6th and 7th years, so twelve classes total. IIRC, elective classes were also split up (I think Care was just slytherins plus gryffindors for example? might be wrong).
+
+So, we can make it so group A has classes on monday and wednesday, and group B has classes on tuesday and thursday. But then you ask yourself, how do you fit seven years int six classes?
+
+Mondays: years 1A, 2A, 3A, 4A, 5A, 6A Tuesdays: years 1B, 2B, 3B, 4B, 5B, 7A Wednesdays years 1A, 2A, 3A, 4A, 5A, 6A Thursday: years 1B, 2B, 3B, 4B, 5B, 7A
+
+So, that's fine and all. But it all depends on how long the classes are. I think it's easiest to assume that classes are in hour long blocks, with some of that time used to travel between classes.
+
+lets assume breakfast is from 7-7:45. that leaves 4 blocks of 1 hour each until noon. Perhaps lunch is at 1, leaving an hour in between. So, classes begin at 2:30, and go to 6:30, and then dinner some time after that. That leaves 8 classes during the day (perhaps it could even be 3 classes before lunch, 5 classes after). That makes it so someone like Snape has 6 classes taught, and 2 free periods, and then whatever after dinner. This also leaves slots for electives for the students, but trying to fit in each elective year with each core class is a puzzle in of itself, like a rotating tier or classes. I think it works, but I don't want to map it out.
+
+That just leaves the double classes, which I would assign to Friday. For twelve different classes, a teacher would need to have three double classes a week, which would make it so each class would have one double period a year.
+
+Of course, this leaves almost no time to grade papers, have quidditch practice, manage detentions, time for students to do homework, etc, except on the weekend.
+
+Yeah, it's fucked.
+:PROPERTIES:
+:Author: Lord_Anarchy
+:Score: 2
+:DateUnix: 1470697700.0
+:DateShort: 2016-Aug-09
+:END:
+
+*** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1470698608.0
+:DateShort: 2016-Aug-09
+:END:
+
+**** For the student-teacher ratio, it depends on what you mean by 'good'. Students tend to work best in small groups at 5:1 or so. Teachers can usually handle 20:1 effectively. Muggle highschools range from 20:1 to 30:1. Magical schools are probably more chaotic and difficult to manage than muggle ones, though (accidents, dangers, chaos etc.) so I'd try to avoid large classes.
+
+What is a /plausible/ teacher-student ratio? It depends what kind of school you want Hogwarts to be. If it's the single most prestigious school in Britain for the high society, they'd try to maintain 20:1 or less. If it's the beleaguered public school handling the load of all Britain, they probably can't manage better than 25:1, maybe up to 35:1.
+:PROPERTIES:
+:Author: Execute13
+:Score: 2
+:DateUnix: 1470702587.0
+:DateShort: 2016-Aug-09
+:END:
+
+
+** To estimate the number of wizards & witches in student age, take a look at the UK population pyramid for 1991 ([[https://populationpyramid.net/united-kingdom/1991/][link]]).
+
+According to this, in 1991, 5.9% of the UK population was in the 10-14 age bracket, while 6.5% was in the 15-19 age bracket. Given that the typical Hogwarts student attends from ages 11-17, break this into 11-14 and 15-17 groups and take a proportional share.
+
+- 11-14 = 4/5 * 10-14 value = .80 * 5.9% = 4.72%
+
+- 15-17 = 3/5 * 15-19 value = .60 * 6.5% = 3.90%
+
+So, we can guesstimate that in 1991, 8.62% (4.72+3.90) of the UK's population was in the 11-17 age range. The UK wizarding population is largely drawn from the UK non-magical population, so the percent of all wizards in the 11-17 age range should track the non-magical value /but/ because wizards have a longer lifespan and (anecdotally) seem to have a lower birthrate, the value for wizards should be lower than that of non-magical people. As a guesstimate, I will say that the value for wizards will be 3/4 that of the normal rate, or 6.465% in the 11-17 age range.
+
+I have no clue how to adjust the population pyramid to account for the effects of the first Voldemort war, so I will leave as is with the 6.465% figure.
+
+For a population of 400,000 this suggests 25,860 students in the 11-17 age range.
+
+Based on the estimates I've frequently seen of roughly 40 students per year, 280 students total, a wizarding population of 400k would imply a student body 92 times as large as what canon Hogwarts appears to include.
+
+So, either you'll need to account for several other schools in wizarding Britain to account for this size increase, or you'll need a Hogwarts with 92 times the space, 92 times the faculty, 92 times the staff, 92 times the resources, etc. plus likely 92 times the space on the Hogwarts Express.
+
+That's one hell of a lot of OCs, or one hell of a lot of unnamed and unmentioned characters.
+
+IRL there are lots of universities that have 25k or more students, but they're all massive in terms of space, buildings, faculty, staff, and general resources. I don't think many of them even have close to all of their students living on campus.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1470702372.0
+:DateShort: 2016-Aug-09
+:END:
+
+*** [deleted]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1470703664.0
+:DateShort: 2016-Aug-09
+:END:
+
+**** I did the math a while back, and if you base the wizarding population of the UK On a 40 students per year system, it works out to about 6k wizards/witches in the UK. So if you want to increase the population, you should work with that ratio. Also, if you look at the movie, the great hall actually holds about 250 students, which is a fairly accurate visual representation of the school size. (Yes, I sat there and paused and counted...)
+:PROPERTIES:
+:Author: jfinner1
+:Score: 1
+:DateUnix: 1470705063.0
+:DateShort: 2016-Aug-09
+:END:
+
+
+** Take a normal school schedule. 8-9 9:05-10 10:05-11 and so on, mon-fri. You've now got a 40 square schedule. That's forty hours to fill. Then take all the courses they have on the harry potter wikia for classes. Then take Hermione's 3rd year schedule where she's taking all classes and shoehorn them into that schedule(I did mine when I did this with core classes mon/wed/fri and electives tue/thur). It doesn't work. Oh, sure, for one student it does but when you have seven years of students and only one teacher for each class, it's impossible, even if the staff are using time-turners like crazy.
+:PROPERTIES:
+:Author: viol8er
+:Score: 1
+:DateUnix: 1470693143.0
+:DateShort: 2016-Aug-09
+:END:
+
+*** to fix this in my linkffn(darkness ascendant) story, Hogwarts hires at least two new staff members per field and the current professors only teach the introduction classes and the NEWT classes with the new staff teaching 2nd/3rd and 4th/5th year classes.
+:PROPERTIES:
+:Author: viol8er
+:Score: 1
+:DateUnix: 1470693272.0
+:DateShort: 2016-Aug-09
+:END:
+
+**** [[http://www.fanfiction.net/s/11859282/1/][*/Darkness Ascendant: A Harry Potter Adventure/*]] by [[https://www.fanfiction.net/u/358482/Cole-Pascal][/Cole Pascal/]]
+
+#+begin_quote
+  A hero will rise, wielding a hereditary power that when coupled with a knowledge of contemporary technology will create a new world for Magicals and a new potential for humanity at large.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter + Darkness Crossover *|* /Rated/: Fiction T *|* /Chapters/: 6 *|* /Words/: 44,200 *|* /Reviews/: 14 *|* /Favs/: 68 *|* /Follows/: 108 *|* /Updated/: 7/13 *|* /Published/: 3/24 *|* /id/: 11859282 *|* /Language/: English *|* /Genre/: Adventure/Supernatural *|* /Characters/: Harry P., Hermione G., Sirius B., N. Tonks *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11859282&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11859282&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1470693286.0
+:DateShort: 2016-Aug-09
+:END:
+
+
+*** I think that Hermione's 3rd year schedule doesn't really need to be shoehorned into the schedule, considering that she could be in three places at once. You can handle virtually any clashes with a Time-Turner.
+:PROPERTIES:
+:Author: Execute13
+:Score: 1
+:DateUnix: 1470702673.0
+:DateShort: 2016-Aug-09
+:END:
+
+**** You"re not using her schedule, you're using the fact that her schedule accounts for all classes saves a few first year classes like broom ridinv.
+:PROPERTIES:
+:Author: viol8er
+:Score: 1
+:DateUnix: 1470703464.0
+:DateShort: 2016-Aug-09
+:END:
+
+
+** How many students are you looking at in each year? I have a working time table, so don't let people tell you it's impossible, because it's not. But mine accounts for 40-50 students per year. Any more than that, and the class sizes would become unmanageable. So it really depends on how many students you plan to have per year.
+:PROPERTIES:
+:Author: jfinner1
+:Score: 1
+:DateUnix: 1470698877.0
+:DateShort: 2016-Aug-09
+:END:
+
+*** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1470699293.0
+:DateShort: 2016-Aug-09
+:END:
+
+**** [[https://docs.google.com/spreadsheets/d/1Xjs3gt-9ll-WC2ASv-6YqI3SqvBQNqbwMbIo4kHo5ZY/edit?usp=sharing]]
+
+There's my schedule, notes on the first sheet. There shouldn't be any errors, but feel free to ask questions and what not.
+:PROPERTIES:
+:Author: jfinner1
+:Score: 2
+:DateUnix: 1470704113.0
+:DateShort: 2016-Aug-09
+:END:
+
+***** I was curious how you managed this, but I see you mixed houses on all classes, not just those that it shows in canon, which does make more sense. JKR only did it when she wanted to create tension, which is fine from a literary standpoint but not so much from a practical one. (And might also suggest she doesn't think the Ravenclaws are any good at creating tension (with the Gryffindors), but maybe they're just too clever to get caught up in that kind of rubbish.)
+:PROPERTIES:
+:Author: SilverCookieDust
+:Score: 1
+:DateUnix: 1470706196.0
+:DateShort: 2016-Aug-09
+:END:
+
+****** Yes, mostly I was going with appropriate class sizes. It seemed silly to have a class with only 10 students, so two houses in each class made more sense to me. Also, Harry lives in such a bubble, he doesn't really talk about who he has classes with, unless it's another Gryff, or Malfoy, lol. So maybe they did have Herbology with the Hufflepuffs, and he just never interacted with them.
+:PROPERTIES:
+:Author: jfinner1
+:Score: 1
+:DateUnix: 1470708379.0
+:DateShort: 2016-Aug-09
+:END:
+
+
+** Realistically, you would need ~1500 teachers to teach a population like that. Hogwarts would be bigger than most colleges. You would need to work backwards and explain where the other 400+ Gryffindor boys have been hiding all of this time.
+
+Here's the math:
+
+| Statistic                                                  | Venti   | Grande | Tall |
+|------------------------------------------------------------+---------+--------+------|
+| Total Population                                           | 400,000 | 20,000 | 4100 |
+| Population under 18 (assuming about 18% of the population) | 70,000  | 3,500  | 740  |
+| Hogwarts Age Population (38% of the under 18 population)   | 25,000  | 1300   | 280  |
+| Students in Gryffindor                                     | 6250    | 340    | 70   |
+| Male Gryffindors in Harry's Year                           | 446     | 48     | 5    |
+| Teachers Required (assuming a 15:1 ratio)                  | 1700    | 87     | 19   |
+
+But if we move the decimal on your original number and cut that number in half, then we have a population of 20k. This gives us 1.3k students at Hogwarts, with 48 students per year/house/gender. If we take Harry's year as the norm, then Hogwarts has about 280 students, with 5 students per year/house/gender. This number is obviously even more managable, though might be too small for your needs.
+
+If we assume that all class schedules are doubled up (which they're not) then the canon schedule just /barely/ works (though the teachers would be incredibly overworked).
+
+The best way I've found to make it work is:
+
+1. Assume all classes are doubled up (even though we know they're not)
+
+2. Assume 7 class periods per day, with 35 in a given week.
+
+3. Assume that years 1-2 have each of their 7 core classes 4x a week each. Two of these are stand-alone lessons, the other is a double-length lesson. This gives them 28 classes and 7 free periods per week.
+
+4. Assume that years 3-5 have each of their 7 core classes 4x a week each, plus ~2 electives 3x a week each. This gives them 34 classes per week.
+
+5. Assume that years 6-7 attend their chosen classes 4x a week with all other students in the year taking the same subject, regardless of house. A student taking 7 N.E.W.T.s would have 28 classes per week, while a student taking 3 N.E.W.T.s would only have 12.
+
+For reference, classes start at nine and end shortly before 5, and include a morning break. A schedule might look something like:
+
+9:00-9:50 1st class
+
+10:00-10:50 2nd class
+
+10:50-11:10 Morning Break
+
+11:20-12:10 3rd class
+
+12:20-1:10 4th class
+
+1:10-2:00 Lunch
+
+2:00-2:50 5th class
+
+3:00-3:50 6th class
+
+4:00-4:50 7th class
+:PROPERTIES:
+:Author: OwlPostAgain
+:Score: 1
+:DateUnix: 1470713793.0
+:DateShort: 2016-Aug-09
+:END:
+
+
+** One thing I don't see brought up often enough is the idea of having classes 7 days a week.
+
+- Even today, 7-day a week boarding schools aren't unheard of, especially for more traditional boarding schools.
+
+- The idea of having off on weekends is a relatively new concept, especially compared to a culture that separated themselves hundreds of years ago.
+
+- Things fall in line much easier if the core teachers have 7 days a week to teach 7 year groups
+
+- Light weekends can still be a thing (hogsmeade / quidditch weekends) because the prerequisites for newts can easily cut the number of students needed to be taught for two year groups in half. Also, first and second years don't have electives.
+
+Overall it's not perfect, due to other reasons mentioned in this thread, but it does certainly relieve the pressure.
+:PROPERTIES:
+:Author: Ocdar
+:Score: 1
+:DateUnix: 1470938836.0
+:DateShort: 2016-Aug-11
+:END:
+
+
+** I made two versions of the schedules for each teacher for the core classes, not for any electives. The versions were dependent on whether 6th and 7th years have non-NEWT basic classes available. Canon would point to no basic classes, but either is usable. I sourced any reference to the day of the week for a class in books 1-5, iirc. My main resource was the HP-Lexicon.
+
+Without Basic: [[https://docs.google.com/document/d/1nm7_6DA36TC1w_XI82vtURTBPbik6KYuAemAtxo3DHY/edit?usp=sharing]]
+
+With Basic: [[https://docs.google.com/document/d/1khSu5dCkYOR0snzzhC4FKxUsiyck58fPRe27Yng5j10/edit?usp=sharing]]
+:PROPERTIES:
+:Author: musingsofapathy
+:Score: 1
+:DateUnix: 1471589517.0
+:DateShort: 2016-Aug-19
+:END:

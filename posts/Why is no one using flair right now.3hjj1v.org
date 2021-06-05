@@ -1,0 +1,119 @@
+#+TITLE: Why is no one using flair right now?
+
+* Why is no one using flair right now?
+:PROPERTIES:
+:Author: whalesftw
+:Score: 10
+:DateUnix: 1439957810.0
+:DateShort: 2015-Aug-19
+:FlairText: Discussion
+:END:
+I feel like for a while everyone was using the link flair but now it seems no one is. Thoughts?
+
+
+** It probably doesn't help that there's no information in the side bar as to how to apply flairs to posts. I was under the impression that only mods can add the flairs. I've experimented in the past and I know that using square brackets (e.g. [Discussion]) doesn't do anything.
+:PROPERTIES:
+:Author: Taure
+:Score: 12
+:DateUnix: 1439970235.0
+:DateShort: 2015-Aug-19
+:END:
+
+*** When you've posted your post you click [[http://imgur.com/3t0TRuT][where I've circled]] and pick from a list which flair you want. Easy as that.
+:PROPERTIES:
+:Author: FutureTrunks
+:Score: 5
+:DateUnix: 1439976565.0
+:DateShort: 2015-Aug-19
+:END:
+
+**** The css in [[/r/smashbros]] makes that button appear bold, about 300px wide and gives it a yellow colored background. It's right in your face when it shows your post after submitting, maybe the mods here could add something similar?
+:PROPERTIES:
+:Author: Radion4k
+:Score: 7
+:DateUnix: 1439987845.0
+:DateShort: 2015-Aug-19
+:END:
+
+***** That's a good idea, I'll look into making the flair button stand out.
+:PROPERTIES:
+:Author: denarii
+:Score: 4
+:DateUnix: 1439988647.0
+:DateShort: 2015-Aug-19
+:END:
+
+
+** A lot of people don't bother to flair their own post so it falls to the mods to do it for them, clearly there are no mods around tonight.
+:PROPERTIES:
+:Author: howtopleaseme
+:Score: 7
+:DateUnix: 1439958725.0
+:DateShort: 2015-Aug-19
+:END:
+
+*** Yeah. I end up doing most of it and I was busy last night. I'm going to tweak the CSS to make the flair button stand out as apparently some people don't even know they can do it themselves.
+:PROPERTIES:
+:Author: denarii
+:Score: 3
+:DateUnix: 1439988812.0
+:DateShort: 2015-Aug-19
+:END:
+
+**** Could you activate AutoModerator to just flair posts that contain tags like [this]? You could also look for "LF" to tag requests, and maybe some others.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1439997722.0
+:DateShort: 2015-Aug-19
+:END:
+
+***** Possibly. I haven't looked into AutoModerator much because it seemed like overkill for sub this size.
+:PROPERTIES:
+:Author: denarii
+:Score: 1
+:DateUnix: 1439997831.0
+:DateShort: 2015-Aug-19
+:END:
+
+
+*** BTW if the mod team wants help I'm willing, I spend too much time here anyway.
+:PROPERTIES:
+:Author: howtopleaseme
+:Score: 1
+:DateUnix: 1439958763.0
+:DateShort: 2015-Aug-19
+:END:
+
+
+** I didn't know there was flair until this post.
+:PROPERTIES:
+:Author: LocalMadman
+:Score: 2
+:DateUnix: 1439993844.0
+:DateShort: 2015-Aug-19
+:END:
+
+
+** Is there a way to apply flair before posting? To my understanding you have to write up the post, submit it and then add the flair. I usually just forget to go back and add flair once I've posted.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1440002653.0
+:DateShort: 2015-Aug-19
+:END:
+
+
+** Only desktop users can use flair.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1440009210.0
+:DateShort: 2015-Aug-19
+:END:
+
+
+** If there was a way to do it from the Reddit Sync app, I would. As it is I just don't create topics often.
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 1
+:DateUnix: 1440012884.0
+:DateShort: 2015-Aug-20
+:END:

@@ -1,0 +1,567 @@
+#+TITLE: Prompt: Array Potter and the Open Sourcerer's Stone
+
+* Prompt: Array Potter and the Open Sourcerer's Stone
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 152
+:DateUnix: 1553085934.0
+:DateShort: 2019-Mar-20
+:FlairText: Prompt
+:END:
+AU where spells are programming code
+
+
+** Harry learns programming by doing. No one can decipher his code, not even himself, but it somehow works.
+
+Hermione is upset about underrepresentation of other Beings in the community and spends most of her time drafting increasingly complex Codes of Conduct.
+:PROPERTIES:
+:Author: rek-lama
+:Score: 92
+:DateUnix: 1553087653.0
+:DateShort: 2019-Mar-20
+:END:
+
+*** Harry Potter is totally a Python expert because he speaks the Parseltongue!
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 71
+:DateUnix: 1553096359.0
+:DateShort: 2019-Mar-20
+:END:
+
+**** No, wizards consider the language a sign of a dark wizard, evil even. It needs to be something most programmers hate with a passion and are utterly incapable of understanding. Two possible suggestions are javascript in the form of [[http://www.jsfuck.com][jsfuck]] and cobalt written before 1970 to run banking systems.
+:PROPERTIES:
+:Author: Frystix
+:Score: 20
+:DateUnix: 1553129012.0
+:DateShort: 2019-Mar-21
+:END:
+
+***** Ancient language that nobody is able to understand. Definitely some form of assembly. Probably for some obscure architecture as well.
+:PROPERTIES:
+:Author: asdreth
+:Score: 10
+:DateUnix: 1553156612.0
+:DateShort: 2019-Mar-21
+:END:
+
+****** Assembly would actually make sense, considering that Harry learns by doing. There be parallels, to put it crudely.
+
+Add to it his approach towards academia and you get hodgepodge assembly code with no documentation. Just lovely.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 3
+:DateUnix: 1553186327.0
+:DateShort: 2019-Mar-21
+:END:
+
+
+*** Harry write a good code; with proper logic, excellent decomposition, and everything. But he's too lazy to write any documentation.
+
+Hermione's documentation is good, but she write a very verbose code.
+
+Ron's the guy who you called when your code isn't working and he somehow fix it like magic. He basically lives his whole live by codes. His father works as a project leader in a certain open-source that recently gains popularity and his mother make his whole house a smart home using zero money.
+
+The ministry scorns everything open-source, they don't believe that those muggles can create a better code than a proprietary one.
+:PROPERTIES:
+:Author: lastyearstudent12345
+:Score: 32
+:DateUnix: 1553104139.0
+:DateShort: 2019-Mar-20
+:END:
+
+
+*** If written well, I think I might /pay/ for this.
+
+-chronodekar
+:PROPERTIES:
+:Author: chronodekar
+:Score: 14
+:DateUnix: 1553090334.0
+:DateShort: 2019-Mar-20
+:END:
+
+
+** Snape teaches php obviously.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 41
+:DateUnix: 1553088888.0
+:DateShort: 2019-Mar-20
+:END:
+
+*** But then who would teach python?
+:PROPERTIES:
+:Author: Lenrivk
+:Score: 24
+:DateUnix: 1553089343.0
+:DateShort: 2019-Mar-20
+:END:
+
+**** Python has a bad rep cause that's what voldemort uses
+:PROPERTIES:
+:Author: GriffinJ
+:Score: 20
+:DateUnix: 1553112943.0
+:DateShort: 2019-Mar-20
+:END:
+
+
+**** Flitwick.
+:PROPERTIES:
+:Author: xENO_
+:Score: 5
+:DateUnix: 1553093435.0
+:DateShort: 2019-Mar-20
+:END:
+
+
+*** Nahh, PHP is outdated, but modern PHP is pretty great, all things considered.
+
+Snape teaches C or C++. Something that's damn useful, somewhat difficult, but he turns it into torture sessions to make people think that it's useless. But really, it's a great subject, if only you have a good teacher.
+:PROPERTIES:
+:Author: time-lord
+:Score: 15
+:DateUnix: 1553115596.0
+:DateShort: 2019-Mar-21
+:END:
+
+
+*** That may be source of his misery, true!
+:PROPERTIES:
+:Author: ceplma
+:Score: 6
+:DateUnix: 1553094880.0
+:DateShort: 2019-Mar-20
+:END:
+
+
+** Nicolas Flamel is, who, Linus Torvalds?
+
+Snape is a master of opsec, but +Harry+ Array doesn't believe in security. Parseltongue is obviously Lisp, a forgotten language Array uses to hack into the Chamber of Secrets.
+:PROPERTIES:
+:Author: evolutionista
+:Score: 43
+:DateUnix: 1553089499.0
+:DateShort: 2019-Mar-20
+:END:
+
+*** I'll have you know i'm on a team that works almost entirely on a lisp code base
+:PROPERTIES:
+:Author: ferret_80
+:Score: 18
+:DateUnix: 1553091119.0
+:DateShort: 2019-Mar-20
+:END:
+
+**** Congrats, you're the heirs of Slytherin.
+:PROPERTIES:
+:Author: teamfireyleader
+:Score: 43
+:DateUnix: 1553091210.0
+:DateShort: 2019-Mar-20
+:END:
+
+
+**** I mean, the obvious answer here is that parseltongue = python, but that's not exactly a niche language by any stretch. I can't imagine Volde-coder intimidating his followers with his secret knowledge of python. Then again the books were in the 90s, so maybe the ancient coders used it and it had yet to be re-invented!
+:PROPERTIES:
+:Author: evolutionista
+:Score: 17
+:DateUnix: 1553092851.0
+:DateShort: 2019-Mar-20
+:END:
+
+
+**** [[http://www.prometheus-music.com/audio/eternalflame.mp3]]
+:PROPERTIES:
+:Author: Krististrasza
+:Score: 2
+:DateUnix: 1553111783.0
+:DateShort: 2019-Mar-20
+:END:
+
+
+**** Can I ask what kind of task require lisp? Or is this a legacy software?
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1553114213.0
+:DateShort: 2019-Mar-21
+:END:
+
+***** Its legacy, this code base has been in development about as long as I have, if not longer.
+:PROPERTIES:
+:Author: ferret_80
+:Score: 3
+:DateUnix: 1553114366.0
+:DateShort: 2019-Mar-21
+:END:
+
+****** I imagined that would be the case. I've never seen lisp out in the wild unless in legacy.
+
+Thanks!
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1553115374.0
+:DateShort: 2019-Mar-21
+:END:
+
+
+*** u/DesLr:
+#+begin_quote
+  Nicolas Flamel is, who, Linus Torvalds?
+#+end_quote
+
+RMS of course.
+:PROPERTIES:
+:Author: DesLr
+:Score: 6
+:DateUnix: 1553108033.0
+:DateShort: 2019-Mar-20
+:END:
+
+
+** Voldemort created his own proprietary C compiler with optimizations that only the death eaters are allowed to use. When he tried to force baby Harry to compile his source code with this proprietary license, binding the boy to him forever, he learned that Harry had a secret library compiled with GPL by Lily, causing Voldemort's entire codebase to become GPL, giving the entire world free and open use of all his secret libraries.
+:PROPERTIES:
+:Author: blandge
+:Score: 40
+:DateUnix: 1553099444.0
+:DateShort: 2019-Mar-20
+:END:
+
+
+** No way, Snape definitely teaches C, as his rant will be "I will teach you how to write your own compilers, manage your own memory and yes, optimize your code."
+
+The Dark Lord delved deep into asm, creating spells on the fly to meet all of his needs.
+
+Filtwick will develop fancy systems using C++, writing each system from scratch and creating his own multi-threaded containers.
+
+Mcgonagall is in charge of Inheritance, teaching the students the beauty of OOP and how to change a class to another in a few simple steps.
+
+Dumbledore does what mcgonagall do and double down the craziness with template magic. You'll see classes generated even before run-time, calculations done in compile-time and types will never ever be the same again.
+
+With the elder wand, he pushes it one step further with functions that behave as objects and objects that behave as functions. In the end, he will have many tricks up his sleeves and will always be several steps ahead ( due to template being done on compile time ) to foil the scheme of the Dark Lord.
+
+------
+
+Harry is just a dumb ass kid that wants to create game engines because he likes playing games.\\
+Oooooh boy, he is in for a time of his life.
+
+------
+
+Harry Potter and the Source-cerer's DLL - /travels through a dungeon to retrieve a DLL to finish his assignment/
+
+Harry Potter and the Chamber of Pointers - /after lots of mishap involving leaky pointers, Harry finally dives in deep to find the culprit that's killing off the pointers without freeing them first./
+
+Harry Potter and the Prisoner of Memories - /Malloc and free is a dangerous game to play. Here, Harry will learn to create his very own memory manager or die when the dementors come after his RAM/
+
+----
+
+I can't think of the next 4 series, whelp.
+:PROPERTIES:
+:Author: ForzentoRafe
+:Score: 33
+:DateUnix: 1553103700.0
+:DateShort: 2019-Mar-20
+:END:
+
+*** I agree with all of this. Snape totally teaches C, that is why he's such a strict hard-ass.
+
+Vector obviously teaches Linear Algebra.
+
+Hagrid is supposed to teach about how to manage the user experience but he's too interested in extreme edge cases.
+
+Professor Babbling teaches Technical Writing.
+
+I'd say that Trelawney teaches business analysis...badly. That, or CSS (also badly), which Hermione says 'isn't a real programming language'.
+
+I can only think of Harry Potter and the Server on Fire.
+
+Edit: and Irma Prince is obviously the database administrator.
+:PROPERTIES:
+:Author: crunchy_nimieties
+:Score: 20
+:DateUnix: 1553107730.0
+:DateShort: 2019-Mar-20
+:END:
+
+**** OMIGOD, YOU ARE AWESOME!
+
+Professor Binns will teach the history of programming, from how we moved from logic gates, to the cards thing and how we compute floating points using bits :D - I swear, people will still fall asleep to this
+
+I WILL GIVE MY IMMORTAL SOUL FOR THIS FANFIC LOL - T&C:gotta be comparable to HPMOR
+:PROPERTIES:
+:Author: ForzentoRafe
+:Score: 11
+:DateUnix: 1553111455.0
+:DateShort: 2019-Mar-20
+:END:
+
+
+**** Nah, Trelawney teaches statistical analysis in R, but can't figure out how to explain a p-value to a bunch of twelve year olds.
+:PROPERTIES:
+:Author: 1-1-19MemeBrigade
+:Score: 5
+:DateUnix: 1553127652.0
+:DateShort: 2019-Mar-21
+:END:
+
+
+*** Array Potter and the Robotics Expo
+
+Array Potter and the Paladins of the Dark Web
+
+Array Potter and the Bastard AI
+
+Array Potter and the Ubiquitous/Universal Platform
+:PROPERTIES:
+:Author: wordhammer
+:Score: 2
+:DateUnix: 1553186637.0
+:DateShort: 2019-Mar-21
+:END:
+
+
+** Experienced programmers discriminate against people that ask duplicate questions on stackoverflow
+:PROPERTIES:
+:Score: 20
+:DateUnix: 1553092575.0
+:DateShort: 2019-Mar-20
+:END:
+
+
+** /Wingardium Leviosa/
+
+#+begin_example
+  .feather {
+    float:true;
+  } 
+#+end_example
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 29
+:DateUnix: 1553092992.0
+:DateShort: 2019-Mar-20
+:END:
+
+*** I can see charms being CSS... Would Transfiguration be html? Or would charms be all three aspects of Web code?
+:PROPERTIES:
+:Author: AustSakuraKyzor
+:Score: 8
+:DateUnix: 1553106684.0
+:DateShort: 2019-Mar-20
+:END:
+
+**** I'd argue charms are JS and transfiguration is CSS.
+:PROPERTIES:
+:Author: DesLr
+:Score: 2
+:DateUnix: 1553108089.0
+:DateShort: 2019-Mar-20
+:END:
+
+
+**** Transfiguration would be XSLT. Urgh, the memories, I need to scrub my brain clean.
+
+Or Lisp macros.
+:PROPERTIES:
+:Author: HiddenAltAccount
+:Score: 2
+:DateUnix: 1553117497.0
+:DateShort: 2019-Mar-21
+:END:
+
+
+*** Mind your spelling, children. Remember the wizard Baruffio, who went
+
+#+begin_example
+  .feather {
+  float:trfr;
+  }
+#+end_example
+
+and had a buffalo land on his chest.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 2
+:DateUnix: 1553186604.0
+:DateShort: 2019-Mar-21
+:END:
+
+
+** I literally just came from twitter where I saw the movie poster
+
+[[https://twitter.com/gkoberger/status/1108046737208459264]]
+:PROPERTIES:
+:Author: ligirl
+:Score: 13
+:DateUnix: 1553093239.0
+:DateShort: 2019-Mar-20
+:END:
+
+
+** [[https://www.amazon.com/Wiz-Biz-Rick-Cook/dp/0671878468]]
+
+Not harry potter, but a basement dweller-type programmer gets sucked into a magical world and he figures out that he can systematically chain cantrip-level spells in complex ways to generate stupidly powerful magic using programming concepts.
+:PROPERTIES:
+:Author: Astramancer_
+:Score: 5
+:DateUnix: 1553099578.0
+:DateShort: 2019-Mar-20
+:END:
+
+*** There is also this: Off to Be the Wizard [[http://www.goodreads.com/book/show/18616975-off-to-be-the-wizard]]
+:PROPERTIES:
+:Author: MajinCloud
+:Score: 4
+:DateUnix: 1553106571.0
+:DateShort: 2019-Mar-20
+:END:
+
+
+*** I do believe this is the book series I was thinking of, too... Heh.
+:PROPERTIES:
+:Author: JayAreJay
+:Score: 1
+:DateUnix: 1553127916.0
+:DateShort: 2019-Mar-21
+:END:
+
+
+** In the second book, it's revealed that Harry can unknowingly code in Python, which scares everyone.
+:PROPERTIES:
+:Author: yottalogical
+:Score: 6
+:DateUnix: 1553124786.0
+:DateShort: 2019-Mar-21
+:END:
+
+
+** Horcruxes are just pointers
+:PROPERTIES:
+:Author: smurfy101
+:Score: 5
+:DateUnix: 1553102473.0
+:DateShort: 2019-Mar-20
+:END:
+
+*** Horcruxes are obviously the result of /fork(2)/. Ancient, +evil+Unix magic.
+:PROPERTIES:
+:Author: fyi1183
+:Score: 8
+:DateUnix: 1553111385.0
+:DateShort: 2019-Mar-20
+:END:
+
+**** fork() is magic? Woo-hoo! I use it all the time! I are wizzhard!
+:PROPERTIES:
+:Author: HiddenAltAccount
+:Score: 2
+:DateUnix: 1553117879.0
+:DateShort: 2019-Mar-21
+:END:
+
+
+** linkffn(11555315)
+:PROPERTIES:
+:Author: -17F-
+:Score: 5
+:DateUnix: 1553155884.0
+:DateShort: 2019-Mar-21
+:END:
+
+*** [[https://www.fanfiction.net/s/11555315/1/][*/Harry Potter, Magic Programmer/*]] by [[https://www.fanfiction.net/u/7182278/FasiahTheHeavenChild][/FasiahTheHeavenChild/]]
+
+#+begin_quote
+  Harry Potter, with rare mathematical and scientific genius, discovers his own unique brand of magic that operates on a completely different paradigm from everyone else in the wizarding world. Having gained both friends and enemies, he prepares to fight against a mysterious and dangerous organization that attacked him without provocation. -Heavy AU.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{21} ^{*|*} ^{/Words/:} ^{68,162} ^{*|*} ^{/Reviews/:} ^{162} ^{*|*} ^{/Favs/:} ^{591} ^{*|*} ^{/Follows/:} ^{726} ^{*|*} ^{/Updated/:} ^{4/6/2016} ^{*|*} ^{/Published/:} ^{10/12/2015} ^{*|*} ^{/id/:} ^{11555315} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure/Family} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{OC} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11555315&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11555315&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 3
+:DateUnix: 1553155895.0
+:DateShort: 2019-Mar-21
+:END:
+
+
+** Related: [[https://www.gpf-comics.com/wiki/Harry_Barker]]
+:PROPERTIES:
+:Author: UbiquitousPanacea
+:Score: 4
+:DateUnix: 1553116873.0
+:DateShort: 2019-Mar-21
+:END:
+
+*** Was going to post this, GPF is great! Some of the in-jokes rely on knowing the GPF characters though
+:PROPERTIES:
+:Author: blast_ended_sqrt
+:Score: 1
+:DateUnix: 1553118979.0
+:DateShort: 2019-Mar-21
+:END:
+
+**** Hopefully this'll get more readers.
+:PROPERTIES:
+:Author: UbiquitousPanacea
+:Score: 1
+:DateUnix: 1553119429.0
+:DateShort: 2019-Mar-21
+:END:
+
+
+** ... I would read the /hell/ out of this.
+:PROPERTIES:
+:Author: jojotastic777
+:Score: 3
+:DateUnix: 1553139375.0
+:DateShort: 2019-Mar-21
+:END:
+
+
+** This seems a lot like Mahouka.
+:PROPERTIES:
+:Author: shinshikaizer
+:Score: 2
+:DateUnix: 1553104864.0
+:DateShort: 2019-Mar-20
+:END:
+
+*** Only a bit. Harry won't dual-wield compilers.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 1
+:DateUnix: 1553186884.0
+:DateShort: 2019-Mar-21
+:END:
+
+
+** Harry is mostly a Java/Javascript developer. He's alright, but has a couple problems. First, he isn't able to break down problems very well (decomposition). Second, he solves most of his problems by importing libraries he doesn't understand. For example, most of his Java objects inherit/extend from a LeetLordHorcruxxx.java class (from a library created by: anonymous) and LoveResolver.java class (from a library created by: lilypotter60). He doesn't know what they do, but they sure make a lot of that nasty red syntax highlighting go away. Once Harry learns about Java 8 Streams, he tries to use them to solve all of his problems (he uses it like his old standby: expelliarmus).
+
+Hermoine is actually more of a data architect/DB admin. She knows exactly how to retrieve, structure, and store whatever data a program needs. She worries that other programmers don't use their data correctly. She has very verbose documentation, and often complains that nobody takes the time to read it. She's really good at grep (but Harry doesn't fully know what grep is). In classes, she's one of those kind of programmers who asks the professor about weird semi-relevant fringe cases while they're describing an algorithm. This tends to earn her points from her teachers, but groans from her classmates.
+
+Ron tried his hand at a few programming classes, but didn't really do well in any of them until he started doing HTML/CSS. He has a particular knack for that stuff. One time Hermoine walked in on Ron describing to Harry-- Ron: "So anyway, I found out that if on button-click: I just remove this CSS class from this div, hide it, add the class to this span, do it on a timeout to avoid any 'flickering', and slap a bootstrap animation over it, it looks great and the user is none the wiser!" 
+
+Hermoine: "That's barbaric!!"
+
+Ron: "That's CSS."
+
+One of Ron's main problems is that he can't imagine the user not understanding his interface "Oh come on, nobody's that stupid."
+:PROPERTIES:
+:Author: evolutionista
+:Score: 2
+:DateUnix: 1553257714.0
+:DateShort: 2019-Mar-22
+:END:
+
+
+** I would defo read this. However i doubt it would get written :(
+:PROPERTIES:
+:Author: masitech
+:Score: 1
+:DateUnix: 1554585471.0
+:DateShort: 2019-Apr-07
+:END:

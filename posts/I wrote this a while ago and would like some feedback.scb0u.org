@@ -1,0 +1,72 @@
+#+TITLE: I wrote this a while ago and would like some feedback
+
+* I wrote this a while ago and would like some feedback
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1334580672.0
+:DateShort: 2012-Apr-16
+:END:
+[deleted]
+
+
+** Looks good. Didn't have time to go through the whole thing, so I can't critique content much. Some things I will nitpick:
+
+--------------
+
+You use em dashes and semi-colons A LOT. There is nothing wrong with using them, but I find that using them in excess tends to detract from a positive reading experience. Aesthetically, dashes break up the text further.
+
+Semi-colons just look unattractive, especially in the amount you're using. They can easily be broken up into separate sentences. As Vonnegut puts it, "Semi-colons are transvestite hermaphrodites representing absolutely nothing. All they do is show you've been to college."
+
+--------------
+
+#+begin_quote
+  watched as the words sunk in
+#+end_quote
+
+Is vague and cliched.
+
+#+begin_quote
+  "Honestly", he added with a hint of a smirk.
+#+end_quote
+
+Comma goes inside.
+
+#+begin_quote
+  Harry narrowed his eyes at the boy beside him
+#+end_quote
+
+Seems cliched. I'm sure you can describe this in a more creative manner.
+
+#+begin_quote
+  long description of Neville's appearance
+#+end_quote
+
+This feels a bit... forced.
+
+#+begin_quote
+  The boys, ne young men,
+#+end_quote
+
+Typo.
+
+#+begin_quote
+  a branch of the -- literally -- weeping willow nearby -- the squid sure had some odd sleeping habits,
+#+end_quote
+
+These dashes... ugh.
+
+#+begin_quote
+  He turned around, his mouth opening to say just that, when Neville threw his arm around Harry's neck and hastily covered his mouth to prevent any sounds from escaping. Harry made a choking noise at the back of his throat and, thoroughly bewildered, he could only watch with wide eyes as Neville pulled him...
+#+end_quote
+
+Again, this doesn't read very naturally. It seems a bit... detached if I must say, especially for a third person narration. Making a choking noise is very passive and of much less consequence than say, describing the actual feeling from choking. There's a lot of this telling and not showing. Same goes for this "only watch" part. It makes Harry (and the reader) like an observer. There's no immersive action.
+
+--------------
+
+I didn't get through the whole story, but I will say the biggest thing is the tellling, which prevents reader immersion. The punctuation (dialogue comma format + semi-colon and dash usage) are secondary.
+:PROPERTIES:
+:Author: serasuna
+:Score: 4
+:DateUnix: 1334711379.0
+:DateShort: 2012-Apr-18
+:END:

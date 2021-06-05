@@ -1,0 +1,155 @@
+#+TITLE: Canon or Fanon: Wizengamot
+
+* Canon or Fanon: Wizengamot
+:PROPERTIES:
+:Score: 16
+:DateUnix: 1479546246.0
+:DateShort: 2016-Nov-19
+:FlairText: Discussion
+:END:
+[deleted]
+
+
+** The Wizengamot having powers beyond the judicial is based on a number of inferences. It's not canon but it is more than fanon (i.e. it is part of many people's "headcanon", elements of the world they consider part of canon but without conclusive evidence).
+
+The place to start is OotP, where we see Fudge removed from office before the end of his term. This implies that there is a body, other than the electorate in general, that has primacy over the office of the Minister. This is then further supported by the Pottermore page on Minister for Magic, which also mentions Ministers being removed from power.
+
+The next clue is to contrast CoS and OotP. In OotP, all legislation is called a Decree and seems to come directly from the office of the Minister for Magic. See also the Decree for the Reasonable Restriction of Underage Sorcery. However, in CoS we hear about the Muggle Protection /Act/. The use of two different words, degree and act, suggests two different forms of legislation. Decrees are passed by the Minister (i.e. the executive). It is unknown who passes Acts.
+
+It should be noted that in British constitutional tradition, an Act is one of the only two forms of primary legislation (the other being an Order in Council). The executive branch does write a lot of secondary or delegated legislation called statutory instruments, however. So a comparison immediately seems clear: there is a legislative body which can pass Acts, which are primary legislation, and the executive can pass Decrees, which are secondary legislation. Secondary legislation is called delegated legislation because it is generally made pursuant to an empowering Act which authorises the executive to write legislation on a particular matter within certain limits.
+
+So to summarise: there is a body with primacy over the Minister for Magic, and further there is a type of legislation other than that which we see the Minister passing. The Wizengamot seems to be the obvious body to attribute these powers to. Indeed, the only alternative would seem to be the ICW (which we also know has at least once removed a Minister from power).
+
+As for the separation of powers issue, I would encourage you to consider the British constitutional tradition on this matter. The Wizengamot is based, at least in name, on the Witenagemot, a Saxon proto-Parliament that was a gathering of the Kingdom's nobility to advise the king of the day. They had no clearly defined powers and certainly no concept of separation of powers. Their authority stemmed from the fact that together they represented all the most powerful and influential people of the land, and that gave them the ability to weigh in on whatever matter they were called to discuss.
+
+Similarly, Parliament never really had any concept of separation of powers until very recently. In the early days of Parliament, it was similar to the Witengamot in its relative informality and role relative to the King. Over time Parliament evolved into a legislative institution (with the Crown as the executive) but it was also a judicial institution. Until 2009, the House of Lords (one of the two chambers of Parliament) was not only the upper chamber of the legislature, it was also the highest court of appeal (or rather, a subcommittee of the House of Lords was).
+
+I don't think it would be a good idea to bring strict and formal separation of powers into wizarding Britain. Firstly because it feels out of place in the British context - almost American. Secondly because it feels out of place in the wizarding context - too formal and possessing to much clarity. Thirdly because it robs you of the ability to write a Ministry which has lots of obscure little rules and conventions each of which are based on a bit of juicy history that you can tell us about.
+:PROPERTIES:
+:Author: Taure
+:Score: 28
+:DateUnix: 1479555725.0
+:DateShort: 2016-Nov-19
+:END:
+
+*** It's been a while since I read, but was there a mention in /GoF/ about the size of the "Council of Magical Law" that convicted the Lestranges?
+
+Should we infer that it's a sub-unit of the Wizengamot?
+:PROPERTIES:
+:Author: jeffala
+:Score: 2
+:DateUnix: 1479610133.0
+:DateShort: 2016-Nov-20
+:END:
+
+
+** u/Satanniel:
+#+begin_quote
+  Wizengamot, an organisation that predates the Ministry of Magic and nowadays functions as a combination of court and parliament.
+#+end_quote
+
+[[https://www.pottermore.com/writing-by-jk-rowling/order-of-merlin][From Pottermore: Order of Merlin]]
+
+So, canon. Popular fanon element that's been proven untrue even in books themselves is the whole "lords" matter.
+
+Also don't separate them, why would you do that?
+:PROPERTIES:
+:Author: Satanniel
+:Score: 14
+:DateUnix: 1479554450.0
+:DateShort: 2016-Nov-19
+:END:
+
+*** Also this.
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1479555921.0
+:DateShort: 2016-Nov-19
+:END:
+
+
+*** u/Lowsow:
+#+begin_quote
+  Also don't separate them, why would you do that?
+#+end_quote
+
+Because Harry Potter, being set in America, would logically have an American style government.
+:PROPERTIES:
+:Author: Lowsow
+:Score: 1
+:DateUnix: 1479648520.0
+:DateShort: 2016-Nov-20
+:END:
+
+
+** u/deleted:
+#+begin_quote
+  I was told multiple times to clearly separate the legislative and judiciary powers of the Wizengamot.
+#+end_quote
+
+If your community is in the tens of thousands, this makes some sense -- a judge is too busy judging and a mayor is too busy maying for it to be reasonable for the same person to serve as both. If it's two thousand people, the mayor would probably handle most judicial matters, with important stuff going before the full town council.
+
+The House of Lords was a judicial body until 2009. Before 1948, the House of Lords was the only court that could try a peer. So that suggestion of separation was, I think, an Americanism. But in the US, Congress handles trials for sitting presidents, and in a less formal manner it can expel members.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1479573260.0
+:DateShort: 2016-Nov-19
+:END:
+
+
+** I hadn't head about separation of powers before I started following American politics. I wouldn't worry about it.
+
+In addition to the excellent points [[/u/Taure]] made, the Wizengamot simply has too many members to be purely judicial. iirc, Bones, Umbridge and Fudge voted in Harry's court case, which wouldn't make any sense if there were a strict separation of powers.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1479560441.0
+:DateShort: 2016-Nov-19
+:END:
+
+*** u/Marcoscb:
+#+begin_quote
+  I hadn't head about separation of powers before I started following American politics.
+#+end_quote
+
+What? Every democracy has separation of powers.
+:PROPERTIES:
+:Author: Marcoscb
+:Score: 1
+:DateUnix: 1479566035.0
+:DateShort: 2016-Nov-19
+:END:
+
+**** Every /sufficiently large/ democracy has separation of powers, and we almost invariably see large democracies. If the town of Hemlock, NY declared independence from the US, it would likely do just fine with an elected mayor and a town council of five to ten people.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1479573476.0
+:DateShort: 2016-Nov-19
+:END:
+
+***** I knew them hemlockians were up to something
+:PROPERTIES:
+:Author: PawnJJ
+:Score: 3
+:DateUnix: 1479586730.0
+:DateShort: 2016-Nov-19
+:END:
+
+
+**** It's clearer in some countries than others. In the UK, the party with a majority in the House of Common has the executive, while (until 2009) the House of Lords was the ultimate judicial authority. This strict separation into executive/legislative/judiciary is very American.
+
+'Separation of powers' isn't a term that comes up in UK, Aus and NZ politics.
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1479594130.0
+:DateShort: 2016-Nov-20
+:END:
+
+
+**** Nope. In the UK the Executive (the government with the Prime Minister etc.) is usually made up of sitting Members of the Parliament (the Legislative). No separation there.
+:PROPERTIES:
+:Author: Krististrasza
+:Score: 2
+:DateUnix: 1479644871.0
+:DateShort: 2016-Nov-20
+:END:

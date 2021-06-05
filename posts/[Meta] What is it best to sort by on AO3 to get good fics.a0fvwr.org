@@ -1,0 +1,215 @@
+#+TITLE: [Meta] What is it best to sort by on AO3 to get good fics?
+
+* [Meta] What is it best to sort by on AO3 to get good fics?
+:PROPERTIES:
+:Author: TimeTurner394
+:Score: 16
+:DateUnix: 1543205255.0
+:DateShort: 2018-Nov-26
+:FlairText: Meta
+:END:
+On FFN it's quite simple to sort by "reviews" or "favorites" and know you are going to get a good fic. However on AO3 I'm confused as to what to sort by (Hits, Kudos, Bookmarks). I was wondering what y'all would recommend to get good fics
+
+
+** Kudos on ao3 are kind of analogous to favorites on FFN. They aren't recorded, but they're a way for readers to say they liked the fic but didn't have time or desire to comment. Sorting by them will bring up a lot of the more popular works for a fandom.
+
+Sorting by hits can also bring up works that have a lot of traffic, but that doesn't necessarily mean people enjoyed them. There's same thing with bookmarks, but reverse. Only people with accounts can bookmark works so you miss works that get a lot of guest traffic. But anyone, even guests, can leave a kudos on a work, so I'd start there.
+:PROPERTIES:
+:Author: paragon_falcon
+:Score: 22
+:DateUnix: 1543208627.0
+:DateShort: 2018-Nov-26
+:END:
+
+*** Just chiming in to second this suggestion. Kudos tend to have the best yield of good fics (though just like with favorites on ffn, there's some high-kudo'ed dross that just makes you scratch your head.)\\
+With regard to sorting by bookmarks, I think (and I'm honestly not sure) that when you do this it sorts only by public bookmarks. For example, one of my stories shows up on my dashboard as having something like 500 bookmarks, but when you look at it off dashboard only something like 275 of these are actually public. Lots of people keep their bookmarks private, and I don't believe that number is included when you use it as a filter (please, someone correct me if I'm wrong.)
+:PROPERTIES:
+:Score: 11
+:DateUnix: 1543209534.0
+:DateShort: 2018-Nov-26
+:END:
+
+**** Nice point I didn't consider at all. You're probably right about the bookmarks! The ao3 briefing on bookmarks says that once you mark it private, no one but you can access it, so I doubt they count when sorting by bookmarks.
+:PROPERTIES:
+:Author: paragon_falcon
+:Score: 4
+:DateUnix: 1543210120.0
+:DateShort: 2018-Nov-26
+:END:
+
+***** Plus you gotta remember a lot of people subscribe to fics rather than bookmark them. I had a fic that had 26 bookmarks but 172 subscriptions at one point. You can't sort by subscriptions.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1543213584.0
+:DateShort: 2018-Nov-26
+:END:
+
+
+*** My only problem with that is:
+
+People really like Harry/Draco.
+
+People really like porn.
+
+People /really really/ like Harry/Draco porn.
+:PROPERTIES:
+:Author: SMTRodent
+:Score: 10
+:DateUnix: 1543240504.0
+:DateShort: 2018-Nov-26
+:END:
+
+**** And that's why I love the exclusion filters they added. That one change made my browsing experience on Ao3 so much better
+:PROPERTIES:
+:Author: viper5delta
+:Score: 11
+:DateUnix: 1543241429.0
+:DateShort: 2018-Nov-26
+:END:
+
+***** My baseline already excludes Drarry (and Tomarry, Snarry), but is there a way to exclude smut? Most smut isn't actually tagged "smut" so excluding that usually doesn't help.
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 2
+:DateUnix: 1543241626.0
+:DateShort: 2018-Nov-26
+:END:
+
+****** You can exclude the explicit rating...if it's not properly rated I'm not sure what your recourse is.
+:PROPERTIES:
+:Author: viper5delta
+:Score: 2
+:DateUnix: 1543242001.0
+:DateShort: 2018-Nov-26
+:END:
+
+******* Ah, thanks for the heads up. I'm probably running afoul of 'Chose not to use archive warnings'.
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 2
+:DateUnix: 1543242033.0
+:DateShort: 2018-Nov-26
+:END:
+
+
+** My fave way is to pick a specific tag and then sort by kudos within the fandom. That way You get past just the top fics in general and find some of the lesser known/new but still enjoyable fics that are more specific to what you're looking for.
+
+Tags I go for include: Slytherin!Harry, Eight Year, Diary Riddle, Time Travel (those are the tropes) and recently I looked into Harry Potter Abandoned By Dursleys (there were like 20 fics for that) and Harry Potter is Not A Horcrux (again I think there was like 30?).
+
+Just finding a tag on a fic you already like and searching through it is my fave thing to do.
+:PROPERTIES:
+:Score: 10
+:DateUnix: 1543213834.0
+:DateShort: 2018-Nov-26
+:END:
+
+
+** Hits is terrible. That just gives hits to stories with lots of hits and keeps them at the top of that list regardless of quality.
+
+Kudos and bookmarks are better markers of quality, but you'll only find popular stories that way.
+
+Honestly, the best way to find reliably good fics is to look at recommendations.
+
+​
+
+I uh... recommend mine. They're brilliant #marketinggenius
+:PROPERTIES:
+:Author: studentofwhim
+:Score: 7
+:DateUnix: 1543206709.0
+:DateShort: 2018-Nov-26
+:END:
+
+*** link to your fics?
+:PROPERTIES:
+:Author: TimeTurner394
+:Score: 1
+:DateUnix: 1543281789.0
+:DateShort: 2018-Nov-27
+:END:
+
+**** Sure. It seemed rude to actually self-promote, given the question.
+
+[[https://archiveofourown.org/works/8644156][Harry Potter and the Thief of Knockturn Alley]]
+
+[[https://archiveofourown.org/works/16746898][Book 2: A Half-Breed's Worth (in progress)]]
+:PROPERTIES:
+:Author: studentofwhim
+:Score: 1
+:DateUnix: 1543290673.0
+:DateShort: 2018-Nov-27
+:END:
+
+***** lol your excellent marketing had me wanting to read your fic
+:PROPERTIES:
+:Author: TimeTurner394
+:Score: 2
+:DateUnix: 1543362484.0
+:DateShort: 2018-Nov-28
+:END:
+
+
+** AO3 uses the Boolean operators AND, OR & NOT to further narrow your Search. Next to Search functions are small question marks. If you go to “More Options” in the Filters, then “Search within Results” & click on that ?, a box will pop up which explains how to use the terms to further filter results. Then you can filter out Drarry and porn lol. They've also added an Exclude function.
+:PROPERTIES:
+:Author: Suzanne95
+:Score: 3
+:DateUnix: 1543270326.0
+:DateShort: 2018-Nov-27
+:END:
+
+
+** Find a tag describing what you want to read. Sort by Kudos. There you go. Except that you might have to ignore around half of the results because of overzealous tagging. Characters, and to a lesser extent, pairings, are especially affected.
+
+I suggest you also exclude the Drarry, Tomarry and Snarry pairings (unless you're actually looking for this) considering the sheer amount of overtagged fics with these pairings.
+
+My personal baseline before I filter out what I'm actually looking for (Kudos sorting, filters the -- IMO -- most outrageous pairings, excludes crossovers): [[https://archiveofourown.org/works?utf8=%E2%9C%93&commit=Sort+and+Filter&work_search%5Bsort_column%5D=kudos_count&work_search%5Bother_tag_names%5D=&exclude_work_search%5Brelationship_ids%5D%5B%5D=99&exclude_work_search%5Brelationship_ids%5D%5B%5D=1600&exclude_work_search%5Brelationship_ids%5D%5B%5D=20822&work_search%5Bexcluded_tag_names%5D=&work_search%5Bcrossover%5D=F&work_search%5Bcomplete%5D=&work_search%5Bwords_from%5D=&work_search%5Bwords_to%5D=&work_search%5Bdate_from%5D=&work_search%5Bdate_to%5D=&work_search%5Bquery%5D=&work_search%5Blanguage_id%5D=1&tag_id=Harry+Potter+-+J*d*+K*d*+Rowling]]
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 4
+:DateUnix: 1543238151.0
+:DateShort: 2018-Nov-26
+:END:
+
+
+** I usually find the exclusion filters to be the best place to start. Unless you're one of those people who like literally everything, it's very nice to filter out the high rated fics that your just not interested (I usually filter out any pairings I don't like as well as harem, slash, and genderbend). After you've got exclusion filters set for your liking, you should filter by either Kudos, or if you're looking for something specific check out the inclusion filters.
+:PROPERTIES:
+:Author: viper5delta
+:Score: 1
+:DateUnix: 1543241304.0
+:DateShort: 2018-Nov-26
+:END:
+
+
+** First, filter worst with browser extension, for example ao3rdr
+
+[[https://addons.mozilla.org/en-US/firefox/addon/ao3rdr/]]
+
+After baseline is established, use AO3 exclude function to filter overflowing garbage. Search fics with one tag and sort them with update date and at least 15k words.
+
+Update ao3rdr filters and exclude more garbage, repeat few times and you should have few readable fics. Sorting by kudos, favs and hits does not mean anything in sites like AO3.
+:PROPERTIES:
+:Author: usernameXbillion
+:Score: 1
+:DateUnix: 1543245025.0
+:DateShort: 2018-Nov-26
+:END:
+
+
+** Sorting by kudos can be useful, I also like to sort by comments. Ultimately, I think the best guide is a ratio of kudos to hits, but the site doesn't show this automatically, you have to eyeball the two numbers of each fic and make up your mind. 5k kudos from 10k hits is much better than 5k kudos from 50k hits.
+:PROPERTIES:
+:Author: hamoboy
+:Score: 1
+:DateUnix: 1543261951.0
+:DateShort: 2018-Nov-26
+:END:
+
+
+** Not sure why people on here are recommending you to sort by kudos tbh. It's literally just a like, and people tend give kudos to stories all the time regardless of whether they're actually good or not. It's pretty much just telling the author to keep going, and nothing more. I've given kudos by mistake several times as well, and when you do you can't take it back. :/
+
+If you want quality then sort by bookmarks. (It's pretty much AO3's version of favs,) Most people are usually way more skeptical when it comes to what they bookmark, so the ones with tons of bookmarks are usually where the quality tends to lie.
+:PROPERTIES:
+:Author: Edin19
+:Score: -1
+:DateUnix: 1543248926.0
+:DateShort: 2018-Nov-26
+:END:

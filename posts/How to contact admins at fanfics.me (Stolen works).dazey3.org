@@ -1,0 +1,36 @@
+#+TITLE: How to contact admins at fanfics.me? (Stolen works)
+
+* How to contact admins at fanfics.me? (Stolen works)
+:PROPERTIES:
+:Author: cambangst
+:Score: 4
+:DateUnix: 1569783240.0
+:DateShort: 2019-Sep-29
+:FlairText: Request
+:END:
+I found one of my stories that's been "rehosted" (i.e. stolen) on this site. I've been going through the site, trying to find an email address to contact the admins, but it's not easy with Google's iffy translations of the Russian source. Does anyone have any experience with this bunch?
+
+
+** [[https://fanfics.me/html?article=help_6][This article]] says to write to [[mailto:abuse_ftf@fanfics.me][abuse_ftf@fanfics.me]] with links to the fics you wish removed. They also ask to confirm your authorship by placing the following text into your author's profile and adding a link to it in the email:
+
+#+begin_quote
+  "Прошу убрать тексты/тексты и шапки моих произведений из сервиса Фанфик в файл"
+#+end_quote
+
+The slash above is because they want you to specify if you wish to remove just the text, or the text /and/ the metadata (title, summary, etc).
+
+Hope this helps.
+:PROPERTIES:
+:Author: deirox
+:Score: 9
+:DateUnix: 1569785457.0
+:DateShort: 2019-Sep-29
+:END:
+
+*** Thanks!
+:PROPERTIES:
+:Author: cambangst
+:Score: 4
+:DateUnix: 1569796683.0
+:DateShort: 2019-Sep-30
+:END:

@@ -1,0 +1,192 @@
+#+TITLE: Is there any way to copy and paste text from fanfiction.net?
+
+* Is there any way to copy and paste text from fanfiction.net?
+:PROPERTIES:
+:Score: 13
+:DateUnix: 1601342531.0
+:DateShort: 2020-Sep-29
+:FlairText: Question
+:END:
+I'm not able to, is there any way because I would like to make a separate document for my own use.
+
+
+** From the mobile version.
+:PROPERTIES:
+:Author: Omeganian
+:Score: 9
+:DateUnix: 1601343105.0
+:DateShort: 2020-Sep-29
+:END:
+
+
+** [[http://www.ff2ebook.com/]]
+
+You can download as a PDF, mobi, or epub
+:PROPERTIES:
+:Author: ChasingAnna
+:Score: 6
+:DateUnix: 1601345608.0
+:DateShort: 2020-Sep-29
+:END:
+
+
+** Change the www to m
+:PROPERTIES:
+:Author: chlorinecrownt
+:Score: 7
+:DateUnix: 1601345879.0
+:DateShort: 2020-Sep-29
+:END:
+
+*** Ah yes, m.fanfiction. Thanks!
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1601345933.0
+:DateShort: 2020-Sep-29
+:END:
+
+
+** You can go to the source text and copy and paste from there.
+:PROPERTIES:
+:Author: francoisschubert
+:Score: 3
+:DateUnix: 1601342855.0
+:DateShort: 2020-Sep-29
+:END:
+
+*** How do you get to source?
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1601342933.0
+:DateShort: 2020-Sep-29
+:END:
+
+**** F12 or right click+view source
+:PROPERTIES:
+:Author: HairyHorux
+:Score: 2
+:DateUnix: 1601343615.0
+:DateShort: 2020-Sep-29
+:END:
+
+
+** Is you're using Firefox, you can select text in reader mode
+:PROPERTIES:
+:Author: Faeriniel
+:Score: 3
+:DateUnix: 1601355504.0
+:DateShort: 2020-Sep-29
+:END:
+
+
+** Disable javascript. Most browsers have the option nowadays.
+:PROPERTIES:
+:Author: IamZwrgbz
+:Score: 2
+:DateUnix: 1601353921.0
+:DateShort: 2020-Sep-29
+:END:
+
+
+** Running something like Ublock will let you select text. Just download the ebook, though: either use the website that somebody else linked (ff2ebook) or use calibre + the fanficfare plugin.
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 2
+:DateUnix: 1601360256.0
+:DateShort: 2020-Sep-29
+:END:
+
+
+** If you use Chrome just download the "Selectable" extension.
+:PROPERTIES:
+:Author: YOB1997
+:Score: 2
+:DateUnix: 1601365221.0
+:DateShort: 2020-Sep-29
+:END:
+
+
+** If you use Firefox and can stand to fiddle a bit...
+
+1. Find your Firefox profile location. It'll look like =C:\Users\colyn74457\AppData\Roaming\Mozilla\Firefox\Profiles\b74ifok2.Main=
+
+2. Find the =chrome= folder.
+
+3. Find the =userContent.css= file or create it if it isn't there.
+
+4. In that file enter and save:
+
+=@-moz-document domain(fanfiction.net)=
+
+={* {user-select: text !important; -moz-user-select: text !important; }}=
+
+From then on you'll be able to select text on FFN normally.
+:PROPERTIES:
+:Author: deirox
+:Score: 2
+:DateUnix: 1601388261.0
+:DateShort: 2020-Sep-29
+:END:
+
+
+** Like download as an ebook?
+:PROPERTIES:
+:Author: ABZB
+:Score: 1
+:DateUnix: 1601344016.0
+:DateShort: 2020-Sep-29
+:END:
+
+
+** Reader mode!
+:PROPERTIES:
+:Author: andracute2
+:Score: 1
+:DateUnix: 1601350626.0
+:DateShort: 2020-Sep-29
+:END:
+
+
+** Cool, now I can actually listen to them
+:PROPERTIES:
+:Author: CorsoTheWolf
+:Score: 1
+:DateUnix: 1601353658.0
+:DateShort: 2020-Sep-29
+:END:
+
+
+** [[https://github.com/JimmXinu/FanFicFare]] (command line utility or calibre plugin) allows downloading whole things as ePub, HTML, or plain text.
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1601361168.0
+:DateShort: 2020-Sep-29
+:END:
+
+
+** beta.ficsave.xyz
+:PROPERTIES:
+:Author: sue_donymous
+:Score: 1
+:DateUnix: 1601374399.0
+:DateShort: 2020-Sep-29
+:END:
+
+
+** Use browser built-in reader mode. You can select & copy this way.
+:PROPERTIES:
+:Author: albeva
+:Score: 1
+:DateUnix: 1601388045.0
+:DateShort: 2020-Sep-29
+:END:
+
+
+** Depends what browser you're using; for firefox just get tapermonkey or something similar and install a fanfiction.net selector script.
+:PROPERTIES:
+:Author: albertscoot
+:Score: 1
+:DateUnix: 1601393776.0
+:DateShort: 2020-Sep-29
+:END:

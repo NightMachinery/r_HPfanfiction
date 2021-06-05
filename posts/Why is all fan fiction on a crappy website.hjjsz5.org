@@ -1,0 +1,83 @@
+#+TITLE: Why is all fan fiction on a crappy website?
+
+* Why is all fan fiction on a crappy website?
+:PROPERTIES:
+:Author: finniruse
+:Score: 0
+:DateUnix: 1593639767.0
+:DateShort: 2020-Jul-02
+:FlairText: Discussion
+:END:
+Sorry for this total noob question, but why not have, say, an ebook that people can download? Have you ever seen fan fic presented as an ebook?
+
+
+** I think (but don't quote me on it) that both ffn and ao3 have an option to download it to a pdf or ereader.
+
+There are a few other specialized fanfic sites, but I couldn't say the same for them.
+:PROPERTIES:
+:Author: Devil_Kiwi
+:Score: 7
+:DateUnix: 1593639995.0
+:DateShort: 2020-Jul-02
+:END:
+
+*** u/IQuoteYouBot:
+#+begin_quote
+  I think (but don't quote me on it) that both ffn and ao3 have an option to download it to a pdf or ereader.\\
+  \\
+  There are a few other specialized fanfic sites, but I couldn't say the same for them.
+#+end_quote
+
+-Devil_Kiwi
+:PROPERTIES:
+:Author: IQuoteYouBot
+:Score: 4
+:DateUnix: 1593640001.0
+:DateShort: 2020-Jul-02
+:END:
+
+**** Good bot. :D
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 2
+:DateUnix: 1593640089.0
+:DateShort: 2020-Jul-02
+:END:
+
+
+** You can! There's a button on the bot here, AO3 has it as part of the website's actual functionality, and you can download everything from FFNet using a plugin on Calibre called Fanficfare where you just copy in the URL and it does the work.
+
+But otherwise, it's cause it's easiest to just have everything hosted in one place for people to access. Whether it's saved as an Ebook format or a webpage is not really all that much different (as those ways that I mentioned before exist to save webpages as ebooks), so it's saved as a webpage because it's easier/more traditionally-fitting technologically and keeps it accessible for people who don't have ebook readers.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 6
+:DateUnix: 1593640031.0
+:DateShort: 2020-Jul-02
+:END:
+
+
+** Use the app on the phone and it's pretty good
+:PROPERTIES:
+:Author: RavenclawHufflepuff
+:Score: 4
+:DateUnix: 1593639923.0
+:DateShort: 2020-Jul-02
+:END:
+
+
+** Not an ebook but a friend has run fics though a text to speech program to make them audiobooks I just cant stand the voice so I stick with the sites
+:PROPERTIES:
+:Author: Aniki356
+:Score: 3
+:DateUnix: 1593639971.0
+:DateShort: 2020-Jul-02
+:END:
+
+
+** [[https://github.com/JimmXinu/FanFicFare]] (available as a stand-alone command line application or the Calibre plugin) can download from [[https://github.com/JimmXinu/FanFicFare/wiki/Supportedsites][tens of various fanfiction websites]]. I read almost only ePubs downloaded with this application.
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1593640426.0
+:DateShort: 2020-Jul-02
+:END:

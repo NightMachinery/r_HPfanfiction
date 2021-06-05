@@ -1,0 +1,407 @@
+#+TITLE: Here's a database of all HP characters and some demographic analysis
+
+* Here's a database of all HP characters and some demographic analysis
+:PROPERTIES:
+:Author: eclaircissement
+:Score: 110
+:DateUnix: 1531628869.0
+:DateShort: 2018-Jul-15
+:END:
+* TL;DR
+  :PROPERTIES:
+  :CUSTOM_ID: tldr
+  :END:
+I made a [[https://docs.google.com/spreadsheets/d/1pyCF4wRHy03j8cKDcyy4aaE-eRJDpr5Gb798MpJllMw/edit#gid=1284512338][spreadsheet]] with a lot of information on HP characters. Make a copy to edit.
+
+* Background
+  :PROPERTIES:
+  :CUSTOM_ID: background
+  :END:
+This project started with a simple question: what percentage of the wizarding population is Muggle-born? Did wizards fight all these wars over a tiny 1-2% of their population, or were they a major demographic? There are already some [[https://scifi.stackexchange.com/questions/7364/what-percentage-of-wizards-are-born-from-wizard-families][good answers]] but I wanted to see what kind of numbers we could get by examining the actual characters in the series.
+
+Once I started, I realized that blood status isn't the only interesting way to slice the wizarding population. We can also analyze by era, Hogwarts house, and any combination of factors. I decided to just throw all the data in a spreadsheet so anyone can use it however they like.
+
+* Sources
+  :PROPERTIES:
+  :CUSTOM_ID: sources
+  :END:
+The [[https://harrypotter.wikia.com/wiki/Main_Page][Harry Potter Wiki]] isn't perfect, but it's the most comprehensive source out there and I relied on it for most of the information collected. I also made a very small number of adjustments where they felt necessary (for example, the wiki has Pansy Parkinson listed as a half-blood or pure-blood, which I changed to simply pure-blood as the Parkinsons are listed among the Sacred Twenty-Eight and we're not given any information to the contrary).
+
+* Canonicity
+  :PROPERTIES:
+  :CUSTOM_ID: canonicity
+  :END:
+Of the roughly 360 (and counting) characters I've catalogued so far, 267 are mentioned directly in the original 7 books. I refer to them as "book-canon". There are an additional 4 characters mentioned only in the films, 24 from Pottermore, and 24 from assorted games. There are many more characters from games, the Fantastic Beasts movies, Cursed Child, and other media which I may add, but it's not a priority. There are also roughly 40 members of the extended Black family which I haven't classified yet (mostly from the tapestry in the OotP movie).
+
+I also included a column for number of book mentions for the top 200 characters. The most popular fanon characters who didn't have the 12 mentions required to make this list are easily Daphne Greengrass and Susan Bones. Characters who are not found in the books at all include Tracey Davis and many of the Weasley grandchildren.
+
+* Hogwarts Students
+  :PROPERTIES:
+  :CUSTOM_ID: hogwarts-students
+  :END:
+From JKR's [[https://www.pottermore.com/writing-by-jk-rowling/the-original-forty][Original Forty]], we know that she aimed for 5 male and female students in each house to represent the general Hogwarts population. As she acknowledges, there should be more students - 40 students per year would imply the Wizarding UK has a population of about 4,000 if the average lifespan is 100, but a more reasonable number would be in the tens of thousands.
+
+Regardless, I organized all of the students we know from Harry's year (sorted in 1991, the class of 1998) into a table as well as all of the other canon characters whose Hogwarts careers overlap with Harry's. This gives a pretty good visual representation of how much we know about the Hogwarts population, which turns out to be very little. In the class of 1997, one year above Harry, we know the names of five students. In Ginny's year, it's 4. The only years we know a bit about are the class two years above Harry (Fred and George's year) and the class of 2001 (sorted in 1994 during GoF when Harry/JKR apparently decided to pay attention to the Sorting).
+
+A lot of characters didn't quite make it into the books but we can still use them to fill in the gaps. Movie characters are italicized and Pottermore characters are in gray. For some, we don't know their exact house or year, although we can often make an educated guess (can you believe we don't know which year Zacharias Smith and Marietta Edgecombe were in?). Many of these characters are from Quidditch, and so many different boys play for Slytherin that we can fill in the years above Harry reasonably well. There are actually 43 total characters in Harry's year, mostly because the movies introduced two extras (Fay Dunbar and Kellah), otherwise you can easily place the unknowns into the empty slots and drop one of Sally Smith or Sophie Roper.
+
+Many great fanfics elevate these background characters and interweave their stories with canon. [[https://www.fanfiction.net/s/6919395/1/The-Changeling][The Changeling]] proved that Flora and Hestia Carrow, little more than two names in the books, can be very compelling. [[https://www.fanfiction.net/s/9738656/25/You-ll-Be-The-Death-of-Me][You'll Be The Death of Me]] makes great use of Terrence Higgs (and is also interminably long). The wonderfully-titled [[https://www.fanfiction.net/s/12696674/1/Madley-in-Love][Madley in Love]] gives star billing to a girl in Hufflepuff three years below Harry mentioned once in GoF.
+
+I hope that this table can be a good tool for those looking keep things straight, fill out their headcanon, and do a little worldbuilding. I already resisted the temptation to drop the entire cast of [[https://www.fanfiction.net/s/2233473/1/Latet-Anguis-In-Herba][the Anguis series]] right in.
+
+* Blood Status
+  :PROPERTIES:
+  :CUSTOM_ID: blood-status
+  :END:
+Returning to the original premise, there's no clear definition of "pure-blood" in Harry Potter. We can imagine definitions ranging from the most lenient (2 magical parents) to the most stringent (only magical ancestors for many generations, aka the Malfoy version). Generally, a character's blood status is simply stated without explanation. A reasonable definition that works with most of these statements seems to be "4 magical grandparents". Harry's children are a bit of a borderline case - the wiki lists them as half-blood due to their Muggle-born grandmother.
+
+Uunfortunately we don't have as much information on characters' blood status as I'd like. Over 50 characters are given the status of "Pure-blood or half-blood", meaning that they didn't have to go into hiding during the war. We only know the exact blood status of 101 characters from the books (not counting muggles, animals, or mixed-species characters):
+
+- 58 pure-bloods
+- 31 half-bloods
+- 10 Muggle-borns (Hermione, Lily Potter, Moaning Myrtle, Justin F-F, Ted Tonks, the Creeveys, Mary Cattermole, Dirk Cresswell, and Kendra Dumbledore)
+- 2 squibs (Filch and Mrs. Figg)
+
+This implies the Wizarding population is 10% Muggle-born, and nearly 60% pure-blood! It definitely contradict's Ron's statement in CoS that "most wizards these days are half-blood anyway." But maybe it's not a representative sample - the books mention a lot of Death Eaters, who are often pure-bloods, plus the families we know the most about are all pure-bloods (Weasleys, Blacks, Malfoys, etc.). Let's shrink the sample to the 34 students who attended Hogwarts at least one year with Harry:
+
+- 20 pure-bloods (59%)
+- 10 half-bloods (29%)
+- 4 muggle-borns (12% - Hermione, Justin, Colin, and Dennis)
+
+The numbers are basically unchanged. We can probably assume that Muggle-borns represent about 10-12% of the total Wizarding population, pure-bloods are near 60%, half-bloods are about 30%, and squibs are very rare. Perhaps surprisingly, there are only 10 named Muggle-borns in the entire series.
+
+We can also calculate a rough percentage of total magical blood via a weighted average (a pure-blood counts as 1, half-blood 0.5, all others 0). It's not exact since a half-blood might have 25% magical blood or 75%, but it's close. By this formula, the overall population has roughly 73% Wizarding ancestry, which seems fairly high. Broken down by House:
+
+- Gryffindor: 67%
+- Hufflepuff: 57%
+- Ravenclaw: 50%
+- Slytherin: 89%
+
+Unsurprisingly, Slytherin is by far the 'purest' house, with zero Muggle-borns (though half-blood Slytherins aren't unusual). Gryffindor isn't the most diverse though - Ravenclaw and Hufflepuff are, although our samples are quite small. In Ravenclaw, we only know of 1 pure-blood (Morag MacDougal) and 1 Muggle-born (Myrtle). In Hufflepuff, there are 2 pure-bloods (Ernie Macmillan and Cedric Diggory) and 1 Muggle-born (Justin). Half-bloods account for 7 of the 9 Ravenclaws with a known blood status, and generally seem much better distributed than pure-bloods, who are nearly all sorted into Gryffindor and Slytherin.
+
+* Conclusion
+  :PROPERTIES:
+  :CUSTOM_ID: conclusion
+  :END:
+Hopefully you found this interesting and might enjoy using it as a reference. I'd love to hear other ideas for analysis as well.
+
+
+** This is amazing. Well done! Couple things I had forgotten or did not know. Dumbledore and Umbrige were half blood!?
+
+Edit: you also make a good point about what exactly is considered "pure blood". For me I've always thought of it as 2 to 3 generations of Magicals with no half blood marrying in.
+:PROPERTIES:
+:Author: Shadow8600
+:Score: 20
+:DateUnix: 1531633288.0
+:DateShort: 2018-Jul-15
+:END:
+
+*** Yes, Dumbledore's mother Kendra was Muggle-born and Umbridge's mother was a Muggle according to Pottermore.
+
+Half-bloods are disproportionately important in the series. Harry, Dumbledore, Voldemort, and Snape - arguably the four characters who do the most to advance the plot - are all half-bloods. It makes sense given the series is about a war over blood supremacy but I enjoy fanfiction that gives the Muggle-born or even Muggle perspective on it all since it feels like that's missing from the series. Ted and Andromeda Tonks have a good argument for best romance (Romeo + Juliet style) in all of Harry Potter.
+:PROPERTIES:
+:Author: eclaircissement
+:Score: 31
+:DateUnix: 1531633844.0
+:DateShort: 2018-Jul-15
+:END:
+
+**** I had no idea about either. Very interesting read. Thanks for taking the time. Who knew that after nearly two decades of being a fan of the series I will still be learning new things. Love it.
+:PROPERTIES:
+:Author: Shadow8600
+:Score: 3
+:DateUnix: 1531634043.0
+:DateShort: 2018-Jul-15
+:END:
+
+
+*** Umbridge being a halfblood has emerged as a plot point in several fics. But for Dumbledore, I'm genuinely surprised!
+:PROPERTIES:
+:Author: Arsenal_49_Spurs_0
+:Score: 6
+:DateUnix: 1531642574.0
+:DateShort: 2018-Jul-15
+:END:
+
+**** On the contrary, in Russian fanfiction Dumbledore is always mentioned as a half blood, but up till now I've never heard of Umbridge blood status :D
+:PROPERTIES:
+:Author: sugioshi
+:Score: 5
+:DateUnix: 1531645026.0
+:DateShort: 2018-Jul-15
+:END:
+
+
+** Interesting project, though I feel ultimately that (as you note) we simply don't have a broad enough sample of the wizarding population to know for sure. I'd almost be tempted to limit it to Harry's year, since there at least we have a good cross-section, whereas all the other characters we know of are introduced for plot reasons (for example, we know a disproportionate number of Death Eaters, which likely taints the results).
+
+With regards to the disparity between Ron's comment ("most people are half-bloods") and the stats coming out of this, I think they can be reconciled with the fact of the two main definitions of "pure-blood" you mention.
+
+There's the technical definition, which JKR has stated to be grandparents.
+
+Then there's the political definition, i.e. the one used by Death Eaters and those like them, which is not having any Muggle ancestry at all. The latter is more about politics than actual ancestry, because in reality there would be no "pure-bloods" by this definition (except, perhaps, the Gaunts, who took inbreeding to the next level). To qualify as a pure-blood, therefore, you must gain acceptance of the group that uses this extreme definition, i.e. by aligning yourself with them politically and following their practices, which include obliterating any record of any familial connection to Muggles (see: the heavily redacted Black family tree). It's essentially a group delusion.
+
+The latter is why it's no big deal that Voldemort is actually a half-blood. The whole political faction is premised upon erasing the actual past and making up a fake past for your family.
+
+It's an important point, often missed in the fandom, that Dumbledore and the Order reject both these definitions, not just the latter one. Dumbledore's philosophy is not equality between "Pure-bloods" and "Muggleborns". His philosophy is to reject the entire classification system. He never refers to purity of blood without use of the phrase "so-called".
+
+Anyway, the point here is that the same person can be described as half-blood (by the strict definition) and pure-blood (by the technical definition). I suppose that Ron, who doesn't believe in purity of blood, defaults to assuming that people are referring to the strict definition which is the one used by the most fanatical proponents of blood purity.
+:PROPERTIES:
+:Author: Taure
+:Score: 31
+:DateUnix: 1531640965.0
+:DateShort: 2018-Jul-15
+:END:
+
+*** The numbers don't change much for only Harry's year.
+
+It's interesting to reject the entire system. If we consider blood status as analogous to race, I feel that would make JKR somewhat more progressive than most of the world today. Many people acknowledge "race is a social construct" but not many propose that we stop categorizing ourselves that way. To do so feels a bit naive because it glosses over any discrimination that still exists.
+
+I actually tried to compare the blood purity of 'successful' people to see if there was a bias compared to the general population (ie prefects and head students), but the sample size is too small.
+
+The subjectivity of defining 'pure' does make sense when reconciling Ron's statement with these other facts. By the grandparents definition, Harry's kids would be purebloods, though I doubt they would identify that way culturally.
+:PROPERTIES:
+:Author: eclaircissement
+:Score: 3
+:DateUnix: 1531662043.0
+:DateShort: 2018-Jul-15
+:END:
+
+**** I don't think Harry's children would be considered pure blood by the grandparent measure because Lily is Muggleborn. But, on the other hand, she is a witch. So, would a Muggleborn grandparent count against?
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 1
+:DateUnix: 1531667364.0
+:DateShort: 2018-Jul-15
+:END:
+
+***** Possibly, but in my opinion it shouldn't. Requiring all 4 grandparents to not be Muggleborn is the same thing as requiring all 8 great-grandparents to be magical.
+:PROPERTIES:
+:Author: eclaircissement
+:Score: 2
+:DateUnix: 1531674906.0
+:DateShort: 2018-Jul-15
+:END:
+
+
+**** To completely reject the differences in "races" entirely could be fatal as well. There are medical reasons those things need to be cataloged. Some medicines are more, or less, effective (or not effective at all) on different races.
+:PROPERTIES:
+:Author: UrbanGhost114
+:Score: 1
+:DateUnix: 1532167149.0
+:DateShort: 2018-Jul-21
+:END:
+
+
+** I created a mathematical model of the demographics of the wizarding world a while back and got surprisingly similar results to your book survey. The calculation was based on 2 assumptions:
+
+1. 10% of the magical population is muggle-born (which I estimated from the Original 40 list).
+2. The large majority of the population marries in the magical world, and their marriage patterns reflect the demographics of the population as a whole.
+
+If you propagate blood status through many generations based on those two assumptions, then based on the broadest definition of "pure-blood" (all 4 grandparents being magical), you get 10% muggle-born, 44% half-blood, and 46% pure-blood. For purists who say that's not good enough, the number of "pure-bloods" roughly halves for each additional generation you require.
+
+I'm sure JKR didn't do the math, but I think it's plausible to say that your analysis actually does reflect her intent.
+:PROPERTIES:
+:Author: TheWhiteSquirrel
+:Score: 5
+:DateUnix: 1531689035.0
+:DateShort: 2018-Jul-16
+:END:
+
+*** There is also the concern that this cross section mostly shows UK characters. The demographics may very wildly from region or country.
+:PROPERTIES:
+:Author: UrbanGhost114
+:Score: 1
+:DateUnix: 1532167299.0
+:DateShort: 2018-Jul-21
+:END:
+
+
+** While I'm impressed with this list, bravo, I have a few issues.
+
+First off, the problem with using the wiki for your sourcing is that they mix everything together from all available content. You label characters "book canon" and yet give them first names that were never in the books.
+
+Quirinus Quirrell, Garrick Ollivander, Rolanda Hooch, Mykew Gregorovitch, Graham Montague, to name a few.
+
+This is why I think we need to have more specificity in categorizing Harry Potter Canon. If it's explicitly "book canon" (or OS-Canon for original source material), then it shouldn't include the first names given through Harry Potter card sets and video games. Those details would be from a broader wizarding world continuity canon (or WW-Canon for short).
+
+However, big laughs for:
+
+First Name - Fat
+
+Surname - Lady
+:PROPERTIES:
+:Author: TheBoyWhoWrote
+:Score: 4
+:DateUnix: 1531659724.0
+:DateShort: 2018-Jul-15
+:END:
+
+*** Thanks.
+
+Yes, I based canonicity on whether the character is simply mentioned at all in the books. Biographical details are often filled in later via Pottermore and other sources. It seems too complicated to attribute each individual piece of information within a spreadsheet to its source, but you can always consult the relevant wiki page which will often have references for everything.
+
+I think Remus mentions his father (not listed on the spreadsheet) in the books once, but doesn't give his name or any other information. Pottermore gives "Lyall Lupin" a full background story. Is the character canon? Well, slightly, but the mention isn't necessary - we know Remus must have a father. So it's up to you whether to go with Pottermore or your own interpretation.
+:PROPERTIES:
+:Author: eclaircissement
+:Score: 3
+:DateUnix: 1531662078.0
+:DateShort: 2018-Jul-15
+:END:
+
+**** It's certainly complicated! It's MUCH easier to just look things up on a wiki. I guess I see myself as a canon purist when it comes to writing fanfic. Book canon, that is. The story can go wherever I want it to go, as long as it is consistent with established content from the books. Upside to this would be that if the first names aren't listed in the books, then I feel like I am "allowed" to name them whatever I want in my spinoff sort of head-canon. Plotholes can be filled, lingering questions can be answered, and anything that is ambiguous or left unspecified can be finalized by the fanfic author. It's a radical and very specific style of fanfic. And time-consuming. But I love it.
+:PROPERTIES:
+:Author: TheBoyWhoWrote
+:Score: 0
+:DateUnix: 1531662667.0
+:DateShort: 2018-Jul-15
+:END:
+
+
+*** And then there's supporting the naming of Moaning Myrtle from Cursed Child, which I just totally refuse to do lol. JKR gave her the name Myrtle Elizabeth Warren which is a case of parallel thinking or Cryptomnesia (a term for when you're absolutely certain you've come up with an original idea, only to discover after the fact that you had heard of it elsewhere).
+
+J.K. Rowling has shown herself to be a news enthusiast, especially when it comes to the American media. As well, she has exhibited a clear favoritism toward progressive ideals (I'm not making any political statements here so please don't @ me). One of the leaders of the American progressive movement is a woman named...wait for it... Elizabeth Warren. She's extremely significant to American politics, and a household name here in the U.S.
+
+It's possible that JKR, as a Brit, would overlook this obvious example of parallel thinking. For something that would hit a little closer to home, I'd need to say something like Mrs. Norris had a full name. It was Kate Middleton Norris.
+
+It's a clear mistake. Not that she would ever admit to it. But that's why I can't get behind the name.
+:PROPERTIES:
+:Author: TheBoyWhoWrote
+:Score: -2
+:DateUnix: 1531660068.0
+:DateShort: 2018-Jul-15
+:END:
+
+
+** u/SerCoat:
+#+begin_quote
+  The Changeling proved that Flora and Hestia Carrow, little more than two names in the books,
+#+end_quote
+
+Flora and Hestia Carrow don't appear in the books at all. They were created out of whole cloth for the movies.
+:PROPERTIES:
+:Author: SerCoat
+:Score: 2
+:DateUnix: 1531732969.0
+:DateShort: 2018-Jul-16
+:END:
+
+*** Good point, I misread the source as the book version of DH and not the movies.
+:PROPERTIES:
+:Author: eclaircissement
+:Score: 2
+:DateUnix: 1531751493.0
+:DateShort: 2018-Jul-16
+:END:
+
+
+** What does the PH and MH stand for in the blood status section?
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1531635331.0
+:DateShort: 2018-Jul-15
+:END:
+
+*** MH: Muggle-born or Half-blood
+
+PH: Pure-blood or Half-blood (didn't want to use HP)
+
+Basically for when one of the options can be ruled out but not the others. PH is much more common because any student/adult that didn't go into hiding during DH can be assumed to not be Muggle-born.
+:PROPERTIES:
+:Author: eclaircissement
+:Score: 7
+:DateUnix: 1531635478.0
+:DateShort: 2018-Jul-15
+:END:
+
+
+** I do not understand all of these numbers and things please! :( Please what does it all mean? I don't understand it.
+:PROPERTIES:
+:Score: -3
+:DateUnix: 1531635883.0
+:DateShort: 2018-Jul-15
+:END:
+
+*** Khan Academy is generally good for getting to grips with mathematics.
+
+For percentages:
+
+[[https://www.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-intro-percents/v/describing-the-meaning-of-percent]]
+:PROPERTIES:
+:Author: Taure
+:Score: 7
+:DateUnix: 1531726370.0
+:DateShort: 2018-Jul-16
+:END:
+
+
+*** How about, instead of downvoting my comment asking for help and clarity, someone actually /GIVES THAT HELP AND CLARITY LIKE A DECENT HUMAN BEING PLEASE?/ I didn't think it was so wrong to want to understand something you can't understand. To ASK FOR HELP with it. But apparently it is. Asking for help is wrong. Wanting to understand is wrong.
+:PROPERTIES:
+:Score: -4
+:DateUnix: 1531690292.0
+:DateShort: 2018-Jul-16
+:END:
+
+**** [removed]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1531756975.0
+:DateShort: 2018-Jul-16
+:END:
+
+***** Yes, I don't understand basic math. I didn't graduate high school. So I asked for help, just a simple little request! And some other people were actually nice enough to take two seconds to make a helpful post about what this is all about. Unlike YOU, who just made a post to be rude and call me a troll, and that I should go somewhere else. So yes, I am blocking you forever. You could have chosen to be decent instead of what you are.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1531757249.0
+:DateShort: 2018-Jul-16
+:END:
+
+
+***** Removed for violating Rule 3. Please be mindful of our communities rules before posting.
+:PROPERTIES:
+:Author: kemistreekat
+:Score: 0
+:DateUnix: 1531767466.0
+:DateShort: 2018-Jul-16
+:END:
+
+
+** How about, instead of downvoting my comment asking for help and clarity, someone actually GIVES THAT HELP AND CLARITY LIKE A DECENT HUMAN BEING PLEASE? I didn't think it was so wrong to want to understand something you can't understand. To ASK FOR HELP with it. But apparently it is. Asking for help is wrong. Wanting to understand is wrong.
+:PROPERTIES:
+:Score: -1
+:DateUnix: 1531690385.0
+:DateShort: 2018-Jul-16
+:END:
+
+*** If we look at a list of all the characters we find out that 10% are muggleborns, 30% are half blood, and the rest are pureblood - more purebloods than you might expect.
+
+We know very little about Hogwarts other than Harry's year, but Slytherin is the 'purest' house by a lot. Ravenclaw and Hufflepuff are the least pure, but we barely know anything about them.
+
+There are very few muggleborns and the only one the series focuses on much is Hermione. Most of the important characters are half-bloods.
+:PROPERTIES:
+:Author: eclaircissement
+:Score: 3
+:DateUnix: 1531692697.0
+:DateShort: 2018-Jul-16
+:END:
+
+**** Thank you Eclair! :) That seems weird because in the books Ron said most people were muggle borns? Like they were outnumbering everyone else with time?
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1531695909.0
+:DateShort: 2018-Jul-16
+:END:
+
+***** He says most people are half-blood in Chamber of Secrets, meaning most people have at least one muggle ancestor and aren't that worried about maintaining purity.
+:PROPERTIES:
+:Author: eclaircissement
+:Score: 1
+:DateUnix: 1531698328.0
+:DateShort: 2018-Jul-16
+:END:
+
+****** Oh okay! :)
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1531699955.0
+:DateShort: 2018-Jul-16
+:END:

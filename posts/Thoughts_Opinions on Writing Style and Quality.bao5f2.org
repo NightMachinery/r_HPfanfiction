@@ -1,0 +1,193 @@
+#+TITLE: Thoughts/Opinions on Writing Style and Quality
+
+* Thoughts/Opinions on Writing Style and Quality
+:PROPERTIES:
+:Author: Erebus1999
+:Score: 9
+:DateUnix: 1554689520.0
+:DateShort: 2019-Apr-08
+:FlairText: Self-Promotion/Discussion
+:END:
+So I finally (after five rewrites and six months of handwritten notes) posted the final version (I think) of the prologue of my rabid plotbunny, linkffn(Figure in Gray by Erebus1999) and want opinions, thoughts and criticism. It's been some time since I wrote fiction on this scale and most of what I've had to write recently were boring essays, so I would like some reassurance that I am not writing a lovely essay of a novel.
+
+​
+
+I just updated it to the most recent version of the prologue earlier today and want all of the above. How can I improve what is written? What are your thoughts on what tiny bit of the plot has been revealed so far? Should I go back and re-write this again before I get too far to make any major changes? Are there any grammar errors or typos I missed (as I am my own beta)? Give me all of it. :D
+
+​
+
+Cheers all. Erebus out
+
+
+** Here are my thoughts and corrections as I go along, followed by my thoughts at the end.
+
+--------------
+
+#+begin_quote
+  Author's Note:For those of you...
+#+end_quote
+
+You need a space after the colon. (I can see the HTML source that these are two HTML elements next to each other -- maybe you typed a newline but FanFiction.Net automatically deleted it.)
+
+--------------
+
+I like the intro. It sets the scene in a way reminiscent of the opening to Book 4, and still doesn't take too long to get to the action (Voldemort meditating).
+
+--------------
+
+#+begin_quote
+  /"NOT CEDRIC" the voice in his head thundered!/
+#+end_quote
+
+You need punctuation after the quote. Usually it would be a comma, but it looks like this quotation would have an exclamation point:
+
+#+begin_quote
+  /"NOT CEDRIC!" the voice in his head thundered./
+#+end_quote
+
+[[https://www.thepunctuationguide.com/exclamation-point.html][source for that fix]]
+
+--------------
+
+#+begin_quote
+  /The Killing curse left a clear trail through the haze.../
+#+end_quote
+
+The correct capitalization is “Killing Curse”.
+
+--------------
+
+#+begin_quote
+  /On the front of the home, polished and shining in the silvery half-light that penetrated the mist and held up by two perfectly ordinary metal nails hammered into the wall over a rosebush, hung a large metal number four./
+#+end_quote
+
+This sentence is hard to follow because the subject is at the end. When you mention “polished and shining”, I am not sure yet whether it is the home that is polished and shining or something yet to be described. Later in the sentence, “held up” made me think at first that the silvery half-light did two things: penetrated the mist and held up something. Then I see it's “held up by”, so I know it's not that, but I've lost track of the structure of the sentence now.
+
+Moving the subject to the beginning is not a great solution, because though it would make the sentence clearer, it would also make the reveal of the number four less impactful. So I think this punctuation change might be your best option:
+
+#+begin_quote
+  /On the front of the home, polished and shining in the silvery half-light that penetrated the mist, held up by two perfectly ordinary metal nails hammered into the wall over a rosebush, hung a large metal number four./
+#+end_quote
+
+--------------
+
+I like your image of the Death Eater's masks only briefly being visible in the lamplight.
+
+The last paragraph of the second appearance of the gray man reveals that he is not Mundungus Fletcher, but I was already pretty certain of that. I don't know if you were aiming for a bigger surprise there.
+
+--------------
+
+#+begin_quote
+  the very earth itself rose up into a stony wall
+#+end_quote
+
+“Very” and “itself” are redundant here. I think it sounds neater if you just say “the very earth”.
+
+--------------
+
+I like that you mention the rosebushes attacking a Death Eater. I heard about those rosebushes so many times in the books, but they were never significant until now.
+
+#+begin_quote
+  Maybe a calming draught would work on muggles.
+#+end_quote
+
+This is an interesting reveal. The man can't be Harry, as I thought he might be, because he calls people “muggles”, like a pureblood-raised wizard.
+
+--------------
+
+#+begin_quote
+  Follow Ironclaw Mister Revenant.
+#+end_quote
+
+Needs a comma:
+
+#+begin_quote
+  Follow Ironclaw, Mister Revenant.
+#+end_quote
+
+--------------
+
+#+begin_quote
+  "May your scales overflow, Master Teller." He promptly strode off to Ironclaw, before both of them disappeared into the halls of Gringotts.
+#+end_quote
+
+The adjective “promptly” clashes with my vision of the scene. If the man took the time for a parting greeting, his departure can't be that prompt. Also, he didn't really stride “off” to Ironclaw, because Ironclaw is “onstage” in this scene. Rather, after reaching Ironclaw, he would “stride off” to his destination. How about this?
+
+#+begin_quote
+  "May your scales overflow, Master Teller." He strode up to Ironclaw, and both of them disappeared into the halls of Gringotts.
+#+end_quote
+
+--------------
+
+Okay, now I've read the entire chapter. Well, I am a bit disappointed that I didn't get to find out what was up with Revenant yet, but I am interested enough to read the next chapter if there was one. There is a lot of room for this being either awesome or cliché, so I don't feel I can judge the plot yet.
+
+The gray man could be seen as overpowered, but I'm not making that judgement yet. Whether his power seems justified depends on what else we see of whatever struggles led to his creation, his ability, or his knowledge.
+:PROPERTIES:
+:Author: roryokane
+:Score: 2
+:DateUnix: 1554840371.0
+:DateShort: 2019-Apr-10
+:END:
+
+*** This is exactly what I was looking for, so I thank you very much for taking the time to read through this and point out little things like those that I missed. Those typos you pointed out will be resolved (regrettably, I can't catch everything that is in error, just most things).
+
+Also, that last cutoff is because I want to keep who exactly Revenant is a mystery until a chapter or two in, and if I had carried on to the conversation with Snarlfang then the name of the account would have been noted and spoiled my surprise. That said I might make a brief mention of the accounts with a secondary character in passing.
+
+Finally, your concern about the titular Figure in Gray is noted but you will be happy to know that I have a very specific description of his powers, abilities, and weaknesses which should give him some trouble later on when he becomes more clear.
+:PROPERTIES:
+:Author: Erebus1999
+:Score: 2
+:DateUnix: 1554841712.0
+:DateShort: 2019-Apr-10
+:END:
+
+
+** [[https://www.fanfiction.net/s/13090653/1/][*/Figure in Gray/*]] by [[https://www.fanfiction.net/u/10673738/Erebus1999][/Erebus1999/]]
+
+#+begin_quote
+  Lord Voldemort discovers the scar Horcrux, and elects to relcaim it by removing Harry Potter from time entirely. Those who meddle in time without understanding it fare poorly, and the Dark Lord Voldemort is no different. The Figure in Gray is his own creation, and yet his downfall.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Words/:} ^{7,025} ^{*|*} ^{/Reviews/:} ^{3} ^{*|*} ^{/Favs/:} ^{8} ^{*|*} ^{/Follows/:} ^{23} ^{*|*} ^{/Updated/:} ^{11/14/2018} ^{*|*} ^{/Published/:} ^{10/11/2018} ^{*|*} ^{/id/:} ^{13090653} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure/Drama} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Voldemort,} ^{Albus} ^{D.,} ^{OC} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13090653&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13090653&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1554689532.0
+:DateShort: 2019-Apr-08
+:END:
+
+*** Well. I guess that's what I get for rewriting the story summary on mobile last time I did so. 'Relcaim'
+:PROPERTIES:
+:Author: Erebus1999
+:Score: 2
+:DateUnix: 1554690671.0
+:DateShort: 2019-Apr-08
+:END:
+
+**** It's good that you fixed that. There is enough bad fanfiction out there that if the story summary has a typo, I don't bother reading the story, due to the high likelihood of the story having worse problems. But since you care enough to fix the typo, I won't hold it against you.
+:PROPERTIES:
+:Author: roryokane
+:Score: 1
+:DateUnix: 1554840549.0
+:DateShort: 2019-Apr-10
+:END:
+
+
+** I'm already invested. Your action scenes are fantastic, certainly a highlight of the fic. Harry's PTSD dream is a treat too. You've talent
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1554739754.0
+:DateShort: 2019-Apr-08
+:END:
+
+*** I thank you kindly.
+:PROPERTIES:
+:Author: Erebus1999
+:Score: 1
+:DateUnix: 1554758013.0
+:DateShort: 2019-Apr-09
+:END:

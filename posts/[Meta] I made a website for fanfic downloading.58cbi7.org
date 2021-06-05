@@ -1,0 +1,219 @@
+#+TITLE: [Meta] I made a website for fanfic downloading
+
+* [Meta] I made a website for fanfic downloading
+:PROPERTIES:
+:Author: Omnibuser
+:Score: 23
+:DateUnix: 1476906023.0
+:DateShort: 2016-Oct-19
+:FlairText: Meta
+:END:
+I'm hoping a few people will find this useful. I recently launched a web-based fanfic downloader.
+
+[[http://www.omnibuser.com/]]
+
+Right now it supports downloading from:
+
+- fanfiction.net
+- fictionpress.com
+- sufficientvelocity
+- spacebattles
+- questionablequesting
+
+I know there are a few HP fanfic sites I'm missing. But since 99% of the HP fic I read is on fanfiction.net, I'm not sure which other HP sites are big enough to be worth supporting. If you have any requests for other sites, please let me know and I'll see what I can do.
+
+Currently supported download formats are html, mobi and pdf. I did have epub support, but the library I was using to do the epub conversions was crashing my server, so no epubs for now while I get that fixed. In the meantime there's plenty of tools you can use to convert from one of the other formats to epub if needed.
+
+Please let me know if you find any bugs (I'm sure there'll be some), or if you have any suggestions. In particular I'm hoping for feedback on the formatting/appearance of the generated ebooks. Right now they're pretty basic.
+
+
+** Is there a reason to use you're site over, say, ficsave.xyz? Or the fanfiction downloader in calibre?
+
+Not as a rude question! Honestly just want to know what makes your site stand out & why I should consider switching to it. :)
+
+(Thanks for all your hard work though! More ways to download fic are always welcome, I think.)
+:PROPERTIES:
+:Author: knittingyogi
+:Score: 5
+:DateUnix: 1476906604.0
+:DateShort: 2016-Oct-19
+:END:
+
+*** Ooh, I haven't seen ficsave before! It looks really good!.
+
+As far as advantages Omnibuser has over it, the first thing I notice is that ficsave doesn't support downloading from the SpaceBattles/SufficientVelocity/QuestionableQuesting forums. I get a lot of my fanfic from those 3 places. It also doesn't support downloading as a pdf (which is admittedly minor since there's plenty of tools to convert formats).
+
+That Send to Kindle integration on ficsave is swanky though. I might have to steal that. :)
+
+I can't comment on the calibre downloader, I haven't used it.
+
+If either of those alternatives have features that are missing in Omnibuser, I'm open to suggestions.
+:PROPERTIES:
+:Author: Omnibuser
+:Score: 5
+:DateUnix: 1476907558.0
+:DateShort: 2016-Oct-19
+:END:
+
+**** Just be wary about the direct send to Kindle thing on ficsave. I personally never use it because dependent upon how you interpret fine print, it could invalidate any warranty or protection your Kindle has since its technically data coming direct from an unknown and unconfirmed source.
+:PROPERTIES:
+:Author: Noexit007
+:Score: 5
+:DateUnix: 1476909431.0
+:DateShort: 2016-Oct-20
+:END:
+
+
+**** Very cool! I don't usually use forums to find fic but it's awesome that your site can do that. Honestly it's just nice to have multiple options, ficsave goes down sometimes or doesn't work on my phone quite right so I'll bookmark yours to use as well. :)
+:PROPERTIES:
+:Author: knittingyogi
+:Score: 2
+:DateUnix: 1476909885.0
+:DateShort: 2016-Oct-20
+:END:
+
+***** The forums I mentioned are the main hubs for Worm fanfic, but they have a lot of other cool stuff as well. Check 'em out! :)
+
+[[https://forums.sufficientvelocity.com/forums/user-fiction.2/]]
+
+[[https://forums.spacebattles.com/forums/creative-writing.18/]]
+:PROPERTIES:
+:Author: Omnibuser
+:Score: 2
+:DateUnix: 1476910068.0
+:DateShort: 2016-Oct-20
+:END:
+
+
+** u/Satanniel:
+#+begin_quote
+  sufficientvelocity
+
+  spacebattles
+#+end_quote
+
+I can finally make those into something readable? Now I regret not noting down the interesting fics from there.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 3
+:DateUnix: 1476908213.0
+:DateShort: 2016-Oct-19
+:END:
+
+*** [[http://www.mobileread.com/forums/showthread.php?t=259221][Fanficfare the calibre plugin]] also supports xenforo used on spacebattles/sufficient velocity - it seems to work great, but I've had some issues with older fics without threadmarks or an index page it can recognise, though the vast majority seems to work fine
+:PROPERTIES:
+:Author: kimixa
+:Score: 3
+:DateUnix: 1476923467.0
+:DateShort: 2016-Oct-20
+:END:
+
+**** So many options. I'm not a fan of Calibre though, so the site is better for me.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 1
+:DateUnix: 1476993540.0
+:DateShort: 2016-Oct-20
+:END:
+
+
+*** Haha, yeah there's some amazing stuff on there, but the forum format can be a real turnoff. I'm not sure what good HP fics have been posted there, I mostly use those forums for Worm fic.
+:PROPERTIES:
+:Author: Omnibuser
+:Score: 1
+:DateUnix: 1476908439.0
+:DateShort: 2016-Oct-19
+:END:
+
+
+** What is it coded in?
+:PROPERTIES:
+:Author: Skeletickles
+:Score: 2
+:DateUnix: 1476911416.0
+:DateShort: 2016-Oct-20
+:END:
+
+*** Ruby on Rails. Source code is here: [[https://github.com/danmolloy/omnibuser]]
+
+The original motivation for the project was as a way to learn Rails. :)
+:PROPERTIES:
+:Author: Omnibuser
+:Score: 2
+:DateUnix: 1476911979.0
+:DateShort: 2016-Oct-20
+:END:
+
+**** Thanks
+:PROPERTIES:
+:Author: Skeletickles
+:Score: 2
+:DateUnix: 1476912655.0
+:DateShort: 2016-Oct-20
+:END:
+
+
+** u/hchan1:
+#+begin_quote
+  sufficientvelocity
+
+  spacebattles
+
+  questionablequesting
+#+end_quote
+
+How does it pull from these sites? Does it just go through the threadmarked posts and compile them together? How does it deal with goofy formatting like invisitext?
+
+Either way, thanks a bunch. There's not much in the way of HP fics on those sites, but I have at least a hundred stories from other fandoms I'm following between those 3 sites, and this tool makes it a lot easier to read them on the go.
+:PROPERTIES:
+:Author: hchan1
+:Score: 2
+:DateUnix: 1476912641.0
+:DateShort: 2016-Oct-20
+:END:
+
+*** Hah, yeah I'm a huge Worm fanfic junkie. I live on those forums.
+
+You're right, it does just get all the threadmarked posts. Formatting can be a bit awkward. Right now I'm forcing the colour of all text to black, which should also apply to invisi-text. There will definitely be some formatting nuances that get lost in translation. Replicating the CSS of those forums would be pretty awkward on a Kindle or similar, I think.
+:PROPERTIES:
+:Author: Omnibuser
+:Score: 2
+:DateUnix: 1476913538.0
+:DateShort: 2016-Oct-20
+:END:
+
+
+** Do you support only English lang. sites? 'Coz I have several Russian lang. sites and forums with HP (and others) fics what I want to download.
+
+And do you have .fb2 or .epub option in there?
+:PROPERTIES:
+:Author: angus_barker
+:Score: 1
+:DateUnix: 1476950232.0
+:DateShort: 2016-Oct-20
+:END:
+
+*** If there are any sites you'd like me to add send me a link and I'll see what I can do.
+
+I'll be adding Epub support as soon as possible.
+:PROPERTIES:
+:Author: Omnibuser
+:Score: 2
+:DateUnix: 1476958604.0
+:DateShort: 2016-Oct-20
+:END:
+
+**** Here biggest resources in RU-net for HP:
+
+- [[http://www.fanfics.ru]] (but it already has download option for fb2 and Epub
+- [[http://www.hogwartsnet.ru/]]
+- [[https://ficbook.net]]
+- [[http://slitherin.potterforum.ru]]
+- [[http://www.snapetales.com]]
+- [[http://army-magicians.org/]]
+:PROPERTIES:
+:Author: angus_barker
+:Score: 2
+:DateUnix: 1477056077.0
+:DateShort: 2016-Oct-21
+:END:

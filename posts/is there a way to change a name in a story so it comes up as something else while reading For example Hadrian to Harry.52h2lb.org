@@ -1,0 +1,80 @@
+#+TITLE: is there a way to change a name in a story so it comes up as something else while reading? For example Hadrian to Harry
+
+* is there a way to change a name in a story so it comes up as something else while reading? For example Hadrian to Harry
+:PROPERTIES:
+:Author: PhillyFan22
+:Score: 3
+:DateUnix: 1473718837.0
+:DateShort: 2016-Sep-13
+:FlairText: Discussion
+:END:
+
+** That mostly depends on how exactly you read stories. If it's in a web browser, then extensions (for example [[https://addons.mozilla.org/en-US/firefox/addon/foxreplace/][FoxReplace]] for Firefox or [[https://chrome.google.com/webstore/detail/word-replacer-ii/djakfbefalbkkdgnhkkdiihelkjdpbfh/reviews?hl=en][Word Replacer II]] for Chrome/Chromium-based browsers) can work. If you download a copy with some third-party application or service, then you can edit the document and search/replace all matches of "Hadrian".
+:PROPERTIES:
+:Author: DanTheMan74
+:Score: 11
+:DateUnix: 1473719316.0
+:DateShort: 2016-Sep-13
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1473724865.0
+:DateShort: 2016-Sep-13
+:END:
+
+*** There are some circumstances where it can be done well. Most of the time they change the name for no reason, which inevitably leads to it being shit.
+:PROPERTIES:
+:Author: howtopleaseme
+:Score: 1
+:DateUnix: 1473751496.0
+:DateShort: 2016-Sep-13
+:END:
+
+
+** u/aspectq:
+#+begin_example
+  $('p').each(function(){
+      var t = $(this).text();
+  t = t.replace(/hadrian/ig, 'Harry');
+      $(this).text(t);
+  });
+#+end_example
+
+On ff.net the text is in *p* tags. Hence the code above.
+:PROPERTIES:
+:Author: aspectq
+:Score: 4
+:DateUnix: 1473786135.0
+:DateShort: 2016-Sep-13
+:END:
+
+*** The approach isn't bad, provided someone knows how to create a bookmarklet or a userscript out of it.
+
+Keep in mind however, that most formatting (any bold, italic and underscored text but not text-align center/right) will be removed from the chapter when using this code. Since you're applying the .text() content to /all/ p-tags, whether the word "hadrian" was found within or not, no formatting will survive. You could use .html() instead and keep the formatting intact - this is inherently unsafe because it can have unpredictable consequences, but a word like "hadrian" would not break any html code - but above all, it would be a lot better to filter out all those tags which do not contain the word you look for.
+:PROPERTIES:
+:Author: DanTheMan74
+:Score: 1
+:DateUnix: 1473803571.0
+:DateShort: 2016-Sep-14
+:END:
+
+
+** If you're on Chrome, I highly recommend the Search and Replace google extension. And I get why you need it, I use it often to get rid of 'Mione and Hadrian.
+:PROPERTIES:
+:Author: OhaiItsThatOneGuy
+:Score: 2
+:DateUnix: 1473825374.0
+:DateShort: 2016-Sep-14
+:END:
+
+
+** Download as PDF. Convert to Word/Word Processor of Choice. Find and Replace. Resave new PDF. Convert to whatever format you prefer to read.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 1
+:DateUnix: 1473775177.0
+:DateShort: 2016-Sep-13
+:END:

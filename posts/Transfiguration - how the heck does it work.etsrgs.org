@@ -1,0 +1,139 @@
+#+TITLE: Transfiguration - how the heck does it work?
+
+* Transfiguration - how the heck does it work?
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 8
+:DateUnix: 1579969361.0
+:DateShort: 2020-Jan-25
+:FlairText: Discussion
+:END:
+So, I was reading the recent Combo thread on exploiting magic and someone was talking about how Transfiguration worked and I realised that I didn't know the things they were saying.
+
+For example, I'd heard a view from I Still Haven't Found What I'm Looking For by Kathryn518 that Transfiguration is a technically 'cosmetic' change in a thing. You can change one substance into another, assuming you don't flub the transfiguration, and it will look and behave and for all practical purposes be the second substance, but it is still the first underneath it all. ie. You can transfigure a rock into a mouse, with working internal organs and all, but it will still just be a rock that looks and behaves like a mouse.
+
+Apparently HPMoR also posits that Transfiguration is impermanent.
+
+So, I wanted to see what the different spots on the spectrum of opinion were. Hence the thread. Feel free to post just opinions, fully fleshed-out essays, links to fics with good approaches, or anything else you think would contribute to the discussion.
+
+
+** Transfiguration is the branch of magic concerned with altering a thing's physical composition and structure - what JK Rowling refers to as an object's “fundamental nature”:
+
+#+begin_quote
+  “Every now and then somebody asks me for the difference between a spell, a charm and a hex. Within the Potter world, the boundaries are flexible, and I imagine that wizards may have their own ideas. Hermione-ish, however, I've always had a working theory:
+
+  Spell: The generic term for a piece of magic.
+
+  Charm: Does not fundamentally alter the properties of the subject of the spell, but adds, or changes, properties. Turning a teacup into a rat would be a spell, whereas making a teacup dance would be a charm. The grey area comes with things like 'Stunning Spells', which on balance I think are Charms, but which I call spells for alliterative effect.” (JK Rowling's Old Website: Spell Definitions)
+#+end_quote
+
+Although JK Rowling phrases this as the difference between “Charms” and “Spells”, from the example of “turning a teacup into a rat” she's clearly talking about Transfiguration. A Charm, unlike a Transfiguration, is stated to “not fundamentally alter the properties of the subject”, which means that the reverse holds: Transfiguration does fundamentally alter the properties of the subject.
+
+JK Rowling has been consistent on this. As early as 1998 she stated:
+
+#+begin_quote
+  “With a charm you add properties to something. With a transfiguration you change its nature completely; the molecular structure alters.” (The Herald, 7 December 1998)
+#+end_quote
+
+The change that Transfiguration makes is a permanent one. We know this from two sources. The first is the pig's tail that Hagrid gave Dudley, which did not go away on its own and had to be surgically removed:
+
+#+begin_quote
+  Dudley had emerged from his last encounter with a fully grown wizard with a curly pig's tail poking out of the seat of his trousers, and Aunt Petunia and Uncle Vernon had had to pay for its removal at a private hospital in London. (GoF Chapter 4)
+#+end_quote
+
+The second is from the legend of Quintapeds in the companion book Fantastic Beasts and Where to Find Them:
+
+#+begin_quote
+  In retaliation, so the story has it, a gang of McCliverts surrounded the MacBoon dwellings one night and Transfigured each and every MacBoon into a monstrous five-legged creature. [...] The Quintapeds cannot talk and have strenuously resisted every attempt by the Department for the Regulation and Control of magical Creatures to capture a specimen and try to untransfigure it... (Fantastic Beasts and Where To Find Them: Quintaped)
+#+end_quote
+
+Now, no one knows if the legend of the Quintapeds' origin is true or not. But the key part is that wizards, including the Department for the Regulation and Control of Magical Creatures, consider the story credible enough that they have attempted Untransfiguration. That means that the story -- including the permanence of the Transfiguration performed -- is within the realm of Transfiguration possibility.
+
+So Transfiguration is not some kind of tactile illusion. It is not that the original object lurks “beneath” a layer of Transfiguration magic. Rather, the object is fundamentally, physically changed into a different object.
+
+The permanence of Transfiguration also makes sense. Since Transfiguration is a physical change, there's no reason for the object to revert to its previous state. Physical objects do not spontaneously turn into other objects in the absence of magic. You would need some new magical intervention to make a further change.
+
+However, Transfiguration is not permanent in the sense of being irreversible. It can be undone with Untransfiguration:
+
+#+begin_quote
+  “I would also advise Transfiguration, because Aurors frequently need to Transfigure or Untransfigure in their work. And I ought to tell you now, Potter, that I do not accept students into my NEWT classes unless they have achieved ‘Exceeds Expectations' or higher at Ordinary Wizarding Level.” (OotP Chapter 29)
+#+end_quote
+
+But the possibility of Untransfiguration does not mean that the original object needs to still there, “underneath”. Rather, now that we understand Transfiguration to fundamentally alter an object's nature, Untransfiguration is better understood as a reversal of a Transfiguration, rather than a removal of it.
+
+How is this reversal possible, if the object contains no physical remnant of what it used to be? Well, we know from Dumbledore that magic always leaves traces:
+
+#+begin_quote
+  “How did you know that was there?” Harry asked in astonishment.
+
+  “Magic always leaves traces,” said Dumbledore, as the boat hit the bank with a gentle bump, “sometimes very distinctive traces. I taught Tom Riddle. I know his style.” (HBP Chapter 26)
+#+end_quote
+:PROPERTIES:
+:Author: Taure
+:Score: 25
+:DateUnix: 1579971736.0
+:DateShort: 2020-Jan-25
+:END:
+
+*** Excellent write up, thanks for that! It was a good read.
+:PROPERTIES:
+:Author: drsmilegood
+:Score: 4
+:DateUnix: 1579978058.0
+:DateShort: 2020-Jan-25
+:END:
+
+
+*** You perfectly encapsulated my thoughts on the subject. Thank you for saying it even better than I could think it to myself lol
+:PROPERTIES:
+:Author: Chendii
+:Score: 3
+:DateUnix: 1579986960.0
+:DateShort: 2020-Jan-26
+:END:
+
+
+** Not even JKR knows. Seriously, she doesn't. She puts out ideas, and then whenever she tries to mechanically explain it, it's either dumb, retconned, changed arbitrarily, or so fantastically asinine that Fanon gives itself carte blanche to rewrite it. (I'm looking at you fidelius, Occlumency, Legilimency, Ancient Runes, Arithmancy, Wards)
+
+Any fic someone tries to explain it, there's always /those/ people who throw a tantrum screaming "THAT WASN'T IN CANON!" or something of the like.
+
+​
+
+#+begin_quote
+  Transfiguration is impermanent
+#+end_quote
+
+There's a few fics that are like this. I like this idea, as it nerfs magic. Which is seriously needed, as if /everyone/ and their mother has reality bending powers, yet Harry is the only one able to kill Voldemort? There's something wrong there.
+
+​
+
+My headcanon rules for transfiguration:
+
+- x to y (dog to cat, beetle to button)- This is impermanent. nerfs magic. Which is seriously needed, as if /everyone/ and their mother has reality bending powers, yet Harry is the only one able to kill Voldemort? There's something wrong there.
+- Basic changes: moving something around, changing basic properties (color, shape, etc) - Example: Transfiguring a bolt of white cloth into black robes. You are changing the state of the cloth from flat into a shape. It's still cloth. Color? Eh, I can't explain that away, that's just a freebie.
+- Conjuration - Nerfs magic, it would ruin the economy otherwise.
+:PROPERTIES:
+:Author: Nyanmaru_San
+:Score: 0
+:DateUnix: 1579976391.0
+:DateShort: 2020-Jan-25
+:END:
+
+
+** The way that canon describes it seems to suggest that transfigured items tend to “degrade” over time, but that process is not expanded on.
+
+In my fics, I usually have transfiguration gradually fail over time, with the option of permanent transfiguration which is energy-intensive enough to cripple even Voldemort-tier wizards for a day or so.
+:PROPERTIES:
+:Author: Slightly_Too_Heavy
+:Score: -2
+:DateUnix: 1579971498.0
+:DateShort: 2020-Jan-25
+:END:
+
+*** Really? Not trying to be confrontational but that is the exact opposite of everything I have noticed in the books and canon sources. Do you have any sources or quotes for that from canon? I would love to see evidence against Transfiguration being permanent.
+:PROPERTIES:
+:Author: drsmilegood
+:Score: 7
+:DateUnix: 1579977527.0
+:DateShort: 2020-Jan-25
+:END:

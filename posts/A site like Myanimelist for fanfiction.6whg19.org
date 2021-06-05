@@ -1,0 +1,57 @@
+#+TITLE: A site like Myanimelist for fanfiction?
+
+* A site like Myanimelist for fanfiction?
+:PROPERTIES:
+:Author: ethanbrecke
+:Score: 5
+:DateUnix: 1503898417.0
+:DateShort: 2017-Aug-28
+:END:
+Im sure people have talked or at least thought about it once. A site where you could track the fanfiction you have read, and see stats based on it. Ive been thinking about it as ive been working on my megawiki for the great fanfictions out there. Since most of the stories people read are of FFN, AO3, or FP^{^{^{^{^{fictionpress},}}}} having an api get the data for most of the stories, and a web extension that adds stories to your list when you start them.
+
+It seems like a pretty good idea, what's your guys thoughts on it?
+
+
+** It would be awesome, but I figure a lot of work in the end. Cool features would be statistics on your reading; how many words you've read, how many fics you've started, etc.
+
+I can also imagine the tears if there's a feature where you're notified if a fic has been deleted lol.
+:PROPERTIES:
+:Author: inimically
+:Score: 4
+:DateUnix: 1503906297.0
+:DateShort: 2017-Aug-28
+:END:
+
+*** Yeah, i was thinking of building it off of the fic bot, as it can get the data. We would just need to write a script to get the data and plug it into whatever php or mysql database we have, then create sort of user that you connect to all your different accounts. An extension to monitor your web browsing, so that if you went onto one of the few fanfic websites, it would connect it back to your account, and check the lists of stuff, and add it or update it based on the lists. We would need to update the database every few days to make sure we got all the new or updated fic information. There is probably stuff im missing, but it seems like a good starting place.
+:PROPERTIES:
+:Author: ethanbrecke
+:Score: 1
+:DateUnix: 1503906601.0
+:DateShort: 2017-Aug-28
+:END:
+
+
+** I've missed something like that so much that I made spreadsheet in Google Docs to track my readings.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 1
+:DateUnix: 1503906498.0
+:DateShort: 2017-Aug-28
+:END:
+
+*** If we could find some web developers to work on it, we would be able to have something like this. Check my comment [[https://www.reddit.com/r/HPfanfiction/comments/6whg19/a_site_like_myanimelist_for_fanfiction/dm86037/][Right Here]], and i think i cover the bases for a basic website.
+:PROPERTIES:
+:Author: ethanbrecke
+:Score: 1
+:DateUnix: 1503906769.0
+:DateShort: 2017-Aug-28
+:END:
+
+
+** It does sound like good idea. There's a site sort of like this, favoritestracker.org, but it's not as extensive as MAL.
+:PROPERTIES:
+:Author: deirox
+:Score: 1
+:DateUnix: 1503947910.0
+:DateShort: 2017-Aug-28
+:END:

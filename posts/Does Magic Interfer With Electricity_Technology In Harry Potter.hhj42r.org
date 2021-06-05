@@ -1,0 +1,236 @@
+#+TITLE: Does Magic Interfer With Electricity/Technology In Harry Potter?
+
+* Does Magic Interfer With Electricity/Technology In Harry Potter?
+:PROPERTIES:
+:Author: VanillaJester
+:Score: 7
+:DateUnix: 1593367478.0
+:DateShort: 2020-Jun-28
+:FlairText: Discussion
+:END:
+Does magic interfere with electricity or technology in the world of Harry Potter?
+
+I think that the answer is no, and I'll explain why.
+
+The main source we have for the idea that it does is Hermione who, in Goblet of Fire states:
+
+#+begin_quote
+  "All those substitutes for magic Muggles use --- electricity, computers, and radar, and all those things --- they all go haywire around Hogwarts, there's too much magic in the air."
+#+end_quote
+
+She says this to refute Harry's idea that Rita Skeeter is using electronic surveillance so get her scoops. She cites her source for this information as Hogwarts: A History.
+
+There are several problems with this, but I'll start by saying that I do actually think that radar wouldn't work on/around Hogwarts, the reason being that Hogwarts has been enchanted to be Unplottable. Radar's function is to display the exact location of whatever it detects relative to itself, exactly the kind of function that I would expect Unplottable enchantments to disrupt. This does not prove that all things electrical do not work at Hogwarts, only that one does.
+
+I also don't think that anybody in a position of authority will have ever conducted any experiments into the matter; I judge that everybody in the Ministry of Magic is too conservative to want to try or too incompetent to manage it. Arthur Weasley is a lovely man, but he can't even pronounce the word "electricity" correctly, and he's about the most pro-muggle and progressive wizard we ever see in the Ministry. Yes, Shacklebolt does work protecting the muggle Prime Minister for some time, but that doesn't mean he'd be inclined or able to put together a battery and lightbulb for a demonstration, let alone generator and appliances. And I don't think that opinions on muggle technology are better if you go further back in time from the events and characters shown in the books.
+
+I also suspect that, if anybody /did/ ever try to set up such an experiment at Hogwarts, there'd be several factions of conservative wizard who would go out of their way to sabotage it, thus "proving" that it doesn't work.
+
+Additionally, there are several other reasons, unrelated to Hogwarts, that I don't believe that magic interferes with electricity; if it did, Diagon Alley, the Ministry of Magic and Grimauld Place would create no-technology zones around them in London, and they clearly don't.
+
+Now, you might say that Hogwarts is a more magical place than any of these, and that as a result this correspondingly higher-density of magic is responsible. I'm afraid that I can't believe that Diagon Alley is a less magical place, and /certainly/ not the Ministry of Magic. The MoM, after all, houses the Department of Mysteries, the place where they study magic itself.
+
+Finally, and perhaps the biggest reason I don't think magic makes "electricty . . . go haywire" is Dumbledore's Deluminator. Where would he have spent the time to build and test it, if not at Hogwarts? How did it safely return the "light" to the street lamps if magic would inherantly cause them to fail?
+
+
+** - Magic per se definitely doesn't make electricity fail; we see Arthur magically repair an electric fireplace in GoF.
+
+- In general, the HP series does not employ unreliable narrators: if a character tells us something about magic, you can generally take it to be true. This is /especially/ the case for Hermione and Dumbledore, who JKR [[http://www.accio-quote.org/articles/2003/0302-newsround-mzimba.htm][explicitly]] tells us are used to info-dump worldbuilding to the reader.
+
+#+begin_quote
+  Steve: Yeah, I mean, I like writing all three, but I've always loved writing Hermione. Because, I just, one, she's a tremendous character for a lot of reasons for a writer, which also is she can carry exposition in a wonderful way because you just assume she read it in a book. If I need to tell the audience something...
+
+  JKR: Absolutely right, I find that all the time in the book, if you need to tell your readers something just put it in her. There are only two characters that you can put it convincingly into their dialogue. One is Hermione, the other is Dumbledore. In both cases you accept, it's plausible that they have, well Dumbledore knows pretty much everything anyway, but that Hermione has read it somewhere. So, she's handy.
+#+end_quote
+
+- Electricity may well break at the Ministry or Diagon Alley; there's no reason to think that it would spill over into Muggle London. It's not like it's some physical "field"; we're told it arises out of a place being magical. Diagon Alley is magical, Charing Cross Road isn't, therefore the effect would be in place in Diagon Alley, but not in Charing Cross Road.
+
+- Technically Hermione's quote isn't limited to electricity, which is just quoted as one example of "All those substitutes for magic Muggles use". I suspect the effect prevents any object that is too "Muggleish" from working, not just electricity.
+:PROPERTIES:
+:Author: Taure
+:Score: 9
+:DateUnix: 1593372152.0
+:DateShort: 2020-Jun-28
+:END:
+
+*** If magic in general doesn't make electrical items fail, as in the case of Arthur Weasley repairing the electrical fire - and also when he's modifying his car - why would just the presence of lots of it interfere with them? Are you suggesting that some non-specific aspect of magic is sapient, and hates anything too, as you put it, "Muggleish"?
+
+Hermione is absolutely an unreliable source in this case, because at this point she still hasn't had her complete trust in authority and books broken yet - that happens in the following year thanks to Umbrige and her Defence text - and also because her source is unreliable. As I said, she's taking her information from Hogwarts: A History, which was written by someone who predates the modern development of electricity as a power source.
+
+A lot of the things which initisally make Harry think Skeeter might be using electronic bugging of some kind - and which Hermione refutes because "electricity . . . all those things . . . go haywire around Hogwarts" - are things that happen outside. These include that Skeeter somehow listened in on a conversation between Hermione an Krum that happened next to the Black Lake, Harry seeing Draco talking into his hand, as though holding a walkie-talky whilst outside under a tree, and that she also knew the content of the conversation between Hagrid and Maxime in the rose garden during the Yule Ball.
+
+Hermione refutes electronic bugging as possible in instances outide of the Hogwarts building due to something "in the air" in not only the building but it's grounds that interferes with electricity. So if this mysterious disembodied force which you imply exists, identifies "Muggleish" objects and futzes with them, it's not limited to the inside of magical buildings as you suggest.
+:PROPERTIES:
+:Author: VanillaJester
+:Score: -1
+:DateUnix: 1593375004.0
+:DateShort: 2020-Jun-29
+:END:
+
+**** 1. I am not saying that magic is sapient, I am saying that certain concepts are built into magic. Magic treats Muggleish objects as a natural category in the same way that it treats "food" (Gamp's law), "secrets" (fidelius charm), "DADA Professor" (Voldemort's curse), etc. as natural kinds to which magical effects may attach. Magic operates at a conceptual level, not a physical one, and frequently treats concepts that we consider subjective or human-relative as objective parts of the universe.
+
+2. Yes, the magicalness of a place is what determines whether or not the effect occurs; this is what we are told - it only occurs in highly magical places.
+
+3. There's no reason to consider Hogwarts: A History unreliable; the publication date is a poor argument as we know there have been innumerable revised editions. The general rule is that if we're told that magic behaves a certain way, then we should believe it unless there is some other textual evidence to make us doubt it.
+
+4. I never said anything about buildings. I was talking about places. Are Hogwarts' grounds part of Hogwarts? Yes. Therefore any magical effect which is a property of "Hogwarts" will have effect there. Is Charing Cross Road part of Diagon Alley? No. Therefore any magical effect which is a property of "Diagon Alley" will not occur there. The phrase "in the air" is a common idiom to describe the character of a locale; it is rarely a literal reference to the air.
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1593375558.0
+:DateShort: 2020-Jun-29
+:END:
+
+
+** If electricity dosnt work around magic then how does /cooking/ work. Yeah adult wizards could start a fire on a stove or use a warming charm in an oven, (although it is a /warming/ charm not a /400 degrees F heating/ charm) but underage wizards and witches wanting to cook wouldnt be able to. In a wizarding family theres magic everywhere. The burrow is held up with magic. By this logic if Ron wanted to make some cookies he couldn't without Molly or Arthur
+:PROPERTIES:
+:Author: TheSmallRaptor
+:Score: 2
+:DateUnix: 1593392653.0
+:DateShort: 2020-Jun-29
+:END:
+
+*** Even electric-ignition gas stoves can be lit by hand if you have a match.
+:PROPERTIES:
+:Author: callmesalticidae
+:Score: 1
+:DateUnix: 1608779300.0
+:DateShort: 2020-Dec-24
+:END:
+
+**** 178 day old comment but ok.
+
+Back to the oven example. A match isn't going to make an oven hot enough to make cookies or bake a loaf of bread
+:PROPERTIES:
+:Author: TheSmallRaptor
+:Score: 1
+:DateUnix: 1608788607.0
+:DateShort: 2020-Dec-24
+:END:
+
+***** u/callmesalticidae:
+#+begin_quote
+  178 day old comment but ok.
+#+end_quote
+
+People come across old comments all the time, especially on a subreddit full of discussion threads on topics that people will still be looking up in the future. I'm not posting this for /you/ so much as posting it for anyone who comes across it in the future and wonders, "Yeah, how /does/ cooking work without electricity?"
+
+Well, it works with gas (or wood or coal or...).
+
+#+begin_quote
+  A match isn't going to make an oven hot enough to make cookies or bake a loaf of bread
+#+end_quote
+
+There are gas ovens.
+
+(An argument could be made for a coal or wood oven, too, but there are natural gas lines in Ottery St. Mary, for which Ottery St. Catchpole is almost certainly a stand-in, so I wouldn't be bothered to learn that the Weasleys had a line)
+:PROPERTIES:
+:Author: callmesalticidae
+:Score: 1
+:DateUnix: 1608789267.0
+:DateShort: 2020-Dec-24
+:END:
+
+****** Lights, washing machine (dryer as well ig), kettle, radio, alarm, phone, heating/cooling system (I'm not sure if in cannon those charms last forever/until canceled or overridden I've read too much fanfic), sink, tub, shower, water heater, fridge/freezer, toilet.
+
+There are so many things that we take for granted without realizing that they require electricity. Maybe the castle filled with plenty of adults could handle keeping everything running (doubtful, otherwise what was the point of filch), but there is just no way two parents can in such a huge house, honestly it would be a struggle in a small townhouse, especially when one works all day and comes home tired, and the other is busy taking care of 7 kids, and chickens, and magical garden pests
+:PROPERTIES:
+:Author: TheSmallRaptor
+:Score: 1
+:DateUnix: 1608790738.0
+:DateShort: 2020-Dec-24
+:END:
+
+******* The only thing there that absolutely /requires/ electricity is the telephone. (strictly speaking, you can have lanterns for lights)
+
+#+begin_quote
+  there is just no way two parents can in such a huge house
+#+end_quote
+
+People did this all the time before electricity. They even had iceboxes /in summer/ before electricity (people would gather ice in winter, store it underground with sawdust, and then bring it up as needed).
+
+Now, the A/C and shower /would/ be too much of a hassle for a seven-person household with only one stay-at-home parent, even when the kids are all old enough to help out with the chores (the shower in particular would be one of those "feasible, but why bother?" things), but otherwise this is all pretty plausible in one form or another. There might not be, say, a washing machine, but there /are/ a variety of ways to wash clothes without an electric washing machine, by hand and otherwise.
+
+Heck, the heating systems that people /used/ to have before electricity were actually more energy-efficient than what we use today.
+
+It would take work, sure, but (1) magic and (2) it isn't beyond the scope of "one homemaker and five adolescents" to manage (or "one homemaker" when the kids are at Hogwarts, but there's a lot less work that has to be done then, too).
+:PROPERTIES:
+:Author: callmesalticidae
+:Score: 1
+:DateUnix: 1608791442.0
+:DateShort: 2020-Dec-24
+:END:
+
+
+** Once saw a headcanon that explained this really well. Pretty much if enchant anything smarter than a screwdriver it comes alive and semi sentient. See the weasley car. Fixes most of the plot holes except for wizarding stereos. See the radio during the horctux hunt.
+:PROPERTIES:
+:Author: Austinyie
+:Score: 1
+:DateUnix: 1593395333.0
+:DateShort: 2020-Jun-29
+:END:
+
+*** I think the Weasley car only became sentient when Ron was panicing and hitting it with his wand; I think he did some acciental magic that awoke it and made it protective of him and Harry.
+:PROPERTIES:
+:Author: VanillaJester
+:Score: 2
+:DateUnix: 1593433751.0
+:DateShort: 2020-Jun-29
+:END:
+
+
+** there's no reason to assume that magic isn't just spitefully destroying these possible magical replacements. it might even pick up the attitude from purebloods.
+:PROPERTIES:
+:Author: andrewwaiting
+:Score: 0
+:DateUnix: 1593377148.0
+:DateShort: 2020-Jun-29
+:END:
+
+
+** I read a story that postulated that a previous headmaster used "wards" to ensure that electric items couldn't work at Hogwarts. This was due to how unstable and unsafe electricity was when it was first invented. These "wards" were placed in other magical areas like diagon alley, etc. Of course once being taught that electric items don't work due to magic the magicals don't try.
+
+Now the reason I believe that magic doesn't cause electric devices to fail is that Diagon Alley, Kings Cross Station etc is in the heart of downtown London and if magic caused problems the mundanes would notice because it would cause too many problems (think commuter trains at king cross and office buildings overtop and around of the ministry).
+:PROPERTIES:
+:Author: reddog44mag
+:Score: -1
+:DateUnix: 1593370866.0
+:DateShort: 2020-Jun-28
+:END:
+
+*** Harry Potter and the Four Heirs by Sinyk
+
+linkffn(9048823)
+:PROPERTIES:
+:Author: reddog44mag
+:Score: 1
+:DateUnix: 1593372254.0
+:DateShort: 2020-Jun-28
+:END:
+
+**** [[https://www.fanfiction.net/s/9048823/1/][*/Harry Potter and the Four Heirs/*]] by [[https://www.fanfiction.net/u/4329413/Sinyk][/Sinyk/]]
+
+#+begin_quote
+  Merlin, not happy with how the future unravelled for the life of Harry Potter, intervenes early to set the course of history back on track. Implied Pairing Only. Smart!Harry Bash!AD Idiot!RW
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{K} ^{*|*} ^{/Chapters/:} ^{30} ^{*|*} ^{/Words/:} ^{282,458} ^{*|*} ^{/Reviews/:} ^{2,115} ^{*|*} ^{/Favs/:} ^{8,246} ^{*|*} ^{/Follows/:} ^{3,524} ^{*|*} ^{/Updated/:} ^{3/27/2013} ^{*|*} ^{/Published/:} ^{2/25/2013} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{9048823} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Neville} ^{L.,} ^{Hermione} ^{G.,} ^{Susan} ^{B.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9048823&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9048823&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1593372268.0
+:DateShort: 2020-Jun-28
+:END:
+
+
+** In the process of writing this, I found that if I wanted to include every single point and source I'd be in the business of writing an essay, and I didn't want this to become so long. It's long enough as it is. I shall finish that essay and post it elsewhere.
+:PROPERTIES:
+:Author: VanillaJester
+:Score: 0
+:DateUnix: 1593367563.0
+:DateShort: 2020-Jun-28
+:END:

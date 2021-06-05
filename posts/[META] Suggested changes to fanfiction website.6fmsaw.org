@@ -1,0 +1,524 @@
+#+TITLE: [META] Suggested changes to fanfiction website?
+
+* [META] Suggested changes to fanfiction website?
+:PROPERTIES:
+:Score: 27
+:DateUnix: 1496765570.0
+:DateShort: 2017-Jun-06
+:FlairText: Meta
+:END:
+I was thinking that fanfiction has some easy changes that it could implement to make it a better site, mostly around filtering for searches. I was wondering if people on here have ever gotten together to create some sort of list that we could send in an email to the site administrators and see if we get a response? It might take several tries but I think it could be useful.
+
+Some ideas I have on how to make the site better:
+
+- Filter for Rated: Incuding a T+ rating. I don't NEED my stories to be M, but I don't want to exclude them either when I search for T-rated stories. If there was a T+ rating, it would probably best encompass the maturity level of the stories I am looking for without being filled with 90% smut like you get searching the M rated stories.
+
+- An anti-filter? If there was a way to exclude certain pairings, I'd enjoy that much more than being able to filter FOR a pairing. Just getting sick of search results being flooded with Draco-Hermione, Draco-Harry, it would be nice to exclude those 2 and see what hidden gems are out there.
+
+- Maybe a new filter that allows authors to let people know how often updates can be expected. Maybe like an "update frequency" option. Authors can choose "daily", "several a week", "weekly" "bi-monthly", "monthly", "every few months", maybe an "on hiatus" for WIPs that they may have temporarily abandoned but plan on coming back to.
+
+Anybody else have some good ideas?
+
+
+** From an author perspective, getting rid of the ridiculous doc manager function would be a huge improvement. It makes correcting mistakes too much of an ordeal and just seems unnecessarily convoluted. Other sites don't use it, is it really needed?
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 21
+:DateUnix: 1496769744.0
+:DateShort: 2017-Jun-06
+:END:
+
+
+** A function to let authors post multiple works as a series (like on ao3), so when a reader gets to the end of the last chapter of book 1, the first chapter of book 2 is what the next button would load
+:PROPERTIES:
+:Author: Flye_Autumne
+:Score: 22
+:DateUnix: 1496773780.0
+:DateShort: 2017-Jun-06
+:END:
+
+
+** I'd like a filter that would involve record a running average of the lengths of time between updates, and allow you to filter for fics whose average is less than a given time, or exclude those which have a given deviation from their running average (so if I gave a deviation of 7 days, then a fic that was updated weekly for a year, then not for the past month, would be excluded, but a fic updated monthly for the last year would be included, thereby excluding abandoned fics without excluding long-time-between-updates fics.
+:PROPERTIES:
+:Author: ABZB
+:Score: 13
+:DateUnix: 1496768617.0
+:DateShort: 2017-Jun-06
+:END:
+
+*** Seems like a very sophisticated filter, but would certainly be useful if they could do it.
+:PROPERTIES:
+:Score: 8
+:DateUnix: 1496771143.0
+:DateShort: 2017-Jun-06
+:END:
+
+**** Implementing backwards would only work if they maintain a record of every time an update is made, otherwise it would require adding a new piece of metadata to uploading going forward.
+:PROPERTIES:
+:Author: ABZB
+:Score: 3
+:DateUnix: 1496773815.0
+:DateShort: 2017-Jun-06
+:END:
+
+
+** Features other people have already pointed out that would be great:
+
+- Some sort of rating system, out of five stars or whatever
+- Entirely scrap the doc manager bullshit, exchange with something easier to make edits with (AO3's is better, as an example)
+- More precise character/pairing filters wouldn't be unwelcome
+- Some way to publicly respond to reviews would be great (AO3 wins here too)
+
+Damn, that last one, wanted it so badly once recently. Someone left a review saying they had high hopes about the fic (The Long Game), but they are abandoning it now, because they can see where the plot is going, and it's bullshit. And /every single one/ of their assumptions about where the story was going were wrong. Every one, he got not a single thing right. And not only was it a guest review, so I couldn't tell them they were wrong directly, but now it's sitting on my fic and I can't leave a note on it for anyone who sees it like, Yeah, this guy is completely wrong on every single count, silly person. Ugh.
+
+My personal gripe with FFN is their overzealous url filtering. It is a bit silly that they have one at all, but sometimes it deletes things that aren't even intended as urls. Since I'm an enormous nerd, in some of my notes I'll include how some word or name or whatever I made up is pronounced, including IPA for any other nerds in the audience. More times than I can count, FFN has decided the IPA is a url, and fucks the whole thing up. It's very annoying.
+:PROPERTIES:
+:Author: inwardtransience
+:Score: 12
+:DateUnix: 1496784742.0
+:DateShort: 2017-Jun-07
+:END:
+
+*** Oh no, you can't join Reddit, Reddit is a time sink! :) But seriously The Long Game and To Reach Without are both amazing. Just reread them on a long series of flights. You rock!
+:PROPERTIES:
+:Author: ghost_of_socrates
+:Score: 3
+:DateUnix: 1496798067.0
+:DateShort: 2017-Jun-07
+:END:
+
+**** Thanks. I'll try not to waste too much time better spent writing. lol
+:PROPERTIES:
+:Author: inwardtransience
+:Score: 1
+:DateUnix: 1496800349.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+*** Responding publicly to reviews, including guest reviews, would be an absolute dream.
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 1
+:DateUnix: 1496831311.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+** Filtering crossovers. I love crossovers, but it's either, for example, Harry Potter Crossovers with all fandoms, or Harry Potter Crossovers with a specific fandom. Being able to filter for HP crossovers and select multiple fandoms to browse from would be nice.
+
+Also with the length filter, more options would be great. Right now, it's just <1k, <5k, >1k, >5k... I'd love a <10k or <20k filter. Sometimes I just want a bite-sized fic that isn't too short.
+
+That's pretty much it for me, personally. Although, seconding FloreatCastellum's idea, because seriously, Doc Manager is just such a pain.
+:PROPERTIES:
+:Author: kyella14
+:Score: 9
+:DateUnix: 1496770343.0
+:DateShort: 2017-Jun-06
+:END:
+
+*** I like the extra length filters, I have noticed that as well. They maybe should just adjust the length filter to be where you choose two things: < or >, then you choose the number. This allows any of the numbers to be used. I wouldn't mind having the option of saying less than 100K, maybe looking for a fic that I can focus on for a long weekend at the inlaws but might not have the time for a novel-size fic.
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1496771322.0
+:DateShort: 2017-Jun-06
+:END:
+
+**** Yeah, on ao3 I often search for 10k-100k
+:PROPERTIES:
+:Author: PurpleMurex
+:Score: 1
+:DateUnix: 1496784234.0
+:DateShort: 2017-Jun-07
+:END:
+
+***** Sounds like I need to give a03 a shot.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1496784532.0
+:DateShort: 2017-Jun-07
+:END:
+
+****** It took me a while to get the hang of searching for fic fics on it, but once I did, it's great!
+:PROPERTIES:
+:Author: PurpleMurex
+:Score: 1
+:DateUnix: 1496796762.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+** Also, I'd like the ability to have a built-in spellchecker - just give each user account a custom dictionary file, like every word processor has, and have a 'spellcheck this fic' button for your own use....
+
+That, and the download as ebook button AO3 has.
+:PROPERTIES:
+:Author: ABZB
+:Score: 7
+:DateUnix: 1496773751.0
+:DateShort: 2017-Jun-06
+:END:
+
+*** [[http://ficsave.xyz/]] or [[https://fanfictiondownloader.net]] for downloading as an ebook.
+
+[[https://chrome.google.com/webstore/detail/word-replacer-ii/djakfbefalbkkdgnhkkdiihelkjdpbfh]] or a similar browser plugin for auto-correcting words. I personally use it for character names.
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 3
+:DateUnix: 1496798617.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+** Being able to select text and copypaste, and links. Seriously, why the fuck is it disabled. Nothing better than author posting a long-ass link in the text. What a nice link you have there, shame the only thing I can do is look at it.
+:PROPERTIES:
+:Author: woop_woop_throwaway
+:Score: 6
+:DateUnix: 1496782730.0
+:DateShort: 2017-Jun-07
+:END:
+
+*** In the page url, delete everything before "fanfiction" and replace it with "m." --- it'll load the mobile version of the same page, where copy-pasting isn't disabled.
+:PROPERTIES:
+:Author: inwardtransience
+:Score: 4
+:DateUnix: 1496784908.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+*** Well others may be able to talk more on this but I believe there used to be a lot of stealing stories from authors, and I still see it happening occasionally, so not allowing text and copypaste maybe makes that more difficult? I always assumed that was the reason.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1496784688.0
+:DateShort: 2017-Jun-07
+:END:
+
+**** Someone who really wants to steal stuff will not be stopped by silly nuisances like this. It just annoys the normal people
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 6
+:DateUnix: 1496786082.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+**** I assume that is the reason as well, but if you really want to, there are easier ways to steal a whole fic than copypasting it, so it's rather pointless.
+:PROPERTIES:
+:Author: woop_woop_throwaway
+:Score: 1
+:DateUnix: 1496815462.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+*** Regarding selection of text--Firefox browser has Reader Mode, it looks like a book up in the address bar. It's not enabled for all webpages on the internet, but it does with every FFN fic I've ever read. It basically creates a text+formatting only version of the page, with selectable text.
+
+The formatting of the resulting page is much closer to AO3's page style, as well, and I've always found AO3 to be much more readable than FFN.
+:PROPERTIES:
+:Author: padfootprohibited
+:Score: 1
+:DateUnix: 1496796130.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+*** Google Chrome offers an add on called "Selectable - for fanfiction.net and more" that allows you to copy and paste text from ffnet like usual. I imagine other browsers offer similar add ons.
+:PROPERTIES:
+:Author: cheo_
+:Score: 1
+:DateUnix: 1496797148.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+** I use rating:all that shows you all ratings including M ratings. The ratings seem kind of random anyways and including everything just works better for me. The update frequency would be nice, but I doubt it would be accurate. So many authors have sporadic update schedules and some leave notes saying they will update soon and then disappear.
+:PROPERTIES:
+:Author: dehue
+:Score: 5
+:DateUnix: 1496766594.0
+:DateShort: 2017-Jun-06
+:END:
+
+*** Yeah I use the all function as well, and overall it works but I have noticed I rarely seem to find a K rated ff that fits what I want to read.
+
+Probably right about the update frequency, but I think over time its popularity would increase and could be very useful for those of us who like to follow along to WIPs. -specifically identifying the temporary hiatus ones could be useful because rather than assuming something is abandoned, I may be more willing to take a chance if the author makes a not that it is on temporary hiatus for that fic.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1496767711.0
+:DateShort: 2017-Jun-06
+:END:
+
+
+** Pretty sure Scryer does all of these.
+:PROPERTIES:
+:Author: Taure
+:Score: 3
+:DateUnix: 1496777739.0
+:DateShort: 2017-Jun-07
+:END:
+
+*** That's cool- probably a bit lacking on fan fiction expertise in this group, but I've rarely ventured outside of the fanfiction net site, at least never browsed them. I have clicked on some links from recommendations on this sub, but that's about it.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1496779647.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+** A filter for slash.
+:PROPERTIES:
+:Author: Quoba
+:Score: 6
+:DateUnix: 1496769920.0
+:DateShort: 2017-Jun-06
+:END:
+
+*** Yeah this would probably be pretty useful for a lot of people, but again, if you allowed the anti-filter, you could probably just avoid the Draco/Harry or Harry/Tom and that filters out the overwhelming majority of them.
+:PROPERTIES:
+:Score: 7
+:DateUnix: 1496771052.0
+:DateShort: 2017-Jun-06
+:END:
+
+**** Problem is that a lot don't tag their main pairing. What could be good is that when you create a fic, you HAVE to indicate if the main relationship is het or slah or if there isn't any pairing. This way you can choose whatever you want when you filter it.
+:PROPERTIES:
+:Author: Quoba
+:Score: 2
+:DateUnix: 1496833257.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+**** We can ban two characters as it is. That means no Draco and no Snape. But then Voldemort, Lucius and so on are still open and Tom Riddle is a separate tag from Voldemort.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 1
+:DateUnix: 1496868782.0
+:DateShort: 2017-Jun-08
+:END:
+
+
+*** Make that two extra filter slots.
+:PROPERTIES:
+:Author: booleanfreud
+:Score: 1
+:DateUnix: 1496781545.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+** From a reader's perspective, the site needs to be fully responsive. If I resize in a desktop browser, it needs to adapt without me having to sacrifice a chicken in order to get it readable again.
+
+Mobile devices should reformat for orientation and size regardless of user interaction. There's no need for a mobile site (m.fanfiction.net I'm looking at you) that you can't read without taking several minutes to fiddle with the settings.
+:PROPERTIES:
+:Author: jeffala
+:Score: 3
+:DateUnix: 1496786605.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1496790853.0
+:DateShort: 2017-Jun-07
+:END:
+
+*** Dark Mode already exists--it's right below the story metadata inside a chapter, as a little circle that's half-black and half-white. Unfortunately, it's not a very good Dark Mode--text is still bright white, and there's too much red in the dark grey.
+:PROPERTIES:
+:Author: padfootprohibited
+:Score: 2
+:DateUnix: 1496796343.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+** Give me a recommended fic feature, something similar to the way YouTube does it. Often times I finish a fic and want more like it, so give me a list of fics that other users who have fav/followed the one I just read have also fav/followed. Currently discovery on FFN is the worst thing about the site imo.
+:PROPERTIES:
+:Author: Ironworkshop
+:Score: 2
+:DateUnix: 1496795309.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+** If a smut filled story is brought to admin attention it could be removed. What they really need is a MA or R story rating, only accessible after a disclaimer.
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 2
+:DateUnix: 1496798811.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+** I know at least in mobile you can filter out two characters. I've never really paid attention on the website to know if you can there.
+:PROPERTIES:
+:Author: Squishysib
+:Score: 1
+:DateUnix: 1496771494.0
+:DateShort: 2017-Jun-06
+:END:
+
+*** So I've always seen the without filters but I don't really want to exclude Draco and Hermione from my stories... if you click on the Pairing option, then select Draco and Hermione, will they only exclude the times they are paired together? I just assumed it filtered out all Draco or Hermione... Time to do some trial and error!
+
+Edit: That actually does seem to work... huzzah! I'd still like to be able to filter out more than one pairing.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1496771654.0
+:DateShort: 2017-Jun-06
+:END:
+
+**** I've never tried but assuming it works like that it would probably only filter the ones where the names are like [Hermione G., Draco M.] And not with their names seperate.
+:PROPERTIES:
+:Author: Squishysib
+:Score: 3
+:DateUnix: 1496771818.0
+:DateShort: 2017-Jun-06
+:END:
+
+
+**** It works exactly like that. Problem is like half the people just don't use the pairing function, so you'll still find a crapton of Dramione anyways.
+:PROPERTIES:
+:Author: woop_woop_throwaway
+:Score: 2
+:DateUnix: 1496782922.0
+:DateShort: 2017-Jun-07
+:END:
+
+***** Yeah I noticed that, but still it is better than nothing if you're trying to avoid a pairing.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1496784608.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+**** So basically people either show up like [Hermione G., Draco M.] or Hermione G., Draco M. The []'s means the author has listen them as a pairing, so by filtering those two out AND clicking pairing it will filter out instances with the [], but not where they are listed normally. But of course a ton of the stories without []'s will still be pairings.
+:PROPERTIES:
+:Author: Squishysib
+:Score: 1
+:DateUnix: 1496788982.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+** I'd like more length filters. Or at least the ability to sort fics by length on the archive page.
+
+I don't think reviews are a great indicator of how good a story actually is. I understand why they are there, but to a reader, the review count simply shows popularity. I wouldn't mind a (five) star system in which logged in users can rate a story (5 being best, 1 being pretty sloppy). Each user has one rating for a fic, and they can change it as the fic improves or worsens. With this, the number of stars is displayed in the fic info along with how many people rated it. Since a rating can be changed, I feel like this would be an accurate indicator of how "good" a story is.
+
+I think some of the entries in filters should be moderated. It's weird when you see OC names mixed along with canon HP character names in the character filter.
+
+I like AO3's comment system so you can see what the author responded to a particular user. So if multiple people have a similar question, they can all interact with each other.
+:PROPERTIES:
+:Author: _awesaum_
+:Score: 1
+:DateUnix: 1496779735.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+** An honest question: are the ffn admins even actively updating the site? The whole site feels like it hasn't changed in years. It's a pity because it splits the content between ffn, with the wider audience, and ao3, with the arguably better website.
+:PROPERTIES:
+:Author: Ember_Rising
+:Score: 1
+:DateUnix: 1496783683.0
+:DateShort: 2017-Jun-07
+:END:
+
+*** I honestly have no idea. Worth a shot though I guess. Maybe if people contacted them about more than just complaints but with real tangible suggestions they might be more willing to keep up and implement ideas.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1496784576.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+** good luck with the FF.net admins ever changing anything.
+:PROPERTIES:
+:Author: tehzachatak
+:Score: 1
+:DateUnix: 1496783864.0
+:DateShort: 2017-Jun-07
+:END:
+
+*** Eh worth a shot I guess.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1496784583.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+** There is an anti-filter, both for individual characters (up to two), and for pairings (up to one). You can specify that with the "pairings" checkbox to the right of the "Without Filter". It would be nice to be able do multiple anti-pairing searches, though.
+
+I would like to be able to have my standard filters saved when I log in. For instance, whenever I search for stories, no matter the fandom, I always filter English, Complete, All Ratings. It would be nice not to have to re-put those in every time I change fandoms.
+:PROPERTIES:
+:Author: Madam_Hook
+:Score: 1
+:DateUnix: 1496793339.0
+:DateShort: 2017-Jun-07
+:END:
+
+*** You can set your filters, apply them and then bookmark the result page.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 1
+:DateUnix: 1496873112.0
+:DateShort: 2017-Jun-08
+:END:
+
+
+** I would like an ability to search the actual text of a story instead of the title or description. There are a bunch of stories with interesting content, such as Necromancy, which doesn't show up in the title/description. Doing it that way would also allow authers to make their pseudotags (Dark!Harry SLASH) in a much nicer format, and with much more detail.
+:PROPERTIES:
+:Author: Dorgamund
+:Score: 1
+:DateUnix: 1496797209.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+** A decent search function (nothing like ff.net's god awful one, which also appears to have blacklisted words it won't search for).
+
+I like ao3's ability to tag multiple things, but people overdo it (e.g. I want to read femslash, so I filter for it and 80% of the results are m/m or f/m with a femslash pairing appearing in a dream of a dream of the pet of one of the distant relatives of the main characters. ffs, don't tag parings if they have almost no screen time! */rant*).
+
+So because I doubt people are going to start tagging properly anytime soon, the ability to tag for primary pairings and categories, limited to one pairing and one category? Or maybe the ability for readers to fix fucked up tags? So if you've tagged something m/m but it's het it will be fixed?
+
+I really don't know.
+:PROPERTIES:
+:Author: a_lone_solipsist
+:Score: 1
+:DateUnix: 1496841910.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+** A good filter would be Slash Filter. A way for those looking for slash or not looking for it to find a fic without being told pairings in some sites descriptions for a fic. It would be helpful because I have gone in on a long fic with no indication of it being slash till like 30 chapters in and suddenly it happens. Even had romance of non-slash for main character before then. By the way before anyone complains I read both but it is distracting to be lead one way rooting for a pairing and suddenly it is dropped out of nowhere the main focus is gay/straight when evidence showed otherwise before with no showing of the change.
+:PROPERTIES:
+:Author: theonijester
+:Score: 1
+:DateUnix: 1496845613.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+** - extra length filters
+- sorting by word count
+- more available status info like *hiatus* and *abandoned*
+- type of pairing info (like slash, multi, gen, het) and ability to exclude some type of pairing
+- rating system for logged users
+- an option for the author to respond to review (maybe it would stop the author from responding to reviews in very long AN that sometimes are longer than a posted chapter...)
+:PROPERTIES:
+:Author: Keira901
+:Score: 1
+:DateUnix: 1496863230.0
+:DateShort: 2017-Jun-07
+:END:
+
+
+** There is a way to do the second. Go to the bottom of the filter. I will let you know that it is a very limited anti-search function.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1496868794.0
+:DateShort: 2017-Jun-08
+:END:

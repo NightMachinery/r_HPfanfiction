@@ -1,0 +1,145 @@
+#+TITLE: Any completed gen/minimal romance audiobook fics?
+
+* Any completed gen/minimal romance audiobook fics?
+:PROPERTIES:
+:Author: Asviloka
+:Score: 5
+:DateUnix: 1554754416.0
+:DateShort: 2019-Apr-09
+:FlairText: Request
+:END:
+I listen to audiobooks a lot at work, but since I'm really in the mood for fanfic I'm having a hard time getting into the story I have now. I love HPMoR, but I've already listened to it recently and would like to try something else.
+
+I don't have any particular character/theme/setting restraints apart from no sex scenes please; implied or offscreen is fine, but please nothing more than that. I can skim past them in written form, but for audio I'd really rather something without.
+
+Honestly, I'm not even sure where to start looking for audio fics. Any you know of, be it individual stories or a genfic audio archive somewhere, please let me know! Thanks~
+
+
+** Many EPub readers on Android have pretty well working TTS. Just saying ...
+:PROPERTIES:
+:Author: ceplma
+:Score: 3
+:DateUnix: 1554756424.0
+:DateShort: 2019-Apr-09
+:END:
+
+*** Could you link to where I can download the finished audio please? I'm using an older ipod nano so mp3 or something like that would be best.
+:PROPERTIES:
+:Author: Asviloka
+:Score: 2
+:DateUnix: 1554761423.0
+:DateShort: 2019-Apr-09
+:END:
+
+**** There is no MP3, many ebook readers have a function that they will synthesise speech (I know the situation better with Android phones, not certain which apps can do it on iPhone). However, you probably need a true smartphone for it, I don't think IPod is enough.
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1554761804.0
+:DateShort: 2019-Apr-09
+:END:
+
+***** Ah. I use a kindle paperwhite to read books, and I don't think it has any audio options. Nor do I possess a smartphone, alas.
+
+/[grumble grumble modern kids grumble grumble]/
+:PROPERTIES:
+:Author: Asviloka
+:Score: 0
+:DateUnix: 1554762375.0
+:DateShort: 2019-Apr-09
+:END:
+
+
+**** You might want to look into using [[http://cross-plus-a.com/bconsole.htm][Balabolka]] and a voice you find somewhere else (I myself use IVONA Brian).
+
+=-c -w "e:\readContent.wav" -s 0 -n brian=
+
+is the command line arguments I use... after this I use Foobar2000 with lame to convert to mp3... which I send over to my (old, nonsmart) phone for playing.
+
+=-c= clipboard (ctrl+c the text you want to have read)\\
+=-w <filename>= read into this file\\
+=-s 0= read at normal speed (some voices sound "better" sped up/slowed down)\\
+=-n <voice>= I got IVONA Brian installed, and it's recognized as =brian=
+:PROPERTIES:
+:Author: Erska
+:Score: 2
+:DateUnix: 1554874552.0
+:DateShort: 2019-Apr-10
+:END:
+
+***** Sounds complicated, thanks for the instructions. I'll give it a try.
+:PROPERTIES:
+:Author: Asviloka
+:Score: 1
+:DateUnix: 1554907450.0
+:DateShort: 2019-Apr-10
+:END:
+
+
+***** Hey, I know this is an old post, but I've been using IVONA for forever, but I just got a new phone and I found out that Amazon bought IVONA, so you can't DL it anymore on android. Any idea where to get it?
+:PROPERTIES:
+:Author: blandge
+:Score: 1
+:DateUnix: 1564453217.0
+:DateShort: 2019-Jul-30
+:END:
+
+****** nope sry, I myself use a 'dumb'-phone. so haven't actually researched mobile TTS stuff
+:PROPERTIES:
+:Author: Erska
+:Score: 1
+:DateUnix: 1564485804.0
+:DateShort: 2019-Jul-30
+:END:
+
+
+** There are some fanfiction podcasts you may be able to check out. I personally like FanaticalFics but they do mostly oneshots written 10+ years ago but they are amusing to listen to. I think they only have 1 or 2 ‘adult' ones and they disclaim it at the beginning so you could skip it.
+:PROPERTIES:
+:Author: allienne
+:Score: 1
+:DateUnix: 1554770946.0
+:DateShort: 2019-Apr-09
+:END:
+
+
+** [[http://audiofic.jinjurly.com/search/node/harry%20potter]]
+
+or
+
+[[https://archiveofourown.org/works?utf8=%E2%9C%93&commit=Sort+and+Filter&work_search%5Bsort_column%5D=revised_at&work_search%5Bother_tag_names%5D=Podfic&work_search%5Bexcluded_tag_names%5D=&work_search%5Bcrossover%5D=&work_search%5Bcomplete%5D=&work_search%5Bwords_from%5D=&work_search%5Bwords_to%5D=&work_search%5Bdate_from%5D=&work_search%5Bdate_to%5D=&work_search%5Bquery%5D=&work_search%5Blanguage_id%5D=&tag_id=Harry+Potter+-+J*d*+K*d*+Rowling]]
+:PROPERTIES:
+:Author: exbremensis
+:Score: 1
+:DateUnix: 1554778197.0
+:DateShort: 2019-Apr-09
+:END:
+
+
+** If you are interested in other fandoms, I would suggest this:
+
+[[http://audiofic.jinjurly.com/student-prince]]
+
+It's a modern day BBC Merlin story. Extremely well done. Fayjay did a fantastic podfic with it. It takes about 13 hours and it's one of my favourites.
+:PROPERTIES:
+:Author: exbremensis
+:Score: 1
+:DateUnix: 1554779777.0
+:DateShort: 2019-Apr-09
+:END:
+
+
+** Checkout Opalsong on AO3? She does some great audio fics
+:PROPERTIES:
+:Author: LiriStorm
+:Score: 1
+:DateUnix: 1554795936.0
+:DateShort: 2019-Apr-09
+:END:
+
+*** Thanks! I grabbed a few of those, looking forward to listening. :)
+:PROPERTIES:
+:Author: Asviloka
+:Score: 1
+:DateUnix: 1554827273.0
+:DateShort: 2019-Apr-09
+:END:

@@ -1,0 +1,240 @@
+#+TITLE: Who invented the Fidelius charm?
+
+* Who invented the Fidelius charm?
+:PROPERTIES:
+:Author: howAboutNextWeek
+:Score: 16
+:DateUnix: 1535647415.0
+:DateShort: 2018-Aug-30
+:FlairText: Discussion
+:END:
+One of the ideas I had (this probably breaks canon) is that Helga Hufflepuff invented the Fidelius. Her Pottermore page said she was talented at charms, but it also says she was particularly good at food related charms, so there's no strong support there. The main thing is that the Fidelius relies on loyalty, and what is Hufflepuff House famous for? So, what are your ideas?
+
+
+** My thoughts on this come from two places: the gemino charm (which was used obsessively by its creators, a pair of twins), and my recent binging on the SCP wiki.
+
+The fidelius charm doesn't fail when the caster dies; rather, anyone who knows the secret becomes the new secret keeper. But what if nobody but the keeper knows the secret? What if he takes it to the grave?
+
+I imagine that the inventor had things to hide. Perhaps they hid that they were the one to invent it? You probably couldn't hide the spell itself, because that might be the metaphysical equivalent of puting a box inside itself, but you could hide the fact that you were the inventor ad a compromise to keep people from discovering your ability.
+
+But that then raises the question: how many things are forever hidden? How many people, places, things, and ideas have been censored from history, locked away from the very act of discovery?
+
+How many cognitohazards exist, able to interact with the world but unable to be known by anyone? How many monsters and magics are obscured from the collective knowledge of humanity? What have we lost to past wizards censoring knowledge from the whole world?
+
+How could we know who started it all, if he took his secrets to the grave?
+:PROPERTIES:
+:Author: wille179
+:Score: 16
+:DateUnix: 1535649534.0
+:DateShort: 2018-Aug-30
+:END:
+
+*** Wait, does the Fidelius work on knowledge? In canon, wasn't it only used on physical locations? Or am I wrong as usual?
+:PROPERTIES:
+:Author: howAboutNextWeek
+:Score: 6
+:DateUnix: 1535650283.0
+:DateShort: 2018-Aug-30
+:END:
+
+**** It's only ever used on locations, but Flitwick implies that it works on knowledge.
+
+#+begin_quote
+  An immensely complex spell involving the magical concealment of a secret inside a single, living soul. The information is hidden inside the chosen person, or Secret-Keeper, and is henceforth impossible to find --- unless, of course, the Secret-Keeper chooses to divulge it. As long as the Secret-Keeper refused to speak, You-Know-Who could search the village where Lily and James were staying for years and never find them, not even if he had his nose pressed against their sitting room window!
+#+end_quote
+
+That says that even being physically at the location and observing the secret --- likely something along the lines of "Lily and James Potter are hiding there" --- you wouldn't be able to discover/comprehend it. Even the taboo curse couldn't grant the knowledge of the target's location if they're protected by a secret, and no non-secret-keeper can communicate the secret, which means it's a cognition-blocker rather than a more physical anti-detection mechanism. Additionally, it's always referred to as "the secret," rather than "the secret /location/," which suggests that more can be protected by the spell than just a location.
+:PROPERTIES:
+:Author: wille179
+:Score: 11
+:DateUnix: 1535652541.0
+:DateShort: 2018-Aug-30
+:END:
+
+***** It still works on a house that is on land. What if someone Fidelius'd the grave of the Fidelius inventor? I think that would count as much as a Fidelius hiding a house.
+:PROPERTIES:
+:Author: ForumWarrior
+:Score: 2
+:DateUnix: 1535670163.0
+:DateShort: 2018-Aug-31
+:END:
+
+
+**** We don't ever see it work on knowledge, no. Theoretically, it /could/, but only if you only can put the Fidelius over a "secret" that you specifically own. Otherwise, information such as Horcruxes and the prophecy would have been put under it.
+
+So perhaps Nicholas Flamel put the information on how to create the Philosopher's Stone under a Fidelius Charm and that's why no one else has created one.
+:PROPERTIES:
+:Author: AutumnSouls
+:Score: 6
+:DateUnix: 1535651203.0
+:DateShort: 2018-Aug-30
+:END:
+
+***** The Potters' Fidelius was hiding knowledge, the fact that Potters live in that house, it wasn't hiding the house. Flitwick (I'm pretty sure) says in PoA when Harry eavesdrops at the Three Broomsticks that Voldemort wouldn't find the Potters if he had his face against the window.
+:PROPERTIES:
+:Author: ScottPress
+:Score: 4
+:DateUnix: 1535681857.0
+:DateShort: 2018-Aug-31
+:END:
+
+****** We haven't seen it hiding knowledge and knowledge alone. The knowledge of the address is tied to the location. As for the rest of your comment, not true. The Potter's house was hidden, if 12 Grimmauld Place's Fidelius Charm is any indication. Either an empty house replaced the Potter Cottage or Flitwick was just making a point through figurative language.
+
+Take a look at this passage from Order of the Phoenix, Chapter 4, Page 59:
+
+#+begin_quote
+  Harry thought, and no sooner had he reached the part about number twelve, Grimmauld Place, than a battered door emerged out of nowhere between numbers eleven and thirteen, followed swiftly by dirty walls and grimy windows. It was as though an extra house had inflated, pushing those on either side out of its way. Harry gaped at it. The stereo in number eleven thudded on. Apparently the Muggles inside hadn't even felt anything.
+#+end_quote
+:PROPERTIES:
+:Author: AutumnSouls
+:Score: 2
+:DateUnix: 1535682755.0
+:DateShort: 2018-Aug-31
+:END:
+
+
+**** Literally the most famous example of Fidelius is the spell being cast to hide knowledge.
+
+In PoA Flitwick says (I'm reasonably sure it's him or McGoogles) something like "Voldemort could have pressed his nose to the Potters' living room window and not known they were there". Fidelius was hiding the fact that /Potters live at [address] in Godric's Hollow/, not the location of the house.
+
+Edit: found a quote
+
+/"an immensely complex spell ... involving the magical concealment of a secret inside a living soul. The information is hidden inside the chosen person, or Secret-Keeper, and is henceforth impossible to find -- unless, of course, the Secret-Keeper chooses to divulge it." (PoA pg 205/152)/
+
+Notice it says "information". Fidelius can hide knowledge.
+:PROPERTIES:
+:Author: ScottPress
+:Score: 1
+:DateUnix: 1535681619.0
+:DateShort: 2018-Aug-31
+:END:
+
+***** You're putting too much emphasis on the wording of the secret. The Potters' secret was that they lived at Godric's Hollow, just like the Order's secret was that they had their Headquarters at Grimmauld Place:
+
+#+begin_quote
+  The Headquarters of the Order of the Phoenix may be found at number twelve, Grimmauld Place, London.
+#+end_quote
+
+Nonetheless, the spell hid the location. This is just how the mechanic of the Fidelius Charm works: you hide the secret of a thing's location, and the spell makes the location impossible to perceive.
+
+In the books, the hidden location is *not* taken out of physical space. People can interact physically with a hidden location (see: Voldemort could have pressed his nose to the living room window), it's simply that they won't realise that the location is there.
+
+Which is of course a major weakness of the Charm. Had Voldemort known that the Potters were located at Godric's Hollow, but the particular house had remained under the Fidelius, he might have decided to simply burn the entire town to the ground, getting the Potters in the process.
+:PROPERTIES:
+:Author: Taure
+:Score: 4
+:DateUnix: 1535699630.0
+:DateShort: 2018-Aug-31
+:END:
+
+
+** Fidel Castro, obviously.
+:PROPERTIES:
+:Author: Taure
+:Score: 13
+:DateUnix: 1535651842.0
+:DateShort: 2018-Aug-30
+:END:
+
+*** If you can tie in The Bay of Pigs with this and Dudley in the first book I'll be truly impressed.
+:PROPERTIES:
+:Author: herO_wraith
+:Score: 7
+:DateUnix: 1535653331.0
+:DateShort: 2018-Aug-30
+:END:
+
+**** No Bay of Pigs connection, but can confirm the Dursleys had to take Dudley to Cuba to get the tail removed.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 6
+:DateUnix: 1535653741.0
+:DateShort: 2018-Aug-30
+:END:
+
+
+** Seems probable. It is an extremely ancient charm after all. And your point about loyalty too fits the bill for Helga Hufflepuff.
+
+Maybe Helga attempted to invent a charm to hide Hogwarts from Muggles. But then the other founders found it restricted new students from entering and thus it was dropped.
+
+EDIT: Just because Helga was good at food-related charms doesn't mean that was the only thing she was good at. She isn't one of the four greatest founders for nothing.
+:PROPERTIES:
+:Author: afrose9797
+:Score: 5
+:DateUnix: 1535648065.0
+:DateShort: 2018-Aug-30
+:END:
+
+
+** Only one other person ever knew who invented it. And they never told.
+:PROPERTIES:
+:Author: dratnon
+:Score: 5
+:DateUnix: 1535651745.0
+:DateShort: 2018-Aug-30
+:END:
+
+
+** Sir McFidelius invented the Fidelius in 1864 when he turned the moment where you walk out the door without your keys into a magical spell.
+:PROPERTIES:
+:Author: RenegadeNine
+:Score: 4
+:DateUnix: 1535660470.0
+:DateShort: 2018-Aug-31
+:END:
+
+
+** The Fidelius is said by JKR to be "extremely ancient", so I think that might be too strong a description to fit Hufflepuff (helped found Hogwarts about 1000 years ago).
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 3
+:DateUnix: 1535649824.0
+:DateShort: 2018-Aug-30
+:END:
+
+
+** Fidel Castro obviously, when he tried to hide Cuba from the capitalists.
+
+Duh.
+
+Sadly, the charm didn't work, and the magic collapsed, which had the odd and almost opposite effect of making everybody want Cuban cigars.
+:PROPERTIES:
+:Author: VeelaBeGone
+:Score: 2
+:DateUnix: 1535660065.0
+:DateShort: 2018-Aug-31
+:END:
+
+
+** I always assumed it was someone called Fidelius, but that's my scientist brain in action. It would be cool if it was Helga Hufflepuff.
+:PROPERTIES:
+:Author: ayeayefitlike
+:Score: 1
+:DateUnix: 1535649214.0
+:DateShort: 2018-Aug-30
+:END:
+
+*** Wizarding names are weird, but I think it's more likely it's named for the word fidelity, from the Latin root /fides/ or /fidelis/, which means faith.
+:PROPERTIES:
+:Author: ParanoidDrone
+:Score: 3
+:DateUnix: 1535652087.0
+:DateShort: 2018-Aug-30
+:END:
+
+**** Well, yes, but considering Rowling named her werewolf Wolf McWolface that doesn't mean it couldn't be a person.
+:PROPERTIES:
+:Author: ayeayefitlike
+:Score: 5
+:DateUnix: 1535663354.0
+:DateShort: 2018-Aug-31
+:END:
+
+
+** Id doubt we would remember
+:PROPERTIES:
+:Author: UndergroundNerd
+:Score: 1
+:DateUnix: 1535910401.0
+:DateShort: 2018-Sep-02
+:END:

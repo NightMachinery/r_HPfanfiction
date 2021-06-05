@@ -1,0 +1,315 @@
+#+TITLE: Anyone know how to remove any slash from Ao3 search?
+
+* Anyone know how to remove any slash from Ao3 search?
+:PROPERTIES:
+:Author: Bisaster
+:Score: 12
+:DateUnix: 1515982448.0
+:DateShort: 2018-Jan-15
+:END:
+So I'm taking a dive in what I honestly believe is a cesspit that is Ao3 and I would like to at least not have to swim through piles of shit that I do not enjoy, I can't exactly add tags that I want since I don't have a set preference I could work out in the tags. If we can somehow exclude rape as well that'd be great. Thanks!
+
+
+** Isn't Ao3 the traditionally more slash oriented site?
+:PROPERTIES:
+:Author: coolkidsclubprez
+:Score: 10
+:DateUnix: 1515989652.0
+:DateShort: 2018-Jan-15
+:END:
+
+*** It is(at the very least there is an abundance of em) but I remember a lot of authors saying they moved some fics there and I guess some deleted fics from the purge might be there. Mainly fanfic.net doesn't really have much going on right now so I'm looking to expand.
+:PROPERTIES:
+:Author: Bisaster
+:Score: 7
+:DateUnix: 1515990428.0
+:DateShort: 2018-Jan-15
+:END:
+
+**** you can try using -[what you don't want to see here] like -slash but it will just filter out stories that call out that they are slash in the description.
+:PROPERTIES:
+:Author: coolkidsclubprez
+:Score: 1
+:DateUnix: 1515990820.0
+:DateShort: 2018-Jan-15
+:END:
+
+***** Yeah there's like 20 or so tags that I need to add to get a decent list I think and I never got it to work properly.
+:PROPERTIES:
+:Author: Bisaster
+:Score: 1
+:DateUnix: 1515991571.0
+:DateShort: 2018-Jan-15
+:END:
+
+****** -m/m gets rid of most of them.
+:PROPERTIES:
+:Author: Murphy540
+:Score: 8
+:DateUnix: 1516028637.0
+:DateShort: 2018-Jan-15
+:END:
+
+
+****** -DM -SS -draco -severus -snape will get rid of most of it.
+:PROPERTIES:
+:Author: Socio_Pathic
+:Score: 2
+:DateUnix: 1516179296.0
+:DateShort: 2018-Jan-17
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 7
+:DateUnix: 1515983815.0
+:DateShort: 2018-Jan-15
+:END:
+
+*** Thanks, I'll try it out.
+:PROPERTIES:
+:Author: Bisaster
+:Score: 1
+:DateUnix: 1515990441.0
+:DateShort: 2018-Jan-15
+:END:
+
+**** There is another extension called AO3rdr also. I just installed it so have no experience, but just an FYI.
+:PROPERTIES:
+:Author: TexasNiteowl
+:Score: 2
+:DateUnix: 1515998129.0
+:DateShort: 2018-Jan-15
+:END:
+
+***** I use it a lot! Once you install it, you can access the tag blocking list by clicking on the gear at the lower left of each fics description. There are other ways, but that's what I find convenient.
+:PROPERTIES:
+:Author: FrostingFlames
+:Score: 1
+:DateUnix: 1516162630.0
+:DateShort: 2018-Jan-17
+:END:
+
+
+*** You are a beautiful person. Thanks.
+:PROPERTIES:
+:Author: Kaladin_MemeBlessed
+:Score: 1
+:DateUnix: 1516059943.0
+:DateShort: 2018-Jan-16
+:END:
+
+
+** Enter "-m/m" in the 'search within results' field (ex quotes), which should get rid of most of it. The slash remaining is cos authors haven't tagged things correctly. I know it's possible to do boolean searches in AO3, so you could try something like (Gen OR M/F) AND NOT M/M to avoid untagged fics.
+
+Honestly though, I dislike het fics even more than slash. In that case, the filter "-relationship_ids:*" is a lifesaver. (As a bonus, it returns very few 'overtagged' fics. In fact, it returns very few fics at all.)
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1516019440.0
+:DateShort: 2018-Jan-15
+:END:
+
+
+** When executing a search, use -"M/M" in the Additional Tags section. I would also recommend -"futa".
+:PROPERTIES:
+:Author: wordhammer
+:Score: 2
+:DateUnix: 1515990893.0
+:DateShort: 2018-Jan-15
+:END:
+
+*** Also try: -mpreg -slash
+:PROPERTIES:
+:Author: AugustinCauchy
+:Score: 3
+:DateUnix: 1516045243.0
+:DateShort: 2018-Jan-15
+:END:
+
+
+*** I did that and it barely made a dent. ;-;
+:PROPERTIES:
+:Author: Bisaster
+:Score: 1
+:DateUnix: 1515991532.0
+:DateShort: 2018-Jan-15
+:END:
+
+
+** If someone knows how to do this... I would appreciate it as well.
+:PROPERTIES:
+:Author: Nekyia
+:Score: 2
+:DateUnix: 1515982769.0
+:DateShort: 2018-Jan-15
+:END:
+
+
+** I'm not homophobic, but some of the slash pairings make me sick. Its just fucking disgusting to see Draco x Snape. Its pedophillia. Even if they are both "of age" its just fucking gross, since Snape is Draco's teacher. Also disgusting shit like Snape and Harry.
+:PROPERTIES:
+:Author: Lightstrider101
+:Score: 1
+:DateUnix: 1516011105.0
+:DateShort: 2018-Jan-15
+:END:
+
+*** This isn't exclusively a slash thing. There are plenty of m/f pedo pairings.
+:PROPERTIES:
+:Author: Misunderstood_Ibis
+:Score: 8
+:DateUnix: 1516020186.0
+:DateShort: 2018-Jan-15
+:END:
+
+**** Yeah, but those are a lot rarer. Most involve time travel, i.e one of the girls travels back in time to when James/Sirius/Remus were in Hogwarts. There are some straight pedo pairings like Hermione Sirius or Hermione Remus, and those are similarly fucked up. Of course, all of this is not counting other fandoms crossing over.
+:PROPERTIES:
+:Author: Lightstrider101
+:Score: 1
+:DateUnix: 1516024922.0
+:DateShort: 2018-Jan-15
+:END:
+
+***** Yeah some pairings are just weird or even disgusting to think about. Sirius/Hermione might work when she's 20 something not when she's 14 and fucking him in a broom closet. Even then the age gap just seems to big for me to understand how it would work. Slash I just can't handle, I don't know if it makes me homophobic or not but I simply can't enjoy a fic if it has slash no matter how amazing the plot may be. I'm sure I'm Snapephobic since I literally can't force myself to read a fic where Snape is paired with anyone.
+:PROPERTIES:
+:Author: Bisaster
+:Score: 6
+:DateUnix: 1516048215.0
+:DateShort: 2018-Jan-16
+:END:
+
+****** I'll never read male slash as I find it gross, but I don't care that people write it. An homophobic would probably try to burn the site just for having those fics..... Hermione with anyone from the marauders era does however have all my hate, as I see it as basically rape. (Time traveles may be excused!)
+
+P.S I am a recognized Snape Blacklister! Never will he appear in my searches.
+:PROPERTIES:
+:Author: Edocsiru
+:Score: 3
+:DateUnix: 1516101728.0
+:DateShort: 2018-Jan-16
+:END:
+
+
+** I find adding -Malfoy -Snape -Voldemort -Riddle clears most of it out. Also choose M/F for relationship.
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 1
+:DateUnix: 1515987725.0
+:DateShort: 2018-Jan-15
+:END:
+
+*** I was looking for a more than HP fics tbh and doesn't M/F restrict it to single pairing?
+:PROPERTIES:
+:Author: Bisaster
+:Score: 1
+:DateUnix: 1515990340.0
+:DateShort: 2018-Jan-15
+:END:
+
+**** In my experience, choosing M/F doesn't restrict at all. I choose M/F and still come up with slash stuff. I don't mind the occasional one, but so much of it involves Draco and Snape and that's not my jam at all.
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 5
+:DateUnix: 1515991276.0
+:DateShort: 2018-Jan-15
+:END:
+
+***** Easy solution for this problem (search within result):
+
+#+begin_quote
+  -"m/m" -Malfoy -Snape
+#+end_quote
+
+You can add even more stuff like
+
+#+begin_quote
+  -Lupin -Black -Weasley
+#+end_quote
+
+and so on until you are left with a pool of characters you want. Works for other fandoms as well.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 2
+:DateUnix: 1516037178.0
+:DateShort: 2018-Jan-15
+:END:
+
+
+***** Meh I just wish Ao3 had a better system for this but then again I guess their main consumers are slash readers so they really don't need it.
+:PROPERTIES:
+:Author: Bisaster
+:Score: 5
+:DateUnix: 1515991651.0
+:DateShort: 2018-Jan-15
+:END:
+
+
+** [[https://kakapo-anti.tumblr.com/post/169679854039/heartsdesire456-andfullofterrors]]
+
+Here's a link to a tumblr post explaining how to remove certain characters and ships.
+:PROPERTIES:
+:Author: kakapoanti
+:Score: 1
+:DateUnix: 1515989406.0
+:DateShort: 2018-Jan-15
+:END:
+
+
+** Can't you just limit to Gen or M/F in the categories? (but not at the same time, it's an AND search, not OR)
+:PROPERTIES:
+:Author: t1mepiece
+:Score: 1
+:DateUnix: 1515993786.0
+:DateShort: 2018-Jan-15
+:END:
+
+*** That gets rid of like 40% but that's still a bit too much slash left. I just loose any desire I have to look for new fics when I keep finding fics that I would never read over and over again.
+:PROPERTIES:
+:Author: Bisaster
+:Score: 2
+:DateUnix: 1515994092.0
+:DateShort: 2018-Jan-15
+:END:
+
+**** I hate to tell you, but it's impossible for a search to show you only stuff you want to read. I'll read het, slash, or gen, and still cannot stand the idea of half the fics in any given search result. That's what the summaries are for.
+:PROPERTIES:
+:Author: t1mepiece
+:Score: 5
+:DateUnix: 1516023815.0
+:DateShort: 2018-Jan-15
+:END:
+
+***** I guess I'm somewhat spoiled by ffn. Summaries rarely tell me enough if there is any at all and the infinite tags that every story has doesn't help.
+:PROPERTIES:
+:Author: Bisaster
+:Score: 2
+:DateUnix: 1516047908.0
+:DateShort: 2018-Jan-15
+:END:
+
+
+*** Alas no, because there's no "primary pairing" category and people tend to list every pairing that is even mentioned in their fic.
+:PROPERTIES:
+:Author: Taure
+:Score: 1
+:DateUnix: 1516003971.0
+:DateShort: 2018-Jan-15
+:END:
+
+
+** The longer you stay on AO3 the more you'll be desensitized to it. Soon a year will have passed and all you're reading is m/m or f/f and it won't even phase you, because it's normal on that site. Tbh, if you call m/m pairings slash, it's probably best to stay on ff.net.
+
+edit: oh and any fic with rape will have a bolded warning on the top of the tags, so it's easy to scroll past if that's not what you want to read
+:PROPERTIES:
+:Author: Gumbo67
+:Score: 1
+:DateUnix: 1516156494.0
+:DateShort: 2018-Jan-17
+:END:
+
+*** I honestly can't get through 2 pages without losing the will to continue looking and what is slash if m/m is so vanilla to you?
+:PROPERTIES:
+:Author: Bisaster
+:Score: 2
+:DateUnix: 1516192451.0
+:DateShort: 2018-Jan-17
+:END:

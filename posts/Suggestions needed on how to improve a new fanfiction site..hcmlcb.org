@@ -1,0 +1,373 @@
+#+TITLE: Suggestions needed on how to improve a new fanfiction site.
+
+* Suggestions needed on how to improve a new fanfiction site.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 12
+:DateUnix: 1592661007.0
+:DateShort: 2020-Jun-20
+:FlairText: Discussion
+:END:
+I started working on Fanfiction Online about 8 months ago, after getting frustrated with every other fanfiction site. I've fixed things I didn't like in other sites, and added a lot of stuff I felt they lacked, but I'm still looking for more ways the site can be improved.
+
+So, could you please visit [[https://fanfiction.online][Fanfiction Online]] and suggest what features you'd like for it to have, or other ways it could be improved? If you have any questions, comment below and I'll answer them.
+
+Edit 1: Please try reading fanfics on the site as well, and please suggest how the reading customization's can be improved. Just click on the button in the top right corner while reading any chapter. e.g: [[https://fanfiction.online/book/when-words-fail/chapter/2]]
+
+Edit 2: Would be nice if you could tell what features you think other sites lack, so I could add those features.
+
+
+** I think that it would be better if the title of the story it's bigger than the author name. And maybe try to make a clear division between the fics, that's everything I can think right now.
+:PROPERTIES:
+:Author: elchono21
+:Score: 4
+:DateUnix: 1592663007.0
+:DateShort: 2020-Jun-20
+:END:
+
+*** Thanks. Just two questions.\\
+1) Are you on a phone?\\
+2) Is the gap between fics insufficient as a clear division?
+:PROPERTIES:
+:Author: eqwe32
+:Score: 3
+:DateUnix: 1592664448.0
+:DateShort: 2020-Jun-20
+:END:
+
+**** Yes, maybe that's the problem. I see the gap but maybe a kind of real division would look nicer, maybe just a line.
+:PROPERTIES:
+:Author: elchono21
+:Score: 2
+:DateUnix: 1592664634.0
+:DateShort: 2020-Jun-20
+:END:
+
+***** No, phones shouldn't be a problem. Making it mobile friendly was one of my priorities. Just wanted to see which layout I needed to improve specifically.
+
+Btw, did you check out the reading preferences? Just click on the customization button in the top right corner while reading. Let me know what you think.
+
+Thanks!
+:PROPERTIES:
+:Author: eqwe32
+:Score: 3
+:DateUnix: 1592667181.0
+:DateShort: 2020-Jun-20
+:END:
+
+
+** I love that I can filter to stories right from the homepage. The dark mode is also appreciated #\^-\^#
+
++One recommendation I have would be to give some more reading settings, IE: Reducing the word wrap length text, alternate font options.+
+
+Edit: scratch that, just found the reading options
+:PROPERTIES:
+:Author: PrincessApprentice
+:Score: 4
+:DateUnix: 1592668347.0
+:DateShort: 2020-Jun-20
+:END:
+
+*** Thanks. Anything that can be improved?
+:PROPERTIES:
+:Author: eqwe32
+:Score: 2
+:DateUnix: 1592671056.0
+:DateShort: 2020-Jun-20
+:END:
+
+**** Aside from needing people to stay favoriting stuff, the login page displays full width text fields and buttons, which, while I imagine looks fine on mobile, looks terrible on desktop. That's a fairly minor nitpick tho. Also: custom fonts
+:PROPERTIES:
+:Author: PrincessApprentice
+:Score: 4
+:DateUnix: 1592671826.0
+:DateShort: 2020-Jun-20
+:END:
+
+***** u/eqwe32:
+#+begin_quote
+  custom fonts
+#+end_quote
+
+Great Idea. Will do that.
+
+#+begin_quote
+  needing people to stay favoriting stuff
+#+end_quote
+
+Sorry, can you explain? Didn't understand what you meant by this.
+
+#+begin_quote
+  the login page displays full width text fields and buttons
+#+end_quote
+
+You mean the popup that comes up when you click on the favorite/collections/hide button?
+:PROPERTIES:
+:Author: eqwe32
+:Score: 3
+:DateUnix: 1592672845.0
+:DateShort: 2020-Jun-20
+:END:
+
+****** Sorry, typo, just saying that the search function will be greatly aided if enough users start favoriting stories.
+
+And yes, the login pop up. Ideally your app will use css breakpoints to let you tweak the interface based on screen size. Full width text fields and buttons aren't easily readable on large screens, so it would be best to set them to be smaller and centered on large screens.
+:PROPERTIES:
+:Author: PrincessApprentice
+:Score: 3
+:DateUnix: 1592673249.0
+:DateShort: 2020-Jun-20
+:END:
+
+******* u/eqwe32:
+#+begin_quote
+  just saying that the search function will be greatly aided if enough users start favoriting stories.
+#+end_quote
+
+Hmm, I'll see what I can do.
+
+I'll adjust the login popups width for larger screens.
+
+Thanks a lot for your suggestions :)
+:PROPERTIES:
+:Author: eqwe32
+:Score: 2
+:DateUnix: 1592674116.0
+:DateShort: 2020-Jun-20
+:END:
+
+
+**** The search speed was also quite slow. The first time I placed a query I'd worried I'd broken it #^-^#
+:PROPERTIES:
+:Author: PrincessApprentice
+:Score: 1
+:DateUnix: 1592672033.0
+:DateShort: 2020-Jun-20
+:END:
+
+***** YESS, agree. Is the biggest issue I have personally but can't resolve right now. Will be adding a progress bar so that people don't get worried it broke lol. Speeding up the search is a priority though.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1592673706.0
+:DateShort: 2020-Jun-20
+:END:
+
+
+***** Lol, coming back to this comment after a week. Just wanted to tell you that the search's been improved. It's significantly faster now, you can try it out.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1593165362.0
+:DateShort: 2020-Jun-26
+:END:
+
+
+** I'm reading from a cell so I agree with the comment about the separation of the stories as well as making the title larger than the author's name.
+
+In terms of reading the button for quick change of backgrounds is a nice touch. Also the capability to change line/paragraph spacing quickly is also a nice touch.
+
+In terms of a home page, you really need to improve what you have. First thing you see is just a list of story summaries (that looks like they are recent additions). There is no About button/tab that discusses What the site is trying to do, nothing about which fandoms you have stories for (though you can find that out through the search engine), nothing about which fan sites you have accessed stories from. Etc
+
+In terms of your search engine/filters you should to alphabetically list the pairing options and if the fandom has already been chosen limit those pairing options to the specific fandoms. Or at least have them listed as the most popular pairings first. For instance, the first pairing listed is Hermione/Remus with 11 stories, the third pairing is OC/Theseus with 3 stories.
+
+Then it seems like there are duplicates ie., Harry P./Hermione (102) and then Hermione/Harry P. (17). Chosing one should already chose the other. However in terms of number of stories does it really matter whether Harry's name was listed first? Eg. According to the two pairings aren't there really 119 stories that feature this pairing.
+
+Ok that's just a few thoughts I had at a quick look (all without registering so I don't know how that may change things).
+
+The last item is I'm assuming you contacted the authors whose stories you show for permission to put them on your site.
+:PROPERTIES:
+:Author: reddog44mag
+:Score: 3
+:DateUnix: 1592668700.0
+:DateShort: 2020-Jun-20
+:END:
+
+*** Thanks for your detailed review.
+
+#+begin_quote
+  In terms of a home page, you really need to improve what you have. First thing you see is just a list of story summaries (that looks like they are recent additions). There is no About button/tab that discusses What the site is trying to do, nothing about which fandoms you have stories for (though you can find that out through the search engine), nothing about which fan sites you have accessed stories from. Etc
+#+end_quote
+
+I'll see how I can improve the home page to address those questions. If you have any specific ones, I can reply to them.
+
+#+begin_quote
+  In terms of your search engine/filters you should to alphabetically list the pairing options
+
+  if the fandom has already been chosen limit those pairing options to the specific fandom
+
+  have them listed as the most popular pairings first
+#+end_quote
+
+Good suggestions, I'll do all of these soon.
+
+#+begin_quote
+  it seems like there are duplicates
+#+end_quote
+
+Is a bug, will fix it. Hermione/Harry will be merged into Harry/Hermione. and other pairings with the same issue.
+
+#+begin_quote
+  The last item is I'm assuming you contacted the authors whose stories you show for permission to put them on your site.
+#+end_quote
+
+I haven't, but I've properly credited them and linked to their original pages.
+
+Thanks again for the review :)
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1592670773.0
+:DateShort: 2020-Jun-20
+:END:
+
+
+** You need more categories or fandoms, and you also need a better home page and logo.
+:PROPERTIES:
+:Author: PompadourWampus
+:Score: 2
+:DateUnix: 1592663512.0
+:DateShort: 2020-Jun-20
+:END:
+
+*** Thanks! :) I know the logo is terrible lol. Anything specific about the home page?\\
+As for fandoms, I'll be adding more books from other fandoms soon... hopefully.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 2
+:DateUnix: 1592665206.0
+:DateShort: 2020-Jun-20
+:END:
+
+
+** One feature that I feel is missing is the ability to download the story as Epub or similar.
+
+This can be done in ao3 by default and there are tools to do it for other sites like fanfiction.
+
+This is important for me because i like to use a tts so my phone reads it to me while I'm driving.
+:PROPERTIES:
+:Author: daniferrito
+:Score: 2
+:DateUnix: 1592674310.0
+:DateShort: 2020-Jun-20
+:END:
+
+*** I don't plan on making the books available to download as EPUB, but the current books are from FFnet, and they all link back to the original. You can use those links to download the books as EPUB from FF2EBook or other similar tools.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1592680792.0
+:DateShort: 2020-Jun-20
+:END:
+
+
+** Have a section for prompts/challenges. Don't know the legality nor the technicality but you might be able to use Reddit's API to scrape them from the sub.
+:PROPERTIES:
+:Author: ch0rse2
+:Score: 2
+:DateUnix: 1592679473.0
+:DateShort: 2020-Jun-20
+:END:
+
+*** These challenge threadshave filters that go with the ratings and what not
+:PROPERTIES:
+:Author: ch0rse2
+:Score: 1
+:DateUnix: 1592679518.0
+:DateShort: 2020-Jun-20
+:END:
+
+**** Sorry, didn't completely understand what you were trying to get at here.
+
+Have a list of books that are based on a specific prompt/challenge listed under a challenge? Or something like a forum (like FFnet) for posting challenges?
+
+Didn't get the second comment at all, so a little clarification on that.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1592680556.0
+:DateShort: 2020-Jun-20
+:END:
+
+***** It's pretty much just a list of the request flair where you have communities in ffn for things like mentor snake and you get a big list of mentor snake fics, you do the same but have a storage tab where you can have fics castratrice with specific property like the champions of Lilith, if that makes more sense.
+:PROPERTIES:
+:Author: ch0rse2
+:Score: 1
+:DateUnix: 1592682208.0
+:DateShort: 2020-Jun-21
+:END:
+
+****** I see what you mean. I do have a section for collections, but as you probably saw, no one has created any yet. I'll see if I can scrape some popular collections from AO3, FFnet, or as you suggested, from this sub.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1592719539.0
+:DateShort: 2020-Jun-21
+:END:
+
+
+*** Another thing which I'm not sure if it's the sites fault as so other dark modes look similar but it is not truly completely dark and is very slightly grey despite being amoled display. It would be nice if in the text or was completely black bit I'm not sure if that's the browsers fault or not and this one isn't too big of a deal anyway.
+:PROPERTIES:
+:Author: ch0rse2
+:Score: 1
+:DateUnix: 1592679724.0
+:DateShort: 2020-Jun-20
+:END:
+
+**** It isn't your display's issue. Dark mode isn't pitch black. Designed it pitch black originally but after a lot of testing, found the current shade of black to be perfect.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1592680215.0
+:DateShort: 2020-Jun-20
+:END:
+
+***** Ok sure thing, I can see the contrast being a little too jarring for some people aswell. Maybe you could have something where you can change the colour of the background as well as the colour of the text. Would help people who have dyslexia and things like that as with the sepia colour in most parts copy books. That would definitely be cool that other sites are missing.
+:PROPERTIES:
+:Author: ch0rse2
+:Score: 1
+:DateUnix: 1592682369.0
+:DateShort: 2020-Jun-21
+:END:
+
+****** Will be adding a few more themes and some font options soon. Hopefully you'll like them.
+
+Didn't think of a pitch black theme though, mainly because it wouldn't be much different from the current dark one. If you think I should, let me know.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1592718289.0
+:DateShort: 2020-Jun-21
+:END:
+
+******* Up to you tbf it's dark enough as is and for most people who don't have amoled/oled, it doesn't matter
+:PROPERTIES:
+:Author: ch0rse2
+:Score: 1
+:DateUnix: 1592723277.0
+:DateShort: 2020-Jun-21
+:END:
+
+******** Sorry for the extremely late reply. Added a few fonts and a new theme, you can check those out. Haven't added any theme with a different font color yet. Will when I find a nice combination.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1593161675.0
+:DateShort: 2020-Jun-26
+:END:
+
+********* There's one more thing I've noticed, maybe you should add crack to the genres for people who like that.
+:PROPERTIES:
+:Author: ch0rse2
+:Score: 1
+:DateUnix: 1593164839.0
+:DateShort: 2020-Jun-26
+:END:
+
+********** Authors can add custom genres when they write books on Fanfiction Online. The current books are from FFnet, so there aren' t any books with the crack genre yet.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1593165750.0
+:DateShort: 2020-Jun-26
+:END:

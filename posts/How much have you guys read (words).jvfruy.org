@@ -1,0 +1,166 @@
+#+TITLE: How much have you guys read (words)
+
+* How much have you guys read (words)
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1605562622.0
+:DateShort: 2020-Nov-17
+:FlairText: Discussion (sorta)
+:END:
+So the other day I decided to check out the wonderful world of HPFFN again (I took like a break of 6 months or so) and I thought to myself: how many words have I read worth of FFN. I think its something like 2m - 8m as I have no way of knowing. Makes me sad. I cannot even brag, as I don't even know a specific number, it's horrible! In any case, made me think how many you guys have read.
+
+
+** [[https://www.youtube.com/watch?v=u_aLESDql1U][About this much]].
+:PROPERTIES:
+:Author: rek-lama
+:Score: 6
+:DateUnix: 1605569325.0
+:DateShort: 2020-Nov-17
+:END:
+
+*** Almost thought it was a Rick-Roll haha
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1605618869.0
+:DateShort: 2020-Nov-17
+:END:
+
+
+** The 500 stories on my FanFiction.Net [[https://www.fanfiction.net/%7Eroryokane][profile page]], according to a small program I just wrote that looks at the “Words: <number>” text pattern, contain a total of 5,073,438 words. (This is across fandoms.)
+
+However, I actually Favorited 552 stories; FFN displays only a maximum of 500 on a profile page. And the stories left out include [[https://www.fanfiction.net/u/895946/Lightning-on-the-Wave][Lightning on the Wave]]'s Harry Potter fanfic series Sacrifices Arc, which by itself is 3 million words long.
+
+When I filter my [[https://www.fanfiction.net/community/Rory-s-semifavorites/97051/][Rory's semifavorites]] collection to stories of at least 100,000 words, there are 103 results. So that's at least another 10 million words in that collection. Probably more like 20 million.
+
+Then on top of that, there are the 153 bookmarked stories on my [[https://archiveofourown.org/users/roryokane][Archive of Our Own profile]]. Plus fanfiction on other sites that I read and liked. Plus I'd say at least one thousand stories that I read some of but didn't bookmark or favorite, because they were bad.
+
+In total, I'll estimate I've read *50 million words* of cross-fandom fanfiction in my life so far.
+
+However, keep in mind that *the point of reading fiction* is to entertain yourself, and secondarily to learn how people think and the world works. The time you spend reading words of fanfiction is only worthwhile if those goals are being accomplished. Your goal should not be to read a lot, but to read /good/ writing. As long as you're finding /good/ writing to read, the total number of words you've read are irrelevant.
+
+Too often I find myself continuing to read a bad story out of morbid curiosity. If you're like this too, practice putting the story down and accepting that you will never know how that author finished their story... because it doesn't matter. No one will praise you just for reading a long story. It was only worth it if you enjoyed it or learned something useful from it.
+:PROPERTIES:
+:Author: roryokane
+:Score: 2
+:DateUnix: 1605593962.0
+:DateShort: 2020-Nov-17
+:END:
+
+*** Wow. I sadly started reading waaayyy before I had a (permanent) account, so I really don't know how many I have read. Also, the sad thing is that I kinda quit to quick haha.
+
+What kind of program was that and in what language? (I code a bit)
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1605619091.0
+:DateShort: 2020-Nov-17
+:END:
+
+**** I was exploring how I could extract the word counts as I went along, so I ended up using four different programs. The only full programming language I used was Ruby, in the last step. Here was my process:
+
+1. I used Select All in my browser to copy all the text on my profile page, then pasted that into a text file.
+2. I used [[https://github.com/BurntSushi/ripgrep][ripgrep]] to extract all text like “Words: /xxx/” on the page. The command was =cat ffn_profile_text.txt | rg 'Words: [^ ]+' --only-matching > ffn_profile_500_word_counts.txt=. While writing that command I also used =wc -l= to verify that exactly 500 word counts were found on my profile page.
+3. I used my text editor [[https://en.wikipedia.org/wiki/Vim_(text_editor)][Vim]] to verify that the data looked right. Then I used Vim's find-and-replace to delete the “Words: ” prefix and the commas in the numbers.
+4. Finally, I wrote a short program in the [[https://www.ruby-lang.org/en/][Ruby]] programming language that read each line of text (=gets=), converted each line to a number (=to_i=) and added them to a total (=total += count=), and printed the sum at the end (=puts total=). I know there are specialized tools that could do that more conveniently, but Ruby was the tool that I thought of at the time.
+:PROPERTIES:
+:Author: roryokane
+:Score: 2
+:DateUnix: 1606108187.0
+:DateShort: 2020-Nov-23
+:END:
+
+***** Cool! I am a bit of a Linux user (not a very good one haha) but yeah, that's cool!
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1606157569.0
+:DateShort: 2020-Nov-23
+:END:
+
+
+** Hmm. Including short A/N's, my all time favorite stories, which I reread at least once a year, total to ~1 million words. One of these stories has been one of my favorites for, oh, 6 years now? Meaning I've roughly reread it five times (although it's definitely been more than that), meaning that that's another ~1 million words I've read. As for the others, the trilogy has been a favorite of mine for 3 years (~1.5 million words), one story has been a favorite for roughly 2 (~.5 million words), and the other has been a favorite for a similar amount of time (~.4 million words). So that's roughly 4.4 million words I've read from these stories /alone/. I have something like 400 favorites on FFN, with HP fics ranging from 500,000 words to 285 making up the vast majority of these. So I'd wager that I've probably read 2-4x more than that 4.4 million average at least.
+
+(Also, yes, I realize I have no life. ‘Tis what happens when you're a introvert with chronic health issues lol)
+:PROPERTIES:
+:Author: kayjayme813
+:Score: 1
+:DateUnix: 1605567182.0
+:DateShort: 2020-Nov-17
+:END:
+
+
+** If I add up all the fics I have bookmarked/favorited on Ao3 and FFN, it comes to about 4m, but ofc that misses out on fics I read but didn't bookmark, fics that were posted on other sites, and fics that have since been deleted.
+:PROPERTIES:
+:Author: Coyoteclaw11
+:Score: 1
+:DateUnix: 1605568659.0
+:DateShort: 2020-Nov-17
+:END:
+
+
+** Let's see...
+
+Prince of Slytherin: 1.4M
+
+Arithmancer series: 1.3M
+
+Accidental Animagus: 800K
+
+Harry Crow: 730K
+
+HPMOR: 600K
+
+New Blood: 500K
+
+Nat 20: 315K
+
+Significant Digits: 300K
+
+Many Deaths: 250K
+
+Vault of Time: 230K
+
+Oh God Not Again: 162K
+
+Sealed Intelligence: 100K
+
+Poison Pen: 75K
+
+Flight of the Stars: 75K
+
+Various other random stuff: 500K
+
+Total: 7.3M
+:PROPERTIES:
+:Author: 100beep
+:Score: 1
+:DateUnix: 1605575817.0
+:DateShort: 2020-Nov-17
+:END:
+
+
+** Um...several million? Probably? I have over a hundred saved Harry Potter fics on ffn alone. Add in Ao3 and Wattpad as well and uh. It's a lot.
+:PROPERTIES:
+:Author: Jill_T
+:Score: 1
+:DateUnix: 1605577526.0
+:DateShort: 2020-Nov-17
+:END:
+
+
+** I've got over 2000 stories on my drive that i have read. I sorted on directory by size and looked at the first 10 stories and that totaled over 10.4 million. I would guess that my overall count would be close to (or over) 50 million easily. If I count rereading then hitting the billion mark is doable.
+:PROPERTIES:
+:Author: reddog44mag
+:Score: 1
+:DateUnix: 1605577681.0
+:DateShort: 2020-Nov-17
+:END:
+
+
+** I read at a rate a little over 100 pages an hour with no major slow down while reading on a phone and supposedly a page has about 400 words on average(I'm not sure on the validity of this) and I read for an average of just over 3 hours a day ,3:07 a day for the last month some of that is rereads but that ends up as about 40 million words in the last year. I would estimate that a quarter of that is me rereading so 30 million words of new content. I'm not sure if I should be proud or depressed by this number honestly...
+
+Edit: just to add I don't read exclusively HP FanFiction but I'm not sure on exactly how much is hp stuff since what I'm reading Varys month to month.
+:PROPERTIES:
+:Author: mcc9902
+:Score: 1
+:DateUnix: 1605584677.0
+:DateShort: 2020-Nov-17
+:END:

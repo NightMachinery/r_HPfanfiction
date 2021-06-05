@@ -1,0 +1,42 @@
+#+TITLE: Open directly in ffn app on iOS
+
+* Open directly in ffn app on iOS
+:PROPERTIES:
+:Author: SHVRPI3
+:Score: 1
+:DateUnix: 1605615252.0
+:DateShort: 2020-Nov-17
+:FlairText: Misc
+:END:
+Like the title says, I'm looking for a way to open links directly in the ffn app on iOS. I used to be able to do it on android and not being able to do it on iOS is really irritating because then I have to open the app and search for the title/user etc. and sometimes the fic doesn't even show up.
+
+Any suggestions are welcome.
+
+UPDATE: Thanks for the help. Started using a third party QR code website to just create QR code's from the story links. I scan that from within the ffn app and it opens directly to the story without having to search at all.
+
+
+** heyo! if you can't find a story by its title its always worth a shot to try finding it by the authors username! most authors have under 30 stories so from there on you should be able to find it relatively fast!
+:PROPERTIES:
+:Author: Sylvezar2
+:Score: 2
+:DateUnix: 1605643625.0
+:DateShort: 2020-Nov-17
+:END:
+
+
+** From what I understand, iOS doesn't allow link handling/default apps. In other words, I'm pretty sure you're shit outta luck.
+:PROPERTIES:
+:Author: 2001herne
+:Score: 1
+:DateUnix: 1605617623.0
+:DateShort: 2020-Nov-17
+:END:
+
+
+** Gotta [[http://www.ff2ebook.com/]] to epub them. At least it is easy, but it IS a second hop that you're probably looking to avoid. Just make yourself a dedicated gmail address to use for this.
+:PROPERTIES:
+:Author: r-Sam
+:Score: 1
+:DateUnix: 1605620005.0
+:DateShort: 2020-Nov-17
+:END:

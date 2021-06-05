@@ -1,0 +1,43 @@
+#+TITLE: A place where we can use the ffnbot for direct links.
+
+* A place where we can use the ffnbot for direct links.
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1557200330.0
+:DateShort: 2019-May-07
+:FlairText: Meta
+:END:
+[deleted]
+
+
+** If you have a direct link, and the story isn't on a standard site where the bot can gather data like author, size, etc...what do you want the bot for?
+:PROPERTIES:
+:Author: thrawnca
+:Score: 1
+:DateUnix: 1557202572.0
+:DateShort: 2019-May-07
+:END:
+
+*** Oh wait shit this bot doesn't mass-convert names. Thanks, sorry.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1557202655.0
+:DateShort: 2019-May-07
+:END:
+
+
+** Wouldn't the parent thing work in this case?
+:PROPERTIES:
+:Author: Pooquey
+:Score: 1
+:DateUnix: 1557211369.0
+:DateShort: 2019-May-07
+:END:
+
+*** The bot doesn't work like that either, those two options work with links, meaning urls. For names you need to use the basic commands for each website.
+:PROPERTIES:
+:Author: Edocsiru
+:Score: 1
+:DateUnix: 1557225500.0
+:DateShort: 2019-May-07
+:END:

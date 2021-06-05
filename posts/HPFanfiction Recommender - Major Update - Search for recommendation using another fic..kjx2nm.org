@@ -1,0 +1,186 @@
+#+TITLE: HPFanfiction Recommender - Major Update - Search for recommendation using another fic.
+
+* HPFanfiction Recommender - Major Update - Search for recommendation using another fic.
+:PROPERTIES:
+:Author: dJones176
+:Score: 134
+:DateUnix: 1608892646.0
+:DateShort: 2020-Dec-25
+:FlairText: Misc
+:END:
+Hi
+
+I pushed some major updates to [[https://hpffrec.hackesta.org/][HPFanfiction Recommender]] and thought I should announce them.
+
+After making the [[https://www.reddit.com/r/HPfanfiction/comments/camzsb/hpfanfiction_recommender_tool_website/][original website in July 2019]], and doing a [[https://www.reddit.com/r/HPfanfiction/comments/kc8gsc/hpfanfiction_recommender_toolwebsite_redesign_new/][redesign over 10 days ago]], the only missing feature in the website was to lookup recommendations using a story url or id. After working on it for the past 10 days, I am happy to announce that it finally works.
+
+I know such things have existed before, ( [[/u/ElusiveGuy][u/ElusiveGuy]] 's Website and [[/u/tusing][u/tusing]] 's [[https://fanfictionbot.github.io/][Website]] are my favorites, [[/u/zerkses][u/zerkses]] 's [[https://www.reddit.com/r/HPfanfiction/comments/js743b/socrates_a_discord_bot_that_recommends_fanfiction/][Discord Recommendation Bot]] is also really interesting). My attempt is very different from the first and very similar to the second.
+
+The first one works on data directly collected from [[https://fanfiction.net][fanfiction.net]] and calculating a similarity score. It has a database of over 30k fics. I am not sure when it has last been updated.
+
+The second one uses the database of [[/u/FanfictionBot][u/FanfictionBot]] and calculates the recommendations based on which fics were recommended together. It was made 7 months ago to celebrate 100k comments by the bot and hasn't been updated since.
+
+My website also uses the database of [[/u/FanfictionBot][u/FanfictionBot]] and uses a similar calculation to create recommendations, but the recommendations are updated every 2 hours.
+
+To use it just visit the [[https://hpffrec.hackesta.org/recommend][Search Page]] on the [[https://hpffrec.hackesta.org/][website]] and enter the URL. It works for all websites that the bot supports. You can also click the white arrow on any story card and it will show you the story description (which I also added recently) and a link to View Similar stories.
+
+I have tested it, but if you encounter any issues or if you have any ideas for improvements, do tell me.!
+
+[[https://imgur.com/a/xFUyn4t][IMGUR Screenshot Album]]
+
+
+** Just checked out the site, looks pretty good. I've been running out of fics lately so thanks :)
+:PROPERTIES:
+:Author: franken10
+:Score: 23
+:DateUnix: 1608902415.0
+:DateShort: 2020-Dec-25
+:END:
+
+
+** you forgot my thing :)
+
+[[https://www.reddit.com/r/HPfanfiction/comments/js743b/socrates_a_discord_bot_that_recommends_fanfiction/]]
+:PROPERTIES:
+:Author: zerkses
+:Score: 6
+:DateUnix: 1608921112.0
+:DateShort: 2020-Dec-25
+:END:
+
+*** Hey I am sorry for not including this, but this is the first time I saw this. I don't know how I missed the original post.
+
+The bot is very interesting. I think it is more similar to the one ElusiveGuy made. But if you don't mind my asking, how does it work? The only guess I can make is some sort of recommendation algorithm.
+:PROPERTIES:
+:Author: dJones176
+:Score: 5
+:DateUnix: 1608947735.0
+:DateShort: 2020-Dec-26
+:END:
+
+**** Yep, it's essentially the same as my Flipper application, just in the form of a bot. It compares people's favourites with reference lists on ffn and spits out the best matches. I have my own database of parsed fanfiction.net/u/'s for that.
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1608947889.0
+:DateShort: 2020-Dec-26
+:END:
+
+***** Ok. It's great
+:PROPERTIES:
+:Author: dJones176
+:Score: 2
+:DateUnix: 1608948641.0
+:DateShort: 2020-Dec-26
+:END:
+
+
+** Yo this is fricking awesome
+:PROPERTIES:
+:Author: Snoo14122
+:Score: 3
+:DateUnix: 1608961485.0
+:DateShort: 2020-Dec-26
+:END:
+
+
+** When I pick „Archive of Our Own“ and any Genre the site says „No Data Found“
+:PROPERTIES:
+:Author: Ludren
+:Score: 2
+:DateUnix: 1608957106.0
+:DateShort: 2020-Dec-26
+:END:
+
+*** Yeah. I will fix it ASAP
+:PROPERTIES:
+:Author: dJones176
+:Score: 2
+:DateUnix: 1608958029.0
+:DateShort: 2020-Dec-26
+:END:
+
+**** And thank you for the site
+:PROPERTIES:
+:Author: Ludren
+:Score: 2
+:DateUnix: 1608958629.0
+:DateShort: 2020-Dec-26
+:END:
+
+***** I fixed it. Although it will still show No Data Found, the filter panel won't hide and you can change the filters.
+
+The bot doesn't list characters or genres for AO3 stories.
+:PROPERTIES:
+:Author: dJones176
+:Score: 3
+:DateUnix: 1608960468.0
+:DateShort: 2020-Dec-26
+:END:
+
+
+** it is truly wild to get on this tool and find my own fic there, ha! thank you, this is so wonderful.
+:PROPERTIES:
+:Author: nashe_airaz
+:Score: 2
+:DateUnix: 1609085130.0
+:DateShort: 2020-Dec-27
+:END:
+
+*** That's great. Thanks
+:PROPERTIES:
+:Author: dJones176
+:Score: 2
+:DateUnix: 1609085652.0
+:DateShort: 2020-Dec-27
+:END:
+
+
+** Saved for later.
+:PROPERTIES:
+:Author: Focusun
+:Score: 1
+:DateUnix: 1608911796.0
+:DateShort: 2020-Dec-25
+:END:
+
+
+** im on the front page of the site and one of the recommended fics is for UnderTale like not a cross over just UnderTale on it's own though it does share an identical name with a hp fanfic so i can see how a mistake was made
+:PROPERTIES:
+:Author: superdudette808
+:Score: 1
+:DateUnix: 1608911812.0
+:DateShort: 2020-Dec-25
+:END:
+
+
+** I am noticing an error
+
+There are multiple instances of same fics
+
+Example: [[https://imgur.com/a/4QrPyvM]]
+:PROPERTIES:
+:Author: ladyaribeth19
+:Score: 1
+:DateUnix: 1608981140.0
+:DateShort: 2020-Dec-26
+:END:
+
+*** Yeah, that's not an error. The homepage has all the latest recommendations, which can have multiple instances of the same fics if they are recommended that way.
+
+For unique recs, use the hall of fame page. The fics there are unique and ordered by no. of recommendations.
+:PROPERTIES:
+:Author: dJones176
+:Score: 3
+:DateUnix: 1608983636.0
+:DateShort: 2020-Dec-26
+:END:
+
+
+** I think you might have just saved me from boredom! Where has this been?
+:PROPERTIES:
+:Author: DeDe_at_it_again
+:Score: 1
+:DateUnix: 1609063191.0
+:DateShort: 2020-Dec-27
+:END:

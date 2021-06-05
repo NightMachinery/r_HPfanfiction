@@ -1,0 +1,26 @@
+#+TITLE: Looking for a specific rec website
+
+* Looking for a specific rec website
+:PROPERTIES:
+:Author: Squishysib
+:Score: 3
+:DateUnix: 1621478963.0
+:DateShort: 2021-May-20
+:FlairText: Misc
+:END:
+While ago someone posted a website they made on here that helped with recommendations. You would put in the URL of a fanfiction you liked and it would spit out a page or so of fanfictions that matched up on tropes or whatever was similar. Does anyone remember this website?
+
+
+** I don't know about a website but my app does that:
+
+[[https://github.com/Zeks/flipper/releases/tag/1.4.4]]
+
+or you could do this with Socrates bot on my discord, it's essentially the same thing:
+
+[[https://discord.gg/dpAnunJ]]
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1621660136.0
+:DateShort: 2021-May-22
+:END:

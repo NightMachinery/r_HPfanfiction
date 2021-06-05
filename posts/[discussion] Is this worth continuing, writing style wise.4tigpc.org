@@ -1,0 +1,177 @@
+#+TITLE: [discussion] Is this worth continuing, writing style wise?
+
+* [discussion] Is this worth continuing, writing style wise?
+:PROPERTIES:
+:Author: kanavyseal
+:Score: 2
+:DateUnix: 1468890033.0
+:DateShort: 2016-Jul-19
+:FlairText: Discussion
+:END:
+Hey guys, First time attempting to pen a story and I'd like some feedback on my writing style. I've never really written for pleasure ever and apart from college papers i have no idea if it's something someone would want to read. here goes:
+
+I coughed, miserable and cold. London was a dirty city when it rained. It was as if the 1800's hadn't released their coal tinged grip on the city and soot ran in the streets like dark,oily tears. The late spring seemed reluctant to come and the late may shower felt more like one in February. I could even see my breath. I sighed and hiked up the woolen collar of my muggle coat and trudged on, wishing badly for some tobacco for my pipe, not that it would light in this weather. I still reached in my pocket and wrapped my fingers around it. My fingers brushed the smooth birch of my wand and rustled the thick parchment letter I carried. I dug my fingers a bit deeper and hoped they would warm as I caught sight of my destination. A grubby unremarkable pub known as the Leaky Cauldron.
+
+The pub was bright and warm. A cheery fire filled the room with pleasant smoke and the chatter of the full great room was a loud roar in my ears after the patter of heavy rain on pavement. I shook my head and whispered a quick drying spell and looked for the barman. It took a moment but I spotted him, chiding a surly looking waitress, a damp dingy rag clutched in his knobby fingers. I was torn on whether to interrupt or not when another serving woman noticed me.
+
+“ Can I help you love?” The woman asked, her accent was thick and unfamiliar to my ears, but it was warm and she smiled. Her dark curls bouncing as she leaned in to pat me on the arm sympathetically. “ Maybe a nice mug of tea?”
+
+“Uh, No marm. I was just hoping to use your floo...” I broke off suddenly, my eye catching a bit of light in a mirror behind the bar. Quickly a vision hit me of a figure, tall and dark not but across the street from the pub crossing quickly with a quick, forceful stride. “ Quickly if you please. I added quickly gulping.
+
+“Five kunts, Irishman.” She drawled the last word, amused as I dug the coin out of my belt pouch. I willed her to hurry as I slapped the coins into her palm. She moved with agonizing slowness to withdraw the floo pot from under the counter. She handled to me and I spun on my heel smartly towards the fireplace and nearly crashed into a towering figure in black.
+
+“Master McConn, I presume?” the dark giant said, its voice deep,male and dangerous. I got a better look and dug around my pocket for my wand. He had sallow skin, dark recessed eyes, a large hook nose and stringy, greasy hair.
+
+“Yes” I said curtly, my hand gripping the wood so tight I thought id leave an indentation. Surely they wouldn't try something here, in a crowded pub. The man noticed my trepidation and sneered, making his face a rictus of sarcasm.
+
+“ I am Professor Severus Snape of Hogwarts. Professor Dumbledore thought it best if one of us collected you given your... circumstances.” the last word was a malicious drawl. I let out an audible breath I didn't know I was holding. Clearly, he was trying to get the measure of me. I steadfastly ignored it.
+
+“ Pleased to meet you sir, I had expected to arrange my own transport to the village here.” I brandished the floo pot, feeling foolish. Snape rolled his eyes.
+
+“ By all means, move at a glacial pace. It thrills me.” I ignored him and continued to to fireplace when I threw in a large pinch and was whisked away to Hogsmeade village.
+
+
+** u/boomberrybella:
+#+begin_quote
+  London was a dirty city when it rained. It was as if the 1800's hadn't released their coal tinged grip on the city and soot ran in the streets like dark,oily tears.
+#+end_quote
+
+Is London really that dirty when it rains? It seems a little excessive.
+
+#+begin_quote
+  A grubby unremarkable pub
+#+end_quote
+
+I think we're missing a comma
+
+#+begin_quote
+  A cheery fire filled the room with pleasant smoke and the chatter of the full great room was a loud roar in my ears after the patter of heavy rain on pavement.
+#+end_quote
+
+Too long of a sentence
+
+#+begin_quote
+  The woman asked, her accent was thick and unfamiliar to my ears, but it was warm and she smiled.
+#+end_quote
+
+Too much description, especially since it's all focused on a voice/accent
+
+#+begin_quote
+  “Uh, No marm. I was just hoping to use your floo...” I broke off suddenly
+#+end_quote
+
+I think "broke off" implies suddenly. And to me, the ellipses imply trailing off. But I think it's fine just dropping "suddenly"
+
+#+begin_quote
+  Quickly a vision hit me of a figure, tall and dark not but across the street from the pub crossing quickly with a quick, forceful stride. “ Quickly if you please. I added quickly gulping.
+#+end_quote
+
+So much is happening "quickly" here! Vision is (not technically, but let's not get all science-y) instantaneous- we don't need to be told that it happens quickly. That description is bloated. We have a nervous character catching a glimpse of something frightful in the mirror, but the description doesn't match the feeling of it. His glimpse should be short with no time to think about how tall, dark, far away, intent, and velocity of movement. He's too nervous for that and the reflection through the dirty mirror and windows won't allow it!
+
+#+begin_quote
+  “Five kunts, Irishman.” She drawled the last word, amused as I dug the coin out of my belt pouch.
+#+end_quote
+
+Knuts, or? Also, is that period after Irishman correct? Why does she find it so amusing that he's getting out the last coin? Is he fumbling with it? She's already drawling, no need to add amused.
+
+#+begin_quote
+  “Master McConn, I presume?” the dark giant said, its voice deep,male and dangerous.
+#+end_quote
+
+I don't know if I'd classify Snape as giant. He seems more the lanky sort, so unless McConn is a small child or incredibly small, giant is out of place. Also, "male" makes it seem as if McConn is a woman that Snape is eventually going to sweep of her feet. Romance novel description
+
+#+begin_quote
+  He had sallow skin, dark recessed eyes, a large hook nose and stringy, greasy hair.
+#+end_quote
+
+Good. Snape isn't supposed to be handsome
+
+#+begin_quote
+  The man noticed my trepidation and sneered, making his face a rictus of sarcasm.
+#+end_quote
+
+It can stop after "sneered." The rest is overindulgent
+
+#+begin_quote
+  the last word was a malicious drawl.
+#+end_quote
+
+He's treating him like Harry or Sirius. McConn's "circumstances" need to be significantly weighty enough to account for that behavior from Snape.
+
+#+begin_quote
+  I let out an audible breath I didn't know I was holding. Clearly, he was trying to get the measure of me. I steadfastly ignored it.
+#+end_quote
+
+McConn is visibly nervous. He's not steadfastingly ignoring anything. He's jumping at shadows.
+
+#+begin_quote
+  Snape rolled his eyes.
+#+end_quote
+
+I think only teenagers roll their eyes
+
+#+begin_quote
+  By all means, move at a glacial pace. It thrills me
+#+end_quote
+
+Not quite Snape voice
+
+I think you have two areas you could improve. the dialogue grammar needs a bit of work regarding the use of commas/periods before the closing quotation mark as well as the capitalization of the word following it. Since it's first person, you have to be extra mindful of description. We're seeing through McConn's eyes. For example, he's scared and in a hurry. The barmaid is taking her sweet time telling him the price, does he notice she's amused, or is he too pissed she's costing him time? Is he grabbing the last coin or is he fumbling to find it? Is he taking fifteen seconds to analyze Snape in the mirror, or is he catching a quick glimpse as he attempts to escape? Try to examine your word choice and use them deliberately.
+
+I think you're off to a good start! I enjoyed it and that says a ton because it's first person. How many times did you read through it? Do you have more sketched out? I hope you plan to continue it!
+:PROPERTIES:
+:Author: boomberrybella
+:Score: 3
+:DateUnix: 1468894621.0
+:DateShort: 2016-Jul-19
+:END:
+
+*** I literally typed it and dropped it. thanks for the analysis. the bit in the mirror was a vision so i guess that didn't come across clear.
+:PROPERTIES:
+:Author: kanavyseal
+:Score: 1
+:DateUnix: 1468896507.0
+:DateShort: 2016-Jul-19
+:END:
+
+**** Oh, I see how it's a vision! Yeah, that could be clarified a bit. I think it's definitely worth continuing! It's in pretty good shape especially since you never looked it over
+:PROPERTIES:
+:Author: boomberrybella
+:Score: 1
+:DateUnix: 1468896913.0
+:DateShort: 2016-Jul-19
+:END:
+
+
+** Its pretty good. Sometimes the flow feels a bit abrupt, and in some places you've joined 2 sentences that should have remained separate. But it's good, and while a bit boring at first glance, will definitely hook readers if you pace it good.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1468891951.0
+:DateShort: 2016-Jul-19
+:END:
+
+*** Thanks. The premise is that there's an irish Seer an voldemort has allied with the fae and is snatching up seers in search of an artifact. in my universe Ireland is like wild west and the sight drives you nuts if you're not trained. so he's stuck with Trelawney, who im planning on making into a total IC badass.
+
+but cha
+:PROPERTIES:
+:Author: kanavyseal
+:Score: 1
+:DateUnix: 1468893246.0
+:DateShort: 2016-Jul-19
+:END:
+
+
+** u/Vardso:
+#+begin_quote
+  Five kunts, Irishman.
+#+end_quote
+
+11/10 would read again.
+
+But seriously, I like your style. It feels a lot more engaging than most of the stuff I (attempt to) read in ffnet.
+:PROPERTIES:
+:Author: Vardso
+:Score: 1
+:DateUnix: 1468914345.0
+:DateShort: 2016-Jul-19
+:END:

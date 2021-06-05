@@ -1,0 +1,73 @@
+#+TITLE: Requesting help, self-preservation bye coffeeonthepatio
+
+* Requesting help, self-preservation bye coffeeonthepatio
+:PROPERTIES:
+:Author: monkshood_wolfsbane
+:Score: 1
+:DateUnix: 1601925285.0
+:DateShort: 2020-Oct-05
+:FlairText: Request
+:END:
+Hey, could anyone give me a hand? So I know that this author deleted the majority of their works other than on the corner which they are reposting. Fortunately a few years ago I managed to read the majority of their SS/HG fix. However on speaking to someone else on here today I realised I never had the pleasure of reading self-preservation, the only site I can find is unusable with a screen reader, i.e. I'm blind and the download just won't read even though it says it's in Epub format. Does anyone know of any other way I could get hold of a copy of this fic?
+
+
+** What screen reader do you use? I can grab the file and see if it needs any editing to work for you? Do epubs that you download from ao3 (for example) work?
+
+I remember ff2ebook fics having some pretty funky formatting, and I can give editing it a shot if you like.
+
+EDIT - I can also remove excessive author notes while I'm at it, if you like. Some people do like to read them, even I think y'all are a bit odd for it :P
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 3
+:DateUnix: 1601933086.0
+:DateShort: 2020-Oct-06
+:END:
+
+*** Oh wow, thank you ever so much. Luckily I've managed to get in touch with one of my friends who converted it into an accessible format, I'm just using straightforward VoiceOver on an iPhone, I did pop on over to my laptop and that NVDA screen reader but that was just as difficult, thanks ever so much for the offer though. ☺️🤗
+:PROPERTIES:
+:Author: monkshood_wolfsbane
+:Score: 2
+:DateUnix: 1601936525.0
+:DateShort: 2020-Oct-06
+:END:
+
+**** No problem :D I have nothing better to do, so I've been reading up on how to make an epub be accessible. Give your friend a hug for me!
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 2
+:DateUnix: 1601936726.0
+:DateShort: 2020-Oct-06
+:END:
+
+***** Not gonna lie you honestly made my day, there's not many people that would be interested in making things accessible for people. It's a sad fact, I almost come to accept that things just aren't any more but it's worth asking for help if I can. My friend is ultra impressive as he is also blind, I was in total shock when he messaged me back saying he'd sorted it. I'll give him hugs.
+:PROPERTIES:
+:Author: monkshood_wolfsbane
+:Score: 1
+:DateUnix: 1601936846.0
+:DateShort: 2020-Oct-06
+:END:
+
+
+** [[http://www.ff2ebook.com/download.php?source=ffnet&id=5787353&filetype=epub]] is true EPub (reading it just right now), from [[http://www.ff2ebook.com/archive.php?search=coffeeonthepatio&sort=title]]
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1601934191.0
+:DateShort: 2020-Oct-06
+:END:
+
+*** The OP, as they said, is blind and might require an embedded font for it to work on their ereader.
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 1
+:DateUnix: 1601936502.0
+:DateShort: 2020-Oct-06
+:END:
+
+**** No problem, [[https://da.gd/ukbN]] is the same book as the plain text document (courtesy of [[https://pandoc.org/][pandoc]]). And yes, it requires Calibri font without embedding it: does [[https://da.gd/UhiZq]] work better for you (it has font set just to generic =serif=)?
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1601939729.0
+:DateShort: 2020-Oct-06
+:END:

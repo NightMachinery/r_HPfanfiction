@@ -1,0 +1,25 @@
+#+TITLE: FF.net app
+
+* FF.net app
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 2
+:DateUnix: 1502810529.0
+:DateShort: 2017-Aug-15
+:END:
+The download button is sometimes present and sometimes not, I can't figure out any rhyme or reason.
+
+Thankfully all of my old library downloaded onto my new phone, but now the download button isn't always present for now stories.
+
+Anything I might be doing wrong or different from before?
+
+
+** The download button disappears for me after I click it to download a story, but the story may get stuck at 1% and so the button stays invisible. Too ix that, go to download manager, cancel the download of the story and it should be back.
+
+Otherwise it's probably just a bug in the app.
+:PROPERTIES:
+:Author: sicarius0218
+:Score: 3
+:DateUnix: 1502812611.0
+:DateShort: 2017-Aug-15
+:END:

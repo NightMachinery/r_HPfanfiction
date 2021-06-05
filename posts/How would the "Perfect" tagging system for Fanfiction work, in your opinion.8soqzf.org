@@ -1,0 +1,377 @@
+#+TITLE: How would the "Perfect" tagging system for Fanfiction work, in your opinion?
+
+* How would the "Perfect" tagging system for Fanfiction work, in your opinion?
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 20
+:DateUnix: 1529553007.0
+:DateShort: 2018-Jun-21
+:FlairText: Meta
+:END:
+A lot of people are understandably upset at the very limited filtering system on FFN, mostly due to its lack of tag functionality. On the reverse side, sites like AO3 seem to have TOO MANY options with no real limit on how many you can add.
+
+Where would you guys have the perfect middle ground be?
+
+Not just for amount/diversity, but any other functionality, classifications, or any other system which could have applied properties to better help people smoothly find exactly what they're looking for.
+
+
+** 6 characters would probably be optimal for character tagging, as opposed to the free for all of Ao3.
+
+Some meta tags for popular tropes would helpful too. They ought to be allowed to have their visibility toggled on and off though, since not everyone wants to see it and it makes the page longer. These should be preselected options though, again, not the "whatever you want to put" Ao3 has, with community suggestions for addition or removal.
+
+Ability to search by publish date ranges (sometimes people want to read only older stories).
+
+Probably more, but those are the main ones that come to my mind.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 34
+:DateUnix: 1529555243.0
+:DateShort: 2018-Jun-21
+:END:
+
+*** Thanks for your input. :)
+
+I think I'm going to compile a sort of conglomeration of descriptor preferences for stories. Maybe, with some time, we could create a community-driven standard?
+
+There's no reason, even, that it needs to be limited to Harry Potter. This is just the subreddit that I'm on the most often. Do you have any other suggestions?
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 4
+:DateUnix: 1529555368.0
+:DateShort: 2018-Jun-21
+:END:
+
+**** Not the person you are replying to, but I think there should be genre tags, separate from the other tags. That way we could choose to have most of the tags hidden to get surprised but still see that ones that define the most how the story reads overall (so, say, you could see that the story is “romance” but have the pairing hidden ... to a degree).
+:PROPERTIES:
+:Author: Kazeto
+:Score: 1
+:DateUnix: 1529676834.0
+:DateShort: 2018-Jun-22
+:END:
+
+
+** The key is having different categories of tag. The problem with Ao3 is that the tags are all in a generalised mass, so (for example), you can search by a character tag, looking for stories centred around that character, but in fact a load of stories where that character is barely featured show up.
+
+So I would suggest the following categories:
+
+Main (point of view) character: (field allows *one* character tag, or the tag "multiple")
+
+Secondary characters: (tags)
+
+Primary pairing: (field allows *one* pairing tag, or the tag "multiple")
+
+Secondary pairings: (tags)
+
+Other: (tags)
+
+If you pick "multiple" then then the secondary characters/pairings fields allow you to detail them.
+:PROPERTIES:
+:Author: Taure
+:Score: 29
+:DateUnix: 1529568459.0
+:DateShort: 2018-Jun-21
+:END:
+
+*** Honestly, I think the secondary characters need not even be listable. Ao3 looks friggin silly with all the characters people list for just technically appearing in their story.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 8
+:DateUnix: 1529581041.0
+:DateShort: 2018-Jun-21
+:END:
+
+**** I only included it for the sake of "Game of Thrones" style stories which jump between a large cast of PoV characters.
+:PROPERTIES:
+:Author: Taure
+:Score: 9
+:DateUnix: 1529583434.0
+:DateShort: 2018-Jun-21
+:END:
+
+***** Ah, fair point.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 1
+:DateUnix: 1529585808.0
+:DateShort: 2018-Jun-21
+:END:
+
+
+**** From my own experience, secondary characters are rather important to tag (within reason). There are many stories where a character is crucial without being the protagonist or being a love interest. Any "Harry finds a family" fic for example, or stories where Hermione is wingman-ing for Harry and the Love Interest.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 2
+:DateUnix: 1529587042.0
+:DateShort: 2018-Jun-21
+:END:
+
+***** If there's a very strict limit on them like 2 secondary characters max (and maybe make them hidden behind a spoiler) then I guess so. I just find myself so irritated by Ao3 that I don't use the site. Maybe I'll give it another go sometime soon.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 1
+:DateUnix: 1529588296.0
+:DateShort: 2018-Jun-21
+:END:
+
+****** I was talking about FFN actually. You basically have two slots for secondary characters (and two for the main pairing) there, and let me tell you, those are bloody useful to convey what kind of story you are writing.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 5
+:DateUnix: 1529592188.0
+:DateShort: 2018-Jun-21
+:END:
+
+******* Ahhh. I'd be fine with that.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 1
+:DateUnix: 1529599801.0
+:DateShort: 2018-Jun-21
+:END:
+
+
+** Axe the ability to create your own tags. I love AO3 but I get ever so slightly homicidal when there are basically authors notes in the tagging system. If there is need for a new pairing tag, have it created from dropdown menus to ensure proper formatting and proper spelling.
+
+Easy exclusion of particular character, pairing or meta tags.
+
+Limit the number of characters able to be added. If Piers Polkiss shows up for one scene, don't bloody tag him.
+
+The main problem I have is when it comes to minor pairings. On one hand there's the argument that if Andromeda and Ted Tonks show up for two or three scenes and none of them are actually related to the Andromeda/Ted pairing, don't tag Andromeda/Ted because it clogs up the pairing tag for those of us who are looking for fics focused on Andromeda/Ted.
+
+On the other there's the argument that some minor pairings can be huge backbutton issues for some people. Even if the fic is focused on Harry/Ginny and then you offhandedly mention that there's a Hermione/Snape or Ron/McGonagall pairing going on in the background I'm probably going to backbutton because your fic just jumped the shark and I'd quite like to have known that before I got invested.
+
+I can see both sides of the argument and honestly, I'm not even sure where I sit on it.
+:PROPERTIES:
+:Author: SerCoat
+:Score: 13
+:DateUnix: 1529580718.0
+:DateShort: 2018-Jun-21
+:END:
+
+
+** Ao3's main and crucial problem is the lack of ease of handling. It needs the ability to right-click on a tag to exclude it in a search result or start a search with it. Pull-down menus for the most common tags of a fandom wouldn't go amiss either. As it is, I'm supposed to install extensions/apps, or type out the tags I don't want to search for each time I'm looking for a story.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 8
+:DateUnix: 1529558830.0
+:DateShort: 2018-Jun-21
+:END:
+
+*** I've always wondered why the most popular fanfiction sites don't have "cloud" tags. It's a popular feature on most sites meant for consuming readable content, like blogs. The cloud can display /more/ information because it's not limited to a list, looks good, and is easy to use. /shrug
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 6
+:DateUnix: 1529558931.0
+:DateShort: 2018-Jun-21
+:END:
+
+**** AO3's problem is the lack of a quick and easy way to exclude tags from a search result. I'm not sure how clouds would help there. But when I'm searching for a fic, I want to be able to exclude all the Mpreg and Drarry and Dramione without having to type that out.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 6
+:DateUnix: 1529559837.0
+:DateShort: 2018-Jun-21
+:END:
+
+***** They weren't directly related. I brought the cloud up because you mentioned pull-down menus for common tags, of which, in my opinion at least, a cloud would be superior to.
+
+As far as excluding tags, I like your idea of being able to exclude them directly from returned results (which would reload the page?) would be nice.
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 2
+:DateUnix: 1529559952.0
+:DateShort: 2018-Jun-21
+:END:
+
+
+** One of my biggest gripes is rating filtering.
+
+Let me pick like two or 3 ratings and just those. Maybe I want K and M but none of the betweens.
+
+Limit things like tags so you can't just make up whatever you want but don't limit what you can filter from those
+:PROPERTIES:
+:Author: ferret_80
+:Score: 4
+:DateUnix: 1529597279.0
+:DateShort: 2018-Jun-21
+:END:
+
+
+** not fifty ways to phrase the same thing. You shouldnt have to think of ie every way to phrase Professor Potter, Professor Harry Potter, Professor Harry, Teacher Harry, etc... in order to sort the fanfics as such. A drop down menu with limited tag options would be better than a free-for-all open-response tag
+:PROPERTIES:
+:Author: elizabater
+:Score: 4
+:DateUnix: 1529598571.0
+:DateShort: 2018-Jun-21
+:END:
+
+
+** I want all filters to come in two flavors: inclusive ("I want stories with Harry") and exclusive ("I want no stories with Harry"). Ditto for relationships, content warnings, ratings, etc.
+:PROPERTIES:
+:Author: ParanoidDrone
+:Score: 3
+:DateUnix: 1529606283.0
+:DateShort: 2018-Jun-21
+:END:
+
+*** [[http://filter-me-ao3.tumblr.com/post/94752459096/hi-i-cant-figure-out-how-to-filter][Have a circuitous way of doing this]]. It kind of sucks, granted.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1529610068.0
+:DateShort: 2018-Jun-22
+:END:
+
+
+** I mused on this for a site design. Prototype here: [[http://fanficfed.blogspot.com]]
+:PROPERTIES:
+:Author: viol8er
+:Score: 3
+:DateUnix: 1529566190.0
+:DateShort: 2018-Jun-21
+:END:
+
+
+** I would prefer a good, easy to use search engine for FFN (Scryer can be very cumbersome), which would actually be alright if FFN had metatags.
+
+The ability to exclude more than two characters (like on scryer), characters sorted by popularity and not by alphabet (like in the FFN App), an easy way to exclude certain ships (in case that I don't mind certain characters, but don't want them romantically involved), the ability to exclude multiple genres, the ability to exclude metatags and the ability to exclude slash.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 3
+:DateUnix: 1529570120.0
+:DateShort: 2018-Jun-21
+:END:
+
+*** I actually like having the character be alphabetical, sure it makes it a slog sometimes, but there are so many goddamned characters, if you were looking for a lesser used character and didn't know right where they were, it would take absolute ages reading through every character entry. Maybe an option to switch sorting the lists by alphabetical/popularity/whatever other system?
+:PROPERTIES:
+:Author: viper5delta
+:Score: 1
+:DateUnix: 1529593090.0
+:DateShort: 2018-Jun-21
+:END:
+
+**** You can always just start typing the name to find it in the drop down.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 1
+:DateUnix: 1529595267.0
+:DateShort: 2018-Jun-21
+:END:
+
+
+*** Out of curiousity, what do you find cumbersome on scryer? The UI seems alright to me even if it lacks some features I personally deem essential
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1529771899.0
+:DateShort: 2018-Jun-23
+:END:
+
+**** That there's no way to edit your search while at the result page for example. Touch input isn't supported properly, there is no "OR" option for Genre or characters (not that FFN or Ao3 have one) and I find the layout/color palette too sleek.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 1
+:DateUnix: 1529772233.0
+:DateShort: 2018-Jun-23
+:END:
+
+***** I will forward that to Scryer's maintainer
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1529772856.0
+:DateShort: 2018-Jun-23
+:END:
+
+****** Scryer is great if you are looking for something specific, but despite its awesome tools (especially the ability to exclude many characters), it is not good to browse. The FFN app sorts the characters by popularity, something that is great when you are exploring outside of the top 10 characters. It gives you way more feedback to your input. With Scryer you don't know if there's anything within your search parameters until you hit search.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 1
+:DateUnix: 1529778054.0
+:DateShort: 2018-Jun-23
+:END:
+
+
+** Give people the ability to mark, say, five of their tags as primary. The rest are secondary. Primary tags are for the main parts of the work -- overarching themes, protagonist, primary pairing, that kind of thing.
+
+Then I search like: =primary:"Minerva McGonagall" "Tri-Wizard Tournament"=. This gets any fics tagged with Minerva McGonagall and Tri-Wizard Tournament, but the former tag must be primary. It might be a story about student-Minnie competing in the 1940s, or it might be a fic that recounts the entire 1991 to 1998 period from McGonagall's perspective, or from Harry's perspective but with McGonagall as the major supporting character.
+
+Also, make negative tags work directly. If I add =-Harry Potter= to a search, it should eliminate =Harry Potter=-tagged works. I shouldn't have to find the tag ID and pass =-filter_id:7723=.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1529610604.0
+:DateShort: 2018-Jun-22
+:END:
+
+*** The should be handled via a real search menu. If the search menu is asking for pseudo-programming to search like Scryer, it's fundamentally failing most of their users. It's really easy to do it via standard menus with an aesthetically pleasing design. The ideas are solid though.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 2
+:DateUnix: 1529622927.0
+:DateShort: 2018-Jun-22
+:END:
+
+**** Yep, and ideally both. A fast way for power users and an obvious way for people who aren't intimately familiar with AO3 search.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1529631587.0
+:DateShort: 2018-Jun-22
+:END:
+
+
+** It would have to be a mix of FF and AO3, with a tag limit and a slash and crack filter. That's all I ask for.
+:PROPERTIES:
+:Author: DEFEATED_GUY
+:Score: 2
+:DateUnix: 1529642467.0
+:DateShort: 2018-Jun-22
+:END:
+
+
+** What I really want to have, is an AI based recommendation system. There are millions of fics, with even more data about user preferencies, tags and so on. The problem is obviously in the tag system: if I were to create an AI, I wouldn't use the tags, as they are not standardized, but instead read the whole texts with the program and try to tag it myself. There would be the more meta tags, like genre, length, writing style, rate of spelling/linguistic mistakes, pace. Then there would be the tags relating to characters, and also pairings. I would give 3 groups of character tags: main, secondary, mentioned. (Secondary characters have some kind of background information/storyline, while mentioned do not - they still could have interaction with MC, but they only add to the main plot. But these clusters are kinda fuzzy.)
+
+Like many others have said, tags should be univocal. No two tag should mean the same. Also they should be obvious on what they stand for. A tag "contains sex" is while a good warning for the young ones, we still don't know what kind of act it is. Is it detailed, or only brushed upon? Is it between M/M or F/M or F/F? Harem? Etc. It feels like some tags should be ordered into trees, and each story would be clustered into one (or more?) leaf. People could include/exclude either the branches, or the leafs of the said tree.
+
+And while the tags one story got would be quiet a lot, not all of them are for the public eye. The recommendation system might use some of these attributes, but in the beginning I really don't care if a character touched Harrys shoulders... or even had a one night stand that is not described further. On the other hand, if I generally dislike one night stands with Harry, the story will not be recommended for me.
+:PROPERTIES:
+:Author: ketjatekos
+:Score: 2
+:DateUnix: 1529667517.0
+:DateShort: 2018-Jun-22
+:END:
+
+*** Well, it's not an AI but Scryer actually has recommendations for registered users, they are just not linked to the main page for whatever strange reason [[https://scryer.darklordpotter.net/user/recommendations]]
+
+Scryers recommendations are based on your activity on the site. So to boostrap them you will have to search for stuff there.
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1529772109.0
+:DateShort: 2018-Jun-23
+:END:
+
+
+** Hmm ... a list of characters playing a major role in the fanfic (say, 2--3 characters tops), tags for characters playing less significant but still somewhat important roles in it (that can be set to be shown or hidden), a list of tags for significant pairings that can likewise be set to be shown or hidden, genre tags (you know, stuff like “comedy”, “horror”, “coming of age”, or “gender bender”), and then miscellaneous tags that are hidden by default but can be shown with a button click where the author can put anything silly that suits the story.
+
+That said, ultimately any tag system with a bit of leeway can be good, but only for as long as the people using it to tag their work use it well. Case in point, if you were tagging “Seventh Horcrux” with what I wrote above, you'd put “Tom Riddle (horcrux)” as a major character, and maybe add “Harry Potter” there too, and then put both Hermione and Ron under minor characters because that's really it (maybe add Voldemort to that list too), and add nothing under pairings because seriously; many people who'd tag it, however, would add every single pairing that is there, even “Sirius/Severus”, to the tag list, and then add Harry, Hermione, and Ron to the major character list and then everyone and their pet Kneazle to the minor character list for no real reason, and this is really what's keeping AO3's tag system from being as useful as it could be.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 2
+:DateUnix: 1529676656.0
+:DateShort: 2018-Jun-22
+:END:
+
+
+** To me, perfect tagging means:
+
+1. strict set of community suggested tags, possibly per fandom.
+2. tags not visible by default on the search results and only used for searching.
+
+AO3s system actively encourages authors to use tags instead of a summary, which makes searches on the site absolutely horrible AND lowers general summary quality because "who cares, everything is in the tags"
+
+But honestly, recommendation engines are needed much more than any tagging system. You can search for tags all day and still be drowning in crap. I have my own engine that I am preparing to release into public hopefully sometime soon and I can tell you that recommendations tailored to your tastes being available transforms fanfic search for the better more than any possible tag system.
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1529773506.0
+:DateShort: 2018-Jun-23
+:END:

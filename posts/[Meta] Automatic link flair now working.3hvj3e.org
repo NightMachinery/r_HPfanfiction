@@ -1,0 +1,57 @@
+#+TITLE: [Meta] Automatic link flair now working
+
+* [Meta] Automatic link flair now working
+:PROPERTIES:
+:Score: 13
+:DateUnix: 1440179898.0
+:DateShort: 2015-Aug-21
+:FlairText: Meta
+:END:
+So after a short and decisive battle with AutoModerator and the site's CSS, [[/u/denarii]] and I fixed the automatic flairing of posts.
+
+The tags available are currently:
+
+#+begin_quote
+  [Discussion]
+
+  [Request]
+
+  [Suggestion]
+
+  [Meta]
+
+  [Misc]
+
+  [Promo] or [Promotion]
+#+end_quote
+
+They can be written as either =[tag]= or =tag:= in the post title. In addition, mentioning "LF" or "Looking for" anywhere in the title will automatically mark it as a request.
+
+NSFW anywhere in the title will also mark the post as NSFW.
+
+
+** Good job. :)
+:PROPERTIES:
+:Author: Nemrodd
+:Score: 2
+:DateUnix: 1440183360.0
+:DateShort: 2015-Aug-21
+:END:
+
+
+** Testicle. edit: I mean Testing. P.S. It works! Hi5!
+:PROPERTIES:
+:Author: bloopenstein
+:Score: 2
+:DateUnix: 1440218093.0
+:DateShort: 2015-Aug-22
+:END:
+
+
+** are their any good hogwarts read deathly hallows fanfic that is complete?
+:PROPERTIES:
+:Author: calz234
+:Score: 1
+:DateUnix: 1451594377.0
+:DateShort: 2016-Jan-01
+:END:

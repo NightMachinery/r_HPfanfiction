@@ -1,0 +1,119 @@
+#+TITLE: "So, how did you complete all the Arithmancy homework on the first day of the holidays?" "MATLAB."
+
+* "So, how did you complete all the Arithmancy homework on the first day of the holidays?" "MATLAB."
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 55
+:DateUnix: 1579737487.0
+:DateShort: 2020-Jan-23
+:FlairText: Prompt
+:END:
+
+** Oh, right, it is 1990s. Otherwise, of course, current Muggleborn students at Hogwarts cheat by using iPython with numpy. ;)
+:PROPERTIES:
+:Author: ceplma
+:Score: 31
+:DateUnix: 1579740051.0
+:DateShort: 2020-Jan-23
+:END:
+
+*** I have a headcanon where Divination is magical Machine learning, where you don't have to sit for hours just looking at the data, and the different methods of divination just use different machine learning model to predict an output.
+:PROPERTIES:
+:Author: theAmazingEmperor5
+:Score: 13
+:DateUnix: 1579752613.0
+:DateShort: 2020-Jan-23
+:END:
+
+**** I always thought of Divination as a spell that collects information from the future and dumps it into whatever random pattern generator (tea leaves, crystal ball, ...) you're thinking of while subconsciously casting the spell. Without intent to predict the future there's no spell and you get random noise instead of data, which is why people who think Divination is bollocks can't predict anything. The difficult part is interpreting the data you're getting and learning how to direct the spell at the important parts of the future.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 17
+:DateUnix: 1579771727.0
+:DateShort: 2020-Jan-23
+:END:
+
+***** That sounds like an interesting theory as well... Now I am thinking that HP universe has this giant processor running a world wide deep learning model on all the data in the universe, which only gives result if it can detect an intent to predict future from the caster... but then there are glitches in the system, like when Harry and Ron foreshadow the events of Tri wizard tournament in Book 4?
+:PROPERTIES:
+:Author: theAmazingEmperor5
+:Score: 8
+:DateUnix: 1579772581.0
+:DateShort: 2020-Jan-23
+:END:
+
+
+***** I can't remember the name of it, but there was a fic where time traveling adult Harry becomes the divination professor - and proceeds to discover that divination can be used for concrete results when you know how to use it, and learns a bunch of ways to use it from a portrait of Trelawney's famous seer ancestor.
+:PROPERTIES:
+:Author: dancortens
+:Score: 1
+:DateUnix: 1580317364.0
+:DateShort: 2020-Jan-29
+:END:
+
+
+** I had a similar idea for a Harry as a rookie Auror fic. A wizard writing a Word document using Unicode runes and accidentally blows up the machine. The Aurors come to investigate, but cannot find any sign (e.g. shrapnel with partial runes) of what happened. Fast-forward a few months and similar incidents keep happening, leaving most people (even muggleborns, who know about Unicode runes) baffled.
+:PROPERTIES:
+:Author: jazzmester
+:Score: 9
+:DateUnix: 1579781724.0
+:DateShort: 2020-Jan-23
+:END:
+
+
+** Fortran* you are welcome.
+:PROPERTIES:
+:Author: Lgamezp
+:Score: 7
+:DateUnix: 1579752358.0
+:DateShort: 2020-Jan-23
+:END:
+
+
+** Reminds me of the way I envision Ancient Runes.
+
+My headcanon of ancient runes is to be a combination of programming and magical intent. It is a tradeoff: more specific runes can give specialized and more "powerful" reactions, but is also more narrow. Or you can just slap a Protection rune on something, but don't expect any crazy results. Enchanting, such as making better brooms, is a matter of finding more efficient means of doing the whole flying thing rune-wise alongside more magically conductive material.
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 5
+:DateUnix: 1579783478.0
+:DateShort: 2020-Jan-23
+:END:
+
+*** I think it's not quite like typical programming in that it's instruction 1, then instruction 2, then instruction 3. I think it's more like CSS where there's many instructions that all simultaneously combine into defining the form of the result.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 6
+:DateUnix: 1579785414.0
+:DateShort: 2020-Jan-23
+:END:
+
+
+** If you find a fic like this id very much like to read it.
+
+RemindMe! One week
+:PROPERTIES:
+:Author: Lgamezp
+:Score: 3
+:DateUnix: 1579752459.0
+:DateShort: 2020-Jan-23
+:END:
+
+*** I will be messaging you in 7 days on [[http://www.wolframalpha.com/input/?i=2020-01-30%2004:07:39%20UTC%20To%20Local%20Time][*2020-01-30 04:07:39 UTC*]] to remind you of [[https://np.reddit.com/r/HPfanfiction/comments/eskm9f/so_how_did_you_complete_all_the_arithmancy/ffb5o4v/?context=3][*this link*]]
+
+[[https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2FHPfanfiction%2Fcomments%2Feskm9f%2Fso_how_did_you_complete_all_the_arithmancy%2Fffb5o4v%2F%5D%0A%0ARemindMe%21%202020-01-30%2004%3A07%3A39%20UTC][*CLICK THIS LINK*]] to send a PM to also be reminded and to reduce spam.
+
+^{Parent commenter can} [[https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20eskm9f][^{delete this message to hide from others.}]]
+
+--------------
+
+[[https://np.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/][^{Info}]]
+
+[[https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here][^{Custom}]]
+[[https://np.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21][^{Your Reminders}]]
+[[https://np.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback][^{Feedback}]]
+:PROPERTIES:
+:Author: RemindMeBot
+:Score: 0
+:DateUnix: 1579752461.0
+:DateShort: 2020-Jan-23
+:END:

@@ -1,0 +1,1465 @@
+#+TITLE: 'Magical Cores' or the Limits of a wizard
+
+* 'Magical Cores' or the Limits of a wizard
+:PROPERTIES:
+:Author: kishorekumar_a
+:Score: 80
+:DateUnix: 1588230128.0
+:DateShort: 2020-Apr-30
+:FlairText: Discussion
+:END:
+So, yeah. We have all seen the way most fics that deal with magical cores portray it. Usually it involves making Harry OP and shows him to be like 2 times more powerful than Dumbledore or as powerful as Merlin Or some bullshit like that. While all this is very uninteresting (atleast they it is mostly written in fanfiction), there is one aspect of this idea that interests me. The idea that every witch or wizard has a limit.
+
+We all have our physical limitations. Even if I spend the rest of my life dedicated to practicing running, I will never be able to run as fast as Usain Bolt. What is to say that Wizards won't have some limitations when it comes to their ability to cast magic.
+
+Can any wizard cast any spell if he practices and improves his skill enough? Or does he have an innate limitation? Can he keep on casting forever or will become tired and stop? Similar to when I or Usain Bolt has to stop running as our bodies Get tired after running. Is there a magical strength and stamina, similar to our physical strength and stamina? Is this not logical that such limitations would exist?
+
+I have seen some people in the forums mention that they will drop a fic if it mentions magical cores. I can understand that as most fics mentioning Magical Cores might be guilty of bad writing. However, some even say that every wizard is capable of every spell, if only he studies it enough, understands it enough and practices it enough. But we have seen how unfair life is when it comes to someone's ability to perform a physical act. Why should thus be any different for a magical act.
+
+Please let me know your thoughts on this. How you view a wizard's abilities and limits when it comes to magic. What sorts of limitations seem reasonable to you. And if you know any mention of limitations of a wizard in the canon of Harry Potter books.
+
+
+** It is undeniable that in canon there is a huge difference in magical ability between wizards. A lot of people turn to stuff like magical cores to try to explain this. But I think there's more than enough in canon already to tell us what factors determine a wizard's ability.
+
+*Physical Performance*
+
+By “physical performance”, I mean those physical actions which a wizard must actively undertake at the time of performing magic. In the case of a spell cast with a wand, this will be the incantation and the wand movement.
+
+These are the most visible elements of casting magic, but it may well be that they are among the least important. When Harry first started learning magic in Philosopher's Stone, the following was noted:
+
+#+begin_quote
+  There was a lot more to magic, as Harry quickly found out, than waving your wand and saying a few funny words. (Philosopher's Stone, Chapter 8)
+#+end_quote
+
+Further, logically speaking, differences in incantation and wand movement would not be nearly sufficient to explain the huge range in magical ability that we see. It simply cannot be the case that the difference between Albus Dumbledore and Gregory Goyle is their ability to pronounce an incantation correctly. This is doubly true given that incantations can be made non-verbal, and wand movements often seem to be dispensed with once a wizard is familiar with a spell, with adult wizards performing complex tasks with simple flicks and waves of their wands rather than complex movements.
+
+Despite this, and however much skilled, well-practiced wizards may be able to dispense with these elements of spell casting, it is clear that the beginner student must be very careful in getting them right:
+
+#+begin_quote
+  “Swish and flick, remember, swish and flick. And saying the magic words properly is very important, too --- never forget Wizard Baruffio, who said ‘s' instead of ‘f' and found himself on the floor with a buffalo on his chest.” (Philosopher's Stone, Chapter 10)
+#+end_quote
+
+This quote touches upon a common debate: the extent to which a wizard's subjective intent matters in magic. Another relevant passage in that debate is in Half-Blood Prince, Chapter 24, when Harry is able to cast Snape's Cutting Curse (“Sectumsempra”) with the incantation, without knowing the effect of the spell. Contrary to how magic is often portrayed in the fandom, there is clearly an important objective nature to magic beyond one's subjective intent.
+
+*Mental performance*
+
+Mental performance is another “active” element of performing magic, along with the physical elements above. For example, the Summoning Charm requires you to concentrate on the object you wish to summon:
+
+#+begin_quote
+  “Just as long as it works tomorrow,” Harry said. “The Firebolt's going to be much farther away than the stuff in here, it's going to be in the castle, and I'm going to be out there on the grounds...”
+
+  “That doesn't matter,” said Hermione firmly. “Just as long as you're concentrating really, really hard on it, it'll come. Harry, we'd better get some sleep... you're going to need it.” (GoF Chapter 20)
+#+end_quote
+
+The Patronus Charm is another example, which requires you to concentrate on a happy memory or thought. Apparition requires one to either “know the terrain” of the location, or otherwise to visualise it.
+
+However, for the vast majority of spells we observe in canon, there does not appear to be any mental performance involved at the moment of their casting.
+
+And... that completes our tour of the active elements of casting a spell. You may be thinking that we're rather short on material which we can use to build a theory on why some wizards are so much better at magic than others. This is because we have yet to consider the passive factors which contribute to magical performance: those things which strongly influence the success and power of magic, despite not being actively “in play” at the time of casting. We will soon see that magic is like an iceberg, with the greatest determinants of magical ability hiding under the surface.
+:PROPERTIES:
+:Author: Taure
+:Score: 105
+:DateUnix: 1588231756.0
+:DateShort: 2020-Apr-30
+:END:
+
+*** *Knowledge*
+
+Throughout the books, we see that Hermione is able to both pick new spells up faster than her peers, and able to learn more advanced magic (such as the Protean Charm in OotP, the NEWT-level spell used to enchant the DA coins). We are led to believe that this is possible because Hermione studies how magic works, both in terms of conscientiously completing her school work and also in terms of performing additional reading. This is even explicitly described:
+
+#+begin_quote
+  Harry still hadn't mastered Summoning Charms, he seemed to have developed something of a block about them, and Hermione insisted that learning the theory would help. They consequently spent a lot of time poring over books during their lunchtimes. (GoF Chapter 19)
+#+end_quote
+
+This is a theme that we see throughout the HP series: being strong academically and being good at casting magic go hand in hand. For example, see how Dumbledore talks about Tom Riddle:
+
+#+begin_quote
+  Dumbledore took the diary from Harry and peered keenly down his long, crooked nose at its burnt and soggy pages.
+
+  “Brilliant,” he said softly. “Of course, he was probably the most brilliant student Hogwarts has ever seen.” (CoS Chapter 18)
+#+end_quote
+
+Another example is to be found in Dumbledore's obituary:
+
+#+begin_quote
+  In a matter of months, however, Albus's own fame had begun to eclipse that of his father. By the end of his first year he would never again be known as the son of a Muggle-hater, but as nothing more or less than the most brilliant student ever seen at the school.
+
+  [...]
+
+  He not only won every prize of note that the school offered, he was soon in regular correspondence with the most notable magical names of the day, including Nicolas Flamel, the celebrated alchemist; Bathilda Bagshot, the noted historian; and Adalbert Waffling, the magical theoretician. Several of his papers found their way into learned publications such as Transfiguration Today, Challenges in Charming, and The Practical Potioneer. (DH Chapter 2)
+#+end_quote
+
+And also see how Madam Marchbanks talks about Dumbledore:
+
+#+begin_quote
+  “But I daresay the Ministry of Magic will track him down soon enough.”
+
+  “I doubt it,” shouted tiny Professor Marchbanks, “not if Dumbledore doesn't want to be found! I should know... examined him personally in Transfiguration and Charms when he did NEWTs... did things with a wand I'd never seen before. (OotP Chapter 31)
+#+end_quote
+
+And in turn what Rita Skeeter has to say about Grindelwald:
+
+#+begin_quote
+  Educated at Durmstrang, a school famous even then for its unfortunate tolerance of the Dark Arts, Grindelwald showed himself quite as precociously brilliant as Dumbledore. Rather than channel his abilities into the attainment of awards and prizes, however, Gellert Grindelwald devoted himself to other pursuits. At sixteen years old, even Durmstrang felt it could no longer turn a blind eye to the twisted experiments of Gellert Grindelwald, and he was expelled. (DH Chapter 18)
+#+end_quote
+
+And what Aberforth has to say about both of them:
+
+#+begin_quote
+  “Grindelwald. And at last, my brother had an equal to talk to, someone just as bright and talented as he was...” (DH Chapter 28)
+#+end_quote
+
+Taking a step or two down the scale of magical talent, we also see that Sirius and James, noted for their magical abilities, are excellent students of magic (notwithstanding that they don't apply themselves to study):
+
+#+begin_quote
+  “Well, I thought that paper was a piece of cake,” he heard Sirius say. “I'll be surprised if I don't get ‘Outstanding' on it at least.”
+
+  “Me too,” said James. He put his hand in his pocket and took out a struggling Golden Snitch.
+
+  [...]
+
+  “I'm bored,” said Sirius. “Wish it was full moon.”
+
+  “You might,” said Lupin darkly from behind his book. “We've still got Transfiguration, if you're bored you could test me. Here...” and he held out his book.
+
+  But Sirius snorted. “I don't need to look at that rubbish, *I know it all*.” (OotP Chapter 28)
+#+end_quote
+
+All this points towards a simple conclusion: knowing how magic works is a key component in casting magic well. While you can get away with putting minimal effort into study and still be able to cast some spells, if you want to cast advanced magic, or to properly master spells, you need to learn the theory. It backs up your ability to learn new spells, and is a significant part of what determines how powerfully you can cast them.
+
+It is remarkable that this conclusion is not more widely acknowledged, given how prominent it is in the books: the whole premise of the series is that Harry goes to a school of magic. If the knowledge of how magic works were not necessary for its practical use, then Hogwarts would have no reason to exist. Magical theory would be something for the rare interested scholar, not an essential component of every wizard's training.
+
+Once you go looking for the clues, they are everywhere: the fact that students write essays about magic; the fact that whole books can be written about single spells (in GoF, Harry had to read three books about summoning charms as part of his Charms homework); and the existence of such a huge library in the first place. Hermione, as noted above, is a repeated example, but Harry himself is a good example too: Defence Against the Dark Arts is by far his best subject, and it is not coincidence that it is also the subject he reads most enthusiastically in:
+
+#+begin_quote
+  Sirius and Lupin had given Harry a set of excellent books entitled Practical Defensive Magic and its Use Against the Dark Arts, which had superb, moving color illustrations of all the counter-jinxes and hexes it described. Harry flicked through the first volume eagerly; he could see it was going to be highly useful in his plans for the D.A. (OotP Chapter 23)
+#+end_quote
+
+We can observe the results of Harry's dedication to studying Defence Against the Dark Arts. At the end of fourth year, Harry's shield charm can barely hold back a jinx:
+
+#+begin_quote
+  He was still having trouble with the Shield Charm, though. This was supposed to cast a temporary, invisible wall around himself that deflected minor curses; Hermione managed to shatter it with a well-placed Jelly-Legs Jinx, and Harry wobbled around the room for ten minutes afterward before she had looked up the counter-jinx. (GoF Chapter 31)
+#+end_quote
+
+In contrast, by the end of fifth year, Harry's Shield Charm is strong enough to hold out against powerful spells cast by adult Death Eaters in the fight in the Department of Mysteries. This set of books was likely not insignificant in expanding Harry's knowledge of the Dark Arts (and their defence), and not coincidentally his practical ability in casting defensive magic increased dramatically within the same timeframe.
+:PROPERTIES:
+:Author: Taure
+:Score: 81
+:DateUnix: 1588231869.0
+:DateShort: 2020-Apr-30
+:END:
+
+**** *Practice*
+
+This factor is not a complex one. The simple fact is that practising a spell makes you better at it. This is best seen in GoF, when Harry is practising the Summoning Charm:
+
+#+begin_quote
+  And so they practiced. They didn't have lunch, but headed for a free classroom, where Harry tried with all his might to make various objects fly across the room toward him. He was still having problems. The books and quills kept losing heart halfway across the room and dropping hike stones to the floor
+
+  [...]
+
+  He forced down some dinner after Divination, then returned to the empty classroom with Hermione, using the Invisibility Cloak to avoid the teachers. They kept practicing until past midnight. They would have stayed longer, but Peeves turned up and, pretending to think that Harry wanted things thrown at him, started chucking chairs across the room. Harry and Hermione left in a hurry before the noise attracted Filch, and went back to the Gryffindor common room, which was now mercifully empty.
+
+  At two o'clock in the morning, Harry stood near the fireplace, surrounded by heaps of objects: books, quills, several upturned chairs, an old set of Gobstones, and Neville's toad, Trevor. Only in the last hour had Harry really got the hang of the Summoning Charm. (GoF Chapter 20)
+#+end_quote
+
+You might suppose that the virtue of practice is that it improves the active elements of casting a spell (incantation, wand movement, and in this example the skill of concentrating on the object). However, it can also be argued that familiarity itself is a factor.
+
+A good example of this is the Patronus Charm. Harry had the incantation down in the first class, and there doesn't appear to be any wand movement involved, and yet over the course of his classes he makes steady progress in his ability to cast the spell. While he doesn't make the leap to successfully casting a corporeal Patronus until he comes across more powerful happy memories, nonetheless he was making progress when the only thing that was changing was his familiarity with the spell:
+
+#+begin_quote
+  To make matters even worse, Harry's anti-Dementor lessons were not going nearly as well as he had hoped. Several sessions on, he was able to produce an indistinct, silvery shadow every time the Boggart-Dementor approached him, but his Patronus was too feeble to drive the Dementor away. All it did was hover, like a semitransparent cloud, draining Harry of energy as he fought to keep it there. Harry felt angry with himself, guilty about his secret desire to hear his parents' voices again.
+
+  “You're expecting too much of yourself,” said Professor Lupin, sternly in their fourth week of practice. “For a thirteen-year-old wizard, even an indistinct Patronus is a huge achievement. You aren't passing out anymore, are you?”
+
+  “I thought a Patronus would --- charge the Dementors down or something,” said Harry dispiritedly. “Make them disappear ---”
+
+  “The true Patronus does do that,” said Lupin. “But you've achieved a great deal in a very short space of time. If the Dementors put in an appearance at your next Quidditch match, you will be able to keep them at bay long enough to get back to the ground.” (PoA Chapter 12)
+#+end_quote
+
+*Intuition*
+
+This factor is less commonly seen directly but is very important. From the discussion above about knowledge and practice, you might come to the conclusion that magical ability is all acquired. But when it comes to the “nature vs nurture” debate, like most abilities, the answer with magic is “both”.
+
+Take Tom Riddle:
+
+#+begin_quote
+  “His powers, as you heard, were surprisingly well-developed for such a young wizard and --- most interestingly and ominously of all --- he had already discovered that he had some measure of control over them, and begun to use them consciously. And as you saw, they were not the random experiments typical of young wizards: He was already using magic against other people, to frighten, to punish, to control...” (HBP Chapter 13)
+#+end_quote
+
+Another example is Lily Potter (then Evans):
+
+#+begin_quote
+  ... the girl had let go of the swing at the very height of its arc and flown into the air, quite literally flown, launched herself skyward with a great shout of laughter, and instead of crumpling on the playground asphalt, she soared like a trapeze artist through the air, staying up far too long, landing far too lightly.
+
+  [...]
+
+  “But I'm fine,” said Lily, still giggling. “Tuney, look at this. Watch what I can do.”
+
+  Petunia glanced around. The playground was deserted apart from themselves and, though the girls did not know it, Snape. Lily had picked up a fallen flower from the bush behind which Snape lurked. Petunia advanced, evidently torn between curiosity and disapproval. Lily waited until Petunia was near enough to have a clear view, then held out her palm. The flower sat there, opening and closing its petals, like some bizarre, many-lipped oyster. (DH Chapter 23)
+#+end_quote
+
+It is clear from these passages, which depict magical children developing powers without study or education, that there is an aspect to magical ability which is not learnt. Certain people are simply more in touch with magic than others, such that they become aware of it and gain greater control of it at a younger age, without needing training. This can only be described as magical instinct or intuition.
+
+We do not need to commit to whether you are born with it or if it rather develops at a very young age. Most likely, as with other characteristics like intelligence, or musical ability, it is a mixture of the two.
+
+Nor do we need to commit to the idea that magical instinct is a single property. More likely, it is the result of many different characteristics coming together.
+
+*Natural predispositions*
+
+Related to the idea of instinct is a natural predisposition. Just as certain people take to mathematics over art, or languages over sciences, magical people seem to develop affinities for certain areas of magic or even particular spells.
+
+We know from Ollivander that these predispositions exist from even before you start learning magic:
+
+#+begin_quote
+  “You have your mother's eyes. It seems only yesterday she was in here herself, buying her first wand. Ten and a quarter inches long, swishy, made of willow. Nice wand for charm work.”
+
+  “Your father, on the other hand, favored a mahogany wand. Eleven inches. Pliable. A little more power and excellent for transfiguration. Well, I say your father favored it --- it's really the wand that chooses the wizard, of course.” (PS Chapter 5)
+#+end_quote
+
+This tells us that wands are predisposed towards certain areas of magic. But it also tells us that wands match the person they choose. It logically follows that the person whom the wand matches must have the same predispositions.
+
+Examples of such predispositions are Lockhart's specialisation in the Obliviation Charm, Harry's strength in Defence, and Augusta Longbottom's skill in Transfiguration while being bad at Charms. Of course, like predispositions in real life, you still have to work at them, and they can change based on experience (see Neville, for example).
+
+It may be these predispositions which result in wizards often talking about having “powers” rather than “power”. If your talent in different areas of magic differs significantly, then it may well seem to you like each branch of magic is its own separate, isolated power. However, we also know that there are many wizards who have strong ability in all areas of magic, and indeed the very strongest wizards - those whose knowledge of magic runs deepest - seem to be of this type.
+:PROPERTIES:
+:Author: Taure
+:Score: 73
+:DateUnix: 1588232046.0
+:DateShort: 2020-Apr-30
+:END:
+
+***** *Emotional state*
+
+A person's emotional state may play an active role in spell casting as a mental performance. An example of this is the Cruciatus Curse, where we know the caster needs to be enjoying their victim's pain for the curse to remain in place.
+
+However, emotional state also plays a role in spellcasting in a broader sense. For example, spells cast in anger appear to take on additional force. A good example of this is the Disarming Charm. Here is what it does normally:
+
+#+begin_quote
+  “Expelliarmus!” Lupin shouted.
+
+  Harry's wand flew once more out of his hand; so did the two Hermione was holding. Lupin caught them all deftly, then moved into the room, staring at Black, who still had Crookshanks lying protectively across his chest. (PoA Chapter 17)
+#+end_quote
+
+Functioning normally, the Disarming Charm only disarms. But look what happens when you cast it in anger:
+
+#+begin_quote
+  Snape's upper lip was curling. Harry wondered why Lockhart was still smiling; if Snape had been looking at him like that he'd have been running as fast as he could in the opposite direction.
+
+  Lockhart and Snape turned to face each other and bowed; at least, Lockhart did, with much twirling of his hands, whereas Snape jerked his head irritably. Then they raised their wands like swords in front of them.
+
+  “As you see, we are holding our wands in the accepted combative position,” Lockhart told the silent crowd. “On the count of three, we will cast our first spells. Neither of us will be aiming to kill, of course.”
+
+  “I wouldn't bet on that,” Harry murmured, watching Snape baring his teeth.
+
+  “One --- two --- three ---”
+
+  Both of them swung their wands above their heads and pointed them at their opponent; Snape cried: “Expelliarmus!” There was a dazzling flash of scarlet light and Lockhart was blasted off his feet: He flew backward off the stage, smashed into the wall, and slid down it to sprawl on the floor. (CoS Chapter 11)
+#+end_quote
+
+There are numerous other examples in the books of the Disarming Charm also throwing a person backwards when it has been cast aggressively.
+
+Another example of an emotion altering a spell's behaviour is Harry's final Patronus in PoA. This Patronus is noted as being particularly powerful, and yet Harry provided it not with a traditional happy memory, but with pure certainty:
+
+#+begin_quote
+  “Harry, I can't believe it... You conjured up a Patronus that drove away all those Dementors! That's very, very advanced magic.”
+
+  “I knew I could do it this time,” said Harry, “because I'd already done it... Does that make sense?” (PoA Chapter 21)
+#+end_quote
+
+Confidence, it seems, goes a long way in casting magic. It's not just the Patronus Charm either, because over the course of OotP, HBP and DH we see Neville's magical abilities increase significantly along with his confidence. Of course it's not all confidence---he is studying Defence a lot more than before, with greater enthusiasm---but it's certainly a factor, especially in spells which require mental performance.
+
+That brings us onto a related issue, which is a person's long term emotional state. This can have profound effects upon a wizard or witch. For example, in HBP, Tonks loses her metamorphmagus powers when she is depressed:
+
+#+begin_quote
+  “It's survivor's guilt,” said Hermione. “I know Lupin's tried to talk her round, but she's still really down. She's actually having trouble with her Metamorphosing!”
+
+  “With her...?”
+
+  “She can't change her appearance like she used to,” explained Hermione. “I think her powers must have been affected by shock, or something.”
+
+  “I didn't know that could happen,” said Harry.
+
+  “Nor did I,” said Hermione, “but I suppose if you're really depressed...” (HBP Chapter 5)
+#+end_quote
+
+Hermione misdiagnoses the cause of Tonks' emotional state (it's actually her romantic issues with Remus Lupin), but the fact of her loss of ability remains. We also see something similar with Merope Gaunt, who is almost a squib while under the thumb of her father and brother, but once free from them manages to recover her powers:
+
+#+begin_quote
+  “I think you are forgetting,” said Dumbledore, “that Merope was a witch. I do not believe that her magical powers appeared to their best advantage when she was being terrorized by her father. Once Marvolo and Morfin were safely in Azkaban, once she was alone and free for the first time in her life, then, I am sure, she was able to give full rein to her abilities and to plot her escape from the desperate life she had led for eighteen years.” (HBP Chapter 10)
+#+end_quote
+
+*Willpower*
+
+Willpower is the primary characteristic involved in some powerful but quite specific magical skills.
+
+We can divide willpower up into three types of mental state, but they all share a characteristic in common which separates them out from other emotional states: they all relate to overcoming.
+
+The first type of willpower can be described as determination (or less charitably, stubbornness) and is the type of willpower involving wanting (or refusing) something. It is the type of willpower relevant to overcoming other people. We see it in Harry's refusal to bow to the Imperius Curse, as well his determination to overcome Voldemort in the Priori Incantatem in GoF:
+
+#+begin_quote
+  He concentrated every last particle of his mind upon forcing the bead back toward Voldemort, his ears full of phoenix song, his eyes furious, fixed... and slowly, very slowly, the beads quivered to a halt, and then, just as slowly, they began to move the other way... and it was Voldemort's wand that was vibrating extra-hard now... Voldemort who looked astonished, and almost fearful... (GoF Chapter 24)
+#+end_quote
+
+It is also a crucial part of Apparition:
+
+#+begin_quote
+  “Step two,” said Twycross, “focus your determination to occupy the visualised space! Let your yearning to enter it flood from your mind to every particle of your body! (HBP Chapter 18)
+#+end_quote
+
+The second type of willpower is focus, or the ability to concentrate hard on a specific thing. This is the skill underlying spells with specific mental performance like the Summoning Charm. It is also the skill behind non-verbal casting:
+
+#+begin_quote
+  “An answer copied almost word for word from The Standard Book of Spells, Grade Six,” said Snape dismissively (over in the corner, Malfoy sniggered), “but correct in essentials. Yes, those who progress in using magic without shouting incantations gain an element of surprise in their spell-casting. Not all wizards can do this, of course; it is a question of concentration and mind power which some” - his gaze lingered maliciously upon Harry once more - “lack.” (HBP Chapter 9)
+#+end_quote
+
+Focus is also a part of Apparition:
+
+#+begin_quote
+  “Step one: fix your mind firmly upon the desired destination,” said Twycross. “In this case, the interior of your hoop. Kindly concentrate upon that destination now.” (HBP Chapter 18)
+#+end_quote
+
+The third type of willpower is discipline, or self-control. This is the type of willpower at play in Occlumency, which is all about mastery of your own mind:
+
+#+begin_quote
+  “The Dark Lord, for instance, almost always knows when somebody is lying to him. Only those skilled at Occlumency are able to shut down those feelings and memories that contradict the lie, and so can utter falsehoods in his presence without detection.”
+
+  [...]
+
+  “Manners, Potter,” said Snape dangerously. “Now, I want you to close your eyes.”
+
+  Harry threw him a filthy look before doing as he was told. He did not like the idea of standing there with his eyes shut while Snape faced him, carrying a wand.
+
+  “Clear your mind, Potter,” said Snape's cold voice. “Let go of all emotion...”
+
+  But Harry's anger at Snape continued to pound through his veins like venom. Let go of his anger? He could as easily detach his legs...
+
+  “You're not doing it, Potter... you will need more discipline than this... focus, now...”
+
+  [...]
+
+  “...Master yourself!” spat Snape. “Control your anger, discipline your mind! We shall try again! Get ready, now! Legilimens!” (OotP Chapter 24)
+#+end_quote
+
+Discipline may also be considered involved in the third element of Apparition, as “deliberation” has similarities with discipline:
+
+#+begin_quote
+  “Step three,” called Twycross, “only when I give the command... turn on the spot, feeling your way into nothingness, moving with deliberation. On my command, now... one ---” (HBP Chapter 18)
+#+end_quote
+
+The three Ds of Apparition therefore correspond nicely to these three types of willpower, making it the only item of magic we know of which involves all three. Of course, these three mental attributes are not unrelated, as Snape himself notes:
+
+#+begin_quote
+  “I have been told that you have already shown aptitude at resisting the Imperius Curse. You will find that similar powers are needed for this... brace yourself, now. Legilimens!” (OotP Chapter 24)
+#+end_quote
+:PROPERTIES:
+:Author: Taure
+:Score: 70
+:DateUnix: 1588232225.0
+:DateShort: 2020-Apr-30
+:END:
+
+****** *Adulthood*
+
+Wizards become an adult at age 17, and when they do there appears to be a subtle change in their magic. We know, for example, that The Trace is unable to track you after you turn 17, automatically breaking:
+
+#+begin_quote
+  “You -- you don't think you've still got your Trace on you, do you, Harry?”
+
+  “He can't have,” said Ron. “The Trace breaks at seventeen, that's Wizarding law, you can't put it on an adult.”
+
+  “As far as you know,” said Hermione. “What if the Death Eaters have found a way to put it on a seventeen-year-old?” (DH Chapter 9)
+#+end_quote
+
+And later, in DH Chapter 11:
+
+#+begin_quote
+  “We wondered,” said Hermione tentatively, “whether Harry could still have the Trace on him?”
+
+  “Impossible,” said Lupin. Ron looked smug, and Harry felt hugely relieved.
+#+end_quote
+
+In addition to becoming immune to the Trace, there is the suggestion that becoming an adult makes your magic more powerful. This is implied by the fake Mad-Eye Moody's class in GoF:
+
+#+begin_quote
+  “Avada Kedavra's a curse that needs a powerful bit of magic behind it - you could all get your wands out now and point them at me and say the words, and I doubt I'd get so much as a nosebleed. But that doesn't matter. I'm not here to teach you how to do it.“ (GoF Chapter 14)
+#+end_quote
+
+Now, on the face of it there's two explanations for this. The first is that Crouch Jr. is referring to the normal variation in power between individuals based on the factors we have been discussing. The second is that there is something else at play, some factor which is common to the entire class which makes Crouch Jr. confident that none of them has the power to cast the Killing Curse.
+
+The first explanation doesn't really work, however. Not only does that class contain some wizards who are unusually powerful relative to their peers (not least Harry), but we also see in DH that the spectacularly useless wizard Vincent Crabbe is able to cast the Killing Curse:
+
+#+begin_quote
+  “It's that Mudblood! Avada Kedavra!”
+
+  Harry saw Hermione dive aside, and his fury that Crabbe had aimed to kill wiped all else from his mind. (DH Chapter 31)
+#+end_quote
+
+So Moody really cannot be referring to the normal reasons for differences in power between individuals. If he were, then certain individuals in that class would definitely qualify as sufficiently powerful. That means Moody must be referring to some common factor which the students share, which is divorced from the normal contributing factors to magical power. Age stands out as the only contender. The principal difference between the students in the Fourth Year Defence class and Crabbe at age 17 is adulthood.
+
+This isn't conclusive, of course. It could be argued that education rather than age per se is the difference. But I'm not sure that a 18-year-old Crabbe has a superior knowledge of magic to a 15-year-old Hermione Granger, so the counter-argument seems weak.
+
+There is one final clue on the matter. In HBP, when Dumbledore and Harry are to cross the water within the Cave, Voldemort's boat is enchanted to only let one wizard across---to which Dumbledore says this:
+
+#+begin_quote
+  “I do not think you will count, Harry: You are underage and unqualified. Voldemort would never have expected a sixteen-year-old to reach this place: I think it unlikely that your powers will register compared to mine.” (HBP Chapter 26)
+#+end_quote
+
+Absent further evidence from Pottermore, I shall assume that a wizard's magic as an adult is stronger, or in some sense more mature, than their magic as a child. However, from the fact that we don't see any significant jump in Harry's magical abilities when he turns 17, I think we also must assume that this is a gradual process as a child grows into an adult, rather than a sudden change on their seventeenth birthday.
+:PROPERTIES:
+:Author: Taure
+:Score: 69
+:DateUnix: 1588232328.0
+:DateShort: 2020-Apr-30
+:END:
+
+******* *Wand*
+
+It is a fact of the HP world that some wands are more powerful than others, in addition to being suited to some tasks more than others as described above. The Elder wand is the prime example, but variations in power are not unique to that legendary wand:
+
+#+begin_quote
+  When well-matched, an acacia wand matches any for power, though it is often underrated due to the peculiarity of its temperament.
+
+  [...]
+
+  Applewood wands are not made in great numbers. They are powerful and best suited to an owner of high aims and ideals, as this wood mixes poorly with Dark magic
+
+  [...]
+
+  Blackthorn ... does not necessarily mean that its owner practises the Dark Arts (although it is undeniable that those who do so will enjoy the blackthorn wand's prodigious power)
+
+  [...]
+
+  ... cherry wood often makes a wand that possesses truly lethal power, whatever the core
+
+  [...]
+
+  Strong, durable and warm in colour, larch has long been valued as an attractive and powerful wand wood.
+
+  [...]
+
+  ... I have known laurel wands perform powerful and sometimes lethal magic. (Pottermore: Wand Woods)
+#+end_quote
+
+However, under normal conditions, a wand will be matched to its owner such that their characteristics suit each other. As the wand reflects the traits of the caster, it will be “power neutral”, neither adding to nor detracting from the power of the spells cast.
+
+But we know that there is a way to use other people's wands effectively, despite a lack of a personal match. This is by winning the wand's loyalty:
+
+#+begin_quote
+  “Hawthorn and unicorn hair. Ten inches precisely. Reasonably springy. This was the wand of Draco Malfoy.”
+
+  “Was?” repeated Harry. “Isn't it still his?”
+
+  “Perhaps not. If you took it --”
+
+  “---I did -- ”
+
+  “---then it may be yours. Of course, the manner of taking matters. Much also depends upon the wand itself. In general, however, where a wand has been won, its allegiance will change.”
+
+  [...]
+
+  “I took this wand from Draco Malfoy by force,” said Harry. “Can I use it safely?”
+
+  “I think so. Subtle laws govern wand ownership, but the conquered wand will usually bend its will to its new master.” (DH Chapter 24)
+#+end_quote
+
+By this method, you can use different wands to your personal match, which will alter spell behaviour. If you were to win the loyalty of a wand more powerful than your normal wand, you would be able to cast more powerful spells than usual. This is the mechanism behind the Elder Wand.
+
+It is a common misconception that the loyalty of all wands can be won simply by disarming someone. This is true only of the Elder Wand, which is the ultimately disloyal wand:
+
+#+begin_quote
+  Now, the reactions will vary from wand to wand. The Elder Wand is simply the most dispassionate and ruthless of wands in that it will only take into consideration strength. So one would expect a certain amount of loyalty from one's wand. So even if you were disarmed while carrying it, even if you lost a fight while carrying it, it has developed an affinity with you that it will not give up easily. If, however, a wand is won, properly won in an adult duel, then a wand may switch allegiance, and it will certainly work better even if it hasn't fully switched allegiance for the person who won it. ("PotterCast Interviews J.K. Rowling, part two" PotterCast #131, 24 December 2007)
+#+end_quote
+
+This point is further confirmed on Pottermore's Wand Woods article, where wands of Alder, Blackthorn, Black Walnut, Cedar, Oak, and Spruce are all noted for being particularly loyal.
+
+Of course, a wizard does not have to use a wand:
+
+#+begin_quote
+  “Oh yes, if you are any wizard at all you will be able to channel your magic through almost any instrument. The best results, however, must always come where there is the strongest affinity between wizard and wand. These connections are complex. An initial attraction, and then a mutual quest for experience, the wand learning from the wizard, the wizard from the wand.” (DH Chapter 24)
+#+end_quote
+
+Despite the fact that most magic we see is performed with a wand, we should never make the mistake of thinking that the magic comes from the wand, not the wizard. If that were so, Muggles could use wands to perform magic.
+
+JK Rowling confirmed the role of wands very early on:
+
+#+begin_quote
+  You can do unfocused and uncontrolled magic without a wand (for instance when Harry blows up Aunt Marge), but to do really good spells, yes, you need a wand. (Red Nose Day Chat, BBC Online, March 12, 2001)
+#+end_quote
+
+When it comes to wandless magic, we can divide it into two categories. The first is magic performed with instruments other than wands, as Ollivander refers to in the quote above. Potions can be considered such a form of wandless magic. The second category is magic cast without any instrument at all.
+
+Within this second category, we can make a further distinction between accidental magic and controlled magic. It is clear from the quote above that controlled magic without any instrument is “unfocused”, and not “really good spells”. So we should not expect wizards to be casting the Patronus Charm with their hands any time soon. This is because wands both focus magic and increase its power:
+
+#+begin_quote
+  The Native American wizarding community was particularly gifted in animal and plant magic, its potions in particular being of a sophistication beyond much that was known in Europe. The most glaring difference between magic practised by Native Americans and the wizards of Europe was the absence of a wand.
+
+  The magic wand originated in Europe. Wands channel magic so as to make its effects both more precise and more powerful, although it is generally held to be a mark of the very greatest witches and wizards that they have also been able to produce wandless magic of a very high quality. As the Native American Animagi and potion-makers demonstrated, wandless magic can attain great complexity, but Charms and Transfiguration are very difficult without one. (Pottermore: History of Magic in North America: Fourteenth Century -- Seventeenth Century)
+#+end_quote
+
+(This quote also evidences that JK Rowling considers Potions a form of wandless magic, and therefore not something which Muggles or Squibs would be able to replicate. In that respect it is no different to casting a spell, which Muggles cannot do even though they could say the correct words and make the correct wand movements.)
+
+However, as noted in this quote, particularly powerful or skilled wizards do appear to be able to perform useful magic within this area. We saw above the examples of Lily Potter and Tom Riddle. Other examples include Quirrell conjuring ropes to bind Harry in PS Chapter 17, Remus Lupin conjuring flames with his hand in PoA Chapter 5, and Severus Snape's counter-curse on Harry's broom in PS Chapter 11.
+
+Note that Grindelwald's wandless magic in Fantastic Beasts 1, in the ICW scene, is not in the script. Regardless, it is clear that more talented wizards can indeed perform some moderately complex magic with their bare hands.
+:PROPERTIES:
+:Author: Taure
+:Score: 63
+:DateUnix: 1588232420.0
+:DateShort: 2020-Apr-30
+:END:
+
+******** *Authority*
+
+This is a factor which is only hinted at, but there are some clues to suggest that it can play a role.
+
+In Prisoner of Azkaban, Snape attempts the following:
+
+#+begin_quote
+  “Let me see, let me see...” he muttered, taking out his wand and smoothing the map out on his desk. “Reveal your secret!” he said, touching the wand to the parchment.
+
+  Nothing happened. Harry clenched his hands to stop them from shaking.
+
+  “Show yourself!” Snape said, tapping the map sharply.
+
+  It stayed blank. Harry was taking deep, calming breaths.
+
+  “Professor Severus Snape, master of this school, commands you to yield the information you conceal!” Snape said, hitting the map with his wand. (PoA Chapter 14)
+#+end_quote
+
+So Snape makes several attempts to uncover the secrets of the Marauder's Map, his final attempt invoking his position within the school. It appears that Snape believes that his authority as teacher will grant his spell a greater chance of success (at least while he is within Hogwarts).
+
+We see another hint in HBP:
+
+#+begin_quote
+  As they flew over the dark, twisting lane down which they had walked earlier, Harry heard, over the whistling of the night air in his ears, Dumbledore muttering in some strange language again. He thought he understood why as he felt his broom shudder for a moment when they flew over the boundary wall into the grounds: Dumbledore was undoing the enchantments he himself had set around the castle, so that they could enter at speed. (HBP Chapter 27)
+#+end_quote
+
+Of course, Dumbledore's ability to undo the anti-flying enchantments around Hogwarts may explained by the possibility that he cast them in the first place. However, the fact that he has authority as Headmaster seems to also play a significant role in his ability to cast magic over Hogwarts:
+
+#+begin_quote
+  “As you may know, it is usually impossible to Apparate or Disapparate within Hogwarts. The Headmaster has lifted this enchantment, purely within the Great Hall, for one hour, so as to enable you to practice. May I emphasise that you will not be able to Apparate outside the walls of this Hall, and that you would be unwise to try.“ (HBP Chapter 18)
+#+end_quote
+
+The Anti-Apparition enchantment, of course, far predates Dumbledore's term as Headmaster, so he did not place it over the school. Therefore it seems that it is his role as Headmaster, rather than his status as the caster of the spell, which gives him the ability to alter the enchantments.
+
+Once we recognise that social authority can result in magical effects, we can see that it may be playing a role in other events. Another type of authority is governmental authority, and the Ministry of Magic certainly seems to possess powers that individual wizards, or even groups of wizards, do not. The Trace is one such ability, and another appears to be the Taboo. While many people consider this to be a spell cast by Voldemort, it in fact appears to be something which the Ministry does.
+
+There are a few reasons to think this. The first is that Ron speaks about the Taboo like it's a piece of general wizarding knowledge, not something new:
+
+#+begin_quote
+  "... and how did you find out about the Taboo?" he asked Harry after explaining the many desperate attempts of Muggle-borns to evade the Ministry."
+
+  [...]
+
+  “...the name's been jinxed, Harry, that's how they track people! Using his name breaks protective enchantments, it causes some kind of magical disturbance --- it's how they found us in Tottenham Court Road!"
+
+  "Because we used his name?"
+
+  "Exactly! You've got to give them credit, it makes sense. It was only people who were serious about standing up to him, like Dumbledore, who even dared use it. Now they've put a Taboo on it, anyone who says it is trackable --- quick-and-easy way to find Order members! They nearly got Kingsley ---" (DH Chapter 20)
+#+end_quote
+
+Notice that Ron says “a Taboo” not “the Taboo”. It seems like Taboos are things that are generally known about, and the only new thing is that Voldemort's name has been added to the list of Taboo words.
+
+It is also notable that Voldemort did not Taboo his name until he took over the Ministry. You'd think if he had been able to Taboo it earlier, he would have, for the same reason of tracking down his enemies.
+
+One further reason to think that the Taboo is a Ministry power is that standard practice is for the Snatchers to take those who breach the Taboo to the Ministry:
+
+#+begin_quote
+  Harry's heart was pounding against the ropes around his ribs; he would not have been surprised to know that Greyback could see it. "If you're telling the truth, ugly, you've got nothing to fear from a trip to the Ministry. I expect your father'll reward us just for picking you up."
+
+  [...]
+
+  "To hell with the Ministry." growled Greyback. "They'll take the credit, and we won't get a look in. I say we take him straight to You-Know-Who."
+
+  "Will you summon 'im? 'ere?" said Scabior, sounding awed, terrified.
+
+  "No," snarled Greyback, "I haven't got -- they say he's using the Malfoy's place as a base. We'll take the boy there.” (DH Chapter 23)
+#+end_quote
+
+From this quote it is clear that going to Malfoy Manor is not normal for people caught breaking the Taboo. Rather, Taboo operations are normally run out of the Ministry.
+
+If, as seems likely, the Taboo is indeed a Ministry power, then one good explanation for why this power is exclusive to the Ministry is that the Ministry holds a position of authority within magical Britain. This raises interesting questions about what constitutes authority, questions which one imagines magical theory considers, but they go beyond the scope of this post.
+
+That completes our list of contributing factors to magical ability. We now face the challenge of putting them together into some kind of system.
+:PROPERTIES:
+:Author: Taure
+:Score: 62
+:DateUnix: 1588232556.0
+:DateShort: 2020-Apr-30
+:END:
+
+********* *Forming a system*
+
+Before considering the nature of magical power itself, we will briefly discuss the relationships between some of the contributing factors towards magical ability.
+
+I have already grouped together the active factors, which are those actions (physical or mental) which a wizard must perform at the time of casting magic.
+
+However, the passive factors can also be subdivided further.
+
+One obvious grouping is that of “contextual factors”. These are: wand, adulthood, events, and authority. These are not properties of the wizard themselves, but rather facts of the situation a wizard finds themselves in.
+
+Another grouping, and one which is more fundamental, is that of knowledge, practice, and intuition. In a way, these three factors are all aspects of a more basic characteristic, which we might call understanding of and connection to magic. Knowledge of magic from study, familiarity with magic from experience, and intuition about the nature of magic all relate to how much a person understands magic, and how immersed their life is in magic. We may also fold natural predispositions into this category.
+
+A further step may be taken, though it is a more speculative one. In reality, knowledge and instinct/intuition will in fact be determined by a multitude of other, more basic factors. Knowledge, for example, will be determined not just by having read something, but also by having the intelligence to understand it. On top of that, different people understand things differently, depending on their world view, the other knowledge they possess to provide context, and their values. All those things will contribute to knowledge. Similarly, a person's intuitions are not a brute fact, but are often derived from their experiences as well as the vital ingredient of how their mind works (i.e. their brain chemistry and biology). Again, these factors will contribute to a person's understanding of magic.
+
+What I am getting towards here is the idea that the key factor in magical power is a person's connection to magic -- that is, how they view and understand magic -- which is in turn an expression of so many disparate characteristics, both mental and biological, that the nature of a person's magic is in truth an expression of that person's entire character and experiences.
+
+From the evidence presented in section on knowledge, I believe it is these “understanding characteristics” which separate out the great wizards from the merely good. Because deep understanding of magic is what marks out the Voldemorts and Dumbledores of the world, I would give the “understanding factors” by far the greatest weighing in the calculation of magical power. While true understanding of magic is not necessary to use magic, it is necessary to reach the heights of magical power, as well as to cast advanced spells.
+
+Further, from the fact that the true prodigies like Dumbledore, Voldemort and Grindelwald all were achieving significant magical insight from a young age, it seems likely that intuition is the most important of the understanding factors. While intuition will not result in much without further work and study to acquire knowledge, it is impossible to be a Dumbledore-level wizard without it. Someone like Hermione, who is intelligent and hardworking, will never achieve “Dumbledore status”, no matter how many years she works at it. Unfortunately for Hermione, she just lacks that special spark of genius and insight that separates out the magical heavyweights from the normal wizards. Wizards like Dumbledore are already pushing the limits of known magic in their youth. To that extent, we might say that wizards like Dumbledore are born, not made.
+
+We complete this section with a handy diagram to summarise the contributing factors to magical ability:
+
+[[https://i.imgur.com/K3RwuF4.png]]
+:PROPERTIES:
+:Author: Taure
+:Score: 55
+:DateUnix: 1588232705.0
+:DateShort: 2020-Apr-30
+:END:
+
+********** *The Nature of Power*
+
+The question arises: what is the nature of a wizard's power? We know from the above discussion which factors influence it, but what actually is it?
+
+Many people answer this question by proposing that power is a property wizards possess in addition to the factors I have discussed above. My fundamental thesis, however, is that this idea contradicts all of the textual evidence I have already presented. Wizards discuss power, and we see the effects of power, as being influenced by those factors. Power is therefore a property which emerges out of the contributing factors, not something separate to them.
+
+To be clear, I am not saying that magical power does not exist. The thesis is not (as some people argue) “there is no such thing as magical power, only magical skill”. Rather I am saying that a person's power is a complex, multi-polar property determined by a number of factors, rather than a simple point on a linear scale which is fixed at birth.
+
+Nonetheless, a person's magical power has a genuine effect in the world. We see the reality of magical power in numerous places:
+
+#+begin_quote
+  “Avada Kedavra's a curse that needs a powerful bit of magic behind it - you could all get your wands out now and point them at me and say the words, and I doubt I'd get so much as a nosebleed. But that doesn't matter. I'm not here to teach you how to do it (GoF Chapter 14)
+#+end_quote
+
+And:
+
+#+begin_quote
+  There was no benign smile upon Dumbledore's face, no twinkle in the eyes behind the spectacles. There was cold fury in every line of the ancient face; a sense of power radiated from Dumbledore as though he were giving off burning heat. (GoF Chapter 35)
+#+end_quote
+
+And:
+
+#+begin_quote
+  “Listen to me, Cornelius,” said Dumbledore, taking a step toward Fudge, and once again, he seemed to radiate that indefinable sense of power that Harry had felt after Dumbledore had Stunned young Crouch.
+
+  [...]
+
+  “You are blinded,” said Dumbledore, his voice rising now, the aura of power around him palpable, his eyes blazing once more, “by the love of the office you hold, Cornelius.” (GoF Chapter 36)
+#+end_quote
+
+And:
+
+#+begin_quote
+  Dumbledore flicked his own wand: the force of the spell that emanated from it was such that Harry, though shielded by his golden guard, felt his hair stand on end as it passed and this time Voldemort was forced to conjure a shining silver shield out of thin air to deflect it. (OotP Chapter 36)
+#+end_quote
+
+There can be no doubt, I think, that magical power is a real magical property which has its own presence. It is not just a shorthand way of referring to the complex mix of factors I described above. However, the fact that power is real does not imply anything about what determines that power. On that front, I hope I have demonstrated the many different factors which contribute to power in canon.
+
+It is important to note that a wizard's power is not quantifiable. Magic is not a fuel which wizards use up, but rather a property they possess. We know this from several sources.
+
+The first is from JK Rowling herself, in her discussion on Squibs and the entry requirements to Hogwarts:
+
+#+begin_quote
+  Everyone who shows magical ability before their eleventh birthday will automatically gain a place at Hogwarts; there is no question of not being ‘magical enough'; *you are either magical or you are not*. There is no obligation to take up the place, however; a family might not want their child to attend Hogwarts. (From JK Rowling's old website)
+#+end_quote
+
+Emphasis mine.
+
+#+begin_quote
+  ... A Squib is almost the opposite of a Muggle-born wizard: he or she is a non-magical person born to at least one magical parent.
+
+  ... Sometimes they find a way to fit in; Filch has carved himself a niche at Hogwarts and Arabella Figg operates as Dumbledore's liaison between the magical and Muggle worlds. *Neither of these characters can perform magic* (Filch's Kwikspell course never worked) (From JK Rowling's old website)
+#+end_quote
+
+Again, emphasis mine.
+
+So JK Rowling herself states that magical power is not something that you can quantify, you just have it or not. A Squib is not a very weak wizard; they have the same magic as a Muggle: zero.
+
+The second source is from HBP:
+
+#+begin_quote
+  Dumbledore chuckled. “Voldemort will not have cared about the weight, but about the amount of magical power that crossed his lake. I rather think an enchantment will have been placed upon this boat so that only one wizard at a time will be able to sail in it.” (HBP Chapter 26)
+#+end_quote
+
+This quote shows that the way to “measure” an amount of magical power is simply to count the number of wizards, meaning that each wizard's power is binary---as JK Rowling said, you either have it, or you don't. (Note also the follow-up to this quote in the section “Adulthood”, where only adult wizards are counted by the boat).
+
+The third source for the claim that magic is not quantifiable is that, in more general terms, we never see wizards get tired out by using magic in any of the books, contrary to what you'd expect if they were expending some kind of “magic fuel”.
+
+To this argument, some people suggest that Harry's Patronus lessons are an example of becoming tired from magic use:
+
+#+begin_quote
+  Harry's anti-Dementor lessons were not going nearly as well as he had hoped. Several sessions on, he was able to produce an indistinct, silvery shadow every time the Boggart-Dementor approached him, but his Patronus was too feeble to drive the Dementor away. All it did was hover, like a semitransparent cloud, draining Harry of energy as he fought to keep it there. (PoA Chapter 12)
+#+end_quote
+
+There is no doubt that Harry is tired. However, it is equally clear that the cause of his tiredness is the effect of the Dementor's presence, not of his casting the Patronus. See, for example, Lupin's explanation on the effects of Dementors:
+
+#+begin_quote
+  “Yes,” he said, straightening up, “Black must have found a way to fight them. I wouldn't have believed it possible... Dementors are supposed to drain a wizard of his powers if he is left with them too long...” (PoA Chapter 10)
+#+end_quote
+
+We also see this when Lupin gives Harry chocolate to help him recover from the feeling of being drained, which is a cure for the effects of Dementors:
+
+#+begin_quote
+  There was a loud crack, and Harry's cloudy Patronus vanished along with the Dementor; he sank into a chair, feeling as exhausted as if he'd just run a mile, and felt his legs shaking.
+
+  [...]
+
+  He [Lupin] handed Harry a large bar of Honeydukes' best chocolate.
+
+  [...]
+
+  He [Harry] felt drained and strangely empty, even though he was so full of chocolate. (PoA Chapter 12)
+#+end_quote
+
+Another way we know that the draining feeling is from the effects of the Dementor is that Harry does not feel drained after casting the Patronus (a corporeal one at that) against Draco Malfoy:
+
+#+begin_quote
+  Three Dementors, three tall, black, hooded Dementors, were looking up at him.
+
+  He didn't stop to think. Plunging a hand down the neck of his robes, he whipped out his wand and roared, “Expecto Patronum!”
+
+  Something silver-white, something enormous, erupted from the end of his wand. He knew it had shot directly at the Dementors but didn't pause to watch; his mind still miraculously clear, he looked ahead --- he was nearly there. He stretched out the hand still grasping his wand and just managed to close his fingers over the small, struggling Snitch.
+
+  [...]
+
+  Harry turned around to see Professor Lupin, who looked both shaken and pleased.
+
+  “The Dementors didn't affect me at all!” Harry said excitedly. “*I didn't feel a thing!*” (PoA 13)
+#+end_quote
+
+So Harry's being tired by the effect of a Dementor is not a counter-argument for the clear fact that wizards do not get tired by their use of magic.
+
+From these three sources, it should be clear that magical power is not quantifiable or "spent" by casting spells---wizards do not have different quantities of magic, nor does a wizard's magic change in quantity over time.
+
+There is a tension here: on the one hand, magical power has reality such that Dumbledore's is sometimes palpable, but equally, each wizard seems to have a single unit of magical power.
+
+What then is the difference in power between wizards? The only viable explanation is that the difference in power between wizards is a /quality/ of their magic, not different quantities of it. As should be clear from the “Contributing Factors” section, this difference in quality should perhaps be better described as differences in qualities, plural. When one wizard's power is being compared to another, you are comparing the sum magical effect of their entire character.
+:PROPERTIES:
+:Author: Taure
+:Score: 66
+:DateUnix: 1588232877.0
+:DateShort: 2020-Apr-30
+:END:
+
+*********** holy fuck this is great
+:PROPERTIES:
+:Author: CommanderL3
+:Score: 16
+:DateUnix: 1588236197.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+*********** Holy shit, dude. Where can I read your complete dissertation? Because I'm pretty sure you could advance to a PhD in Wizarding theory here. Very comprehensive and well written.
+:PROPERTIES:
+:Author: mikekearn
+:Score: 13
+:DateUnix: 1588237972.0
+:DateShort: 2020-Apr-30
+:END:
+
+************ [[https://i.4pcdn.org/tg/1553449399513.pdf]]
+:PROPERTIES:
+:Author: smellinawin
+:Score: 6
+:DateUnix: 1588250511.0
+:DateShort: 2020-Apr-30
+:END:
+
+************* Note that in the most recent revision (still a work in progress) the section on transfiguration and food has been substantially revised.
+:PROPERTIES:
+:Author: Taure
+:Score: 9
+:DateUnix: 1588250745.0
+:DateShort: 2020-Apr-30
+:END:
+
+************** Out of curiosity, is there any way to be notified when the document is/has-been revised and updated? Because this is exceptional work and I really want to be kept up-to-date on it. Phenomenal stuff and very clearly explained, Taure. Kudos to you!
+:PROPERTIES:
+:Author: kenmadragon
+:Score: 5
+:DateUnix: 1588261065.0
+:DateShort: 2020-Apr-30
+:END:
+
+*************** When I next post a major revision (revision of the stuff that is currently there + Charms section) I will likely make a post on this sub and on DLP.
+:PROPERTIES:
+:Author: Taure
+:Score: 10
+:DateUnix: 1588261337.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+*********** Well written. Thanks for this.
+:PROPERTIES:
+:Author: erotic-toaster
+:Score: 5
+:DateUnix: 1588237865.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+*********** Wow, you awesome person. Thanks.
+:PROPERTIES:
+:Author: VD909
+:Score: 5
+:DateUnix: 1588236926.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+*********** Where do you upload your books?
+
+Please tell me you write books.
+:PROPERTIES:
+:Author: VulpineKitsune
+:Score: 4
+:DateUnix: 1588251802.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+*********** Motherfucking Jesus. This, this is brilliant. My headcanon on magical cores was it was just a magic muscle. Use it or lose it basically.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1588238940.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+*********** This is probably the best explanation of magic from HP universe. It'd be great if you could put all of this in a nice article and then put it in a online blog or something. Great explanation. Thanks.
+:PROPERTIES:
+:Author: bbaral05
+:Score: 3
+:DateUnix: 1588268192.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+*********** I would happily read a post about your thoughts and headcanons regarding the less-detailed aspects of the HP universe.
+:PROPERTIES:
+:Author: ParanoidDrone
+:Score: 2
+:DateUnix: 1588266771.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+******* I suspect that independence is a major component of the adulthood part. When you're young you (typically) have very little control over the major things in your life, and are dependent on others to make choices for you. When you grow older you gradually get more opportunities to choose for yourself what you want to do with your life, and this in turn allows you to grow as a person.
+
+Most also get at least somewhat disillusioned with authority. It's during our teenage years most of us look at the people in charge and find them flawed or incompetent in some way, and distance ourselves from them, which is also a form of indepence.
+
+I think there's an interesting parallel here with Tom Riddle and Merope Gaunt. Tom was completely independent even as a child, and we know how gifted with magic he was. Merope on the other hand lived with her abusive family and had nearly no magic ability until she was able to leave them and take some control of her life.
+:PROPERTIES:
+:Author: Darkspine89
+:Score: 13
+:DateUnix: 1588237744.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+****** Regarding emotional state (especially in the long term), do you think that psychotropic medications - even Muggle ones - are capable of affecting one's ability to perform magic? Or in other words, would continuously dosing a wizard with a drug like risperidone (anti-psychotic, side effects include involuntary tremors, dizzyness and a depression-like state of fatigue/mental dullness) enable a team of Muggles to capture and detain him?
+:PROPERTIES:
+:Author: fractalmuse
+:Score: 6
+:DateUnix: 1588261870.0
+:DateShort: 2020-Apr-30
+:END:
+
+******* It's an interesting question, but also a question which is liable to inflame real-world debate so I must tread carefully.
+
+I would be inclined to suspect, in a universe where the soul is real and the mind is not strictly the same thing as the brain, that any effect that Muggle drugs have on mental state would be a kind of superficial effect which doesn't affect your "true" self.
+
+Kinda like the difference between hedonistic pleasure and contented fulfilment - both are "happiness", but one goes rather deeper than the other. I would imagine that Muggle drugs could affect the "hedonistic pleasure" level of emotional state, but not the "contented fulfilment" level of soul-deep self-identity and long-term world view.
+:PROPERTIES:
+:Author: Taure
+:Score: 11
+:DateUnix: 1588262616.0
+:DateShort: 2020-Apr-30
+:END:
+
+******** Like you said this would likely spiral into a rather extensive debate if pressed, but I will note that this stance is more than a little dismissive of the power of psychiatric pharmacy. From observation I can categorically say that these medications are no less effective at affecting deeper emotional state and identity/self-worth than relationship problems (Tonks) or familial abuse (Merope) - for instance there are several that can make one suicidal as an accidental /side/ effect.
+:PROPERTIES:
+:Author: fractalmuse
+:Score: 2
+:DateUnix: 1588266224.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+*** Aptly written.
+:PROPERTIES:
+:Author: Vortive
+:Score: 8
+:DateUnix: 1588231853.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+*** I think another way, in relation to physical performance, is to have magic be physically exhausting, lie in /The Inheritance Cycle/
+:PROPERTIES:
+:Author: John1907
+:Score: 2
+:DateUnix: 1588266575.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+** I don't like thinking that a wizard is limited by his Magical Core. I prefer thinking that magic exists by itself, and that the measure of how powerful a wizard actually is decided by the degree of ease by which he accesses it. Seeing as accessing such a force would obviously take some effort, the wizard should become tired over time by continuous spell-casting.
+
+I don't think any wizard can just cast any spell though. Each spell has it's own requirements, i.e., a greater degree of will-power or emotion, which not every wizard can meet. He can do that only through practice.
+:PROPERTIES:
+:Author: Vortive
+:Score: 7
+:DateUnix: 1588230435.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+** In my story I don't use the phrase "magical core," because I know how controversial it is, but each wizard still has their individual magical power which, I think, is essentially the same thing. Such a thing is not mentioned in the books, but it implicitly is there. Why would the first-year students start practicing the Levitating Charm with feathers, the lightest item imaginable, if using books or stones or anvils would not be any harder? Also, if magic had no limits, the Harry Potter universe would look very different. For example: if someone cast the Levitating Charm and directed his wand to the ground, the Earth would become weightless and plunge into the outer space, killing everyone. Since that has not happened, it cannot happen. Thus: magic is not limitless.
+
+And doesn't Dumbledore warn Harry that Voldemort is an exceptionally powerful wizard? Powerful, not just talented. That means wizards have individual powers and some of them simply are more powerful than others.
+
+My headcanon is the following. Every magical being has an intrinsic magical power that they can use. When they use magic, their power eventually depletes, but then replenishes over time, just like physical strength. That power grows as the magical being becomes older. Humans reach their magical maturity at the age of a hundred years or so after which their power doesn't grow anymore. But in addition to this normal growth of magical power, the power can be increased through magical exercise, much like physical strength can be increased by lifting weights. If someone exerts his magic every day, he will eventually become a magical strongman.
+
+Dumbledore, Grindelwald, and Voldemort are individuals who were able to reach incredible levels of power through exercise. Most wizards simply cannot reach their level even if they exercised all the time. Why is that? I don't know, but I also don't know why most people cannot become as strong as Olympic level weightlifters. People are not equal in this respect.
+
+However, magical power is a separate thing from magical talent. Talent is some kind of a magical intelligence quality. Every wizard can learn spells and magical theories, but some of them are simply better at it. Just like some people are better than others in skills like mathematics, music, social interaction etc.. Magical geniuses learn all things magical with ease, because they happen to have some kind of natural affinity to it. Hermione is an example of a person who is very talented, but we never see her being more powerful than Harry. Some wizards are powerful, but not talented. Dumbledore, Grindelwald, and Voldemort are wizards who happened to be both incredibly powerful and talented.
+:PROPERTIES:
+:Author: Gavin_Magnus
+:Score: 13
+:DateUnix: 1588233049.0
+:DateShort: 2020-Apr-30
+:END:
+
+*** Yeah, that's basically magical cores - or the base version of them - without the stigma some people have towards it (nor the recognition of calling it 'magical core').
+
+Do you have a name for that 'intrinsic magical power' that is inside of them, then? Just 'magical power'? In-universe, I mean.
+:PROPERTIES:
+:Author: matgopack
+:Score: 4
+:DateUnix: 1588258942.0
+:DateShort: 2020-Apr-30
+:END:
+
+**** I'm careful not to overemphasize this thing in the story. There's no need to explain how much more powerful Dumbledore, Grindelwald, and Voldemort are to the average wizard. They're more powerful, and that's the only relevant piece of information to the reader. No need to upset anyone with an in-universe explanation of how magic works. I call it magical power, but no one in the story knows how to measure it.
+
+I've written more than 100,000 words, and I've mentioned magical power just a few times in passing. Main character feels exhaustion when he uses many spells requiring much power, and his magic cries from exertion when he uses a very strong spell shortly afterwards. Hogwarts' wards get their power from a nexus of magic under the castle, and some of that power has been redirected to the curse of the Defence professorship by Voldemort. Binding an Unbreakable Vow requires magical power. Etc.
+
+I don't have a problem with magical cores even though they are sometimes used as an excuse to make Harry superpowerful at the age of eleven. Even then the magical core itself is not the problem. The problem is the writer wanting to write a stupid and uninteresting story. It is possible to write a good story with any kind of magical system. The things that make a story good are relatable characters and tension in their attempts to overcome their adversities.
+
+I think it's really important for the writer to have a clear vision of what magic in the story universe can and cannot do. But one thing important in fantasy is that the characters of the story shouldn't know everything. Magic is supposed to be a mystery, not just supernatural physics. If the laws of magic are clear to everyone in the story, why not just replace it with technology?
+:PROPERTIES:
+:Author: Gavin_Magnus
+:Score: 4
+:DateUnix: 1588261544.0
+:DateShort: 2020-Apr-30
+:END:
+
+***** That's fair enough, yeah - and I generally agree with it. Sounds more or less the way I like to use magical cores/exhaustion myself.
+
+Though I suppose, there may be a type of story where the characters exploring and figuring out the laws of magic would be of interest/interesting in the course of the story. Not every time, of course, but there's an appeal to the sort of 'scientist' approach to it for some people. Otherwise though, I agree with your approach as being a very good one.
+:PROPERTIES:
+:Author: matgopack
+:Score: 2
+:DateUnix: 1588268924.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+*** u/awfulrunner43434:
+#+begin_quote
+  Why would the first-year students start practicing the Levitating Charm with feathers, the lightest item imaginable
+#+end_quote
+
+In their transfiguration classes, they worked on /conceptual/ or aesthetic similarities, with increasingly difficult abstractions, rather than absolute physicality.
+
+- Matchsticks and needles- similar size and shape
+- Beetles and buttons- alliteration/roughly similar size and shape
+- Turtles and teapots- alliteration, hard shell
+- guinea fowl and guinea pig- name
+
+So for learners, it would seem they get the best results when likening abstract qualities of their target with their desired result. The more similar or the more concrete the likeness, the easier time the beginner has. As they become more educated/talented, they can perform more difficult/abstract tranformations- a master like McGonagall can turn a desk into a pig, which has very little or no commonality.
+
+So then, when learning the levitation charm, there may be conceptual ideas that promote ease of learning for the children- feathers come from birds, which can fly. Or while feathers are very light, the more important thing is that the children perceive it as being light, rather than the actual objective weight.
+
+Alternatively, this is for practical purposes. A dropped feather from a failed levitation charm does no damage and makes no sound. An anvil however...
+:PROPERTIES:
+:Author: awfulrunner43434
+:Score: 4
+:DateUnix: 1588275097.0
+:DateShort: 2020-May-01
+:END:
+
+
+** The limit is most wizards can't cast most of the spells we see in canon. I
+
+I frequently see 'this spell is OP! JKR didn't understand what she was doing!' The former is true, but we're told in the books wizards can't cast a Shield Charm and, no, it's not because adult wizards forgot how to do so(which cheapens Harry's abilities). They can't do it for the various reasons Taure lists. The most important is that they never learned it because why would someone writing reports on cauldron thickness need to?
+:PROPERTIES:
+:Author: Ash_Lestrange
+:Score: 6
+:DateUnix: 1588233300.0
+:DateShort: 2020-Apr-30
+:END:
+
+*** I think you're assuming that they didn't forget it. To me, it seems much more likely that they /did/ forget it - it's taught during Defense, most students seem capable of it (Harry learning in 4th year, and teaching it to the DA in 5th). It's also the subject of a question on the OWLs, indicating to me that it's covered normally. (Edit - turns out that's in the movies, the books breeze by it. Though Snape does seem to expect everyone to already know it, or supposed to have learned it, the previous year in book 6)
+
+Instead, it seems to me like your last point is off - it's not that they never learned it, it's that /because/ they're doing unrelated things/never practicing it, they forgot it. It's similar to, say, calculus - someone might learn it in school, and then two decades of never using it would make them forget it.
+
+Either way, it's a weird thing for wizards to not buckle down and practice (with the death eaters being a thing), but they're not all that logical/consistent in the aggregate.
+:PROPERTIES:
+:Author: matgopack
+:Score: 6
+:DateUnix: 1588250178.0
+:DateShort: 2020-Apr-30
+:END:
+
+**** You're assuming that most wizards will know the material that is covered in the OWLs. This seems like an unfounded assumption.
+
+The OWL exams are equivalent to real life English O-levels/GCSE exams. Looking at GCSE grade distribution, and assuming that wizarding academic achievement is roughly the same as Muggle academic achievement, you'd expect to see the following distribution:
+
+- About 70% of Hogwarts students will achieve a passing grade in at least one subject, meaning 30% of students would fail all their subjects.
+
+- About 55% of Hogwarts students will achieve a passing grade in all their core subjects.
+
+Where passing grade is an Acceptable, Exceeds Expectations, or Outstanding grade (equivalent to Muggle C - A* range), and failing grades are Poor, Dreadful, and (possibly) Troll (equivalent to Muggle grade D and below).
+
+You probably need to be getting an E in OWL Defence to have even a semi-reliable Shield Charm. So I think it fits that only a minority of wizards can cast a decent Shield Charm - and most of those who cant have /never/ been able to do so, because they didn't do well enough at OWL Defence.
+:PROPERTIES:
+:Author: Taure
+:Score: 11
+:DateUnix: 1588255392.0
+:DateShort: 2020-Apr-30
+:END:
+
+***** Sure, that's one way to look at it - though the comparison of the tiny Wizarding World population to the larger sample size of the English O-levels would probably not result in the same distribution, we don't have any hard data from canon on the success rate (eg, if Hogwarts is supposed to be the best school in the world, you'd expect it to do far better than the average O-level scores - but since its handful of students is the entire population, who knows?). I also am not sure if we know if people fail out of Hogwarts - the only characters I can think of who failed the Defense OWLs, and thus had to retake 5th year, were Crabbe and Goyle.
+
+However, we do know that the spell is considered to be at a level where it's appropriate for OWLs, and that it's easy enough that Harry is able to teach it to the whole DA. It's also appropriate for a questions on the Charms OWL (in theory - edit - though it's from the movie, so canonicity may vary. However, Snape does expect them to know it at the start of the 6th year, so it seems reasonable to list it there despite that.). And that students need to pass DADA to be able to move past 5th year, though we don't know how many manage it normally (only the dumbest characters in the book are said to have failed it and have to retake 5th year because of it, at least to my knowledge), and that it appears to me that to graduate from Hogwarts, you'd need to thus pass the OWLs in all the core subjects - even if not well enough to keep going into NEWT level.
+
+We don't know the difficulty of the shield charm in relation to other charms, meaning that an E in OWL for it to be passable is just an assumption - the difficulty of a spell would probably also vary person to person.
+
+In any case, it's getting away from my point. [[/u/Ash_Lestrange]] was saying that they'd never have learned it, because it wouldn't be necessary.However, given that it's on the OWLs, anyone graduating from Hogwarts have had to learn it/be exposed to it. Maybe it's one of the tougher spells, and that people struggle/never manage it - but that's just an assumption. It doesn't strike me as likely that most wizards never learned it (having needed to pass the Defense and Charms OWL to graduate from Hogwarts, both of which cover the spell) - but rather through not using it, or learning it just for a little bit, they forget it over time.
+:PROPERTIES:
+:Author: matgopack
+:Score: 7
+:DateUnix: 1588257615.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+***** I think it's reasonable that many people would forget, though. Above, you essentially say that ability to perform magic relies on your depth of understanding. That understanding, whether from reading books on theory or practice or whatever, would naturally diminish over time without reinforcement.
+
+It's one of my favourite things about the lore in Blood Crest by Cauchy. Harry learns a whole bunch of charms without too much difficulty, but then he realises that without regular practice, he soon loses the knack
+:PROPERTIES:
+:Author: Tsorovar
+:Score: 2
+:DateUnix: 1588316339.0
+:DateShort: 2020-May-01
+:END:
+
+
+**** Which exam because I can't find the question? And it's not mentioned in class until 6th yr when it's stated that /Harry/ taught half the class. He also learns it in an abandoned classroom with Ron and Hermione.
+
+A few spells are mentioned in class, but they don't actually do the practical.
+:PROPERTIES:
+:Author: Ash_Lestrange
+:Score: 1
+:DateUnix: 1588265703.0
+:DateShort: 2020-Apr-30
+:END:
+
+***** Harry learns the Shield spell in 4th year, and teaches it in 5th year (their OWL year - mentioned that he taught them the Shielding Charm in chapter 25 of OOTP), which is specifically weird because the Ministry was /trying/ to get them all to fail (ie, why Umbridge didn't actually teach anything). Snape also expects them all to know it in book 6 - or, at least, expects the half of the class that Harry didn't teach to know it. Even the context when it's mentioned that many Ministry wizards can't do it, it's presented as a surprise ("You wouldn't believe how many people, even people who work at the Ministry, can't do a decent Shield Charm.")
+
+For the OWLs, it's one of the questions in the movie (the book speeds right through), so I admit it might not be the best source (I didn't have the book on me when I was looking it up, and it was mentioned on the wiki with that source).
+
+For another mention, the Ministry expects everyone to be able to use the Shield Charm (see pt 3 of their leaflet on protecting your home in HBP ch 3).
+:PROPERTIES:
+:Author: matgopack
+:Score: 2
+:DateUnix: 1588267076.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+** Despite the stigma, I do enjoy/prefer a story that involves the basics of magical cores... as long as it's well written.
+
+Having it be a thing opens up a lot of other opportunities. An MC with weaker magic is interesting, because now they have a weakness to overcome. Can they compete with such a disadvantage? How do they do so? Etc.
+
+To me, the bigger difference is less in the spells that are able to be learned, but in the endurance - and, just like everything else, 'magical cores' should be just one portion of how magical power/endurance/skill is determined.
+
+In terms of the canon fit, obviously it's not canon - but the canon magical system is ill-explained mechanically, and though we can try to piece together a better understanding of it from clues, I find that something like a well done magical core/exhaustion setup fits better - for me. And since it's fanfiction, those types of changes are perfectly fine.
+
+Magical cores are /bad/ if they're used purely as a power boost - and almost always bad when they're classified (especially numerically). I don't want to hear about Harry's Level 1000 Magical Core that makes him the strongest wizard ever. I don't want someone to examine his core and exclaim that he's mage level. Those are almost impossible to make work well.
+:PROPERTIES:
+:Author: matgopack
+:Score: 5
+:DateUnix: 1588249525.0
+:DateShort: 2020-Apr-30
+:END:
+
+*** Agreed on all of your points.
+
+Yeah, I really dislike the fics that show that Harry or MC is the strongest wizard or witch ever. Especially when when put some numbers next to it. What is even worse is that almost always this is unnecessary for whatever story the author is try to write. It gets showcased in one chapter to establish that the MC is powerful and then never used in the story again. If you delete that whole section it would make no difference to the story overall. Most times it only makes the story bad in what could otherwise have been an acceptable or even a good story.
+
+Maybe someone might write a story where the MC is discovered to be the current most powerful wizard. But this only makes the MC's life much harder not easier. That would be an interesting story to read.
+:PROPERTIES:
+:Author: kishorekumar_a
+:Score: 2
+:DateUnix: 1588252498.0
+:DateShort: 2020-Apr-30
+:END:
+
+**** The one fic I've read where the MC is excessively powerful (in terms of raw magical energy) and it causes some issues is the Pureblood Pretense & its sequels - even if it's fitting for the fic/story, I still would have rather it be turned down a bit there.
+
+Or, at least, that the power isn't entirely innate. If there's some way that they improved and struggled to improve their available magical energy over time (eg - rituals), I can accept it a lot more readily (eg, the rituals in With Strength of Steel Wings and how it affects Harry are used to explain his strength being increased/forced into increasing).
+:PROPERTIES:
+:Author: matgopack
+:Score: 1
+:DateUnix: 1588252940.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+** In Canon JKR left it vague enough that it can be reasonably adjusted to serve the plot.
+
+However she has left enough clues that we can see magic operates /similarly/ to D&D magic.
+
+The capacity to cast results from things like Natural Power, Knowledge and Intent.
+
+Natural Power seems to increase as one practice and grows, along with knowledge, which increases as one studies and practices, Intent has more to do with focus and will.
+
+There's also Talent, something which the above-average Wizards seem to have naturally (Dumbledore, Grindelwald, Riddle) and reduces/compensates for the other requirements.
+
+As you can see it's vague enough to not limit the plot to the point someone can make a table and say such and such can't cast certain spells or should be tired after casting a certain number of them. If you don't believe there are people like that you haven't been around fandoms enough.
+
+This is similar to GRRM not giving clear values for distance because he knew people were going to count it and calculate how long someone should take going from point A to point B and complain when it was inaccurate, so he just gave unclear numbers to not constrain himself and further increase his workload as a writer.
+:PROPERTIES:
+:Author: Kellar21
+:Score: 3
+:DateUnix: 1588249641.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+** The best example is the Patronus charm. As per canon very few wizards are capable of casting it. And then there is Fiendfyre. While more wizards can cast it the number of wizards who can cast it and control it is much smaller. So right there you can see that there are limits on wizards that impact the spells they can cast. Not only do you need the power but you need the will power to control spells.
+
+I don't mind the idea of magical cores in terms of an explanation of why there are power differences between wizards if you consider them as a "magic gas tank". The larger it is the more spells you can cast, the more power you can put into the spell, and how quickly it "refills" determines your magical stamina.
+
+If you don't have something like a magical core then you need to provide some explanation for why some individuals can access magic and others can't. And why one individual who can access magic is stronger than another individual who can access magic. It also still allows you the flexibility to have magic be internally generated inside you or is all around you and your core accesses it and stores it for later use.
+
+The concept of A magic core just makes that explanation easier as to why some are magical or not and why some are more powerful than others. Eg if you don't have a magic core you're a muggle, if you do have a magic core but it's tiny you're a squib
+:PROPERTIES:
+:Author: reddog44mag
+:Score: 4
+:DateUnix: 1588232676.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+** I don't know why this sub is so against the idea of magical cores. There are 3 main ways that you can explain magical casting. Either the wizard accesses an outside unlimited pool of Magic and he can only draw in a limited amount. Or he has an inside pool of limited magical power (a magical core). Or the ability to cast magic is only dependent on his Will and Intent.
+
+I personally like the first and second explanations a lot more than the last. The last one means that everyone could cast every spell with training. That is not realistic nor is it depicted that way in canon.
+:PROPERTIES:
+:Author: wghof
+:Score: 7
+:DateUnix: 1588239137.0
+:DateShort: 2020-Apr-30
+:END:
+
+*** I like the idea of wizards having innate magical limitations. Any ability in our world is not only dependent on the skill developed and the hard work put in. You could put their best effort in something but there is no guarantee that you would master it, only that you will be better at it than you were before. Life is just unfair that way.
+
+And having magic as another ability that confirms to the unfairness of life makes the Wizarding World feel all that more real to me.
+:PROPERTIES:
+:Author: kishorekumar_a
+:Score: 2
+:DateUnix: 1588250134.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+** I'm okay with the concept of magical cores, really. But I personally prefer every witch or wizard being capable of amazing feats of magic with enough knowledge and hard work. Putting arbitrary limitations on that takes the "magic" out of magic, I think. That's why, while I can deal with cores and shit, if a fic starts to try to scientifically explain magic, I'm out.
+:PROPERTIES:
+:Author: Cally6
+:Score: 3
+:DateUnix: 1588238011.0
+:DateShort: 2020-Apr-30
+:END:
+
+*** Having every witch or wizard capable of amazing feats of magic sounds incredible and very fair that I would love for our world to be. But our world does not work like that. And having the Wizarding World work like that simply makes it feel unreal. Unfairness is part of life, after all.
+:PROPERTIES:
+:Author: kishorekumar_a
+:Score: 4
+:DateUnix: 1588250929.0
+:DateShort: 2020-Apr-30
+:END:
+
+**** It is a world of magic. It's already unreal. I, like Cally6, believe that every witch/wizard should have the capability for amazing magic, it's just a matter of applying yourself. There will always be someone better, but unless you're disabled, or have a learning deficiency, anyone could be fast, strong, and smart. Your right that the world isn't fair, that's why Muggles, and Squibs exist in canon. In the end, experience, creativity, and knowledge are what should define how well a witch, or wizard performs, not some limit.
+:PROPERTIES:
+:Author: Wassa110
+:Score: 3
+:DateUnix: 1588251531.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+**** I mean, yeah, it's in the very nature of magic as a concept that it should feel unreal. Harry Potter is the story of an abused and poor orphan suddenly finding out that he is famous, rich and can do magic, before being taken from his abusive relatives by a kind giant. The unfairness of the world is reflected in people's actions, discrimination, hate, but never with magic. Wizarding World is unfair, but magic isn't.
+:PROPERTIES:
+:Author: Cally6
+:Score: 1
+:DateUnix: 1588279471.0
+:DateShort: 2020-May-01
+:END:
+
+
+** Harry potter basically glosses over this entire thing while implying both that some people are more inheritanyly powerful (dumbledore and harry) and that power is knowledge and can be learned (voldemort and hermione).
+
+Go read the Inheritance Cycle (eragon) if you actually want a well designed and explained system of magic and power levels.
+:PROPERTIES:
+:Author: geckoshan
+:Score: 2
+:DateUnix: 1588267770.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+** u/LittenInAScarf:
+#+begin_quote
+  Can any wizard cast any spell if he practices and improves his skill enough?
+#+end_quote
+
+A Trash tier like Crabbe (Or was it Goyle) who was basically seen as the Magical World equivalent of retarded managed to cast a complex spell like Fiendfyre.
+
+I don't like the idea of a Magical Core in Harry Potter getting a Nanoha Style Magical Core, because Nanoha's linker core is part of the reason she's so ridiculously overpowered where weaker characters have smaller cores.
+
+I do however like the idea of Magical Stamina in a sense, more like Naruto Chakra reserves. Bigger Reserves = Harder to control but can cast more spells consecutively = more training required in control. Smaller reserves = easy to control and learns faster but can't cast as many spells consecutively. So having "A massive Core" or whatever is actually a detriment unless you train to control it.
+:PROPERTIES:
+:Author: LittenInAScarf
+:Score: 1
+:DateUnix: 1588253574.0
+:DateShort: 2020-Apr-30
+:END:
+
+*** Fiendfyre is a bit of a special one, IMO - it seems like a spell that's not overly complex to use, just /very/ difficult to keep any modicum of control over, which is what makes it complex (hard to use safely).
+:PROPERTIES:
+:Author: matgopack
+:Score: 2
+:DateUnix: 1588259217.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+*** There isn't anything in Naruto that indicates that chakra amount and control are in any way related, or that having more chakra means chakra control is worse.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 1
+:DateUnix: 1588257104.0
+:DateShort: 2020-Apr-30
+:END:
+
+**** What about Wave? How Sakura has an easier time than Naruto and Sasuke with the Tree Walking because she has smaller reserves.
+:PROPERTIES:
+:Author: LittenInAScarf
+:Score: 2
+:DateUnix: 1588257174.0
+:DateShort: 2020-Apr-30
+:END:
+
+***** Sakura just had better control, nobody said it was because of her smaller reverses.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 2
+:DateUnix: 1588257310.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+** I like genetics having a role in how people can do magic. But I also like saying genetics only determine the starting point. Everybody can get to the same endpoint, they just have to put in the effort.
+
+Squibs happen because of bad breeding causing their magical core or whatever to spend all of its effort holding back the side effects/defects. Muggleborn happen either by lottery or all that was holding back the core before being mostly or completely wiped away.
+
+Purebloods being unhappy? Between a lower starting point and not practicing, they aren't as magically... I don't want to say powerful... hmm... effective as say a halfblood or a muggleborn or halfblood who did practice. This is where I feel the "mudbloods stealing magic" comes into play. Purebloods who didn't put in the effort are butthurt by the muggleborn and halfbloods who did. This is why 3/4 (or 4/4, because Grindelwald's blood status wasn't stated) of the most magically... effective people are half-bloods.
+
+TL;DR: Don't marry your cousin, do your homework, and practice. Magic is all about the effort you put into it.
+
+Oh, and my "version" of the magical cores do have an upper limit. See voldemort? He's past the limit. That's what happens when you go above it with rituals and whatnot. It effects your body, mind, and all of that jazz.
+:PROPERTIES:
+:Author: Nyanmaru_San
+:Score: 1
+:DateUnix: 1588278448.0
+:DateShort: 2020-May-01
+:END:
+
+
+** My personal views on talent and ability come into play here in my interpretation on the limits of magic and the separation between the powerful and the average.
+
+Apptitude: What most people think of as Talent. An inclination or predisposition towards an ability. In magic this is seen in the type of wand that chooses a wizard. A wand that is suited for Transfiguration is going to choose a wizard that is inclined towards Transfiguration.
+
+Intuition: Related to aptitude, this is the innate predisposition to understanding or "getting" something.
+
+Skill: The ability to do something. In magic this is the ability to cast spells.
+
+Talent: The willingness and dedication to spend the time and effort required to achieve mastery of an ability. This is the drive required to see truly great magic. If magic is hard, many people will give up on it, the same way most people are willing to give up on piano lessons when they realize that the "naturally talented" 16 year old pianist they know has been practicing 3 hours a day since he was six. They could reach that level too, if they were able to put in the time, but they won't.
+
+Mastery: The complete understanding of the nature, potential, and practice of an ability.
+
+So Harry for example, has an aptitude and intuition for Flying and Defense. His "natural talent" at play from his slighter build, his years of watching out of the corner of his eye for Dudley and his gang or swung frying pans. His talent comes from his willingness to work for those things, he doesn't sit back on his newfound ability to fly, but practices constantly. He seeks out Lupin and forces himself to practice the Patronus until he gets it right. He might lack the intuition for charms, the summoning charm doesn't come easy to him, but he puts in lots of effort to figure it out. He has plenty of motivation to stick with defense study especially with the DA.
+
+People like to think that someone like Dumbledore or Voldemort or Tiger Woods is just better than them. It removes personal accountability to say that the other person is naturally talented, a prodigy, or gifted with a larger magical core rather than acknowledge that they put in thousands of hours of work that they themselves are not willing to do. (Fun fact, Tiger Woods started learning golf at age 2. Makes his skills at age 21 make more sense with that many years of dedicated practice under his belt)
+:PROPERTIES:
+:Author: Kingsonne
+:Score: 1
+:DateUnix: 1588284002.0
+:DateShort: 2020-May-01
+:END:
+
+
+** If magical power is a thing.. as taure seems to have found hints of in canon, (honestly read their comments, beautiful work)
+
+I' just have to chip in this.
+
+A lot of people confuse power with energy ( because we slept through physics from reading HP all night or whatever)
+
+Power = energy per unit time.
+
+Gas tank = energy.
+
+If JKR's magic is NOT limited over time : you don't run out from casting spells all day, and fights don't end with two wizards hitting each other with rocks. Huh, just like canon.
+
+Power limits being different for different people can make for some outcomes.
+
+Example time:
+
+Wizard Frodo has enough power to cast say, a shield Protego. They can shield.
+
+Wizard Frodo doesn't have enough power to cast a corporal patronus.
+
+Frodo can spit out 50 Rowlings per second. Protego needs 45, they can cast it.
+
+Expecto Patronum needs 150 to be cororal: they can't cast it. The can probably manage silver mist.
+
+From canon we know:
+
+Harry Potter can cast a corporal patronus. Harry can cast patronus without getting tired.
+
+Harry can obviously protego all day. And Expelliarmus.
+
+Can Harry cast massive firestorms like Voldemort did in the battle of the Ministry Atrium? No.
+
+Voldemort is unnaturally powerful, can cast all kinds of scary big spells. (Was Tom M. Riddle that powerful? Some of us might guess no.)
+
+Dumbledore is very very powerful, when riled it literally rolls off him. He casts the same or similar massive spells as Voldemort, but not as powerful, perhaps with more subtle choices.
+
+Malfoys buddy Crabbe can cast Feindfyre (40Rowlings) . He can't control it. that needs more power (150Rowlings) .
+
+This is clearly one of many spells best left in the restricted section. If you stuff it up bad things happen.
+
+Back to Frodo.
+
+Frodo with 50 Rowlings per second something that needs too much power, and the spell is particularly nasty, he'll get magical exhaustion and be in hospital, or a squib for life or dead.
+
+​
+
+If you can increase your magical power, through training, that's one kind of universe.
+
+Maybe like taure says, there are a lot of factors you can effect, and an underlying "sorry kid, you're not going to be a champion sprinter." effect.
+
+In that vein; maybe there are other effects where you can be better, then get ongoing injuries and just not be as good as you used to be.
+
+Like people who are 95% of the way to being a concert musician, then can't maintain the training because unlucky genetics for inflammation.
+
+Lots of potential for limits early, limits over the life of the character , growth, and even loss of power, gradual or abrupt.
+:PROPERTIES:
+:Author: Excellent_Tubleweed
+:Score: 1
+:DateUnix: 1588322262.0
+:DateShort: 2020-May-01
+:END:
+
+
+** I dislike magical cores because of how they impoverish magic. They replace something that is a complex combination of personality, mood, experience, knowledge, intelligence, values, and plain old hard work---things integral to the character---with a single arbitrary Power Meter.
+
+Notice how canon doesn't have characters who are unintelligent and weak-willed yet powerful, nor those who are wilful and intelligent yet are almost squibs. Instead, canon has Lockhart---the character most obsessed with how others perceive him---whose magic gives him effective and precise Memory Charms, but fails him in most other ways; and Harry, for whom "wearing his emotions on his sleeve" gives him a powerful Patronus, while crippling his Occlumency.
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 1
+:DateUnix: 1588407120.0
+:DateShort: 2020-May-02
+:END:
+
+
+** Magical cores are a blight on this fandom, there's no basis for them in the slightest in canon. Magical exhaustion isn't a thing.
+
+My view is that wizards do not have an internal well that they draw from, but that it works on one of two mechanics, depending on the needs of a given narrative.
+
+The first explanation is that “magic” as wizards access it is essentially just accessing the debug menu of the universe. It does not tire them nor require much personal effort (aside from emotional state for some spells), much like typing in “user.spawn one teacup” does not exhaust the person using the program.
+
+In that instance, yes, any wizard can cast any spell with the necessary mindset.
+
+The second explanation is that wizards are a conduit for a metaphysical energy source, which is itself infinite and omnipresent. Using magic does not diminish it, but it does tire you out in the same way lifting weights or going for a run can tire you. This also serves as an explanation for why wizards eat so much yet few are fat; their caloric needs are generally much higher and their metabolism accordingly faster.
+
+In olden days, years of training would be required to gain enough strength to be a competent sorceror. But the invention of wands acted as a force multiplier, allowing any wizard to perform magic for hours upon hours at a time, more likely to pull a muscle in their arm due to repetitive stress than to exhaust themselves conducting magic. Hence why there is virtually no reference at all in the books to people getting exhausted from casting spells, because you have to do some seriously heavy-duty magic to feel the strain.
+:PROPERTIES:
+:Author: Notus_Oren
+:Score: 2
+:DateUnix: 1588232167.0
+:DateShort: 2020-Apr-30
+:END:
+
+*** Except, I do not see any reference to what you are claiming either. There is no evidence that a wizard can keep on casting spells all day without tiring except for the physical. If there is evidence in the books and I missed it, please reference it.
+
+Your first explanation does not work because, well, you gave the exception that spells need emotional state of mind. If a one can type "user.spawn one teacup", there is no reason why he cannot also type "user.spwan one patronus". Hence It does not explain the magic properly.
+
+In the second explanation, if wizards tire out because of using magic. Then the rate at which they tire out is likely to be different for each wizard. And this is just explaining the limitations in a different way. At the end of the every wizard has this magical limitation and and this limitation is different for every one making someone more powerful(or having more stamina, whatever you want to call it) than another.
+
+Can you give some references for your last paragraph?
+:PROPERTIES:
+:Author: kishorekumar_a
+:Score: 5
+:DateUnix: 1588235740.0
+:DateShort: 2020-Apr-30
+:END:
+
+**** I'm not claiming my explanations are canon, I'm offering mechanics that aren't directly contradicted by what we know about magic from the books, as magical cores are.
+
+Harry was able to practice Accio nonstop from dinner until two in the morning in Goblet of Fire (Page 303 of the original UK edition) with no mention of being “magically drained” or anything other than tired because it was so late.
+
+My use of debug menu was not intended to be a 1 to 1 absolute analogy. Obviously magic requires much more practice, it isn't just point and shoot. But emotions are inputs just the same as wand movements and incantations, all that is needed is honing your ability to produce them accurately. Someone might have difficulty producing that emotional state, in which case they wouldn't be able to cast the spell, but it's not like any actual energy is being channelled or expended by the user, so casting the spell doesn't tire them any more than a muggle doing those same gestures with the same mental state would.
+
+I hope that makes more sense.
+
+The second explanation is more flexible than magical cores. It makes magic just a muscle like any other, that must be trained as an athlete does. Whereas most magical core stories present it like it's a set limit on potential that can't change.
+
+There are no direct references for the last paragraph, again I'm not claiming this is canon. As I said in the first comment, this is just talking about theory that people might find useful in their own narrative. But we do know that wands aren't used universally, and that they're most likely a Western invention. Africans and Native Americans did not use them until the colonial era (no need to delve into the darker dubiously-handled-in-canon implications of that). We know that wands make casting spells much easier, and so it's not a stretch to consider their advent as the wizarding equivalent of the invention of the arquebus. To adapt a quote from Thomas Carlyle, “The real use of wands is to make all men tall.”
+
+So it just makes sense to me that wands are what allow wizards to cast magic not just more easily, but almost without expenditure of effort.
+:PROPERTIES:
+:Author: Notus_Oren
+:Score: 1
+:DateUnix: 1588237579.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+*** A blight is way too strong. Just because you don't like them, that just means that you shouldn't read those fics - but given how vague magic is in canon, mechanically speaking, it should be obvious that some people would write their own mechanics for it (yes, I know we can piece together some clues like Taure does above, but - though that's their preference - it's not mine).
+
+Your view is perfectly fine/reasonable, and there are tons of good fics written using it. Magical cores/exhaustion can also have good fics written with it. Of course, there are a lot that just use it as an excuse to make Harry OP, but that's just bad writing - and people could just not use magical cores and /still/ do that, so it's not intrinsic to magical cores.
+
+Magical cores/exhaustion does not mean that magic is finite overall - at least not to a greater extent than, say, physical stamina. Just because I get tired by running a few miles doesn't mean that I'd look at my stamina overall and say it's finite - just that there's a limit to how much you can do at one time. Use of magic in those systems is similar - it's a limit to how much you can use at one time, but not overall.
+:PROPERTIES:
+:Author: matgopack
+:Score: 8
+:DateUnix: 1588249862.0
+:DateShort: 2020-Apr-30
+:END:
+
+
+** As per intellectuals in this sub there was no limit on wizards spell casting ability.
+:PROPERTIES:
+:Author: kprasad13
+:Score: 1
+:DateUnix: 1588231494.0
+:DateShort: 2020-Apr-30
+:END:

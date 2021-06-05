@@ -1,0 +1,108 @@
+#+TITLE: Opinions on Hexes, Jinxes, Curses, etc
+
+* Opinions on Hexes, Jinxes, Curses, etc
+:PROPERTIES:
+:Author: SteamAngel
+:Score: 3
+:DateUnix: 1526393367.0
+:DateShort: 2018-May-15
+:FlairText: Discussion
+:END:
+Important note: this does NOT have to be your view on canon magic. If you've found an AU variant which you find interesting, or your own ideas which are not entirely canon-compatible, feel free to post too.
+
+Does anyone have a cohesive theory on the difference between the different types of spells? In particular jinxes, hexes and curses; but if your ideas extend to other aspects of magic like Charms, Transfiguration or even Potions I'm curious too. I had a quick skim back over Taure's document on magical theory but didn't spot anything particularly relating to hex/jinx/curse classification before you direct me there (although I now want to re-read the whole thing, the ideas are really cool).
+
+In case you're wondering, JKR didn't have a fixed set of rules regarding these and was rather flexible in her classifications. She didn't really specify anything beyond the lines being fuzzy, as far as I'm aware.
+
+
+** this is from Rowlings old website
+
+#+begin_quote
+  spell: The generic term for a piece of magic.
+
+  Charm: Does not fundamentally alter the properties of the subject of the spell, but adds, or changes, properties. Turning a teacup into a rat would be a spell, whereas making a teacup dance would be a charm. The grey area comes with things like 'Stunning Spells', which on balance I think are Charms, but which I call spells for alliterative effect.
+
+  Hexes: Has a connotation of dark magic, as do jinxes, but of a minor sort. I see 'hex' as slightly worse. I usually use 'jinx' for spells whose effects are irritating but amusing.
+
+  Curses: Reserved for the worst kinds of dark magic
+#+end_quote
+
+I think except usually having some form of harmful or restricting effects jinxes, hexes and curses also resist changes by magic more and especially changes by non magic. we know wounds caused by dark magic are harder to heal. So while a cutting charm can easily naturally heal or even easier by use of magic, a cutting jinx/hex/curse is much harder to heal by magic and wouldn't heal otherwise at all. I also dont think they wear naturally off. So while a stunning spell has you still wake up naturally later on, a body bind curse requires active use of a counter curse. we also know that apparition can be stopped by a anti-apparition jinx, so that is also a way it shows being able to counteract magic.
+:PROPERTIES:
+:Score: 9
+:DateUnix: 1526395042.0
+:DateShort: 2018-May-15
+:END:
+
+*** I don't think there's a cutting jinx.
+
+On another note here's my interpretation:
+
+Jinx: Lowest level of dark magic, not really 'dark'. Effects are easily dealt with via a /finite/ or waiting it out. Hence the term: "Schoolyard Jinxes".
+
+Hex: More combative than Jinxes, with more debilitating effects, but still easily dealt with by a healing charm, counter-curse, or potion. Occasionally called curses for dramatic effect, i.e. "Curse of the Bogies".
+
+Curse: True dark magic with the ability to kill directly. Can only be undone with a specific counter-curse, or treated with numerous potions. Tends to leave scars even if properly treated.
+:PROPERTIES:
+:Author: Jahoan
+:Score: 5
+:DateUnix: 1526395883.0
+:DateShort: 2018-May-15
+:END:
+
+
+** I've spent way too much time mulling over the differences between charms, hexes, jinxes and curses over the years, and my opinion has slightly changed over time. Nowadays, I don't think it matters. Like, a Hurling Hex is pretty much only a Hex because it sounds nicer due to alliteration. Same thing with Killing Curse. But, you can warp your definitions around until they fit.
+
+I'm not really going to get into what is and isn't dark magic, since that itself warrants a lengthy topic. But, I think there's more to it than just being a social construct (such as just saying that anything that hurts someone is dark magic), but also more to it than just being a category like "curses" (or that dark magic is simply spells that the Ministry decided to put on a list). It could be a mix of all that.
+
+Anyways, I think a charm is kind of a generic term, but not as generic as just saying "spell". Any spell that just creates a temporary effect is likely a charm, and it's probably the biggest overall category.
+
+A spell that creates a more semi-permanent effect is a jinx. Some we see in canon are the Jelly Legs Jinx and the Anti-Disapparation Jinx. They stick around until they are removed. And honestly, I'm not sure why some sites say that Jinxes are dark magic, but I think that just shows how inconsistently HP magic is defined, since context of a spells use is very important and shouldn't be used to define if something is dark magic.
+
+A spell that is temporary and intentionally harmful is a hex. A hurling hex throws someone backwards violently. A stinging hex creates an annoying amount of pain. I'm not sure how the bat bogey hex qualifies under my definition, since it seems like a temporary transfiguration to me, but again, inconsistencies plague us.
+
+Curses should be spells with a harmful lasting effect. Death is pretty lasting, so I guess the Killing Curse fits. Sectumsempra creates cuts that are difficult to heal and will last a long time. The cursed necklace that Katie Bell got hit with put her in hospital for months. Crouch SR put JR under the Imperious Curse for /years/. Cruciatus Curse creates unending and lingering pain so intense that it can permanently damage someone.
+:PROPERTIES:
+:Author: Lord_Anarchy
+:Score: 2
+:DateUnix: 1526400974.0
+:DateShort: 2018-May-15
+:END:
+
+*** u/MindForgedManacle:
+#+begin_quote
+  And honestly, I'm not sure why some sites say that Jinxes are dark magic
+#+end_quote
+
+Rowling referred to jinxes and hexes as dark magic of a minor sort in an interview.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 2
+:DateUnix: 1526405901.0
+:DateShort: 2018-May-15
+:END:
+
+**** I know that, but it seems counterproductive to say that sort of thing when you've got plenty of good characters casting them in canon. It would mean everyone from first years to Dumbledore himself regularly practice dark magic with such a blanket statement such as that one.
+:PROPERTIES:
+:Author: Lord_Anarchy
+:Score: 1
+:DateUnix: 1526408227.0
+:DateShort: 2018-May-15
+:END:
+
+***** But, well, that's said to be true in canon. I think it was Binns in CoS that said that even Dumbledore has a huge repertoire of Dark magic. The "dark" bit really just seems to mean it causes direct harm rather than being evil.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 2
+:DateUnix: 1526408456.0
+:DateShort: 2018-May-15
+:END:
+
+
+** I have a cohesive theory. Sort of. My idea is that all those terms are vernacular words that /loosely/ fit Rowling's definitions as quoted by [[/u/Alloud99]], but with a bunch of exceptions (the super-deadly unliftable curse on the Defence Professorship is a "jinx", the Patronus Charm is ostensibly not actually a charm). Then at some point in recent centuries, pedantic wizardly scholars tried defining it all strictly, but in practice nobody ever /quite/ sticks to it, except eldery pedants who spend their day squabbling over the specifics of this or that spell over Owls/Howlers.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 2
+:DateUnix: 1526405945.0
+:DateShort: 2018-May-15
+:END:

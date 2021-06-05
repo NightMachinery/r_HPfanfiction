@@ -1,0 +1,107 @@
+#+TITLE: Reading flow and the importance of proper punctuation.
+
+* Reading flow and the importance of proper punctuation.
+:PROPERTIES:
+:Author: MillFalcon1
+:Score: 22
+:DateUnix: 1569845073.0
+:DateShort: 2019-Sep-30
+:FlairText: Misc
+:END:
+There has been a rash of fics lately that use ‘---‘ (the longer hyphen) as a way to parse a sentence and it makes my screen reader insert the words ‘to the power of' in the middle of the text, which throws off the pacing and message of the story.
+
+Obviously, it isn't a huge deal to anyone who is physically reading the stories as they can interpret the subtext, but someone who is visually challenged, could find it irritating.
+
+I use my screen reader as an audio book substitute when I'm working and have noticed this trend and was hoping to shed some light on the subject.
+
+
+** u/4ecks:
+#+begin_quote
+  I use my screen reader as an audio book substitute when I'm working and have noticed this trend and was hoping to shed some light on the subject.
+#+end_quote
+
+It's not a trend. JKR used it all over the place in canon. The dash is used as a stronger break than a comma. It works as a connection between conceptually linked clauses, as opposed to the use of a strong break with the full stop/period, which separates one idea or clause from the next. Compare the use of emdash to the use of ellipsis in this OotP scene, where both are used to show Harry's mental montage during Voldemort's possession. (In the movies, it's the famously goofy [[https://i.redd.it/62pnknxksml01.jpg][DAAAH!]] split-second still.)
+
+#+begin_quote
+  Then Harry's scar burst open and he knew he was dead: it was pain beyond imagining, pain past endurance---
+
+  He was gone from the hall, he was locked in the coils of a creature with red eyes, so tightly bound that Harry did not know where his body ended and the creature's began... And when the creature spoke, it used Harry's mouth, so that in his agony he felt his jaw move...
+
+  Blinded and dying, every part of him screaming for release, Harry felt the creature use him---
+
+  "If death is nothing, Dumbledore, kill the boy ..."
+
+  /Let the pain stop,/ thought Harry... /let him kill us... end it, Dumbledore... death is nothing compared to this.../
+#+end_quote
+
+It's not improperly used or punctually incorrect.
+
+And if you go back to the 1800's, you can see how it was a baked-in part of their prose style, too.
+
+#+begin_quote
+  In general he was judged, throughout the parishes of Donwell and Highbury, with great candour; liberal allowances were made for the little excesses of such a handsome young man---one who smiled so often and bowed so well; but there was one spirit among them not to be softened, from its power of censure, by bows or smiles---Mr. Knightley.
+#+end_quote
+:PROPERTIES:
+:Author: 4ecks
+:Score: 42
+:DateUnix: 1569846149.0
+:DateShort: 2019-Sep-30
+:END:
+
+
+** Your screen reader seems to have a bug. As [[/u/4ecks][u/4ecks]] said below, the emdash is a valid part of the English language and I can't believe that the screen reader would be unable to parse it correctly.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 29
+:DateUnix: 1569848053.0
+:DateShort: 2019-Sep-30
+:END:
+
+
+** All screenreaders have their quirks. I got used to “Street Mungo hospital” and “Drive Granger” (or “Privet Doctor”, if the reader swings the other way).
+:PROPERTIES:
+:Author: ceplma
+:Score: 12
+:DateUnix: 1569857092.0
+:DateShort: 2019-Sep-30
+:END:
+
+*** If the reader swings the other way. I chuckled.
+:PROPERTIES:
+:Author: JaimeJabs
+:Score: 3
+:DateUnix: 1569875093.0
+:DateShort: 2019-Sep-30
+:END:
+
+
+** This sounds more like an issue with your screen reader. Perhaps this can be adjusted? If not, you might be able to replace hyphens with a simple dash with an userscript if you're reading fics online, or just use another screen reader.
+
+Most blind people I know use Jaws, perhaps that's better than whatever you use (I am visually impaired and thus know a bunch of blind people through those channels).
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 9
+:DateUnix: 1569867000.0
+:DateShort: 2019-Sep-30
+:END:
+
+
+** My screen reader sometimes does weird things with normal punctuation, too. For example, if there is a space after the end of a word or period and a quotation mark, mine will read “quote” aloud. That's because of a slight typo, but it also does wonky things without typos. If the word “chapter” is in the block of text, it'll repeat it, I think interpreting it as a section heading or something.
+
+It can be a little odd, but I don't know how to fix it, just empathizing :-).
+:PROPERTIES:
+:Author: ElphabaTheGood
+:Score: 5
+:DateUnix: 1569850490.0
+:DateShort: 2019-Sep-30
+:END:
+
+*** My reader will also read ‘they spent the day by the lake enjoying the sun.' As ‘they spend the day by the lake enjoying the Sunday'
+
+Ugh! Sounds like the reader has multiple bugs.
+:PROPERTIES:
+:Author: MillFalcon1
+:Score: 2
+:DateUnix: 1569853323.0
+:DateShort: 2019-Sep-30
+:END:

@@ -1,0 +1,94 @@
+#+TITLE: Need Help for Site Creation
+
+* Need Help for Site Creation
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1443323593.0
+:DateShort: 2015-Sep-27
+:FlairText: Misc
+:END:
+[deleted]
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1443324093.0
+:DateShort: 2015-Sep-27
+:END:
+
+*** I would make reddit and google oAuth the sole way of logging in, it's safer as you are not concerned about storing passwords.
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 2
+:DateUnix: 1443373677.0
+:DateShort: 2015-Sep-27
+:END:
+
+
+** What kind of tagging system are you thinking about?
+
+It can be hard to tag fanfiction after the most basic categories have been covered (ships, characters). If you limit it too much it'd be no different from ff.net's current system but if you open it too much you end up with archiveofourown's overabundance of (mostly useless) tags.
+:PROPERTIES:
+:Author: makingabetterme
+:Score: 1
+:DateUnix: 1443324564.0
+:DateShort: 2015-Sep-27
+:END:
+
+*** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1443325096.0
+:DateShort: 2015-Sep-27
+:END:
+
+**** Which system are you planning to use?
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 1
+:DateUnix: 1443373731.0
+:DateShort: 2015-Sep-27
+:END:
+
+***** Honestly just using SMF now. It has a modification for tag system but it's not the greatest. I just want to basically link out to great stories based mostly on pairings and then secondary tags such as independent Harry, 4th year, time travel, etc.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1443379078.0
+:DateShort: 2015-Sep-27
+:END:
+
+
+** What are you using to create the site? If it's Ruby on Rails or something similar a scraper shouldn't take too long to make.
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 1
+:DateUnix: 1443328028.0
+:DateShort: 2015-Sep-27
+:END:
+
+*** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1443366531.0
+:DateShort: 2015-Sep-27
+:END:
+
+**** Note that linkffn is a pure python implementation --- Both the IRC version [[/u/moon_potato]] made and ours.
+
+Python does have some good web frameworks with Django as the most powerful of them...
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 1
+:DateUnix: 1443373545.0
+:DateShort: 2015-Sep-27
+:END:
+
+
+**** Yeah, I mean, you would still need to do the tags manually, but the scraper would at least automate story collection.
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 1
+:DateUnix: 1443381758.0
+:DateShort: 2015-Sep-27
+:END:

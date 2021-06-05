@@ -1,0 +1,261 @@
+#+TITLE: If I were a wizard, I'd regularly back up my memories in a Pensieve in case I get Obliviated.
+
+* If I were a wizard, I'd regularly back up my memories in a Pensieve in case I get Obliviated.
+:PROPERTIES:
+:Author: copenhagen_bram
+:Score: 91
+:DateUnix: 1595450202.0
+:DateShort: 2020-Jul-23
+:FlairText: Discussion
+:END:
+Has anyone else thought of this?
+
+
+** Have fun spending two weeks going through another two weeks of your life to find the 10 minutes that were wiped from your mind. That's assuming you had the time that day to spent half an hour pulling a day's worth of memories out your mind before it got obliviated.
+
+Actually, the worst case is probably not getting obliviated. Then you spent two weeks going through your memories for nothing.
+
+In short, there are better ways of protecting your mind.
+
+Edit: In reply to OP's now-deleted comment regarding a filing system to better organize one's memories within a pensive:
+
+#+begin_quote
+  I mean, it seems from canon that you can call up specific memories at will. The organization isn't really an issue. The issue is that, by nature of having your memory wiped, you're not going to know you have been obliviated. It gets even worse if your obliviator uses the false memory charm as well. You'd be spending incredible amounts of time going through your memories out of the low chance you've been obliviated. You might as well just keep a detailed journal, it'd be more concise that way.
+
+  Pensieve memories are exact. You'd literally have to look carefully through every second to make sure everything is consistent. Imagine if you're Fudge's assistant and he wipes the memory of seeing a sensitive file on his desk the next day, replacing it with a memory of a different file. You've spent 10 hours going through your memories of that day. Do you really think you're going to notice the discrepancy of a secret file on his desk?
+#+end_quote
+
+(Originally written in reply. Was unable to post because OP deleted his/her reply)
+:PROPERTIES:
+:Author: Impossible-Poetry
+:Score: 60
+:DateUnix: 1595451555.0
+:DateShort: 2020-Jul-23
+:END:
+
+*** Maybe someone could build a Pensieve/Computer hybrid with encryption and a checksum feature. Any change changes the checksum which is easy to compare. Modifying a memory without changing the checksum would require reverse engineering the memory hashing algorithm. Modern cryptography has a lot of neat techniques for preventing people from messing with important data.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 5
+:DateUnix: 1595498123.0
+:DateShort: 2020-Jul-23
+:END:
+
+**** The issue with this (and I'm no computer engineer) beyond the doubts I have that computing can be made compatible with HP magic, as that seems not only contraindicated from canon and thematically inconsistent, but that memories are modified all the time. Every time you reconsolidate (when you retrieve a memory and then re-encode it) a memory, you unintentionally modify it. The extent depends on a variety of factors.
+
+Also a quick google search seems to indicate that checksums are used to prevent accidental data modification but are not very useful indicators of data authenticity. It seems many memories would fail the checksum because of reconsolidation. And any intentional changes made by others may not even be detected by such algorithms. And that assumes compatibility.
+
+I think the take-away message is that any attempts to consolidate technology and magic is doomed to failure. Magic can recognize what a secret is; souls exist; and you can create matter with a flick of a wand. This method of protecting one's memories is simply inferior, short any advances or superior methods in the HP world.
+:PROPERTIES:
+:Author: Impossible-Poetry
+:Score: 3
+:DateUnix: 1595524528.0
+:DateShort: 2020-Jul-23
+:END:
+
+
+** Aren't pensieves like obscenely rare?
+:PROPERTIES:
+:Author: MrMrRubic
+:Score: 36
+:DateUnix: 1595456422.0
+:DateShort: 2020-Jul-23
+:END:
+
+*** Yeah. I forgot to back up that memory.
+:PROPERTIES:
+:Author: copenhagen_bram
+:Score: 38
+:DateUnix: 1595456982.0
+:DateShort: 2020-Jul-23
+:END:
+
+**** Lol
+:PROPERTIES:
+:Author: Euphoric_Eye6393
+:Score: 10
+:DateUnix: 1595465485.0
+:DateShort: 2020-Jul-23
+:END:
+
+
+** Using a pensieve as a save point
+
+Obsessively save every 10 minutes in case you lose progress
+
+"What are doing with a pensieve in the middle of class????"
+
+"Uhhh /shit how do I pause"/
+:PROPERTIES:
+:Author: panda-goddess
+:Score: 22
+:DateUnix: 1595478252.0
+:DateShort: 2020-Jul-23
+:END:
+
+
+** This would only work if you were able to back up your memories before being Obliviated. If you see something and are immediately Obliviated afterward then it wouldn't help at all.
+:PROPERTIES:
+:Author: darkpothead
+:Score: 11
+:DateUnix: 1595453941.0
+:DateShort: 2020-Jul-23
+:END:
+
+
+** If I were a wizard, I'd conjure infinite bullets and use a machine gun.
+:PROPERTIES:
+:Author: bluerayminecraft
+:Score: 7
+:DateUnix: 1595473960.0
+:DateShort: 2020-Jul-23
+:END:
+
+*** Or better yet, an assault rifle that shoots spells. Nobody can stop someone who's armed with an AvadaKedavra-47.
+:PROPERTIES:
+:Author: copenhagen_bram
+:Score: 1
+:DateUnix: 1596063695.0
+:DateShort: 2020-Jul-30
+:END:
+
+
+** I mean you could do that, though It would probably be much more convenient to just learn Occlumency to protect your mind.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 3
+:DateUnix: 1595495909.0
+:DateShort: 2020-Jul-23
+:END:
+
+
+** Why not get a Time Turner and go through every day twice, the first time defending the second time through.
+
+That way, if 2nd-You is not around, you'll know something's up, and you'll always know what's going to happen, when you're living the life that people actually see.
+
+Sure, it means you'll die younger, only making it to an average of 75 instead of 150, but so it is for all muggles, so it's not like that's a bad deal.
+:PROPERTIES:
+:Author: Sefera17
+:Score: 4
+:DateUnix: 1595458324.0
+:DateShort: 2020-Jul-23
+:END:
+
+*** You would halve your lifespan just to check the low chance of you getting obliviated? Seems too much of a stretch to me
+:PROPERTIES:
+:Author: Euphoric_Eye6393
+:Score: 3
+:DateUnix: 1595465564.0
+:DateShort: 2020-Jul-23
+:END:
+
+**** No. I'd half my lifespan to totally screw over a Dark Lord or two, who most definitely wouldn't expect weaponized use of a Time Turner, given that ‘terrible things' happen to a wizard that messes with time. And given that older-me is the public one, I'd be testing that theory extensively; safeguarded by magical oaths of course.
+
+I'm not really losing anything, after all. I'm a Muggle now, so I can accept a normal Muggle lifespan, I've not giving anything up, just not gaining anything either, there.
+:PROPERTIES:
+:Author: Sefera17
+:Score: 4
+:DateUnix: 1595477974.0
+:DateShort: 2020-Jul-23
+:END:
+
+***** Turn into an animagus and become your own familiar
+:PROPERTIES:
+:Author: AntisocialNyx
+:Score: 2
+:DateUnix: 1595485076.0
+:DateShort: 2020-Jul-23
+:END:
+
+
+***** Fair enough
+:PROPERTIES:
+:Author: Euphoric_Eye6393
+:Score: 1
+:DateUnix: 1595548578.0
+:DateShort: 2020-Jul-24
+:END:
+
+
+**** Speaking of that, how much older is Hermione due to her excessive use of the Time Turner in third year? From what I can remember she would have probably used it at least once a day, if not more for pretty much the whole school year.
+:PROPERTIES:
+:Author: geek_of_nature
+:Score: 1
+:DateUnix: 1595490434.0
+:DateShort: 2020-Jul-23
+:END:
+
+***** Assuming that she strictly used it for classes and not to get some additional time per homework, I would think about 16-17 days after the third year. That's assuming she had overlapping classes every single weekday, which is unlikely.
+:PROPERTIES:
+:Author: I_love_DPs
+:Score: 0
+:DateUnix: 1595492118.0
+:DateShort: 2020-Jul-23
+:END:
+
+
+** I'd think a good obliviation job wouldn't leave you with any suspicion you'd been obliviated, so how would this actually work? You'd have to spend as much time reviewing your memories as living your life.
+:PROPERTIES:
+:Author: MTheLoud
+:Score: 6
+:DateUnix: 1595466201.0
+:DateShort: 2020-Jul-23
+:END:
+
+
+** You naturally forget 90% of stuff... do you journal?
+:PROPERTIES:
+:Author: dratnon
+:Score: 5
+:DateUnix: 1595477907.0
+:DateShort: 2020-Jul-23
+:END:
+
+
+** Sounds like playing a Bethesda-made game and hitting the Quicksave button all the time.
+:PROPERTIES:
+:Author: Vg65
+:Score: 1
+:DateUnix: 1595496288.0
+:DateShort: 2020-Jul-23
+:END:
+
+
+** Seems to be easier said than done. We all say we'll backup our hard drives in case shit happens but most of us don't do it regularly. It's much easier to just get a good anti virus protector.
+
+So in essence, just learn Occlumency instead. I'm not sure though how good you have to be in that for it to be a passive skill.
+:PROPERTIES:
+:Author: zaniah16
+:Score: 1
+:DateUnix: 1595498352.0
+:DateShort: 2020-Jul-23
+:END:
+
+
+** I don't remember if this is fannon or headcannon or actual cannon but I believe in cannon that their was a line about how if memory was removed too many times it would cause issues in Goblet of Fire on that muggle. I think that they also said something similar in Half Blood Prince for wizards volentarily removing memorys for recolection if done enough times, though we don't ever get a hard number but the danger is there. So I probably wouldn't do it regularly, maybe Yearly or every other year? I mean its degrading on your memories and adding onto that the actual degradation that comes from time and I would assume a wizard who meant well and did so ended up as a horror story in Mungos. Still in general a backup could be useful as it would prevent lock-heart situations.
+
+TLDR; While somewhat useful when up against a novice or uncaring Obliviator up against a master it would be a lot more harm then good and while its something that should be done, it needs to be done sparingly.
+:PROPERTIES:
+:Author: betnet12
+:Score: 0
+:DateUnix: 1595496235.0
+:DateShort: 2020-Jul-23
+:END:
+
+
+** considering how long it's been since I've done a backup to my laptop, I think I'd probably just constantly put it off all the time.
+:PROPERTIES:
+:Author: S_pline
+:Score: 0
+:DateUnix: 1595505519.0
+:DateShort: 2020-Jul-23
+:END:
+
+
+** If you were a wizard, you wouldn't be able to afford one.
+:PROPERTIES:
+:Author: Black_Stagg
+:Score: 0
+:DateUnix: 1595512600.0
+:DateShort: 2020-Jul-23
+:END:

@@ -1,0 +1,207 @@
+#+TITLE: FicSave - A tool to download stories from Fanfiction.net and other sites to txt, pdf, mobi, or epub. (xpost from /r/InternetIsBeautiful)
+
+* [[https://ficsave.com/][FicSave - A tool to download stories from Fanfiction.net and other sites to txt, pdf, mobi, or epub. (xpost from /r/InternetIsBeautiful)]]
+:PROPERTIES:
+:Author: BasilFronsac
+:Score: 27
+:DateUnix: 1447343635.0
+:DateShort: 2015-Nov-12
+:FlairText: Misc
+:END:
+
+** Though it only has support for FFnet:
+
+* [[http://p0ody-files.com/ff_to_ebook/][P0ody-Files' FFnet to eBook downloader]]
+  :PROPERTIES:
+  :CUSTOM_ID: p0ody-files-ffnet-to-ebook-downloader
+  :END:
+is many times *faster*, and provides *instant* downloads to fics that have already been downloaded.
+
+It's format of the eBook also look *cleaner* IMHO.
+
+[[/u/tusing]] uses for [[/u/FanfictionBot]] as well.
+
+It was made by some guy on DLP IIRC.
+:PROPERTIES:
+:Score: 10
+:DateUnix: 1447360737.0
+:DateShort: 2015-Nov-13
+:END:
+
+*** you seem to know a bit. is there anything out there that can go through my favorites list and save them to my dropbox, or something similar which doesn't need you to go through one by one?
+:PROPERTIES:
+:Author: hannahbananaa
+:Score: 1
+:DateUnix: 1449884473.0
+:DateShort: 2015-Dec-12
+:END:
+
+**** You can use the Calibra ebook organizer/syncer with the [[https://github.com/JimmXinu/FanFicFare/wiki/FAQs][FanFicFare plugin]] but that will take some setting up if you don't have it already.
+
+Alternatively, you can do
+
+#+begin_example
+    linkffn(<id>, <id>, etc)
+#+end_example
+
+and the bot will do it for you.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1449888940.0
+:DateShort: 2015-Dec-12
+:END:
+
+***** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1449888987.0
+:DateShort: 2015-Dec-12
+:END:
+
+****** ffnbot!delete
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1449889329.0
+:DateShort: 2015-Dec-12
+:END:
+
+
+** Alternatively, if you use calibre to put reading material on your ereader, [[https://fanficfare.appspot.com/][FanFicFare]] has a plugin that can download stories of a lot of sites (even those requiring login, if you configure your credentials) into an epub.
+:PROPERTIES:
+:Author: Riversz
+:Score: 8
+:DateUnix: 1447345420.0
+:DateShort: 2015-Nov-12
+:END:
+
+*** Well, this is fucking life-changing for me, haha. MUCH easier than copying everything into a Word doc and then importing to Calibre, holy crap.
+
+Thanks for the link!
+:PROPERTIES:
+:Author: rainbowmoonheartache
+:Score: 4
+:DateUnix: 1447355185.0
+:DateShort: 2015-Nov-12
+:END:
+
+
+** Not open source but I prefer the more flexible [[http://www.fanfictiondownloader.net/][FanFictionDownloader]]. Always happy to see competition, it encourages people to outdo themselves and gives the community more options.
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 3
+:DateUnix: 1447367652.0
+:DateShort: 2015-Nov-13
+:END:
+
+
+** I have yet to check out P0ody-Files' FFnet to eBook downloader, will have to do it at home since for some reason it's blocked at work... I love FicSave though, and the new layout is great compared to the old via github one. And I like how I can add several stories to queue now. What's great about FicSave is that it's mobile friendly. If I find a long-ish story I like, I just convert it on my mobile browser, thus conserving my data.
+
+I used to use [[https://www.flagfic.com/][flagfic]], but the developer had some issues in transferring hosts. Flagfic was great because it supported a *lot* of different sites and was also mobile-friendly.
+:PROPERTIES:
+:Author: serenehime
+:Score: 1
+:DateUnix: 1447409907.0
+:DateShort: 2015-Nov-13
+:END:
+
+*** P0ody-Files also has a mobile version, which it redirects to. Check it out.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1447504118.0
+:DateShort: 2015-Nov-14
+:END:
+
+
+** Is this something that could be used to enable piracy?
+:PROPERTIES:
+:Author: MacsenWledig
+:Score: -2
+:DateUnix: 1447344626.0
+:DateShort: 2015-Nov-12
+:END:
+
+*** It can download ff from these sites:
+
+#+begin_example
+  fanfiction.net
+  fictionpress.com
+  adult-fanfiction.org
+  hpfanficarchive.com
+  asianfanfics.com
+#+end_example
+
+Is it piracy to download ff? If so, I delete the post.
+:PROPERTIES:
+:Author: BasilFronsac
+:Score: 3
+:DateUnix: 1447345158.0
+:DateShort: 2015-Nov-12
+:END:
+
+**** ^{Wow} ^{this} ^{comment} ^{turned} ^{out} ^{much} ^{longer} ^{than} ^{I} ^{intended.}
+
+#+begin_quote
+  Is it piracy to download ff?
+#+end_quote
+
+I personally use a fanfic downloader so I can read my favorite stories on my tablet where there's no internet access. As long as you don't step on anyone's toes and try to redistribute the stories you download, I don't really see people having a problem with this. I've seen authors become upset when their stories are downloaded and redistributed in databases or other places, but I've never seen someone get upset for a story being downloaded for personal reading.
+
+You're technically making an unauthorized copy if you download it without the author's permission, but it doesn't fall under the definition of piracy unless you try to distribute the copy for money or some other benefit. Unauthorized copies are like: if you buy a cd, and put the mp3s on your computer, and then copy the files to give to a friend. It's kind of a legal grey-space, but there's no way to enforce preventing it when it happens on a small scale between individuals. For things like fanfiction, it's not like anyone will come after you or anything, if you do something the author doesn't like they'll probably just tell you to stop.
+
+Sites like AO3 have an option in-site to download pdf/ebook versions, so if an author uploads there they're kind of giving implicit permission to download their story, even if they don't specifically say anywhere that they're okay with people downloading their story. I know some people don't like their stories being downloaded, especially if the person who obtained a copy plans to redistribute it. I've seen authors delete all their work and ask fans not to spread it around if they have a copy.
+
+When some user here(I forget who, or maybe it was on the general fanfiction subreddit) did a giant data grab of ffn net and offered to give a copy of the several terrabyte sized file to other people, I know some authors got upset.
+
+But anyway, I don't actually see a problem with things like fanfiction downloaders. I know this is a pretty long post for a simple question like if downloading from ff is piracy, but I guess I had a lot more to say on the topic than I thought, lol. Also, IANAL(I am not a lawyer)
+:PROPERTIES:
+:Author: Saffrin-chan
+:Score: 7
+:DateUnix: 1447353228.0
+:DateShort: 2015-Nov-12
+:END:
+
+***** I agree with you, I don't think it's piracy to download a fan fic because I dont plan on anyone other than myself reading the copy I downloaded.
+
+They aren't getting paid (I don't believe) and I'm not selling it, so by me downloading it, they arent losing out on any money they might get if I were to read it on the site
+:PROPERTIES:
+:Author: notwhereyouare
+:Score: 3
+:DateUnix: 1447354296.0
+:DateShort: 2015-Nov-12
+:END:
+
+
+**** I agree with the other posters in this thread. I wouldn't consider it piracy so long as it's only for personal use. If someone deletes a fic, though, but it reemerges thanks to someone else's mobi or epub file... that's not very nice. The author could have good reason for deleting the story and it wouldn't be fair to go behind their back.
+:PROPERTIES:
+:Author: MacsenWledig
+:Score: 3
+:DateUnix: 1447359625.0
+:DateShort: 2015-Nov-12
+:END:
+
+
+**** It is not piracy if it is available publically.
+
+That's who Google Books are allowed to scan and keep books online.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1447360561.0
+:DateShort: 2015-Nov-13
+:END:
+
+***** This comment has been overwritten by an open source script to protect this user's privacy.
+:PROPERTIES:
+:Author: metaridley18
+:Score: -1
+:DateUnix: 1447396192.0
+:DateShort: 2015-Nov-13
+:END:
+
+****** A bit different, but similar. There are more examples.
+
+[[https://www.eff.org/deeplinks/2015/10/big-win-fair-use-google-books-lawsuit]]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1447410213.0
+:DateShort: 2015-Nov-13
+:END:

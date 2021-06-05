@@ -1,0 +1,225 @@
+#+TITLE: To the Authors, question about Note-taking/universe building
+
+* To the Authors, question about Note-taking/universe building
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1524861849.0
+:DateShort: 2018-Apr-28
+:FlairText: Request
+:END:
+[deleted]
+
+
+** I personally use Mircrosoft OneNote. Allows the organization of a note book with the search function of a computer. Plus it saves as you are writing
+:PROPERTIES:
+:Author: ATRDCI
+:Score: 5
+:DateUnix: 1524862535.0
+:DateShort: 2018-Apr-28
+:END:
+
+*** I'll try this soon. Thanks!
+:PROPERTIES:
+:Author: Fierysword5
+:Score: 1
+:DateUnix: 1524928202.0
+:DateShort: 2018-Apr-28
+:END:
+
+
+** u/TE7:
+#+begin_quote
+  I have a set of head canon in mind about how things in the "verse" should work or be. But it's a lot of stuff and I need a system to classify it. For a context appropriate example, I would like to have the Hogwarts Library in Locations->Hogwarts->First Floor->Library. Similary for any Creature, Character, Event etc etc. How do you do it?
+#+end_quote
+
+I don't. Your ideas are fizzling out because you're focusing too much on the minutia than the story. Frankly, it doesn't matter at all what floor the library is on. That's almost certainly not plot critical. And if it is plot critical you aren't going to forget it.
+
+Think of things in terms of the story you want to tell. What matters is what is plot critical to that story. Not the minute details of everything going on around it.
+
+#+begin_quote
+  Usually it's because I hit a roadblock that makes me realize that the premise won't work, but sometimes it's because I can't build a good enough universe for my story to take place in.
+#+end_quote
+
+You don't 'build a universe' by naming streets, throwing things at a location, or classifying everything. You build a universe by focusing on the people and culture in that universe and displaying that to the reader. Not by a focus on location or classification.
+
+Ask yourself this question. Do you think you could possibly write a good story about the Earth we inhabit and it's populace if you spent the entire time trying to classify people, animals, objects, locations into a spreadsheet before writing it? I think the honest answer is no.
+
+In fiction writing 'who' and 'why' is far more important than 'what' and 'where'. If you want to write, focus on plot and let things develop around the plot.
+
+Don't 'build a universe and then write a story' that's backwards. Write a story and let the universe develop organically. Make the world fit the plot, don't develop the world then lament when the plot doesn't fit it.
+:PROPERTIES:
+:Author: TE7
+:Score: 10
+:DateUnix: 1524862974.0
+:DateShort: 2018-Apr-28
+:END:
+
+*** Pretty much this. You can hit roadblocks when something plot-critical contradicts something important you planned earlier (you can't write a "Sirius takes Harry in" story after you killed Sirius off for the feels), but most of what OP describes sounds like he is getting bogged down in details and can't see the forest because too many trees are in the way.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 3
+:DateUnix: 1524864145.0
+:DateShort: 2018-Apr-28
+:END:
+
+
+*** This is exactly what I was thinking as well. I mean, do we even know what floor the library is on in the actual books? What about the infirmary? Which tower exactly is the Astronomy Tower? Which tower is the owlery housed in? We don't know because it's more important that there's a library, infirmary, Astronomy Tower and owlery and not so much where they are located.
+
+Now, if a character is creeping around on the third floor of the castle and needs to get past an obstacle such as a night-owl reader librarian, then yes, put the library on the third floor by all means. The world serves the story, the story does not serve the world.
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 2
+:DateUnix: 1524878158.0
+:DateShort: 2018-Apr-28
+:END:
+
+**** The library is on the first floor, apparently. Of course, this is shown not to be the case in Chamber of Secrets but then again, many things were lost in translation from the books to the films.
+:PROPERTIES:
+:Author: emong757
+:Score: 1
+:DateUnix: 1524933375.0
+:DateShort: 2018-Apr-28
+:END:
+
+
+*** That helped a lot. My approach to writing has been long stories with no ends planned or visible, which has always been my downfall, because you have to build up to something, which is where I fail.
+
+The floor thing was just an example and I agree was probably a bit too much. Just wanted to add another layer and thought, "Hey! The library must be on some floor, so lets add that!"
+:PROPERTIES:
+:Author: Fierysword5
+:Score: 1
+:DateUnix: 1524928171.0
+:DateShort: 2018-Apr-28
+:END:
+
+
+** Any text file is searchable with Ctrl + F
+
+You could also try using Excel and then use a couple columns for "tagging" stuff. For example, one where you say which category something belongs to (like character, creature and so on), and a couple for context (Gryffindor related, Hogwarts related, Diagon Alley and so on). It is definitely not the most elegant solution, but unless you know your way around databases, probably the most organised way to go.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 5
+:DateUnix: 1524862974.0
+:DateShort: 2018-Apr-28
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1524864451.0
+:DateShort: 2018-Apr-28
+:END:
+
+*** This helped, thatnks :)
+:PROPERTIES:
+:Author: Fierysword5
+:Score: 1
+:DateUnix: 1524927959.0
+:DateShort: 2018-Apr-28
+:END:
+
+
+** I use Google docs, and use the Table of Contents feature to organize information into sections. You can add in links, too, so you can easily jump to where you need to be.
+:PROPERTIES:
+:Author: Flye_Autumne
+:Score: 3
+:DateUnix: 1524864506.0
+:DateShort: 2018-Apr-28
+:END:
+
+*** Checked this out, was easier to understand than a Word document. Will definitely use if none of the other options are better.
+:PROPERTIES:
+:Author: Fierysword5
+:Score: 1
+:DateUnix: 1524928249.0
+:DateShort: 2018-Apr-28
+:END:
+
+
+** The [[https://www.hp-lexicon.org/place/hogwarts-school-of-witchcraft-and-wizardry/hogwarts-fourth-floor/library/][HP Lexicon]] will probably be your most valuable resource to keep track of timeline events, places, and characters next to the wiki. I'll also second OneNote on keeping things organized. Love the checkboxes when making a Scene Map and Outline.
+
+Lastly, don't get discouraged. Fanfiction is IMO incredibly easy to start when compared to OC. You just pick a point of divergence and off you go. It is, however, much harder to close out because you have to map out all the butterflies while staying inside a set of predetermined boundaries.
+
+Write the story you want to write, and figure out how to match everything up so it makes sense later on.
+:PROPERTIES:
+:Author: Incubix
+:Score: 2
+:DateUnix: 1524902241.0
+:DateShort: 2018-Apr-28
+:END:
+
+
+** There's been a lot of really good serious and well thought out points here.
+
+I just want to say that you can totally get away with moving the library around between floors because (spoilers) I think Hogwarts is supposed to be a giant dick to the new students
+:PROPERTIES:
+:Author: LGreymark
+:Score: 2
+:DateUnix: 1525266390.0
+:DateShort: 2018-May-02
+:END:
+
+
+** I've set up a MediaWiki on my server. It's probably the most convenient way if you are heavy on notes.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 1
+:DateUnix: 1524868224.0
+:DateShort: 2018-Apr-28
+:END:
+
+*** That's probably a bit too much, though I might as a friend about this one day just for the fun of it. I don't have the requisite knowledge to do it myself.
+:PROPERTIES:
+:Author: Fierysword5
+:Score: 1
+:DateUnix: 1524928310.0
+:DateShort: 2018-Apr-28
+:END:
+
+
+** You can always use the Harry Potter Fanon Wiki. It's like the normal one, but for the in-universe content of fics.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1524880721.0
+:DateShort: 2018-Apr-28
+:END:
+
+
+** In terms of myself and my usual co-writer, we have a folder on google drive which contains a timeline, a 'what's next' with an 'ongoing' section, a spreadsheet with linked information and dates, headcanon documents for every major organisation and character group and finally, a meta tag on our tumblrs where we link thinks in the notes at the bottom of chapters where they are relavant (i.e. how does the trace work for us, why is the black family crest french, what is x characters sexual orientation here and why, etc). I've been known to also jot things down such as room or building layours, and we have made plenty of notes on our own sense of magic. We use anchoring in the docs and contents to make it easier to find things, and try to bullet point where possible so we don't get bogged down when trying to find one thing among 30 pages.
+:PROPERTIES:
+:Author: kopikuchi
+:Score: 1
+:DateUnix: 1524882821.0
+:DateShort: 2018-Apr-28
+:END:
+
+
+** That sounds like far too much planning for my tastes.
+
+The way I write stories is to recognize that a short story is really framed around one or two key scenes; a novel, about a half dozen or so. Preparation for writing involves getting a good vision in your head about the key scenes you need to see happen, make those come alive, get to know the characters deeply, and then construct the rest of the story about those scenes. The details will fill themselves in without your needing to preordain them (and probably throw the planning away anyway because they don't quite work for the story you want to tell).
+
+A Word document where I free-form jot a flow of ideas is pretty much my approach.
+:PROPERTIES:
+:Author: __Pers
+:Score: 1
+:DateUnix: 1524916057.0
+:DateShort: 2018-Apr-28
+:END:
+
+
+** I don't know if that's what you're looking for, but yWriter 6 (free software) has the ability to add characters, locations, and items, and link them to the scenes you write.
+:PROPERTIES:
+:Author: deirox
+:Score: 1
+:DateUnix: 1524923982.0
+:DateShort: 2018-Apr-28
+:END:
+
+*** I'll try it out soon. Thanks for the suggestion.
+:PROPERTIES:
+:Author: Fierysword5
+:Score: 1
+:DateUnix: 1524928840.0
+:DateShort: 2018-Apr-28
+:END:

@@ -1,0 +1,105 @@
+#+TITLE: Downloading fan fictions
+
+* Downloading fan fictions
+:PROPERTIES:
+:Author: bisione
+:Score: 6
+:DateUnix: 1618745951.0
+:DateShort: 2021-Apr-18
+:FlairText: Discussion
+:END:
+I can't use ff2books anymore. Each time I copy and paste an url from fanfiction.net there's some error. Any alternative?
+
+
+** If you use Windows you can use Calibre program with FanFicFare. I always use this one.
+:PROPERTIES:
+:Author: DariusA92
+:Score: 3
+:DateUnix: 1618748122.0
+:DateShort: 2021-Apr-18
+:END:
+
+*** If you are not afraid of using command line programs, then Calibre just runs [[https://github.com/JimmXinu/FanFicFare]] in the background.
+:PROPERTIES:
+:Author: ceplma
+:Score: 5
+:DateUnix: 1618749850.0
+:DateShort: 2021-Apr-18
+:END:
+
+**** Thanks :)
+:PROPERTIES:
+:Author: bisione
+:Score: 1
+:DateUnix: 1618750045.0
+:DateShort: 2021-Apr-18
+:END:
+
+
+** I use [[https://fichub.net/]]
+:PROPERTIES:
+:Author: studynight
+:Score: 3
+:DateUnix: 1618754472.0
+:DateShort: 2021-Apr-18
+:END:
+
+*** Works!!! Thank you sooo much
+:PROPERTIES:
+:Author: bisione
+:Score: 2
+:DateUnix: 1618836569.0
+:DateShort: 2021-Apr-19
+:END:
+
+
+*** The cache can be interesting to look through too.
+:PROPERTIES:
+:Author: Dusk_Star
+:Score: 1
+:DateUnix: 1618757387.0
+:DateShort: 2021-Apr-18
+:END:
+
+
+** I honestly try to find the fic in AO3 and download from there. It's so much more user friendly.
+:PROPERTIES:
+:Author: Ardsd
+:Score: 3
+:DateUnix: 1618754619.0
+:DateShort: 2021-Apr-18
+:END:
+
+
+** Looks like ficsave.xyz is still available, and I have used that successfully. And, I don't know what the etiquette rules are around this, but you can use sub's bot to get a comment with download links, right?
+:PROPERTIES:
+:Author: a_marie_z
+:Score: 2
+:DateUnix: 1618757022.0
+:DateShort: 2021-Apr-18
+:END:
+
+
+** Calibre with FanFicFare plugin is best for long term but for short term ( you're unsure about a fic but like to download and check it out) [[https://fanfictiondownloader.net/#/download][FanFictionDownloader]] is better. It's much faster than FFF.
+
+By the way, FFDL requires Calibre for conversion (to epub for example), so if you're on Windows and don't have Calibre installed then download the following version. It has everything necessary.
+
+#+begin_quote
+  FFDL (Zip, All-In-One): [[https://fanfictiondownloader.net/ffdl-win-port.zip][0.9.4]]
+#+end_quote
+:PROPERTIES:
+:Author: carelesslazy
+:Score: 1
+:DateUnix: 1618773127.0
+:DateShort: 2021-Apr-18
+:END:
+
+*** Problem is: I mostly download fics on my phone and then send them on my kindle. My laptop is garbage, the less I use it, the better
+
+But thanks! I've got calibre on my laptop, will download the plugin anyway
+:PROPERTIES:
+:Author: bisione
+:Score: 1
+:DateUnix: 1618836701.0
+:DateShort: 2021-Apr-19
+:END:

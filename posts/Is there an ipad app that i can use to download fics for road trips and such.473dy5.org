@@ -1,0 +1,145 @@
+#+TITLE: Is there an ipad app that i can use to download fics for road trips and such?
+
+* Is there an ipad app that i can use to download fics for road trips and such?
+:PROPERTIES:
+:Author: Tits_Me_Pm
+:Score: 8
+:DateUnix: 1456179979.0
+:DateShort: 2016-Feb-23
+:FlairText: Misc
+:END:
+I've seen something similar hinted to but not sure, thanks!
+
+Edit: Got it running! thanks for the help, now I just need stories xP ahah
+
+
+** You should be able to use a computer program such a Calibre to download ebooks/fanfiction and easily move them to your device. Youll need to use a seperate ereader app to read them on your ipad though.
+:PROPERTIES:
+:Author: MystycMoose
+:Score: 2
+:DateUnix: 1456180232.0
+:DateShort: 2016-Feb-23
+:END:
+
+*** Thanks, do you have an idea for the ereader though?
+:PROPERTIES:
+:Author: Tits_Me_Pm
+:Score: 1
+:DateUnix: 1456188372.0
+:DateShort: 2016-Feb-23
+:END:
+
+**** I just use iBooks and it works for me - I sync books with iTunes using Calibre and they're automatically downloaded to my phone
+:PROPERTIES:
+:Author: Wenxie
+:Score: 2
+:DateUnix: 1456192074.0
+:DateShort: 2016-Feb-23
+:END:
+
+***** Will Calibre let you edit the genre or name of the iBook? I want to group all my fics by pairing. Right now I have them in categories, but it's confusing because I can't tell which fics I've sorted and which I haven't.
+:PROPERTIES:
+:Author: Meiyouxiangjiao
+:Score: 1
+:DateUnix: 1456288397.0
+:DateShort: 2016-Feb-24
+:END:
+
+****** I edit that stuff straight in iTunes, in the ebooks tab.
+:PROPERTIES:
+:Author: Wenxie
+:Score: 1
+:DateUnix: 1456351680.0
+:DateShort: 2016-Feb-25
+:END:
+
+
+**** Appwise, i dont. I read ffn on a dedicated ereader (kindle paperwhite), and dont own a tablet. I know that kindle has an app, which would work well so long as you remember to download the epub and convert it to azw3 in calibre.
+
+For the kindle, azw3>>mobi since azw3 retains use of the chapter select feature (ie, a dropdown table of contents). Epub also has that feature, but mobi does not, it uses a hyperlinked ToC as a page in the book (either 1st page or last page, i cant remember
+
+For general use, the 2 relatively easy access filetypes are mobi and epub, of which epub >> mobi for the same reason that azw3 is better: the ToC
+:PROPERTIES:
+:Author: MystycMoose
+:Score: 1
+:DateUnix: 1456204995.0
+:DateShort: 2016-Feb-23
+:END:
+
+***** That's odd. I use .mobi files and have the chapter select function on my paper white.
+:PROPERTIES:
+:Author: bluspacecow
+:Score: 2
+:DateUnix: 1456205777.0
+:DateShort: 2016-Feb-23
+:END:
+
+****** Really? Huh. I remember specifically when i started using calibre to convert epubs to put on my kindle, it defaulted to .mobi and i couldnt use the dropdown chapter select feature. I tried converting to azw3 instead (since thats the format amazon books are DLed in) and then i was able to use the dropdown chapter select feature.
+
+I assumed it was the filetype, but perhaps it was just a settings issue? Anyone else care to chime in with experience or knowledge?
+:PROPERTIES:
+:Author: MystycMoose
+:Score: 1
+:DateUnix: 1456206664.0
+:DateShort: 2016-Feb-23
+:END:
+
+******* Well you did say it was some time ago. It's possible that the mobi file format and/or firmware on the kindle paper white's been updated since then. Or calibres been updated since then.
+
+Is pretty rare for me to convert a fanfiction to mobi file format and not have a working table of contents under the "Go To" button. Not with the web sites and tools I use (the usual ones)
+:PROPERTIES:
+:Author: bluspacecow
+:Score: 1
+:DateUnix: 1456219070.0
+:DateShort: 2016-Feb-23
+:END:
+
+
+** Mobile downloads are extremely easy and fast with the [[http://p0ody-files.com/ff_to_ebook/][p0ody downloader]], which the ff bot here uses.
+
+Once your file downloads, you can easily open up the file using the Kindle app for mobi files, or any other generic ereader for epub. For Android users, I recommend using the Moon+ Reader app for epubs.
+:PROPERTIES:
+:Author: inimically
+:Score: 2
+:DateUnix: 1456191058.0
+:DateShort: 2016-Feb-23
+:END:
+
+
+** [[http://ficsave.com/][Ficsave]] should work on any browser. And the iOS ebook reader does accept .epub formats.
+
+What I don't know is if you can automatically read those files after downloading them, or if you have to manually transfer them to the ebook reader app via iTunes.
+:PROPERTIES:
+:Author: serenehime
+:Score: 2
+:DateUnix: 1456206627.0
+:DateShort: 2016-Feb-23
+:END:
+
+
+** I use pocket fiction. Syncs with my fan fiction account and loads all of my favorited stories. Keeps track of where you are at, etc
+:PROPERTIES:
+:Author: Doin_Doughty_Deeds
+:Score: 2
+:DateUnix: 1456210500.0
+:DateShort: 2016-Feb-23
+:END:
+
+
+** ficsave.com
+:PROPERTIES:
+:Author: HelloBeautifulChild
+:Score: 2
+:DateUnix: 1456246204.0
+:DateShort: 2016-Feb-23
+:END:
+
+
+** I'm rocking an iPad 1 and this works fine:
+
+Download fics using P0ody-Files downloader, and open them in iBooks.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1456280727.0
+:DateShort: 2016-Feb-24
+:END:

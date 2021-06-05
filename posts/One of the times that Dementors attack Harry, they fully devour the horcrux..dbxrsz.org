@@ -1,0 +1,292 @@
+#+TITLE: One of the times that Dementors attack Harry, they fully devour the horcrux.
+
+* One of the times that Dementors attack Harry, they fully devour the horcrux.
+:PROPERTIES:
+:Author: TheVoteMote
+:Score: 28
+:DateUnix: 1569955502.0
+:DateShort: 2019-Oct-01
+:FlairText: Request
+:END:
+I've seen a few fics where Harry is very nearly spooky kissed and it has unusual effects. I've seen fics where Harry dies early and comes back to life without the horcrux. I don't think I've seen any where a dementor cleanly take the horcrux and Harry is cured (fixed?).
+
+Are there any?
+
+
+** There is another one, it just kills the horcrux. Although the story was abandoned and we only hear about it. No Competition linkffn(11126195)
+:PROPERTIES:
+:Author: muleGwent
+:Score: 6
+:DateUnix: 1569968200.0
+:DateShort: 2019-Oct-02
+:END:
+
+*** [[https://www.fanfiction.net/s/11126195/1/][*/No Competition/*]] by [[https://www.fanfiction.net/u/377878/Evilgoddss][/Evilgoddss/]]
+
+#+begin_quote
+  What if the horcrux in Harry's scar hadn't quite been as contained by the Blood Wards as Dumbledore planned. Rather than twisting Harry's personality, it darkened his aura. And the dark creatures of the magical world really liked that aura. Gee. Sucks to be a Dark Lord trying to make your comeback. VERY AU. Just for fun.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{9} ^{*|*} ^{/Words/:} ^{69,221} ^{*|*} ^{/Reviews/:} ^{2,083} ^{*|*} ^{/Favs/:} ^{10,930} ^{*|*} ^{/Follows/:} ^{11,077} ^{*|*} ^{/Updated/:} ^{11/13/2017} ^{*|*} ^{/Published/:} ^{3/20/2015} ^{*|*} ^{/id/:} ^{11126195} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Humor} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11126195&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11126195&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 6
+:DateUnix: 1569968211.0
+:DateShort: 2019-Oct-02
+:END:
+
+
+*** Oh yeesh, didn't notice this one was abandoned. Saw someone recommend it recently, but never checked it out. That's always disappointing.
+:PROPERTIES:
+:Author: FangOfDrknss
+:Score: 2
+:DateUnix: 1569973299.0
+:DateShort: 2019-Oct-02
+:END:
+
+
+*** that's quite interesting and funny! thanks
+:PROPERTIES:
+:Author: Sharedo
+:Score: 1
+:DateUnix: 1569972846.0
+:DateShort: 2019-Oct-02
+:END:
+
+
+** [[https://www.reddit.com/r/HPfanfiction/comments/bjx6td/request_good_stories_that_explore_what_would]]
+
+Sorry, I don't feel like linking everything there systematically.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1569959747.0
+:DateShort: 2019-Oct-01
+:END:
+
+*** There is actually a command for that in the bot. linksub([[https://www.reddit.com/r/HPfanfiction/comments/bjx6td/request_good_stories_that_explore_what_would]])
+
+Actually the bot has all sorts of cool features that noone uses... Like if you put ffnbot!directlinks somewhere in your comment, it will parce all the links in your comment. Hide that with a long chain of ^s and your comment will look seamless.
+:PROPERTIES:
+:Author: bonsly24
+:Score: 5
+:DateUnix: 1569967905.0
+:DateShort: 2019-Oct-02
+:END:
+
+**** Huh, well that's what I get for using a tool without documentation...
+
+And I'm a software engineer...
+:PROPERTIES:
+:Score: 7
+:DateUnix: 1569968404.0
+:DateShort: 2019-Oct-02
+:END:
+
+***** Noone (except me apparently) actually reads the documentation for stuff it seems. Just how our brains work, we use our intuition until its working and then forget about it.
+:PROPERTIES:
+:Author: bonsly24
+:Score: 7
+:DateUnix: 1569968786.0
+:DateShort: 2019-Oct-02
+:END:
+
+****** I've seen the feature, but never heard about the ^ trick -- didn't realize you could make text disappear that way. I think the saner approach would be to add it in a post, let the bot do its thing, then remove it in an edit.
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 2
+:DateUnix: 1570029211.0
+:DateShort: 2019-Oct-02
+:END:
+
+
+****** Which is weird because it's actually on the side of the subreddit.
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1569968881.0
+:DateShort: 2019-Oct-02
+:END:
+
+******* I know right!
+
+So many people struggle with the bot (especially since it doesn't like a capital at the beginning of Linkffn,) but
+
+#+begin_example
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^ffnbot!directlinks
+#+end_example
+
+Is so much easier.
+
+Then I see some people doing both links and linkffn(3428397) (ffnbot!ignore) that it doesn't make sense to me why they don't just put the link instead of the id number. The bot works just fine that way, and it is way easier than doing both, (but not as easy as directlinks).
+:PROPERTIES:
+:Author: bonsly24
+:Score: 3
+:DateUnix: 1569969932.0
+:DateShort: 2019-Oct-02
+:END:
+
+******** Personally I don't want to link urls on my phone as it requires awkward context switching.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1569970768.0
+:DateShort: 2019-Oct-02
+:END:
+
+********* Oh, for that purpose I can see that way being a bit better. Just on a PC it is about the same amount of work to find the id as it is to get the url.
+:PROPERTIES:
+:Author: bonsly24
+:Score: 3
+:DateUnix: 1569971057.0
+:DateShort: 2019-Oct-02
+:END:
+
+********** The search ability is on point provided the title is unique, i.e. not Knowledge is Power.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1569972413.0
+:DateShort: 2019-Oct-02
+:END:
+
+*********** I mean, yeah, that is mostly true.
+:PROPERTIES:
+:Author: bonsly24
+:Score: 3
+:DateUnix: 1569972841.0
+:DateShort: 2019-Oct-02
+:END:
+
+************ Seriously, so many fics named Knowledge is Power.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1569975010.0
+:DateShort: 2019-Oct-02
+:END:
+
+************* I think I have (even avoiding a bunch of them) read at least two KiP in my HP fanfic career.
+:PROPERTIES:
+:Author: bonsly24
+:Score: 2
+:DateUnix: 1569975543.0
+:DateShort: 2019-Oct-02
+:END:
+
+************** Quoting philosophers is not smart, it just shows you can't think of anything original /cough/ Kanye.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1569975905.0
+:DateShort: 2019-Oct-02
+:END:
+
+
+**** [[https://www.fanfiction.net/s/6512582/1/][*/Keep Your Enemies Closer/*]] by [[https://www.fanfiction.net/u/2551707/Riddletobien][/Riddletobien/]] (196,104 words; /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=6512582&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=6512582&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  Voldemort discovers his human horcrux and takes control of wizarding Britain. Harry is allowed to live though it's a knife-edged journey. Attending a darker version of Hogwarts, he struggles with a strange connection to Dark Marks and Tom Riddle whispering inside his head. AU dystopia. Story is mostly gen, though praised for its platonic intimacy between the two arch-enemies.
+#+end_quote
+
+[[https://www.fanfiction.net/s/4240771/1/][*/Partially Kissed Hero/*]] by [[https://www.fanfiction.net/u/1318171/Perfect-Lionheart][/Perfect Lionheart/]] (483,646 words; /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=4240771&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=4240771&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  Summer before third year Harry has a life changing experience, and a close encounter with a dementor ends with him absorbing the horcrux within him. Features Harry with a backbone.
+#+end_quote
+
+--------------
+
+/slim!FanfictionBot/^{2.0.0-beta} Note that some story data has been sourced from older threads, and may be out of date.
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1569967918.0
+:DateShort: 2019-Oct-02
+:END:
+
+
+**** So (because the bot failed a bit here, didn't parce the links originally)
+
+the storylink for [[https://www.fanfiction.net/s/9720211/1/The-Merging]]
+
+can be reduced down to [[https://www.fanfiction.net/s/9720211/1/][The Merging]]
+
+With a period free version of [The Merging].([[https://www.fanfiction.net/s/9720211/1/]]).
+
+Add
+
+#+begin_example
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^ffnbot!directlinks
+#+end_example
+
+and the bot will parce it with no visual effect on your comment.
+:PROPERTIES:
+:Author: bonsly24
+:Score: 1
+:DateUnix: 1569968343.0
+:DateShort: 2019-Oct-02
+:END:
+
+***** [[https://www.fanfiction.net/s/9720211/1/][*/The Merging/*]] by [[https://www.fanfiction.net/u/2102558/Shaydrall][/Shaydrall/]]
+
+#+begin_quote
+  To Harry Potter, Fifth Year seemed like the same as any other. Classmates, homework, new dangers, Voldemort risen in the shadows... the usual, even with a Dementor attack kicking things off. But how long can he maintain the illusion that everything is under control? As hope for a normal life slips away through his fingers, will Harry bear the weight of it all... or will it crush him?
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{27} ^{*|*} ^{/Words/:} ^{402,897} ^{*|*} ^{/Reviews/:} ^{4,375} ^{*|*} ^{/Favs/:} ^{10,052} ^{*|*} ^{/Follows/:} ^{11,926} ^{*|*} ^{/Updated/:} ^{10/27/2018} ^{*|*} ^{/Published/:} ^{9/27/2013} ^{*|*} ^{/id/:} ^{9720211} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure/Romance} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9720211&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9720211&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1569968400.0
+:DateShort: 2019-Oct-02
+:END:
+
+
+** linkffn(12879191)
+
+The soul shard get sucked out and Dumbledore declares him 'uninteresting' as a result. The process changes the dementor who seeks to claim all Tom Riddle's soul shards from the horcruxes with Harry's assistance.
+:PROPERTIES:
+:Author: ChildOfDragons
+:Score: 1
+:DateUnix: 1570018961.0
+:DateShort: 2019-Oct-02
+:END:
+
+*** [[https://www.fanfiction.net/s/12879191/1/][*/The Boy Who Lived to be Kissed/*]] by [[https://www.fanfiction.net/u/6241015/BeepKeeper][/BeepKeeper/]]
+
+#+begin_quote
+  Set in fall term of third year the Dementor on train kisses the scar and sucks out the shard of Riddle's soul -- with interesting reaction in the Dementor. Declared 'uninteresting' without the Dark Lord's mark, Harry is deserted by old friends and ignored by Dumbledore but he makes new friends. Then he receives a letter from Dementor who wants something.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{2} ^{*|*} ^{/Words/:} ^{56,880} ^{*|*} ^{/Reviews/:} ^{74} ^{*|*} ^{/Favs/:} ^{456} ^{*|*} ^{/Follows/:} ^{204} ^{*|*} ^{/Published/:} ^{3/24/2018} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{12879191} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12879191&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12879191&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1570018973.0
+:DateShort: 2019-Oct-02
+:END:
+
+
+** Now I'm curious about such a fic, but Dumbledore never realizes that the Horcrux is gone, nor does Harry (he's only happy about having stopped having bad dreams), so the forest scene has him die for real. Oops.
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 1
+:DateUnix: 1570029106.0
+:DateShort: 2019-Oct-02
+:END:
+
+
+** Partially kissed hero comes to mind
+:PROPERTIES:
+:Author: Lgamezp
+:Score: 1
+:DateUnix: 1570058296.0
+:DateShort: 2019-Oct-03
+:END:

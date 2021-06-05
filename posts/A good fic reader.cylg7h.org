@@ -1,0 +1,72 @@
+#+TITLE: A good fic reader
+
+* A good fic reader
+:PROPERTIES:
+:Author: social_designer
+:Score: 6
+:DateUnix: 1567406288.0
+:DateShort: 2019-Sep-02
+:FlairText: Misc
+:END:
+Hey, I like to read fanfiction on my phone. And for that I usually use an app called codex reader. It works fine for fics from ff.net but not Ao3. What I like is the black background, the download and update option and that it remembers on what chapter you have been. But The search option is a pain. On ff it just opens the story in the reader on Ao3 not. Does anyone know of that app and knows how to work that without using the search engine? Or is there a better reader that also includes ao3?
+
+
+** Fanfiction.net has its own app, has black bagground as an option, can download fics, and automatically updates them. Pretty much same search engine as on site though. Dont know about ao3, i read on mobile as well, and ao3 annoys the hell out of me xD
+:PROPERTIES:
+:Author: luminphoenix
+:Score: 5
+:DateUnix: 1567410596.0
+:DateShort: 2019-Sep-02
+:END:
+
+*** And still the one thing they haven't added is justified text. For some reason I fail to understand this. Whenever I read fanfiction anything I prefer it like that. Do I just have some weird form of OCD or are there other people that get annoyed by it? The thing I like about AO3 is that I can download the fic and then use ReadEra.
+
+That's what I use; ReadEra. Simple and nice customisation.
+:PROPERTIES:
+:Author: Vallaquenta
+:Score: 1
+:DateUnix: 1567440719.0
+:DateShort: 2019-Sep-02
+:END:
+
+**** What is justified text? Never heard of it.
+:PROPERTIES:
+:Author: luminphoenix
+:Score: 1
+:DateUnix: 1567449888.0
+:DateShort: 2019-Sep-02
+:END:
+
+***** [[https://practicaltypography.com/justified-text.html]]
+:PROPERTIES:
+:Author: Freshenstein
+:Score: 1
+:DateUnix: 1567453780.0
+:DateShort: 2019-Sep-03
+:END:
+
+
+** I use moon+ reader to read Epub and mobi files. The pro version is very cheap, and it's a great app. I just download files from ao3 onto my phone.
+:PROPERTIES:
+:Author: i_atent_ded
+:Score: 4
+:DateUnix: 1567411021.0
+:DateShort: 2019-Sep-02
+:END:
+
+*** Looks interesting. Like a good e-reader. I'll think about it, thanks :)
+:PROPERTIES:
+:Author: social_designer
+:Score: 2
+:DateUnix: 1567411522.0
+:DateShort: 2019-Sep-02
+:END:
+
+
+** I usually download all fics as ePubs (I use [[https://github.com/JimmXinu/FanFicFare][fanficfare]] on the command line, but it also works as a plugin for Calibre), and then I can read them with absolutely any ePub reader (there is plenty of them). Another benefit is that I have now archive of plenty of fics, which are not available any more.
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1567414300.0
+:DateShort: 2019-Sep-02
+:END:

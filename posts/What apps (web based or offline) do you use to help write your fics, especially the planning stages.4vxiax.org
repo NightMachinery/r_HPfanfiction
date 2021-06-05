@@ -1,0 +1,132 @@
+#+TITLE: What apps (web based or offline) do you use to help write your fics, especially the planning stages?
+
+* What apps (web based or offline) do you use to help write your fics, especially the planning stages?
+:PROPERTIES:
+:Author: Freshenstein
+:Score: 8
+:DateUnix: 1470213425.0
+:DateShort: 2016-Aug-03
+:FlairText: Discussion
+:END:
+There's got to be many apps to help writers plan and plot their stories so that plot lines don't get lost or suddenly appear. The same with small sub parts of the story that you want to use but need to flesh out. Which ones do you use?
+
+
+** I think a good old blank piece of paper for you to plan how you want to organise your own story always works.
+:PROPERTIES:
+:Author: cinchCur
+:Score: 6
+:DateUnix: 1470218093.0
+:DateShort: 2016-Aug-03
+:END:
+
+
+** I use Scrivener. It's an excellent tool that I use often.
+:PROPERTIES:
+:Author: Darkenmal
+:Score: 2
+:DateUnix: 1470215256.0
+:DateShort: 2016-Aug-03
+:END:
+
+*** That looks like a fantastic app. I'll have to look into that. Thanks!
+:PROPERTIES:
+:Author: Freshenstein
+:Score: 2
+:DateUnix: 1470219441.0
+:DateShort: 2016-Aug-03
+:END:
+
+**** No problem!
+:PROPERTIES:
+:Author: Darkenmal
+:Score: 1
+:DateUnix: 1470219804.0
+:DateShort: 2016-Aug-03
+:END:
+
+
+** I use Google Drive, easier to write whenever the opportunity and the mood presents itself.
+:PROPERTIES:
+:Author: Brynjolf-of-Riften
+:Score: 2
+:DateUnix: 1470235561.0
+:DateShort: 2016-Aug-03
+:END:
+
+
+** Google Docs.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 1
+:DateUnix: 1470219411.0
+:DateShort: 2016-Aug-03
+:END:
+
+*** That, plus my brain. Because I, the writer, am supposed to keep track of stuff.
+:PROPERTIES:
+:Author: ScottPress
+:Score: 1
+:DateUnix: 1470224857.0
+:DateShort: 2016-Aug-03
+:END:
+
+**** I have one file with the entire story (or more files, if it gets too big to be easily handled by weaker computers), and one file with the current chapter, with the notes - future scenes, plot points, ideas - tacked on at the end of the chapter.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 1
+:DateUnix: 1470233039.0
+:DateShort: 2016-Aug-03
+:END:
+
+
+** Scrivener.
+
+All my sketching of plot and such is done on paper since its fast enough to catch up with my thoughts while brainstorming. When that is done, the general outline is done in Scrivener via Chapter and Scene folder structures.
+
+I also use Photoshop for all my moodboard needs. I do think a visual set of inspirations for a character is importants. For example, these are my moods for [[http://imgur.com/a/zTVdX][Bellatrix Black]], [[http://imgur.com/a/c5fen][Hermione]] and the [[http://imgur.com/a/M8Fmu][OC Annemarie Lanzmann]] for one of my stories.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 1
+:DateUnix: 1470220191.0
+:DateShort: 2016-Aug-03
+:END:
+
+
+** Dramatica and/or The Marshall Plan novel writing software.
+:PROPERTIES:
+:Author: Judy-Lee
+:Score: 1
+:DateUnix: 1470222761.0
+:DateShort: 2016-Aug-03
+:END:
+
+
+** Planning phase: Vim. (It's a text editor. Powerful and inscrutable.)
+
+Writing phase: Vim and [[https://github.com/dhasenan/subtex][Subtex]]. Subtex is a markup processor I wrote based on LaTeX.
+
+Add on tmux (a command line tool that kind of offers window management?) so I can compile the story without closing it, or switch more easily between the outline / notes and the story, and I'm golden.
+
+I'm living in the 90s, yo.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1470234118.0
+:DateShort: 2016-Aug-03
+:END:
+
+*** High five to another vim user. :) I use screen though, haven't really made the transition to tmux.
+:PROPERTIES:
+:Author: honestplease
+:Score: 1
+:DateUnix: 1470240491.0
+:DateShort: 2016-Aug-03
+:END:
+
+
+** Family tree builder, it's a desktop app put out by myheritage. Free, just don't upload it (the online version has a limit on the number of people you can add for free). Google docs has been mentioned. I use sheets a lot. And good old pen and paper of course. Lol.
+:PROPERTIES:
+:Author: jfinner1
+:Score: 1
+:DateUnix: 1470254373.0
+:DateShort: 2016-Aug-04
+:END:

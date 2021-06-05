@@ -1,0 +1,123 @@
+#+TITLE: ffnbot!refresh: ANOTHER new bot feature!
+
+* ffnbot!refresh: ANOTHER new bot feature!
+:PROPERTIES:
+:Author: tusing
+:Score: 21
+:DateUnix: 1441617507.0
+:DateShort: 2015-Sep-07
+:FlairText: Meta
+:END:
+Hey, all,
+
+[[https://www.reddit.com/r/HPfanfiction/comments/3jxcwb/new_bot_feature_ffnbotdelete_and_more_info_on_the/][A few hours ago I added ffnbot!delete]] to delete spoiler comments. Well, [[/r/OutOfNiceUsernames]] requested a */ffnbot!refresh/* feature for those times the bot doesn't properly respond to your comment, or when you want to add new fics to your comment but the bot has already replied.
+
+--------------
+
+** *USAGE*
+   :PROPERTIES:
+   :CUSTOM_ID: usage
+   :END:
+**** Reply to a bot comment /or/ (preferably) a comment with bot fic requests with /ffnbot!refresh/ to re-do bot replies. The bot will automagically delete its own replies and make new, shiny, updated replies.
+     :PROPERTIES:
+     :CUSTOM_ID: reply-to-a-bot-comment-or-preferably-a-comment-with-bot-fic-requests-with-ffnbotrefresh-to-re-do-bot-replies.-the-bot-will-automagically-delete-its-own-replies-and-make-new-shiny-updated-replies.
+     :END:
+
+--------------
+
+I had been thinking about implementing this for some time, already, and I guess that request finally made me do it - I thought it would have been a very time-consuming undertaking. It was - I've pretty much been working from ~8 PM to 2 AM nonstop, but it's a long weekend, so that's fine.
+
+While it may not seem like it, this means a /lot/ for the bot. A refresh functionality means that sooner than expected, we will be able to have the bot /automatically/ re-reply to an /edited/ comment. In fact, it even paves the way for future automatic sanity-checking, but that's still some time away.
+
+Anyways, have fun with the new feature. Hopefully it streamlines your experience when the bot makes a bad reply.
+
+
+** Would it be possible to have the bot edit its comment instead of deleting and re-replying? Feel free to ignore me, but it would avoid filling up the comments with excessive deleted posts.
+:PROPERTIES:
+:Score: 8
+:DateUnix: 1441634536.0
+:DateShort: 2015-Sep-07
+:END:
+
+*** Technically, yes. If a have a little bit more time, I will try implementing it, yes.
+
+But until then: Since the maintainer of the bot is in the moderative team, I see very little chance of this feature being actively abused. Especially because the team of moderators can always ask [[/u/tusing]] for help regarding those cases.
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 5
+:DateUnix: 1441643372.0
+:DateShort: 2015-Sep-07
+:END:
+
+
+*** It would require an ungodly amount of time to implement that, especially with the edge cases and all. Tried it earlier. I don't think I will be able to do it any time soon.
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1441648667.0
+:DateShort: 2015-Sep-07
+:END:
+
+
+** Thanks a ton. This bot is literally my favorite bot on reddit.
+:PROPERTIES:
+:Author: Imborednow
+:Score: 3
+:DateUnix: 1441718569.0
+:DateShort: 2015-Sep-08
+:END:
+
+
+** It would be great to have all the features and uses for ffnbot in a single post that would continue to get updated. Then, if we could get that post onto the sidebar...
+:PROPERTIES:
+:Author: nqeron
+:Score: 3
+:DateUnix: 1441621629.0
+:DateShort: 2015-Sep-07
+:END:
+
+*** There actually should be a changelog and a usage-post linked in every reply.
+
+linkffn(Reinforced Magic) --- Just a random story so you see what I mean.
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 5
+:DateUnix: 1441625047.0
+:DateShort: 2015-Sep-07
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1441718887.0
+:DateShort: 2015-Sep-08
+:END:
+
+***** yes, it works
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 3
+:DateUnix: 1441719735.0
+:DateShort: 2015-Sep-08
+:END:
+
+
+**** [[http://www.fanfiction.net/s/10181533/1/][*/Reinforced Magic/*]] by [[https://www.fanfiction.net/u/4199791/Lupine-Horror][/Lupine Horror/]]
+
+#+begin_quote
+  She was supposed to die, she was supposed to be destroyed, she was supposed to be completely annihilated, but she wasn't. He wasn't the happiest, nor was he the luckiest, but now a guardian angel all of his own had found her way to him. Let's see what Hogwarts makes of these two. This is fan fiction, I only own the plot.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter + Magical Girl Lyrical Nanoha Crossover *|* /Rated/: Fiction T *|* /Chapters/: 19 *|* /Words/: 104,604 *|* /Reviews/: 671 *|* /Favs/: 1,352 *|* /Follows/: 817 *|* /Updated/: 4/4/2014 *|* /Published/: 3/12/2014 *|* /Status/: Complete *|* /id/: 10181533 *|* /Language/: English *|* /Characters/: Harry P., Reinforce *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=10181533][EPUB]]}
+
+--------------
+
+*Bot v1.3.0 - 9/7/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* Use /ffnbot!delete/ to delete a comment! Use /ffnbot!refresh/ to refresh bot replies!
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1441718975.0
+:DateShort: 2015-Sep-08
+:END:

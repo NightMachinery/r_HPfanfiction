@@ -1,0 +1,252 @@
+#+TITLE: How do you write fanfic?
+
+* How do you write fanfic?
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 21
+:DateUnix: 1575980298.0
+:DateShort: 2019-Dec-10
+:FlairText: Discussion
+:END:
+I like to work on my fics whenever I have spare time, so I write in Google Docs since I can access it from my phone, my laptop and my main PC. I got every story as a large document containing all the chapters so I can scroll to an earlier chapter to look something up. Getting the finished chapters into FFN was a bit of a hassle, but I wrote a simple script to automatically take the last chapter in the document and download it as .docx file. How does my method compare to how you write your fanfics?
+
+
+** I use LibreOffice, I keep a folder with all my fanfictions in it. I have subfolders for each fic then each chapter is a separate document. After I finish writing a chapter, I run it through Grammarly, because I'm lazy, then read over it once and fix anything, then copy it into FFN. Add the breaks, then upload, then copy to AO3, then upload.
+:PROPERTIES:
+:Author: DarkLordRowan
+:Score: 14
+:DateUnix: 1575989982.0
+:DateShort: 2019-Dec-10
+:END:
+
+
+** Google Docs, full screen mode, sometimes with Dark Reader turned on. There is just something about having no visual distractions that makes the flow a lot easier. Basically the only reason I use Docs.
+
+Primarily stored on Drive, each chapter its own document and each story its own folder. Backups downloaded as .docx on my computer.
+
+I keep notes about the story (such as events, quotes, poems, schedules and everything else I might conceivably need in the future) in a Notion page, since it's a bit more organised than just having it in a doc.
+
+Funnily enough, I never wrote on my phone, even though I could. I sometimes proof-read it that way, but never write. Asking me to write on that small keyboard is like killing puppies. It simply isn't done.
+:PROPERTIES:
+:Author: LesBubbles0
+:Score: 7
+:DateUnix: 1576006475.0
+:DateShort: 2019-Dec-10
+:END:
+
+*** I've never tried writing with Dark Reader turned on! I do everything else with it on, holy shit I have to try it!
+:PROPERTIES:
+:Author: DarkLordRowan
+:Score: 5
+:DateUnix: 1576006863.0
+:DateShort: 2019-Dec-10
+:END:
+
+**** It's amazing! Mainly when it's dark (which is currently like all the time). The only issue I found is that you cannot see text highlights and comments that well. The first one is especially annoying, but it can be fixed with some contrast and brightness issues in the extension.
+:PROPERTIES:
+:Author: LesBubbles0
+:Score: 2
+:DateUnix: 1576010009.0
+:DateShort: 2019-Dec-11
+:END:
+
+
+** I do that too sometimes if I feel like I won't upload it for a while. I mainly keep my writings on fanfiction.net. Using the app or website, I can create the documents for chapters right there, but using Google docs does help stay organized
+:PROPERTIES:
+:Author: wannaviolinindreams
+:Score: 5
+:DateUnix: 1575981682.0
+:DateShort: 2019-Dec-10
+:END:
+
+*** I don't really like FFN's built in editor.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 3
+:DateUnix: 1575981989.0
+:DateShort: 2019-Dec-10
+:END:
+
+**** Yeah, when I write it on my laptop I use grammarly to correct as I write on Google docs and FFN.
+:PROPERTIES:
+:Author: wannaviolinindreams
+:Score: 1
+:DateUnix: 1575982600.0
+:DateShort: 2019-Dec-10
+:END:
+
+
+** I have a folder in google drive, and each chapter is a separate doc. I label the first chapter as Title Here, and the rest are TH2, TH3, TH4, etc,. It's a lot easier for me to upload this way, and I keep a separate doc (my outline) that has a few quick points that each chapter hit, so I can always find the chapter if I need to look something up. Plus the word count tool is so much easier to use when each doc is separate.
+:PROPERTIES:
+:Author: snhuz
+:Score: 3
+:DateUnix: 1575984175.0
+:DateShort: 2019-Dec-10
+:END:
+
+
+** I am a programmer by profession, so I write everything in a plan text editor ([[https://neovim.io/][neovim]] in my case) using [[https://en.wikipedia.org/wiki/ReStructuredText][reStructuredText]] format and then converting to HTML/Open/LibreOffice/ePub/whatever-else. I really liked that AO3 is capable of importing multiple chapters (80+ in my case of linkao3(20896994)) at once.
+:PROPERTIES:
+:Author: ceplma
+:Score: 3
+:DateUnix: 1575991303.0
+:DateShort: 2019-Dec-10
+:END:
+
+*** [[https://archiveofourown.org/works/20896994][*/Lenka Láskorádová a Deník Temného Pána/*]] by [[https://www.archiveofourown.org/users/mcepl/pseuds/mcepl][/mcepl/]]
+
+#+begin_quote
+  Plány Toma Radla se zhroutí, když Ginny Weasleyová ztratí jeho deník hned ve svém prvním roce školy a nalezne ho jistá Lenka Láskorádová. Následuje řada bizarních rozhovorů. „Lenko? Ano, Tome? Hodně jsem nad tím přemýšlel ... a myslím, že jsi šílená.“ Překlad anglické povídky „Luna Lovegood and the Dark Lord's Diary" od „The madness in me". Jakékoli připomínky texty (včetně oprav gramatických chyb) jsou velmi vítány.
+#+end_quote
+
+^{/Site/:} ^{Archive} ^{of} ^{Our} ^{Own} ^{*|*} ^{/Fandom/:} ^{Harry} ^{Potter} ^{-} ^{J.} ^{K.} ^{Rowling} ^{*|*} ^{/Published/:} ^{2019-10-04} ^{*|*} ^{/Completed/:} ^{2019-10-04} ^{*|*} ^{/Words/:} ^{48351} ^{*|*} ^{/Chapters/:} ^{88/88} ^{*|*} ^{/Kudos/:} ^{3} ^{*|*} ^{/Hits/:} ^{44} ^{*|*} ^{/ID/:} ^{20896994} ^{*|*} ^{/Download/:} ^{[[https://archiveofourown.org/downloads/20896994/Lenka%20Laskoradova%20a.epub?updated_at=1570326370][EPUB]]} ^{or} ^{[[https://archiveofourown.org/downloads/20896994/Lenka%20Laskoradova%20a.mobi?updated_at=1570326370][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1575991311.0
+:DateShort: 2019-Dec-10
+:END:
+
+
+*** *ReStructuredText*
+
+reStructuredText (RST, ReST, or reST) is a file format for textual data used primarily in the Python programming language community for technical documentation.
+
+It is part of the Docutils project of the Python Doc-SIG (Documentation Special Interest Group), aimed at creating a set of tools for Python similar to Javadoc for Java or Plain Old Documentation (pod) for Perl. Docutils can extract comments and information from Python programs, and format them into various forms of program documentation.In this sense, reStructuredText is a lightweight markup language designed to be both (a) processable by documentation-processing software such as Docutils, and (b) easily readable by human programmers who are reading and writing Python source code.
+
+--------------
+
+^{[} [[https://www.reddit.com/message/compose?to=kittens_from_space][^{PM}]] ^{|} [[https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme][^{Exclude} ^{me}]] ^{|} [[https://np.reddit.com/r/HPfanfiction/about/banned][^{Exclude} ^{from} ^{subreddit}]] ^{|} [[https://np.reddit.com/r/WikiTextBot/wiki/index][^{FAQ} ^{/} ^{Information}]] ^{|} [[https://github.com/kittenswolf/WikiTextBot][^{Source}]] ^{]} ^{Downvote} ^{to} ^{remove} ^{|} ^{v0.28}
+:PROPERTIES:
+:Author: WikiTextBot
+:Score: 2
+:DateUnix: 1575991312.0
+:DateShort: 2019-Dec-10
+:END:
+
+
+** I use Google docs. And then I post them to AO3. Google docs is the best free option imo. It has dictionaries, side bar for notes and checklists, a chapter index from titles and you can add comments to remember certain things
+:PROPERTIES:
+:Author: syrollesse
+:Score: 2
+:DateUnix: 1576008897.0
+:DateShort: 2019-Dec-10
+:END:
+
+
+** I usually have at least 4-5 tabs open every time I'm writing: the fic doc, my outline doc, [[https://thesaurus.com][thesaurus.com]], what's posted of my WIP on Ao3, and a research tab (my research tabs sometimes grow to 10 or more, depending on how sidetracked I get).
+
+I write everything in Google Docs because it allows for easy beta-reading (the beta readers can leave comments as well as suggestions so I can accept or deny them). It also allows me to read my WIP on my tablet as I'm going to bed, which helps me spot typos better because it's on a different screen.
+
+I do each chapter as a separate file just because it cuts down on load time. (This is why I have my fic open on Ao3 as I'm writing - flipping between chapters there is easier than using G-Docs outline tool.)
+
+I have the Grammarly extension installed, which finally works with Google Docs, yay!
+
+I tend to make at least three edit passes once I've completed a chapter or work (in addition to constantly editing as I'm writing, too). I'll make one thorough pass, then I'll change the font from Arial to something with serifs (usually Droid Serif) and do another pass - reading something you've written in a different font ALSO helps you spot typos (it's why you always always always spot a typo right after you've posted your fic even if you've read it 10 times - seriously, learning the font-changing trick was life-changing). Then I'll change the font back to Arial and edit it one more time and send it off to beta (if I've got one; I'm mostly flying without right now).
+
+Once I've got the finished product, I run a Google Add-On called "Docs to Markdown," which will do all of the HTML work for me (for the most part - it doesn't do blockquotes, do I do those manually if I have them), then I copy and paste into Ao3's HTML editor. (Copying directly from Google in Ao3's rich text editor does some really annoying crap with italicized words.)
+:PROPERTIES:
+:Author: vichan
+:Score: 2
+:DateUnix: 1576013737.0
+:DateShort: 2019-Dec-11
+:END:
+
+
+** I'm a bot, /bleep/, /bloop/. Someone has linked to this thread from another place on reddit:
+
+- [[[/r/fanfiction]]] [[https://www.reddit.com/r/FanFiction/comments/e8pwhm/how_do_you_write_fanfic/][How do you write fanfic?]]
+
+ /^{If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.} ^{([[/r/TotesMessenger][Info]]} ^{/} ^{[[/message/compose?to=/r/TotesMessenger][Contact]])}/
+:PROPERTIES:
+:Author: TotesMessenger
+:Score: 1
+:DateUnix: 1575980533.0
+:DateShort: 2019-Dec-10
+:END:
+
+
+** FocusWriter. It's a full-screen program that lets you create [[https://i.imgur.com/wi5KXUm.png][custom themes]]. The interface is very minimal, but has all the features I need (word count, daily goal, chaptering).
+:PROPERTIES:
+:Author: deirox
+:Score: 1
+:DateUnix: 1575984599.0
+:DateShort: 2019-Dec-10
+:END:
+
+*** I'll try it out!
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 1
+:DateUnix: 1575984927.0
+:DateShort: 2019-Dec-10
+:END:
+
+
+** I write everything in Word because it has some features I like (various languages for spellchecking, custom style checking, and easy page/chapter navigation).
+
+I keep my chapter notes on a google doc so that I can take note of any ideas or things I want to change while I'm on the go. And if I feel particularly inspired when away from my desk, I can write snippets or scenes on the google doc and then integrate them into my Word document when I get home.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 1
+:DateUnix: 1575988387.0
+:DateShort: 2019-Dec-10
+:END:
+
+
+** I used to use Word, now I just write in FFN directly.
+:PROPERTIES:
+:Author: Mikill1995
+:Score: 1
+:DateUnix: 1575988578.0
+:DateShort: 2019-Dec-10
+:END:
+
+
+** I use Evernote, with my Writing folder subdivided into appropriate groupings. I keep a separate document in the directory for a work with my notes, worldbuilding, plot crib sheet, etc. but after reading this thread I might try Docs. :)
+:PROPERTIES:
+:Author: Iamblichos
+:Score: 1
+:DateUnix: 1576009151.0
+:DateShort: 2019-Dec-10
+:END:
+
+
+** I have an excel file and use the tabs to keep track of various aspects of my world: notes on OCs, timeline, plot points, notes on aspects of the magic system, etc. I keep the story itself in a word file with headers at chapter beginnings to create a table of contents. I've been seeing how OneNote works for organizing research and notes and stuff. It's always a work in progress.
+:PROPERTIES:
+:Author: OGravenclaw
+:Score: 1
+:DateUnix: 1576037164.0
+:DateShort: 2019-Dec-11
+:END:
+
+
+** Google Docs. I usually write on the trin while commuting. I've got one file for the current chapter, and one for the entire story.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 1
+:DateUnix: 1576043599.0
+:DateShort: 2019-Dec-11
+:END:
+
+
+** I've got a writing programm on my laptop. It's similar to word. It's got less features but is free. I usually write at home but I also got my fic on a usb stick for safekeeping and also to write at work if I've got nothing else to do. ;) also I'be got a lot of notes and scribbles on paper for ideas and storylines.
+:PROPERTIES:
+:Author: Quine_
+:Score: 1
+:DateUnix: 1576055136.0
+:DateShort: 2019-Dec-11
+:END:
+
+
+** Google Docs has a size limit so I use FF.net for storing and GD for final editing before posting.
+:PROPERTIES:
+:Author: YOB1997
+:Score: 1
+:DateUnix: 1576084997.0
+:DateShort: 2019-Dec-11
+:END:

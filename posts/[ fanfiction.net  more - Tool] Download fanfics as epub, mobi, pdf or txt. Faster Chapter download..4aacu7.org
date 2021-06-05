@@ -1,0 +1,65 @@
+#+TITLE: [ fanfiction.net & more - Tool] Download fanfics as epub, mobi, pdf or txt. Faster Chapter download.
+
+* [[https://fafido.de][[ fanfiction.net & more - Tool] Download fanfics as epub, mobi, pdf or txt. Faster Chapter download.]]
+:PROPERTIES:
+:Author: raketenemo
+:Score: 27
+:DateUnix: 1457908102.0
+:DateShort: 2016-Mar-14
+:FlairText: Misc
+:END:
+
+** Which sites does this do ? Just fanfiction.net ? As your title seems to hint at other sites being supported.
+:PROPERTIES:
+:Author: bluspacecow
+:Score: 1
+:DateUnix: 1457954950.0
+:DateShort: 2016-Mar-14
+:END:
+
+*** u/raketenemo:
+#+begin_quote
+  Currently, you can download stories from fanfiction.net, adult-fanfiction.org, hpfanficarchive.com and fictionpress.com.
+
+  Suggestions are welcome!
+#+end_quote
+:PROPERTIES:
+:Author: raketenemo
+:Score: 2
+:DateUnix: 1457972058.0
+:DateShort: 2016-Mar-14
+:END:
+
+
+** maybe html?
+:PROPERTIES:
+:Author: wizz33
+:Score: 1
+:DateUnix: 1458012416.0
+:DateShort: 2016-Mar-15
+:END:
+
+*** I have added a format option for html files in a zip archive.
+:PROPERTIES:
+:Author: raketenemo
+:Score: 1
+:DateUnix: 1458050521.0
+:DateShort: 2016-Mar-15
+:END:
+
+**** i rather like a single big html file, its simpeler to read in a tab but thanks
+:PROPERTIES:
+:Author: wizz33
+:Score: 1
+:DateUnix: 1458071131.0
+:DateShort: 2016-Mar-15
+:END:
+
+
+** archiveofourown.org is now supported!
+:PROPERTIES:
+:Author: raketenemo
+:Score: 1
+:DateUnix: 1458062238.0
+:DateShort: 2016-Mar-15
+:END:

@@ -1,0 +1,461 @@
+#+TITLE: A re-imagined way to enjoy fanfiction: FanFiction.io
+
+* A re-imagined way to enjoy fanfiction: FanFiction.io
+:PROPERTIES:
+:Author: guppy221
+:Score: 30
+:DateUnix: 1440044366.0
+:DateShort: 2015-Aug-20
+:FlairText: Misc
+:END:
+Hey [[/r/HPfanfiction][r/HPfanfiction]],
+
+I'm planning on making my way around the different fandoms one at a time, introducing my vision for [[http://FanFiction.io][FanFiction.io]]. I thought I would start with the subs I frequent the most
+
+Anyways - When we launch, [[http://FanFiction.io][FanFiction.io]] is going to be an ad-free, censorship-free, and beautiful fanfiction platform that focuses on giving the reader and writer a thoroughly enjoyable experience. Our team has been working on [[http://FanFiction.io][FanFiction.io]] nonstop for about a month now, and we have just begun the development of the website interface.
+
+I'd love to hear what you think about it! Do you like the idea? Do you have anything you must see on FanFiction.io, or something you wish to never see? What do you like and dislike about the current 'big players'?
+
+Thanks!
+
+Edit - Hey guys, I do apologize for not responding to anyone, this post has gotten a lot more upvotes and comments than I had expected. :)
+
+Here are my responses to some common questions:
+
+*1) How is [[http://fanfiction.io][FanFiction.io]] going to be better/different than AO3/FFN/Wattpad? And I want /this/ feature!*
+
+Think of fanfiction.io as a combination of the good things from each of the current platforms. I'd rather not get into the details right now, it'll ruin the surprise...
+
+However, we are listening to everything you have said, and we'll try to implement some suggestions for the beta. Keep in mind that we'll be launching a minimum viable product, and some features simply cannot be developed in this time-span. We'll be sending out mock-up screenshots of the interface in two or three weeks time, and we're planning to launch a closed beta in two months. Make sure to subscribe to get notified!
+
+*2) The landing page is too-slow/animated/distracting!*
+
+Yeah, sorry about that. The landing page right now is whipped up in the span of less than a day using a wordpress template. Rest assured the actual platform will look nothing like the landing page, and definitely without a library background.
+
+*3) How are you going to pay for server fees?*
+
+We've undertaken this project with a little bit of cash reserves, enough to last about a year including development and marketing costs, on top of server costs. It is my hope that by that time we'll have a nice user base of a couple thousand authors.
+
+I'm thinking of a reddit gold system of monetization - where you give gold to an author for a story, and the story will appear when filtering by "gilded" in search, and the author will get some extra features/benefits (TBD). Or the author will simply get half of the gold cost via gift cards or something. I'm open to suggestions!
+
+*4) I want to download/ I don't want to download*
+
+I can tell you for sure that the beta launch will not have a download feature. We'll decide whether downloading stories is appropriate and if it turns out to be that contentious of an issue we'll deal with it then.
+
+I'm thinking, in the future, an author can mark his/her story as downloadable, and a download button will appear in the summary and in our mobile app.
+
+As to the deleting and archiving issue - an author will easily be able to delete a story and it will disappear from FanFiction.io servers. We believe in the rights of the author to their own intellectual property, and that includes removing it from the internet.
+
+If you have any other questions, please feel free to PM me. I'll try to answer questions in detail. Or just subscribe to the [[http://fanfiction.io/][FanFiction.io mailing list]]!
+
+
+** What in your opinion makes this a different or better option than AO3, which as far as I know doesn't censor or charge either? Ad-free is a plus, but I've never noticed ads on AO3 either (though I'm a mobile reader, so that may play a role).
+
+How will the interface be better or more intuitive for readers to find works to read? One problem I have with AO3 is the lack of standardized tags- two different tags for the same thing because authors can choose their own.
+
+Will there be a plain non-animated version? Because I notice that right now, the site as it is has at least a small loading animation.
+
+One function I encourage if able is a high contrast setting- set the background to black with white text. And if there are accounts, then have this setting in user preferences so that it's set to one or the other by default after changing it.
+
+If there will be a filtering option, which I encourage as well, will there be an option to filter by 'warnings' and if so, will we be able to filter out multiple warnings? For example, no "major character death" plus no "self harm" instead of one or the other (I think fanfiction.mugglenet only let us filter one, but it was /forever/ since I've used that site so it could've been another one).
+
+Best of luck and I look forward to seeing how this turns out.
+
+Edit: wanted to add, I love the ability to download a story as mobi or epub, however some authors I follow on Tumblr absolutely do not want their works downloaded (control of their own work). If a downloading system is implemented, will there be a way for authors to opt their stories out of being downloaded? Along with a way to prevent sites that download stories off of FFN from doing so from your site?
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 22
+:DateUnix: 1440046662.0
+:DateShort: 2015-Aug-20
+:END:
+
+*** I absolutely agree that a built-in download option would be a great asset. A lot of people read fanfiction on their e-reader or on their mobile phone on PDF.
+
+And as for writers not wanting their work dowloaded, why? Either way there will always be way to work around and download it because it's just text.
+
+I find it weird that fanfiction writers would not want their work downloaded when a good amount of the original writers do not want fanfictions of their own work. Like, they're already pretty much /not/ legit but they still want some protection or I don't know what on what they do. It goes against the spirit of fanfiction which is to share from fan to fan.
+:PROPERTIES:
+:Author: Nemrodd
+:Score: 12
+:DateUnix: 1440061166.0
+:DateShort: 2015-Aug-20
+:END:
+
+**** I think part of it is that if an author decides to delete their work, then they want to be able to delete their work. Yes, copies will exist because it's the internet, but having a download option readily available will only increase the number out there still.
+
+There was that website shared here that archived a bunch of deleted stories, and some of these same authors had to contact them to have their stuff unlisted. Their stories were archived and shared without consent or even any prior contact.
+
+I think of Cassandra Clare and her trilogy about Draco, which she took down I think after her books started coming out, and she reused the "original" parts of her fanfiction in her novels.
+
+I'm someone who wants to be able to save fan fiction on my kindle, because I don't always have internet access (or /want/ to use it), but to me what an author wants/doesn't want regarding their work is more important.
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 2
+:DateUnix: 1440062053.0
+:DateShort: 2015-Aug-20
+:END:
+
+***** Yeah but that's the Internet, everything you put in there will be archived somewhere somehow. You have to be sure of what you put there. And then, only really popular fanfictions will be likely to be saved by a lot of people so anyway if you're successful, there /will/ be copies everywhere, you just have to deal with it. That's the game when you publish anything online (be it writing or videos or anything else). :)
+:PROPERTIES:
+:Author: Nemrodd
+:Score: 7
+:DateUnix: 1440062419.0
+:DateShort: 2015-Aug-20
+:END:
+
+****** I honestly don't disagree with you, I just think it's something to consider. It was only recently that for the first time I came across an author who put explicitly on her FFN bio not to download, and I think it was through her that I found others who felt the same. Like baader-meinhof but with fanfic lol.
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 2
+:DateUnix: 1440062930.0
+:DateShort: 2015-Aug-20
+:END:
+
+
+***** u/denarii:
+#+begin_quote
+  Their stories were archived and shared without consent or even any prior contact.
+#+end_quote
+
+This is different than download options being available while a fic posted publically. It's like the difference between reprinting copies of a book without the author/publisher's consent and obtaining a copy from an authorized printing.
+
+#+begin_quote
+  but to me what an author wants/doesn't want regarding their work is more important
+#+end_quote
+
+People seem to think that stuff posted online is a lot more transient than it really is. You wouldn't expect to be able to retract copies of your work if you published it in any other media. Why would you expect to be able to do that online? When you post fanfiction publically you are de facto authorizing people to make copies of it. The simple act of loading the page makes a copy.
+:PROPERTIES:
+:Author: denarii
+:Score: 2
+:DateUnix: 1440109850.0
+:DateShort: 2015-Aug-21
+:END:
+
+
+***** u/sadrice:
+#+begin_quote
+  I think of Cassandra Clare and her trilogy about Draco, which she took down I think after her books started coming out, and she reused the "original" parts of her fanfiction in her novels.
+#+end_quote
+
+She took it down after there was a huge scandal regarding extensive plagiarism in the Draco Trilogy. Her published work came several years later. Last I checked, there weren't any good sources on the issue that weren't personally involved, but the biased account that I read was very persuasive and very damning.
+:PROPERTIES:
+:Author: sadrice
+:Score: 2
+:DateUnix: 1440136233.0
+:DateShort: 2015-Aug-21
+:END:
+
+****** It was the first example I thought of concerning a fic writer who then started publishing 'original' stories, though there are plenty of others who started writing professionally after writing fic. There's also EL James, though a drastically different fandom, who did pretty much the same. Can't delete things from the internet, but you can make things harder to obtain, to an extent.
+
+I don't think I ever did read the Draco trilogy, but I did read about the plagiarism, unfortunately most of the information was via what seemed like angrily written blog posts. But that's part of why I put 'original' in quotes, as what I did read said that the MI series is just so similar to the fan fiction. I'm actually tempted to reread the series but picturing Draco instead- seems like it could end up being a little hilarious this time around.
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 1
+:DateUnix: 1440141027.0
+:DateShort: 2015-Aug-21
+:END:
+
+******* u/sadrice:
+#+begin_quote
+  unfortunately most of the information was via what seemed like angrily written blog posts.
+#+end_quote
+
+Same here. I /did/ read the draco trilogy, however, and I recall noticing several odd shifts in tone and style, which in retrospect were shifts in source material, which made me more inclined to believe the angry bloggers.
+
+Feel free to read it, it's not so bad, but I don't think it holds up to modern standards of quality. It drags on a bit, and many parts feel pointless. Some of the dialogue is witty and amusing, but much of that is lifted from other sources (as I recall, the author was open about copping Blackadder banter in the ANs, especially in the early chapters).
+:PROPERTIES:
+:Author: sadrice
+:Score: 1
+:DateUnix: 1440148396.0
+:DateShort: 2015-Aug-21
+:END:
+
+
+*** There's a whole AO3 team that actually solves that tag issue, making them a group of "identical tags".
+:PROPERTIES:
+:Author: I_cant_even_blink
+:Score: 6
+:DateUnix: 1440062330.0
+:DateShort: 2015-Aug-20
+:END:
+
+**** That's great to hear.
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 2
+:DateUnix: 1440063008.0
+:DateShort: 2015-Aug-20
+:END:
+
+***** A little late, but some more info...
+
+The people who do this are called tag wranglers (I think that name fits well.) basically, you can click a Harmony tag and all the fics tagged Harry/Hermione or any other ship name for that ship will show up.
+
+Further, if you are looking for an Iron Man fic, it will not only show up when you are browsing the Iron Man tag, but also the Marvel Cinematic Universe and Marvel (All media types) tag.
+:PROPERTIES:
+:Author: DandalfTheWhite
+:Score: 3
+:DateUnix: 1440372632.0
+:DateShort: 2015-Aug-24
+:END:
+
+****** That's actually really cool. I'm glad something like that is being done, it sounds really useful. I've likely benefited from that without realizing it.
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 2
+:DateUnix: 1440375131.0
+:DateShort: 2015-Aug-24
+:END:
+
+
+*** There's no good way to prevent users from downloading stories without crippling ease of access
+:PROPERTIES:
+:Author: Unkox
+:Score: 2
+:DateUnix: 1440061911.0
+:DateShort: 2015-Aug-20
+:END:
+
+
+** What's your business model?
+:PROPERTIES:
+:Author: aspensmonster
+:Score: 14
+:DateUnix: 1440054430.0
+:DateShort: 2015-Aug-20
+:END:
+
+*** Yeah, kind of hard to pay the server bills with no revenue stream (ads and/or premium memberships).
+
+The only other source of income is charging authors to publish but, there are other platforms that don't charge so FF.io would have to be beyond brilliant to get someone to pay for a service they can get for free elsewhere.
+:PROPERTIES:
+:Author: jeffala
+:Score: 7
+:DateUnix: 1440055901.0
+:DateShort: 2015-Aug-20
+:END:
+
+**** Donations? If the service is good enough to have dedicated users, a monthly donation model à la DLP could work.
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1440059221.0
+:DateShort: 2015-Aug-20
+:END:
+
+***** DLP donations work, I think, because it is a small niche community that basically is the only community that creates and curates the content it is looking for. There's nowhere else to go if you want the level of quality /and/ the specific genres/themes that DLP looks for, and people realize this, and donate.
+
+On top of that, DLP is very small. However, if this new site gets enough users, the probability of getting a few donations increases. It still sounds like an unstable business model that won't scale very well at all.
+:PROPERTIES:
+:Author: tusing
+:Score: 7
+:DateUnix: 1440067200.0
+:DateShort: 2015-Aug-20
+:END:
+
+****** Also because DLP has a couple of very rich members XD
+:PROPERTIES:
+:Author: Taure
+:Score: 8
+:DateUnix: 1440074608.0
+:DateShort: 2015-Aug-20
+:END:
+
+
+** A few questions...
+
+How will you manage to support this site if you're going to keep it ad-free? Servers aren't free and fanfic won't pay to get their work "published".
+
+What is the difference between your platform and any of the existing sites?
+
+Why would an author publish to your site instead of ff.net, dlp, ao3?
+
+How will you manage to get users without the content?
+
+p.s. You definitely should compress and squash your css/js files. Even with CDN:s browsers handle multiple small files badly
+:PROPERTIES:
+:Author: Unkox
+:Score: 9
+:DateUnix: 1440062492.0
+:DateShort: 2015-Aug-20
+:END:
+
+*** Well, I don't know for the others but ff.net is a pain in the ass to use. To post a chapter you have to create a document and then go to your story and post this document as a new chapter. And you can't put links on your author's notes, that's annoying.
+:PROPERTIES:
+:Author: Nemrodd
+:Score: 7
+:DateUnix: 1440062973.0
+:DateShort: 2015-Aug-20
+:END:
+
+
+** I'd suggest to make your project /embed/ data from websites like FF.net and AO3 instead of trying competing with them.
+
+And regarding the tags: have you ever visited any of the [[http://booru.org/]] projects or the [[http://ehwiki.org/wiki/Tags][http://ehwiki.org/]] (sorry for the NSFW links)? I think what the audience lacks at the moment is a well though-out system to filter through all available stories and find what they actually are looking for --- while also gradually building a /standardised/ and up-to-date tagging system.
+
+As girlikecupcake've said, even AO3 with its seemingly advanced filtering and search capabilities is currently often unable to provide to reader what they are looking for /without/ involving a human agent --- simply because the advanced filtering isn't advanced enough. E.g. not enough flexibility to simultaneously filter multiple things both in and out, then sort the results by multiple criteria as well, etc.
+:PROPERTIES:
+:Author: OutOfNiceUsernames
+:Score: 6
+:DateUnix: 1440052995.0
+:DateShort: 2015-Aug-20
+:END:
+
+*** This. Right here. Is why I come here for recommendations.
+:PROPERTIES:
+:Author: paperhurts
+:Score: 3
+:DateUnix: 1440097501.0
+:DateShort: 2015-Aug-20
+:END:
+
+
+*** u/denarii:
+#+begin_quote
+  I'd suggest to make your project embed data from websites like FF.net and AO3 instead of trying competing with them.
+#+end_quote
+
+I have a feeling that FFN would not be okay with this.
+:PROPERTIES:
+:Author: denarii
+:Score: 3
+:DateUnix: 1440109314.0
+:DateShort: 2015-Aug-21
+:END:
+
+**** And you'd be right. We would be sued into the stratosphere before the first week hahaha
+:PROPERTIES:
+:Author: guppy221
+:Score: 2
+:DateUnix: 1440178125.0
+:DateShort: 2015-Aug-21
+:END:
+
+
+** Ideas for tags:
+
+A) Slash/non-slash tag (referring to point of view characters)
+
+B) An ability to distinguish "Primary pairing" and "secondary character pairings" and search for them separately.
+
+C) Some kind of restriction on the number of tags you can put on a fic that prevents people from tagging their fics with everything under the sun such that it comes up in almost every search, regardless of relevance.
+
+D) Character-centric tag.
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1440074578.0
+:DateShort: 2015-Aug-20
+:END:
+
+
+** I think the best way around the inconsistent tag problem would be to allow for users to elect and vote on tags. A tag that wasn't actually adventure and was actually more romance will eventually be tagged correct after enough users properly up vote/down vote.
+
+I've heard of fics that are badly categorized getting lost. Only eventual word of mouth saved the day.
+
+Also a good algorithm for finding fics. I.E. X amount of people who like this fic also like Y fic.
+
+And being able to store favorite stories in separate lists.
+
+Got to sleep but I'll think of more suggestions. I haven't seen your site yet since I'm in a rush but looking forward to it.
+
+Alternatively if you need any volunteers I'm up for it. I'm a full-time full-stack developer but I'm up for projects.
+:PROPERTIES:
+:Author: Diadear
+:Score: 6
+:DateUnix: 1440047863.0
+:DateShort: 2015-Aug-20
+:END:
+
+
+** I hope your site is successful
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1440072045.0
+:DateShort: 2015-Aug-20
+:END:
+
+
+** Subscribed! Thanks!
+:PROPERTIES:
+:Author: SoulxxBondz
+:Score: 2
+:DateUnix: 1440078499.0
+:DateShort: 2015-Aug-20
+:END:
+
+
+** Sounds interesting. Remind me when it's up.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1440051951.0
+:DateShort: 2015-Aug-20
+:END:
+
+*** If you follow the link, there's an option for an email notification when fanfiction.io is live.
+:PROPERTIES:
+:Author: Anchupom
+:Score: 3
+:DateUnix: 1440075853.0
+:DateShort: 2015-Aug-20
+:END:
+
+
+** You have some kind of meta tags on that which websense does not like. I'll have to look from home. ::grumble::
+:PROPERTIES:
+:Author: paperhurts
+:Score: 1
+:DateUnix: 1440097299.0
+:DateShort: 2015-Aug-20
+:END:
+
+
+** You mentioned the interface and layout on the press kit page. Maybe you could do a mock-up prototype of what a submitted fanfiction would look like on your site?
+
+I would like users to have a way to change the background colour. I personally prefer dark background when I'm reading a story on the internet, but different people have different preferences.
+
+I like the fluid layout so far where the text would adjust to the browser size.
+:PROPERTIES:
+:Author: solarwings
+:Score: 1
+:DateUnix: 1440121089.0
+:DateShort: 2015-Aug-21
+:END:
+
+
+** I recommend a better sorting system with tags, pairings, characters, etc such as *slash*, *Harry*/*Hermione*, *manipuative!Dumbledore*.
+
+Also, a way to download the fic in different formats such as ePub, Mobi, PDF, .txt, .html, .rtf and Markdown.
+
+I also recommend a better forum layout such as DLP's forum and a way to curate fics into lists.
+
+A wiki would also be nice, much like the TVTropes page, except less 2005ish.
+
+And a good mobile layout.
+
+And themes. Dark and light that can be configured by defaults in user preferences or on the fic itself.
+
+And have featured authors, fics, etc.
+
+And a good review system, one better than FF.net
+
+Look at the bigger players such as FFnet and AO3, use them for a while and see what you would want and what you can approve on.
+
+Also, fast loading screens that do not use lots of data. (will help mobile users with data gaps)
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1440177843.0
+:DateShort: 2015-Aug-21
+:END:
+
+
+** I'd like to be able to tag chapters individually - I don't always want to give away which characters I intend to "pair" from the get go.
+
+I think a direct download functionality would be fantastic.
+
+I would also dearly love to able to post links within the author's notes to illustrations or a Playlist as a chapters soundtrack.
+:PROPERTIES:
+:Author: Judy-Lee
+:Score: 1
+:DateUnix: 1440119622.0
+:DateShort: 2015-Aug-21
+:END:

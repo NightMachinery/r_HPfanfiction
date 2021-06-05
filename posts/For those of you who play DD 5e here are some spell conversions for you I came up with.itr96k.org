@@ -1,0 +1,176 @@
+#+TITLE: For those of you who play D&D 5e here are some spell conversions for you I came up with!
+
+* For those of you who play D&D 5e here are some spell conversions for you I came up with!
+:PROPERTIES:
+:Author: jmrkiwi
+:Score: 5
+:DateUnix: 1600242554.0
+:DateShort: 2020-Sep-16
+:FlairText: Self-Promotion 
+:END:
+Disclaimer: Sadly I don't own Harry Potter. Obviously....
+
+​
+
+Hope you enjoy!
+
+​
+
+​
+
+​
+
+Expeliarmus
+
+/1st level abjuration/
+
+*Casting Time:* 1 action
+
+*Range:* 120 feet
+
+*Components:* S, V
+
+*Duration:* Instinatinious
+
+You attempt to disarm a creature you can see within range. Make a ranged spell attack. On a hit, the target must make a strength check contested by a spellcasting check using your spellcasting modifier.
+
+If you beat your opponent any object in its hand is torn from its grasp and thrown 3d6 feet in a random direction.
+
+If you beet your opponent by more than 5 the weapon is pulled directly to your hand, provided you have a free hand and falls at your feet if not.
+
+/At higher levels/
+
+/Casting this spell at level 2 pushes the target 5 feet and gives you a plus one bonus to the contested ability check. The distance pushed and bonus to the ability check increases by one for each higher-level spell slot above 2./
+
+​
+
+​
+
+​
+
+Stupify
+
+/3rd level evocation/
+
+*Casting Time:* 1 action
+
+*Range:* 120 feet
+
+*Components:* S, V
+
+*Duration:* Instinatinious
+
+You attempt to stun a medium or smaller creature you can see within range. Make a ranged spell attack. On a hit, the target is stunned and loses concentration on any spells. At the end of its turn, it can make a Constitution saving throw to end this condition.
+
+/At higher levels/
+
+/For every level of the spell, you cast higher than third the size of the target increases by one./
+
+​
+
+​
+
+​
+
+Sectumsempra
+
+/5th level necromancy/
+
+*Casting Time:* 1 action
+
+*Range:* 120 feet
+
+*Components:* S, V
+
+*Duration:* Instinatinious
+
+You attempt to slash a creature you can see within range. Make a ranged spell attack. On a hit, the target takes 6d10slashing damage and has its hit point maximum decreased by that amount.
+
+This reduction can only be reversed when the target is a target by a healing spell of equal or greater level. A remove curse spell instantly removes this reduction.
+
+If you hit a creature with a critical hit, you lop off one of the target's limbs, with the effect of such loss determined by the GM.
+
+/At higher Levels/
+
+/Casting the spell at higher levels reduces the minimum roll needed for a critical hit by one for each level higher than 5th/
+
+​
+
+​
+
+​
+
+Fiendfire
+
+/7th level conjuration/
+
+*Casting Time:* 1 action
+
+*Range:* 120 feet
+
+*Components:* S, V, M (a shard of rock from one of the lower planes)
+
+*Duration:* Instantaneous
+
+You invoke a blazing fire imbued with the darkness of the lower planes. Choose a 20-foot cube you can see within range. This area is filled with horrible flames forming an appearance of your choice. Any creature or object entering the cube or starting its turn inside it must succeed a dex save or take 5d10 fire damage and 5d10 necrotic damage. This damage ignores resistance and immunities.
+
+While you retain concentration you have control of the Fiendfire. As an action on subsequent turns you can choose to move the Fiendfire 30 feet and one of the following options:
+
+*Grow*
+
+You cause the cube to expand by 5 feet in all directions to a maximum of 100 feet. Both fire and necrotic damage increase by 1d10.
+
+*Diminish*
+
+You cause the size of the cube to reduce by 5 feet in all directions to a minimum of 10 feet. Both fire and necrotic damage decrease by 1d10.
+
+*Extinguish*
+
+If the Fiendfire is less than or equal to 30 feet you can cause the flames to extinguish
+
+At the end of your turn, you must make an ability check using your spellcasting modifier to see if you maintain control over the blaze. The DC for this heck is equal to 10. For every time the fire has expanded by 5 feet the DC increases by 2
+
+An uncontrolled Fiendfire will continue to burn until it is dispelled or targeted by a remove curse spell. At the end of your turn, it will move 30 feet towards the closest living creature and use the grow option.
+
+A creature in a magic circle or under the effects of a protection from evil and good spell is immune to this spell. The creature is unable to pass over the magic circle. If at least 5 feet larger than the circle it can pass around it by moving through its space
+
+​
+
+​
+
+​
+
+​
+
+Horcrux
+
+/9th level Necromancy ritual/
+
+*Casting Time:* 1 hour
+
+*Range:* Self
+
+*Components:* S, M, V (The heart of a Unicorn) Consumed
+
+*Duration:* 8 hours
+
+When you cast this spell you lay the groundwork for splitting your soul. To complete this process you must kill an unarmed humanoid in cold blood within the duration using the spell Power Word Kill.
+
+Upon splitting your soul the following you permanently gain the following traits:
+
+- You have a disadvantage on all charisma persuasion and checks as well as death saving throws.
+- If you cast the magic jar spell you can store the split part of your soul in it. The split part of your soul can act independently from you. It has access only to the memories and abilities you had when you cast this spell.
+- If you are killed with part of your soul in a magic jar you do not die. Instead, you take on the form of a dark disembodied spirit. In this form, you are immune to all damage and can pass through solid objects. The only actions you can take are dash and disengage. A willing humanoid can act as a host you in this form. For this time you take on their physical stats but keep your mental ability scores. You do not have access to any class levels. On your turn, you can choose to let you host act instead of yourself. You can leave the host body they are reduced to zero hit points. Your body can be restored by the clone spell using the bone of the father, flesh of a servant and blood of an enemy (consumed) the magic jar as the material component (which is not consumed). If the soul jar is destroyed the piece of soul in it is lost and cannot be recovered by any means. If you are still a spirit while your soul jar is destroyed you die instantaneously
+- For every time you cast this spell after the first you have a cumulative 10 per cent chance of having your soul completely torn to pieces killing you instantaneously.
+- When you die you cease to exist and cannot be brought back by any means
+
+
+** Not to be nitpicky but I absolutely hate when people fuck up this so common incantation. It's Stupefy not stupify.
+
+Also Fiendfyre
+:PROPERTIES:
+:Author: I_love_DPs
+:Score: 3
+:DateUnix: 1600259691.0
+:DateShort: 2020-Sep-16
+:END:

@@ -1,0 +1,103 @@
+#+TITLE: Socrates: a discord bot that recommends fanfiction to read.
+
+* Socrates: a discord bot that recommends fanfiction to read.
+:PROPERTIES:
+:Author: zerkses
+:Score: 39
+:DateUnix: 1611507358.0
+:DateShort: 2021-Jan-24
+:FlairText: Self-Promotion
+:END:
+I've made a bot that reads favourites from your profile on fanfiction.net and recommends stuff for you to read.
+
+Features:
+
+- long recommendation lists scrollable with emoji
+- can read full profile while creating recommendations(past 500 favs limit)
+- can ignore fandoms and fics and hide them from stuff recommended to you
+- has a mode to show fresh recommendations instead of top ones
+- can roll random fics from recommendations for you to read
+- can limit wordcount of displayed fics, filter out dead fics and show only completed ones
+- can show recommendations from exact fandoms and crossovers you want
+- can show only recommendations published in exact years
+
+You can check the bot in [[https://discord.gg/dpAnunJ][#botspam]] on my discord server or invite it to yours with [[https://discord.com/api/oauth2/authorize?client_id=742050608235937916&permissions=337984&scope=bot][this link]] .
+
+To start the bot on your server:
+
+- issue !permit on the channel you want it to answer on (you need to be an owner or an admin),
+- issue !prefix new_prefix to set a prefix you want the bot to use. So for example if you want the bot to answer to commands starting with ~ instead of ! you will need to say !prefix ~ The rest of the commands you can see with !help. (obviously with the chosen prefix instead of !)
+
+If you have problems with the bot, ping me on my [[https://discord.gg/dpAnunJ][discord server]].
+
+P.S. The bot is now verified by discord and can join however much servers are requested.
+
+P.P.S (I hope one AD for the bot in 2 months is not too much)
+
+
+** It's a great bot but does it still work? I remember putting it in a personal server of mine and now the bot in unable to refresh its suggestions. I have a feeling it's because of the recent updates to [[https://fanfiction.net][fanfiction.net]] which made the website more secure against bots in general.
+:PROPERTIES:
+:Author: Maksimme
+:Score: 3
+:DateUnix: 1611529799.0
+:DateShort: 2021-Jan-25
+:END:
+
+*** It should be working. I've made a fix to pass cloudflare. You must have tried it in the very brief period when it was still unfixed.
+:PROPERTIES:
+:Author: zerkses
+:Score: 3
+:DateUnix: 1611529876.0
+:DateShort: 2021-Jan-25
+:END:
+
+**** I tried the !fresh command just before posting my comment to check whether it was fixed or not. It didn't work and said /"Could not load favourites from provided user profile."/
+:PROPERTIES:
+:Author: Maksimme
+:Score: 3
+:DateUnix: 1611530099.0
+:DateShort: 2021-Jan-25
+:END:
+
+***** did you provide your ffn id prior to doing it with !recs ID? If you inv me to your server I can see. You have to init the bot first with your ffn profile to use it
+:PROPERTIES:
+:Author: zerkses
+:Score: 3
+:DateUnix: 1611530220.0
+:DateShort: 2021-Jan-25
+:END:
+
+
+** You have definitely given me reason to do a rigourous cleaning of my favourites list so I'll get better recommendations.
+:PROPERTIES:
+:Author: bleeb90
+:Score: 3
+:DateUnix: 1611568588.0
+:DateShort: 2021-Jan-25
+:END:
+
+*** Haha, I totlally know that feeling.
+:PROPERTIES:
+:Author: zerkses
+:Score: 3
+:DateUnix: 1611570738.0
+:DateShort: 2021-Jan-25
+:END:
+
+
+** dude your bot is amazing! it has given me some solid recommendations, i'm impressed
+:PROPERTIES:
+:Author: harui-
+:Score: 2
+:DateUnix: 1611627317.0
+:DateShort: 2021-Jan-26
+:END:
+
+
+** UPD: I've realized that I had slash filter enabled in my bot by default. This was not intended, if you read slash and was wondering where is it in your recs: check again, it should be displayed now.
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1611684994.0
+:DateShort: 2021-Jan-26
+:END:

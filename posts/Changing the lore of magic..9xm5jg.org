@@ -1,0 +1,417 @@
+#+TITLE: Changing the lore of magic.
+
+* Changing the lore of magic.
+:PROPERTIES:
+:Author: ChibzyDaze
+:Score: 19
+:DateUnix: 1542374891.0
+:DateShort: 2018-Nov-16
+:FlairText: Discussion
+:END:
+Have any of you changed anything significant in your fic regarding the way magic works? Not necessarily changing absolutely everything, but some things that might be “problematic” in the original works.
+
+I was thinking of making the Killing Curse not being able to penetrate Shield Charms but is such a dark spell that it would deteriorate the shield quickly anyway (unless you're a very powerful wizard/witch), something that wouldn't be abused as hell.
+
+
+** *PORTRAITS:*
+
+I tend not to make much of Rowling's /Pottermore/ statement that the ability of a magical portrait depends on "the power of the subject" rather than the making of the painting --- it's a weird, somewhat abstract idea, and the one time I can think of in canon where somebody refers to the relative power of a wizard as an abstract quantity rather than a measure of their skill. As far as I'm concerned, magic portraits are made with magical paint (paint intermingled with Pensieve-style memory-fluid, and some other magical ingredients), and the level of their intelligence/lifelikeness depends on how many memories go into their conceptions.
+
+*TIME:*
+
+I'm not entirely sure Rowling herself has a coherent idea of how time magic works (the "time bell" in the Department of Mysteries scene makes me think she has only a very /basic/ understanding of time travel, or chooses to appear that way). But I have built a coherent model where base time travel is the sort that allows you to change the past (as seen in /Pottermore/ and /Cursed Child/), and Time Turner loops are an artificial effect made to make them safer to use by preserving history, achieved through probability-manipulation like Felix Felicis.
+
+*GHOSTS:*
+
+Rowling seems to go back and forth from one statement to another about whether ghosts are the souls of the people they represent, or just an imprint left behind where the "real" soul has still left for the Beyond. The second idea sounds weird to me (it makes the "cowardly choice" thing a bit wonky: those who choose to stay behind are doomed to... move on anyway, except with a half-sentient clone of them left behind? huh?), so I go with the first: the ghost is the soul wrapped in an ectoplasmic body that's an imprint of your corporeal body. End of story.
+
+*PARSELTONGUE:*
+
+I am not entirely sure, either, that Rowling ever thought the mechanics of Parseltongue through, or its corollary that somehow, snakes are sentient beings capable of intelligent conversation and reading (!!) in the Potterverse. I have decided that the way it works is that snakes are actually magical beings, whose magic manifests in the very particular way of boosting their cognition when they start exerting their mind (like a Mind-Sharpening Potion on steroids). Thus, most snakes (as observed by Muggles) are stupid animals, but if a Parselmouth starts talking to them, or they engage by chance in some other stimulating activity, like the Zoo Boa Constrictor who had nothing else to do with his time than think, their mind will begin to expand to eventually reach human-like levels.
+
+*POST OWLS:*
+
+Relatedly, I have decided wizarding Owls are basically to the owls /we/ know what wizards are to Muggles and kneazles are to cats. This allows for Hedwig to have the sort of intelligent behavior she displays, and neatly explains away all the times Rowling got owl facts wrong (they're just a slightly different species).
+
+*THE EXCEPTIONS TO GAMP'S LAW:*
+
+My take on the inability to Transfigure food is that the body of living beings has latent protective magic that Untransfigure anything it ingests. So you can transfigure a cake from a rock, except as soon as you start digesting it, it'll turn /back/ into a rock. I call this the Tantalus Principle. I think it's the most elegant way to explain it. (This is why magically changing food into other food is okay; you won't get the nutrients of what you created, but you /can/ eat it without risk.)
+
+Similarly, you /can/ Transfigure gold, but any Goblin (or wizard businessman) will try to Untransfigure any significant money you give them in a transaction, just to be on the safe side. And counterfeiting even a single Galleon is a one-way ticket to Azkaban, as one of the foundations of all Goblin/Wizard treaties.
+
+*ON UNFORGIVABLE CURSES:*
+
+The Killing Curse brutally severs the soul from the body, collaterally causing the body's death. It just does. Shut up.
+
+*THE FIDELIUS CHARM:*
+
+The Fidelius Charm is exponentially harder to cast the more people know about the secret to begin with, because you have to list all the people who know the secret as part of the ritual. This is why wizards don't just Fidelius the existence of magic, let alone heroes loopholing the Fidelius by Fideliusing things like "Voldemort needs to breathe to remain alive".
+
+*ANIMAGI:*
+
+The Animagus Spell isn't actually the stupid leaf-under-tongue ritual from /Pottermore/. Rather, it's written that way in all the books, but it's actually coded writing for the /real/ spell. The cumbersomeness of the whole process deters idiots trying to become illegal Animagi, and the conspicuous oral discomfort of those who try make them easy to spot for law enforcement.
+
+*MEMORY CHARMS:*
+
+Memory Charms erase memories from the brain, but not from the soul. This is how it is still possible to retrieve them, but also why it's such a dangerous process. It serves to make Obliviation less existentially terrifying, as the memories are never truly 'lost' and the person will recover them upon their death.
+
+*ARITHMANCY:*
+
+Arithmancy is generally about the numerical significance of magic (e.g. how seven-point configurations make for more stable soul magic). The part that foretells the future exists, but it's not the main focus of the class taught as Hogwarts. It's made to appear that way in written documents because this boosts interest (more students want to know the future than learn how to calculate the optimal diameter of a wand movement). This is why Hermione still liked it even though she considered Divination to be a sham.
+
+*DIVINATION:*
+
+Speaking of Divination, there's a very sharp difference between small-p predictions and Prophecies. Predictions are very unreliable, and considered by some to be mere balderdash; the crux is that if they're true at all they only stay true insofar as the Seer doesn't reveal what they have seen, because that throws the timeline out of whack. (e.g. Trelawney foresees a path leading to a student's death, says so, and as a result the student's actions are slightly different and they don't die at all, making it appear as though Trelawney was raving mad.) This is in contrast to Prophecies, which are the opposite --- only ever self-fulfilling, and ineffectual so long as their targets haven't heard them.
+
+*DEMENTORS:*
+
+Rationalizing why Dementors feed on happy memories, yet seem to bring sad memories to the foreground: like reverse-Legilimenses, Dementors can only feed on memories and thoughts that the host /isn't/ currently thinking about. Thus, they make their victims think of their sad memories so that the happy ones will be left unprotected. This is also why they're physically hurt by Patronuses --- they need their happiness dormant and harmless, and Patronuses are the very opposite of that, being happiness that's not only vibrant and alive, but actually /fights back/.
+
+Dementors can feed on /any/ sufficiently advanced souls, as what they /really/ feed on is the magical energy produced by a soul when it's having a strong emotion. (That's positive energy in the case of happiness; the Unforgivables instead harness the destructive energy generated by hatred or sadism.) As a result, they are capable of ‘Kissing' a ghost or other disembodied soul, which is one more reason Dumbledore didn't want them inside the castle, and one of the main reasons why a Dark Wizard laying their hands on the Resurrection Stone and realizing its true nature would be just terrible (because from a Dementor's perspective, the Stone is an infinite snack vending machine).
+
+*BOGGARTS:*
+
+Rowling made it appear in /Prisoner of Azkaban/ as though Boggarts can easily be destroyed with laughter, then retconned them to be unkillable non-beings like Dementors, then belatedly realized the paradox and shoved it under a carpet. I choose to believe that Boggarts /cannot/ be destroyed by the Riddikulus Curse --- it merely forces them to Disapparate away much like House-Elves, and that's what the Boggart "vanishing" was.
+
+Usually, Boggarts extrapolate their forms from the victim's memories, and thus they can be very inaccurate. If you'd cut open the Boggart's Snape-form, the insides would not have looked much like what anatomy textbooks would suggest you'd expect. Sometimes, however, if they have a live example of their desired forms in line of sight, Boggarts will imitate it more closely, which is why the Dementor-Boggart managed to imitate some of the Dementor's magic (it had a bunch of models all around Hogwarts to choose from).
+
+*GOBLET OF FIRE:*
+
+The Goblet of Fire is sentient, not unlike the Sorting Hat, though its intelligence is much more eldritch (as it sees into the past and future indiscriminately). It's also got a knack for showbiz. It picks, not necessarily the most competent champions, but those who'll put on the most thrilling show together.
+
+*THE VEIL:*
+
+The Veil's original purpose was as a fallback for ghosts who regret their decision and want to Move On after all. The Death Room's purpose is to be the place for the ghost to make their grand, tearful farewell to the world and all who knew them. However, when the Department of Mysteries realized it was a one-of-a-kind gate into the Afterlife, they hounded it for themselves as an object of study and built their entire Department around it just so that no one could access it but them. Not a ghost has used it for its intended purpose in a hundred years.
+
+*PIERTOTUM LOCOMOTOR:*
+
+Rather like Portraits, statue-animating spells like /Piertotum/ give their creations the personality the caster expects them to have. Thus, the Founders implanted even their non-living statues with a latent sense of duty towards the Castle, so that they would be ready to jump into battle minutes after their animation to defend Hogwarts. This is the sense of "duty to [your] school" that McGonagall appeals to in the BoH.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 24
+:DateUnix: 1542382744.0
+:DateShort: 2018-Nov-16
+:END:
+
+*** I really like a lot of these. The Animagus one particularly tickles me because I can imagine the Marauders trying the "correct" method multiple times before realizing it was all a trick (and the teachers don't bother cracking down on them because they see them trying the fake method). They'd be a little ticked, but the fact that a book essentially pranked them would also appeal to them. I could also see them continuing to do the fake method well after they started the real one, just to throw people off the scent.
+
+As far as ghosts, I'd look at it as an imprint that's left behind when a soul tries not to leave. I.E. you don't get a choice in the matter, you're moving on whether you like it or not, but if you're afraid of doing so and try to avoid it, you leave behind the imprint. Thus, the ghost itself isn't the cowardly one, it's a marker that the original soul was afraid of dying and moving on.
+:PROPERTIES:
+:Author: bgottfried91
+:Score: 3
+:DateUnix: 1542389101.0
+:DateShort: 2018-Nov-16
+:END:
+
+**** Thanks for liking my idea! Yeah, it opens up all kinds of fun shenanigans.
+
+About ghosts: I suppose that makes sense, but it's a little convoluted, isn't it? And it does call into question what a soul would look like, if the sentient but non-coporeal imprints of a person aren't it. When we do see "real" souls brought back from the Afterlife, with the Stone, they look pretty much like ghosts, albeit "a little more solid". So the entire thing seems to be to be pretty futile.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 1
+:DateUnix: 1542390355.0
+:DateShort: 2018-Nov-16
+:END:
+
+
+*** This is a Harry Potter FanFiction goldmine. So much stuff to be expanded on, I love it:)
+:PROPERTIES:
+:Author: ChibzyDaze
+:Score: 3
+:DateUnix: 1542396634.0
+:DateShort: 2018-Nov-16
+:END:
+
+
+*** u/MindForgedManacle:
+#+begin_quote
+  Thus, most snakes (as observed by Muggles) are stupid animals, but if a Parselmouth starts talking to them, or they engage by chance in some other stimulating activity, like the Zoo Boa Constrictor who had nothing else to do with his time than think, their mind will begin to expand to eventually reach human-like levels.
+#+end_quote
+
+My main issue with this is how it shakes out in Philosopher's Stone. The snake showed intelligence before Harry said anything, he was just standing there bored and it winked at him, which is what caused the whole incident. Snakes seem to know when a person is a Parselmouth even before they speak to them, oddly enough.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 2
+:DateUnix: 1542416727.0
+:DateShort: 2018-Nov-17
+:END:
+
+**** As I said, I conceive that the Boa was so soul-crushingly bored that he spent his time pondering the meaning of his worthless life and had long ago gained sentience when Harry came by. And he would've winked to /any/ kid whom he observed to seemingly sympathize with him, though not just any kid would have noticed.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 1
+:DateUnix: 1542451732.0
+:DateShort: 2018-Nov-17
+:END:
+
+
+*** u/Deathcrow:
+#+begin_quote
+  The Fidelius Charm is exponentially harder to cast the more people know about the secret to begin with, because you have to list all the people who know the secret as part of the ritual. This is why wizards don't just Fidelius the existence of magic, let alone heroes loopholing the Fidelius by Fideliusing things like "Voldemort needs to breathe to remain alive".
+#+end_quote
+
+Does this make a lot of sense considering Grimmauld Place is in the middle of London?
+
+#+begin_quote
+  Dementors can feed on any sufficiently advanced souls, as what they really feed on is the magical energy produced by a soul when it's having a strong emotion. (That's positive energy in the case of happiness; the Unforgivables instead harness the destructive energy generated by hatred or sadism.) As a result, they are capable of ‘Kissing' a ghost or other disembodied soul, which is one more reason Dumbledore didn't want them inside the castle, and one of the main reasons why a Dark Wizard laying their hands on the Resurrection Stone and realizing its true nature would be just terrible (because from a Dementor's perspective, the Stone is an infinite snack vending machine).
+#+end_quote
+
+What happens to a soul once a Dementor eats it? Is it a prisoner until the Dementor expires or is destroyed? Is it destroyed?
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 1
+:DateUnix: 1542394204.0
+:DateShort: 2018-Nov-16
+:END:
+
+**** u/Achille-Talon:
+#+begin_quote
+  Does this make a lot of sense considering Grimmauld Place is in the middle of London?
+#+end_quote
+
+The Secret is not "Grimmauld Place exists", it's "Grimmauld Place is the HQ of the Order of the Phoenix". /That/ fact is known to a decently low number of people.
+
+As a result, I would expect that people who weren't looking for the Headquarters could have seen Grimmauld Place (well, Muggles probably couldn't for other reasons, mind you); it's people looking for it as the Order of the Phoenix HQ who couldn't have processed its existence even right in front of it.
+
+#+begin_quote
+  What happens to a soul once a Dementor eats it? Is it a prisoner until the Dementor expires or is destroyed? Is it destroyed?
+#+end_quote
+
+I dunno. A theory is that it's trapped forever inside the Dementor as a permanent food source; another is that it's digested into raw magic and emotion that the Dementor absorbs, boosting its power. I'm undecided. Perhaps Rowling will give us her opinion one day, and I'll most likely follow it.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 2
+:DateUnix: 1542399038.0
+:DateShort: 2018-Nov-16
+:END:
+
+***** u/Deathcrow:
+#+begin_quote
+  As a result, I would expect that people who weren't looking for the Headquarters could have seen Grimmauld Place (well, Muggles probably couldn't for other reasons, mind you); it's people looking for it as the Order of the Phoenix HQ who couldn't have processed its existence even right in front of it.
+#+end_quote
+
+I think I've heard that reasoning before. I'm not a huge fan, it makes the Fidelius incredibly easy to attack by using obliviations or by hiring an agent who doesn't know specifics.
+
+Since everyone places such high confidence in the security of the Fidelius I would reason deductively that it can't be broken as easily as that and /must/ affect everyone.
+
+Just to be clear: I don't hate your explanation, I think it fixes huge problems with the charm (it's too powerful), I'm just reluctant to accept anything that makes Dumbledore or all the other adults even stupider than they appear in the books, when they put all their eggs in one basket with the Fidelius. There's not a lot of room left going down in terms of intellect.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 3
+:DateUnix: 1542400100.0
+:DateShort: 2018-Nov-16
+:END:
+
+****** u/Achille-Talon:
+#+begin_quote
+  it makes the Fidelius incredibly easy to attack by using obliviations or by hiring an agent who doesn't know specifics.
+#+end_quote
+
+I'm not entirely sure what you have in mind. Care to elaborate?
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 1
+:DateUnix: 1542401101.0
+:DateShort: 2018-Nov-17
+:END:
+
+******* u/Deathcrow:
+#+begin_quote
+  I'm not entirely sure what you have in mind. Care to elaborate?
+#+end_quote
+
+Let's say the secret is "The Potter family is hiding in Mainstreet 15 in Godric's Hollow". Being Voldemort: Just ask a bunch of Muggles whether they've seen a young family, a red haired woman with a young child and a man with messy hair (as long as they don't know the potters they are unaffected by the spell... similarly as people who don't know who the Order of the Phoenix is could see Grimmauld). As soon as you have the general location pinned down hire anyone to look into windows for you and report back when they find them. Then blow up the house.
+
+If you don't want to use Muggles just obliviate any knoweldge about the Potters from random minions. It's probably going to go faster because they have magic at their disposal to find them. I'm sure there's a "see through wall" spell.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 2
+:DateUnix: 1542401362.0
+:DateShort: 2018-Nov-17
+:END:
+
+******** I don't think that would exactly work. As long as the information pertains to the Potter and /Voldemort/ knows it's about the Potters, his mind would be unable to process the answer the Muggles would give him/the Muggles would inexplicably find themselves unable to divulge it. (Also, Godric's Hollow doesn't exactly have a lot of Muggle population.)
+
+And remember, per Prophecy, Voldemort was very insistant that it had to be /him/ who killed the Potter, not some Obliviated underling.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 2
+:DateUnix: 1542403225.0
+:DateShort: 2018-Nov-17
+:END:
+
+********* u/Deathcrow:
+#+begin_quote
+  his mind would be unable to process the answer the Muggles would give him/the Muggles would inexplicably find themselves unable to divulge it. (Also, Godric's Hollow doesn't exactly have a lot of Muggle population.)
+#+end_quote
+
+Is Godric's Hollow entirely Wizards? I forget...
+
+In any case I was just trying to illustrate a point.
+
+#+begin_quote
+  And remember, per Prophecy, Voldemort was very insistant that it had to be him who killed the Potter, not some Obliviated underling.
+#+end_quote
+
+Again, blowing up the house was just one solution. If he really wants to kill them himself he can order their kidnapping, tag them with portkeys or just bring in a big wrecking ball and huff and puff the housue away.
+
+Or if he's really insane he can just obliviate and memory charm himself and start looking for the Smiths instead of the Potters.
+
+I think you are purposely ignoring the point that the Fidelius is suddenly very weak by focusing on technicalities in execution. I'm just throwing around ideas here and I already have thousands, if I were Voldemort and I could experiment on actual Fidelius locations for decades I'd have a whole repertoire to defeat them by 1981 if they work as you describe (only a low amount of people are affected).
+
+I don't think your Fidelius is useless, but I'd see it only as one layer of defense. Certainly I wouldn't leave the Potters alone in a cottage without any Plan B and Dumbledore is supposed to be much smarter and wiser than a mid 30s nerd.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 3
+:DateUnix: 1542403670.0
+:DateShort: 2018-Nov-17
+:END:
+
+
+*** The Animagus one was really clever. I definitely reject JKR's lore, but I just say it takes really intensive transfiguration training. A lot of the things I change in the lore are to keep things from being overpowered and breaking the story. (For example, mandrakes can only kill at point-blank range (based on the real historical lore) and can't be amplified.)
+
+Your take on the Fidelius is interesting. I've seen it done that way before, but I use a different solution: the Fidelius is more difficult to cast proportional to how hard it would be to hide the secret conventionally. So hiding an ordinary house is doable, but hiding the known residence of a celebrity or the lost city of Atlantis would be immensely harder. And if you tried to hide a secret that's already common knowledge, there's not enough magic in the world to do it.
+:PROPERTIES:
+:Author: TheWhiteSquirrel
+:Score: 1
+:DateUnix: 1542473536.0
+:DateShort: 2018-Nov-17
+:END:
+
+**** True, that works too. And I'm glad you like my Animagus idea --- you're at liberty to use it in a fic, it or anything else from my list.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 1
+:DateUnix: 1542473983.0
+:DateShort: 2018-Nov-17
+:END:
+
+
+*** Achilles!!! SNEKIES! :) I love your snakey theory! :) :) My theory (which I do mention in Fight For Rights as applying to spiders, but also it applies to snakes!) is that snakes are BABIES. :) Think about it Achille: when a human baby is born they are nothing and know nothing! They cannot read or talk or know what morals right or wrong is, they cannot even walk or know how to work a TV or open a book! They don't know what teeth are or anything!
+
+But every baby becomes a fully functioning human who can do math and history and philosophy and stuff because we go through school and our parents do teach us it all on flashcards and stuff.
+
+So yes, every human has the CAPABILITY to become a super intelligent complex adult human.
+
+The same is true of snakes! They have that same innate intelligence and sapience...they just never got taught how to use it like human babies do! :)
+
+So snakes are all babies who never went to school. :)
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1542391831.0
+:DateShort: 2018-Nov-16
+:END:
+
+
+** As much as I love how J.K wrote the magic system, I tend to give it a more RPG feel to it. I make it all flashy and dramatic effects. I tend to also incorporate the system from D:OS2 where spells can stack. IE: Lightning hits water, electrifies people.
+
+As such, the Killing Curse is far too powerful when you bring in this type of magic. Therefore, I give it a serious drawback that stops people just flinging it willy-nilly. Voldemort hardly cares about it as he's immortal, but others tend to use less ‘black' magic.
+
+It varies fic to fic. In one I'm writing, there are different branches of magic (called lores) that all behave differently. Essentially, I just tweaked the magic system from Warhammer Fantasy! Lmao.
+:PROPERTIES:
+:Author: ModernDayWeeaboo
+:Score: 4
+:DateUnix: 1542377715.0
+:DateShort: 2018-Nov-16
+:END:
+
+*** Isn't the canon magic also flashy and dramatic? Big wand motions, colorful flashes and bolts and fizzles. The movies really sold magic short, visually.
+
+As for the Killing Curse, it doesn't have to have "drawbacks" (though it's fine if it does) to not be plot-breaking. Simply stress that it's simply a /difficult/ spell to master. You have to get the wand movement, incantation, and state of mind /exactly/ right, or else it blows up in your face or just doesn't work.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 2
+:DateUnix: 1542386717.0
+:DateShort: 2018-Nov-16
+:END:
+
+**** Oh, I agree. I feel like canon magic already has its own degree of flashiness and flair, but I simply took that and notched it from about six or seven to twenty. What I mean is that there are spells that twist the air, creating a storm and making it rain, with lightning zapping the area every few seconds. The storm moves, attacks at random, and, just like Fiendfyre, cannot be controlled. It goes where it pleases, destroying everything with lightning. There is also a spell that simply bounces and arcs off humans and objects, which makes shields relatively obsolete if you are unlucky. Then there are the more extreme spells, which is a tornado of swords, swinging haphazardly around, a sort of vortex that can be controlled by the caster, moving across the earth with intense destruction.
+
+Basically put, I like to use a lot, and I mean a lot, of AoE spells, as well as PBAoE. There are a few that I use for single target, but they are simply dramatic with their effects. One, which is arguably one of my favourite, ages the target the longer the spell travels. It starts off moving really quickly, and after about a second, it slows down. If the spell hits point blank, it will age someone about a year, but if it travels across, let's say, a Quidditch field, it will age them about a hundred years. It also eats through shields, but the slow travel speed makes it easy to actually dodge (Seeing as it eventually moves about a meter a second.
+
+As for drawbacks, the things you listed are drawbacks! Basically, I make it so it cannot be cast nonverbally/wandlessly or it has a complex wand movement that most seem to forget, other times, I have it so that each cast slowly kills the caster, taking their natural lifespan with each successful cast. You know, an eye for an eye. If you kill someone, you pay the price.
+:PROPERTIES:
+:Author: ModernDayWeeaboo
+:Score: 1
+:DateUnix: 1542453655.0
+:DateShort: 2018-Nov-17
+:END:
+
+
+** I've changed a few things:
+
+1) Magic in my AU doesn't interact well with advanced Muggle technology. At all. But this is a necessary plot point, because it's central to current wizard/Muggle relations within the AU.
+
+2) Wandless magic (i.e. levitating and banishing objects, not Potions or Herbology) can be potent, but is almost always less consistent and less precise than wand-oriented spellcasting. The vast majority of spells cast using an instrument are designed specifically for said instrument, and as such do not translate well or at all in other circumstances.
+
+3) Almost all accredited magical schools (such as the "Eleven") trace their curricula back to teachers of the ancient Mystery Traditions, such as Hermes Trismegistus, Anansi, Fuxi, etc.
+
+4) Magic at Hogwarts (and most everywhere else) is taught slightly differently. Not everyone is great at casting spells, but they might have a real knack for casting magic through the invocation of the divine or infernal. Some might be hot shit at potion-making, but haven't a clue how to decipher a star chart. So the only core subjects past second year involve learning classical languages and magical symbolism.
+:PROPERTIES:
+:Author: Ihateseatbelts
+:Score: 4
+:DateUnix: 1542378247.0
+:DateShort: 2018-Nov-16
+:END:
+
+*** As far as I know, (1) is basically canon (though it's only for very powerful magic; you're fine casting /Wingardium Leviosa/ on a computer), and (2) definitely is.
+
+I do like (3).
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 3
+:DateUnix: 1542386558.0
+:DateShort: 2018-Nov-16
+:END:
+
+**** I may have somewhat understated 1). I'm not talking about Muggle devices not working at Hogwarts. Rather, if you switch on a phone, use a microwave, or drive a car in any magical territory, the results would be catastrophic. Enchantments could malfunction, or perhaps work in reverse. It might generate an explosion powerful enough to leave a 20ft deep crater. The device may even take a life of its own and wreak havoc upon the local population. Likewise, casting spells in the middle of, say, Times Square or Oxford Street would be equally as hazardous.
+
+As for 2), I'm not so sure. JK's semi-retcon of wandless magic seems quite a bit more overpowered. Making someone's jaw fall off with a quick hand gesture in this AU would be well beyond the capabilities of any wizard below McGonagall/Snape-tier. The Uagadou entry suggests otherwise for canon.
+:PROPERTIES:
+:Author: Ihateseatbelts
+:Score: 1
+:DateUnix: 1542406146.0
+:DateShort: 2018-Nov-17
+:END:
+
+***** True, but on the other hand, it's said elsewhere on Pottermore that European wizards gained their supremacy because they were the first to invent wands, which are the most efficient way to do magic.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 1
+:DateUnix: 1542409191.0
+:DateShort: 2018-Nov-17
+:END:
+
+****** That's why fics exploring other forms of magic is so fun! Wandless magic shouldn't be any less powerful than wand magic, just trickier, and also harder for Western wizards who grew up being taught only wand magic, cuz otherwise Pottermore is selling a seriously eurocentric white saviour-type world view. Non-western wizards and witches should be able to perform magic without a wand just fine.
+
+​
+:PROPERTIES:
+:Author: DasHokeyPokey
+:Score: 2
+:DateUnix: 1542421415.0
+:DateShort: 2018-Nov-17
+:END:
+
+******* Well, I thought it was a nice Wizarding equivalent to the fact that Europe got firearms and steampower first, hence its later domination over other parts of the world.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 1
+:DateUnix: 1542451788.0
+:DateShort: 2018-Nov-17
+:END:
+
+
+** u/rocketsp13:
+#+begin_quote
+  I was thinking of making the Killing Curse not being able to penetrate Shield Charms but is such a dark spell that it would deteriorate the shield quickly anyway (unless you're a very powerful wizard/witch), something that wouldn't be abused as hell.
+#+end_quote
+
+Interesting. I've seen it a few times the other way around, where they boost the spell. I saw one where it will go through all solid objects until it kills something.
+
+​
+:PROPERTIES:
+:Author: rocketsp13
+:Score: 1
+:DateUnix: 1542396417.0
+:DateShort: 2018-Nov-16
+:END:

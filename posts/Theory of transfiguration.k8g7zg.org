@@ -1,0 +1,356 @@
+#+TITLE: Theory of transfiguration
+
+* Theory of transfiguration
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 36
+:DateUnix: 1607346091.0
+:DateShort: 2020-Dec-07
+:FlairText: Discussion
+:END:
+There have been many conflicting theories on how transfiguration works and what the limitations are, so I thought I'd share mine.
+
+Let's start by the name. /Transfiguration/, to change the /figure/ of something. My interpretation is that /figure/ refers to the measurable properties of something such as shape, color, weight, etc.
+
+So let's say you transfigure a piece of lead into a gold bar. The result will have the shape of a bar, the color and the density of gold. If you're good it'll also have the melting point and the electrical and thermal conductivity of gold, if you're really good maybe it'll chemically react like gold. But underneath it's still lead with a layer of magic on it. You can make it "permanent", but that simply means that it won't revert over time. You can add another layer of magic to prevent a /finite incantatem/ from reverting it, but that just makes it a bit more difficult to revert it.
+
+A Philosopher's Stone in comparison would change the lead to gold on a nuclear level, resulting in atoms with 79 protons and electrons and 118 neutrons that will stay gold even with all magic stripped away, completely undistinguishable from natural gold produced in neutron star collisions billions of years ago. Theoretically muggles can do the same with particle accelerators, just not economically.
+
+This property makes transfiguration a bit less overpowered when it comes to forgery as it's always possible (though not effortless) to distinguish between transfigured and real goods, but it makes it very user friendly as any mistake can be fixed. This also enables things like Animagi, people who have the shape, size, strength and senses of animals while still keeping human consciousness and the ability to revert at will. Simple transfigured animals probably do not have correct internal functions and are closer to magically animated objects.
+
+Food not being transfigurable can be explained by this too. Theoretically if a wizard spent years studying biology and nutritional theory they might be able to transfigure food with the molecular properties required to have actual nutritional value, but in practice nobody does that when it's so much easier to use an existing piece of food as "blueprint" for copying more without having to understand the technical details of how food works.
+
+Similarly a transfigured computer would probably magically behave like the creator expected a computer to behave, but unless the creator knew the details of CPU architecture it'd not work like a normal computer. A magically copied processor might work, provided that the copying charm is precise enough with nanometer details, which is something that the creator of the charm might not have considered.
+
+About Gemino and copies being "worthless": My theory is that it works like transfiguration but instead of taking the information about what it should do from the user it takes them from an existing object. Like the difference between a printer and a photocopier. This allows molecular details like proteins to be copied, allowing creation of usable food, but it can still be untransfigured so it's no replacement for the real deal when it comes to valuable objects. It also does not copy magic, so if you copy a Nimbus you'll end up with a broom that's only good for cleaning and pranking the Slytherin Quidditch team. Copying potion ingredients is also unlikely to work.
+
+This theory somewhat balances the abilities of transfiguration, alchemy and copying of objects, mostly fits with canon and explains details about the magical economy (enchanted objects still take serious effort => expensive, gold has value, transfiguration is good for some things but can't do everything).
+
+How does this compare with your theory of how it works?
+
+Also tell me if I should write a similar post about my theory of prophecy, divination, and time travel restrictions. Turns out that a sentient Magic or Fate is really not necessary to explain it.
+
+
+** I feel like your post describes Charms rather than Transfiguration - placing a layer of magic over an object which does not alter the object itself.
+
+According to JKR, transfiguration is the branch of magic concerned with altering a thing's physical composition and form - what JK Rowling refers to as an object's “fundamental nature”:
+
+#+begin_quote
+  “Every now and then somebody asks me for the difference between a spell, a charm and a hex. Within the Potter world, the boundaries are flexible, and I imagine that wizards may have their own ideas. Hermione-ish, however, I've always had a working theory:
+
+  Spell: The generic term for a piece of magic.
+
+  Charm: Does not fundamentally alter the properties of the subject of the spell, but adds, or changes, properties. Turning a teacup into a rat would be a spell, whereas making a teacup dance would be a charm. The grey area comes with things like 'Stunning Spells', which on balance I think are Charms, but which I call spells for alliterative effect.” (JK Rowling's Old Website: Spell Definitions)
+#+end_quote
+
+Although JK Rowling phrases this as the difference between “Charms” and “Spells”, from the example of “turning a teacup into a rat” she's clearly talking about a Transfiguration spell. A Charm, unlike a Transfiguration, is stated to “not fundamentally alter the properties of the subject”, which means that the reverse holds: Transfiguration does fundamentally alter the properties of the subject.
+
+JK Rowling has been consistent on this. As early as 1998 she stated:
+
+#+begin_quote
+  “With a charm you add properties to something. With a transfiguration you change its nature completely; the molecular structure alters.” (The Herald, 7 December 1998)
+#+end_quote
+
+We also know that the change that Transfiguration makes is a permanent one. We know this from two sources. The first is the pig's tail that Hagrid gave Dudley, which did not go away on its own and had to be surgically removed:
+
+#+begin_quote
+  Dudley had emerged from his last encounter with a fully grown wizard with a curly pig's tail poking out of the seat of his trousers, and Aunt Petunia and Uncle Vernon had had to pay for its removal at a private hospital in London. (GoF Chapter 4)
+#+end_quote
+
+Incidentally, Hagrid's transfiguration was not even a particularly successful one - he had intended to transform Dudley into a pig in his entirety. So the permanence of a Transfiguration does not depend on its success.
+
+The second source is from the legend of Quintapeds in the companion book Fantastic Beasts and Where to Find Them:
+
+#+begin_quote
+  In retaliation, so the story has it, a gang of McCliverts surrounded the MacBoon dwellings one night and Transfigured each and every MacBoon into a monstrous five-legged creature. [...] The Quintapeds cannot talk and have strenuously resisted every attempt by the Department for the Regulation and Control of magical Creatures to capture a specimen and try to untransfigure it... (Fantastic Beasts and Where To Find Them: Quintaped)
+#+end_quote
+
+Now, no one knows if the legend of the Quintapeds' origin is true or not. But the key part is that wizards, including the Department for the Regulation and Control of Magical Creatures, consider the story credible enough that they have attempted Untransfiguration. That means that the story---including the permanence of the Transfiguration performed---is within the realm of Transfiguration possibility.
+
+So Transfiguration is not some kind of tactile illusion. It is not that the original object lurks “beneath” a layer of Transfiguration magic. Rather, the object is fundamentally, physically changed into a different object.
+
+The permanence of Transfiguration also makes sense. Since Transfiguration is a physical change, there's no reason for the object to revert to its previous state. Physical objects do not spontaneously turn into other objects in the absence of magic. You would need some new magical intervention to make a further change.
+
+However, Transfiguration is not permanent in the sense of being irreversible. It can be undone with Untransfiguration:
+
+#+begin_quote
+  “I would also advise Transfiguration, because Aurors frequently need to Transfigure or Untransfigure in their work. And I ought to tell you now, Potter, that I do not accept students into my NEWT classes unless they have achieved ‘Exceeds Expectations' or higher at Ordinary Wizarding Level.” (OotP Chapter 29)
+#+end_quote
+
+The possibility of Untransfiguration is also a clue as to the true nature of Transfiguration as changing the physical - and the physical /only/.
+
+Despite the fact that Transfiguration alters a thing's physical nature, there appears to be a certain object continuity at play. Draco Malfoy appears to remember his experience as a ferret, which would imply that Untransfiguration did not change him back to what he was /before/ the Transfiguration, but rather to what he would have been, now, had the Transfiguration never been applied in the first place. So there seems to be something non-physical which endures between Draco the ferret and Draco the boy.
+
+Another hint to this effect is that it does not appear to be possible to create new people with Transfiguration, which seems to firmly close to the door to the idea that you could use Transfiguration to create souls, which appear to be non-physical in nature.
+
+It is therefore likely that there is some kind of magical “object memory” where objects remember what they used to be, even if nothing physical remains and even if they would not turn back without active magical intervention.
+
+This, in turn, creates a neat space for what alchemy does which is different to transfiguration. We know from the historical alchemy that it was a highly spiritual discipline. It was not (as is sometimes depicted) simply "proto-Chemistry". It was a mystical practice whose goal was the perfection of both spiritual and physical substance. The two came hand in hand - the reason why the Philosopher's Stone creates both gold and immortality is that the two are considered two sides of the same coin: perfection of physical substance on the one hand, and spiritual substance on the other.
+
+In pre-Christian alchemy, the creation of the philosopher's stone was associated with the achievement of gnosis; in Christian alchemy, it was associated with the power of salvation.
+
+So Transfiguration which can alter physical things but cannot alter their magical/spiritual nature or soul is a limited transformation compared to what alchemy can achieve - Transfiguration can alter your physical shell, but alchemy can alter *you*.
+:PROPERTIES:
+:Author: Taure
+:Score: 20
+:DateUnix: 1607357675.0
+:DateShort: 2020-Dec-07
+:END:
+
+*** Interesting!
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 4
+:DateUnix: 1607358053.0
+:DateShort: 2020-Dec-07
+:END:
+
+
+** I am too lazy to rewrite it, so this is part of something I wrote on my head canon idea of how HP magic works:
+
+Generally the power required for a spell follows similar rules to the real world, move something heavier or faster, heat something hotter etc. For transfigurations, they are time limited, with more power being a greater change or lasting longer. In order to make a permanent change, e.g. a repairing spell, the end state has to be a stable configuration of the original material, so you can change shape or separate mixtures, but cannot turn wood into fish. A partial exception to this is alchemy (lead to gold is technically just a rearrangement of subatomic particles), which is why it is an incredibly difficult and rare skill. This is why you cannot magically create food, any energy you would get out from digesting would have to be at least matched by the magic put in to create it. There is a general principle that if something is already affected by magic then it is harder for more magic or physical effects to affect it, as it has to overpower the original.
+
+So any transfiguration or conjuring only lasts until it runs out of the magic you put in. If there is a lot of magic in it, then it is harder to dispel. For enchanted objects, copying would replicate the physical thing, but none of the enchantments as that is magic that has to be applied on top. I also don't think you can create true life by transfiguration, just something that is animate like you would expect the living thing to behave, while living -> non-living either shuts down the mind for the duration, or leaves it awake depending on how horrifying you want it.
+:PROPERTIES:
+:Author: greatandmodest
+:Score: 4
+:DateUnix: 1607347263.0
+:DateShort: 2020-Dec-07
+:END:
+
+*** Interesting theory.
+
+Not sure if it fits canon though. There are cases of transfiguration lasting very long, and magic producing very large amounts of material or heat.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 3
+:DateUnix: 1607347858.0
+:DateShort: 2020-Dec-07
+:END:
+
+**** Magic allows someone to manipulate a lot more energy that they could physically, but the more your magic does (weight lifted, heat of fire, mass produced etc) the harder it is and the more it takes out of you. Also temporary changes are a lot easier, and even producing heat could just be a temporary affects. You are free to come up with your own interpretation, I just like having at least an implied limit on what a witch/wizard can do at once.
+:PROPERTIES:
+:Author: greatandmodest
+:Score: 2
+:DateUnix: 1607348757.0
+:DateShort: 2020-Dec-07
+:END:
+
+***** I'd also assume that scaling any effect up requires proportionally more effort. Though there might be some clever physics exploits someone could use to be more efficient. For example applying a weight reducing enchantment before a levitation to reduce the load.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 1
+:DateUnix: 1607349845.0
+:DateShort: 2020-Dec-07
+:END:
+
+
+*** u/Poonchow:
+#+begin_quote
+  This is why you cannot magically create food, any energy you would get out from digesting would have to be at least matched by the magic put in to create it.
+#+end_quote
+
+Nah, I see it more as any conjured or transfigured food is simply not nutritious. You can conjure a donut and it will look and taste exactly like a donut, but you get no energy or nutrition out of it, because it is still not a donut, just a bit of magic wrapped around nothing to make the appearance of a donut.
+
+In transfiguration, while you are fundamentally changing the structure of an object, the object or magic still "remembers" what it once was, as Taure points out above, so while all transfigurations are permanent, trying to transfigure an already transfigured object would require the mage to know what the object was previously. This goes similarly with food. You could, in theory, conjure a pig, slaughter it, and cook it, but since the pig was /nothing/ before being conjured, it is still fundamentally /nothing/ when you eat it, so your body has /nothing/ to gain. It will fill your belly and as your body breaks it down to the chemical components, the conjuration ends and returns to /nothing/. Same with transfiguring a desk into a cow; it is still a desk, but has all the properties of a cow, up until it is destroyed or untransfigured, if you tried to eat the cow, you'd be eating bits of cow-shaped desk, so probably not a good idea.
+
+This is what I think Hermione meant when she says "good" food can not be conjured or transfigured, so while you can technically conjure or transfigure edible things, the end result would be a non-positive result nutritionally.
+
+That's the way I understand it, though.
+:PROPERTIES:
+:Author: Poonchow
+:Score: 1
+:DateUnix: 1607379387.0
+:DateShort: 2020-Dec-08
+:END:
+
+
+** How do you explain children being able to transfigure snuffboxes to mice?
+
+Are they all super smart neuroscientists at that age to understand how mouse brains work to allow the mouse to live/breathe/move etc? (Based on your concept of having to really understand CPU architecture)
+
+My headcanon is that to transfigure something, you just need a very surface level understanding of it.
+
+Mice - small creature with whiskers, fur, and tail. You need some magic to give it a facsimile of life.
+
+Computer - device with a display screen that allows you to do stuff. (If you transfigure a computer, it can only do things that you know a computer can do. For instance, if a wizard doesn't know people use computers to play games, then he can't transfigure a computer that people can play games with)
+:PROPERTIES:
+:Author: MiddleDoughnut
+:Score: 3
+:DateUnix: 1607351979.0
+:DateShort: 2020-Dec-07
+:END:
+
+*** No, their results look like mice and behave like they'd expect mice to behave, but underneath the visible /figure/ layer it's a magical construct like an animated suit of armor. If it were an actual mouse with full bodily function, it'd also be food which is a no no according to Gamps law.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 4
+:DateUnix: 1607352208.0
+:DateShort: 2020-Dec-07
+:END:
+
+**** u/Taure:
+#+begin_quote
+  If it were an actual mouse with full bodily function, it'd also be food which is a no no according to Gamps law.
+#+end_quote
+
+This would be a rather unusual use of the word "food" (much less "good food").
+
+A cow is not food, it's an animal. Beef is food.
+
+An apple tree is not food, it's a plant. An apple is food.
+
+There's nothing in the books (or elsewhere in canon) to suggest that you cannot use transfiguration to create things that, with additional process, can be turned into food.
+
+The limitation Hermione describes in DH - that you cannot create "good food out of nothing" - appears to be entirely targeted at the idea of using magic to create, out of nothing, a ready-to-eat, delicious meal. This is what people generally mean by "food" - the stuff you put on your plate.
+
+Remember, the context of the DH discussion about Gamp was that the trio had fish and mushrooms but couldn't use magic to turn it into something appetising. They did not lack for ingredients, but rather cooking knowledge. The ability to create ingredients with magic does not create any kind of contradiction with that scene - even with the ability to create ingredients with magic, ingredients were not what they lacked.
+
+So, McGonagall can turn a desk into a pig and it's a real physical pig. Cedric can do the same with turning a rock into a dog. But a pig and a dog are not food, so they don't break the exception to Gamp's law. They have created animals which could, with the correct knowledge of butchery and cookery magic, be turned into food. But the animals themselves are not food.
+:PROPERTIES:
+:Author: Taure
+:Score: 4
+:DateUnix: 1607358339.0
+:DateShort: 2020-Dec-07
+:END:
+
+***** But the process of turning raw meat into good food is a continuous one. There is no sudden jump where something used to be not food a nanosecond ago but now it is food. Therefore I wouldn't expect a discontinuous jump in how difficult/possible it is to magically create.
+
+What good food is is also highly subjective. Someone from a few thousand years ago would have a very different answer to someone today.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 3
+:DateUnix: 1607359398.0
+:DateShort: 2020-Dec-07
+:END:
+
+****** In real life, bravery is an opinion. What one person considers brave, another considers foolish.
+
+In HP magic, bravery is a fact. The sword of Gryffindor can only be taken under conditions of bravery. Magic knows what that is.
+
+In real life, a secret is just a piece of information in relation to which people have a subjective belief that it has some special status.
+
+In magic, whether or not something is a secret is a fact. Secrets can be hidden with the Fidelius Charm, information in general cannot.
+
+Magic is full of examples of treating as objective those things which in real life we consider subjective.
+
+I have no problem with the idea that magic possesses a definition of "food", that steak is within that definition but a cow is not, and that if people subjectively consider a cow food they are just wrong.
+:PROPERTIES:
+:Author: Taure
+:Score: 10
+:DateUnix: 1607360030.0
+:DateShort: 2020-Dec-07
+:END:
+
+******* Interesting that you bring up information, because there exists information that cannot be known in reality too. The exact values of two noncommuting operators come to mind. ΔA ΔB >= ½ |<[A, B]>|. Or wavefunctions which cannot be measured without destroying them. Of course a Fidelius works a little differently than a qubit, but there are fascinating analogies.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 1
+:DateUnix: 1607361129.0
+:DateShort: 2020-Dec-07
+:END:
+
+
+****** I always assumed the food limitation was due to the nature of magic. The one thing that I've not seen debated is that Magic Overwrites Mundane Reality. Mundane Reality includes natural processes like digestion and burning and such, so 'Magic' would try keep the transfigured object in the desired form rather than let it be changed by those processes. Meaning you can transfigure food, but you can't really 'digest' it because Magic won't let it break down in your system. You transfigure a tree into bacon and eggs and it will always be bacon and eggs until you die or you 'untransfigure' them.
+
+EDIT - To add on, Magical Processes would still affect it, so you could magically burn them with fiendfyre or magically digest them with a spell or magical substance, but not 'naturally so'.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 2
+:DateUnix: 1607417642.0
+:DateShort: 2020-Dec-08
+:END:
+
+******* I think it'd depend on which type of magic is used. One type of magic might change the figure of an object to that of a diamond, shiny and all but it won't react or burn like a diamond. Another spell might turn it into a specific arrangement atoms whose figure is changed to carbon, also a shiny diamond but unlike the other one it will burn and react since the atoms behave just like normal carbon. The latter might either require the user to understand chemistry or to copy the structure of an existing diamond without understanding it. I think depending on what's desired each type of magic could be useful.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 2
+:DateUnix: 1607418877.0
+:DateShort: 2020-Dec-08
+:END:
+
+
+****** The difference being pointed out here is that you're not transfiguring something into raw meat.
+
+You're transfiguring something into the animal which might provide the meat.
+
+A live chicken is not something humans look at and think 'food'. Certainly, people are very aware that chickens are edible but you don't look at a live chicken and think 'food' the way you might look at a chicken drumstick and think 'food'.
+:PROPERTIES:
+:Author: SerCoat
+:Score: 1
+:DateUnix: 1607378489.0
+:DateShort: 2020-Dec-08
+:END:
+
+******* The problem with having some barrier between an animal and food is that there'd have to be exceptions. Oysters are often eaten alive, and while rare there are other animals that are eaten alive in certain cultures.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 1
+:DateUnix: 1607380874.0
+:DateShort: 2020-Dec-08
+:END:
+
+
+**** Exception to gamp's law only states good food, which I take it to mean transfigured objects taste horrible.
+
+My idea of Wizarding society is that a wizard that knows enough magic can survive with just their wand. Wizards spend money on proper food not because of sustenance but because of taste.
+:PROPERTIES:
+:Author: MiddleDoughnut
+:Score: 1
+:DateUnix: 1607352931.0
+:DateShort: 2020-Dec-07
+:END:
+
+
+** u/Sescquatch:
+#+begin_quote
+  How does this compare with your theory of how it works?
+#+end_quote
+
+Very badly, since you're asking :P
+
+Transfiguration changes the nature of something. So there is no difference between a transfigured needle and a needle forged from iron, and the reason why the transfigured needle stays a needle for all eternity therefore is simply because /any/ needle stays a needle (unless you do something with it, of course).
+
+What you are describing is Charms. That changes an aspect of something, without changing the object. So you can charm a block of iron to weigh as much as a feather, and be white, not silver, but it's stll iron.
+
+A very interesting question is what I call the "infinite property theorem". Just conceptually, an object is the sum of its properties. So if you change all properties, then what is left of the object? Or, in less abstract terms: What is the meaning of water that isn't wet, and if you charm something to be wet, is it water?
+
+I think those would be questions magical scholars debate on.
+:PROPERTIES:
+:Author: Sescquatch
+:Score: 2
+:DateUnix: 1607357557.0
+:DateShort: 2020-Dec-07
+:END:
+
+
+** u/callmesalticidae:
+#+begin_quote
+  How does this compare with your theory of how it works?
+#+end_quote
+
+Based on the line that Vanished objects “go into non-being, which is to say, everything ,” I've been building a metaphysics that's fundamentally magical and only scientific on the surface. From this line, we can conclude that “being” is fundamentally about differentiation. This leads pretty naturally into what Aristotle called “accidents,” or incidental characteristics. For example, in Catholic theology, wafers are literally transmuted into the body of Christ, and only appear to remain as wafers because the “accidents” of the wafer (eg color, texture, taste) have been unchanged.
+
+Transfiguration is kind of the opposite of Communion in that sense: you're changing the incidental characteristics, not the fundamental nature. Because the universe is largely conceptual, however, this means that, even though you can change a hat into a hot dog, and the hot dog will look as you'd expect it to under a microscope, you won't actually be nourished by the hot dog because the universe actually has an idea of what “food” is, and the new hot dog still doesn't belong in that category, which means that you'll never get your body to process it properly.
+
+Similarly, you can multiply food, but that won't affect the total nutritive value that's available to you: eat one regular sausage, or duplicate it nineteen times and eat all twenty, and it's all the same. This is because you aren't actually producing any additional sausages, just altering one of the accidents or outward characteristics (namely, the “single-bodiedness”) of one sausage.
+
+#+begin_quote
+  Also tell me if I should write a similar post about my theory of prophecy, divination, and time travel restrictions.
+#+end_quote
+
+Definitely. Tag me when you do.
+:PROPERTIES:
+:Author: callmesalticidae
+:Score: 1
+:DateUnix: 1607357545.0
+:DateShort: 2020-Dec-07
+:END:
+
+*** I've always interpreted “go into non-being, which is to say, everything" as canceling out the matter waves, so it goes into the now smooth quantum field, which is to say everything. Like how destructive interference causes a particle to not exist in certain locations, but without conserving the probability over the entire space.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 1
+:DateUnix: 1607357926.0
+:DateShort: 2020-Dec-07
+:END:

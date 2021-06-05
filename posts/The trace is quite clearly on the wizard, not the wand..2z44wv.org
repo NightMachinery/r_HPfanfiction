@@ -1,0 +1,162 @@
+#+TITLE: The trace is quite clearly on the wizard, not the wand.
+
+* The trace is quite clearly on the wizard, not the wand.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1426418451.0
+:DateShort: 2015-Mar-15
+:FlairText: Discussion
+:END:
+[deleted]
+
+
+** The fact that Dobby managed to set the trace off instead of Harry is all the evidence you need that the trace is quite clearly not on the wizard either.
+
+Then again, nobody understands house elf magic and Dobby clearly set it off on purpose. So maybe it was on the wand and Dobby merely faked a false positive in whatever way they test it?
+
+The trace is never explained at all. It appears twice in the entire series:
+
+- Once when Dobby set it off, thus proving that it's not perfect and that it can be faked.
+
+- Once when harry fights of the dementors in book 5, but this was so straightforward that it's hard to determine who or what triggered it: wizard, wand or the area.
+
+Anyway, there is not enough canon evidence to rule out whether or not wandless magic sets it off or not so I'll give it a pass if it's adequately explained in-universe.
+:PROPERTIES:
+:Author: Frix
+:Score: 15
+:DateUnix: 1426419959.0
+:DateShort: 2015-Mar-15
+:END:
+
+*** It appears in book 7 as well where it is if I recall implied that it is a spell that is cast on the wizard. There is a worry that it might have been re-applied to Harry which hermineo insists is impossible or something to that effect. I just finished HPMOR and I'm realizing I really need to read canon again.
+:PROPERTIES:
+:Author: space_fountain
+:Score: 2
+:DateUnix: 1426469701.0
+:DateShort: 2015-Mar-16
+:END:
+
+
+** There are a few options:
+
+- The Wand - Kinda works but is pretty easy to get around and the thing with Dobby doesn't quite work. Unless house-elves developed a way of spoofing it for /reasons/.
+
+- The Wizard - Harder to get around (can't just use mummy's wand) but still has the Dobby problem.
+
+- The Home - A bit silly really. If the point is to protect the statute then allowing magic outside the house is a pretty glaring loophole.
+
+Then there's the area of effect. One easy way to make the Wizard/Wand idie work better is to say that it simply detects magic use /near/ to the Wand/Child. This does explain the behaviour we see in the books but it has a potentially massive problem with false positives.
+
+Of course we might just be thinking about this all wrong. The Trace could be a nationwide thing that works something like the Hall of Prophecy is often thought to work. Or the Taboo. Magic works on concepts so it's simply a broad spell that looks for the 'idea' of an underage wizard performing magic. In much the same way Dobby subverts orders by thinking about them differently he could think of the magic he's doing as Harry doing the magic (after all, the magic wouldn't have happened if Harry hadn't done what he did) and thus tripped the Trace.
+:PROPERTIES:
+:Author: SteelbadgerMk2
+:Score: 10
+:DateUnix: 1426431241.0
+:DateShort: 2015-Mar-15
+:END:
+
+
+** With these instances:
+
+- When Dobby does it, is that there are muggles in that room. That's what primarily set off the trace.
+
+- It's the same next year with Marge, she a muggle and didn't know about magic.
+
+- The case with the Dementors is weird, but we can blame the trace being set off because Umbridge purposefully wanted it to go off.
+
+Thus we can conclude that an underage wizard performing magic in front of muggles is a big no no.
+
+On the other hand, performing magic outside school with no muggles present is totally fine:
+
+- Hermione states she had practised magic at home before boarding the train on the first year.
+
+- Duelling with Voldemort in the graveyard, nope, no trace.
+
+- Six student doing large amounts of magic in the bowels of the Ministry of Magic itself, still no trace.
+
+- Harry doing magic in that cave with Dumbledore, also no trace.
+
+Conclusion, you can do magic outside school as long as you don't do it in front of muggles.
+:PROPERTIES:
+:Author: bootkiller
+:Score: 7
+:DateUnix: 1426431473.0
+:DateShort: 2015-Mar-15
+:END:
+
+*** Aside from Hermione before first year, all of those instance could also be explained by the Trace being distorted by the presence of an adult witch or wizard. This also works because no magical adult was present the 3 times Harry is "caught" using magic.
+
+For the Hermione case, the Trace could be applied at Hogwarts sometime during first year which could explain why she didn't get any citations for practicing before she got to school.
+:PROPERTIES:
+:Author: bverde013
+:Score: 2
+:DateUnix: 1426486038.0
+:DateShort: 2015-Mar-16
+:END:
+
+
+*** u/KalmiaKamui:
+#+begin_quote
+  The case with the Dementors is weird, but we can blame the trace being set off because Umbridge purposefully wanted it to go off.
+#+end_quote
+
+Nah, it's just like Harry's other incidents. Dudley was there.
+:PROPERTIES:
+:Author: KalmiaKamui
+:Score: 1
+:DateUnix: 1426441032.0
+:DateShort: 2015-Mar-15
+:END:
+
+**** No, this one is different, Dudley knows about magic.
+
+Both Arthur Weasley and Dumbledore performed magic in front of him. If that was like the other incidents, Harry should have received to more notification on both those times.
+
+Besides, it's very clear in books that Umbridge orchestrated the Dementor incident on purpose, with the specific intent of framing Harry for doing magic.
+:PROPERTIES:
+:Author: bootkiller
+:Score: 1
+:DateUnix: 1426442360.0
+:DateShort: 2015-Mar-15
+:END:
+
+***** Is it ever specified that that matters for underaged witches/wizards? The first incident before Harry's second year was Dudley's birthday, right? The only people there were the Dursleys themselves, who all knew about magic, but Harry still got in trouble. The incident with Marge was before Harry's third year.
+:PROPERTIES:
+:Author: KalmiaKamui
+:Score: 1
+:DateUnix: 1426442890.0
+:DateShort: 2015-Mar-15
+:END:
+
+****** Dudley's birthday was before Harry even knew he was a wizard, so that doesn't really count. However the Ministry should know about it, the place was full of muggles.
+:PROPERTIES:
+:Author: bootkiller
+:Score: 1
+:DateUnix: 1426443260.0
+:DateShort: 2015-Mar-15
+:END:
+
+******* Okay, you're right about it not being Dudley's birthday, it was a business dinner the Durselys were hosting. However, I still think there's no cannon evidence that a spell could differentiate between people based on whether or not they know something. The most logical explanation for the trace is that it's 1) put on the witch/wizard, 2) set off by any magic performed in their vicinity regardless of source, and 3) only set off in the presence of muggles.
+:PROPERTIES:
+:Author: KalmiaKamui
+:Score: 1
+:DateUnix: 1426444310.0
+:DateShort: 2015-Mar-15
+:END:
+
+******** We can't look too much into it, that's why I stick to the rules I said in my first post above. Because, in the end, the trace doesn't make any sense at all, it only exists to serve the plot as needed.
+:PROPERTIES:
+:Author: bootkiller
+:Score: 2
+:DateUnix: 1426444646.0
+:DateShort: 2015-Mar-15
+:END:
+
+
+** So the trace is on the house elf who breaks into your house?
+:PROPERTIES:
+:Author: throwawayted98
+:Score: 1
+:DateUnix: 1426426976.0
+:DateShort: 2015-Mar-15
+:END:

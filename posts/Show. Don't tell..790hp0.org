@@ -1,0 +1,311 @@
+#+TITLE: Show. Don't tell.
+
+* Show. Don't tell.
+:PROPERTIES:
+:Score: 54
+:DateUnix: 1509071711.0
+:DateShort: 2017-Oct-27
+:FlairText: Discussion
+:END:
+[deleted]
+
+
+** Pretty good point in general when it comes to writing. Info/lore dumps are boring, readers want to experience the events not be given a 10000 word summary of it.
+
+Also I think this goes hand in hand, but be wise about what details you use, how many you use, and why you use them. It's so boring to get just info dumps for paragraphs and paragraphs about this is how Harry feels and this is how his plan works and his magic and his this and his that. It's really dull and boring. Some of the details might be exciting to write, but it will really bog down the story. I remember reading a XO Mass Effect fic where the author spent 20000 words rewriting the lore in a list basically. Killed the fic for me. This is so common with "political" fics, where the subtlety, wit, and intrigue is just ruined by over-detailing and explaining everything.
+:PROPERTIES:
+:Author: ladrlee
+:Score: 30
+:DateUnix: 1509080512.0
+:DateShort: 2017-Oct-27
+:END:
+
+*** mass effect fandom is particularly bad at this, especially in any story about powering up humans.
+
+Anytime an author wants to change something about humanity before first contact, you better be ready for the horde of "codex" pages which is basically a list an entire new timeline, ship/weapon specs, and often general humanity fuck yeah! power-wank. and OFC it will inventively open with the first contact war in which humans will stomp the Turians. Then skip to the first game.
+
+It's utterly maddening if I am honest. Hell, the authors have a near perfect example of setting the scene from the opening of the first damn game. It doesn't explain all details about the races that inhabit the galaxy, Doesn't give a 20 page primer to the history of humanity, it certainly doesn't contain a whole bunch of ship and weapon specs. It trusts the player to be able to explore and find these details on their own, without forcing it down their throat.
+
+Sorry for the rant, if you cant tell, the ME fandom has been irritating to read a lot as of late.
+:PROPERTIES:
+:Author: DontLoseYourWay223
+:Score: 11
+:DateUnix: 1509081370.0
+:DateShort: 2017-Oct-27
+:END:
+
+**** any suggestions for ME?(sorry if off topic) I've never really read much but I love the trilogy and have played through it multiple times. I've only read part of Interstitium by AssaultSloth and it was pretty good.
+
+linkffn(5753454)
+:PROPERTIES:
+:Author: cyclicalbeats
+:Score: 2
+:DateUnix: 1509125749.0
+:DateShort: 2017-Oct-27
+:END:
+
+***** Well, it's not exactly a fic but do take a look at “Renegade Reinterpretations” (linkffn(7170477)), it's an interesting piece of work and I say that as someone who generally disliked the renegade options in the game (well, games; whatevs).
+
+Then, take a look at this one-shot:
+
+[[https://forums.spacebattles.com/threads/harvest-a-mass-effect-oneshot.201713/]]
+:PROPERTIES:
+:Author: Kazeto
+:Score: 2
+:DateUnix: 1509132307.0
+:DateShort: 2017-Oct-27
+:END:
+
+****** [[http://www.fanfiction.net/s/7170477/1/][*/Renegade Reinterpretations/*]] by [[https://www.fanfiction.net/u/1675369/College-Fool][/College Fool/]]
+
+#+begin_quote
+  A species without Paragons is one with a sad and terrible history. Humanity enters a very different First Contact War, and Mass Effect as you know it will change. Warning: this fic may make you rage and wish genocidal retributions against aliens.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Mass Effect *|* /Rated/: Fiction K+ *|* /Chapters/: 70 *|* /Words/: 95,544 *|* /Reviews/: 909 *|* /Favs/: 879 *|* /Follows/: 506 *|* /Updated/: 9/25/2011 *|* /Published/: 7/11/2011 *|* /id/: 7170477 *|* /Language/: English *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=7170477&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=7170477&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1509132317.0
+:DateShort: 2017-Oct-27
+:END:
+
+
+***** [[http://www.fanfiction.net/s/5753454/1/][*/Interstitium/*]] by [[https://www.fanfiction.net/u/661180/AssaultSloth][/AssaultSloth/]]
+
+#+begin_quote
+  Flashbacks, interstitial scenes, and backdoor dealings. A companion to ME2 focusing on characters and worlds, big and small.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Mass Effect *|* /Rated/: Fiction T *|* /Chapters/: 33 *|* /Words/: 535,038 *|* /Reviews/: 906 *|* /Favs/: 1,013 *|* /Follows/: 737 *|* /Updated/: 4/30/2014 *|* /Published/: 2/16/2010 *|* /Status/: Complete *|* /id/: 5753454 *|* /Language/: English *|* /Genre/: Sci-Fi *|* /Characters/: Shepard <M>, Garrus V., Miranda L., Tali'Zorah *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=5753454&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=5753454&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1509125779.0
+:DateShort: 2017-Oct-27
+:END:
+
+
+***** [[https://www.fanfiction.net/s/9271192/1/Transcendent-Humanity][Transcendant Humanity]]
+
+Our solar system had no eezo, no Prothean technology; just a message warning us about the Reapers.
+
+We were stuck here for far longer and galvanized by a galactic extermination threat - so we developed in a unique way.
+
+[[https://forums.spacebattles.com/threads/larger-than-worlds-a-mass-effect-fanfiction-featuring-transhumanity.369987/][Larger than Worlds]]
+
+Someone took Transcendant Humanity from a different angle. Far more character-focused.
+:PROPERTIES:
+:Author: TheVoteMote
+:Score: 1
+:DateUnix: 1509169394.0
+:DateShort: 2017-Oct-28
+:END:
+
+
+**** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1509086453.0
+:DateShort: 2017-Oct-27
+:END:
+
+***** I don't suppose you would care to link it? i would love to check it out!
+:PROPERTIES:
+:Author: DontLoseYourWay223
+:Score: 3
+:DateUnix: 1509088147.0
+:DateShort: 2017-Oct-27
+:END:
+
+
+** My favorite explanation of this concept is Chuck Palahniuk's [[https://litreactor.com/essays/chuck-palahniuk/nuts-and-bolts-%E2%80%9Cthought%E2%80%9D-verbs][essay on "thought" verbs]].
+
+To quote the essay:
+
+'Instead of saying: “Adam knew Gwen liked him.”
+
+You'll have to say: “Between classes, Gwen was always leaned on his locker when he'd go to open it. She'd roll her eyes and shove off with one foot, leaving a black-heel mark on the painted metal, but she also left the smell of her perfume. The combination lock would still be warm from her ass. And the next break, Gwen would be leaned there, again.”'
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 27
+:DateUnix: 1509096857.0
+:DateShort: 2017-Oct-27
+:END:
+
+
+** I'm always amazed to see canon infodumps. People, the advantage of writing fanfiction is that your readers /already know the backstory/, they don't have to be filled in. Please, do not infodump anything that is actually in the books. Well, don't infodump at all, but especially not canon.
+:PROPERTIES:
+:Author: t1mepiece
+:Score: 11
+:DateUnix: 1509103468.0
+:DateShort: 2017-Oct-27
+:END:
+
+*** If they're gonna rehash canon at all, though, I'd much rather have a quick infodump than 20 chapters of "shown" rehash with only a few differences...
+:PROPERTIES:
+:Author: cavelioness
+:Score: 12
+:DateUnix: 1509105068.0
+:DateShort: 2017-Oct-27
+:END:
+
+**** There is that. I, also, hate going through 3 years of school that are 95% identical to canon when the real action starts in 4th year.
+:PROPERTIES:
+:Author: t1mepiece
+:Score: 2
+:DateUnix: 1509143727.0
+:DateShort: 2017-Oct-28
+:END:
+
+
+** This is criticism I have with Prince of Slytherin. I love the characterizations and the fic in general but I wish he'd step back a bit on the info dumping.
+:PROPERTIES:
+:Author: emotionalhaircut
+:Score: 5
+:DateUnix: 1509110476.0
+:DateShort: 2017-Oct-27
+:END:
+
+
+** also, describe facial expressions, give insinuation, do something so that you're dialogue isn't a back and forth of people repeating what was just said and then only slightly expanding on it.
+:PROPERTIES:
+:Author: jrg114
+:Score: 4
+:DateUnix: 1509077639.0
+:DateShort: 2017-Oct-27
+:END:
+
+
+** Personal all time favourite Tell (pretty literally) to hate: "Little did he know, he was making a huge mistake." or "Much later he would think upon this moment and laugh at his naïvete." or some such. You get the point.
+
+Nothing more passe.
+:PROPERTIES:
+:Author: aapoalas
+:Score: 3
+:DateUnix: 1509118872.0
+:DateShort: 2017-Oct-27
+:END:
+
+
+** It's so fundamentally important in writing in general, scene to scene. Not just in changes to canon. But it takes a lot more effort and generally, far more words.
+:PROPERTIES:
+:Author: cyclicalbeats
+:Score: 3
+:DateUnix: 1509125488.0
+:DateShort: 2017-Oct-27
+:END:
+
+*** u/deirox:
+#+begin_quote
+  far more words
+#+end_quote
+
+So wouldn't it be OK to "tell" the non-essential stuff? How stringent of a rule is it?
+:PROPERTIES:
+:Author: deirox
+:Score: 2
+:DateUnix: 1509136370.0
+:DateShort: 2017-Oct-28
+:END:
+
+**** There aren't really rules in writing, but there are /guideposts./ If you hear a rule that says "don't tell readers how the characters feel, show the reactions that display the emotion," that's the collected wisdom of many writers says "when you don't do this, it almost always turns out badly."
+
+Like if you see a sign by a pond that says "danger: crocodiles", no one's going to come in a drag you out of the pond should you decide to go in anyways. And maybe you'll come out the other side wet but otherwise no worse for wear. But the odds aren't in your favor.
+
+Which is why every "rule" seems to have an exception - Douglas Adams tells damn near everything in /The Hitchhiker's Guide to the Galaxy/, but he can do so in such an entertaining way that nobody chides him for it.
+
+Having said that: there are things you should just tell the reader - background details, what a secondary character did over their summer holidays, other not-in-focus details. But if you're a new writer, there's like a 90% chance that you're telling a lot of things you should be showing, and almost no chance that you're showing things you should be telling.
+:PROPERTIES:
+:Author: jmartkdr
+:Score: 4
+:DateUnix: 1509157980.0
+:DateShort: 2017-Oct-28
+:END:
+
+
+**** Show the thing the story is about. Tell what's needed to support that. Omit the rest.
+
+Note that different stories are about different things. In Foundation, Asimov tells a lot of character personality. Because the story is about the ideas.
+:PROPERTIES:
+:Author: dspeyer
+:Score: 2
+:DateUnix: 1509235078.0
+:DateShort: 2017-Oct-29
+:END:
+
+
+** Agreed, large text dumps tie with terrible grammar and "abilities that the main character has but will never use" for the quickest ways to get me to stop reading a story.
+
+A real shame, there have been some really good ideas that were just bogged down with page upon page of explaining. I even remember reading a few where dialogue is near non-existent and the entire work is just explaining what happened.
+:PROPERTIES:
+:Author: mamberu
+:Score: 2
+:DateUnix: 1509082377.0
+:DateShort: 2017-Oct-27
+:END:
+
+*** But how else will you know that the most noble Lord Harry Potter-Black-Gryffindor-Merlin-Slytherin-Riddle-Hufflepuff-Ravenclaw-Peveral-Le_fay-Christ has 1038858372784726472826 galleons, and is politically powerful without the goblins taking his blood and spelling it out on parchment?
+:PROPERTIES:
+:Author: Parzius
+:Score: 1
+:DateUnix: 1509298365.0
+:DateShort: 2017-Oct-29
+:END:
+
+**** I'd be a fan of someone writing this on his first vault trip, [[https://youtu.be/p1I2HqXIMRo?t=20]]
+
+ 
+
+P.S. Sorry if it gets stuck in your head.
+:PROPERTIES:
+:Author: mamberu
+:Score: 1
+:DateUnix: 1509312561.0
+:DateShort: 2017-Oct-30
+:END:
+
+
+** I personally that there needs to be a balance of showing and telling.
+
+It is always weird when a character monologues for like two pages, with no description what is/was happening around them. It makes me think on anime were the other characters are just standing still and not moving/blinking.
+
+For example, if someone is giving an impassioned speech, they would be doing some sort of movement, even it is hand/arm motions. That can be described easily to break out the speaking.
+:PROPERTIES:
+:Author: AshtonZero
+:Score: 1
+:DateUnix: 1509369520.0
+:DateShort: 2017-Oct-30
+:END:
+
+
+** Would you be so kind as to link your fics for us so we can see how you exemplify this in your own work?
+:PROPERTIES:
+:Author: Judy-Lee
+:Score: 1
+:DateUnix: 1509155036.0
+:DateShort: 2017-Oct-28
+:END:
+
+
+** YESSSSSS THISSSSSASDKjAKDPMSDAFNFA#!(#&$(!@)u3AKJNDAL
+
+FF.net needs to include this in their T&Cs.
+:PROPERTIES:
+:Author: maxxie10
+:Score: -1
+:DateUnix: 1509106201.0
+:DateShort: 2017-Oct-27
+:END:

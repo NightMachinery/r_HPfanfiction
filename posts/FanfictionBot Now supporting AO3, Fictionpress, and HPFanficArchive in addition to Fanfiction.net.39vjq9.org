@@ -1,0 +1,206 @@
+#+TITLE: FanfictionBot: Now supporting AO3, Fictionpress, and HPFanficArchive in addition to Fanfiction.net!
+
+* [[https://github.com/tusing/reddit-ffn-bot][FanfictionBot: Now supporting AO3, Fictionpress, and HPFanficArchive in addition to Fanfiction.net!]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 49
+:DateUnix: 1434339902.0
+:DateShort: 2015-Jun-15
+:FlairText: Misc
+:END:
+
+** Have fun guys! We're pretty much done, now, in terms of major features. Just a few bug fixes to make and whatnot.
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 5
+:DateUnix: 1434339925.0
+:DateShort: 2015-Jun-15
+:END:
+
+
+** And I would like to say many thanks to [[/u/stuxcrystal]] and [[/u/MikroMan]] for helping so much!
+:PROPERTIES:
+:Author: tusing
+:Score: 4
+:DateUnix: 1434340001.0
+:DateShort: 2015-Jun-15
+:END:
+
+
+** You da real mvp
+:PROPERTIES:
+:Author: LazyZo
+:Score: 3
+:DateUnix: 1434385472.0
+:DateShort: 2015-Jun-15
+:END:
+
+
+** Perhaps Portkey as well?
+:PROPERTIES:
+:Author: Karinta
+:Score: 2
+:DateUnix: 1434511301.0
+:DateShort: 2015-Jun-17
+:END:
+
+
+** Does this bot work in other subreddits, without any kind of special setup?
+:PROPERTIES:
+:Author: ulobmoga
+:Score: 1
+:DateUnix: 1434342166.0
+:DateShort: 2015-Jun-15
+:END:
+
+*** It should - just make sure you tell the bot via command-line which subreddits should be processed
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 1
+:DateUnix: 1434353970.0
+:DateShort: 2015-Jun-15
+:END:
+
+
+** What about hp.adult-fanfiction.org
+:PROPERTIES:
+:Author: LazyZo
+:Score: 1
+:DateUnix: 1434385427.0
+:DateShort: 2015-Jun-15
+:END:
+
+*** Adult-Fanfiction is a completely different story than other fanfiction portals. For one, you actually have to pass a simple age check. While normally, it wouldn't be a problem for a human to pass, it's damn effective when it comes to exploiting the lazyness of programmers.
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 4
+:DateUnix: 1434401783.0
+:DateShort: 2015-Jun-16
+:END:
+
+**** Damn that sucks.
+:PROPERTIES:
+:Author: LazyZo
+:Score: 2
+:DateUnix: 1434405152.0
+:DateShort: 2015-Jun-16
+:END:
+
+
+** Would it be possible to add away to limit the search to one fandom? There's less of a chance of getting the wrong fic that way, especially for more obscure fandoms.
+:PROPERTIES:
+:Author: Imborednow
+:Score: 1
+:DateUnix: 1434492956.0
+:DateShort: 2015-Jun-17
+:END:
+
+
+** /(ignore this comment, just testing something)/
+
+linkffn(Taken By Surprise By ToucheDetective)
+:PROPERTIES:
+:Author: OutOfNiceUsernames
+:Score: 1
+:DateUnix: 1434790678.0
+:DateShort: 2015-Jun-20
+:END:
+
+
+** No support for Fimfiction still? Oh well, this is still cool.
+:PROPERTIES:
+:Author: gameboy17
+:Score: 1
+:DateUnix: 1434379654.0
+:DateShort: 2015-Jun-15
+:END:
+
+*** Sites will come, but it takes time, since I'm basically learning Python again on the fly while developing this. On top of that, I have a lot of IRL things going on.
+
+I'll add it, but just a question - are there any subreddits that might benefit from the addition of FimFiction? If so, I'll also have to add them to the defaults list in the program.
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 3
+:DateUnix: 1434401490.0
+:DateShort: 2015-Jun-16
+:END:
+
+**** Well, most of the pony subs, like [[/r/mylittlepony]] and [[/r/MLPlounge]], would find it useful in general. [[/r/mylittlefanfic]] as well, though I can't remember how active it is.
+:PROPERTIES:
+:Author: gameboy17
+:Score: 1
+:DateUnix: 1434402763.0
+:DateShort: 2015-Jun-16
+:END:
+
+
+** Does this have a limit on the number of calls per post? I attempted to call these in another post but it did not work.
+
+linkffn(Harry Potter and the Natural 20 by Sir Poley)
+
+linkffn(Seventh Horcrux by Emerald Ashes)
+
+linkffn(Harry Potter and the Boy Who Lived by The Santi)
+
+linkffn(False Starts by Taure)
+
+linkffn(The One He Feared by Taure)
+
+linkffn(On the Way to Greatness by mira mirth)
+
+linkffn(Prince of The Dark Kingdom by mizuni-sama)
+
+linkffn(Alexandra Potter by Taure)
+
+linkffn(The Twine Bracelet by CheddarTrek)
+
+linkffn(Applied Cultural Anthropology by jacobk)
+
+linkffn(The Black Prince by cxjenious)
+
+linkffn(What You Leave Behind by Newcomb)
+
+linkffn(A Long Journey Home by Rakeesh)
+
+linkffn(Trial by Troll by P4lindrome)
+
+linkffn(In Essence Divided by Taure)
+
+linkffn(Alexandra Quick and the Thorn Circle by Inverarity)
+
+linkffn(Control by Anonymous58)
+
+linkffn(Harry Potter and the Lords of Magic I by Taure)
+
+linkffn(Für Das Größere Wohl by Pseudonym Sam)
+
+linkffn(Something Grim Comes This Way by Ruskbyte)
+
+linkffn(By the Divining Light by enembee)
+
+linkffn(A Boy and His Cloak by HoosYourDaddy)
+
+linkffn(Masters of Death by Ruskbyte)
+
+linkffn(Hogwarts Houses Divided by Inverarity)
+
+linkffn(The Denerian Renagade by Shezza)
+
+linkffn(Evil Be Thou My Good by Ruskbyte)
+
+linkffn(The Lesser Sadness by Newcomb)
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1435946900.0
+:DateShort: 2015-Jul-03
+:END:
+
+*** You probably exceeded the character limit.
+
+I'm still looking into finding ways to trimming posts.
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1435958672.0
+:DateShort: 2015-Jul-04
+:END:

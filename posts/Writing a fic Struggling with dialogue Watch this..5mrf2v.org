@@ -1,0 +1,253 @@
+#+TITLE: Writing a fic? Struggling with dialogue? Watch this.
+
+* [[https://www.youtube.com/watch?v=dxOECOtYeZc][Writing a fic? Struggling with dialogue? Watch this.]]
+:PROPERTIES:
+:Author: 2017_goal
+:Score: 25
+:DateUnix: 1483890548.0
+:DateShort: 2017-Jan-08
+:FlairText: Misc
+:END:
+
+** You're right, this is a great and very helpful video. It's worth noting that this is a guide regarding /cinematic/ dialogue though; in writing we don't have the benefit of actors using inflection and body language and subtle facial expression to show the subtext of dialogue. The author has to show these sort of things in a different way - some things recommended in this video work great on screen but not necessarily in writing.
+
+That said, I love the segment on exposition - it explains a common problem I see in fics that's bothered me a lot but I've never been able to articulate.
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 11
+:DateUnix: 1483893375.0
+:DateShort: 2017-Jan-08
+:END:
+
+*** I disagree that the bit about body language and facial expressions isn't helpful for writers.
+
+Jack slammed his fist down on the table, looming over Bob, expression thunderous. "Enough!"
+
+"Enough," Jack shouted angrily.
+
+The latter is much more common in fanfic than the former, and a million times weaker.
+:PROPERTIES:
+:Author: lord_geryon
+:Score: 4
+:DateUnix: 1483897161.0
+:DateShort: 2017-Jan-08
+:END:
+
+**** Judging by the arguments y'all are getting caught up in the /specifics/.
+
+Ya gotta remember every line in your story is deliberate, you fuck up sometimes, but mostly you will always choose to write /blah blah blah/ for xyz reasons.
+
+This video tries to explain xyz reasons so you can better choose your /blah blah blahs/.
+
+As an equation: /what they feel/ + /what they want/ = what they say. Append actions to this sparingly else your writing just becomes a more varied monotony.
+:PROPERTIES:
+:Author: 2017_goal
+:Score: 3
+:DateUnix: 1483917444.0
+:DateShort: 2017-Jan-09
+:END:
+
+
+**** [deleted]
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1483899794.0
+:DateShort: 2017-Jan-08
+:END:
+
+***** I'm showing in the first example, not telling. It's the same thing as in cinema.
+:PROPERTIES:
+:Author: lord_geryon
+:Score: -1
+:DateUnix: 1483901674.0
+:DateShort: 2017-Jan-08
+:END:
+
+****** [deleted]
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1483902366.0
+:DateShort: 2017-Jan-08
+:END:
+
+******* If that's the standard you want to set, then there is no such thing as subtlety in writing. After all, it's all words.
+
+And damn, man, can you tone down the pretentiousness? You sound like a movie snob that decided to come enlighten us unwashed masses of the superiority of the picture over the word.
+
+As for showing vs telling... what the hell do you think showing is? It's using actions and expressions to get the point across, as opposed to just coming right out and saying 'he was angry'. You might want to study writing styles a bit more, look up the contrast between active and passive voice.
+:PROPERTIES:
+:Author: lord_geryon
+:Score: 2
+:DateUnix: 1483904824.0
+:DateShort: 2017-Jan-08
+:END:
+
+******** I will note, though, that the “showing” in your example /is/ kind of weak, which might be why some people think it's not actually showing. Though yes, I do understand that to make the “showing” stronger you'd want an actual character from whose already established behaviour and personality the reader would be able to deduce that they are angry without stuff like “shouted angrily”; likewise, I am only replying to that because I can't see the comment you'd replied to so I have no context here and am guessing at what the other person might have meant.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 2
+:DateUnix: 1484042719.0
+:DateShort: 2017-Jan-10
+:END:
+
+
+**** I'd argue the first is weaker. It's simply far too long and places the dialogue at the end. Even better would be:
+
+#+begin_quote
+  'Enough!' Jack shouted.
+#+end_quote
+
+The exclamation mark and speech tag do enough to get meaning across. Alternatively, keep the action:
+
+#+begin_quote
+  Jack slammed his fist on the table.
+
+  'Enough!'
+#+end_quote
+
+(Not sure about that line break, though. I favour new lines and no speech tags in dialogue, but it's sometimes ambiguous. This is why betas are great.)
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1483908150.0
+:DateShort: 2017-Jan-09
+:END:
+
+***** First, I will light you on fire for using single quotes for dialogue.
+
+2, dialogue needs to be clearly attributed. Always putting dialogue on lines by itself will cause all kinds of confusion and misunderstandings.
+
+III, it is possible to be too descriptive and flowery, true(emerald orbs, yo), but that first example wasn't too much.
+
+四, dialogue at the beginning, middle, or end is just fine, and I've never seen style advice making a preference at any position.
+:PROPERTIES:
+:Author: lord_geryon
+:Score: -1
+:DateUnix: 1483916978.0
+:DateShort: 2017-Jan-09
+:END:
+
+****** Single quotes is completely acceptable for dialogue, and in fact is the standard in many places in the world, including the country from which the formative works behind this subreddit originated.
+:PROPERTIES:
+:Author: sephirothrr
+:Score: 3
+:DateUnix: 1483942217.0
+:DateShort: 2017-Jan-09
+:END:
+
+
+****** u/Kazeto:
+#+begin_quote
+  2, dialogue needs to be clearly attributed. Always putting dialogue on lines by itself will cause all kinds of confusion and misunderstandings.
+#+end_quote
+
+Yes, but as we have no context but only what the person was trying to say, whether or not it would be clearly defined depends on the stuff surrounding this bit of text. As such, after the first point of yours, it does sound a bit like needless nitpicking (even if the point is valid).
+
+#+begin_quote
+  四, dialogue at the beginning, middle, or end is just fine, and I've never seen style advice making a preference at any position.
+#+end_quote
+
+There isn't really one, other than personal preference, but there's the thing with the exact emotion and how overt it is and the impact you want to have when you show it. When you show that someone is angry but doesn't overtly show it, you can make the characters wait, but when the character is visibly angry it's kind of like in-story adrenaline and it likely would work better if you got to what they are doing appropriately quickly, and as such it's not the fact that the dialogue bit is at the end that mutters but rather how much stuff is before it and how much would really be necessary had a character truly been angry.
+
+It's the same thing that happens in action scenes written well, where often enough the details and descriptions lie thrown away for the sake of making it all flow quicker. Anger can do the same thing.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 1
+:DateUnix: 1484043139.0
+:DateShort: 2017-Jan-10
+:END:
+
+
+**** Well sure, obviously description comes into it and is an asset to writers, but you just can't have every line of dialogue with a bit describing their minute facial expressions. When it comes to the sort of subtext the video was describing, that can be shown in film with complex expressions tht are hard to describe concisely in text. For example, everyone knows what [[https://www.google.co.uk/search?q=obama+gif+what&newwindow=1&rlz=1C1CHFX_en-GBGB559GB559&espv=2&tbm=isch&imgil=2WNaBm2INr7ZUM%253A%253BOISwpYLVyvXBAM%253Bhttp%25253A%25252F%25252Fmasetv.com%25252Fpresident-obama-uses-the-n-word-while-discussing-racism-in-america%25252F&source=iu&pf=m&fir=2WNaBm2INr7ZUM%253A%252COISwpYLVyvXBAM%252C_&usg=__P1GTdvNhe5d1MD58uwb-nEMifaA%3D&biw=1344&bih=735&ved=0ahUKEwj338LZjLPRAhWHUJAKHVrSA2YQyjcILg&ei=VXpyWLfhNIehwQTapI-wBg#imgrc=2WNaBm2INr7ZUM%3A][this]] face is saying, and in a film that would be a snappy, funny moment that said a lot about the characters involved in a dialogue. But if you tried to describe that in writing, it would lose a lot of the punch. You could say they were bemused, perhaps, but it's not quite the same. You miss out on things like inflection, and of course there are good ways around this that good writers use, but I'm just saying this video s focused heavily on cinematic screenwriting techniques.
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 2
+:DateUnix: 1483897582.0
+:DateShort: 2017-Jan-08
+:END:
+
+***** Yep. Cinema is about detail saturating every possible layer of storytelling; dialogue, expression, tone, set-pieces, etc; giving the watcher an /exact/ way of visualizing things. Writing, on the other hand, is about creating an outline so good that your reader's imagination can fill in the rest.
+:PROPERTIES:
+:Author: Conneron
+:Score: 4
+:DateUnix: 1483902608.0
+:DateShort: 2017-Jan-08
+:END:
+
+
+*** u/Kazeto:
+#+begin_quote
+  in writing we don't have the benefit of actors using inflection and body language and subtle facial expression to show the subtext of dialogue.
+#+end_quote
+
+We might have, though. The video makes a point about how it's a lot easier to write dialogue that feels right if your characters are fleshed out. Going with that, if your characters are then it might very well actually be possible to write about them doing something that does not explicitly say that they are angry or sad or whatever but that the readers can link to something else that will make them think it is indeed the case.
+
+Obviously it doesn't always work because there are some things that take too long to be conveyed in text and so they lose impact, yes. But what I want to say is, we still have /something/ we can use, and I say this because many an aspiring author don't seem to get it (I know you do so it's not really directed to you, just inserted in a reply to you because I'd thought it an appropriate place for the populace to see it) and they instead resort to things that ... well, aren't all that great, and let's leave it at that.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 1
+:DateUnix: 1484043297.0
+:DateShort: 2017-Jan-10
+:END:
+
+**** This was my (poorly explained) point; it's not that authors can't do it, they just have to do it in a different way to cinema. If an author just wrote about Harry & Co arguing about tips, it would not have any of the cleverness of reservoir dogs. Instead, of having actors being able to use timing, inflection and body language to make it dynamic and interesting, the author has to do it themselves, balancing the dialogue with clever, careful description and drawing on the richness of a well written character.
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 2
+:DateUnix: 1484052274.0
+:DateShort: 2017-Jan-10
+:END:
+
+***** Ah, right, then. I should have guessed you meant that.
+
+I guess it's one of those things mentioned in the video, where you said something and meant a bit more. Educational, that (and I'm not trying to mock you).
+:PROPERTIES:
+:Author: Kazeto
+:Score: 1
+:DateUnix: 1484052485.0
+:DateShort: 2017-Jan-10
+:END:
+
+****** Haha don't worry! I explained myself so poorly.
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 1
+:DateUnix: 1484054124.0
+:DateShort: 2017-Jan-10
+:END:
+
+
+** The key point for me as it pertains to fanfiction is in the 2:20 area. Make us believe your characters will say what they're saying and most importantly
+
+TWO CHARACTERS WHO KNOW THE SAME THING WILL NOT EXPLAIN IT TO EACH OTHER
+
+The number of times I've seen "lets go over the plot" dialogue in fics is insane. If your dialogue contains the words "do you remember when" or anything similar, you have failed.
+
+#+begin_quote
+  As you know.....
+#+end_quote
+
+[[http://i.imgur.com/wnIaRyJ.gif]]
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1483914602.0
+:DateShort: 2017-Jan-09
+:END:
+
+
+** I /thought/ I was knowledgable about writing dialogue, or at least the theory of what makes /good dialogue/. Watching this video really helped nail down the nuances of designing dialogue that serves a purpose but seems natural. Super helpful!
+:PROPERTIES:
+:Author: 2017_goal
+:Score: 3
+:DateUnix: 1483890712.0
+:DateShort: 2017-Jan-08
+:END:
+
+*** I think some people could learn to use a combination of describing a character's mannerisms alongside dialogue instead of using 'they said adjective-ly' all over the place.
+
+Maybe that video can help them with it.
+:PROPERTIES:
+:Author: lord_geryon
+:Score: 2
+:DateUnix: 1483896912.0
+:DateShort: 2017-Jan-08
+:END:

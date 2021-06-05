@@ -1,0 +1,274 @@
+#+TITLE: Bot replies will take longer
+
+* Bot replies will take longer
+:PROPERTIES:
+:Author: tusing
+:Score: 231
+:DateUnix: 1610156260.0
+:DateShort: 2021-Jan-09
+:FlairText: Meta
+:END:
+Some users have contacted me asking why the bot is taking so long to reply.
+
+FFnet ratcheted up the anti-bot protections on their website again. I had to switch to a bypass mechanism that is significantly more complex and intensive than the previous one, so it may take a few minutes for the bot to reply.
+
+
+** Thanks for keeping that up!
+:PROPERTIES:
+:Author: IamProudofthefish
+:Score: 61
+:DateUnix: 1610157517.0
+:DateShort: 2021-Jan-09
+:END:
+
+
+** YOU are the reason I have to deal with captchas!!!
+
+(Only kidding)
+:PROPERTIES:
+:Author: omnenomnom
+:Score: 37
+:DateUnix: 1610157498.0
+:DateShort: 2021-Jan-09
+:END:
+
+
+** Hmm, you'd think that they recognize how much traffic we drive to their site and make an exception for you.
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 35
+:DateUnix: 1610169652.0
+:DateShort: 2021-Jan-09
+:END:
+
+*** They're working on an API for bot creators such as [[/u/tusing]] (and me). Might come some time in january (or early february)
+:PROPERTIES:
+:Author: vlaaivlaai
+:Score: 19
+:DateUnix: 1610189424.0
+:DateShort: 2021-Jan-09
+:END:
+
+**** Got a source for that one?
+:PROPERTIES:
+:Author: Leangeful
+:Score: 3
+:DateUnix: 1610214253.0
+:DateShort: 2021-Jan-09
+:END:
+
+***** my email lol, I've written them.
+
+but also [[https://twitter.com/FictionPress/status/1342558559947563009][this]], but the date is outdated.
+:PROPERTIES:
+:Author: vlaaivlaai
+:Score: 5
+:DateUnix: 1610215888.0
+:DateShort: 2021-Jan-09
+:END:
+
+****** Thanks ^^
+:PROPERTIES:
+:Author: Leangeful
+:Score: 3
+:DateUnix: 1610216638.0
+:DateShort: 2021-Jan-09
+:END:
+
+
+****** FFN responded to an email?! First I've ever heard of them doing that.
+:PROPERTIES:
+:Author: thrawnca
+:Score: 3
+:DateUnix: 1610223581.0
+:DateShort: 2021-Jan-09
+:END:
+
+
+*** The bot's open source, IIRC, so any measures to circumvent the bot protections could be duplicated by bad actors
+:PROPERTIES:
+:Author: Vercalos
+:Score: 8
+:DateUnix: 1610177937.0
+:DateShort: 2021-Jan-09
+:END:
+
+**** Not all. The bot has to be deployed somewhere. It's simple enough for them to create some type of token to include in the request. That token is then only specified in an environment variable stored on the server the bot runs on, and the code includes loading the variable and inserting the token into the request. Then the site checks to see if the token is included and matches what they provided. If either of those conditions is false, it's a random bot they can ignore; but if they're both true, it's authorized and can proceed.
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 14
+:DateUnix: 1610179110.0
+:DateShort: 2021-Jan-09
+:END:
+
+
+**** Uh, no. I don't believe it is? Was at one point I think.
+
+Iirc Tusing got a job that doesn't allow him to have open source side projects, or something like that.
+:PROPERTIES:
+:Author: OrionTheRed
+:Score: 2
+:DateUnix: 1610197899.0
+:DateShort: 2021-Jan-09
+:END:
+
+***** I don't think GitHub allows closed source projects, but I could be wrong. [[https://github.com/FanfictionBot/reddit-ffn-bot]]
+:PROPERTIES:
+:Author: Vercalos
+:Score: 1
+:DateUnix: 1610215832.0
+:DateShort: 2021-Jan-09
+:END:
+
+****** Yeah, there's two versions. The one that actually runs is closed source, and any changes Tusing makes to it go directly there. The open source version is so the community can help him with bug fixing.
+
+I'll link the thread where he talks about it in a minute.
+
+Edit: [[https://www.reddit.com/r/HPfanfiction/comments/8ivkp9/my_contributions_to_the_bot_will_no_longer_be/]]
+:PROPERTIES:
+:Author: OrionTheRed
+:Score: 1
+:DateUnix: 1610216329.0
+:DateShort: 2021-Jan-09
+:END:
+
+
+** Thank you! I appreciate the work you do and the bot!
+:PROPERTIES:
+:Author: Welfycat
+:Score: 18
+:DateUnix: 1610159662.0
+:DateShort: 2021-Jan-09
+:END:
+
+
+** they should just partner with you for a offical bot so you dont have to invent skynet to get our links
+:PROPERTIES:
+:Author: Aiyania
+:Score: 8
+:DateUnix: 1610177998.0
+:DateShort: 2021-Jan-09
+:END:
+
+*** That would assume that FFN actually cares about community involvement. Which, their track record isn't great on.
+:PROPERTIES:
+:Author: thrawnca
+:Score: 1
+:DateUnix: 1610223294.0
+:DateShort: 2021-Jan-09
+:END:
+
+
+** Thanks
+:PROPERTIES:
+:Author: reddog44mag
+:Score: 6
+:DateUnix: 1610159642.0
+:DateShort: 2021-Jan-09
+:END:
+
+
+** Thank you for keeping the old girl going. This sub would be so much less awesome without your hard work!
+:PROPERTIES:
+:Author: HamiltonsGhost
+:Score: 6
+:DateUnix: 1610177139.0
+:DateShort: 2021-Jan-09
+:END:
+
+
+** <3 Thanks!!!!
+:PROPERTIES:
+:Author: HarryPotterIsAmazing
+:Score: 4
+:DateUnix: 1610161500.0
+:DateShort: 2021-Jan-09
+:END:
+
+
+** Huh. And I suppose FFN's staff would be disinclined to provide a key to circumvent the protections(especially since the bot's open source).
+
+But then I don't really expect the staff to do anything beyond maintaining the site, most of the time. They never seem to respond to messages or reports. I've reported violations of the rules on the site literally YEARS ago, and still haven't received any response.
+:PROPERTIES:
+:Author: Vercalos
+:Score: 3
+:DateUnix: 1610177869.0
+:DateShort: 2021-Jan-09
+:END:
+
+*** And yet they do act to eg remove Nightmares of Futures Past, literally the most favorited story on the site, when someone makes a bogus accusation. And then go right back to stonewalling when the author tries to question it.
+:PROPERTIES:
+:Author: thrawnca
+:Score: 2
+:DateUnix: 1610223534.0
+:DateShort: 2021-Jan-09
+:END:
+
+**** I think that just reinforces my point. It's been years and they still haven't addressed it.
+:PROPERTIES:
+:Author: Vercalos
+:Score: 1
+:DateUnix: 1610224288.0
+:DateShort: 2021-Jan-10
+:END:
+
+***** Yes, I was agreeing with you. Of all the times that they could actually act on a complaint, it's that one.
+:PROPERTIES:
+:Author: thrawnca
+:Score: 1
+:DateUnix: 1610224406.0
+:DateShort: 2021-Jan-10
+:END:
+
+
+** Thanks for the amazing bot, Tusing!
+:PROPERTIES:
+:Author: P-S-21
+:Score: 3
+:DateUnix: 1610166709.0
+:DateShort: 2021-Jan-09
+:END:
+
+
+** thank you so much!
+:PROPERTIES:
+:Author: ladyboner_22
+:Score: 2
+:DateUnix: 1610170497.0
+:DateShort: 2021-Jan-09
+:END:
+
+
+** Thank you for doing this!
+:PROPERTIES:
+:Author: LiriStorm
+:Score: 1
+:DateUnix: 1610180127.0
+:DateShort: 2021-Jan-09
+:END:
+
+
+** Is this why it won't download the stories any more? FF.net being anti-bot?
+:PROPERTIES:
+:Author: amethyst_lover
+:Score: 1
+:DateUnix: 1610181847.0
+:DateShort: 2021-Jan-09
+:END:
+
+*** It's meant to protect against automated attacks meant to overwhelm the site. However, they didn't test, or didn't care, whether ffnbot would still work.
+:PROPERTIES:
+:Author: thrawnca
+:Score: 1
+:DateUnix: 1610223253.0
+:DateShort: 2021-Jan-09
+:END:
+
+
+** I really need to take time and check out how your bot is bypassing the protections. My favourite app no longer works and hasn't been updated for at least a year now, might as well fork it, fix it up, and add features.
+:PROPERTIES:
+:Author: SnowingSilently
+:Score: 1
+:DateUnix: 1610186526.0
+:DateShort: 2021-Jan-09
+:END:

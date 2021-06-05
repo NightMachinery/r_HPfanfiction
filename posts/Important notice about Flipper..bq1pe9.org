@@ -1,0 +1,16 @@
+#+TITLE: Important notice about Flipper.
+
+* Important notice about Flipper.
+:PROPERTIES:
+:Author: zerkses
+:Score: 8
+:DateUnix: 1558168524.0
+:DateShort: 2019-May-18
+:FlairText: Self-Promotion
+:END:
+If you are using my recommendation engine for FFN, please either change serverIp in settings/settings.ini to ficflipper.com or re-download the client at [[https://github.com/Zeks/flipper/releases/download/1.0.0.0/flipper_client_1.0.0.7z]]
+
+Note that to keep your tags you need to save your UserDB.sqlite file and drop it into the new folder or just unpack with overwrite since the client doesn't come with this file.
+
+My ISP has been acquired by a larger company and is changing its pool of permanent IP addresses. You can expect short term service unavailability around May 22 until I switch the domain to the new IP address.
+

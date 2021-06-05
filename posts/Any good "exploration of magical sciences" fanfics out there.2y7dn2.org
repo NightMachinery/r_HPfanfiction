@@ -1,0 +1,156 @@
+#+TITLE: Any good "exploration of magical sciences" fanfics out there?
+
+* Any good "exploration of magical sciences" fanfics out there?
+:PROPERTIES:
+:Author: ashaik
+:Score: 13
+:DateUnix: 1425696733.0
+:DateShort: 2015-Mar-07
+:FlairText: Request
+:END:
+[removed]
+
+
+** [[https://www.fanfiction.net/s/9950232/1/Hermione-Granger-and-the-Perfectly-Reasonable-Explanation][Hermione Granger and the Perfectly Reasonable Explanation]] is off to an excellent start with respect to that.
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 4
+:DateUnix: 1425731893.0
+:DateShort: 2015-Mar-07
+:END:
+
+
+** Sort of. "The Arithmancer" by White Squirrel explains a fair bit.
+:PROPERTIES:
+:Author: Karinta
+:Score: 4
+:DateUnix: 1425703356.0
+:DateShort: 2015-Mar-07
+:END:
+
+*** For the lazy: [[https://www.fanfiction.net/s/10070079/1/The-Arithmancer]]
+:PROPERTIES:
+:Author: ryanvdb
+:Score: 3
+:DateUnix: 1425766274.0
+:DateShort: 2015-Mar-08
+:END:
+
+
+** You may also be interested in:
+
+[[https://www.fanfiction.net/s/2740505/1/Wit-of-the-Raven]]
+
+[[https://www.fanfiction.net/s/8303194/1/Magics-of-the-Arcane]]
+
+[[https://www.fanfiction.net/s/10210053/1/Harry-Potter-and-the-Untitled-Tome]]
+
+[[https://www.fanfiction.net/s/4563439/1/Ectomancer]]
+
+Stories by [[https://www.fanfiction.net/u/980211/enembee]]
+:PROPERTIES:
+:Author: ryanvdb
+:Score: 2
+:DateUnix: 1425766523.0
+:DateShort: 2015-Mar-08
+:END:
+
+
+** It's part of [[https://www.fanfiction.net/s/5782108/1][Harry Potter and the Methods of Rationality]] Which a lot of people around here find to be overrated, but I'm not one of them. In about a week, the final arc will be finished so now is one of the best times to start reading if you haven't already.
+
+If you're not aware of the story, it's an AU with a good plot wrapped around teaching basic rationality. It tries to illustrate how a rational agent might try to discover truth in a confusing world. So just to let you know, it doesn't have a coherent theory of magic handed down from on high. The wise old wizards don't have a clue how magic really works. An abnormally smart genre savvy Harry Potter is looking for shortcuts to godhood.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1425704204.0
+:DateShort: 2015-Mar-07
+:END:
+
+*** In my opinion HPMoR is not a good starting point because the universe in which it is built is slightly different but with mayor implications. Obviously ultill the final arch is completed we cannot know all the differences but only seeing the "interdict of merlin" we see the basic assumptions are completly different. And we know that from different axioms we get different results. Hpmor is a standalone group in the "hpuv-magic" group, we don't even know if they intersect (if hpmor magic is femtotech they don't for example)
+:PROPERTIES:
+:Author: Zeikos
+:Score: 8
+:DateUnix: 1425719343.0
+:DateShort: 2015-Mar-07
+:END:
+
+
+*** Where in the fic does Harry correctly apply the scientific method to explore magic? Mostly I remember him forming hypotheses which immediately turn out to be right and vomiting out (often incorrectly applied) science references, neither of which is actually doing science.
+
+The few exceptions I can think of all happened in the first 25 or so chapters, when he tested the money bag, the potential ability of time turners to solve NP problems in P time, or the role of incantations and knowledge of spells. None of these instances matter to the story at all, though.
+
+The one scene involving science actually relevant to the story I remember is where he tried to convince Draco that muggle-borns and halfbloods are as powerful as pureblood. The problem is that he made incredibly obvious (at least in retrospect) methodological mistakes which were never addressed: he 'proved' a Mendelian inheritance model where magic is inherited by a single recessive gene using the evidence that two squibs have a roughly 25% chance of having a wizard child... completely missing the fact that such a model makes the existence of squibs impossible in the first place.
+
+The fic isn't about science; it's about Bayesian Rationality, for which the Potterverse is hilariously ill suited: The whole point of Bayesian Rationality is that it requires prior knowledge, *all of which you can completely throw out the window the moment you see a person transform into a cat.* Pulling probabilities out of your ass to justify whatever hypothesis you favor, which is most of what Harry does in the fic, and having it magically work out for you is pretty much the opposite of science.
+
+If you want to learn why many, if not most, of the science references made are also not completely correct, I recommend [[http://su3su2u1.tumblr.com/tagged/Hariezer-Yudotter/chrono][this rather comprehensive review by an actual scientist]].
+:PROPERTIES:
+:Author: noideaminewastaken
+:Score: 13
+:DateUnix: 1425736457.0
+:DateShort: 2015-Mar-07
+:END:
+
+**** I only remember rare instances where his hypotheses immediately turn out to be right. And those aren't just spitballing something that sounds good. It's things he has spent time thinking about before, but missed a far simpler hypothesis. The comed-tea for example. One where I think the criticism is completely fair is with the dementors and patronus 2.0. But I don't think it's a bad guess and between Harry's character and narrative conceit, I didn't have a problem with it for that reason. There's also a recent plot revelation which may explain a certain intuition he seems to have from time to time.
+
+About the medelian pattern: yeah something screwy is going on there. Witches messing around with love potions and muggles isn't a completely satisfying explanation, but it's possible.
+
+I agree, science is not what it's about. Nor is it a comprehensive guide to figuring out all the secrets of a world where you point a stick of wood at something and say 'wingardium leviosa' and it floats.
+
+Bayesian rationality doesn't require prior information. Even if you start at even odds, you just update with every new observation and it helps you approach truth. Obviously it doesn't work if you misuse it and pull probabilities out of your ass because you think it helps your preferred hypothesis, but pulling probabilities out of your ass and being honest about prior probability is actually a helpful method. I've used it before where concrete probabilities made no sense.
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1425742801.0
+:DateShort: 2015-Mar-07
+:END:
+
+***** Of course you can get new priors, but that requires an incredible amount of rigorous scientific work. Harry never does that, yet he still uses his old, non-magical priors, which simply no longer apply.
+
+In other words, you can't make reasonable guesses about prior probabilities concerning magic if you know nothing about magic.
+:PROPERTIES:
+:Author: noideaminewastaken
+:Score: 1
+:DateUnix: 1425765638.0
+:DateShort: 2015-Mar-08
+:END:
+
+****** Sure you can. Just make a hypothesis based on what you think you know, and test it. Figuring out the basics of a new world isn't the same as publishing something for peer review. It's a daunting task but if you're just trying to get a rough idea, you can burn through as many hypotheses as you can think of, and most will come out false. So there's no need to be exhaustive about it. Shape first, details later. Hence the whole deal about locating the hypothesis. So your original way of thinking about how the world works drops in probability and hopefully, eventually another idea begins to make sense.
+
+So his old prior still work, because obviously that's how some subset of Reality seems to function. But he has to update them with every new observation. It's clear from the very beginning that those priors are either incomplete or simplified from some higher reality. But it's not like someone turns into a cat and atoms suddenly don't hold themselves together with the nuclear strong force. But something lets a human mind change those atoms into other atoms at will. He updates on every observation. But being someone who has read all but the final 5 chapters or so, I can tell you that he hasn't stumbled upon the ultimate secret of magic. He might be getting close. He's learned things that certainly sound relevant.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1425770167.0
+:DateShort: 2015-Mar-08
+:END:
+
+
+*** That's what keeps putting me off starting to read it. I don't need or want a story that is trying to teach me something. I read for the character and plot progression. I want to see the conflict, the climb, the climax, and the aftermath. Does it honestly have that stuff? If you say yes I will take your word for it and read the entire thing.
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 3
+:DateUnix: 1425716894.0
+:DateShort: 2015-Mar-07
+:END:
+
+**** HPMoR is one of my favorite fanfiction ever, and I'm by no mean a EY fanboy.
+
+Yes, he scientific stuff can be off-turning /if you think really hard about it/. But if you just float along with it, you'll find EY is excellent at intrigue and plot development, as well as being generally condescending.
+
+The science stuff is most jarring in the first few chapters (where, I presume, he had less experience writing to a fanfiction audience), but it gets better. Also yes, the scientific stuff - while I think it's not as blatantly wrong as many critics deem it - is also contrived to suit his needs. But isn't every fanfiction like that? That's no reason we stop reading other stories, so why should we for this one?
+
+Honestly, I think the only really /valid/ complaint against HPMoR, rather than the usual bandwagoning hate comments, is how EY asks for donations from the readers in exchange for faster chapters. But you know, I never gave him a penny, and neither do you have to. Just enjoy one of the best fanfictions in the HP universe and shut out the rest of the world for a while.
+
+Also, it's mostlyrather too late for you now, but [[/r/HPMOR]] was an experience this past few weeks. Never seen anything else quite like it.
+:PROPERTIES:
+:Author: snowywish
+:Score: 3
+:DateUnix: 1425759959.0
+:DateShort: 2015-Mar-07
+:END:
+
+
+**** It has that in every arc. Original plot development, foreshadowing that will make you bang your head for not catching it the first time. Interesting challenges, a Professor Quirrel who doesn't suck, lots of action sequences in the form of Defense battles. It's not just didactic, there's a lot of good story there. But it's unconventional story.
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1425718091.0
+:DateShort: 2015-Mar-07
+:END:

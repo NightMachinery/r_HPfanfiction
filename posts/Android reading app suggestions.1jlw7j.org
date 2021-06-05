@@ -1,0 +1,84 @@
+#+TITLE: Android reading app suggestions?
+
+* Android reading app suggestions?
+:PROPERTIES:
+:Author: cuchlann
+:Score: 3
+:DateUnix: 1375500597.0
+:DateShort: 2013-Aug-03
+:END:
+I've been using an app titled, simply enough, Fanfiction, and it's good, but it only trawls fanfiction.net. Does anyone know of a good, free app for Android phones that would let me favorite, save, and most importantly, read fanfiction on my phone? I find I don't stay up until all hours of the morning (just most of them) when I can put it on my phone and get away from the glowing altar of the computer.
+
+Thanks!
+
+
+** I use flagfic.com to download in .epub format and Aldiko to read.
+:PROPERTIES:
+:Author: felicitations
+:Score: 3
+:DateUnix: 1375526861.0
+:DateShort: 2013-Aug-03
+:END:
+
+*** I Use kindle reader for android and a 6' one, you can use your kindle mail to send your epubs there
+:PROPERTIES:
+:Author: Notosk
+:Score: 1
+:DateUnix: 1375647724.0
+:DateShort: 2013-Aug-05
+:END:
+
+
+*** I did the same but found I much prefer moon+ reader to aldiko
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1376235528.0
+:DateShort: 2013-Aug-11
+:END:
+
+
+** I'm reading fanfiction.net directly from default browser without problems.
+
+Like this: [[http://imgur.com/NncWEeg]]
+:PROPERTIES:
+:Author: kurtbarlow
+:Score: 3
+:DateUnix: 1375533027.0
+:DateShort: 2013-Aug-03
+:END:
+
+*** Well, sure, but I was asking for stuff to use on other sites, like Portkey or the like.
+:PROPERTIES:
+:Author: cuchlann
+:Score: 1
+:DateUnix: 1375555123.0
+:DateShort: 2013-Aug-03
+:END:
+
+
+** I use [[https://play.google.com/store/apps/details?id=com.apps.webreader][Fanfiction Reader]] (I got the paid version personally) because it lets me have a "true black" background for reading at night. It also let's you search by author or story, or browse without using your browser.
+
+One that is almost as good is [[https://play.google.com/store/apps/details?id=com.anompom.fanfictionreader][FanFiction Reader Lite]] which nicely will launch fanfiction.net links right into the reader and give you the option to download.
+:PROPERTIES:
+:Author: paperhurts
+:Score: 2
+:DateUnix: 1375889667.0
+:DateShort: 2013-Aug-07
+:END:
+
+*** Nice, thanks.
+:PROPERTIES:
+:Author: cuchlann
+:Score: 1
+:DateUnix: 1375986795.0
+:DateShort: 2013-Aug-08
+:END:
+
+
+** Get some sort of PC, Mac, or unix system running Python, and use FanficDownloader (the one on Google Code) to download the stories to epub format, then read with FBReader.
+:PROPERTIES:
+:Author: tidux
+:Score: 1
+:DateUnix: 1376356498.0
+:DateShort: 2013-Aug-13
+:END:

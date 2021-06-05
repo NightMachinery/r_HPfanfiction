@@ -1,0 +1,396 @@
+#+TITLE: The Magic of Harry Potter by Taure | Significant revision of my headcanon document
+
+* The Magic of Harry Potter by Taure | Significant revision of my headcanon document
+:PROPERTIES:
+:Author: Taure
+:Score: 77
+:DateUnix: 1524410344.0
+:DateShort: 2018-Apr-22
+:END:
+Many of you will be familiar with my old headcanon document, outlining my views on Harry Potter magic. For various reasons I grew dissatisfied with it and I have now got around to writing a revision, which is significantly more in-depth. The link is here:
+
+[[https://www.dropbox.com/s/72wsc4yrwetp4yw/MHP%20Distribution%20Copy%20PDF%2022%20April%202018.pdf?dl=0]]
+
+This is incomplete. The sections from Charms onwards are yet to be written. However, the document is now at a stage where it is ready for provisional release as there is very little in the old headcanon document which cannot be found in the new one.
+
+And yes, this is the reason why Victoria Potter has not been updated for several weeks.
+
+I look forward to people's comments (including comments on typographical errors etc).
+
+
+** I have to say, I think my favorite part of this that most people won't care as much about is your definition of canon via a hierarchy. This is for two reasons.
+
+1) A discussion of magic in the canon series is always going to be muddled without a starting definition of canon to be working from.
+
+2) Reminds me of the old Star Wars Legends/EU canon hierarchy, so a bit of nostalgia there.
+
+An in-depth discussion of Gamp's Law and its exceptions that you have within is something the fandom has desperately been needing, as I have seen many fics use it improperly within Transfiguration or make it a blanket-magic wide limitation.
+
+My quick scan through didn't catch any typographical errors, but this was only a quick scan. Not much I can say on the matter of the actual magical theory, as it should be obvious to anyone who has seen either of us discuss Harry Potter magic that we not only agree, but my understanding of magic has been greatly influenced by yours. I do agree with [[/u/Achille-Talon][u/Achille-Talon]] that the section of the factors that affect magic is Authority is the weakest (from an evidence perspective), but I believe that it does seem to match the general trend of how magic seems to behave, so I find it more likely than not to be accurate.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 17
+:DateUnix: 1524415043.0
+:DateShort: 2018-Apr-22
+:END:
+
+*** u/Taure:
+#+begin_quote
+  but I believe that it does seem to match the general trend of how magic seems to behave, so I find it more likely than not to be accurate.
+#+end_quote
+
+This is my intention - though the document goes in a certain order by necessity, the intention is for people to read it holistically, where later observations not only develop from the earlier ones, but also feed back into them and reinforce them.
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1524415898.0
+:DateShort: 2018-Apr-22
+:END:
+
+
+** Started reading it. As usual, it's hard to argue with your conclusions on how /casting/ magic works, and I wholly agree on power being a function of all those factors, rather than something different enriely; but I cannot follow you through and through on the concept-based idea. I stand by my conception of magic as a Force-like energy that /follows/ general human beliefs/concepts (because there's sort of a feedback loop between it and the beings that use it) but is not /fundamentally/ rooted in it. But no need to belabor this point; we're just going to have to agree to disagree on that one.
+
+One fresh thing, though: I'm unconvinced by your "Authority" section. In both the Ministry and Hogwarts examples (Taboo and protective charms respectively), it seems to be to be specific circumstances: the enchantments the Founders put on Hogwarts /do/ recognize the Headmaster's authority because they purposefully "programmed" them that way, and the Ministry can presumably create the Taboo thanks to some DoM mumbo-jumbo, such as that blackboard you yourself created. Snape invoking his authority as Headmaster to open the Marauder's Map sounds to me like trying to exploit the fact of the Map being somewhat sentient like a Portrait, in the hope that the Marauder-simulacra within would somehow hear him and yield of their own volition.
+
+Also, that the Shield Charm can be altered in various ways by the way it's cast without being a category of Shield Charm*s* is one thing --- but I'm of the opinion that /Protego Horribilis/ is a different spell that merely happens to contain the same word in its incantation.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 6
+:DateUnix: 1524412983.0
+:DateShort: 2018-Apr-22
+:END:
+
+*** u/Taure:
+#+begin_quote
+  but I cannot follow you through and through on the concept-based idea
+#+end_quote
+
+Fair enough. Like you say, we've discussed this before and are unlikely to convince each other. For what it's worth, I consider the conceptual magic conclusion not to be deductively inevitable but rather an abduction - aka inference to the best explanation.
+
+(A real world example of an abduction is "Science describes the world as containing certain entities; science successfully predicts certain observable phenomena; therefore those entities exist.")
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1524416063.0
+:DateShort: 2018-Apr-22
+:END:
+
+**** Indeed. What of my other points?
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 3
+:DateUnix: 1524416186.0
+:DateShort: 2018-Apr-22
+:END:
+
+***** Regarding your other points, discussions I am going to introduce later in the document will be highly relevant and feed back into things that are said at the start. So I think we will have to wait to have that discussion haha.
+
+With regards to Protego Horriblis, I think there are too many examples of spells where the incantations change depending on the circumstance to commit to the idea that the incantation defines/delineates the spell. Especially when we have seen wizards shorten incantations and start using partial incantations to perform spells.
+
+It would mean, for example, that "Accio Firebolt" was a different spell to "Accio Goblet".
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1524416492.0
+:DateShort: 2018-Apr-22
+:END:
+
+
+** Ok, now for something I think you're wrong about:
+
+#+begin_quote
+  in general, there are not redundant spells
+#+end_quote
+
+I think this is straightforwardly wrong. Aside from the fact that you don't really establish that /Protego Totalum/ is just a variation of /Protego/ (it being so would seem to contradict the notion that the strength of a spell depends on the user's magical power), consider this as an instructive example: Levitation.
+
+We are told that the eventual creation of the Levitation Charm was motivated by the desire of wizards to fly freely in the sky. Initially what we get is a Hovering Charm (emphasis mine):
+
+#+begin_quote
+  The Levitation Charm was invented in 1544 by warlock Jarleth Hobart who mistakenly believed that he had at last succeeded in doing what wizardkind had /so far failed to do/, and learnt to fly. "Book of Spells"
+#+end_quote
+
+Apparently he couldnt actually move in midair, just hover in place so he ended up getting booed. Eventually Hobart did manage to invent /Wingardium Leviosa/ but the above example and the existence of similar charms from antiquity (Leviosa) - culminating in Riddle's unsupported flight spell - show that many redundant spells probably exist. That apparently there had been many failures means wizarding history is littered with failures to make it, spells that no one would use now because someone already succeeded with it using a different spell.
+
+If anything, it's the dangerous nature of spell creation that leads to this misconception. Hobart broke 16 bones after his initial failure to produce /Wingardium Leviosa/, and Luna's mother died when experimenting with a spell. So doing such work puts most wizards off and the redundant spells probably fade into obscurity. There's no point learning some old Stunning Spell that, say only worked for a set time once /Stupefy/ was around.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 5
+:DateUnix: 1524432237.0
+:DateShort: 2018-Apr-23
+:END:
+
+*** I should first of all say that the Book of Spells' canon status is dubious... we don't know the extent of JKR's involvement, and it's a video game besides.
+
+In any case, I don't think what yoyu have described really goes against what I have written. The existence of /similar/ spells such as Levitation vs Hovering Charms doesn't really go against the idea that redundant spells don't exist. They would simply be two very closely related spells, like the Leg-Locker and Locomotion Charms (and indeed the Locomotion Charm itself vs the Levitation Charm). Another example would be the Cutting Charm and Snape's Cutting Curse.
+
+More generally, I should note that the "lack of redundant spells" observation was not the ultimate conclusion of that section. Like how the identification of knowledge/practice/intuition led to the more fundamental conclusion of understanding, the observation regarding lack of redundant spells was a stepping stone towards a more general conclusion - the idea of spells and their variations existing on a kind of web, which does away with the distinction between two spells being different vs. variations on the same spell. This becomes a matter of degree rather than a difference in kind. So it's not quite true to say there are no redundant spells. You can of course make very minor adjustments to spells to have them behave in very similar but slightly different ways. It's just that the correct characterisation of these spells is that of related spells based on common ideas, rather than completely discrete things.
+:PROPERTIES:
+:Author: Taure
+:Score: 8
+:DateUnix: 1524432829.0
+:DateShort: 2018-Apr-23
+:END:
+
+
+** I'm reading it right now and enjoying it. However, you sometimes make assumptions that I feel are not completely justified.
+
+A small example is that you assume that gaining adulthood makes you immune to the trace. While that is surely a way of interpreting it, I have always thought that the trace broke by design and that they actually /can/ put the trace on adult wizards, but that it is illegal to do so. (which is what Ron says).
+
+Additionally, you treatise on authority can (in my opinion), more easily be explained by assuming that Hogwarts has some built-in controls (consider using an application as admin versus as user). However, your explanation of authority and the taboo is rather convincing. I can find no other reasons that make Voldemort unable to cast it before taking over the ministry (except lack of knowledge, which would seem far-fetched, or that it has to be written into some specific book that the Taboo is tied to, which does not explain why he would not be able to cast it again, unless you assume that there can only be 1 Taboo, but Occam's razor..)
+
+(Also, on page 27 you give us a quote that is supposed to show that magic is not draining, but that quote literally says that keeping the spell going is draining Harry. This might not be some inherent effect of the spell, but only a result of concentrating really hard. However, it's kind of weird to use it as an example without elaborating on your interpretation).
+
+Then I also wonder why your explanation that Conjured objects cannot last (since their 'fundamental' state is non-being) does not apply to vanishment? The 'fundamental' state of a vanished object should be 'being' and they should then revert automatically if the spells are truly opposites. (Also, if transfiguration is permanent, why is conjuration not? I get that that is what Rowling says, but it just feels weird if conjuration is a branch of transfiguration).
+
+These minor nitpickings aside, I really enjoyed reading such a thoroughly thought out explanation of magic and would love to read the rest of the book as well! Your deductions on the exceptions to Gamp's law are also very well thought out and (in my opinion) extremely on point.
+:PROPERTIES:
+:Author: xDarkSadye
+:Score: 6
+:DateUnix: 1524438288.0
+:DateShort: 2018-Apr-23
+:END:
+
+*** u/Taure:
+#+begin_quote
+  A small example is that you assume that gaining adulthood makes you immune to the trace. While that is surely a way of interpreting it, I have always thought that the trace broke by design and that they actually can put the trace on adult wizards, but that it is illegal to do so. (which is what Ron says).
+#+end_quote
+
+It's not an assumption, it's explicit in the quote:
+
+#+begin_quote
+  “He can't have,” said Ron. “The Trace breaks at seventeen, that's Wizarding law, you can't put it on an adult.”
+
+  “As far as you know,” said Hermione. “What if the Death Eaters have found a way to put it on a seventeen-year-old?”
+#+end_quote
+
+If the Death Eaters "finding a way" to put it on an adult is an innovation, that means that adulhood generally means the Trace cannot be put on you. I will expand the quoted passage in the next release.
+
+#+begin_quote
+  (Also, on page 27 you give us a quote that is supposed to show that magic is not draining, but that quote literally says that keeping the spell going is draining Harry. This might not be some inherent effect of the spell, but only a result of concentrating really hard. However, it's kind of weird to use it as an example without elaborating on your interpretation).
+#+end_quote
+
+There's pretty extensive discussion of this quote on that page. When it is considered in the context of all the other times we have seen the Patronus cast, as well as all the other times we have seen Harry interact with Dementors, it is clear that the draining feeling is a result of being in the presence of a Dementor, not the effect of casting the Patronus. When the Patronus is cast successfully, such that it fully protects you from the effects of the Dementors, or if it is cast without Dementors being nearby, the caster is not drained by the spell. Meanwhile, every time a character meets a Dementor, they come out of it feeling drained. I will expand this section in the final release, though I felt it was quite long already.
+
+#+begin_quote
+  Then I also wonder why your explanation that Conjured objects cannot last (since their 'fundamental' state is non-being) does not apply to vanishment? The 'fundamental' state of a vanished object should be 'being' and they should then revert automatically if the spells are truly opposites. (Also, if transfiguration is permanent, why is conjuration not? I get that that is what Rowling says, but it just feels weird if conjuration is a branch of transfiguration).
+#+end_quote
+
+Personally I do not find the lack of symmetry odd. It's a frequent theme in the HP series that destruction is easier than creation. There is no equal and opposite to the Killing Curse; there is no cure to the Dementor's Kiss. So it's not strange to me that you cannot create being but you can get rid of it.
+
+As for why conjuration only and not Transfiguration: with Transfiguration your starting point is a thing with being, so you don't need to make something which is "non-being" into "being". You're just changing the nature of that being. It's similar to the edibility point.
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1524467848.0
+:DateShort: 2018-Apr-23
+:END:
+
+**** u/MindForgedManacle:
+#+begin_quote
+  If the Death Eaters "finding a way" to put it on an adult is an innovation, that means that adulhood generally means the Trace cannot be put on you. I will expand the quoted passage in the next release.
+#+end_quote
+
+I think you are misreading that. Ron's explanation for why the Trace cannot be put on adults is that it's the law for it to break at seventeen, not that it's impossible magically.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 2
+:DateUnix: 1524493664.0
+:DateShort: 2018-Apr-23
+:END:
+
+
+**** Wouldn't it be an equally good theory to say that Vanished items do pop back into existence after awhile. It's not as if we see enough Vanishment to say one way or the other.
+:PROPERTIES:
+:Author: GlimmervoidG
+:Score: 2
+:DateUnix: 1524503109.0
+:DateShort: 2018-Apr-23
+:END:
+
+***** I'm not sure it would be used in the same way if that were true. For example, Snape vanished Harry's potion in class once. Would he do that if it meant at a random time in the future, a potion would spontaneously appear in his classroom?
+:PROPERTIES:
+:Author: Taure
+:Score: 3
+:DateUnix: 1524510628.0
+:DateShort: 2018-Apr-23
+:END:
+
+
+**** All good points! Your explanation of the draining of of the dementors makes way more sense in this explanation than in the book, but that's probably just me.
+:PROPERTIES:
+:Author: xDarkSadye
+:Score: 1
+:DateUnix: 1524471192.0
+:DateShort: 2018-Apr-23
+:END:
+
+
+** Great read. Your theory for the make up of magical power matches my own headcannon exactly, I've always thought it telling that the wizards and witches shown to be the most powerful/most skilled with magic are those who are more academically inclined. It also fits with the more traditional sense of a Wizard, someone who studies the arcane exhaustively and devotes their life to learning.
+
+The wizards who are shown to be powerful are also shown to be exceptionally intelligent(or brilliant as it is more often termed) and their great academical effort is purposely noted.
+
+The makeup of magical power you describe can also lend itself to explaining how Harry can be both an utterly average student academically/magically while also at times displaying some exceptional magical ability(the patronus, priori incantantem, resisting the imperius to name a few). Although he has no academic leaning and suffers with understanding magical theory, his "willpower" to use as a generalisation has always been noted as exceptional, and so when push comes to shove he can push extremely hard.
+
+I think your point about there being no redundant spells is interesting for the fact that it is both true and probably untrue. While generally it is true that there wouldn't be redundant spells with the way magic is used(and your section on the shield charm is a perfect example of this) because there isn't need for multiple of the same spells when the intent and creativity of the caster can affect the end result to a degree, I am of the opinion that it is also untrue in the way that magic, just like anything else, is continually being developed and evolved; and so the newer spells created would make any predecessor spell redundant. I think it likely that history would be littered with redundant spells that have since been made obsolete by newer "versions" or similar spells that do the same thing better. However that doesn't detract from the fact that these redundant spells fall out of favour and not see much in the way of further use. I certainly don't use a CRT monitor.
+
+The thought that magic is an idea made manifest is also compelling. I have always had the humerous thought in mind that the way a wizard needs to think to perform magic or in this case, to manifest their ideas, tends to twist their thought patterns and alter their perspective. Most wizards we are introduced to always seem to me to be cracked in some manner, they have odd quirks or ideals, strange obsessions, and bizarre behaviours. The most powerful wizards being the most obvious. Though that is just a funny thought I like to keep in mind.
+
+Thanks for taking the time to write that, it was a fantastic read, please make another post or something when it's finished/updated because I absolutely would like to read more. I'm also going to have to check out Victoria Potter now, I've been avoiding it due to the low word count but if that's the make up of the magical theory behind it I have to check it out.
+:PROPERTIES:
+:Author: Chlis
+:Score: 3
+:DateUnix: 1524443633.0
+:DateShort: 2018-Apr-23
+:END:
+
+
+** I hope you do the Dark Arts section soon. A theory I'd like to see (confession: because it's needed for a story of mine) is why some damage from Dark Arts is irreversible. Namely, when, say, body parts are severed by Dark Magic. The series is more or less consistent on the permanence of significant Dark Magic damage, although Snape healing Draco in HBP was cutting it close. My initial assumption would be the lack of a counter-curse, but Snape suggests in that specific case the damage was just low enough that his particular healing spell and some dittany would be enough to remove all traces of the damage.
+
+Anyway, thanks again. This doc is awesome.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 2
+:DateUnix: 1524435823.0
+:DateShort: 2018-Apr-23
+:END:
+
+
+** Do you intend to release a googledoc version? I've found it's quite useful to have open in another tab when I'm writing.
+
+I haven't read the revised document, but already I can see the effort you've put into this. Thank you for the work you've done.
+
+You make a fantastic point about Sanderson's work. Do you have any recommendations for other fantasy works?
+
+Finally, I must utterly reject the notion that Curse Child is in anyway canon.
+:PROPERTIES:
+:Author: Faeriniel
+:Score: 2
+:DateUnix: 1524452468.0
+:DateShort: 2018-Apr-23
+:END:
+
+*** The only good thing (for me) to come from /Cursed Child/ is, despite it being fanfiction, it was eclipsed by a better piece of fanfiction. One where Harry adopts Delphini and I just found it to be cute. :3
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 1
+:DateUnix: 1524460141.0
+:DateShort: 2018-Apr-23
+:END:
+
+
+** Links broken in footnotes 2, 9, 10, 11, and 12; only the first line of the links are used.
+
+Pages aren't numbered.
+
+You say something to the effect of "further below" multiple times. I'm not sure this is necessary, and in the first sections it's quite repetitive. Perhaps name the specific sections instead?
+
+This paragraph could use a transition:
+
+#+begin_quote
+  The Patronus Charm is another example, which requires you to concentrate on a happy memory or thought. Apparition requires one to either “know the terrain” of the location, or otherwise to visualise it^{3}.
+#+end_quote
+
+--------------
+
+Personally, I'm not sold on Age being a direct contributor in magical power.
+
+In order of your quotes:
+
+Being the age of majority could give you more Authority over yourself, breaking the Trace.
+
+Tom AK'd the Riddle family after his fifth year, where he would be 16 and still have the Trace (HBP ch. 17), so age can't be /completely/ necessary. Moody could simply be confident that no one in the class was on the level of Dumbledore/Riddle.
+
+Going back to Authority, Crabbe might simply be able to /choose/ whether to /kill/ another human, and understand what that means, letting him use the Killing Curse. Emotional maturity probably factors in somehow.
+
+The boat: In the same way that an /owned/ house-elf could accompany a wizard, an /underage/ wizard could as well.
+
+Wait, am I agreeing with you and just arguing Age should be under Authority?
+:PROPERTIES:
+:Author: 295Kelvin
+:Score: 2
+:DateUnix: 1524961305.0
+:DateShort: 2018-Apr-29
+:END:
+
+
+** Some good stuff. But I'll never quite understand why my fellow nerdos insist on putting word of God so low of the canon list. Frankly, the motivation seems to be (in general, maybe you're different) that they don't like authors axing their pet theory. Lots of things are confirmed only outside the story and yet that's deemed to be of lower canonical weight than /Cursed Child/???
+
+Good overview on magical power, and it's nice to see the acknowledgement that magical power both relates to knowledge of magic and natural predispositions. I'd argue that Voldemort's enchantment in HBP also shows that magical power is detectable as well.
+
+About half way through and I'm out of time right now, but thanks for sharing!
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 2
+:DateUnix: 1524415563.0
+:DateShort: 2018-Apr-22
+:END:
+
+*** Well, traditionally "canon" was all about the accepted biblical text, where "Word of God" was rather more literal. Scripture was the highest form of authority, and to claim that you had heard the word of God which contradicted the scriptures would mark you out as a false prophet.
+
+I suppose we're still rather in that mindset :p
+
+For me I consider published words the most important because they are set in stone, whereas authorial fiat is open to arbitrary revision. It therefore guarantees a moderately stable canon - a canon which was constantly in flux would rather undermine the point!
+:PROPERTIES:
+:Author: Taure
+:Score: 12
+:DateUnix: 1524415803.0
+:DateShort: 2018-Apr-22
+:END:
+
+**** Yea but in this case the way you ranked it would be like telling a Prophet that the words they heard from God were less authoritative than the text. Because in this case there's no reason to think JKR isn't writing her tweets on the HP stuff. :p
+
+I generally considered the books as dominant here, I just mean I wouldn't put WoG last
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 3
+:DateUnix: 1524416050.0
+:DateShort: 2018-Apr-22
+:END:
+
+
+**** [deleted]
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1524431820.0
+:DateShort: 2018-Apr-23
+:END:
+
+***** That's my view as well.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 1
+:DateUnix: 1524433869.0
+:DateShort: 2018-Apr-23
+:END:
+
+
+** Thanks for the work you put in this and for putting it out there, I look forward to reading.
+:PROPERTIES:
+:Author: troutbadger
+:Score: 1
+:DateUnix: 1524501394.0
+:DateShort: 2018-Apr-23
+:END:
+
+
+** cool. i always think back to your doc whenever i see hp characters mentioned on the whowouldwin sub. though the consensus always seems to be that hp would lose because the universe doesn't have speed buffs...
+:PROPERTIES:
+:Author: bacchuswept
+:Score: 1
+:DateUnix: 1524501946.0
+:DateShort: 2018-Apr-23
+:END:
+
+
+** These are some really interesting perspectives, especially on transfiguration. My headcanon is different in a number of places, but the only things that I really take issue with are your assessments of Authority and Adulthood as contributing factors to magical power.
+
+For Authority, as others have said, I suspect places we see this in canon are a result of Hogwarts or the Ministry being enchanted with special controls that other places don't have. Compare the fanon "keyed into wards".
+
+For Adulthood, there are rare spells that detect and act based on the subject's age, but I don't think there's an appreciable gain in magical power with coming of age. Every time I see this in a fanfic, I feel like it's a lazy way to give Harry a power boost for free as soon as he turns seventeen. As for Barty Jr, I think he was either misleading the class, or more likely, he was being sloppy in his language, and it's the lack of /intent/ on the part of the students that would make /Avada Kedavra/ fail, just as Bellatrix described with the Cruciatus.
+:PROPERTIES:
+:Author: TheWhiteSquirrel
+:Score: 1
+:DateUnix: 1524505044.0
+:DateShort: 2018-Apr-23
+:END:

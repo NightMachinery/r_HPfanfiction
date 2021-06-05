@@ -1,0 +1,86 @@
+#+TITLE: problems with downloading fanfics
+
+* problems with downloading fanfics
+:PROPERTIES:
+:Author: chaos-ensures
+:Score: 2
+:DateUnix: 1608985572.0
+:DateShort: 2020-Dec-26
+:FlairText: Discussion
+:END:
+so for some reason I'm having a lot of trouble downloading fanfics, specifically from [[https://fanfiction.net][fanfiction.net]]. I usually use calibre and then connect it to my kindle, which is working fine, (the fics I have downloaded to calibre but not my kindle are good), just the sites I usually use ([[https://FicSave.xyz][FicSave.xyz]], [[https://fanfictiondownloader.net][fanfictiondownloader.net]], etc etc) aren't working. I've tried for multiple different fics, but all that shows up is:
+
+#+begin_quote
+  There was an error downloading this story. Please try again later. (1)
+#+end_quote
+
+or
+
+#+begin_quote
+  A server error has occured. Please try again later.
+#+end_quote
+
+I've also tried downloading fics in MOBI or EPUB or TEXT, but all of them don't work. Ao3 seems to be working fine, since they have their own downloading thing, but lots of my favourite works are on [[https://fanfic.net][fanfic.net]] and I can't read them offline, so if anyone has any ideas with what's wrong with either the website or my laptop (i use a windows 10), it would be great if you could help me out.
+
+Thanks in advance <3!
+
+
+** [[https://github.com/JimmXinu/FanFicFare/issues/614]] ... given I suspect that most of the sites use this script, you can do better to install it directly and run the latest version.
+:PROPERTIES:
+:Author: ceplma
+:Score: 5
+:DateUnix: 1608988567.0
+:DateShort: 2020-Dec-26
+:END:
+
+*** okay thank you for that. I did download it and it works! merry (late) christmas!
+:PROPERTIES:
+:Author: chaos-ensures
+:Score: 1
+:DateUnix: 1609026164.0
+:DateShort: 2020-Dec-27
+:END:
+
+
+** Basically, FFNet recently changed a big thing in how their site works and that's thrown off a lot of the bot-like downloaders (they can't access the site to download things in the same way they used to). Some of them are starting to work again, I'm told, but it'll be a little while before the people who run those downloaders get their stuff to all work again. 'tis the season and all. :)
+
+Our own Tusing (who made and runs the Fanfic Bot here) has gotten their bot working (and you can download things properly through the bot links still), so it is possible for those things to all work again. Just gotta wait for them to make the adjustments in their technical whatnots before it will.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 3
+:DateUnix: 1608999955.0
+:DateShort: 2020-Dec-26
+:END:
+
+*** oh ok thanks! also yeah merry (late) christmas!
+:PROPERTIES:
+:Author: chaos-ensures
+:Score: 1
+:DateUnix: 1609026119.0
+:DateShort: 2020-Dec-27
+:END:
+
+**** You're welcome. Merry (Late) Christmas to you as well. :)
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 1
+:DateUnix: 1609094651.0
+:DateShort: 2020-Dec-27
+:END:
+
+
+** i use fic.pw to dowload fics to my phone so idk about kindle but this one lets u download from most fanfic sites even siye especially since ff2ebook is not working for me recently
+:PROPERTIES:
+:Author: fullgr
+:Score: 1
+:DateUnix: 1608990127.0
+:DateShort: 2020-Dec-26
+:END:
+
+*** oh yes, [[https://fic.pw][fic.pw]] seems to be working for me! thanks, and merry (late) christmas!
+:PROPERTIES:
+:Author: chaos-ensures
+:Score: 1
+:DateUnix: 1609026298.0
+:DateShort: 2020-Dec-27
+:END:

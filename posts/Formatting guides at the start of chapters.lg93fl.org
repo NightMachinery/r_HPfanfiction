@@ -1,0 +1,305 @@
+#+TITLE: Formatting guides at the start of chapters
+
+* Formatting guides at the start of chapters
+:PROPERTIES:
+:Author: JWBails
+:Score: 64
+:DateUnix: 1612893412.0
+:DateShort: 2021-Feb-09
+:FlairText: Discussion
+:END:
+I'm seeing these crop up more and more lately:
+
+“Speaking”
+
+/“Thinking”/
+
+/‘Remembering'/
+
+*“Spell / Object of Power”*
+
+*/“Book or letter text”/*
+
+Seriously, if you start your story or chapter with one of these, I'm going to assume you have no idea how to imply these things through context and ignore the fic.
+
+
+** This is hilarious and sad at the same time.
+:PROPERTIES:
+:Author: Welfycat
+:Score: 31
+:DateUnix: 1612893704.0
+:DateShort: 2021-Feb-09
+:END:
+
+
+** Tbf, if you don't write those things, people will ask. No matter how well you think you've inferred them, it's the internet. You have to hope for Einstein and prepare for Cletus. Posting them in advance will usually cut down on a bunch of those kinds of 'clarification-asking' messages/comments/reviews.
+
+This is a world where people actively ignore author's notes and I've seen more than a few reviews asking questions that were actively dealt with in said author's notes.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 57
+:DateUnix: 1612897540.0
+:DateShort: 2021-Feb-09
+:END:
+
+*** u/JWBails:
+#+begin_quote
+  You have to hope for Einstein and prepare for Cletus.
+#+end_quote
+
+Mind if I borrow this?
+:PROPERTIES:
+:Author: JWBails
+:Score: 34
+:DateUnix: 1612900048.0
+:DateShort: 2021-Feb-09
+:END:
+
+**** Sure. It's not mine - I'm pretty sure I got it from some of Scott Adams' musings on the nature of distal bureaucracy, but I can't remember precisely or for certain.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 9
+:DateUnix: 1612902136.0
+:DateShort: 2021-Feb-09
+:END:
+
+
+*** I think it also makes sense if you're going to consistently use them in a way - like "/Thinking/" and '/Remembering/' are not universal rules, and if you're always going to use that to distinguish between them it's probably smart to communicate that.
+
+Personally I'd probably push that down to the bottom of the chapter, with chapter 1 having an initial note that it'll be there - since that seems like a cleaner way to do it.
+:PROPERTIES:
+:Author: matgopack
+:Score: 10
+:DateUnix: 1612910697.0
+:DateShort: 2021-Feb-10
+:END:
+
+**** Yeah. It's a similar idea (though slightly less comprehensive) to Tolkien's six Appendices to the Lord of the Rings books. At the end of the day, clarification is always nice to do, even if people don't need it. Ensures everyone starts on the same page (pun intended :D).
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 1
+:DateUnix: 1612957071.0
+:DateShort: 2021-Feb-10
+:END:
+
+
+** -- flashback --
+:PROPERTIES:
+:Author: Internal_Use8954
+:Score: 37
+:DateUnix: 1612897833.0
+:DateShort: 2021-Feb-09
+:END:
+
+
+** /~Smirking~/
+:PROPERTIES:
+:Author: manatee-vs-walrus
+:Score: 47
+:DateUnix: 1612894423.0
+:DateShort: 2021-Feb-09
+:END:
+
+*** I threw up a little :(
+:PROPERTIES:
+:Author: JWBails
+:Score: 28
+:DateUnix: 1612894680.0
+:DateShort: 2021-Feb-09
+:END:
+
+
+** I've never used a note to explain that sort of thing and I haven't gotten a single person asking for clarification. Apparently I'm one of the lucky ones. I'm not a fan of those either so even if I do start getting comments about it I'm not going to add a note for that.
+:PROPERTIES:
+:Author: Author_Person
+:Score: 8
+:DateUnix: 1612913151.0
+:DateShort: 2021-Feb-10
+:END:
+
+*** I'm A-OK with using italics to denote thought instead of speech, the context around it should differentiate between inner thoughts or parseltongue or whatever.
+
+What really gets me is using bold for spells and such. I know expelliarmus is a spell, the context should tell me that Harry is casting it. I really don't need
+
+#+begin_quote
+  *"Expelliarmus!"* Harry yelled.
+#+end_quote
+:PROPERTIES:
+:Author: JWBails
+:Score: 12
+:DateUnix: 1612914324.0
+:DateShort: 2021-Feb-10
+:END:
+
+**** That would drive me mad. I treat spells like any other speech.
+
+But some of my fics have people speaking mentally or through charmed journals in which case I use hyphens to denote that.
+
+-Like so.-
+
+I expected to have someone comment about it since I've seen so many fics with formatting guides but no one has. It makes me wonder if they're really necessary, or if we're assuming the worst of our readers.
+:PROPERTIES:
+:Author: Author_Person
+:Score: 2
+:DateUnix: 1612914978.0
+:DateShort: 2021-Feb-10
+:END:
+
+***** As someone else said in the thread, hope for Einstein, prepare for Cletus.
+:PROPERTIES:
+:Author: JWBails
+:Score: 5
+:DateUnix: 1612915819.0
+:DateShort: 2021-Feb-10
+:END:
+
+
+***** Mercedes Lackey doesn't have to put a style guide in her Valdemar books to explain the telepathy, nor does Tara Harper with the Wolfwalker series or Cat Scratch series. I think it's unnecessary and including it trains the readers to object to its absence on others' behalf, even when they understand just fine without it.
+:PROPERTIES:
+:Author: Chrystalline_AO3_FFN
+:Score: 2
+:DateUnix: 1612932203.0
+:DateShort: 2021-Feb-10
+:END:
+
+****** Yeah, I get wanting to ensure your readers aren't confused but it feels rude to me. I prefer to give them the benefit of the doubt.
+
+One of my fics has Harry communicating telepathically but with his half of the conversation he's never sure when he's simply thinking and when he's broadcasting his thoughts so there's no clear distinction between them. I haven't gotten any complaints in spite of the fact it's inherently vague.
+:PROPERTIES:
+:Author: Author_Person
+:Score: 1
+:DateUnix: 1612933605.0
+:DateShort: 2021-Feb-10
+:END:
+
+******* Exactly. Readers figure it out, so no need to insult their intelligence with training wheels.
+
+I once had a supervisor who waxed rhapsodic about my ability to do the mundane mail-merge printouts that I had done every month for a year before he was even hired. It felt like he was congratulating me for getting my shoes on the right feet. Every time he tried to praise me left me irritated.
+:PROPERTIES:
+:Author: Chrystalline_AO3_FFN
+:Score: 2
+:DateUnix: 1612934163.0
+:DateShort: 2021-Feb-10
+:END:
+
+
+******* Link?
+:PROPERTIES:
+:Author: Just_Me_-_-
+:Score: 1
+:DateUnix: 1612944942.0
+:DateShort: 2021-Feb-10
+:END:
+
+******** I can't link directly to it.
+
+It's called Kintsugi, it's explicit and it's unfinished as of yet. It's also Snape/Harry. It's on ao3 under the same username if you're still interested. No judgement if you aren't, I know most people hate the idea of them.
+:PROPERTIES:
+:Author: Author_Person
+:Score: 1
+:DateUnix: 1612945255.0
+:DateShort: 2021-Feb-10
+:END:
+
+
+**** I was always taught that if you are writing a character and they are thinking, that you write in italics with the little quotation marks. Though, I've also seen published authors just do the thoughts in italics without the quotations. It's confusing, lol... but I think I prefer the latter. It makes for a nicer format, but maybe I am doing it wrong, too.
+
+I don't know, I read and get ideas of how to write and then I just insert a certain style into my fics.
+:PROPERTIES:
+:Author: TiffWaffles
+:Score: 1
+:DateUnix: 1612985622.0
+:DateShort: 2021-Feb-10
+:END:
+
+
+** I mean that is just really old school, I have not seen them on a lot of current fics but more the time the books were still being published
+:PROPERTIES:
+:Author: daisy_neko
+:Score: 7
+:DateUnix: 1612904040.0
+:DateShort: 2021-Feb-10
+:END:
+
+
+** That was me once upon a time. To be fair, I was in my early teens.
+:PROPERTIES:
+:Author: YOB1997
+:Score: 7
+:DateUnix: 1612900508.0
+:DateShort: 2021-Feb-09
+:END:
+
+
+** You forgot /~parsletongue~/
+:PROPERTIES:
+:Author: LiriStorm
+:Score: 4
+:DateUnix: 1612916655.0
+:DateShort: 2021-Feb-10
+:END:
+
+*** Don't forget the sssssilly way that ssssome authorssss ussse to denote parsssseltongue in their ssssstoriessss.
+:PROPERTIES:
+:Author: steve_wheeler
+:Score: 9
+:DateUnix: 1612921747.0
+:DateShort: 2021-Feb-10
+:END:
+
+**** I tried really hard not to hiss while reading that.
+:PROPERTIES:
+:Author: TiffWaffles
+:Score: 2
+:DateUnix: 1612985714.0
+:DateShort: 2021-Feb-10
+:END:
+
+
+*** I've seen the section sign (§) used for parseltongue a few times.
+
+Also the dollar sign ($) once, which was weird.
+:PROPERTIES:
+:Author: JWBails
+:Score: 7
+:DateUnix: 1612917101.0
+:DateShort: 2021-Feb-10
+:END:
+
+
+** I'd rather have it in the chapter than respect to a dozen people who missed context clues and got confused.
+:PROPERTIES:
+:Author: Nathen_Drake_392
+:Score: 1
+:DateUnix: 1612910757.0
+:DateShort: 2021-Feb-10
+:END:
+
+*** You get people reviewing you about their confusion on context? Whether somebody was thinking or speaking, etc.? I've never had that happen. Or if they are confused maybe they haven't expressed their confusion yet.
+
+I have heard a lot of complaints from writers publishing their work on harrypotterfanfiction, though. Sometimes even on Quotev (or whatever it is).
+:PROPERTIES:
+:Author: TiffWaffles
+:Score: 1
+:DateUnix: 1612985948.0
+:DateShort: 2021-Feb-10
+:END:
+
+**** I haven't published much myself, but what I do is put one chapter purely dedicated to what I do with text, not at the start of normal chapters.
+
+Edit: forgot to explain relevance. Everything I've published has that. I would rather have that glossy thing, then have to explain to people who will undoubtedly miss the cues.
+:PROPERTIES:
+:Author: Nathen_Drake_392
+:Score: 1
+:DateUnix: 1612992821.0
+:DateShort: 2021-Feb-11
+:END:
+
+
+** When I was very, very young and new to the Harry Potter fandom, I did this with my stories as I saw other writers doing it. Luckily, I learned not to do this and became a much better writer because of it. The sad thing is that the people that were with me in the beginning and giving me great writing advice have either moved onto other fandoms or are gone from fanfiction entirely. I owe a lot to these people for giving me criticism. Whenever I see other writers doing the same things that I did as a beginner writer, I leave them the same advice. You'd be surprised how receptive young writers are... and many of them are very young. Under the age of 16 in most cases.
+:PROPERTIES:
+:Author: TiffWaffles
+:Score: 1
+:DateUnix: 1612985382.0
+:DateShort: 2021-Feb-10
+:END:

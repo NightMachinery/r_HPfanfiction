@@ -1,0 +1,32 @@
+#+TITLE: HPfanficarchive down, yet not down?
+
+* HPfanficarchive down, yet not down?
+:PROPERTIES:
+:Author: Jurand20012
+:Score: 2
+:DateUnix: 1599847966.0
+:DateShort: 2020-Sep-11
+:FlairText: Misc
+:END:
+Couple hours ago i was reading something on hpffa and when trying to change chapters, got sll protocol error
+
+I then checked on [[https://issitedownrightnow.com][issitedownrightnow.com]] and found that its working, and can even normally show it
+
+anyone else has had this?
+
+
+** Just checked, same here
+:PROPERTIES:
+:Author: Auctor62
+:Score: 1
+:DateUnix: 1599895622.0
+:DateShort: 2020-Sep-12
+:END:
+
+*** I found a fix. Swap the https to http
+:PROPERTIES:
+:Author: Jurand20012
+:Score: 1
+:DateUnix: 1599936459.0
+:DateShort: 2020-Sep-12
+:END:

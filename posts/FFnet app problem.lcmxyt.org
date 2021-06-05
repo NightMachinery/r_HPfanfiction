@@ -1,0 +1,76 @@
+#+TITLE: FFnet app problem
+
+* FFnet app problem
+:PROPERTIES:
+:Author: mrcaster
+:Score: 3
+:DateUnix: 1612464881.0
+:DateShort: 2021-Feb-04
+:FlairText: Discussion
+:END:
+Hi people!
+
+Yesterday the app logged me out while I was reading. I am trying to log in back again (with google account) and it says that the app may not be secure. Anyone has any idea why? and/or how to fix this?
+
+
+** I think you have to set it to allow third party apps in your google account. Had the same issue with another app as it claimed it might not be secure.
+:PROPERTIES:
+:Author: 4400120
+:Score: 2
+:DateUnix: 1612534526.0
+:DateShort: 2021-Feb-05
+:END:
+
+*** Is there a chance you can tell how? :/
+:PROPERTIES:
+:Author: mrcaster
+:Score: 2
+:DateUnix: 1612560280.0
+:DateShort: 2021-Feb-06
+:END:
+
+**** u/4400120:
+#+begin_quote
+  allow third party apps in your google account
+#+end_quote
+
+[[https://support.google.com/accounts/answer/3466521?hl=en#:%7E:text=To%20help%20you%20safely%20share%20your%20data%2C%20Google,and%20friends%20for%20you%20to%20meet%20up%20with][https://support.google.com/accounts/answer/3466521?hl=en#:~:text=To%20help%20you%20safely%20share%20your%20data%2C%20Google,and%20friends%20for%20you%20to%20meet%20up%20with]].
+:PROPERTIES:
+:Author: 4400120
+:Score: 1
+:DateUnix: 1612561265.0
+:DateShort: 2021-Feb-06
+:END:
+
+***** Thank you very much! The problem is still the same though. I enabled it but still nothing.
+:PROPERTIES:
+:Author: mrcaster
+:Score: 2
+:DateUnix: 1612564616.0
+:DateShort: 2021-Feb-06
+:END:
+
+****** Only other thing you can try is to make sure the app is updated to the latest version.
+:PROPERTIES:
+:Author: 4400120
+:Score: 1
+:DateUnix: 1612652763.0
+:DateShort: 2021-Feb-07
+:END:
+
+
+** What?! There is an app?
+:PROPERTIES:
+:Author: zeleninka_5
+:Score: 1
+:DateUnix: 1612474458.0
+:DateShort: 2021-Feb-05
+:END:
+
+*** There /is/ an app. But not one for fictionpress, which is weird.
+:PROPERTIES:
+:Author: Nathen_Drake_392
+:Score: 1
+:DateUnix: 1612474524.0
+:DateShort: 2021-Feb-05
+:END:

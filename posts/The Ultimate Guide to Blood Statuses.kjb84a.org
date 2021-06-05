@@ -1,0 +1,230 @@
+#+TITLE: The Ultimate Guide to Blood Statuses
+
+* The Ultimate Guide to Blood Statuses
+:PROPERTIES:
+:Author: CyberWolfWrites
+:Score: 17
+:DateUnix: 1608795406.0
+:DateShort: 2020-Dec-24
+:FlairText: Discussion
+:END:
+*(I am basing this on who the grandparents are, not the great-grandparents.)*
+
+To start with a pureblood is a witch or wizard with two sets of magical grandparents, a half-blood has at most three magical grandparents and at least one magical parent, a Muggleborn has no magical grandparents or parents, and a Squib has to have at least one magical parent.
+
+When I make out family trees, I will be referring to the blood statuses as the following:
+
+P=Pureblood
+
+H=Half-Blood
+
+M=Muggleborn
+
+S=Squib
+
+N=Non-Magical or Muggle.
+
+(Below is how all family trees will be displayed for the most part. I will be displaying this with Muggles.)
+
+| NN NN | (the grandparents) |
+|-------+--------------------|
+| NN    | (the parents)      |
+| N     | (the child)        |
+
+Out of all of the statuses, Muggleborns are the easiest to draw out. (Below is how all family trees will be displayed for the most part.)
+
+| NN NN | NN NS | NS NS | SS SS |
+|-------+-------+-------+-------|
+| NN    | NN    | NN    | NN    |
+| M     | M     | M     | M     |
+
+As you can see, the first relation has all Muggles. The next four relations, however, have Squibs added in. I have added Squibs because while they have magical parents, they themselves have no magic in them. Squibs can produce two types of children; Muggles and half-bloods. However, for this situation, they are producing Muggles.
+
+The Squibs have also been added in the grandparents' section and not the parents because Squibs have at least one magical parent (as seen below) and a magical parent will not create a Muggleborn, but instead a half-blood (in this situation, at least).
+
+Next easiest would be the Squibs. Now, as I said before, Squibs have to have at least one magical parent. I will take Delores Umbridge's family as the first example.
+
+Dolores's father (Oxford) was a wizard while her mother (Ellen) was a Muggle. Now as I don't know whether or not Oxford was a half-blood or a pureblood, I will be referring to his parents and himself as purebloods. Here are Oxford's and Ellen's blood statuses described below:
+
+| NN NN | PP PP |
+|-------+-------|
+| NN    | PP    |
+| N     | P     |
+
+Now, these two people created not only Dolores, a half-blood, but also her Squib brother.
+
+| NN PP |                    | NN PP |                                |
+|-------+--------------------+-------+--------------------------------|
+| NP    | (Oxford and Ellen) | NP    | (Oxford and Ellen)             |
+| H     | (Dolores)          | S     | (Unnamed Brother: Mr Umbridge) |
+
+As you saw above, Mr Umbridge had two Muggle grandparents and two pureblood grandparents.
+
+Now, the Umbridges aren't the only magical family to create Squibs. This is where the next example comes in: the Blacks. The Blacks have produced one proved Squib: Marius Black. Marius Black has two pureblood parents; Cygnus Black and Violeta Bulstrode. For the sake of not typing more than I have to, allow the form below to be used for both parents.
+
+| PP PP |
+|-------|
+| PP    |
+| P     |
+
+Now, this is where Marius comes in:
+
+| PP PP |                      |
+|-------+----------------------|
+| PP    | (Cygnus and Violeta) |
+| S     | (Marius)             |
+
+From what I can gather from the above two examples, Squibs can be born to two magical parents or one magical parent and one nonmagical parent, meaning that at least one of their parents can be Muggles or Squibs, or both of their parents can be Muggleborns, half-bloods, or purebloods.
+
+These relations with one Muggle parent (and Squibs could be used interchangeably):
+
+| NN NN | NN NM | NN NH | NN MM | NN MH |
+|-------+-------+-------+-------+-------|
+| NM    | NH    | NH    | NH    | NH    |
+| S     | S     | S     | S     | S     |
+
+The rest are merely the rest of the statuses mixed around but with the result of a Squib.
+
+The next easiest explanation would be for purebloods. To be identified as a pureblood, you must have two sets of magical grandparents. Or in other words, four magical grandparents.
+
+The easiest two to write out would be two sets of pureblood parents:
+
+| PP PP | PP PH | PP HH | PH HH | HH HH |
+|-------+-------+-------+-------+-------|
+| PP    | PP    | PP    | PP    | PP    |
+| P     | P     | P     | P     | P     |
+
+The remaining relations will contain a mixture of half-blood and pureblood parents:
+
+| PP PM | PP MM | PP MH | PP MP | PP HH | PP PH |
+|-------+-------+-------+-------+-------+-------|
+| PH    | PH    | PH    | PH    | PH    | PH    |
+| P     | P     | P     | P     | P     | P     |
+
+The half-bloods are the final blood status to go over, and they are by far the most difficult and complex to place. Not only can /every single other status/ produce a half-blood, but it also depends on which status they are paired to and whether that status contains one or two sets of magical parents.
+
+For the easiest explanation, all half-bloods have at most three magical grandparents; otherwise, they would be purebloods as you saw above. However, they can also have /no/ magical grandparents. Here it is displayed with all Muggle grandparents below:
+
+| NN NN | NN NN |
+|-------+-------|
+| MN    | MM    |
+| N     | H     |
+
+And here are all of the Squib grandparent(s) combinations:
+
+| SN NN | SN N N | SN NN | SN SN | SN SN | SS SN | SS SN | SS SN | SS SS | SS SS |
+|-------+--------+-------+-------+-------+-------+-------+-------+-------+-------|
+| NM    | HN     | HM    | NH    | HH    | NH    | HN    | HH    | NH    | HH    |
+| H     | H      | H     | H     | H     | H     | H     | H     | H     | H     |
+
+Half-bloods can also have only one magical grandparent (Squibs, like above, can replace Muggles, and they can also replace the half-bloods in the second row):
+
+| NM NN | NM NN | NM NN | NH NN | NH NN | NP NN | NP NN |
+|-------+-------+-------+-------+-------+-------+-------|
+| MN    | MM    | SM    | HN    | HM    | HN    | HM    |
+| H     | H     | H     | H     | H     | H     | H     |
+
+Now two magical grandparents (Squibs can replace the Muggleborns, half-bloods, or purebloods, in the second row and get the same result. And depending on the type of half-blood, you may need to change the witch or wizard in the second row, but the result should be the same. If you need any help, leave a comment):
+
+| NH NN | NH NN | NP NN | NP NN | MN MN | MM MN | MN MN | MM NN | MM NN |
+|-------+-------+-------+-------+-------+-------+-------+-------+-------|
+| HN    | HM    | HN    | HM    | SS    | SH    | HH    | HN    | HM    |
+| H     | H     | H     | H     | H     | H     | H     | H     | H     |
+
+And the three magical grandparents (The half-bloods in the second row /must/ have a Muggle or Squib parent to produce a half-blood. The half-bloods in the second row with two half-blood parents can also be replaced with purebloods and it'll have the same result. All second rows can also be replaced with Squibs and their children could still be half-bloods):
+
+| HH HN | HM MN | HH MN | HH HN | HM NN | PP PN | PM MN |
+|-------+-------+-------+-------+-------+-------+-------|
+| HH    | HH    | HH    | HH    | HH    | PH    | HH    |
+| H     | H     | H     | H     | H     | H     | H     |
+|       |       |       |       |       |       |       |
+| PP MN | PM PN | MM MN | MP HN | MH PN | PH MN | HP MN |
+| PH    | HH    | HH    | HH    | HH    | HH    | HH    |
+| H     | H     | H     | H     | H     | H     | H     |
+
+And there you have it! A hopefully helpful guide that will tell you whether or not this character or that one is this blood status or that one! As I said before, if you've any questions or need some help, tell me!
+
+(P.S. And yes, this was both extremely complicated and took an extremely long time to do.)
+
+
+** If I'm understanding this correctly, you see no phenotypic difference between Muggles and Squibs - that is, without their family trees there's no way to tell the difference between them.
+
+But from what we see of Filch and Mrs. Figg, there is a difference. Filch can see Hogwarts, Mrs. Figg can Floo.
+
+(Plus the linguistic clue that Squibs are not called "Wizard-born Muggles" - individuals may call them "the opposite of Muggleborns" but they're not perceived societally as the exact inverse of Muggleborn wizards. They're not /called/ Muggles, even while they're defined as having no magic.)
+
+Or perhaps you see a phenotypic difference but not a genotypic difference - that is, while there might be a physical difference, the family trees work out the same either way.
+:PROPERTIES:
+:Author: RookRider
+:Score: 7
+:DateUnix: 1608835821.0
+:DateShort: 2020-Dec-24
+:END:
+
+*** Maybe squibs do have magic in their genes, but it's so minimal that they are basically muggles, maybe some type of genetic dicease that makes it so they are unable to perfrom magic or even do lot of things witches and wizards can, but still retain some of the thigns only magical beings can do, like seeing hogwarts, using floo..
+:PROPERTIES:
+:Author: Hiekkalinna
+:Score: 1
+:DateUnix: 1608874401.0
+:DateShort: 2020-Dec-25
+:END:
+
+
+*** u/Tsorovar:
+#+begin_quote
+  Filch can see Hogwarts, Mrs. Figg can Floo.
+#+end_quote
+
+The immediate families of witches and wizards are granted special privileges, most notably as an exception to the Statute of Secrecy. All Squibs, by definition, fall in that category. There's no evidence that those things are an actual difference in their type, rather than special allowance made by the Ministry/Hogwarts/etc.
+:PROPERTIES:
+:Author: Tsorovar
+:Score: 1
+:DateUnix: 1608881140.0
+:DateShort: 2020-Dec-25
+:END:
+
+**** u/RookRider:
+#+begin_quote
+  “Just you, then,” said Ron. “So go on --- how d'you hide a place like Hogwarts?”
+
+  “It's bewitched,” said Hermione. “If a Muggle looks at it, all they see is a moldering old ruin with a sign over the entrance saying DANGER, DO NOT ENTER,“
+
+  /The Goblet of Fire/
+#+end_quote
+
+This indicates that the spell hiding Hogwarts is a magical effect, not a bureaucratic one. For Filch to be able to see Hogwarts, the spell has to consider him different from a Muggle. It's more than just him being an exception to the Statute.
+
+Now, I freely admit that this is tenuous. One could claim that Filch was given some sort of talisman to make him immune to Muggle repelling charms, or that the bewitchment is tied to some sort of Squib registry. Those explanations would be canon-compliant. But they're not canon.
+
+The actual evidence that we see in canon is that every Squib we see (all two of them) interact with magic in ways Muggles do not. In the absence of any stronger evidence, I am forced to conclude that Squibs are not Muggles.
+:PROPERTIES:
+:Author: RookRider
+:Score: 1
+:DateUnix: 1608883173.0
+:DateShort: 2020-Dec-25
+:END:
+
+***** We know anyone can be connected to the Floo network. The Dursleys' house is specially connected that one time (book 4? Idk).
+
+As for the ability to see things like Hogwarts, I've done some reseach. We know Moaning Myrtle was Muggleborn, and there's a mention in the diary flashbacks that her parents are coming to Hogwarts:
+
+#+begin_quote
+  "Come on, Rubeus," said Riddle, moving yet closer. “The dead girl's parents will be here tomorrow..."
+#+end_quote
+
+Obviously that wouldn't be possible if they could only see it as a ruin. Therefore, there must be some way to make exceptions, either for a class of people (families of wizards) or, more likely, for specific individuals
+:PROPERTIES:
+:Author: Tsorovar
+:Score: 2
+:DateUnix: 1608884680.0
+:DateShort: 2020-Dec-25
+:END:
+
+
+** Only thing I might consider is( if it is a case), that even with all four muggle grand parents, there has to be squib somewhere in the family, even many generations back (great great great great grandparent for example), for muggles to ever have magical children, since they would need to get the genes for magic from somewhere. Of course this is not canon fact (at least I'm not sure if it has been stated anywhere), but for genetics to work, magic eiter has to be inherit through a squib to muggle at some point, or magic is random genetic mutation etc. So only going up to grandparents doesn't really give the whole picture as it says that muggles without any magical ancestry can have magical children (since it doen't show where at least one of the parents or grandparents got the genes), without having the genes to pass to their children..
+:PROPERTIES:
+:Author: Hiekkalinna
+:Score: 1
+:DateUnix: 1608874166.0
+:DateShort: 2020-Dec-25
+:END:

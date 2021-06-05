@@ -1,0 +1,378 @@
+#+TITLE: Worth continuing this?
+
+* Worth continuing this?
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1481103413.0
+:DateShort: 2016-Dec-07
+:END:
+[deleted]
+
+
+** I don't know if you wrote this lacking a rich text editor and have pasted it out of WordPad or what, but SPACING. No one will read anything you ever write if you can't be bothered to format out your paragraphs - it's true that with some cases, copy and pasting doesn't work and you have to add them manually... So add them manually.
+
+Firstly, I will say that this piece needs a Hell of a lot of work. It's a vaguely interesting idea, but it needs a LOT of work.
+
+#+begin_quote
+  Arcus Snow was dead and had been for some time. The man had had a debilitating illness for many years and the past harsh winter had finally seen him depart this world. With most wizards on the street believing that he didn't have long anyway, no one had really taken his death as a major shock. Even so there was a lot of interest surrounding it.
+#+end_quote
+
+Show, don't tell. How was there interest surrounding his death? Whispers, mutterings, newspaper articles, people yelling in the streets, what? Just saying "people were interested" isn't as powerful as showing that they are.
+
+#+begin_quote
+  Who would be next? Arcus had no family. No +brother's+ brothers, no sisters, no daughters or sons or grandchildren. He had no one to carry on his legacy. The Snow era was gone. The dukedom was up for grabs and it seemed there were many people grabbing at it. It would be minister's decision however, for The Iron Duke wasn't some lowly position given out to anyone who wanted it. It was a carefully chosen role given to the person who would best be suited for the role and considering the +Snow's+ Snows had held the position for one hundred years, to make the wrong decision now would be folly.
+#+end_quote
+
+Apostrophes are *never*, and I mean *never* used in plurals. "No brother's", no readers.
+
+"dukedom was up for grabs and there were many people grabbing at it" does not come across as clever, and instead comes across as rather clumsy in terms of phrasing. Moreover, if you're trying to write this vaguely from the Minister's perspective, or a general Pureblood perspective, I'd advise poshing up your vernacular a little bit. Something more like, "The Dukedom, after spending so much time far out of reach of even the post distinguished member of society was now within grasp." Not that sentence exactly, but something delicate and focusing more on implication than direct explanation.
+
+"it would be minister's decision" - Presumably you're referring to the Minister for Magic, in which case, you capitalize the word "Minister". Also, regardless that you're referring to a role rather than the person, use the definite article of "the", so it's "the minister's" instead of just vaguely "minister". In a lot of UK political systems, there are generally ministers for all sorts of things, so you could well be referring to a minister for toilet health when you just refer to /a/ minister.
+
+#+begin_quote
+  The +minister+ Minister spent a month waiting and deciding. As far as he saw it, there were two options available. Both good in their own right, but whoever was chosen would need bones of steel. Harsh +law's+ laws from the +ministry+ Ministry would be passed to the duke to convey to the public. He would be of the people yet apart from them. The minister needed someone who would not cower away from such a task.
+#+end_quote
+
+"Harsh laws from the ministry would be passed to the duke to convey to the public" is a terrible sentence. Firstly, it barely makes sense, and moreover, it doesn't make any sense. Why would a government pass laws that it couldn't explain to their own people? That's insane. You need to explain more about what kind of "harsh laws" they are, or you just make the reader go, "uh, what?"
+
+Are they important, but unpopular? If they're really that harsh, why are they getting passed?
+
+And again, you're showing, not telling. "Spent a month waiting and deciding" means nothing at all to the reader.
+
+#+begin_quote
+  Aside from that as well, it wouldn't be the man as the Duke, it would be the family. A strong family meant a strong line of dukes. The decision would affect not just wizards today, but wizards for many years to come. The benefits of the position were tempting despite the seriousness of the role, noted by the high amount of interest there was. The chance to change laws, push public persuasion. It was often said that the minister was in the duke's pocket. The minister knew this only too well. In the end, it was a choice he felt was right.
+#+end_quote
+
+"Aside from that as well" - No.
+
+It /will/ be "the man" as the Duke. You just said that it would. I understand what you're trying to say, that the family ought feature into the decision as much as the individual, but saying that it isn't the man doesn't make sense. It isn't /only/ the man, or it isn't /just/ the man. Though I advise wholeheartedly that you do not use the word "man" anyway - it's too pedestrian.
+
+"noted by the high amount of interest there was" - What? The benefits of the position are tempting, yeah, but high amount of interest from whom? You just said he only had two people in mind - who is showing interest? How are they showing this interest? Why do we, as the readers, care?
+
+Decide whether you want the Duke, as a title, to be capitalized or not, and then stick with it. Don't just swap one way and then the other like you're doing the grammatical Hokey Cokey.
+
+"the minister was in the duke's pocket" - If the Minister is in the Duke's pocket, how does it make sense that the Minister is the one selecting him for the position? Why does the Minister have this singular power above all else? Why would the Duke be able to manipulate him if the Minister put him there?
+
+#+begin_quote
+  People would argue and there were sure to be some unrest and disagreement, but that would have been the case for whoever he chose. In the end, it was Quentin Clark who made Phineas Nigellus Black, the Iron Duke. Quentin was happy with the decision, the other suitor, despite his standing was just not right, not at this time anyway. There was unrest, there was worry in the people and the minister needed someone to lead them through it unharmed.
+#+end_quote
+
+"whoever he chose" - No. Firstly, "whomever", and secondly, make use of the passive voice: whomever was chosen. The tip for who and whom is to transplant the word "he" and "him". "I have chosen he?" No. "I have chosen /him/."
+
+"Quentin Clark who made Phineas Nigellus Black, the Iron Duke" - this is a bad time to tell us the Minister for Magic's name - do it earlier. Also, what is that comma for? Drama? Commas have no responsibility for drama. Do it with your actual words, or if you must have a dramatic pause, use a colon or an ellipsis. (You do not need that dramatic pause. Don't do it).
+
+"the other suitor" - You need to say something about the other dude or we don't know if he actually is any better than Black. Also, we don't care. You need to carefully draw in the reader's interest.
+
+Think of it as a meal: you're building with words the taste and the scent and the texture of this wide, new world, just as you'd draw someone in with the scent and taste and texture of a perfectly cooked fish and chips. A lot of this is the narrative equivalent of smacking the reader across the face with a raw haddock.
+
+#+begin_quote
+  Black, was that man. It was nearing midnight, and Quentin could hear the unmistakably fluttering and sparks as the fire outside his office lit up. The rising volume of footsteps outside confirmed his suspicions. Someone was coming to see him. He gave a very audible sigh, hoping perchance that the person on the other side of the door would hear that he was tired and not in the mood for any discussion and would wait until the next day. He leaned over the anti jinx laws he had been reading and focused hard on the words. Surely if he appeared to be busy, his advisor or whoever it was would come back later.
+#+end_quote
+
+"Black, was that man." - Read this aloud to yourself and realize how stupid it sounds. Commas do not make dramatic pauses: they're for linking together clauses.
+
+"rising volume" - You can hear that things are coming closer without worrying about their getting louder. Do something more interesting - what about the echo against the halls of the Ministry, or a squeaky stone, or something?
+
+"hoping perchance" - That is not how you use the word "perchance". If you want to use archaic words, you need to use them correctly.
+
+"anti jinx laws he had been reading" - You don't read "laws". You read "legislation" or "bills" or something similar - and why is he reading them? Have they been passed yet, or does this man need to study his own constitution? Also, "anti-jinx".
+
+#+begin_quote
+  There was a knock at the door. Quentin ignored it. After several seconds there was another knock. Quentin sighed again.
+
+  ‘Very well, come in.' The door opened revealing a smartly dressed wizard in robes of dark blue. Despite his obvious youth, he held himself in a way that suggested he was much older than he really was.
+#+end_quote
+
+Dialogue does NOT use single marks. Use speech marks, named because they are used for speech: " ".
+
+DESCRIBE HIM MORE. Do not just say "oh, well, he seemed older-" DESCRIBE HIM. Use your words! You're a writer, not [[https://www.youtube.com/watch?v=A3ytTKZf344][Reggae Shark]]!
+
+#+begin_quote
+  ‘Yes, what is it Russell?' Russell removed a hand from his side and reached into his robes pulling out a neat roll of parchment.
+
+  ‘Apologies for disturbing you minister; it appears Dorian Goyle has been arrested.'
+
+  ‘Goyle?' the minister raised his eyebrows, ‘Good heavens whatever for?'
+#+end_quote
+
+"what is it Russell?" - Always use a comma for address. The rule is "Let's eat, Grandma!" not "Let's eat Grandma!" If you can use commas for ridiculous false pauses, you can most certainly use them properly.
+
+Use a colon, not the semi-colon.
+:PROPERTIES:
+:Score: 15
+:DateUnix: 1481110373.0
+:DateShort: 2016-Dec-07
+:END:
+
+*** Agree with everything you say, but just a small note that single marks are used in British English for speech.
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 6
+:DateUnix: 1481110753.0
+:DateShort: 2016-Dec-07
+:END:
+
+**** I'm Welsh, Floreat, and single marks make me gag. You basically never open up an actual book with single speech marks these days - I'm for double speech marks all the way.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1481111055.0
+:DateShort: 2016-Dec-07
+:END:
+
+***** ...Harry Potter UK editions use single marks. I'm reading a book right now using single marks. It's fine if it's your preference, but there's nothing grammatically incorrect about it.
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 5
+:DateUnix: 1481111706.0
+:DateShort: 2016-Dec-07
+:END:
+
+****** /OhmygodI'msogladyousaidthis~/
+
+I had to force myself to change this while writing Untitled Tome. More than one person flat-out said that they would refuse to read single marks, even after I pointed out that it's standard British English.
+
+It's as far as I'm willing to compromise, though - they'll have to slog through the slang (in dialogue) or they can get stuffed, lol.
+:PROPERTIES:
+:Author: Ihateseatbelts
+:Score: 3
+:DateUnix: 1481136571.0
+:DateShort: 2016-Dec-07
+:END:
+
+******* I've been told the same thing, and accused of being deliberately difficult for the sake of pretentiousness. I find it so bizarre how angry people get over it. I barely notice when it's the American way.
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 3
+:DateUnix: 1481141150.0
+:DateShort: 2016-Dec-07
+:END:
+
+******** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1481141437.0
+:DateShort: 2016-Dec-07
+:END:
+
+********* The American way looks messy and cluttered to me, or sarcastic. But I'm sure you agree, you can quite quickly get used to different styles if you give it a chance.
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 2
+:DateUnix: 1481144952.0
+:DateShort: 2016-Dec-08
+:END:
+
+
+***** Except for, you know, in the Harry Potter books.
+:PROPERTIES:
+:Author: shaun056
+:Score: 4
+:DateUnix: 1481111427.0
+:DateShort: 2016-Dec-07
+:END:
+
+
+**** u/booksandpots:
+#+begin_quote
+  single marks are used in British English for speech.
+#+end_quote
+
+That's not a rule, it's a convention. Either can be correct as long as you are consistent.
+
+Edit: formatting
+:PROPERTIES:
+:Author: booksandpots
+:Score: 1
+:DateUnix: 1481112482.0
+:DateShort: 2016-Dec-07
+:END:
+
+***** The point still remains that it is possible to use them, and the comment [[/u/FloreatCastellum][u/FloreatCastellum]] was replying to had it as some kind of unbroken rule that you cannot.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 3
+:DateUnix: 1481112633.0
+:DateShort: 2016-Dec-07
+:END:
+
+
+***** I never said it was a rule. My entire point is that neither is grammatically incorrect and it's down to preference.
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 1
+:DateUnix: 1481112588.0
+:DateShort: 2016-Dec-07
+:END:
+
+
+*** u/deleted:
+#+begin_quote
+  ‘Performing an +unforgivable+ Unforgivable on a muggle. If you ask me it's no surprise really, he's been quite wild recently. I only say this because Black is preparing the paperwork to have him released.' Phineas Black was an old friend of Goyle's. The minister's memory wasn't perfect on the subject but he knew that they had at least gone to school together.
+
+  ‘I see, what do you suggest I do?' Russell's eyes widened. His smart form dropped slightly as his arms fell to his side.
+
+  ‘Well, stop him minister. Goyle has broken the law and must pay the price.'
+#+end_quote
+
+"If you ask me it's no surprise really, he's been quite wild recently" - No. That "really" doesn't need to be there, you need to be using commas properly to separate the sections of the sentence as a real person would, and it could be much more refined. Is Russell a Weasley, or is he someone more upperclass? If it's the latter, he /needs/ to be showing it in his speech.
+
+"preparing the paperwork to have him released.'" - What paperwork is this? Can you really just write a bit of paper and get your bestie released from prison? Hint: the answer is no.
+
+#+begin_quote
+  ‘I can't. I can't just stop Black from releasing his friends. He is asserting his dominance; it's partially why I chose him. If I stop him now people will think he's weak, and we may need his strength for a later date.'
+
+  ‘So we're just going to let a dangerous man walk free? Minister I-‘
+#+end_quote
+
+What?
+
+Also, it was only a Muggle. Why do Russell and Clark actually care? Is it because they really give a fuck, or is it because of the damage such things could have on the Wizarding World?
+
+#+begin_quote
+  ‘What would have me do Russell, go above Black? Say no and have Goyle tried? Black is a powerful wizard, and I would rather have him on my side than against me. There's no telling what he could do.'
+
+  ‘Goyle is-‘
+
+  ‘A dangerous wizard, I agree. We'll keep an eye on him don't worry, I only hope if I do have to stop Black it's over something less important than an old friend. ‘ The minster removed his glasses setting them on the table in front of him. Was tempted to read the parchment Russell had brought but knew it would only repeat what they had discussed. His anti jinx laws were not going to be finalised tonight at any rate. ‘If that is all Russell, you may go.' Russell slowly nodded, returning to his smart manner. He nodded at the minister and headed for the door.
+#+end_quote
+
+"We'll keep an eye on him don't worry" - No. Why does the Minister for Magic have to explain himself to some random kid? Why does he care about Russell's feelings? Why doesn't Russell respect his presumable authority?
+
+"I only hope if I do have to stop Black" - Why does the position of Iron Duke exist if it leads to stuff like this? What is the position actually /for/? Is it truly an element of diplomacy between the government and its own people? Why?
+
+"Was tempted" - HE was tempted.
+
+"returning to his smart manner" - That is not normal phrasing. Talk about his actual posture, not his "smart manner".
+
+#+begin_quote
+  ‘Actually,' the minister's voice rose as Russell's hand was just on the door ‘Before you go Russell, what curse did Goyle use?' Russell shifted on his feet, avoiding any eye contact with the minister; it was a tactic he had seen used many times before.
+
+  ‘I don't know sir, it was only a muggle.' Russell bowed his head and left letting the door lightly bang against the frame. The minister had a lot to ponder.
+#+end_quote
+
+"I don't know, sir" - Really? There are three Unforgivables, and they're not used often - they all do very different things. Is it that hard? And why does the Minister care? Does it actually matter?
+
+As I said initially, this needs a Hell of a lot of work, and you really need to actually think through what the position of Iron Duke is for and why it actually came about. It's all very well saying "tradition", but you can't just handwave that when you're looking at world building in a universe as rich as this one - you need to actually think it through and convey it to the reader.
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1481110385.0
+:DateShort: 2016-Dec-07
+:END:
+
+**** I feel as if I need to defend myself for posting this up, though part of me thinks that I have already made myself pretty plain in what I wrote at the start of the post. This is unedited. This is ripped straight from the hard drive and posted straight onto here. I'm not looking for a beta, I'm not looking for comments as to how the writing is, as I know it's not great in its current form. I want to know whether it's worth continuing. If so I'll get to rewriting/editing this piece. Maybe I should have posted that I'm not looking for comments on the writing at the start, maybe that's my fault, but If I did want to I would have gone the proper route and requested a beta, not posting every chapter into a Harry Potter sub. And as [[/u/FloreatCastellum]] has said, in Britain we use single marks for speech.
+:PROPERTIES:
+:Author: shaun056
+:Score: -3
+:DateUnix: 1481111319.0
+:DateShort: 2016-Dec-07
+:END:
+
+***** Hi, I realise it was probably unintentional, but you appear to have forgotten to thank [[/u/LocalDictionary][u/LocalDictionary]] for what was clearly a lot of effort put into the slab of text you posted.
+
+You asked if it was worth continuing, did you really want a one word yes/no response? It seems to me what [[/u/LocalDictionary][u/LocalDictionary]] did was highlight the sort of hard graft you would hopefully be wanting to employ to raise the standard of your work.
+
+Moreover - there are plenty of other would-be or first-time writers who benefit from seeing the difference a professional reader and editor can make to a section of raw unpolished text, so instead of feeling defensive why not be grateful for the investment of time someone gave you in editing your work? As we are grateful for all the authors who share their work with readers freely.
+:PROPERTIES:
+:Author: Judy-Lee
+:Score: 9
+:DateUnix: 1481112528.0
+:DateShort: 2016-Dec-07
+:END:
+
+****** Thank them? No. Appreciate it? Also no. It's like taking your car for a general service and finding out they've put wings on it.
+:PROPERTIES:
+:Author: shaun056
+:Score: -6
+:DateUnix: 1481113060.0
+:DateShort: 2016-Dec-07
+:END:
+
+******* [[/u/LocalDictionary][u/LocalDictionary]] took time out of their day to help you with your writing and you're offended that they've put too much work into it? No offence intended, but if you get that defensive over your own mistakes you should probably not post things where other people can comment.
+:PROPERTIES:
+:Author: Plotless_
+:Score: 10
+:DateUnix: 1481113759.0
+:DateShort: 2016-Dec-07
+:END:
+
+******** I understand that. But it's a matter of asking what people thought of the general idea not what they thought of the writing. Maybe I should have been a bit more clear about that. I know the writing isn't stellar. It was written a while ago, it's entirely unedited. Maybe it's not worth writing full stop if this is the kind of response I get for just asking a simple question.
+:PROPERTIES:
+:Author: shaun056
+:Score: -6
+:DateUnix: 1481114585.0
+:DateShort: 2016-Dec-07
+:END:
+
+********* The problem is that there's no idea here. You have like a thousand words, which is absolutely nothing. All we have to go on is one scene where everything is left incredibly vague and we have no idea what's going on, because there's fuck all to go on. You can't ask people to judge a plot that's unexplained and poorly written, and when you say "I understand that" it's clear that that's not the case at all.
+
+You've left these huge holes in any effort to help critique or advise, and so people have done their best to work with what's left. Furthermore, you've shown no desire to improve your writing at all, instead deigning to ignore all the help you've been given and instead reply with sarcastic backtalk over one tiny preference difference. I get that you're new to writing, having only started for NaNoWriMo, but there's no way you're ever going to make anything vaguely readable until you sit down and put it through your skull that you aren't infallible, and that there are plenty of people who are willing to help you if you don't act like a little child in return.
+
+So I'll say no, this isn't worth continuing, not until you get over yourself and decide that you actually want to write rather than use it as a way to get over your inferiority complex. Four years ago, I wrote an HP fic that got 2k favourites, and was happy about that. I left it for six months, came back, and deleted it when I realised it was a steaming pile of donkey shit, then went out and found people who wrote and tried my best to learn. I don't care now if other people see what I write or not, in fact, I have around 60k of stuff on my google docs that even my beta readers haven't seen, because I now enjoy writing.
+
+If you're happy with keeping up the same level of (poor) quality for the rest of your writing then you can ignore this thread, turn off reminders, and live in your own world when you're perfect and everything you write is covered in gold and your dick is the size of a broadsword.
+
+If you want to write well, grow the fuck up.
+:PROPERTIES:
+:Author: Plotless_
+:Score: 7
+:DateUnix: 1481115689.0
+:DateShort: 2016-Dec-07
+:END:
+
+
+******* ...I'd want wings on my car...
+:PROPERTIES:
+:Author: Skeletickles
+:Score: 7
+:DateUnix: 1481115255.0
+:DateShort: 2016-Dec-07
+:END:
+
+
+******* If that's the case, I'd say no, it's not worth continuing. Dump the idea - if this is the level of writing you can bring to the table.
+:PROPERTIES:
+:Author: HaltCPM
+:Score: 7
+:DateUnix: 1481113751.0
+:DateShort: 2016-Dec-07
+:END:
+
+
+******* Comments on FFN, Ao3, or wherever else you post would be flame-y, a lot harsher, and generally devoid of actual constructive criticism, unlike what [[/u/LocalDictionary]] provided.
+:PROPERTIES:
+:Author: mistermisstep
+:Score: 5
+:DateUnix: 1481202050.0
+:DateShort: 2016-Dec-08
+:END:
+
+
+** If you can't take critique, you're not ready to write.
+
+Based on your actual content, I would be unsure; based on how you've responded to LocalDictionary, the answer is a clear no.
+:PROPERTIES:
+:Author: ElaraSilk
+:Score: 9
+:DateUnix: 1481114106.0
+:DateShort: 2016-Dec-07
+:END:
+
+
+** I would crit a bit more, but seeing how well that went for the other two, I'll just answer.
+
+No.
+:PROPERTIES:
+:Author: dsarma
+:Score: 7
+:DateUnix: 1481113557.0
+:DateShort: 2016-Dec-07
+:END:
+
+
+** No.
+:PROPERTIES:
+:Author: repthe21st
+:Score: 7
+:DateUnix: 1481116644.0
+:DateShort: 2016-Dec-07
+:END:

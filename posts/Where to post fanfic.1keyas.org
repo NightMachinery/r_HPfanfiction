@@ -1,0 +1,151 @@
+#+TITLE: Where to post fanfic?
+
+* Where to post fanfic?
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1376570759.0
+:DateShort: 2013-Aug-15
+:END:
+[deleted]
+
+
+** Check the sidebar. We've collected a great list of fanfic archives, forums, and other sites.
+:PROPERTIES:
+:Author: eviltwinskippy
+:Score: 7
+:DateUnix: 1376571460.0
+:DateShort: 2013-Aug-15
+:END:
+
+
+** I'd suggest AO3 if you can't stomach you fic floating with the numerically superior turds in FFN. Mugglenet is OK if you are writing a bog standard shipfic with at least apparently high school level skills, but otherwise good luck. They aren't really set up for complicated AU stuff, seem to really only want canon-extension stories, and have strict style guidelines that only they and JKR understand, which would have rejected 80% of the truly enjoyable and high-quality fics I've read over the years for not capitalizing Muggle correctly alone (seriously).
+
+My experiences with AO3 are that it is even easier to post to than FFN, it only takes a week at most to get an account (hell, I'll give you an invite if you PM me), but lots of people misusing (or not using) its tagging and rating system has resulted in some iffy search results.
+
+Mostly that seems to be bad authors who have obvious issues and are easy to ignore by simply reading their inane summaries. The other problem is that not many people use it yet, and most who do only use it for very short oneshots (not my flavor favorite). I think fics boosted from tumblr or private blogs that linked to AO3 would have the most success, as their tagging and "kudos" props system are still not statistically significant, though that does make every single one all the sweeter.
+
+I'm sure if you could still post smut to FFN, it would have a lot more, so mostly I see AO3 as having an issue with poor standards for tagging and low audience numbers. I don't know anyone who reads on AO3 who isn't also an author, for example. But as more people grow up and get tired of wading through the poorly written DarkSuperHarry AU highschool angstfests and the eyebrow raising, somehow-M-rated HG/SS molestation fics being pumped out every day on FFN, drowning out most of the real talent trying to post, I think the move to other sites will gain momentum.
+
+Personally, I just post to both FFN and AO3, using AO3 for my more risqué work and re-proofed and improved versions of old chapters of stuff I originally put on FFN.
+:PROPERTIES:
+:Author: TimeLoopedPowerGamer
+:Score: 4
+:DateUnix: 1376606584.0
+:DateShort: 2013-Aug-16
+:END:
+
+*** It took me sixth months to get an account.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1376609218.0
+:DateShort: 2013-Aug-16
+:END:
+
+
+*** [deleted]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1376695735.0
+:DateShort: 2013-Aug-17
+:END:
+
+**** u/TimeLoopedPowerGamer:
+#+begin_quote
+  somehow I am not comfortable with website that have built-in filter to looking for stories about rape (I thought at start that it may be used to exclude this type of stories but I failed to figure it out).
+#+end_quote
+
+Totally understand that. Of course, you can't filter that out on FFN, and it isn't exactly hard to find by accident. Wouldn't that be a nice usability feature? There are, of course, a LOT of “dubcon” and really, really “noncon” stories that edge up to the line on FFN, and it is impossible to sort out during a search the difference between a story that uses “M” ratings to say "fuck" and one that shows someone doing so to someone who isn't actually into that right now, thanks.
+
+Then there's stuff that sees that content line and crosses it at a sprint, stories that just haven't been removed (yet). In that way, AO3 is much more '90s-internet-like. More /raw/. And like the early '90s, the only search tools are made by half-interested people with other things to do. They also don't delete that kind of stuff ever on AO3 (if it is correctly tagged), so it does sort of collect, and a number of the mental midgets posing as authors who spew out the most poorly written dreck don't seem to care about the tagging or rating systems of either site.
+
+Full disclosure time: my story on AO3 and FFN, [[http://www.fanfiction.net/s/8823447/1/Harry-Potter-and-the-Witch-Queen][Harry Potter and the Witch Queen]], has that rape tag ("Rape/Non-Con") on AO3 because in it, a character has a dream about remembering their wife having questionable sex with them. This started and got a ways along while the character was asleep (not really okay and possibly considered rape in the US, even with a spouse). It was also part of a magical ritual that their wife was doing, one that they didn't agree to ahead of time. Then a bit later, after some very loving and now entirely consensual (if confusing) sex, the character is Obliviated by their wife (again, without knowledge or consent).
+
+Which is quite /clearly/ rape.
+
+So. Yeah. This is tastefully done (I think), passes the FFN content Stasi checks, and is a scene of extremely questionable morality that is meant to make people think about complicated things I won't get into here. It isn't a scene about the non-consensual nature of that encounter /specifically/, but the mind wipe afterword hammers home the point that what happened really, /really/ wasn't okay.
+
+As I know I wrote a story with something in it that some people might not be comfortable with, I'd really like a way for people bugged by that sort of thing not to have to see it. Tagging and chapter warnings help. I think my thing is mild and unlikely to make anyone more than raise an eyebrow, but readers should have maximum power and tools.
+
+Here's my main point: while some may like reading stories with certain types of typically objectionable sexual content, some would rather not even see that stuff in the search results, so it would really help if things were finer grained and easier to use. Both sites have this and other issues with search. For whatever reason, both are allergic to checkboxes on the ratings filter and both are having serious issues with the basic concept of exclusion in SQL queries (I assume), or at least how to implement it in easy to use ways. At least AO3 gives the writer more options for tags, which lets you rock it like it's 2002 and everyone thinks "Semantic Web" is something that will happen.
+
+Ahem.
+
+But as you note, since that is only an "inclusive" filter feature, it doesn't help for things you really, really *don't* want to see, as even for the summaries of those stories, the goggles, they do /nothing/.
+
+If it helps (it might), you /can/ do a Google-style "negative" search terms thingie in AO3's tag search box, like
+
+#+begin_quote
+  -"smexy ferret action"
+#+end_quote
+
+(assuming the writer tagged it like that, which they likely haven't...I hope). I've used this some, and it seems to work with the main Archive Tags as well. So if you put
+
+#+begin_quote
+  -rape
+#+end_quote
+
+in the Other Tags box for Sort and Filter, virtually all of that disappears from your results (including things with the Archive Tags). But figuring that out required use of an optional text box, reading the help system for 15 minutes, and extreme levels of comfort playing with the site. Not user friendly yet at all, but it is possible if you work at it. Whether or not it is worth it is up to you, but at least AO3 has that “pro” mode functionality.
+
+ANYWAY, what is this Archive Tag thing? More details on the publishing process on AO3: when starting a story, you are required to put any of the "big four" down as a main tag (graphic depictions of violence, major character death, rape/non-con, underage [sex]) or specifically state "not gonna" because you hate categories, are some kind of misguided internet anarchist, or can't be arsed to think about it for 30 seconds.
+
+In addition, you give it an enforced content rating (or choose "not gonna," see above) from a list that includes "Explicit" as an option. So what this means is, if you search for "Mature" rated stories on AO3 (or really, anything not "Explicit"), you'll have the same kind of search as FFN does, just on a much smaller pool of content. Hope that helps if you want to try again.
+
+#+begin_quote
+  I just recognized you! Good luck with update of Harry Potter and the Witch Queen, I am waiting for it!
+#+end_quote
+
+*Oh hai! I made you a new chapter, but I eated it.*
+
+But seriously, it has been 80% done through three minor sectional rewrites so far. I removed a literal Greek chorus, showed and not told more, and tightened things up in general. At this point, it won't live up to the time I've spent on it but it'll still get done. Maybe this weekend will be the one where I finally update. This is really backing up my schedule, as I've got two chapters for the next part of the story already done, and 1/3 of chapter #11 finished! So silly. Not writer's block, just writer's life.
+
+Also, I just took an hour to write, like, a thousand word essay on fanfic sites, story content, and empowering readers of digital media with tools to filter content better.
+
+CURSES!
+
+Well, guess this goes on my forum and blog, too.
+
+*edit
+
+Just to be clear, AO3 doesn't pay me, but they should. They really, really should.
+:PROPERTIES:
+:Author: TimeLoopedPowerGamer
+:Score: 2
+:DateUnix: 1376717629.0
+:DateShort: 2013-Aug-17
+:END:
+
+
+** I pretty much just post to FFN, though I've stories up on SIYE and Patronuscharm as well as a few more obscure sites. I've submitted stories to Portkey, but had them kicked back for lack of site compliance (see below).
+
+Most of the smaller sites cater to one or more ships and probably won't accept your story if the shipping isn't sufficiently overt. Portkey, in particular, requires bodily fluids swapped between the principals and will kick back "gen" stories that only hint at a relationship.
+
+If your story is aligned with DLP tastes, meaning a darker, more cynical, more independent Harry than canon, then Patronuscharm is an option.
+
+Several people use AO3, though every time I visit it seems to be about 98% slash/smut/noncon (even more than FFN).
+
+Mugglenet is frustrating, but has decent traffic. If you have the patience to put up with the editors, you may be able to post there.
+
+Fanficauthors.net is effectively closed to new talent. At one point I was applying for a slot there (and I have a story of mine posted in jbern's author section), but Kinsfire was placed in charge of approving new authors. They've only added two authors in the past few years and there are maybe three authors who still write and post stories.
+:PROPERTIES:
+:Author: __Pers
+:Score: 9
+:DateUnix: 1376574078.0
+:DateShort: 2013-Aug-15
+:END:
+
+
+** I use FLAG to download fanfiction to my Kindle. [[https://www.flagfic.com/sites][HERE]] is a list of fanfiction sites it supports. After using for a while, FLAG also offers suggestions.
+:PROPERTIES:
+:Author: sitman
+:Score: 3
+:DateUnix: 1376654998.0
+:DateShort: 2013-Aug-16
+:END:
+
+
+** [[http://www.reddit.com/r/HPfanfiction/comments/qyump/fanfiction_archives_forums_and_sites/][Fanfiction Archives]]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1376576721.0
+:DateShort: 2013-Aug-15
+:END:

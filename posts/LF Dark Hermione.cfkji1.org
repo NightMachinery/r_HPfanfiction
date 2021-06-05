@@ -1,0 +1,334 @@
+#+TITLE: LF Dark Hermione
+
+* LF Dark Hermione
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 10
+:DateUnix: 1563619721.0
+:DateShort: 2019-Jul-20
+:FlairText: Request
+:END:
+Edit: Already read
+
+Applied Cultural Anthropology
+
+Demonologist
+
+Rise of the Dark Lady Hermione (adopted)
+
+Lord Hermione?
+
+Divided and Entwined (not really dark but brutal)
+
+Adorable Violence
+
+Edit 2:
+
+Coven
+
+
+** Linking all the stuff in your post for convenience, assuming they're all on FFN. For any that aren't, the bot will probably reply with a fic with a similar title that is not the correct one, so keep that in mind.
+
+linkffn(Applied Cultural Anthropology; Demonologist; Rise of the Dark Lady Hermione (adopted; Lord Hermione?; Divided and Entwined; Adorable Violence)
+
+Edit2: Should be fixed now.
+:PROPERTIES:
+:Author: EpicDaNoob
+:Score: 4
+:DateUnix: 1563654946.0
+:DateShort: 2019-Jul-21
+:END:
+
+*** maybe the ) in the third fic name caused the bot to finish the list, paranthesis mismatch
+
+[[/u/tusing][u/tusing]] fixing this might be difficult since nothing stops fics from having mismatched parantheses, a fic called ")))" could exist but would be impossible to link. Maybe use optional JSON so that the correct linking would be linkffn(")))";fic2;fic3) instead of linkffn()));fic2;fic3) for fics that wouldn't be linkable otherwise, and fics with quotation marks and paratheses in the title would have to be escaped: 'A "nice" day (NOT)' would be linked with linkffn("A \"nice\" day (NOT)";fic2;fic3).
+
+Semicolons in the title are actually impossible on ffn, just tested it. It is possible on ao3 though.
+
+linkao3(Test; ("Special chars")) doesn't work, linkao3("Test; (\"Special chars\")";fic2;fic3) might be possible if my suggestion is implemented.
+
+Test fic: [[https://archiveofourown.org/works/19888996]]
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 2
+:DateUnix: 1563661230.0
+:DateShort: 2019-Jul-21
+:END:
+
+**** Oh right, how silly of me. Bracket mismatch... Ah well. I can at least fix it now, I'll just remove the closing bracket and hope that's enough for the bot to link the rest.
+:PROPERTIES:
+:Author: EpicDaNoob
+:Score: 1
+:DateUnix: 1563672900.0
+:DateShort: 2019-Jul-21
+:END:
+
+
+*** ffnbot!refresh
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 1
+:DateUnix: 1563661181.0
+:DateShort: 2019-Jul-21
+:END:
+
+
+*** ffnbot!refresh
+:PROPERTIES:
+:Author: EpicDaNoob
+:Score: 1
+:DateUnix: 1563672943.0
+:DateShort: 2019-Jul-21
+:END:
+
+
+*** [[https://www.fanfiction.net/s/9238861/1/][*/Applied Cultural Anthropology, or/*]] by [[https://www.fanfiction.net/u/2675402/jacobk][/jacobk/]]
+
+#+begin_quote
+  ... How I Learned to Stop Worrying and Love the Cruciatus. Albus Dumbledore always worried about the parallels between Harry Potter and Tom Riddle. But let's be honest, Harry never really had the drive to be the next dark lord. Of course, things may have turned out quite differently if one of the other muggle-raised Gryffindors wound up in Slytherin instead.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{19} ^{*|*} ^{/Words/:} ^{168,240} ^{*|*} ^{/Reviews/:} ^{3,341} ^{*|*} ^{/Favs/:} ^{5,969} ^{*|*} ^{/Follows/:} ^{7,518} ^{*|*} ^{/Updated/:} ^{8/31/2017} ^{*|*} ^{/Published/:} ^{4/26/2013} ^{*|*} ^{/id/:} ^{9238861} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure} ^{*|*} ^{/Characters/:} ^{Hermione} ^{G.,} ^{Severus} ^{S.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9238861&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9238861&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[https://www.fanfiction.net/s/12614436/1/][*/Hermione Granger, Demonologist/*]] by [[https://www.fanfiction.net/u/6872861/BrilliantLady][/BrilliantLady/]]
+
+#+begin_quote
+  Hermione was eight when she summoned her first demon. She was lonely. He asked what she wanted, and she said a friend to have tea parties with. It confused him a lot. But that wasn't going to stop him from striking a promising deal with the young witch. Dark!Hermione, Slytherin!Hermione, occult theme. Complete.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{11} ^{*|*} ^{/Words/:} ^{50,955} ^{*|*} ^{/Reviews/:} ^{1,081} ^{*|*} ^{/Favs/:} ^{3,321} ^{*|*} ^{/Follows/:} ^{2,039} ^{*|*} ^{/Updated/:} ^{10/19/2017} ^{*|*} ^{/Published/:} ^{8/14/2017} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{12614436} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Fantasy/Supernatural} ^{*|*} ^{/Characters/:} ^{Hermione} ^{G.,} ^{Theodore} ^{N.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12614436&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12614436&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[https://www.fanfiction.net/s/11774986/1/][*/Rise of the Dark Lady Hermione (adopted)/*]] by [[https://www.fanfiction.net/u/2198557/dunuelos][/dunuelos/]]
+
+#+begin_quote
+  This is a mix of genres, first and foremost it is a 'Fix It' story. There are also hints of 'Muggles do it better', and more than a little crack, with the BDA being one of the most feared organizations on the planet, along with a bit of fun with Tom Riddle's 'You Know Who' pseudonym. Clell62619 started it. I'm adding to it. I've taken it as far as I can. Feel free to write a sequel
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{20} ^{*|*} ^{/Words/:} ^{49,636} ^{*|*} ^{/Reviews/:} ^{482} ^{*|*} ^{/Favs/:} ^{931} ^{*|*} ^{/Follows/:} ^{907} ^{*|*} ^{/Updated/:} ^{9/6/2016} ^{*|*} ^{/Published/:} ^{2/6/2016} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{11774986} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Humor/Parody} ^{*|*} ^{/Characters/:} ^{Hermione} ^{G.,} ^{Susan} ^{B.,} ^{Dr.} ^{Granger} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11774986&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11774986&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[https://www.fanfiction.net/s/12548804/1/][*/Lord Hermione?/*]] by [[https://www.fanfiction.net/u/8427977/ALRYM][/ALRYM/]]
+
+#+begin_quote
+  There was no troll in the girls bathroom in 1991. Hermione found no friends that night. Therefore the brightest witch of her age is on a perilous path. Because with magic it is so very true that knowledge is power. But is it also true that power corrupts? Will the only daughter of two dentists become the third Dark Lord that rises in Dumbledore's lifetime?
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{30} ^{*|*} ^{/Words/:} ^{114,547} ^{*|*} ^{/Reviews/:} ^{825} ^{*|*} ^{/Favs/:} ^{1,424} ^{*|*} ^{/Follows/:} ^{2,371} ^{*|*} ^{/Updated/:} ^{6/21} ^{*|*} ^{/Published/:} ^{6/27/2017} ^{*|*} ^{/id/:} ^{12548804} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Romance} ^{*|*} ^{/Characters/:} ^{<Harry} ^{P.,} ^{Hermione} ^{G.>} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12548804&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12548804&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[https://www.fanfiction.net/s/11910994/1/][*/Divided and Entwined/*]] by [[https://www.fanfiction.net/u/2548648/Starfox5][/Starfox5/]]
+
+#+begin_quote
+  AU. Fudge doesn't try to ignore Voldemort's return at the end of the 4th Year. Instead, influenced by Malfoy, he tries to appease the Dark Lord. Many think that the rights of the muggleborns are a small price to pay to avoid a bloody war. Hermione Granger and the other muggleborns disagree. Vehemently.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{67} ^{*|*} ^{/Words/:} ^{643,288} ^{*|*} ^{/Reviews/:} ^{1,825} ^{*|*} ^{/Favs/:} ^{1,356} ^{*|*} ^{/Follows/:} ^{1,360} ^{*|*} ^{/Updated/:} ^{7/29/2017} ^{*|*} ^{/Published/:} ^{4/23/2016} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{11910994} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure} ^{*|*} ^{/Characters/:} ^{<Ron} ^{W.,} ^{Hermione} ^{G.>} ^{Harry} ^{P.,} ^{Albus} ^{D.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11910994&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11910994&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[https://www.fanfiction.net/s/11388837/1/][*/Adorable Violence/*]] by [[https://www.fanfiction.net/u/894440/Cloud-Zen][/Cloud Zen/]]
+
+#+begin_quote
+  Hermione loves her books. Hermione loves her Harry. Get between Hermione and either at your own peril. Series of connected one-shots.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{31} ^{*|*} ^{/Words/:} ^{41,182} ^{*|*} ^{/Reviews/:} ^{1,227} ^{*|*} ^{/Favs/:} ^{2,963} ^{*|*} ^{/Follows/:} ^{2,518} ^{*|*} ^{/Updated/:} ^{8/18/2015} ^{*|*} ^{/Published/:} ^{7/18/2015} ^{*|*} ^{/id/:} ^{11388837} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Humor} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Hermione} ^{G.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11388837&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11388837&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1563672976.0
+:DateShort: 2019-Jul-21
+:END:
+
+
+** [[https://archiveofourown.org/works/3459731][The Two Body Problem]] - canon divergence where Hermione gets Riddle's diary in second year, gen, 25k words. (It is locked to AO3 members only, but if you need an invite PM me.)
+:PROPERTIES:
+:Author: siderumincaelo
+:Score: 2
+:DateUnix: 1563635097.0
+:DateShort: 2019-Jul-20
+:END:
+
+
+** Fanirction.net New Blood.
+
+Hermione is slytherin, and literally all i ever imagined her to be. Amazing fanfiction.
+:PROPERTIES:
+:Author: VoldyLikesGuacamole
+:Score: 2
+:DateUnix: 1563663490.0
+:DateShort: 2019-Jul-21
+:END:
+
+*** Linkffn(New Blood)
+:PROPERTIES:
+:Author: jhsriddle
+:Score: 2
+:DateUnix: 1563717709.0
+:DateShort: 2019-Jul-21
+:END:
+
+**** [[https://www.fanfiction.net/s/13051824/1/][*/New Blood/*]] by [[https://www.fanfiction.net/u/494464/artemisgirl][/artemisgirl/]]
+
+#+begin_quote
+  Sorted into Slytherin with the whisper of prophecy around her, Hermione refuses to bow down to the blood prejudices that poison the wizarding world. Carving her own path forward, Hermione chooses to make her own destiny, not as a Muggleborn, a halfblood, or as a pureblood... but as a New Blood, and everything the mysterious term means. ((Short chapters, done scene by scene))
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{80} ^{*|*} ^{/Words/:} ^{149,575} ^{*|*} ^{/Reviews/:} ^{5,005} ^{*|*} ^{/Favs/:} ^{1,940} ^{*|*} ^{/Follows/:} ^{2,906} ^{*|*} ^{/Updated/:} ^{7/5} ^{*|*} ^{/Published/:} ^{8/31/2018} ^{*|*} ^{/id/:} ^{13051824} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure/Romance} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Hermione} ^{G.,} ^{Draco} ^{M.,} ^{Blaise} ^{Z.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13051824&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13051824&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1563717727.0
+:DateShort: 2019-Jul-21
+:END:
+
+
+** Coven by Naidhe. It's slow descent, and features some other characters too (more specifically Pansy), but it's damn good so far.
+
+Edit: linkffn([[https://www.fanfiction.net/s/12574292/1/Coven]])
+:PROPERTIES:
+:Author: fenrisulphur
+:Score: 2
+:DateUnix: 1563656866.0
+:DateShort: 2019-Jul-21
+:END:
+
+*** Already read it, just forgot to put it on the list
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 1
+:DateUnix: 1563656958.0
+:DateShort: 2019-Jul-21
+:END:
+
+
+** Linkffn(Pygmalion) by colubrina is one of my favs. I think she may also have one or two others that features a darker Hermione
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1563701902.0
+:DateShort: 2019-Jul-21
+:END:
+
+*** [[https://www.fanfiction.net/s/11248015/1/][*/Pygmalion/*]] by [[https://www.fanfiction.net/u/4314892/Colubrina][/Colubrina/]]
+
+#+begin_quote
+  When Tom Riddle walked through a doorway one fall afternoon everything changed and he found himself in a world wholly unprepared for him. "Something about you makes my brain itch," Hermione Granger said. "As if an earthquake had shifted everything sharply two feet to the left and then back again and it didn't all fit back quite right." Tomione. AU. COMPLETE.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{57} ^{*|*} ^{/Words/:} ^{178,316} ^{*|*} ^{/Reviews/:} ^{6,445} ^{*|*} ^{/Favs/:} ^{4,308} ^{*|*} ^{/Follows/:} ^{3,384} ^{*|*} ^{/Updated/:} ^{11/26/2016} ^{*|*} ^{/Published/:} ^{5/14/2015} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{11248015} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Romance} ^{*|*} ^{/Characters/:} ^{<Tom} ^{R.} ^{Jr.,} ^{Hermione} ^{G.>} ^{Draco} ^{M.,} ^{Theodore} ^{N.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11248015&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11248015&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 0
+:DateUnix: 1563701924.0
+:DateShort: 2019-Jul-21
+:END:
+
+
+** linkffn(Hermione Granger, Demonologist).
+
+Obviously.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 2
+:DateUnix: 1563620417.0
+:DateShort: 2019-Jul-20
+:END:
+
+*** [[https://www.fanfiction.net/s/12614436/1/][*/Hermione Granger, Demonologist/*]] by [[https://www.fanfiction.net/u/6872861/BrilliantLady][/BrilliantLady/]]
+
+#+begin_quote
+  Hermione was eight when she summoned her first demon. She was lonely. He asked what she wanted, and she said a friend to have tea parties with. It confused him a lot. But that wasn't going to stop him from striking a promising deal with the young witch. Dark!Hermione, Slytherin!Hermione, occult theme. Complete.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{11} ^{*|*} ^{/Words/:} ^{50,955} ^{*|*} ^{/Reviews/:} ^{1,081} ^{*|*} ^{/Favs/:} ^{3,321} ^{*|*} ^{/Follows/:} ^{2,039} ^{*|*} ^{/Updated/:} ^{10/19/2017} ^{*|*} ^{/Published/:} ^{8/14/2017} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{12614436} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Fantasy/Supernatural} ^{*|*} ^{/Characters/:} ^{Hermione} ^{G.,} ^{Theodore} ^{N.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12614436&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12614436&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1563620434.0
+:DateShort: 2019-Jul-20
+:END:
+
+
+*** They literally said that they already read that
+:PROPERTIES:
+:Author: TheSpicyTriangle
+:Score: 1
+:DateUnix: 1566398491.0
+:DateShort: 2019-Aug-21
+:END:
+
+
+** Applied cultural anthropology is unfinished but up to y3 I think and really fun anyway.
+
+/linkffn([[https://m.fanfiction.net/s/9238861/1/Applied-Cultural-Anthropology-or]])
+:PROPERTIES:
+:Author: yazzledore
+:Score: -2
+:DateUnix: 1563622095.0
+:DateShort: 2019-Jul-20
+:END:
+
+*** [[https://www.fanfiction.net/s/9238861/1/][*/Applied Cultural Anthropology, or/*]] by [[https://www.fanfiction.net/u/2675402/jacobk][/jacobk/]]
+
+#+begin_quote
+  ... How I Learned to Stop Worrying and Love the Cruciatus. Albus Dumbledore always worried about the parallels between Harry Potter and Tom Riddle. But let's be honest, Harry never really had the drive to be the next dark lord. Of course, things may have turned out quite differently if one of the other muggle-raised Gryffindors wound up in Slytherin instead.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{19} ^{*|*} ^{/Words/:} ^{168,240} ^{*|*} ^{/Reviews/:} ^{3,341} ^{*|*} ^{/Favs/:} ^{5,969} ^{*|*} ^{/Follows/:} ^{7,518} ^{*|*} ^{/Updated/:} ^{8/31/2017} ^{*|*} ^{/Published/:} ^{4/26/2013} ^{*|*} ^{/id/:} ^{9238861} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure} ^{*|*} ^{/Characters/:} ^{Hermione} ^{G.,} ^{Severus} ^{S.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9238861&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9238861&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1563622115.0
+:DateShort: 2019-Jul-20
+:END:
+
+
+*** They literally said that they had already read that.
+:PROPERTIES:
+:Author: TheSpicyTriangle
+:Score: 1
+:DateUnix: 1566398454.0
+:DateShort: 2019-Aug-21
+:END:
+
+**** They literally said "edit" and I replied before that. Good look to show up to the party 30 days late and then act like an asshole.
+:PROPERTIES:
+:Author: yazzledore
+:Score: 1
+:DateUnix: 1566446813.0
+:DateShort: 2019-Aug-22
+:END:
+
+***** I'm so sorry, i didn't realise.
+:PROPERTIES:
+:Author: TheSpicyTriangle
+:Score: 1
+:DateUnix: 1566519645.0
+:DateShort: 2019-Aug-23
+:END:

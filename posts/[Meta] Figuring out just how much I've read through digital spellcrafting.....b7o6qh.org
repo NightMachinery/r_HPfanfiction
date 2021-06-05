@@ -1,0 +1,505 @@
+#+TITLE: [Meta] Figuring out just how much I've read through digital spellcrafting....
+
+* [Meta] Figuring out just how much I've read through digital spellcrafting....
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 24
+:DateUnix: 1554041673.0
+:DateShort: 2019-Mar-31
+:FlairText: Meta
+:END:
+So, for the past few months I've read a lot of fanfics on ffn and gave each story I finished a favorite.
+
+Today I took a look at my [[https://www.fanfiction.net/favorites/story.php]["favorite stories" page]] and noticed that there's a lot of fics there... 124 to be exact. So I tried to figure out the total word count.
+
+Unfortunately unlike the app the webpage doesn't display the word count of each fic in the list. But that doesn't stop me! One Ctrl-Shift-I and some applied modern runes (aka JavaScript) knowledge later, I managed to create a spell (aka AJAX function) that visits each link to each fic and fetches the word count.
+
+Here's the result:
+
+#+begin_example
+  var fics = new Array();
+  for(i=0;i<document.getElementById("gui_table1i").getElementsByTagName("tr").length;i++) {
+      if(document.getElementById("gui_table1i").getElementsByTagName("tr")[i].getElementsByTagName("a").length>0)  {
+          var xhttp = new XMLHttpRequest();
+          xhttp.onreadystatechange = function() {
+              if (this.readyState == 4 && this.status == 200) {
+                  fics.push({
+                      link:this.responseURL,
+                      name:this.responseText.slice(this.responseText.search("profile_top"),-1).slice(this.responseText.slice(this.responseText.search("profile_top"),-1).search("xcontrast_txt")+15,-1).split("</b>")[0],
+                      words:parseInt(this.responseText.slice(this.responseText.search("Words:")+7,-1).split(" - ")[0].replace(",",""))
+                  });
+              }
+          };
+          xhttp.open("GET", document.getElementById("gui_table1i").getElementsByTagName("tr")[i].getElementsByTagName("a")[0].href, true);
+          xhttp.send();
+      }
+  }
+#+end_example
+
+Running this in the JS Console on the favorites page gives you an array called fics listing each entry in the list, its link, name and length. After that it's just a short snippet that adds up the word counts:
+
+#+begin_example
+  wordcount = 0;
+  for(n=0;n<fics.length;n++) {
+      wordcount+=fics[n].words;
+  }
+  console.log(wordcount);
+#+end_example
+
+And I get the result of a total of over 13 million words across all the 124 fanfics that I've read! That's about 85k words per day since I started using ffn last fall. Feel free to use my code to find out your total wordcounts.
+
+
+** Here's my total list extracted from the fics array:
+
+The Accidental Animagus
+
+The Arithmancer
+
+Intensity
+
+Annals of Arithmancy
+
+A Black Comedy
+
+The World of The Accidental Animagus
+
+Animagus at War
+
+Lady Archimedes
+
+I've Always Wanted to Use that Spell
+
+You Did What!
+
+The Untitled Cheekquel Project
+
+Where in the World is Harry Potter?
+
+Inspected By No 13
+
+Innocent
+
+Initiate
+
+Identity
+
+Impose
+
+Harry Potter and the Unforgivable Tournament
+
+Hermione Granger and the Perfectly Reasonable Explanation
+
+Seventh Horcrux
+
+The Dark Lord Never Died
+
+Harry Potter and the Deus Ex Machina
+
+Harry the Hufflepuff
+
+The Parselmouth of Gryffindor
+
+Tom Riddle and the Fate Worse Than Death
+
+Harry Potter McGonagall
+
+The Sniper
+
+Petrification Proliferation
+
+Out of Bounds
+
+The many Deaths of Harry Potter
+
+Hagrid Ruins Everything
+
+Hermione Granger, Dermatologist
+
+So How Can I Weaponize This?
+
+Dementor Dave's Job Hunt
+
+A Little Child Shall Lead Them
+
+Two Things
+
+Hermione Granger and the Marriage Law Revolution
+
+Prologue to a Revolution
+
+When In Doubt, Obliviate
+
+The Power He Knew Not
+
+The Green Girl
+
+Common Sense
+
+3 Slytherin Marauders
+
+Harry Runs Into An Old Muggle Classmate
+
+Harry the Hufflepuff 2
+
+Harry the Hufflepuff 3 - Harry's Year off
+
+Luna's Hubby
+
+Harry McGonagall
+
+Trolling the Toad
+
+Old Soldiers Never Die
+
+If Looks Could Kill
+
+The Perils of Innocence
+
+Realignment
+
+Compound Interest
+
+Harry Potter and the Rune Stone Path
+
+Tom Riddle and the Goblet of Fire
+
+Gamp's Finest Blend of Pretend
+
+Harry Potter and the Invincible TechnoMage
+
+Runic Animagi
+
+Raptor
+
+Just a Random Tuesday...
+
+All The Dementors of Azkaban
+
+Hermione Granger, Demonologist
+
+Ouroboros
+
+Ronald Weasley vs The Sorting Hat
+
+A Moment of Choice
+
+The Very Best
+
+Escapologist Harry
+
+Honestly, Harry!
+
+Reformed, Returned and Really Trying
+
+You're my Density
+
+The Handbook of Elf Psychology
+
+Fantastic Elves and Where to Find Them
+
+I have an Idea, Harry
+
+The Evil Overlord List
+
+Luna Lovegood and the Dark Lord's Diary
+
+Divided and Entwined
+
+We are the Golden Trio!
+
+For Love of Magic
+
+Harry Potter and the Champion's Champion
+
+Daphne Greengrass and the Importance of Intent
+
+What Was Your Plan?
+
+Applied Cultural Anthropology, or
+
+The Power The Dark Lord Knows Of
+
+The Daring Win
+
+This Tournament Needs Better Security
+
+Perfectly Abnormal
+
+Wish Carefully
+
+So Sue Me
+
+The Lightsaber
+
+Poison Pen
+
+Dear Order
+
+Dark Lord Herod
+
+Secret potions club
+
+The Birth of Evil
+
+Albus Dumbledore, Accelerationist
+
+Harry Potter, Magic Programmer
+
+Too Many Travellers
+
+Rise of the Dark Lady Hermione (adopted)
+
+Patron
+
+How Lucius Malfoy Accidentally Destroyed the World
+
+The Many Harry Potters of Little Hangleton
+
+Those Times When You Just Thought 'Huh'
+
+Roadkill
+
+Yes, I am Harry's Brother
+
+On My Life and Magic
+
+Lets do the Time Warp Again
+
+Petunia Evans, Tomb Raider
+
+The Mind Arts
+
+Ground Hog Day
+
+Black Vengeance
+
+Always Read the Fine Print
+
+Blindness
+
+The Chronicles of the Dark Lord Ginnymort
+
+Harry Potter and The Trademark Dispute
+
+Harry Potter and the Power of Paranoia
+
+Blitz
+
+Almost a Squib
+
+Justice, Justice Shall You Pursue
+
+Pen Pals
+
+200 Things I'm Not Allowed to Do at Hogwarts
+
+Voldemort Gets Owned By a Muggle
+
+Adorable Violence
+
+When Hermione read Matilda
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 7
+:DateUnix: 1554042430.0
+:DateShort: 2019-Mar-31
+:END:
+
+
+** I am not used to js, (i know c/c++ for embedded firmware development) - how should i proceed to use your code?
+:PROPERTIES:
+:Author: masitech
+:Score: 4
+:DateUnix: 1554048018.0
+:DateShort: 2019-Mar-31
+:END:
+
+*** Just open the console in the browser on the ffn page and paste it in. Then run the second piece once the first one is done.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 3
+:DateUnix: 1554048135.0
+:DateShort: 2019-Mar-31
+:END:
+
+
+** Ooh, nice idea.
+
+Hm... this doesn't visit every page, does it? You'd have to do that manually.
+
+Luckily, there's an easier way :)
+
+If you head over to your profile page (=https://www.fanfiction.net/u/123456=), you'll find the full list of favourite stories, on one page. With word counts. From there this script will sum them:
+
+#+begin_example
+  Array.from(document.querySelectorAll('#fs .z-padtop2.xgray'))
+      .map(n => n.textContent.match(/Words:\s*([\d,]+)/)[1].replace(',', ''))
+      .reduce((acc, wc) => acc + +wc, 0)
+#+end_example
+
+Edit: Just for fun, here's one that works on the settings page, and also works on the Story Alerts page. Goes through all pages.
+
+#+begin_example
+  var parser = new DOMParser();
+
+  var lastPageA = Array.from(document.querySelectorAll('center > a')).find(a => a.textContent == 'Last');
+  var lastPage = 1;
+  if (lastPageA)
+      lastPage = lastPageA.href.match(/\p=(\d+)/)[1];
+
+  async function sumWords(dom) {
+      let currentPage = dom.querySelector('center > b').textContent;
+      console.log(`Processing page ${currentPage} of ${lastPage}`);
+
+      let words = await Array.from(dom.querySelectorAll('#gui_table1i > tbody > tr:not(:last-child) > td:first-child a'))
+          .map(a => a.href)
+          .map(async l => await fetch(l))
+          .map(async r => (await r).text())
+          .map(async h => parser.parseFromString(await h, 'text/html'))
+          .map(async d => (await d).querySelector('#profile_top .xgray.xcontrast_txt'))
+          .map(async n => (await n).textContent)
+          .map(async t => (await t).match(/Words:\s*([\d,]+)/)[1].replace(',', ''))
+          .reduce(async (acc, wc) => (await acc) + +(await wc), 0);
+
+      let nextA = Array.from(dom.querySelectorAll('center > a'))
+          .find(a => a.textContent === 'Next »')
+
+      if (nextA) {
+          let nextDom = parser.parseFromString(await (await fetch(nextA.href)).text(), 'text/html');
+          words += await sumWords(nextDom);
+      };
+
+      return words;
+  }
+
+  console.log(await sumWords(document));
+#+end_example
+
+Erm... if you're like me and have 40 pages of alerts, this can ... take a while. Apparently I have 106028641 words in alerts and 38071144 in favourites.
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 5
+:DateUnix: 1554078453.0
+:DateShort: 2019-Apr-01
+:END:
+
+*** And here's one that dumps the list of fics as a markdown-formatted list with links and author names (to paste on Reddit). No word-counting here to keep it fast.
+
+#+begin_example
+  var parser = new DOMParser();
+
+  var lastPageA = Array.from(document.querySelectorAll('center > a')).find(a => a.textContent == 'Last');
+  var lastPage = 1;
+  if (lastPageA)
+      lastPage = lastPageA.href.match(/\p=(\d+)/)[1];
+
+  async function listFics(dom) {
+      let currentPage = dom.querySelector('center > b').textContent;
+      console.log(`Processing page ${currentPage} of ${lastPage}`);
+
+      let fics = await Array.from(dom.querySelectorAll('#gui_table1i > tbody > tr:not(:last-child)'))
+          .map(r => {
+              let cols = Array.from(r.querySelectorAll('td > a'));
+              return {
+                  name: cols[0].textContent,
+                  url: cols[0].href,
+                  author: cols[1].textContent,
+                  authorUrl: cols[1].href
+              };
+          });
+
+      let nextA = Array.from(dom.querySelectorAll('center > a'))
+          .find(a => a.textContent === 'Next »')
+
+      if (nextA) {
+          let nextDom = parser.parseFromString(await (await fetch(nextA.href)).text(), 'text/html');
+          fics = fics.concat(await listFics(nextDom));
+      };
+
+      return fics;
+  }
+
+  var fics = (await listFics(document))
+      .map(f => `* [${f.name}](${f.url}) by [${f.author}](${f.authorUrl})`);
+
+  console.log(fics.join('\n'));
+#+end_example
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 1
+:DateUnix: 1554085405.0
+:DateShort: 2019-Apr-01
+:END:
+
+
+*** Thanks!
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 1
+:DateUnix: 1554110073.0
+:DateShort: 2019-Apr-01
+:END:
+
+
+** 70290473
+
+(read + want to read)
+
+313 books
+:PROPERTIES:
+:Author: masitech
+:Score: 2
+:DateUnix: 1554050354.0
+:DateShort: 2019-Mar-31
+:END:
+
+*** Woah 70M? I thought my 13M was a lot....
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 2
+:DateUnix: 1554050509.0
+:DateShort: 2019-Mar-31
+:END:
+
+**** It is over 1 year and i prob read about half of it.
+:PROPERTIES:
+:Author: masitech
+:Score: 2
+:DateUnix: 1554050987.0
+:DateShort: 2019-Mar-31
+:END:
+
+
+** So of the 353 stories I've favourited, they have a total of 19 972 709 words. I decided to go a bit further and get the total word count of all the fandoms I read, so of 813 fics, that led to a total of 45 681 467. Damn. its probably way more since there are so many fics that I haven't favourited.
+:PROPERTIES:
+:Author: AJ13071997
+:Score: 1
+:DateUnix: 1554074258.0
+:DateShort: 2019-Apr-01
+:END:
+
+
+** I got excited when I read "Digital Spellcrafting" because I'm a big fan of stories where they treat spellcrafting like a programming language. Then I noticed the [Meta] part xD
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1554088779.0
+:DateShort: 2019-Apr-01
+:END:
+
+
+** Bloody hell. Across all the different fandoms that I read I have 200+ million words in my list.
+:PROPERTIES:
+:Author: pqu
+:Score: 1
+:DateUnix: 1554116251.0
+:DateShort: 2019-Apr-01
+:END:
+
+
+** I think I had around fifty million words when I checked a couple years ago. The stories really stack up especially as I don't tend to read anything below 100K.
+:PROPERTIES:
+:Author: RisingEarth
+:Score: 1
+:DateUnix: 1554316913.0
+:DateShort: 2019-Apr-03
+:END:

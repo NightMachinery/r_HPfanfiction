@@ -1,0 +1,32 @@
+#+TITLE: A story that exists purely to set up a "segmentation fault (core dumped)"/magical cores pun at the end.
+
+* A story that exists purely to set up a "segmentation fault (core dumped)"/magical cores pun at the end.
+:PROPERTIES:
+:Author: Devil_May_Kare
+:Score: 21
+:DateUnix: 1615771612.0
+:DateShort: 2021-Mar-15
+:FlairText: Prompt
+:END:
+The error code "segmentation fault (core dumped)" means your program tried to access memory that it wasn't allowed to and crashed, and it saved a copy of its state at that moment so you can debug it if you want.
+
+I was thinking maybe Harry or Voldie tries to remember something from the other's life using their connection (memory they don't have permission to access), and their magical core dumps out its contents to stop and/or punish them.
+
+I know this is dumb. But dumb ideas can be painful or funny, and I'm hoping to get responses that are the funny kind.
+
+
+** "So Harry, your magical core is made up of blocks of memories. The risk with legillimancy is when you magical core attempts to access memories that don't exist. That's when... well no-one is exactly sure what happens. We just know it's bad."
+:PROPERTIES:
+:Author: HeirGaunt
+:Score: 8
+:DateUnix: 1615798972.0
+:DateShort: 2021-Mar-15
+:END:
+
+*** "For all I know, it might make demons fly out of your nose!"
+:PROPERTIES:
+:Author: Gurfaild
+:Score: 1
+:DateUnix: 1615843902.0
+:DateShort: 2021-Mar-16
+:END:

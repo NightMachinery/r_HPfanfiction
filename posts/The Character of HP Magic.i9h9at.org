@@ -1,0 +1,438 @@
+#+TITLE: The Character of HP Magic
+
+* The Character of HP Magic
+:PROPERTIES:
+:Author: Taure
+:Score: 193
+:DateUnix: 1597388364.0
+:DateShort: 2020-Aug-14
+:FlairText: Discussion
+:END:
+There are a lot of posts (many by me) concerning the /details/ of the HP magic system: how it works and the evidence for that.
+
+This post is different. The idea here is to discuss what we consider to be the essential /character/ of the HP magic system: what core characteristics makes magic feel HP-like, rather than magic which could have come from the fantasy genre more generally?
+
+*Costless utility*
+
+Above all else, for me the standout feature of HP magic is the fact that it permits you to do lots of very useful things without any cost. You can tidy and clean your house with a wave of a wand, you can travel the length of the country in a single moment, etc. Once mastered, all these things can be done as easily as breathing - you can do them all day, every day, without any loss or tiredness.
+
+This is key for three main reasons:
+
+Firstly, it's what enables wizarding society to function as we see it. HP wizarding society is based around magic taking the role which technology occupies in Muggle life, being used constantly for everyday tasks to improve quality of life, and progressing over time in this endeavour. This is only possible if magic can be cast constantly and casually, without regard for cost.
+
+Secondly, it's what distinguishes HP magic from so many other magic systems common in the fantasy genre, which are often obsessed with the /cost/ of doing magic. That obsession with cost often sucks the fun out of magic. This ties in to:
+
+Thirdly, the costless utility of magic is the key factor in the "I wish I was a wizard" aspect of HP magic. The longing to receive a Hogwarts letter, felt by every reader, is based principally around the fact that HP magic is so /useful/. We can all see how it would improve our day-to-day lives if we had access to it. It's a lot harder to see how your day-to-day life would be improved if you had the powers of Gandalf (rarely used, largely spiritual powers) or Kaladin (combat-focused powers).
+
+*Whimsy*
+
+The HP magic system works whimsically. That word doesn't quite fully capture what I'm aiming at here, but I'll try to explain it.
+
+Firstly, HP magic normalises the mystical and makes it everyday. Beyond the way that spells penetrate every aspect of life, the best illustration of this is the treatment of magical creatures. HP takes mythological creatures like Pegasus, a demi-god flying horse of heroic stature, and turns them into a species of magical creature - fundamentally just an animal. Abraxans are not so different from horses, and are treated in the same domestic way that humans treat animals - they just so happen to have extraordinary properties like massive size and surviving on a diet of single-malt whiskey. But wizards treat those extraordinary properties as unextraordinary, and that feeds in to the feeling of whimsy in the system.
+
+Secondly, magic takes strange factors into account (or at least, factors which seem strange from a scientific perspective).
+
+Transfiguration is a good example here. Students transfigure animals without studying any biology, but we see them transfiguring tortoise into teapots, beetles into buttons, bunnies into fluffy slippers, hedgehogs into pincushions, etc. All of these examples are suggestive. They all point to a thing's superficial features such as size, shape, tactile sensation, colour etc. being relevant to the ease or difficulty of a transfiguration, a magic which alters a thing's fundamental physical composition. It is notable that a tortoise shell and the ceramic of a teapot are of entirely different composition, but apparently the fact that they look and feel similar is enough to render it a relatively easy transfiguration suitable for a classroom "proof of principle" exercise.
+
+Another example of this is the use of the Freezing Charm. We see this used in CoS to physically freeze pixies - prevent them from moving. We also see it in HBP to prevent an electronic alarm from going off. There's no common physical mechanism between these two uses of the Freezing Charm. Rather, what is common between them is that people conceptualise the two actions as having a common feature - the prevention of a thing occurring. This is a good example of how spells operate not through physical mechanisms, but based on ideas and conceptualisations, and that is a major factor in creating a feeling of whimsical magic.
+
+Thirdly and finally, there is a lack of reverence to HP magic. It's used for jokes, it's used to complete chores, it's used as medicine and to travel etc. All this is a stark contrast to magic systems where magic is to be revered, respected, or preserved, or even has a spiritual element to it (e.g. LotR, Star Wars).
+
+*Intellectual merit*
+
+Wizards in HP don't /train/; they /study/. Mastery of HP magic is principally an intellectual exercise, with students undertaking seven years of formal schooling to qualify.
+
+Further, most of that schooling is academic rather than practical in nature - a student's main activity is learning the theory behind how magic works: reading books, writing essays, and so on, with all the most accomplished wizards also being noted for their academic and intellectual prowess. Students don't even cast their first spell until after several months of study; Harry read three books just detailing how the Stunning Charm works, etc.
+
+All this study of complex theory gives HP magic an air of intellectual merit, with characters like Dumbledore and Voldemort presenting as the intellectual equal of any Muggle genius scientist (albeit with a more scholarly rather than scientific worldview).
+
+It is the difficulty of mastery which tempers the costless utility of magic and whimsy of HP magic. If every wizard could use whimsical, costless magic to its fullest extent, HP society would be a society of living gods. But because of the difficulty of the intellectual exercise of mastering magic, we see a society where scarcity and inequality are still very much alive.
+
+*Physicality*
+
+For all its whimsy and utility, HP magic is also rather physical. This comes in two forms.
+
+Firstly, HP magic is physical in its mode of casting. Wizards use physical wands. They make physical movements. They utter audible incantations. They use enchanted objects like cloaks, bags, tents, maps, deluminators, watches, etc. They tell the future with tea leaves and crystal balls.
+
+There is very little magic in HP which is cast without any kind of physical tool, and very little magic which is cast purely through mental effort - and when a wizard can do this, it's a sign of a very high level of ability.
+
+Secondly, HP magic is physical in its effect. When wizards want to warm a place, they conjure fire, not use a Warming Charm. When they want to light a room, again they generally use fire, not Lumos. When they want to check the time, they look at a (magical) clock, not a Time-Telling Charm. When they want to write, they use a (magical) quill, not a Writing Charm. When you want to chop a potato, you enchant a physical knife to cut the potato up, you don't cast a Cutting Charm. And so on. During everyday domestic life, magic is almost always used to achieve a goal indirectly, through a physical medium. This keeps the tone of the magic system grounded and prevents it from feeling like too much of a sci-fi universe.
+
+
+** *Scale and Power*
+
+Magic, without a doubt, is powerful. Shooting stars are created, matter is conjured, houses are hidden from existence. At the same time, it also operates on a small scale. Combat is done at relatively middling ranges. Duels are done with enchanted statues, conjured daggers, and spells. This is explained by the fact that magic overrides the mundane. For all magic's power over the mundane, magic's own rules create a scale that is more entertaining than other scales through limits.
+
+Compare this to sci-fi or other fantasy. You often have inconsistencies between power and scale. Take Butcher's Alera. You have magic users capable of only running quickly on roads and magic users capable of leveling entire cities. Yet combat ends up on the small-scale. Though the high lords of the story can fill a battlefield with flame, they end up dying from close-range stabs. Or take your standard sci-fi story. You have weapons that can level planets and yet combat ends with boarding spacecraft. This is inconsistent within the story's own guidelines. In Harry Potter, magic is powerful so it's something the reader wants, but the scale is also entertaining.
+:PROPERTIES:
+:Author: Impossible-Poetry
+:Score: 69
+:DateUnix: 1597389428.0
+:DateShort: 2020-Aug-14
+:END:
+
+*** Top quality addition.
+
+Of course, there are a couple of scale-breaking items within the HP universe:
+
+- Diggle's shooting stars involve rather larger scales/distances than HP magic is commonly depicted as using.
+
+- The Fidelius appears to remove information from the entire universe.
+
+- The Taboo appears to take effect at the very least on a national scale.
+
+- The Trace also appears to have a national scale, though how that operates isn't entirely clear (is the Trace one spell, or a collection of many different spells?).
+
+- In GoF, Hermione states that distance is irrelevant to the summoning charm, with only your level of concentration on the object determining success or failure. In HBP, Dumbledore summons mead from Hogwarts to Privet Drive in an instant.
+
+- Also in HBP, Dumbledore banishes Harry's trunk from Privet Drive to the Burrow, making it appear half way across the country.
+
+- Fiendfyre can get very large.
+
+- If you take the FB movies as canon, Dumbledore casts a fog over a large part of London, and Grindelwald's /Protego Diabolica/ had the potential to destroy all of Paris.
+
+However, I agree that these should be treated as exceptions to the rule.
+
+In many cases, such as the Taboo and the Fidelius, it is easy to see how they operate as exceptions: they are cast on an abstract concept (a word/a secret) and therefore it's not that they have a very large scale, but rather it's that they have no physical scale at all: they act directly on information.
+
+Some of them present more difficulty to reconcile, however, such as Dumbledore's long-distance summoning/banishing.
+:PROPERTIES:
+:Author: Taure
+:Score: 47
+:DateUnix: 1597390084.0
+:DateShort: 2020-Aug-14
+:END:
+
+**** Oh... Wow. I never thought of it in that way. Usually I just skim past it.
+:PROPERTIES:
+:Author: Amazinguineapig
+:Score: 16
+:DateUnix: 1597392689.0
+:DateShort: 2020-Aug-14
+:END:
+
+
+**** Remember that their combat spells are almost exclusively single-target. Wizards don't explode armies en-masse, they shoot their spells at their opponents one at a time and defend against incoming spells just as individually. Even when they do are effects the ones used in combat tend to be far less impressive than the ones out of combat.
+:PROPERTIES:
+:Author: Krististrasza
+:Score: 16
+:DateUnix: 1597412156.0
+:DateShort: 2020-Aug-14
+:END:
+
+***** I think this comes back to the power/scale point. It's natural as Muggles for us to associate scale and power, because that's how physics works: bigger effect requires more energy. But that's not the HP system:
+
+#+begin_quote
+  He had never seen a wizard work things out like this, simply by looking and touching; but Harry had long since learned that bangs and smoke were more often the marks of ineptitude than expertise.
+#+end_quote
+
+Bigger is not always better in the wizarding world. If you conjure 10 square meters of fire, is this more dangerous to a wizard than 5 square meters of fire? It doesn't seem like it would make much of a difference. In a duel, the only magic which is relevant is the magic you can bring directly to bear on your opponent, and a single spell will do this just as effectively (maybe more so) than an "area effect" spell.
+
+On the other hand, when wizards confront non-wizard opponents, area of effect spells seem the way to go: see Dumbledore conjuring a firestorm against the inferi in HBP. He's facing many opponents, each of whom is defenseless against fire, so conjuring a fuck ton of fire is the best move. But if he did the same thing against a room of Death Eaters, I suspect the Death Eaters would just shield/flame-freeze themselves and shrug it off. At the end of the day, it would still just be fire, no matter how much of it he conjured up.
+:PROPERTIES:
+:Author: Taure
+:Score: 34
+:DateUnix: 1597413076.0
+:DateShort: 2020-Aug-14
+:END:
+
+****** The issue at hand is that when it comes to fanfiction people start wanting larger-scale conflicts, where Harry fights multiple opponents at the same time, where Death Eaters and the Order of the Phoenix face off against each other as groups. And frankly, most authors' skills are not up to the task of handling HP magic in such a scenario. Then you get duel-duel-duel and as a reader you ask yourself -- Why doesn't someone just backstab this little idiot? -- or you get some ridiculous homebrew magic that has nothing to do with HP.
+:PROPERTIES:
+:Author: Krististrasza
+:Score: 10
+:DateUnix: 1597414211.0
+:DateShort: 2020-Aug-14
+:END:
+
+******* Well, there are spells which are suitable for fighting large numbers of wizards at once e.g. fiendfyre, Grindelwald's /Protego Diabolica/ in FB2. It's just that this type of magic is likely only open to top-flight wizards, and even then, there's only really a need to use them when confronted with multiple foes - there's no real reason to use them in e.g. a one-on-one Voldemort vs. Dumbledore duel.
+:PROPERTIES:
+:Author: Taure
+:Score: 14
+:DateUnix: 1597414844.0
+:DateShort: 2020-Aug-14
+:END:
+
+
+**** Other things that break the scale is the Felix Felicis potion, which literally manipulates probability in your favor. And the Reparo charm, at least as seen in the first FB movie, where the wizards managed to repair a lot of New York after it had been ruined, including half destroyed skyscrapers.
+:PROPERTIES:
+:Author: Caliburn0
+:Score: 7
+:DateUnix: 1597422870.0
+:DateShort: 2020-Aug-14
+:END:
+
+
+**** Just a minor note, it isn't specified where Dumbledore summons the mead from.
+
+#+begin_quote
+  “A third twitch of the wand, and a dusty bottle and five glasses appeared in midair. The bottle tipped and poured a generous measure of honey-colored liquid into each of the glasses, which then floated to each person in the room.
+
+  “Madam Rosmerta's finest oak-matured mead,” said Dumbledore, raising his glass to Harry, who caught hold of his own and sipped.”
+#+end_quote
+
+(HBP, ch. 3)
+
+there are a number of ways of resolving this within the typical bounds, I think. I like to imagine he's using some sort of egregiously overthought form of transfiguration to restore the set from a previously ‘vanished' one that he prepared beforehand as a way of amusing himself.
+:PROPERTIES:
+:Author: colorandtimbre
+:Score: 5
+:DateUnix: 1597468055.0
+:DateShort: 2020-Aug-15
+:END:
+
+
+**** The only thing I disagree is use of FB films: I like the first one for its pictures and the feel of magical roaring twenties with the magical jazz, but exactly its magic is I believe out of control (yes, fixing of broken skyscrapers). The second FB film is dead for me even as the film, so I don't consider it at all.
+:PROPERTIES:
+:Author: ceplma
+:Score: 4
+:DateUnix: 1597466241.0
+:DateShort: 2020-Aug-15
+:END:
+
+
+** The trait that I like best about HP is the flexibility of it: spells work conceptually and abstractly
+
+You mentioned how flexible the Freezing charm is. Or how you can Confund both an enchanted object or a person as well
+
+I especially love the idea behind the Shield charm.
+
+In a lot of magic system, there's a rank of how strong variations of spells are. Shield charm level 1, and if you master that you can move to Shield charm level 2, etc
+
+I rather like the idea of there being a universal Shield charm, and your skill and knowledge determining how useful it is
+
+Rather than learning hundreds of variations of the summoning charm, you instead learn THE Summoning charm and your skill determine what you can do with it
+
+Edit: another thing that adds to the HP feel is that complex magic can be done with short incantations. The spell needed for mind controlling an individual has a one word incantation for instance
+
+It's a movie thing, but I especially like how when Draco was fixing the cabinet he was using “Harmonia Nectere Passus”. Three words for what seems like a complex task. He spent a year trying to get that spell to work correctly on the enchanted cabinet. As he read and studied more, he got better at it.
+
+I imagine that complex magic like the Fidelius wouldn't have an incantation longer than 3 or 4 words at most.
+:PROPERTIES:
+:Author: gagasfsf
+:Score: 31
+:DateUnix: 1597391945.0
+:DateShort: 2020-Aug-14
+:END:
+
+
+** Taure, this is, as always with your posts, an excellent distillation of the unique aspects of HP magic.
+
+I think your second point, whimsy - and particularly the willing and nonchalant intersection of whimsy with the grotesque - is the most important in making the series' magic and storytelling work. Unlike most magic-heavy fantasy worlds, it's not bound by many rules, and the limits of it are never explained, yet we see it used so effortlessly and freely. HP would not be HP without such unexplainable concepts as Peeves, Borgin and Burkes, Bubble-Head Charms, Zonko's joke shop, the moving staircases with traps, Bertie Bott's beans, etc. For me this is why /HPMOR/ completely misses the point; magic is also humanistic, and is bound only by a vague picture of human interest. It's also interesting to see physicality as the limiting element here, because in many other fantasy works (e.g. the Jordan-Sanderson lineage) physicality is suspended for the sake of the magic, at the expense of costless utility and whimsy.
+
+For me the magic for HP also ties really well into the aesthetic of Italo Calvino's five memos for the new millennium; the overall lightness of the magic system and its nature, the quickness of spells relative to a mundane equivalent, the exactitude of each spell, the visibility of the magic in physical gesture, result, and beam; and the multiplicity of each wizard's ability to all different sorts of applications as opposed to the specificity we see with magic users in traditional fantasy.
+:PROPERTIES:
+:Author: francoisschubert
+:Score: 23
+:DateUnix: 1597391588.0
+:DateShort: 2020-Aug-14
+:END:
+
+
+** *Symbolic*
+
+HP magic is more than wand waving and brewing. Actions and words (and music) matter. The best example is Lily's sacrifice. There was no spell or ritual. She was simply given a choice and chose to die. The act; the sacrifice caused the spell to backfire.
+
+*Intent*
+
+It seems to have a sense of morality. Just using Dark Magic doesn't make one a Dark wizard, killing an innocent, pure thing like a unicorn seems to be something one cannot come back from. An example is Dumbledore's "You alone know whether it will harm your soul to save an innocent man from pain and humiliation."
+
+The purpose of a spell seems to determine how it's classified. You can slice someone open with the Severing Charm, but that appears to be a scissor replacement. In contrast, Sectumsempra is "for enemies." As such, the former is a charm while the latter is a curse.
+:PROPERTIES:
+:Author: Ash_Lestrange
+:Score: 38
+:DateUnix: 1597393227.0
+:DateShort: 2020-Aug-14
+:END:
+
+
+** To me, HP magic deals with immutable, true emotions and intentions. I don't know if this is what you were thinking of, but it's distinct in the works and stood out to me as a recent reader.
+
+I'm just thinking of the patronus being a true representation of happiness and goodness, requiring a happy memory. The soul fracturing from murder. Magic requiring formed thoughts and intents and emotions. For example, Crucio requiring an intent to harm, or the killing curse requiring intent to kill. Lily genuinely offering to die for Harry and saving his life because of that offering.
+
+It makes emotions feel important, objectively true, and have magical impact. It's almost a childlike exploration of emotion that feels vivid and wonderful.
+
+The works don't interrogate, for example, if your soul fractures from accidental manslaughter, or if your patronus can be formed using a happy memory that's despicable or morally complex. Regarding intent to kill for Avada Kedavera,we don't even get that clarity in real life when trying to ascertain intent to kill in cases of murder and manslaughter. But we got to see proof that Snape had true intent to kill Dumbledore, even if it was morally complex. This is one of the most morally complex assessments of magic and emotion in the series, I think. Harry Potter magic just accepts the objective truth of pure emotion and embodies them in a pure and magical way. I like that a lot. It's important. It allows for emotional journeys, internal experiences to manifest visibly. As someone with a complex internal life, it's touching to just see characters use a happy memory and know it's a happy memory, and for them to have proof of that, and for it to have magical importance and impact.
+:PROPERTIES:
+:Author: Bumblerina
+:Score: 19
+:DateUnix: 1597391502.0
+:DateShort: 2020-Aug-14
+:END:
+
+
+** I 100% agree with your points above, especially the points about the Whimsy and Utility of spells, they're quintessential elements of the first few books and is the biggest reason people are still invested in Harry Potter fanfiction. If I were to say what is the most important element to world building and how magic is characterised in Harry Potter it would have to be *Purpose*
+
+One of the things that is becoming more important the more I read HP fanfiction is that when a spell or new branch of magic is created/developed in a fic, it should be developed for a specific purpose / use-case and make sense within the constraints of HP magic and in-universe, have more possible use cases beyond the immediately obvious initial purpose, but not be too powerful that it overshadows all other pieces of magic. No piece of magic should be a catch-all solution for any issue a character faces in the story, nor should it be completely redundant and have no real purpose beyond filling the protagonists list of super powerful Gary Stu skills that never actually come up in the plot after first mention.
+
+As an example, compare the Slowing Charm (Arresto Momentum) against the Levitation Charm (Wingardium Leviosa). The Slowing Charm is useful when someone is falling from a great height and can be cast from a further distance than the immediate vicinity. However if the Levitation Charm could be cast on humans, why would anyone bother learning the Slowing Charm or Levicorpus, why learn household charms that do chores automatically or in general any charm that moves things around when the Levitation Charm could easily do the same thing. It breaks the importance of going to a magical school when one spell can do everything you need for classes for the next 7 years.
+
+Or take the unforgivable curses, These curses borderline skirt the line that would make them catch-all dark curses for any bad guy, however there are limitations to these curses, namely that they are generally single target curses that do not instantly travel to their targets, allowing for other curses such as Fiendfyre and the Dark Mark to cover bases that these curses don't, at the cost of losing efficiency at what they do. In comparison, when a fic author comes up with their "own" "super parseltongue dark curses^{tm"} where their only impact on the story to be better curses than , it makes me think "What is the point of introducing these curses over other canon dark curses and why wouldn't the villains be using these curses". If this ancient killing curse is so much more powerful than the current Killing Curse, why isn't Voldemort and every other Death Eater blasting everyone with this curse, as they would have ample more reason and ability to learn the curse than 15 year old Harry Potter who hasn't even graduated Hogwarts.
+
+At the end of the day, the magic of Harry Potter is in service to the world building not in spite of it. It can be quite frustrating to see authors try and introduce "magic nullification wards" as a method to introduce electronics and computers into Hogwarts (as it then becomes a story of how fast can we replace everything in Hogwarts with muggle concepts as quickly as possible while tearing out everything that makes Hogwarts unique). Or when an author starts using Unbreakable Vows, Veritaserum and Goblin Contracts (because that forces the story into a DMLE fixit story which gets boring fast).
+:PROPERTIES:
+:Author: RedBackSpider
+:Score: 8
+:DateUnix: 1597403854.0
+:DateShort: 2020-Aug-14
+:END:
+
+
+** u/blast_ended_sqrt:
+#+begin_quote
+  Secondly, HP magic is physical in its effect. When wizards want to warm a place, they conjure fire, not use a Warming Charm. When they want to light a room, again they generally use fire, not Lumos. When they want to check the time, they look at a (magical) clock, not a Time-Telling Charm. When they want to write, they use a (magical) quill, not a Writing Charm. When you want to chop a potato, you enchant a physical knife to cut the potato up, you don't cast a Cutting Charm. And so on. During everyday domestic life, magic is almost always used to achieve a goal indirectly, through a physical medium. This keeps the tone of the magic system grounded and prevents it from feeling like too much of a sci-fi universe.
+#+end_quote
+
+Lazily-designed fanon spells often remind me of lazily-designed Magic Items in tabletop RPGs - their entire purpose is to solve a particular problem, but as a result they have no character and no flavor. They also limit the storytelling - not only is there no way to use these spells creatively (or indeed to do /anything/ other than solve the problem they're designed to solve), but these spells rob the characters of agency by offering up their solutions /for/ them.
+
+If anyone here reads the LitRPG Worth the Candle, it reminds me of the MC's thoughts on designing entads (magic items):
+
+#+begin_quote
+  A problem-solving entad is one that simply solves a problem. The canonical example of this would be a vest you can put on that keeps you from overheating in the desert. It's useful, and it's not just increasing the power or utility that an object normally has, but it's lame. If a character were to go to an entadmonger looking for something to help her cross the desert, and I told the player that there was a vest of not-overheating, I would be ashamed of myself. Better a magical parasol that floats around and blocks the sun from reaching you, or an amulet that makes ice golems, or a brooch that collects and stores heat, or one of a billion other things that /don't/ simply exist to solve the problem that they're solving. For D&D, this was often a matter of flavoring: a /ring of water breathing/ just lets a character breathe while underwater, but you can modify it so that there's some actual mechanism to this, like filling your lungs with oxygen, which then has knock-on effects like also making you better at endurance checks. /Ring of filling your lungs with oxygen/ is way better than the /ring of water breathing/, not just mechanically for the player, but on a conceptual level.
+#+end_quote
+:PROPERTIES:
+:Author: blast_ended_sqrt
+:Score: 11
+:DateUnix: 1597414052.0
+:DateShort: 2020-Aug-14
+:END:
+
+
+** I'm interested in what makes someone a powerful wizard. Obviously academics play a role. Both Voldie and Dumbles are examples, but as Hermione said, there's more to being a great wizard than that. Part of it must be that he or she believes themselves to be great (see Neville Longbottom) but I think another component might be that others see them as great. Notice the emphasis Dumbledore put on not "fearing the name". Also his comment when he was going with Harry to the cave in HBP,
+
+#+begin_quote
+  "I am not worried, Harry," said Dumbledore, his voice a little stronger despite the freezing water. "I am with you"
+#+end_quote
+
+Is that him being cheeky? Or is that because Harry believes in him so much that he's literally safer.
+:PROPERTIES:
+:Author: myshittywriting
+:Score: 3
+:DateUnix: 1597426899.0
+:DateShort: 2020-Aug-14
+:END:
+
+*** Belief conferring "power" also fits with the "magic is about intent" themes that pop up through the book. Harry is always at his most powerful when he has people who believe in him, Hermione when he saves the stone, Ron and Ginny when he slays the Baslisk, and a whole crowd who just saw him rise from the dead whe he defeats Voldemort.
+:PROPERTIES:
+:Author: myshittywriting
+:Score: 3
+:DateUnix: 1597427283.0
+:DateShort: 2020-Aug-14
+:END:
+
+**** Maybe that was "the power he knows not". People believe good will triumph over evil, so Harry has the power to do so.
+:PROPERTIES:
+:Author: myshittywriting
+:Score: 2
+:DateUnix: 1597427439.0
+:DateShort: 2020-Aug-14
+:END:
+
+
+** I don't have much to say, but - what a brilliant post! As a writer of fantasy, it really made me think about magic systems and what makes them good/bad/interesting/boring. Thank you!
+:PROPERTIES:
+:Author: writeronthemoon
+:Score: 7
+:DateUnix: 1597415446.0
+:DateShort: 2020-Aug-14
+:END:
+
+
+** I love all thoughts in this thread tremendously. I have been planning (but not much more unfortunately) to write some kind of essay (or essay pretending to be record of Flitwick's lesson) on the nature of Dark magic, but I haven't got to it. My pet peeve how some people tend to consider it something good, but I would have to sit down on my behind and actually write something to explain myself.
+
+My idea is that the “normal” magic (/Lumos/, etc. ... most if not all spells taught at Hogwarts) are based on the power from the caster herself. It was the original magic discovered by the Neolithic people (think Stonehenge), who happily used this magic for their everyday lives and all was fine. However, then later somebody (probably some Celtic druids) discovered that one can harness power of somebody or something else, and that even more power can be obtained when you don't leave enough magic for the other to survive (e.g., human sacrifice). And that's the foundation of all Dark Magic, using power of somebody or something (animal, etc.) else.
+
+There is, not well studied (because nobody cares enough) the opposite Light Magic, which is not using your own native power, but willing to sacrifice oneself for others. And that is what Lily did when protecting Harry. However, as I said, it is very obscure and not much studied branch of magic, because of lack of interest.
+
+And it goes to rather deeper morale: either we are living for others (to serve them), or we are living for oneself (to be served). Think about the Kant's categorical imperative (“Act in such a way that you treat humanity, whether in your own person or in the person of any other, never merely as a means to an end, but always at the same time as an end.”), or Mark 3:9 (NET): “If anyone wants to be first, he must be last of all and servant of all.”.
+:PROPERTIES:
+:Author: ceplma
+:Score: 6
+:DateUnix: 1597406488.0
+:DateShort: 2020-Aug-14
+:END:
+
+*** That suggests an interesting concept: the unforgiveables working by forcing the victim's magic to do something (which would imply that even muggles and squibs have enough magic for some effect, otherwise you'd constantly have Death Eaters complaining about a Muggle-Who-Lived).
+
+- The killing curse convinces the victim's body/nervous system that they are dead.
+- The imperius can't make someone do something they aren't already capable of (for example, Neville wasn't /physically/ capable of gymnastics, but his magic compensated, similar to when he was dropped out a window).
+- The cruciatus forces the victims own nerves to over-react. As a corollary, the severity of the cruciatus would depend not on the /caster's/ magical power, but on the /victim's/.
+:PROPERTIES:
+:Author: PoliteSnark
+:Score: 2
+:DateUnix: 1597459477.0
+:DateShort: 2020-Aug-15
+:END:
+
+**** That could work, especially when you need the intent to do so in the first place. Your depiction of Cruciatus takes a darker meaning though if you remember the Longbottoms, who were Crucio'd to the point of insanity, which meant they were /that/ powerful enough to fry their brains.
+:PROPERTIES:
+:Author: RowanSkie
+:Score: 3
+:DateUnix: 1597460712.0
+:DateShort: 2020-Aug-15
+:END:
+
+
+**** u/ceplma:
+#+begin_quote
+  ... which would imply that even muggles and squibs have enough magic ...
+#+end_quote
+
+I would argue that there is some like vital force or vital magic which is contained in every human being and which enables us to live. That is actually part of magic I seriously believe in the real life. I am a father of two children, I was present at the birth of both, I was holding them shortly after they were born, and there is nothing in the world which persuades me that it wasn't miracle I have seen there. You can talk to me about the science and biology of childbirth until you are blue in your face, and yet I am persuaded that every female has something very magical/supernatural in herself to be able to create new life.
+
+Concerning Neville, I don't think his muscles, bones etc. were not capable of gymnastics, but as with all such thing it was the matter of his mind to coordinate all that. And of course, in case of /Imperio/ exactly his brain is what's switched off and replaced by the will of the caster.
+
+And I am not sure whether it is fanon or canon, but Longbottoms were claimed to be very strong wizard and witch (see Neville later, after all).
+:PROPERTIES:
+:Author: ceplma
+:Score: 3
+:DateUnix: 1597465404.0
+:DateShort: 2020-Aug-15
+:END:
+
+
+** Magic in other verses mostly deals with fighting and combat, however HP verse magic is integral part of their lives.
+:PROPERTIES:
+:Author: kprasad13
+:Score: 2
+:DateUnix: 1597396827.0
+:DateShort: 2020-Aug-14
+:END:
+
+
+** Concerning whimsy, there is one thing which is present in the books and the films, but it is almost completely missing from fanfiction (actually, Victoria Potter may be one happy exception): it slightly doesn't work or not completely. Everything at Hogwarts is slightly shabby, slightly broken, magic is always a bit wonky, there are some cobwebs all over the place (despite I believe serious house-elves effort; think Snape's office in the films), even for the master casters (staff of Hogwarts) the result quite often explode a bit. It feels more like biology than technology. I miss it in the fanfiction world were everything is perfect, sterile, and technological.
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1597466089.0
+:DateShort: 2020-Aug-15
+:END:
+
+
+** u/TheismIsUnstoppable:
+#+begin_quote
+  Wizards in HP don't train; they study.
+#+end_quote
+
+Not really. Harry needed to practice his usage of the Accio charm several times before getting it down to a competent degree. I think that the interesting thing about HP Magic is that while it is costless, it's not easy.
+
+In one of the first chapters of PS Harry says himself that "Magic was a lot more than saying a few funny words and waving your wand". It's both precise and nebulous.
+
+The fact of the matter is, despite spending so much time around the HP Magic system, and the books literally being about a school that teaches it. We have no idea what any of it entails.
+
+Transfiguration for example. It would be wholly inconvinent if Transfiguring very specific things required a specific spell for each thing to transform into the other thing. Not only would that be an impossible subject to master, it would also be a waste of time unless you have photographic memory.
+
+The presupposition is that there is a one-use Transfiguration Spell just like there is a one-use Vanishing or Inanimate Object Conjuring spell.
+
+Charms are even weirder, because we see that despite there being multiple spells for the same effect, you can also change the charm itself when you cast it (Incendio sometimes appearing as a lance of fire, a stream and then a materialization of fire at a specific location).
+
+That's likely the reason Rowling says these specific subjects are harder to do without a wand than any other, because there is a lot of unseen accounting you have to do for the specifics of the spell.
+
+*FANON VS CANON*
+
+In my opinion the most important part of HP Magic is how much fanfiction has built up many things that are simply untrue. For example, Ancient Runes being about drawing runes on the ground for Magical effect when it's literally a class about learning to read ancient runes. Or Arithmancy somehow making you overpowered if you understand it well enough.
+:PROPERTIES:
+:Author: TheismIsUnstoppable
+:Score: 2
+:DateUnix: 1597495754.0
+:DateShort: 2020-Aug-15
+:END:

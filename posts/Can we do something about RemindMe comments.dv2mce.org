@@ -1,0 +1,89 @@
+#+TITLE: Can we do something about RemindMe! comments?
+
+* Can we do something about RemindMe! comments?
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1573521954.0
+:DateShort: 2019-Nov-12
+:END:
+[deleted]
+
+
+** Someone made a post about this a few months ago. The best option would be to allow one remindme! comment per post and the automod can delete all subsequent remindme! comments. Because you can click the link provided by the bot to either get the same reminder as the parent comment, or set your own time, there is no need for multiple remindme! comments.
+:PROPERTIES:
+:Author: Lord-Potter-Black
+:Score: 14
+:DateUnix: 1573522472.0
+:DateShort: 2019-Nov-12
+:END:
+
+*** That would be a good solution to multiple 'remind me' comments in a thread, but to be honest I'm fed up with even single 'remind me's.
+
+Often times I get excited to see new comments have been posted in a thread that interests me, only to click the link and find that it's just more worthless spam. It's especially painful in request threads where the OP isn't lucky enough to get any responses except the spam. I imagine it must feel even worse for the OP, getting their hopes up for a fill of their request, but then they see the person didn't even attempt to address the topic.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 2
+:DateUnix: 1573523580.0
+:DateShort: 2019-Nov-12
+:END:
+
+
+*** *Defaulted to one day.*
+
+I will be messaging you on [[http://www.wolframalpha.com/input/?i=2019-11-13%2001:34:32%20UTC%20To%20Local%20Time][*2019-11-13 01:34:32 UTC*]] to remind you of [[https://np.reddit.com/r/HPfanfiction/comments/dv2mce/can_we_do_something_about_remindme_comments/f7a7mkl/][*this link*]]
+
+[[https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2FHPfanfiction%2Fcomments%2Fdv2mce%2Fcan_we_do_something_about_remindme_comments%2Ff7a7mkl%2F%5D%0A%0ARemindMe%21%202019-11-13%2001%3A34%3A32%20UTC][*CLICK THIS LINK*]] to send a PM to also be reminded and to reduce spam.
+
+^{Parent commenter can} [[https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20dv2mce][^{delete this message to hide from others.}]]
+
+There is currently another bot called [[/u/kzreminderbot][u/kzreminderbot]] that is duplicating the functionality of this bot. Since it replies to the same RemindMe! trigger phrase, you may receive a second message from it with the same reminder. If this is annoying to you, please click [[https://np.reddit.com/message/compose/?to=kzreminderbot&subject=Feedback%21%20KZ%20Reminder%20Bot][this link]] to send feedback to that bot author and ask him to use a different trigger.
+
+--------------
+
+[[https://np.reddit.com/r/RemindMeBot/comments/c5l9ie/remindmebot_info_v20/][^{Info}]]
+
+[[https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here][^{Custom}]]
+[[https://np.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21][^{Your Reminders}]]
+[[https://np.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback][^{Feedback}]]
+:PROPERTIES:
+:Author: RemindMeBot
+:Score: -1
+:DateUnix: 1573522493.0
+:DateShort: 2019-Nov-12
+:END:
+
+
+** Noooo! :( Remind me's are helpful because you can go REMIND ME and it will remind you when someone like links a fic you wanted to find!!! :( :( It is necessary yes it is not like people are just doing it for no reason!
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1573523179.0
+:DateShort: 2019-Nov-12
+:END:
+
+*** The remind me thing only gives you a single notification after 24 hours, it doesn't give you reminders when new comments are made. So all it lets you do is check the thread again the next day. And that is literally why there is a "save" button. So you can just check it again.
+:PROPERTIES:
+:Author: AskMeAboutKtizo
+:Score: 5
+:DateUnix: 1573528440.0
+:DateShort: 2019-Nov-12
+:END:
+
+**** Oh okay! Thank you Ktizo! You are so nice and helpful yes you are! :)
+:PROPERTIES:
+:Score: -1
+:DateUnix: 1573530001.0
+:DateShort: 2019-Nov-12
+:END:
+
+
+** I wonder if we could have automod do a thing.
+
+The remindme not gives links that just send a message to it to make another reminder.
+
+Could have automod make respond with a link for 1, 3 and 7 days
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 1
+:DateUnix: 1573597559.0
+:DateShort: 2019-Nov-13
+:END:

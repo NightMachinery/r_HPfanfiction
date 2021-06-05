@@ -1,0 +1,114 @@
+#+TITLE: [Help needed] Creating a HP logic puzzle for a story
+
+* [Help needed] Creating a HP logic puzzle for a story
+:PROPERTIES:
+:Author: minecraft360
+:Score: 10
+:DateUnix: 1464945282.0
+:DateShort: 2016-Jun-03
+:FlairText: Discussion
+:END:
+I'm currently writing a story and I find myself in need of creating a logic puzzle - without being too specific, I was contemplating something along the same sort of lines as Snape's logic puzzle in the Philosophers/Sorcerers stone.
+
+But at the same time without completely copying it.
+
+I thought about posting this in [[/r/harrypotter]] but every time I have reached out for ideas for my stories over there they have been a little reluctant in assisting me.
+
+So I was hoping, maybe a few you top-notch Ravenclaws might be able to help me on this one? Not that I'm singling out Ravenclaws, every submit from any house is welcomed.
+
+Doesn't need to be too complex, obviously I would like the properties to be magical based, but quite frankly its possible for me to rewrite the puzzles with muggle items into magical items.
+
+Thanks in advance, and obviously if the mods believe this to be inappropriate for this sub I completely understand. Have a wonderful day fanfictioners! :D
+
+
+** A logic puzzle that's probably too easy for what you're looking for:
+
+Rolf wishes to send Luna an engagement ring through the Owl Post. Unfortunately, the government of the nation where he resides is corrupt and anything of value sent via Owl Post without a government-issued lock is immediately impounded. Each lock (purchased at great cost from the government--it's one of their major sources of revenue) is registered, tied to a single wand, and only that wand can open the lock. Rolf and Luna are each in possession of their own wands, as well as locks tied to their respective wands. Neither wishes to give up their wands.
+
+How does Rolf send the engagement ring to Luna?
+
+Solution:
+
+[[/spoiler][He sends Luna the ring with his own lock on it. Luna adds her lock so that it has both locks on it and then returns the ring. Rolf removes his lock and sends Luna the ring with just her lock on it this time. She unlocks her lock, slips on the ring, and lives happily ever after.]]
+:PROPERTIES:
+:Author: __Pers
+:Score: 8
+:DateUnix: 1464961001.0
+:DateShort: 2016-Jun-03
+:END:
+
+*** [deleted]
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1464995343.0
+:DateShort: 2016-Jun-04
+:END:
+
+**** I believe it's used as an analogy to RSA encryption.
+:PROPERTIES:
+:Author: dysphere
+:Score: 5
+:DateUnix: 1465018947.0
+:DateShort: 2016-Jun-04
+:END:
+
+
+** This might be too complex, but you might be able to make a simpler version, and you can easily change the properties to magical things.
+
+#+begin_quote
+  The riddle is as follows: There are five houses, with five occupants, each with a different colour house, different beverage of choice, different item, and a unique pet. The goal is to figure out who owns the fish. Here is all the info you get:\\
+  1) The Magic User lives in the red house.\\
+  2) The Fighter keeps dogs.\\
+  3) The Cleric drinks tea.\\
+  4) The green house is just to the left of the white one.\\
+  5) The owner of the green house drinks coffee.\\
+  6) The owner of the sword keeps birds.\\
+  7) The owner of the yellow house has a scroll.\\
+  8) The man in the centre house drinks milk.\\
+  9) The Monk lives in the first house.\\
+  10) The Ring's owner has a neighbour who keeps cats.\\
+  11) The man who owns the shield drinks beer.\\
+  12) The man who keeps horses lives next to the owner of the scroll.\\
+  13) The Thief owns a potion.\\
+  14) The Monk lives next to the blue house.\\
+  15) The owner of the ring has a neighbour who drinks water.
+#+end_quote
+:PROPERTIES:
+:Author: pezes
+:Score: 7
+:DateUnix: 1464947928.0
+:DateShort: 2016-Jun-03
+:END:
+
+
+** u/turbinicarpus:
+#+begin_quote
+  I'm currently writing a story and I find myself in need of creating a logic puzzle - without being too specific, I was contemplating something along the same sort of lines as Snape's logic puzzle in the Philosophers/Sorcerers stone.
+
+  But at the same time without completely copying it.
+#+end_quote
+
+I don't know how good or bad an idea this is, but maybe do the potions puzzle but make it uniquely solvable with the information available to the reader? I've never quite forgiven JKR for providing insufficient information to solve it along with Hermione.
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 7
+:DateUnix: 1464950320.0
+:DateShort: 2016-Jun-03
+:END:
+
+
+** [[/u/secretsquirrel_]] is a top notch Claw. Any ideas for fanfiction logic puzzles, Squirrel?
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1464958605.0
+:DateShort: 2016-Jun-03
+:END:
+
+
+** [[http://listverse.com/2013/10/27/top-10-intriguing-riddles-from-history/][Number 1]] is a good modification of the true/false guardians
+:PROPERTIES:
+:Author: viol8er
+:Score: 2
+:DateUnix: 1464984868.0
+:DateShort: 2016-Jun-04
+:END:

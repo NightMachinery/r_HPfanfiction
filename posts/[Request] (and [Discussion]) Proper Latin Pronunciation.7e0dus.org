@@ -1,0 +1,186 @@
+#+TITLE: [Request] (and [Discussion]) Proper Latin Pronunciation
+
+* [Request] (and [Discussion]) Proper Latin Pronunciation
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 8
+:DateUnix: 1511095715.0
+:DateShort: 2017-Nov-19
+:FlairText: Request
+:END:
+The films decided to prounounce the Latin-based spells with a clearly British accent, but that strikes me as more than a bit odd. What, Italians have to use these spells with a British accent? /Roman wizards/ used these spells with British accents? Because to be clear, pronunciation is a big part of proper spellcasting (see /Wingardium Levi-O-sa/) so it's not like every nation can pronounce their spells differently.
+
+So what I want to see is a fic that ignores the movies and have people pronounce Crucio "Crook-ee-o", Expelliarmus "Expelli-a-rrr-moos", etc. Or, failing that, a fic that actually /justifies/ the British pronunciation.
+
+
+** There are many versions of Latin. Latin was not a dead language until relatively recently - throughout the medieval period, Latin continued to be used as the language of the Church, of diplomacy, and of scholarship. As late as the Tudor era, educated but ordinary people (i.e. not the nobility) in Britain were able to understand wordplay based on Latin, because Latin-based jokes would enter popular culture.
+
+The Latin which you refer to as proper Latin pronunciation is the Latin of Ancient Rome, aka classical Latin. But medieval or ecclesiastical Latin was pronounced very differently. The letter c, which you mention, was always hard in classical Latin, but was (and is) soft in ecclesiastical Latin when it precedes e, i, ae, and oe - as in "crucio". What you are calling the "British pronunciation" is actually just medieval Latin.
+
+#+begin_quote
+  Because to be clear, pronunciation is a big part of proper spellcasting (see Wingardium Levi-O-sa) so it's not like every nation can pronounce their spells differently.
+#+end_quote
+
+It's a bit more complicated than that, when you consider the possibility of non-verbal magic and start speculating on what, say, wizards in China use for incantations. But that's a whole different discussion.
+:PROPERTIES:
+:Author: Taure
+:Score: 15
+:DateUnix: 1511098229.0
+:DateShort: 2017-Nov-19
+:END:
+
+*** u/Achille-Talon:
+#+begin_quote
+  What you are calling the "British pronunciation" is actually just medieval Latin.
+#+end_quote
+
+Not quite. Medieval Latin accounts for "Cru-shio", but not for the pronounciation of the letter "R" in "Wingardium Leviosa", for instance.
+
+#+begin_quote
+  It's a bit more complicated than that, when you consider the possibility of non-verbal magic and start speculating on what, say, wizards in China use for incantations. But that's a whole different discussion.
+#+end_quote
+
+So it is, but for the record, my headcanon from reading the books was that spells are crafted in one specific language and unless wordless magic is involve you have to pronounce that incantation to get results. Of course, there's more than one way to get the general same sort of effect, so while "Stupefy" is a spell created by a British wizard and frequently used in the Anglosphere, Chinese wizards probably created a similar (if subtly different) Stunning Spell with a Chinese incantation that they use instead.
+
+#+begin_quote
+  The Latin which you refer to as proper Latin pronunciation is the Latin of Ancient Rome, aka classical Latin.
+#+end_quote
+
+Yes, but, uhm, there /were/ wizards in Ancient Rome, right? What spells did they use? Considering we also see spells derived from English (such as "Stupefy"), I assumed spells were usually created in the language of the time, and kept being used even after the dominant language changed.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 1
+:DateUnix: 1511098790.0
+:DateShort: 2017-Nov-19
+:END:
+
+**** My own headcanon on this matter is somewhat complex, so I hope you bear with me as I do the necessary groundwork to build up to the point which is relevant to this discussion.
+
+*Groundwork*
+
+The basis of the idea is the observation that magic appears to perform operations upon concepts more than physical quantities. Magic of course has physical consequences but is not physical in its fundamental nature. So, for example, you can cast magic on job positions, on information such as secrets, on linguistic items, on types of behaviour, etc.
+
+A basic spell therefore represents an idea given reality via magic. Most spells are more complex and involve a combination of ideas in certain relationships with each other. By way of example you have the shield charm, which is the concept of "protection from personal harm" in magical form (1).
+
+Magical theory would refer to the body of thought which elaborates upon these concepts and their magical significance, and places them into theoretical systems which relate them together into larger, more general systems of representation.
+
+All this goes towards answering the question of what makes magic difficult, because a) we know from PS that magic is much more than incantations and wand movements, and b) we know from the wide distribution of wizarding achievement that there must be some factor of difficulty which goes beyond pronunciation accuracy and dexterity.
+
+We also know from what unites the most talented wizards in the books, and from Hermione's success with magic following her reading of theory, that academic understanding of magic is a key component of being able to cast more advanced magic.
+
+/Understanding/ the magic you are using is what underpins successful spell casting. I say understanding rather than knowing because it goes deeper than rote memorisation. Understanding from experience and the insight of having an innately more magical mindset and character are just as valid routes to understanding as theoretical understanding from a book.
+
+Now, to continue with the example of the Shield Charm, we know from the books that the spell can be used in different ways. The basic version blocks spells, but it can also be used to reflect spells. The basic version protects the caster, but it can also be used as a “wall” across a room, and as a boundary around a much larger area. The basic version is purely focused on protection, but from the incantation “protego horribilis” we might speculate that there are advanced versions of the Charm which are an aggressive defence and seek to harm those who attempt to breach the protection (the movies, though not canon, would support this, as DH Pt 2 involved a shield charm which disintegrated those who attempted to cross it in the final battle, which is where in the books Flitwick cast protego horribilis).
+
+These are all examples of what I would term spell extension. You are taking a spell from its basic form and doing more with it by adjoining additional concepts to it. Sometimes this does not require a change in the incantation, only in intent and understanding - see, for example, Harry casting the Shield Charm in DH as a wall rather than a personal shield, still using the regular incantation. Other more dramatic alterations seem to require modifications to the incantation e.g. “totalum”. To be able to cast these extensions you would need to understand how the addition of further concepts to your spell changes its magical nature, which in turn requires you to understand those concepts. For example, to be able to make the Shield Charm into the wall you would need to understand the magical concept of “the person” (which appears to include clothing, for example) and how it is distinct from other magically recognised groupings. Only when you understand this can you make the Shield Charm do something other than its default behaviour of protecting the person.
+
+This is why the Hogwarts library contains so many long books. They're not dictionaries of wand movements and incantations. They are discourses on the magical concepts involved in spells and their relationships.
+
+From all this you should hopefully be appreciating an image of magic and spells which is a web of connected concepts, not discrete objects. A spell is a position on the web comprising a particular combination of concepts. You can move your position in different directions to change the spell's behaviour, so long as you understand what you are doing. Extremely powerful wizards like Dumbledore and Voldemort are essentially able, through a combination of innate talent and extensive knowledge, to navigate this "web" with ease, essentially "speaking magic fluently". They are not restricted to using spells which default to certain behaviours but rather their every casting does precisely what they want (2).
+
+The definition of a spell, therefore, is not its incantation, but rather what it does. Two spells which do the same thing are, in fact, the same spell. Two spells which do very similar things are very close to each other on that web of concepts and the one can be easily turned into the other by spell extension.
+
+*Incantations*
+
+Incantations under this view, then, are merely labels for the position on the web. They invoke the spell but they do not define it. You have to get the label right to invoke the right spell, but the cause and effect relationship is the reverse of what many may think - the spell is the fundamental thing, and the incantation follows from it.
+
+The process of spell creation would involve identifying a new concept, or new combination of concepts, which no existing spell involves - a new position on the web. Once that theoretical work has been done, you must then affix an incantation to it in order to act as a label which will allow others to invoke the spell you have created. By complete speculation, an idea for this process is that it is not merely intellectual - it is not enough to work out on paper what the spell's theory is and what the most appropriate incantation is. You must also perform a magically significant act in order to bring the theoretical magical concept into the world. It is this magically significant act, as well as the intellectual rigor of identifying a new spell concept, which prevents people from inventing completely new spells willy-nilly (though spell variation on existing spells is much easier, and talented wizards can do it on the fly).
+
+With respect to different languages, therefore, an incantation could be in any language the creator chooses. While I imagine there are objective limits to what incantation the creator may select - it can't be complete nonsense, and must have a meaningful connection to the concepts of the spell - there are multiple possible incantations for each spell idea. Indeed, two different wizards could independently “create” the same spell with completely different incantations - i.e. a wizard in China and a wizard in Rome could both perform some magically significant act which affixes their chosen incantation to that spell concept and brings the spell into the world under that incantation.
+
+Therefore, while you do have to get an incantation right to successfully cast a spell, the reference standard of correctness is not the language in general which the incantation comes from. Rather it is whatever the wizard who created the spell chose.
+
+--------------
+
+Post-script: the above all makes magic sound quite dry and systematic, which is the unfortunate consequence of making explicit that which should only be implied. The explanation I have provided here might be considered "meta-magical theory" in that it is a discussion of what magical theory is and its relation to magic in practice.
+
+But I imagine magical theory itself would remain arcane in nature and therefore retain a fantastical feel quite contrary to the above explanation.
+
+--------------
+
+(1)Incidentally this is (one of) the reasons why I have never bought the idea that wizards need to understand what they are defending themselves from, and therefore the shield charm could not defend from e.g. radiation. The magic is far more general than that - it guarantees protection from harm, not protection via certain mechanisms. Is radiation harmful? Some of it, yes. Other forms of radiation, no. The shield charm would protect you from the harmful stuff but would not block the safe stuff.
+
+(2) This is just one aspect of what makes wizards like Dumbledore and Voldemort more powerful. For further details on that, please see my headcanon document because this post is already long enough!
+:PROPERTIES:
+:Author: Taure
+:Score: 9
+:DateUnix: 1511101386.0
+:DateShort: 2017-Nov-19
+:END:
+
+***** Wow, we've got very similar magical systems, at least in practice. I'm curious how you came up with all that, and what your magic looks like on the back-end, so to speak.
+
+I've posted this here before under another username, but in my interpretation of magic, physical complexity and living spirit are essentially manifestations of each other. This is getting way out of the realm of standard canon and has kind of morphed into its own project for me.
+
+To put it as simply as possible, souls are given physical form of sufficient complexity to reflect them, and anything with enough physical complexity must have a soul. For instance, in humans, the brain is the physical container of the "ethereal" (for lack of a better term) ideas and processes contained by the spirit.
+
+This means that ideas are very real things. It /also/ means that the Earth, for instance, is a living being of a different sort, being viewable in a certain context as a system sufficiently complex enough to be called "alive." This extends all the way up to the universe itself, where everything contained within are the "body" of the universe, and the rules and history is part of its soul, meaning it's "alive" in some completely incomprehensible way. This means that humans are all connected to a single, ever-changing spirit of knowledge, as they are all also small parts of the universe.
+
+Magic, then, is just a natural part of being alive. Being alive is about change. If you can change, and you're just a piece in the whole, then you should be able to change the whole. You can do this physically, which is anything from manual labor to cutting-edge technology, or you can do it spiritually, which is what we call "magic."
+
+In practice, this means that if you want to create a spell, you have to do some kind of ritual that creates a big enough spot in this spirit of knowledge that it can be easily felt at another time, by another caster. That spot is a label which leads to the knowledge you created when you developed the spell. The better you can access that label, the easier it will be for you to cast the spell.
+
+Spells work best when the incantation and the wand movement are well-defined and fit with the effect of the spell, and when the person casting it replicates that process as perfectly as possible. Otherwise, those connections are less tenable, and if you bungle it up bad enough, you may even "follow" a bad connection and "grab" the wrong idea, resulting in the spell backfiring.
+
+I could go on, like how it explains the limitations of magic, but I think this is what's relevant to this particular topic.
+:PROPERTIES:
+:Author: MahouShoujoLumiPnzr
+:Score: 2
+:DateUnix: 1511104854.0
+:DateShort: 2017-Nov-19
+:END:
+
+
+***** I see. Very in-depth analysis, even if my headcanon is /completely/ different (but I guess that's what makes a headcanon a headcanon as opposed to fanon). For all that you berate yourself for being too "dry", mine is in some ways more mechanical still; I see magic more as a sort of vaguely-sentient Force-like energy that human souls are attuned to, allowing them to manipulate it. Wandless and wordless magic is often "manual" manipulation of this energy, accidental magic is the result of the soul (iself affected by emotions) reacting automatically with the magic, and wanded spell are created with mathematical precision in /forcing/ a certain sequence of magical flows to come to pass to result in the desired effect.
+
+Incantations must mean something so as to "nudge" the "anthropomorphic" magic in the right direction of what you expect it to do --- like simultaneously pushing a horse forward and giving it an oral command it sort-of-recognizes --- but they must rythmically fit with the actual flow of magic that is also reflected by the wand movement and cadence.
+
+As one's proficiency in a spell increases, they can progressively dispense with the artificial influencing of the magic through wand motions and incantations, because they recognize what they are doing with the magic on a deeper level and are able to replicate it "on instinct" with much less guidance.
+
+The most powerful spells require increasingly specific mindsets beyond just /willing/ something to happen because they are harder and harder to properly model with numbers and hinge more and more on the instinctual behavior of an individual's magic that comes into play in accidental magic. Incidentally, I see trying to analyze these most powerful of spells in scientific terms as the Unspeakables' job.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 2
+:DateUnix: 1511105279.0
+:DateShort: 2017-Nov-19
+:END:
+
+****** See, I don't see that both of these are mutually exclusive, as I basically have a headcanon that's both of them combined. Unless I'm drastically misunderstanding one of you.
+
+Side note: is anyone else endlessly fascinated with the depths of analysis that are applied to this particular world?
+:PROPERTIES:
+:Author: Rit_Zien
+:Score: 5
+:DateUnix: 1511107967.0
+:DateShort: 2017-Nov-19
+:END:
+
+
+** I wonder if the spells were brought over by the French, given that French has a stronger Latin influence than Old English ever did. I would guess tmthat Hogwarts would have taught spells in Old English, Gaelic, or some other language native to the British Isles rather than Latin/Greek (especially given that the Norman Invasion was still about 100 years off and it had been 400 years or more since the Romans held Britain). Then the pronunciation would have been warped from a French pronunciation and twisted over the years until we got the current pronunciations.
+
+Personally, I think it's more believable that classical Latin pronunciation isn't used because of the linguistic transformation and the time at which Hogwarts was founded. Of course, whenever we examine something like this, we have to remember that JKR's worldbuilding just plain isn't that good.
+:PROPERTIES:
+:Author: InterminableSnowman
+:Score: 5
+:DateUnix: 1511100297.0
+:DateShort: 2017-Nov-19
+:END:
+
+*** Remember that many of the currently used spells were created long after founding of Hogwarts.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 1
+:DateUnix: 1511162132.0
+:DateShort: 2017-Nov-20
+:END:
+
+
+** "Wingardium Leviosa" isn't anywhere near proper Latin to begin with - the word 'wing' is Germanic, for one thing; its Latin translation is 'ala'.
+
+My personal headcanon is that magic is less a function of specific pronunciation than it is of syllable patterns (stress, tones, etc.) and wand movements; the choice to map Greek and Latin words to the syllable patterns for given spells is very much a stylistic thing, similar to the usage within scientific circles. Two spells with different pronunciation but identical syllable patterns and wand movements will give the same result. (Emotion is also occasionally a factor, as with the Patronus charm and the Unforgivables, but in most cases it only affects whether or not the spell works and not what it does.)
+:PROPERTIES:
+:Author: cryptologicalMystic
+:Score: 3
+:DateUnix: 1511114427.0
+:DateShort: 2017-Nov-19
+:END:

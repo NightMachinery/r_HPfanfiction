@@ -1,0 +1,133 @@
+#+TITLE: Do in-universe characters use the word 'magic' in the sense of 'inherent magical potential of a person'?
+
+* Do in-universe characters use the word 'magic' in the sense of 'inherent magical potential of a person'?
+:PROPERTIES:
+:Author: potpotkettle
+:Score: 13
+:DateUnix: 1541646994.0
+:DateShort: 2018-Nov-08
+:FlairText: Discussion
+:END:
+It seems to me that there are two uses of the word 'magic', 'learned ability of using spells' and 'inherent magical potential of a person'. It looks like the HP books have a lot of the former, but I suspect they contain little to no usage of the word in the latter sense, which seems to be more wide spread in fanfictions. Can anyone prove or disprove this? And if it's true, why?
+
+I'll try to illustrate the distinction by examples.
+
+Here is [[https://www.hp-lexicon.org/2006/01/11/magic-genes-and-pure-blood/][an example]] that I consider talks about 'magical potential':
+
+#+begin_quote
+  However, having children with a Muggle-born witch or wizard will not threaten the family's *magic* in any way, because he or she is just as pure as you are.
+#+end_quote
+
+And [[https://www.pottermore.com/book-extract-long/remus-lupin-teaches-harry-about-patronus-charm][an example]] for 'learned ability':
+
+#+begin_quote
+  ‘So...' Professor Lupin had taken out his own wand, and indicated that Harry should do the same. ‘The spell I am going to try and teach you is highly advanced *magic*, Harry -- well beyond Ordinary Wizarding Level. It is called the Patronus Charm.'
+#+end_quote
+
+The closest example of an in-universe use of the word in the 'magical potential' sense I found is [[https://www.pottermore.com/book-extract-long/nevilles-upbringing][this line from Neville]]:
+
+#+begin_quote
+  ‘Well, my gran brought me up and she's a witch,' said Neville, ‘but the family thought I was all Muggle for ages. My great-uncle Algie kept trying to catch me off my guard and force some *magic* out of me -- he pushed me off the end of Blackpool pier once, I nearly drowned -- but nothing happened until I was eight.
+#+end_quote
+
+I hope this question makes sense to you. Or is this entirely a misconception of mine to think there are two such senses in the word 'magic'?
+
+I'm an ESL learner. Please forgive me for wrong grammar and weird phrasing (but let me also say corrections always make me happy).
+
+EDIT: clarification
+
+
+** Magic, as it's used in the books, does appear to be both a tangible, grammatically uncountable substance (you "have" magic in the same way someone "has" water in their blood; that is, you can't say you have /one/ magic) and an intangible abstraction of skill (you "can do" magic). This is not just a Harry Potter thing, though, as nobody will missunderstand either usage.
+
+Generally, however, the characters in-universe prefer the more specific terminology of "being" a witch/wizard than "having" magic. While I can't say for sure why this is, I speculate this is because magical creatures also have magic, while being a wizard is distinctly human, and wizards are generally racist/speciest.
+:PROPERTIES:
+:Author: wille179
+:Score: 14
+:DateUnix: 1541651814.0
+:DateShort: 2018-Nov-08
+:END:
+
+
+** Well, I don't know about inherent, but certainly there are many times where a person is described as being magically powerful. For example, Crouch Sr in GoF.
+
+#+begin_quote
+  “He was tipped for the next Minister of Magic,” said Sirius. “He's a great wizard, Barty Crouch, powerfully magical - and power-hungry. Oh never a Voldemort supporter,” he said, reading the look on Harrys face. “No, Barty Crouch was always very outspoken against the Dark Side. But then a lot of people who were against the Dark Side... well, you wouldn't understand... you're too young...”
+#+end_quote
+
+In the words of Gilderoy Lockhart, for full details see my [[https://drive.google.com/file/d/1gy6FOtx28w3JPDeDBOcch0fpuvTEnNwr/view?usp=sharing][published works]].
+:PROPERTIES:
+:Author: Taure
+:Score: 7
+:DateUnix: 1541661503.0
+:DateShort: 2018-Nov-08
+:END:
+
+*** u/potpotkettle:
+#+begin_quote
+  [[https://drive.google.com/file/d/1gy6FOtx28w3JPDeDBOcch0fpuvTEnNwr/view?usp=sharing]]
+#+end_quote
+
+I only started reading it but this looks like a fascinating read. Do you plan to update the last unwritten sections, too?
+:PROPERTIES:
+:Author: potpotkettle
+:Score: 5
+:DateUnix: 1541673753.0
+:DateShort: 2018-Nov-08
+:END:
+
+
+** I don't have access to my books at the moment, but there's one instance, when Dumbledore is taking Harry to the cave, that he says something of the sort about how Harry's magic probably doesn't even register (in reference to the fact that Voldemort's boat will only take one adult wizard across the lake) next to Dumbledore's own.
+
+This scene is also the basis for a lot of fanon as far as power levels and magical cores. If anyone has the direct quote?
+:PROPERTIES:
+:Author: cavelioness
+:Score: 5
+:DateUnix: 1541672539.0
+:DateShort: 2018-Nov-08
+:END:
+
+
+** The HP has a very soft magical system in that we don't get a lot of information on the 'science' of magic - we don't know how magical power is related to age, effort, experience, etc. or whether being powerful in one type of magic would in anyway relate to or impact on other types of magic (like, I would think that herbology and potions would be related, but that doesn't seem to be the case? Also, DADA and charms, etc.). From reading the books, we just get the idea that witch+wand+knowledge of spell A = magic A
+:PROPERTIES:
+:Author: 4wallsandawindow
+:Score: 3
+:DateUnix: 1541690708.0
+:DateShort: 2018-Nov-08
+:END:
+
+*** u/awfulrunner43434:
+#+begin_quote
+  (like, I would think that herbology and potions would be related, but that doesn't seem to be the case?
+#+end_quote
+
+Think of it like gardening and cooking. Sure, one creates some of the products that go into the other, but that doesn't mean there's any cross-over skills.
+
+Like, you can be a great gardener who only grows flowers/shrubs/trees/etc. Not edible fruits and vegetables. And just because you're a deft hand with a trowel doesn't mean you can fillet for squat, to say nothing of dealing with hot burners and stoves. Or just because you know the best fertilizer to grow tomatoes with, that in no way informs you of the best wine to pair with a bisque. Or what about any meats? Those are a big part of cooking but obviously have nothing to do with gardening at any point in the process. And vice versa.
+
+Same with herbology and potions. Sure there's a bit of cross-over: the potioneer needs to know that her ingredients were grown/gathered correctly, and the herbologist may have some idea of what his produce is used for so he knows what to stock up on, or to accomodate any of the potioneer's requests. Overall though, they are very different fields and skills.
+
+(Also, consider Gilderoy Lockehart. He seemed very unskilled at most magic, but was an expert in one specific field- obliviation (when not using a broken wand, that is). His skill there did not translate to other areas.)
+:PROPERTIES:
+:Author: awfulrunner43434
+:Score: 2
+:DateUnix: 1541795715.0
+:DateShort: 2018-Nov-10
+:END:
+
+**** That is kind of what I was wondering about - does being really great in one specific area mean you're weaker in other areas?
+:PROPERTIES:
+:Author: 4wallsandawindow
+:Score: 1
+:DateUnix: 1541803897.0
+:DateShort: 2018-Nov-10
+:END:
+
+***** Nah. it's just like any skill/talent/field of study in real life. Some people are better at some things, others are better at other things. Some people are really good at nearly everything, others not so much. If you're best at one thing then by definition I suppose you're weaker at other subjects, but only relative to yourself, you know? You could still be well above average in even your weakest subject. Consider Dumbledore, Riddle, or even Snape, who all seem to have been prodigies who excelled in multiple fields of magic, although they had particular individual strengths.
+
+Sometimes there are skills that are cross-applicable to multiple fields- knowledge of musical theory will help when playing just about any instrument, but knowledge of how to /write/ music won't move your fingers to actually play a trumpet. Or one could be good at a 'meta' level skills- ie. Hermione was really good a buckling down and /studying/, rather than being intuitively good/skilled/interested in a certain subject, like Neville with herbology.
+:PROPERTIES:
+:Author: awfulrunner43434
+:Score: 2
+:DateUnix: 1541805766.0
+:DateShort: 2018-Nov-10
+:END:

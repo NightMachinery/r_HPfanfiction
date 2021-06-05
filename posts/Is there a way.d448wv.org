@@ -1,0 +1,30 @@
+#+TITLE: Is there a way?
+
+* Is there a way?
+:PROPERTIES:
+:Author: SinistralLeanings
+:Score: 2
+:DateUnix: 1568462252.0
+:DateShort: 2019-Sep-14
+:END:
+I wrote/started a bunch of fanfiction way back in the day . I'm talking like prior to 2005 at the latest. I got drunk with my sister and we read them and some actually now have potential (in my mind at least).. But I no longer have access to my fanfiction.net or fictionalley.org accounts as that email is so long gone by now.
+
+Is there a way for me to access my accounts on either site? It's been probably close to 12 years since I accessed either and they are attached to a an email that is very long gone for me. I'm assuming it is impossible bit hoping maybe someone might have an idea and if so you
+
+
+** I don't know if there's a way to get back in your account, but if you can still read the fics as a viewer, you might try downloading the fic using ficsaver or something like that, then using calibre to convert it to a pdf or Word doc. You can then open it using Google docs or Microsoft Word or whatever and be able to edit the text, and then repost under a different account.
+:PROPERTIES:
+:Author: difinity1
+:Score: 10
+:DateUnix: 1568467722.0
+:DateShort: 2019-Sep-14
+:END:
+
+
+** You could download the old fics and republish on a new account. If it's a lot of them and if you know a little python you can install the fanfiction-api python package and have a script do the job.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 3
+:DateUnix: 1568469842.0
+:DateShort: 2019-Sep-14
+:END:

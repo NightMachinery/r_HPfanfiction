@@ -1,0 +1,963 @@
+#+TITLE: New To the Sub, but not to the topic.
+
+* New To the Sub, but not to the topic.
+:PROPERTIES:
+:Author: LGreymark
+:Score: 14
+:DateUnix: 1452428934.0
+:DateShort: 2016-Jan-10
+:FlairText: Meta
+:END:
+Greetings!
+
+Some of you (may) know me from ff.net where I have an established h/hr series and am starting a h/f fic that's been percolating for a while. Aside from my writing though I've been addicted to reading hpfanfic for like... ever, so I'm well entrenched in the subject matter.
+
+Just wanted to stop in and say hi before I peruse the rest of the sub.
+
+LGreymark
+
+P.S. I see a lot of fancy shite going on with links and such, if anyone could flick me a link to a primer that'd be great.
+
+
+** Bot instructions are on the sidebar ---->
+:PROPERTIES:
+:Author: howtopleaseme
+:Score: 6
+:DateUnix: 1452431629.0
+:DateShort: 2016-Jan-10
+:END:
+
+*** Oh, I see them now, thanks. Hadn't even spotted that previous.
+
+Let's try it out, linkffn(10034363)
+:PROPERTIES:
+:Author: LGreymark
+:Score: 3
+:DateUnix: 1452431823.0
+:DateShort: 2016-Jan-10
+:END:
+
+**** ffnbot!refresh
+:PROPERTIES:
+:Author: LGreymark
+:Score: 2
+:DateUnix: 1452432153.0
+:DateShort: 2016-Jan-10
+:END:
+
+
+**** [[http://www.fanfiction.net/s/10034363/1/][*/Harry Potter and the World of Deceit/*]] by [[https://www.fanfiction.net/u/5465166/LGreymark][/LGreymark/]]
+
+#+begin_quote
+  Summer before fourth year everything is turned on it's head. Harry is forced to reevaluate his outlook and his future in the world. HHr, smut in later chaps. Read the AN inside for more details. (Romance/Tragedy/Adventure). Part one of The Deception series
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 19 *|* /Words/: 205,158 *|* /Reviews/: 386 *|* /Favs/: 810 *|* /Follows/: 776 *|* /Updated/: 6/9/2014 *|* /Published/: 1/18/2014 *|* /Status/: Complete *|* /id/: 10034363 *|* /Language/: English *|* /Genre/: Romance/Tragedy *|* /Characters/: <Harry P., Hermione G.> Fleur D. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=10034363][EPUB]]}
+
+--------------
+
+*Bot v1.3.0 - 9/7/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* Use /ffnbot!delete/ to delete a comment! Use /ffnbot!refresh/ to refresh bot replies!
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1452432231.0
+:DateShort: 2016-Jan-10
+:END:
+
+***** Now isn't that fancy. Excuse my experiments, I figured no one would mind if I mildly spammed my own thread figuring out how to make this work
+:PROPERTIES:
+:Author: LGreymark
+:Score: 9
+:DateUnix: 1452432326.0
+:DateShort: 2016-Jan-10
+:END:
+
+****** Of course, spam away! I'm yet to even understand how that works. I just link them to the URL.
+
+Also, in regards to your third story
+
+[[https://www.fanfiction.net/s/11392655/1/Harry-Potter-and-the-Falsehood-Ploy]]
+
+Is there a time frame for which we can see it be done by. E.g summer of 2016?
+:PROPERTIES:
+:Author: Axelnite
+:Score: 2
+:DateUnix: 1452435453.0
+:DateShort: 2016-Jan-10
+:END:
+
+******* The bot is actually pretty easy to use - literally all you have to do is wrap that link in the parentheses of linkffn(). So we have
+
+=linkffn(https://www.fanfiction.net/s/11392655/1/Harry-Potter-and-the-Falsehood-Ploy)= instead.
+
+Now, if you want to be a bit fancier, you can use the fic by name instead of having an ugly-looking link in your comment:
+
+=linkffn(Harry Potter and the Falsehood Ploy)=
+
+There. That's it!
+
+Now it should be pretty easy to understand how to commands work.
+
+How does it all work? The bot combs this sub's comments for "linkffn", searches the internet for what's inside the parentheses, goes to the fanfiction site, grabs the story information, and comes back to Reddit and formats and posts the relevant information.
+
+If you want to know some other cool tricks for the bot, just take a look at the sidebar, maybe even read through the short linked guide. For example:
+
+ffnbot!ignore - the bot should ignore any links I made in this comment.
+:PROPERTIES:
+:Author: tusing
+:Score: 4
+:DateUnix: 1452462520.0
+:DateShort: 2016-Jan-11
+:END:
+
+******** That bot is great. I really like that it posts summaries and a host of data about the story. Thanks for making it. Any plans to expand it to other communities like portkey or ficwad?
+:PROPERTIES:
+:Author: MacsenWledig
+:Score: 2
+:DateUnix: 1452463239.0
+:DateShort: 2016-Jan-11
+:END:
+
+********* I was going to say that portkey would be nearly impossible but I think I've come up with a workaround.
+
+If you look at the page for a story, such as [[http://fanfiction.portkey.org/story/9162][this one]], you can see that the description, number of chapters, and status do not appear anywhere on that page. However, they do appear on the search page, [[http://fanfiction.portkey.org/index.php?act=searchresultsv2&sortby=updatetime][as seen here]] where that story is the first result.
+
+That means that if you do something like linkPortkey(9162), it could go that story page, parse the title and author, then go back to the search page do a search which will return a single result of exactly the story you want, and could build the reddit post from there.
+
+#+begin_example
+  http://fanfiction.portkey.org/story/9162
+  http://fanfiction.portkey.org/index.php?act=searchresultsv2&sortby=1&storyTitle=Always+and+Forever&storyAuthor=Lorelover
+#+end_example
+
+Not that we rec to portkey much, and there's only like 6500 stories, but if [[/u/tusing]] wants to add it, well there you go.
+
+Ficwad would be a little easier since everything is on the same page, but the way the chapters are linked is goofy as hell and it could screw up the bot if the right number isn't used.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1452465586.0
+:DateShort: 2016-Jan-11
+:END:
+
+********** Thanks for the idea! I'll reference this if I ever do get around to adding Portkey, but it's pretty cumbersome.
+
+I think the bot is at a pretty healthy place right now, though, in terms of the sites we support.
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1452468739.0
+:DateShort: 2016-Jan-11
+:END:
+
+*********** Definitely agree. You have the two biggest sites, and it's been good enough so far. I doubt any other site is going to become big enough again to be worth the effort.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1452468931.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+******** Woah. I massively respect that. Thank you for explaining how the bot works, in such a concise & coherent manner. Definitely saving this.
+:PROPERTIES:
+:Author: Axelnite
+:Score: 1
+:DateUnix: 1452465250.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+******* Oh um, probably not my summer (we're in my summer now) but if you're talking June/July then honestly probably not. My update schedule is truly appalling. I write when my muse strikes and that's basically it. Never mind that I'm having huge issues with that story at the moment, my logical head is taking the plot one way and my creative head is clamoring to shove all these other bits and pieces in. I really suffer from being a complete push over when it comes to letting my creative side run my writing. It's easy to see in the narrative where I can't help but basically lecture the reader on some arcane premise or other. Hell, almost entire chapters of Deceit are written that way.
+:PROPERTIES:
+:Author: LGreymark
+:Score: 3
+:DateUnix: 1452441576.0
+:DateShort: 2016-Jan-10
+:END:
+
+******** Ah right, fair enough. Thanks for the honest response. That's cool, for you to have already released two full novel esque fics is still amazing, more so when they're *free*. Ah so you're from the southern hemisphere? Sorry for amusing you otherwise, if you dont mind me saying, which country? Must be some place exotic, as currently in the UK it's relatively chilly :(
+:PROPERTIES:
+:Author: Axelnite
+:Score: 1
+:DateUnix: 1452447822.0
+:DateShort: 2016-Jan-10
+:END:
+
+********* Oh it's fine, I'm from New Zealand and I definitely wouldn't call it exotic. But yeah, my relatives constantly berate me for not turning my authorship towards OIP that could make me money >.>
+:PROPERTIES:
+:Author: LGreymark
+:Score: 1
+:DateUnix: 1452447959.0
+:DateShort: 2016-Jan-10
+:END:
+
+********** u/Axelnite:
+#+begin_quote
+  OIP
+#+end_quote
+
+? What's this acronym stand for?
+:PROPERTIES:
+:Author: Axelnite
+:Score: 1
+:DateUnix: 1452464056.0
+:DateShort: 2016-Jan-11
+:END:
+
+*********** original intellectual property
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1452464241.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+** Since you've got the bot down, here's a brief walkthrough if you are ever concerned about spoilers:
+
+The spoiler tag:
+
+1) surround the spoiler in square brackets [like this]
+
+2) follow with the spoiler tag, NO SPACES INBETWEEN. Like this: ](/spoiler)
+
+3) comes out [[/spoiler][like this]]
+
+Clarification: there is not a double square bracket. I showed the closing one twice for clarity
+:PROPERTIES:
+:Author: MystycMoose
+:Score: 3
+:DateUnix: 1452453471.0
+:DateShort: 2016-Jan-10
+:END:
+
+
+** Sorry I am not familiar with your work, but since you're established as H/Hr, could you perhaps give me suggestions which follow this criteria: Long Fic, H/Hr pairing & is complete?
+:PROPERTIES:
+:Author: Axelnite
+:Score: 2
+:DateUnix: 1452429329.0
+:DateShort: 2016-Jan-10
+:END:
+
+*** I'm not the OP, but I'd recommend Full Pensieve's [[http://fp.fanficauthors.net/Harry_Potter_and_the_Last_Horcrux_final/index/][Harry Potter and the Last Horcrux]].
+
+Mike (Full Pensieve) was one of the giants of the fanfic writing fandom in its early days and his /Harry Potter and the Years of Rebellion/ fic (another H/Hr, eventually) is still an enjoyable read after a decade and change.
+
+Pity about his health problems. He is (was?) good people.
+
+Edit: Fixed title.
+:PROPERTIES:
+:Author: __Pers
+:Score: 4
+:DateUnix: 1452438167.0
+:DateShort: 2016-Jan-10
+:END:
+
+**** Thanks, in regards to Harry Potter and the Years of Rebellion is there a full version, as the one I have found has only 4k words?
+
+[[http://fp.fanficauthors.net/Harry_Potter_and_the_Years_of_Rebellion/From_the_notes_The_Most_Honourable_and_Courageous_House_of_Potter_SPOILERS/]]
+
+Thanks for the last horcrux, got it here: [[http://fp.fanficauthors.net/resources/files/12717/]]
+:PROPERTIES:
+:Author: Axelnite
+:Score: 1
+:DateUnix: 1452448552.0
+:DateShort: 2016-Jan-10
+:END:
+
+***** u/__Pers:
+#+begin_quote
+  Thanks, in regards to Harry Potter and the Years of Rebellion is there a full version, as the one I have found has only 4k words?
+#+end_quote
+
+I'd recommend going here:
+
+[[http://fp.fanficauthors.net/Harry_Potter_and_the_Years_of_Rebellion/index/]]
+
+The story was started around 2003 and the author put up nearly 600k words before he had to hang up his writing spurs. He was pretty active on the old fanficauthors.net forum back in the day and always struck me as a classy guy.
+:PROPERTIES:
+:Author: __Pers
+:Score: 2
+:DateUnix: 1452461091.0
+:DateShort: 2016-Jan-11
+:END:
+
+****** [[http://fp.fanficauthors.net/resources/files/12974/]]
+
+Thank you, just what I was looking for. I am assuming the last horcrux was made after Years of Rebellion? Are they both complete? You've helped me immensely in put together a list that has ,>1million words
+
+The Last Horcrux [[http://fp.fanficauthors.net/resources/files/12717/]]
+:PROPERTIES:
+:Author: Axelnite
+:Score: 2
+:DateUnix: 1452462766.0
+:DateShort: 2016-Jan-11
+:END:
+
+******* The Last Horcrux is indeed complete. Unfortunately, Years of Rebellion is only complete in the sense that Mike (with the help of his son) published his notes/outlines for the remainder of the story when it was clear he would never finish the story proper before failing health overtook him.
+:PROPERTIES:
+:Author: __Pers
+:Score: 1
+:DateUnix: 1452468972.0
+:DateShort: 2016-Jan-11
+:END:
+
+******** Thank you for such clarity on the matter, I will keep that at the forefront of my mind. These notes, are they attached/part of the link? Thank you for your response.
+:PROPERTIES:
+:Author: Axelnite
+:Score: 1
+:DateUnix: 1452470638.0
+:DateShort: 2016-Jan-11
+:END:
+
+********* Yeah they're in the last chapter.
+
+[[http://fp.fanficauthors.net/Harry_Potter_and_the_Years_of_Rebellion/From_the_notes_The_Most_Honourable_and_Courageous_House_of_Potter_SPOILERS/][46 - Harry Potter and the Years of Rebellion :: From the notes: The Most Honourable and Courageous House of Potter [SPOILERS]]]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1452470799.0
+:DateShort: 2016-Jan-11
+:END:
+
+********** Thank you, you're a star :)
+:PROPERTIES:
+:Author: Axelnite
+:Score: 2
+:DateUnix: 1452471398.0
+:DateShort: 2016-Jan-11
+:END:
+
+*********** You're welcome. =)
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1452471521.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+*** linkffn(Vox Corporis) This is the essential H/Hr story.
+:PROPERTIES:
+:Author: howtopleaseme
+:Score: 3
+:DateUnix: 1452431608.0
+:DateShort: 2016-Jan-10
+:END:
+
+**** [[http://www.fanfiction.net/s/3186836/1/][*/Vox Corporis/*]] by [[https://www.fanfiction.net/u/659787/MissAnnThropic][/MissAnnThropic/]]
+
+#+begin_quote
+  Following the events of the Goblet of Fire, Harry spends the summer with the Grangers, his relationship with Hermione deepens, and he and Hermione become animagi.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 68 *|* /Words/: 323,186 *|* /Reviews/: 4,185 *|* /Favs/: 7,366 *|* /Follows/: 2,023 *|* /Updated/: 3/30/2007 *|* /Published/: 10/6/2006 *|* /Status/: Complete *|* /id/: 3186836 *|* /Language/: English *|* /Genre/: Romance/Drama *|* /Characters/: Harry P., Hermione G. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=3186836][EPUB]]}
+
+--------------
+
+*Bot v1.3.0 - 9/7/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* Use /ffnbot!delete/ to delete a comment! Use /ffnbot!refresh/ to refresh bot replies!
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1452431651.0
+:DateShort: 2016-Jan-10
+:END:
+
+***** Something about the way MissAnnThropic writes really put me off this story. Admittedly I haven't given it a thorough read in a few years but what I remember was, while okay narratively, almost unreadable.
+:PROPERTIES:
+:Author: LGreymark
+:Score: 7
+:DateUnix: 1452431965.0
+:DateShort: 2016-Jan-10
+:END:
+
+
+**** Awesome, any others? :)
+:PROPERTIES:
+:Author: Axelnite
+:Score: 1
+:DateUnix: 1452435164.0
+:DateShort: 2016-Jan-10
+:END:
+
+
+*** Harry Crow is basically your best starting point. Muggledad's; The End And The Beginning immediately comes to mind. H J Potter is another. What we're fighting for by James Spookie is pretty awesome. Can't Have It Both Ways is another Robst classic. The sad fact of the matter is that a lot of the best H/Hr stories either were abandoned or are still in progress, Harry Potter and the Soulmate Bond by Keira Marcos is fantastic, and Muggledad's The Last Casualties is probably going to become one of my favorite stories of all time.
+
+Can't tell if this was some kind of test or not but w/e I'll do it on good faith
+:PROPERTIES:
+:Author: LGreymark
+:Score: -8
+:DateUnix: 1452430607.0
+:DateShort: 2016-Jan-10
+:END:
+
+**** Yikes Harry Crow. Since you're new to this sub, a lot of people here don't like Robst...
+:PROPERTIES:
+:Author: awenclear
+:Score: 19
+:DateUnix: 1452431523.0
+:DateShort: 2016-Jan-10
+:END:
+
+***** Really? That's unfortunate, despite his penchant for overusing the same adjectives and the general lack of conflict in his stories they're a good starting point for people who haven't delved into the ship much.
+:PROPERTIES:
+:Author: LGreymark
+:Score: 2
+:DateUnix: 1452431888.0
+:DateShort: 2016-Jan-10
+:END:
+
+****** People here generally hate Weasley bashing
+:PROPERTIES:
+:Author: mk1961
+:Score: 14
+:DateUnix: 1452437227.0
+:DateShort: 2016-Jan-10
+:END:
+
+******* Oh boy, then we're not going to get along at all haha. I'm not to worried about the elder Weasleys but Ginny is one of my pet hates. I won't go into it here, I'm sure the argument has been hashed and rehashed enough, but yeah... Loath her completely.
+:PROPERTIES:
+:Author: LGreymark
+:Score: 0
+:DateUnix: 1452439423.0
+:DateShort: 2016-Jan-10
+:END:
+
+******** You have to remember that many people here have read virtually every good, decent, and most well known bad fics out there. Things like Weasley Bashing are just boring now.
+:PROPERTIES:
+:Score: 22
+:DateUnix: 1452441486.0
+:DateShort: 2016-Jan-10
+:END:
+
+
+******** Most of us are mature enough to either just not read a story that has weasley bashing or to review kindly instead of flaming so I wouldn't worry about not getting along over a rather minor difference of opinion.
+:PROPERTIES:
+:Score: 16
+:DateUnix: 1452441292.0
+:DateShort: 2016-Jan-10
+:END:
+
+********* Oh gosh, I wasn't being serious. Well I mean, I do loath Ginny, but I kind of figured that people being so open about talking about a non harry/ginny ship would be able to handle a bit of weasley hate on the side.
+:PROPERTIES:
+:Author: LGreymark
+:Score: 4
+:DateUnix: 1452441397.0
+:DateShort: 2016-Jan-10
+:END:
+
+********** u/deleted:
+#+begin_quote
+  I kind of figured that people being so open about talking about a non harry/ginny ship would be able to handle a bit of weasley hate on the side.
+#+end_quote
+
+A few days ago someone on this sub requested recommendations for romance involving the Giant Squid. No one really takes the whole shipping thing here seriously for the most part (with a few obvious exceptions) and just kinda roles with it. Adding Weasley hate is generally considered by most to devalue the ship the author is trying to set sail though. It's a complete cop out; rather than have to deal with the emotions of some of Harrys most loyal canon supporters the author just makes them wildly OOC and so awful that Harry ditches them in a heartbeat, usually whilst rewriting their history together entirely from canon. Which actually no one would care about if it were ever done in an original manner.
+:PROPERTIES:
+:Score: 8
+:DateUnix: 1452470146.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+******** Ginny has a great personality in the books, I guess much hate directed at her is because the movies butchered her character or people didn't pay attention to details in books 5-7.
+:PROPERTIES:
+:Author: mk1961
+:Score: 2
+:DateUnix: 1452448947.0
+:DateShort: 2016-Jan-10
+:END:
+
+
+****** Harry Crow was the biggest fanfic disappointment I've ever read. Its just so sappy and corny. But the premise was really great.
+:PROPERTIES:
+:Author: textposts_only
+:Score: 4
+:DateUnix: 1452453321.0
+:DateShort: 2016-Jan-10
+:END:
+
+******* linkffn(6769957)
+
+Similar premise but with much better execution.
+
+You're welcome ;)
+:PROPERTIES:
+:Author: M-Cheese
+:Score: 3
+:DateUnix: 1452456999.0
+:DateShort: 2016-Jan-10
+:END:
+
+******** [[http://www.fanfiction.net/s/6769957/1/][*/Harry amidst the Vaults of Stone/*]] by [[https://www.fanfiction.net/u/2713680/NothingPretentious][/NothingPretentious/]]
+
+#+begin_quote
+  Following the fall of Voldemort, it is up to the Gringotts goblins to carry out the terms of the Potters' will. What will happen when young Harry Potter - halfblood, Parselmouth, curse-scarred, outsider - is raised in the stalagmite city of Underfoot?
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 28 *|* /Words/: 157,245 *|* /Reviews/: 2,009 *|* /Favs/: 3,334 *|* /Follows/: 4,030 *|* /Updated/: 5/24/2013 *|* /Published/: 2/23/2011 *|* /id/: 6769957 *|* /Language/: English *|* /Genre/: Adventure/Fantasy *|* /Characters/: Harry P. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=6769957][EPUB]]}
+
+--------------
+
+*Bot v1.3.0 - 9/7/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* Use /ffnbot!delete/ to delete a comment! Use /ffnbot!refresh/ to refresh bot replies!
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1452457035.0
+:DateShort: 2016-Jan-10
+:END:
+
+
+******** unfortunately not finished. I found that one a while ago and I quite liked it
+:PROPERTIES:
+:Author: textposts_only
+:Score: 1
+:DateUnix: 1452457758.0
+:DateShort: 2016-Jan-10
+:END:
+
+
+******** Does it have a ship?
+:PROPERTIES:
+:Author: Meiyouxiangjiao
+:Score: 1
+:DateUnix: 1452468047.0
+:DateShort: 2016-Jan-11
+:END:
+
+********* It's on my to read list, so I can't be certain, but I did pop into a later chapter and look around for signs of a girlfriend and didn't see one. It's an incomplete work.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1452471207.0
+:DateShort: 2016-Jan-11
+:END:
+
+********** Thanks!
+:PROPERTIES:
+:Author: Meiyouxiangjiao
+:Score: 1
+:DateUnix: 1452488887.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+****** I think he gives the H/Hr pairing a bad name, but that's just my opinion. I send newbies to portkey.org whenever possible. While there are some memorable examples of horrific writing there, the general quality is a bit more reliable than what you'd find on a ff.net search.
+:PROPERTIES:
+:Author: MacsenWledig
+:Score: 10
+:DateUnix: 1452434782.0
+:DateShort: 2016-Jan-10
+:END:
+
+******* I'd say that's being a bit harsh but you're entitled to your opinion. Ideally I'd have everyone read basically any of the t rated mid length stories between the two of them out there. The quantity of truly boring smut on the pairing is absolutely appalling and it gets in the way of the story in most cases. Robst's stories are thankfully void of it and give newbies a fair introduction to what they're getting themselves into. Of course Skeletons is probably one of the better stories to read for an introduction if you don't mind some of the more adult themes.
+:PROPERTIES:
+:Author: LGreymark
+:Score: -3
+:DateUnix: 1452435669.0
+:DateShort: 2016-Jan-10
+:END:
+
+******** u/MacsenWledig:
+#+begin_quote
+  I'd say that's being a bit harsh
+#+end_quote
+
+I can say something positive, then. I really like the uniqueness of linkffn(A Different Halloween by robst). There are very few stories that try to tackle a /very/ young Harry the way he did and I admire his creativity. Another user recently reminded me of robst's excellent use of hooks to draw the reader into his story. A lot of other works take the reader's interest for granted and the plots are often slow to develop as a result. But robst seems to make his initial hook a priority and I respect that. As you said, it's a matter of preference.
+:PROPERTIES:
+:Author: MacsenWledig
+:Score: 5
+:DateUnix: 1452448191.0
+:DateShort: 2016-Jan-10
+:END:
+
+********* I love the premise of his WiP. Harry timetravels with the memories of an adult, but an adult muggle. That could be the idea behind a great story, but it isn't. Its the idea behind another robst story.
+:PROPERTIES:
+:Author: howtopleaseme
+:Score: 3
+:DateUnix: 1452546658.0
+:DateShort: 2016-Jan-12
+:END:
+
+
+********* [[http://www.fanfiction.net/s/6439871/1/][*/A Different Halloween/*]] by [[https://www.fanfiction.net/u/1451358/robst][/robst/]]
+
+#+begin_quote
+  Could a chance meeting change history? What would a different Halloween in 1981 mean for wizarding Britain?
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 20 *|* /Words/: 124,549 *|* /Reviews/: 3,946 *|* /Favs/: 6,508 *|* /Follows/: 4,042 *|* /Updated/: 5/26/2012 *|* /Published/: 10/31/2010 *|* /Status/: Complete *|* /id/: 6439871 *|* /Language/: English *|* /Characters/: <Harry P., Hermione G.> *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=6439871][EPUB]]}
+
+--------------
+
+*Bot v1.3.0 - 9/7/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* Use /ffnbot!delete/ to delete a comment! Use /ffnbot!refresh/ to refresh bot replies!
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1452448256.0
+:DateShort: 2016-Jan-10
+:END:
+
+
+******** Robst writes a lot, updates regularly, finishes his stories and generally has few if any typos or grammar mistakes. He's also very popular.
+
+Saying that his stories lack "meaningful challenges or conflict" seems to be the main criticism, and that is at least partially a matter of personal taste.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 9
+:DateUnix: 1452436763.0
+:DateShort: 2016-Jan-10
+:END:
+
+********* I just can't deal with all the "m'lady /'tips goblin wrought gauntlet'/" shit, personally.
+:PROPERTIES:
+:Score: 23
+:DateUnix: 1452440007.0
+:DateShort: 2016-Jan-10
+:END:
+
+********** 11 year old true love. Gary Sue, Hermione-Sue. Supermodel!Hermione
+:PROPERTIES:
+:Author: howtopleaseme
+:Score: 11
+:DateUnix: 1452462705.0
+:DateShort: 2016-Jan-11
+:END:
+
+*********** I think I just vomited in my mouth.
+:PROPERTIES:
+:Author: IHATEHERMIONESUE
+:Score: 1
+:DateUnix: 1452474152.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+********** My My, his harry's are stupider than I thought! Not many people wear gauntlets on their heads.
+
+UNLESS! His Harry is so amazing, he has come up with a way to tip his wrist-wear instead of his headwear
+:PROPERTIES:
+:Author: MystycMoose
+:Score: 6
+:DateUnix: 1452453799.0
+:DateShort: 2016-Jan-10
+:END:
+
+*********** I was thinking more along the lines of him tipping his fedora (a bequest from the Potter-Peverell-Gryffindor de Calais line, naturally) /with/ the gauntleted hand.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1452493296.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+********* Actually, his earier stories have a problem with run-on and awkward sentences. A big problem, actually. I /like/ some of his stories, but reading them gives me a mental "itch" because I want to fix so many sentences. Curiously, listening makes those problems almost disappear, which tells me he was writing what "sounded" right to him.
+
+His most recent works don't have that problem. You can almost watch the steady improvement, which I think is great. It really shows how much actively writing can really help.
+
+Although I prefer stories with more conflict - where it at least appears that the hero might not succeed - I think that some of his stories will always be favorites of mine, even if they aren't perfect.
+:PROPERTIES:
+:Author: philosophize
+:Score: 4
+:DateUnix: 1452463238.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+****** Thank you for those suggestions, no it wasn't a test at all just that no one posted in my thread that I made a few hours before yours.
+
+[[https://www.reddit.com/r/HPfanfiction/comments/40avpu/lf_that_involves_hhr_is_complete/]]
+
+So your list is: Harry Crow, Muggledad's; The End And The Beginning, Muggledad's The Last Casualties, H J Potter, What we're fighting for - James Spookie, Can't Have It Both Way, Harry Potter and the Soulmate Bond by Keira Marcos
+
+#+begin_quote
+  The sad fact of the matter is that a lot of the best H/Hr stories either were abandoned or are still in progress >
+#+end_quote
+
+Yup, truly is a shame :(
+
+Overall, thanks for the suggestions. Once again, it wasn't a test just that it was a mere coincidence that you come along, after I posted my thread so I thought I'd ask for your help.
+:PROPERTIES:
+:Author: Axelnite
+:Score: 1
+:DateUnix: 1452435033.0
+:DateShort: 2016-Jan-10
+:END:
+
+******* Full disclosure, Harry Potter and the Soulmate Bond is an EXTREMELY adult story. A frankly absurd amount of the plot almost revolves around ritual nudity. If you're not worried about that though go right ahead. Skeletons is another one you might want to look into if you don't mind the adult themes.
+:PROPERTIES:
+:Author: LGreymark
+:Score: 3
+:DateUnix: 1452435774.0
+:DateShort: 2016-Jan-10
+:END:
+
+******** Is 'Harry Potter and the Soulmate Bond' fully complete? I appreciate the warning, but having watched season one of True Detective, I've been desensitised to this. I relish the challenge though. [[http://keiramarcos.com/fan-fiction/harry-potter/harry-potter-the-soulmate-bond/]]
+
+linkffn(8186071; 5783428; 5093897; 4482040; 9766604; 5402315; 9615772)
+:PROPERTIES:
+:Author: Axelnite
+:Score: 1
+:DateUnix: 1452462015.0
+:DateShort: 2016-Jan-11
+:END:
+
+********* [[http://www.fanfiction.net/s/5093897/1/][*/H J Potter/*]] by [[https://www.fanfiction.net/u/1521716/S-M-wane][/S.M wane/]]
+
+#+begin_quote
+  Who would expect that sharing a simple kiss with his best friend was all it needed to begin a journey far beyond his greatest imagination? Soul-bond fic
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 55 *|* /Words/: 563,028 *|* /Reviews/: 3,114 *|* /Favs/: 4,979 *|* /Follows/: 3,644 *|* /Updated/: 6/16/2013 *|* /Published/: 5/28/2009 *|* /Status/: Complete *|* /id/: 5093897 *|* /Language/: English *|* /Genre/: Adventure/Romance *|* /Characters/: Harry P., Hermione G. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=5093897][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/8186071/1/][*/Harry Crow/*]] by [[https://www.fanfiction.net/u/1451358/robst][/robst/]]
+
+#+begin_quote
+  What will happen when a goblin-raised Harry arrives at Hogwarts. A Harry who has received training, already knows the prophecy and has no scar. With the backing of the goblin nation and Hogwarts herself. Complete.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 106 *|* /Words/: 737,006 *|* /Reviews/: 25,189 *|* /Favs/: 14,163 *|* /Follows/: 11,706 *|* /Updated/: 6/8/2014 *|* /Published/: 6/5/2012 *|* /Status/: Complete *|* /id/: 8186071 *|* /Language/: English *|* /Characters/: <Harry P., Hermione G.> *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=8186071][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/4482040/1/][*/To Stand Against the Darkness/*]] by [[https://www.fanfiction.net/u/1510989/muggledad][/muggledad/]]
+
+#+begin_quote
+  How things would be different if Harry & Hermione realized their feelings through the stress of the 3rd task. Post-GOF AU, HHR
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 20 *|* /Words/: 164,284 *|* /Reviews/: 742 *|* /Favs/: 1,346 *|* /Follows/: 1,374 *|* /Updated/: 12/13/2008 *|* /Published/: 8/18/2008 *|* /id/: 4482040 *|* /Language/: English *|* /Genre/: Adventure/Romance *|* /Characters/: <Harry P., Hermione G.> Sirius B., Minerva M. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=4482040][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/5783428/1/][*/The End and the Beginning/*]] by [[https://www.fanfiction.net/u/1510989/muggledad][/muggledad/]]
+
+#+begin_quote
+  My stab at the Harry travels through time genre. Significant inspiration from "HP & Nightmares of Futures Past" with a twist. Harry/Hermione
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 14 *|* /Words/: 144,392 *|* /Reviews/: 1,429 *|* /Favs/: 3,812 *|* /Follows/: 2,199 *|* /Updated/: 7/24/2011 *|* /Published/: 2/28/2010 *|* /Status/: Complete *|* /id/: 5783428 *|* /Language/: English *|* /Genre/: Romance/Adventure *|* /Characters/: <Harry P., Hermione G.> Sirius B., Minerva M. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=5783428][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/9766604/1/][*/What We're Fighting For/*]] by [[https://www.fanfiction.net/u/649126/James-Spookie][/James Spookie/]]
+
+#+begin_quote
+  The savior of magical Britain is believed dead until he shows up to fight Death Eaters. Hermione Granger is a very lonely young woman without a single friend until she boards the Hogwarts Express for her sixth year, and her life take a major turn. SERIOUS WARNING. Rated M for a reason. DO NOT READ if easily offended.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 28 *|* /Words/: 244,762 *|* /Reviews/: 2,301 *|* /Favs/: 4,183 *|* /Follows/: 3,606 *|* /Updated/: 7/13/2014 *|* /Published/: 10/14/2013 *|* /Status/: Complete *|* /id/: 9766604 *|* /Language/: English *|* /Genre/: Romance *|* /Characters/: Harry P., Hermione G. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=9766604][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/5402315/1/][*/Can't Have It Both Ways/*]] by [[https://www.fanfiction.net/u/1451358/robst][/robst/]]
+
+#+begin_quote
+  If you are forced to participate in a competition that's reserved for adults only, doesn't that mean you should be considered an adult? Harry gets some much needed help and advice before having some fun by allowing his marauder heritage out to play. H/Hr
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 16 *|* /Words/: 106,352 *|* /Reviews/: 2,772 *|* /Favs/: 7,523 *|* /Follows/: 3,076 *|* /Updated/: 2/14/2010 *|* /Published/: 9/26/2009 *|* /Status/: Complete *|* /id/: 5402315 *|* /Language/: English *|* /Characters/: <Harry P., Hermione G.> *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=5402315][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/9615772/1/][*/Skeletons/*]] by [[https://www.fanfiction.net/u/2020187/Holz9364][/Holz9364/]]
+
+#+begin_quote
+  We all have skeletons, when the Triwizard Tournament is hosted at Hogwarts to 'boost moral' and 'remember Cedric Diggory' all of Harry's secrets start to come out as he struggles with running the school and the tournament, working with his ex, facing a life changing injury and falling for his best friend! AU AFTER DH. Harmony. M for language and sexual themes!
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 26 *|* /Words/: 136,500 *|* /Reviews/: 199 *|* /Favs/: 322 *|* /Follows/: 152 *|* /Updated/: 8/27/2013 *|* /Published/: 8/20/2013 *|* /Status/: Complete *|* /id/: 9615772 *|* /Language/: English *|* /Genre/: Friendship/Romance *|* /Characters/: <Harry P., Hermione G.> *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=9615772][EPUB]]}
+
+--------------
+
+*Bot v1.3.0 - 9/7/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* Use /ffnbot!delete/ to delete a comment! Use /ffnbot!refresh/ to refresh bot replies!
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1452462032.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+******* So far all my HP stories involve Harry/Hermione. Three of them are complete.
+
+Edit: They all got a mature rating, but there's no graphic sex. They are violent however, and I wanted to err on the side of caution.
+
+linkffn(10959290) - Nominally a crossover; only the concept of Spyboy was taken and applied to Hermione.
+
+linkiffn(10595005) and its prologue linkffn(10993575) - Set post-Hogwarts, in an AU where the magical world never really adapted those weird muggle ideas like "human rights" "democracy" and "equality before the law", and muggleborns are oppressed by pureblood aristocrats all throughout Europe. When the British muggleborns revolt, both the oppressed and the oppressors take note. It starts with a revolution in Britain, but then spreads to involve Magical Europe as the ruling pureblood cliques react to "those uppity mudbloods taking over".
+
+linkffn(11102515) - A crossover with Buffy the Vampire Slayer, set before the TV series, featuring her predecessor. Politics play a major role.
+
+linkffn(11080542) - still going on. Hermione and Harry, set in an Alternate Universe, where the Magical World split off in 1691, and evolved a culture of their own, sometimes more archaic, sometimes far more progressive than the muggle world, but far more magical and often more alien than in canon. A core concept is the fact that while the laws are often archaic and literally medieval, custom and tradition over the centuries have changed how they are enforced, making adjusting to and navigating society difficult for muggleborns and muggle-raised. It also features a Dumbledore who is more ruthless, and yet far more protective of his students, and a more cunning and less insane Voldemort, whose plans do not rely on coincidences and mistakes made by his opponents, and alternate Triwizard Tournament, both safer and more friendly to an audience, as well as several different wizarding cultures.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 1
+:DateUnix: 1452436111.0
+:DateShort: 2016-Jan-10
+:END:
+
+******** [[http://www.fanfiction.net/s/11080542/1/][*/Patron/*]] by [[https://www.fanfiction.net/u/2548648/Starfox5][/Starfox5/]]
+
+#+begin_quote
+  In an Alternate Universe where muggleborns are a tiny minority and stuck as third-class citizens, formally aligning herself with her best friend, the famous boy-who-lived, seemed a good idea. It did a lot to help Hermione's status in the exotic society of a fantastic world so very different from her own. Unfortunately, it also painted a very big target on her back.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 46 *|* /Words/: 416,277 *|* /Reviews/: 693 *|* /Favs/: 636 *|* /Follows/: 990 *|* /Updated/: 7h *|* /Published/: 2/28/2015 *|* /id/: 11080542 *|* /Language/: English *|* /Genre/: Drama/Romance *|* /Characters/: <Harry P., Hermione G.> *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=11080542][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/10993575/1/][*/Prologue to a Revolution/*]] by [[https://www.fanfiction.net/u/2548648/Starfox5][/Starfox5/]]
+
+#+begin_quote
+  After the Battle of Hogwarts, the prominent Death Eaters taken prisoners were tried and sentenced. But what happened to the rest of Voldemort's followers? What happened to the Snatchers and the others who did his bidding in the Ministry? Harry and Hermione are about to find out in the prologue to "Hermione Granger and the Marriage Law Revolution".
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Words/: 3,409 *|* /Reviews/: 17 *|* /Favs/: 74 *|* /Follows/: 44 *|* /Published/: 1/23/2015 *|* /Status/: Complete *|* /id/: 10993575 *|* /Language/: English *|* /Genre/: Drama *|* /Characters/: Harry P., Hermione G. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=10993575][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/11102515/1/][*/Uncle Quentin's Spy/*]] by [[https://www.fanfiction.net/u/2548648/Starfox5][/Starfox5/]]
+
+#+begin_quote
+  In the summer following her 4th year at Hogwarts, Hermione Granger is visited by a great-uncle she hasn't met before, and learns that the world is older than she thought, and that wizards are not the only ones fighting the forces of Darkness.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter + Buffy: The Vampire Slayer Crossover *|* /Rated/: Fiction T *|* /Chapters/: 20 *|* /Words/: 112,132 *|* /Reviews/: 213 *|* /Favs/: 257 *|* /Follows/: 321 *|* /Updated/: 7/25/2015 *|* /Published/: 3/9/2015 *|* /Status/: Complete *|* /id/: 11102515 *|* /Language/: English *|* /Genre/: Adventure/Romance *|* /Characters/: <Harry P., Hermione G.> Q. Travers, Albus D. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=11102515][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/10959290/1/][*/Harry Potter and the Spygirl/*]] by [[https://www.fanfiction.net/u/2548648/Starfox5][/Starfox5/]]
+
+#+begin_quote
+  Her father had told Harry that if Hermione was in danger he should hold that box in front of her and push the button. He'd never have expected that a series of flashing lights would transform Hermione into "Spygirl". Fortunately, the dozen Death Eaters facing them hadn't expected that either. Harry Potter/Spyboy crossover.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter + Misc. Comics Crossover *|* /Rated/: Fiction M *|* /Chapters/: 7 *|* /Words/: 32,789 *|* /Reviews/: 84 *|* /Favs/: 184 *|* /Follows/: 127 *|* /Updated/: 2/13/2015 *|* /Published/: 1/9/2015 *|* /Status/: Complete *|* /id/: 10959290 *|* /Language/: English *|* /Genre/: Adventure/Romance *|* /Characters/: <Harry P., Hermione G.> *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=10959290][EPUB]]}
+
+--------------
+
+*Bot v1.3.0 - 9/7/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* Use /ffnbot!delete/ to delete a comment! Use /ffnbot!refresh/ to refresh bot replies!
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1452436131.0
+:DateShort: 2016-Jan-10
+:END:
+
+
+******** Wow, it's you. It's actually you!! I just read (completed today) your 'Hermione Granger and the Marriage Law Revolution', and bloody hell you did an amazing job. Like seriously, your's was on-point. I loved it. I still can't believe it's you. Like, I never thought of actually coming across the writer of that epic story. My mind is actually blown at the fact that I've come across you, on reddit.
+
+Your dialogue is amazing, like there's a smile on my face knowing you're the author. Like I was sceptical at the beginning, at how would this go, simply because early on there would changes of POV instantly. It took me time getting to understand your style, but once I did it was nothing short of amazing. I was kind of 'hurt' at how /ruthless/ Hermione & HP were at Professor McGonagall, early on, since she's been supportive of Harry/Hermione for quite some time, but then again perhaps it was to do with her being old-fashioned in her ways/friends with Kingsley, the snake!
+
+Hopefully a spoiler tag works, because your portrayal of Draco was brilliant.
+
+edit: can't seem to master spoiler tags unfortunately. If you're not too busy, could I private message you more?
+:PROPERTIES:
+:Author: Axelnite
+:Score: 1
+:DateUnix: 1452449294.0
+:DateShort: 2016-Jan-10
+:END:
+
+********* There are a good number of authors bumping around this sub, though I expect starfox is one of the more common posters (or we just post in the same threads every time :P )
+
+The spoiler tag; I just figured it out this week.
+
+1) surround the spoiler in square brackets [like this]
+
+2) follow with the spoiler tag, NO SPACES INBETWEEN. Like this: ](/spoiler)
+
+3) comes out [[/spoiler][like this]]
+:PROPERTIES:
+:Author: MystycMoose
+:Score: 2
+:DateUnix: 1452453241.0
+:DateShort: 2016-Jan-10
+:END:
+
+********** Ah thank you, the thing is, I don't usually pay attention to who's posted the message. It's just when the author said what they've done, it clicked.
+
+Cheers for the spoiler tags, I gave up trying. The [[/r/starwars]] way is what I'm more used to, I didn't expect it to be any different.
+
+[[/spoiler][If this is correct, your example should be added on to the side bar. It certainly was concise yet precise]]
+:PROPERTIES:
+:Author: Axelnite
+:Score: 1
+:DateUnix: 1452463855.0
+:DateShort: 2016-Jan-11
+:END:
+
+*********** It's in the rules:
+
+#+begin_quote
+  5. All spoilers must use the spoiler tag: =[Some spoiler](/spoiler)=
+#+end_quote
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1452464321.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+**** I've just gotta say to everyone downvoting LGreymarks posts right now, consider if this is the best way to welcome new members: downvoting their opinions you disagree with.
+
+Discussing vehemently why they are wrong, great! Trying to hide their posts on their first day here? Not so great. Don't we want new people to stick around and give new recs and spark new discussions?
+
+This is not to say I agree with his robst recommendations, I tried reading Harry crow early on, and have never attempted to again, because it is horrible.
+
+However, linkffn(5783428) by muggledad is a 5* fic.
+:PROPERTIES:
+:Author: MystycMoose
+:Score: 6
+:DateUnix: 1452454408.0
+:DateShort: 2016-Jan-10
+:END:
+
+***** Oh please, I don't give a single damn about internet points. Down vote my comments if you like, I'm really not worried.
+:PROPERTIES:
+:Author: LGreymark
+:Score: 3
+:DateUnix: 1452481271.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+***** That first chapter is... it's one of the all-time top fanfic beginnings, I think. Heart wrenching.
+
+And Muggldad is a top writer, hands down.
+:PROPERTIES:
+:Author: philosophize
+:Score: 2
+:DateUnix: 1452463424.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+***** [[http://www.fanfiction.net/s/5783428/1/][*/The End and the Beginning/*]] by [[https://www.fanfiction.net/u/1510989/muggledad][/muggledad/]]
+
+#+begin_quote
+  My stab at the Harry travels through time genre. Significant inspiration from "HP & Nightmares of Futures Past" with a twist. Harry/Hermione
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 14 *|* /Words/: 144,392 *|* /Reviews/: 1,429 *|* /Favs/: 3,812 *|* /Follows/: 2,199 *|* /Updated/: 7/24/2011 *|* /Published/: 2/28/2010 *|* /Status/: Complete *|* /id/: 5783428 *|* /Language/: English *|* /Genre/: Romance/Adventure *|* /Characters/: <Harry P., Hermione G.> Sirius B., Minerva M. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=5783428][EPUB]]}
+
+--------------
+
+*Bot v1.3.0 - 9/7/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* Use /ffnbot!delete/ to delete a comment! Use /ffnbot!refresh/ to refresh bot replies!
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1452454473.0
+:DateShort: 2016-Jan-10
+:END:

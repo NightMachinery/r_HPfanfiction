@@ -1,0 +1,237 @@
+#+TITLE: My first Harry Potter fanfiction. Critiques anyone?
+
+* [[https://www.fanfiction.net/s/10080407/1/Sins-of-the-Puppet-Master][My first Harry Potter fanfiction. Critiques anyone?]]
+:PROPERTIES:
+:Author: KommissarMandar
+:Score: 1
+:DateUnix: 1395538002.0
+:DateShort: 2014-Mar-23
+:FlairText: Promotion
+:END:
+
+** One thing I can say, just from reading the first chapter, is that you need a beta. Before I start, I think this has potential, and you could have a really interesting plot here, but I got sort of distracted.
+
+There are a lot of little things wrong here, for example you have quotations inside quotations in:
+
+#+begin_quote
+  "...You remember her words. "Your Prince shall be THE...
+#+end_quote
+
+And you only close it with a single quotation mark. Also, when you're quoting inside of dialogue, you use apostrophes instead of quotes.
+
+The other really glaring stylistic thing I noticed is that you CAPITALIZE A LOT. It is perfectly understandable to want to show emotion, but ALL CAPS is not the way to do it. Dialogue should speak for itself, look at this:
+
+#+begin_quote
+  "Do NOT mock me, child."
+#+end_quote
+
+Compared to
+
+#+begin_quote
+  "Do not mock me, child."
+#+end_quote
+
+The second one, for me at least, actually has more emotion.
+
+But let's say you really do need emphasis, like in:
+
+#+begin_quote
+  "WE lost out ally, Eileen. WE did."
+#+end_quote
+
+There, you want to use Italics instead of Caps. That becomes:
+
+#+begin_quote
+  "/We/ lost our ally, Eileen. /We/ did."
+#+end_quote
+
+Which conveys the same thing, but it much subtler and less glaring. One of my favorite books on the subject says that creative formatting should be used /infrequently/, RARELY, and *never*.
+
+The other thing, really simple this one is, is what you actually put in quotations. You were generally pretty okay with this, but especially later you made this mistake:
+
+#+begin_quote
+  "It seems we will not see eye-to-eye on this.",
+#+end_quote
+
+Yeah, that's not very pretty. Either there's a period inside the quote, a question mark, and exclamation, or a comma. You cannot have both.
+
+Finally, the last little stylistic thing, is your dialogue tagging.
+
+There's usually two ways to tag dialogue. My favorite is tagging dialogue with an action, which you do very often. But, look here:
+
+#+begin_quote
+  "It is NOT!" His eyes widened in shock...
+#+end_quote
+
+There, it is clearly implied that /He/ is talking, when it is the daughter talking. Either that was an issue of formatting, where there wasn't a proper paragraph, or that was there intentionally, in which case you have to tag the dialogue with Eileen or leave it out.
+
+The other tagging is using "Quote," X said. You use this much more rarely, and that's not bad, mind. However, when you do use it, you generally want to stick to the word said to tag it.
+
+Think about this. You used:
+
+#+begin_quote
+  "Your mind is lost in ages past, father.", she sighed.
+#+end_quote
+
+Okay, so with that quote there are two things you could have been doing, only one of which is wrong. You could have meant:
+
+#+begin_quote
+  "Your mind is lost in ages past, father." She sighed.
+#+end_quote
+
+Which is perfectly fine, but since it's not a tag, but an action, there is no comma, and the She has to be capitalized.
+
+Or, you could have meant:
+
+#+begin_quote
+  "Your mind is lost in ages past, father," she sighed.
+#+end_quote
+
+Which, tbh, is not very good. You can barely sigh a word, much less a sentence.
+
+For this, you want to use "...," she said. And then maybe you can do something fancy like:
+
+#+begin_quote
+  "Your mind is lost in ages past, father," she said with a sigh.
+#+end_quote
+
+That's pretty much it for style and formatting, and most of that can be ignored in a rough draft.
+
+The other major issue is that you tell /and/ show. You'll often here show, not tell, and that's generally good advice, but it is oversimplifying things.
+
+You want passages of tell, and passages of show, but both in the same passage is just jarring.
+
+Look at this:
+
+#+begin_quote
+  "You mean the tea leaf reading quack who will get your dead grandmother on the horn for only 150 galleons?", Eileen had little and less respect for the art of divination.
+#+end_quote
+
+Wouldn't that work just as well as:
+
+#+begin_quote
+  "You mean the tea leaf reading quack who will get your dead grandmother on the horn for only 150 galleons?"
+#+end_quote
+
+Literally none of the meaning is lost. Or if you really feel the need to emphasize sarcasm:
+
+#+begin_quote
+  "You mean the tea leaf reading quack who will get your dead grandmother on the horn for only 150 galleons?" Eileen asked, snorting with derision.
+#+end_quote
+
+There, the derisive snort emphasizes that she doesn't trust the "Tea-leaf-reading quack."
+
+Some of your metaphors fall flat. Like:
+
+#+begin_quote
+  Her father's voice took on a deep, smooth, malicious tone, like silk soaked in acid, as it always did when he was on the edge of rage.
+#+end_quote
+
+I don't know about you, but I personally have never seen silk soaked in acid.
+
+For metaphors like this, ones that focus on the auditory, you want to compare it to something else auditory. Silk soaked in acid I can imagine sounds kind of hissy and whiny, the exact opposite of what you're going for.
+
+There were also some issues in character voice.
+
+First thing, I thought at the start that the father's voice was believable. That was good, a lot of people really can't do the aristocratic voice.
+
+But Eileen, man she was just a mess of words.
+
+She goes from:
+
+#+begin_quote
+  "Your mind is lost in the ages past, father."
+#+end_quote
+
+To:
+
+#+begin_quote
+  "... because we're so FUCKING inbred!..."
+#+end_quote
+
+And that's definitely the worst, but she still came off more as a modern, rebellious teenager trying to sound aristocratic than someone raised as an aristocrat being rebellious.
+
+Now, the real core, the plot.
+
+I like the idea of a rebellious aristocratic girl in a prejudiced society, I really do. Many, many books have done is well.
+
+But there is so much mood whiplash that I was lost as to what I was supposed to feel.
+
+At the start, she's sort of calm, but the father's railing on her, that's good.
+
+Then she turns kind of snappy, which is also good. But you say the father turns malicious, when all he really does is ask her what the mystic said.
+
+So she turns really modern teenager, with:
+
+#+begin_quote
+  "Get your dead grandmother on the horn for only 150 galleons?"
+#+end_quote
+
+Which really sounds like a modern teenager. What aristocrat would /ever/ say "On the horn"? Or "for only 150 galleons?"
+
+Both of those are commercial-style satire, which doesn't work.
+
+Ignoring that, she's getting kind of sarcastic, which works.
+
+In response, the good Dr. slaps her. Which, honestly, comes out of left fucking field there.
+
+I suppose it makes sense though. Patriarchs aren't necessarily renowned for being tolerant of their soon-to-be-wed daughters getting uppity.
+
+Then he says the conversation is over, which is perfect. What would have made sense, since he's clearly getting violent, would be for Eileen to accept that, go to her room, and run away.
+
+People in stressful situations don't make sense though, which I suppose is true.
+
+But I would hardly expect a violent patriarch, as you've portrayed her father as, to tolerate her just screaming, "It is NOT," and then ranting for a GIGANTIC paragraph.
+
+Like, for real, he would have slapped her half way into the second sentence. She's basically insulting everything he's ever stood for, while defying his will, while he's looming over her.
+
+Instead, you go on sort of pseudo-intellectually about fate, and she drops the bombshell of "I'm leaving".
+
+Now, you've said she's half-hysterical, but even then, who the hell would tell their oppressor that not only are they planning on running away, but just /how/ they're running away?
+
+And then he fucking jabs her with a needle, which he just happened to have.
+
+After that, man he's just fucking destroyed as a character. He becomes a caricature.
+
+Tying her to a bed, DRUGGING and TASING HER? Jesus, that's the last thing an aristocratic father would do. And he's said it himself, she's the last hope of their family.
+
+#+begin_quote
+  "You know that no one under my... care slips through my fingers."
+#+end_quote
+
+He's a bond villain now. That plain and simple. The dramatic pauses, the inflated vocabulary, stabbing people with /needles/, none of these make for believable, dramatic villains.
+
+Then he drags her up, locks her in her room, and she sits there.
+
+You probably could have cut everything after that, as it doesn't really tell us anything, besides what her figurines and her room look like.
+
+Always, always ask yourself: "If I cut this, will the story be worse off for it?"
+
+I actually like where she turns the music box and wonders if she'll come to love him, but it doesn't really fit.
+
+First though, look at how you described the dancers:
+
+#+begin_quote
+  "...an elegantly dressed man and woman..."
+#+end_quote
+
+There, perfect. You give enough details to give an image, and few enough that the reader can imagine. Describing the heirlooms is long and tedious, when this works /just/ as well.
+
+I digress though. She seems to give up too easily. You've painted her so far as being a defiant teenager, despite getting hit, but one little drug and threat and she gives?
+
+Again, I only read the first chapter, so I have no idea if it gets better, but based on the first I wouldn't read the rest.
+
+It's your first fanfiction though. My first works, and the only one I published to ff.net, are pretty terrible. Like, 'Oh god what have I done?' terrible.
+
+I focused really heavily on the bad, but there is a lot of good here.
+
+The characters were more or less believable, at the start. Certainly far, far better than most fics. The italics at the start were sweet, if possessing a few tense issues.
+
+The plot, though I ragged on it, flows pretty well for the most part, until you get to the stabbing.
+
+Keep going, you can only get better. One thing I would say though, is no matter how good you get, /never/ delete this or the files for it. You'll be able to look back and laugh, and see how far you've gone.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1395679454.0
+:DateShort: 2014-Mar-24
+:END:

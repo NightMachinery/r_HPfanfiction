@@ -1,0 +1,190 @@
+#+TITLE: How do you guys read fanfiction while travelling without internet?
+
+* How do you guys read fanfiction while travelling without internet?
+:PROPERTIES:
+:Author: dead_man_walkingg
+:Score: 11
+:DateUnix: 1481743206.0
+:DateShort: 2016-Dec-14
+:FlairText: Discussion
+:END:
+I'm about to go on a long international flight and I've never figured out a way to download an entire fanfic and be able to read it without internet? Any suggestions? Thanks, most likely be reading from my phone but also a possibility to read of a laptop.
+
+
+** The Fanfiction.net app for android lets you download fics.
+:PROPERTIES:
+:Author: RenegadeNine
+:Score: 11
+:DateUnix: 1481746804.0
+:DateShort: 2016-Dec-14
+:END:
+
+*** Same with the ffnet app for iPhone. All of my favorites and followed stories are stored offline on my phone as well as my 'currently reading' stories.
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1481748974.0
+:DateShort: 2016-Dec-15
+:END:
+
+
+** Kindle. Calibre, download using Fanficfare and then convert to MOBI.
+:PROPERTIES:
+:Author: PFKMan23
+:Score: 11
+:DateUnix: 1481746925.0
+:DateShort: 2016-Dec-14
+:END:
+
+*** Another Calibre + Fanficfare user, here.
+:PROPERTIES:
+:Author: Ambush
+:Score: 3
+:DateUnix: 1481759140.0
+:DateShort: 2016-Dec-15
+:END:
+
+
+*** You can download mobi files directly using fanficfare -- no need for an extra conversion step.
+
+Edit: Here's how to do it: Open Calibre > find the FanFicFare plugin > click triangle to access drop down menu > Configure FanFicFare > Default Output Format > select mobi from dropdown
+:PROPERTIES:
+:Author: inimically
+:Score: 1
+:DateUnix: 1481791822.0
+:DateShort: 2016-Dec-15
+:END:
+
+
+*** One of the major benefits to this is that you can also get an app* on your Kindle to create Kindle Collections based on tags in Calibre, so you can easily sort your FF if you so desire (or keep your FF separated from your original fiction so you don't have to sort through 100+ FF ebooks to find a novel)
+
+*The app is called LibrarianSync. Only downside is you'll need to jailbreak your kindle to do so. If you're interested, check out the MobileRead forums for instructions on how to JB your Kindle, install KUAL, and install LibrarianSync. Only took me about an hour and a half one afternoon and was 100% worth it.
+:PROPERTIES:
+:Author: bgottfried91
+:Score: 1
+:DateUnix: 1482166236.0
+:DateShort: 2016-Dec-19
+:END:
+
+
+*** Hey, you might want to try out this: [[http://ficsave.xyz/]]
+
+You can download it directly as a MOBI.
+:PROPERTIES:
+:Author: canopus12
+:Score: 1
+:DateUnix: 1481751400.0
+:DateShort: 2016-Dec-15
+:END:
+
+**** Calibre has the advantage of providing a list of what you've read and lets you categorize them.
+:PROPERTIES:
+:Author: Huntrrz
+:Score: 2
+:DateUnix: 1481753666.0
+:DateShort: 2016-Dec-15
+:END:
+
+***** I also prefer the aesthetics of Fanficfare's files over that of Ficsave.
+:PROPERTIES:
+:Author: PFKMan23
+:Score: 1
+:DateUnix: 1481760661.0
+:DateShort: 2016-Dec-15
+:END:
+
+
+** I use [[http://ficsave.xyz][this]] site to convert fics to ePub versions, then I open them in iBooks on my iPhone. Easy-peasy if you're an iPhone user.
+:PROPERTIES:
+:Author: sunshineallday
+:Score: 9
+:DateUnix: 1481744392.0
+:DateShort: 2016-Dec-14
+:END:
+
+
+** If you use an Android phone, check out Codex Reader ([[https://play.google.com/store/apps/details?id=com.qan.fiction]]). It's one of the more reliable ones I've found, and always maintains position.
+
+Supports FF.net, AO3, and Fictionpress IIRC.
+
+Hasn't been updated in forever, and has ad support, but it's fairly good. Sadly, no syncing between devices or anything, nor exporting your library.
+
+Another option is to use Calibre (a cool ebook library manager, [[https://calibre-ebook.com/]]), with FanFicFare (a fanfiction downloader plugin, [[http://www.mobileread.com/forums/showthread.php?t=259221]]), then sync to your phone or e-reader (if you have one).
+:PROPERTIES:
+:Author: ajford
+:Score: 5
+:DateUnix: 1481745866.0
+:DateShort: 2016-Dec-14
+:END:
+
+*** The other issue about Codex Reader is that it's a battery hog. That being said, it's my all-time favorite ficreader.
+:PROPERTIES:
+:Author: BaldBombshell
+:Score: 1
+:DateUnix: 1481815671.0
+:DateShort: 2016-Dec-15
+:END:
+
+
+** Some sites (e.g., Ao3) allow you to download the fics as ebooks, and there are multiple ebook reader apps for any phone.
+:PROPERTIES:
+:Author: t1mepiece
+:Score: 4
+:DateUnix: 1481770107.0
+:DateShort: 2016-Dec-15
+:END:
+
+
+** I use the app Fanfiction Reader! Its awesome, easily lets you download fics, read them, remembers your place, etc.
+:PROPERTIES:
+:Author: beetnemesis
+:Score: 3
+:DateUnix: 1481755422.0
+:DateShort: 2016-Dec-15
+:END:
+
+
+** If you want to read on your laptop, download the fic from ficsave.xyz and get an epub reader add on for your browser.
+:PROPERTIES:
+:Author: Imborednow
+:Score: 2
+:DateUnix: 1481750937.0
+:DateShort: 2016-Dec-15
+:END:
+
+
+** ficsave.xyz or the FF.net app for android.
+:PROPERTIES:
+:Author: Green0Photon
+:Score: 2
+:DateUnix: 1481776924.0
+:DateShort: 2016-Dec-15
+:END:
+
+
+** The fanfictionbot also has a download button. e.g., linkffn(11950816) (look at the bottom)
+:PROPERTIES:
+:Author: metaridley18
+:Score: 1
+:DateUnix: 1481818991.0
+:DateShort: 2016-Dec-15
+:END:
+
+*** [[http://www.fanfiction.net/s/11950816/1/][*/Harry Potter and the Game/*]] by [[https://www.fanfiction.net/u/7268383/Concept101][/Concept101/]]
+
+#+begin_quote
+  YEAR 1 AND 2 COMPLETE! With his life turned into a Game, Harry now has to raise a Phoenix, uncover the Founders' darkest secrets, deal with political manipulations and live through Hogwarts in this story full of heart, humor, and spectacle. And the occasional swear word. Powerful!Grey!Ravenclaw!Harry, GreaterGood!Dumbledore
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 39 *|* /Words/: 298,186 *|* /Reviews/: 3,643 *|* /Favs/: 4,435 *|* /Follows/: 5,647 *|* /Updated/: 12/13 *|* /Published/: 5/17 *|* /id/: 11950816 *|* /Language/: English *|* /Genre/: Adventure/Humor *|* /Characters/: Harry P., Hermione G., Ginny W., Albus D. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11950816&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11950816&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1481819025.0
+:DateShort: 2016-Dec-15
+:END:

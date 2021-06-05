@@ -1,0 +1,169 @@
+#+TITLE: Portkeys used in other settings: interplanetary & interstellar travel, travel medium, and reusability
+
+* Portkeys used in other settings: interplanetary & interstellar travel, travel medium, and reusability
+:PROPERTIES:
+:Author: seylerius
+:Score: 6
+:DateUnix: 1479500594.0
+:DateShort: 2016-Nov-18
+:FlairText: Discussion
+:END:
+Let's say I've got a character that will be sent to the HPverse for a time, and later visiting various interplanetary and interstellar settings. How might portkeys fare in such settings?
+
+1. Can portkeys reliably target destinations on other planets, or in other star systems? Assumedly one would have to have at least /been/ to the destination and know it well before targeting a portkey at it.
+2. Would a new portkey spell be required (for example, /Browncoat, Green Eyes/) to make space portkeys, with orbital and stellar mechanics baked in?
+3. What sort of witchspace do portkeys travel through, and how much overlap would it have with Warhammer 40K's Warp? (If it in fact /is/ the Warp, or has some serious overlap or adjacency with the Warp, this is an argument for a modified portkey spell that includes a shield to keep daemons from eating your face.)
+4. How reusable are portkeys? How flexible can they be in terms of destination selection?
+
+
+** Depends on how broken you want your magic system to be. If you're of the opinion that magic is magic and it can do anything without being bound by physics or logic, then I guess it works. Some people enjoy stories where basic shield charms can protect from bullets and that throwing a Horcrux into the sun wouldn't destroy it. If that's your thing, then it's fine.
+
+Personally, I enjoy there being balance, which means there is a limit to how effective magic can be, a restriction. So, in my head, locations of planets constantly change relative to each other, so a portkey wouldn't work and you'd end up in space. Some would say that magic and as long as your intent is accurate, it'll work, like, you want to arrive on some Embassy on Ganymede, so you'll arrive there no matter what because that is your destination.
+
+If I were to write it, I would say it would need to be done in steps (similar to how Mass Effect works). You'd use a spell to cross the majority of the distance, and then a second spell to get you closer, and a third to get you to your location. It's not all that different than driving to an airport, taking a plane, getting a connecting flight, arriving, and then taking a taxi to your destination. I feel like that makes for a more dynamic and interesting story than everything just working because magic.
+:PROPERTIES:
+:Author: Lord_Anarchy
+:Score: 5
+:DateUnix: 1479503041.0
+:DateShort: 2016-Nov-19
+:END:
+
+*** I agree about the need for balance. I think the standard portkey spell is probably planet-bound, and gets around the problem of absolute locations by the spell attempting to match your intended destination to something on the current planet. The targeting mechanism of apparition probably works similarly.
+
+Your multi-step idea sounds interesting. I think, given that the character will arrive in the various interplanetary and interstellar settings he visits in the future as the only person who's ever visited the Potterverse to enter any of those settings, he'll probably spend a meaningful amount of time devising a planet-hopping spell based on portkeys that targets from a set of destinations set up in advance. Basically you might have to specifically charm and rune a room as an interplanetary/interstellar portkey target, put a unique symbol on the wall as a visualization aid, and then use this new portkey-derivative spell to create a portkey that can target this room.
+
+Once the room's been runed and charmed, you could probably target it at any time with a portkey of the appropriate scale.
+
+Although... Maybe technically the prepared-destination portkeys can target on any distance, but they have to be loaded with an appropriate amount of juice first. Maybe a magical can't charge anything farther than a same-planet trip immediately, and a mundane can't charge shit. Magicals charging something longer than same-planet manually would take time invested so it wouldn't drain you dry. So since he'd be the only Potterverse wizard (and among a minority of magicals for those settings that have a magic-analogue) he'd probably need to devise a self-recharging portkey. That would then lend itself to having pre-prepared destination portkeys on a variety of scales, each with an appropriate charging crystal in it, which then glows when fully charged. Inter-segmentum portkeys (to use the WH40K term for a multi-sector swath of the galaxy) would need the most charge, followed by inter-sector (within a segmentum), then interstellar (different star systems in a sector), interplanetary, and finally on-planet. Each would have a different charge time based on the distance it's optimized for. Probably keep safehouses in each segmentum capital and keep a ring of inter-segmentum keys on him, then keep a ring of inter-sector keys at each segmentum safehouse, and a ring of interstellar keys at each sector safehouse, and so on. Conveniently, the segmentum capital world tends also to be the capital of the sector and system in which it resides. Not always, though.
+
+That also leaves open the question of what variety of witchspace portkey-like things travel through. I'm thinking I'm going to make it analogous to the Warp, just to torment the SI. Because /being SI is suffering/.
+:PROPERTIES:
+:Author: seylerius
+:Score: 1
+:DateUnix: 1479507441.0
+:DateShort: 2016-Nov-19
+:END:
+
+
+** I personally treat portkeys as planet-bound. The way I write interplanetary travel by magical means is by actually flying there first and leaving a Vanishing Cabinet there.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 3
+:DateUnix: 1479504332.0
+:DateShort: 2016-Nov-19
+:END:
+
+*** Vanishing cabinets are an interesting workaround. Since they're a direct, paired portal, they probably just maintain a witchspace tunnel between them, and kick you through it automatically. Either need to learn the runes and enchantments on them, or buy a whole crapton, though.
+:PROPERTIES:
+:Author: seylerius
+:Score: 1
+:DateUnix: 1479507533.0
+:DateShort: 2016-Nov-19
+:END:
+
+**** I'm writing a story where Poppy Potter, raised by Minerva McG, Poppy Pomfrey and Albus Dumbledore, does everything to get to Mars because that is the way she thinks she could step out of the shadow of her many mentors. She goes through a few theories, but eventually finds that with apparition and portkeys you actually orient yourself on the planetary core. So the technique works on Mars just as well as on Earth, but not between them.
+
+Floo is also out because they use a very similar magic.
+
+Vanishing Cabinets, however, are basically wormholes. You step into one and one step more and your're at the counterpart of the cabinet. Ergo, that is the key to the wizarding colonization of Mars.
+
+In the middle of the story, shit hits the fan when Poppy stumbles over a Mars rover during one of her strolls over the red planet.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 2
+:DateUnix: 1479508215.0
+:DateShort: 2016-Nov-19
+:END:
+
+
+** It depends on how you decide magic works. If it uses extra dimensions, interplanetary travel should be no different than any other; if it interacts with other forces or requires a certain ' 'saturation' of the 'magic field' between travel points, interplanetary would be 'too far'.
+:PROPERTIES:
+:Author: Huntrrz
+:Score: 3
+:DateUnix: 1479504433.0
+:DateShort: 2016-Nov-19
+:END:
+
+*** I'm starting to think that they might be planet-bound by default as a means of narrowing the field of possible destinations, and as a charge restriction. Standard portkeys might get the juice required from the caster, and reusable portkeys might charge off the user. I don't think any average magical is up for charging anything longer than a same-planet trip, so special slow-charge portkeys might be necessary to go longer distances, and destinations might need to be prepared in advance to keep the field of possible destinations narrow. I brainstorm this idea a bit further in [[https://www.reddit.com/r/HPfanfiction/comments/5domaq/portkeys_used_in_other_settings_interplanetary/da6993z/][my response to Lord_Anarchy]].
+
+The /look/ of portkeys suggests that they're traveling through some kind of witchspace, so the problems being targeting and sufficient charge for the distance seem like the right sort of thing. Although I think I will make the witchspace in question be analogous to Warhammer 40K's Warp, just to ruin the SI's day.
+:PROPERTIES:
+:Author: seylerius
+:Score: 1
+:DateUnix: 1479508021.0
+:DateShort: 2016-Nov-19
+:END:
+
+
+** This sounds like a fantastic start to a Doom 3/HP cross-over!
+
+Prototype interplanetary port-key ends up taking a swing through Hell, unleashing demons in the DOM or some unwitting research group. HP called in as supreme badass to help battle his way through.
+
+That aside, I agree with what has been said regarding a solution similar to Mass Effect. I think if a stellar/galactic scale portkey existed, it would have to be balanced, with something like jumps between fixed points in space, so no targeting a planet, but can drop out in a different orbital distance. Or between two stellar systems perhaps.
+
+Maybe require a significant expenditure of energy, thus requiring recharge times?
+:PROPERTIES:
+:Author: ajford
+:Score: 3
+:DateUnix: 1479507226.0
+:DateShort: 2016-Nov-19
+:END:
+
+*** I like the Doom crossover idea.
+
+It's funny, though. You're hitting on an idea similar to what I just [[https://www.reddit.com/r/HPfanfiction/comments/5domaq/portkeys_used_in_other_settings_interplanetary/da6993z/][brainstormed in response to Lord_Anarchy]]. I don't think there's such a thing as a fixed point in space, so I figure planet-bound portkeys normally work by searching the current planet for your intended destination at cast-time, imprinting upon it, and taking charge from the caster sufficient to get there. Reusables are different only in that they're recharged on-use by the user. Any distance larger than a planet is /probably/ to large for an average magical to charge on the spot (at least without losing consciousness, though if the distance is large enough they may die from it, or get stranded in the Warp). So portkeys brought to another setting would need a self-recharging functionality, and how much charge they're set to accumulate by default informs how far away you can use them from.
+:PROPERTIES:
+:Author: seylerius
+:Score: 1
+:DateUnix: 1479508379.0
+:DateShort: 2016-Nov-19
+:END:
+
+**** On a random note, it's not unusual for portkeys to be presented as not instantaneous but rather having a set speed. If you decide to take this approach then one would presume that the travel time itself would be a prohibitive factor, and you could use that---rather than the changing position of celestial bodies, as portkeys could be seen as having some kind of ability to home onto the target---as a reason for having special portkeys for interplanetary travel. Heck, you could then make it so that those /have/ to be multi-stage portkeys (since the slowest last stage would be too slow to make the journey before the person using it died of old age, and the fastest space stage would probably make the person go splat if someone tried to “land” it) and thus require whatever special preparation you deem appropriate.
+
+If you want to really limit it then you could make it so that those special portkeys require a lot of juice so they have a recharge time that they have to spend either by being juiced by a wizard or by siphoning magic from a magical planet's atmosphere. You could then decide that some planets aren't actually magical if you need your wizards to get temporarily stranded somewhere; just, you know, keep that consistent if you do.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 2
+:DateUnix: 1479596987.0
+:DateShort: 2016-Nov-20
+:END:
+
+***** u/seylerius:
+#+begin_quote
+  On a random note, it's not unusual for portkeys to be presented as not instantaneous but rather having a set speed. If you decide to take this approach then one would presume that the travel time itself would be a prohibitive factor, and you could use that---rather than the changing position of celestial bodies, as portkeys could be seen as having some kind of ability to home onto the target---as a reason for having special portkeys for interplanetary travel. Heck, you could then make it so that those have to be multi-stage portkeys (since the slowest last stage would be too slow to make the journey before the person using it died of old age, and the fastest space stage would probably make the person go splat if someone tried to “land” it) and thus require whatever special preparation you deem appropriate.
+#+end_quote
+
+I like this. Anything designed to operate on a segmentum scale is going to need to go much faster if you want it to be a viable alternative to a ship. Further, it'll need the requisite deceleration buffers to land you in the segmentum safehouse without getting into /sufficient velocity/ problems.
+
+#+begin_quote
+  If you want to really limit it then you could make it so that those special portkeys require a lot of juice so they have a recharge time that they have to spend either by being juiced by a wizard or by siphoning magic from a magical planet's atmosphere. You could then decide that some planets aren't actually magical if you need your wizards to get temporarily stranded somewhere; just, you know, keep that consistent if you do.
+#+end_quote
+
+Right, then the distances and speeds involved require boatloads of juice, meaning you can either focus for the requisite time (30m, 15m, 5m, 1m, respectively) to speed-charge it, or let it trickle-charge off the ambient magic (maybe quadruple the charge time). And if you're in a low-magic setting (FTL) instead of a high-magic setting (Warhammer, via the Warp), then the trickle-charge times are quadrupled again. Or more. Some planets in low-magic settings might be more magical than others, depending on the setting. Or that might be mid-magic settings.
+:PROPERTIES:
+:Author: seylerius
+:Score: 2
+:DateUnix: 1479598701.0
+:DateShort: 2016-Nov-20
+:END:
+
+
+** I've been thinking about some of the same questions in the Arithmancer-Verse. I make extensive use of ley lines, so it may not be directly applicable to your problem, but the short version is that regular Portkeys only work on Earth's surface because they're guided by the ley lines. /If/ Portkeys into space work, they would have to be timed ones calculated with very precise ephemerides and charged directly from the ley lines to get enough power to overcome the relative velocities.
+
+More generally, for magical space travel, the possible options are Apparition, Portkey, Floo, whatever it is the Knight Bus does, Vanishing Cabinets, magical propulsion like a super-powered broomstick, and wildcards like the Durmstrang ship where we don't really know how it works. Your best bet is probably something portal- or wormhole-like, like the Floo or Vanishing Cabinets, but we don't actually know how long those would take over interplanetary or interstellar distances. As described in canon, I don't think there's any way to know if any kind of magic can go faster than light. However, if you have enough power, it may be possible to create a magical warp drive by continuously applying Extension Charms to the space around you.
+:PROPERTIES:
+:Author: TheWhiteSquirrel
+:Score: 2
+:DateUnix: 1479542788.0
+:DateShort: 2016-Nov-19
+:END:
+
+
+** In this Story [[https://www.fanfiction.net/s/3951749/2/Harry-Potter-and-the-Quantum-Leap][Harry Potter and The Quantum Leap]] he makes a Tardis (DoctorWho) looking portkey that uses a magical Generator and spins in a reverse direction to remove the spinning effect to make it seem like nothing is happening outside maybe make ship versions that can live in for interstellar journeys?
+:PROPERTIES:
+:Author: LuluViBritania
+:Score: 2
+:DateUnix: 1493404279.0
+:DateShort: 2017-Apr-28
+:END:

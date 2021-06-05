@@ -1,0 +1,152 @@
+#+TITLE: Specific Searching in Archive of Our Own
+
+* Specific Searching in Archive of Our Own
+:PROPERTIES:
+:Author: _awesaum_
+:Score: 4
+:DateUnix: 1490197717.0
+:DateShort: 2017-Mar-22
+:FlairText: Discussion/Request
+:END:
+So I've been trying to find new fics on AO3 but I don't think I'm searching tags correctly. When I want to read about a relatively obscure character (ex: Andromeda), it's difficult for me to find fics centered around that character. Usually I find fics in which the character I was looking for is a side character or the pairing is not the main focus. Is there any way (that I don't know about) to search for a "main" character like in FF.net?
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 17
+:DateUnix: 1490201493.0
+:DateShort: 2017-Mar-22
+:END:
+
+*** u/Wirenfeldt:
+#+begin_quote
+  Many authors on A03 tag their stories with every character, pairing and trope that appears in their fic (and sometimes even ones that are merely mentioned and do not actually appear). Not all authors do this but as long as some do you'll find your searches come up with shit you weren't looking for (and in any given search the proportion of irrelevant to relevant fics will be far greater than the proportion of authors who abuse tags compared to those who do not as those fics that abuse tags will naturally appear in more searches than those that do not).
+#+end_quote
+
+No kidding.. when you have to scroll on an ipad to get from tags to summary you know shit has gone too far.. especially if all that's been posted so far is 2 chapters and a grand total word count of 5000 words
+:PROPERTIES:
+:Author: Wirenfeldt
+:Score: 16
+:DateUnix: 1490202031.0
+:DateShort: 2017-Mar-22
+:END:
+
+**** Gotta love fics with longer tags than actual story
+:PROPERTIES:
+:Author: Freshenstein
+:Score: 3
+:DateUnix: 1490229000.0
+:DateShort: 2017-Mar-23
+:END:
+
+
+** I think you just have to ask for recommendations. Unfortunately, people often tag literally everything they think of, making it more difficult to filter.
+:PROPERTIES:
+:Author: PleaseImAFan
+:Score: 3
+:DateUnix: 1490199053.0
+:DateShort: 2017-Mar-22
+:END:
+
+
+** You may or may not find this helpful, but I recently found out that you can remove certain tags from your search results by using the "search within tags" under filters and placing a minus sign before the tags you want to exclude. This may or may not help narrow things down.
+:PROPERTIES:
+:Author: th3irin
+:Score: 3
+:DateUnix: 1490203542.0
+:DateShort: 2017-Mar-22
+:END:
+
+*** It unfortunately doesn't much help when what you really want is stories in which Andromeda is a main character though. You'll still get 47 stories in which she is mentioned in passing once, but everyone in HP, Avengers, and some anime I've never heard of is tagged.
+
+Totally useful though if you just don't want to read Harry/Voldemort.
+:PROPERTIES:
+:Author: Lady_Disdain2014
+:Score: 2
+:DateUnix: 1490206616.0
+:DateShort: 2017-Mar-22
+:END:
+
+**** u/th3irin:
+#+begin_quote
+  You may or may not find this helpful
+#+end_quote
+
+Sure, it might not help if you are expecting to only get back search results that are specifically for Andromeda as a main character (which I think was established from earlier comments that it is very difficult to do?), but it will help thin the search results a bit so that looking for pieces the hard way isn't nearly as daunting.
+
+It just depends on how creative they get with the search parameters and what exactly they are looking for. For example, if they were wanting something Andromeda-centric that was before the books, they could likely thin out the pieces that are tagged with "Luna Lovegood" for example.
+:PROPERTIES:
+:Author: th3irin
+:Score: 1
+:DateUnix: 1490209322.0
+:DateShort: 2017-Mar-22
+:END:
+
+
+** As mentioned before it is difficult. Some strategies I use are:
+
+- Find an author who writes something close to what I'm looking for and then go through all their bookmarks
+
+- Remove any non-cannon pairing that doesn't feature the character I'm looking for (ex: Harry/Draco) using the '-' in "search within results"
+
+- Look through the first page or two of results to check if there's anything particularly common that I want (ex: Andromeda/Ted, Andromeda/Lilly, Andromeda & George, words >3000) or don't want (ex: underage) and refine the first search.
+
+- Optional sort by bookmarks/kudos (I find this sort generally leads to things close to the most popular pairings in the fandom, crossovers from other popular fandoms, or popular authors dabbling in something else and isn't very helpful for rare characters/pairings, but YMMV)
+
+- Spend time paging through results and following up on interesting authors and their favorites
+
+I actually did try this with Andromeda and it worked pretty well--maybe 60% in the first three pages looked like they had Andromeda as a major character. linkao3(9636572) had an excellent line about George's missing second half.
+:PROPERTIES:
+:Author: readertorider
+:Score: 2
+:DateUnix: 1490227285.0
+:DateShort: 2017-Mar-23
+:END:
+
+*** [[http://archiveofourown.org/works/9636572][*/we don't know what happened to anyone else/*]] by [[http://www.archiveofourown.org/users/LullabyKnell/pseuds/LullabyKnell][/LullabyKnell/]]
+
+#+begin_quote
+  Post-DH AU: George Weasley met Andromeda Tonks over the course of three funerals.
+#+end_quote
+
+^{/Site/: [[http://www.archiveofourown.org/][Archive of Our Own]] *|* /Fandom/: Harry Potter - J. K. Rowling *|* /Published/: 2017-02-09 *|* /Words/: 5022 *|* /Chapters/: 1/1 *|* /Comments/: 5 *|* /Kudos/: 129 *|* /Bookmarks/: 22 *|* /ID/: 9636572 *|* /Download/: [[http://archiveofourown.org/downloads/Lu/LullabyKnell/9636572/we%20dont%20know%20what%20happened.epub?updated_at=1486844272][EPUB]] or [[http://archiveofourown.org/downloads/Lu/LullabyKnell/9636572/we%20dont%20know%20what%20happened.mobi?updated_at=1486844272][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1490227499.0
+:DateShort: 2017-Mar-23
+:END:
+
+
+** Despite having a much smaller database, ao3 seems to contain much more slash for some reason.
+:PROPERTIES:
+:Author: Firesword5
+:Score: 1
+:DateUnix: 1490265317.0
+:DateShort: 2017-Mar-23
+:END:
+
+*** This may be true, but I also have found that the quality of the Random Unknown Writer is generally higher on AO3 than what I've found on FFN. IMO, AO3 is a better use of your time to find well-written obscure fics than its peer sites.
+:PROPERTIES:
+:Author: MaineCoonCat3
+:Score: 3
+:DateUnix: 1490291116.0
+:DateShort: 2017-Mar-23
+:END:
+
+
+*** Looking through recent submissions, I feel as though it is 60% x/Draco, 20% x/Snape, 10% everything else. And a huge portion of this is slash.
+
+I'm not going to knock Draco, Snape, or slash in general, but the fascination is one I don't think I will ever understand.
+:PROPERTIES:
+:Author: lordcrimmeh
+:Score: 2
+:DateUnix: 1490272139.0
+:DateShort: 2017-Mar-23
+:END:

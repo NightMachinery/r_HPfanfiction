@@ -1,0 +1,46 @@
+#+TITLE: Why does AFF shows strange question marks instead of quotes and apostrophes?
+
+* Why does AFF shows strange question marks instead of quotes and apostrophes?
+:PROPERTIES:
+:Author: JennaSayquah
+:Score: 5
+:DateUnix: 1584759569.0
+:DateShort: 2020-Mar-21
+:FlairText: Misc
+:END:
+Wasn't sure of the flair on this, so let me know if I need to change it.
+
+Pages on [[https://AdultFanfiction.org][Adult-FanFiction.org]] show up with a strange character in place of all quotation marks or apostrophes: a black diamond with a question mark in the middle of it, as though it's an unknown character, as shown below.
+
+#+begin_quote
+  �Maybe it�s a surprise for your Birthday or something?� Neville muttered sounding far less awake than he seemed.
+#+end_quote
+
+I tried copying-pasting the text, but the strange character is carried over to both text and Word files (and Reddit posts, as you can see).
+
+I also tried changing the display font for my browser, but it didn't help. I am using Chrome, if that makes a difference.
+
+Any suggestions?
+
+
+** I had the same problem some time ago.
+
+[[http://www2.adult-fanfiction.org/forum/topic/64097-question-marks-replacing-quotation-mark-in-stories/][This]] thread should explain why it happens
+
+Also, in latest versions of chrome there's no option of changing encoding anymore, you have to use a browser extension called “Set Character Encoding”. After installing it, open AFF, right-click on the page and choose Windows-1252. You should have to do this only once, after that it would become a default opinion for AFF.
+:PROPERTIES:
+:Author: EusebiaRei
+:Score: 2
+:DateUnix: 1584771559.0
+:DateShort: 2020-Mar-21
+:END:
+
+*** Thank you!!!
+
+For some reason, a simple extension search turned up "no results." I had to find a help thread that had a link to a specific extension. It's [[https://chrome.google.com/webstore/detail/set-character-encoding/bpojelgakakmcfmjfilgdlmhefphglae][here]], in case anybody else has this problem.
+:PROPERTIES:
+:Author: JennaSayquah
+:Score: 1
+:DateUnix: 1584904835.0
+:DateShort: 2020-Mar-22
+:END:

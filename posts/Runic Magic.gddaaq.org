@@ -1,0 +1,203 @@
+#+TITLE: Runic Magic
+
+* Runic Magic
+:PROPERTIES:
+:Author: matgopack
+:Score: 25
+:DateUnix: 1588604935.0
+:DateShort: 2020-May-04
+:FlairText: Discussion
+:END:
+Runic magic is a very common fanon addition to the HP magical system - turning the 'Magical Runes' course from an analogue of a dead language class (likely Latin or Greek for real life schools) and into an actual magical course. Of course, that means there's a variety of interpretations!
+
+What is your favorite view of runic magic, if it exists? What are the advantages and disadvantages compared to wand magic? Its background? Is there a specific fic you think handled Runic Magic well?
+
+
+** For myself, runic magic needs one major caveat - that there needs to be a reason it's an elective, and not the widespread magic used. That is, some fics just make runic magic very powerful - to the point where one would wonder why it's not the default magical type used.
+
+With that in mind, my favored interpretation of runic magic is one where it pre-dated the use of wands - and so, the runes themselves are used as the magical focus. Different cultures would have different symbols and thus different forms of magic - the Elder Futhark (norse) runes that we see in canon for Hogwarts make sense as a northern European system, but I would also see various different sorts of runic magic systems across the globe, each of which could be tweaked in their characteristics - perhaps some lend themselves better to complicated enchantments, others to quicker usage, etc.
+
+For the mechanics of it, my idea is a combination of symbolism and intent - where each rune has a variety of possible symbols it embodies (If you've read the 'His Dark Materials' series, the alethiometer's symbols and their varied meanings are a bit similar to what I have in mind). When using it, the actual impact of a rune would thus depend on where it's used... and what the magic user was thinking when using it.
+
+Use of runes could come in a variety of ways - the classic painted/drawn/engraved forms, but also verbal (using the name of the rune), or using hand gestures/body movements to reproduce the form of the rune, which would allow for more rapid use of the magic - but cruder, and with a lot less potential. A wand could even be used this way, to quickly draw out runes in the air.
+
+Compared to wand magic, my view is that runic magic is considerably less convenient. In day to day life, a wand should just be much more flexible/convenient - eg, warming a teapot would require an easy spell, whereas runic magic would have to spend a while drawing out runes to get it to /just/ the right temperature. More complex spells are likewise easier to achieve with a wand - the patronus charm, once learned, requires a quick spell - whereas an equivalent for runic magic might require /hours/ to setup and make sure it works, even after it had been properly devised.
+
+With the importance of intent and knowledge of how the various runic symbols interact, I also see them taking generally more time to achieve proficiency in - where a newer user might be able to use crude magic/the most prominent meaning of the rune, it'd take a struggle to achieve the proper mindset to be able to use more complicated combinations of runes. For the teapot example, a novice user of runic magic would have problems with putting the temperature at the right level - and would probably resort to a base level of 'fire' instead of being able to warm correctly.
+
+In terms of advantages, runic magic would lend itself better to long-term enchantments (by engravings, for instance) and for letting the proficient user tweak spells. In essence, it's trading away the convenience and efficiency of wand magic for potentially more control over the magic - once you've achieved the right level of understanding/proficiency.
+
+A magic user that specializes solely in runic magic, and not to typical wand magic spells, would have to rely much more on planning ahead - as even a specialist/master of runic magic would be slower to cast comparable spells.
+:PROPERTIES:
+:Author: matgopack
+:Score: 17
+:DateUnix: 1588604940.0
+:DateShort: 2020-May-04
+:END:
+
+*** Very similar interpretation to my own. I think the addition of Runic Magic not being native to the British Isles helps to explain its nature as an elective.
+
+Celtic Ogham would fit as a good local method using magical writing, though I feel that Runes would work best for magical writing given their layered meanings. Ogham meanings are tied to trees, which fits remarkably well with Harry Potter canon, I could see the use of Ogham symbols involved in the construction of wands and brooms.
+
+Given the naming schemes of so many characters, I would say that British wizards bought heavily into the Roman magic of wands after their defeat, especially if Ogham Magic was weaker. There would be no reason other than heritage to hold on when wand magic was stronger, and if they were taking to Roman culture so heavily it would make sense to be lost.
+
+Worldwide, Hanzi, Mayan Logograms, Egyptian Hieroglyphs, etc are all heavily symbolic writing systems and could conceivably be used for magic as well.
+:PROPERTIES:
+:Author: Kingsonne
+:Score: 4
+:DateUnix: 1588619910.0
+:DateShort: 2020-May-04
+:END:
+
+
+** I've always liked the idea of runes basically being a rudimentary programming language -- not strictly logical (as actual programming languages are), but a combination of logical instructions and intent of the one creating the runes. Basically, you can make a progressively more rigid definition of what magic should do with an object inscribed with runes with more clear and logical definitions, which makes it more efficient at the expense of being more limited. For example, you can slap a "Protect" rune on an object, and it provides very rudimentary protection that doesn't help much but works against basically everything. Or you could give more clear instructions ("create a shield covering a particular area when encountering the magical signature x") to give near-complete protection against a specific spell against a specific area (because the magic is completely focused at one specific thing) if you're able to figure out how to define a particular spell's function with runes. Works like making better brooms boils down to figuring out a more efficient way to accomplish the same thing -- either a better wood, a better rune structure, or what have you.
+
+I also have a headcanon that in the past, magical amulets, rings or whatever was all the rage in magical fights to protect/enhance spells, and that battles basically boiled down to who had the best enchanters. Then someone figured out a way to disrupt enchanted objects, and a fight was won by one side not having any at all but disrupting everything for the opposing side to horrific ends. This greatly reduced the use of them, which is why they're nearly non-existent in the Voldemort Wizarding Wars. However, as a result, people might have forgotten about enchantment disruptions, which might actually make the objects useful to an extent again, as long as it isn't employed too widely.
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 7
+:DateUnix: 1588609852.0
+:DateShort: 2020-May-04
+:END:
+
+*** That's a view I've seen before - it does seem interesting! I think for me, it takes it a bit further away from 'magic' than I prefer, but it does open up a lot of possibilities for making runes more complex.
+
+Interesting thought on the magical amulets/rings/objects being disrupt-able, too.
+:PROPERTIES:
+:Author: matgopack
+:Score: 2
+:DateUnix: 1588616112.0
+:DateShort: 2020-May-04
+:END:
+
+
+** In my usual headcanon, Runes is mostly a language class. Runes have meaning, that meaning can shape magical energy just like an incantation, but you don't learn runic magic in the class, at least not until the NEWTs, and even then, it's not a "and this is how you make someone explode", but more of a "And this is how you shift the magical frequency of a pulse by 2 hertz" or "And this is how you set up an operator that feeds energy based on what it percieves". The class is more like a programming class in those years, with runic magic being very complex and difficult and prone to breaking for no reason or because you forget to flip an Eihwaz or a Delta and now the whole thing caught fire.
+
+Additionally, it in conjunction with Arithmancy qualifies you for a Spellcrafting NEWT - but not in the usual sense. Arithmancy predicts the future accurately, so long as you use the right formula. It is essentially magical probability math, and can accept more transcendent concepts as variables. These variables take the form of runes. The two classes together form the basis of Spellcrafting, which is in essence using a specialized and /highly/ complex equation to define an effect and through trial and error divining the wand movement and the incantation.
+
+So you put "I want a light that pulses" in rune form, then do an = and write your personal spellcrafting formula on the other side. Then, you tweak the runic variables until you get both a wand movement and an incantation that add up to solve the equation.
+
+Based on how your equation is structured, you will get a certain "kind" of spell. This is why some spells have latin influences (Accio, Depulso, Expelliarmus, etc), why some are just english phrases (pack, point me, ridikkulus, etc), and why some are completely different languages (Alohomora). Spell formulas can go into the thousands or millions of pages and square meters of equation, with the ease of the incantation and wand movement growing the more complex your equation is factored.
+
+The first spell a student might make is "I want a light that pulses", and their basic equation spits out "Lumos solem - Non quod noctis, autem solis - et saepentis debet esse unus puntos sex septimus per secundus" as the incantation and "Move your wand in a spiral for 7 minutes, then draw a zigzag in a circle around yourself and slowly smooth out into a sine wave of 1.67 Hertz over the course of the next 3" as the wand movement. The spell can't vary pulse length of course, as that requires an uncertain operator in the equation that then accurately matches the desired outcome in pulse length.
+
+Meanwhile, the ancestral formula of Malfoy would spit out "Luminet" as the incantation and "do three jabs with the time between them being the pulse interval" for the same result, while the ancestral formula of Potter spits out "Pip" as the incantation and "Make a tiny circle whose radius in cm defines the interval in seconds" as the movement.
+
+And of course, the spellcrafting formulae are guarded jealously in the family grimoire. Perhaps with personalized incantations for common spells that are exclusive to the family.
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 5
+:DateUnix: 1588619568.0
+:DateShort: 2020-May-04
+:END:
+
+
+** Oh boy. One of my favorites.
+
+My interpretation is that Runic magic is heavily symbolic, more so than wand magic. Each Rune has three tiers of meaning, a base, which is the letter and sound is represents, a literal, which represents a physical aspect tied to the rune, and an esoteric, which represents the spiritual or abstract.
+
+For example, the rune Kaunaz, represents K, Fire, and Knowledge respectively. Magic is used through the runes as they are carved, engraved, or sewn, and then imbued with power and understanding of their meaning.
+
+The power of an Erlilaz or Rune Wielder is multifaceted. The deep, fundamental understanding of the nature of Fire that is held by the magic user affects the power of the flame they can produce through the rune.
+
+It is not just single runes where power is found, but in combining them, as their meanings complement each other. Tuning the understanding and meaning of the Fire of Kaunaz as it relates to the water of Laguz for example. Do they lie in opposition, a representation of opposing forces? Are they combined in force as steam?
+
+Then there is the writing, words and sentences, benedictions, and declarations. Written with runes of power. There is meaning in those words, and there is power in the meaning of the runes that compose the word. Would Shield or Protection be a better word to inscribe on a shield? How do the runes that compose that word support the meaning and intent of the carving?
+
+Runic magic is like poetry. A truely skilled user sees meanings and interactions in everything. They can emphasize one understanding of a rune over another, draw from experiences and understanding that others may not, give the abstract form and gather great power into objects. The water of Laguz represent the soothing waters of a stream, or the black depths and rage of the ocean during a storm? It is both and the skilled can pull both to their use.
+:PROPERTIES:
+:Author: Kingsonne
+:Score: 5
+:DateUnix: 1588618431.0
+:DateShort: 2020-May-04
+:END:
+
+*** In my interpretation all magical people developed their own methods of accessing magic. While Rome developed the wand and incantation method of magic, the Germanic and
+
+Nordic tribes developed Runic magic. As Rome expanded, wand magic was adopted by the region's that fell under the control of Rome. The Germanic tribes abandoned Runes for wands, while the magic of the Celts withered in the face of Roman occupation and control. The Nordic tribes however, did not abandoned the magic of their fathers and held onto it in the coming centuries.
+
+Vikings invaded Britain with their runic enchantments and saw great success In their raids. A viking war party supported by one with an understanding of war could overcome many, for while a wanded wizard cannot give a muggle comrade spells to cast, an Erilaz can bestow his companions with cloaks that can turn aside spells and blades, boots that grant unnatural swiftness, gauntlets that imbue strength, spears that return to their owners hands and axes that cleave where natural blades may be stopped. What use is a wand when the hand that holds it is removed by a sword after only a few spells are cast and brushed aside?
+
+The difference then is in preparation. Wand magic is adaptive, and flexible like the branches of trees from which the wands are born. While rune magic is strong and steadfast, unchanging as the metal its carved in. British wizards and muggles were eventually able to rebuff the attacks of the vikings and their occupation and raids came to an end.
+
+The settlements remained though, as did the weapons of the fallen and the runes carved on the lintels and beams of the homes. British wizards could seek to learn and understand something of this strange magic, and their learnings could be studied at a school for wizards.
+
+Runic magic has a strong heritage and power among its native practitioners. At Hogwarts however, it is a mere optional elective, a curiosity lacking true power and understanding. Students at Hogwarts might learn and study the Runes and their translations, and they might imbue their engravings with power, but one seeking to enchant with the full power of the runes must undertake efforts to gain true understanding of their meaning at the hands of a master, and at the rough and undescriminating hands of life.
+:PROPERTIES:
+:Author: Kingsonne
+:Score: 5
+:DateUnix: 1588619273.0
+:DateShort: 2020-May-04
+:END:
+
+
+** Well, the class is called 'Magical Runes' and not 'Rune Magic' so my interpretation of it was that it was more like an overview of spells prior to the introduction of the the Latin alphabet to the Germanic languages speaking tribes across Europe. Note how all the common spells are a derivation of their function spoken in Latin.
+:PROPERTIES:
+:Author: mikkeldaman
+:Score: 3
+:DateUnix: 1588612656.0
+:DateShort: 2020-May-04
+:END:
+
+
+** My favourite view of Runic Magic is going the Nasuverse Route and basically Scathach style but not as good as the runes aren't Primordial. It's not exactly balanced and leads to OP fics though, it's just rule of cool, drawing a single rune and setting a room on fire.
+:PROPERTIES:
+:Author: LittenInAScarf
+:Score: 2
+:DateUnix: 1588608232.0
+:DateShort: 2020-May-04
+:END:
+
+
+** I like to imagine it's used to enchant things, from things like toy brooms to laying down protective enchantments (wards).
+:PROPERTIES:
+:Author: YOB1997
+:Score: 2
+:DateUnix: 1588620065.0
+:DateShort: 2020-May-04
+:END:
+
+
+** I like the idea that you can work hard to make some runes perfect for a task or you can cast a spell. Making it so that slight errors in tuned can have very disastrous effects would also make you reconsider which you use. I've always loved the idea though that runes can be used much like enchantments on an object where you don't need a wand to use them, with them maybe being a precursor to wands with wizards using them to enchant items to do certain things.
+
+One limitation I've seen before was that the challenge of making them is part of the magic, the effort and time maybe passively imbuing magic into the runes (like pureblood pretense does with potions) which is why muggles can't make them.
+:PROPERTIES:
+:Author: Garanar
+:Score: 2
+:DateUnix: 1588648321.0
+:DateShort: 2020-May-05
+:END:
+
+
+** I always liked the idea that it was needed for permanent enchantments and warding.
+
+Like the spells on a broom need to be anchored together with a rune sequence or cluster to hold them together to stop them degrading.
+
+Or household ward scheme is anchored and focused on a central Ward Stone covered in runes or a series of smaller stones. This let's you anchor various and multiple wards to the house/land and allows a greater range of protection and versatility.
+
+A portkey is a one use item, when carved/inscribed with runes it becomes a permanent or semi permanent portkey to a specific location.
+
+I headcanon that the DA coins are partly rune based, that the mirrors that Sirius gives Harry are rune based, that the fandom two-way journals are linked by a rune sequence.
+
+If you transfigure something it's not permanent, it lasts a varying amount of time depending on the amount of power you put into it and your aptitude (this is actually canon, mentioned in book 5 I think when we learn that Dumbledore's OWL tea set lasted 50 years) so if you add some runes it becomes permanent.
+
+Also I love the idea that you need runes for the basics of alchemy, both the FMA type alchemy and the more traditional fandom alchemy.
+:PROPERTIES:
+:Author: LiriStorm
+:Score: 1
+:DateUnix: 1588647273.0
+:DateShort: 2020-May-05
+:END:
+
+
+** Well, my headcanon is that Runes are this weird mix between a programming language and poetry. Some times, you do the calculations, check your syntax and implement your solution... And other times you get burned because your verse was weak. Each rune has multiple interpretations, and while you can predict which one it will be, somwtimes you'll be wrong.
+
+Good, powerful... And catastrophic if done wrong.
+
+There is also the fact that without power, Runes are just funny way of writing the obvious - you might as well take your ballpoint and write some Python in whipped cream.
+:PROPERTIES:
+:Author: PuzzleheadedPool1
+:Score: 1
+:DateUnix: 1588712672.0
+:DateShort: 2020-May-06
+:END:

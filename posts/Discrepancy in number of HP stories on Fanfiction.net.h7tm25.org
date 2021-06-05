@@ -1,0 +1,164 @@
+#+TITLE: Discrepancy in number of HP stories on Fanfiction.net
+
+* Discrepancy in number of HP stories on Fanfiction.net
+:PROPERTIES:
+:Author: Total2Blue
+:Score: 8
+:DateUnix: 1591997546.0
+:DateShort: 2020-Jun-13
+:FlairText: Discussion
+:END:
+I was at [[https://Fanfiction.net][Fanfiction.net]] to check for new Harry Potter stories and noticed a discrepancy. From the main page, when I click on Books under the Fanfiction heading, next to Harry Potter it shows 821K stories. When I click on Harry Potter it drops to 621K, though this is due to a ratings filter being applied. So if I click on Filters and change the ratings to All, it jumps to 779K. So where did the extra 42k stories go?
+
+
+** Some websites don't properly update information when they delete stories. It could be that the discrepency is due to deleted stories (there was a big NC-17 purge a long time ago).
+
+Moreover, this count can be inconsistent in different places, since most code has inconsistencies.
+
+For instance, some places might count how many stories were ever created (a fairly quick thing to do); whereas, other places might actually do a search and then filter out deleted stories (much more expensive to do).
+:PROPERTIES:
+:Author: tribblite
+:Score: 9
+:DateUnix: 1592000331.0
+:DateShort: 2020-Jun-13
+:END:
+
+*** It is possible it is still showing the count from the old NC-17 stories that were purged.
+:PROPERTIES:
+:Author: Total2Blue
+:Score: 2
+:DateUnix: 1592002033.0
+:DateShort: 2020-Jun-13
+:END:
+
+
+** Non-related but when I started reading fanfiction back in 2003-2004 it was somthing like 35k stories. I just did a double take when I saw your numbers XD. Man how far we have come.
+:PROPERTIES:
+:Author: acidspider88
+:Score: 5
+:DateUnix: 1592008708.0
+:DateShort: 2020-Jun-13
+:END:
+
+
+** Possibly deleted/removed stories are still counted in the total?
+:PROPERTIES:
+:Author: timthomas299
+:Score: 3
+:DateUnix: 1592009457.0
+:DateShort: 2020-Jun-13
+:END:
+
+
+** Languages? Book vs movie universes maybe?
+:PROPERTIES:
+:Author: HeisenV
+:Score: 2
+:DateUnix: 1591998237.0
+:DateShort: 2020-Jun-13
+:END:
+
+*** Languages is not set so defaults to all, and on [[https://Fanfiction.net][Fanfiction.net]], as the movies are based on the books, there is no separate Movies category for Harry Potter stories.
+:PROPERTIES:
+:Author: Total2Blue
+:Score: 2
+:DateUnix: 1592001607.0
+:DateShort: 2020-Jun-13
+:END:
+
+**** u/iamjmph01:
+#+begin_quote
+  Movies category for Harry Potter stories
+#+end_quote
+
+not relevant to your question, but you can filter between just books or just movies, the World option has both, default is set to all. I've never used it so i don't know how accurate it is...
+:PROPERTIES:
+:Author: iamjmph01
+:Score: 2
+:DateUnix: 1592024148.0
+:DateShort: 2020-Jun-13
+:END:
+
+***** Wow, in all the years I have been reading HP stories on there, I have never even noticed that before. Thanks for pointing it out.
+:PROPERTIES:
+:Author: Total2Blue
+:Score: 1
+:DateUnix: 1592029548.0
+:DateShort: 2020-Jun-13
+:END:
+
+
+** I think crossovers are counted seperately, too
+:PROPERTIES:
+:Author: Purrthematician
+:Score: 2
+:DateUnix: 1591998471.0
+:DateShort: 2020-Jun-13
+:END:
+
+*** Crossovers are their own Fanfiction category, showing 48,427 stories. Following the same as I did with the main category and setting ratings to all, the number of available crossover stories is the same at 48.4K..
+:PROPERTIES:
+:Author: Total2Blue
+:Score: 3
+:DateUnix: 1592001354.0
+:DateShort: 2020-Jun-13
+:END:
+
+
+** Crossovers aren't counted on the main HP page.
+:PROPERTIES:
+:Author: onherwayrejoicing
+:Score: 1
+:DateUnix: 1591998983.0
+:DateShort: 2020-Jun-13
+:END:
+
+
+** I'm pretty sure unless you filter to specifically allow ALL fics no matter the rating then it'll only show up to Teen rating.
+:PROPERTIES:
+:Author: Apples531
+:Score: 1
+:DateUnix: 1592001422.0
+:DateShort: 2020-Jun-13
+:END:
+
+*** It does, which is why I set the ratings filter to All rather than just Teen.
+:PROPERTIES:
+:Author: Total2Blue
+:Score: 2
+:DateUnix: 1592001765.0
+:DateShort: 2020-Jun-13
+:END:
+
+**** oh damn sorry, re read and I guess I need some more sleep lol
+:PROPERTIES:
+:Author: Apples531
+:Score: 1
+:DateUnix: 1592001810.0
+:DateShort: 2020-Jun-13
+:END:
+
+***** LOL no prob, I know just what that is like. :)
+:PROPERTIES:
+:Author: Total2Blue
+:Score: 1
+:DateUnix: 1592001897.0
+:DateShort: 2020-Jun-13
+:END:
+
+
+** It includes rated M and crossovers in the big total.
+:PROPERTIES:
+:Author: horrorshowjack
+:Score: 1
+:DateUnix: 1592002279.0
+:DateShort: 2020-Jun-13
+:END:
+
+*** Crossovers are a separate category, and there are 159K rated M stories. way more to account for the 42K discrepancy.
+:PROPERTIES:
+:Author: Total2Blue
+:Score: 2
+:DateUnix: 1592003414.0
+:DateShort: 2020-Jun-13
+:END:

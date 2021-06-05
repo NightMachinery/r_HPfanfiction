@@ -1,0 +1,125 @@
+#+TITLE: How to put fics on a kindle
+
+* How to put fics on a kindle
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1485775118.0
+:DateShort: 2017-Jan-30
+:FlairText: Discussion
+:END:
+[misc] I recently got a Kindle paperwhite 2015 and I want to read fics on it, but I have no idea how to transfer fics to my kindle. If anyone could help, that would be nice.
+
+
+** Save files in a Kindle compatible format - MOBI, PDF, RTF work*. Log into your Amazon account, go to Manage Your Content and Devices, Settings. Make note of the e-mail address assigned to your device under Send-to-Kindle E-Mail Settings (if your device isn't registered, check Amazon help on doing that). Add an e-mail under Approved Personal Document E-mail List.
+
+Once you have all the I's dotted, just mail your documents from your 'approved' e-mail to your 'send-to-kindle' e-mail as attachments. Max 25 documents, max... 20 MB message size? If something goes wrong with your submission Amazon will e-mail you a message describing the problem.
+
+(*Sometimes a MOBI file is rejected, save as PDF or RTF and re-upload).
+:PROPERTIES:
+:Author: Huntrrz
+:Score: 7
+:DateUnix: 1485777831.0
+:DateShort: 2017-Jan-30
+:END:
+
+*** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1485778806.0
+:DateShort: 2017-Jan-30
+:END:
+
+
+** If you don't have (or want) an Amazon account, like me:
+
+1) Download and install [[https://calibre-ebook.com/download][Calibre]]
+
+Calibre is a powerful e-reader management suite.
+
+2) Go to [[http://ficsave.xyz/]]
+
+3) Paste the url of the fic you want to save. The site will convert and prepare it for download in the format you choose - I use epub.
+
+4) Connect your kindle to the computer and open calibre. The main screen will show your library.
+
+5) Click add e-books button. Navigate to the folder you saved your fics from ficsave. After a bit they will be added to your library.
+
+6)Simply right click on the newly added ebook fanfic in the main screen and click send to device. If it asks for an autoconvert, press yes.
+
+Voila!
+:PROPERTIES:
+:Author: T0lias
+:Score: 5
+:DateUnix: 1485781718.0
+:DateShort: 2017-Jan-30
+:END:
+
+*** Calibre actually comes with it's own fanfic download plugin, which allows you to imput multiple URLs at a time. Preferences>Plugins>FanFicFare
+:PROPERTIES:
+:Author: woop_woop_throwaway
+:Score: 7
+:DateUnix: 1485789060.0
+:DateShort: 2017-Jan-30
+:END:
+
+**** Good to know! Does it work on all sites? How does it handle multi-chapter fics?
+:PROPERTIES:
+:Author: T0lias
+:Score: 2
+:DateUnix: 1485795665.0
+:DateShort: 2017-Jan-30
+:END:
+
+***** It works with FFnet and AO3, I don't use any others, but don't think it should be a problem. It downloads all the info about the fic (author, source, word count, pairings, summary, tags etc), then you have a list of chapters (with hypertext links), then the rest of the fic. So it's like any normal multi-chapter ebook, really.
+:PROPERTIES:
+:Author: woop_woop_throwaway
+:Score: 3
+:DateUnix: 1485796172.0
+:DateShort: 2017-Jan-30
+:END:
+
+
+***** It works with a lot of smaller archive sites too. Not all, of course, but a fair few. Stick in a bunch of URLs and see what you get.
+
+Most sites you just provide the link to the first chapter, and it's smart enough to get the whole story for you.
+:PROPERTIES:
+:Author: t1mepiece
+:Score: 2
+:DateUnix: 1485818673.0
+:DateShort: 2017-Jan-31
+:END:
+
+
+** You could use [[https://fanfictiondownloader.net][FanfictionDownloader]], a standalone desktop app. Simply paste in an URL and select format (.mobi for a Kindle), then transfer over USB or WiFi.
+:PROPERTIES:
+:Author: deirox
+:Score: 2
+:DateUnix: 1485789776.0
+:DateShort: 2017-Jan-30
+:END:
+
+*** That page also has a link to the Web-based version for Kindle, which will email straight to your kindle (you have to approve the sening address first). Only seems to work with fanfiction.net.
+:PROPERTIES:
+:Author: t1mepiece
+:Score: 1
+:DateUnix: 1485818791.0
+:DateShort: 2017-Jan-31
+:END:
+
+
+** Some archives provide Kindle-compatible files: Ao3 being the big one. Just click the Download button, and Mobi. Then you can drag and drop straight to your Kindle (though I would recommend Calibre, so you can tag and so forth)
+:PROPERTIES:
+:Author: t1mepiece
+:Score: 1
+:DateUnix: 1485818945.0
+:DateShort: 2017-Jan-31
+:END:
+
+
+** Oh, I forgot - Synch your kindle and your fics will appear under Docs instead of Books. You'll need to delete the docs from your device and from Amazon on the Manage Your Content and Devices page once you're done reading to keep your account and device clean.
+:PROPERTIES:
+:Author: Huntrrz
+:Score: 1
+:DateUnix: 1485781904.0
+:DateShort: 2017-Jan-30
+:END:

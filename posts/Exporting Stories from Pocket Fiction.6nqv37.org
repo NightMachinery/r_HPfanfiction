@@ -1,0 +1,49 @@
+#+TITLE: Exporting Stories from Pocket Fiction
+
+* Exporting Stories from Pocket Fiction
+:PROPERTIES:
+:Author: bobodoll131
+:Score: 7
+:DateUnix: 1500265344.0
+:DateShort: 2017-Jul-17
+:END:
+I've been using the Pocket Fiction app to read fics offline for a couple of years, and have several fics stored there that have since been deleted from their original archives. Is there an easy way to export or convert them into another format? I tried going through the backup, but all of the stories are stored in raw text with markup notation. Any help would be appreciated.
+
+
+** u/Imborednow:
+#+begin_quote
+  in raw text with markup notation
+#+end_quote
+
+Not sure what you mean by that. It might be possible (with a script) to convert the most important markup (like newlines) to HTML.
+:PROPERTIES:
+:Author: Imborednow
+:Score: 1
+:DateUnix: 1500271912.0
+:DateShort: 2017-Jul-17
+:END:
+
+*** How though? "*************************************************************************<br><br>Part 1 - Returns<br><br><br>An icy chill pervaded through the black night; cold except for the<br>unnatural hot wind blowing south with the scent of acrid smoke. " All the text if formatted as above, in an extensionless file.
+:PROPERTIES:
+:Author: bobodoll131
+:Score: 2
+:DateUnix: 1500331916.0
+:DateShort: 2017-Jul-18
+:END:
+
+**** <br> is already an HTML tag. Try opening it in a browser. To do that, type the path into the URL bar, or right click "open with" on the file and click whatever your browser is.
+:PROPERTIES:
+:Author: Imborednow
+:Score: 1
+:DateUnix: 1500334286.0
+:DateShort: 2017-Jul-18
+:END:
+
+
+** Look at the file name and see how it is saved. Google something like "How to convert pdf to epub" and it should walk you through it. There are programs you can download that make this easy, i'm pretty sure the one I use is called Calibre, but i'm not on the correct computer to check.
+:PROPERTIES:
+:Author: papercuts187
+:Score: 1
+:DateUnix: 1500293270.0
+:DateShort: 2017-Jul-17
+:END:

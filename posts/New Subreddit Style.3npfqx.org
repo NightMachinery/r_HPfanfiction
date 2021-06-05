@@ -1,0 +1,196 @@
+#+TITLE: New Subreddit Style
+
+* New Subreddit Style
+:PROPERTIES:
+:Author: denarii
+:Score: 7
+:DateUnix: 1444139149.0
+:DateShort: 2015-Oct-06
+:FlairText: Meta
+:END:
+There are definitely some bugs to be worked out with the new subreddit style. If anyone is having problems I recommend disabling it for now. We'll let everyone know when we think we've resolved all the issues.
+
+
+** I only have one issue so far - the comment box being in the middle is counterintuitive and a little disconcerting when the rest of Reddit has it on the left.
+:PROPERTIES:
+:Score: 7
+:DateUnix: 1444142930.0
+:DateShort: 2015-Oct-06
+:END:
+
+*** Yeah, I agree, especially for comment replies.
+:PROPERTIES:
+:Author: denarii
+:Score: 7
+:DateUnix: 1444143047.0
+:DateShort: 2015-Oct-06
+:END:
+
+
+** How do I disable it? I liked the old format.
+:PROPERTIES:
+:Author: onlytoask
+:Score: 4
+:DateUnix: 1444146788.0
+:DateShort: 2015-Oct-06
+:END:
+
+*** If you use RES (Reddit Enhancement Suite), in the sidebar there should be a checkbox labeled 'use subreddit style.'
+
+Uncheck it and win.
+
+If you don't, then I suggest getting it; it really improves your Reddit experience. Just a quick google for 'RES reddit' should do the trick.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1444146997.0
+:DateShort: 2015-Oct-06
+:END:
+
+**** Thank you.
+:PROPERTIES:
+:Author: onlytoask
+:Score: 2
+:DateUnix: 1444148621.0
+:DateShort: 2015-Oct-06
+:END:
+
+
+** SOME bugs? I'm using Chrome - when I check "use subreddit style" the entire browser throws up, and nothing but a ton of images display all over the page. Little vector PNGs which I assume have some purpose, not to be repeated all over the page.
+
+It displays the same in Firefox, actually.
+
+OMF. The only browser it looks even remotely decent in is IE11. Seriously!? The only reason I can even test that is I'm at work. I don't even HAVE IE on my home computer. WTF...
+:PROPERTIES:
+:Author: paperhurts
+:Score: 3
+:DateUnix: 1444150661.0
+:DateShort: 2015-Oct-06
+:END:
+
+*** Looks like the site was designed by death eaters
+:PROPERTIES:
+:Author: pankok
+:Score: 5
+:DateUnix: 1444150894.0
+:DateShort: 2015-Oct-06
+:END:
+
+**** Is this the right place to point out that some of the Death Eaters are pretty stylish? ... probably not
+:PROPERTIES:
+:Author: ClaraBlack
+:Score: 2
+:DateUnix: 1444152239.0
+:DateShort: 2015-Oct-06
+:END:
+
+***** Maybe ... but do you really want someone to specify that it's been designed by someone like Bellatrix Lestrange or our all-time favourite monsieur Snape?
+:PROPERTIES:
+:Author: Kazeto
+:Score: 3
+:DateUnix: 1444163243.0
+:DateShort: 2015-Oct-06
+:END:
+
+
+*** [deleted]
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1444150908.0
+:DateShort: 2015-Oct-06
+:END:
+
+**** I'm using the same version of firefox...
+
+[[http://m.imgur.com/QAsYHhF][see?]]
+:PROPERTIES:
+:Author: paperhurts
+:Score: 1
+:DateUnix: 1444151688.0
+:DateShort: 2015-Oct-06
+:END:
+
+***** wow, ok, definitely worse than mine.
+:PROPERTIES:
+:Author: ClaraBlack
+:Score: 1
+:DateUnix: 1444152192.0
+:DateShort: 2015-Oct-06
+:END:
+
+
+***** Yuck, that's a mess. I'm using the same version but mine looks alright
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1444152672.0
+:DateShort: 2015-Oct-06
+:END:
+
+
+**** Agreed, it looks ok in Firefox. I turned off the custom theme though until things get sorted out. Personally, I hope the light grey text on a white background gets changed, it's hard to read in my opinion.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1444152582.0
+:DateShort: 2015-Oct-06
+:END:
+
+
+*** It only appears to be doing that for a handful of people, which is weird. For me it works fine in both Chrome and Firefox. It's hard to debug something you can't reproduce.
+:PROPERTIES:
+:Author: denarii
+:Score: 2
+:DateUnix: 1444151482.0
+:DateShort: 2015-Oct-06
+:END:
+
+**** In Chrome my addons are: RES, The Great Suspender, and uBlock Origin. I doubt this is what is making the difference, but it's something to check.
+
+In firefox, I have no addons.
+
+It looks like crap on my android Chrome as well, btw.
+:PROPERTIES:
+:Author: paperhurts
+:Score: 1
+:DateUnix: 1444151850.0
+:DateShort: 2015-Oct-06
+:END:
+
+
+** What the hell. It doesn't work on any browser, including mobile. Roll it back. Do you guys not have a test sub you can screw up so the rest of us don't suddenly think the sub's been griefed?
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1444151527.0
+:DateShort: 2015-Oct-06
+:END:
+
+*** This is not helpful. For me it works fine in IE11, Edge, Chrome 45, and Firefox 41 on Win10 and Chrome and the native browser on my Android phone. What browsers (including versions) and OS are you using?
+:PROPERTIES:
+:Author: denarii
+:Score: 2
+:DateUnix: 1444152253.0
+:DateShort: 2015-Oct-06
+:END:
+
+**** [[http://imgur.com/bBOBYt3][This is what it looks like]]. Left is GS5 Chrome 45.0.2454.94, Right is Win7 and looks like that on IE11, Chrome 45.0.2454.101, and Firefox 41.0.1.
+
+edit: completely refreshed the browser and it still looks the same.\\
+edit: refreshed again and now it's back to the old style.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1444153158.0
+:DateShort: 2015-Oct-06
+:END:
+
+***** Hey, in your reddit preferences do you have the "media" option set to "show thumbnails next to links" rather than "show thumbnails based on that subreddit's media preferences". I'm thinking maybe the thumbnail styling was messed up, but since they were disabled in the subreddit settings only the people with that option set were affected.
+:PROPERTIES:
+:Author: denarii
+:Score: 1
+:DateUnix: 1444168306.0
+:DateShort: 2015-Oct-07
+:END:
+
+****** Yeah it was set to that. I didn't even know there was a by-sub option.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1444169936.0
+:DateShort: 2015-Oct-07
+:END:

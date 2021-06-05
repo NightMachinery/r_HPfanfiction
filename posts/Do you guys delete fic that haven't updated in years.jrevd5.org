@@ -1,0 +1,115 @@
+#+TITLE: Do you guys delete fic that haven't updated in years?
+
+* Do you guys delete fic that haven't updated in years?
+:PROPERTIES:
+:Author: 0-0Danny0-0
+:Score: 2
+:DateUnix: 1604984922.0
+:DateShort: 2020-Nov-10
+:FlairText: Discussion
+:END:
+I've been going through fanfics that I am following and majority of them haven't been updated/completed in years and I'm wondering if people stop folloing fics that haven't updated at least in the past 2-3 years.
+
+
+** I don't delete them because sometimes we come back to things. Old fics do get updated. If a fic is labelled as abandoned/cancelled I might unsubscribe if I remember
+:PROPERTIES:
+:Author: karigan_g
+:Score: 6
+:DateUnix: 1604987838.0
+:DateShort: 2020-Nov-10
+:END:
+
+
+** I really don't care that much whether a fic is finished or not (or, well, I DO care, but not in sense of hating it): some of the best fics are unfinished. It is pity, but I still like them for their good parts.
+:PROPERTIES:
+:Author: ceplma
+:Score: 5
+:DateUnix: 1604991459.0
+:DateShort: 2020-Nov-10
+:END:
+
+
+** I tend to download all fics that i'm interested in. Then I place them in specific folders. First folder is called download and all fics initially go there. Then once I get done reading a fic from the download folder it gets moved.
+
+If the fic is a completed story it gets moved to the complete folder. If it is a WIP it gets placed into 1 of 2 folders. If the story has been updated within 2 years it goes into the updateable folder. If it hasn't been updated within two years the story goes into the abandoned folder.
+
+Then every three months I go through the updateable folder and check to see which stories have been updated and download the newer versions. I do the same thing with the abandoned stories once a year.
+
+During Covid-19 I had over half a dozen of the abandoned stories be updated. One of them the last update was more than 5 years ago.
+
+To help me keep track of the WIPs my filename convention adds the number of chapters and the date of the last update to the stories filename making it easier to know to move a file from updateable to abandoned. Complete stories don't include the number of chapters or date.
+
+While I'm disappointed that quite a few stories are abandoned I have no problem going back and reading them again. In fact, I've just started to go through my complete folder and am reading the stories again.
+:PROPERTIES:
+:Author: reddog44mag
+:Score: 3
+:DateUnix: 1604986655.0
+:DateShort: 2020-Nov-10
+:END:
+
+*** This can be done much more easily with [[https://github.com/JimmXinu/FanFicFare][FanFicFare]]. I have a script which goes through my fics and updates them:
+
+#+begin_example
+  #!/bin/sh
+  export DAYS=${1:-91}
+
+  cat /dev/null >/tmp/knih_update.log
+
+  find ~/Knihy/fanfiction/ -name \*.epub -mtime -${DAYS} -print0 | \
+      xargs -t -L 50 -0 fanficfare -o slow_down_sleep_time=6 -u \
+          >>/tmp/knih_update.log 2>&1
+#+end_example
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1604991577.0
+:DateShort: 2020-Nov-10
+:END:
+
+**** [[https://reddit.com/r/backtickbot/comments/jrgcnn/httpsredditcomrhpfanfictioncommentsjrevd5do_you/][Correctly formatted]]
+
+Hello, ceplma. Just a quick heads up!
+
+It seems that you have attempted to use triple backticks (```) for your codeblock/monospace text block.
+
+*This isn't universally supported on reddit*, for some users your comment will look not as intended.
+
+You can avoid this by *indenting every line with 4 spaces instead*.
+
+There are also other methods that offer a bit better compatability like [[https://stalas.alm.lt/files/new-reddit-codeblock.png][the "codeblock" format feature on new Reddit]].
+
+Have a good day, ceplma.
+
+^{You can opt out by replying with "backtickopt6" to this comment. Configure to send allerts to PMs instead by replying with "backtickbbotdm5". Exit PMMode by sending "dmmode_end".}
+:PROPERTIES:
+:Author: backtickbot
+:Score: 1
+:DateUnix: 1604991590.0
+:DateShort: 2020-Nov-10
+:END:
+
+
+*** I guess downloading all fics you are interested in is a good idea but I'm too lazy to bother :P but what about fics that haven't updated in like 4-10 years? Do you still keep those?
+:PROPERTIES:
+:Author: 0-0Danny0-0
+:Score: 1
+:DateUnix: 1604987024.0
+:DateShort: 2020-Nov-10
+:END:
+
+**** Yes I keep everything. Because I will often reread them. The only fics I haven't kept were those so bad they were difficult to read or the rare occasion where I hated the fic. And as I mentioned one of the fics that got updated during the Covid-19 quarantine hadn't been updated for more than 5 years.
+:PROPERTIES:
+:Author: reddog44mag
+:Score: 2
+:DateUnix: 1604994727.0
+:DateShort: 2020-Nov-10
+:END:
+
+
+**** Stories don't take up all that much hard drive space, so I haven't felt the need to delete any, assuming I downloaded it based on the idea of reading it. There's tons not on my HDD that I didn't download in the first place. I have some regrets about not snarfing more entire fic archives for safekeeping when I was more into fic, since some have gone offline by now. But the total I've saved is maybe a few gigabytes, a crazy amount to actually read (I've read a few percent of it) and yet not much in terms of computer storage these days.
+:PROPERTIES:
+:Author: gwa_is_amazing
+:Score: 2
+:DateUnix: 1604994968.0
+:DateShort: 2020-Nov-10
+:END:

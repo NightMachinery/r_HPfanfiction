@@ -1,0 +1,189 @@
+#+TITLE: Transfiguration Question
+
+* Transfiguration Question
+:PROPERTIES:
+:Score: 10
+:DateUnix: 1506845278.0
+:DateShort: 2017-Oct-01
+:FlairText: Discussion
+:END:
+[deleted]
+
+
+** Okay, so first off, we should be clear as to what Transfiguration is: it is the manipulation of an object's /physical/ substance and form. JKR has described it as altering an object's "molecular structure" and also, in contrasting Transfiguration with Charms, said that the former alters a thing's fundamental nature whereas the latter merely modifies properties. In short, while Transfiguration is a magical process, the end result is not a magical effect which overlays the object but rather a physical change. This joins up nicely with the fact that we know Transfigurations do not spontaneously reverse themselves but rather have to be actively Untransfigured - physical things do not spontaneously turn into different physical things (if anyone feels like responding to this with a phrase involving the word "quantum", feel free not to).
+
+Moving onto your question, you don't even need to think about human -> object. Human -> human Transfiguration also exists. From a physical standpoint it should be possible to perform a human -> human Transfiguration in order to de-age yourself. We know also that transfiguration is used in healing, so why can't it be used to heal age?
+
+Well, that takes us back to the definition of Transfiguration. By logical deduction there is only one answer: if Transfiguration is a physical change, but it cannot de-age you despite being able to physically put you into a younger form, then there must be an aspect of aging which is non-physical (i.e. magical) which persists between transformations.
+
+(Incidentally, the same logic can be applied to the Transfiguration of food to conclude that there must be an aspect to nutrition which is magical in nature).
+
+(Further incidentally, removing this aspect of Transfiguration so that it could change your age is the basis of my fic Lords of Magic).
+
+Now, what exactly this magical element is we cannot say. However, by way of pure speculation, I would suggest that it is the soul. Transfiguration is a physical change so it would not alter the soul. Perhaps the soul remembers what age it is supposed to be, and makes the body it is in "catch up"? There's a potentially interesting connection to horcruxes there too: perhaps the act of splitting the soul breaks the part of the soul which remembers/enforces age on its container. Who can say? This is all speculative. But I think it's an interesting avenue.
+:PROPERTIES:
+:Author: Taure
+:Score: 21
+:DateUnix: 1506862364.0
+:DateShort: 2017-Oct-01
+:END:
+
+*** Your theory is fascinating, but I have a different explanation for Gamp's Law and the lack of anti-aging Transfiguration: wizards aren't knowledgeable enough.
+
+You can only Transfigure what you /know/, and magic fills in the gap. When a wizard Transfigures something into a "slice of ham", he's only thinking of his idea of a slice of ham; therefore the resulting thing will have the appearance and feeling the wizards was thinking of, but may be entirely different in chemical composition, unless the wizard has an intricate knowledge of biology and chemistry and knows /exactly/ what a slice of ham should be like on a molecular level. Similarly, most Transfigured animals are merely constructs that /act/ like the real thing would based on the wizard's estimate, but their insides may be totally wrong. For reversing aging, it's just about the same thing, except worse, because you /do not/ want to accidentally transfigure someone's body part into something that /looks/ like a younger version of the body part but actually has arsenic in place of DNA or something.
+
+Now, Alchemy is a branch of Transfiguration that deals with automated transfiguration processes, skipping the "fallible wizard mind" step entirely. Basic alchemy can only turn a single element into another, but at least you're sure it is /truly/ that element rather than a magically-spawned subsance that /looks/ like it. The Elixir of Life is the most insanely advanced bit of Transfiguration as the only thing that can safely transfigure an entire human body into a healthy version thereof.
+
+Potions like Polyjuice (and things like Animagus transformations) work similarly (in a more limited fashion) by locking onto a specific thing that really exists (the person you're Polyjuicing as, the animal you're turning into) as the template, instead of the wizard's mind being used to determine the shape.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 5
+:DateUnix: 1506868656.0
+:DateShort: 2017-Oct-01
+:END:
+
+**** I feel like this rather contradicts the proposition that transfiguration changes things physically. JKR has been quite clear on that. Transfiguration is not a tactile illusion, it's the real deal.
+
+Further, it would be odd for Muggle science to be relevant to successful transfiguration since said science is not taught at Hogwarts at yet people are casting successful transfigurations all the time. One particularly difficult one for your theory is the transfiguration of an owl into a pair of glasses. Unless you want to suggest that Hogwarts is teaching its students optics, this is a clear example of successful transfiguration of not just the appearance of a thing but also its function without knowledge of how that occurs. (Though really, the same is true of all animal Transfigurations, which would not function without the correct insides). Another problem is the fact that wizards take seriously the idea of a animal created by transfiguration being able to breed successfully and spawn an entirely new species.
+
+Knowledge of the physical structure is clearly not required, because they don't teach it. Rather it is knowledge of the magical process which is the requisite knowledge.
+
+To be honest we don't even know if wizards have the same theory of matter as Muggles. It kinda seems unlikely that they're using the completely unmagical periodic table. I feel it's rather more likely that the wizards have a theory of matter which invalidates the Muggle understanding of the universe since it has magical aspects to it which Muggles do not know about. The Aristotelian elements would probably be a good place to start, especially given the various other elemental references in the series.
+:PROPERTIES:
+:Author: Taure
+:Score: 11
+:DateUnix: 1506874565.0
+:DateShort: 2017-Oct-01
+:END:
+
+***** Hmmmh... I'd say you're lumping together several different things. There's transfiguration /spells/, like tapping a rat three times to turn it into a goblet with the appropriate incantation. That's a spell that was developped previously and uses the "template" method, locking onto a specific model and copying it. Then there's /custom/ transfiguration, when you need a /specific/ result rather than something general like "an owl" or "a working pair of glasses" --- the sort you would need if you were trying to transfigure yourself into a younger version of yourself. The difference is the same as between a proper /Wingardium Leviosa/, and an underage wizard using accidental wandless magic to make his toys float to him. If someone managed to devise a proper cat-making spell /first/, then of course the cat may be anatomically sound. But the average wizard can't make a working, truly living cat from a rock using free transfiguration. I don't think it contradicts the charms/transfiguration distinction, either --- the 'wrong' transfigured cat would still be physically made of perfectly physical molecules, just not the /right/ ones.
+
+I think /One World/ had the best take on the theory of matter seen through an alchemical lens --- the muggles generally have it right (though there are a few elements they're still missing because they only work with magics), but there are four different /types/ of matter in how they react magically, and those are what the ancient greeks confused for "elements".
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 2
+:DateUnix: 1506876570.0
+:DateShort: 2017-Oct-01
+:END:
+
+****** If they can make a fully-functioning cat, what's the point of its physical being different from a real cat's? If you are basing this around the idea that wizards need to truly understand the inner workings in order to properly create something, where does the knowledge to create a functioning cat come from?
+:PROPERTIES:
+:Author: NeutralDjinn
+:Score: 1
+:DateUnix: 1507259521.0
+:DateShort: 2017-Oct-06
+:END:
+
+
+** Well, the thing is, a matchstick can't think. It doesn't have a brain. So it would be immortality in the sense that a rock is immortal. It would be essentially equivalent to some form of cryogenic stasis or suspended animation. You would not live forever, you would just defer the passage of time. The span of your years would increase, not your allotment.
+
+On transfiguring your organs: you could just replace them with better versions. Line everything with graphene and carbon nanotubes etc. Give yourself an extra heart. Replace your intestines with a larger liver etc. You don't need 'dummy' organs if you have spares of the ordinary sort; however idk if that would work very well in combat. A blood boiling curse doesn't care how much blood you have, and a choking cloud doesn't care hoe many lungs you have, etc.
+:PROPERTIES:
+:Author: totorox92
+:Score: 4
+:DateUnix: 1506879065.0
+:DateShort: 2017-Oct-01
+:END:
+
+
+** My personal bit of headcanon here is that, for a first, transfiguring a sentient, living being into something non-living is McGonagall level hard to do. As in, Draco being turned into a ferret was pretty much the limit of what Barty Crouch jr. could do with Transfiguration - a living being into a "lesser" living being. Anything more complicated is the area where only absolute specialists of the fields continue to work, hence why I don't think the life-saving transfiguration is something done often, or at all.
+
+I assume that if someone is transfigured into anything, their sense downgrade (or upgrade) to whatever they get transfigured into. Draco experienced being flung around as a ferret because a ferret could experience it with its senses. If you transfigure someone into a rock (or whatnot) their senses seize to be. Once Untransfigured, they experience it as if they had the mother of all blackouts. So, yes. In theory you could use Transfiguration to become immortal in a somewhat useless form. However, I would describe it more as time-traveling forward as every one of your senses - even your sense of time - seizes to be for the duration of the Transfiguration.
+
+When it comes to the medical considerations, I always go for "magic over matter". Its magic! Of course you keep your organs, as long as the caster of the spell wants you to, that is.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 4
+:DateUnix: 1506846667.0
+:DateShort: 2017-Oct-01
+:END:
+
+*** u/fflai:
+#+begin_quote
+  If you transfigure someone into a rock (or whatnot) their senses seize to be. Once Untransfigured, they experience it as if they had the mother of all blackouts.
+#+end_quote
+
+I think this is contradicted by canon.
+
+#+begin_quote
+  And without warning, Dumbledore swooped, plunging the tip of his wand into the seat of the overstuffed armchair, which yelled, “Ouch!”
+
+  “Good evening, Horace,” said Dumbledore, straightening up again.
+#+end_quote
+
+(HBP, Chapter 4, "Horace Slughorn")
+:PROPERTIES:
+:Author: fflai
+:Score: 7
+:DateUnix: 1506872713.0
+:DateShort: 2017-Oct-01
+:END:
+
+**** I'd say that could be used as an argument against my proposition or can also be explained by saying that Slughorn transfigured himself there, maybe with the intent of keeping (most of his) senses.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 3
+:DateUnix: 1506875015.0
+:DateShort: 2017-Oct-01
+:END:
+
+***** He could have just transfigured his clothes so that he looked like an armchair.
+:PROPERTIES:
+:Author: Jahoan
+:Score: 2
+:DateUnix: 1506892451.0
+:DateShort: 2017-Oct-02
+:END:
+
+
+**** To be honest I'm not sure if that is a Transfiguration. We know from Dumbledore's commentary to Tales of Beedle the Bard that if you are transfigured into an animal you lose your human ability to think. That's what so special about the animagus transformation: it lets you keep your mind.
+
+It would be odd if you lose your mind when you become a dog but don't if you become an armchair.
+
+Instead I think that Slughorn's spell was simply a Charm designed to make him look like he was a chair. Or else perhaps a transfiguration of his clothes but not himself.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1506878620.0
+:DateShort: 2017-Oct-01
+:END:
+
+***** Interesting point. Does it say anything about Krum-shark during the 2nd task?
+:PROPERTIES:
+:Author: fflai
+:Score: 2
+:DateUnix: 1506879034.0
+:DateShort: 2017-Oct-01
+:END:
+
+****** It does not. I feel like the only way to reconcile the two is to suppose that Krum is a partially trained animagus. Or else there is some other method of keeping your mind.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1506879210.0
+:DateShort: 2017-Oct-01
+:END:
+
+******* The partial transformation allowed him to retain his mind.
+:PROPERTIES:
+:Author: Jahoan
+:Score: 2
+:DateUnix: 1506892403.0
+:DateShort: 2017-Oct-02
+:END:
+
+******** The problem with that is that it was head that was the partially transformed part.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1506892453.0
+:DateShort: 2017-Oct-02
+:END:
+
+********* Everyone knows that men think with their dicks.
+:PROPERTIES:
+:Author: NeutralDjinn
+:Score: 1
+:DateUnix: 1507259599.0
+:DateShort: 2017-Oct-06
+:END:

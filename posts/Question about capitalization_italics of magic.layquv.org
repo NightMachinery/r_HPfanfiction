@@ -1,0 +1,86 @@
+#+TITLE: Question about capitalization/italics of magic
+
+* Question about capitalization/italics of magic
+:PROPERTIES:
+:Author: PrincessRapBattles
+:Score: 4
+:DateUnix: 1612281099.0
+:DateShort: 2021-Feb-02
+:FlairText: Discussion
+:END:
+Hi all,
+
+Just trying to get this sorted out. If I use the word Obliviate, for example, I can conjugate it, as well as use it as a spell. I'm not sure when to capitalize or italicize the word.
+
+/Obliviate!/
+
+He's been Obliviated.
+
+I had already done the Obliviation.
+
+Do I italicize the word each time? Do I capitalize the word each time?
+
+And then other spells that have names like the Cruciatis.
+
+/Crucio!/
+
+I've been Crucio'd.
+
+She used the Cruciatis curse.
+
+Same question - when to capitalize? When to italicize?
+
+Thank you!
+
+
+** The only thing I can say to the capitalisation-italicisation stuff is pretty much just 'capitalise proper nouns'. Everything else seems to be relative to personal preference, but if you're 'naming' a spell, then capitalise it properly, just like you'd capitalise Johannesberg or Bob Mortimer.
+
+Some people italicise incantations when people use them, but I honestly don't see the point. They're already in whatever punctuation your language uses for dialogue marks, so people already know and understand that the incantation is being spoken. The only time I personally would ever italicise is when I'm having characters read spells in books or on boards or such. Like:
+
+#+begin_quote
+  And the Professor turned to the board and flicked his wand, revealing the words written there, and the topics of that day's lesson - /Avada Kedavra, Imperio, Crucio/
+#+end_quote
+
+For the most part, *don't use spell names as verbs*. It sounds ridiculous, no matter how you do it. "Oh my god, he's been stupified!" sounds like the last thing the plaintive corpse-finder says (in a breathy, melodramatic voice) before the first ad break in a 2000s police procedural. Obliviated/Obliviating is pretty much the only exception to this. Try to refer to spells using the 'purpose-type name' whenever possible: 'The Memory Charm', 'The Stunning Spell', 'The Killing Curse', etc.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 5
+:DateUnix: 1612287332.0
+:DateShort: 2021-Feb-02
+:END:
+
+
+** As far as I can tell, here's how it works in the books, broken down by the three ways a spell can be used/referred to:
+
+1. The name of the spell (the Killing Curse, the Memory Charm)
+
+   - Capitalized, not italicized
+   - Conjugations of spell names fall into this category as well. (Lockhart was Memory Charmed.)
+
+2. The incantation (/Obliviate/, /Avada Kedavra/)
+
+   - Capitalized and italicized
+   - This applies both when the spell is being cast and when the incantation is given without casting the spell. ("The incantation for the Memory Charm is /Obliviate/.")
+
+3. The incantation used as the name of the spell. ("He was hit by an Avada Kedavra and an Obliviate, for some reason.")
+
+   - Capitalized, not italicized
+   - Conjugations of incantations fall into this category as well. (Lockhart was Obliviated.)
+
+Note that some of this may be a side effect of Rowling capitalizing words that she made up, even if they would not normally be capitalized, like Muggle and Quidditch. If you make the completely reasonable decision not to capitalize those words, you might also choose not to capitalize in case 2 above, though I probably still would.
+
+And of course, the most important thing in these situations is consistency.
+:PROPERTIES:
+:Author: TheLetterJ0
+:Score: 1
+:DateUnix: 1612288499.0
+:DateShort: 2021-Feb-02
+:END:
+
+*** thanks this is helpful. I have not been consistent precisely because I am never sure what the rules are. I'll copy/paste this to my fic for reference.
+:PROPERTIES:
+:Author: PrincessRapBattles
+:Score: 1
+:DateUnix: 1612290098.0
+:DateShort: 2021-Feb-02
+:END:

@@ -1,0 +1,212 @@
+#+TITLE: How does the trace work?
+
+* How does the trace work?
+:PROPERTIES:
+:Author: Suitable_Ad_7961
+:Score: 4
+:DateUnix: 1622481535.0
+:DateShort: 2021-May-31
+:FlairText: Discussion
+:END:
+I know that there are many posts about this but I really can't find it anywhere. I need it for my fic. Can anyone give me a foolproof way of how it works. Even adaptations work, just make it logical. Thanks!
+
+
+** The "Trace", (as the spell) is not mentionned in the books until DH, though the concept exist since CoS when Harry received his first warning. Here are most of the mentions of the Trace in Canon:
+
+​
+
+#+begin_quote
+  “But how come the Ministry didn't realize that Voldemort had done all that to Morfin?” Harry asked angrily. “He was underage at the time, wasn't he? I thought they could detect underage magic!”
+
+  “You are quite right --- they can detect magic, but not the perpetrator: You will remember that you were blamed by the Ministry for the Hover Charm that was, in fact, cast by ---”
+
+  “Dobby,” growled Harry; this injustice still rankled. “So if you're underage and you do magic inside an adult witch or wizard's house, the Ministry won't know?”
+
+  “They will certainly be unable to tell who performed the magic,” said Dumbledore, smiling slightly at the look of great indignation on Harry's face. “They rely on witch and wizard parents to enforce their offspring's obedience while within their walls.”
+
+  /Harry Potter and the Half Blood Prince; Chapter 17: A Sluggish Memory/
+#+end_quote
+
+​
+
+#+begin_quote
+  “The Trace, the Trace!” said Mad-Eye impatiently. “The charm that detects magical activity around under-seventeens, the way the Ministry finds out about underage magic! If you, or anyone around you, casts a spell to get you out of here, Thicknesse is going to know about it, and so will the Death Eaters.
+
+  /Harry Potter and the Deathly Hallows; Chapter 4: The Seven Potters/
+#+end_quote
+
+​
+
+​
+
+#+begin_quote
+  “He can't have,” said Ron. “The Trace breaks at seventeen, that's Wizarding law, you can't put it on an adult.”
+
+  “As far as you know,” said Hermione. “What if the Death Eaters have found a way to put it on a seventeen-year-old?”
+
+  “But Harry hasn't been near a Death Eater in the last twenty-four hours. Who's supposed to have put a Trace back on him?”
+
+  /Harry Potter and the Deathly Hallows; Chapter 9 : A Place to Hide/
+#+end_quote
+
+​
+
+From these quotes, we can determine several thing :
+
+1. The "Trace" is a Charm that is applied over every underage witch and wizards, and is used to determine whenever they used Magic while out of school. Canon doesn't specify when, or where is the Charm applied.\\
+   I would personally speculate that the Charm is put as soon as possible (even if they would not be condemned for it, I think it's a bit silly to not monitor the children when they are the most likely to do some damages with accidental magic), with the Charm being put on the body of the child (since, in this scenario, they would not have received their wand yet).
+2. While the Trace can detect any Magic cast in the vinicity of an Underage Witch or Wizards, it can't detect the perpretator. This is why Harry was blamed for Dobby's action in CoS, and why Voldemort could was never suspected of killing the Riddle.
+3. Because of Tom Riddle, we can also speculate that the Ministry is unable to determine /whose/ Trace was activated. Which means that the Ministry mainly use the location of the facts to determine its suspect (any magic used in Privet Drive would be put on Harry unless proved otherwise). If Harry went to Hermione's home and cast Magic there, she may be the one receiving a Warning (though it is not confirmed in Canon).
+:PROPERTIES:
+:Author: PlusMortgage
+:Score: 3
+:DateUnix: 1622492553.0
+:DateShort: 2021-Jun-01
+:END:
+
+
+** The simplest explanation is that the Trace detects any magic cast within the vicinity of those under the age of seventeen. It's on the underaged person themselves.
+
+I'm not sure if canon elaborates on how, exactly, the Trace is actually applied, but a common fanon-theory is that it's placed on the wand, though I doubt it. Underage magic prior to attending Hogwarts tends to be ignored by the Ministry, which is kind of silly considering the implications for the Statute of Secrecy.
+
+Anyway, the Ministry ignores the activation of the Trace if it's within a known wizarding area. For example, if someone casts a spell near Draco in the Malfoys' manor (or basically in whichever part of Wiltshire they live in), it'll be ignored. On the other hand, any Trace activation in places such as Little Whinging would draw the Ministry's attention (because they know Harry's the only wizard who lives there).
+
+(Yes, before someone points it out, this is very risky and kind of plothole-y, but it's just another one of those quirky things within JKR's world.)
+
+We see in canon that Tom Riddle wasn't blamed for anything despite having a Killing-Curse Trace go off when he killed his Muggle family. However, the problem comes in when people think that it was Riddle's swapping of wands (he used Morfin's) that /defeated/ the activation of the Trace. No, Riddle worked with the Trace. He used it against Morfin at that particular moment. Then, to further pin the blame on Morfin, Riddle modified the former's memories and made sure that the Killing Curse came from Morfin's wand.
+
+It's said in canon that the Ministry had to check Morfin's wand to see where the spell had come from. So it's not like they immediately knew that it was Morfin's wand that did it (they could have checked other wizards in the area as well, such as Riddle himself, perhaps). At that point, Morfin was the last-living Gaunt, and I'm not sure if there were any other wizarding folk living in that area. Also, Riddle probably didn't flee the scene at all, as it could be that the Ministry knew he was visiting his family.
+
+Or perhaps Riddle was one step ahead, and knew that the Ministry would suspect that there had to be someone under the age of seventeen nearby when the Killing Curse went off. What other wizard might show up to the Riddles' manor but Tom himself? So in this case, as I've said, Riddle beat the Trace by simply working with it.
+
+Anyway, all we really know about the Trace is as follows:
+
+- It detects magic done within the vicinity of an underaged wizard.
+
+- It tells the Ministry which spell was done, and where, but not perhaps which wand or who had done it.
+
+- It's removed upon the age of seventeen, and cannot be applied to an adult.
+
+- The Ministry is fairly inconsistent in their monitoring of it. They deliberately overlook Trace activations in very young children, especially before the age of eleven or so, and within known wizarding areas/households.
+
+- Any magic can be detected (not just those of wizards).
+
+- You can get special permission to trigger the Trace, such as Dumbledore somehow getting Hagrid permission to do so when fetching Harry in book one (though how he did so, I don't know. Probably because he was on good terms with Fudge back then).
+:PROPERTIES:
+:Author: Vg65
+:Score: 4
+:DateUnix: 1622487680.0
+:DateShort: 2021-May-31
+:END:
+
+*** Yeah, this about covers it. It's fairly consistent in canon. Some people assume there's holes in it because the likes of Arthur or Tonks cast spells near Harry, but it's likely they just got permission from the Ministry.
+
+Though the Trace doesn't "perhaps" not know who cast the spell, canon states that it absolutely doesn't know.
+
+From Dumbledore twice in HBP:
+
+#+begin_quote
+  “You are quite right --- they can detect magic, but not the perpetrator."
+
+  “They will certainly be unable to tell who performed the magic."
+#+end_quote
+
+It should also be noted that the Trace, or some similar spell, can tell when a muggle has seen magic. The Ministry knows Dudley saw the Patronus. This is probably also used to help keep the Statute of Secrecy going.
+:PROPERTIES:
+:Author: Fleureverr
+:Score: 2
+:DateUnix: 1622501730.0
+:DateShort: 2021-Jun-01
+:END:
+
+
+** My headcanon is that it's applied when the wizard/witch arrives at hogwarts
+:PROPERTIES:
+:Author: PotatoBro42069
+:Score: 2
+:DateUnix: 1622482513.0
+:DateShort: 2021-May-31
+:END:
+
+*** Yes I always went with this theory as well, I doubt that jkr planned it all out so well, but it makes sense that they would separate the first years for so long to enchant them. I feel this also works because Hermione mentioned she casted a few spells beforehand on the train.
+:PROPERTIES:
+:Author: miraculousmarauder
+:Score: 3
+:DateUnix: 1622505164.0
+:DateShort: 2021-Jun-01
+:END:
+
+
+** The Trace is on the wand. All wands sold by Ollivander have the Trace on them.
+
+The Trace detects all magic cast in a certain area around the wand. HOWEVER it does NOT know who is the person/being that cast it. For example, when Dobby levitated the cake (in the summer before Chamber of Secrets) the Ministry thought that it was Harry who had done it.
+
+With that said, if the underage witch/wizard lives with magical parents or in a magical house, the Trace /will/ detect the fact that magic is being cast but it will not know who was the one who did it. Therefore, the Ministry will think it was the parents or any other magical adult that cast it. They will have no proof that it was the underage kid, so they will ignore it.
+:PROPERTIES:
+:Author: fanficlver
+:Score: -1
+:DateUnix: 1622485024.0
+:DateShort: 2021-May-31
+:END:
+
+*** u/Fleureverr:
+#+begin_quote
+  The Trace is on the wand. All wands sold by Ollivander have the Trace on them. The Trace detects all magic cast in a certain area around the wand.
+#+end_quote
+
+This isn't true. It's heavily implied in canon that it's on the actual person. It's referred to as being placed on people. And when Dumbledore explains how Riddle got away with killing his family, he doesn't say that Riddle used another wand (Riddle used his uncle's wand to kill them), he says that the Ministry would have assumed it was the uncle casting the spell.
+:PROPERTIES:
+:Author: Fleureverr
+:Score: 2
+:DateUnix: 1622502136.0
+:DateShort: 2021-Jun-01
+:END:
+
+
+** Okay so I've just tried two times before and maybe it's because I'm tired, so I'm not going to bother with any more advanced formatting.
+
+There are at least four ways the trace could be implemented that I can think of, the following is in reverse order of canon compliance and likelihood.
+
+Country Wide Wards
+
+Perhaps the most flexible. Wards are useful in that at least in fanon, they can made to be very specific. Like only detecting underage magics. You could even include that the reason why the ministry can't just make it detect magics by anyone or by political rivals or what have you is that they inherited the wards from before the ministry or from Merlin or something and the ability to make country wards is lost.
+
+A Detection Grid
+
+Similar to country wards, there could be a grid of magical sensors of some kind. This allows for some abilities like the ability to turn off parts of the Trace grid to protect people or during clandestine actions. A detection grid and country wards could explain how Obliviators know to deal with cases of accidental magic in public spaces, as well as magical catastrophes caused by over-age magicals.
+
+Trace Cast on the Magical
+
+This is probably the strongest option that properly fits into canon. It's also probably the most restrictive option depending on when it is cast. If at birth then Accidental magic detection becomes possible, but it also means that kids aren't learning wanded or wandless magics before school either. That's unlikely as it's probable most purebloods in power would want to teach their children some magic before they start school. If it happens when a magical starts school though, this makes Accidental magic detection difficult to explain
+
+Trace on the Wand
+
+The weakest option, as it allows the use of over-age wands with relative impunity. There's also the same issues of Accidental magic detection as above. This option though presents the most freedom for your characters. This option is the most likely in my opinion because it represents the least amount of work on the Ministry and it also provides them with a scapegoat (that being the wand maker) if things go wrong.
+
+Of course there's nothing stopping you from using a combination of these things. For example there could be a Trace on the wand and a general magic detection grid for Accidental and Catastrophic magic. Which would plug most of the holes and allow for flexibility if you need it.
+:PROPERTIES:
+:Author: sineout
+:Score: 1
+:DateUnix: 1622511174.0
+:DateShort: 2021-Jun-01
+:END:
+
+
+** It tells the Ministry when someone does magic and what kind of magic around kids. Everything else is open for speculation.
+:PROPERTIES:
+:Author: I_love_DPs
+:Score: 1
+:DateUnix: 1622538793.0
+:DateShort: 2021-Jun-01
+:END:
+
+
+** In canon, the Trace worked as the plot required it to.
+
+You're better off picking up a consistent and coherent fanon explanation rather than rely on canon too much.
+:PROPERTIES:
+:Author: rohan62442
+:Score: 1
+:DateUnix: 1622556434.0
+:DateShort: 2021-Jun-01
+:END:

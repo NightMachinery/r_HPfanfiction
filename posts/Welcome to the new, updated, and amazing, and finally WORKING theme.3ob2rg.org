@@ -1,0 +1,375 @@
+#+TITLE: Welcome to the new, updated, and amazing, and finally WORKING theme!
+
+* Welcome to the new, updated, and amazing, and finally WORKING theme!
+:PROPERTIES:
+:Author: tusing
+:Score: 33
+:DateUnix: 1444546384.0
+:DateShort: 2015-Oct-11
+:FlairText: Meta
+:END:
+(Tip: this theme [[http://i.imgur.com/lPkgbZc.jpg][looks /amazing/]] when you use a color inversion plugin like [[https://chrome.google.com/webstore/detail/deluminate/iebboopaeangfpceklajfohhbpkkfiaa?hl=en-US][Deluminate]])
+
+I mean, if it's not working, please let us know. Because we tested this since we took it down early last week. Anyways, I hope you like it. If you don't, tell us why! And if you absolutely /hate/ it, then there's always the default subreddit style. Many thanks also go to [[/u/denarii]] for spending /countless/ hours helping debug my shoddy CSS work.
+
+This theme is a heavily modified version of the Slique theme. We tried to incorporate as much of your feedback as we could!
+
+
+** It's a shame I wont get to see tags properly anymore with the CSS disabled :(
+
+This theme is just far too messy and artsy to be practical. The post page in specific is bloated as all hell and a chore to browse. Too much wasted space, big fonts and wishy-washy colors to be nice on the eyes. I really do miss the old one, it had a distinct difference from the normal reddit theme without being distracting and in the way.
+:PROPERTIES:
+:Score: 13
+:DateUnix: 1444577052.0
+:DateShort: 2015-Oct-11
+:END:
+
+*** I agree, I already disabled the style. I thought it looked okay on the testsub but actually trying to navigate is horrible.
+:PROPERTIES:
+:Author: howtopleaseme
+:Score: 6
+:DateUnix: 1444602999.0
+:DateShort: 2015-Oct-12
+:END:
+
+
+** Looks a hell of a sight better than it did with buttons accross the screen. I'm not a huge fan, but it's not ridiculously intrusive at least. Although there is a one minor issue: the subreddit drop down menu in the top left corner is appearing behind the content when it shouldn't be.
+:PROPERTIES:
+:Score: 7
+:DateUnix: 1444584256.0
+:DateShort: 2015-Oct-11
+:END:
+
+*** Same thing's happening to me.
+
+Also, though this problem is only on my iPad, the links on the main page are awkwardly spaced due to something breaking causing the up/downvote thread icons to occupy a line above the thread to which they pertain.
+
+Example (since my iPad is at home and not available for now):
+
+(icon)
+
+Thread
+
+(icon2)
+
+Thread2
+
+EDIT: Other than those two issues, I don't have any particular problem with the new theme. Not a huge fan of it, either, having preferred the simplicity of the old theme, but no actual problems that negatively impact usage. Keeping the theme for now (since I really do like link flairs), but probably on a trial basis and might have RES disable the style on this sub if it ends up hindering.
+:PROPERTIES:
+:Author: Co-miNb
+:Score: 2
+:DateUnix: 1444660481.0
+:DateShort: 2015-Oct-12
+:END:
+
+
+** I'm getting some high CPU from Firefox while commenting on the subreddit; I'm wondering if it's some runaway javascript? I've turned off the theme, but a heads up.
+:PROPERTIES:
+:Author: someorangegirl
+:Score: 5
+:DateUnix: 1444606391.0
+:DateShort: 2015-Oct-12
+:END:
+
+*** Might be the cloud speed. Is it any better now?
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1444606714.0
+:DateShort: 2015-Oct-12
+:END:
+
+**** Better, but still a jump of about 50-80% cpu when I'm on the themed tab. edit: it's kind of getting better? It's inconsisent. I'm seeing 30-40% now +sometimes+. edit 2: ok pretty consistently 30-40% now, so it's much better.
+:PROPERTIES:
+:Author: someorangegirl
+:Score: 2
+:DateUnix: 1444606949.0
+:DateShort: 2015-Oct-12
+:END:
+
+***** I think Firefox might be doing something really inefficient. For me Firefox sits at around 5-6% CPU which is still a lot for an idle page, but Chrome and Edge sit at 0.1% with the same page open in multiple tabs. Are you on a really low spec device? (Also we can't add Javascript, only CSS, so it's not that, or at least if it is that it's not our doing.)
+:PROPERTIES:
+:Author: denarii
+:Score: 2
+:DateUnix: 1444607960.0
+:DateShort: 2015-Oct-12
+:END:
+
+****** Nah, now that I think about it, it's not Firefox; it's that I'm on a Mac. They can't handle graphic rendering very well. Can't play Flash and the ilk either without the CPU shooting up. (I get the same behavior on Chrome)
+:PROPERTIES:
+:Author: someorangegirl
+:Score: 3
+:DateUnix: 1444608291.0
+:DateShort: 2015-Oct-12
+:END:
+
+
+****** I agree with [[/u/someorangegirl]].
+
+It is on Firefox, Chrome and Safari (I tested). I am on a Mac as well, so that might be contributing the problem.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1444780017.0
+:DateShort: 2015-Oct-14
+:END:
+
+
+**** It's better now, thanks! I'll probably add the clouds to my adblock though; I've no need for them :p
+:PROPERTIES:
+:Author: someorangegirl
+:Score: 2
+:DateUnix: 1444607656.0
+:DateShort: 2015-Oct-12
+:END:
+
+
+** I don't like the background too much, Giants aren't really representative of HP fanfiction, and that's really the only thing you can see with this design on top. The rest is pretty good.
+
+EDIT: Wow, much better!
+:PROPERTIES:
+:Score: 9
+:DateUnix: 1444564006.0
+:DateShort: 2015-Oct-11
+:END:
+
+*** Take a look at the [[http://i.imgur.com/hhZNnOl.jpg][full image]].
+:PROPERTIES:
+:Author: tusing
+:Score: 4
+:DateUnix: 1444565753.0
+:DateShort: 2015-Oct-11
+:END:
+
+**** Yeah, I know, I'm saying that only seeing the top of the image kind of ruins it.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1444565797.0
+:DateShort: 2015-Oct-11
+:END:
+
+***** Thanks for the feedback, I'll see what I can do in that regards.
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1444566093.0
+:DateShort: 2015-Oct-11
+:END:
+
+****** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1444588605.0
+:DateShort: 2015-Oct-11
+:END:
+
+******* Done!
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1444598181.0
+:DateShort: 2015-Oct-12
+:END:
+
+
+**** I agree with OP. The image (regardless of whether it's full or not) is too busy. Perhaps it could be changed to a work of fanart? After all, this is a fanfiction sub.
+:PROPERTIES:
+:Author: Karinta
+:Score: 2
+:DateUnix: 1444613568.0
+:DateShort: 2015-Oct-12
+:END:
+
+
+** I liked the flairs on the side the posts... - also, the font isn't as readable as the standard font - maybe change it to something like Garamond, maybe? I'd love that. It was, after all, the font of the original books (at least the US editions).
+
+EDIT: or perhaps Verdana. FF.net's default font is Verdana.
+:PROPERTIES:
+:Author: Karinta
+:Score: 4
+:DateUnix: 1444613431.0
+:DateShort: 2015-Oct-12
+:END:
+
+
+** I like it. My only quibble is that the grey font color of unclicked links is extremely similar to the slightly lighter grey of clicked links. It makes it hard to tell right off the bat if there's a new post I haven't seen yet. Is there any way to make the fonts more contrasting?
+:PROPERTIES:
+:Author: orangedarkchocolate
+:Score: 2
+:DateUnix: 1444654092.0
+:DateShort: 2015-Oct-12
+:END:
+
+
+** I appreciate the hard work on the new CSS [[/u/denarii]] and [[/u/tusing]]. It looks great.
+
+It just isn't me, and I liked the old theme better, even if it was far past broken. I liked the simplicity of it better, and the comment section looks too busy IMHO.
+
+I also recommend disabling thumbnails, but I think you need the thumbnails for flairs. Maybe you can change the thumbnails into a better image, or make them more innocuous. The page also seems much slower and laggier, especially when typing this. All my other windows type fine, so it probably has something to do with [[/r/HPfanfiction]].
+
+I'll probably using the default theme, but I appreciate the effort. Thanks!
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1444658263.0
+:DateShort: 2015-Oct-12
+:END:
+
+
+** Also, having the post where your mouse is hovering grey out is a bit annoying.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1444658856.0
+:DateShort: 2015-Oct-12
+:END:
+
+
+** Honestly? Its hideous, the whole thing is just grey. Also, square buttons - did we wander back to the 90s? The font looks terrible without subpixel rendering, there is a reason why verdana, arial and helvetica are web standard sans-serifs. The hover effect on downvoting has to be the most obnoxious thing on here. The excessive use of transition effects and massive padding/margin just shows a css novice trying to show off.
+
+The most egregious thing has to be moving the post actions (comments, share, save, hide, report) and making them into icons. This just shows a clear lack of understanding of user experience.
+
+Thank god default styles are a thing.
+:PROPERTIES:
+:Author: plopzer
+:Score: 4
+:DateUnix: 1444609305.0
+:DateShort: 2015-Oct-12
+:END:
+
+*** Thanks for the feedback!
+:PROPERTIES:
+:Author: tusing
+:Score: -1
+:DateUnix: 1444609484.0
+:DateShort: 2015-Oct-12
+:END:
+
+
+** It looks great. Thank you, mods!
+:PROPERTIES:
+:Author: susire
+:Score: 2
+:DateUnix: 1444552100.0
+:DateShort: 2015-Oct-11
+:END:
+
+
+** Thank you mods, it looks great. Although I was have a bit of an issue with somewhat blurry text. See : [[http://imgur.com/a/zsME1]].
+
+It's readable and not much of an issue, just wanted to know if the thin text is intentional.
+:PROPERTIES:
+:Author: aspectq
+:Score: 2
+:DateUnix: 1444553413.0
+:DateShort: 2015-Oct-11
+:END:
+
+*** Thank you!
+
+The thin text is very intentional, as it looks much nicer on modern screens. What screen resolution do you have? What device are you using, and what browser are you on?
+
+If you're on Chrome, and the thin text causes issues, I would recommend the [[https://chrome.google.com/webstore/detail/font-changer-with-google/jgjhhoglgjdklldfgoffdiaceffijeke?hl=en][FontChanger]] plugin.
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1444553609.0
+:DateShort: 2015-Oct-11
+:END:
+
+**** I'm using Chrome on Windows 8 with screen size 1366x768. Thanks for the suggestion, I'm now using different fonts and it's looking good.
+:PROPERTIES:
+:Author: aspectq
+:Score: 2
+:DateUnix: 1444555478.0
+:DateShort: 2015-Oct-11
+:END:
+
+
+** Very nice. Although personally, I would have spliced together fan fic fan art into a banner. You know, Fem Harry and Snape, evil Harry in Death Eater robes, that sort of thing.
+
+But this works too, love it! :D
+:PROPERTIES:
+:Author: -Oc-
+:Score: 1
+:DateUnix: 1444571205.0
+:DateShort: 2015-Oct-11
+:END:
+
+
+** The margins seem to be slightly out on my iPad mini.
+:PROPERTIES:
+:Author: MagicMistoffelees
+:Score: 1
+:DateUnix: 1444563514.0
+:DateShort: 2015-Oct-11
+:END:
+
+*** Can you post a screenshot? I don't have an iOS device, so I can't test there.
+:PROPERTIES:
+:Author: denarii
+:Score: 1
+:DateUnix: 1444607268.0
+:DateShort: 2015-Oct-12
+:END:
+
+
+** Text and pictures get cutoff by the side bar.
+
+[[http://imgur.com/a/6PSxN]]
+:PROPERTIES:
+:Author: alienking321
+:Score: 1
+:DateUnix: 1444614099.0
+:DateShort: 2015-Oct-12
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1444638023.0
+:DateShort: 2015-Oct-12
+:END:
+
+*** Not sure why your comment was removed.
+
+I, personally, think a center-aligned comment box makes more sense, but I was outvoted in that regards.
+
+The theme isn't night-mode compatible, unfortunately; the amount of work to rebuild the theme for nightmode is completely unjustified. If you want to use something like Night Mode, I recommend you take a look at the updated OP - the theme looks and works fine with color inversion.
+:PROPERTIES:
+:Author: tusing
+:Score: 0
+:DateUnix: 1444715862.0
+:DateShort: 2015-Oct-13
+:END:
+
+
+** I've reevaluated and used the theme for a while, and I like it a lot.
+
+But it is slow. I don't know why but it seems slow. I will probably continue to use it though! Thanks for all your hardwork [[/u/denarii]] and [[/u/tusing]]!
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1444778929.0
+:DateShort: 2015-Oct-14
+:END:
+
+*** I'm planning on removing the clouds, I think that's what's causing performance problems for a lot of people.
+:PROPERTIES:
+:Author: denarii
+:Score: 1
+:DateUnix: 1444778984.0
+:DateShort: 2015-Oct-14
+:END:
+
+**** I don't know what you mean by clouds, but sure! Do all you can ^{^{because}} ^{^{this}} ^{^{lag}} ^{^{is}} ^{^{really}} ^{^{fucking}} ^{^{annoying}}
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1444779849.0
+:DateShort: 2015-Oct-14
+:END:
+
+***** If you look at the background image at the top there are slow moving animated clouds over it.
+:PROPERTIES:
+:Author: denarii
+:Score: 1
+:DateUnix: 1444779944.0
+:DateShort: 2015-Oct-14
+:END:

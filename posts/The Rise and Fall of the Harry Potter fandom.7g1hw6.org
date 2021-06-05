@@ -1,0 +1,502 @@
+#+TITLE: The Rise and Fall of the Harry Potter fandom
+
+* The Rise and Fall of the Harry Potter fandom
+:PROPERTIES:
+:Author: ronin005
+:Score: 44
+:DateUnix: 1511843450.0
+:DateShort: 2017-Nov-28
+:FlairText: Discussion
+:END:
+I believe many have the impression that the HP fandom "past the peak" some years ago - it's only natural to happen after the conclusion of canon. I was curious how I can quantify that, and I collected the number of publications on fanfiction.net.
+
+The chart: [[https://i.imgur.com/ksaJ6ef.png]]
+
+Quick observation:
+
+- 2011 (the year of the final movie) must have been a crazy year. The fandom was twice as large as the current size (at least on fanfiction.net), and the peak was quite sharp.
+- 2007 is the year of Book DH and Movie OOTP, and 2005 is the year of Book HBP and Movie GOF - which kind of explains the two mini-peaks.
+- We will have to see how much effect CC and FB had - but apparently not much, either positive or negative?
+
+Caveats: the smaller numbers in the earlier years /could/ partly be due to fanfiction.net being not as popular as later. (I'm not sure the same could be said to the last couple years.) Also, this would reflect the fandom purely from the writers' perspective. For readers, things must be more accumulative - people in 2017 can read stories from 2007, 2008, etc.
+
+p.s. I suck at titles.
+
+--------------
+
+Technical details for those interested:
+
+Data was collected from the fanfiction.net website using a script. It took my computer a couple of days to crawl fanfiction.net for 40000 pages. The result is 700K lines of a tsv file (one line per fic). The sum for each year looks like this:
+
+#+begin_example
+  31756 2016    Movie FB1, Play CC
+  34677 2015
+  38551 2014
+  48089 2013
+  58260 2012
+  69378 2011    Movie DH2
+  51749 2010    Movie DH1
+  47370 2009    Movie HBP
+  47831 2008
+  53858 2007    Book DH, Movie OOTP
+  51319 2006
+  52327 2005    Book HBP, Movie GOF
+  49992 2004    Movie POA
+  40352 2003    Book OOTP
+  22619 2002    Movie COS
+  10796 2001    Movie PS
+#+end_example
+
+It is about the year when the fic was published, not updated. A fic published in 2007 and updated in 2009 will be +1 to 2007 and +0 to 2009.
+
+The numbers are slightly erroneous because I was too lazy to remove duplicates. I was pretty sure the duplicates were less than 1% anyway, so I skipped cleaning.
+
+Lastly, this is not really my work - for the data collection I simply used what someone else made: [[https://pastebin.com/4xd2bDK5]] [[https://www.reddit.com/r/HPMOR/comments/2hk4bd/ffnet_harry_potter_fanfiction_data_as_of_sep_24/]] (although there was a small bug - I replaced the undefined variable "story_rx" with "Crawler.story_rx", everything else worked great.) I used Python 2.7.6.
+
+EDIT: replaced image with better rendered one
+
+
+** 2005 was the BEST year in HP fandom for me. I loved being on Mugglenet all the time browsing for updates for the movie GoF and book HBP. I loved the forums and fanfic during that year too. It was great trying to decipher all the clues in JKR's website. I believe that was the year MuggleCast started too. It was smack dab in the middle of the HP fandom days and it was a blast. The movies still had years before the final so the fandom just felt like we all had forever to go with this series.
+:PROPERTIES:
+:Author: anditgetsworse
+:Score: 36
+:DateUnix: 1511845325.0
+:DateShort: 2017-Nov-28
+:END:
+
+*** 2005 /was/ a good year in the HP fandom. I wrote a load of fics, made some great friends and had NMBS2K4 as my license plate. :D
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 7
+:DateUnix: 1511854121.0
+:DateShort: 2017-Nov-28
+:END:
+
+**** I made a lot of friends that year too! The fandom really had a true community feel during that time. I miss it.
+:PROPERTIES:
+:Author: anditgetsworse
+:Score: 2
+:DateUnix: 1511892840.0
+:DateShort: 2017-Nov-28
+:END:
+
+
+*** God I remember that. The waits for the books, constantly checking mugglenet or COS forums. Holy crap. I need a new Harry Potter.
+:PROPERTIES:
+:Author: Eschmidt05
+:Score: 2
+:DateUnix: 1511856741.0
+:DateShort: 2017-Nov-28
+:END:
+
+
+*** I was on the forums at that time under a different name too (apollo13). Loved that place, I spent hours on it, learnt how to make banners, made some really good friends. They're still about, with some of the old crowd desperately trying to keep it going but it's pretty much dead. Such a shame. It was such a wonderful, friendly community. The heavy moderating really helped until a big bust up when it all became a bit nastier, and I think that was the beginning of the end. What was really nice was I posted there recently and some of the old crowd not only remembered my username but my actual name, which really shows what a good community it was.
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 2
+:DateUnix: 1511857995.0
+:DateShort: 2017-Nov-28
+:END:
+
+**** u/Taure:
+#+begin_quote
+  the old crowd
+#+end_quote
+
+I see what you did there.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1511895299.0
+:DateShort: 2017-Nov-28
+:END:
+
+***** ;)
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 1
+:DateUnix: 1511899129.0
+:DateShort: 2017-Nov-28
+:END:
+
+
+*** This is also when a lot of the great lost works on LiveJournal were being posted. I think it was right around then that the great purge happened :(
+:PROPERTIES:
+:Author: firstsip
+:Score: 2
+:DateUnix: 1511899097.0
+:DateShort: 2017-Nov-28
+:END:
+
+
+** I do wonder how it fares in terms of quality though. I know that I'm not really struggling to find new-ish 100k+ fics that have good writing and a decent plot.
+:PROPERTIES:
+:Author: costryme
+:Score: 14
+:DateUnix: 1511845781.0
+:DateShort: 2017-Nov-28
+:END:
+
+*** Instead of the number of fics, I could count the total faves for each year. That could be a first step to approximate quality.
+:PROPERTIES:
+:Author: ronin005
+:Score: 5
+:DateUnix: 1511846802.0
+:DateShort: 2017-Nov-28
+:END:
+
+**** Not so sure number of favs would be a good indicator of quality. It would seem that it would indicate volume again - this time, number of readers rather than writers.
+:PROPERTIES:
+:Author: Taure
+:Score: 13
+:DateUnix: 1511855896.0
+:DateShort: 2017-Nov-28
+:END:
+
+
+*** No problem with finding long fics that are at least decent? What alternate universe do you hail from?
+:PROPERTIES:
+:Author: Satanniel
+:Score: 9
+:DateUnix: 1511852577.0
+:DateShort: 2017-Nov-28
+:END:
+
+**** Haha. Well I do read ASOIAF fics too, so I don't read as many HP fics as I used to, so there's that, but between some older good fics that I never read because the pairing/topic did not interest me before, and the recent ones, I can't really complain.
+:PROPERTIES:
+:Author: costryme
+:Score: 3
+:DateUnix: 1511884605.0
+:DateShort: 2017-Nov-28
+:END:
+
+
+** Would be interesting to see these figures adjusted for fic length, i.e. total number of words written in the fandom in that year. But unfortunately FF.Net does not exactly have the information for this - people can continue writing fics for years and all the words would be registered as having occurred at the date of last publication. I suppose what you could do is take the date of publication and the date of last update and divide the total wordcount by the years between them, assuming for the sake of statistics that the author wrote at an even pace.
+:PROPERTIES:
+:Author: Taure
+:Score: 13
+:DateUnix: 1511855946.0
+:DateShort: 2017-Nov-28
+:END:
+
+*** Interesting and doable idea. Maybe a little bit complicated to produce than this one, but I'd like to try when I have time.
+:PROPERTIES:
+:Author: ronin005
+:Score: 3
+:DateUnix: 1511877425.0
+:DateShort: 2017-Nov-28
+:END:
+
+
+** This is a bit like discussing the rise & fall of the Roman Empire. Artistically the empire was still flourishing when the geographical empire fell. The biggest test for me is the quality of the writers left who write about my fav pairing. Sadly, most have moved on or have stopped writing. My favourite place for fanfic was actually Livejournal as there were some great communities and regular ficafests.
+:PROPERTIES:
+:Author: Herenes
+:Score: 11
+:DateUnix: 1511863957.0
+:DateShort: 2017-Nov-28
+:END:
+
+*** u/ronin005:
+#+begin_quote
+  This is a bit like discussing the rise & fall of the Roman Empire. Artistically the empire was still flourishing when the geographical empire fell.
+#+end_quote
+
+That's a really good analogy. I didn't think about it when I used the "Rise and Fall" title haha.
+:PROPERTIES:
+:Author: ronin005
+:Score: 3
+:DateUnix: 1511877970.0
+:DateShort: 2017-Nov-28
+:END:
+
+
+*** I miss LJ HP fanfic. It was THE plcae to go for the highest quality fics.
+:PROPERTIES:
+:Author: anditgetsworse
+:Score: 2
+:DateUnix: 1511892989.0
+:DateShort: 2017-Nov-28
+:END:
+
+
+** It pains me that you put CC as canon.
+
+The trolley witch...never forget :'(
+:PROPERTIES:
+:Author: FlatFootedPotato
+:Score: 21
+:DateUnix: 1511845916.0
+:DateShort: 2017-Nov-28
+:END:
+
+*** But the trolley witch was the best part!! :D
+:PROPERTIES:
+:Author: Dina-M
+:Score: 1
+:DateUnix: 1511857679.0
+:DateShort: 2017-Nov-28
+:END:
+
+
+*** As I keep telling everyone. You may declare Fanon Discontinuity upon /Cursed Child/ because you don't like it, but the operative word is /fanon/. /Canon/ refers to what Rowling says is canon regardless of what the fans think about it, and she definitely counts /Cursed Child/ as canon.
+
+Also --- what's so bad about the Trolley Witch, exactly? She has one scene where she does a bit of human transfiguration... and?...
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: -2
+:DateUnix: 1511859350.0
+:DateShort: 2017-Nov-28
+:END:
+
+**** The real issue with CC being canon is how it fundamentally broke how magic worked in terms of time travel.
+
+The Time Turners as presented and used in PoA are closed loop fixed timeline. You can't change the future that already happened. Instead you have to create a new path where the past already happened but you make the future different.
+
+Now they are a mix of multiverse theory and the grandfather paradox.
+
+Except in PoA its explicitly stated Time Turners can't do that due to a limitation on how far back you can go.
+
+So either call the device something else (its magic. We'll accept it.) or something.
+
+Second is Delphini herself. Voldemort wouldn't procreate and at no point before the final battle was Bellatrix actually visablly pregnant. Sure Azkaban would have done a number on their bodies but I doubt somehow it would hide a pregnancy like that.
+
+If it affected them that severely she would have miscarried.
+
+And that didn't cover the personality issues various characters have as opposed to the rest of canon.
+
+So sure. It's canon. We ignore it. But as canon it certainly doesn't help continue the world she built.
+:PROPERTIES:
+:Author: LothartheDestroyer
+:Score: 20
+:DateUnix: 1511862421.0
+:DateShort: 2017-Nov-28
+:END:
+
+***** u/Taure:
+#+begin_quote
+  The Time Turners as presented and used in PoA are closed loop fixed timeline. You can't change the future that already happened. Instead you have to create a new path where the past already happened but you make the future different.
+#+end_quote
+
+Not really. That's how timeturners should be used according to Ministry guidance but Hermione was explicitly warned not to change the past, implying that it is indeed possible.
+
+PoA only makes closed-loop seem the norm because the time-travelers behaved themselves.
+
+In any case, the time turner in Cursed Child is explicitly stated to be an innovation (in relation to both the length of time involved and its ability to return you to the present), so there's no plot hole unless you subscribe to the fanon idea that the wizarding world is stagnant.
+
+Agreed re: Delphini though.
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1511895390.0
+:DateShort: 2017-Nov-28
+:END:
+
+
+***** I suppose we don't see Time-Turners the same way. She certainly foreshadowed long-term Time-Turning earlier on Pottermore, though. The way it works if I'm not mistaken is that /if/ you go back recently enough, magic will Felix Felicis its way into an apparently stable time loop, but if you try to go farther, the results become dangerous and unpredictable because it no longer /can/ figure a self-consistent way out.
+
+As for Delphini, I don't find it that out of character for Riddle to sire a daughter, and Bellatrix's apparent non-pregnancy is easy to answer with "magic".
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 3
+:DateUnix: 1511862915.0
+:DateShort: 2017-Nov-28
+:END:
+
+
+**** That also means that the movies are canon, too, even when they conflict with the books.
+
+CC is canon the same way Radcliffe's eyes are canon.
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1511883254.0
+:DateShort: 2017-Nov-28
+:END:
+
+***** No. Rowling never said the movies were canon to the books, whereas she did for /Cursed Child/. Also, /Cursed Child/ never contradicts the books factually, although some may feel it contradict their spirit in places. Putting it on level with BlueEyed!Harry is ludicrous exageration.
+
+(Although for the record, I'm siding with the wiki in choosing to think of elements introduced in the movies that don't contradict the books as being real.)
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 1
+:DateUnix: 1511890221.0
+:DateShort: 2017-Nov-28
+:END:
+
+
+**** Actually, only what is written in the seven books as released as part of the main series are cannon, anything else is also fannon, admittedly, it's the author's fannon, but it's still fannon. #DeathOfTHeAuthor
+:PROPERTIES:
+:Author: Saelora
+:Score: 2
+:DateUnix: 1511869593.0
+:DateShort: 2017-Nov-28
+:END:
+
+***** As I said before, Death of the Author is a fine concept and all, but by its very existence it negates the existence of a /canon/. A canon is an official dictate of what is "real" in this universe and what is not, coming from official sources (mostly the author themselves). By definition, Death of the Author means you won't listen to what the author says, namely the canon.
+
+...Also, it's spelled fanon and canon. With one "n" each.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 4
+:DateUnix: 1511890489.0
+:DateShort: 2017-Nov-28
+:END:
+
+
+**** 1. I disagree with the notion that anything and everything that comes out of the author's mouth about the universe is canon. Rowling is a good author, but she's been shown to be very flippant at times with her running commentary about the HP universe, e.g. when the UK was having protests regarding university costs and Rowling chose to get political by tweeting that Hogwarts is tuition free. I certainly don't think every tweet and off-the-cuff talk show remark should be considered canonical. It's simply too easy today for an author to throw out random tidbits off the top of their head that don't make sense upon further reflection.
+
+2. Even if one does consider CC to be "canon," fictional universes can have varying levels of canonicity. The Star Wars expanded universe was "canon" for years, but a lower tier of canon than were the Lucas films. There is no contradiction in saying "Alright, this script Rowling was loosely involved with writing might be canon, but it obviously operates at a lower tier of canonicity than the original heptalogy.
+:PROPERTIES:
+:Author: that_big_negro
+:Score: 1
+:DateUnix: 1512290443.0
+:DateShort: 2017-Dec-03
+:END:
+
+***** But who /defines/ the canon for you? Yes, the /Star Wars Expanded Universe/ had a "lower tier of canon" thing going on compared to the original trilogy, but that was /because George Lucas said so/. That's how canon works.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 1
+:DateUnix: 1512293893.0
+:DateShort: 2017-Dec-03
+:END:
+
+****** No, that's not how canon works, because fictional canonicity as a concept was invented by, and really only matters to, fans. As such, it's the fans who get to decide what it means for something to be a part of the canon. Rowling can claim that her tweets about school tuition and galleon exchange rates are "canon," but it's up to the fans to decide whether or not its a load of shit. She can give her stamp of approval to super time turners that break all continuity with the original heptalogy, but she can't make the fanbase accept it.
+:PROPERTIES:
+:Author: that_big_negro
+:Score: 2
+:DateUnix: 1512296851.0
+:DateShort: 2017-Dec-03
+:END:
+
+******* Continuity determined by the fandom is /fanon/. Canon may /matter/ to the fans, but the term is meaningless if the /fans/ define it. What you are describing (ignoring the galleon exchange rates, etc.) is exactly fanon. The phenomenon known as "Fanon Discontinuity", to be precise, per TVtropes.
+
+By the way, why do you get so worked up about the tuition fee thing? I rarely see it mentioned among the /bad/ things Rowling said in interviews --- indeed, having Hogwarts require tuition fees in a fic appears on quite a few pet-peeves lists, including mine.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 0
+:DateUnix: 1512299655.0
+:DateShort: 2017-Dec-03
+:END:
+
+******** u/that_big_negro:
+#+begin_quote
+  By the way, why do you get so worked up about the tuition fee thing?
+#+end_quote
+
+Because it's (IMO) heavily implied in the first book that Hogwarts does require tuition fees.
+
+"I haven't got any money--and you heard Uncle Vernon last night... he won't pay for me to go and learn magic."
+
+"Don't worry about that," said Hagrid, standing up and scratching his head. "D'yeh think yer parents didn't leave yeh anything?"
+
+If Hogwarts didn't require tuition fees, Hagrid would have said something along the lines of "Don't worry about that, Hogwarts is tuition-free." Instead he says "Don't worry about that, you have enough money to pay for it." He could have simply been referring to the cost of school supplies, but the way the conversation is phrased implies otherwise.
+
+And I get worked up about it because I see it as Rowling abusing her authority over the canon of the HP universe for the sake of a cheap political message. That's why I don't like the idea of her having unadulterated authority over what does and doesn't constitute canon - she has proven to be perfectly willing to throw continuity under the bus on a whim. She is no Tolkein, and Pottermore and Cursed Child are no Silmarillion. She doesn't think things through thoroughly, or if she does then she just plain doesn't care if she directly contradicts the series.
+:PROPERTIES:
+:Author: that_big_negro
+:Score: 3
+:DateUnix: 1512307187.0
+:DateShort: 2017-Dec-03
+:END:
+
+
+** I didn't find out about fanfiction until 2014. I haven't noticed many changes since then. Certainly the older stories I've looked at--which is quite a lot although I haven't read that many all the way through--don't have the edge in quality. Possibly the reverse in fact. I think readers (and writers) might be a bit more discriminating now.
+:PROPERTIES:
+:Author: booksandpots
+:Score: 6
+:DateUnix: 1511897186.0
+:DateShort: 2017-Nov-28
+:END:
+
+
+** What about the introduction of AO3 and the more lenient rules on smut writing there? Could that have been a contributing factor in any way?
+:PROPERTIES:
+:Author: peppermint_toad
+:Score: 5
+:DateUnix: 1511910185.0
+:DateShort: 2017-Nov-29
+:END:
+
+*** Possibly, but there were plenty of other outlets once FF.net stopped allowing explicit content.
+
+RestrictedSection, LJ, SycophantHex, adultfanfiction
+
+There were some other places I used to check as well. I can't believe I can't remember some of their names.
+
+I've left and come back a few times. I started reading fic in the old days of '02 and '03. It's never a problem to find new stuff now because I don't have the kind of time I had when I was young. I used to read everything that popped up under my search guidelines and I'd go through author's favorites lists.
+:PROPERTIES:
+:Author: Zaidswith
+:Score: 2
+:DateUnix: 1511927492.0
+:DateShort: 2017-Nov-29
+:END:
+
+**** I had no idea about the others!
+:PROPERTIES:
+:Author: peppermint_toad
+:Score: 1
+:DateUnix: 1511934023.0
+:DateShort: 2017-Nov-29
+:END:
+
+***** I'd say that only a small section of fanfic was ever on FF.net. FictionAlley was a place for both the forum and the fic archive. You could frequently read more stuff on Live Journal than would ever be updated on the archives because you could directly follow most writers. Quicker updates and stuff they would keep locked unless you were friends that was never officially posted. I'd check Potions and Snitches for my Severitus fics, every pairing seemed to have its own site. Etc.
+
+AO3 is an amazing site I rarely venture from these days, but we've always had more options than FF.net and AO3.
+
+I think SugarQuill might've been another... Hmm.
+:PROPERTIES:
+:Author: Zaidswith
+:Score: 3
+:DateUnix: 1511965554.0
+:DateShort: 2017-Nov-29
+:END:
+
+
+** [[/r/dataisbeautiful][r/dataisbeautiful]]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1511848784.0
+:DateShort: 2017-Nov-28
+:END:
+
+
+** I'm a bot, /bleep/, /bloop/. Someone has linked to this thread from another place on reddit:
+
+- [[[/r/harrypotter]]] [[https://www.reddit.com/r/harrypotter/comments/7g3yrh/the_rise_and_fall_of_the_harry_potter_fanfictions/][The Rise and Fall of the Harry Potter fanfictions]]
+
+ /^{If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.} ^{([[/r/TotesMessenger][Info]]} ^{/} ^{[[/message/compose?to=/r/TotesMessenger][Contact]])}/
+:PROPERTIES:
+:Author: TotesMessenger
+:Score: 1
+:DateUnix: 1511874130.0
+:DateShort: 2017-Nov-28
+:END:
+
+
+** Is there any chance you can upload the raw tsv file? I feel like crawling ffn would be a waste of its bandwidth since your data is relatively recent.
+:PROPERTIES:
+:Author: Frystix
+:Score: 1
+:DateUnix: 1511890401.0
+:DateShort: 2017-Nov-28
+:END:
+
+
+** It's kind of sad to think about. I was late with FanFiction, having read my first story back in the summer of 2015 and writing my first story in the fall of the same year. Now, it's like a wasteland of sorts with scavengers doing the pickings.
+:PROPERTIES:
+:Author: emong757
+:Score: 1
+:DateUnix: 1511890579.0
+:DateShort: 2017-Nov-28
+:END:
+
+
+** That 2011 spike is probably because of “My Immortal”. Good times.
+
+Also, “Petal in the Rain” is the best Maurauder-era fanfic I have ever read.
+:PROPERTIES:
+:Author: t-carrina
+:Score: -1
+:DateUnix: 1511878145.0
+:DateShort: 2017-Nov-28
+:END:

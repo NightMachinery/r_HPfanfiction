@@ -1,0 +1,127 @@
+#+TITLE: Issues with DLP's Scryer?
+
+* Issues with DLP's Scryer?
+:PROPERTIES:
+:Author: ApteryxAustralis
+:Score: 11
+:DateUnix: 1446541304.0
+:DateShort: 2015-Nov-03
+:FlairText: Misc
+:END:
+I haven't been able to access DLP's Scryer for the last few days. I keep getting a 502 bad gateway error. I have tried with http and https. Has anyone else had this issue?
+
+I've tried restarting both my browser and phone, along with using wifi and my cellular data and nothing seems to work. It doesn't work on my tablet either.
+
+*Edit: It's back!*
+
+
+** I just submitted [[https://forums.darklordpotter.net/showthread.php?t=31065][this thread]] in DLP's Site Related Support forum, we'll see what happens.
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1446545336.0
+:DateShort: 2015-Nov-03
+:END:
+
+*** Cool! Thanks!
+:PROPERTIES:
+:Author: ApteryxAustralis
+:Score: 3
+:DateUnix: 1446546008.0
+:DateShort: 2015-Nov-03
+:END:
+
+**** Got a reply:
+
+#+begin_quote
+  I expect it'll be coming back. Just give it some time.
+
+  #+begin_quote
+    [09:16:48] ~Raven: Looks like the server that Scryer uses was locked down by DigitalOcean
+
+    [09:32:23] ~Raven: During the upgrade of the Scryer ES node to Ubuntu 12.04 ->; 14.04, the firewall stopped working apparently.
+
+    [09:32:30] ~Raven: So Elasticsearch was compromised.
+
+    [09:32:46] ~Raven: Used for DDoS
+  #+end_quote
+#+end_quote
+
+Not much to do but sit back and wait, then.
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1446547519.0
+:DateShort: 2015-Nov-03
+:END:
+
+***** It's back up!
+:PROPERTIES:
+:Author: ApteryxAustralis
+:Score: 2
+:DateUnix: 1446589664.0
+:DateShort: 2015-Nov-04
+:END:
+
+
+***** There's an IRC for DLP?
+:PROPERTIES:
+:Author: Karinta
+:Score: 1
+:DateUnix: 1446603535.0
+:DateShort: 2015-Nov-04
+:END:
+
+****** Yeah, irc.darklordpotter.net port 6667 (SSL port 6697). The main channel is #darklordpotter
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1446611272.0
+:DateShort: 2015-Nov-04
+:END:
+
+******* How do you get there?
+:PROPERTIES:
+:Author: Karinta
+:Score: 1
+:DateUnix: 1446612647.0
+:DateShort: 2015-Nov-04
+:END:
+
+******** Just put the details above into your IRC client of choice.
+
+If you don't have one, I recommend [[https://kiwiirc.com/client][KiwiIRC]]. You need to drop down the 'Server and network' menu, and enter irc.darklordpotter.net as your server, 6697 as your port and check the SSL box.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1446637130.0
+:DateShort: 2015-Nov-04
+:END:
+
+********* Nobody's on, it seems.
+:PROPERTIES:
+:Author: Karinta
+:Score: 1
+:DateUnix: 1446651553.0
+:DateShort: 2015-Nov-04
+:END:
+
+********** We are here, I assure you. There's always about 30 offline or whatnot though.
+:PROPERTIES:
+:Author: Roarian
+:Score: 2
+:DateUnix: 1446760673.0
+:DateShort: 2015-Nov-06
+:END:
+
+
+** Yeah, I just duplicated the issue on my phone. The 500 class of errors are usually to do with internal server issues, like an overload or broken configuration, so there's not much you can do about it except reporting it and hoping it gets fixed.
+
+#+begin_example
+  10.5.3 502 Bad Gateway
+  The server, while acting as a gateway or proxy, received an invalid response
+  from the upstream server it accessed in attempting to fulfill the request.
+#+end_example
+
+Source: RFC 2616
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1446543941.0
+:DateShort: 2015-Nov-03
+:END:

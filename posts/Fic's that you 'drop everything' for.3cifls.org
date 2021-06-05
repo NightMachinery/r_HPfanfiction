@@ -1,0 +1,722 @@
+#+TITLE: Fic's that you 'drop everything' for?
+
+* Fic's that you 'drop everything' for?
+:PROPERTIES:
+:Author: DingoJellybean
+:Score: 8
+:DateUnix: 1436327688.0
+:DateShort: 2015-Jul-08
+:FlairText: Discussion
+:END:
+Essentially fic's that when they update, even if you are enjoying what you are doing right then you stop to go read you have waited for that update. Due to it either being that good, or updates so infrequent that you feel if you don't read it then it will disappear.
+
+linkffn(5318075)
+
+I actually go through the first two fics in this trilogy once a year or so, so if the third book ever received another chapter I would be on that like fleas on my dog every summer.
+
+
+** [[https://www.fanfiction.net/s/5318075][*/A Magical World/*]] by [[https://www.fanfiction.net/u/100447/Miranda-Flairgold][/Miranda Flairgold/]]
+
+#+begin_quote
+  Last fic in the trilogy! Demons invaded Earth intent on enslaving all magical life. But they miscalculated...the Earthling's magic is stronger than they suspected, and far more dangerous. Now the survivors regroup in the new magical world, to fight back.
+
+  ^{> ^(Harry Potter *|* /Rated:/ Fiction M - English *|* /Chapters:/ 2 *|* /Words:/ 31,170 *|* /Reviews:/ 1,667 *|* /Favs:/ 2,859 *|* /Follows:/ 2,954 *|* /Updated:/ 11/3/2009 *|* /Published:/ 8/20/2009 *|* /id:/ 5318075} )
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), and FictionPress (/linkfp/).
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{^{*Update*}} ^{^{*7/7/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 4
+:DateUnix: 1436327916.0
+:DateShort: 2015-Jul-08
+:END:
+
+*** Well, somehow my bot gained sentience and decided to reply to OP. How weird.
+:PROPERTIES:
+:Author: tusing
+:Score: 13
+:DateUnix: 1436366589.0
+:DateShort: 2015-Jul-08
+:END:
+
+**** ^{^{^{TotallyNotSkynet}}}
+:PROPERTIES:
+:Author: Flammy
+:Score: 8
+:DateUnix: 1436373036.0
+:DateShort: 2015-Jul-08
+:END:
+
+
+**** go bot go! YOU CAN DO IT!
+:PROPERTIES:
+:Author: JadeSubbae
+:Score: 2
+:DateUnix: 1436498670.0
+:DateShort: 2015-Jul-10
+:END:
+
+
+**** Weird indeed, I wonder what caused this...
+
+^{^{^{^{^{^{linkffn(5318075)}}}}}} ^{^{^{^{^{^{ffnbot!ignore}}}}}}
+
+Let's see if the bot answers this comment. (It shouldn't)
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 1
+:DateUnix: 1436461006.0
+:DateShort: 2015-Jul-09
+:END:
+
+***** [[https://www.fanfiction.net/s/5318075][*/A Magical World/*]] by [[https://www.fanfiction.net/u/100447/Miranda-Flairgold][/Miranda Flairgold/]]
+
+#+begin_quote
+  Last fic in the trilogy! Demons invaded Earth intent on enslaving all magical life. But they miscalculated...the Earthling's magic is stronger than they suspected, and far more dangerous. Now the survivors regroup in the new magical world, to fight back.
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English *|* /Chapters:/ 2 *|* /Words:/ 31,170 *|* /Reviews:/ 1,667 *|* /Favs:/ 2,861 *|* /Follows:/ 2,955 *|* /Updated:/ 11/3/2009 *|* /Published:/ 8/20/2009 *|* /id:/ 5318075}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), and FictionPress (/linkfp/).
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{^{*Update*}} ^{^{*7/7/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1436461161.0
+:DateShort: 2015-Jul-09
+:END:
+
+****** Looks like, the bot hasn't been updated yet.
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 1
+:DateUnix: 1436461274.0
+:DateShort: 2015-Jul-09
+:END:
+
+******* Nope, want to do a bit more testing and try to fix the formatting bug before I push the next update. If you want to test it yourself, head over to [[/r/fanfictionbot]], plug in your username/pw to the bot, and try it out
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1436466460.0
+:DateShort: 2015-Jul-09
+:END:
+
+******** Actually, that's the one thing I won't do. And that's because Reddit will disallow logging in with username and password.
+
+And I wait before implementing it until I know what you think of the PRs I submitted
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 1
+:DateUnix: 1436483044.0
+:DateShort: 2015-Jul-10
+:END:
+
+********* Right, I'll check out the PRs soon
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1436488092.0
+:DateShort: 2015-Jul-10
+:END:
+
+
+***** Haven't pulled the latest version to the VPS yet, so dags won't work.
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1436464607.0
+:DateShort: 2015-Jul-09
+:END:
+
+
+** linkffn(Prince of the Dark Kingdom). Top fave HP fanfic. The way it diverges so completely from but still pays homage to canon is an absolute treat.
+:PROPERTIES:
+:Author: 360Saturn
+:Score: 5
+:DateUnix: 1436346708.0
+:DateShort: 2015-Jul-08
+:END:
+
+*** [[https://www.fanfiction.net/s/3766574/1/Prince-of-the-Dark-Kingdom][*/Prince of the Dark Kingdom/*]] by [[https://www.fanfiction.net/u/1355498/Mizuni-sama][/Mizuni-sama/]]
+
+#+begin_quote
+  Ten years ago, Voldemort created his kingdom. Now a confused young wizard stumbles into it, and carves out a destiny. AU. Nondark Harry. MentorVoldemort. VII Ch.8 In which someone is dead, wounded, or kidnapped in every scene.
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Drama/Adventure - Harry P., Voldemort *|* /Chapters:/ 147 *|* /Words:/ 1,253,480 *|* /Reviews:/ 10,537 *|* /Favs:/ 5,970 *|* /Follows:/ 5,367 *|* /Updated:/ 6/17/2014 *|* /Published:/ 9/3/2007 *|* /id:/ 3766574}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), and FictionPress (/linkfp/).
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{^{*Update*}} ^{^{*7/7/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1436346938.0
+:DateShort: 2015-Jul-08
+:END:
+
+
+** [[https://www.fanfiction.net/s/10041727/1/The-Ambiguous-Artifice][The Ambiguous Artifice]], 3rd in the series. When I get a update mail for this, I drop everything immediately!
+
+Also [[https://www.fanfiction.net/s/10298096/1/Harry-Potter-and-the-Emerald-Trance][Harry Potter and the Emerald Trance]], which has a biweekly set upload schedule. So I suppose I don't drop anything for it, because my schedule is already planned around reading it immediately!
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1436328954.0
+:DateShort: 2015-Jul-08
+:END:
+
+
+** linkffn(Forging the Sword) is probably the only one, personally.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1436334838.0
+:DateShort: 2015-Jul-08
+:END:
+
+*** [[https://www.fanfiction.net/s/3557725/1/Forging-the-Sword][*/Forging the Sword/*]] by [[https://www.fanfiction.net/u/318654/Myst-Shadow][/Myst Shadow/]]
+
+#+begin_quote
+  ::Year 2 Divergence:: What does it take, to reshape a child? And if reshaped, what then is formed? Down in the Chamber, a choice is made. (Harry's Gryffindor traits were always so much scarier than other peoples'.)
+
+  ^{Harry Potter *|* /Rated:/ Fiction T - English - Adventure - Harry P., Ron W., Hermione G. *|* /Chapters:/ 15 *|* /Words:/ 152,578 *|* /Reviews:/ 2,862 *|* /Favs:/ 6,429 *|* /Follows:/ 7,938 *|* /Updated:/ 8/19/2014 *|* /Published:/ 5/26/2007 *|* /id:/ 3557725}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), and FictionPress (/linkfp/).
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{^{*Update*}} ^{^{*7/7/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1436335061.0
+:DateShort: 2015-Jul-08
+:END:
+
+
+** [[https://www.fanfiction.net/s/4745329/1/On-the-Way-to-Greatness][On the Way to Greatness]] by Mira Mirth and [[https://www.fanfiction.net/s/5353809/1/Harry-Potter-and-the-Boy-Who-Lived][Harry Potter and the Boy Who Lived]] by The Santi
+:PROPERTIES:
+:Author: Lukc
+:Score: 3
+:DateUnix: 1436353374.0
+:DateShort: 2015-Jul-08
+:END:
+
+
+** For me it's linkffn(a long journey home by rakeesh) or linkffn(temporal beacon). The second one hasn't updated since 2013 though :-(
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1436359034.0
+:DateShort: 2015-Jul-08
+:END:
+
+*** [[https://www.fanfiction.net/s/9860311/1/A-Long-Journey-Home][*/A Long Journey Home/*]] by [[https://www.fanfiction.net/u/236698/Rakeesh][/Rakeesh/]]
+
+#+begin_quote
+  In one world, it was Harry Potter who defeated Voldemort. In another, it was Jasmine Potter instead. But her victory wasn't the end - her struggles continued long afterward. And began long, long before. (fem!Harry, powerful!Harry, sporadic updates)
+
+  ^{Harry Potter *|* /Rated:/ Fiction T - English - Drama/Adventure - Harry P., Ron W., Hermione G. *|* /Chapters:/ 11 *|* /Words:/ 155,338 *|* /Reviews:/ 450 *|* /Favs:/ 1,380 *|* /Follows:/ 1,467 *|* /Updated:/ 3/31 *|* /Published:/ 11/19/2013 *|* /id:/ 9860311}
+#+end_quote
+
+[[https://www.fanfiction.net/s/6517567/1/Harry-Potter-and-the-Temporal-Beacon][*/Harry Potter and the Temporal Beacon/*]] by [[https://www.fanfiction.net/u/2620084/willyolioleo][/willyolioleo/]]
+
+#+begin_quote
+  At the end of 3rd year, Hermione asks Harry for some help with starting an interesting project. If a dark lord's got a 50-year head start on you, maybe what you need is a little more time to even the playing field. AU, Timetravel, HHr, mild Ron bashing. Minimizing new powers, just making good use of existing ones.
+
+  ^{Harry Potter *|* /Rated:/ Fiction T - English - Adventure - Harry P., Hermione G. *|* /Chapters:/ 70 *|* /Words:/ 428,826 *|* /Reviews:/ 5,004 *|* /Favs:/ 4,446 *|* /Follows:/ 5,013 *|* /Updated:/ 9/19/2013 *|* /Published:/ 11/30/2010 *|* /id:/ 6517567}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), and FictionPress (/linkfp/).
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{^{*Update*}} ^{^{*7/7/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 3
+:DateUnix: 1436359139.0
+:DateShort: 2015-Jul-08
+:END:
+
+
+** linkffn(With Strength of Steel Wings)
+:PROPERTIES:
+:Author: Articanine
+:Score: 3
+:DateUnix: 1436370098.0
+:DateShort: 2015-Jul-08
+:END:
+
+*** [[https://www.fanfiction.net/s/9036071/1/With-Strength-of-Steel-Wings][*/With Strength of Steel Wings/*]] by [[https://www.fanfiction.net/u/717542/AngelaStarCat][/AngelaStarCat/]]
+
+#+begin_quote
+  A young Harry Potter, abandoned on the streets, is taken in by a man with a mysterious motive. When his new muggle tattoo suddenly animates, he is soon learning forbidden magic and planning to infiltrate the wizarding world on behalf of the "ordinary" people. But nothing is ever that black and white. (Runes, Blood Magic, Parseltongue, Slytherin!Harry) (SEE NOTE 1st Chapter)
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Adventure/Angst - Harry P., Hermione G., Draco M., Fawkes *|* /Chapters:/ 38 *|* /Words:/ 719,300 *|* /Reviews:/ 1,465 *|* /Favs:/ 1,897 *|* /Follows:/ 2,298 *|* /Updated:/ 6/4 *|* /Published:/ 2/22/2013 *|* /id:/ 9036071}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), and FictionPress (/linkfp/).
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{^{*Update*}} ^{^{*7/7/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1436370288.0
+:DateShort: 2015-Jul-08
+:END:
+
+
+** Sorry! Bot can't reply to OP yet. Haven't had time to implement that.
+
+linkffn(Hogwarts Battle School) is mine.
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1436349098.0
+:DateShort: 2015-Jul-08
+:END:
+
+*** [[https://www.fanfiction.net/s/8379655/1/Hogwarts-Battle-School][*/Hogwarts Battle School/*]] by [[https://www.fanfiction.net/u/1023780/Kwan-Li][/Kwan Li/]]
+
+#+begin_quote
+  AU. Voldemort kills Dumbledore but is defeated by a child. In the aftermath, Snape becomes the Headmaster and radically changes Hogwarts. Harry Potter of House Slytherin begins his Third Year at Hogwarts Battle School and realizes that friend and foe are too similar for his liking. Competing with allies and enemies, Harry finds there is a cost to winning.
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Adventure/Romance - Harry P., Hermione G., Severus S. *|* /Chapters:/ 47 *|* /Words:/ 328,069 *|* /Reviews:/ 1,786 *|* /Favs:/ 2,067 *|* /Follows:/ 2,454 *|* /Updated:/ 5/26 *|* /Published:/ 7/31/2012 *|* /id:/ 8379655}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), and FictionPress (/linkfp/).
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{^{*Update*}} ^{^{*7/7/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1436349156.0
+:DateShort: 2015-Jul-08
+:END:
+
+
+** linkffn(Elsewhere, but not Elsewhen)
+
+and the upcoming /Alexandra Quick and the World Away/ by Inverarity. It's coming! I know it! I will survive til then but only barely.
+:PROPERTIES:
+:Author: Karinta
+:Score: 2
+:DateUnix: 1436383180.0
+:DateShort: 2015-Jul-08
+:END:
+
+*** [[https://www.fanfiction.net/s/7118223/1/Elsewhere-but-not-Elsewhen][*/Elsewhere, but not Elsewhen/*]] by [[https://www.fanfiction.net/u/699762/The-Mad-Mad-Reviewer][/The Mad Mad Reviewer/]]
+
+#+begin_quote
+  Thestrals can go a lot more places than just wherever you need to go. Unfortunately for Harry Potter, Voldemort is more than aware of this, and doesn't want to deal with Harry Potter anymore.
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Adventure - Harry P. *|* /Chapters:/ 25 *|* /Words:/ 73,640 *|* /Reviews:/ 751 *|* /Favs:/ 1,623 *|* /Follows:/ 1,933 *|* /Updated:/ 12/29/2012 *|* /Published:/ 6/25/2011 *|* /id:/ 7118223}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), and FictionPress (/linkfp/).
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{^{*Update*}} ^{^{*7/7/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 3
+:DateUnix: 1436383220.0
+:DateShort: 2015-Jul-08
+:END:
+
+
+** linkffn(saving connor)
+
+3 millions words, seven complete books.
+
+This story take my life, beats it to death in a dark alleyway before dragging and drowning it in a river and shooting it to death. I lost three months of my life last time I read this universe, and goddamn, I loved it.
+:PROPERTIES:
+:Author: JadeSubbae
+:Score: 2
+:DateUnix: 1436498640.0
+:DateShort: 2015-Jul-10
+:END:
+
+*** [[https://www.fanfiction.net/s/2580283/1/Saving-Connor][*/Saving Connor/*]] by [[https://www.fanfiction.net/u/895946/Lightning-on-the-Wave][/Lightning on the Wave/]]
+
+#+begin_quote
+  AU, eventual HPDM slash, very Slytherin!Harry. Harry's twin Connor is the Boy Who Lived, and Harry is devoted to protecting him by making himself look ordinary. But certain people won't let Harry stay in the shadows... COMPLETE
+
+  ^{> ^(Harry Potter *|* /Rated:/ Fiction M - English - Adventure - Harry P. *|* /Chapters:/ 22 *|* /Words:/ 81,263 *|* /Reviews:/ 1,704 *|* /Favs:/ 4,232 *|* /Follows:/ 880 *|* /Updated:/ 10/5/2005 *|* /Published:/ 9/15/2005 *|* /Status:/ Complete *|* /id:/ 2580283} )
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), and FictionPress (/linkfp/).
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{^{*Update*}} ^{^{*7/7/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1436498844.0
+:DateShort: 2015-Jul-10
+:END:
+
+
+** [[https://www.fanfiction.net/s/9937462/1/Black-Princess-Ascendant][Black Princess Ascendant]]
+
+Probably my all time favorite.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 2
+:DateUnix: 1436358578.0
+:DateShort: 2015-Jul-08
+:END:
+
+*** I may have to second that
+:PROPERTIES:
+:Author: red_rath
+:Score: 1
+:DateUnix: 1436369249.0
+:DateShort: 2015-Jul-08
+:END:
+
+**** I really enjoy this one as well, just wish it would be posted faster! I'm a binge reader, and waiting for updates just drives me batty...I know, I know, but really...I can't even do episodic books. I wait until the entire season is done, and then buy them. I don't watch tv (no cable) just wait for it on netflix, and watch it all at once. It's a problem...
+:PROPERTIES:
+:Author: paperhurts
+:Score: 1
+:DateUnix: 1436452543.0
+:DateShort: 2015-Jul-09
+:END:
+
+
+** Some Hermione-centric fics:
+
+linkffn(9238861;10070079;9950232;8823447)
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 2
+:DateUnix: 1436373244.0
+:DateShort: 2015-Jul-08
+:END:
+
+*** [[https://www.fanfiction.net/s/9238861][*/Applied Cultural Anthropology, or/*]] by [[https://www.fanfiction.net/u/2675402/jacobk][/jacobk/]]
+
+#+begin_quote
+  ... How I Learned to Stop Worrying and Love the Cruciatus. Albus Dumbledore always worried about the parallels between Harry Potter and Tom Riddle. But let's be honest, Harry never really had the drive to be the next dark lord. Of course, things may have turned out quite differently if one of the other muggle-raised Gryffindors wound up in Slytherin instead.
+
+  ^{Harry Potter *|* /Rated:/ Fiction T - English - Adventure - Hermione G., Severus S. *|* /Chapters:/ 14 *|* /Words:/ 130,578 *|* /Reviews:/ 1,502 *|* /Favs:/ 2,550 *|* /Follows:/ 3,266 *|* /Updated:/ 6/21 *|* /Published:/ 4/26/2013 *|* /id:/ 9238861}
+#+end_quote
+
+[[https://www.fanfiction.net/s/10070079][*/The Arithmancer/*]] by [[https://www.fanfiction.net/u/5339762/White-Squirrel][/White Squirrel/]]
+
+#+begin_quote
+  Hermione grows up as a maths whiz instead of a bookworm and tests into Arithmancy in her first year. With the help of her friends and Professor Vector, she puts her superhuman spellcrafting skills to good use in the fight against Voldemort.
+
+  ^{Harry Potter *|* /Rated:/ Fiction T - English - Harry P., Ron W., Hermione G., S. Vector *|* /Chapters:/ 77 *|* /Words:/ 485,030 *|* /Reviews:/ 2,961 *|* /Favs:/ 2,028 *|* /Follows:/ 2,601 *|* /Updated:/ 7/4 *|* /Published:/ 1/31/2014 *|* /id:/ 10070079}
+#+end_quote
+
+[[https://www.fanfiction.net/s/9950232][*/Hermione Granger and the Perfectly Reasonable Explanation/*]] by [[https://www.fanfiction.net/u/5402473/Robin-Drew][/Robin.Drew/]]
+
+#+begin_quote
+  In 1991, a child came to Hogwarts School of Witchcraft and Wizardry with obvious gifts, but which few suspected would change the world... Oh, and Harry Potter enrolled that year as well. *** A few tweaks to canon, plus extrapolating Hermione's apparent intelligence realistically. I expect events to diverge fairly quickly. ;) *** cover image cc by-nc RooReynolds @ Flickr
+
+  ^{Harry Potter *|* /Rated:/ Fiction T - English - Suspense - Hermione G. *|* /Chapters:/ 11 *|* /Words:/ 41,844 *|* /Reviews:/ 118 *|* /Favs:/ 214 *|* /Follows:/ 436 *|* /Updated:/ 3/12 *|* /Published:/ 12/23/2013 *|* /id:/ 9950232}
+#+end_quote
+
+[[https://www.fanfiction.net/s/8823447][*/Harry Potter and the Witch Queen/*]] by [[https://www.fanfiction.net/u/4223774/TimeLoopedPowerGamer][/TimeLoopedPowerGamer/]]
+
+#+begin_quote
+  After a long war, Voldemort still remains undefeated and Hermione Granger has fallen to Darkness. But despite having gained great power in exchange for a bargain with the hidden Fae, she is still unable to kill the immortal Dark Lord. As a last resort, she sends Harry back in time twenty years to when he was eleven, using a dark ritual with a terrible sacrifice. Canon compliant AU.
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Adventure/Romance - [Harry P., Hermione G.] Luna L. *|* /Chapters:/ 13 *|* /Words:/ 150,495 *|* /Reviews:/ 389 *|* /Favs:/ 715 *|* /Follows:/ 1,064 *|* /Updated:/ 9/19/2014 *|* /Published:/ 12/23/2012 *|* /id:/ 8823447}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), and FictionPress (/linkfp/).
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{^{*Update*}} ^{^{*7/7/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 3
+:DateUnix: 1436373323.0
+:DateShort: 2015-Jul-08
+:END:
+
+**** u/paperhurts:
+#+begin_quote
+  Hermione Granger and the Perfectly Reasonable Explanation
+#+end_quote
+
+In process since 2013, last updated in March 2015, 40k words...makes me go,
+
+nope ^{nope} ^{^{nope}} ^{^{^{nope}}} ^{^{^{^{nope}}}} ^{^{^{^{^{nope}}}}}
+:PROPERTIES:
+:Author: paperhurts
+:Score: 4
+:DateUnix: 1436386353.0
+:DateShort: 2015-Jul-09
+:END:
+
+
+** Let's see if I can make this work:
+
+linkffn(Harry Potter and the Nightmares of Futures Past by S'TarKan)?
+:PROPERTIES:
+:Author: merganzer
+:Score: 1
+:DateUnix: 1436329062.0
+:DateShort: 2015-Jul-08
+:END:
+
+*** [[https://www.fanfiction.net/s/2636963/1/Harry-Potter-and-the-Nightmares-of-Futures-Past][*/Harry Potter and the Nightmares of Futures Past/*]] by [[https://www.fanfiction.net/u/884184/S-TarKan][/S'TarKan/]]
+
+#+begin_quote
+  The war is over. Too bad no one is left to celebrate. Harry makes a desperate plan to go back in time, even though it means returning Voldemort to life. Now an 11 year old Harry with 30 year old memories is starting Hogwarts. Can he get it right?
+
+  ^{Harry Potter *|* /Rated:/ Fiction T - English - Adventure/Romance - Harry P., Ginny W. *|* /Chapters:/ 41 *|* /Words:/ 409,130 *|* /Reviews:/ 13,395 *|* /Favs:/ 17,284 *|* /Follows:/ 16,330 *|* /Updated:/ 4/7 *|* /Published:/ 10/28/2005 *|* /id:/ 2636963}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), and FictionPress (/linkfp/).
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{^{*Update*}} ^{^{*7/7/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1436329285.0
+:DateShort: 2015-Jul-08
+:END:
+
+
+*** I would love one like this only without all the Snape-hate
+:PROPERTIES:
+:Author: doctoremdee
+:Score: 1
+:DateUnix: 1436330281.0
+:DateShort: 2015-Jul-08
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1436331388.0
+:DateShort: 2015-Jul-08
+:END:
+
+***** [[https://www.fanfiction.net/s/9622538/1/Travel-Secrets-First][*/Travel Secrets: First/*]] by [[https://www.fanfiction.net/u/4349156/E4mj][/E4mj/]]
+
+#+begin_quote
+  Harry Potter is living an unhappy life at age 27. He is forced to go on an Auror raid, when the people he saves are not who he thinks. With one last thing in his life broken, he follows through on a plan for Time-travel, back to his past self. Things were not as they once seemed. Slytherin!Harry. Dumbledore and order bashing. No pairing YET. Book one. (The world belongs to Jo!)
+
+  ^{Harry Potter *|* /Rated:/ Fiction T - English - Harry P. *|* /Chapters:/ 17 *|* /Words:/ 50,973 *|* /Reviews:/ 391 *|* /Favs:/ 2,388 *|* /Follows:/ 812 *|* /Updated:/ 9/7/2013 *|* /Published:/ 8/23/2013 *|* /Status:/ Complete *|* /id:/ 9622538}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), and FictionPress (/linkfp/).
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{^{*Update*}} ^{^{*7/7/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1436331549.0
+:DateShort: 2015-Jul-08
+:END:
+
+
+***** Thanks!
+:PROPERTIES:
+:Author: doctoremdee
+:Score: 1
+:DateUnix: 1436364661.0
+:DateShort: 2015-Jul-08
+:END:
+
+
+** For me that would be a series by Nightfall Rising / Potionpen called [[http://archiveofourown.org/series/55402][The Truth is What I See It Is (subjectiverse)]]. The latest story in the series is Valley of the Shadow, but you really want to start with Album of the SangReal.
+
+[[http://archiveofourown.org/series/55402][The Truth is What I See It Is (subjectiverse)]] by [[http://archiveofourown.org/users/potionpen/pseuds/potionpen][Nightfall Rising / Potionpen]]
+
+#+begin_quote
+  Gryffindor isn't what Slytherin sees in it, and the reverse is way more true than that. Lily Evans doesn't know she looks different depending where you're standing, the Blacks know exactly how they come across and like it that way, and Severus Snape isn't exactly who anyone thinks he is---least of all himself.
+
+  *Canon Compliance*
+
+  It is advised that the reader be familiar with the biography of Harry Potter written by Ms. Rowling. The reader should be aware that this seven-volume series was fact-checked by Ms. Skeeter rather than Miss Granger, and cannot be relied on in the matter of dates. Furthermore, Ms. Rowling's books are written from the point of view of the subject, and not only contain a distinctly pro-Gryffindor bias but largely confine themselves to what Mr. Potter saw, heard, assumed, and speculated.
+
+  This is a Slytherin story, and truth is subjective.
+#+end_quote
+:PROPERTIES:
+:Author: Eldresh
+:Score: 1
+:DateUnix: 1436334743.0
+:DateShort: 2015-Jul-08
+:END:
+
+
+** linkffn(Transliterations)
+
+It doesn't update as often as it used to, which makes me fear it's on the path of abandonment, but the story has this really weird tense and ominous undertone that beckons me closer.
+:PROPERTIES:
+:Author: Ocdar
+:Score: 1
+:DateUnix: 1436371984.0
+:DateShort: 2015-Jul-08
+:END:
+
+*** [[https://www.fanfiction.net/s/8884893/1/Transliterations][*/Transliterations/*]] by [[https://www.fanfiction.net/u/3363585/ikkiichiyuu][/ikkiichiyuu/]]
+
+#+begin_quote
+  He had attained the rights to be the Master of Death, and it was his obligation to steer the fates away from destruction whilst she reaped the souls to fuel Life. (Rewrite of Rewrite. Pun intended.) ON INTERMITTENT HIATUS.
+
+  ^{Harry Potter + Thor Crossover *|* /Rated:/ Fiction M - English - Adventure - Harry P., Loki *|* /Chapters:/ 18 *|* /Words:/ 84,027 *|* /Reviews:/ 621 *|* /Favs:/ 1,589 *|* /Follows:/ 1,855 *|* /Updated:/ 6/27 *|* /Published:/ 1/6/2013 *|* /id:/ 8884893}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), and FictionPress (/linkfp/).
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{^{*Update*}} ^{^{*7/7/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1436372096.0
+:DateShort: 2015-Jul-08
+:END:
+
+
+** linkffn(The boy who lived by the santi) Duh. Some of Taures stories when he gets around to it. /Hear that Taure!/ and linkffn(I'm Still Here)
+:PROPERTIES:
+:Author: KayanRider
+:Score: 1
+:DateUnix: 1436408893.0
+:DateShort: 2015-Jul-09
+:END:
+
+*** [[https://www.fanfiction.net/s/5353809/1/Harry-Potter-and-the-Boy-Who-Lived][*/Harry Potter and the Boy Who Lived/*]] by [[https://www.fanfiction.net/u/1239654/The-Santi][/The Santi/]]
+
+#+begin_quote
+  Harry Potter loves, and is loved by, his parents, his godfather, and his brother. He isn?t mistreated, abused, or neglected. So why is he a Dark Wizard? NonBWL!Harry. Not your typical Harry?s brother is the Boy Who Lived story.
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Adventure - Harry P. *|* /Chapters:/ 12 *|* /Words:/ 147,796 *|* /Reviews:/ 3,878 *|* /Favs:/ 7,513 *|* /Follows:/ 7,695 *|* /Updated:/ 1/3 *|* /Published:/ 9/3/2009 *|* /id:/ 5353809}
+#+end_quote
+
+[[https://www.fanfiction.net/s/9704180/1/I-m-Still-Here][*/I'm Still Here/*]] by [[https://www.fanfiction.net/u/4404355/kathryn518][/kathryn518/]]
+
+#+begin_quote
+  The second war with Voldemort never really ended, and there were no winners, certainly not Harry Potter who has lost everything. What will Harry do when a ritual from Voldemort sends him to another world? How will he manage in this new world in which he never existed, especially as he sees familiar events unfolding? Harry/Multi eventually.
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Drama/Romance - Harry P., Hermione G., Fleur D. *|* /Chapters:/ 11 *|* /Words:/ 215,251 *|* /Reviews:/ 2,011 *|* /Favs:/ 5,376 *|* /Follows:/ 6,477 *|* /Updated:/ 10/10/2014 *|* /Published:/ 9/21/2013 *|* /id:/ 9704180}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), and FictionPress (/linkfp/).
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{^{*Update*}} ^{^{*7/7/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1436408992.0
+:DateShort: 2015-Jul-09
+:END:
+
+
+*** I hear everything.
+:PROPERTIES:
+:Author: Taure
+:Score: 1
+:DateUnix: 1436572946.0
+:DateShort: 2015-Jul-11
+:END:
+
+
+** linkffn(Misplaced Moony by ShayaLonnie) and linkffn(Like Brothers by Colubrina) are my current drop-everything-and-read-ASAP fics.
+:PROPERTIES:
+:Author: aurawn
+:Score: 1
+:DateUnix: 1436473385.0
+:DateShort: 2015-Jul-10
+:END:
+
+*** [[https://www.fanfiction.net/s/11261750/1/Misplaced-Moony][*/Misplaced Moony/*]] by [[https://www.fanfiction.net/u/5869599/ShayaLonnie][/ShayaLonnie/]]
+
+#+begin_quote
+  A mysterious item and mischievous Marauders end up accidentally shoving Remus Lupin into another time and place where he has to rebuild his life from scratch, deal with the aftermath of a war he hadn't yet been a part of, all with the help of new friends and a special young witch. (AU Mid OotP) Remione - Rated M for language, violence, and sexual scenes. (Remus/Hermione)
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Romance/Friendship - [Remus L., Hermione G.] Harry P., Sirius B. *|* /Chapters:/ 8 *|* /Words:/ 38,262 *|* /Reviews:/ 451 *|* /Favs:/ 301 *|* /Follows:/ 651 *|* /Updated:/ 7/8 *|* /Published:/ 5/20 *|* /id:/ 11261750}
+#+end_quote
+
+[[https://www.fanfiction.net/s/11360264/1/Like-Brothers][*/Like Brothers/*]] by [[https://www.fanfiction.net/u/4314892/Colubrina][/Colubrina/]]
+
+#+begin_quote
+  Minerva McGonagall steps in on the awful night the Potter are killed and arranges to have Harry Potter raised by Sirius Black and his somewhat cousins, the Malfoys. Draco and Harry grow up as almost brothers and everything - everything - is different. Gryffindor!Draco. Dramione. AU.
+
+  ^{Harry Potter *|* /Rated:/ Fiction T - English - Romance - Harry P., Hermione G., Draco M. *|* /Chapters:/ 4 *|* /Words:/ 8,685 *|* /Reviews:/ 973 *|* /Favs:/ 294 *|* /Follows:/ 531 *|* /Updated:/ 7/8 *|* /Published:/ 7/5 *|* /id:/ 11360264}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), and FictionPress (/linkfp/).
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{^{*Update*}} ^{^{*7/7/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1436473609.0
+:DateShort: 2015-Jul-10
+:END:
+
+
+*** I also feel the same way about linkffn(Tying the Nott by ShayaLonnie), linkffn(Muddy Princess by Colubrina), linkffn(The Ones Who Ran by Colubrina)
+
+Honestly, everything they write is gold
+:PROPERTIES:
+:Author: chatterchick
+:Score: 1
+:DateUnix: 1436633129.0
+:DateShort: 2015-Jul-11
+:END:

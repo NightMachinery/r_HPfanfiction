@@ -1,0 +1,125 @@
+#+TITLE: Someone should make an algorithm where you put in you top few fics and get a recommendation
+
+* Someone should make an algorithm where you put in you top few fics and get a recommendation
+:PROPERTIES:
+:Author: elijahdmmt
+:Score: 21
+:DateUnix: 1607466593.0
+:DateShort: 2020-Dec-09
+:FlairText: Misc
+:END:
+I don't even know if this is possible, I'm in no way a programming expert, but wouldn't that be cool. it'd probably work well with AO3's filters and tags. I don't know, but it'd be good.
+
+
+** And it should recommend my Immortal randomly from time to time
+:PROPERTIES:
+:Author: Jon_Riptide
+:Score: 19
+:DateUnix: 1607466800.0
+:DateShort: 2020-Dec-09
+:END:
+
+*** I agree 100%
+:PROPERTIES:
+:Author: elijahdmmt
+:Score: 5
+:DateUnix: 1607467240.0
+:DateShort: 2020-Dec-09
+:END:
+
+
+** [[https://fanfictionbot.github.io]]
+
+“This engine builds off of ~100K recommendations users have made via [[/u/FanfictionBot]] in order to find the most commonly recommended fanfictions for any given fanfiction.”
+
+I think it only considers fanfiction.net and you can only see which fanfictions link to a single one, but still a great tool.
+:PROPERTIES:
+:Author: IamDelilahh
+:Score: 5
+:DateUnix: 1607467483.0
+:DateShort: 2020-Dec-09
+:END:
+
+
+** Check out the Socrates Bot. It looks at your favourited stories on FFN and recommends fics.
+
+This is the [[https://discord.gg/4rQfEeb4Em][Socrates Discord]]
+:PROPERTIES:
+:Author: DynMaxBlaze
+:Score: 6
+:DateUnix: 1607498037.0
+:DateShort: 2020-Dec-09
+:END:
+
+*** Note that Socrates has a desktop PC counterpart called Flipper: [[https://github.com/Zeks/flipper/releases/download/1.4.2/flipper_client_1.4.2.7z]]
+
+Same thing with more controls
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1607550172.0
+:DateShort: 2020-Dec-10
+:END:
+
+
+** I worked on this a couple of years ago, based on common likes on FFN. It didn't work great, because it's not a trivial problem.
+
+It's also hard to have an algorithm that recommends fitting fanfics, instead of just popular ones.
+:PROPERTIES:
+:Author: vlaaivlaai
+:Score: 3
+:DateUnix: 1607492193.0
+:DateShort: 2020-Dec-09
+:END:
+
+
+** the coding of something like this would be possible but it would require a lot of work to get enough data about similar fanfictions
+:PROPERTIES:
+:Author: Sylvezar2
+:Score: 1
+:DateUnix: 1607505600.0
+:DateShort: 2020-Dec-09
+:END:
+
+*** Eh, you can do it content-based (e.g. using cosine similarity), then you just need a couple of chapters, or you can look at commok likers (because likes are public on ffn).
+
+I'm not convinced that getting the data is the issue.
+:PROPERTIES:
+:Author: vlaaivlaai
+:Score: 2
+:DateUnix: 1607516233.0
+:DateShort: 2020-Dec-09
+:END:
+
+**** fair enough, but then you could also just use the ffn app and go to the end of a story. it will show similar stories
+:PROPERTIES:
+:Author: Sylvezar2
+:Score: 1
+:DateUnix: 1607524510.0
+:DateShort: 2020-Dec-09
+:END:
+
+***** Yeah, but that has all the flaws I talked about in my other thingy. It's just very hard to recommend good fanfiction. Not for a lack of data, but because fanfictions are complicated.
+:PROPERTIES:
+:Author: vlaaivlaai
+:Score: 2
+:DateUnix: 1607525508.0
+:DateShort: 2020-Dec-09
+:END:
+
+****** You don't need to always recommend good fanfiction. The rec system needs to just be good enough to rec decent stuff considering ppls' taste on average more than non decent. FFN's own recs in their app just aren't that.
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1607578588.0
+:DateShort: 2020-Dec-10
+:END:
+
+
+** So it's not exactly the best, but I use [[http://ficrecs.elusiveguy.com/][ficrecs.elusiveguy.com/]]. It does tend to give more popular fics, but it's better than nothing.
+:PROPERTIES:
+:Author: mylessgoodson
+:Score: 1
+:DateUnix: 1608092818.0
+:DateShort: 2020-Dec-16
+:END:

@@ -1,0 +1,110 @@
+#+TITLE: Writing Character Movements
+
+* Writing Character Movements
+:PROPERTIES:
+:Author: Skeletickles
+:Score: 11
+:DateUnix: 1479613132.0
+:DateShort: 2016-Nov-20
+:FlairText: Discussion
+:END:
+Hey all, I have a question about writing-
+
+How do you write character movements? Whenever I write them it seems... off, to say the least. I put things like "He walked over to the [instert name here]", he does something, rinse and repeat. I refuse to upload something as shitty as that.
+
+
+** Generally speaking, you don't need to. One of the most difficult things to learn about good writing is that it leans massively on the reader's imagination to fill in gaps. The most effective writing doesn't describe things in detail but rather uses just a few highly evocative words to create an impression, based on which the reader's imagination call fill in the rest.
+
+Prose is not a visual medium. If you try to include all the information a viewer of a movie would see, such as facial expressions, slight movements, and detailed environments, you will end up burying the reader under a mountain of detail that they will likely skim anyway.
+:PROPERTIES:
+:Author: Taure
+:Score: 13
+:DateUnix: 1479636021.0
+:DateShort: 2016-Nov-20
+:END:
+
+*** [[/u/Taure]] covered pretty clearly.
+
+Since writing isn't a visual medium, you cannot paint a picture in your reader's mind. What you visualise while writing will never be the exact same as what your reader visualises while reading. All you have to do, and all you /can/ do, is paint the outline and let the reader's imagination do the work for you.
+
+If you want to see a fic where this 'Outlining' thing is in full effect, read Rorschach's Blot's /Make A Wish/. In that fic, his descriptions of his character's actions are always minimal, yet he paints clear and vivid pictures in the reader's mind.
+:PROPERTIES:
+:Author: Conneron
+:Score: 1
+:DateUnix: 1479665336.0
+:DateShort: 2016-Nov-20
+:END:
+
+
+** The best thing I can say is use specific verbs to convey intention.
+
+Take the phrase "James, raising his fist, ran very quickly over to where some Slytherins were bullying a first-year Hufflepuff."
+
+Way too much information.
+
+Just say "James *charged* towards the Slytherins bullying a first-year Hufflepuff."
+:PROPERTIES:
+:Author: CryptidGrimnoir
+:Score: 4
+:DateUnix: 1479650315.0
+:DateShort: 2016-Nov-20
+:END:
+
+
+** break it up by adding adjectives and adverbs and using various sentence structures. Give descriptions of how they do this thing.
+
+'John walked to the pensieve' doesn't really tell you much except that the distance between a person and an object got smaller. 'John walked reluctantly to the pensieve, his shoulders and head slumped under some great weight.' not only conveys the motion but the tone of the action as well as physical aspects of how the action was accomplished.
+
+On the other hand 'Jill pounced!' is short and dramatic, like the action itself. In this way the language of the sentence reinforces the tone.
+:PROPERTIES:
+:Author: Tlalcopan
+:Score: 1
+:DateUnix: 1479613606.0
+:DateShort: 2016-Nov-20
+:END:
+
+*** This isn't bad advice, per se, but making something like this dogmatic is a good way to end up writing a lot of overblown purple prose. Not every action needs description.
+
+The key to writing good movement, in my opinion, is functional minimalism combined with beats of very specific, targeted description that gives an insight into a character's personality or emotional state.
+
+Movement that you're writing because the reader needs the information that a character went from point A to point B needs no dressing up. He said something. He walked to the mirror. He talked to his reflection. The movement isn't important; don't call attention to it. Just write it smoothly and well and it'll flow just fine.
+
+Movement where the purpose is to show a character's emotional state, that you can dress up a bit, but moderation is key.
+
+Don't tack on adverbs or adjectives when you don't need to. Anything that you think the reader can reasonably infer from the context, let them infer. Trust me, your writing will be more powerful for it. Let that action happen in the reader's mind instead of doing the work for them and beating them over the head with it in the process.
+:PROPERTIES:
+:Author: Lane_Anasazi
+:Score: 10
+:DateUnix: 1479627149.0
+:DateShort: 2016-Nov-20
+:END:
+
+**** u/CryptidGrimnoir:
+#+begin_quote
+  Don't tack on adverbs or adjectives when you don't need to. Anything that you think the reader can reasonably infer from the context, let them infer. Trust me, your writing will be more powerful for it. Let that action happen in the reader's mind instead of doing the work for them and beating them over the head with it in the process.
+#+end_quote
+
+This. This entirely. 20 points to Slytherin.
+
+The best advice I ever read, was to use more specific words, rather than use adjectives and adverbs.
+
+Take "John walked reluctantly to the pensieve, his shoulders and head slumped under some great weight."
+
+There are far better words to use. John is clearly upset about something and has a lot on his mind.
+
+"John trudged to the pensieve."
+:PROPERTIES:
+:Author: CryptidGrimnoir
+:Score: 3
+:DateUnix: 1479650132.0
+:DateShort: 2016-Nov-20
+:END:
+
+
+**** This is correct. I think Stephen King's "On writing" elaborates a lot on unnecessary adverbs and descriptors. It's a common emotion to feel that your writing isn't "smart" enough, but dressing up your sentences with flowery language just makes it more artifical and campy.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 1
+:DateUnix: 1479627640.0
+:DateShort: 2016-Nov-20
+:END:

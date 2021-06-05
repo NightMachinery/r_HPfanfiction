@@ -1,0 +1,200 @@
+#+TITLE: Creating a bot to analyze fics and their reviews. Would like your opinion on what to add
+
+* Creating a bot to analyze fics and their reviews. Would like your opinion on what to add
+:PROPERTIES:
+:Author: ethanbrecke
+:Score: 8
+:DateUnix: 1527440681.0
+:DateShort: 2018-May-27
+:FlairText: Discussion
+:END:
+Right now, i have very basic functionality on it. You input a txt file, and change its name in the code, run it, and it outputs a CSV file with word frequency. But i am working hard on web scraping function, where you can enter story ID of a FFN story, and pick review or story for analysis of that.
+
+So what else do you guys want in that bot?
+
+For those who are interested in the code, and the six stories i've already run through analysis of only the stories, check out the github page here: [[https://github.com/ethanbreck/FFN-Scraper][Github Project Page]]
+
+
+** I would love to have tool for extracting information from reviews, but I don't think that plain word frequency can tell anything useful about story.
+
+I have just sampled 30 reviews from random story - and 28 of them are either 'great story, plz continue' kind of reviews or inane ramblings about everything and nothing. So any useful information from the 2/30 meaningful reviews would be drowned in the statistics from the 28/30 dumb ones.
+
+To summarize: I want some metrics which can cope with abundance of idiotic reviews.
+:PROPERTIES:
+:Author: deltashad
+:Score: 6
+:DateUnix: 1527448583.0
+:DateShort: 2018-May-27
+:END:
+
+*** Thats what im doing, designing the tools that can take all those reviews, and tell you, both the metadata of the stories, the follows and favorites, so you can see how many people are invested in the story, and the constructive reviews that are 10+ words that actually discuss either what the chapter did, and/or what they think of the story.
+:PROPERTIES:
+:Author: ethanbrecke
+:Score: 1
+:DateUnix: 1527449090.0
+:DateShort: 2018-May-27
+:END:
+
+**** That's great but all these metrics by themselves are either not very interesting or already available on the story page.
+
+> constructive reviews that are 10+ words
+
+The number of the 10+ words reviews is strongly correlated with the number of reviews in total and reflect only popularity and age of the story which can be estimated by other metrics such as Favs/Follows and publish date. Which is why I suggest doing more in depth analysis of available information and providing other metrics.
+:PROPERTIES:
+:Author: deltashad
+:Score: 1
+:DateUnix: 1527453851.0
+:DateShort: 2018-May-28
+:END:
+
+***** So what other metrics do you think would help with a more in depth analysis? I want to help the fanfic community by creating a tool where someone can enter a link, and have the analysis they need to fully understand what the story is about and the reviews around it.
+:PROPERTIES:
+:Author: ethanbrecke
+:Score: 1
+:DateUnix: 1527455116.0
+:DateShort: 2018-May-28
+:END:
+
+****** I think the most helpful thing to measure would be quality of prose of the story. Off the top of my head there are two metrics which can serve as initial approximation of it - size of author vocabulary and logarithm of probability of the sequence of the words. [[https://statistics.stanford.edu/sites/default/files/BIO%2009.pdf][This paper]] contains algorithms for estimation the size of vocabulary.
+
+Logarithm of probability of the sequence of the words can measure awkward turn of the phase and incorrect wordings. To calculate it I suggest first measure frequency of the pairs consequent words in some text dataset, then treat frequencies as probabilities of words pair and sum logarithms of all pairs of words in story chapter/s.
+:PROPERTIES:
+:Author: deltashad
+:Score: 3
+:DateUnix: 1527458940.0
+:DateShort: 2018-May-28
+:END:
+
+******* So for readability and quality of prose, would checking the flesch index, and the gunning fog index, and exporting that with other data that is exported for people's reviews work?
+:PROPERTIES:
+:Author: ethanbrecke
+:Score: 1
+:DateUnix: 1527459768.0
+:DateShort: 2018-May-28
+:END:
+
+
+** I don't understand the purpose of it?
+:PROPERTIES:
+:Author: booksandpots
+:Score: 1
+:DateUnix: 1527444094.0
+:DateShort: 2018-May-27
+:END:
+
+*** Eventually it will analyze and rate the fics, based on reviews, and other things like favs, and follows. Maybe if i can work with [[/u/tusing]], and get some connection between his bot, and the amount of requests a story gets, and i can add more data to show you, so you can get a general idea of what the fic is, before reading it.
+:PROPERTIES:
+:Author: ethanbrecke
+:Score: 1
+:DateUnix: 1527444388.0
+:DateShort: 2018-May-27
+:END:
+
+
+** Reviews can be both positive AND NEGATIVE, Favorites and Follows should indicate true popularity of a particular fic. However, fics with more chapters generally have more Follows, so IMO, Favorites is the best metric for a fic's popularity.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 1
+:DateUnix: 1527448583.0
+:DateShort: 2018-May-27
+:END:
+
+*** Thats the thing though. The Follows and Favorites can go so far to tell you how many people are somewhat invested in the story. but the reviews that are 10+ words, that are constructive in some way can help you really understand the positive aspects of the writing, as well as the draw backs.
+:PROPERTIES:
+:Author: ethanbrecke
+:Score: 1
+:DateUnix: 1527449172.0
+:DateShort: 2018-May-27
+:END:
+
+
+** If it'll help Scryer properly tagging stories faster I'll be all for it.
+:PROPERTIES:
+:Author: RedKorss
+:Score: 1
+:DateUnix: 1527451378.0
+:DateShort: 2018-May-28
+:END:
+
+*** I dont know what Scryer is, but i might be able to help. I dont know that much python and programming, but id be willing to take a shot at helping out.
+:PROPERTIES:
+:Author: ethanbrecke
+:Score: 1
+:DateUnix: 1527452069.0
+:DateShort: 2018-May-28
+:END:
+
+**** I have no affiliation with the project, it's a jab at their tagging of Slash, Femslash, Harem, and Genderbending content. It's not always right. [[https://scryer.darklordpotter.net/]]
+:PROPERTIES:
+:Author: RedKorss
+:Score: 1
+:DateUnix: 1527453478.0
+:DateShort: 2018-May-28
+:END:
+
+***** I might be able to help out. If i take the metadata from each story, and scan for Slash, FemSlash, Harem, and GenderBending, i could try helping them out.
+:PROPERTIES:
+:Author: ethanbrecke
+:Score: 1
+:DateUnix: 1527458568.0
+:DateShort: 2018-May-28
+:END:
+
+
+** I think different stats become important depending on the length of the fic. All else being equal, one-chapter fics that have always been marked complete won't get follows, and may also get fewer reviews and favorites compared with a completed multi-chapter fic that got updated in installments. For stories that were posted all at once, it could be that one metric (reviews vs favorites) is better than the other, or that a sum or ratio would work better.
+
+Meanwhile, the longer in time a multi-chapter fic has been ongoing, the more follows and reviews it will get, compared with a fic of the same word-length that was completed more quickly or in fewer chapters. So, for stories that weren't posted all at once, maybe a ratio of reviews/favorites/follows to the difference between the posting date and the date of the last update would be most informative.
+
+Then, on top of that, there's the fact that for any fic, the number of reviews/favorites/follows will generally increase with time anyway. So it probably wouldn't be fair to compare a 500k-word fic that was completed five years ago to a 500k-word fic that was completed yesterday on the basis of reviews or favorites alone. The ratio of reviews to total time online would probably be more useful.
+
+But it seems like you're trying to make something a bit more interesting--a bot that can tell you how good a fic is likely to be, or what it's likely to be about, based on text information? If you're focusing on reviews, I think you should start by just scraping a huge number of reviews from across fandoms and analyzing the content of those, maybe by clustering them according to relatedness? For example, (ideally) reviews containing phrases like "great work" and "brilliant" and "love this" will tend to cluster together separately from reviews containing phrases like "could use improvement" and "needs work." You might be able to identify new words and phrases that are more prevalent in certain types of reviews (praise vs constructive vs insulting vs etc). Then, when you are looking through reviews for a given fic, you can compare each review to your test set (or just look for keywords) and report something like "x% good reviews" for that fic.
+:PROPERTIES:
+:Author: ITSINTHESHIP
+:Score: 1
+:DateUnix: 1527636259.0
+:DateShort: 2018-May-30
+:END:
+
+*** That's sort of the plan. Im trying to figure out how to output the [[https://en.wikipedia.org/wiki/Readability][readability]] first, and then focus on scraping the reviews, and analyze them, to help understand how the story stacks up.
+:PROPERTIES:
+:Author: ethanbrecke
+:Score: 1
+:DateUnix: 1527645554.0
+:DateShort: 2018-May-30
+:END:
+
+
+** You could try talking to this guy: [[https://github.com/batflyer/CLFanfictionSearchEngine]]
+
+Afaik he worked off of reviews too, and his repo is also mostly python.
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1530491025.0
+:DateShort: 2018-Jul-02
+:END:
+
+*** Thanks for this. Ill look through the repo and see if i can implement any of it in my code.
+:PROPERTIES:
+:Author: ethanbrecke
+:Score: 1
+:DateUnix: 1530491228.0
+:DateShort: 2018-Jul-02
+:END:
+
+
+** Average review length would be a good one, as would something like reviews per 100 follows/favs.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 1
+:DateUnix: 1527443142.0
+:DateShort: 2018-May-27
+:END:
+
+*** Okay. Added to the project page. [[https://github.com/ethanbreck/FFN-Scraper/projects/1]]
+:PROPERTIES:
+:Author: ethanbrecke
+:Score: 2
+:DateUnix: 1527443283.0
+:DateShort: 2018-May-27
+:END:

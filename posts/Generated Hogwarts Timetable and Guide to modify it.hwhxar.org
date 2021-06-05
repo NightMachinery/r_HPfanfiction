@@ -1,0 +1,316 @@
+#+TITLE: Generated Hogwarts Timetable and Guide to modify it
+
+* Generated Hogwarts Timetable and Guide to modify it
+:PROPERTIES:
+:Author: Arcfej
+:Score: 6
+:DateUnix: 1595519083.0
+:DateShort: 2020-Jul-23
+:FlairText: Hogwarts Timetable
+:END:
+If you're interested only in the timetable, skip to 'The timetable' section
+
+* Introduction / Story
+  :PROPERTIES:
+  :CUSTOM_ID: introduction-story
+  :END:
+When I started to write my first fanfiction I encountered the problem, that there is not an official Hogwarts timetable. When I started to search the internet for one I found a post and tool created by [[https://www.reddit.com/user/LittleDinghy/][LittleDinghy]] in this community.
+
+#+begin_quote
+  The original tool by LittleDinghy: [[https://www.reddit.com/r/HPfanfiction/comments/b93g9f/harry_potter_and_the_hogwarts_class_schedules_a/][Harry Potter and the Hogwarts Class Schedules: A Tool for Fanfiction Writers]]
+#+end_quote
+
+It was really interesting first, but I soon realized it has many shortcomings. Most importantly it doesn't leave place for electives to overlap, making time turners meaningless regards children. Then, you have no control over when the classes are, you can only change if they're a Gryffindor or Hufflepuff class. Thirdly, the generated timetables have a different number of classes for the houses.
+
+I started to play with Excel and tried to figure out a way to improve it. I learned a lot from it (about Excel), but my solution came from somewhere else. I found a free and open-source program named FET ( [[https://lalescu.ro/liviu/fet/]] ) to generate my timetables. You can find my project file for it in the linked OneDrive folder.
+
+Although FET can create pdf and HTML timetables automatically, I wanted to represent them in Excel again. There are three reasons for this. Firstly, I'd put a lot of time and effort into Excel already. Secondly, LittleDinghy's original idea was presented in a spreadsheet and I borrowed a lot of concept from it. And finally, I've just fallen in love with Excel and what it can do (I'm a programmer in my hearth). I was amazed by how Power Query (embedded in Excel) can transform the generated XML data into an easily searchable table which doesn't crash my spreadsheet.
+
+* The timetable
+  :PROPERTIES:
+  :CUSTOM_ID: the-timetable
+  :END:
+*The OneDrive folder where you can find everything (spreadsheet, FET project, XML files):* [[https://1drv.ms/u/s!Agx2kC_OYHHEg4xFzbHjs7r8grYWKA?e=4u8cND]]
+
+*Some screenshots can be found here:* [[https://github.com/Arcfej/HogwartsTimetable]]
+
+I used the idea of LittleDinghy to pair the houses together for the subjects. The differences from his/her idea:
+
+- I sorted the electives into 3 groups. The subjects in one group can have lessons at the same time
+- I used lessons of different length, resulting in 4 in the morning and 3 in the afternoon
+- I left out Astronomy from my timetable completely
+
+I wrote down the details I used for the timetable generation on the 'Concept' sheet. If you modify it the timetables will not change. It just shows the concepts I used in FET to generate the actual timetables. When I decided how many lessons a teacher should have a week, I tried to remain as close as possible to canon.
+
+The hard constraints I used in FET:
+
+- There is a lunch-break in the middle of the day, so double lessons cannot be cut by it.
+- First years can have only 3 lessons per day (double lessons counts for 2)
+- Second, third and fourth years can have only 5 lessons per day (double lessons counts for 2)
+- First years cannot have lessons in the first morning and the last two afternoon period (M1, A2, A3)
+- Second years cannot have lessons in the first morning and last afternoon period (M1, A3)
+- Third years cannot have lessons in the last afternoon period (A3)
+- First years can have only 2 consecutive lessons per day (forcing one to the afternoon)
+- Third and fourth years can have only 3 consecutive lessons per day (electives can slip out under this constrain, resulting in a full morning schedule if a student chose their electives that way)
+- The three elective groups cannot overlap in years 3-5 (forced by activity tags)
+- The flying lessons should end the day for the first years (there cannot be a lesson after them)
+
+The soft constraints I used in FET (can be broken if generation is not possible otherwise)
+
+- Minimum 2 days between the same activities (lessons). This means the same class should not be on two consecutive days. Double classes count as one activity with double-length.
+
+* If you'd like to modify it:
+  :PROPERTIES:
+  :CUSTOM_ID: if-youd-like-to-modify-it
+  :END:
+*First, some terminology in FET:*
+
+- Years: the years at Hogwarts from 1 - 6
+- Groups: the four houses in every year, labelled 1_G, 2_H, 5_R, etc. There are no groups in 6th and 7th year as they sit the classes together as there weren't any houses.
+- Subgroups: Elective classes represented like this. e.g. 3_G_Mu represents the third year Gryffindors who take Muggle Studies as an elective.
+- Activity: a lesson in the timetable. If first-year Gryffindors have 2 Transfiguration classes, it is represented by TWO activity in FET. Double classes are one activity with double length.
+- Activity tags: used only to add further constraints on the timetable, this case to prevent the elective groups to overlap.
+- Further information and detailed 'How to use' can be found in the manual: [[https://www.timetabling.de/manual/FET-manual.en.html]]
+
+*The steps to modify my version:*
+
+- You have to make of copy of my files, they're only readable.
+- Download and extract FET from here: [[https://lalescu.ro/liviu/fet/download.html]]
+- If you'd like to group different electives together:
+
+1. Choose different subjects under Elective 1 and 2 on the 'Concept' sheet. (This will only change the concept, not the timetables)
+2. Elective 1 is represented by the x_E1 tags in every year 3 - 5 in FET, where 'x' is the year of the class. The same is with Elective 2 and 3.
+3. Unfortunately, it's not easy to change the elective groupings in FET. You have to modify all the affected elective activities to have different tags. You can find them under the Data tab, 'Activities' button in FET. E.g. if you swapped Muggle Studies and Divination in Elective 1 and 2, then you have to modify all the Muggle Studies activities to have x_E2 tag instead of x_E1, and you have to do the opposite on every Divination activities.
+
+- If you'd like to change the house pairings by subjects:
+
+1. Modify them on the 'Concept' sheet and follow the instructions there. (This will only change the concept, not the timetables)
+2. Unfortunately, it's not easy to change the house pairings in FET. You have to modify all the activities under the 'Data' tab, 'Activities' button and change the participating student groups/subgroups according to the spreadsheet. E.g. if you paired Gryffindor and Slytherin in transfiguration, then you have to modify all the Transfiguration activities to have the x_G + x_S or x_H + x_R student groups in it.
+
+- You can add many more time constraints under the time tab if you'd like. E.g. I needed McGonagall to be free on Monday, M2, so I added a constraint that she should be free. (Space constraints are only used for rooms, which is not a problem in a huge castle). You can also group the houses and electives differently for all the years, the generation will probably be successful (I haven't tried it out)
+- Generate a timetable under the 'Timetable' tab with the 'Generate' button, then print them into nice pdfs if you'd like to.
+
+/Optional:/
+
+- If you'd like to use my spreadsheet as timetables (done in Excel 2016, in other versions the steps can be different):
+
+1.  Go to the 'Teachers' sheet
+2.  Delete the first table starting in A1 (Leave the second table there)
+3.  Click on A1
+4.  'Data' tab -> 'From Other Sources' -> 'From XML Data Import'
+5.  Choose the generated teachers.xml file. After a successful generation in FET, a pop-up message notifies you of its location, along with generated HTML files.
+6.  Rename the table to 'Teachers' under the 'Table Tools Design' tab
+7.  Rename the table columns to Teacher Day Hour Subject Students Room
+8.  Do the steps 2 - 6 on the Students sheet, but rename the table to Students
+9.  Rename the table columns to Subgroup Day Hour Teacher Subject Room
+10. It's possible, that you have to enable 'External Data Connections' to update the timetables with the new data from XML, which appears as a security warning when you open the workbook. (The connection between the queries and the XML tables count as external connections, even if it's only used inside one workbook. I used Power Query to transform the data into easily searchable tables)
+11. Hit on the 'Data' -> 'Refresh All' button.
+12. You have the new timetables on the respective sheets.
+
+* Possible future improvements
+  :PROPERTIES:
+  :CUSTOM_ID: possible-future-improvements
+  :END:
+Quidditch practice sessions can be added along with astronomy lessons. I didn't put in the time for it, but for further request, I'll consider it. 6th and 7th years can have more classes if I allow overlaps, but it's need to be figured out how. I'm open to any critique and suggestions as well.
+
+* Conclusion, thanks, etc.
+  :PROPERTIES:
+  :CUSTOM_ID: conclusion-thanks-etc.
+  :END:
+Though I enjoyed learning about Excel and Power Query while creating these timetables, I hope you'll find them and this guide useful. I would have liked to share it first with the community where I found the tool I started from.
+
+I borrowed a lot from [[https://www.reddit.com/user/LittleDinghy][LittleDingy]], I would like to thank them for the initial idea. The spreadsheet follows their style, I only added some more content to it, sometimes deleted sheets which became irrelevant.
+
+*Enjoy it!*
+
+
+** [[/u/LittleDinghy][u/LittleDinghy]] here. Fantastic job. I fully realize and accept the many shortcomings of my original post but have not had the time to really dive back into it and fix/address it, and I whole-heartedly appreciate this.
+
+I don't like having time-turners be required for some schedules for some students, as it screws over students that wouldn't be given a time-turner and therefore are limited in their electives. If you remember, Hermione only got the time-turner because she was such an exceptional student. That said, it's a minor quibble.
+
+I will also say that this bit:
+
+#+begin_quote
+  The 6th and 7th years have the same classes as there weren't any houses
+#+end_quote
+
+was actually a feature in my original document, so this isn't actually a difference.
+
+Also, I noticed that some classes have more class time (more periods) dedicated to them than others do, and it varies by year. For example, third years have four periods dedicated to CoMC, but fourth years only have three. Plus Arithmancy is by default paired with Runes, but there are also standalone Arthimancy classes but none for Runes.
+
+I will definitely look into this further and use it in place of my own for most things. After all, mine was very flawed.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 3
+:DateUnix: 1595605440.0
+:DateShort: 2020-Jul-24
+:END:
+
+*** u/Arcfej:
+#+begin_quote
+  I will also say that this bit:
+
+  #+begin_quote
+    The 6th and 7th years have the same classes as there weren't any houses
+  #+end_quote
+
+  was actually a feature in my original document, so this isn't actually a difference.
+#+end_quote
+
+Sorry about that, I will delete that part.
+
+#+begin_quote
+  I don't like having time-turners be required for some schedules for some students, as it screws over students that wouldn't be given a time-turner and therefore are limited in their electives.
+#+end_quote
+
+My idea was, that in third years students choose at least two electives. After that, they pair the electives together in that year, that everybody can attend them. I assume, that most students don't take more electives than 2, and almost noone takes more than 3. The few exceptional students, like Hermione, can get a timeturner. I also assume, that there are "trending" elective pairs to take, so most of the time the new students take those and there isn't any problem. The teachers can also promote those pairs, e.g. Arithmancy - Divination as both can predict the future.
+
+#+begin_quote
+  Also, I noticed that some classes have more class time (more periods) dedicated to them than others do, and it varies by year.
+#+end_quote
+
+Yes, I tried to be as close as possible to canon, and it's like that. I collected the known classes in a table on the 'Concept' sheet, than expanded the numbers next to it in another table to fill up the holes. Maybe a few more lessons still can be added to it, for example some muggle studies lessons.
+
+#+begin_quote
+  Plus Arithmancy is by default paired with Runes, but there are also standalone Arthimancy classes but none for Runes.
+#+end_quote
+
+Arithmancy is paired with Muggle Studies in Elective 1. But even if they were grouped together they not forced to occupy the same timeslot. It's just allowed. They can overlap, but it's not necessary. The number of lessons per week is fixed though.
+
+Thanks fir the review!
+:PROPERTIES:
+:Author: Arcfej
+:Score: 2
+:DateUnix: 1595606483.0
+:DateShort: 2020-Jul-24
+:END:
+
+
+** This is mad, amazingly detailed!! But why does it start so early, and the periods so long 🤣 in Britain (English Free schools, anyway) we usually start lessons at around 9, and periods are only about an hour, unless they're doubles. There's also morning break after the first two periods
+:PROPERTIES:
+:Author: nmckl
+:Score: 2
+:DateUnix: 1595722234.0
+:DateShort: 2020-Jul-26
+:END:
+
+*** Maybe not every lesson starts at the same time...
+
+E.g. if there is two double periods in the morning:
+
+09:00 - 10:30 break 11:00-12:30
+
+If there is three single period in the morning:
+
+09:00 - 09:45 10:00 - 10:45 break 11:30 - 12:15
+
+But that's a lot more complicated to do!
+:PROPERTIES:
+:Author: Arcfej
+:Score: 2
+:DateUnix: 1595723543.0
+:DateShort: 2020-Jul-26
+:END:
+
+**** Yep, definitely, especially since there's only one teacher for every subject! I think the current schedule is great, I just wanted to give a bit more background, if you need/want it.
+:PROPERTIES:
+:Author: nmckl
+:Score: 2
+:DateUnix: 1595723856.0
+:DateShort: 2020-Jul-26
+:END:
+
+***** Thanks! Appreciated. In my country starting at 8 is completely normal. But it's more human-friendly in England. Now that I attend a University in Scotland I experience how much better it is here! XD
+:PROPERTIES:
+:Author: Arcfej
+:Score: 2
+:DateUnix: 1595724022.0
+:DateShort: 2020-Jul-26
+:END:
+
+****** God that must have been a pain. Apparently in America it's even worse, they start at like 7:30 :0 Scotland's probably even better, I wonder if that'd factor in since Hogwarts is up there?
+:PROPERTIES:
+:Author: nmckl
+:Score: 1
+:DateUnix: 1595724341.0
+:DateShort: 2020-Jul-26
+:END:
+
+******* There is no magical Scotland, so I doubt.
+
+And yes, my girlfriend started at 7:30. I only started later because I was in a boarding school and we have classes on Saturday.
+:PROPERTIES:
+:Author: Arcfej
+:Score: 2
+:DateUnix: 1595724522.0
+:DateShort: 2020-Jul-26
+:END:
+
+
+*** So there should be less classes? Could you modify my tables on the concept page and show it to me? I'm talking about the second wide table down. The first one is the known lesson counts from canon and I tried to fill in the gaps. Could you also suggest a daily routine, when should the lessons start? I know that in 5th year there were 4 periods in the morning and 3 afternoon. [[https://harrypotter.fandom.com/wiki/1995%E2%80%931996_school_year]]
+:PROPERTIES:
+:Author: Arcfej
+:Score: 1
+:DateUnix: 1595722898.0
+:DateShort: 2020-Jul-26
+:END:
+
+**** I'll give it a try hahaha. For a routine, lessons are usually set out with 6 periods in the day, and depending on the school, starts around 9 and ends around 3:30, but private schools (which I imagine Hogwarts to be like, being a boarding school) mostly end at 4. Days are: form time (at Hogs probably just breakfast and getting ready) until 8:55/9, 2 periods, then break (15 minutes, more if longer school days), then another 2 periods, then lunch (most have 1 hr, again more if longer school days), then last 2 periods. But it is different as Hogs only has 8 core lessons, whereas we have 8-12 until GCSE years.
+:PROPERTIES:
+:Author: nmckl
+:Score: 1
+:DateUnix: 1595723625.0
+:DateShort: 2020-Jul-26
+:END:
+
+***** Thanks. The most restricting problem is that every subject have only one teacher. So you have to make less classes for the students, or make more classes per day.
+
+If you have a double class, is it like two single class after each other, or is it have a different start and/or end time than single classes? (See my other comment)
+:PROPERTIES:
+:Author: Arcfej
+:Score: 2
+:DateUnix: 1595723906.0
+:DateShort: 2020-Jul-26
+:END:
+
+****** Also, how long a morning break is?
+:PROPERTIES:
+:Author: Arcfej
+:Score: 2
+:DateUnix: 1595724876.0
+:DateShort: 2020-Jul-26
+:END:
+
+******* Morning breaks are usually 15 mins, can be longer, probably maximum 30 mins
+:PROPERTIES:
+:Author: nmckl
+:Score: 2
+:DateUnix: 1595725069.0
+:DateShort: 2020-Jul-26
+:END:
+
+
+****** Doubles are just 2 single classes in a row
+:PROPERTIES:
+:Author: nmckl
+:Score: 2
+:DateUnix: 1595725088.0
+:DateShort: 2020-Jul-26
+:END:
+
+
+** [[/u/the-phony-pony][u/the-phony-pony]] can you possibly add this to the wiki to replace my Class Schedule? This one is better overall.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 1
+:DateUnix: 1595861468.0
+:DateShort: 2020-Jul-27
+:END:
+
+*** Don't replace it. Yours is easier to manipulate, so if someone's looking for a quick solution yours is perfect for it.
+:PROPERTIES:
+:Author: Arcfej
+:Score: 1
+:DateUnix: 1595861789.0
+:DateShort: 2020-Jul-27
+:END:

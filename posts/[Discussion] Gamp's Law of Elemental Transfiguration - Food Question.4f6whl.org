@@ -1,0 +1,449 @@
+#+TITLE: [Discussion] Gamp's Law of Elemental Transfiguration - Food Question
+
+* [Discussion] Gamp's Law of Elemental Transfiguration - Food Question
+:PROPERTIES:
+:Author: cheo_
+:Score: 17
+:DateUnix: 1460905220.0
+:DateShort: 2016-Apr-17
+:FlairText: Discussion
+:END:
+There is this quote from Ron and Hermione in DH:
+
+#+begin_quote
+  Hermione: "Your mother can't produce food out of thin air, no one can. Food is the first of the five Principal Exceptions to Gamp's Law of Elemental Transfigura---" Ron: "Oh, speak English, can't you?" Hermione: "It's impossible to make good food out of nothing! You can Summon it if you know where it is, you can *transform* it, you can increase the quantity if you've already got some..."
+#+end_quote
+
+I'm a little confused. Is Hermione basically saying that while it's impossible to make food out of thin air, you could, for example, transform a shoe into a loaf of bread? A rock into sugar? Or is it more likely that she's talking about transforming one kind of food into another? (loaf of bread into a cake, salt to sugar, etc.) And are the rules the same for drinks? It it possible to make whiskey out of beer? Or water? I know that water can be conjured, but what about other drinks (like whiskey and beer), can they be conjured?
+
+Does anyone know quotes from canon that explain this in more detail? Or has theories that are supported by canon evidence? I need it for the next chapter of my fic, and if it's avoidable I don't want to violate any of the few rules JKR actually laid down concerning what HP magic can and can't do.
+
+Thanks in advance!
+
+
+** First off, it's important remember that this is Gamp's Law of Elemental /Transfiguration/. It may not apply to other areas of magic like Charms. If it does extend to Charms, then it doesn't seem to cover liquids as we know of water-creation and wine-creation Charms (and have seen characters drink the water so it's definitely potable).
+
+Now, as for the interpretation of that quote, the "it" there refers to food (or more precisely "good food"), so what she's saying is that if you already have food, you can transfigure it into other food. But you can't transfigure non-food into food (you can't make good food out of nothing).
+
+There's a few more detail to add to the mix to get to the comprehensive solution:
+
+*Firstly*, already covered, you can't make good food out of nothing with transfiguration but you can transfigure food into other food (Hermione's quote above).
+
+*Secondly*, we know that transfiguration can be used to create animals (McGonagall's pig, Cedric's dog).
+
+*Thirdly*, the things created by transfiguration have the actual physical structure of those objects, it's not some kind of tactile illusion. We know this from two JKR quotes:
+
+#+begin_quote
+  “With a charm you add properties to something. With a transfiguration you change its nature completely; the molecular structure alters.”
+#+end_quote
+
+/The Herald, 1998/
+
+#+begin_quote
+  Charm: Does not fundamentally alter the properties of the subject of the spell, but adds, or changes, properties. Turning a teacup into a rat would be a spell, whereas making a teacup dance would be a charm.
+#+end_quote
+
+That one is from the old jkrowling.com. Since a charm is contrasted with the idea of fundamentally altering the properties of an object, and a transfiguration is used as an example of the difference, we can conclude that a transfiguration does fundamentally alter the properties of an object.
+
+*Fourthly*, transfiguration is permanent unless actively reversed. We know this from quintapeds and the hamster Fudge made for the Prime Minister. But it's also the logical conclusion from the third point, as physical things do not spontaneously turn into other physical things without the interference of magic and transfigured objects have identical physical structure to naturally occurring tokens of the same object type.
+
+From two, three and four, we seem to have all the ingredients for transfiguration being able to create good food: you can create what is essentially meat, that meat is physically identical to real meat, and does not spontaneously change into something else.
+
+And yet we have Hermione's quote telling us that a) you can't make good food out of nothing and b) you can make food out of other food.
+
+This all points to one solution: there exists a magical property that all objects in the universe possess. The property says whether something is "good food" or not i.e. whether it is capable of nutrition. Even if an object has the physical structure of food such that it is able to go through the human digestion process, if it lacks this property the human body will not be able to derive energy from it.
+
+This property is immutable so when you use transfiguration to turn non-food into apparent food, it is not capable of nutrition because it lacks the nutritive magical property, despite being physically identical to good food. Conversely, when you transfigure good food into other food it is capable of nutrition because it has the property. This also explains how you can increase the quantity of food: since the property is binary, it doesn't change or get "thinned out" by increase in amount.
+:PROPERTIES:
+:Author: Taure
+:Score: 25
+:DateUnix: 1460919938.0
+:DateShort: 2016-Apr-17
+:END:
+
+*** Or, to sum it up: if it didn't start as food, it will have the nutritional value of sawdust even if it does happen to be edible.
+
+This makes me think that however one changes the substance they started out with it's still going to retain its original composition for the purpose of digestion and nutrient absorption, and that would basically be it.
+
+It kind of makes me wonder what would happen if you transfigured someone into food, duplicated that with magic, then changed the person back and tried to eat the duplicates.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 4
+:DateUnix: 1460932411.0
+:DateShort: 2016-Apr-18
+:END:
+
+**** Now you're asking the real questions.
+:PROPERTIES:
+:Author: totorox92
+:Score: 3
+:DateUnix: 1461029390.0
+:DateShort: 2016-Apr-19
+:END:
+
+
+*** Hermione saying that you can transform one food into another food does not exclude the possibility that you can transform non-food into good food. You simply cannot conjure good food out of the air the way you can with water.
+
+If transfiguration changes the molecules permanently, then transfigured food is good food.
+:PROPERTIES:
+:Author: munin295
+:Score: 2
+:DateUnix: 1460941160.0
+:DateShort: 2016-Apr-18
+:END:
+
+**** u/deleted:
+#+begin_quote
+  If transfiguration changes the molecules permanently, then transfigured food is good food.
+#+end_quote
+
+I think something more is happening here, because if this were the case, there should be no reason you /can't/ conjure food. Despite that, you can't. That's told directly to us in canon with no ambiguity. I have a rather complicated theory I've been working on which tries to tie together why magic works with the assumption that physics isn't fundamentally wrong, which would technically allow for food with no nutritional value, if it's totally necessary for it to exist.
+
+Crazy theory warning ahead. Total conjecture for the next ten miles. Turn back all those who get unnecessarily butthurt at these things.
+
+--------------
+
+The basis of my theory is that magic is "all in our heads", but that it's also not an illusion. Life is what gives meaning to events and objects, without it, everything which exists would have no meaning. Magic often applies our understanding of the world, even a subconscious one, or one we no longer share, back onto the world. It also necessarily means the universe is alive, but that's kind of irrelevant for explaining food.
+
+Rowling has already stated (and I'm paraphrasing a bit here), transfiguration changes the shape of something, while charms change what it does, the latter I'm going to call "essence". So let me explain what /I/ mean by "essence". Essence is something which gives property to a shape or thing. For example, a dancing charm can give the essence of "dancing" to a cup, making it dance, despite there being no physical method for the cup to dance.
+
+While that's what an essence /does/, an essence exists out of a concept, idea, or of knowledge. There's no base physical concept of "dancing" as far as the universe is concerned, but as intelligent, living beings, humans can create and understand that knowledge, which can then be applied to an object as a metaphysical thing, an essence.
+
+The physical law is no more or less an idea than the dancing, it's just of a different type on a different scale. A porcelain cup may be hard because it has the essence, the metaphysical property of being made up of a hard material (to simplify), but magic can give it another essence, one on our level of understanding.
+
+I think this also means that complex life has created some very odd situations where our understanding and the universe's "understanding" conflict in areas.
+
+Food is one of those weird parts of our understanding messing with an object's essence. Things come from the Earth, and they return to it when they die. For humans, food is the single most complex part of this cycle. It takes time, and it takes sacrifice, but it's completely necessary for life to continue. The very first human religions and spiritualities were about how the world is alive. We've always understood this complexity, but even if /we/ didn't, this is a necessity to all living things, and they are part of that system, that idea. If I continue on this path, it gets into crazy land and isn't particularly relevant so I'll move on.
+
+This is different from water, because while water is far more important, it's also far more simple. Every needs water, but it flows through the Earth everywhere and even falls from the sky. There are great big lakes bigger than the landmasses, and even a massive frozen one at one of the poles.
+
+So, food as an essence which can't just be replicated by transforming an object. Even if you can /physically/ change its form from "nothing" to "food", as conjuration does, you can't /create/ the essence of food so easily. Even if you could create the physical object and ate it, it physically would not give you the nutrients real food would give you. I don't know if this means the chemistry would literally not work, or if time would do something silly, but it's largely irrelevant. The essence of food is interfering with the essences of mundane, physical law.
+
+This is only true because transfiguration /specifically does not alter the essence of something on its own/. I think there are times where it can spontaneously change on its own, but food is not one of those cases, and it's why food is one of the five Principal Exceptions.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1460962450.0
+:DateShort: 2016-Apr-18
+:END:
+
+***** I have a much simpler theory. Gamp's "Law" is wrong -- you /can/ conjure good food, it's just no one has discovered the spell for it yet. And because Gamp said you couldn't, no one has tried (because wizards).
+:PROPERTIES:
+:Author: munin295
+:Score: 1
+:DateUnix: 1460968714.0
+:DateShort: 2016-Apr-18
+:END:
+
+****** That's one way to go, but I've been trying to avoid the assumption that wizards are /total/ write-offs. It's not outright impossible in my theory, I didn't really go into that, it's just not possible through the usual methods. I bet in either theory, you could set up a weird roundabout way to do it, or use a Philosopher's Stone or something like that. I just figure, if it was possible the normal way, they'd not have claimed it to be impossible.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1460969454.0
+:DateShort: 2016-Apr-18
+:END:
+
+
+**** Well, that's the question, but the more I think about it, the more I think that it makes more sense if you can't transfigure non-food into food. If you could, then, as somebody else pointed out, what's stopping wizards from conjuring a rock, and transfiguring it into food? Why would Hermione go looking for edible fungi if she could just transfigure something? (DH, camping) Of course that also leads to the question why she didn't just transform the fungi into something tastier, or why Molly Weasley and Hogwarts' house elves actually do the cooking, and don't just transfigure say a loaf of bread into a meal for ten. The only thing that I can imagine is that either transfiguring food is hard to master, or that there are limits... Or Molly and the elves simply like cooking, and transforming food went over Hermione's head at the time ;)
+:PROPERTIES:
+:Author: cheo_
+:Score: 1
+:DateUnix: 1460969632.0
+:DateShort: 2016-Apr-18
+:END:
+
+
+**** Unless someone chucks a finite at you, and the steak in your guts changes back into feathers
+:PROPERTIES:
+:Author: Lamenardo
+:Score: 1
+:DateUnix: 1460980816.0
+:DateShort: 2016-Apr-18
+:END:
+
+***** But can something be untransfigured using a simple finite? In the books finite is only used to cancel the effect of jinxes and the like (as far as am aware).
+:PROPERTIES:
+:Author: cheo_
+:Score: 1
+:DateUnix: 1460982943.0
+:DateShort: 2016-Apr-18
+:END:
+
+****** It can't, untransfiguration is an advanced (post-OWL) topic.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1460997008.0
+:DateShort: 2016-Apr-18
+:END:
+
+
+*** That's about the most conclusive analysation of this topic I've ever seen, and it even makes sense within the boundaries of canon. I took 'thin air' literally, and imagined that you just couldn't conjure it like water, but that you could transform other objects into (good) food. I guess I didn't look at Hermione's second statement close enough. Thanks a lot!
+:PROPERTIES:
+:Author: cheo_
+:Score: 1
+:DateUnix: 1460968565.0
+:DateShort: 2016-Apr-18
+:END:
+
+**** I had always assumed you could conjure water because there's always water in the atmosphere, the charm just collects it all into a stream at the wand tip. But the wine sort of invalidates that, I don't think there's enough wine properties in air.
+:PROPERTIES:
+:Author: Lamenardo
+:Score: 1
+:DateUnix: 1460980666.0
+:DateShort: 2016-Apr-18
+:END:
+
+***** Haha I'd definitely move to a more humid climate if that were the case. Just take a deep breath and enjoy the buzz ;)
+:PROPERTIES:
+:Author: cheo_
+:Score: 2
+:DateUnix: 1460981452.0
+:DateShort: 2016-Apr-18
+:END:
+
+
+***** In OotP, when teaching vanishing, McGonagall mentions that conjuration is the opposite process of vanishing.
+
+In DH McGonagall states that vanishing is sending objects into "non-being".
+
+So conjuration is the creation of objects out of non-being, not transfiguration of the air.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1460997107.0
+:DateShort: 2016-Apr-18
+:END:
+
+****** I didn't mean I thought air itself was transfigured, but just that the charm acts as a really advanced condenser, or dehumidifier, by gathering moisture that's already in the air. So a charm, rather than conjuring. But yeah, I was obviously wrong regardless
+:PROPERTIES:
+:Author: Lamenardo
+:Score: 2
+:DateUnix: 1461042217.0
+:DateShort: 2016-Apr-19
+:END:
+
+
+** You can definitely conjure wine, I think Ollivander did it when testing Harry's wand in GoF.
+
+As for food, I think the little bit you've quoted is the only canon info we have, unless JKR has addressed it in an interview somewhere, so I say feel free to make it up?
+
+Edit: clarity
+
+Edit 2: on second thought, I think you should only be able to transfigure food into different kind of food. If you can transfigure non-food into food, it brings up the question of whether you can conjure something -- say, a rock -- and then transfigured /that/ into food, which technically shouldn't be allowed, right?
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1460906422.0
+:DateShort: 2016-Apr-17
+:END:
+
+*** Thanks. If that's all we have I probably will. It's just the way Hermione says that you can't make food out of nothing, but you can transform it, that makes me wonder what exactly she's talking about. Can anything be transformed into food, or just food be transformed into other food, etc...
+
+Edit (to answer to edit ;) ): That makes the most sense. Otherwise really would be laughably easy to get around that rule.
+:PROPERTIES:
+:Author: cheo_
+:Score: 1
+:DateUnix: 1460907205.0
+:DateShort: 2016-Apr-17
+:END:
+
+
+*** I'm wondering... I know there's a spell for water (Aguamenti)- does it just pull water from the nearest available source? Or is the water it conjures no good for drinking somehow? Anyway, I'm betting that Ollivander did a simultaneous/very quick transfiguration of water into wine. And can you transfigure drink into good food? If so, seems you could just conjure water and then transform it into anything. But maybe what you transfigure will only ever have the nutritional value of the original object.
+:PROPERTIES:
+:Author: cavelioness
+:Score: 1
+:DateUnix: 1460980657.0
+:DateShort: 2016-Apr-18
+:END:
+
+
+** The impression I got here is that food is the problem. Harry can make wine (he does this during the felix incident in HBP) but food seems to be a no go. In the books, you don't appear to be able to transfigure or conjur any food.
+
+however, we do see multiple instances where food magically appears. Sandwiches in CoS, soup in HBP, pork chops in GoF. I suspect Molly weasley summoned soup from the pot (or else vanished it to wherever vanished things go), but the other instances all happen at Hogwarts. In linkffn(harry potter and the natural 20), dumbledore describes a spell that allows you to summon food (in that case, hot chocolate) from the kitchens, so my head cannon is there. Linkffn(harry potter and the summer after the war) (not my favorite fic) instead allows you to transfigure objects into similar objects, and if you're clever you can keep transfiguring until you hit something edible (seaweed to pufferfish, pufferfish to kangaroo, kangaroo to chicken, for example), but I like the other rule better.
+:PROPERTIES:
+:Author: Seeker0fTruth
+:Score: 3
+:DateUnix: 1460905933.0
+:DateShort: 2016-Apr-17
+:END:
+
+*** u/chahn32:
+#+begin_quote
+  transfigure objects into similar objects, and if you're clever you can keep transfiguring until you hit something edible (seaweed to pufferfish, pufferfish to kangaroo, kangaroo to chicken, for example), but I like the other rule better.
+#+end_quote
+
+But I think technically seaweed is edible, as is pufferfish and kangaroo. So the example of the second rule is about transforming the taste.
+
+I agree that the rule you like better makes more sense
+:PROPERTIES:
+:Author: chahn32
+:Score: 3
+:DateUnix: 1460906191.0
+:DateShort: 2016-Apr-17
+:END:
+
+**** Yeah, it was one of those situations where I wasn't sure if THEY hadn't paid enough attention to cannon or I hadn't, or what. The chain that I gave (seaweed>pufferfish>kangeroo>chicken) is indicative of the sorts of things they did, but isn't a direct copy paste. It's possible that it made slightly more sense in the fic.
+:PROPERTIES:
+:Author: Seeker0fTruth
+:Score: 1
+:DateUnix: 1460941956.0
+:DateShort: 2016-Apr-18
+:END:
+
+
+*** Thanks for the wine example, that's actually a great help. I'll look it up. What's confusing me is the part where Hermione says "you can *transform* it", which makes me wonder what exactly she means. If you can transform any object to food if you're skilled enough, or only one food into another, etc. Without that word, I'd just have assumed that you can only summon food or increase it's quantity, but as she specifically says "transform"...
+:PROPERTIES:
+:Author: cheo_
+:Score: 1
+:DateUnix: 1460907042.0
+:DateShort: 2016-Apr-17
+:END:
+
+
+** I don't remember which fanfiction it was in, but in one someome explains the problem with food(in that particular interpretation of the HP universe):
+
+Food isn't the actual problem, but ingestibles are.
+
+E.g. transfiguring a log of wood into a loaf of bread will destabilize if you digest it, possibly transforming back to its original state, which would potentially end with fatal results for the wizard. Fluids are less of a problem, if the original (e.g. water) is simply changed into a different fluid (e.g. wine), because the destabilization is less disruptive to the organism.
+
+Insofar creating food isn't impossible, but simply incredibly unsafe. Since Gamp's law was written down at a time where there was no way to find out what actually caused the violent death of the wizards (and because logic was never a strong point of wizards to begin with), they simply assumed that there was a fundamental restriction on food, for one reason or another.
+
+This theory then was further expanded upon by saying that a good example for this was potions: the ingredients are changed by the magic of the potions-master by changing attributes of the fluid, which evidently can still be safely drunk by the magical who decides to drink it. Some complicated potions might even rely on the fact that the potion 'changes back' while inside the person.
+
+The problem with this theory is one encountered with many magical theories: it creates new plotholes and possible exploits. If you can kill someone by simply changing something inedible to food, why isn't that more common a method of assassination?
+
+In the fic I read the author tried to fix this IIRC by saying that magic instinctively destroys 'false food' when digesting it, which also destroys all nutritional value in the process.
+:PROPERTIES:
+:Author: fan-f-fan
+:Score: 4
+:DateUnix: 1460909767.0
+:DateShort: 2016-Apr-17
+:END:
+
+*** Or it might be that it simply isn't absorbed at all due to being nutrientless so it's basically like trying to get nutrients from your own stool (meaning: completely pointless) and all you'll get from eating such “food” is more stuff in your ass to get rid of.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 1
+:DateUnix: 1460932789.0
+:DateShort: 2016-Apr-18
+:END:
+
+
+** u/zsmg:
+#+begin_quote
+  that while it's impossible to make food out of thin air,
+#+end_quote
+
+Technically she says
+
+#+begin_quote
+  It's impossible to make *good* food out of nothing!
+#+end_quote
+
+So I'm guessing it's possible to create food out of thin air or transfigure a rock into a sandwich but it's bad and inedible.
+
+#+begin_quote
+  you can transform it
+#+end_quote
+
+I'm pretty sure it means you can transfigure food, although I do wonder if there's any limitation. I mean if I transfigure a loaf of bread into a steak and eat it, would it taste like a steak, bread or something different?
+:PROPERTIES:
+:Author: zsmg
+:Score: 3
+:DateUnix: 1460908358.0
+:DateShort: 2016-Apr-17
+:END:
+
+*** I would think it would taste like steak but you wouldn't receive the proteins, you'd receive the carbohydrates of bread.
+:PROPERTIES:
+:Author: viol8er
+:Score: 3
+:DateUnix: 1460913138.0
+:DateShort: 2016-Apr-17
+:END:
+
+
+*** I think the word “good” was meant it's about food with higher nutritional value than sawdust; meaning, “food” food rather than “something technically inedible that you tried to eat” food.
+
+But yes, technically she does say that.
+
+And with the rock example, I think it'd technically taste like a sandwich and be edible, it just wouldn't give you anything that you wouldn't get from a rock so basically it'd all become stool and your body would hate you a bit for eating junk.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 1
+:DateUnix: 1460932637.0
+:DateShort: 2016-Apr-18
+:END:
+
+
+** Well, I understand that as universe, is important that food is finite, just as money. But I feel like is no sufficiently justified inside the universe.
+
+I'd say that Transfiguration, even if it changes something permanently, it can't give it the properties of the object. As they said before, it would be "food" taste like it, look like it, but it would be no good for your body.
+:PROPERTIES:
+:Author: LumosLupin
+:Score: 1
+:DateUnix: 1460950708.0
+:DateShort: 2016-Apr-18
+:END:
+
+*** It would have been inconvenient for that scene. It would have offered one less thing for them to argue about.
+
+As a whole, though? The ability to conjure food would help separate the magical world from the muggle world. It would help explain how a destitute family like the Gaunts managed to survive.
+
+With a metallic currency standard, rarity of a substance is directly related to its exchange rate. You want to use something that's hard to produce and not overwhelmingly common. But with food, its whole value is in its use value. You eat it, and that's why you want it. If it's a wave of your wand away, then nobody starves, restaurants are uncommon, most people benefit.
+
+It would make the HP universe better, not worse. It would not pose a huge problem for a society that everyone could eat as much as they needed without working for it.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1461021037.0
+:DateShort: 2016-Apr-19
+:END:
+
+**** I disagree. Let me explain it: Perhaps, in reality, if no one could ever starve, it would be a better world, despite the giant disruption and wave of crisis that food being infinite would produce (Imagine all companies that sell or produce food disappearing, from farmers to McDonalds or Kit-Kat, Coca-Cola, all wines, etc.)
+
+But in a fictional world, and given that we need to work for food, it would make HP Universe more flat, leveled in a bad way. Eliminates a problem, but that is not good for a story. Stories need conflict, problems. And they also need to exist in our same wave lengths, we need to be able to understand and relate with the characters in some way. Otherwise reading it wouldn't bee enjoyable.
+:PROPERTIES:
+:Author: LumosLupin
+:Score: 2
+:DateUnix: 1461030647.0
+:DateShort: 2016-Apr-19
+:END:
+
+***** u/deleted:
+#+begin_quote
+  (Imagine all companies that sell or produce food disappearing, from farmers to McDonalds or Kit-Kat, Coca-Cola, all wines, etc.)
+#+end_quote
+
+In order to stay in business, you have to provide fresh, new experiences to people, since everyone can replicate an old experience.
+
+#+begin_quote
+  Eliminates a problem, but that is not good for a story. Stories need conflict, problems.
+#+end_quote
+
+Food scarcity is not a core problem to the series. It's a stressor in one or two scenes.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1461079671.0
+:DateShort: 2016-Apr-19
+:END:
+
+
+** She's implying that you can transform food into something, but doesn't specify whether you can transform it into something edible.
+
+I might suggest that mages need to ingest magic. Plants produce it, or gather it from the ground. General transfiguration cannot disrupt any magic present in an item. Food-shaped magic remains food-shaped magic; if I managed to transfigure a horcrux into a bread loaf, it would still have horcrux-shaped magic.
+
+The result? I can transfigure food for muggles, and I can eat muggle food, and that leaves everyone healthy. If I have a diet of transfigured food as a mage, I will wither and die as I starve magically.
+
+The other leading idea is that transfiguration is not permanent. What happens when you eat bread that was transfigured and it transforms back?
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1461021469.0
+:DateShort: 2016-Apr-19
+:END:
+
+
+** I've seen it said that the "transform" line is referring to things like /Engorgio/, rather than /transfiguring/ food into existence.
+:PROPERTIES:
+:Author: MugaSofer
+:Score: 1
+:DateUnix: 1461500352.0
+:DateShort: 2016-Apr-24
+:END:

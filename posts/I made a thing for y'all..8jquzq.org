@@ -1,0 +1,208 @@
+#+TITLE: I made a thing for y'all.
+
+* I made a thing for y'all.
+:PROPERTIES:
+:Author: zuddsy
+:Score: 40
+:DateUnix: 1526432512.0
+:DateShort: 2018-May-16
+:END:
+Hello!
+
+In an effort to flesh out my online portfolio a little bit, I developed a fic downloader. You can check it out at [[http://www.ficfetch.xyz][www.ficfetch.xyz]]!
+
+It's almost entirely client-side (it uses proxies where necessary), which basically means it needs no server and I can host it on GitHub for free. So expect it to be up indefinitely! And I only paid like $1.50 for the domain, so I won't be asking for or relying on donations at all.
+
+I don't really read fanfiction anymore, so I'm not sure what sites are really popular nowadays. Right now it supports fanfiction.net, fictionpress.com, adult-fanfiction.org, and hpfanficarchive.com. You can download in EPUB, HTML, PDF, or TXT (don't expect MOBI to show up on that list anytime soon, it's problematic in a purely client-side environment).
+
+It /should/ support all languages, and it /should/ have no formatting errors... but of course, if you find an issue, please let me know. Support information is available on the website.
+
+Hope you enjoy.
+
+
+** First and foremost this tool looks really nifty and I'd like to thank you for your contribution.
+
+Would it be possible to add the following sites?
+
+[[https://archiveofourown.org/]] which is the primary site other than FFN
+
+[[http://www.siye.co.uk/index.php]] is the site for Harry/Ginny
+
+[[http://fictionhunt.com/]]
+
+Overall this tool looks very useful and I'm certainly bookmarking it. AO3 would be the priority of the above, as it is the only real competition FFN has.
+:PROPERTIES:
+:Author: moomoogoat
+:Score: 18
+:DateUnix: 1526434825.0
+:DateShort: 2018-May-16
+:END:
+
+*** AO3 has a built in downloader so I don't see the point of adding it tbh
+:PROPERTIES:
+:Author: bilal1212
+:Score: 15
+:DateUnix: 1526439824.0
+:DateShort: 2018-May-16
+:END:
+
+**** Well the ff.net app has a download option as well. I've never used it so I'm not sure how well it works, though.
+:PROPERTIES:
+:Author: Jiv302
+:Score: 4
+:DateUnix: 1526444017.0
+:DateShort: 2018-May-16
+:END:
+
+***** It works well but it downloads onto the app and not into any easily accessible place - at least for me, and I'm not the best with phones. AO3 doesn't have an official app though, so I can see why this would be handy on certain types of phones.
+:PROPERTIES:
+:Author: bilal1212
+:Score: 9
+:DateUnix: 1526444319.0
+:DateShort: 2018-May-16
+:END:
+
+****** AO3 allows downloads in all of the file formats that this tool uses so I don't see the point.
+
+Edit: Maybe TXT will be useful.
+:PROPERTIES:
+:Author: SurbhitSrivastava
+:Score: 3
+:DateUnix: 1526479433.0
+:DateShort: 2018-May-16
+:END:
+
+******* To have all downloaders in a single app, maybe?
+:PROPERTIES:
+:Author: AnIndividualist
+:Score: 3
+:DateUnix: 1526485166.0
+:DateShort: 2018-May-16
+:END:
+
+
+*** I will be adding support for siye and a03 within the week. Thanks for your feedback!
+:PROPERTIES:
+:Author: zuddsy
+:Score: 1
+:DateUnix: 1526508931.0
+:DateShort: 2018-May-17
+:END:
+
+
+** This is really cool, and also very elegantly designed! Thank you!
+
+I'd like to second [[/u/moomoogoat][u/moomoogoat]] and request that you add:
+
+[[http://www.siye.co.uk/index.php]]
+
+for downloading.
+:PROPERTIES:
+:Author: thorium_23
+:Score: 5
+:DateUnix: 1526444225.0
+:DateShort: 2018-May-16
+:END:
+
+*** I will be adding support for siye and a03 within the week. Thanks for your feedback!
+:PROPERTIES:
+:Author: zuddsy
+:Score: 2
+:DateUnix: 1526508937.0
+:DateShort: 2018-May-17
+:END:
+
+
+** u/deleted:
+#+begin_quote
+  don't expect MOBI to show up on that list anytime soon, it's problematic in a purely client-side environment
+#+end_quote
+
+I've looked into MOBI support in the past. It's based on PDB, whose specification is rather poorly written (and a bit hard to find) and which I haven't been able to find good guides for. At some point I'll reverse engineer someone else's library for it.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1526449489.0
+:DateShort: 2018-May-16
+:END:
+
+*** I have had a similar experience. I've found a few libraries, but they were all either incomplete, outdated, deprecated, or a combination of the three. I think I'll eventually create my own library for MOBI, but I can't be bothered at the moment haha
+:PROPERTIES:
+:Author: zuddsy
+:Score: 1
+:DateUnix: 1526509071.0
+:DateShort: 2018-May-17
+:END:
+
+
+** THANK YOU FOR THIS!
+
+I have been so frustrated with other fanfiction.net--> epub download sites because the format is always messed up, basically no spacing in the writing at all so it looks like a huge blob of headache-inducing text.
+
+Yours is the first I've tried that doesn't have this issue! There is spacing between paragraphs!
+
+You don't know how happy you've made me ;-; THANKS AGAIN!
+:PROPERTIES:
+:Author: thecountess_stash
+:Score: 2
+:DateUnix: 1527529598.0
+:DateShort: 2018-May-28
+:END:
+
+
+** Zuddsy please make your website work! :(
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1526502170.0
+:DateShort: 2018-May-17
+:END:
+
+
+** Never mind your website is just broken. :( It doesn't do ANYTHING from ANYWHERE. I even tried getting my own fanfiction.net story in EPUB and it doesn't do a thing.
+:PROPERTIES:
+:Score: -9
+:DateUnix: 1526440581.0
+:DateShort: 2018-May-16
+:END:
+
+*** Negative 8 downvotes for telling the person who posted a custom website for downloading fanfics that their fanfic downloader doesn't work like they said it does? Why doesn't Zuddsy or anyone else actually respond and HELP ME get it working, the whole point of its existence? Because otherwise it's just worthless and does nothing. I would think Zuddsy would WANT to know that their website isn't working for someone. Why did all of you people downvote me for wanting customer support for a website not doing what it was advertised as doing?
+:PROPERTIES:
+:Score: -1
+:DateUnix: 1526486121.0
+:DateShort: 2018-May-16
+:END:
+
+
+** Negative 8 downvotes for telling the person who posted a custom website for downloading fanfics that their fanfic downloader doesn't work like they said it does? Why doesn't Zuddsy or anyone else actually respond and HELP ME get it working, the whole point of its existence? Because otherwise it's just worthless and does nothing. I would think Zuddsy would WANT to know that their website isn't working for someone. Why did all of you people downvote me for wanting customer support for a website not doing what it was advertised as doing?
+:PROPERTIES:
+:Score: -5
+:DateUnix: 1526497807.0
+:DateShort: 2018-May-16
+:END:
+
+*** u/zuddsy:
+#+begin_quote
+  customer support
+#+end_quote
+
+You are not my customer. I am putting this out at no expense. I owe you nothing. This was a hobby project to further my own understanding of AJAX, CORS, and DOM traversal.
+
+Leaving 4 comments describing no issues you're having, yet complaining that nothing works, is not helpful.
+
+I've personally tested this in every modern desktop browser as well as multiple mobile browsers across 3 different devices, so I'm fairly confident that it works correctly.
+
+Keep in mind that you will need to have JavaScript enabled in your browser, as it is a JS app.
+
+If you believe that isn't the issue, you will need to tell me what the status messages are OR access the developer console tell me what errors you see.
+:PROPERTIES:
+:Author: zuddsy
+:Score: 3
+:DateUnix: 1526508777.0
+:DateShort: 2018-May-17
+:END:
+
+**** Okay, thank you, I'm sorry. I am using google chrome and I have java enabled because I play flash games with it.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1526508882.0
+:DateShort: 2018-May-17
+:END:

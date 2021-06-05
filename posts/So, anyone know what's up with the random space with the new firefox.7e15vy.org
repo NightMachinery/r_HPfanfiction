@@ -1,0 +1,34 @@
+#+TITLE: So, anyone know what's up with the random space with the new firefox?
+
+* [[https://imgur.com/a/zRZQG][So, anyone know what's up with the random space with the new firefox?]]
+:PROPERTIES:
+:Author: Bisaster
+:Score: 0
+:DateUnix: 1511104839.0
+:DateShort: 2017-Nov-19
+:END:
+
+** By the space I mean between Browse, Just in, etc and the top menu in blue.
+:PROPERTIES:
+:Author: Bisaster
+:Score: 1
+:DateUnix: 1511104882.0
+:DateShort: 2017-Nov-19
+:END:
+
+*** Do you have an ad blocker installed? I see an ad there in the new firefox.
+:PROPERTIES:
+:Author: denarii
+:Score: 3
+:DateUnix: 1511136932.0
+:DateShort: 2017-Nov-20
+:END:
+
+
+*** Definitely looks like a missing space from an ad. Like [[/u/denarii]] said, probably an adblocker at work.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 2
+:DateUnix: 1511143952.0
+:DateShort: 2017-Nov-20
+:END:

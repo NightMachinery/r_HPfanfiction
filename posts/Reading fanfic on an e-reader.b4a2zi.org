@@ -1,0 +1,220 @@
+#+TITLE: Reading fanfic on an e-reader
+
+* Reading fanfic on an e-reader
+:PROPERTIES:
+:Author: IamProudofthefish
+:Score: 9
+:DateUnix: 1553286810.0
+:DateShort: 2019-Mar-23
+:FlairText: Discussion/Question
+:END:
+For various reasons I want to have a dedicated device for reading fic that is not a smart phone. So I am curious do any of you read fic on a Kindle? I know I would need to use something like Calibre to manage it, but I am okay with that. I also have various kindle versions of books already that I usually access on PC, but 99% of what I read would be fanfic. There is a new baseline kindle that is coming out with the front lighting that would probably be sufficient but I am open to suggestions. I found another thread on this topic on this sub but it was a few years old.
+
+
+** Use [[https://fanfictiondownloader.net/#/home][fanficdownloader]] for ff.net, ao3 you can download directly from the site. Save as .mobi, send to kindle and it's just like any other ebook.
+
+I read a lot of fics on kindle, it's great.
+:PROPERTIES:
+:Author: Mogon_
+:Score: 10
+:DateUnix: 1553288996.0
+:DateShort: 2019-Mar-23
+:END:
+
+*** For some odd reason, fanficdownloader never reaches my kindle, if that happens to anyone else, ff2ebook is a good alternative service
+:PROPERTIES:
+:Author: PrincessApprentice
+:Score: 2
+:DateUnix: 1553301651.0
+:DateShort: 2019-Mar-23
+:END:
+
+**** Or for even more ease, use ffnbot, it gives downloadable EPUB/mobi links. Ex - linkffn(Flutter)
+:PROPERTIES:
+:Author: A2i9
+:Score: 2
+:DateUnix: 1553315274.0
+:DateShort: 2019-Mar-23
+:END:
+
+***** [[https://www.fanfiction.net/s/13198204/1/][*/Flutter/*]] by [[https://www.fanfiction.net/u/8139920/bking4][/bking4/]]
+
+#+begin_quote
+  The traces of Dark magic aren't swept away with a summer and a trip abroad. It leaves marks on its victims, deep gouges in their soul, and just being in its presence can irrevocably change a person. You can never really overcome Dark magic, only survive it and hope for the best. This is Ginny Weasley, doing her best.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{6} ^{*|*} ^{/Words/:} ^{46,045} ^{*|*} ^{/Reviews/:} ^{5} ^{*|*} ^{/Favs/:} ^{7} ^{*|*} ^{/Follows/:} ^{14} ^{*|*} ^{/Updated/:} ^{13h} ^{*|*} ^{/Published/:} ^{2/4} ^{*|*} ^{/id/:} ^{13198204} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Fantasy/Angst} ^{*|*} ^{/Characters/:} ^{Ginny} ^{W.,} ^{Luna} ^{L.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13198204&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13198204&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1553315292.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+**** Have you whitelisted it?
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1553343197.0
+:DateShort: 2019-Mar-23
+:END:
+
+***** Yep
+:PROPERTIES:
+:Author: PrincessApprentice
+:Score: 1
+:DateUnix: 1553352877.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+** I actually read fanfic on a kindle paperwhite for quite a long time and it worked quite well, either download the docs to .mobi or pdf and get reading, it also had an "experimental browser" that sucked but got the job done if I was desperate for a new chapter and had no access to my PC. Not sure if spun files can't be read but the other supported formats are more than enough, the battery life is a definite plus as that thing never died and the screen feels much better to red on especially in a bright/sunny place. Hope this helps, Have a great time :D
+:PROPERTIES:
+:Score: 7
+:DateUnix: 1553288371.0
+:DateShort: 2019-Mar-23
+:END:
+
+*** Thanks!
+:PROPERTIES:
+:Author: IamProudofthefish
+:Score: 2
+:DateUnix: 1553295711.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+** I use [[https://calibre-ebook.com/][Calibre]] together with the [[https://github.com/JimmXinu/FanFicFare/wiki][FanFicFare]] plugin. As I understand, the Kindle is more locked down than other eReaders, so someone else might have to come in with Kindle-specific advice.
+:PROPERTIES:
+:Author: Hellrespawn
+:Score: 3
+:DateUnix: 1553293346.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+** My exact setup is a Kindle and Calibre, so I'm happy to share tips. I use the FanFicFare plugin, you can find in its Plugin browser. I've also set up two custom columns within Calibre itself, which keep track of if the story's being actively updated, and if I've read it or not. These are just quality-of-life things for me to stay updated on the fics I've read, as there are quite a few by now.
+
+The only real Kindle-specific thing I've had to do is just change the output format to .MOBI, rather than the default .EPUB. Other than that, you can just send the downloaded fics to your device once it's plugged in, just like any other eReader.
+
+If you have further questions, let me know, I'd be happy to share screenshots of my setup.
+:PROPERTIES:
+:Author: CalculusWarrior
+:Score: 3
+:DateUnix: 1553299032.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+** I download them with the epub link on any fanfictionbot post, and then use [[https://calibre-ebook.com/download_windows64][calibre]] to load them to my kindle.
+:PROPERTIES:
+:Author: jmartkdr
+:Score: 2
+:DateUnix: 1553291065.0
+:DateShort: 2019-Mar-23
+:END:
+
+*** That's the plan for the HP fic at least.
+:PROPERTIES:
+:Author: IamProudofthefish
+:Score: 1
+:DateUnix: 1553295447.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+** I read ff on 2014 paperwhite frequently. I like the screen more than a smartphone, plus the battery holds forever.
+
+It's a simple three step process, convert a fic to .epub or .mobi with a website (I use [[http://ficsave.xyz/]]), add it to your calibre library and then connect your kindle and upload it to the device.
+
+I remember there was some convoluted process to do it through amazon, but I never enabled an amazon account so no clue about that.
+:PROPERTIES:
+:Author: T0lias
+:Score: 1
+:DateUnix: 1553294341.0
+:DateShort: 2019-Mar-23
+:END:
+
+*** How's the resolution on your Kindle? The new (non paperwhite) kindle is about half the ppi, but I don't know how much difference it will make. Your kindle specs look like it is less than 300ppi as well.
+:PROPERTIES:
+:Author: IamProudofthefish
+:Score: 1
+:DateUnix: 1553295402.0
+:DateShort: 2019-Mar-23
+:END:
+
+**** No clue. I never even thought about resolution tbh. I read both on well lit and dark areas and it's been a satisfactory experience so far, on all conditions.
+:PROPERTIES:
+:Author: T0lias
+:Score: 1
+:DateUnix: 1553297583.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+** I did this for 2 fics. Then my Kindle stopped being visible to my PC. Now I just read ff on my phone, and regular old boring books on my Kindle.
+:PROPERTIES:
+:Author: dratnon
+:Score: 1
+:DateUnix: 1553294423.0
+:DateShort: 2019-Mar-23
+:END:
+
+*** u/IamProudofthefish:
+#+begin_quote
+  I was using an old Ipad 2 but the screen died. Hence the need for a Kindle.
+#+end_quote
+
+​
+:PROPERTIES:
+:Author: IamProudofthefish
+:Score: 1
+:DateUnix: 1553295577.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+** Honestly, I have an iPad mini and I will never give it up. E-readers are irritating to manage, but with my mini there's a shortcut for the shortcuts app that downloads fics and adds them straight to iBooks. Makes life so much simpler, plus I can download the ffn app or one of the unofficial AO3 apps too to browse.
+:PROPERTIES:
+:Author: altrarose
+:Score: 1
+:DateUnix: 1553324077.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+** I used to do the whole Fanficfare thing before, mostly for other sites than ff.net, but I found that it was not good enough at keeping track of what chapters I had read and it was too much of a hassle to keep track of what fics I wanted to favorite/track/like/move to another collection. If you're going camping or something like that for a longer period, though, it's very much worth the hassle.
+
+Regarding devices, if you can afford it I would suggest going for a Kindle Oasis or a Kobo Forma. The extra screen size and a physical page turn button are very nice features.
+:PROPERTIES:
+:Author: jokersbiggestboner
+:Score: 1
+:DateUnix: 1553329275.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+** I used to read on a basic Kindle for years, eventually switched to a Pocketbook Basic Lux because it provided better specs (higher resolution, frontlight) at a lower price.
+
+The software and convenience aren't as great as on Kindle, admittedly. I mostly missed being able to navigate forward/back between entire chapters without going back to the table of contents. Such a minor thing, but there you go. It's usable though.
+
+Never used any fancy library managers, I just download using fanfictiondownloader.net and move it to the reader over USB. The downside is occasionally forgetting that I already read one fic or another I suppose.
+:PROPERTIES:
+:Author: deirox
+:Score: 1
+:DateUnix: 1553331423.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+** I have currently Paperwhite 4 and it's just lovely to read on it! The process is fairly simple, If it's fanfiction.net fic I use ff2ebook, download the mobi file and send it to my kindle via thunderbird (I have added only my main email to kindle whitelist bcuz paranoia). If it's ao3, they have option to download story as mobi so no problems here. If you have pdf you can always send it via email and write 'convert' in email subject - Amazon will convert it on server-side to azw (If it's plain text no problems here, but if it contains some tables and such, it's going to be massacre).
+:PROPERTIES:
+:Author: turbulencje
+:Score: 1
+:DateUnix: 1553542427.0
+:DateShort: 2019-Mar-26
+:END:

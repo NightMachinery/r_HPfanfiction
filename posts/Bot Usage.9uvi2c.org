@@ -1,0 +1,73 @@
+#+TITLE: Bot Usage
+
+* Bot Usage
+:PROPERTIES:
+:Author: nqeron
+:Score: 5
+:DateUnix: 1541559973.0
+:DateShort: 2018-Nov-07
+:FlairText: Meta
+:END:
+Is there an accepted way to call upon the linkffn bot to provide me with an epub link to a fic I want to download? Or is there a better way of getting fics from [[https://Fanfiction.net][Fanfiction.net]] to epub? I've been having some trouble with FicSave.xyz.
+
+
+** the normal linkffn/ao3 call provides an epub download at the bottom, does it not?
+:PROPERTIES:
+:Author: sicarius0218
+:Score: 5
+:DateUnix: 1541560467.0
+:DateShort: 2018-Nov-07
+:END:
+
+*** sure - but I don't want to use a post just to call up the bot. So is there a proper etiquette to effectively doing that?
+:PROPERTIES:
+:Author: nqeron
+:Score: 2
+:DateUnix: 1541563735.0
+:DateShort: 2018-Nov-07
+:END:
+
+**** [[http://ficsave.xyz/]] is your friend
+:PROPERTIES:
+:Author: LucretiusCarus
+:Score: 1
+:DateUnix: 1541573837.0
+:DateShort: 2018-Nov-07
+:END:
+
+***** OP mentioned in his post that ficsave doesnt work properly for him...
+:PROPERTIES:
+:Author: natus92
+:Score: 2
+:DateUnix: 1541587262.0
+:DateShort: 2018-Nov-07
+:END:
+
+
+** If you google around, there are quite a few other options for downloading from FFN besides ficsave
+
+This is the one I prefer: [[https://fanfictiondownloader.net/#/home]]
+:PROPERTIES:
+:Author: tectonictigress
+:Score: 1
+:DateUnix: 1541563914.0
+:DateShort: 2018-Nov-07
+:END:
+
+
+** ff2ebook.com is the site the bot uses for conversion
+:PROPERTIES:
+:Author: hecat3
+:Score: 1
+:DateUnix: 1541564221.0
+:DateShort: 2018-Nov-07
+:END:
+
+
+** Use [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=(story][www.ff2ebook.com/old/ffn-bot/index.php?id=(story]] ID #, no parenthesis)&source=ff&filetype=epub
+:PROPERTIES:
+:Author: eislor
+:Score: 1
+:DateUnix: 1541648886.0
+:DateShort: 2018-Nov-08
+:END:

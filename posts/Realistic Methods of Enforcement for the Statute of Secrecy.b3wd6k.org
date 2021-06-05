@@ -1,0 +1,323 @@
+#+TITLE: Realistic Methods of Enforcement for the Statute of Secrecy
+
+* Realistic Methods of Enforcement for the Statute of Secrecy
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 10
+:DateUnix: 1553204163.0
+:DateShort: 2019-Mar-22
+:FlairText: Discussion/Brainstorm
+:END:
+Greetings!
+
+I'm in the bowels of my AU, trying to develop enough of the main points so I can actually start writing the first book, heh. This subject is one of the few remaining blockers, so I thought I'd reach out to the community for feedback and ideas.
+
+Basically, I'm taking the enforcement of the Statute seriously, and going to the drawing board to think of how I would design protocols for maintaining the secrecy of the existence of magic and of the wizarding community. I'd like to hear some of your ideas for how that might be accomplished, and to give constructive feedback on some of what I have so far.
+
+First, for background, this is a crossover fanfic with the [[https://www.scp-wiki.net][SCP Foundation]] and the Lovecraft Mythos. Not all anomalous activity in the world is from the same source of magic that the wizarding world springs from. In fact, the wizarding world is actually ignorant of the existence of other forms of magic and anomalous beings (except for in the Sorcerer's Guild and a few other exceptions, which I'll get to in a sec). The SCP Foundation is aware of the wizarding world and either classifies them all as Keter or has a separate classification unique to wizarding-related things (probably 'Merlin') since they are self-containing and the containment protocol is to stay out of the way and help clean up any mistakes they make. I don't want to rely too heavily on the Foundation cleaning up after bungling wizards, though, and would rather have the wizarding world legitimately self-containing.
+
+Also, as part of background, I am rewriting the global stage as presented in HP canon. There is no MACUSA, notably. The small wizarding communities in North America are under the Britannic Wizarding Coven (coven = my temp term for a wizarding body of indeterminate size) and never broke off with the muggle American Revolution. Most of the older and well-established communities are around the Atlantic and Mediterranean basins (Japan and a very few others are notable exceptions). The most ancient and politically powerful concentration of wizarding population is in the British Isles (thanks to Merlin and ... lots of history I won't go into here). The ICW oversees the High Wizengamots of these major covens, mostly for the purpose of auditing their procedures to ensure they are properly upholding and enforcing the Statute. The ICW also has taskforces to handle inter-coven conflicts and events which threaten the Statute which arise outside of any established coven jurisdictions. Within the ICW is the Sorcerer's Guild, a powerful organization of even more powerful archmages which is aware of the SCP and other groups like the GOC and Serpent's Hand, etc. Some of them are actually members of the O5 Council of the Foundation (including Dumbledore and Flamel).
+
+Now for some of the methods I've come up with so far. :)
+
+For reference, muggles who are aware of wizards and magic are (tentatively) termed squibbles, and are either charmed or granted amulets which make them not count as muggles for the purposes of notice-me-not-charms and muggle-repelling charms and etc.
+
+The Department of Mysteries researches fundamental and dangerous magics, at least that's it's nominal charter. Its true purpose is to research any and all threats to wizarding society, and exposure to the muggles counts. So they are constantly researching the muggle world to stay abreast of new threats that might arise from them. They sometimes will release memos to the Ministry to mandate inclusion of a particular runic array on all personal wards without explanation, simply because the muggles just rolled out general usage of tasers and they developed a counter to it.
+
+All magical presses are mandated to be inspected and certified as muggle-proof. Meaning that anything printed either is invisible to muggles or obfuscates itself. No random muggles picking up a dropped Daily Prophet with moving pictures. They might also require all quills and magical ink etc. have similar charms. This principle broadly applies to all enchanted items: if it acts differently than a muggle would expect it to, then it must stop acting that way around a muggle. Possession of an item that breaks this rule is basically what Arthur Weasley handles.
+
+There is a massive charm that was laid down globally by a collaboration of the most powerful archmages in the world at the establishment of the Statute which is similar to the Fidelius. Essentially, it prevents anyone who is aware of magic and wizards from divulging that knowledge to someone who isn't privy. Only a Grand Auditor (also tentatively named), a member of the ICW specifically tasked with the maintaining of the Statute kind of like an Inquisitor, has the power to authorize a witch or wizard to be able to disclose the Secret. This power is typically only conferred on nobility and officials (and yes, schoolmasters generally count as either or both of those). This compulsion to maintain the Secret does not prevent muggles from seeing or noticing magic, like the Fidelius would, but it does dissuade them from noticing. A wizard would have to be really in-their-face to break through, and that would be violating their own compulsion.
+
+In addition to that, there are personal wards applied at birth with a variety of effects (such as defending against common causes of infant death) which include muzzle wards. These dampen accidental magic, and when any magic is released by the one warded in the presence of muggles, it automatically targets them with a confundus-type charm. This is also what the Trace is attached to (not the wand), and it reports the nature and location of the magic to the warded minor's Head of House (i.e. noble house), or if none is registered, the Ministry.
+
+I'll stop there for now. If you have more questions, feel free to ask for elaboration. :)
+
+
+** This is awesome world-building here. I love this and everything in it. A crossover between the SCP Foundation and a serious take on the HP universe is a dream come true. The addition of the Lovecraft mythos makes this awesome.
+
+You seem to have covered wizards and enchanted items/objects but what about magical animals and plants? Maybe something like the Mist from Riordian's novels (maybe developed by a collaboration between the Sorcerer's Guild and the Foundation OR something with Lovecraft) would work?
+:PROPERTIES:
+:Author: MrRandom04
+:Score: 5
+:DateUnix: 1553242129.0
+:DateShort: 2019-Mar-22
+:END:
+
+*** Huzzah! Thanks for the encouragement. :) I fully intend to do my utmost to do all three universes justice. Feel free to poke me to help make sure I actually start writing, though, and not wallow endlessly in world development, lol.
+
+There are treaties with the sapient races that are magical (goblins, etc.) and they are also self-contained, typically in concert with the wizards. The goblins actually have secret ties to the GOC, which gives them a big edge there.
+
+Other magical beasts are constrained to sanctuaries, and that is mostly handled by the Scamander Foundation. It's private, but also treated as a government politically, and has a vast global network of extra-dimensional estates. It liaises with the local coven sanctuaries to aid or provide supplies, as well. It answers directly to the ICW, and catching and transferring newly arisen or discovered magical beasts or plants to its sanctuaries is aided by the Sorcerers and Auditors.
+
+Also, as you said, the SCP Foundation helps too. When an anomaly is uncovered that has the unique magical signature of the wizarding world (Atlantean, to be precise) it is reclassified as Euclid-Merlin, transferred to a specific taskforce (I'm looking for a cool name here, if you have any ideas) that shuttles it to the Sorcerers Guild, and amnestics are applied all round.
+
+Great question! Let me know if this makes sense. :D
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 2
+:DateUnix: 1553252393.0
+:DateShort: 2019-Mar-22
+:END:
+
+
+** My headcanon is that there is an enchantment on the world powered by the ICW that supresses the knowledge of magic in muggles and alerts the obliviators whenever a muggle breaks through.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1553245763.0
+:DateShort: 2019-Mar-22
+:END:
+
+*** An alert on a memetic breach itself? That's a cool idea! So they don't only track magic, they track /knowledge/ of magic. I love this idea!
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 2
+:DateUnix: 1553251325.0
+:DateShort: 2019-Mar-22
+:END:
+
+
+** Maybe you could make obliviate like a memetic amnestic? So that muggles watching a video where someone uses obliviate would also get obliviated
+:PROPERTIES:
+:Author: rocketguy2
+:Score: 2
+:DateUnix: 1553273535.0
+:DateShort: 2019-Mar-22
+:END:
+
+*** I did think of making the internet classify as an intellect (like dictaquills and other smart devices in the wizarding world, contrasted with an intelligence, like a portrait or the Sorting Hat or a ghost, or a being, like a wizard or goblin or house elf), which would make it vulnerable to obliviation. Also, I think an anti-muggle notice-me-not charm applied to an image would transfer to an image of that image (like memetics), so I think what you're describing has potential, definitely. I doing l don't think obliviate itself would work that way, since it's targeting a mind, not an idea in general. But other charms could.
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 1
+:DateUnix: 1553274028.0
+:DateShort: 2019-Mar-22
+:END:
+
+
+** There aren't. Magic will inevitably be discovered. It is something that can't be avoided.
+:PROPERTIES:
+:Author: RisingEarth
+:Score: 1
+:DateUnix: 1553233901.0
+:DateShort: 2019-Mar-22
+:END:
+
+*** I heartily concur. One of the goals of my protagonists is to bring down the Statute and the Veil of Normalcy, and they succeed in the end. But it has to be a challenge for them, though, to be interesting. ;) I know that conspiracies with more than two people are exponentially more vulnerable, but I'm having fun exploring how far that can be stretched with magic.
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 1
+:DateUnix: 1553251571.0
+:DateShort: 2019-Mar-22
+:END:
+
+**** That's the problem: it can't be a secret. The 1990s already had the internet which would spread the information like wildfire. The President of the US would speak about it on National Television while other leaders do the same. Anyone who didn't believe in magic would then be a minority on a level just above those who believe the Earth is flat.
+
+You'll have to make a lot of changes to reality for this to be feasible.
+:PROPERTIES:
+:Author: RisingEarth
+:Score: -3
+:DateUnix: 1553251697.0
+:DateShort: 2019-Mar-22
+:END:
+
+
+*** Considering how well and tightly everything was kept a secret in the originals, I doubt magic is so inevitable to be discovered. Take in mind, when in one of the books (6-th, I think) a muggle town was destroyed by giants. The ministry was amazing in it's efficiency, in obliviating every muggle, who could have spread the story of what actually happened.
+
+​
+
+Think of what people now think of aliens - there are some, who believe, that aliens come to our planet and kidnap us, but most consider this to be mere fantasies and delusions.
+
+​
+
+And same would happen with those, who would have discovered magical world, but were not caught. People would laugh at their stories, and the ministry would surely soon hear the rumours and obliviate the guy.
+:PROPERTIES:
+:Author: Gr4nd45
+:Score: 1
+:DateUnix: 1553279339.0
+:DateShort: 2019-Mar-22
+:END:
+
+**** The books aren't realistic. Obliviation isn't going to solve the problems that comes from video cameras and planes flying around. One blogger is all it takes. One video of their muggleborn kid doing accidental magic. One spited muggleborn who was kicked out of the wizarding world through bigotry. That's the problem to me. You can't keep a secret that hundreds of thousands or even millions of people know when you only need one to completely shatter the secret. One person. An anarchist, a sympathetic witch, an insane wizard, anything. It only takes one.
+
+Aliens don't have evidence of their existence. There would be plenty of evidence of magic. I also happen to fall on the side of "Aliens exist, but they aren't in our galaxy."
+:PROPERTIES:
+:Author: RisingEarth
+:Score: 1
+:DateUnix: 1553295553.0
+:DateShort: 2019-Mar-23
+:END:
+
+***** You're missing one point.
+
+If someone caught it on video today, nobody would believe it. Everyone would call it fake, CGI etc.
+
+"Look at that pixel topright, proof that it is fake" or, "This CGI is pretty good, props to whoever made it".
+:PROPERTIES:
+:Author: PM_ME_Tyrande
+:Score: 1
+:DateUnix: 1553318905.0
+:DateShort: 2019-Mar-23
+:END:
+
+****** I'm sure they'll believe the word of their leader is also nonsense as well. I'm not saying everyone would believe instantly. Just know that the US government did extensive research into the possibility that psychic powers would give them advantages.
+:PROPERTIES:
+:Author: RisingEarth
+:Score: 1
+:DateUnix: 1553319058.0
+:DateShort: 2019-Mar-23
+:END:
+
+******* u/Gr4nd45:
+#+begin_quote
+  " US government did extensive research into the possibility that psychic powers would give them advantages. "
+#+end_quote
+
+How would the government do any research at all, if they didn't know magic existed in the first place? Government does not bother with children's stories. In order to actually get their attention, you would have to provide some serious evidence.
+:PROPERTIES:
+:Author: Gr4nd45
+:Score: 1
+:DateUnix: 1553346613.0
+:DateShort: 2019-Mar-23
+:END:
+
+******** They didn't know psychic powers existed. They just investigated the possibility. I added that to just show that world governments may very well fund a team of people to even go after the slight possibility of a massive advantage like magic.
+
+Escaping into realism for a moment, the advantage that even ten years of being the first with magic would be unfathomable. Infinite resources just to name something simple. One of the issues with war is that it isn't sustainable. You either win quickly or you both lose slowly. With some magic, you don't have to worry in a battle of stamina.
+
+Now, I'm playing BotW for the first time, so I can't really go into detail imagining this scenario. This game is so amazing.
+:PROPERTIES:
+:Author: RisingEarth
+:Score: 1
+:DateUnix: 1553346864.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+***** Video cameras did not manage to capture any mages up to that point, because all of them (including muggleborns) have been very secretive. The ministry also can track any minor magic, and that includes accidental. Planes? What do planes have to do with anything?
+
+No one in the wizarding world was "kicking out" muggleborns. If one did a crime severe enough, one might lose his/her wand. And that would be losing the only evidence of one's magic, as, take in mind, that most of the wizarding community cannot do wandless magic.
+
+#+begin_quote
+  " Aliens don't have evidence of their existence. There would be plenty of evidence of magic. "
+#+end_quote
+
+What evidence? Where?
+:PROPERTIES:
+:Author: Gr4nd45
+:Score: 1
+:DateUnix: 1553342002.0
+:DateShort: 2019-Mar-23
+:END:
+
+****** I forgot that they had high quality cameras on street corners in the 1800s. Forgive me. It takes just one plane to see a village where there definitely shouldn't be. One plane to crash due to magic to cause a full on investigation. Maybe they can cover it up once. Maybe even twice. There are a lot of planes in the world. And how long before the government starts questioning why some people vanish from the system only to appear 7 years later trying to pretend they never left?
+
+Kicking out as in they are either forcibly removed or outcasted. If a society doesn't want you, then it is fully within your rights to leave. If you think that not a single person was angry and left, then you are incredibly naive or have the same line of thinking as a conspiracy theorist. Three people can barely keep a secret, so how would a few thousand or even hundreds of thousands? One of the most secure and secretive institutions in the US, the CIA, couldn't stop a low level worker from releasing highly classified information. Just Google Edward Snowden.
+
+#+begin_quote
+  What evidence? Where?
+#+end_quote
+
+I now see you are a troll. You are asking for actual evidence in a hypothetical scenario of a fictional world. That tells me everything I need to know and puts me more than at ease enough to stop talking to you.
+:PROPERTIES:
+:Author: RisingEarth
+:Score: 1
+:DateUnix: 1553342584.0
+:DateShort: 2019-Mar-23
+:END:
+
+******* u/Gr4nd45:
+#+begin_quote
+  " I now see you are a troll. You are asking for actual evidence in a hypothetical scenario of a fictional world. "
+#+end_quote
+
+Wait what? You said "there would be plenty of evidence of magic". I wanted you to clarify what you meant. How is this a troll? Like, seriously? Just run from conversation like that? As soon as you are out of arguments, you label me a "troll", and run away?
+
+#+begin_quote
+  " It takes just one plane to see a village where there definitely shouldn't be "
+#+end_quote
+
+If you read the books, every magical area (Diagon Alley, Hogwarts, Platform 9 3/4) are hidden from muggles. How exactly? Some seem to be something similar to different dimensions, and some are simply hidden from view, and only mages can see them, and interact with them.
+
+#+begin_quote
+  " And how long before the government starts questioning why some people vanish from the system only to appear 7 years later trying to pretend they never left? "
+#+end_quote
+
+Mages rarely live in the muggle world, or interact with the legal/governmental institutions of the muggle world. To the muggle governments, thus, they simply do not exist. And even if the authorities searched for some muggle-borns, they would never find them.
+
+#+begin_quote
+  "Kicking out as in they are either forcibly removed or outcasted. "
+#+end_quote
+
+The only thing similar to that, that is mentioned in the books, are squibs. They are magical, but cannot use magic like normal wizards/witches. Thus, even if they wanted to, they would have no way of proving anything.
+
+And again, the ministry is keeping a pretty tight control of it's population, and the punishment for violation of the Statute of Secrecy is severe (Azkaban).
+
+​
+:PROPERTIES:
+:Author: Gr4nd45
+:Score: 1
+:DateUnix: 1553347306.0
+:DateShort: 2019-Mar-23
+:END:
+
+******** This entire comment thread has been me listing where and why.
+
+As for the planes... Every area is indeed hidden. That was just one of many possibilities. Draco even mentioned Helicopters in the first book, so the wizarding world clearly knows about air travel.
+
+It doesn't take too many people. It only takes an odd amount of muggleborns vanishing mysteriously at the age of 11. I agree that to the muggles, Draco doesn't exist. Hermione and Harry do.
+
+You honestly don't think a single muggle left the wizarding world when a tyrannical overlord was very openly murdering muggleborns and muggles? Are you even thinking about this? It only takes a single person.
+
+The police force is also has a strict rule about not raping people. It must be nice living in a fantasy world where nobody every breaks the law or that justice is always dealt swiftly immediately and effectively without a single mistake ever.
+
+You seem to be ignoring everything I say that reveals serious flaws in your thinking. Your attempt to ask "Where is the evidence?" When I've been bring example after example of why and where that evidence would be. I noticed that you've just been ignoring all the valid points against you and pretending they don't exist. I noticed you didn't say anything about Snowden. Even if you are being serious, you seem incapable of grasping what I'm saying.
+
+I just want to play BotW right now. You may call it running if you wish, but it is also running when a body builder refuses to have a fight with a toddler.
+:PROPERTIES:
+:Author: RisingEarth
+:Score: 2
+:DateUnix: 1553347845.0
+:DateShort: 2019-Mar-23
+:END:
+
+********* u/Gr4nd45:
+#+begin_quote
+  I noticed that you've just been ignoring all the valid points against you and pretending they don't exist. I noticed you didn't say anything about Snowden.
+#+end_quote
+
+I addressed the point you made about Snowden. And I literally quoted every point you made, and addressed them. You are, again, running from conversation, quite rudely at that.
+
+#+begin_quote
+  It doesn't take too many people. It only takes an odd amount of muggleborns vanishing mysteriously at the age of 11. I agree that to the muggles, Draco doesn't exist. Hermione and Harry do.
+#+end_quote
+
+And the muggle government will never be able to find them, even if they do search for them.
+
+Not to mention, that both Harry, and Hermione were children, had no taxes to pay. Harry's parents were gone, and other relatives couldn't care less. Hermione's parents were obliviated at the 7th book, and do not even know they have a daughter. Thus, there is nothing to motivate the authorities to do any prolonged searches,
+
+#+begin_quote
+  " You honestly don't think a single muggle left the wizarding world when a tyrannical overlord was very openly murdering muggleborns and muggles? "
+#+end_quote
+
+You meant "muggle-born", I assume. Anyways, yes, they ran from Voldemort. But why would they violate the Statute of Secrecy, knowing the dire consequences of that? As with Slughorn's case, they could perfectly well blend in with the muggle populace.
+
+But the point is, that if Voldemort was really after them, they were likely safer among the mages, for Voldemort (before battle of Hogwarts) always acted more from the shadows, not attacking in broad daylight, so to speak.
+
+#+begin_quote
+  " The police force is also has a strict rule about not raping people. It must be nice living in a fantasy world where nobody every breaks the law or that justice is always dealt swiftly immediately and effectively without a single mistake ever. "
+#+end_quote
+
+Harry Potter IS a fantasy world. And the ministry of magic has a way of tracking people using magic in muggle areas, as well as tracking underage magic. Did you read the books at all?
+
+#+begin_quote
+  " When I've been bring example after example of why and where that evidence would be "
+#+end_quote
+
+And so far, I've pointed out, how every single "evidence" would not be evidence at all. You had no counter arguments. You just claimed I am a "troll", or that I "ignore" you, and ran away.
+
+Indeed, the debate is closed here, but you could at least be mature enough to admit defeat, rather than resorting to insults.
+:PROPERTIES:
+:Author: Gr4nd45
+:Score: 1
+:DateUnix: 1553349716.0
+:DateShort: 2019-Mar-23
+:END:

@@ -1,0 +1,116 @@
+#+TITLE: Downloading fics in bulk
+
+* Downloading fics in bulk
+:PROPERTIES:
+:Author: MoD_Peverell
+:Score: 4
+:DateUnix: 1553309051.0
+:DateShort: 2019-Mar-23
+:FlairText: Misc
+:END:
+I saw the other saving fics thread. The thing is I want to download them in bulk (preferably in mobi format). I have all of the fics saved as bookmarks on Chrome.
+
+Anyone know any method?
+
+Thanks in advance for the help.
+
+
+** Program called Calibre.
+:PROPERTIES:
+:Author: Squishysib
+:Score: 7
+:DateUnix: 1553310316.0
+:DateShort: 2019-Mar-23
+:END:
+
+*** To be more specific, a plugin called FanFicFare. It's made on python so it can be used from the command line if you aren't on a device that calibre supports like a phone or a tablet.
+
+It can fetch all the urls from a profile and then download them (you will need to configure the output format, default is epub), or you can feed it a text file with all the urls. However it will take long since ffnet is very strict with the number of request it allows so fanficfare has a few seconds delay between page requests.
+
+I do recommend you check ff2ebook's archive since it has mobi&epubs for most stuff already made.
+:PROPERTIES:
+:Author: Edocsiru
+:Score: 10
+:DateUnix: 1553311362.0
+:DateShort: 2019-Mar-23
+:END:
+
+**** I think with the Calibre FanFicFare plugin, you can put in a list of links (each separated by a newline), and it'll download them all for you.
+
+I haven't used it in awhile though, so I'm unsure.
+
+Also, if it gives it in epub, it's very easy to bulk convert to mobi. It probably lets you download in mobi though.
+:PROPERTIES:
+:Author: Green0Photon
+:Score: 2
+:DateUnix: 1553323329.0
+:DateShort: 2019-Mar-23
+:END:
+
+***** I have used this feature. I't takes a little work to copy and paste but does work well.
+:PROPERTIES:
+:Author: IamProudofthefish
+:Score: 2
+:DateUnix: 1553344278.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+**** Yeah, I tried using this but the plugin takes too long to download even one story and I have got to download a lot of stories.
+:PROPERTIES:
+:Author: MoD_Peverell
+:Score: 1
+:DateUnix: 1553359269.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+** IDK about downloading in bulk but here's what I do
+
+I downloaded the fanfiction.net app and set it as my default browser for fanfiction links.
+
+When you open up the story in the app you can just hit the download button. The app also has folders you can sort the stories in.
+:PROPERTIES:
+:Author: sum12321
+:Score: 3
+:DateUnix: 1553326694.0
+:DateShort: 2019-Mar-23
+:END:
+
+*** The problem is many authors take down their stories. I want to save stories so that I do not face such problems.
+
+The fanfiction.net, while good, is unable to address this issue as the downloaded stories do not remain in storage after the story is taken down by the author.
+:PROPERTIES:
+:Author: MoD_Peverell
+:Score: 3
+:DateUnix: 1553359187.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+*** me too and AO3 doesn't do bulk downloads but they literally have a button where you can chose the format
+:PROPERTIES:
+:Author: LiriStorm
+:Score: 2
+:DateUnix: 1553353573.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+** Use fanfiction reader by spicy mango (for android)
+
+Pretty much works similar to original app except you can download and read them offline. Since it saves the fics in form of html, you can still read them even if author deletes them on site. You even have an option to back up and restore entire bulk of downloaded fics. So you can transfer the fics to other android devices just by transfering the .bak file.
+:PROPERTIES:
+:Author: QuotablePatella
+:Score: 2
+:DateUnix: 1553363662.0
+:DateShort: 2019-Mar-23
+:END:
+
+*** Thanks! This seems to fit all my requirements.
+:PROPERTIES:
+:Author: MoD_Peverell
+:Score: 1
+:DateUnix: 1553364463.0
+:DateShort: 2019-Mar-23
+:END:

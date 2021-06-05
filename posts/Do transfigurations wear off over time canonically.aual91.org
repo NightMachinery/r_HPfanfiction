@@ -1,0 +1,605 @@
+#+TITLE: Do transfigurations wear off over time canonically?
+
+* Do transfigurations wear off over time canonically?
+:PROPERTIES:
+:Author: UbiquitousPanacea
+:Score: 28
+:DateUnix: 1551031648.0
+:DateShort: 2019-Feb-24
+:FlairText: Discussion
+:END:
+Quite a few fics, probably inspired by HPMoR, make out that transfigurations wear off over time. It's canonical that conjured items will eventually disappear, but it seems strange for that to apply to transfiguration. Is there any evidence that it does?
+
+
+** No, all signs indicate that transfiguration in canon is permanent unless actively reversed by a further magical intervention.
+
+Transfiguration is defined as the branch of magic concerned with altering a thing's physical composition and structure - what JK Rowling refers to as an object's “fundamental nature”:
+
+#+begin_quote
+  “Every now and then somebody asks me for the difference between a spell, a charm and a hex. Within the Potter world, the boundaries are flexible, and I imagine that wizards may have their own ideas. Hermione-ish, however, I've always had a working theory:
+
+  Spell: The generic term for a piece of magic.
+
+  Charm: Does not fundamentally alter the properties of the subject of the spell, but adds, or changes, properties. Turning a teacup into a rat would be a spell, whereas making a teacup dance would be a charm. The grey area comes with things like 'Stunning Spells', which on balance I think are Charms, but which I call spells for alliterative effect.” (JK Rowling's Old Website: Spell Definitions)
+#+end_quote
+
+Although JK Rowling phrases this as the difference between “Charms” and “Spells”, from the example of “turning a teacup into a rat” she's clearly talking about Transfiguration. A Charm, unlike a Transfiguration, is stated to “not fundamentally alter the properties of the subject”, which means that the reverse holds: Transfiguration does fundamentally alter the properties of the subject.
+
+JK Rowling has been consistent on this. As early as 1998 she stated:
+
+#+begin_quote
+  “With a charm you add properties to something. With a transfiguration you change its nature completely; the molecular structure alters.” (The Herald, 7 December 1998)
+#+end_quote
+
+Accordingly, the change that Transfiguration makes is a permanent one. We know this from two sources. The first is the pig's tail that Hagrid gave Dudley, which did not go away on its own and had to be surgically removed:
+
+#+begin_quote
+  Dudley had emerged from his last encounter with a fully grown wizard with a curly pig's tail poking out of the seat of his trousers, and Aunt Petunia and Uncle Vernon had had to pay for its removal at a private hospital in London. (GoF Chapter 4)
+#+end_quote
+
+The second is from the legend of Quintapeds in the companion book Fantastic Beasts and Where to Find Them:
+
+#+begin_quote
+  In retaliation, so the story has it, a gang of McCliverts surrounded the MacBoon dwellings one night and Transfigured each and every MacBoon into a monstrous five-legged creature. [...] The Quintapeds cannot talk and have strenuously resisted every attempt by the Department for the Regulation and Control of magical Creatures to capture a specimen and try to untransfigure it... (Fantastic Beasts and Where To Find Them: Quintaped)
+#+end_quote
+
+Now, no one knows if the legend of the Quintapeds' origin is true or not. But the key part is that wizards, including the Department for the Regulation and Control of Magical Creatures, consider the story credible enough that they have attempted Untransfiguration. That means that the story -- including the permanence of the Transfiguration performed -- is within the realm of Transfiguration possibility.
+
+So Transfiguration is not some kind of tactile illusion. It is not that the original object lurks “beneath” a layer of Transfiguration magic. Rather, the object is fundamentally, physically changed into a different object.
+
+The permanence of Transfiguration also makes sense. Since Transfiguration is a physical change, there's no reason for the object to revert to its previous state. Physical objects do not spontaneously turn into other objects in the absence of magic. You would need some new magical intervention to make a further change.
+
+However, Transfiguration can be reversed with Untransfiguration:
+
+#+begin_quote
+  “I would also advise Transfiguration, because Aurors frequently need to Transfigure or Untransfigure in their work. And I ought to tell you now, Potter, that I do not accept students into my NEWT classes unless they have achieved ‘Exceeds Expectations' or higher at Ordinary Wizarding Level.” (OotP Chapter 29)
+#+end_quote
+
+But the possibility of Untransfiguration does not mean that the original object is still there, “underneath”. We know from Dumbledore that magic always leaves traces:
+
+#+begin_quote
+  “How did you know that was there?” Harry asked in astonishment. “Magic always leaves traces,” said Dumbledore, as the boat hit the bank with a gentle bump, “sometimes very distinctive traces. I taught Tom Riddle. I know his style.” (HBP Chapter 26)
+#+end_quote
+
+So from what we know about the nature of Transfiguration as a fundamental change, Untransfiguration would appear to be a reversal of that change, not a removal of it. The fact that magic leaves traces explains how this is possible, even though nothing physical of the original object remains.
+:PROPERTIES:
+:Author: Taure
+:Score: 59
+:DateUnix: 1551031938.0
+:DateShort: 2019-Feb-24
+:END:
+
+*** That prompts a few questions too: - Does transfiguring someone kill them? - Why can't you transfigure something into something edible IF you can transfigure it into a traditionally edible animal?
+:PROPERTIES:
+:Author: UbiquitousPanacea
+:Score: 9
+:DateUnix: 1551033115.0
+:DateShort: 2019-Feb-24
+:END:
+
+**** I think the edibility thing is commonly misunderstood (including by myself in the past). In DH, when Hermione said "you can't make good food out of nothing" /they already had fish and mushrooms/. Their problem was not a lack of edible materials, their problem was their inability to turn it into something nice. The exception to Gamp's law essentially amounts to saying you can't use transfiguration to skip the cooking process to make "good food". You can still use transfiguration to make things that can be turned into food like pigs (PS).
+
+As for killing, no, Draco was turned back fine in GOF. One imagines that the soul continues even when the body is transformed. Voldemort's soul continued to exist without any body at all, after all.
+:PROPERTIES:
+:Author: Taure
+:Score: 32
+:DateUnix: 1551033707.0
+:DateShort: 2019-Feb-24
+:END:
+
+***** This. One of the things I see in some fanfics which works is that the transfigured property still has the 'soul' or at least the memory of what it first was and so it is a lot easier to be transfigured back into that state. Loosely take animagi, it's a self transfiguration but it has to have the memory of what they were wearing/holding etc. This is probably why the first lot of transfigurations we see is needles to matchsticks as the length and shape are similar.
+:PROPERTIES:
+:Author: marz_o
+:Score: 5
+:DateUnix: 1551037394.0
+:DateShort: 2019-Feb-24
+:END:
+
+
+***** Huh? Now /this/ is news to me. I'd always heard repeated (and I could swear you had said so yourself too, and offered explanations; I may be wrong) that Transfiguration couldn't create new nutrients.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 3
+:DateUnix: 1551039211.0
+:DateShort: 2019-Feb-24
+:END:
+
+****** You're not wrong, that was also my previous understanding. However, I think people have previously focused too much on Hermione's statement of the exception to Gamp without paying enough attention to the context of the conversation (the focus of which is Hermione's inability to cook and Ron wishing for his mother's cooking, not a lack of actual ingredients); I also think that people have not paid enough attention to the word "good" in her phrase "good food".
+
+I am now convinced that JKR intended to exclude the possibility of conjuring up a ready-to-eat meal for yourself, not to exclude the possibility of creating things that could be turned into food if you know how to cook (magically or otherwise). I suspect this was motivated by JKR wanting to close off a possible plot hole ("if you can conjure up complete meals, why do we see Molly cooking the long way?").
+:PROPERTIES:
+:Author: Taure
+:Score: 14
+:DateUnix: 1551039622.0
+:DateShort: 2019-Feb-24
+:END:
+
+******* I... feel like you should make more of a ruckus about this discovery than burying it in this only somewhat topically-adjacent thread. Make a whole post about it. It's a /very/ common misconception.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 5
+:DateUnix: 1551041462.0
+:DateShort: 2019-Feb-25
+:END:
+
+******** I do intend to include it in the next revision of my headcanon doc (whenever that may be...) but I am not actually the first to promote this view. Sesc on DLP (SeriousScribble on FF.Net) has long advocated that "food" in Gamp's terms means the literal "ready to eat" meaning rather than a more extended "anything edible" concept.
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1551041908.0
+:DateShort: 2019-Feb-25
+:END:
+
+********* Yes, well not everyone reads DLP. I think quite a few people on here are at best /very leery/ of that website. I therefore believe there's still a use for a one-off post on here. Doesn't have to be longer than what you wrote above, either.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 1
+:DateUnix: 1551042680.0
+:DateShort: 2019-Feb-25
+:END:
+
+********** Done:
+
+[[https://www.reddit.com/r/HPfanfiction/comments/auczgi/transfiguration_and_gamps_law_what_is_good_food/]]
+:PROPERTIES:
+:Author: Taure
+:Score: 1
+:DateUnix: 1551045152.0
+:DateShort: 2019-Feb-25
+:END:
+
+
+******* Correct me if I'm wrong, but what you're implying is that they could not transfigure honey-bbq chicken wings but they could transfigure something into a live Chicken and then, from there, properly cook the chicken?
+
+The reason I use Chicken as an example is that it's probably the easiest meat in the world to cook. You cut the head/feet off, pluck it, and then literally just set it over a fire.
+
+While nothing that you're saying sounds fundamentally incorrect, it just doesn't make sense that they had to actually /forage/ for food.
+
+I mean, Harry went out and CAUGHT fish. WHY catch fish if you can just transfigure a live fish?
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 1
+:DateUnix: 1551066913.0
+:DateShort: 2019-Feb-25
+:END:
+
+******** As discussed in the other thread, the simplest explanation is that none of them are confident enough in their animate transfiguration to create a perfect chicken/fish.
+
+Also, I think there's more to preparing a chicken than you describe. You also have to take out its organs, no?
+:PROPERTIES:
+:Author: Taure
+:Score: 3
+:DateUnix: 1551084383.0
+:DateShort: 2019-Feb-25
+:END:
+
+
+***** Why does that need to be anything approaching a law? There are animals that people straight up eat, while they're still living even. Why should bread be any harder to make than something like a teacup?
+
+Draco managed to keep his soul even though he was turned into an animal, and Slughorn keeps his despite being a chair. Given the impossibility of bringing a soul back from the dead, it's clear that on some level transfigured things are still the original thing.
+:PROPERTIES:
+:Author: UbiquitousPanacea
+:Score: 1
+:DateUnix: 1551042617.0
+:DateShort: 2019-Feb-25
+:END:
+
+****** u/Taure:
+#+begin_quote
+  Why does that need to be anything approaching a law? There are animals that people straight up eat, while they're still living even. Why should bread be any harder to make than something like a teacup?
+#+end_quote
+
+I'm afraid I don't understand your question. What do you mean by "need"? These are the rules of the universe as they appear in canon. "Need" doesn't come into it, does it? It's not like there's a standard of correctness by which canon can be judged by. Canon /is/ the standard of correctness.
+
+However, if you are looking for why, it seems to me that the difference between bread and a teacup is obvious: food has a special status and value in human society, and the laws of magic appear to be largely anthropocentric (see, for example, the inability to create gold, or the way magic can distinguish between information generally and secrets specifically).
+
+It seems that any conceptual difference that humans can make, magic can recognise.
+
+#+begin_quote
+  Draco managed to keep his soul even though he was turned into an animal, and Slughorn keeps his despite being a chair. Given the impossibility of bringing a soul back from the dead, it's clear that on some level transfigured things are still the original thing.
+#+end_quote
+
+I feel like my post above already addresses this. Physically, nothing of the original object remains. But souls aren't physical and so are unaffected by transfiguration. Magic itself is also not physical, and so the new object will have magical traces of the object it used to be.
+:PROPERTIES:
+:Author: Taure
+:Score: 1
+:DateUnix: 1551042887.0
+:DateShort: 2019-Feb-25
+:END:
+
+******* That first one was two separate points: - What on earth makes food so special? What about food would make it impossible to make from other things, given that you can make animals (and probably fruit and edible plants)? Especially when you can make things that are artificial, complex, and organic? - Why does Gamp need to make laws that specific? Presumably if there are reasons why you can't make good food from one spell, it's as a result of other governing laws.
+
+For your second point, consider this: what happens if a person is turned into an object and that object is broken?
+
+The sensible thing would be to have the spell end once it's sufficiently damaged, but by your logic it would persist. An ensouled object in many pieces, with magic to boot. What are the consequences of such a thing?
+:PROPERTIES:
+:Author: UbiquitousPanacea
+:Score: 1
+:DateUnix: 1551043679.0
+:DateShort: 2019-Feb-25
+:END:
+
+******** u/Taure:
+#+begin_quote
+  What on earth makes food so special?
+#+end_quote
+
+The fact that people eat it, one assumes.
+
+Much like gold is special because people consider it valuable.
+
+#+begin_quote
+  given that you can make animals (and probably fruit and edible plants)?
+#+end_quote
+
+We know you can make animals, but you can't eat animals without putting them through further processing.
+
+We don't know whether you can make ready-to-eat fruit. I would speculate that, much as you can make a pig but not a pork chop, you can make an apple tree but not apples.
+
+#+begin_quote
+  Why does Gamp need to make laws that specific?
+#+end_quote
+
+Presumably because magic is that specific and Gamp is simply recording its nature.
+
+#+begin_quote
+  For your second point, consider this: what happens if a person is turned into an object and that object is broken?
+
+  The sensible thing would be to have the spell end once it's sufficiently damaged, but by your logic it would persist. An ensouled object in many pieces, with magic to boot. What are the consequences of such a thing?
+#+end_quote
+
+I'm perfectly happy to have magic be dangerous and to lead to potentially lethal or mutilating consequences. McGonagall warns the class about the dangers of transfiguration in her first class.
+
+One can only speculate about what happens to the soul of a person who has been transfigured into an object which is subsequently broken apart. Perhaps the soul moves on (i.e. dies), much as it would have if a human's body is broken. Perhaps the objects remain ensouled, and if the object is restored the person can be retrieved via untransfiguration once more.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1551045130.0
+:DateShort: 2019-Feb-25
+:END:
+
+********* u/DrunkBystander:
+#+begin_quote
+  We know you can make animals, but you can't eat animals without putting them through further processing.
+#+end_quote
+
+Actually you can: [[https://en.m.wikipedia.org/wiki/Steak_tartare]]
+
+#+begin_quote
+  The fact that people eat it, one assumes.
+#+end_quote
+
+Is everything about English humans?
+
+Let's not forget that in other parts of the World people eat different things, including insects.
+:PROPERTIES:
+:Author: DrunkBystander
+:Score: 1
+:DateUnix: 1551057345.0
+:DateShort: 2019-Feb-25
+:END:
+
+
+********* People will eat raw carrots, unprocessed insects... even live octopi.
+
+Gold is special for other reasons than because it is considered valuable. Its innability to corrode, for example. Also, it's rare, has a distinct colour from other metals, is dense yet soft, and it is plausible that gold came to be an obsession /because it cannot be magically reproduced/ rather than the other way around.
+:PROPERTIES:
+:Author: UbiquitousPanacea
+:Score: 1
+:DateUnix: 1551116195.0
+:DateShort: 2019-Feb-25
+:END:
+
+
+*** Is there any indication what the limits of transfiguration towards mechanical things are? Like, is there anything in canon which supports or denies the possibility of transfiguring something in hardened steel? A steam engine in one go? Any size limit (eg a car, a small boat or a supertanker)? Because the complexity of most machines is significantly lower than even the most basic of animals which make an appearance pretty early on. Hell, an entire engine is probably less complex than a bacteria, nevermind a bird or a small mammal.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 2
+:DateUnix: 1551037994.0
+:DateShort: 2019-Feb-24
+:END:
+
+**** Size is the easier one to answer. In GoF Hermione says this:
+
+#+begin_quote
+  “Well, there are Switching Spells... but what's the point of Switching it? Unless you swapped its fangs for wine-gums or something that would make it less dangerous... The trouble is, like that book said, not much is going to get through a dragon's hide... *I'd say Transfigure it, but something that big, you really haven't got a hope, I doubt even Professor McGonagall...* unless you're supposed to put the spell on yourself? Maybe to give yourself extra powers? But they're not simple spells, I mean, we haven't done any of those in class, I only know about them because I've been doing O.W.L. practice papers...”
+#+end_quote
+
+Hermione expresses doubt that McGonagall could transfigure something dragon-sized, but she's not completely sure that she wouldn't be able to. So that would seem to establish dragon-size as around the upper limit that a master of the art can transfigure, though perhaps Dumbledore/Voldemort et al could go bigger.
+
+You may say "But maybe the reason McGonagall couldn't do it was because it's a dragon". But Hermione specifically states the dragon's size as the reason for her doubt, and specifically introduces transfiguration to the discussion as a response to the consideration of the impenetrability of a dragon's hide. Which is itself interesting, and underlines the power of transfiguration--it seems that it can bypass the magical resistance that some creatures possess. I suppose a transfiguration spell is not trying to /pierce/ the dragon's hide per se, but rather is changing the hide into something else.
+
+With regards to mechanical things, that requires a lot more speculation. The only canon item we really have to go on is the fact that in GoF, Arthur Weasley uses the Repair Charm to repair the Dursley's electrical fire. Charms are of course not transfiguration, and the two branches of magic seem to obey quite different rules, so you have to caveat this pretty heavily, but it seems to me that it indicates that there is no particular difficulty with magic creating/transforming mechanical/electrical objects. So long as you're not in a highly magical environment like Hogwarts, at least.
+:PROPERTIES:
+:Author: Taure
+:Score: 3
+:DateUnix: 1551040427.0
+:DateShort: 2019-Feb-25
+:END:
+
+***** I was thinking more along the lines of WWI technology levels (Harry and Hermione dropped into Game of Thrones 10 years before canon), but it would indeed be interesting if one was to take the bit about technology and use it. I mean, an electrical fire is rather pointless, but if you can transfigure a generator of that size and the parts for a steam turbine, you have an easy power supply instead of experimenting with lead-acid batteries.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 1
+:DateUnix: 1551040875.0
+:DateShort: 2019-Feb-25
+:END:
+
+
+*** u/Kash_Josh:
+#+begin_quote
+  Physical objects do not spontaneously turn into other objects in the absence of magic. You would need some new magical intervention to make a further change.
+#+end_quote
+
+Something that does slightly muddy the waters on this is [[https://harrypotter.fandom.com/wiki/Francis][Francis]], Professor Slughorn's pet goldfish that Lily Evans transfigured from a petal as a gift for him. On the morning after Lily's death, Slughorn found the bowl empty, which suggests that the transfiguration was an on-going effect, rather than a one and done deal.
+
+(Note: the wiki page classes Francis as a transfiguration, but it's possible he was some other form of magic. However, the lily petal turning into a fish in front of Slughorn does suggest transfiguration as opposed to any other sort.)
+
+I'm willing to chalk this up to an oversight on JK's part, however, as there seems to be no real rule as to whether or not the magic a wizard cast in their lifetime remains after they die: the body bind that Dumbledore cast on Harry in HBP (and the aforementioned Francis) both cease existing after the witch or wizard dies, but the sticking charms Sirius put on the posters in his childhood room remain in place.
+:PROPERTIES:
+:Author: Kash_Josh
+:Score: 1
+:DateUnix: 1551042736.0
+:DateShort: 2019-Feb-25
+:END:
+
+**** Francis the fish is "movie canon" only, and I don't think many people consider the movies canon, given that the scripts were not written by JKR.
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1551042934.0
+:DateShort: 2019-Feb-25
+:END:
+
+***** A fair point - it's been so long since I've read the novels or watched the films that they kind of blur together for me, tbh.
+
+Script writing is a specialised subset of writing, distinct from writing novels, so it's unsurprising that JK didn't write them. Although she did have a hand in checking them over and making alterations, so it's not like they were just any old shite the writers and producers threw together despite her wishes. But then again, she did okay /Cursed Child/, so that's probably not the most encouraging of thoughts.
+
+I'd take issue with the idea of the movies not being canon, however - it seems like a pretty arbitrary distinction to make, especially since JK was so heavily involved in the pre-production. I'd imagine most people take Pottermore as being at least supplementary canon, and it's almost certain that the majority of articles there aren't written by JK herself. I'm of the opinion that we take a leaf out of the Star Wars playbook: as long as it doesn't directly contradict something in the primary canon (i.e. the novels) then it's canon, although secondary to anything that comes out in future instalments.
+
+It's interesting to note, however, that the Fantastic Beasts films were actually written by JK as her screenwriting debut, so does that make them definitively canon? And if so, do the details in the Fantastic Beasts movies that contradict the books and Pottermore take precedence?
+:PROPERTIES:
+:Author: Kash_Josh
+:Score: 1
+:DateUnix: 1551044088.0
+:DateShort: 2019-Feb-25
+:END:
+
+****** I think most people only take the "Written by JK Rowling" articles on Pottermore as canon. The rest of the stuff is Buzzfeed style articles like "Ten reasons why Harry and Ginny were destined for each other". That's not really even /trying/ to be canon - it's clearly secondary commentary.
+
+"Written by JKR" seems to be a fairly standard definition of canon, with some people requiring the material to have been /published/ in a traditional work, whereas others are willing to take JKR's word of god as canon too. But I know of very few people who are happy to take "random employee of Warner Brothers who designed prop #352135" as someone who can determine HP canon.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1551044812.0
+:DateShort: 2019-Feb-25
+:END:
+
+******* u/Kash_Josh:
+#+begin_quote
+  But I know of very few people who are happy to take "random employee of Warner Brothers who designed prop #352135" as someone who can determine HP canon.
+#+end_quote
+
+When it comes to the films, however, we're not talking about a "random employee", we're talking about the script writers who have been tasked to adapt and expand on JK's work, which then was signed off on by the woman herself. For me personally, that lends at least a /little/ credibility to the new details that make it in.
+
+Still, it all comes down to personal preference, I suppose - I'm happy to agree to disagree.
+:PROPERTIES:
+:Author: Kash_Josh
+:Score: 1
+:DateUnix: 1551045991.0
+:DateShort: 2019-Feb-25
+:END:
+
+******** I think you're overestimating the nature of JKR's "sign off". It wasn't a canon check - there are multiple places in which the movies directly and unambiguously contradict the books, such as the time at which Harry receives his Firebolt in PoA (Christmas vs. end of year). JKR's input on the movie scripts does not amount to her being a co-writer of them, nor does it mean they're canon. It was just there a) as a marketing ploy, to win over existing fans and b) to prevent the writers from digging themselves into really massive holes in terms of failing to lay the groundwork for later books which had not yet been written.
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1551046475.0
+:DateShort: 2019-Feb-25
+:END:
+
+********* u/Kash_Josh:
+#+begin_quote
+  there are multiple places in which the movies directly and unambiguously contradict the books, such as the time at which Harry receives his Firebolt in PoA (Christmas vs. end of year).
+#+end_quote
+
+By all means, if it comes down to original novel vs. adaptation, then the original work takes primacy. But in cases where it doesn't contradict anything, I feel the issue is a little more grey. It's fairly standard to restructure and change certain elements of the work in an adaptation - things that work well in one medium don't always work in another, and cutting a 300 page book into a 1.5 hour film necessitates pragmatism.
+
+We're also in the bizarre situation, now, where the Fantastic Beasts movies (being written by JKR) also enjoy canon status, but there's already been some fairly major contradictions (such as McGonagall teaching at Hogwarts before she was born, and the existence of a younger Dumbledore brother despite their mother being dead and their father serving a life sentence in Azkaban long before the boy could have been born - although I'm almost certain the McGonagall thing will be retconned into either a relative or random person with the same surname).
+:PROPERTIES:
+:Author: Kash_Josh
+:Score: 1
+:DateUnix: 1551047143.0
+:DateShort: 2019-Feb-25
+:END:
+
+********** For fans who have been around long enough, the McGonagall thing has been a double retcon. JKR originally said she was around 80 at the start of PS, then Pottermore reduced her age significantly, and now it's gone up again (to be even older than the original). This is not unusual - Tolkien frequently retconned elements of the LotR universe, often in private letters which were only published decades later - and you generally just have to go with the most recent version.
+
+As regards the movies, I completely agree: when creating an adaptation, things have to change. But this, to me, seems to lead to an inevitable conclusion: the movies are an /adaptation/ of canon, not canon itself. JKR signing off on the movies is her signing off on them /as an adaptation/, not as something equal to her own work. Their status in my mind is basically that of a piece of fan art of which JKR happens to have said "I like this".
+:PROPERTIES:
+:Author: Taure
+:Score: 3
+:DateUnix: 1551047479.0
+:DateShort: 2019-Feb-25
+:END:
+
+*********** u/Kash_Josh:
+#+begin_quote
+  Their status in my mind is basically that of a piece of fan art of which JKR happens to have said "I like this".
+#+end_quote
+
+I think this is where you and I fundamentally disagree: to me, the films are officially licensed products, carrying the authority and weight of JKR, much like the old EU was with Star Wars: if it didn't directly contradict the canon of the movies, then it was officially secondary canon, unless contradicted by the primary canon, i.e. the movies - and that's how I feel about the Harry Potter movies and the Cursed Child play (rather sadly in the case of the latter).
+
+#+begin_quote
+  the McGonagall thing has been a double retcon. JKR originally said she was around 80 at the start of PS, then Pottermore reduced her age significantly, and now it's gone up again (to be even older than the original). This is not unusual - Tolkien frequently retconned elements of the LotR universe, often in private letters which were only published decades later - and you generally just have to go with the most recent version.
+#+end_quote
+
+With McGonagall, it's further complicated by her conversation with Umbridge in OotP, where she says she's been teaching at Hogwarts for 39 years, i.e. her first year of teaching was 1956. It's a complete mess, tbh, and just makes me think that JK's sort of lost all interest in internal consistency - it's just the tip of the iceberg in terms of contradictory and nonsensical statements and plot holes that have been cropping up ever since she decided to expand on the original seven books.
+
+A major difference to Tolkien is that he /actually/ retconned the Hobbit, specifically the One Ring's importance and Gollum's obsession with it, in order to tie in with LotR. Later editions of the Hobbit were different to earlier editions in this regard. JK seems content to allow contradictory information to exist side-by-side in her body of work and Word of God statements, which creates a level of internal inconsistency, contradiction and plot-holes that go beyond forgetfulness or inattention to detail. It's extremely frustrating for me, and exactly the reason I lean more towards *Death of the Author* with JK than I do with other writers.
+:PROPERTIES:
+:Author: Kash_Josh
+:Score: 1
+:DateUnix: 1551048786.0
+:DateShort: 2019-Feb-25
+:END:
+
+
+*** My own little idea is that a charm adds something, a curse limits something, and transfiguration changes something. Jinxes and hexes are just minor curses. These are mostly arbitrary distinctions because magic isn't too precise. It's very much like classifying living organisms. Life isn't following your rules. We can try and successfully label it, but we will always be changing what is what and expanding things to match reality because life is too fluid to define so neatly.
+:PROPERTIES:
+:Author: RisingEarth
+:Score: 1
+:DateUnix: 1551056054.0
+:DateShort: 2019-Feb-25
+:END:
+
+
+** The only event I could recall off of the top of my head was the eyebrow incident in HBP which makes it sound as if it'd be a long enough time to go away if it did.
+
+#+begin_quote
+  He finally tracked her down as she emerged from a girls' bathroom on the floor below. She was accompanied by Luna Lovegood, who was patting her vaguely on the back. “Oh, hello, Harry,” said Luna. “Did you know one of your eyebrows is bright yellow?”
+
+  ....
+
+  “Nobody's ever asked me to a party before, as a friend! Is that why you dyed your eyebrow, for the party? Should I do mine too?” “No,” said Harry firmly, “that was a mistake. I'll get Hermione to put it right for me. So, I'll meet you in the entrance hall at eight o'clock then.”
+#+end_quote
+
+Though a few hours is not out of the realm of feasibility if it was temporary.\\
+Though personally I'm of the view that they are permanent.
+
+​
+:PROPERTIES:
+:Author: RedKorss
+:Score: 5
+:DateUnix: 1551033228.0
+:DateShort: 2019-Feb-24
+:END:
+
+*** u/Ignisami:
+#+begin_quote
+  I'll get Hermione to put it right for me.
+#+end_quote
+
+Does not imply it's temporary.
+:PROPERTIES:
+:Author: Ignisami
+:Score: 2
+:DateUnix: 1551041298.0
+:DateShort: 2019-Feb-25
+:END:
+
+**** That's what I said. If it were temporary, it lasts long enough to need to be corrected before they went to Slughorn's Christmas party.
+:PROPERTIES:
+:Author: RedKorss
+:Score: 2
+:DateUnix: 1551041530.0
+:DateShort: 2019-Feb-25
+:END:
+
+***** Ah, missed the 'if it did' my bad.
+:PROPERTIES:
+:Author: Ignisami
+:Score: 1
+:DateUnix: 1551042301.0
+:DateShort: 2019-Feb-25
+:END:
+
+
+**** It might still be temporary, but it just wouldn't have the time to wear off in time for the party, which Harry would obviously not want to show up to with a yellow eyebrow.
+
+For all we know, it could well wear off or correct itself in a week.
+:PROPERTIES:
+:Author: Threedom_isnt_3
+:Score: 1
+:DateUnix: 1551060424.0
+:DateShort: 2019-Feb-25
+:END:
+
+
+** No they do not because Dudley's tail and QUINTAPEDS! :) There is lots of evidence in canon that transfiguration is permanent unless you actively try to change it back with another spell.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1551041258.0
+:DateShort: 2019-Feb-25
+:END:
+
+
+** In canon transfiguration seems to be permanent, but it just breaks so much in terms of worldbuilding. You can't really have an economy if people can just turn pebbles into whatever they want. There are exemptions to Gamps law, which is kind of an attempt to fix this issue, but it's not really consistent or well explained.
+
+Tl;dr: Transfiguration behaves however it is convenient for the plot.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 1
+:DateUnix: 1551040243.0
+:DateShort: 2019-Feb-25
+:END:
+
+*** At first blush, Transfiguration would appear to completely eradicate the goods economy, leaving only demand for services (which, it should be said, is still a substantial part of the economy). However, on further analysis, there are six factors preserving the wizarding goods economy:
+
+1. Gamp's Law has five principal exceptions, which describe the five classes of physical item which transfiguration simply cannot create (either by transformation or by conjuration).
+
+2. From the fact that those five exceptions are known as the "principal" exceptions, Gamp's Law presumably has further subsidiary exceptions. These perhaps describe classes of physical good which can be created with transfiguration, but only within certain limitations.
+
+3. Transfiguration is widely considered the most difficult magical discipline, and most wizards have not mastered it to the degree necessary to use it to create the goods they demand.
+
+4. The goods demanded by wizards are generally not merely physical, but come with enchantments to improve their qualities. Transfiguration can only create physical things; it cannot imbue an object with magic it did not originally have, which must be done by Charms (the performance of which is a service). Flying brooms, clothes with warming charms, quills that correct your spelling... these things cannot be created with transfiguration.
+
+5. While transformations are permanent, nonetheless they can be reversed by the active intervention of a wizard. This would especially relevant for the magical construction industry, where durability and security are of particular concern.
+
+6. While highly skilled wizards could theoretically use their abilities to put some traditional industries out of business, it is usually more profitable for the wizard to put those skills to a different use. For example, a highly skilled wizard might be able to perform large, perfect, animate transfigurations in an instant. Such a wizard could likely replace many farms if they devoted their life to transfiguring items into cows. However, that same level of skill means the wizard in question could easily obtain even more lucrative and exciting employment elsewhere (or would seek to enter politics). It's just not worth it for a talented wizard to spend their life performing mass production of basic goods.
+:PROPERTIES:
+:Author: Taure
+:Score: 14
+:DateUnix: 1551041099.0
+:DateShort: 2019-Feb-25
+:END:
+
+
+*** Tbf, it's understandable, the way it's built up. I wish that by the fifth book there'd be concrete laws on 'mundane' magic, though...
+:PROPERTIES:
+:Author: UbiquitousPanacea
+:Score: 2
+:DateUnix: 1551042387.0
+:DateShort: 2019-Feb-25
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1551040930.0
+:DateShort: 2019-Feb-25
+:END:
+
+*** What makes you think any magic involves runes? Also, what makes you think rituals are permanent?
+
+Where does the energy for lumos come from?
+:PROPERTIES:
+:Author: UbiquitousPanacea
+:Score: 2
+:DateUnix: 1551042301.0
+:DateShort: 2019-Feb-25
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1551043841.0
+:DateShort: 2019-Feb-25
+:END:
+
+***** It's something the fandom made up completely. Fandom stuff being canon is a slippery slope...
+
+Rituals don't have to be permanent for those to work, they just have to be incredibly long-lasting. Besides, the blood protection wasn't permanent, it stopped working once Harry came of age, and only had any effect past that point because of the shared blood keeping it alive.
+
+I'll tell you what is definitely permanent (or ridiculously long-lasting) enchanted objects with no runes to speak of.
+
+Wizards never experience magic-fatigue in books, I believe...
+
+Where does the energy come from for fiendfyre? Also, healing and dark magic are definitely permanent (or at least lingering)
+:PROPERTIES:
+:Author: UbiquitousPanacea
+:Score: 1
+:DateUnix: 1551044330.0
+:DateShort: 2019-Feb-25
+:END:

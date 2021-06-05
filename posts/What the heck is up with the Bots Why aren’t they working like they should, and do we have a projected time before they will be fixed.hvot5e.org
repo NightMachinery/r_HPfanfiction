@@ -1,0 +1,202 @@
+#+TITLE: What the heck is up with the Bots? Why aren’t they working like they should, and do we have a projected time before they will be fixed?
+
+* What the heck is up with the Bots? Why aren’t they working like they should, and do we have a projected time before they will be fixed?
+:PROPERTIES:
+:Author: Sefera17
+:Score: 12
+:DateUnix: 1595400120.0
+:DateShort: 2020-Jul-22
+:FlairText: Meta
+:END:
+So, I've not been able to use the ‘linkffn' bot or the ‘remindme' bot for a few days, and I've been seeing a lot of other people's failed requests, too. What's up? Why? When will it be fixed? Do we know? If not, who do we need to talk to?
+
+
+** I've used the fanfictionbot linkffn and linkao3 several times including a few minutes ago and it has worked fine.
+:PROPERTIES:
+:Author: reddog44mag
+:Score: 5
+:DateUnix: 1595406568.0
+:DateShort: 2020-Jul-22
+:END:
+
+*** linkffn(12910629)
+:PROPERTIES:
+:Author: reddog44mag
+:Score: 1
+:DateUnix: 1595406641.0
+:DateShort: 2020-Jul-22
+:END:
+
+**** [[https://www.fanfiction.net/s/12910629/1/][*/Daddy's Boy/*]] by [[https://www.fanfiction.net/u/2322071/Harry50][/Harry50/]]
+
+#+begin_quote
+  What could have happened if James survived that fateful Halloween? Eventually Harry/Hermione.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{30} ^{*|*} ^{/Words/:} ^{71,363} ^{*|*} ^{/Reviews/:} ^{866} ^{*|*} ^{/Favs/:} ^{1,460} ^{*|*} ^{/Follows/:} ^{1,363} ^{*|*} ^{/Updated/:} ^{11/17/2018} ^{*|*} ^{/Published/:} ^{4/20/2018} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{12910629} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Family/Friendship} ^{*|*} ^{/Characters/:} ^{<Harry} ^{P.,} ^{Hermione} ^{G.>} ^{<James} ^{P.,} ^{OC>} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12910629&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12910629&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1595406657.0
+:DateShort: 2020-Jul-22
+:END:
+
+
+*** Yea, it's working okay for some people, and not at all for others. What gives?
+:PROPERTIES:
+:Author: Sefera17
+:Score: 1
+:DateUnix: 1595421972.0
+:DateShort: 2020-Jul-22
+:END:
+
+**** That's definitely strange usually a program either works or it doesn't. The only times it hasn't worked for me is if I mistyped the bot name "zero" instead of "o" for AO3, or mistyped story id and the id "used" doesn't exist. The last one is a story where I have the correct id # but the story is no longer on the site.
+
+Just for completeness have you tried to use the bot for the story I just recommended?
+:PROPERTIES:
+:Author: reddog44mag
+:Score: 1
+:DateUnix: 1595433323.0
+:DateShort: 2020-Jul-22
+:END:
+
+***** linkffn([[https://www.fanfiction.net/s/12910629/1/]])
+:PROPERTIES:
+:Author: Sefera17
+:Score: 1
+:DateUnix: 1595457871.0
+:DateShort: 2020-Jul-23
+:END:
+
+****** [[https://www.fanfiction.net/s/12910629/1/][*/Daddy's Boy/*]] by [[https://www.fanfiction.net/u/2322071/Harry50][/Harry50/]]
+
+#+begin_quote
+  What could have happened if James survived that fateful Halloween? Eventually Harry/Hermione.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{30} ^{*|*} ^{/Words/:} ^{71,363} ^{*|*} ^{/Reviews/:} ^{866} ^{*|*} ^{/Favs/:} ^{1,460} ^{*|*} ^{/Follows/:} ^{1,363} ^{*|*} ^{/Updated/:} ^{11/17/2018} ^{*|*} ^{/Published/:} ^{4/20/2018} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{12910629} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Family/Friendship} ^{*|*} ^{/Characters/:} ^{<Harry} ^{P.,} ^{Hermione} ^{G.>} ^{<James} ^{P.,} ^{OC>} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12910629&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12910629&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1595457886.0
+:DateShort: 2020-Jul-23
+:END:
+
+******* That one works fine. Interesting.
+:PROPERTIES:
+:Author: Sefera17
+:Score: 1
+:DateUnix: 1595458015.0
+:DateShort: 2020-Jul-23
+:END:
+
+
+****** Remindme!1 Day
+:PROPERTIES:
+:Author: Sefera17
+:Score: 1
+:DateUnix: 1595457981.0
+:DateShort: 2020-Jul-23
+:END:
+
+******* Remindme is still down, though :(
+:PROPERTIES:
+:Author: Sefera17
+:Score: 1
+:DateUnix: 1595458042.0
+:DateShort: 2020-Jul-23
+:END:
+
+
+******* There is a 20 hour delay fetching comments.
+
+I will be messaging you in 1 day on [[http://www.wolframalpha.com/input/?i=2020-07-23%2022:46:21%20UTC%20To%20Local%20Time][*2020-07-23 22:46:21 UTC*]] to remind you of [[https://np.reddit.com/r/HPfanfiction/comments/hvot5e/what_the_heck_is_up_with_the_bots_why_arent_they/fyx7q0t/?context=3][*this link*]]
+
+[[https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2FHPfanfiction%2Fcomments%2Fhvot5e%2Fwhat_the_heck_is_up_with_the_bots_why_arent_they%2Ffyx7q0t%2F%5D%0A%0ARemindMe%21%202020-07-23%2022%3A46%3A21%20UTC][*CLICK THIS LINK*]] to send a PM to also be reminded and to reduce spam.
+
+^{Parent commenter can} [[https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20hvot5e][^{delete this message to hide from others.}]]
+
+--------------
+
+[[https://np.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/][^{Info}]]
+
+[[https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here][^{Custom}]]
+[[https://np.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21][^{Your Reminders}]]
+[[https://np.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback][^{Feedback}]]
+:PROPERTIES:
+:Author: RemindMeBot
+:Score: 1
+:DateUnix: 1595532471.0
+:DateShort: 2020-Jul-23
+:END:
+
+
+****** Wow I have never used the URL. I don't even use the name due to the chance of a story with the same name. So he's an attempt using a cut and paste copy of your attempt.
+
+linkffn([[https://www.fanfiction.net/s/12910629/1/]])
+:PROPERTIES:
+:Author: reddog44mag
+:Score: 1
+:DateUnix: 1595459213.0
+:DateShort: 2020-Jul-23
+:END:
+
+******* [[https://www.fanfiction.net/s/12910629/1/][*/Daddy's Boy/*]] by [[https://www.fanfiction.net/u/2322071/Harry50][/Harry50/]]
+
+#+begin_quote
+  What could have happened if James survived that fateful Halloween? Eventually Harry/Hermione.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{30} ^{*|*} ^{/Words/:} ^{71,363} ^{*|*} ^{/Reviews/:} ^{866} ^{*|*} ^{/Favs/:} ^{1,460} ^{*|*} ^{/Follows/:} ^{1,363} ^{*|*} ^{/Updated/:} ^{11/17/2018} ^{*|*} ^{/Published/:} ^{4/20/2018} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{12910629} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Family/Friendship} ^{*|*} ^{/Characters/:} ^{<Harry} ^{P.,} ^{Hermione} ^{G.>} ^{<James} ^{P.,} ^{OC>} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12910629&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12910629&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1595459230.0
+:DateShort: 2020-Jul-23
+:END:
+
+
+******* I'm on Ipad, only, so I've got to copy the link into a Notes app and cut out the number to get it, so I usually skip that step and just link the link.
+:PROPERTIES:
+:Author: Sefera17
+:Score: 1
+:DateUnix: 1595459328.0
+:DateShort: 2020-Jul-23
+:END:
+
+******** Okay. I only use the link if the bot doesn't work for that site. If the bot does work for the site I'll copy the link but then cut out everything but the story id.
+:PROPERTIES:
+:Author: reddog44mag
+:Score: 1
+:DateUnix: 1595460298.0
+:DateShort: 2020-Jul-23
+:END:
+
+********* I usually only really link ao3 or ffn anyways.
+:PROPERTIES:
+:Author: Sefera17
+:Score: 1
+:DateUnix: 1595460897.0
+:DateShort: 2020-Jul-23
+:END:
+
+
+** I've noticed this issue as well. It also seems to refuse to link some specific fics, too.
+:PROPERTIES:
+:Author: Myreque_BTW
+:Score: 1
+:DateUnix: 1595425456.0
+:DateShort: 2020-Jul-22
+:END:

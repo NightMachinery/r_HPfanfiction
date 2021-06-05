@@ -1,0 +1,258 @@
+#+TITLE: Theoretically, could someone fast and accurate enough be able to vanish a spell in mid-air using the Vanishing Spell?
+
+* Theoretically, could someone fast and accurate enough be able to vanish a spell in mid-air using the Vanishing Spell?
+:PROPERTIES:
+:Author: SnobbishWizard
+:Score: 16
+:DateUnix: 1596771887.0
+:DateShort: 2020-Aug-07
+:FlairText: Discussion
+:END:
+Living humans seem to be the only thing to be able to resist the spell, but could spells be able to resist it? Imagine someone making (visible) spells vanish as they were thrown at them. Alternatively, could someone dispel a spell in mid-air using the general countercharm?
+
+
+** 1. You can vanish humans - it's a pretty big element of HBP, where a vanishing cabinet is how Death Eaters get into Hogwarts. Montague also spends several months vanished in OotP, when Fred and George push him into the broken cabinet before it was fixed.
+
+2. Yes, you can cast spells on spells. The most explicit example of this is that we know that the Breaking Charm on the Firebolt has an Unbreakable Charm on it.
+:PROPERTIES:
+:Author: Taure
+:Score: 9
+:DateUnix: 1596779831.0
+:DateShort: 2020-Aug-07
+:END:
+
+*** u/Tsorovar:
+#+begin_quote
+  Yes, you can cast spells on spells. The most explicit example of this is that we know that the Breaking Charm on the Firebolt has an Unbreakable Charm on it.
+#+end_quote
+
+I'm not sure that's accurate. The Braking Charm just seems to be described as unbreakable (probably just advertising puffery), rather than being a reference to the Unbreakable Charm itself.
+:PROPERTIES:
+:Author: Tsorovar
+:Score: 2
+:DateUnix: 1596886042.0
+:DateShort: 2020-Aug-08
+:END:
+
+
+** It's pretty clear from the books that you can dispel a spell in mid-air.
+
+#+begin_quote
+  Malfoy wheeled around, drawing his wand. Instinctively, Harry pulled out his own. Malfoy's hex missed Harry by inches, shattering the lamp on the wall beside him; Harry threw himself sideways, thought Levicorpus! and flicked his wand, but Malfoy blocked the jinx and raised his wand for another ---
+#+end_quote
+
+Harry has already cast the spell (he gets the incantation and motion off) but Malfoy blocks the spell.
+
+#+begin_quote
+  “Stupe ---” “Blocked again and again and again until you learn to keep your mouth shut and your mind closed, Potter!” sneered Snape, deflecting the curse once more. “Now come!” he shouted at the huge Death Eater behind Harry. “It is time to be gone, before the Ministry turns up ---”
+#+end_quote
+
+You can even block them before they're cast!
+
+I think that the simpler spells can be blocked with general blocks and that more advanced spells require specific blocks (though this has no basis save intuition). I'm not sure if you could use a countercharm to dispel spells, but I think that would work thematically with Harry Potter.
+
+Transfiguration applies to spells (so far as I recall, I can't quite remember what the canonical basis is) and so I think that it would be immensely difficult, and time-consuming, but you /could/ vanish a spell. Given that it takes 15 minutes+ to vanish an iguana, I don't think it'd be practical in combat to vanish spells.
+
+Edit:
+
+There's some confusion because deflection is used as a synonym for block.
+
+#+begin_quote
+  "I think I'd better teach you how to block unfriendly spells," said Lockhart,
+
+  Harry looked up nervously at Lockhart and said, "Professor, could you show me that blocking thing again?"
+
+  “Cruc ---” yelled Harry for the second time, aiming for the figure ahead illuminated in the dancing firelight, but Snape blocked the spell again. Harry could see him sneering.
+
+  /The language is block./
+
+  “Cruc ---” But Snape parried the curse, knocking Harry backward off his feet before he could complete it;
+
+  /This is merely to prove that blocking prevents completion of the spell being cast and to show how Rowling uses parry and deflect as synonyms for blocking./
+#+end_quote
+
+These quotes serves as the clearest example of the concept.
+:PROPERTIES:
+:Author: Impossible-Poetry
+:Score: 5
+:DateUnix: 1596773522.0
+:DateShort: 2020-Aug-07
+:END:
+
+*** Deflecting is not the same as vanishing. In your examples, the spells are being blocked, but are not being made to dissipate completely.
+
+The vanishing spell sends things into non-being. I don't believe we saw anything in canon to indicate that could be used on something non-physical like a spell.
+:PROPERTIES:
+:Author: JennaSayquah
+:Score: 9
+:DateUnix: 1596776482.0
+:DateShort: 2020-Aug-07
+:END:
+
+**** I'm not sure what you mean? Do you mean that spell blocking knocks it into the ground or shields it?
+
+Spell blocking renders a spell out of existence. The spell do "dissipate" completely, as blocked spells no longer form. You may be confused because Rowling uses "deflect" as a synonym for blocking. However, even in my original post, you can see Snape commenting on blocking stupefy.
+
+#+begin_quote
+  “Incarc ---”Harry roared, but Snape deflected the spell with an almost lazy flick of his arm.
+#+end_quote
+
+It's pretty clear that while spells can be redirected (films), blocking is not a redirection. When Snape blocked incarcerous, the spell "disappates" entirely as no rope forms.
+
+#+begin_quote
+  “Cruc ---” yelled Harry for the second time, aiming for the figure ahead illuminated in the dancing firelight, but Snape blocked the spell again. Harry could see him sneering.
+#+end_quote
+
+This is probably the clearest example of the concept.
+
+I recall canonical basis for the transfiguration of spells, though not what it is. I extrapolated that to vanishment. It is entirely possible that you are correct, hence my note of that in my original comment. I concur that vanished spells, if possible, would be turned to non-being, that is to say everything.
+
+Edit: Additional quote that nicely demonstrates my points:
+
+#+begin_quote
+  “Cruc ---” But Snape parried the curse, knocking Harry backward off his feet before he could complete it;
+#+end_quote
+:PROPERTIES:
+:Author: Impossible-Poetry
+:Score: 2
+:DateUnix: 1596777177.0
+:DateShort: 2020-Aug-07
+:END:
+
+***** What I mean is that, in the examples you gave, the spells do not /go away/, which is what the vanishing spell does. They are merely knocked aside. They still hit something, just not what the caster intended.
+
+(In the movies, which you may or may not consider canon, there's a brilliant scene when McGonagall is duelling Snape where he uses her spells to take out the Carrows behind him.)
+
+And in your last quote, the spell wasn't banished: he kept Harry from completing the spell so it never existed.
+:PROPERTIES:
+:Author: JennaSayquah
+:Score: 1
+:DateUnix: 1596809593.0
+:DateShort: 2020-Aug-07
+:END:
+
+****** The movies do have spell redirection where the spells are knocked to the side, yes. Fantastic beasts has Grindelwald knock spells aside, as well. But this method differs from blocking which is described in the books. This is not unusual. The movies makes many changes.
+
+#+begin_quote
+  Snape, outnumbered, standing at the epicenter,
+
+  parries spell after spell with astonishing skill
+
+  deflecting two of the curses into Alecto and Amycus Carrow.
+#+end_quote
+
+But the descriptions in the books clearly show that blocks, as used in the books, spells dissipate completely. They are not knocked aside. Note how missed spells get a description in the bathroom scene; the blocked spell is not described to hit anything. It's the same technique used to prevent completion, and I'm not sure why its effect would differ simply because it's been cast.
+
+#+begin_quote
+  There was a loud bang and the bin behind Harry exploded;
+#+end_quote
+
+This applies even to spells without visible light.
+
+Vanishment is merely another method that would hypothetically accomplish the same thing.
+:PROPERTIES:
+:Author: Impossible-Poetry
+:Score: 1
+:DateUnix: 1596813048.0
+:DateShort: 2020-Aug-07
+:END:
+
+
+*** u/SnobbishWizard:
+#+begin_quote
+  Given that it takes 15 minutes+ to vanish an iguana, I don't think it'd be practical in combat to vanish spells.
+#+end_quote
+
+If you're at Harry's level perhaps, but I imagine a prodigy of Transfiguration like Dumbledore could instantly vanish an iguana with a flick of his wand.
+:PROPERTIES:
+:Author: SnobbishWizard
+:Score: 4
+:DateUnix: 1596774195.0
+:DateShort: 2020-Aug-07
+:END:
+
+**** Perhaps, but I think vanishing a spell would be a step-up in difficulty, to a level that vanishing spells would be off-limits to wizards that aren't at James and Sirius' levels. Similar to the step-up from invertebrates to vertebrates. If vanishing spells mid-combat was possible in canon, I think we would have seen Dumbledore or Voldemort employ it.
+
+And besides, Dumbledore's got the better option of blocking anyway.
+:PROPERTIES:
+:Author: Impossible-Poetry
+:Score: 3
+:DateUnix: 1596774463.0
+:DateShort: 2020-Aug-07
+:END:
+
+
+*** Blocking and parrying are indeed duelling techniques we see in canon, but I'm not sure how relevant they are to the question of whether you can cast the Vanishing Spell (Evanesco) on spells.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1596779868.0
+:DateShort: 2020-Aug-07
+:END:
+
+**** u/Impossible-Poetry:
+#+begin_quote
+  Alternatively, could someone dispel a spell in mid-air using the general countercharm?
+#+end_quote
+
+The OP asked about spell dispulsion in mid-air (dispelling?) and I figured blocking, capable of doing so, was relevant enough. After all, the OP had also asked about alternatives other than vanishment based dispulsion methods.
+
+#+begin_quote
+  Imagine someone making (visible) spells vanish as they were thrown at them.
+#+end_quote
+
+From this, I got the impression the OP was more interested in the possibility of dispulsion anyway, rather than the mechanics. I like to think I covered my bases anyway; I did discuss my view on vanishment.
+:PROPERTIES:
+:Author: Impossible-Poetry
+:Score: 1
+:DateUnix: 1596780230.0
+:DateShort: 2020-Aug-07
+:END:
+
+
+** Actually vanishing, I doubt it. Applying magic to magic seems to be on an entirely different level of difficulty. Harry's entire arm of bones can be regrown in a night, but George's ear was gone for good. You can transfigure a teacup into a living being, but not into a flying broom.
+
+Dispelling a spell mid-air sounds more doable, but difficult enough that I imagine that in the vast majority of situations you'd be better off blocking it or something.
+:PROPERTIES:
+:Author: TheVoteMote
+:Score: 2
+:DateUnix: 1596777190.0
+:DateShort: 2020-Aug-07
+:END:
+
+
+** This is all you need.
+
+[[https://gatherer.wizards.com/pages/card/Details.aspx?multiverseid=447132]]
+:PROPERTIES:
+:Author: Darkhorse_17
+:Score: 2
+:DateUnix: 1596780974.0
+:DateShort: 2020-Aug-07
+:END:
+
+
+** I'm of the opinion vanishing spells affect matter only. You could vanish conjured chains thrown at you, but not a magical effect such as a stunner.
+:PROPERTIES:
+:Author: streakermaximus
+:Score: 2
+:DateUnix: 1596773335.0
+:DateShort: 2020-Aug-07
+:END:
+
+*** I was mostly thinking the same thing. It's just I have these strange ideas that pop into my head and then I have to let it out and talk about it with someone. Since I couldn't possibly talk about this with anyone at home and I'm the most knowledgeable about Harry Potter in my friend circle, it means I do it here.
+:PROPERTIES:
+:Author: SnobbishWizard
+:Score: 1
+:DateUnix: 1596773541.0
+:DateShort: 2020-Aug-07
+:END:
+
+
+** Lol, instead of Expelliarmus, Harry's go to spell would be Evanesco.
+:PROPERTIES:
+:Author: Togop
+:Score: 1
+:DateUnix: 1596832219.0
+:DateShort: 2020-Aug-08
+:END:

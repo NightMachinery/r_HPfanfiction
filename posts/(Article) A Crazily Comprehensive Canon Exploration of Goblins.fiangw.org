@@ -1,0 +1,483 @@
+#+TITLE: (Article?) A Crazily Comprehensive Canon Exploration of Goblins
+
+* (Article?) A Crazily Comprehensive Canon Exploration of Goblins
+:PROPERTIES:
+:Author: Choice_Caterpillar
+:Score: 242
+:DateUnix: 1584148957.0
+:DateShort: 2020-Mar-14
+:FlairText: Discussion
+:END:
+Hi, I hope you're ready for a Big Wall of Text^{TM}. I've been playing with text analysis and databases in Python lately and the Harry Potter books have served as my primary guinea-pig (guess who has every paragraph of every book stored by book and chapter in a searchable sqlite database and a list of all wordcounts by book :D). Anyways, I was testing it with a deep dive inside fanon and clichés about goblins I have accumulated in my head through years of fanfic reading and thought I might as well write it down, make it pretty and post it somewhere it might interest people. So here is all about goblins:
+
+* Statistics:
+  :PROPERTIES:
+  :CUSTOM_ID: statistics
+  :END:
+/-Occurence of goblin-related words in the books:/
+
+| ^{Word Occurrence} | Book 1 | Book 2 | Book 3 | Book 4 | Book 5 | Book 6 | Book 7 | Total |
+|--------------------+--------+--------+--------+--------+--------+--------+--------+-------|
+| ^{goblin}          | 10     | 3      | 1      | 7      | 16     | 4      | 104    | *145* |
+| ^{goblins}         | 8      | 0      | 0      | 19     | 7      | 1      | 47     | *82*  |
+| ^{goblin's}        | 0      | 0      | 0      | 0      | 3      | 0      | 7      | *10*  |
+| ^{goblins'}        | 0      | 0      | 0      | 0      | 0      | 0      | 1      | *1*   |
+| ^{spokesgoblin}    | 1      | 0      | 0      | 0      | 0      | 0      | 0      | *1*   |
+| ^{goblinlike}      | 0      | 0      | 1      | 0      | 0      | 0      | 0      | *1*   |
+| ^{goblinwork}      | 0      | 0      | 0      | 0      | 0      | 0      | 1      | *1*   |
+| ^{gingotts}        | 28     | 9      | 6      | 2      | 4      | 3      | 34     | *86*  |
+| ^{gringotts'}      | 0      | 0      | 0      | 1      | 0      | 0      | 0      | *1*   |
+| ^{gobbledegook}    | 0      | 0      | 0      | 3      | 0      | 0      | 1      | *4*   |
+
+*Goblins* (as a species) are mentioned about *240* times in the books, which is less prominent then *house-elves* (*~380*) but more then *centaurs* (*~100*) and *werewolves* (*~107*) combined ^{(all estimates are low}).
+
+* Back to the source:
+  :PROPERTIES:
+  :CUSTOM_ID: back-to-the-source
+  :END:
+Let's explore some clichés and commonly accepted fanon facts:
+
+*I - Goblins are vicious and impolite with customers.*
+
+*II - Goblins speak Gobbledegook, which has never been learnt by a wizard. A wizard speaking it would impress them greatly.*
+
+*III - Professor Binns is obsessed with goblin rebellions.*
+
+*IV - Gringotts is the seat of the goblin nation, headed by director Ragnok.*
+
+*V - Gringotts is an international organization and owns dig-sites in Egypt*
+
+*Bonus 1 - Wizard-goblin relations*
+
+*Bonus 2 - Professor Flitwick is a half-goblin*
+
+*I - On Goblin behaviour with customers:*
+
+/Sources:/
+
+#+begin_quote
+  Book 1 chapter 5 paragraph 139: “The goblin was about a head shorter than Harry.[...] He bowed as they walked inside.”
+
+  Book 1 chapter 5 paragraph 149: “A pair of goblins bowed them through the silver doors and they were in a vast marble hall.”
+
+  Book 1 chapter 5 paragraphs 151-155: “You have his key, sir?” “Got it here somewhere,” said Hagrid, and he started emptying his pockets onto the counter, scattering a handful of moldy dog biscuits over the goblins book of numbers. The goblin wrinkled his nose. [...] “Got it,” said Hagrid at last, holding up a tiny golden key. The goblin looked at it closely. “That seems to be in order.”
+
+  Book 1 chapter 5 paragraph 162: Griphook held the door open for them.
+
+  Book 1 chapter 5 paragraphs 178-179: “How often do you check to see if anyone's inside?” Harry asked. “About once every ten years,” said Griphook with a rather nasty grin.
+
+  Book 2 chapter 4 paragraph 145: “You be careful, Arthur,” said Mrs. Weasley sharply as they were bowed into the bank by a goblin at the door. “That family's trouble. Don't go biting off more than you can chew ---”
+#+end_quote
+
+/Synthesis:/
+
+Goblins behave in a formal and polite manner towards customers. They appear strict and prefer to go straight to the point. They are nasty when dealing with intruders.
+
+*II - On Gobbledegook:*
+
+/Sources:/
+
+#+begin_quote
+  Book 4 chapter 7 paragraph 117: “Mr. Crouch?” said Percy, [...] “He speaks over two hundred [Languages]! Mermish and Gobbledegook and Troll ...”
+
+  Book 4 chapter 24 paragraph 98: “Absolute nightmare,” said Bagman [...], noticing Harry watching the goblins too. “Their English isn't too good [...]. This lot keep gabbling in Gobbledegook ... and I only know one word of Gobbledegook. Bladvak. It means ‘pickax.' (sic.) I don't like to use it in case they think I'm threatening them.”
+
+  Book 7 chapter 15 paragraph 111: “[Griphook] added something under his breath in Gobbledegook, and Gornuk laughed.”
+#+end_quote
+
+/Synthesis:/
+
+Some Goblins only speak Gobbledegook. /[Wizards who often deal with goblins know about the language]/. At least one wizard (Crouch Sr.) can speak it well and it doesn't seem to bring him any particular devotion from the Goblins. /Bladvak/ is the only canon Gobbledegook word, it means pickaxe.
+
+*III - On Goblin Rebellions:*
+
+/Sources:/
+
+#+begin_quote
+  Book 1 chapter 15 paragraph 28: “[...] He, Ron, and Hermione kept to themselves, working late into the night, trying to remember the ingredients in complicated potions, learn charms and spells by heart, memorize the dates of magical discoveries and goblin rebellions.”
+
+  Book 3 chapter 5 paragraph 83: “But Hogsmeade's a very interesting place, isn't it?” Hermione pressed on eagerly. “In Sites of Historical Sorcery it says the inn was the headquarters for the 1612 goblin rebellion[...]”
+
+  Book 4 chapter 15 paragraph 41: “Meanwhile Professor Binns, the ghost who taught History of Magic, had them writing weekly essays on the goblin rebellions of the eighteenth century.”
+
+  Book 4 chapter 22 paragraph 51: “Nothing would ever deflect Professor Binns, for example, from plowing on through his notes on goblin rebellions [...]. It was amazing how he could make even bloody and vicious goblin riots sound as boring as Percy's cauldron-bottom report.”
+
+  Book 4 chapter 24 paragraph 135: “Ha, ha, ha,” said Hermione sarcastically. “Goblins don't need protection. Haven't you been listening to what Professor Binns has been telling us about goblin rebellions?”
+
+  Book 4 chapter 31 paragraph 106: “Couldn't remember all the goblin rebels' names, so I invented a few [...] they're all called stuff like Bodrod the Bearded and Urg the Unclean; it wasn't hard.”
+
+  Book 5 chapter 31 paragraph 187: He simply skipped question four: In your opinion, did wand legislation contribute to, or lead to better control of, goblin riots of the eighteenth century?
+#+end_quote
+
+/Synthesis:/
+
+There was at least two episodes of goblin rebellion: one in 1612, one in an unspecified part of the 18th century. They are probably introduced in first year among other things, and studied in detail during fourth year. Goblin rebellions are part of the History of Magic O.W.L.
+
+*IV - On Goblin Nations and Directors:*
+
+/Sources:/
+
+#+begin_quote
+  Book 1 chapter 5 paragraph 177: “If anyone but a Gringotts goblin tried that, they'd be sucked through the door and trapped in there,” said Griphook.
+
+  Book 5 chapter 5 paragraphs 71-75: Mr. Weasley, Bill, and Lupin were having an intense discussion about goblins.[...]
+
+  “I think it depends what they're offered,” said Lupin. “And I'm not talking about gold; if they're offered freedoms we've been denying them for centuries they're going to be tempted. Have you still not had any luck with Ragnok, Bill?”[...]
+
+  “He's feeling pretty anti-wizard at the moment,” said Bill. “He hasn't stopped raging about the Bagman business, he reckons the Ministry did a cover-up, those goblins never got their gold from him, you know ---” [...]
+
+  Book 5 chapter 10 paragraph 148: Cornelius Fudge, the Minister of Magic, denied that he had any plans to take over the running of the Wizarding Bank, Gringotts, when he was elected Minister of Magic five years ago. Fudge has always insisted that he wants nothing more than to “cooperate peacefully” with the guardians of our gold.
+
+  Book 7 chapter 15 paragraph 110: “Similar reasons,” said the higher-voiced goblin. “Gringotts is no longer under the sole control of my race. I recognize no Wizarding master.”
+
+  Book 7 chapter 25 paragraph 42: “Wizarding arrogance again! That sword was Ragnuk the First's, taken from him by Godric Gryffindor! It is a lost treasure, a masterpiece of goblinwork! It belongs with the goblins! The sword is the price of my hire, take it or leave it!”
+#+end_quote
+
+/Synthesis:/
+
+Not all goblins are “Gingotts Goblins”. There is no mention of a goblin nation or a Gringotts director. Gringotts seems to be held and ran in majority by Goblins. Ragnok is a goblin /[possibly employed by Gringotts where Bill would have met him]/, that Bill tried to recruit during the war. Ragnuk the First is a prominent goblin from the 10th century ^{(cf. bk.2 ch.9 para.99 “Hogwarts was founded over a thousand years ago”}).
+
+*V - On Gringotts' international business:*
+
+/Sources:/
+
+#+begin_quote
+  Book 3 chapter 1 paragraph 42: “We will be spending the gold on a summer holiday in Egypt, where our eldest son, Bill, works as a curse breaker for Gringotts Wizarding Bank.”
+
+  Book 3 chapter 1 paragraph 49: It's amazing here in Egypt. Bill's taken us around all the tombs and you wouldn't believe the curses those old Egyptian wizards put on them. Mum wouldn't let Ginny come in the last one. There were all these mutant skeletons in there, of Muggles who'd broken in and grown extra heads and stuff.
+
+  Book 4 chapter 8 paragraph 83: “And here, all the way from Egypt, our referee, acclaimed Chairwizard of the International Association of Quidditch, Hassan Mostafa!”
+
+  Book 5 chapter 29 paragraph 67: Are you seeking a challenging career involving travel, adventure, and substantial, danger-related treasure bonuses? Then consider a position with Gringotts Wizarding Bank, who are currently recruiting Curse-Breakers for thrilling opportunities abroad.
+#+end_quote
+
+/Synthesis:/
+
+Egypt has local wizards /[and probably a local wizarding government]/. Gringotts seems to be in the business of recovering cursed treasures internationally. They may be mandated/dealing with local governments to do it. There is no indication that Gringotts is just the local branch of a more international company.
+
+*Bonus 1 - On relations between wizards and goblins:*
+
+/Sources:/
+
+[see On Goblin Rebellions]
+
+#+begin_quote
+  Book 4 chapter 8 paragraph 23: “[...] and next thing I hear you's up in front of the Department for the Regulation and Control of Magical Creatures, like some common goblin.
+
+  Book 5 chapter 31 paragraph 189-197: Describe the circumstances that led to the Formation of the International Confederation of Wizards[...]. The confederation had met for the first time in France [...] Goblins had tried to attend and been ousted.
+
+  Book 6 chapter 4 paragraph 145: “[...] And there was Dirk Cresswell in the year after her too --- now Head of the Goblin Liaison Office, of course --- another Muggle-born, a very gifted student, and still gives me excellent inside information on the goings- on at Gringotts!”
+
+  Book 7 chapter 25 paragraph 148: “I know goblins,” said Bill. “I've worked for Gringotts ever since I left Hogwarts. As far as there can be friendship between wizards and goblins, I have goblin friends --- or, at least, goblins I know well, and like.”
+
+  Book 7 chapter 25 paragraph 157: “We are talking about a different breed of being,” said Bill. “Dealings between wizards and goblins have been fraught for centuries --- but you'll know all that from History of Magic. There has been fault on both sides, I would never claim that wizards have been innocent. However, there is a belief among some goblins, and those at Gringotts are perhaps most prone to it, that wizards cannot be trusted in matters of gold and treasure, that they have no respect for goblin ownership.”
+#+end_quote
+
+/Synthesis:/
+
+An office in the U.K. Ministry of Magic is dedicated to goblins, its duties are unclear but it seems to deal with Gringotts. At least some goblins are not afforded decent rights and are treated like dangerous creatures /[somewhat similar to werewolves and centaurs]/. Goblins were refused a seat at the International Confederation of Wizards. Wizard-Goblin relations are complicated by centuries of mutual mistrust.
+
+*Bonus 2 - A Goblin-blooded Flitwick:*
+
+/Sources:/
+
+#+begin_quote
+  Book 1 Chapter 8 paragraph 15: “Professor Flitwick, the Charms teacher, was a tiny little wizard who had to stand on a pile of books to see over his desk.”
+
+  Book 3 chapter 10 paragraph 191: “Hear, hear!” squeaked tiny Professor Flitwick, whose feet were dangling a foot from the ground.
+#+end_quote
+
+/Synthesis:/
+
+There is nothing to confirm this possibility in the books. Flitwick was never called a “half-breed” by Umbridge and she never went after him. Naturally, this rumour which has no substance in the books might come from J.K.R. herself. According to fandom.com: “JKR stated that Flitwick has a "dash" of goblin blood.” (cf. [[https://harrypotter.fandom.com/wiki/Filius_Flitwick#cite_note-11]] ). Although there is no source for the statement... apparently just writing shit out counts as a citation on this wiki.
+
+* TL;DR:
+  :PROPERTIES:
+  :CUSTOM_ID: tldr
+  :END:
+Goblins are sentient creatures who have a history of complicated relations with wizards both in the U.K. (at least two major incidents of “rebellion” prior to the 19th century), and internationally (refused at the I.C.W). They have an affinity for blacksmithing, jewellery-making and treasure hoarding. Some of them work at Gringotts, a Wizarding Bank located in London which is owned and operated in majority by goblins. “Gringotts goblins” are formal and polite with customers, and cruel with intruders. Goblins in the U.K. primarily speak Gobbledegook among themselves and English when they wish to address wizards (although some only know the goblin language). Gobbledegook is a language like any other and is spoken (at least partially) by some wizards. There is no evidence of a “goblin nation”, and the hierarchical structure of Gringotts is not detailed in the books. Ragnok is only mentioned once, there is no indication that he is a particularly prominent goblin. Flitwick may or may not have goblin blood in his ancestry. Professor Binns seems to follow a curriculum that introduces multiple subjects in first year (including goblin rebellions) and details those subjects throughout the years. Goblin rebellions are treated in fourth year and are part of the History of Magic O.W.L.
+
+/Yeah, huh that TL;DR was very long... well, here we are, I hope the two people and a poor moderator who are still reading this have found it interesting and/or entertaining. I don't know if I'm ever doing that again, took me about four hours but it was nice experience for writing SQL queries and making data into an article-like... thing. If you have any question about the Book Canon I'd be happy to look something up for you./
+
+
+** This was great. I think the fanon tropes have probably run too far to come back on track with these actual findings, but I find these canon-to-fanon discrepancies fascinating, so I'd love to see more if you think of any!
+:PROPERTIES:
+:Author: bgottfried91
+:Score: 59
+:DateUnix: 1584156128.0
+:DateShort: 2020-Mar-14
+:END:
+
+
+** This is really good analysis and clears up a lot of fanon tropes, but I would revise a couple of points if you extend it to EU materials like the movies and Pottermore.
+
+On the "goblin nation": There's no /direct/ mention of a goblin nation, but several things would certainly imply it--goblin rebellions, having a liaison office, petitioning for a seat at the ICW in the first place. And most of all, Ragnuk was specifically called a king on Pottermore. It may not be official, but it may be like disputed places like Taiwan or Somaliland that are /de facto/ independent.
+
+On Flitwick: Well, I think part of this is because Warwick Davis is shorter than the goblins were described being in the books. It could be that Flitwick is just that short rather than a larger fraction goblin. But the scene in the fifth film where Umbridge holds up a tape measure to him does imply that she thinks of him as a half-breed.
+:PROPERTIES:
+:Author: TheWhiteSquirrel
+:Score: 23
+:DateUnix: 1584186238.0
+:DateShort: 2020-Mar-14
+:END:
+
+*** Yeah, I think it makes sense, it's just a different approach. Here I had the opportunity to really search the Books for answers and I think it's interesting to look at a purely book-oriented canon. The way I see it, it reopens interesting perspectives and possibilities that have sort of been shut by films, JKR and fanon inertia through the years. It makes me think of early fanfictions that were built on much thinner foundations (like just the first few books and no movies) and were seemingly much more free to explore.
+
+That's why I tried to be as open-ended as possible in my synthesis, I think the best stories are built on questions rather then hundreds of wiki articles and whispers of Author-mandated canonical facts and tidbits.
+:PROPERTIES:
+:Author: Choice_Caterpillar
+:Score: 7
+:DateUnix: 1584209790.0
+:DateShort: 2020-Mar-14
+:END:
+
+
+*** I always thought Flitwick might be part House Elf (or other Elf) because of his squeaky voice.
+:PROPERTIES:
+:Author: unicorn_mafia537
+:Score: 4
+:DateUnix: 1584209912.0
+:DateShort: 2020-Mar-14
+:END:
+
+
+** This was very good to read, but I don't think we need to worry about spoilers
+:PROPERTIES:
+:Author: Tsorovar
+:Score: 21
+:DateUnix: 1584166294.0
+:DateShort: 2020-Mar-14
+:END:
+
+*** I can appreciate the spoiler warning, considering how many things have been spoiled for me by people (mainly on youtube via people posting spoilers in their titles/thumbnails or in the comments section). Granted for a topic like this people joining in should be expecting spoilers related to the topic, but I prefer being too cautious over not cautious enough.
+:PROPERTIES:
+:Author: darkpothead
+:Score: 7
+:DateUnix: 1584206146.0
+:DateShort: 2020-Mar-14
+:END:
+
+
+*** Thanks, I was mainly looking for collapsible text as a way to streamline the super-long post but it doesn't work like that on this sub ^^. At least the Quote thing seems to reduce the vertical spacing of the text a little bit (or maybe that's just in my mind) and the Spoiler thing allows someone to easily look for a header without getting distracted by all the text if they are only interested by one thing. Making a Big Wall of Text look pretty on Reddit is a tall order given the few options afforded by the editor xD.
+:PROPERTIES:
+:Author: Choice_Caterpillar
+:Score: 11
+:DateUnix: 1584205993.0
+:DateShort: 2020-Mar-14
+:END:
+
+
+** The moment when you are not sure whether this is the python or some Harry Potter related reddit because its still too early.
+
+But that is really interesting. I'm feeling really inspired right now. Maybe I should look for the depiction of goblins in fanfiction. For some reason my university department has a Harry Potter fanfiction corpus that would be a perfect opportunity to make use of it.
+:PROPERTIES:
+:Author: alicecooperunicorn
+:Score: 15
+:DateUnix: 1584177157.0
+:DateShort: 2020-Mar-14
+:END:
+
+*** Aye, I tried a thing or two with BeautifulSoup on ffnet but that old tired mess of a site isn't very bot-friendly ^^. It would be interesting to do text-analysis stuff with fanfictions. The biggest problem I ran into is the non-uniform styling and syntax among writers, trying to make an universal tokenizer thingy for such a diverse corpus is an absolute nightmare. Just thinking about the separators people use between scenes (like "_-_-_-_-_ *° HPGitGud °* _-_-_-_-_-") chills my soul, and getting rid of A/Ns automatically is also a challenge I'll let other people deal with xD (I don't consider them part of the text since authors often use a different tone to write them and I'm more interested in the actual storytelling kind of stuff).
+:PROPERTIES:
+:Author: Choice_Caterpillar
+:Score: 3
+:DateUnix: 1584206916.0
+:DateShort: 2020-Mar-14
+:END:
+
+
+** Very well thought out and written. Must of taken ages to sort through everything, and then write it all out.
+
+A while ago I went through a pdf of the books to see if anyone's ever referred to as Lord somthing or other (the only person ever referred to as such is Voldemort) and it took a good half hour of just skipping through the text from one instance to the next only looking at each for a few seconds.
+:PROPERTIES:
+:Author: PintoTheBurrito
+:Score: 20
+:DateUnix: 1584164344.0
+:DateShort: 2020-Mar-14
+:END:
+
+*** The word “lord” appears 392 times in the books. And only once in the plural form: “My late lamented lords, ladies, and gentlemen, it is my great sorrow ...” ^{(bk.2 ch.8 para.142}) during Nick's death-day party.
+
+There is 12 instances of the interjection “good lord”.
+
+>144 “dark lord”, >137 “lord Voldemort” , 80 “my lord”, 1 “lord, is it?”, all of them about Voldemort. At this point I still got 29 “lord”s in the wild but they are probably occurrences of “dark lord” and “lord voldemort” that repeat multiple times in the same paragraph... my system is not really fine-tuned to detect those.
+
+Anyway there is no “lord potter”, "lord black" or “lord malfoy” anywhere in the books, and any instances of “heir” apply to “the Heir of Slytherin”.
+
+That little report took me about 5 minutes to make, that's the advantage of searchable databases.
+:PROPERTIES:
+:Author: Choice_Caterpillar
+:Score: 11
+:DateUnix: 1584208965.0
+:DateShort: 2020-Mar-14
+:END:
+
+
+*** I feel like that trope mainly comes from two things. One: the "Ancient and Noble House of Black," which presumeably is just Sirius's family being pompous purebloods but isn't really expanded upon in canon. Two: the Wizengamot (and Wizarding government in general) not being expanded upon. So people take the two and make up a Wizarding government based on Ancient and Noble Houses ruling within the Wizengamot, with the Minister being an elected portion (potentially to balance it out).
+:PROPERTIES:
+:Author: darkpothead
+:Score: 5
+:DateUnix: 1584206340.0
+:DateShort: 2020-Mar-14
+:END:
+
+
+** fantastic work!
+:PROPERTIES:
+:Author: sparksstorm
+:Score: 6
+:DateUnix: 1584161400.0
+:DateShort: 2020-Mar-14
+:END:
+
+
+** That was a very nice read. A+ for effort. I don't think you need to worry about people not reading through major amount of text to glean something good in a fanfiction subreddit. Or maybe that's just me. I can't think of anything to ask you right now but will you be open to a request later on?
+
+Again, thanks for all the work.
+:PROPERTIES:
+:Author: SurbhitSrivastava
+:Score: 6
+:DateUnix: 1584185412.0
+:DateShort: 2020-Mar-14
+:END:
+
+*** Hi, thanks a lot. Yeah since people seem to like it, I might make another one of those in future. I have a few little ideas that could be interesting but nothing too precise for now. I'd be happy to look at requests.
+:PROPERTIES:
+:Author: Choice_Caterpillar
+:Score: 2
+:DateUnix: 1584228800.0
+:DateShort: 2020-Mar-15
+:END:
+
+
+** Ok this is awesome. But I am more interested how have you done this in Python. I have some experiance with it, but would be interested to know.
+:PROPERTIES:
+:Author: call_me_mistress99
+:Score: 6
+:DateUnix: 1584173353.0
+:DateShort: 2020-Mar-14
+:END:
+
+*** I had the books in epubs, extracted the xhtmls, used a bash script to fire html2txt at everything that moved, did a little manual sanity check and removed chapter headers with sed, then made a python script to tokenize every paragraph and of every chapter of every book (mainly cleaning punctuation and splitting by "\n\n"), I put them into tuples and then sent all the juice to a sqlite database with an FTS4 table organized like that: book(int), chapter(int), paragraph(int), body(text).
+
+Now I can use a DB browser to send queries and search the thing (I could do it with python, but a GUIed pre-existing program that does exactly what you want is a terrible thing to waste).
+
+For wordcounts, I did something similar but formated to CSV, then I just cleaned-up with LibreOffice calc, added the Totals column and saved to a nice ods file for perusing (again, I could use python but why ^^).
+:PROPERTIES:
+:Author: Choice_Caterpillar
+:Score: 3
+:DateUnix: 1584210701.0
+:DateShort: 2020-Mar-14
+:END:
+
+**** Ok I haven't understood a thing, but someday I will. Thank you.
+:PROPERTIES:
+:Author: call_me_mistress99
+:Score: 3
+:DateUnix: 1584210994.0
+:DateShort: 2020-Mar-14
+:END:
+
+***** Yeah, that's essentially a lot of little tools and steps along the way to bodge together a thing that interested me and I couldn't find. The two main principle to lookup are "sqlite databases", and "tokenization". The rest is just fluff that details how I did it in particular.
+:PROPERTIES:
+:Author: Choice_Caterpillar
+:Score: 2
+:DateUnix: 1584229395.0
+:DateShort: 2020-Mar-15
+:END:
+
+
+** Am awesome effortpost, I'd give you Reddit gold if I had any, it dispells so much fanon mistaken for canon.
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1584180951.0
+:DateShort: 2020-Mar-14
+:END:
+
+
+** Excellent analysis. I feel like I knew pretty much all of this but it's still interesting reading the facts and references all laid out like that. Ironically the main thing I learned from this is that Ragnok is actually a canon goblin while I've been assuming he was pure fanon...
+:PROPERTIES:
+:Author: The_Fireheart
+:Score: 4
+:DateUnix: 1584197389.0
+:DateShort: 2020-Mar-14
+:END:
+
+
+** Someone give this gold
+:PROPERTIES:
+:Author: aslightnerd
+:Score: 7
+:DateUnix: 1584164297.0
+:DateShort: 2020-Mar-14
+:END:
+
+
+** This was a very interesting read.
+:PROPERTIES:
+:Author: rosemarjoram
+:Score: 3
+:DateUnix: 1584185782.0
+:DateShort: 2020-Mar-14
+:END:
+
+
+** The title should be "Fantastic Goblins and Where to Find Them".
+
+Very well done and researched! It must have taken hours to do this!
+
+I really loved that you were able to separate fanon from canon with cold, hard facts.
+
+The idea that there are Goblins who aren't in gringotts is an excellent premise for fanfic prompt.
+
+Or a Goblin Slayer crossover 😁😁😁😁.
+:PROPERTIES:
+:Author: innominate_anonymous
+:Score: 3
+:DateUnix: 1584191117.0
+:DateShort: 2020-Mar-14
+:END:
+
+
+** This is really awesome work! Maybe future fanfic writers can use it as an easy canon reference.
+
+Did you find the sqlite database somewhere or did you create it yourself? Would you be open to sharing it? I would love to dig through it to investigate other topics.
+:PROPERTIES:
+:Author: ellemandora
+:Score: 2
+:DateUnix: 1584198975.0
+:DateShort: 2020-Mar-14
+:END:
+
+*** Thanks, I made the db myself with python (I explained how in another answer). I'd be happy to send it to you.
+:PROPERTIES:
+:Author: Choice_Caterpillar
+:Score: 3
+:DateUnix: 1584211139.0
+:DateShort: 2020-Mar-14
+:END:
+
+**** chuck it on github so everyone can use it
+:PROPERTIES:
+:Author: habitableattic
+:Score: 1
+:DateUnix: 1584274755.0
+:DateShort: 2020-Mar-15
+:END:
+
+
+** Here's the source for Flitwick's goblin ancestry: [[http://web.archive.org/web/20070724184245/http://www.jkrowling.com/textonly/en/faq_view.cfm?id=95]]
+:PROPERTIES:
+:Author: William_Robinson
+:Score: 2
+:DateUnix: 1585633801.0
+:DateShort: 2020-Mar-31
+:END:
+
+*** Thank you for unearthing that, it's interesting to see how far the movie/fanon strayed from her original vision. Then again, it's her fault/decision most of her characters aren't more flushed out in text.
+:PROPERTIES:
+:Author: Choice_Caterpillar
+:Score: 1
+:DateUnix: 1585663240.0
+:DateShort: 2020-Mar-31
+:END:

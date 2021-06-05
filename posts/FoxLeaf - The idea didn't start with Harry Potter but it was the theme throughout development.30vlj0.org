@@ -1,0 +1,99 @@
+#+TITLE: FoxLeaf - The idea didn't start with Harry Potter but it was the theme throughout development
+
+* FoxLeaf - The idea didn't start with Harry Potter but it was the theme throughout development
+:PROPERTIES:
+:Score: 10
+:DateUnix: 1427765902.0
+:DateShort: 2015-Mar-31
+:FlairText: Misc
+:END:
+[deleted]
+
+
+** This is your typical "chicken-and-egg" problem. Nobody will use this site because there is no content, and there never will be content because nobody uses this site.
+
+In order to break this stalemate you would need to inject it with a starting amount of content yourself. In order for this to actually work. Now don't get me wrong, I didn't say "draw it yourself", but you must get in contact with actual artists (like on deviantart) and convince them to post all their stuff on there. Realistically speaking, we are talking about 10.000-100.000 images of every major fandom before this would be worth the time.
+
+Other problems.
+
+- The frontpage is a giant mess. Why the hell would anyone be interested in a random assortment of random pictures from all kinds of random series??
+- Some "drawings" are just scenes from the movies people copied on there. Not only can this not be the purpose of your site, this actually counts as copyright infringement. You will need a system in place to find and remove these types of images.
+- Also: copyright infringement in general. Do you know what is or isn't legal regarding just posting scenes from books? And I mean, did you actually discuss this with a lawyer? Because you do not want to face certain authors in court over this. make sure your bases are covered.
+- A lot of books added are completely empty. Why? What's the point of adding an empty book?
+
+Just a side-note really, but I noticed there are no ads on this site. While that is nice for me, I must wonder how you intend to pay for server upkeep in the long run? is this just your pet-project that will die out as soon as you get bored with it?
+:PROPERTIES:
+:Author: Frix
+:Score: 9
+:DateUnix: 1427800173.0
+:DateShort: 2015-Mar-31
+:END:
+
+*** Excellent feedback.
+:PROPERTIES:
+:Author: thinkabouttheirony
+:Score: 2
+:DateUnix: 1427810494.0
+:DateShort: 2015-Mar-31
+:END:
+
+
+** u/deleted:
+#+begin_quote
+  can add scene and characters to gain leaves
+#+end_quote
+
+Can you please expand a bit more on this? I'm not sure what this means. Do you want us to write scenes or illustrate them?
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1427766174.0
+:DateShort: 2015-Mar-31
+:END:
+
+
+** Critique Time =D
+
+First, at least on mobile, when you go to books and there are those categories starting with 'fantasy', 'thriller', etc, the books when you scroll down change, but unless you scroll down past the (very large) categories, there's no indication anything on the page changed. I was expecting a new page full of books to load, so I was confused for a minute. Maybe fade out the inactive categories? And/or make them narrower bands, so they take up less scroll-space? ((And the fact that the category pictures are different sizes and don't always fit into their boxes really bothers me. Crop is a thing. Greyspace just makes it look unprofessional, I mean they aren't even centred))
+
+Secondly, I think books should be organised by series (for example, I scrolled down until I found Harry Potter, but it was "Harry Potter and the Chamber of Secrets". Wouldn't it make more sense to have all the art and scenes for all the Harry Potter books (and Game of Thrones books, etc) in one place? It would make it feel much less messy. ((Speaking of messy, am I the only one craving equal-size tiles for the books, that don't vary by how much text is under the cover picture? I mean, I get that the layout is rather Pinterest-style but I'd feel so much less OCD if all the book-tiles were the same size.))
+
+Also, you have a picture of a book above "Ron Weasley" in aforementioned Chamber of Secrets category. Doesn't really go with the stated goal of the website to let people imagine what the characters look like.
+
+Thirdly, I can't figure out the order that the books under each category are in? Maybe you should allow visitors browsing through the books to sort them, by title, author, popularity on the site (aka amount of content), release date.... Etc.
+
+On the plus side, the theme looks fantastic =D and I think it's a great idea, although [[/u/Frix]] is right that you need artists. PMing active artists on DeviantArt to see if they'd consider crossposting their work/linking to your site might be a good place to start, if you're serious about it. Also if you're serious about it, Search Engine Optimisation is a thing =)
+:PROPERTIES:
+:Author: CrucioCup
+:Score: 2
+:DateUnix: 1427820852.0
+:DateShort: 2015-Mar-31
+:END:
+
+
+** Okay, I need to say I am not a lawyer.
+
+There are some massive problems with this as others are writing, but I want to focus on a few that really bothered me. The creation of accounts for artists and others without their permission. You have pulled their usernames automatically and link to their DA accounts, which gives credit, but you are also reposting in a way that is not exactly fair use under US copyright law. Again, IANAL, and yet I can tell from the terms of use of the site, that this is not okay:
+
+#+begin_quote
+  your account is not named in a manner that misleads others into thinking that you are another person or company; and By submitting Content to FoxLeaf for inclusion on the Website, you grant FoxLeaf a world-wide, royalty-free, and non-exclusive license to reproduce, modify, adapt and publish the Content solely for the purpose of displaying, distributing and promoting
+#+end_quote
+
+And this part seems antithetical to what you are proposing this site be used for:
+
+#+begin_quote
+  As FoxLeaf asks others to respect its intellectual property rights, it respects the intellectual property rights of others.
+#+end_quote
+
+It's a great idea in theory, but the way you go about it practice is where the problems begin. There is a site that does this already for HP, which I think is an excellent example of what it seems you are trying to do. The [[http://hpcompanion.com/][Harry Potter Companion]]
+
+Try doing something similar, without making it seem like the content creators are making accounts on your site.
+
+Also, payment to keep the site running was mentioned. As soon as you start using ads or accepting payment on a site that has content you do not own or do not have permission to post, you are entering into a whole other world of legal trouble.
+
+Best of luck with your venture! The site is smoothly designed, but a big mess to navigate and it is hard to know what I'm looking at.
+:PROPERTIES:
+:Author: alephnumber
+:Score: 1
+:DateUnix: 1427853389.0
+:DateShort: 2015-Apr-01
+:END:

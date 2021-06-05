@@ -1,0 +1,192 @@
+#+TITLE: I'm experiencing problems with the current page design...black text on a grey background isn't very good, white text on a white background is worse.
+
+* I'm experiencing problems with the current page design...black text on a grey background isn't very good, white text on a white background is worse.
+:PROPERTIES:
+:Author: Avaday_Daydream
+:Score: 33
+:DateUnix: 1481413178.0
+:DateShort: 2016-Dec-11
+:FlairText: Viewing Issue
+:END:
+Is it just me, or is anyone else having problems with this too? I can't find any settings that would make the text color more readable...
+
+--------------
+
+To clarify exactly what problem I'm experiencing, this subreddit's background is dark grey.
+
+On the main [[/r/HPfanfiction][r/HPfanfiction]] page, any thread that I haven't clicked a link to yet, is in black; black on top of dark grey can be difficult to read.
+
+** 
+   :PROPERTIES:
+   :CUSTOM_ID: section
+   :END:
+When I click to open a thread on the same page, a hover-thingy comes up that shows the thread; however, this hover-thingy is in white; since the text is also in white, this makes it impossible to read the thread's posts on the hover-thing.
+
+** 
+   :PROPERTIES:
+   :CUSTOM_ID: section-1
+   :END:
+Opening a thread on a different page poses no problems to me; a clicked-on title goes light grey, which is easier to read on dark grey, and white text on a dark grey background is also very readable.
+
+
+** Install RES, untick use subreddit style on the right hand side of the page. I dont know what's actually causing your problem, but that will probably make it at least readable.
+:PROPERTIES:
+:Author: TheHeciot
+:Score: 13
+:DateUnix: 1481413621.0
+:DateShort: 2016-Dec-11
+:END:
+
+
+** Yea just piggybacking on the OP post... I am not having any issues, but to be honest I have been hating this new style compared to the old one.
+:PROPERTIES:
+:Author: Noexit007
+:Score: 9
+:DateUnix: 1481500927.0
+:DateShort: 2016-Dec-12
+:END:
+
+*** I hate it too, I can see everything but it hurts my eyes. I haven't been checking this sub as often because of it.
+:PROPERTIES:
+:Author: papercuts187
+:Score: 2
+:DateUnix: 1481554400.0
+:DateShort: 2016-Dec-12
+:END:
+
+
+** I also am not enthusiastic about the new style. The old one was great.
+:PROPERTIES:
+:Author: sitman
+:Score: 6
+:DateUnix: 1481470088.0
+:DateShort: 2016-Dec-11
+:END:
+
+
+** I'm currently using chrome with an extension called Stylish that lets me overwrite some of the CSS code. So I've inverted the background and text colors.
+:PROPERTIES:
+:Author: ChaoQueen
+:Score: 6
+:DateUnix: 1481416866.0
+:DateShort: 2016-Dec-11
+:END:
+
+
+** I turned off individual subreddit styling after the update. Maybe you could try that.
+:PROPERTIES:
+:Author: Ch1pp
+:Score: 4
+:DateUnix: 1481448758.0
+:DateShort: 2016-Dec-11
+:END:
+
+
+** I turn off the subreddit style here
+:PROPERTIES:
+:Author: beetnemesis
+:Score: 4
+:DateUnix: 1481477014.0
+:DateShort: 2016-Dec-11
+:END:
+
+
+** I don't know if the css was changed since you posted this but the text is white for me so I'm not sure what you're experiencing. Sorry.
+:PROPERTIES:
+:Author: capitolsara
+:Score: 3
+:DateUnix: 1481419056.0
+:DateShort: 2016-Dec-11
+:END:
+
+*** Well, they say a picture is worth a thousand words, so...
+
+[[http://i.imgur.com/MtQ1AEx.png][I'm experiencing this.]]
+:PROPERTIES:
+:Author: Avaday_Daydream
+:Score: 4
+:DateUnix: 1481433516.0
+:DateShort: 2016-Dec-11
+:END:
+
+**** Woah man! I don't know what's up with that!! Did you try opening it in a different browser?
+:PROPERTIES:
+:Author: capitolsara
+:Score: 3
+:DateUnix: 1481434532.0
+:DateShort: 2016-Dec-11
+:END:
+
+***** Try? Yes. Internet Explorer absolutely refuses to start up without crashing over and over until I close it again.
+:PROPERTIES:
+:Author: Avaday_Daydream
+:Score: 2
+:DateUnix: 1481435685.0
+:DateShort: 2016-Dec-11
+:END:
+
+****** Maybe grab firefox or some other browser.
+
+I usually have three on my pc at a time.
+:PROPERTIES:
+:Author: Blinkdawg15
+:Score: 2
+:DateUnix: 1481441081.0
+:DateShort: 2016-Dec-11
+:END:
+
+
+**** I don't know how or why you're getting that, because it's certainly not a feature of our stylesheet - or Reddit itself. Reddit posts shouldn't be floating like that.
+
+It's probably some third party app interfering.
+
+Your options are to a) remove whatever third-party plugin is causing that, or b) install [[https://redditenhancementsuite.com/][RES]] and uncheck "subreddit style" on the sidebar
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1481449397.0
+:DateShort: 2016-Dec-11
+:END:
+
+***** Well, it's not a third-party app...I don't have any extensions installed except for AdBlock and Reddit's whitelisted...unless Google Docs is doing something.
+
+** 
+   :PROPERTIES:
+   :CUSTOM_ID: section
+   :END:
+And I don't have beta testing selected in my Reddit options either...I do have the 'allow subreddits to show me custom themes' option on, but I kind of want to keep that, I wouldn't be able to tell the subreddits apart otherwise.
+:PROPERTIES:
+:Author: Avaday_Daydream
+:Score: 2
+:DateUnix: 1481455914.0
+:DateShort: 2016-Dec-11
+:END:
+
+****** Really strange. Try opening up Reddit in Edge or something?
+
+It would be stupid if Reddit is AB testing style changes on subreddits with /significantly different CSS/.
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1481456617.0
+:DateShort: 2016-Dec-11
+:END:
+
+
+**** That's really weird. Looks like it's opening self posts in some kind of frame. Maybe some new feature reddit might be A/B testing? Try right clicking on links and opening in new tab.
+:PROPERTIES:
+:Author: k5josh
+:Score: 1
+:DateUnix: 1481438522.0
+:DateShort: 2016-Dec-11
+:END:
+
+***** I do that most of the time anyway, this hover-up thing only happens when I left-click a post.
+
+When I middle-click to open in a new tab, the theme doesn't pose any issues.
+:PROPERTIES:
+:Author: Avaday_Daydream
+:Score: 1
+:DateUnix: 1481456058.0
+:DateShort: 2016-Dec-11
+:END:

@@ -1,0 +1,76 @@
+#+TITLE: PSA: Bot is down.
+
+* PSA: Bot is down.
+:PROPERTIES:
+:Author: tusing
+:Score: 29
+:DateUnix: 1455421430.0
+:DateShort: 2016-Feb-14
+:FlairText: Meta
+:END:
+Hey, all,
+
+Seems like the bot is down. It always seems to time out when accessing fanfiction.net.
+
+Not sure why.
+
+I'll be working on this.
+
+*(Technical) Progress:* I could use a few ideas. I'm not exactly sure what's causing the timeouts. Basically, since this morning, all requests to =fanfiction.net= seemed to have timed out (using =urllib.urlopen= in Python). I thought we might have been IP-banned, so I changed the user-agent and launched a new EC2 instance with a new IP to see what was up. Timeouts still happened. I'll be testing on different devices to see if there's something wrong with accessing Fanfiction.net from Amazon's servers in specific.
+
+A few weeks ago I spent a few days setting up [[http://imgur.com/a/9BLXb][a full Ubuntu environment on my phone]], just for an issue like this, because I don't have a linux env on any of my computers right now, and my university doesn't give us the =sudo= needed to install essential packages on our own CS account servers. It seems like it's paying off... *for now, the bot seems to be working again.*
+
+But it's a temporary solution.
+
+
+** [[http://imgur.com/VNPLPYx][I didn't understand any of that]], but I know [[http://imgur.com/aD7vDTc][you will figure it out]]. In the mean time, people might just [[http://imgur.com/ySj1xIV][have to recommend the old fashion way]], with website links. A reminder, if you use [square brackets] around your text follow directly by the (link) in round brackets, it will have the link as the text.
+:PROPERTIES:
+:Author: TheBlueMenace
+:Score: 5
+:DateUnix: 1455441829.0
+:DateShort: 2016-Feb-14
+:END:
+
+
+** I'm happy to test anything you need
+:PROPERTIES:
+:Author: SnapDraco
+:Score: 1
+:DateUnix: 1455455060.0
+:DateShort: 2016-Feb-14
+:END:
+
+
+** Have you considered a $5 digital ocean server. Or maybe an Amazon ec2 in another region?
+:PROPERTIES:
+:Author: notwhereyouare
+:Score: 1
+:DateUnix: 1455498468.0
+:DateShort: 2016-Feb-15
+:END:
+
+*** I've had bad experiences with Digital Ocean in the past. I'll look into getting an EC2 in another region.
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1455504598.0
+:DateShort: 2016-Feb-15
+:END:
+
+**** Worth a guess. There's also Google cloud compute if you want to give that a try. All around the same price range
+:PROPERTIES:
+:Author: notwhereyouare
+:Score: 1
+:DateUnix: 1455507495.0
+:DateShort: 2016-Feb-15
+:END:
+
+***** Not free, though. I have 1 year of EC2 free + $100 student credit. Maybe when I run out.
+
+I'll look into it, though!
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1455507597.0
+:DateShort: 2016-Feb-15
+:END:

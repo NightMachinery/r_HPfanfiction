@@ -1,0 +1,80 @@
+#+TITLE: PSA: Bot Update! Private Message Support!
+
+* PSA: Bot Update! Private Message Support!
+:PROPERTIES:
+:Author: tusing
+:Score: 21
+:DateUnix: 1453541494.0
+:DateShort: 2016-Jan-23
+:FlairText: Meta
+:END:
+You can now call the bot via private messages! Just message the bot with your request!
+
+This should be useful for those subs that don't have the bot. Request a couple fics, copy the beautifully formatted Markdown source, and post wherever you want.
+
+It's also just a cool, nifty little feature I've been wanting to implement for some time.
+
+To prevent abuse, though, I'll be limiting how many fics users can request. Don't worry, though, the counter will reset every day.
+
+Have fun!
+
+
+** AWESOME! This will be a hell of a lot easier than picking a random thread to drop a linkffn() in.
+
+Also the markdown/source button is only on [[http://redditenhancementsuite.com/][RES]] which everyone should have anyway.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1453541901.0
+:DateShort: 2016-Jan-23
+:END:
+
+*** I am now an FFBot!
+
+[[http://www.fanfiction.net/s/3401052/1/][*/A Black Comedy/*]] by [[https://www.fanfiction.net/u/649528/nonjon][/nonjon/]]
+
+#+begin_quote
+  COMPLETE. Two years after defeating Voldemort, Harry falls into an alternate dimension with his godfather. Together, they embark on a new life filled with drunken debauchery, thievery, and generally antagonizing all their old family, friends, and enemies.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 31 *|* /Words/: 246,320 *|* /Reviews/: 5,525 *|* /Favs/: 10,802 *|* /Follows/: 3,314 *|* /Updated/: 4/7/2008 *|* /Published/: 2/18/2007 *|* /Status/: Complete *|* /id/: 3401052 *|* /Language/: English *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/download.php?id=3401052&filetype=epub][EPUB]] or [[http://www.p0ody-files.com/ff_to_ebook/download.php?id=3401052&filetype=mobi][MOBI]]}
+
+--------------
+
+what's up with the link formatting though? doesn't doing it that way add a ton of extraneous characters?
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1453542292.0
+:DateShort: 2016-Jan-23
+:END:
+
+**** Without the link formatting, managing Markdown formatting in code becomes nightmarish. The current method of formatting allows a greater degree of modularity and makes the code infinitely more readable.
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1453542626.0
+:DateShort: 2016-Jan-23
+:END:
+
+***** I figured that's what it would be. I can imagine with all the special characters that making sure they come out as text instead of code is pain.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1453542828.0
+:DateShort: 2016-Jan-23
+:END:
+
+****** Yeah. If there's too many characters in a reply, the bot will split the message into multiple replies, so it all works out in the end.
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1453542896.0
+:DateShort: 2016-Jan-23
+:END:
+
+
+**** No, you're just part bot. Cyborg, they call 'em. But thanks for doin' that, I wasn't entirely sure what the update actually did.
+:PROPERTIES:
+:Author: bloopenstein
+:Score: 1
+:DateUnix: 1453577647.0
+:DateShort: 2016-Jan-23
+:END:

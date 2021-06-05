@@ -1,0 +1,1394 @@
+#+TITLE: Without resorting to the "it's a children's book/YA novel" argument, how do you explain Dumbledore's characterisation and actions?
+
+* Without resorting to the "it's a children's book/YA novel" argument, how do you explain Dumbledore's characterisation and actions?
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 19
+:DateUnix: 1546703495.0
+:DateShort: 2019-Jan-05
+:FlairText: Discussion
+:END:
+What is the best "in-universe" explanation for Dumbledore acting the way he does? For example, not intervening with the Basilisk, the "10 dark years", not using his power (be it political or magical) to save Sirius himself and so on.
+
+Edit: Since people miss the point about Sirius, I'm talking about telling Hermione to use her time turner instead of actually doing something at that moment. There was no way Fudge could have forced him. Worst case raise the wards, expel the dementors and demand a public trial. If Black was guilty the Ministry has nothing to be afraid of after all.
+
+
+** u/Taure:
+#+begin_quote
+  For example, not intervening with the Basilisk
+#+end_quote
+
+Dumbledore did not know that it was a basilisk. Hermione was only able to figure it out because she had a vital clue which Dumbledore lacked: Harry, a parselmouth, was hearing voices in the walls. Without that clue, a basilisk is really the last thing you would think of. For a start, until CoS it was not known that basilisks can petrify people if they look at the basilisk's eyes indirectly. So anyone suggesting "maybe it's a basilisk" would immediately be told that this hypothesis does not fit the evidence: if it were a basilisk, the victims would be dead.
+
+#+begin_quote
+  10 dark years
+#+end_quote
+
+The explanation Dumbledore himself gives in OotP is the best one.
+
+Dumbledore honestly believed, on the basis of his knowledge of what magic is capable of and his knowledge of the political situation, that Harry was all but guaranteed to die in literally every situation other than being accepted willingly by the Dursleys.
+
+He then made the decision between a Harry who is happily raised by a family like the Weasleys, then dies at age 6; or a Harry who is unhappy but lives to adulthood. He chose the latter.
+
+Since readers have very little knowledge of what magic is actually capable of, and very little knowledge of the wizarding political situation 1981-1991, we don't really have any basis from which we can say Dumbledore was incorrect in his belief that Harry would die under any other protective magic. We have no idea how many attempts were made on Harry's life between 1981 and 1991, nor do we know much about other magical protections and the possible ways they can be undermined. Given our state of ignorance, we can only really trust that Dumbledore (whose knowledge of magic is extensive) is correct in his evaluation.
+
+On that basis, the only real room for disagreement is to say that you think it would be better to be happy and die young than to be miserable and survive i.e. that Dumbledore made the wrong value judgement.
+
+The best argument against the above is that Dumbledore could still have "checked in" on Harry during his childhood. But: firstly, Dumbledore did exactly that, via Mrs Figg; secondly, the Dursleys taking Harry willingly was the key to the magic protecting him, and it seems unlikely that they would keep him willingly if it came with wizards constantly showing up and telling them what to do. Most likely result under those conditions is that they refuse to keep Harry and you're back to "dead Harry under any other magical protection" scenario.
+
+#+begin_quote
+  not using his power (be it political or magical) to save Sirius himself
+#+end_quote
+
+Dumbledore honestly believed that Sirius was guilty, to the point of giving evidence against Sirius to the Ministry. Remus, one of Sirius' closest friends, also thought he was guilty. All the evidence (which included multiple eye-witness accounts as well as the rather damning evidence of being the only living wizard at the scene of a magical crime, with motive, means and opportunity) was against Sirius.
+
+People make a big fuss about how Sirius didn't get a trial, but this underestimates the extent to which Peter Pettigrew stitched him up. Even if Sirius had received a trial in 1981, he would almost certainly have been convicted. After all, we know from Dumbledore giving evidence that the Ministry /did/ perform an investigation, even if they did not hold a hearing. Only the production of an alive Peter Pettigrew would be sufficient to prove his innocence, I think.
+
+Dumbledore would obviously not use his power, political or magical, to help someone he believes to be a high ranking Death Eater.
+:PROPERTIES:
+:Author: Taure
+:Score: 53
+:DateUnix: 1546706214.0
+:DateShort: 2019-Jan-05
+:END:
+
+*** Generally speaking, you're spot-on. Couple remarks, though:
+
+#+begin_quote
+  Dumbledore did not know that it was a basilisk. Hermione was only able to figure it out because she had a vital clue which Dumbledore lacked: Harry, a Parselmouth, was hearing voices in the walls.
+#+end_quote
+
+This overlooks that we later learn Dumbledore understands Parseltongue, a fact which makes this look much more plot-hole-y and thus requires a further bit of explanation. Mine would be that Dumbledore understood Parseltongue only with significant difficulty, such that if he applied his mind to it he could interpret the hisses, but he wouldn't even recognize muffled Parseltongue as such unless he was paying close attention. And he had no particular reason to pay attention to a hissing noise coming from the pipes, which is not exactly a weird occurrence in a century-old plumbing system.
+
+#+begin_quote
+  Most likely result under those conditions is that they refuse to keep Harry and you're back to "dead Harry under any other magical protection" scenario.
+#+end_quote
+
+I don't think the Dursleys really thought they had a choice. The best, most illuminating explanation I've seen of their behavior is that, being so very distrustful of the Wizarding World, they believe that they're caught in an impossible situation where one side of the wizards will try to murder them if they take in Harry, and the /other/ side will try to murder them if they /don't/. Hence their increasingly absurd-looking jumpiness around wizards, and the total lack of love with which they treat Harry --- not just out of general prejudice against wizards, but because from their point of view he's a ticking time bomb increasing their chances of death by spell every minute he exists in their vicinity.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 7
+:DateUnix: 1546707315.0
+:DateShort: 2019-Jan-05
+:END:
+
+**** u/Taure:
+#+begin_quote
+  This overlooks that we later learn Dumbledore understands Parseltongue, a fact which makes this look much more plot-hole-y and thus requires a further bit of explanation. Mine would be that Dumbledore understood Parseltongue only with significant difficulty, such that if he applied his mind to it he could interpret the hisses, but he wouldn't even recognize muffled Parseltongue as such unless he was paying close attention. And he had no particular reason to pay attention to a hissing noise coming from the pipes, which is not exactly a weird occurrence in a century-old plumbing system.
+#+end_quote
+
+Or Dumbledore was just never around at the time that the basilisk was nearby. It's a rather huge coincidence that Harry was, after all. And Dumbledore wanders the castle a lot less than Harry does.
+
+#+begin_quote
+  I don't think the Dursleys really thought they had a choice. The best, most illuminating explanation I've seen of their behavior is that, being so very distrustful of the Wizarding World, they believe that they're caught in an impossible situation where one side of the wizards will try to murder them if they take in Harry, and the other side will try to murder them if they don't. Hence their increasingly absurd-looking jumpiness around wizards, and the total lack of love with which they treat Harry --- not just out of general prejudice against wizards, but because from their point of view he's a ticking time bomb increasing their chances of death by spell every minute he exists in their vicinity.
+#+end_quote
+
+I think they do know they can chuck Harry out: in OotP, they intend to do exactly that an only a letter from Dumbledore ("Remember my last, Petunia") stops them. Per OotP:
+
+#+begin_quote
+  “While you can still call home the place where your mother's blood dwells, there you cannot be touched or harmed by Voldemort. He shed her blood, but it lives on in you and her sister. Her blood became your refuge. You need return there only once a year, but as long as you can still call it home, while you are there he cannot hurt you. Your aunt knows this. I explained what I had done in the letter I left, with you, on her doorstep. She knows that allowing you houseroom may well have kept you alive for the past fifteen years.”
+
+  “Wait,” said Harry. “Wait a moment.”
+
+  He sat up straighter in his chair, staring at Dumbledore.
+
+  “You sent that Howler. You told her to remember - it was your voice --”
+
+  “I thought,” said Dumbledore, inclining his head slightly, “that she might need reminding of the pact she had sealed by taking you. I suspected the Dementor attack might have awoken her to the dangers of having you as a surrogate son.”
+
+  “It did,” said Harry quietly. “Well - my uncle more than her. He wanted to chuck me out, but after the Howler came she - she said I had to stay”
+#+end_quote
+:PROPERTIES:
+:Author: Taure
+:Score: 13
+:DateUnix: 1546707669.0
+:DateShort: 2019-Jan-05
+:END:
+
+***** u/Achille-Talon:
+#+begin_quote
+  Or Dumbledore was just never around at the time that the basilisk was nearby. It's a rather huge coincidence that Harry was, after all. And Dumbledore wanders the castle a lot less than Harry does.
+#+end_quote
+
+That's fair enough, but I got the impression that the Basilisk was spending her every waking hour wandering through the pipes and bemoaning her lack of proper, non-Petrified, to-shreds-tearable food.
+
+#+begin_quote
+  I think they do know they can chuck Harry out: in /OotP/, they intend to do exactly that an only a letter from Dumbledore ("Remember my last, Petunia") stops them. Per /OotP/:
+#+end_quote
+
+Well, it's more like they temporarily /thought/ they could chuck him out /as a solution/ to the danger he poses to them. But the entire point of this scene is that Dumbledore reminds her why this would be a terrible idea. Dumbledore hopes to appeal to her kindness, but it's very easy to interpret the sequence of events as "the Dementor attacks reminds the Dursleys of how dangerous the /evil/ wizards are, makes them want to kick Harry out of their life and go get killed elsewhere; Dumbledore's letter reminds them that there's a very powerful wizard on the other side who will consider it a betrayal if they kick Harry out, and they're cowed back into the status-quo of keeping him as the least-bad option".
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 5
+:DateUnix: 1546709512.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+**** Dumbledore understands parseltongue? I'm pretty sure he's only seen doing that in Half-Blood Prince, specifically only in the Memories of someone who could understand parseltongue (Morfin I think?). I assumed he could only understand it in the memory because Morfin could.
+:PROPERTIES:
+:Author: hailcapital
+:Score: 2
+:DateUnix: 1546722091.0
+:DateShort: 2019-Jan-06
+:END:
+
+***** No, that's not how it works. Dumbledore actually learned to understand Parseltongue (though he can't speak it to any useful degree), either as part of his being a general-purpose magical scholar, or because he thought it would help with the Horcrux Hunt (I prefer the former, as it seems unlikely that even a man of his intelligence could just pick up Parseltongue in a few years).
+
+Besides, the memory isn't Morfin's, is it? It's Bob Ogden's.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 2
+:DateUnix: 1546722579.0
+:DateShort: 2019-Jan-06
+:END:
+
+
+**** He also only demonstrates understanding Parseltongue in Half-Blood Prince, four years after the Basilisk.
+:PROPERTIES:
+:Author: Jahoan
+:Score: 1
+:DateUnix: 1546719067.0
+:DateShort: 2019-Jan-05
+:END:
+
+***** Yeah, but I feel like four years wouldn't have been enough time to learn a language as alien as Parseltongue, even for a man of his intelligence. Especially when he had so much else on his plate during that time period.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 1
+:DateUnix: 1546722638.0
+:DateShort: 2019-Jan-06
+:END:
+
+
+***** That gives him a reasonable amount of time to learn it to help with the Horcrux Hunt. A scholar as well versed in obscure and powerful magics as Dumbledore was could probably identify the Diary as a horcrux given sufficient study- and considering that Voldemort managed to sneak into the school via possession twice in two years, it makes sense for him to deeply study both methods of infiltration to determine how to prevent it a third time. Given how well known Voldemort's parsletongue ability was, it makes sense for him to study it- and four years is ample to learn how to translate another language, even if you aren't fluent.
+:PROPERTIES:
+:Author: 1-1-19MemeBrigade
+:Score: 1
+:DateUnix: 1546771538.0
+:DateShort: 2019-Jan-06
+:END:
+
+
+*** u/Deathcrow:
+#+begin_quote
+  Dumbledore did not know that it was a basilisk. Hermione was only able to figure it out because she had a vital clue which Dumbledore lacked:
+#+end_quote
+
+I have a somewhat curious question: How many magical phenomena and/or magical creatures that could exist within Hogwarts do you propose exist in the HP world? If it is less than 10, how would Dumbledore not figure out that it is a Basilisk? Like write them all on a list: "Oh, that one is a huge Snake *and* Slytherin's chamber of secrets is involved, I wonder what it could be?"
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 3
+:DateUnix: 1546714283.0
+:DateShort: 2019-Jan-05
+:END:
+
+**** Like I mentioned above, if you made a list of magical creatures that cause petrification, a basilisk would not be on it until after the CoS mystery was resolved.
+:PROPERTIES:
+:Author: Taure
+:Score: 14
+:DateUnix: 1546714351.0
+:DateShort: 2019-Jan-05
+:END:
+
+***** Okay, that makes sense. So you're saying the fact that Basilisks can petrify wasn't known? A Basilisk never petrified anyone or it wasn't written down in around ~1000 years of magical history or so? So it must be a super rare event right?
+
+How do you reconcile this with the fact that it happens about 50 times in a single Hogwarts semester?
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 1
+:DateUnix: 1546714859.0
+:DateShort: 2019-Jan-05
+:END:
+
+****** u/Taure:
+#+begin_quote
+  Okay, that makes sense. So you're saying the fact that Basilisks can petrify wasn't known? A Basilisk never petrified anyone or it wasn't written down in around ~1000 years of magical history or so? So it must be a super rare event right?
+#+end_quote
+
+I think you're forgetting how rare basilisks are. The Hogwarts one is, by all accounts, the first one to be seen in centuries. Fantastic Beasts specifically note that they're so rare because no breeder can breed one without dying, unless they are a parselmouth. So basically only the Slytherin family line can breed them.
+
+#+begin_quote
+  How do you reconcile this with the fact that it happens about 50 times in a single Hogwarts semester?
+#+end_quote
+
+This argument is surely circular. The answer to the COS mystery cannot be considered a clue for its own resolution.
+:PROPERTIES:
+:Author: Taure
+:Score: 13
+:DateUnix: 1546715917.0
+:DateShort: 2019-Jan-05
+:END:
+
+******* Still, dead roosters, the Snake guy is involved, Dumbledore knows exactly who the last snake guy was, Hagrid's statement about the spiders and the fact that Dumbledore was there the last time when a student actually died. Hermione figured it out and she was 13.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 3
+:DateUnix: 1546717487.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+******* u/Deathcrow:
+#+begin_quote
+  I think you're forgetting how rare basilisks are.
+#+end_quote
+
+The Basilisk sounds like a remarkibly simple to breed and well known species for such a rare thing.
+
+#+begin_quote
+  Of the many fearsome beasts and monsters that roam our land, there is none more curious or more deadly than the Basilisk, known also as the King of Serpents. This snake, which may reach gigantic size and live many hundreds of years, is born from a chicken's egg, hatched beneath a toad. Its methods of killing are most wondrous, for aside from its deadly and venomous fangs, the Basilisk has a murderous stare, and all who are fixed with the beam of its eye shall suffer instant death. Spiders flee before the Basilisk, for it is their mortal enemy, and the Basilisk flees only from the crowing of the rooster, which is fatal to it.
+#+end_quote
+
+They even "roamed" the land. And somehow someone found out that a rooster's crow is deadly to them, which sounds like a remarkable discovery even if I assume they were widely bread and studied.
+
+This ties neatly into our other discussion though: Of course JKR would later claim that they are ridiculously rare and no one studied them very deeply - even though there's a breeding recipe - because otherwise everyone seems like a big fat idiot ;)
+:PROPERTIES:
+:Author: Deathcrow
+:Score: -1
+:DateUnix: 1546716395.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+**** Hogwarts professors are /idiots/. The basilisk's first victim lives in the girl's bathroom, and in FIFTY YEARS, no one thought to ask her what happened! The clues were all there; Myrtle saw big yellow eyes and her body seized up, and she even knew which sink the monster came from!
+:PROPERTIES:
+:Author: SarraTasarien
+:Score: 3
+:DateUnix: 1547574178.0
+:DateShort: 2019-Jan-15
+:END:
+
+***** Bringing up Myrtle is a great point actually...
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 2
+:DateUnix: 1547574324.0
+:DateShort: 2019-Jan-15
+:END:
+
+
+*** u/Hellstrike:
+#+begin_quote
+  People make a big fuss about how Sirius didn't get a trial, but this underestimates the extent to which Peter Pettigrew stitched him up.
+#+end_quote
+
+I'm talking about 1994, not 81. He was Chief Warlock and the defeater of Grindelwald, but let's task two teenagers with saving that innocent man.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 2
+:DateUnix: 1546711442.0
+:DateShort: 2019-Jan-05
+:END:
+
+**** u/Taure:
+#+begin_quote
+  Edit: Since people miss the point about Sirius, I'm talking about telling Hermione to use her time turner instead of actually doing something at that moment. There was no way Fudge could have forced him. Worst case raise the wards, expel the dementors and demand a public trial. If Black was guilty the Ministry has nothing to be afraid of after all.
+#+end_quote
+
+I'm not sure that starting a civil war is the optimum response to a miscarriage of justice. He'd basically be everything independent!Harry accuses him of if he did that.
+
+In any event, your plan would likely fail unless they've managed to capture Pettigrew in the interim (which we know they didn't). Covertly rescuing Sirius is a far greater guarantee of Sirius' safety than giving him a trial, where the evidence remains heavily against him.
+:PROPERTIES:
+:Author: Taure
+:Score: 12
+:DateUnix: 1546711779.0
+:DateShort: 2019-Jan-05
+:END:
+
+***** Dumbledore was able to stun the force sent to arrest him with ease. He would not be harming anyone, and we are talking about a man who rationalised child abuse with keeping the child safe when he could have put Harry under a Fidelius with him as secret keeper. Forcing a Mexican Standoff wouldn't be too far off from that.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: -3
+:DateUnix: 1546712076.0
+:DateShort: 2019-Jan-05
+:END:
+
+****** If Dumbledore declares himself a law to himself, essentially setting himself up as a parallel authority to the Ministry, it's not going to end peacefully. People are going to pick sides, it's going to escalate, and soon wizarding Britain will be at war with itself. Just in time for Voldemort to come along and mop up the mess. The process you're describing is essentially Dumbledore staging a coup and (trying to) take a country over by force.
+:PROPERTIES:
+:Author: Taure
+:Score: 14
+:DateUnix: 1546712290.0
+:DateShort: 2019-Jan-05
+:END:
+
+******* Well, only if you ignore the obvious out of giving Sirius a trial. Fudge can dump the fault on Crouch and Bagnold, so people will ask why he does not accept the condition of the trial. Especially if Dumbledore offers his resignation should Sirius actually be convicted.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 3
+:DateUnix: 1546713007.0
+:DateShort: 2019-Jan-05
+:END:
+
+******** But, again, all the evidence is against Sirius so giving him a trial just puts him back in Azkaban, legitimately this time. Not exactly a win for the good guys.
+:PROPERTIES:
+:Author: Taure
+:Score: 11
+:DateUnix: 1546713105.0
+:DateShort: 2019-Jan-05
+:END:
+
+********* There is no evidence. A clean-cut finger without splattered bodyparts is not corresponding with any form of blasting curse and they could simply check Sirius wand (it has after all not been used since then and should still be somewhere with the DMLE). Veriatsserum is a thing (and it was infallible by book canon, the reliability issues are a retcon which came a year after the last book).
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 7
+:DateUnix: 1546713334.0
+:DateShort: 2019-Jan-05
+:END:
+
+********** There's a ton of evidence. The classic test is "means, motive and opportunity". This is not a legal test, but rather is the way to frame the evidence to see if you have a convincing case.
+
+*Motive:*
+
+Dumbledore has given evidence that Sirius was the Potters' Secret Keeper and that he must have betrayed them to Voldemort, making him either a Death Eater or a sympathiser.
+
+Dumbledore can try to recant that evidence now but this will not hold up well under cross-examination. His original evidence for Sirius being the Secret Keeper was that Lily and James told him so. His reason for recanting his evidence is that Harry Potter told him that Peter Pettigrew was really the Secret Keeper, and that he has seen Pettigrew alive. This is easily dismissed by the possibility that Harry has been confunded. Direct comments from Lily and James about their intentions are far more persuasive than the word of a potentially confunded kid.
+
+Furthermore, multiple eye witnesses attest to having heard Pettigrew accusing Sirius of betraying the Potters before Sirius apparently blew him up.
+
+Law enforcement personnel can testify to Sirius laughing when they found him at the scene.
+
+*Means:*
+
+Sirius was a talented wizard, and definitely considered by all to be able to best Peter Pettigrew in a duel.
+
+*Opportunity:*
+
+Sirius was the only living wizard at the crime scene. Multiple eye witnesses can state that the confrontation between Pettigrew and Sirius involved only the two of them, which eliminates the possibility of a third wizard who escaped before law enforcement arrived.
+
+*Now what can Sirius say in his defence?*
+
+His wand does not show the casting of a curse. But Sirius is known to be a powerful and skilled wizard, which opens up the possibility of wandless magic. The lack of a curse from his wand is therefore not conclusive.
+
+Something something blood splatter. You just made this up; we have no idea what kind of blood splatter is characteristic of blasting curses. It's entirely possible that blasting curses completely disintegrate people on impact, especially at close range, especially when they are powerful enough to blow up an entire street.
+
+He can tell his story of the Secret Keeper switch, but why would anyone believe him? No one else can testify to Peter Pettigrew being an animagus other than Lupin, who is a werewolf so probably considered untrustworthy. Further, by telling the story Sirius has to admit to a crime (indicative of bad character) and admit to being able to cast complex wandless magic.
+
+As to veritaserum, it is not "infallible" in canon. Its fallibility is not addressed in canon, though the fact that it is not used in the multiple trials we witness (not to mention the fact that it is not used to get information from convicts like Karkaroff) should indicate to the reader that there is a problem with its reliability. JKR's later explanation is not a retcon, it clarifies something previously unknown in a way that is completely compatible with, and explains well, the pre-existing canon.
+:PROPERTIES:
+:Author: Taure
+:Score: 17
+:DateUnix: 1546715642.0
+:DateShort: 2019-Jan-05
+:END:
+
+*********** I don't think a Confundus Charm would negate Pensieve evidence. Further, I don't think Confundus Charm wouldn't be detectable, at least by specialists. Further, dismissing testimonies as "they must be confunded" isn't something I see any semi-competent law-enforcement officer or judge doing.
+
+Finally, There's evidence that contradicts Sirius's motive: Despite having ample opportunities, he didn't kill Harry. His story is consistent with his actions - it explains why he went after Ron's bed and later Ron, not Harry. Why the rat disappeared - multiple witnesses can confirm that.
+
+So, you have at the very least reasonable doubt about his guilt.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 1
+:DateUnix: 1546737601.0
+:DateShort: 2019-Jan-06
+:END:
+
+
+*** There's literally no chance Dumbledore didn't know Harry was a parseltongue since he revealed that to the whole school during the dueling club and was then ostracized and hated for it.
+
+Edit: the thing about Sirius, he instructed 2 kids to go back in time and break multiple laws to save Sirius and Buckbeak instead of saying "Hey minister let's pour some supposedly infallible truth serum down his throat and ask him questions." And that's not even taking into account that he's the head of the judicial body in the wizarding world, that's just a common sense suggestion. I get that Dumbledore bashing and all that is pure fanon but it would've been simple to just act like he wanted answers from Sirius about any random thing.
+
+At the end of the day, the reason it happened this way is for narrative reasons only. There's no Dumbledore plot to make Harry a weapon or steal his gold or make the Weasleys rich. It was written like this because having your main character have adventures is way more interesting than having the old grandfather throw his weight around and fix things.
+:PROPERTIES:
+:Author: AskMeAboutKtizo
+:Score: 3
+:DateUnix: 1546707500.0
+:DateShort: 2019-Jan-05
+:END:
+
+**** I never said that Dumbledore doesn't know Harry is a parselmouth. I said Dumbledore doesn't know that Harry is hearing voices in the walls, which is required (in combination with the knowledge that he is a parselmouth) to give you a clue about the nature of Slytherin's monster.
+
+Edit for your edit:
+
+#+begin_quote
+  let's pour some supposedly infallible truth serum down his throat
+#+end_quote
+
+It's not close to infallible:
+
+#+begin_quote
+  Veritaserum plays a big part in finding out the truth from Mad-Eye Moody in book four. Why then is it not used for example in the trials mentioned in the same book? It would be much easier in solving problems like whether Sirius Black was guilty or not?
+
+  Veritaserum works best upon the unsuspecting, the vulnerable and those insufficiently skilled (in one way or another) to protect themselves against it. Barty Crouch had been attacked before the potion was given to him and was still very groggy, otherwise he could have employed a range of measures against the Potion - he might have sealed his own throat and faked a declaration of innocence, transformed the Potion into something else before it touched his lips, or employed Occlumency against its effects. In other words, just like every other kind of magic within the books, Veritaserum is not infallible. As some wizards can prevent themselves being affected, and others cannot, it is an unfair and unreliable tool to use at a trial.
+
+  Sirius might have volunteered to take the potion had he been given the chance, but he was never offered it. Mr. Crouch senior, power mad and increasingly unjust in the way he was treating suspects, threw him into Azkaban on the (admittedly rather convincing) testimony of many eyewitnesses. The sad fact is that even if Sirius had told the truth under the influence of the Potion, Mr. Crouch could still have insisted that he was using trickery to render himself immune to it.
+#+end_quote
+
+[[https://web.archive.org/web/20090315050539/http://www.jkrowling.com:80/textonly/en/faq_view.cfm?id=105]]
+
+This was written in like 2008, if not earlier, so it's not exactly a new piece of canon.
+:PROPERTIES:
+:Author: Taure
+:Score: 17
+:DateUnix: 1546707898.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+**** u/rohan62442:
+#+begin_quote
+  the thing about Sirius, he instructed 2 kids to go back in time and break multiple laws to save Sirius and Buckbeak
+#+end_quote
+
+He also could've borrowed the Time Turner and gone back himself instead of sending two teenagers, if he believed there was no legal avenue for Sirius.
+:PROPERTIES:
+:Author: rohan62442
+:Score: 5
+:DateUnix: 1546710134.0
+:DateShort: 2019-Jan-05
+:END:
+
+***** Or openly challenged the Ministry. He could have easily taken the whole Auror force.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 2
+:DateUnix: 1546711552.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+*** He thinks Sirius is guilty, but even the guilty deserve a trial. It's one of Dumbledore's biggest flaws imo, that he gets Snape, a marked death eater off, but doesn't intervene to even get a trial for Sirius. Dumbledore is said to be the head of the Wizagmot; he's a legal authority and he was severely neglectful.
+
+TLDR: It's like a state's attorney general knows a terrible crime has been committed, knows that the D.A. in the region and the chief of police have thrown the suspect in jail and have done nothing for ten plus years to get him a trial, and still twiddles his thumbs. IRL that A.G. would be arrested.
+
+Peter and the Dursleys can be explained: he was semi-neglectful, though it was for the best for Harry, and was in an odd political position that may have done more harm than good. But no person, especially someone as powerful as Dumbledore, can be hurt advocating for a trial which is legal.
+:PROPERTIES:
+:Author: Altair_L
+:Score: 2
+:DateUnix: 1546719143.0
+:DateShort: 2019-Jan-05
+:END:
+
+**** Well, firstly we should note that Dumbledore was not the head of the legal proceedings against the Death Eaters, which occurred in the Council of Magical Law, not the Wizengamot, and which were headed by Barty Crouch Sr.
+
+Secondly, we don't know whether or not Sirius has a legal right to a trial. I suspect JKR's real life inspiration for Sirius' detention was internment in Northern Ireland, where the British authorities legally imprisoned IRA suspects indefinitely without trial.
+
+There isn't actually any suggestion in canon that Sirius was /illegally/ deprived of a trial; it sounds like Barty Crouch Sr was wielding draconian powers granted to him legally at the height of the war.
+:PROPERTIES:
+:Author: Taure
+:Score: 14
+:DateUnix: 1546719373.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+*** u/avittamboy:
+#+begin_quote
+  Dumbledore honestly believed that Sirius was guilty, to the point of giving evidence against Sirius to the Ministry. Remus, one of Sirius' closest friends, also thought he was guilty. All the evidence (which included multiple eye-witness accounts as well as the rather damning evidence of being the only living wizard at the scene of a magical crime, with motive, means and opportunity) was against Sirius.
+
+  People make a big fuss about how Sirius didn't get a trial, but this underestimates the extent to which Peter Pettigrew stitched him up. Even if Sirius had received a trial in 1981, he would almost certainly have been convicted. After all, we know from Dumbledore giving evidence that the Ministry did perform an investigation, even if they did not hold a hearing. Only the production of an alive Peter Pettigrew would be sufficient to prove his innocence, I think.
+
+  Dumbledore would obviously not use his power, political or magical, to help someone he believes to be a high ranking Death Eater.
+#+end_quote
+
+OP isn't talking about 1981 here, although Sirius, someone who fought alongside Albus for the better part of three years, is denied a trial while other Death Eaters get one. Sure, you can say that Barty Crouch Sr was officiating the Council of Magical Law, but Albus had enough power to push a trial if need be, if only for personal reasons. From someone who preaches second chances, forgiveness and love every now and then, the fact that he didn't even hear Sirius out is quite OOC. Hagrid, someone who Albus trusts, would have surely told him about what happened when Sirius met Hagrid and Harry in the ruins of the cottage at Godric's Hollow, and how Sirius gave Hagrid his bike. Let's be honest, a wizard who's supposedly Voldemort's right hand would have no trouble disposing of an inept half-giant like Hagrid, no matter how likeable the man is. Albus doesn't question this at all, and just gives evidence against Sirius anyway - Albus is either being incredibly OOC, or he knew/suspected foul play, but threw Sirius under the bus anyway.
+
+But that isn't what OP is talking about - he's referring to Albus' decision to task two thirteen year olds with rescuing Sirius, knowing that they were to face a horde of Dementors, instead of taking the time turner himself and doing it himself. When he tasks Harry and Hermione with this mission, Snape has already given his version of events, so he knows of the Dementor swarm that attacks Harry and Sirius, but sends two thirteen year olds on a dangerous quest in spite of all the risks.
+
+#+begin_quote
+  Dumbledore honestly believed, on the basis of his knowledge of what magic is capable of and his knowledge of the political situation, that Harry was all but guaranteed to die in literally every situation other than being accepted willingly by the Dursleys.
+#+end_quote
+
+The blood protections are incredibly flimsy, as we see from canon itself. They do not stop the Death Eaters from waiting right outside the wards waiting for Harry and co to leave in their retarded escape, and they do not stop Dementors from attacking Harry with impunity in Book 5.
+
+Going by what we see, it would be child's play for the Death Eaters to wait until an eight year old Harry goes to primary school and attack him along the way, or kidnap him. Since Umbridge knew the location of Harry's residence to send Dementors there, we know that the upper powers in the Ministry do have knowledge of Harry's location - someone like Lucius Malfoy could easily get the information, either through subtle means, or through just using the Imperius Curse. There would be absolutely nothing to stop Malfoy or any of the Voldemort's sympathisers from doing this.
+
+If you say that the Ministry only knew of Harry's address after the first warning for underage magic, that's still three summers worth of opportunities for dark wizards to strike - book 2, book 3 and book 4. It's only in book 5 that Harry gets a protective detail for him, and until then, he's a sitting duck.
+
+#+begin_quote
+  But: firstly, Dumbledore did exactly that, via Mrs Figg
+#+end_quote
+
+In Snape's Occlumency lessons, we see a 6-8 year old Harry running up a tree in the Dursley backyard to get away from being mauled by Ripper, one of Marge's dogs. The Dursleys all laugh watching the spectacle. The books describe the people of Privet Drive as being excellent gossips, so it isn't a particularly large leap to assume that word of this spread around the neighbourhood and eventually got to Figg.
+
+So, either Dumbledore knew about the fact that Harry was nearly mauled by dogs and did nothing about it, or Figg didn't report. In any case, the saviour getting mauled to death by a muggle's dog would have made for a nice headline on the newspaper. Besides, the first letter from the school states his complete address, cupboard and all. Albus knew of this - and kept sending hundreds of letters.
+
+In your other post, you said that the Fidelius is not infallible. That is true - but just because it failed once because of falsely placed trust doesn't mean that it would fail again. He's an old man - he could have retired from the school, or taken a long leave of absence, to take of Harry if there really was no better option. It's not as though the being the Headmaster of the school requires him to actually teach anyone (he says he loves teaching, but actually hasn't taught for years...weird).
+
+#+begin_quote
+  Hermione was only able to figure it out because she had a vital clue which Dumbledore lacked: Harry, a parselmouth, was hearing voices in the walls. Without that clue, a basilisk is really the last thing you would think of
+#+end_quote
+
+This is nitpicking on my part, because its clearly a children's story. Hermione, a 13 year old, figured it out. And you know, she had the piece of paper where she makes her deduction in her petrified hand all the time she was in the hospital wing, and nobody notices that.
+
+Even then, Fawkes still manages to find entry into the chamber with the Sorting Hat (of all things), but doesn't bring Albus along for the ride. Even though Albus and Fawkes don't appear to have a mental connection where they can speak with their minds, they do enough things in Book 5 that induce the notion that there is some form of connection - Fawkes knows what Albus wants and usually acts accordingly. But there is no Albus hanging off of Fawkes' tail when Fawkes and the Sorting Hat make their way into the Chamber.
+:PROPERTIES:
+:Author: avittamboy
+:Score: 1
+:DateUnix: 1546745352.0
+:DateShort: 2019-Jan-06
+:END:
+
+
+*** u/FFCheck:
+#+begin_quote
+  Dumbledore did not know that it was a basilisk. Hermione was only able to figure it out because she had a vital clue which Dumbledore lacked: Harry, a parselmouth, was hearing voices in the walls. Without that clue, a basilisk is really the last thing you would think of. For a start, until CoS it was not known that basilisks can petrify people if they look at the basilisk's eyes indirectly.
+#+end_quote
+
+Dumbledore should have known it was a basilisk. Genius wizard who knew Riddle was a parselmouth, suspected Riddle was behind the opening of CoS and Myrtle's death should have been a big hint if Riddle was his prime suspect.
+
+#+begin_quote
+  Dumbledore would obviously not use his power, political or magical, to help someone he believes to be a high ranking Death Eater
+#+end_quote
+
+Once knowing that Sirius is innocent, it's difficult to believe that Dumbledore doesn't have the clout to force a trial that was never given. I think having 4 other people testify to Pettigrew's exaggerated death would in theory be enough to create doubt so long as it isn't the cliche adults are stupid/corrupt government.
+:PROPERTIES:
+:Author: FFCheck
+:Score: 1
+:DateUnix: 1546715464.0
+:DateShort: 2019-Jan-05
+:END:
+
+**** u/Taure:
+#+begin_quote
+  Dumbledore should have known it was a basilisk. Genius wizard who knew Riddle was a parselmouth, suspected Riddle was behind the opening of CoS and Myrtle's death should have been a big hint if Riddle was his prime suspect.
+#+end_quote
+
+Firstly, Myrtle's death is completely compatible with alternative means of murder, such as the Killing Curse.
+
+Secondly, the fact that Myrtle died whereas in CoS people were being petrified would be a complicating factor which makes any unified explanation difficult to reach; it doesn't help you at all.
+
+#+begin_quote
+  I think having 4 other people testify to Pettigrew's exaggerated death would in theory be enough to create doubt so long as it isn't the cliche adults are stupid/corrupt government.
+#+end_quote
+
+Four people, one of whom is a werewolf and former friend of the accused, three of whom are children and believed to be confounded by the accused. Plus Dumbledore as a fifth witness, who has all his information from the previous four.
+
+Arrayed against them you have the eyewitness statements from the Muggles who witnessed the Sirius-Pettigrew confrontation, and the statements of the DMLE personnel who arrived on the scene to find Sirius there laughing.
+
+The balance of witness evidence is definitely in favour of the prosecution, I think.
+:PROPERTIES:
+:Author: Taure
+:Score: 12
+:DateUnix: 1546717076.0
+:DateShort: 2019-Jan-05
+:END:
+
+***** u/Starfox5:
+#+begin_quote
+  Firstly, Myrtle's death is completely compatible with alternative means of murder, such as the Killing Curse.
+#+end_quote
+
+She mentions seeing "great big yellow eyes" and then "my whole body sort of seized up and then I was floating". That's not entirely compatible with the famous green killing curse spell - but at the very least, it shows creature involvement.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 3
+:DateUnix: 1546737755.0
+:DateShort: 2019-Jan-06
+:END:
+
+
+***** u/SarraTasarien:
+#+begin_quote
+  Firstly, Myrtle's death is completely compatible with alternative means of murder, such as the Killing Curse.
+#+end_quote
+
+That just shows that Hogwarts staff and the Ministry are both incompetent. You have a murder victim coming back to life as a ghost, and you don't ask her who killed her? Even if she didn't see Tom, she knew where the monster had come from, and heard the Heir of Slytherin communicating with it in a funny language. And the most obvious piece of evidence--she saw its eyes and died instantly.
+:PROPERTIES:
+:Author: SarraTasarien
+:Score: 1
+:DateUnix: 1547574858.0
+:DateShort: 2019-Jan-15
+:END:
+
+
+***** u/FFCheck:
+#+begin_quote
+  Firstly, Myrtle's death is completely compatible with alternative means of murder, such as the Killing Curse. Secondly, the fact that Myrtle died whereas in CoS people were being petrified would be a complicating factor which makes any unified explanation difficult to reach; it doesn't help you at all.
+#+end_quote
+
+Sure, but Dumbledore should have asked Myrtle about it knowing she is the ghost that had died to Riddle's pet. That coupled with knowing Riddle was a parselmouth, suspecting Riddle behind CoS opening, and CoS was Slytherin's hidden chamber, who was also a parselmouth. It is very difficult to wave away Dumbledore not knowing it was a basilisk. A creature was also what was suspected to be behind Myrtle's death, that's why they blamed Hagrid. It is extremely difficult to explain why Dumbledore didn't know it was a basilisk without just saying it's a children's book.
+
+#+begin_quote
+  The balance of witness evidence is definitely in favour of the prosecution, I think.
+#+end_quote
+
+Not exactly. So the evidence against Sirius would be: Muggle witness statements, Pettigrew's finger but no body, and believing Sirius was secret keeper. You have a werewolf, and three wizarding children. The only belief that they were confounded was Professor Snape's statement, which you can completely discredit in court because of his known hatred of Sirius, Remus, Harry and Gryffindors. So you have werewolf and three wizarding statements, who have every reason to hate Sirius, against Muggles who only saw Sirius and Pettigrew confrontation in which the confrontation isn't an issue. Pettigrew's death is the issue, which again can be explained passable enough for a not guilty finding. So witness statements should in theory weigh in favor of Sirius.
+
+Sirius being secret keeper, again only evidence was Dumbledore, and it can again be explained away and would be a very sound a tactical explanation which would make sense, Sirius being the bait. Dumbledore would also retract his statement as it was his belief that Sirius was secret keeper, no other real evidence that we know of. If Dumbledore cast the charm, it could just as easily be explained that there was a switch given the talent that James/Lily/Sirius were shown to have. If Dumbledore did not cast the charm, well then it shouldn't be allowed in when there is stronger evidence against it and the person giving the statement is willing to say otherwise. The "evidence" that Sirius blew up the street, we would need to know more about, but it doesn't appear any work was done as it would be obvious that Sirius did not cast the charm/curse/hex whatever that blew up the street as we know Pettigrew did that.
+
+There is no proof that Sirius was a Death Eater except being compounded with the other stuff, which can be explained pretty reasonably, and so that charge wouldn't stick either.
+
+This is all assuming innocent until proven guilty, in which there is not enough to prove Sirius is guilty beyond a reasonable doubt. This plus Harry and Dumbledore's clout at the time which should be fairly substantial and you more likely then not get Sirius off.
+:PROPERTIES:
+:Author: FFCheck
+:Score: 0
+:DateUnix: 1546718358.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+** u/UndeadBBQ:
+#+begin_quote
+  not intervening with the Basilisk
+#+end_quote
+
+Not having the gift of parseltongue is a big one here, I feel. If all you hear in a very old, very quirky castle is a bit of hissing, you wouldn't pay it much attention. Then a basilisk? Nobody died, let alone dozens and dozens of students as you'd expect with this kind of XXXXX creature slithering around. Theories including creatures and spells which do have the main effect of turning things to stone would actually be more reasonable.
+
+#+begin_quote
+  the "10 dark years"
+#+end_quote
+
+This one has me a bit baffled as well, but lets see. I guess for why Harry was there in the first place, theres an easy explanation. The blood protection thing was real and therefore it was the safest place for Harry. For why he never checked, himself or by (competent) agent, maybe thats because he wanted to keep the Ministry away and so had only a Squib stationed there? /Maybe/? It feels flimsy, but thats the best I can think of from the top of my head.
+
+#+begin_quote
+  not using his power (be it political or magical) to save Sirius
+#+end_quote
+
+I feel like this is more on the Marauders than it is on Dumbledore. As far as Dumbledore was informed, Sirius was the secret keeper. Now why would Lily and James lie to him about something like this? Its ridiculous. So when their doom unfolded, and Sirius' fate was decided by a war tribunal, Dumbledore had as much evidence as he needed. Sirius apparently killing Peter, blowing a gas main and being a psychotic wreck were all nice and well, but the damning fact of his secret keeping was what made the case open and close for Dumbledore. In the end the Marauder's shitty intel distribution led to Sirius being wrongfully convicted and Peter running free.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 4
+:DateUnix: 1546707364.0
+:DateShort: 2019-Jan-05
+:END:
+
+*** u/Taure:
+#+begin_quote
+  blowing a gas main
+#+end_quote
+
+Remember this was just the explanation given to the Muggles. In actual fact the spell caused the explosion.
+:PROPERTIES:
+:Author: Taure
+:Score: 8
+:DateUnix: 1546708255.0
+:DateShort: 2019-Jan-05
+:END:
+
+**** Right, but in this case still... details. The core issue was Dumbledore missing that one crucial piece of information.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 2
+:DateUnix: 1546708731.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+*** u/Hellstrike:
+#+begin_quote
+  I feel like this is more on the Marauders than it is on Dumbledore. As far as Dumbledore was informed, Sirius was the secret keeper.
+#+end_quote
+
+That explains 81, but not 94.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 2
+:DateUnix: 1546711597.0
+:DateShort: 2019-Jan-05
+:END:
+
+**** 1994 is more "Rowling needed it to happen", but if an author needed an in-world explanation I would say that given Sirius' reputation, Dumbledore may actually not have had enough clout to just make that happen. Sirius had, after all, a "kill on sight" on him. Plus, the gathering of evidence was almost 100% dependent on having Pettigrew. Given that it isn't used 100% of the time, we can assume Veritaserum is fallible. So the word of Sirius and Harry alone may not have been enough to safe Sirius. They needed Pettigrew. So it may have just been a matter of playing it safe, rather than trusting the Wizengamot to make a decision based on one mass murderer's word, flimsily backed by a 14 year old's statement.
+
+And after the fourth year, Dumbledore definitely no longer had the clout for it.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 3
+:DateUnix: 1546712578.0
+:DateShort: 2019-Jan-05
+:END:
+
+***** u/Hellstrike:
+#+begin_quote
+  And after the fourth year, Dumbledore definitely no longer had the clout for it.
+#+end_quote
+
+He could force the issue with his unmatched magical abilities, and a civil war would be rather far off because everyone would ask why Fudge was not agreeing to a trial. But Dumbledore didn't even try to talk to the Minister. He could pull a Gandalf and simply intimidate the Minister into agreeing to a trial, or trick him into it by claiming it would make him look better if everything was done "by the book". And any blame can be placed on Bagnold and Crouch.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 1
+:DateUnix: 1546713157.0
+:DateShort: 2019-Jan-05
+:END:
+
+****** I would wager a guess and say if Dumbledore tries to strongarm a legitimate Minister with his magical ability, he would have the ICW on his nuts, let alone the DMLE. And people wouldn't ask why Fudge doesn't offer a trial for an already convicted mass murderer, they would wonder what the hell got into Dumbledore that he would use magical force and in doing so threaten violence against an elected Minister so that Sirius - I eat kittens for breakfast - Black can get a trial for something he has already been convicted for. And thats not just because the Daily Prophet would slander away, but also because its probably not exactly considered good behavior within civil magical society to use your extensive powers to just demand and do as you like.
+
+Dementors at Hogwarts was pretty extreme, but technically the Minister did work "by the book". */Convicted/* Death Eater is on the loose. Capture or Kill is the appropriate response.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 8
+:DateUnix: 1546714833.0
+:DateShort: 2019-Jan-05
+:END:
+
+******* u/Hellstrike:
+#+begin_quote
+  ICW on his nuts
+#+end_quote
+
+He is also head of the ICW.
+
+#+begin_quote
+  get a trial for something he has already been convicted for.
+#+end_quote
+
+Except that he has not been convicted, which is the whole point of the arc. There was never a trial, and people would have remembered the trial, as they do Bagman's or the Crouch/Lestrange one.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 1
+:DateUnix: 1546715184.0
+:DateShort: 2019-Jan-05
+:END:
+
+******** u/Taure:
+#+begin_quote
+  as they do Bagman's or the Crouch/Lestrange one.
+#+end_quote
+
+There actually isn't so much evidence of that. We witness the verdict (Bagman) and sentencing (Crouch/Lestrange). We don't know what kind of hearing preceded those events.
+
+In both hearings Crouch makes the statement "We have heard the evidence against you", referencing the previous stage, but it is not clear if the accused (or their representative) has the opportunity to make representations during that stage. It may have been purely inquisitorial proceedings where the DMLE presents evidence to the Council of Magical Law (which has a distinctly different procedure to the Wizengamot) Certainly in the Crouch/Lestrange judgment it sounds like this is the first time the accused have been in the court room.
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1546717548.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+******** Just because you are the head of something doesn't mean you can ignore its rules. And - daring theory here - I will assume that intimidation of elected officials by superior firepower is not cool in any of their books.
+
+He has been convicted in his absence. Yes, this wasn't a trial by the standards of modern democratic, peaceful societies, but a war tribunal. They did the trials that they thought would bring good publicity and just threw the rest of the trash into Azkaban because they were Death Eaters - End of discussion. So he was convicted, jut not by a peacetime jury or judge. Doesn't mean his conviction is obsolete when he breaks out of Azkaban. All that means for the public and the DMLE is that a Death Eater is on the loose.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 6
+:DateUnix: 1546716892.0
+:DateShort: 2019-Jan-05
+:END:
+
+********* u/Hellstrike:
+#+begin_quote
+  Just because you are the head of something doesn't mean you can ignore its rules.
+#+end_quote
+
+Except that Dumbledore constantly does that, just look at Voldemorts first attempt or the Basilisk (which is the magical version of a WMD) set loose in a school FULL OF CHILDREN. But let's give Harry and Ron some points, that should do the trick.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: -2
+:DateUnix: 1546717263.0
+:DateShort: 2019-Jan-05
+:END:
+
+********** And we're back at square one of this post. Cool.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 3
+:DateUnix: 1546717826.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+**** Doesn't even explain it in 81. They have ways to find the truth. It is not even hard. The fact that sirus didn't get properly questioned, nobody visited, checked his wand or anything is crazy.
+:PROPERTIES:
+:Author: NaoSouONight
+:Score: 1
+:DateUnix: 1546718404.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+*** I think he never wanted to see Harry's miserable existence for himself, knowing he'd want to withdraw him from the vital blood protections.
+:PROPERTIES:
+:Author: More_Cortisol
+:Score: 2
+:DateUnix: 1546707805.0
+:DateShort: 2019-Jan-05
+:END:
+
+**** /Meh/
+
+I always did dislike the "I don't wanna see something, so I won't have to think about it" excuse... to pretty much anything. If you already know the consequence of you seeing something is going to be you feeling empathy, your lack of reaction, or thought about it afterwards is equally moral or amoral as if you had seen it.
+
+I'm pretty sure Dumbledore knew that Harry was neither wanted there, nor treated well, but as Taure already pointed out, chances are he truly did believe that it was literally the only option available.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 3
+:DateUnix: 1546708062.0
+:DateShort: 2019-Jan-05
+:END:
+
+***** Yep. I like it; it makes him more human, to make a selfish choice and save himself unnecessary anguish.
+:PROPERTIES:
+:Author: More_Cortisol
+:Score: 2
+:DateUnix: 1546708804.0
+:DateShort: 2019-Jan-05
+:END:
+
+****** But he is a tiny bit too intelligent for "I don't see it, so it doesn't exist". He knows. He feels that pain. He accepts it because apparently its the only way.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 3
+:DateUnix: 1546710031.0
+:DateShort: 2019-Jan-05
+:END:
+
+******* Yes, he knows, of course. He's shielding himself from seeing the toll on Harry firsthand because it would sharpen his own pain, knowing he can do no better by Harry than he's done already. That's all I meant to say
+:PROPERTIES:
+:Author: More_Cortisol
+:Score: 5
+:DateUnix: 1546710684.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+*** I get not finding the chamber. It is protected, okay. But the moment the snake leaves the chamber to slither around, you'd think the headmaster could know. Hogwarts is hailed as this incredible place and you have spells for everything, but apparently a giant monster that shouldn't be there crawling around is too hard to notice. What, no Ward's or charms to tell monsters and dark creatures from students, staff and pets?
+:PROPERTIES:
+:Author: NaoSouONight
+:Score: 0
+:DateUnix: 1546718138.0
+:DateShort: 2019-Jan-05
+:END:
+
+**** I mean, apparently it was also possible for a troll to roam around without the teachers immediately homing in on it like a heat seeking missile, so yeah... that seems to be somewhat in-canon.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 5
+:DateUnix: 1546718972.0
+:DateShort: 2019-Jan-05
+:END:
+
+***** That just means it doesn't make sense TWICE, not that it justifies it "in-canon". You are right. They should have been able to know where the troll is. Between the portraits, ghosts and surely some kind of ward.
+
+Not to mention splitting up the students and sending them each back to their dorms instead of keeping them in the perfectly defensible great hall.
+:PROPERTIES:
+:Author: NaoSouONight
+:Score: 1
+:DateUnix: 1546730103.0
+:DateShort: 2019-Jan-06
+:END:
+
+****** Which is why I wrote /somewhat/ in-canon.
+
+It has been possible once, and nobody figured to do something about it should there be a next time. Welp.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 1
+:DateUnix: 1546733006.0
+:DateShort: 2019-Jan-06
+:END:
+
+
+** I have a long rant about Dumbledore that I've posted before, but it still applies here. Bit of the old C&P.
+
+The issue I take, is that Dumbledore overstepped every single time. Tom Riddle is a terrorist who was strongly driven in that direction by Dumbledore, although his actions are his own, and he was clearly insane well before he tried to murder an infant. Dumbledore is a straight up Machiavellian Dark Lord, who attempts to 'guide' the world by molding it's youth, and holding key positions in it's legislature. Why we bash Dumbledore in a few easy to understand bullet points.
+
+​
+
+- Dumbledore placed Harry with his relatives, against the advice of McG, which should have been irrelevant as Dumbledore didn't have the authority to do so. Seriously. Based off the positions he held and their responsibilities, the man had absolutely no right to place Harry with anyone.\\
+- He hid the Philosphers Stone in a school, behind traps. The level of irresponsibility inherent in that action is indescribable. There have been a myriad of discussions as to better spots to hide the stone.
+- He allowed a detention that sent first year students into the forbidden forest with a non-qualified wizard. The man has three jobs, but really he has one fucking job as headmaster of a school, and that is to keep the students safe, healthy, and ensure a consistent, quality education.
+- Which brings us to Snape, who Dumbledore keeps on staff for no academically justifiable reason. Snape bullies and belittles students in a fashion that would see any respectable educational institution firing him and quite possibly bringing him up on charges. Again, Dumbledore has one fucking job, and he utterly fails.
+- At the end of the year, after Harry straight up kills a professor, He is sent back to the neglectful, borderline abusive relatives to whom he was delivered without due process in the first place. Where to even start. First, a professor died. There should be an Inquiry. Second, said professor apparently attempted to harm/kill a student. Again, Inquiry. An eleven year old boy killed someone. Where is the therapist? Finally, Harry is under the school nurses care, who apparently has never been trained to recognize abused children? Once more, Dumbledore has one fucking job, and all of the above actually falls under his purview, but he does nothing.\\
+- Continuing on our theme of bullies, the unmitigated degree of bullying towards Harry during his second year should see Dumbledore, McG, Sprout, Flitwick, Snape, and Filch all under review for failing to act, if not outright dismissed. And again, Dumbledore has one fucking job, again, that of running the school, and he fails.
+- Why weren't the authorities notified when students were being attacked and petrified? Where were the interviews, the investigation? My recurring theme of Dumbledore having one fucking job and failing persists. The aurors are one floo call away.
+- McG and by association Dumbledore gave a goddamn time machine to a thirteen year old girl. A time machine. In a school.\\
+- Sirius Black was a member of Dumbledore's super secret vigilante group. Dumbledore knew about the dark mark thanks to Snape turning coat. Dumbledore let an innocent man go to prison because he couldn't be stuffed to roll up his fucking sleeves? As Chief Warlock, he could have pushed for a trial but he failed.
+- Third year. Soul sucking demons. A responsible administrator would have refused to open the school under those circumstances (that being the stationing of dementors around the school). Certainly after they invaded the train, and then the quidditch pitch.
+- Dumbledore hired a werewolf. He hired a werewolf without making said werewolf take an unbreakable vow to take his wolfsbane potion every month. He endangered every student in the school, because he failed at his fucking job. To put this in perspective, he hired a convicted sex offender (to be fair, this offender just got drunk and whipped it out and pissed on the school in front of the cops one night), and didn't put any camera's in the classroom, or otherwise limit his exposure to the students.\\
+- Dumbledore aids and abets a fugitive from being brought to justice, enlisting two children to do so, again using the fucking time machine given to the now fourteen year old girl. At this stage we are just compounding the interest on the man's utter and complete failure.
+- The Triwizard Tournament. Any contest to be held in a secondary school that has a fucking death toll is an insanity best not considered. Not only does Dumbledore allow this nightmare, he once again fails to protect his students when an underage contestant is admitted. One job.
+- A quick loop back to the bullying issue, fourth year is worse than second, and now we can add Trelwany and Hagrid to the list of teachers who should have noticed. Also, our resident asshole Snape tells a teenage girl, whose teeth are down to her chin due to a curse that he "Sees no difference"? Why hasn't this assclown been dismissed yet? Ah yes, because Dumbledore won't do his fucking job.
+- Lets ignore the tasks and assume that Dumbledore somehow had safety precautions for ~everything~. When Harry returns from the graveyard, with a dead body, where are the Aurors? Shouldn't Dumbledore call them? Maybe once they get to the infirmary as Harry is clearly injured. Ah, but no, Dumbledore couldn't possibly be assed to do his job. Oh and how about a therapist for the kid who just watched another kid die? Nah.
+- Fifth year, Umbridge. Blood quill. Dumbledore knows and McG's advice is to keep your head down. The man has one job, to run the school and protect the students and he utterly fails once again.\\
+- End of fifth year. It's a boarding school. The dorms ought to be locked up tighter than a snare drum at night, with staff posted. But no, the kids run rampant, and leave the school. Dumbledore doesn't do his job, and chases after the kids into the Ministry, instead of calling the Aurors. After the debacle is over, instead of sending Harry to the hospital (as they are off school grounds), he sticks him in his office for a while, then comes back and tells the kid he has to save the world. He doesn't arrange for a therapist or even get him medical attention. Oh no, it's more important to tell him a prophey, because that couldn't fucking wait till tomorrow.
+
+And from here it just gets worse as the books go on, as we discover Dumbledore knew about the abusive childhood, and put him there deliberately in order to groom him (and yes, he was grooming him) to become the magical equivalent of a jihadist suicide bomber.
+
+I'll say it again for those who missed it - Dumbledore had one fucking job as Headmaster of a boarding school and he failed at every level. Even worse he ~maliciously~ groomed students to become suicide bombers and/or child soldiers.
+
+So yeah. Fuck Dumbledore. I don't care what his intentions were, I don't care about his greater good, and I give zero fucks about the prophecy. He took what might be one of the most important jobs you can have, overseeing the education of our children, and he deliberately failed said children again and again.
+:PROPERTIES:
+:Author: richardjreidii
+:Score: 6
+:DateUnix: 1546914390.0
+:DateShort: 2019-Jan-08
+:END:
+
+
+** Dumbledore was too powerful for his own good, so peoplr just kept shoving responsibilities onto him and he was either too "nice", "arrogant" or "daft" to say no. He was a teacher. Gifted and talented, but he was no politician or military mind. He wasn't even very good at sociopolitics or economics, apparently. Just some guy who tried to his best with all the problems people kept pestering him with, mistakes and all. That is how I always saw it when I grew older.
+:PROPERTIES:
+:Author: NaoSouONight
+:Score: 6
+:DateUnix: 1546717965.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+** He's an old man who has a lot on his shoulders, and who is not infallible. As he says: “I make mistakes like the next man. In fact, being - forgive me - rather cleverer than most men, my mistakes tend to be correspondingly huger.”
+
+Edits for specifics:
+
+For the “10 dark years”: as others have said, the Dursleys were the only option that /didn't/ end with Voldemort or some of his leftover followers showing up and killing everyone. You can't really get around that without inventing third options that weren't in canon (or at least the books). Could he have done a better job of keeping track of how Harry was being treated? Maybe. Maybe he was too busy preparing for the next war. Maybe he didn't want to risk making the situation (whatever it was) worse by getting followed and leading the magical world to No. 4 Privet Drive.
+
+Re: Sirius: based on what he and everyone else knew in 1981, the logical conclusion was that Peter was dead and Sirius was evil. Yes, there should have been a trial. I don't remember if the wizarding world has an equivalent to Article 10 / the 6th amendment (which explicitly grant /everyone/, no matter how obviously guilty, the right to a fair trial), and I wouldn't be surprised if they didn't, but either way the fact that Sirius didn't get one isn't really Dumbledore's fault, and he might have gone to Azkaban even with a fair trial. In 1994, everyone is still convinced that Sirius is guilty. Even if Dumbledore had it all figured out, he can't overrule the legitimate government, and even if he could it wouldn't be worth forcing the issue over one man.
+
+Re: Why didn't Dumbledore start a civil war / overthrow the government over Sirius: I usually try to avoid assuming things like this, but are you stupid? One, “starting a civil war and overthrowing the government” is the sort of thing that the bad guys try to do (exhibit A: Voldemort and the Death Eaters, who as you may recall are trying to do exactly that). If you're using the fact that he didn't go full villain as grounds to accuse him of being a bad person, you need to get your moral metric fixed. Regardless of whether you think he's a good person or did the right things, he cares about morality and doesn't want to be a villain, so it wouldn't make sense for him to do that. Yes, the ministry in canon is flawed, stupid, and frequently corrupt, but it's not actively evil until the death eaters take it over in book 7. Even a flawed, stupid and corrupt government is better than a dictatorship run by whoever is strong enough to beat up everyone else. Two, starting a war and taking over the government is a bad idea even by simple pragmatism - even if he won, he'd look bad and lose allies in the process, and then he'd have to hold power and run the government.
+
+Re: Ok, starting a civil war is obviously bad, but why didn't he do anything else (like forcing a fair trial)?: Politics. At this point, he's still one of a very small number of people who know that Voldemort is inevitably coming back. The ministry and the rest of the world is convinced that Sirius is guilty and that Peter and Voldemort are both dead for good. Dumbledore stands to lose by trying to convince them otherwise - he'll sound like a crazy person, and his political enemies will use it to push him further out of power (thus reducing his ability to help prepare for the next war). On top of that, he has no guarantee that it will work even if Sirius gets a proper trial - as others have said, the evidence is flimsy, Snape can't be reliably expected to give evidence exonerating a man he's hated for years, and without Peter‘s physical presence they have no good answer to the inevitable “Black confundused everyone, chuck him back in Azkaban.” Sending two of the most reliably successful students in the school back in time to spring Sirius is probably his best option - they're underage, so the ministry can't punish them too harshly even if something goes wrong, he keeps plausible deniability and minimizes his political losses, and he can still help by stalling the ministry agents.
+
+Re: But he KO'd the aurors and ran off in Book 5, so obviously he's okay with fighting the government: His strategy in book 3 is to play softball with the ministry, prepare magical Britain as well as he can without overplaying his hand, and wait for the baddies to do something too obvious to ignore (as they eventually do in book 5) - and /then/ bring the ministry on side. The plan detoured a bit in book 4, when Voldemort actually came back and the timetable got a lot more urgent, and in book 5, when the ministry tried to force him out via Umbridge. He kept playing softball with Umbridge through book 5, circumventing her decrees rather than rejecting them outright. When Umbridge and Fudge confronted him over the DA, it became clear that they weren't going to let him keep playing at all, so he retreated in a way that left all his pieces on the board, kept himself in play elsewhere, and left the ministry and Umbridge to lose even more face. Then, when they death eaters attack the DoM, the stage is set for him to come back in, save the day, and decisively vindicate himself. Note that the ministry in book 6, while still flawed, corrupt, and stupid, is no longer actively fighting Dumbledore in the same way as before.
+:PROPERTIES:
+:Author: DaringSteel
+:Score: 6
+:DateUnix: 1546718372.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+** Because it had to happen that way for the narrative to play out like it does.
+
+There's nothing more to it.
+
+Rowling wanted X, Y, Z to happen, and so X, Y, Z happens. There's no thought to how Dumbledore should be a coherent adult with his own goals, abilities, and morals, he's just a mechanism to mostly dispense 'wisdom' or exposition as it's needed with regards to the plot, and act as a 'reason' Voldemort doesn't just attack Hogwarts the moment he gets his body back.
+:PROPERTIES:
+:Author: Murphy540
+:Score: 9
+:DateUnix: 1546705148.0
+:DateShort: 2019-Jan-05
+:END:
+
+*** Of course you're right. But what we're looking for is a /rationalization/ of his actions.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 4
+:DateUnix: 1546705391.0
+:DateShort: 2019-Jan-05
+:END:
+
+**** The only believable one is either malice or ignorance on Dumbledore's part.
+:PROPERTIES:
+:Author: Murphy540
+:Score: 3
+:DateUnix: 1546705537.0
+:DateShort: 2019-Jan-05
+:END:
+
+***** But either way, he would be inept.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 1
+:DateUnix: 1546717217.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+** Bad planning from JKR.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1546724429.0
+:DateShort: 2019-Jan-06
+:END:
+
+
+** There isn't any way to explain Albus' actions without resorting to the children's book argument.
+
+His actions regarding Sirius in 1981 are extremely OOC - from someone who goes around preaching love, second chances, redemption and all that rot, he does not even hear Sirius out. He testifies against him and ends all contact there.
+:PROPERTIES:
+:Author: avittamboy
+:Score: 2
+:DateUnix: 1546916204.0
+:DateShort: 2019-Jan-08
+:END:
+
+
+** I do not! Frankly:
+
+I believe that Rita writing this nice book ("The life and lies of Albus Dumbledore") is one of the best things to ever happen in canon!
+
+Hell, I wanted Dumbledore to die alone, forgotten in some ditch after learning that he never did check on Harry, despite knowing what and how the Dursleys were (and I hated the guy before, but this made it worse!)...him doing the heroic sacrifice? Fuck this! I don't even know why Snape agreed to kill him! Seriously, Snape suffered under Dumbledore, too (he forced him to teach, despite the fact that Snape despised teaching, not to mention that he forced him to spy and endure torture by Voldemort!)! Snape should have made him suffer seeing his body rot!
+
+Frankly, I am still disturbed that Harry:
+
+a) Forgave him
+
+and:
+
+b) Named one of his kids after Dumbledore (and Snape of all people!)...Albus Severus :(
+:PROPERTIES:
+:Author: Laxian
+:Score: 2
+:DateUnix: 1546949839.0
+:DateShort: 2019-Jan-08
+:END:
+
+*** Perhaps Ginny had an affair and AS was the result. Harry agreed to stay with Ginny if he got to name the child.
+
+This at least Harry's behaviour in CC somewhat.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 1
+:DateUnix: 1546950186.0
+:DateShort: 2019-Jan-08
+:END:
+
+
+** The simplest explanation is that Dumbledore is not omniscient or perfect. In general, I think if there was something he knew he could've done, he'd have done it.
+
+He left Harry at the Dursleys because one boy's happiness is a small price to pay for keeping him safe until he can fulfill the prophecy and rid the world of Voldemort. Like [[/u/Taure][u/Taure]] said, he knows best about magic.
+
+He did nothing about the basilisk because he didn't know what the hell was going on; who would think basilisk reflections in a series of coincidences?
+
+He did nothing to help Sirius because he thought Sirius was guilty, and though he learned otherwise later, for all his prowess he knows he can't overcome the Ministry's obstinacy or unwillingness to admit fault, and he would only get himself displaced from his high stations and lose public standing defending someone perceived as a traitorous mass murderer, and there go his hopes for preparing the masses for Voldemort's return.
+
+It's all opinions from the top of my sleep-deprived head, of course.
+:PROPERTIES:
+:Author: More_Cortisol
+:Score: 4
+:DateUnix: 1546706937.0
+:DateShort: 2019-Jan-05
+:END:
+
+*** He knew Tom Riddle opened the Chamber fifty years ago. Riddle was a well known Parselmouth. That and it being Slytherin's Chamber should scream /magical snake./
+
+Not to mention, Myrtle Warren died to the basilisk. Now we don't really know what evidence is left behind on the body, but that should eliminate the other snakes.
+
+And for some reason, Dumbledore does not act for decades when some questioning of Myrtle's ghost and an investigation of the bathroom should've revealed the entrance to the Chamber. It does not matter what creature is inside after all, just the fact that it was children who faced it instead of adults.
+
+#+begin_quote
+  He did nothing to help Sirius
+#+end_quote
+
+No. He decided to send two teenagers, students he's responsible for, back in time instead of going himself.
+
+Dumbledore is incredibly and unforgivably callous if you consider him a character rather than a plot device.
+:PROPERTIES:
+:Author: rohan62442
+:Score: 3
+:DateUnix: 1546711286.0
+:DateShort: 2019-Jan-05
+:END:
+
+**** I don't think he's callous, just not privy to meta knowledge, and imperfect, as I said. I was speaking wrt Sirius's legal situation after book three.
+
+Edit: He didn't send them back, either, he allowed them to go, perhaps because they had already done whatever it was they did, and it had worked.
+:PROPERTIES:
+:Author: More_Cortisol
+:Score: 1
+:DateUnix: 1546712352.0
+:DateShort: 2019-Jan-05
+:END:
+
+***** u/rohan62442:
+#+begin_quote
+  He didn't send them back, either, he allowed them to go, perhaps because they had already done whatever it was they did, and it had worked.
+#+end_quote
+
+He's the headmaster. In school, he's responsible for them. No matter what, he is responsible for them going back in time. Even the causality paradox doesn't excuse it as it's still his decision (or lack thereof).
+
+Sirius' legal issues in '81 are a judicial failure. That whole plot is a mess. Dumbledore could still have visited him in prison and spoken to him about what happened. After all, Sirius was in the Order and the betrayal was hardly a small event. Who knows what might've happened then? I find it really weird that nobody spoke to Sirius for twelve years.
+:PROPERTIES:
+:Author: rohan62442
+:Score: 2
+:DateUnix: 1546716207.0
+:DateShort: 2019-Jan-05
+:END:
+
+****** There's no reason not to allow them to go if they've already done so and succeeded without a hitch. Nothing that really needs excusing there, imo.
+
+Yes, I agree that Dumbledore could have done things differently.
+:PROPERTIES:
+:Author: More_Cortisol
+:Score: 1
+:DateUnix: 1546717307.0
+:DateShort: 2019-Jan-05
+:END:
+
+******* u/rohan62442:
+#+begin_quote
+  There's no reason not to allow them to go if they've already done so and succeeded without a hitch. Nothing that really needs excusing there, imo.
+#+end_quote
+
+But there is. He knows someone succeeded in freeing Buckbeak but nothing beyond that. And there are inherent risks in using a Time Turner. It /was/ the wrong decision.
+:PROPERTIES:
+:Author: rohan62442
+:Score: 2
+:DateUnix: 1546719477.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+** For the basilisk: Dumbledore, not being a parselmouth, didn't know that's what the monster was, nor was he able to find the entrance to the chamber.
+
+For leaving Harry with the Dursleys: Lily's blood protection is, canonically, the best protection available against Voldemort, because he despises and therefore underestimates love. Dumbledore knew Voldemort wasn't dead and would likely return, and even before then numerous Death Eaters escaped imprisonment. Harry's treatment by the Dursleys was abhorrent, but I'd certainly argue it's better than being murdered.
+
+For Sirius: We don't know how much influence Dumbledore really had in the court system immediately after the first war, so it's possible he advocated for Sirius to get a trial and was simply overruled. It's canon that Sirius wasn't the only person sent to Azkaban without a trial, and Dumbledore wasn't able to stop Fudge imprisoning Hagrid in CoS. Furthermore, Dumbledore was wary of accumulating too much power given his history with Grindelwald, which explains why he never tried to become Minister or Head of the DMLE, where he would have been able to change that policy.
+:PROPERTIES:
+:Author: siderumincaelo
+:Score: 3
+:DateUnix: 1546706204.0
+:DateShort: 2019-Jan-05
+:END:
+
+*** About the Dursleys thing, I don't really agree. You don't okay mistreatment of the kid, no matter your good intentions. Not to mention the blood protection stopped working when Voldemort took Harry's blood, so why continue with that?
+
+Dumbledore could easily place Harry with someone competent who he'd trust, and who would raise Harry right. If security is an issue, he could bring out the fidelius. If Harry's safety is an issue, teach him magic from younger age so he'd be prepared - even if theory only. Hell, teach him hand to hand self-defence!
+
+Another thing that bothers me in here is that Harry was forced on the Dursleys, left on their doorstep. I really wonder what exactly was in the letter left with him, seeing how the family clearly did not like or want the child?
+:PROPERTIES:
+:Author: Yumehayla
+:Score: 1
+:DateUnix: 1546710005.0
+:DateShort: 2019-Jan-05
+:END:
+
+**** Canonically, Dumbledore had two choices after Lily and James died - put Harry with the Dursleys, where he'll be mistreated but physically safe, or put him with a loving family where there's a high risk he'll be murdered in early childhood. If you think the second option is better, then I doubt I'll be able to convince you otherwise. But ignoring the constraints we're shown in canon to come up with a magical third option, where Harry can be both loved and safe and then criticizing Dumbledore for not doing that, isn't a fair reading of the text.
+
+We're clearly told that no other protective measurement was as strong as Lily's protection. To quote Dumbledore: "I knew that Voldemort's knowledge of magic is perhaps more extensive than any wizard alive. I knew that even my most complex and powerful protective spells and charms were unlikely to be invincible if he ever returned to full power. But I knew too where Voldemort was weak. And so I made my decision. You would be protected by an ancient magic of which he knows, which he despises, and which he has always, therefore, underestimated --- to his cost. I am speaking, of course, of the fact that your mother died to save you. She gave you a lingering protection he never expected, a protection that flows in your veins to this day. I put my trust, therefore, in your mother's blood."
+
+Also, the blood protection did not stop working when Voldemort took Harry's blood - it's clearly still in effect at the beginning of DH.
+:PROPERTIES:
+:Author: siderumincaelo
+:Score: 4
+:DateUnix: 1546712554.0
+:DateShort: 2019-Jan-05
+:END:
+
+***** There's a huge, gaping plot hole though: most pureblood seem to be absolutely clueless as to how the muggle world works and they can't trace others without magic being performed. It's the big problem with book seven---the students are registered, etc. but a muggleborn would be likely safe if they just moved.
+
+TLDR: it would have been safer, imo, to have Harry adopted in the muggle world abroad. Dumbledore has deep ties with the ICW, he should have been able to figure something like that out imo. How hard would it be for a pureblood death eater to imperious a half blood who knows the muggle world, tell them to find Petunia and where Harry goes to school and when he leaves the house, and just kill him when he's off Privet Drive.
+:PROPERTIES:
+:Author: Altair_L
+:Score: 1
+:DateUnix: 1546719329.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+**** u/Hellstrike:
+#+begin_quote
+  Hell, teach him hand to hand self-defence!
+#+end_quote
+
+Given the magical +flame touch+ "protection" that would be hilarious.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 1
+:DateUnix: 1546711806.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+** You can't, actually. It doesn't make any sense. Even if you buy into the "Harry would have died if he hadn't been with the Dursleys" excuse, which comes with a hell of a lot of baggage, such as why Dumbledore didn't keep the Order going to kill off all the threats he obviously knew about, then why didn't Dumbledore check on Harry and bribed the Dursleys to keep him happier? If Harry's so important, then he should have been under better supervision. Figgs most certainly wasn't enough. And the events in the earlier books truly do not make any rational sense - any excuse cooked up simply creates another problem down the line.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 2
+:DateUnix: 1546711148.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+** An in-universe explanation?
+
+Botched memory charm on Dumbledore or hit by something that went wrong, or something as simple as, due to his advanced age, dementia.
+
+Realistically, if Dumbledore's always been known for being eccentric, a little odd, and having a goofy sense of humour, in the wizarding world where people tend /by nature/ to respect and trust people in positions of authority, /and/ not to scratch too far below the surface of how things appear to be, who's going to question the Headmaster of Hogwarts, national hero and Supreme Mugwump if he starts to act...not much more crazily than usual.
+
+Ultimately if Harry hadn't been around - or Hermione in book 3 - no-one would really have raised questions around those things because no-one would research or come across them in the first place. No-one would have gone to investigate the Stone - or they would have been caught, like Fred and George probably would have been. The basilisk wouldn't be identified beyond suspicion as no-one would be able to get into the Chamber, and re Sirius Black, well, the newspapers said that he's guilty, so he must be. That seems to be very much how people work in the wizarding world. Not much curiosity or critical thinking.
+
+In short, Dumbledore could have been legit 'off his rocker' for decades and people would for various reasons either not notice or turn a blind eye, and chalk up things like the Chamber to bad luck - especially if only muggleborns were affected.
+
+EDIT: Downvotes with no replies for actually answering the question? Thanks guys.
+:PROPERTIES:
+:Author: 360Saturn
+:Score: 2
+:DateUnix: 1546706617.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+** Dumbledore is like God, willing to sacrifice Jesus(Harry) to save mankind. But of course he knows he'll be resurrected.
+:PROPERTIES:
+:Author: smellinawin
+:Score: 1
+:DateUnix: 1546721784.0
+:DateShort: 2019-Jan-06
+:END:
+
+
+** I'm convinced that Dumbledore has a special charm on the whole of Hogwarts that prevents students from dying on the grounds. Many of his riskier plays make sense if he has absolute faith that the students can't be killed there. That's not to say that he doesn't worry about them. For certain, he was furious about having the Dementors hanging around, and probably because he knows that fear, despair, and depression can do more harm than death.
+
+Also, his 'protect the students' charm may not be in effect when he isn't at the school, so being unseated from the Headmaster-ship in second and fifth year were some of the most dangerous times for Harry.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 1
+:DateUnix: 1546740368.0
+:DateShort: 2019-Jan-06
+:END:
+
+
+** Dumbledore is unforgivably callous if you consider him to be a character rather than a plot device.
+
+- He decided to store an invaluable magical artifact inside a school when he knew a dark wizard was after it. Putting the lives of children at risk is inexcusable, no matter what.
+- He did not act on what he knew about the Chamber of Secrets for fifty years when a thorough investigation (questioning Myrtle's ghost and a search of the crime scene) could've revealed the entrance. Adults could've then dealt with whatever creature was inside.
+- He sent two students back in time to save Sirius, breaking laws and risking their lives, rather than going back himself. Enough said.
+:PROPERTIES:
+:Author: rohan62442
+:Score: 1
+:DateUnix: 1546712502.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+** I'd actually be interested to see people's ideas as well :3! What always bothered me the most was actually the Philosopher's Stone - why Dumbledore placed an item Voldemort wanted in a school, full of kids, instead of idk, arranging a house under the Fidelius and storing the stone there?
+:PROPERTIES:
+:Author: Yumehayla
+:Score: 1
+:DateUnix: 1546705858.0
+:DateShort: 2019-Jan-05
+:END:
+
+*** The only two explanations that made sense to me was
+
+1. It was a trap to lure Voldemort in, and Voldemort was desperate enough to take it. The stone could also have been a fake.
+
+2. So he could somehow arrange Harry and Voldemort to fight. (No idea how he would manage that though)
+:PROPERTIES:
+:Author: TheJayEye
+:Score: 1
+:DateUnix: 1546706894.0
+:DateShort: 2019-Jan-05
+:END:
+
+**** True.. But damn that makes him a really irresponsible adult who shouldn't be anywhere near a school..
+:PROPERTIES:
+:Author: Yumehayla
+:Score: 2
+:DateUnix: 1546710071.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+** Many fanfics depict him as a manipulative somewhat-evil person with 'For the Greater Good' as his motto.
+
+Dumbledore raised Harry in a bad environment without knowing magic, so that when Harry entered Hogwarts, he would be awed. And trust Dumbledore and his friends, Ron and Hermione, who is the first to care about him.
+
+As Harry is marked as Voldemort's equal, he had the potential to become the next dark lord, and so Dumbledore had to prevent that from happening.
+
+If Sirius was not in jail, as his godfather, he would insist on raising Harry, and Dumbledore could not let that happen.
+:PROPERTIES:
+:Author: TheJayEye
+:Score: 0
+:DateUnix: 1546705068.0
+:DateShort: 2019-Jan-05
+:END:
+
+*** You sound a little too fanon based here, but the general sentiment might actually be fairly accurate. Most of books 1-3 can only be explained with a Machiavellian Dumbledore.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 1
+:DateUnix: 1546711937.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+** As concerns the Basilisk, Dumbledore didn't have the benefit of being a Parselmouth. Understanding the language if he set his mind to it is not the same as Harry's gift; sure, if he'd happened to pay very close attention to random hissing noises coming from the pipes, he /might/ have figured out it was Parseltongue, and from there identified the Basilisk; but why /would/ he pay attention to random hissing noises coming from pipes? Only Harry directly understood it as language without even thinking about it. And without the Parseltongue clue, the idea that Slytherin's Monster was a Basilisk was far from as obvious as hindsight might make one think. 1000 years is longer than any Basilisk's recorded lifespan, to name but one obstacle.
+
+I'm not entirely sure what the "10 dark years" you're referring to are.
+
+And as for Sirius, the simplest explanation is that he had no more inkling than anyone else that Sirius wasn't really a traitor. If Pettigrew's machination could fool even Sirius's lifelong best friend Remus, it certainly could fool Dumbledore.
+
+Particularly, note that a charismatic, gifted youth from a sinister family background falling to darkness without anyone noticing until it was too late is something that would have looked to the poor man like the fourth repeat of Grindelwald. After Grindelwald, Lord Voldemort, and Snape had all displayed the same pattern, and given how emotionally sensitive he is about Grindelwald, Dumbledore's jumping to conclusion here seems perfectly in-character.
+
+Anything else?
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 0
+:DateUnix: 1546705817.0
+:DateShort: 2019-Jan-05
+:END:
+
+*** About 10 dark years, I remember in one of the later volumes Dumbledore saying to Harry something along the line of knowing that he was condemning him to 10 dark years, when he left him at the Dursleys'. Which also always rubbed me the wrong way - I know many fanfics overcolorize the abuse that happened at the Dursleys', but even though it wasn't as harsh, it was still abuse, and Dumbledore left a kid there knowing he'll be miserable. No matter how important the blood protections are, you don't okay abusing a kid to later save the world. If he was concerned about the Death Eaters finding Harry, why didn't he fidelius a house of one of the Order members, and left the kid with them for the time being?
+:PROPERTIES:
+:Author: Yumehayla
+:Score: 3
+:DateUnix: 1546709612.0
+:DateShort: 2019-Jan-05
+:END:
+
+**** u/Hellstrike:
+#+begin_quote
+  but even though it wasn't as harsh, it was still abuse,
+#+end_quote
+
+The cupboard is torture and the rations he gets when being punished are way below 500 kcal/day. And Vernon was casual about violence, both towards Dudley and Harry (there is a line where Dudley gets beaten and the narrative just glosses over it like it was a regular and normal thing).
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 2
+:DateUnix: 1546711735.0
+:DateShort: 2019-Jan-05
+:END:
+
+***** I meant the 'not as harsh' part compared to the overcolorization some fanfics do with the abuse, where it turns into regular torture with daily whipping, no food but occasional rotten scraps, regularly broken bones, and even rape. But also yeah, I agree that their outlook on violence is very casual, like the thing with Petunia and the frying pan.. Also, I can't remember, was the thing with Ripper chaising Harry on a tree where he had to hide for hours canon or fanon...
+:PROPERTIES:
+:Author: Yumehayla
+:Score: 1
+:DateUnix: 1546718797.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+**** u/Achille-Talon:
+#+begin_quote
+  If he was concerned about the Death Eaters finding Harry, why didn't he fidelius a house of one of the Order members, and left the kid with them for the time being?
+#+end_quote
+
+Sirius had just proved that the Fidelius Charm was absolutely not infallible. You may argue that it was unlikely there was a /second/ spy in Dumbledore's close circle of friends, sure, but... look at it from his perspective in 1981. "The forces of darkness just beat the Fidelius that was keeping the Potters safe! Where shall we put the only survivor to keep him from the forces of darkness /now/? Oh, I know... /under a FIDELIUS!/" would have sounded /goddamn insane/.
+
+Also, a Fidelius wouldn't have given Harry any protection if he got out of the house, as he eventually must when attending Hogwarts. If Harry had been raised under Fidelius rather than under the blood protection, a conspicuously blister-free Quirrell would have killed him in First-Year, Voldemort would have gotten the Stone right there and then, and the Death Eaters would have won.
+
+#+begin_quote
+  No matter how important the blood protections are, you don't okay abusing a kid to later save the world.
+#+end_quote
+
+It's not just to save the world, it's also for his own good. A mirthless childhood is better than /getting murdered/.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 1
+:DateUnix: 1546710236.0
+:DateShort: 2019-Jan-05
+:END:
+
+***** u/Deathcrow:
+#+begin_quote
+  Sirius had just proved that the Fidelius Charm was absolutely not infallible.
+#+end_quote
+
+No, Sirius proved that Dumbledore's operational security was terrible. Yet Dumbles continues with the same "security through obscurity" bullshit, by taking a different toll (Harry's well being), just using different spells. He seems averse to doing things that are actually productive.
+
+Had Dumbledore used appropriate operational security for his militia that engages in a civil war and is already suspecting a spy, not only would the Fidelius have been effectively "infallible", he also would have uncovered the actual spy.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 1
+:DateUnix: 1546718936.0
+:DateShort: 2019-Jan-05
+:END:
+
+
+***** Okay, you got a point with the fidelius thing xD. Though I still don't like how he handled the situation, with Harry having a shitty childhood, Dursleys being unhappy about the situation (which yeah, they're shitty human beings, but if I had a sibling I didn't like, and suddenly was given their child with no explanation aside of a letter, no way to say no, no help and iirc no extra money, I wouldn't be happy either. Not to the point of hurting him mind you, but giving the child away to the window of life/police/other would probably be my first thought?) It's like, a damn hard thing to balance the child not being mistreated vs not invading the life of the rest of the family, but something should've been done, I stand by the opinion that you do not okay child abuse. Maybe idk, pitch in for a bigger house, fancier so the Dursleys don't instantly deny the idea, and have a wizard who knows how to behave muggle move in with Harry, acting as if they're renting a floor with him, and minimize contact with people who didn't want the child in the first place? At the very least check in on him to make sure he's not mistreated, goddamit!
+:PROPERTIES:
+:Author: Yumehayla
+:Score: 1
+:DateUnix: 1546719419.0
+:DateShort: 2019-Jan-05
+:END:
+
+****** u/Achille-Talon:
+#+begin_quote
+  Maybe idk, pitch in for a bigger house, fancier so the Dursleys don't instantly deny the idea, and have a wizard who knows how to behave muggle move in with Harry, acting as if they're renting a floor with him, and minimize contact with people who didn't want the child in the first place?
+#+end_quote
+
+That's some quality loopholery right there, but to explain why canon-Dumbledore didn't do that, one might say that at this point, even if Harry+theWizard and the Dursleys are technically sharing a house, they're not sharing a /home/ in a way that matters --- the blood protection is rooted in the concept of family, albeit a dysfunctional family if needed, whereas the Dursleys and Harry would be more like neighbors in your scenario, albethey friendly-enough neighbors.
+
+#+begin_quote
+  At the very least check in on him to make sure he's not mistreated, goddamit!
+#+end_quote
+
+He did check. That was the point of having Mrs Figg around to pick up the gossip and take care of Harry once in a while to hear what he had to say. That didn't really work, but Dumbledore did try.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 1
+:DateUnix: 1546722903.0
+:DateShort: 2019-Jan-06
+:END:

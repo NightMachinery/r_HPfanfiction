@@ -1,0 +1,659 @@
+#+TITLE: What would be your dream fanfiction writing app?
+
+* What would be your dream fanfiction writing app?
+:PROPERTIES:
+:Author: eqwe32
+:Score: 37
+:DateUnix: 1598129310.0
+:DateShort: 2020-Aug-23
+:FlairText: Discussion
+:END:
+I've been working on a fanfiction site to address the issues fanfiction readers & writers face. One of the main features for writers is Drafts, which is designed so that you can write all your fanfiction easily & in one place. It has auto saving, collaboration, and alot of other stuff. You can check it out for yourself [[https://fanfiction.online/drafts/new][here]]. One feature, for example, is that you can easily export all your drafts to FFN & AO3 without losing any formatting.
+
+To further improve it, I want to ask, what features would make it your dream fanfiction writing app?
+
+
+** Pretty neat that you did all this.
+:PROPERTIES:
+:Author: Amber_Sun14
+:Score: 10
+:DateUnix: 1598135765.0
+:DateShort: 2020-Aug-23
+:END:
+
+*** Thanks! Would *you* use it to write fanfics?
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1598165408.0
+:DateShort: 2020-Aug-23
+:END:
+
+**** Yes, I would
+:PROPERTIES:
+:Author: Amber_Sun14
+:Score: 2
+:DateUnix: 1598225425.0
+:DateShort: 2020-Aug-24
+:END:
+
+***** Thank you. I think you'll love writing with Fanfiction Online :)
+:PROPERTIES:
+:Author: eqwe32
+:Score: 2
+:DateUnix: 1598255130.0
+:DateShort: 2020-Aug-24
+:END:
+
+****** Yeah, probably a nice change to use this instead of Google docs
+:PROPERTIES:
+:Author: Amber_Sun14
+:Score: 2
+:DateUnix: 1598276813.0
+:DateShort: 2020-Aug-24
+:END:
+
+
+** GDocs is all I need to be honest. Especially since they now support Grammarly. And the sharing works well enough for my beta, who loves the "propose change" feature.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 8
+:DateUnix: 1598136421.0
+:DateShort: 2020-Aug-23
+:END:
+
+*** Them supporting Grammarly now *is* a big plus. And GDocs does have good collaboration (I've tried to replicate it in Drafts). Something unique about Drafts though, is that you can share your drafts to FFN & AO3 without losing any formatting.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 4
+:DateUnix: 1598168792.0
+:DateShort: 2020-Aug-23
+:END:
+
+**** You don't lose any formatting by copy pasting from GDocs, at least as far as I noticed. the only thing GDocs can't do is horizontal lines, but you can simply use a # instead and then manually replace them while prood reading for the last time. Not sure about GDocs to Ao3, but that doesn't really matter since you can simply copy paste your FFN doc thing, which then already has the horizontal lines.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 1
+:DateUnix: 1598178574.0
+:DateShort: 2020-Aug-23
+:END:
+
+***** u/eqwe32:
+#+begin_quote
+  Not sure about GDocs to Ao3, but that doesn't really matter since you can simply copy paste your FFN doc thing
+#+end_quote
+
+AO3 can't copy aligned paragraphs, even from FFN.
+
+As for why you would use this over Google Docs, you can actually keep all your drafts (and only your fanfiction drafts, not get them mixed up with personal ones) in one spot, instead of jumping from app to app to post, edit and collaborate, you can do all that in one place.
+
+Another thing is that you don't have to share your personal email with someone you don't know (like a beta-reader). You can chat, share and collaborate on your drafts, all from your Fanfiction Online inbox.
+
+I think these would be good enough reasons for a lot of people to switch over from Google Docs. But if you prefer GDocs, that's great. Hope you still support Fanfiction Online with your ideas for improvements though.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1598222439.0
+:DateShort: 2020-Aug-24
+:END:
+
+
+** I use scrivener because it's nice to be able to move all the elements around and still be able to compile it into a single document. So something like being able to links several documents together?
+:PROPERTIES:
+:Author: sitzprobe1
+:Score: 3
+:DateUnix: 1598139254.0
+:DateShort: 2020-Aug-23
+:END:
+
+*** I haven't used scrivener. But I'll definitely look into it.
+
+#+begin_quote
+  something like being able to links several documents together?
+#+end_quote
+
+Linking in what way? You mean like having multiple chapters for books? Being able to organize your drafts? Could you explain what kind of linking a bit? Thanks!
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1598168374.0
+:DateShort: 2020-Aug-23
+:END:
+
+
+** I just want a good speech to text app that intuitively knows which punctuation to use.
+:PROPERTIES:
+:Author: _ASG_
+:Score: 2
+:DateUnix: 1598150959.0
+:DateShort: 2020-Aug-23
+:END:
+
+
+** I hate to say it but for easy to use collaborative writing, it's hard to beat google docs or its lookalikes (or maybe it is a lookalike of something earlier). Or the markup-based alternative is a wiki engine like Wikipedia.
+
+I'd rather not have to figure out yet another app. I'd rather use some standard markup/markdown than yet another whatever (although I'm used to wikipedia markup by now). If your thing can import markdown files and maintain file histories, that's better than making me deal with yet another editing gui. I'd rather edit offline most of the time anyway.
+:PROPERTIES:
+:Author: gwa_is_amazing
+:Score: 2
+:DateUnix: 1598162836.0
+:DateShort: 2020-Aug-23
+:END:
+
+*** u/eqwe32:
+#+begin_quote
+  Well it's hard to beat google docs or its lookalikes (or maybe it is a lookalike of something earlier)
+#+end_quote
+
+I am looking to implement alot of the features Google Docs has, and much more. One feature, for example, is that you can press CTRL+D to views synonyms for any word. Another, as I mentioned above, is the integration with other fanfiction sites (like AO3 & FFN). And many more features that will be added soon.
+
+#+begin_quote
+  I'd rather not have to figure out yet another app.
+#+end_quote
+
+The use is extremely simple, with most of the controls you know from other places. Even new features are placed specifically so new users don't overwhelmed with too many options. [[https://fanfiction.online/drafts/new][Check it out]].
+
+Please do mention if you have any ideas ( or an epiphany :) ) for new features.
+
+#+begin_quote
+  maintain file histories
+#+end_quote
+
+That's already in the pipeline. I'll update on [[https://fanfiction.online/news][fanfiction.online/news]] when it's up.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1598168054.0
+:DateShort: 2020-Aug-23
+:END:
+
+**** The control-D thing looks more useful than I expected it to be. Sometimes I have to sit there groping around for words, but I've always figured that's part of the writing process. Using a thesaurus too much makes the writing clumsy. But this pop-up is lighter weight.
+
+Unfortunately all the editing controls show as mojibake, because of my browser/adblock settings.
+
+Why is FF/AO3 export from drafts such a big deal?
+
+Is the code available?
+
+Are you going to implement the fancy collaboration stuff that gdocs does? They have to do some complicated things to make sure simultaneous updates from different people don't clobber each other, I think.
+:PROPERTIES:
+:Author: gwa_is_amazing
+:Score: 1
+:DateUnix: 1598170052.0
+:DateShort: 2020-Aug-23
+:END:
+
+***** u/eqwe32:
+#+begin_quote
+  Sometimes I have to sit there groping around for words, but I've always figured that's part of the writing process. Using a thesaurus too much makes the writing clumsy. But this pop-up is lighter weight.
+#+end_quote
+
+Thanks, I'll make the loading faster as well in the next update.
+
+#+begin_quote
+  Unfortunately all the editing controls show as mojibake, because of my browser/adblock settings.
+#+end_quote
+
+That's weird, which browser & which blocker? I'll try to resolve it.
+
+#+begin_quote
+  Why is FF/AO3 export from drafts such a big deal?
+#+end_quote
+
+Because people generally publish on these sites, and I've heard alot of complaints that their formatting doesn't get copied properly.
+
+#+begin_quote
+  Is the code available?
+#+end_quote
+
+No.
+
+#+begin_quote
+  Are you going to implement the fancy collaboration stuff that gdocs does? They have to do some complicated things to make sure simultaneous updates from different people don't clobber each other, I think.
+#+end_quote
+
+Yup, I intend on doing all that.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1598170796.0
+:DateShort: 2020-Aug-23
+:END:
+
+****** I'm using Firefox LTS and ublock origin. I have both firefox and ublock set to block loading of remote fonts. That is probably the cause of the mojibake. When I change that setting in firefox, some mojibake clears up but some other stuff goes wrong.
+
+Regarding using a thesaurus making writing clumsy: I didn't mean that using it is too slow, but rather that it shows up in the writing itself (too many fancy words used imprecisely). I don't know if that matters to you.
+
+I confess that I've never uploaded anything to AO3 or FF. I see in AO3's FAQ that it uses HTML for markup. I didn't check FF. Overall I like AO3's culture better than FF's, but FF has been around longer and has more users. Is it important to export drafts rather than finished stories?
+
+Anyway I'm already comfortable using low tech tools (pen and paper for outline, manual markup for formatting) so I think I'll keep using them, but you're doing impressive work, that you can probably apply to places other than fanfic. I'm sure you've figured that out already ;).
+:PROPERTIES:
+:Author: gwa_is_amazing
+:Score: 1
+:DateUnix: 1598173989.0
+:DateShort: 2020-Aug-23
+:END:
+
+******* u/eqwe32:
+#+begin_quote
+  I'm using Firefox LTS and ublock origin. I have both firefox and ublock set to block loading of remote fonts. That is probably the cause of the mojibake. When I change that setting in firefox, some mojibake clears up but some other stuff goes wrong.
+#+end_quote
+
+I'll look into it. I have fonts loaded locally and from Google Fonts if you want to add exceptions.
+
+#+begin_quote
+  Regarding using a thesaurus making writing clumsy: I didn't mean that using it is too slow, but rather that it shows up in the writing itself (too many fancy words used imprecisely). I don't know if that matters to you.
+#+end_quote
+
+I got you in the first place. Just mentioned the speed because that was coming up anyway. I don't think a thesaurus makes writing clumsy if the thesaurus is intelligent. Which mine isn't yet. Will be making it so later.
+
+#+begin_quote
+  I confess that I've never uploaded anything to AO3 or FF. I see in AO3's FAQ that it uses HTML for markup. I didn't check FF. Overall I like AO3's culture better than FF's, but FF has been around longer and has more users. Is it important to export drafts rather than finished stories?
+#+end_quote
+
+Drafts is the process of writing on Fanfiction Online. What I meant was that authors usually cross-post on multiple site, and they often have the issue of porting their formatting properly. I've proposed a solution to that. You can write on Fanfiction Online's Drafts. Easily use that single draft to post in Fanfiction Online, FFN & AO3 without worrying about formatting.
+
+#+begin_quote
+  Anyway I'm already comfortable using low tech tools (pen and paper for outline, manual markup for formatting) so I think I'll keep using them
+#+end_quote
+
+Great. You do you. I hope you do suggest ideas you might have later on and recommend the site to others though.
+
+Thanks alot for your comments! Really loved the discussion with you.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1598177661.0
+:DateShort: 2020-Aug-23
+:END:
+
+
+** Emacs.
+
+Org-Mode + version control + pandoc export
+
+Maybe integration with the FFN/AO3 API (if one exists). But copy/pasting isn't a hassle.
+:PROPERTIES:
+:Author: kikechan
+:Score: 2
+:DateUnix: 1598165489.0
+:DateShort: 2020-Aug-23
+:END:
+
+*** I didn't know about Emacs, so I just looked it up. My idea isn't to provide markup, but a easy UI for formatting. As for version control, I plan on adding that really soon. I'll update on [[https://fanfiction.online/news][fanfiction.online/news]] when it''s up.
+
+#+begin_quote
+  Maybe integration with the FFN/AO3 API (if one exists). But copy/pasting isn't a hassle.
+#+end_quote
+
+There isn't an API. In spite of that, I've managed to achieve as much integration as I can with both of them. For most people using external editors (like GDocs), the issue when they copy-paste their documents is that they lose their formatting. I've managed to solve that issue for both of these sites.
+
+For FFN, a neat file is generated so that you can easily upload it to FFN. And while AO3 doesn't support uploading, it does allow you to use HTML. Fanfiction Online generates AO3-accepted HTML (AO3 doesn't support all HTML) which you can easily copy-paste to AO3's HTML section.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1598167078.0
+:DateShort: 2020-Aug-23
+:END:
+
+**** You could add cusotm dictionaries catered to the fanfiction category specified. You could probably pick up words from Anki Decks.
+
+Introduce text objects, like the ones in =vim= or =emacs=. So deleting a paragraph would be something like =C-d C-p=. Deleting two would be =C-d 2 C-p=. And you could add more for sentences, chapters, dialogue, in-pair objects (like "(" and ")", """ and """), etc
+
+outline on the side with collapsible sections like org-mode
+
+Passive voice detection
+
+auto-capitalizing words
+
+shortcut to add quotes / autocomplete pairs
+:PROPERTIES:
+:Author: kikechan
+:Score: 2
+:DateUnix: 1598171266.0
+:DateShort: 2020-Aug-23
+:END:
+
+***** u/eqwe32:
+#+begin_quote
+  You could add cusotm dictionaries catered to the fanfiction category specified. You could probably pick up words from Anki Decks.
+#+end_quote
+
+I did plan on adding custom dictionaries later on, but I just checked out Anki Decks. It's just an initial look, but it seems to be brilliant. It would save me a lot of work and accelerate the timeline of releasing the fandom dictionaries.
+
+#+begin_quote
+  Introduce text objects, like the ones in vim\\
+  or emacs\\
+  . So deleting a paragraph would be something like C-d C-p\\
+  . Deleting two would be C-d 2 C-p\\
+  . And you could add more for sentences, chapters, dialogue, in-pair objects (like "(" and ")", """ and """), etc
+#+end_quote
+
+I don't fully understand what you mean here, maybe you can explain or I'll check out emacs sometime later.
+
+#+begin_quote
+  outline on the side with collapsible sections like org-mode
+
+  Passive voice detection
+#+end_quote
+
+Explanation please?
+
+#+begin_quote
+  auto-capitalizing words
+#+end_quote
+
+Yeah. This, spell checker, and alot of grammar stuff needs to be added. I'll be updating [[https://fanfiction.online/news][this]] page when I begin working on those.
+
+#+begin_quote
+  shortcut to add quotes / autocomplete pairs
+#+end_quote
+
+Drafts doesn't support quotes. What do you mean by the latter?
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1598173422.0
+:DateShort: 2020-Aug-23
+:END:
+
+****** u/kikechan:
+#+begin_quote
+  I don't fully understand what you mean here, maybe you can explain or I'll check out emacs sometime later.
+#+end_quote
+
+For example, in =vim=, =d= is the delete key.
+
+=d= is actually a function that deletes on a range (that is, it takes argument(s)). So if you press =dw= then it will delete a word. If you press =dd= then it will delete the entire line. If you press =d3w= then it will delete three words. If you press =dap= it will Delete a Paragraph. Stuff like that, and you have these functions for every simple text editing action you can think of. Select, cut, copy, paste, find, etc.
+
+Vim has a separate mode for these (there's a separate mode to enter text). Emacs is different, and uses combinations of modifier keys instead of a dedicated command mode (called =normal mode= in vim). This allows the user to enter text and execute commands seamlessly.
+
+#+begin_quote
+  outline on the side with collapsible sections like org-mode
+#+end_quote
+
+*Imagine this is your outlline:*
+
+-Heading 1
+
+bla bla bla bla bla bla bla
+
+--SubHeading 1
+
+asd asd asd asd asd
+
+--SubHeading 2
+
+asd asd asd asd asd
+
+*And after collapsing it:*
+
++Heading 1
+
+++SubHeading 1
+
+++SubHeading 2
+
+And you can press tab on the headings to expand them.
+
+#+begin_quote
+  passive voice
+#+end_quote
+
+This, nothing more: [[https://www.merriam-webster.com/words-at-play/active-vs-passive-voice-difference]]
+
+#+begin_quote
+  autocomplete pairs
+#+end_quote
+
+When you enter one doublequote, the editor should automatically add the matching ending doublequote.
+
+^ = cursor
+
+^
+
+(^)
+
+or
+
+"^"
+:PROPERTIES:
+:Author: kikechan
+:Score: 1
+:DateUnix: 1598195131.0
+:DateShort: 2020-Aug-23
+:END:
+
+******* I get what you mean by text objects, I will be implementing similar stuff. Not exactly, but more like advanced shortcuts (For example, Ctrl + Backspace/Delete could delete a whole word instead of a character)
+
+As for the collapsible sections, that won't be added. The reason being that there won't be any headings considering a draft is meant to represent a story chapter.
+
+#+begin_quote
+  autocomplete pairs
+#+end_quote
+
+I did actually plan on adding that earlier, but kind of got delayed because of other stuff. I will be adding this soon.
+
+I'm still a bit confused about one thing, why do you want me to detect passive voice? Is it to provide more contextual and helpful synonyms? Could you clarify that a bit more?
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1598223776.0
+:DateShort: 2020-Aug-24
+:END:
+
+******** Passive voice because it's a bad addition outside of conversations and conversational writing.
+:PROPERTIES:
+:Author: kikechan
+:Score: 1
+:DateUnix: 1598292003.0
+:DateShort: 2020-Aug-24
+:END:
+
+********* So you want me to avoid that in suggestions to writers right?
+
+BTW, I just put up an update that lets you organize drafts into folders & subfolders, definitely [[https://fanfiction.online/drafts][check that out]].
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1598293129.0
+:DateShort: 2020-Aug-24
+:END:
+
+
+**** No idea about FFN but maybe AO3 would be receptive to hosting an API.
+:PROPERTIES:
+:Author: gwa_is_amazing
+:Score: 1
+:DateUnix: 1598170314.0
+:DateShort: 2020-Aug-23
+:END:
+
+***** FFN doesn't care what we do at this point. My guess is that AO3 might not be that receptive, considering they don't very stringent security procedures & only rely on an invitation system to protect themselves. Anyway, an API might be /slightly/ more helpful but I think I've added a pretty easy way to export to FFN & AO3 already.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1598171195.0
+:DateShort: 2020-Aug-23
+:END:
+
+
+**** Per Neal Stephenson, /[[https://en.wikipedia.org/wiki/In_the_Beginning..._Was_the_Command_Line_][In the Beginning... Was the Command Line]]/:
+
+#+begin_quote
+  In the GNU/Linux world there are two major text editing programs: the minimalist vi (known in some implementations as elvis) and the maximalist emacs. I use emacs, which might be thought of as a thermonuclear word processor. It was created by Richard Stallman; enough said. It is written in Lisp, which is the only computer language that is beautiful. It is colossal, and yet it only edits straight ASCII text files, which is to say, no fonts, no boldface, no underlining. In other words, the engineer-hours that, in the case of Microsoft Word, were devoted to features like mail merge, and the ability to embed feature-length motion pictures in corporate memoranda, were, in the case of emacs, focused with maniacal intensity on the deceptively simple-seeming problem of editing text. If you are a professional writer--i.e., if someone else is getting paid to worry about how your words are formatted and printed--emacs outshines all other editing software in approximately the same way that the noonday sun does the stars. It is not just bigger and brighter; it simply makes everything else vanish.
+#+end_quote
+:PROPERTIES:
+:Author: gwa_is_amazing
+:Score: 1
+:DateUnix: 1598170954.0
+:DateShort: 2020-Aug-23
+:END:
+
+
+**** This might interest you:
+
+[[https://fountain.io/syntax]]
+:PROPERTIES:
+:Author: kikechan
+:Score: 1
+:DateUnix: 1598171397.0
+:DateShort: 2020-Aug-23
+:END:
+
+***** It does, thank you.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1598173466.0
+:DateShort: 2020-Aug-23
+:END:
+
+
+*** CULT OF VIM
+
+lol, I use ed.
+:PROPERTIES:
+:Author: HeirGaunt
+:Score: 1
+:DateUnix: 1598175128.0
+:DateShort: 2020-Aug-23
+:END:
+
+
+** One that writes my fics for me.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1598165579.0
+:DateShort: 2020-Aug-23
+:END:
+
+*** I'm not looking to implement this soon. But I am interested in the idea. What directions would you be willing to give to such an app?
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1598169034.0
+:DateShort: 2020-Aug-23
+:END:
+
+**** You'd pick some keywords and category tags using checkboxes and entry fields, there would be a pulldown to select how long a story to generate (200k to 500k words, 501k to 1.5M, and 1.5M to 5M). 200K would be the minimum. There would be a slider control (1 to 10) so you could choose what quality of story you wanted. Based on the current contents of ff.net, I think most people would keep it set pretty low.
+:PROPERTIES:
+:Author: gwa_is_amazing
+:Score: 1
+:DateUnix: 1598174371.0
+:DateShort: 2020-Aug-23
+:END:
+
+***** I don't think even 200k words would be possible initially. Selecting quality couldn't be implemented either. It'll always try to generate at the highest possible quality.
+
+I meant directions more along the lines of your ideas, the fandom, stuff like that.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1598176990.0
+:DateShort: 2020-Aug-23
+:END:
+
+****** The 200k words and low quality were jokes: so much fic is very long and poorly written, that minimum 200k and low quality are obviously the settings that people would want to use ;). You don't REALLY want to generate stories automatically, do you? Someone ran some parts of HPMOR through GPT-3 and the results were amusing, but once you've seen it, the novelty wears off and it stops being interesting.
+:PROPERTIES:
+:Author: gwa_is_amazing
+:Score: 1
+:DateUnix: 1598180843.0
+:DateShort: 2020-Aug-23
+:END:
+
+******* Can I PM you?
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1598181593.0
+:DateShort: 2020-Aug-23
+:END:
+
+******** Sure. I probably won't respond til tomorrow or so though. I'm about to shut down for the night.
+:PROPERTIES:
+:Author: gwa_is_amazing
+:Score: 1
+:DateUnix: 1598182071.0
+:DateShort: 2020-Aug-23
+:END:
+
+
+** from a reader's perspective, my dream fanfiction writing app would have to be quite similar to ao3, I love the tagging, the options and the filters so much. I also honestly can't read in fft because it's so messy it makes me uncomfortable, so it would have to stay away from the mushed up format of the app. I would also really like if it had a library like in wattpad so you could keep up with the books easier.
+:PROPERTIES:
+:Author: xkaiserinx
+:Score: 2
+:DateUnix: 1598172517.0
+:DateShort: 2020-Aug-23
+:END:
+
+*** Oh I think you'll love Fanfiction Online's then. For me, AO3's tagging is near perfect, which is why I've implemented everything AO3 does and more to make it perfect.
+
+It has all of AO3's tags, with a much more friendly interface for tagging than AO3. One issue I do have with AO3 is that they have duplicate tags. Fanfiction Online has an automated process which intelligently removes and merges duplicate tags. That will help when the app scales.
+
+It has even better filtering for readers as well, which make your stories much more easier to find and read. You can check that out at [[https://fanfiction.online/read][fanfiction.online/read]]. Even though there aren't any published books yet, the filtering is working so you can check it out.
+
+#+begin_quote
+  I also honestly can't read in fft because it's so messy it makes me uncomfortable, so it would have to stay away from the mushed up format of the app.
+#+end_quote
+
+I assume you mean ffn. And the answer is yes.
+
+One thing that's new is the reading preferences. Sure, in AO3 you can change skins, but that's a lengthy and difficult process even if you want to do something as simple as make the font larger. And even more difficult on your phone. In Fanfiction Online, It's extremely simple to change the font size, background, font, paragraph spacing and much more.
+
+#+begin_quote
+  I would also really like if it had a library like in wattpad so you could keep up with the books easier
+#+end_quote
+
+It does, Fanfiction Online just calls them collections. You can add books to your collections easily. Users can create any number of Unlisted, Private or Public collections. Two default collections exist, Hidden & Favorites.
+
+Hidden is a special collection that allows you to hide any books you want from your search. This is a Private collection.
+
+Favorites is a Public collection. All books you favorite will show up in [[https://fanfiction.online/@your-profile/favorites][fanfiction.online/@your-username/favorites]]
+
+I wish there were published books so I could fully demonstrate how many features this site has. If you have any more suggestions, please mention so I can implement them. And if you're a writer, please start writing. Thanks alot!
+:PROPERTIES:
+:Author: eqwe32
+:Score: 2
+:DateUnix: 1598176798.0
+:DateShort: 2020-Aug-23
+:END:
+
+**** I think it's going to be a great app, especially since you are paying attention to important details and you are implementing the community's preferences. when do you reckon it'll be finished? thank you!
+:PROPERTIES:
+:Author: xkaiserinx
+:Score: 2
+:DateUnix: 1598203785.0
+:DateShort: 2020-Aug-23
+:END:
+
+***** Thanks alot! It *is* finished. Every feature I mentioned above has already been added. You can start writing from [[https://fanfiction.online/drafts/new][fanfiction.online/drafts/new]]. If you're not a writer, you'll have to wait until some authors start publishing their books. Meanwhile, feel free to go through the site and offer me ideas for new features you have in mind. Thanks again for your comment!
+:PROPERTIES:
+:Author: eqwe32
+:Score: 2
+:DateUnix: 1598222972.0
+:DateShort: 2020-Aug-24
+:END:
+
+
+** Google docs?
+
+Word?
+
+Scrivener?
+:PROPERTIES:
+:Author: HeirGaunt
+:Score: 1
+:DateUnix: 1598175029.0
+:DateShort: 2020-Aug-23
+:END:
+
+
+** The one of my dreams would be, One that comes with a A.I and uses a Brain-computer interface. So the brain-computer interface would add stuff as quick as I think it and the A.I. would help put it together and learn As i work with it. But we probably wont see something like that for at least another 30 years.
+:PROPERTIES:
+:Author: Call0013
+:Score: 1
+:DateUnix: 1598176424.0
+:DateShort: 2020-Aug-23
+:END:

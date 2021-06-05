@@ -1,0 +1,61 @@
+#+TITLE: How do you deal with improperly formatted fics on fanfiction.net?
+
+* How do you deal with improperly formatted fics on fanfiction.net?
+:PROPERTIES:
+:Author: laserthrasher1
+:Score: 5
+:DateUnix: 1474245161.0
+:DateShort: 2016-Sep-19
+:FlairText: Discussion
+:END:
+Hey, so, there's this really cool looking fic on fanfiction.net but it is [[https://goo.gl/oogE6d][improperly formatted]]. Do you have anything that can help me? An app that re-formats the text on screen?
+
+
+** I am not sure I understand what exactly is improper about the fragment you posted. Is it the indentation at the start of every paragraph?
+
+At any rate, I do not believe there is a technical problem requiring a technical solution. The easiest is probably to contact the author and ask nicely to fix it, explaining what and why is wrong.
+:PROPERTIES:
+:Author: AhoraMuchachoLiberta
+:Score: 2
+:DateUnix: 1474313494.0
+:DateShort: 2016-Sep-20
+:END:
+
+*** The author hasn't been active for years. I figured someone would probably have an app that fixed it... there's an app for everything now.
+:PROPERTIES:
+:Author: laserthrasher1
+:Score: 1
+:DateUnix: 1474313838.0
+:DateShort: 2016-Sep-20
+:END:
+
+**** Well, in this case the following tampermonkey (in Chrome, but something very similar or even identical would work in greasemonkey in FF) would fix the indentation issue:
+
+#+begin_example
+  // ==UserScript==
+  // @name         Remove paragraph indentation
+  // @namespace    http://tampermonkey.net/
+  // @version      0.1
+  // @description  try to take over the world!
+  // @author       You
+  // @match        https://www.fanfiction.net/s/885644/*
+  // @require http://code.jquery.com/jquery-latest.js
+  // @grant        none
+  // ==/UserScript==
+
+  (function() {
+      'use strict';
+
+      $(document).ready(function() {
+          $("p").each(function() {
+              $(this).html($(this).html().replace(/^(\s|&nbsp;)+/, ""));
+          });
+      });
+  })();
+#+end_example
+:PROPERTIES:
+:Author: AhoraMuchachoLiberta
+:Score: 1
+:DateUnix: 1474315624.0
+:DateShort: 2016-Sep-20
+:END:

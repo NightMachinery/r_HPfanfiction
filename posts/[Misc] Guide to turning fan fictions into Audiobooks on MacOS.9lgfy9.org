@@ -1,0 +1,175 @@
+#+TITLE: [Misc] Guide to turning fan fictions into Audiobooks on MacOS
+
+* [Misc] Guide to turning fan fictions into Audiobooks on MacOS
+:PROPERTIES:
+:Author: 1SoulShallNotBeLost
+:Score: 6
+:DateUnix: 1538690930.0
+:DateShort: 2018-Oct-05
+:FlairText: Misc
+:END:
+[[https://streamable.com/nwqbq][Sample Video of sound quality]].
+
+*This is a tutorial for downloading Fan Fictions and creating a computer read Audiobook for listening on the computer or iPhone.*
+
+/Caveats: This guide is for use with Mac OS and iPhone. I do not have the ability to test anything else. The whole process relies on the fact that MacOS allows you to select text and create a computer voiced audio file. Pronunciation is not always perfect and some listeners will not like the computerized voices./
+
+--------------
+
+*Step 1:* /Ensure you have the necessary tools./
+
+- *iTunes:* Preinstalled on MacOS
+
+- *Speech Tools:*
+
+  Apple Menu -> System Preferences -> Accessibility -> Speech (on the left)
+
+  Options for system voice: [[https://i.imgur.com/11kluhk.png][Example Image]]
+
+  - system voice -> Samantha (I have found it to be the most natural)
+  - Speaking rate -> Somewhere between ‘normal' and the next tick mark is what I prefer.
+  - You can test the different voices by pressing ‘Play' on this settings screen.
+
+  Note: you will see later on in this tutorial the option to select a different voice. It is still best to set the voice here because you can change the voice speed and install the high-quality version of the Samantha voice. The high quality voice will be an option if you select System Voice -> Customize... -> and select Samantha.
+
+  Second Note: You can almost stop the tutorial right here but I would advise continuing on. By turning on the checkmark ‘Speak selected text when the key is pressed' you can program MacOS to read any selected text to you. This includes opening Fanfiction.net in Safari, turning on reading mode in the URL bar, selecting the text and activating the keyboard shortcut for reading it aloud.
+
+- *iPhone:* /iBooks/ app, or /Audible/ app. This is used to play the files created on the computer and copied to the iPhone. iBooks is not great software (bad UI) but seems to be less buggy than Audible for really large files.
+
+- *Terminal:* Preinstalled on MacOS This app is found in Applications -> Utilities or but typing 'command-space' and searching for it. Terminal will be used for running a python script to pull Fan Fictions from over 100 fan fiction sites including fanfiction.net and AO3. Documentation for this tool can be found [[https://pypi.org/project/FanFicFare/][here]].
+
+  *Check 1:* In the terminal, type:
+
+  $ /python --version/
+
+  The return should say /'Python 2.7.10'/ or some similar version of python. If this command fails (it shouldn't), check out a tutorial on [[https://docs.python-guide.org/starting/install/osx/][installing python on a mac]].
+
+  *Check 2:* In the terminal, type:
+
+  $ /pip --version/
+
+  The return should say /'pip 9.0.1 ... '/ or some similar version of pip. If this command fails (it shouldn't), check out a tutorial on [[https://ahmadawais.com/install-pip-macos-os-x-python/][installing pip on a mac]]. Which basically says type 'sudo easy_install pip' which will require a password. Once it is installed double check that the 'pip --version' command works.
+
+- *FanFicFare:* This is the tool for downloading text files of fan fictions. To install it run the /Terminal/ app and type:
+
+  $ /pip install FanFicFare/
+
+  If this command is successful it will indicate so near the end of the print out. If it is not successful (it should work) it could be for a dozen different reasons. If it fails you can google the text stating where/why it failed, this debugging is outside the scope of this tutorial.
+
+  *Check:* In the terminal, type:
+
+  $ /FanFicFare --version/
+
+  The return should say /'Version: 2.20.0'/ or some similar version of FanFicFare. [[https://i.imgur.com/zqJim0G.png][Example Image of previous commands from python, pip, and fanficfare setup]].
+
+--------------
+
+*Step 2:* /Download fan fictions and create Audiobooks. If you made it here, all the necessary tools are installed and working as expected./
+
+- *USING FANFICFARE TO DOWNLOAD FICS*
+
+  All downloading will take place in the /Terminal/ app. Open the terminal and navigate to the directory where you would like to store the fics. The default location when opening Terminal is your home directory. One suggestions would be to change directories to Documents. This is done by typing 'cd Documents/'.
+
+  To download a fic in the required format the command to run in Terminal is of this format:
+
+  $ fanficfare -p -f <format> <URL>
+
+  Example:
+
+  $ fanficfare -p -f txt [[https://www.fanfiction.net/s/5554780/1/Poison-Pen]]
+
+  The -p means a progress bar will show the download progress (I believe it is showing # of requests to the website which is probably based on # of chapters)
+
+  The -f <format> allows for changing the downloaded format, epub is the default but txt is needed for the next part of the tutorial. so '-f txt' is an important part of the command. If you want more info on FanFicFare you can type 'fanficfare -h' to see the available commands and options.
+
+  [[https://i.imgur.com/1tNyiFP.png][Example image]].
+
+- *CREATING THE AUDIOBOOK*
+
+  - Open the desired downloaded fan fiction file.
+  - Type 'command-A' to select ALL the text.
+  - Right-click -> Services -> Add to iTunes as Spoken Track. [[https://i.imgur.com/mH6AS7r.png][Example Image]].
+  - Fill in details: Change 'System Voice' to Samantha or preferred voice (this must be done every time). Give the file a name in the 'Save As' dialog box. The 'Where' is where the intermediate audio file is saved, keep in mind this location because the audio file is LARGE and once it copies into iTunes there is two files, this one and the iTunes one. Click 'Continue'. [[https://i.imgur.com/FR74nxk.png][Example Image]].
+
+  These steps should start the converting process. Once complete iTunes will be opened and the audio file is copied inside. [[https://i.imgur.com/593k4Cn.png][Example Image]]. The end is not here yet. Once the file is copied into iTunes, it will convert. Once it is done converting you must manually delete the intermediate file. This file is wherever the dialog box for creating the audio file specified in the 'Where' dialog box which is likely in your 'Music' folder.
+
+  Inside the iTunes app you now should move the audio file from Music into Audiobooks by right-clicking the file -> Album Info -> Options Tab -> Media Kind -> Set as Audiobook. [[https://i.imgur.com/5IWnkni.png][Example Image]].
+
+  Now you can change iTunes view to the Audiobooks view via the drop-down under the play button, and view all your Audiobooks. [[https://i.imgur.com/RuovZt7.png][Example Image]]. The "Audiobooks" you create will not have any details but the file name. I suggest filling in as much detail as you want but specifically the Title to avoid separate "Audiobooks" being grouped as chapters to a single audiobook. I prefer to copy the details from the <fanfiction>.txt; like author, date, description, etc. I also google images related to the description and attach them to make them look nicer when playing them from my phone. [[https://i.imgur.com/MNyI42h.png][Example Image]].
+
+--------------
+
+*Step 3:* /Enjoy./ You can copy these files to your iPhone from iTunes.
+
+--------------
+
+*Extra Details:* /If you have questions I can answer them and update this section or any section./
+
+1) File sizes:
+
+File sizes will roughly scale predictably, here are a few examples:
+
+| Word Count | Text File Size | Audio File Size | Length (H:M:S) |
+|------------+----------------+-----------------+----------------|
+| 42,000     | 240 KB         | 150 MB          | 2:37:00        |
+| 140,000    | 740 KB         | 510 MB          | 8:37:00        |
+| 400,000    | 2.3 MB         | 1.5 GB          | 25:15:00       |
+
+As you can see the files can become quite large, this is why it is important to delete the intermediate audio file created, the one in the Music directory not the one stored within iTunes Library.
+
+--------------
+
+2) Breaking large books into chapters:
+
+You can break up files into smaller chunks and create an audio file for each chunk, calling them different names, like /story 1/, /story 2/, and /story 3/ then grouping them by calling them the same title once they are in the audiobook section of iTunes. A command for breaking the files quickly and easily from Terminal is:
+
+#+begin_quote
+  $ split -b 1000k Harry\ Crow-ffnet_8186071.txt
+#+end_quote
+
+In that example the size is 1000k or 1MB chunks. This will create roughly 4 chunks for the story Harry Crow because it is 3+ MB and each chunk will be an audio chapter of about 12-13 hours (the 4th chunk will be smaller). The new chunk files are named 'xaa' for the 1st chunk, 'xab' for the 2nd, 'xac' for the 3rd, etc.
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1538692718.0
+:DateShort: 2018-Oct-05
+:END:
+
+*** I'd use it if I could stand the robotic voice. I really wish we had A.I. on the level of JARVIS in Iron Man or something.
+:PROPERTIES:
+:Author: AutumnSouls
+:Score: 2
+:DateUnix: 1538695788.0
+:DateShort: 2018-Oct-05
+:END:
+
+
+*** Cool. After hearing this I checked it out. iOS ff app also has it. It's very robotic and slow but a useful feature I can imagine. The voice from MacOS is much smoother and natural though.
+:PROPERTIES:
+:Author: 1SoulShallNotBeLost
+:Score: 1
+:DateUnix: 1538703822.0
+:DateShort: 2018-Oct-05
+:END:
+
+
+*** I think it would be perfect if they would just let us choose our own TTS engine
+:PROPERTIES:
+:Author: SurbhitSrivastava
+:Score: 1
+:DateUnix: 1538734026.0
+:DateShort: 2018-Oct-05
+:END:
+
+
+** Here is a recording of what the voice sounds like reading a ff. [[https://streamable.com/nwqbq][here]]
+
+The sound sounds more compressed on the website but you can get an idea.
+:PROPERTIES:
+:Author: 1SoulShallNotBeLost
+:Score: 1
+:DateUnix: 1538704129.0
+:DateShort: 2018-Oct-05
+:END:

@@ -1,0 +1,95 @@
+#+TITLE: How to save a fict to read later
+
+* How to save a fict to read later
+:PROPERTIES:
+:Score: 9
+:DateUnix: 1397503057.0
+:DateShort: 2014-Apr-14
+:FlairText: Suggestion
+:END:
+I have been running around trying to find ways to save fanfiction to read later. The problem with the older and bigger fandoms [like Harry Potter] is that not all of the stories are on ffnet or AO3 where they are easy to grab but are on livejournals and other sites that aren't supported by the regular downloaders. So I found all the ways I can to download or save a fict and made a sort of tutorial about it. Feel free to comment here or on the post itself if you are confused about something.
+
+[[http://fandomraven.wordpress.com/2014/04/14/fanfiction-to-go-fan-school/][Fanfiction to Go]]
+
+
+** Looks pretty cool. Thank you
+:PROPERTIES:
+:Author: skydrake
+:Score: 1
+:DateUnix: 1397504840.0
+:DateShort: 2014-Apr-15
+:END:
+
+*** No probs. ^{_^}
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1397505854.0
+:DateShort: 2014-Apr-15
+:END:
+
+
+** I've read that recently FF.net did some work arounds to to make it so that you could no longer grab text with the available tools. Is that true? I've always manually copied and pasted, but I'd be interested to know if there is anything currently that works?
+:PROPERTIES:
+:Author: this-wonderful-life
+:Score: 1
+:DateUnix: 1397535009.0
+:DateShort: 2014-Apr-15
+:END:
+
+*** Fanfictiondownloader (Calibre plugin or standalone) - Best
+
+Ficsave - Don't need to download an app, but I've had issues with it and the kindle app. You'd have random unicode character everywhere and it makes it hard to read. Others has had better luck though
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1397536828.0
+:DateShort: 2014-Apr-15
+:END:
+
+**** Seconded in both cases. My experience with FicSave has been frustrating for precisely those reasons. As for FFdownloader, it is the next best thing to FlagFic.
+:PROPERTIES:
+:Author: duriel
+:Score: 1
+:DateUnix: 1397604613.0
+:DateShort: 2014-Apr-16
+:END:
+
+***** But FLAGFic is down as they are working on it so it's not really a viable suggestion.
+
+FicSave has been good for me. I use it on the longer ficts and have done so on my computer and mobile without any issues.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1397639406.0
+:DateShort: 2014-Apr-16
+:END:
+
+
+*** All the methods I mention work. I tested them a week or so before posting this. If anthing else, saving it as an HTML file and then converting it in Calibre will work no matter what and of course copy/pasting [if they don't disable right clicking].
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1397565065.0
+:DateShort: 2014-Apr-15
+:END:
+
+
+** The format you get doesn't really matter as there is plenty of online converters
+
+I prefer FB2 - this one handles all of that. Same site has converters for all other major formats.
+
+[[http://ebook.online-convert.com/convert-to-fb2]]
+
+FanfictionDownloader as AbareKiller mentioned is also a very good way to save all the stories from FF.net and some other sites with single click
+:PROPERTIES:
+:Author: flupo42
+:Score: 1
+:DateUnix: 1397571020.0
+:DateShort: 2014-Apr-15
+:END:
+
+*** That's why I mentioned Calibre. It converts, organizes, downloads the ficts, etc... I already mentioned FanFiction Downloader but did you know they had a web app as well? I use it when I am on my phone and can't use calibre at the moment. :)
+
+But it's good to have alternatives.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1397571645.0
+:DateShort: 2014-Apr-15
+:END:

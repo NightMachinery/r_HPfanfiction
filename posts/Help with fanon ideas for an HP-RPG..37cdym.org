@@ -1,0 +1,242 @@
+#+TITLE: Help with fanon ideas for an HP-RPG.
+
+* Help with fanon ideas for an HP-RPG.
+:PROPERTIES:
+:Author: Ruljinn
+:Score: 8
+:DateUnix: 1432657532.0
+:DateShort: 2015-May-26
+:FlairText: Misc
+:END:
+I'm running a game set in a canon-ish version of the HP universe, but using ideas from fanfics to fill in any details or characters rather than inventing from whole cloth.
+
+I'm trying to avoid any direct contradictions, but open to any suggestions regarding any details (and preferably what fic the idea came from or was best handled in.)
+
+As an example I plan to borrow Cassandra Yaxley from [[https://www.fanfiction.net/s/6611208/1/Trust-Is-A-Relative-Thing][Trust is a Relative Thing]] as non Weasley/Quiditch based upper year character.
+
+
+** I ran a HP RPG with GURPS quite a while ago.
+
+Your post is awfully vague, to be honest. I could give you some advice if I get some questions first. One of my questions would, of course, be: What system are you using and are you sure it handles the magic system well? What kind of story will your players go through and in what era?
+
+And for a general tip: Have the HP wiki handy when you GM.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 3
+:DateUnix: 1432663561.0
+:DateShort: 2015-May-26
+:END:
+
+*** The vagueness is because I hadn't really figured out a system. I wasn't sure it was worth having a system to arbitrate what is really a ridiculously goofy magic system. If you can think of a system that can handle it I'll look into it. Any advice you can offer would be appreciated.
+
+They're playing through Harry's school years, but aren't allowed to play as Harry. Harry is the game's living breathing maguffin. If the players get into combat and it's do or die, chances are they lose. I'm thinking of it more as writing a piece of fanfiction where my main characters are self aware and able to decide things for themselves. I just tell them what happens based on how they decide to go about things.
+
+Story wise they're all going to be playing self inserts of a sort. I'm aiming for "hilarity ensues" as a general state of being for the game. It isn't meant to be terribly serious, but I want it to be consistent. They have to try and manipulate Harry, and the general Hogwarts population, etc into not dying. IFF there were a person playing Harry, their mission would be to die in the most hilarious and believable ways possible.
+
+I'm not sure if I expect them to survive the train ride to first year without having things go wrong.
+:PROPERTIES:
+:Author: Ruljinn
+:Score: 3
+:DateUnix: 1432664045.0
+:DateShort: 2015-May-26
+:END:
+
+**** For systems there are three possibilities in my mind:
+
+1. GURPS - Its incredibly vast and can simulate anything with dicerolls if you want. It can also just provide some general guidelines for your game. However, knowing the system as GM is necessary to make it flexible. I'd mainly suggest this because of the fair and interesting Character Creation system. Start with [[http://www.warehouse23.com/products/SJG31-0004][GURPS Lite]] to run your game.
+
+2. Fate - More lightweight than GURPS and unable to reach its complexity. But thats probably what you want anyway. I had some decent games with it, but as always with these things: The lighter the rules, the more disciplined the players need to be. Use [[http://www.faterpg.com/][FateCore]]
+
+3. Freeform Universal - the RPG system in the Superlightweight-class. The whole system has 23 pages of introduction. You could literally let your players read the rules and create their characters while preparing dinner. If you're searching for a mere framework for free roleplaying in order to keep some sort of ruleset, this is the system for you. Due to its light rules it also handles magic systems very well. Look ate the *pdf* [[https://img.4plebs.org/boards/tg/image/1382/92/1382929649988.pdf][here]]
+
+A fun little thing I can think of is to let them create their characters before entering Hogwarts and then go through the sorting process on the site [[https://www.pottermore.com/en/sorting-hat][Pottermore]] while pretending to be their character. Its some initial adding of character depth and gets them in the mood.
+
+Another thing I did was to give them one special ability at a low level. One chose to be a metamorphmagus who was unable to change more than one thing on his body at one time. Another was a natural Legilimens, another came from a "Ancient and Noble House" (hence being quite good at speech related skills) and the fourth decided to have a knack for DADA. You could tell them to choose one ability (or for hilarity, disadvantage) that would make the whole thing more interesting. Having a allergy to floo powder that lets one tung swell turned out to be the funniest thing ever.
+
+Also set limiters for their character creation. Obviously one can't play a Draco Malfoy copy /and/ look out for Harry.
+
+I'd make them enter the fray as some sort of "Weasley replacement" in the train to Hogwarts. I think the first conversation with Harry would be a good place to start.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 6
+:DateUnix: 1432667401.0
+:DateShort: 2015-May-26
+:END:
+
+***** Fortunately character creation is simplified by the fact that they're playing themselves. They're replacing canon character's minds with their own and then running with it.
+
+Example, two of them are going to play Susan Bones and Hannah Abbott. They know everything that they (players) know, but only get vague impressions of what Susan and Hannah knew. The challenge is to have no one twig to the fact that they've pod people'd the characters.
+
+So in your example, the Draco copy wouldn't be a Copy, it would be one of them puppetting Draco's body around... but your caveat still stands. Draco being friends with Harry will generally be investigated by Lucius and, by the transitive properties of gossip, trigger the "they lose if Voldemort finds out about them" loss condition.
+:PROPERTIES:
+:Author: Ruljinn
+:Score: 2
+:DateUnix: 1432669223.0
+:DateShort: 2015-May-27
+:END:
+
+****** u/UndeadBBQ:
+#+begin_quote
+  Fortunately character creation is simplified by the fact that they're playing themselves. They're replacing canon character's minds with their own and then running with it.
+#+end_quote
+
+Oh, I didn't get that before. Thats a pretty cool idea.
+
+Will the Sorting Hat see the original characters mind or the players mind when sorting?
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 1
+:DateUnix: 1432670521.0
+:DateShort: 2015-May-27
+:END:
+
+******* u/Ruljinn:
+#+begin_quote
+  Will the Sorting Hat see the original characters mind or the players mind when sorting?
+#+end_quote
+
+I haven't figured that out for sure yet...
+
+I figure that the sorting hat has a magical NDA, but might play malevolent genie as a form of protest against demons/outsiders/etc possessing students in it's school. Sorting students in unexpected ways as a means of drawing attention to them.
+
+At the same time it's a game, and I want them to have fun, so I want them to have some control over their character's sorting...
+:PROPERTIES:
+:Author: Ruljinn
+:Score: 2
+:DateUnix: 1432671490.0
+:DateShort: 2015-May-27
+:END:
+
+******** I made the experience that players enjoy it to be fucked with. Make them pretend to be the character at the sorting. If they fail, they get sorted into a house that doesn't suit them.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 5
+:DateUnix: 1432672465.0
+:DateShort: 2015-May-27
+:END:
+
+********* I wonder if there's a /good/ sorting hat quiz out there...
+
+I'm also abusing the notion that something must be pre-sorting the students because otherwise the houses would be out of balance from year to year instead of 5 boys and 5 girls being evenly distributed to each.
+:PROPERTIES:
+:Author: Ruljinn
+:Score: 1
+:DateUnix: 1432823586.0
+:DateShort: 2015-May-28
+:END:
+
+********** I always thought that the Sorting Hat probably got the command to distribute them equally and if one House is "full" just take the next best one for the candidate.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 2
+:DateUnix: 1432832617.0
+:DateShort: 2015-May-28
+:END:
+
+*********** Maybe. But that means that Blaise gets no input on his future just because his family name is Zabini. Given what we've seen is possible with HP's magic system... perhaps all the sorting conversations and announcements happen near simultaneously from the Hat's perspective. Or the Hat is simply a prop/distraction to get the firsties to focus their sorting while the castle rummages about in their head.
+
+Fortunately my players seem to be fine with taking multiple days to get on the bloody Hogwarts Express... so I don't need an answer to anything all that fast.
+:PROPERTIES:
+:Author: Ruljinn
+:Score: 1
+:DateUnix: 1432832863.0
+:DateShort: 2015-May-28
+:END:
+
+
+*** Which of the GURPS magic systems did you use?
+:PROPERTIES:
+:Author: Lowsow
+:Score: 2
+:DateUnix: 1432683811.0
+:DateShort: 2015-May-27
+:END:
+
+**** A modified version of the standard system.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 1
+:DateUnix: 1432710935.0
+:DateShort: 2015-May-27
+:END:
+
+***** My general assumption is that if my characters get into combat or any other situation where I suddenly need a rule system to handle rapid spellfire... They've already lost. I'm really hoping I can stick to that... but Since players tend to take option Z whenever possible... /modified/ how?
+:PROPERTIES:
+:Author: Ruljinn
+:Score: 1
+:DateUnix: 1432823482.0
+:DateShort: 2015-May-28
+:END:
+
+****** Relatively easy, tbh.
+
+GURPS provides a easy to handle skill system. For every form of magic and magical practice (Transfiguration, Charms, Curses/DADA,...) you create a skill.
+
+If a player wants to cast a spell he first rolls on the general skill like any skill in GURPS is rolled on with 3d6. (Depending on the sort of spells, standard modifier (for example: projectile distance, etc) apply). Then we added modifiers for three things: Intent, wand movement, magical exhaustion. For every one of those modifiers, the player rolls 1d4 with the d6 (preferably in different colors or otherwise marked).
+
+*Intent:* 1=The Character failed to visualize the spell. It failed (in early years) or is weak. 2,3= The spell works as usual. 4= The character had a clear picture in his head. The spell works better than normal.
+
+*wand movement* 1=The Character moved his wand wrong, the spell fails or is weakened. 2,3=Good enough wand movement, the spell works. 4=Precise movements make the spell perfect (add another effect, or contribute to general roll)
+
+*magical exhaustion:* 1=The spell channels badly and costs a great amount of energy (Remove 1-5 FP, depending on difficulty of spell). 2= The spell costs the usual amount of energy, 3,4=The spell costs no energy
+
+A much easier method is the system Freeform Universal provides, in which you only roll 1d6. The system works as follows:
+
+6: *Yes, and...* - You get what you want, and something more / Success of epic proportions
+
+5: *Yes* - You get what you want./Complete success
+
+4: *Yes, but...* - You get what you want, but at a cost./Success by the smallest margin
+
+3: *No, but..* - You don't get what you want, but its not a total loss/ Failure by the smallest margin
+
+2: *No* - You don't get what you want/ Complete failure
+
+1: *No, and* - You don't get what you want and it gets worse / Epic failure with a cherry on top
+
+I think this would be more up your alley. Its incredibly fast to play with and drives the story fowards with every roll of the dice. I'd honestly recommed this one for your plans.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 2
+:DateUnix: 1432832450.0
+:DateShort: 2015-May-28
+:END:
+
+******* I feel like this adds a lot of random chance to what might be really simple things... but on the other hand 'magic is hard' might explain a few things. But maybe if I make it possible to have spells become second nature rather than things you have to roll intent for.
+
+The freeform stuff seems like it would induce a magical detonation every class period if 1/6 of the student body "No, and..." 's every class.
+:PROPERTIES:
+:Author: Ruljinn
+:Score: 1
+:DateUnix: 1432832720.0
+:DateShort: 2015-May-28
+:END:
+
+******** The Freeform system really depends on the GM. He has to judge wether or not the failure is actually that bad. For example, take the Wingardium Leviosa class. I'd say that the worst case scenario there would be Finnigan burning his feather. "No, and" situation could also include that Flitwick sees you fooling around, your peers laugh at you for pronouncing it stupid, you sting yourself in the eye,...
+
+The first system really does add a lot of random chance. But note that there is actually just one time when a spell that is known to the player actually fails. The other times its just weak. A method would be to add success margins on the general roll that can manipulate the 1d4 rolls. For example, a success margin of 3 on the general skillroll gives you a +1 for a 1d4 roll of choice.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 2
+:DateUnix: 1432833545.0
+:DateShort: 2015-May-28
+:END:
+
+
+** Would love to Alpha/Beta test if you get further along with this. :)
+:PROPERTIES:
+:Author: hugggybear
+:Score: 1
+:DateUnix: 1432657604.0
+:DateShort: 2015-May-26
+:END:
+
+*** Well, its more of a glorified story time with [[/u/ruljinn]] than anything I'm developing a system for. The friend's that have me running it while our D&D DM is hiding in Ireland aren't much interested in rules so much.
+
+I explained it to them as a Possession Sue game, where their goal is to have Harry survive to graduation. They lose if Harry dies, or if either Tom or Albus discover that they're outsiders possessing students.
+:PROPERTIES:
+:Author: Ruljinn
+:Score: 2
+:DateUnix: 1432657858.0
+:DateShort: 2015-May-26
+:END:

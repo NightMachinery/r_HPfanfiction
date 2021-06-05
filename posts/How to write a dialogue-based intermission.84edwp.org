@@ -1,0 +1,102 @@
+#+TITLE: How to write a dialogue-based intermission?
+
+* How to write a dialogue-based intermission?
+:PROPERTIES:
+:Author: PixelKind
+:Score: 0
+:DateUnix: 1521042444.0
+:DateShort: 2018-Mar-14
+:FlairText: Discussion
+:END:
+So like I want to build a character relationship over a period of time where nearly nothing happens, and I'm not quite sure /how/ to do it, specifically?
+
+So Harry has another person in his head, so the narrative bits would just be '/Harry laid in bed/' or '/Harry stared blankly at the wall while he talked in his head/' so should I just throw those bits out and leave it pure dialogue?
+
+
+** I'd use prose and not dialogue.
+:PROPERTIES:
+:Author: TE7
+:Score: 10
+:DateUnix: 1521044259.0
+:DateShort: 2018-Mar-14
+:END:
+
+
+** I agree with TE7's comment of doing it with prose. Don't just leave the dialogue, that sounds quite boring and bland. There is way more that you can say other than "Harry laid in bed and stared at the wall". Describe Harry's feelings, what he is thinking, doing with his hands or expressions, reactions, how the other voice sounds , etc. Maybe look at some examples where the main character is speaking someone in their head.
+
+One fic I like that does this well is linkffn(Harry potter and the accidental Horcrux). There are whole sections where it's just Harry talking to Tom Riddle in his head and yet none of it is boring because it's not just dialogue between the two of them.
+:PROPERTIES:
+:Author: dehue
+:Score: 2
+:DateUnix: 1521048742.0
+:DateShort: 2018-Mar-14
+:END:
+
+*** [[http://www.fanfiction.net/s/11762850/1/][*/Harry Potter and the Accidental Horcrux/*]] by [[https://www.fanfiction.net/u/3306612/the-Imaginizer][/the Imaginizer/]]
+
+#+begin_quote
+  In which Harry Potter learns that friends can be made in the unlikeliest places...even in your own head. Alone and unwanted, eight-year-old Harry finds solace and purpose in a conscious piece of Tom Riddle's soul, unaware of the price he would pay for befriending the dark lord. But perhaps in the end it would all be worth it...because he'd never be alone again.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 52 *|* /Words/: 273,485 *|* /Reviews/: 2,204 *|* /Favs/: 2,991 *|* /Follows/: 2,690 *|* /Updated/: 12/18/2016 *|* /Published/: 1/30/2016 *|* /Status/: Complete *|* /id/: 11762850 *|* /Language/: English *|* /Genre/: Adventure/Drama *|* /Characters/: Harry P., Voldemort, Tom R. Jr. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11762850&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11762850&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1521048768.0
+:DateShort: 2018-Mar-14
+:END:
+
+
+*** I mean for the most part its gonna be prose but i was thinking of having an 'intermission' between Harry in Diagon Alley (thats when the voice is awakened) and when he goes to Kings Cross? And that'd just be like, bits of conversation between the two of them that characterize their developing dynamic, without me having to write full scenes?
+:PROPERTIES:
+:Author: PixelKind
+:Score: 1
+:DateUnix: 1521052650.0
+:DateShort: 2018-Mar-14
+:END:
+
+**** When I say 'I'd use prose' I don't mean 'write a normal scene' I mean I'd literally use prose, and not dialogue, to hold the conversations.
+
+IE: Rather than: "Why would I want to roll around in a bathtub filled with asparagus?" Harry asked the voice in his head.
+
+Do something like: Roll around in a bathtub filled with asparagus? That seemed like an odd thought. Why would anyone ever possibly want to do that?
+
+Hey, you never know, don't knock it till you try it.
+
+Nope. Too strange. Not going to try that.
+
+Back to non-examples now:
+
+I'm of the opinion that dialogue, as a whole, should only be used specifically for the spoken word. So unless Harry is literally saying these things, I wouldn't use dialogue. If Harry is speaking aloud to nothing like a crazy person, then I would use dialogue.
+
+But given that I doubt the voice inside his head is actually emitting a sound to the rest of the world, I then would not use dialogue for it's responses, but rather write them as prose like I did above.
+
+Also, if Harry is aware of said entity in his head then I would do something to separate what is Harry from what is not Harry. Likely I would just italicize what is not Harry.
+
+If Harry is not aware of it I would prod the reader in that direction with subtle shifts in tone whenever it's not specifically Harry's thoughts and try to make the narration seem a little schizophrenic to indicate something was going on.
+
+I actually do a lot of this in the latter chapters of Limpieza De Sangre. There are quite a few scenes when the actual 'prose' of the scene is a conversation happening in Harry's head. The opening scene of chapter 28 is probably the most 'overt' example of this.
+
+But at this point Harry is not aware that there is a voice inside his head, as it were. So he treats it as his own thoughts, more or less. And since the narrative perspective is third person focused on Harry, I don't do much more than provide a few hints here and there of what's actually going on. It's enough, I think, that if Harry were to sit and think about it he'd be able to figure it out. But given that it has melded with his thoughts by being a very slow process that occurs throughout the vast majority of the story, he isn't cognitively aware that it is happening.
+:PROPERTIES:
+:Author: TE7
+:Score: 4
+:DateUnix: 1521060722.0
+:DateShort: 2018-Mar-15
+:END:
+
+***** Oh... that makes a lot more sense than what I was doing.
+
+Buckets of Thank
+:PROPERTIES:
+:Author: PixelKind
+:Score: 2
+:DateUnix: 1521067515.0
+:DateShort: 2018-Mar-15
+:END:

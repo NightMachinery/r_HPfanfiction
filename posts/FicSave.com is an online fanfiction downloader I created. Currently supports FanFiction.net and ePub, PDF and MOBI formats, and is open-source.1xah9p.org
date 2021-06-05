@@ -1,0 +1,220 @@
+#+TITLE: FicSave.com is an online fanfiction downloader I created. Currently supports FanFiction.net and ePub, PDF and MOBI formats, and is open-source!
+
+* FicSave.com is an online fanfiction downloader I created. Currently supports FanFiction.net and ePub, PDF and MOBI formats, and is open-source!
+:PROPERTIES:
+:Author: waylaidwanderer
+:Score: 52
+:DateUnix: 1391797959.0
+:DateShort: 2014-Feb-07
+:END:
+For those of you who love reading fanfics offline as often as I do, you'll know the empty hole that FlagFic left behind. To fill that hole I created [[http://ficsave.com][FicSave.com]], which currently only has support for FanFiction.net (with more to come) and can deliver ebooks in ePub, PDF and MOBI format.
+
+[[http://ficsave.com][FicSave]] is also open-source, so you can check out the GitHub repo (linked from the site) to see the site code and how it works, and even create your own copy of the site.
+
+Please give it a try! Any feedback is appreciated.
+
+
+** ...I think I love you...
+:PROPERTIES:
+:Score: 9
+:DateUnix: 1391803831.0
+:DateShort: 2014-Feb-07
+:END:
+
+*** <3
+:PROPERTIES:
+:Author: waylaidwanderer
+:Score: 3
+:DateUnix: 1391827378.0
+:DateShort: 2014-Feb-08
+:END:
+
+
+** See, told you to post it here ;)
+
+Have you posted it to [[/r/Sherlock_Fanfiction]] yet? I bet they would appreciate it too.
+:PROPERTIES:
+:Author: grace644
+:Score: 3
+:DateUnix: 1391811195.0
+:DateShort: 2014-Feb-08
+:END:
+
+*** No but I will!
+:PROPERTIES:
+:Author: waylaidwanderer
+:Score: 5
+:DateUnix: 1391811645.0
+:DateShort: 2014-Feb-08
+:END:
+
+**** It's now not letting me use it :( It worked on my first pdf, but it goes to error 524 after a minute and 40 seconds. I waited over night to try it again, but it is still giving me the same results.
+:PROPERTIES:
+:Author: grace644
+:Score: 1
+:DateUnix: 1391891193.0
+:DateShort: 2014-Feb-08
+:END:
+
+***** It's caused by all those chapters that need to be grabbed and then converted to PDF, which takes longer compared to ePub and MOBI.
+
+After a bunch of testing, I deduced that it's timing out because of the browser itself. Each browser has a max request time because the connection is closed, and I can't change it server-side. I'm going to have to fix the script to speed up the grabbing process somehow.
+:PROPERTIES:
+:Author: waylaidwanderer
+:Score: 3
+:DateUnix: 1391894875.0
+:DateShort: 2014-Feb-09
+:END:
+
+****** You could also create a server session (referenced via cookie or generated id as get-parameter) and present the user with a waiting page. That way the processing can take as long as it needs to and the user gets a quick reply instead of waiting on a perpetually loading page. You could even use ajax-polls in the background or timed page reloads coupled with a server-side redirect to the download once the processing is finished.
+:PROPERTIES:
+:Author: Hofferic
+:Score: 3
+:DateUnix: 1392213053.0
+:DateShort: 2014-Feb-12
+:END:
+
+
+****** aww shoot. Well, let me know if you get it changed. :) I still have one of my favorites saved in PDF so that makes me really happy.
+:PROPERTIES:
+:Author: grace644
+:Score: 1
+:DateUnix: 1391894964.0
+:DateShort: 2014-Feb-09
+:END:
+
+
+** I keep getting [[http://i.imgur.com/sjsoxvg.png][this error]] when downloading PDFs. ePub downloading works consistently for me, though.
+:PROPERTIES:
+:Author: elementary-penguin
+:Score: 3
+:DateUnix: 1391809288.0
+:DateShort: 2014-Feb-08
+:END:
+
+*** About how long did it take to timeout? PDFs take longer to generate so I might need to increase the timeout setting.
+:PROPERTIES:
+:Author: waylaidwanderer
+:Score: 2
+:DateUnix: 1391811615.0
+:DateShort: 2014-Feb-08
+:END:
+
+**** I just timed it and it happened after about 70 seconds.
+:PROPERTIES:
+:Author: elementary-penguin
+:Score: 1
+:DateUnix: 1391812158.0
+:DateShort: 2014-Feb-08
+:END:
+
+***** Try it again and let me know if it works. Also, give me the fanfic link so I'll be able to try to reproduce it here too.
+:PROPERTIES:
+:Author: waylaidwanderer
+:Score: 3
+:DateUnix: 1391827494.0
+:DateShort: 2014-Feb-08
+:END:
+
+****** I was actually trying different stories, but here's the one I did just now: [[https://www.fanfiction.net/s/2612486/1/No-Mouth-But-Some-Serpent-s]]
+
+Same error, but this time it went for 100 seconds before timing out.
+:PROPERTIES:
+:Author: elementary-penguin
+:Score: 1
+:DateUnix: 1391888328.0
+:DateShort: 2014-Feb-08
+:END:
+
+******* After a bunch of testing, I deduced that it's timing out because of the browser itself. Each browser has a max request time because the connection is closed, and I can't change it server-side. I'm going to have to fix the script to speed up the grabbing process somehow.
+:PROPERTIES:
+:Author: waylaidwanderer
+:Score: 2
+:DateUnix: 1391894853.0
+:DateShort: 2014-Feb-09
+:END:
+
+
+** Waahoo AMAZING thank you
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1391813574.0
+:DateShort: 2014-Feb-08
+:END:
+
+*** You're welcome!
+:PROPERTIES:
+:Author: waylaidwanderer
+:Score: 2
+:DateUnix: 1391827385.0
+:DateShort: 2014-Feb-08
+:END:
+
+
+** Thank you so much! Since losing FlagFic I have been copying into Word and sending to Kindle, which is a big pain.
+:PROPERTIES:
+:Author: sitman
+:Score: 1
+:DateUnix: 1391867440.0
+:DateShort: 2014-Feb-08
+:END:
+
+*** How were you copying to word? I couldn't Ctrla+a or right click! :(
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1392090995.0
+:DateShort: 2014-Feb-11
+:END:
+
+**** Using Firefox hit Alt-V and choose No Style.
+:PROPERTIES:
+:Author: sitman
+:Score: 1
+:DateUnix: 1392126759.0
+:DateShort: 2014-Feb-11
+:END:
+
+
+** Commenting so I don't forget about this magical place.
+:PROPERTIES:
+:Author: stwatchman
+:Score: 1
+:DateUnix: 1391879735.0
+:DateShort: 2014-Feb-08
+:END:
+
+
+** Please have my babies
+
+Also could you add the functionality to mail the file to my email?
+
+I have a kindle and Flagfic used to do this it would mail the file directly to my @amazon.com account and it would be automagically downloaeded to my kindle
+:PROPERTIES:
+:Author: Notosk
+:Score: 1
+:DateUnix: 1392126244.0
+:DateShort: 2014-Feb-11
+:END:
+
+
+** As an avid fanfic reader and semi neglectful writer, I worship your ingenuity.
+
+Does your tool support adultfanfiction.net by any chance?
+
+<3's
+
+Sam
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1392595765.0
+:DateShort: 2014-Feb-17
+:END:
+
+
+** Seeing as the other downloader went down a couple of months ago and I now have SO MUCH FANFIC I NEED TO DOWNLOAD I just wanted to say thank you.
+:PROPERTIES:
+:Author: belbites
+:Score: 1
+:DateUnix: 1395270525.0
+:DateShort: 2014-Mar-20
+:END:

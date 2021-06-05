@@ -1,0 +1,123 @@
+#+TITLE: Update from FFN Admin about the Security Issue
+
+* Update from FFN Admin about the Security Issue
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 78
+:DateUnix: 1540485643.0
+:DateShort: 2018-Oct-25
+:END:
+There has been an update from the FFN admin on Twitter (can't be assed to link on mobile during my lunch break). The currently known attack vector has been plugged and he/they are performing a security review of the entire site.
+
+
+** [[https://twitter.com/FictionPress/status/1055293042092109827]]
+:PROPERTIES:
+:Author: theseareusernames
+:Score: 29
+:DateUnix: 1540488988.0
+:DateShort: 2018-Oct-25
+:END:
+
+
+** "Only" took them 2 days. Wow. Couldn't even be bothered to warn their users in any way that there was a serious security issue with their site. How hard is it to put a warning banner or pop-up on all pages (hint: not hard at all)?
+
+Pretty embarrassing and I already had quite low expectations of them.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 51
+:DateUnix: 1540494972.0
+:DateShort: 2018-Oct-25
+:END:
+
+*** Keep in mind I'm pretty sure the whole FF.net operation is one guy.
+:PROPERTIES:
+:Author: The_Truthkeeper
+:Score: 44
+:DateUnix: 1540507948.0
+:DateShort: 2018-Oct-26
+:END:
+
+**** The admin is just one guy. Might be a tiny mod team from what I've heard though.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 27
+:DateUnix: 1540508350.0
+:DateShort: 2018-Oct-26
+:END:
+
+
+**** Is this supposed to be an excuse or are you trying to make them look even more incompetent?
+:PROPERTIES:
+:Author: Deathcrow
+:Score: -2
+:DateUnix: 1540544796.0
+:DateShort: 2018-Oct-26
+:END:
+
+***** I'm just pointing out that there is no "them". It's one guy with a day job.
+:PROPERTIES:
+:Author: The_Truthkeeper
+:Score: 16
+:DateUnix: 1540545790.0
+:DateShort: 2018-Oct-26
+:END:
+
+
+***** Right! It wouldn't have taken 5 seconds to pop on twitter to at least address the issue.
+:PROPERTIES:
+:Author: tiffany1567
+:Score: 3
+:DateUnix: 1540716949.0
+:DateShort: 2018-Oct-28
+:END:
+
+
+** Does this mean that you can visit other user's profiles safely now? Sorry this probably seems like a daft question
+:PROPERTIES:
+:Author: natalyalec113
+:Score: 4
+:DateUnix: 1540582055.0
+:DateShort: 2018-Oct-26
+:END:
+
+*** Yes.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 1
+:DateUnix: 1540597298.0
+:DateShort: 2018-Oct-27
+:END:
+
+
+** That took them way too long.
+:PROPERTIES:
+:Author: tiffany1567
+:Score: 7
+:DateUnix: 1540506846.0
+:DateShort: 2018-Oct-26
+:END:
+
+*** Honestly, compared to IT issues at work that can directly affect our (as in, the company's) work, this was damn fast.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 31
+:DateUnix: 1540508300.0
+:DateShort: 2018-Oct-26
+:END:
+
+**** But there was a very delayed update/response. When the software at the company I work for crashed back in August, we were all notified less than an hour of it going down.
+:PROPERTIES:
+:Author: emong757
+:Score: 3
+:DateUnix: 1540511347.0
+:DateShort: 2018-Oct-26
+:END:
+
+
+** OwO
+:PROPERTIES:
+:Author: UndergroundNerd
+:Score: 0
+:DateUnix: 1540499912.0
+:DateShort: 2018-Oct-26
+:END:

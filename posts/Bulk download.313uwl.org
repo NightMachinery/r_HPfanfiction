@@ -1,0 +1,141 @@
+#+TITLE: Bulk download?
+
+* Bulk download?
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1427920514.0
+:DateShort: 2015-Apr-02
+:FlairText: Misc
+:END:
+[deleted]
+
+
+** Never heard of one, but you can try using programs like [[https://www.gnu.org/software/wget/][wget]] on your own. You can make it to only download the story pages, internally link the downloaded pages together so they will cease to be linking to fanfiction.net addresses, put limitations on download speed and number of simultaneous connections ([[http://stackoverflow.com/questions/798695/proper-etiquette-for-a-web-crawler-http-requests][which I would recommend),]] and so on.
+:PROPERTIES:
+:Author: OutOfNiceUsernames
+:Score: 2
+:DateUnix: 1427962723.0
+:DateShort: 2015-Apr-02
+:END:
+
+*** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1428098465.0
+:DateShort: 2015-Apr-04
+:END:
+
+**** Er, so remote into that machine, install a linux distro on the machine you do have access to, or install Cygwin and run wget through that, I believe its included.
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 5
+:DateUnix: 1428112121.0
+:DateShort: 2015-Apr-04
+:END:
+
+***** Or get wget for your operating system. A search for operating system + wget will put that to rest.
+:PROPERTIES:
+:Author: oneonetwooneonetwo
+:Score: 1
+:DateUnix: 1428417656.0
+:DateShort: 2015-Apr-07
+:END:
+
+
+** I wish. There are a few PC apps that can download one fic at a time, but that's about it. FF even happily blocks web services that offer to download fics for people. So anyone trying to make an archive like that would get banhammered so fast it'd make their head spin. FF wants you to look at the ads; that's why they refuse to even include download options on individual stories, despite the fact that almost every other archive offers this, and people have been asking for years. Sorry, do I sound bitter? Well, it's because I am.
+:PROPERTIES:
+:Author: fastfinge
+:Score: 2
+:DateUnix: 1427988151.0
+:DateShort: 2015-Apr-02
+:END:
+
+*** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1428098555.0
+:DateShort: 2015-Apr-04
+:END:
+
+**** Yeah, but they'll ban any IP that makes X number of requests consecutively over Y days. And X and Y are highly variable; I think they just have thresholds and then a human comes and takes a look at your traffic. So making a spider and limiting it to X requests per second isn't going to help. I guess if you have a large pool of IP addresses, you could probably mirror the entire site eventually, but that's likely to be beyond OPs resources.
+:PROPERTIES:
+:Author: fastfinge
+:Score: 2
+:DateUnix: 1428108561.0
+:DateShort: 2015-Apr-04
+:END:
+
+***** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1428108663.0
+:DateShort: 2015-Apr-04
+:END:
+
+****** Depends, if you had access to say 256 IP addresses and made 10 requests an hour each, that would be entirely reasonable. You could probably make that 100 requests an hour with no issue. They certainly wouldn't have the limit lower than that, if a user decided to read a bunch of one-shots in an hour they could hit that.
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 3
+:DateUnix: 1428112274.0
+:DateShort: 2015-Apr-04
+:END:
+
+
+****** You'd have to limit each IP to something hardcore, like 1 chapter a minute, so as not to catch the notice of FF administrators, so at that point, even with several thousand addresses the functionality of the site shouldn't be affected. If only FF would let you download stories themselves, this wouldn't even be a discussion. But no, they'd rather hold communities hostage for ad money.
+:PROPERTIES:
+:Author: fastfinge
+:Score: 2
+:DateUnix: 1428151972.0
+:DateShort: 2015-Apr-04
+:END:
+
+
+** This would violate the TOS of ff.net.
+:PROPERTIES:
+:Author: denarii
+:Score: 5
+:DateUnix: 1427921313.0
+:DateShort: 2015-Apr-02
+:END:
+
+*** [deleted]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1427922380.0
+:DateShort: 2015-Apr-02
+:END:
+
+**** I think you're overshooting by wanting a mirror of ff.net. Downloading just a selection of stories in advance works perfectly fine.
+:PROPERTIES:
+:Author: oneonetwooneonetwo
+:Score: 2
+:DateUnix: 1428417786.0
+:DateShort: 2015-Apr-07
+:END:
+
+
+**** Downloading hundreds or thousands of chapters at super-high speed runs the risk of overloading the site's servers, just as if a hacker used a botnet to launch a [[http://en.wikipedia.org/wiki/Denial-of-service_attack#Distributed_attack][DDoS attack]]--that's why the site frowns on story-downloading sites and programs.
+:PROPERTIES:
+:Author: ToaKraka
+:Score: 4
+:DateUnix: 1427926726.0
+:DateShort: 2015-Apr-02
+:END:
+
+***** You don't have to do that at super-high speeds. Usually website crawlers have options for self-imposed limits (both on the speed and number of connections). Also^{1} I doubt that admins of an on-line resource that managed to survive from 1998 didn't put some restrictions of their own too, of blocking those IPs that go way over the estimated traffic usage marks.
+
+^{1} --- see: difference between DoS and DDoS --- [[http://www.security-faqs.com/dos-vs-ddos-what-is-the-difference.html][1]], [[http://www.crime-research.org/articles/network-security-dos-ddos-attacks/][2]]
+:PROPERTIES:
+:Author: OutOfNiceUsernames
+:Score: 3
+:DateUnix: 1427962097.0
+:DateShort: 2015-Apr-02
+:END:
+
+
+***** DDoS attacks rely on many different requests at the same time, most user-oriented web crawlers do one request at a time, many times.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1428010377.0
+:DateShort: 2015-Apr-03
+:END:

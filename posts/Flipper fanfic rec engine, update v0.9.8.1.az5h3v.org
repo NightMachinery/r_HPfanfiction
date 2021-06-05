@@ -1,0 +1,98 @@
+#+TITLE: Flipper: fanfic rec engine, update v0.9.8.1
+
+* Flipper: fanfic rec engine, update v0.9.8.1
+:PROPERTIES:
+:Author: zerkses
+:Score: 18
+:DateUnix: 1552150650.0
+:DateShort: 2019-Mar-09
+:END:
+I have updated my fic recommendation engine for FFN. Actually, since the last post there's been a bunch of updates.
+
+Download link: [[https://github.com/Zeks/flipper/releases/download/0.9.8.1/flipper_client_0.9.8.1.7z]]
+
+It's a native windows app, but it works on linux/max via WINE.
+
+The recommender currently looks like this [[https://i.imgur.com/CNYNNIw.png]]
+
+Simplest routine: start, enter your FFN profile url at the top, enter a name for your rec list and press Get Recommendations. After a minute or so it will display recs for you.
+
+Subsequently next time your start the app you can just press "Search" as rec list will have already been stored locally. For more see advanced manual at the url below.
+
+What it can do:
+
+- create personalized recommendation lists for FFN
+
+- search within these lists
+
+- delete fics/fandoms from searches forever so that the search results always contains fics you haven't read/seen yet
+
+- allows you to tag stuff to organize your reading
+
+- semi decently autodetects fics' genres (where it can) and detects which is the main genre for a fic and which is present in trace quantities
+
+- just generally has more filters than FFN and can be used as a search engine both over your rec list and over all fics it has in its database (currently, ~1/3 of FFN).
+
+and more (see the manual: [[https://docs.google.com/document/d/1rEXQBQnDbFljBTAea_Ljbq731OGUDjHoew2s9jmj2tk/edit?ts=5c83855d]])
+
+In short: this thing is created so you almost never have to use FFN's own search filter as it's horrible.
+
+Notable changes since the last post on this sub:
+
+- recommendations are now weighted based on similiarity between your favourite list and other users' favourite lists. This means that if someone else's fav list is extremely similar to yours, their recs will be way, WAY higher in recommendations than if just pure "one person one vote" was used.
+
+- auto detected genre display is now on by default
+
+- You can now enter FFN author IDs and FFN fic IDs into a new input element to bring up the individual fic or person's fics directly (works only for stuff flipper has in its database)
+
+- hovering over heart icon displays the breakdown of how the score for the fic has been created. Bars from left to right indicate how much votes came from each favourite list category (common, somewhat similarish, very close to yours, near perfect match)
+
+- a bunch of new quick taggers below the fic make sure you almost never need to open tagging subelement manually, you can just click on those. Hovering on them shows which tag they represent
+
+- double clicking heart icon (the one with the number next to it) brings up a list of merged favourites from everyone who liked this fic and is a source of the current reclist. Basically: "Hey, that's a cool fic and it only has one match in the list, maybe that user faved something else cool" (double click heart to check that)
+
+- A new half-red/half-green heart on the fic sheet shows that it's a fic from the author you have already liked stuff from
+
+- It is now easy to get url lists for tag selections. Just navigate to Tags, select a bunch and press "Urls for tag set". The urls will be copied to your clipboard.
+
+Also, I now have a patreon: [[https://www.patreon.com/zekses]]
+
+It doesn't mean that Flipper will stop working if there is no donations. Patreon is purely optional for those who genuinely want to drop me a few $ as thanks and won't influence service availability or development.
+
+Feedback/support Discord for Flipper is located here: [[https://discord.gg/AdDvX5H]]
+
+
+** oops, this is embarassing, I seem to have forgotten to change the server IP in the settings file, I will reupload in a sec
+:PROPERTIES:
+:Author: zerkses
+:Score: 5
+:DateUnix: 1552154423.0
+:DateShort: 2019-Mar-09
+:END:
+
+*** done
+:PROPERTIES:
+:Author: zerkses
+:Score: 3
+:DateUnix: 1552154634.0
+:DateShort: 2019-Mar-09
+:END:
+
+
+** I've submitted an easily fixed typo to your issues.
+
+This is a great project. :)
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 4
+:DateUnix: 1552159462.0
+:DateShort: 2019-Mar-09
+:END:
+
+*** assing... /facepalm/ lol
+:PROPERTIES:
+:Author: zerkses
+:Score: 7
+:DateUnix: 1552159709.0
+:DateShort: 2019-Mar-09
+:END:

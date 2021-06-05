@@ -1,0 +1,223 @@
+#+TITLE: Sirius gets a trial... and is found guilty.
+
+* Sirius gets a trial... and is found guilty.
+:PROPERTIES:
+:Author: Bleepbloopbotz2
+:Score: 29
+:DateUnix: 1615588158.0
+:DateShort: 2021-Mar-13
+:FlairText: Prompt/Request
+:END:
+I think this would be interesting
+
+
+** This is exactly why they needed to capture Pettigrew - without him, all the evidence is against Sirius. Dumbledore previously gave evidence to the Ministry that the Potters made Sirius their secret keeper, and they have multiple Muggle eyewitnesses who said they saw Sirius blow up Pettigrew.
+
+All Sirius can say in his defence is that he's an unregistered animagus - itself a crime he's been concealing for years, thus destroying his credibility as a witness - and allege that Peter is one too - for which he has no evidence - and that Peter used it to fake his own death.
+:PROPERTIES:
+:Author: Taure
+:Score: 34
+:DateUnix: 1615622034.0
+:DateShort: 2021-Mar-13
+:END:
+
+*** Assuming they use the (US, but I think the British is similar) muggle law system. Dumbledore's testimony on the secret keeper is hearsay. There are eyewitnesses who saw Sirius blow up Peter, but there are also eyewitnesses who saw Peter alive years later. Sirius has a believable alternative about what happened. All you need for acquittal is to cast reasonable doubt - that's more than enough.
+
+Perhaps it would be a different story if he had already been convicted the first time around, and they had to overturn it.
+:PROPERTIES:
+:Author: Togop
+:Score: 8
+:DateUnix: 1615627634.0
+:DateShort: 2021-Mar-13
+:END:
+
+**** Strictly speaking, Dumbledore's evidence isn't hearsay. Whether or not evidence is hearsay is relative to the proposition it is said to support. So long as the proposition is "The Potters stated an intention to make Sirius their secret keeper", Dumbledore's evidence is that of a first hand witness, because he was a part of the conversation where the Potters stated their intent. But it /would/ be hearsay as regards the proposition "The Potters made Sirius their secret keeper".
+
+In any event:
+
+1. It's unlikely Muggle rules of evidence apply.
+
+2. Even if they did, under English law hearsay evidence is typically permitted. The fact that it's hearsay is simply taken into account when deciding what weight to give to each piece of evidence in all the circumstances.
+
+I think Sirius is in more trouble than you admit. I don't think Sirius' alternative is "believable" - it is, in fact, quite far fetched. And worst of all, Sirius' alternative involves him admitting to historic criminality and concealing that criminality for years, which taints all his other evidence. He will be said to be a person who has admitted dishonesty and who - having admitted to a criminal offence years after the fact - is of undisputed bad character. That's lethal when the only evidence Sirius has is his own word.
+
+As regards the eye-witnesses of Harry, Ron and Hermione, it seems likely that the reaction of Fudge and Snape to their evidence in PoA is how other people will treat their evidence - they are children, easily misled, and probably confunded too, given that they were left alone with Black for an extended period of time.
+
+As a matter of practicality, you also have the fact that the Wizengamot is going to go into the trial with pre-conceived notions of Sirius' guilt, and no matter how much you might say that they must put that out of their minds for the purpose of the trial, in reality that's just not possible.
+:PROPERTIES:
+:Author: Taure
+:Score: 21
+:DateUnix: 1615628572.0
+:DateShort: 2021-Mar-13
+:END:
+
+***** Let's look at the individual claims.
+
+1. Sirius Black was the Potter's secret keeper and betrayed them to Voldemort.
+
+   1. Evidence for
+
+      1. Dumbedore's testimony. He can testify as hearsay or about their intent, but in either case that should be insufficient to prove the fact.
+      2. Sirius's confession when he got arrested.
+
+   2. Evidence against:
+
+      1. Sirius can testify to the fact that he was not the secret keeper, and that he suggested they make Peter the secret keeper to causer confusion. This also explains his confession, which was made during an emotional time.
+      2. Dumbledore can explicitly state he isn't sure, and in fact doesn't think, that Sirius was the secret keeper.
+
+2. Sirius Black murdered Peter Pettigrew and 13 muggles
+
+   1. Evidence for:
+
+      1. Eyewitness testimony of the act
+      2. Pettigrew's finger at the crime scene.
+
+   2. Evidence against:
+
+      1. Eyewitness testimony by Lupin and Sirius that Pettigrew was an animagus.
+      2. Picture in the Prophet of his animagus with the Weasleys form that both Lupin and Sirius can recognize.
+      3. Testimony of Harry, Ron, and Hermione that Pettigrew was alive.
+
+Sirius's animagus form is not actually part of the defense - Peter's is.
+
+Of course, complications can happen. They can dismiss Harry, Ron, and Hermione's testominy for being confunded children. Ignore (or not have) protection against self-incrimination, and force Sirius to reveal his own animagus form, then use that to cast doubt on anything else he says. Dismiss Lupin's testimony for being a werewolf. Not let Dumbledore testify again and only admit his original testimony about the secret keeper. But if they do all that, it's going into kangaroo court realm, and sure, I don't dispute that a kangaroo court can convict anyone.
+:PROPERTIES:
+:Author: Togop
+:Score: 4
+:DateUnix: 1615630985.0
+:DateShort: 2021-Mar-13
+:END:
+
+****** u/Taure:
+#+begin_quote
+  Sirius's animagus form is not actually part of the defense - Peter's is.
+#+end_quote
+
+Right, but the only way for Sirius to prove Peter's form is to give witness evidence, which means waiving his right against self-incrimination and taking the stand as a witness, which opens him up to cross-examination. At which point the cross-examination will ask Sirius to explain how he came by the knowledge of this alleged animagus form and the whole story comes out, including his own criminality.
+
+You've also missed out a category of evidence - character evidence. Given Snape's animus against Sirius, it's likely that he will be willing to give evidence that Sirius tried to kill him as a teenager as evidence of Sirius' bad character.
+:PROPERTIES:
+:Author: Taure
+:Score: 12
+:DateUnix: 1615637675.0
+:DateShort: 2021-Mar-13
+:END:
+
+
+**** Under Scots Law, hearsay can be taken as evidence such that it does not “prejudice the admissibility of a statement made by a person otherwise than in the course of giving oral evidence in court which is admissible otherwise than by virtue of those sections”. Amongst other conditions
+
+In English Law, hearsay has similar exceptions;
+
+‘four circumstances in which hearsay evidence is admissible in criminal proceedings:
+
+The CJA or any other statutory provision makes it admissible; It is one of the common law exceptions preserved by section 118 (see below) All parties to the proceedings agree to it being admissible; or; The court is satisfied that it is in the interests of justice for it to be admissible.'
+
+IIRC similar exceptions apply in US Law.
+:PROPERTIES:
+:Author: Duvkav1
+:Score: 3
+:DateUnix: 1615628789.0
+:DateShort: 2021-Mar-13
+:END:
+
+
+** Sadly without how corrupt their system is it wouldn't surprise me
+:PROPERTIES:
+:Author: Kininger625
+:Score: 19
+:DateUnix: 1615588196.0
+:DateShort: 2021-Mar-13
+:END:
+
+*** I don't think it's really a matter of corruption as much as the fact that everyone knew about James and Sirius's close friendship, there was evidence that James would make Sirius the secretkeeper - evidence that Dumbledore himself had given because that was the information he had at the time and the alleged perpetrator had been destroyed according to several witnesses leaving only a finger behind. Assuming you didn't know the whole story, what would your conclusion be as a member of the public?
+:PROPERTIES:
+:Author: I_love_DPs
+:Score: 6
+:DateUnix: 1615629293.0
+:DateShort: 2021-Mar-13
+:END:
+
+**** Well the whole thing is fishy to me considering Sirius ran away from his historically dark family to live with the light family who took him in.
+
+Then Dumbledore suspiciously jumps Into save the known death eater but not Sirius? For someone about second chances it always felt like people in the magical world are like sheep and rarely use their brains. Rather they prefer to stick with the status quo and let things be than consider an alternative.
+
+Chamber of secrets for example with the parseltongue thing considering it only seems to be an evil trait in England.
+
+Then there was the order of the Phoenix fiasco with fudge and umbridge
+:PROPERTIES:
+:Author: Kininger625
+:Score: 1
+:DateUnix: 1615642431.0
+:DateShort: 2021-Mar-13
+:END:
+
+***** Well for all the bashing Dumbledore gets for this situation, people often forget that it's his second-chances mentality that saves Sirius from getting kissed by Dementors.
+:PROPERTIES:
+:Author: I_love_DPs
+:Score: 5
+:DateUnix: 1615642552.0
+:DateShort: 2021-Mar-13
+:END:
+
+****** Which seems a little late considering he didn't need motivation to jump in to save Severus snape from Azkaban who “made a mistake and showed poor judgment” during the trials but didn't bother stopping to save Sirius from the dementors after Sirius had suffered his stay at Azkaban. Heck he didn't even off Grindewald his former love interest.
+:PROPERTIES:
+:Author: Kininger625
+:Score: 5
+:DateUnix: 1615643140.0
+:DateShort: 2021-Mar-13
+:END:
+
+******* Severus had given Dumbledore actual reasons to believe that he had switched sides, while Sirius was thought by all, including Dumbledore, a traitor.
+:PROPERTIES:
+:Author: I_love_DPs
+:Score: 5
+:DateUnix: 1615643777.0
+:DateShort: 2021-Mar-13
+:END:
+
+
+** He really was the traitor, creating a canon-divergent AU where he kills Harry at the end of POA.
+:PROPERTIES:
+:Author: RealLifeH_sapiens
+:Score: 9
+:DateUnix: 1615589199.0
+:DateShort: 2021-Mar-13
+:END:
+
+
+** He never gets caught or tried, but if you're interested in a Death Eater Sirius fic try linkffn(The Dark Lord's Right Hand)
+:PROPERTIES:
+:Author: redpxtato
+:Score: 5
+:DateUnix: 1615611869.0
+:DateShort: 2021-Mar-13
+:END:
+
+*** [[https://www.fanfiction.net/s/8205084/1/][*/The Dark Lord's Right Hand/*]] by [[https://www.fanfiction.net/u/3697775/Rumour-of-an-Alchemist][/Rumour of an Alchemist/]]
+
+#+begin_quote
+  One-Shot, providing a couple of glimpses into an alternate universe where Sirius Black willingly became one of Voldemort's most important allies.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Words/:} ^{4,509} ^{*|*} ^{/Reviews/:} ^{7} ^{*|*} ^{/Favs/:} ^{47} ^{*|*} ^{/Follows/:} ^{24} ^{*|*} ^{/Published/:} ^{Jun} ^{11,} ^{2012} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{8205084} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Characters/:} ^{Sirius} ^{B.,} ^{Severus} ^{S.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8205084&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8205084&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/FanfictionBot/reddit-ffn-bot/wiki/Usage][Usage]] | [[https://www.reddit.com/message/compose?to=tusing][Contact]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 3
+:DateUnix: 1615611896.0
+:DateShort: 2021-Mar-13
+:END:
+
+
+** It is also difficult to prove as testimony under veritasirum was made to be unusable in court (so that death eaters with deep pockets trying to claim that they were imperiosed cannot be disproven) meaning that it would just take a death eater that dislikes Sirius to say that "they were in the room when he told the dark lord" the more insane and loyal the better. Then it doesn't matter what arguments get brought up the prosecution can just say that because he betrayed the potters he could betray petigrew to silence him, and the only reason only a finger was found is because he was from house black and nobody but a member of house black knows what spells are in the black family library. So if he killed those 3people then he killed the muggles.
+
+I can see this happening because with Harry they tried to make him miss the trial and then refused a proper investigation and then refused to let him defend himself to the court by speaking over him and not asking what happened for him to use magic
+:PROPERTIES:
+:Author: samuelinns6
+:Score: 2
+:DateUnix: 1615653170.0
+:DateShort: 2021-Mar-13
+:END:

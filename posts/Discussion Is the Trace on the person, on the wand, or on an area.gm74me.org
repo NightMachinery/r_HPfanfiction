@@ -1,0 +1,331 @@
+#+TITLE: Discussion: Is the Trace on the person, on the wand, or on an area?
+
+* Discussion: Is the Trace on the person, on the wand, or on an area?
+:PROPERTIES:
+:Author: KevMan18
+:Score: 31
+:DateUnix: 1589826570.0
+:DateShort: 2020-May-18
+:FlairText: Discussion
+:END:
+Most independent Harry fics have to deal with the Trace somehow. I've always thought the Trace would be on the wand since, in my head canon, the Ministry wouldn't be competent enough to maintain a ward over the whole country, and would also be corrupt enough to accept bribes from "influential, upstanding Purebloods" to ensure their children wouldn't have any such monitoring charms on them.
+
+
+** DH Chapter 4
+
+#+begin_quote
+  "Second problem: You're underage, which means you've still *got the Trace on you*.”
+#+end_quote
+
+So, it's on the person. Either like a charm from a wand or a charm like the taboo/DADA curse. I'm partial to the latter.
+
+Edited a sentence
+:PROPERTIES:
+:Author: Ash_Lestrange
+:Score: 21
+:DateUnix: 1589830641.0
+:DateShort: 2020-May-19
+:END:
+
+*** To add to this: it's confirmed in Book 2, when Harry gets a warning from the Ministry about magic at his household due to Dobby's actions, that it can't be his wand, since he never used it. This would imply that it's a measurement of magic in an area around the individual, as opposed to just what magic the individual performs.
+:PROPERTIES:
+:Author: Sarcherre
+:Score: 21
+:DateUnix: 1589842494.0
+:DateShort: 2020-May-19
+:END:
+
+
+** It's impossible to generate a truely internally consistent explanation given the contradictions between Riddles murders in his sixth year, Dobby, the accidental magic reversal squad, and the explanations given in book 7.
+
+A general location based spell cast on the underage wizard makes the most sense for catching accidental and intentional magic when it occurs outside of the home and in the muggle world and accounts for Harry getting caught for Dobbys hovering charm. It fails to address Riddles murder and relies on the ministry recognizing muggleborn somehow and casting the spell on them as children.
+
+A spell over all of Britain that tracks all magic performed and the cooresponding presence of adult and child wizards accounts for accidental magic, underage magic, the hovering charm, and the fact that the trace doesn't work in wizarding areas. Implies tracking of every witch and wizard in order to know who to send underage magic warnings to, unlikely.
+
+Same as above except it only checks for underage wizard presence vs of age. Accidental magic reversal and or obilviators and or magical law enforcement can be dispatched to reverse effects on muggles/deliver underage magic warnings if necessary. Doesn't work with Tom's murders. Underage magic can only be pinned on an individual if someone is dispatched to the location and can discover the culprit, or the magic takes place at or near the registered address of a known student. (Explaining Dobby)
+
+Spell over homes/neighborhoods of muggleborn. Doesn't account for magic outside of home. Requires monitoring of muggleborn location in case of moves. Allows Tom's murders, allows Dobby and Marge, doesn't account for seventh book explanations.
+
+Spell on wand. Works with Tom, doesn't work with Dobby, doesn't work with seventh book expanations, implies separate tracking for accidental magic squad given Marge.
+
+Since none of the options work together, I think, area effect detection spell on the underage witch or wizard hits the most checks for canon and something must be changed about the story with Tom.
+
+That being said, if negating the trace is a plot point of the fic I think this is the most boring option. Trace on wands or locations gives much more interesting options for evading the trace. If dealing with the trace is an important plot point though, this works the best, its canonically impossible to truely circumvent without coming of age and requires an adult to accomplish anything. Which imposes restrictions on characters that can drive plot if necessary.
+
+Now I have an idea of Harry and Co dealing Mundungus with Draught of Living Death and shoving him in Hermiones bag to lug around with them and circumvent the trace until Harry comes of age if they didn't stay at the burrow until then.
+:PROPERTIES:
+:Author: Kingsonne
+:Score: 11
+:DateUnix: 1589832483.0
+:DateShort: 2020-May-19
+:END:
+
+*** u/Taure:
+#+begin_quote
+  Since none of the options work together, I think, area effect detection spell on the underage witch or wizard hits the most checks for canon and something must be changed about the story with Tom.
+#+end_quote
+
+Nothing has to be changed about the story with Tom, it works perfectly fine.
+
+- The Trace is on all wizards under 17 years old.
+
+- The Trace detects magic cast in its vicinity and feeds that information to the Ministry.
+
+- Trace tells the Ministry what spell was cast and where.
+
+- The Trace does *not* tell the Ministry who cast the spell or even whose Trace it was that detected it.
+
+That's how the Trace works from the magical standpoint. Separately, you also have the issue of how the Ministry chooses to act on the information they receive.
+
+The Ministry have a set of presumptions which determine how they act:
+
+- If the magic is cast in a magical area, they assume it was cast by an adult and do nothing.
+
+- If the magic is cast in a non-magical area, they cross-reference the location data against the magical individuals known to live in the vicinity. If there is an under-aged wizard living in that area with no adult wizards known to be present (i.e. a Muggleborn, Dean or Harry) then it is assumed that the magic was cast by the under-aged wizard and enforcement proceedings are brought against them.
+
+- If the magic occurs before the under-aged wizard begins Hogwarts, the Ministry appears to assume it is accidental magic and do nothing.
+
+- It appears that magic cast by Ministry officials does not set off the Trace.
+
+This is all perfectly fine in terms of it not contradicting itself or lacking clarity. It doesn't make sense in the systems design sense - no one would ever choose to design a system that operates in such a way - but that simply suggests that there are either magical or political limitations which prevent a simpler system from being implemented.
+:PROPERTIES:
+:Author: Taure
+:Score: 16
+:DateUnix: 1589833885.0
+:DateShort: 2020-May-19
+:END:
+
+**** Also, TMR turns 17 halfway through his sixth year, which leaves plenty of time for murder /after/ he's come of age and the trace no longer applies, so
+:PROPERTIES:
+:Author: elephantasmagoric
+:Score: 4
+:DateUnix: 1589851198.0
+:DateShort: 2020-May-19
+:END:
+
+
+**** u/Raesong:
+#+begin_quote
+  If the magic occurs before the under-aged wizard begins Hogwarts, the Ministry appears to assume it is accidental magic and do nothing.
+#+end_quote
+
+One would presume they would do something if it risked breaking the Statute, though.
+:PROPERTIES:
+:Author: Raesong
+:Score: 2
+:DateUnix: 1589885977.0
+:DateShort: 2020-May-19
+:END:
+
+
+*** u/Ash_Lestrange:
+#+begin_quote
+  near the registered address of a known student
+#+end_quote
+
+*near the address of a known wand-holder. The Gaunt shack isn't that far from Riddle Manor.
+:PROPERTIES:
+:Author: Ash_Lestrange
+:Score: 7
+:DateUnix: 1589834081.0
+:DateShort: 2020-May-19
+:END:
+
+
+*** In response to your issue with Riddle's murders during his sixth year- TMR's birthday is Dec 31. Since year is determined by age at the beginning of the school year, in Riddle's sixth year he turns 17 towards the end of the winter holiday. Even if there wasn't time for him to murder anyone right then, he still could've done it during the Easter break. The only reason Harry has such a problem with the trace in the beginning of DH is because he's really young for his year.
+:PROPERTIES:
+:Author: elephantasmagoric
+:Score: 2
+:DateUnix: 1589851072.0
+:DateShort: 2020-May-19
+:END:
+
+**** The know-it-all in me must point out that he's sixteen when he kills them.
+:PROPERTIES:
+:Author: Ash_Lestrange
+:Score: 1
+:DateUnix: 1589865335.0
+:DateShort: 2020-May-19
+:END:
+
+
+** I'd say the area itself.
+
+I don't imagine Pureblood families like the Black's or the Malfoy's caring, and tutoring their children at a young age, at how to hold a wand, and the certain wand movements, though casting I say would depend on the parent.
+
+It's largely so Muggles don't see, so unfortunately a lot of Muggleborns and Half-Bloods that live in the Muggle World are out of luck.
+
+Though I'm sure there are the Pureblood and some or most Half-Bloods (the Half-Bloods ones that live in the Wizarding World), probably don't use underage magic.
+
+You don't need a trace on a whole country, just where there's Muggles and there's known magic people living there, a lot more manageable there.
+:PROPERTIES:
+:Author: SnarkyAndProud
+:Score: 4
+:DateUnix: 1589827529.0
+:DateShort: 2020-May-18
+:END:
+
+
+** From how I understand it, it is on the person but tracks any magic use in their vicinity regardless of who is casting it and tells the ministry where it was cast. that's why they told harry he has the trace on him in DH but why he got blamed for dobby's hover charm in CS. this is why in wizarding homes they can't tell who is using the magic.
+:PROPERTIES:
+:Author: Ronstar0522
+:Score: 3
+:DateUnix: 1589840217.0
+:DateShort: 2020-May-19
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1589840966.0
+:DateShort: 2020-May-19
+:END:
+
+*** Perhaps it's partially on both the wand and the person? It can't be just the person, otherwise accident magic would set it off like you said. The Accidental Magic Reversal Squad knew to go to Number 4, Privet Drive, which implies that some sort of area or personal monitoring occurs, but the IUoM (Improper Use of Magic Office) did not send an owl; based on the rapid response time in CoS, the warning letter would have gotten there before Harry escaped on the Knight Bus.
+:PROPERTIES:
+:Author: KevMan18
+:Score: 2
+:DateUnix: 1589845477.0
+:DateShort: 2020-May-19
+:END:
+
+
+** I think it's a three-part system: area, person and wand.
+:PROPERTIES:
+:Author: YOB1997
+:Score: 2
+:DateUnix: 1590091342.0
+:DateShort: 2020-May-22
+:END:
+
+
+** Area around the person is Canon, but I'm writing it as tied to the wand as part of the sorting since that gives options for explain why it wasn't triggered at various times.
+:PROPERTIES:
+:Author: ChasingAnna
+:Score: 4
+:DateUnix: 1589830148.0
+:DateShort: 2020-May-18
+:END:
+
+*** I really just want an excuse to write a fanfic where Harry makes his own wand. Not as refined, reliable, or even pretty as an Ollivander wand, of course, but enough to terrify the Dursleys without setting off the Trace.
+:PROPERTIES:
+:Author: KevMan18
+:Score: 5
+:DateUnix: 1589831052.0
+:DateShort: 2020-May-19
+:END:
+
+**** you do that. I personally hate the idea that it's about the area. even if it is canon. just another unfair thing for the muggleborns. in my head it's always on the wand, or on person. person would make much more sense tbh, since that would be the ultimate against underage magic use.
+
+imo, it doesn't even make much sense. you can expect for wizards to live all around, so it must be just the house and the close area, and only for muggleborns, so you can potentially go like two streets over and do magic? doesn't make much sense to me.
+:PROPERTIES:
+:Author: nyajinsky
+:Score: 2
+:DateUnix: 1589836449.0
+:DateShort: 2020-May-19
+:END:
+
+
+** It has to be on the area. Because if it was on the wand or the person then malfoy and other pureblood kids would be detected when they used magic when underaged. But if it's on the area the law primarily impacts muggleborn as there are no other magic users in the vicinity so "obviously" any magic had to be by the muggleborn. Whereas in a pureblood area they don't really know who did the magic and because there are adult magic users in the area any magic is associated with the adults.
+
+Of course, that doesn't address the issue of why hermione wasn't warned about underage magic use. Remember in PS that Hermione stated "I tried a few spells and they all worked for me". If that was true she should have received a warning. And with her personality she would've mentioned it so others didn't break the rules.
+:PROPERTIES:
+:Author: reddog44mag
+:Score: 1
+:DateUnix: 1589832024.0
+:DateShort: 2020-May-19
+:END:
+
+
+** I headcanon that it's a country-wide ward (or ward-like mechanic). It probably has a few things to detect large amounts of magic, and things to detect all magic from anyone under 17. This tracks underaged magic AND accidental magic. I'm guessing if you are born to magical parents, your signature is formalised into their system, so they have a name to go with the alerts if you do something.
+
+This also ties into the Taboo from book 7. There's no way it's only some little spell that covers the whole realm of "magical britain". That's too ass-pully. What's keeping them from flying to America and chanting "Voldemort" two hundred times while on a taxi? That would ruin the Snatchers' day. That, and it instantly broke defensive magics AND cast anti-transportation magic? That's way too OP for a single spell to cover a small area, let alone a country.
+
+This country-wide "ward" could also do other maintenance-type tasks too, like the Floo Network, or Portkeys. You know, in order to keep people from colliding with each other mid-travel? International flu probably doesn't exist, and international portkeys are all the more dependent on set schedules and trajectories.
+
+There was a fic I can't remember that did this, and there were wardstones all over the country, a la Roman Milestones. I liken it to one big mesh network of wifi and wifi sniffers.
+
+Edit: In that same fic, Harry dug up one of the wardstones and studied it. And then ended up escaping it temporarily with a ritual (and maybe permanently later with runes?).
+:PROPERTIES:
+:Author: Nyanmaru_San
+:Score: 1
+:DateUnix: 1589861023.0
+:DateShort: 2020-May-19
+:END:
+
+
+** Quoting this YouTube comment which is the most satisfying answer I've read on this topic.
+
+#+begin_quote
+  From what I understand, the Trace is very weak and:
+
+  1. Activities when the child first enters the school
+
+  2. Can be suppressed or even deactivated by other witches and wizards around and their more developed magical presence (and they are expected to police the children if so)
+
+  3. Is clearly visible only when there is no other wizard around, and all other triggers are dismissed as false positives.
+
+  All this adds up:
+
+  1. Hermione can do magic before joining Hogwarts because she didn't have the Trace on her yet.
+
+  2. The Ministry did not know of Dobby's presence in Chamber of Secrets (second book)
+
+  3. Tonks and the others could pack up Harry's luggage because their combined magical presence automatically suppressed the Trace.
+
+  4. The presence of a powerful Wizarding family (the Gaunts) along with the complete lack of documentation of Tom Riddle ever living in that village either masked or suppressed the Trace, or any other trigger was dismissed as false positive.
+
+  I imagine this has to be the case, because children lose control of their magic all the time and otherwise a much stronger Trace would overwhelm the Ministry (e.g. Harry cutting his hair and it immediately growing back between school years might lead to his auto expulsion.
+#+end_quote
+
+I think this makes the most sense, especially the idea of being in the presence of an adult suppressing the Trace, because even Dumbledore confirmed that underage childrens can use Magic if they're in a Wizarding house. And there are multiple reasons as to how Tom Riddle managed to escape the Trace, such as doing it very quickly and leaving the place before Ministry officials arrived, or doing it during the Christmas break, when he would've turned 17 and Trace would be removed from him.
+:PROPERTIES:
+:Author: Freenore
+:Score: 1
+:DateUnix: 1589866138.0
+:DateShort: 2020-May-19
+:END:
+
+
+** Probably all three tbh.
+:PROPERTIES:
+:Author: YOB1997
+:Score: 1
+:DateUnix: 1589910490.0
+:DateShort: 2020-May-19
+:END:
+
+
+** Depends on which book you're reading. If it's OOTP, it's on the person. If it's, HBP, it's on the underage wizards's home. If if's DH, it's in the vicinity of the underage wizard.
+:PROPERTIES:
+:Author: GMantis
+:Score: 1
+:DateUnix: 1591037728.0
+:DateShort: 2020-Jun-01
+:END:
+
+
+** Honestly if it's by wand the purebloods could probably still buy their kids out of it
+:PROPERTIES:
+:Author: grammarty
+:Score: 1
+:DateUnix: 1589827193.0
+:DateShort: 2020-May-18
+:END:
+
+*** I still think it'd be more reliable than a personal tracking spell or a ward. I'd imagine that Ollivander would probably have a legal duty to register each wand sold to underage customers. While you could still probably bribe your kid out of that, it'd probably leave more of a paper trail.
+:PROPERTIES:
+:Author: KevMan18
+:Score: 4
+:DateUnix: 1589827381.0
+:DateShort: 2020-May-18
+:END:
+
+**** Yeah that makes sense
+:PROPERTIES:
+:Author: grammarty
+:Score: 2
+:DateUnix: 1589827713.0
+:DateShort: 2020-May-18
+:END:

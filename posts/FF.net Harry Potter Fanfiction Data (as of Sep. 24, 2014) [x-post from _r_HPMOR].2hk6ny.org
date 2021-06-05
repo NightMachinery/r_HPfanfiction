@@ -1,0 +1,87 @@
+#+TITLE: FF.net Harry Potter Fanfiction Data (as of Sep. 24, 2014) [x-post from /r/HPMOR]
+
+* [[https://www.reddit.com/r/HPMOR/comments/2hk4bd/ffnet_harry_potter_fanfiction_data_as_of_sep_24/][FF.net Harry Potter Fanfiction Data (as of Sep. 24, 2014) [x-post from /r/HPMOR]]]
+:PROPERTIES:
+:Author: Rangi42
+:Score: 15
+:DateUnix: 1411763872.0
+:DateShort: 2014-Sep-27
+:FlairText: Misc
+:END:
+
+** 484 chapters for a ship i don't sail with is like the rudest thing i've encountered all week
+:PROPERTIES:
+:Author: speedheart
+:Score: 1
+:DateUnix: 1411787004.0
+:DateShort: 2014-Sep-27
+:END:
+
+*** That's pretty rude. But if that's the rudest, good week.
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1411791130.0
+:DateShort: 2014-Sep-27
+:END:
+
+
+*** And they're not even chapters; more like paragraphs.
+:PROPERTIES:
+:Author: Rangi42
+:Score: 1
+:DateUnix: 1411787678.0
+:DateShort: 2014-Sep-27
+:END:
+
+**** "Drabbles" ~= 100 words.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1411947167.0
+:DateShort: 2014-Sep-29
+:END:
+
+
+** I find it encouraging that people are still publishing lots of new stories. On the other hand, dwindling reviews probably indicate that there are less and less readers. Too bad there are no public visitor stats to use.
+:PROPERTIES:
+:Author: deirox
+:Score: 1
+:DateUnix: 1411827660.0
+:DateShort: 2014-Sep-27
+:END:
+
+*** It almost makes me feel bad for rarely reviewing. But honestly, I read really long works usually, many of which have been complete for quite a while, and if I don't have something constructive to say, why say it? That's why I like Ao3. I can give kudos and move on.
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 3
+:DateUnix: 1411835780.0
+:DateShort: 2014-Sep-27
+:END:
+
+**** seriously this is the same for me. i also follow a lot of these authors on twitter or tumblr or whatever and give ~encouragement~ there. but i'm so hands off about it really.
+:PROPERTIES:
+:Author: speedheart
+:Score: 2
+:DateUnix: 1411947613.0
+:DateShort: 2014-Sep-29
+:END:
+
+
+** I think it's safe to say from that survey that quantity and/or popularity doesn't equate with quality.
+
+The three most reviewed stories, e.g., are rubbish. I don't think I made it more than a dozen chapters into any of them before dropping them. While I have nothing against robst, aside from a general dislike of his storytelling, LessWrong and Perfect Lionheart both peg the annoyingness meter.
+:PROPERTIES:
+:Author: truncation_error
+:Score: -2
+:DateUnix: 1411823388.0
+:DateShort: 2014-Sep-27
+:END:
+
+*** Without having read the reviews, I would expect some degree of "so bad it's good" to apply. [[http://tvtropes.org/pmwiki/pmwiki.php/Fanfic/MyImmortal][/My Immortal/]] got plenty of hate-reviews, [[http://tvtropes.org/pmwiki/pmwiki.php/Film/TheRoom][/The Room/]] (arguably [[https://news.ycombinator.com/item?id=7710037][the worst movie on IMDB]]) has a cult following, and I've found [[http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/MahoukaKoukouNoRettousei][/Mahouka/]] itself boring but the [[http://thecartdriver.com/mahouka-is-terrible-on-every-level-a-final-review/][reviews]] [[http://moesucks.com/2014/09/13/mahouka-koukou-no-rettousei-ep-24-clearly-the-gary-stu-is-not-overpowered-enough/][detailing]] exactly why it's terrible are fun to read. The best stories and worst ones both get more attention than the merely boring ones.
+
+To make a good recommender system that could estimate how much /you/ would like a story, not how much the average user did (since as you said, popularity ≠ quality), it would need data on which users favorited which stories (for [[https://en.wikipedia.org/wiki/Collaborative_filtering][collaborative filtering]], or even the full text of the story and its reviews (for [[https://en.wikipedia.org/wiki/Sentiment_analysis][sentiment analysis]]). That's kind of what I wanted to do in the first place, but scraping that much data would be excessive. Maybe something simpler would work, like estimating the [[https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests][reading level]] of the description text?
+:PROPERTIES:
+:Author: Rangi42
+:Score: 2
+:DateUnix: 1411828754.0
+:DateShort: 2014-Sep-27
+:END:

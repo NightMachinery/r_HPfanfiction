@@ -1,0 +1,210 @@
+#+TITLE: If every muggle-born wizard has at least one magical ancestor, then there are a LOT of squibs running around in the muggle world who don't know they're squibs.
+
+* If every muggle-born wizard has at least one magical ancestor, then there are a LOT of squibs running around in the muggle world who don't know they're squibs.
+:PROPERTIES:
+:Author: shinshikaizer
+:Score: 24
+:DateUnix: 1582654498.0
+:DateShort: 2020-Feb-25
+:FlairText: Prompt
+:END:
+
+** Depends on how you define a "squib", and how far back you're willing to go on that "at least one magical ancestor". Go back three hundred years, and assuming that you have 2 parents whose families never intermarried, per 30 year generation (for a nice 10 generations), and you get 2046 ancestors, with 1024 of them in that generation 300 years ago.
+
+Beyond that, let's say that 0.1% of the population is magical. That means there is a 99.9% chance that any given person is not magical. Assuming a random distribution of marriages, in family lines that don't intermarry, and once again going 10 generations back, You have a 12.911% chance of there being no magical ancestors. Go back a further 2 generations and you have 8190 ancestors with a 0.0276% chance that none of them were magical.
+
+In short, in that idealized world, it would surprise me if /anyone/ wasn't descended from at least one magical ancestor.
+:PROPERTIES:
+:Author: rocketsp13
+:Score: 15
+:DateUnix: 1582661213.0
+:DateShort: 2020-Feb-25
+:END:
+
+*** That math assumes that a random spouse of the global population is chosen.
+
+This has never been the case. Moving 25 miles to meet a spouse would have been unheard about 300 years ago, most likely even 200 years ago. Which means that the geographic movement of genes is limited. I don't have numbers, but I suspect that you don't need to go back very far, before a very large percentage of your ancestors came from the same medium sized city or county.
+
+And even then, the magical the magical community is fairly isolated and thus magicals are more likely to meet other magicals, and likewise, a muggle is disproportionally more likley to meet another muggle than a magical.
+:PROPERTIES:
+:Author: joha4270
+:Score: 7
+:DateUnix: 1582661954.0
+:DateShort: 2020-Feb-25
+:END:
+
+**** Yep. I did repeatedly state that this was an idealized situation. This is brute force application of exponential growth.
+
+That said, after some research, [[https://thewildpeak.wordpress.com/2012/03/04/how-many-ancestors-do-you-have/][which this being the most reputable source]] without getting into actual research papers, it seems that mathematical models aren't too far off of what I used as a back of the envelope estimate for the first several generations. According to that source:
+
+#+begin_quote
+  For example, even 15 generations ago in 1527 the mean calculated number of distinct ancestors is still 31,438, not much less than the theoretical maximum of 32,768, and only about 1.5% of Wachter's estimated English population of 2.2 million at the time.
+#+end_quote
+
+Beyond that, assuming that the Black tradition of casting a squib out is common and happened historically, they would be disproportionately /more/ likely to meet and marry a muggle than they would a witch or wizard, so they fit neatly into the numbers I ran previously.
+:PROPERTIES:
+:Author: rocketsp13
+:Score: 9
+:DateUnix: 1582666162.0
+:DateShort: 2020-Feb-26
+:END:
+
+
+**** I think magical ancestor here refers to a squib. Wizards could just dump them wherever, so they could get pretty spread out.
+:PROPERTIES:
+:Author: tumbleweedsforever
+:Score: 4
+:DateUnix: 1582664755.0
+:DateShort: 2020-Feb-26
+:END:
+
+
+*** I just looked up the actual data. So, on average through history, you find that in about 80% of marriages the spouses are second cousins, that is they share at least 2 great-grand parents. The math for that is well beyond my understanding of statistics, (I might have been able to handle it 10 years ago, but not at the moment) for me to be confident in anything I say, but I'm pretty sure that the answer still amounts to something similar to my initial estimate, just slower.
+:PROPERTIES:
+:Author: rocketsp13
+:Score: 3
+:DateUnix: 1582663854.0
+:DateShort: 2020-Feb-26
+:END:
+
+
+** Without going to far into detail because of this subs rules, number 8 specifically.
+
+Not a pleasant thought but, with the ability to remove memories from muggles, it's possible that a portion of those muggleborns aren't muggleborns.
+:PROPERTIES:
+:Author: KnightnBricks
+:Score: 5
+:DateUnix: 1582676740.0
+:DateShort: 2020-Feb-26
+:END:
+
+*** Obliviate, Love Potions, Imperius Curse, Confundus Charm, Disillusionment Charm, Invisibility Cloak, Petrificus Totalus, Incarcerous...
+
+Lots of ways to mess with Muggles without being detected. Even if they remember it, what can they do? Go to the police and tell them an invisible person made them frozen, did something to them, then left no evidence?
+:PROPERTIES:
+:Author: darkpothead
+:Score: 3
+:DateUnix: 1582696270.0
+:DateShort: 2020-Feb-26
+:END:
+
+
+*** u/YOB1997:
+#+begin_quote
+  it's possible that a portion of those muggleborns aren't muggleborns.
+#+end_quote
+
+Dean Thomas cases (the non-rape variety).
+:PROPERTIES:
+:Author: YOB1997
+:Score: 3
+:DateUnix: 1582736664.0
+:DateShort: 2020-Feb-26
+:END:
+
+
+** Squibs are just regular muggles, it's the being born into wizarding culture that makes them remarkable.
+:PROPERTIES:
+:Author: Slightly_Too_Heavy
+:Score: 2
+:DateUnix: 1582663138.0
+:DateShort: 2020-Feb-26
+:END:
+
+*** Well, not exactly, since a witch or wizard could be born of a squib ancestor, but a person who has no witch, wizard or squib ancestors cannot be born a witch or wizard.
+
+Basically, a squib has the spark of magic in them, they just can't use it, as opposed to a muggle, who has no spark of magic at all.
+:PROPERTIES:
+:Author: shinshikaizer
+:Score: 3
+:DateUnix: 1582669662.0
+:DateShort: 2020-Feb-26
+:END:
+
+**** Sure. I was talking more in terms of them not having latent abilities. People often forget JKR's clarification that Figg lied to the Wizengamot.
+:PROPERTIES:
+:Author: Slightly_Too_Heavy
+:Score: 2
+:DateUnix: 1582669889.0
+:DateShort: 2020-Feb-26
+:END:
+
+***** And I'm differentiating between the people who could sire future witches and wizards and people who can't.
+
+Basically, I'm proposing the idea that the magical world may have lost track of a lot more squibs than they realized.
+:PROPERTIES:
+:Author: shinshikaizer
+:Score: 1
+:DateUnix: 1582670234.0
+:DateShort: 2020-Feb-26
+:END:
+
+
+***** should have included it in the books then
+:PROPERTIES:
+:Author: CommanderL3
+:Score: 1
+:DateUnix: 1582686179.0
+:DateShort: 2020-Feb-26
+:END:
+
+****** She pretty much did, Harry literally pointed out that it doesn't sound at all like she has actually seen a dementor, but rather that she was describing a picture she had seen, she also was under the impression that dementors would were running instead of gliding, which she wouldn't if she had seen it, and then there is also that literally nobody believed her visual description of a dementor and people only took her serious after she managed to describe the feelings they cause.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 2
+:DateUnix: 1582691730.0
+:DateShort: 2020-Feb-26
+:END:
+
+******* she could have just been terrible at describing things
+:PROPERTIES:
+:Author: CommanderL3
+:Score: -1
+:DateUnix: 1582691936.0
+:DateShort: 2020-Feb-26
+:END:
+
+******** Thats not really at all what the text suggest though, like from a narrative view alone its pretty clear that she cant see them, like it literally starts with people doubting that Squibs can even see dementors, followed by a Squib failing to visually describe a dementor.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 2
+:DateUnix: 1582692149.0
+:DateShort: 2020-Feb-26
+:END:
+
+********* maybe some squibs can and some cant
+:PROPERTIES:
+:Author: CommanderL3
+:Score: -1
+:DateUnix: 1582692248.0
+:DateShort: 2020-Feb-26
+:END:
+
+********** Now you're just making stuff up, the scene was pretty clear and did suggest no such thing.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 2
+:DateUnix: 1582692421.0
+:DateShort: 2020-Feb-26
+:END:
+
+
+** Not necessarily. Like long, long ago two squibs could have chosen the muggle world and now every muggle-born is one of their descendents many generations later. (Unless you consider all nonmagical descendents of squibs to also be squibs but I don't think that's how the wizarding world thinks since squibs are nonmagic folk born of magic folk)
+:PROPERTIES:
+:Author: Yin_Kirsi
+:Score: 2
+:DateUnix: 1582659862.0
+:DateShort: 2020-Feb-25
+:END:
+
+
+** My headcanon:
+
+- Actual first generation magicals, but they are "won the lottery" rare.
+- "Refreshed" Squib born. Pureblood inbreeding leads to squibs, since their magic was mostly "used up" fighting off the effects of the bad genes. Once enough muggle blood is infused into the bloodline and flushes out the inbreeding, magic pops up again. Thus "muggleborns". This can take a few generations, as adding another Squib Bloodline doesn't help that much. You need actual Muggle blood.
+:PROPERTIES:
+:Author: Nyanmaru_San
+:Score: 2
+:DateUnix: 1582685260.0
+:DateShort: 2020-Feb-26
+:END:

@@ -1,0 +1,48 @@
+#+TITLE: Does anyone know how I can easily convert a ff.net story to .mobi and get it sent to my kindle?
+
+* Does anyone know how I can easily convert a ff.net story to .mobi and get it sent to my kindle?
+:PROPERTIES:
+:Author: SeaWeb5
+:Score: 1
+:DateUnix: 1585065246.0
+:DateShort: 2020-Mar-24
+:END:
+Kind of how the bot on this reddit does it.
+
+
+** I use the fanficfare, use calibre's ebook-converter to convert from epub to azw3 and then transfer over usb, all in command line.
+
+Fanficdownloader supports mobi/azw3 directly, and has a gui, from what I recall. Also, as an alternative to using usb, amazon also gives you a special email, that you can email files to, to transfer to your kindle.
+:PROPERTIES:
+:Author: kalespr
+:Score: 4
+:DateUnix: 1585067627.0
+:DateShort: 2020-Mar-24
+:END:
+
+*** Calibre supports the amazon email. So you can add the file to the calibre library, convert, and then send it to the kindle all from the program.
+
+I need to find my Calibre library. It's a 16GB USB stick. It has the portable version installed on it.
+:PROPERTIES:
+:Author: Nyanmaru_San
+:Score: 1
+:DateUnix: 1585071486.0
+:DateShort: 2020-Mar-24
+:END:
+
+
+** I use this site, [[http://www.ff2ebook.com]] just copy past it
+:PROPERTIES:
+:Author: ninjaasdf
+:Score: 4
+:DateUnix: 1585065943.0
+:DateShort: 2020-Mar-24
+:END:
+
+*** This looks like the easiest option, thanks!
+:PROPERTIES:
+:Author: SeaWeb5
+:Score: 1
+:DateUnix: 1585081634.0
+:DateShort: 2020-Mar-25
+:END:

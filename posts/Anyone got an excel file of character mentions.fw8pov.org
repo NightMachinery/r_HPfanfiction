@@ -1,0 +1,69 @@
+#+TITLE: Anyone got an excel file of character mentions?
+
+* Anyone got an excel file of character mentions?
+:PROPERTIES:
+:Author: TychoTyrannosaurus
+:Score: 2
+:DateUnix: 1586212947.0
+:DateShort: 2020-Apr-07
+:FlairText: Discussion
+:END:
+Hi there! Just looking for a list of how many mentions each character has in the series, ideally separated up by book (or even chapter?).
+
+I know this sort of resource exists, but I haven't been able to find anything through google (the best lists I can find just have the top 200 characters, not all of them, and not separated by book). Thought I would ask around here to see if anybody could point me in the right direction!
+
+Thanks in advance! :)
+
+
+** If you can't end up finding it, but have the ebook version, you can make it yourself. A bit of a boring process, but really easy to do.
+
+Download and install [[https://calibre-ebook.com/][Calibre]] and add the ebooks to the Calibre library.
+
+Right click the book, and click *Edit*. This will open a new window with a bunch of icons along the top. Find the one for *Reports* - it'll have a magnifying glass and graph-like columns. Wait for it to load.
+
+The *Words* tab is likely auto-selected, if not choose that. Then click *Save* - this will create a CSV file of every single word in the book and its frequency. Then you'll just need to delete the rows that aren't a name: you can open a CSV in Excel.
+
+... Repeat for the next book.
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 3
+:DateUnix: 1586222823.0
+:DateShort: 2020-Apr-07
+:END:
+
+*** Only own the physical copies, unfortunately, but thank you! Good to know. Might end up springing for them just for this purpose...
+:PROPERTIES:
+:Author: TychoTyrannosaurus
+:Score: 2
+:DateUnix: 1586224459.0
+:DateShort: 2020-Apr-07
+:END:
+
+**** Don't be ridiculous, it took about 5 minutes to get the CSVs and upload them. I'll leave the grunt work to you though =P
+
+[[https://drive.google.com/drive/folders/1meJpTKR9HKj1a_4qUHiMDJPrvBERJNPP?usp=sharing][Here you go.]]
+
+Edit - Actually skimmed through one. Be aware that it counts Harry and Harry's as two separate entries, etc.
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 2
+:DateUnix: 1586225013.0
+:DateShort: 2020-Apr-07
+:END:
+
+***** Thank you! Very sweet. I'll take a gander after work
+:PROPERTIES:
+:Author: TychoTyrannosaurus
+:Score: 1
+:DateUnix: 1586272668.0
+:DateShort: 2020-Apr-07
+:END:
+
+
+** There's those quizzes [[https://www.sporcle.com/playlists/SporcleEXP/harry-potter-characters]] There's one for each book. They have all characters in each book, sorted by a number of mentions. Seems accurate.
+:PROPERTIES:
+:Author: EusebiaRei
+:Score: 2
+:DateUnix: 1586251349.0
+:DateShort: 2020-Apr-07
+:END:

@@ -1,0 +1,158 @@
+#+TITLE: Canon or Fanon? Political parties/factions in the Wizengamot and the Magical UK
+
+* Canon or Fanon? Political parties/factions in the Wizengamot and the Magical UK
+:PROPERTIES:
+:Author: wille179
+:Score: 7
+:DateUnix: 1574619924.0
+:DateShort: 2019-Nov-24
+:FlairText: Discussion
+:END:
+I'm honestly having a bit of a hard time remembering canon from fanon regarding the politics of the HP universe, specifically the Wizengamot and the factions within it. For instance, I know that we had the Order of the Phoenix and the Death Eaters, but were there political parties that they corresponded to? I've seen "the light" and "the dark" tossed around, but I'm pretty sure those are fanon.
+
+So my question really boils down to: what do we /know/ about the wizarding politics across the seven books?
+
+I want to get this a little straightened out in my head before I go inventing stuff to suit my story's needs.
+
+
+** *The Minister*
+
+We know from Pottermore that the Minister for Magic is elected once every 7 years (unless they resign earlier):
+
+#+begin_quote
+  The Minister for Magic is democratically elected, although there have been times of crisis in which the post has simply been offered to an individual without a public vote (Albus Dumbledore was made such an offer, and turned it down repeatedly). There is no fixed limit to a Minister's term of office, but he or she is obliged to hold regular elections at a maximum interval of seven years.
+#+end_quote
+
+Even if Pottermore hadn't told us this, the books consistently portray Fudge as extremely concerned about public opinion, something which would only really make sense if he is elected.
+
+*The Wizengamot*
+
+In the books we only see the Wizengamot act as a court. However, there are hints in the books that it holds more than judicial power:
+
+#+begin_quote
+  ‘My dear Prime Minister, you can't honestly think I'm still Minister for Magic after all this? I was sacked three days ago! The whole wizarding community has been screaming for my resignation for a fortnight. I've never known them so united in my whole term of office!' said Fudge, with a brave attempt at a smile.
+#+end_quote
+
+Fudge was sacked before his term was up (i.e. properly sacked, not just failing to be re-elected). For him to be sacked means there must be a body with the power to sack him. The Wizengamot is the only body we know of which could fit the bill (other than perhaps the International Confederation of Wizards).
+
+Further, the name "Wizengamot", as a play on the old witenagemot, suggests a role beyond the judicial.
+
+Pottermore conveniently confirms that the Wizengamot acts as wizarding Britain's legislature:
+
+#+begin_quote
+  The Order of Merlin (sometimes abbreviated to O.M.) is awarded by the Wizengamot, an organisation that predates the Ministry of Magic and nowadays functions as a combination of court and parliament.
+#+end_quote
+
+*Conclusion*
+
+We know that there are elections, we know that there is a legislature. We even know that Fudge is a member of that legislature, from his sitting on it during OotP.
+
+It doesn't take a big step from there to say that the system is a Parliamentary one where the Minister is whoever commands a majority in the legislature, with the members of the Wizengamot being elected to the position.
+
+The problem I have with this is that it would mean that Dumbledore sought election as a member of the Wizengamot, which rather goes against his "will not actively seek political power" characterisation.
+:PROPERTIES:
+:Author: Taure
+:Score: 19
+:DateUnix: 1574622592.0
+:DateShort: 2019-Nov-24
+:END:
+
+*** u/turbinicarpus:
+#+begin_quote
+  The problem I have with this is that it would mean that Dumbledore sought election as a member of the Wizengamot, which rather goes against his "will not actively seek political power" characterisation.
+#+end_quote
+
+It could simply be that Chief Warlock does not have to be an elected member of Wizengamot but serves at the pleasure of the majority. It would also explain why he could be removed so easily during OotP.
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 9
+:DateUnix: 1574632685.0
+:DateShort: 2019-Nov-25
+:END:
+
+**** Yeah, some of those seats look as though they were handed out or came with the job. Crouch was part of the Council of Magical Law, but Amelia Bones was part of the Wizengamot. Can't see Umbridge getting elected, either.
+:PROPERTIES:
+:Author: Ash_Lestrange
+:Score: 4
+:DateUnix: 1574634748.0
+:DateShort: 2019-Nov-25
+:END:
+
+
+*** unless of course the wizengamot is not an elected postion and one does not run for a postion on it
+:PROPERTIES:
+:Author: CommanderL3
+:Score: 3
+:DateUnix: 1574626851.0
+:DateShort: 2019-Nov-24
+:END:
+
+
+*** I always thought it a matter of either a)he took the job because all the other options were horrible b) he took the job because so many people wanted him to and all the other candidates with a shot were horrible.
+:PROPERTIES:
+:Author: Garanar
+:Score: 2
+:DateUnix: 1574659526.0
+:DateShort: 2019-Nov-25
+:END:
+
+
+** All we know is that the wizengamott is the judicial branch and the MoM is head of government.
+:PROPERTIES:
+:Author: Saelora
+:Score: 4
+:DateUnix: 1574620560.0
+:DateShort: 2019-Nov-24
+:END:
+
+
+** It's fanon. or at least mostly The Wizengamot in the books is shown to be some sort of judiciary organization rather than a legislative body, and I don't remember them ever being shown to have any sort of political power. The only time I remember them being called is in OOTP to decide Harry's fate after he 'performed underage magic'. You mostly see the idea of the Wizengamot as a legislative body in Lord! Potter and Indie!Harry based fics that want to include some semblance of poltics.
+
+What we do know is that British Wizard World is run by an elected official known as the Minister Of Magic who acts as a head of state, and the government bureacracy is known as the Ministry of Magic. You see various department heads overseeing areas of interest, and sub-department heads heading specialized departments. The MOM seems to be at least modestly corrupt under Fudge, and not really all that effecient. It also seems to be pretty male dominated, but not entirely. JKR didnt delve heavily into the structure of the MOM in her writing, and we didn't really get a good look at wizarding politics in Britain due to it being Harry's POV.
+
+There's also the ICW or International Confederation of Wizards which is like the Wizarding's World UN, but we learn lmost nothing about it in canon.
+:PROPERTIES:
+:Author: DruidofRavens
+:Score: 5
+:DateUnix: 1574620809.0
+:DateShort: 2019-Nov-24
+:END:
+
+*** The fact it is a judicial branch and a legislature at the same time is something that only makes sense in the context in which Harry Potter was written, which is 1990's UK.\\
+I think the confusion on here comes from the fact most writers/redditors are US based, or are too young/not interested in 90's and earlier British politics.
+
+Until 2009, the UK did not have a Supreme Court, instead the highest court were the 'Law Lords', who also sat as legislators in the House of Lords. Also the name Wizengamot is a play on witenagemot, the parliament of Saxon England.
+
+[[https://en.wikipedia.org/wiki/Lords_of_Appeal_in_Ordinary]]
+
+[[https://en.wikipedia.org/wiki/Witenagemot]]
+
+In the context in which HP was written, it is a likely assumption JK intended the Wizengamot as both a legislative and judicial branch. Actually, the idea that is purely judicial is unlikely given the UK didn't have a US style separation of branches at that time.
+:PROPERTIES:
+:Author: TheGreatPompey
+:Score: 2
+:DateUnix: 1576974893.0
+:DateShort: 2019-Dec-22
+:END:
+
+
+** alot of writers are american, who have their own government to draw on, and there are two main political parties there. others exist but it's mainly Republican or Democrat
+:PROPERTIES:
+:Author: Neriasa
+:Score: 1
+:DateUnix: 1574645076.0
+:DateShort: 2019-Nov-25
+:END:
+
+*** u/TheGreatPompey:
+#+begin_quote
+  alot of writers are american, who have their own government to draw on, and there are two main political parties there. others exist but it's mainly Republican or Democrat
+#+end_quote
+
+This is a huge factor, people don't realise how much HP politics is influenced by the fact it is written from a UK perspective, rather than a US one. To an American, the idea that the legislative branch and the judicial branch is the same body is a plothole. To a brit, it was the reality when HP was written.
+:PROPERTIES:
+:Author: TheGreatPompey
+:Score: 1
+:DateUnix: 1576974984.0
+:DateShort: 2019-Dec-22
+:END:

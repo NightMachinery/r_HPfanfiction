@@ -1,0 +1,66 @@
+#+TITLE: HpFanficArchive is down. (Connection Declined)
+
+* HpFanficArchive is down. (Connection Declined)
+:PROPERTIES:
+:Author: Hobbitcraftlol
+:Score: 4
+:DateUnix: 1477876285.0
+:DateShort: 2016-Oct-31
+:FlairText: Misc
+:END:
+Looks like a page admin is doing some update work of some kind; connections are allowed in but cut off and declined as soon as it requests a page :( I was in the middle of a long chapter and it disappeared.
+
+--EDIT-- WE ARE SAVED, hpffa and ffn.net are both back up!
+
+
+** It's back up.
+:PROPERTIES:
+:Author: onlytoask
+:Score: 2
+:DateUnix: 1477877003.0
+:DateShort: 2016-Oct-31
+:END:
+
+*** Yep, looks like the hosting system had problems; fanfiction.net went down for the exact same space of time :)
+:PROPERTIES:
+:Author: Hobbitcraftlol
+:Score: 1
+:DateUnix: 1477877295.0
+:DateShort: 2016-Oct-31
+:END:
+
+
+** If this happens again, I have an archive from 13 September. (Ish. I think it took a few days to download with my settings.)
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1477887480.0
+:DateShort: 2016-Oct-31
+:END:
+
+*** How did you download it?
+:PROPERTIES:
+:Author: mikefromcanmore
+:Score: 2
+:DateUnix: 1477888341.0
+:DateShort: 2016-Oct-31
+:END:
+
+**** Seriously, please share how. Did you use a crawler?
+:PROPERTIES:
+:Author: Ghafla
+:Score: 1
+:DateUnix: 1477891748.0
+:DateShort: 2016-Oct-31
+:END:
+
+
+**** From the command line on Linux (OSX might also have it; on Windows, you'd have to install Cygwin):
+
+#+begin_example
+  wget --user-agent="User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:32.0) Gecko/20100101 Firefox/32.0" --mirror --limit-rate 100k -e robots=off --wait 1 http://www.harrypotterfanfiction.com/
+#+end_example
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1477926448.0
+:DateShort: 2016-Oct-31
+:END:

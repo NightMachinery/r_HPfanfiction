@@ -1,0 +1,287 @@
+#+TITLE: Story Idea Hot Pot
+
+* Story Idea Hot Pot
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 15
+:DateUnix: 1448418833.0
+:DateShort: 2015-Nov-25
+:FlairText: Discussion
+:END:
+So in the last "What story do you want to read" thread, [[/u/loveshercoffee][u/loveshercoffee]] suggested that we have a thread where people could post the story ideas they wanted to see and writers could browse for inspiration. I thought - why stop at a thread? We could make our own website specifically for people to enter story ideas into, and if you're looking for a new story idea you can look around for inspiration.
+
+But before I start working on this, I wanted to get everyone's input! I'm thinking this will be a very simple app, with just one page where you can add an idea and search for ideas. At the moment, I'm toying with the idea that you wouldn't be able to delete an idea if you decide to write a story about it, so I'd love to hear some feedback on that. So let me know what you want to see! I probably won't start actual development until next week, so there's plenty of time to get your suggestions in.
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 8
+:DateUnix: 1448441577.0
+:DateShort: 2015-Nov-25
+:END:
+
+*** I feel like the issue with a thread is searching - unless you're using control-F to look through every instance of say, "Sirius," it can be difficult to search a thread, especially it grows in length. That complicates the issue of searching for an idea featuring a particular time period or character. Not to mention that there's the issue of when a thread "goes cold" after a certain point, when people stop visiting it. IMO, such a thread just becomes easily cluttered after a certain point and isn't really suited for this type of thing.
+
+I'm not exactly sure how to tackle your second point, although I would disagree with adding it to a stickied thread of story ideas. That's too much going on in one thread.
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 1
+:DateUnix: 1448472880.0
+:DateShort: 2015-Nov-25
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1448472979.0
+:DateShort: 2015-Nov-25
+:END:
+
+***** You know, I think the issue of archiving ideas is key here and in a lot of subreddits. Unless something is stickied, threads eventually fade into (relative) obscurity, and with stickied threads, it becomes harder to navigate the thread as it grows. I'm not sure how to solve that though.
+
+Where is "two stickies is max" from? Is that a personal rule, or something handed down from the mods?
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 3
+:DateUnix: 1448475312.0
+:DateShort: 2015-Nov-25
+:END:
+
+****** u/waylandertheslayer:
+#+begin_quote
+  I'm not sure how to solve that though.
+#+end_quote
+
+What about adding them to the wiki?
+:PROPERTIES:
+:Author: waylandertheslayer
+:Score: 4
+:DateUnix: 1448487057.0
+:DateShort: 2015-Nov-26
+:END:
+
+******* How does that address the navigation issues though? Wouldn't it be just as unwieldy in the wiki?
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 1
+:DateUnix: 1448493013.0
+:DateShort: 2015-Nov-26
+:END:
+
+******** I mean archiving individual ideas, not whole threads. You could have any sort of wiki structure that groups similarly themed ideas, and add good (new) ideas as and when they appear in the regular threads.
+:PROPERTIES:
+:Author: waylandertheslayer
+:Score: 2
+:DateUnix: 1448583280.0
+:DateShort: 2015-Nov-27
+:END:
+
+********* Right, but that's what I meant. How do you keep that from being unwieldy as it grows? Also how do you ensure that is regularly updated?
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 2
+:DateUnix: 1448589514.0
+:DateShort: 2015-Nov-27
+:END:
+
+********** I haven't given it a great deal of detailed thought, but I know other subreddits use wikis to do stuff like this. I think they usually either require the OP of an idea to enter it themselves, or (especially for smaller subs or stricter lists) the mods do it.
+
+All big datasets are inherently unwieldy, but I think a wiki is one of the least bad ways to handle it.
+
+Those are both good questions though, and I think that whatever you end up doing you shouldn't rush into it.
+:PROPERTIES:
+:Author: waylandertheslayer
+:Score: 2
+:DateUnix: 1448593243.0
+:DateShort: 2015-Nov-27
+:END:
+
+*********** Oh, how about this: I mentioned elsewhere that I'm imagining the site just lists ideas, but doesn't have any mechanisms for actively encouraging or discouraging certain ideas. What if we had a best of the best section in the wiki?
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 2
+:DateUnix: 1448594394.0
+:DateShort: 2015-Nov-27
+:END:
+
+************ That could work. One section of the site or even another site entirely to gather ideas, and then another part to store those that are both new and good.
+:PROPERTIES:
+:Author: waylandertheslayer
+:Score: 2
+:DateUnix: 1448664484.0
+:DateShort: 2015-Nov-28
+:END:
+
+
+** Here's my thoughts on features you could use:
+
+- Tags, to make searching and indexing easier. Shouldn't be hard to implement, either. Stuff like 'dark Harry', 'slash', 'oneshot', etc. Your choice on whether they're curated (and to what degree) or not.
+
+- I'd make it so others couldn't edit the original story idea. There should be some other framework so others can adapt the idea or add their own spin on it, though. As an example I'd suggest looking at the quest site anonkun (though less broken, obviously).
+
+- Similarly, I'd add in a sort of upvoting system. Should be used mainly for searching and for making curating easier: there will occasionally be terrible ideas posted. These should be easier to detect if a lot of downvotes happen. Hopefully it should also decrease the amount of spam comments.
+
+- Also offer other fandoms besides HP. I'm thinking Naruto, for one.
+:PROPERTIES:
+:Author: NMR3
+:Score: 6
+:DateUnix: 1448446980.0
+:DateShort: 2015-Nov-25
+:END:
+
+*** Tags would definitely be a feature for the first version. I'm thinking somewhere between fanfiction.net and AO3 in terms of number.
+
+So yes, others wouldn't be able to edit the original story idea. However, the site would only be concerned with providing the story idea - whether someone wrote a story based on the exact idea or a slightly altered version of it would be entirely up to them. I'd consider that to be outside the scope of the website. At best, I'd just ask them to credit the original story idea as inspiration.
+
+I honestly hadn't thought about an upvoting system. I agree that there'll be some terrible ideas, but I figured that people will, in order from best to worst, a) turn the idea into an awesome idea and write an awesome, b) write a new "My Immortal", c) ignore it, or d) write a terrible story. Like I said above, I would consider the purpose of the site to just serve story ideas, and what people did with them would be up to them. Would you prefer to see more active encouragement and discouragement of story ideas? How would we keep people from downvoting ideas they don't like as opposed to ones that are less developed as opposed to ones that are actually bad? What's a bad idea anyways?
+
+I think this would be good to expand to other fandoms, but I'd want to make sure it worked for just one first.
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 3
+:DateUnix: 1448474132.0
+:DateShort: 2015-Nov-25
+:END:
+
+
+** I really want some where to post ideas. So I fully support this.
+:PROPERTIES:
+:Author: ProfessorUber
+:Score: 6
+:DateUnix: 1448429900.0
+:DateShort: 2015-Nov-25
+:END:
+
+
+** I get a few ideas that I think are decent from time to time but I don't have the skill or patience to write a story, if there was a place I could dump some of those ideas for anyone to use I would.
+:PROPERTIES:
+:Author: delinquent_turnip
+:Score: 3
+:DateUnix: 1448468051.0
+:DateShort: 2015-Nov-25
+:END:
+
+
+** What makes this different from [[/r/Writingprompts][r/Writingprompts]] other thanthe limitation to a fandom?
+
+I guess that question would be a good place to start.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 2
+:DateUnix: 1448435354.0
+:DateShort: 2015-Nov-25
+:END:
+
+*** It's the limitation to Harry Potter that is the main difference. I thought that it might be better to have something more targeted to this particular fandom rather than [[/r/writingprompts][r/writingprompts]], where almost anything can be submitted and you have to do a bit of wading to conduct more targeted searches of HP prompts. Are there any specific things or features that you'd like to see that aren't in [[/r/writingprompts][r/writingprompts]]?
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 1
+:DateUnix: 1448474990.0
+:DateShort: 2015-Nov-25
+:END:
+
+**** Maybe distinctions between pairing ideas, generation ideas, AU ideas, crossover ideas,...
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 3
+:DateUnix: 1448476885.0
+:DateShort: 2015-Nov-25
+:END:
+
+***** So more detailed tags?
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 2
+:DateUnix: 1448480645.0
+:DateShort: 2015-Nov-25
+:END:
+
+****** Basically, yes
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 3
+:DateUnix: 1448491807.0
+:DateShort: 2015-Nov-26
+:END:
+
+
+** The biggest problem I have when searching through the Fanfiction Challenges (Fanfiction.net) is that they are too long and specific. It's like the story is pretty much written in the summary. Perhaps a word limit might be benefical? If you're browsing for ideas you don't want really read through paragraph after paragraph of one plot to get the idea. The more restrictions also means less creative thought goes into the story (harder to write as you go along in my opinion). Anyway, just an idea. I would definitely check a website like this out.
+:PROPERTIES:
+:Author: hippoparty
+:Score: 2
+:DateUnix: 1448474380.0
+:DateShort: 2015-Nov-25
+:END:
+
+*** Sure. Maybe 500 words or less? Straight to the point.
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 1
+:DateUnix: 1448475378.0
+:DateShort: 2015-Nov-25
+:END:
+
+**** I'd go less, 500 is still a page of A4. From quickly sampling 11 posts in the other thread, the average word count is 193, so I'd say 300 max.
+:PROPERTIES:
+:Author: hippoparty
+:Score: 2
+:DateUnix: 1448477032.0
+:DateShort: 2015-Nov-25
+:END:
+
+
+** Maybe not a whole website but a sub reddit? Just seems easier to organise? However I think it would be awesome! I have heaps of passing ideas that I just don't have the time to put an appropriate amount of effort into.
+:PROPERTIES:
+:Author: BayJorBenHow
+:Score: 2
+:DateUnix: 1448855469.0
+:DateShort: 2015-Nov-30
+:END:
+
+*** What in particular feature do you think would make a subreddit easier to organize? Especially in terms of being able to tag different ideas and search based on tags.
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 1
+:DateUnix: 1448857296.0
+:DateShort: 2015-Nov-30
+:END:
+
+**** I meant organise in terms of how someone will have to organise and format the whole website which might take time to orchestrate and get to a point where everyone likes it. I do agree a website would be easier in the long run. (Hope all makes sense English is my second language
+:PROPERTIES:
+:Author: BayJorBenHow
+:Score: 2
+:DateUnix: 1448860711.0
+:DateShort: 2015-Nov-30
+:END:
+
+***** No worries, completely understandable. :). As far as organizing the website goes, it shouldn't be too hard. I have a fairly simple design in my mind. Of course, of love to hear people's thoughts, as you can tell from the thread.
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 1
+:DateUnix: 1448861698.0
+:DateShort: 2015-Nov-30
+:END:
+
+****** Then I agree! A website would be great!
+:PROPERTIES:
+:Author: BayJorBenHow
+:Score: 1
+:DateUnix: 1448864783.0
+:DateShort: 2015-Nov-30
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1448419896.0
+:DateShort: 2015-Nov-25
+:END:
+
+*** Uh, I think you misunderstood what I said. This isn't a thread for people to list their story ideas. I want to get people's feedback on what they'd like to see in a *website* where people can list and review story ideas. But please, save those ideas for the website!
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 2
+:DateUnix: 1448420573.0
+:DateShort: 2015-Nov-25
+:END:

@@ -1,0 +1,44 @@
+#+TITLE: I can't see the flairs anymore
+
+* I can't see the flairs anymore
+:PROPERTIES:
+:Author: Karinta
+:Score: 10
+:DateUnix: 1444317581.0
+:DateShort: 2015-Oct-08
+:FlairText: Meta
+:END:
+They've all but disappeared, and the new CSS isn't working for me (Firefox).
+
+
+** They're making a new css, and in the meantime the current one comes and goes.
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1444326228.0
+:DateShort: 2015-Oct-08
+:END:
+
+
+** The new CSS isn't active. There were some issues with it so we reverted the changes until we could fix and change some things.
+:PROPERTIES:
+:Author: denarii
+:Score: 3
+:DateUnix: 1444350053.0
+:DateShort: 2015-Oct-09
+:END:
+
+
+** Yeah I don't know why they had to fuck with a good thing.
+:PROPERTIES:
+:Author: howtopleaseme
+:Score: 9
+:DateUnix: 1444328548.0
+:DateShort: 2015-Oct-08
+:END:
+
+*** I agree, but it was kind of broken too...
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1444702605.0
+:DateShort: 2015-Oct-13
+:END:

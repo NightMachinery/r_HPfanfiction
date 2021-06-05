@@ -1,0 +1,91 @@
+#+TITLE: Looking for two stories lost on ff.net: Terms of Matrimony and Neville's Take
+
+* Looking for two stories lost on ff.net: Terms of Matrimony and Neville's Take
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1549492124.0
+:DateShort: 2019-Feb-07
+:FlairText: Fic Search
+:END:
+1. Terms of Matrimony by Galad Estel. It was originally on [[https://www.fanfiction.net/s/9931566/1/]] but it is not there anymore. I have found something in some old dump and put it on [[https://matej.ceplovi.cz/clanky/drafts/terms_of_matrimony.html]] , but I am not sure whether it is only these six chapters or somebody has more of it.
+2. [[https://www.quora.com/What-are-some-of-the-best-works-of-novel-length-Harry-Potter-fanfiction]] mentions “Neville's Take: Philosopher's Stone Chapter 1: His Beginning, a harry potter fanfic” and points to [[https://www.fanfiction.net/s/11339343/1/Neville-s-Take-Philosopher-s-Stone]], and it is not there and I haven't been able to find it in anydump or anywhere else on the Internet.
+
+Can anybody help me to read these?
+
+
+** - [[http://www.ff2ebook.com/archive.php?search=9931566&sort=title]]
+
+- The website also doesn't have a dump of the 2nd story, sadly.
+
+Generally, the archive of ff2ebook tends to have an almost all stories with reasonable popularity, and also tends to be up-to-date.
+
+A great place to search for vanished fics, if you have an old ffn link.
+:PROPERTIES:
+:Author: fflai
+:Score: 2
+:DateUnix: 1549510006.0
+:DateShort: 2019-Feb-07
+:END:
+
+*** Thank you a lot, that's useful. A lot more reading than in the previous version.
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1549529387.0
+:DateShort: 2019-Feb-07
+:END:
+
+
+** the copy of terms of matrimony in my archive has 6 chapters.
+
+The id for Neville's Take falls in the id range that [[https://archive.org/details/Fanfictiondump114]] covers
+:PROPERTIES:
+:Author: bonsly24
+:Score: 1
+:DateUnix: 1549498636.0
+:DateShort: 2019-Feb-07
+:END:
+
+*** I will take a look. Thank you.
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1549529868.0
+:DateShort: 2019-Feb-07
+:END:
+
+
+*** Hmm, not there:
+
+#+begin_example
+  ➜  fanfiction-114 ls \*eville\*
+  Amour Sucr\_ - Tevilles - Tout ira bien.txt
+  Daniel Tiger's Neighborhood - NoahRoanSeville - Daniel's New Babysitter.txt
+  Harry Potter - Aeareth - Neville and the DA (Dumbledore's Army).txt
+  Harry Potter - Alternatively - The Panic of Neville Longbottom.txt
+  Harry Potter - starfishstar - Neville Longbottom and the Year That Was.txt
+  My Little Pony - Henry Seville - To Reassemble A Broken Heart.txt
+  Real Adventures of Jonny Quest\_ Scooby Doo - Aurora Mandeville - Scooby's Quest.txt
+  Thomas the Tank Engine - DonaldDouglasandToby6 - The Importance of Being Neville.txt
+  Web Shows - Sasha Neville Wilford - Police secr\_te.txt
+  &#x200B;
+  ➜  fanfiction-114
+#+end_example
+
+Oh well. Thank you anyway.
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1549542477.0
+:DateShort: 2019-Feb-07
+:END:
+
+
+*** The version on ff2ebook has 26 chapters and it is apparently complete (although quite hastily finished). My review is on [[https://matej.ceplovi.cz/blog/terms-of-matrimony.html]]
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1549734031.0
+:DateShort: 2019-Feb-09
+:END:

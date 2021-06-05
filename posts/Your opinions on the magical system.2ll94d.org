@@ -1,0 +1,243 @@
+#+TITLE: Your opinions on the magical system?
+
+* Your opinions on the magical system?
+:PROPERTIES:
+:Author: The_Vox
+:Score: 8
+:DateUnix: 1415377394.0
+:DateShort: 2014-Nov-07
+:FlairText: Discussion
+:END:
+How do you describe it/explain it?
+
+Do you write it/think of it as vague as possible or do you have an exquisitely detailed view on how the magic in the universe works?
+
+
+** I like the interpretation from Obsidian Warlock's "More Equal Than You Know". All spells are rituals. In the past, mages would use complex runic circles and hours-long rituals to perform even the most basic spells. Then they began using staves, then wands. Same sort of progress as moving from room-sized computers, to PCs, to portable devices. Wands are more than pieces of wood with animal parts in them - they actually have miniaturized runic circles inside, and clever "programming" which is activated by gestures. When a modern wizard casts a spell, he is accomplishing the same thing in seconds that an ancient one did in hours.
+
+Of course, wands can't do everything. Sometimes you need to use "low level code" and build your ritual from scratch (e.g. Voldemort's rebirth). Very time-consuming, but it's possible to achieve almost anything, as long as you know what you're doing.
+
+This also makes the wandmaker's profession a lot more interesting and challenging. I was always annoyed with stories where Harry becomes a wandmaker, and all he has to do is drill a hole in a stick and stuff a feather inside. I mean, come on. If that's all it took, wandmakers wouldn't be so revered and rare.
+
+As for where magic comes from, [[http://www.reddit.com/r/HPfanfiction/comments/2a0il4/in_defense_of_magical_cores/][this thread]] got a few interesting comments in regards to that.
+:PROPERTIES:
+:Author: deirox
+:Score: 10
+:DateUnix: 1415393170.0
+:DateShort: 2014-Nov-08
+:END:
+
+*** There is another possibility that you're not considering: that making a wand is itself a magical process. Like spells, the physical representations of the magic are simple -- carving the shape of the wand, placing the core inside -- but like spells there's significantly more to it than that.
+
+Ollivander and a regular guy off the street could both craft wands that were physically identical, using the same techniques and processes, but Ollivander's wand would be far superior, simply because he is a wandmaker and the other guy is not. His close affinity with wands, his understanding of them, and even his love for them imbues the wand, via his symbolic wand-crafting actions, with magic greater than what those actions physically produce.
+
+I'm not a fan of the programming approach to wands. It just seems far too scientific, too much like technology. It takes away from the fairy tale nature of the magic.
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1415397824.0
+:DateShort: 2014-Nov-08
+:END:
+
+
+** Magic runs on symbols and metaphors.
+
+It tries to run on intent, but for whatever reason it /can't/, so it does the next best thing and interprets every little cultural meme as instructions for its operation.
+
+Back in ancient times myths of gods started to emerge in human society. Small numbers of humanoid beings with supernatural powers. Magic accommodated this meme by giving small numbers of humans supernatural powers.
+
+Myths of magical animals and plants emerged. As a result, magic created them.
+
+Gods are shown carrying staffs and wands in ancient mythology, so magic makes wands a requirement for spellcasting.
+
+Gods are shown with symbolic connections to animals. Animagi emerge.
+
+Plants, animals and minerals gain symbolic connotations. Potions start existing, using these symbolic substances as ingredients.
+
+This theory also explains why incantations are in psuedo-latin.
+
+If incantations were in a real language then their meanings would be far more ambiguous. If you say "Wingardium Leviosa" the only thing that comes to mind is the levitation charm. But, if you say "Fly" then magic might get confused as to what you want it to do. Should it make the object float? Should it make /you/ float? Should it turn you into a fly? Magic has no idea. "Fly" is just too vague a command. Real words are vague and ambiguous. Made up words are specific. Made up words that sound vaguely "floaty" are easier to associate with making an object fly. So you start convincing people that "Wingardium Leviosa" should make objects fly, it enters the public consciousness, magic notices the cultural meme and makes it happen.
+:PROPERTIES:
+:Author: MadScientist14159
+:Score: 3
+:DateUnix: 1415396386.0
+:DateShort: 2014-Nov-08
+:END:
+
+*** Magic is that senpai that always notices you.
+:PROPERTIES:
+:Author: tn5421
+:Score: 2
+:DateUnix: 1415434746.0
+:DateShort: 2014-Nov-08
+:END:
+
+
+** I've written a fairly extensive document on this exact issue.
+
+Document is [[https://docs.google.com/document/d/1VOF1eu_B7qpTeTUykW5ZGK2HJmVAG5WouY71a5AiRPo/edit?usp=sharing][here]]. It's a systematic take on magic in canon, gathering together evidence and making inferences from that evidence to build up a coherent system.
+
+I've still got to add sections on Charms and Dark Arts, but the three sections that I have already add up to a good 6600 words.
+
+Diagram summing up section two (wizardry and witchcraft):
+
+[[http://imgur.com/k1D9Y9W]]
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1415381603.0
+:DateShort: 2014-Nov-07
+:END:
+
+
+** I have all sorts of theories and inferences about how magic works and has evolved in the world of Potter. I'd be happier if Pottermore wouldn't ruin my work with illogical apocrypha that damages my models. The only consolation I have is that anything date-related can be ignored as the result of unregulated time manipulation.
+
+She really did us a favor, there.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 3
+:DateUnix: 1415380993.0
+:DateShort: 2014-Nov-07
+:END:
+
+
+** Seemingly inconsistent.
+
+Spells require an implement -- a wand. Except some people can do magic without a wand. Spells have somatic components -- spoken words and wand movements. Those are both necessary and sufficient for casting a spell. Except sometimes people don't need those somatic components. And people spend weeks learning individual spells sometimes -- something that beggars belief if the tolerances on the somatic components are loose enough to be useful. And pronunciation matters, but not enough that people have to retrain their accents. Since people use magic in battle and don't rely on, say, swords in addition, the somatic components must be rather loose.
+
+If I want to make a similar magic system, I would add spell affinity and intent. This is a measure of how familiar you are with a particular spell. Higher spell affinity reduces the importance and required accuracy for the somatic components and emphasizes intent instead. In order to cast a spell once, you must have the pronunciation and wand movements very precise. If you've cast it five hundred times, you can do it wordlessly with a wave of your wand. If you've cast it five thousand times, you can do it by twitching your finger, no wand required.
+
+This doesn't explain accidental magic. It also doesn't explain wand affinity.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1415415874.0
+:DateShort: 2014-Nov-08
+:END:
+
+
+** As Brandon Sanderson suggests, the limitations of magic are more interesting than the capabilities. Outline what magic can't do and how that challenges characters in solving plot-related difficulties.
+
+Also, the more magic matters to solving problems, the more details you can and should give about the magic system. To state it Sanderson's way (everyone writing fantasy or sci-fi really should watch his world-building lecture series), magic's ability to solve problems in your story should be proportional to how well you've explained it to the reader.
+
+If you explain a detailed system that doesn't matter in the end (or worse, that characters forget to use [/coughJKR/]), people will be confused and bored.
+
+If you don't explain anything and someone pulls a proverbial rabbit out of their hat at the eleventh hour (/coughJKR/), readers will be upset and feel cheated.
+:PROPERTIES:
+:Author: TimeLoopedPowerGamer
+:Score: 2
+:DateUnix: 1415412086.0
+:DateShort: 2014-Nov-08
+:END:
+
+*** I actually disagree with Sanderson on this one. Yes, /if/ magic solves problems for your characters, that magic should be explained so the reader doesn't feel cheated. However, I completely disagree that magic should be solving the protagonist's problems. I don't think there's any way for magic to save the day and not feel let down.
+
+To be clear, I'm not talking about practical problems like how to get somewhere, how to survive in the wild, etc. Magic can and should be used to solve those problems. What I mean is that magic should not be the key to solving the "plot problem", the problem around which the story revolves, the problem which /the existence of magic itself is responsible for/.
+
+The whole beauty of magic is twofold. Firstly, it has to be extremely attractive to the reader, such that the reader wishes they had it. That means is has to be useful and able to solve annoying non-magical problems. Apparition solves the problem of transport time, for example. But secondly, it has to create problems of its own such that conflict still exists in the world, because a world without conflict is boring.
+
+In Harry Potter this was perfectly summed up by Rufus Scrimgeour: "the trouble is, the other side can do magic too". Magic should be able to "magic away" Muggle problems, but magic alone should not be able to overcome the problems which it creates.
+
+If Harry had simply been equally as talented as Voldemort, had studied hard, then defeated Voldemort in a conventional duel... it would have been very dull. No amount of explaining the magic in advance would have improved it.
+
+Instead, what solves the plot problem must be the choices the protagonist and antagonist make, and the nature of their characters. This is the only way to create a satisfying climax. In a car chase, we don't want someone to come out on top simply because they got into a faster car. Nor do we want one of the drivers to simply be more skilled and win because of that.
+
+No, we want the protagonist to win because he's that little bit more crazy, more self-sacrificial, more willing to take risks in the name of some greater purpose, or because the antagonist is too arrogant or fails to inspire loyalty in his followers or simply lacks the conviction of the protagonist. All this is because we want the protagonist to win because of who he is, not because of some technical detail.
+
+Similarly, a heist movie where you explained the heist which then went exactly as planned would be dull. Heist movies always involve some twist, but crucially the twist is based on the characters' canniness and foresight.
+
+Harry Potter recognises this. For all that the magic at the end seems like a deus ex, it really isn't. All JKR does is give magical significance to the choices the characters have made. Voldemort was arrogant in taking Harry's blood into himself, that arrogance results in a negative magical consequence. Harry was self-sacrificial in allowing himself to be killed without a fight, that virtue is magically rewarded.
+
+This ties in to the way in which Harry Potter is a very different kind of story to the majority of the fantasy canon. Mainstream modern fantasy is mechanistic, deterministic, secular. Its magic is essentially physical in the way it behaves, like a rule-bound force of the universe that we just haven't discovered yet. All of this has its roots in RPGs and the need for rules in a game.
+
+But JKR doesn't come from this background. She approaches fantasy from a different background, one which is far older. Harry Potter can trick you into thinking it's like mainstream fantasy because it has a magic school (implying mechanistic magic) and because it's set in modern times (urban fantasy). But it really isn't. HP is very much in the "fairy tale" type of story, closer to mythology and fables than modern storytelling, with a world where everything is magically symbolic. The only other modern author doing something similar is Neil Gaiman.
+
+Edit: Incidentally, Sanderson's own works reflect this. In The Way of Kings, for example:
+
+SPOILERS
+
+Kaladin doesn't succeed simply by applying the abilities he has trained. He succeeds because he accepts the first ideal of the Knights Radiant, coming to understand what it means.
+
+SPOILERS
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1415434844.0
+:DateShort: 2014-Nov-08
+:END:
+
+**** I agree that JKR doesn't write fantasy like other people, but I don't think that's a good thing. I also agree that magic shouldn't solve all problems, but if it doesn't feature into solving the plot of your story, then it is just like the MacGuffin Hallows were in the last Harry Potter book: a complete waste of time.
+
+Having overlapping themes can work, but it needs to be intentional. You can have mystery or adventure stories in a fantasy world and keep the magic abstract and in the background, but the moment someone opens a locked door with it, you have to ask why all doors aren't made magic proof in Unicorn City.
+
+I think you're also missing the primary themes of other famous fantasy writers and how they relate to the plot resolutions.
+
+Neil Gaiman's characters in his fantasy stories almost always solve problems with their understanding of the magical world. The protagonists learning about themselves and the nature of their reality are primary themes, and the way most of his fantasy plots are resolved.
+
+As for Sanderson, Kaladin learns how their magic works (quite slowly, in my opinion), then uses what he's learned of it to solve primary plot problems, as do the other main characters. In fact, that is all the second book is about.
+:PROPERTIES:
+:Author: TimeLoopedPowerGamer
+:Score: 1
+:DateUnix: 1415491150.0
+:DateShort: 2014-Nov-09
+:END:
+
+
+** I picture the earth with different ley lines. And in ancient times and specific spots of leyline convergence, or spots of specific power, or nomadic tribes who travelled along ley lines, people began to develop magical power, and if they didn't it caused enough mutation in the genetic makeup to be passed on to children, maybe as a recessive allele, which explains some cases of muggleborns where there are no squibs in their family lines.
+
+Even if magical society now is not built around them, magic is still in the earth and in genetics. Magic is also hard to control, especially as young people are developing their magical core (or going through puberty) which is why going to get an education is needed. Hogwarts, Durmstrang, etc... are are built upon specific spots of leyline convergence, magic is literally imbibed in those spaces far more than other places on earth, (which is why muggle tech goes crazy, magic is in the air!). By spending 10 months out of the year for 7 years, in that spot it helps develop their magical core, while they are being trained.
+
+That is the basics of my head canon.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1415388433.0
+:DateShort: 2014-Nov-07
+:END:
+
+
+** My own thoughts on the development of the magic system through the ages (as pertains to my upcoming story).
+
+--------------
+
+- Spontaneous magic outbursts.
+
+- Controlled magical outbursts.
+
+Funny note; Muggles are simply mages that didn't utilize magic - wither over time with weaker offspring, two strong offspring produces muggleborns. Muggle-repelling enchantments and so on merely refuse those without practicable levels of magic.
+
+*/Societies of mages form together./*
+
+- Basic runes written in earth imbibed with magic.
+
+- More complicated runic magic developed using hieroglyphs etc...
+
+- Use staffs of whittled wood to draw runes with incantation [powerful, no finesse].
+
+- Runes drawn with staffs in the air [arithmancy created to simplify runic/incantation unity into logical concepts], more specific incantations created.
+
+- Dark/Light magic separation [Dark is sacrificial and personal -blood etc... also more powerful/Light is more controllable and thus easier to teach].
+
+Funny note; "Pure-blood" agenda started due to muggleborn blood being instinctively incapable of dark magic.
+
+*/Simplistic magical tutoring/education rife./*
+
+- Smaller staffs [single-handed wield-ability], more specific runes, more specific and varied incantations.
+
+- Primitive wands [blasting rods?][runes/incantations are have huge number of languages and variations now].
+
+*/Magical spell development experiencing paradigm shift./*
+
+- [Ollivander to the rescue] Wands with cores that amplify/concentrate magic, birth of "Merlin".
+
+- Hogwarts & The Founders; Hogwarts at the frontier of "modern" magical practice/experiment, written runic language turns into more efficient and teachable "wand-movements".
+
+Wands/staffs [variants of both?], Runic magic, hundreds of different languages mixed together to compile hundreds of thousands of spells that can be varied almost instinctively by one who knows how said runes[or wand-movement equivalents], incantations, and the harmony of said runes/languages.
+
+*/Whew!/*
+
+--------------
+:PROPERTIES:
+:Author: The_Vox
+:Score: 1
+:DateUnix: 1415380677.0
+:DateShort: 2014-Nov-07
+:END:

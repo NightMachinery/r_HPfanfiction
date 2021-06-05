@@ -1,0 +1,445 @@
+#+TITLE: How does Arithmancy interact with number systems other than base 10?
+
+* How does Arithmancy interact with number systems other than base 10?
+:PROPERTIES:
+:Author: Faeriniel
+:Score: 235
+:DateUnix: 1612951969.0
+:DateShort: 2021-Feb-10
+:FlairText: Discussion
+:END:
+What's the most magically powerful number in hexadecimal?
+
+Should Voldemort have separated his soul into 111 parts according to Binaric Arithmancy?
+
+Please help, this keeps me up at night.
+
+
+** We might get some clues about certain other number-systems, based on older civilizations that used anything other than Base 10.
+
+For example, the ancient Sumerians counted in Base 12, using their thumb to point at the knuckles on one hand. The Egyptians also used this system after them.
+
+Base 4 was common in Pacific nations, such as Papua New Guinea - they just used their thumb to point at their fingers and counted on one hand.
+
+If we figure out which numbers featured in their folklore/mythology (and that of other civilizations that didn't use Base 10), we'd most likely have an answer to this question.
+
+EDIT: Apparently the Sumerians actually counted in Base 60, using the knuckles on one hand to count to 12 repeatedly and "iterating" with the other.\\
+Incidentally, old civilizations counting in base 12 and base 60 is also why we measure time the way we do - 60 seconds in a minute, 60 minutes in an hour, and (2×)12 hours per day. Anything shorter than a second only became important after the Decimal system was introduced, so we "grafted on" the decimal way for those.
+:PROPERTIES:
+:Author: PsiGuy60
+:Score: 110
+:DateUnix: 1612954902.0
+:DateShort: 2021-Feb-10
+:END:
+
+*** Sorry can you clarify why they counted twelve five times?
+
+Honestly this comment blew my mind because the other day I was wondering why a day wasn't 10 hours in a day, 100 min in an hour, and a 100 seconds in a minute
+
+Edit:spelling
+:PROPERTIES:
+:Author: saywhatnow117
+:Score: 30
+:DateUnix: 1612963351.0
+:DateShort: 2021-Feb-10
+:END:
+
+**** 5 fingers on one hand (or 4, if we keep the thumb as a pointer - in which case you wouldn't use that hand for the first iteration of 12), 12 knuckles on the other (thumb is used as pointer). That lets you count up to 60 on both hands.
+
+I think it may have started as a compromise of sorts - if you count in base 12 and want to trade with someone who counts in base 5, base 60 is an easy conversion for both of those (because 5×12=60).
+
+Certain other Base 12 systems use the knuckles on both hands, counting up to 144.
+:PROPERTIES:
+:Author: PsiGuy60
+:Score: 19
+:DateUnix: 1612966028.0
+:DateShort: 2021-Feb-10
+:END:
+
+
+**** because 60 can be divided in different ways
+
+1x60
+
+2x30
+
+3x20
+
+4x15
+
+5x12
+
+6x10
+:PROPERTIES:
+:Author: sidp2201
+:Score: 7
+:DateUnix: 1612971416.0
+:DateShort: 2021-Feb-10
+:END:
+
+
+**** twelve times five is sixty
+:PROPERTIES:
+:Author: TheNightSiren
+:Score: -2
+:DateUnix: 1612965851.0
+:DateShort: 2021-Feb-10
+:END:
+
+
+*** I had no idea about the time thing, thanks for that bit of trivia
+:PROPERTIES:
+:Author: MuscledParrot
+:Score: 3
+:DateUnix: 1612965936.0
+:DateShort: 2021-Feb-10
+:END:
+
+
+** You are missing an essential truth: when we change the base we just change how we look at a certain number, but not the number. 111 in binary is exactly the same thing as 7 in decimal (or Base12) or as 13 in base 4 (for example).
+
+It's still the 5th prime number and retains all it's properties, including magical ones.
+
+So Voldemort separating his soul in 111 parts in binary is the same as separating his soul in 1111111 in unary or 7 in decimal, you'd get just as many soul parts.
+:PROPERTIES:
+:Author: lbaloiu
+:Score: 75
+:DateUnix: 1612956187.0
+:DateShort: 2021-Feb-10
+:END:
+
+*** u/tmthesaurus:
+#+begin_quote
+  It's still the 5th prime number and retains all it's properties, including magical ones.
+#+end_quote
+
+No, it only retains its mathematical properties. The cultural properties can definitely change, and there's no reason to suspect the magical properties wouldn't also change. After all, symbols have power in the /Harry Potter/ universe.
+:PROPERTIES:
+:Author: tmthesaurus
+:Score: 30
+:DateUnix: 1612968217.0
+:DateShort: 2021-Feb-10
+:END:
+
+**** But the mathematically properties would also relate to the geometric properties, such as for pentagrams and septagrams. Geometry has often played a critical role in superstition and mythology.
+:PROPERTIES:
+:Author: timeless1991
+:Score: 6
+:DateUnix: 1612976195.0
+:DateShort: 2021-Feb-10
+:END:
+
+
+*** u/Ch1pp:
+#+begin_quote
+  So Voldemort separating his soul in 111 parts in binary
+#+end_quote
+
+It'd be quite funny if Harry and Dumbledore unearthed an ancient Egyptian spell to tell how many Horcruxes someone has made while unaware that the result was displayed in binary.
+:PROPERTIES:
+:Author: Ch1pp
+:Score: 3
+:DateUnix: 1612998685.0
+:DateShort: 2021-Feb-11
+:END:
+
+
+*** That was the joke...
+:PROPERTIES:
+:Author: Faeriniel
+:Score: 4
+:DateUnix: 1612957055.0
+:DateShort: 2021-Feb-10
+:END:
+
+**** Bases are just a representation. If I give you binary 111 soul pieces, each piece being one 'o', it will be: o o o o o o o - just the same as decimal 7. You are probably aware of this already, I just felt some kind of need to clarify.
+:PROPERTIES:
+:Author: EpicDaNoob
+:Score: 4
+:DateUnix: 1612959967.0
+:DateShort: 2021-Feb-10
+:END:
+
+
+** « Thé most powerful number in Asia is eight, and in the Americas it's four, and none of those make it a good idea to split your soul into that many parts »
+
+-La Pantera, Animagus at War
+:PROPERTIES:
+:Author: 100beep
+:Score: 25
+:DateUnix: 1612960271.0
+:DateShort: 2021-Feb-10
+:END:
+
+*** La Pantera is great. She seems to be having a wonderful time being evil, whereas Voldemort is always so serious.
+:PROPERTIES:
+:Author: Devil_May_Kare
+:Score: 7
+:DateUnix: 1612980288.0
+:DateShort: 2021-Feb-10
+:END:
+
+**** The bit where she advises Voldemort to "do it, just to fuck with him," is a particular favourite of mine.
+:PROPERTIES:
+:Author: ConsiderableHat
+:Score: 9
+:DateUnix: 1612986571.0
+:DateShort: 2021-Feb-10
+:END:
+
+
+*** 4 in Asia is a very very bad number
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 4
+:DateUnix: 1612970171.0
+:DateShort: 2021-Feb-10
+:END:
+
+**** In Japan it's a homonym for "death".
+
+Which is why the 4th floor of a building is usually either empty or un-labelled (you go from the 3rd to the 5th floor) there.
+:PROPERTIES:
+:Author: PsiGuy60
+:Score: 7
+:DateUnix: 1612970906.0
+:DateShort: 2021-Feb-10
+:END:
+
+
+**** I do seem to recall that.
+:PROPERTIES:
+:Author: 100beep
+:Score: 1
+:DateUnix: 1612970223.0
+:DateShort: 2021-Feb-10
+:END:
+
+***** Well at least in China, 4 sounds like "death" phonetically. Chinese avoid this number like pest
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 3
+:DateUnix: 1612971016.0
+:DateShort: 2021-Feb-10
+:END:
+
+****** Yeah. Worked in a call centre throughout college and I lost count of the number of times I heard "no four" when setting up phone service. We were told to just roll with it: literally the only time we could screw with the phone number assigned to somebody.
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 2
+:DateUnix: 1613005566.0
+:DateShort: 2021-Feb-11
+:END:
+
+
+*** I did see a fic some time ago where they ruled out certain numbers precisely because Voldemort isn't Asian or other non-European. Always nice when someone does a little research.
+:PROPERTIES:
+:Author: amethyst_lover
+:Score: 2
+:DateUnix: 1613004686.0
+:DateShort: 2021-Feb-11
+:END:
+
+
+** Hex numbers that resemble words have a lot of cultural weight e.g. 0xdeadbeef or 0xcafebabe. Lucky Voldemort grow up before computers though I've read one fic where he split his soul into 7^{7} parts.
+:PROPERTIES:
+:Author: davidwelch158
+:Score: 21
+:DateUnix: 1612955979.0
+:DateShort: 2021-Feb-10
+:END:
+
+*** [removed]
+:PROPERTIES:
+:Score: 9
+:DateUnix: 1612967732.0
+:DateShort: 2021-Feb-10
+:END:
+
+**** u/Steel_Shield:
+#+begin_quote
+  7^{7^{7^{7^{7^{7^{7}}}}}}
+#+end_quote
+
+Let's hope I don't get banned for posting this very spammy looking comment.
+
+[[https://www.calculator.net/big-number-calculator.html][This calculator]] got me up to 7^7^7^7^7^7, so one iteration short. The answer at that point is the following number:
+
+#+begin_example
+  36,539,156,676,180,409,762,028,265,279,833,009,167,187,998,942,090,407,418,612,206,144,256,039,735,294,070,157,326,286,958,872,080,833,764,331,927,762,410,687,233,175,311,023,148,218,751,696,175,080,547,881,899,889,786,284,420,818,390,197,125,972,532,895,098,682,539,318,927,433,507,866,146,507,819,119,352,637,154,747,373,002,444,404,089,631,339,167,345,569,512,810,714,906,267,134,177,881,982,261,709,287,053,413,169,412,982,879,573,070,573,660,395,801,532,172,750,822,615,394,784,710,061,256,266,631,884,823,418,799,919,247,119,219,200,572,404,965,830,052,301,957,917,975,249,280,949,349,610,412,027,377,486,566,858,633,766,296,509,929,191,276,732,093,933,456,997,067,449,868,658,993,395,613,677,451,656,659,929,308,096,809,283,922,785,960,003,895,873,838,557,581,433,054,591,509,986,718,427,954,065,792,103,458,886,235,186,649,084,462,831,258,794,812,535,677,215,180,525,740,229,012,429,547,399,515,770,798,133,010,819,572,294,419,688,412,248,407,738,000,198,351,988,975,473,995,730,053,253,557,368,478,346,611,768,650,214,505,950,053,815,115,198,496,137,198,892,420,637,226,786,791,065,293,475,440,322,618,022,758,732,819,044,156,175,209,780,790,094,234,757,154,367,618,842,644,664,271,217,539,218,425,981,780,167,448,722,978,497,794,571,887,094,291,208,298,382,995,753,668,033,695,489,167,651,558,599,261,856,136,308,646,061,532,366,976,214,724,660,881,324,441,105,511,314,349,528,782,824,164,268,870,484,743,399,344,607,924,666,527,217,417,561,027,578,952,942,812,048,026,902,565,794,003,104,232,001,307,649,903,146,034,869,696,574,124,648,751,704,196,149,667,485,478,676,239,353,147,306,570,215,932,174,653,105,860,630,821,846,791,312,136,337,066,577,172,669,284,561,275,016,295,538,186,175,875,661,056,913,344,414,188,147,182,114,427,257,575,485,946,795,527,202,640,457,106,137,737,143,333,370,829,071,149,509,146,684,952,833,220,985,958,772,156,355,095,154,603,794,601,768,714,065,104,720,958,116,574,576,378,705,168,778,686,767,119,312,726,948,816,662,166,026,418,700,821,787,810,710,233,507,674,682,102,913,298,250,880,608,873,379,587,171,882,096,545,240,198,100,452,348,284,375,663,270,630,616,739,453,513,683,982,071,204,616,288,520,524,471,566,495,301,684,758,216,816,348,978,789,911,437,286,623,688,488,545,869,603,040,345,463,234,314,213,714,297,882,465,409,577,635,179,859,769,428,989,147,720,582,405,121,456,961,674,967,322,713,765,275,448,204,021,136,654,117,817,048,078,990,513,301,235,461,397,039,543,985,664,332,460,088,461,279,372,668,755,795,457,177,718,961,103,568,451,931,001,286,673,195,561,626,075,690,697,464,112,621,563,720,338,396,155,066,602,008,456,773,417,098,452,268,521,553,205,748,229,923,956,921,216,148,441,034,110,074,327,026,373,941,417,037,352,923,180,552,264,099,182,817,439,686,523,901,721,967,491,468,706,514,962,886,102,592,140,784,204,213,434,311,442,571,040,292,448,477,473,068,111,598,282,669,503,801,351,696,499,486,214,362,054,108,439,129,964,563,972,000,918,732,140,770,444,093,369,095,982,848,204,410,934,136,290,624,325,879,034,624,906,764,365,344,558,034,021,256,999,518,540,593,258,699,865,208,728,899,280,922,535,059,763,965,316,004,532,859,675,022,774,941,893,516,614,588,539,273,597,742,296,945,984,968,680,506,610,253,406,203,305,935,949,265,529,783,705,769,250,610,106,544,159,759,665,415,285,384,005,440,568,143,470,822,111,342,450,419,131,181,737,341,447,073,231,434,359,215,117,094,725,967,616,179,689,272,842,939,925,516,184,743,760,164,223,112,300,705,186,498,732,947,246,327,806,680,759,956,834,072,708,143,644,239,032,291,787,267,722,665,464,208,090,667,293,206,150,760,787,280,151,480,686,940,835,320,060,610,446,041,768,297,668,798,903,493,163,050,799,716,334,166,119,562,502,854,654,356,373,125,254,256,625,540,287,298,250,043,023,479,420,087,979,311,486,218,792,907,062,380,488,649,778,252,761,658,414,107,913,401,172,552,146,357,444,621,329,258,145,782,313,014,530,608,742,590,350,891,038,406,158,973,804,457,200,371,927,917,333,448,364,477,908,550,555,771,455,120,536,566,563,182,635,569,279,782,279,398,808,721,402,365,401,578,163,076,794,644,110,864,356,683,791,435,833,555,837,051,645,592,903,736,553,736,026,403,531,587,462,121,356,112,697,766,312,555,106,218,423,456,424,831,025,266,473,319,905,768,202,861,192,763,112,085,997,946,828,378,457,532,608,781,863,203,358,615,243,363,808,502,045,182,425,570,141,979,224,572,979,993,692,986,202,265,761,527,948,059,351,214,513,767,961,819,320,054,251,093,972,338,730,808,039,419,800,762,368,616,656,654,917,321,392,991,427,628,403,226,110,694,744,971,964,410,286,336,640,085,318,292,802,172,952,766,273,228,061,472,611,723,791,745,857,784,248,608,186,720,617,203,741,635,482,351,097,465,085,131,048,679,839,714,981,060,495,570,268,271,749,427,893,673,481,002,183,815,250,632,823,870,559,833,738,645,080,641,262,381,368,351,580,398,064,161,720,872,219,923,792,008,527,798,644,044,239,632,014,910,735,450,774,580,630,624,980,194,075,304,472,395,398,824,644,060,098,888,618,528,780,432,563,630,820,060,614,251,190,458,461,597,983,982,985,504,297,357,825,835,759,790,017,565,419,017,242,127,470,935,067,016,150,636,719,028,503,211,047,989,592,616,471,416,202,431,768,164,795,828,546,860,435,074,796,162,992,499,881,345,293,875,794,762,974,036,674,382,131,885,047,498,377,355,421,343,013,624,130,212,359,187,110,929,463,564,618,361,778,689,257,524,900,454,343,260,771,503,792,705,770,372,646,532,636,663,824,801,899,294,651,814,670,094,281,708,832,914,479,321,084,891,356,717,459,474,180,039,319,384,407,288,601,397,469,731,365,317,967,714,701,663,902,080,259,225,676,730,295,623,840,428,151,010,486,384,902,366,288,631,288,889,867,379,165,912,398,554,593,639,287,138,398,525,773,094,312,075,373,374,774,588,029,346,486,280,112,439,401,920,424,872,528,198,343,628,221,898,342,063,703,022,365,910,405,768,282,615,291,817,418,689,954,647,867,073,906,407,997,610,521,726,359,686,148,793,341,313,753,318,206,201,720,978,165,570,441,513,777,010,074,227,757,918,006,601,529,845,816,221,926,318,274,687,410,262,548,580,107,418,553,688,469,065,094,659,616,431,584,936,151,651,118,648,428,274,555,900,791,341,020,347,145,283,957,809,099,784,406,053,195,163,773,192,015,732,674,847,518,988,154,822,137,469,249,799,765,212,250,975,542,000,783,328,907,045,357,146,264,439,295,332,240,639,144,663,433,433,198,311,504,303,818,753,718,121,398,646,486,584,018,296,457,267,880,301,514,546,615,361,900,502,157,691,708,686,239,445,326,832,469,454,639,277,905,017,440,241,483,051,096,810,858,222,139,330,102,014,921,731,999,411,964,853,672,627,982,353,754,524,050,779,243,216,319,218,156,439,610,514,948,362,821,953,169,575,425,856,489,338,502,777,253,333,922,887,511,966,223,698,568,220,335,863,051,732,887,517,156,258,240,548,649,676,120,686,167,354,391,366,018,529,964,587,794,006,602,406,435,388,980,925,225,623,061,483,178,075,749,731,804,374,112,613,706,372,284,489,475,350,229,406,879,016,286,738,633,577,912,228,827,779,744,778,365,463,693,037,979,065,422,992,732,037,670,652,314,437,206,043,701,895,310,836,010,656,850,306,322,544,392,726,470,134,329,271,435,677,975,140,439
+#+end_example
+
+I pasted it in as code so it doesn't just get a full page long.
+
+Edit: found a different calculator, see second comment because of length.
+
+Edit2: scratch that, it's about 10x as long as reddit allows. See here: [[https://www.boxentriq.com/code-breaking/big-number-calculator]]
+:PROPERTIES:
+:Author: Steel_Shield
+:Score: 9
+:DateUnix: 1612985048.0
+:DateShort: 2021-Feb-10
+:END:
+
+***** We're going to need more humans for Tom to kill. Everyone get breeding!
+:PROPERTIES:
+:Author: Faeriniel
+:Score: 7
+:DateUnix: 1612993632.0
+:DateShort: 2021-Feb-11
+:END:
+
+
+**** What about [[https://en.m.wikipedia.org/wiki/Ackermann_function][A(7,7)]]?
+:PROPERTIES:
+:Author: Mythopoeist
+:Score: 4
+:DateUnix: 1612972455.0
+:DateShort: 2021-Feb-10
+:END:
+
+
+** Seven is the most powerful number magically because of what it represents. You, your parents and your grandparents. Three generations, seven people. Its a very old Anglo Saxton symbol. Which makes sense why its included in a magic system made by an English woman. Three is powerful for the same reason, you and your parents. That sort of veneration for ancestry is an important part of paganism which seems to be the basis Harry-Potter-verse.
+:PROPERTIES:
+:Author: ChrisAveisNight
+:Score: 16
+:DateUnix: 1612969703.0
+:DateShort: 2021-Feb-10
+:END:
+
+*** They are also important primes and important geometrically. I mean in folklore, rituals use triangles and pentagrams and septagrams, but squares? Hexagons?
+:PROPERTIES:
+:Author: timeless1991
+:Score: 7
+:DateUnix: 1612976423.0
+:DateShort: 2021-Feb-10
+:END:
+
+
+** The answer is in how they split thier money, prime numbers. 29 knuts in a sickle, 17 sickles in a galleon. It might also deal with the mathematical use based in more esoteric cultural based views of numbers in relation to spell crafting an magical properties. Like making equations with numberology.
+:PROPERTIES:
+:Author: Incognonimous
+:Score: 7
+:DateUnix: 1612961177.0
+:DateShort: 2021-Feb-10
+:END:
+
+
+** u/ParanoidDrone:
+#+begin_quote
+  Should Voldemort have separated his soul into 111 parts according to Binaric Arithmancy?
+#+end_quote
+
+Short answer: No.
+
+Troll answer: Yes, but not for the reason you think.
+
+Long answer: Although the /representation/ of a number can vary depending on the base system used, the number itself is the same. 3 + 4 in decimal is the same as 11 + 100 in binary, so Voldemort would not be splitting his souls into one hundred and eleven different pieces even if the magical world happened to run on binary logic. He'd be splitting it into 111 pieces, which is the binary representation of seven.
+:PROPERTIES:
+:Author: ParanoidDrone
+:Score: 4
+:DateUnix: 1612979912.0
+:DateShort: 2021-Feb-10
+:END:
+
+
+** I'd love to see a story where arithmancy is hard because it's base-everything. If you're working out a ritual with a pentagram, your spacing has to be calculated in base-5. If you're working with a circle, it's ALMOST base-3. Everyone thinks it's base-3 but just a bit finicky; maybe the MC figures out that it's actually base-pi, and can get just that little bit closer to a perfect magic circle. And, hell, if you're working on some complicated, multi-layered hypergeometry for a ward scheme or epic enchantment, you may have equations with four or five different bases that you have to reduce to a single solution without any cross-category interference!
+
+I dunno about a story ABOUT arithmancy. That might be boring. But having that as a side element could be cool.
+:PROPERTIES:
+:Author: simianpower
+:Score: 6
+:DateUnix: 1613011901.0
+:DateShort: 2021-Feb-11
+:END:
+
+*** Oh I love this idea too!
+:PROPERTIES:
+:Author: Faeriniel
+:Score: 2
+:DateUnix: 1613017349.0
+:DateShort: 2021-Feb-11
+:END:
+
+
+*** Pi has been a named number since the early 1700's maybe known earlier than that.
+:PROPERTIES:
+:Author: CorsoTheWolf
+:Score: 0
+:DateUnix: 1613097890.0
+:DateShort: 2021-Feb-12
+:END:
+
+**** What of it? That doesn't mean someone would ever think to use it as a base.
+:PROPERTIES:
+:Author: simianpower
+:Score: 1
+:DateUnix: 1613111809.0
+:DateShort: 2021-Feb-12
+:END:
+
+
+** Your are a dork and I´m loving it
+:PROPERTIES:
+:Author: TheGreatNemoNobody
+:Score: 3
+:DateUnix: 1612991331.0
+:DateShort: 2021-Feb-11
+:END:
+
+
+** 111 binary = 7 decimal.
+:PROPERTIES:
+:Author: Her-My-O-Nee
+:Score: 4
+:DateUnix: 1612968200.0
+:DateShort: 2021-Feb-10
+:END:
+
+*** I'm shocked, truly shocked.
+:PROPERTIES:
+:Author: Faeriniel
+:Score: 3
+:DateUnix: 1612993490.0
+:DateShort: 2021-Feb-11
+:END:
+
+
+** Different numerical bases might make certain calculations easier, or represent some phenomenon more closely. The reason behind time measurement being base 60 use by the Sumerians has already been mentioned. That's arbitrary, though, just like other measurements, such as distance.
+
+Most distance measurements (inch, cubit, mile) were originally based off the dimensions or capabilities of the human body. I could see the size of a shield produced by a spell being arithmetically (and arithmantically) related to the body measurements of the wizard or witch who first developed the spell.
+
+I've read one story in which curses were all properly described using base-13 arithmancy. Charms had a different base, possibly 7, but I don't recall.
+:PROPERTIES:
+:Author: steve_wheeler
+:Score: 2
+:DateUnix: 1612990896.0
+:DateShort: 2021-Feb-11
+:END:
+
+
+** [removed]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1612967455.0
+:DateShort: 2021-Feb-10
+:END:
+
+*** but you'd be murdering 111 binary people, so it's still 7 decimal people (not 111 decimal people), right?
+
+ugh numbers are confusing lol
+:PROPERTIES:
+:Author: avenginginsanity
+:Score: 5
+:DateUnix: 1612972085.0
+:DateShort: 2021-Feb-10
+:END:
+
+
+*** What about a difference engine or [[https://en.m.wikipedia.org/wiki/Curta][mechanical calculator]] for magical purposes?
+:PROPERTIES:
+:Author: IronTippedQuill
+:Score: 2
+:DateUnix: 1612983913.0
+:DateShort: 2021-Feb-10
+:END:

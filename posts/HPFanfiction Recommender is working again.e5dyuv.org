@@ -1,0 +1,16 @@
+#+TITLE: HPFanfiction Recommender is working again
+
+* HPFanfiction Recommender is working again
+:PROPERTIES:
+:Author: dJones176
+:Score: 7
+:DateUnix: 1575360567.0
+:DateShort: 2019-Dec-03
+:FlairText: Misc
+:END:
+Hello everyone,
+
+I haven't had access to Internet from a few months, (apart from some access for a week in September) and wasn't able to maintain my projects. I had hoped that they will keep working without issues, but sadly [[https://hpffrec.hackesta.org/][HPFanfiction Recommender]] stopped working on September 30, 2019. The website was accessible but wasn't able to refresh the data. I am going to have Internet access for this week and will be able to fix any immediate issues that may arise.
+
+Any feedback is appreciated.
+

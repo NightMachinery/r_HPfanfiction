@@ -1,0 +1,125 @@
+#+TITLE: PSA a wonderful way of keeping track of your stories.
+
+* PSA a wonderful way of keeping track of your stories.
+:PROPERTIES:
+:Score: 24
+:DateUnix: 1446145938.0
+:DateShort: 2015-Oct-29
+:FlairText: Suggestion
+:END:
+[deleted]
+
+
+** My "workflow":
+
+1. Use [[http://calibre-ebook.com/][Calibre]] and the FanFicFare plugin in its library to download fanfics into epub files and keep them updated.
+
+2. Sync them to an e-reader of your choice, again, using Calibre. Reading List plugin integrates with FanFicFare to automatically queue updated fics to be pushed to the e-reader when syncing.
+
+3. Once caught up on the fic, delete it from the e-reader. (It stays in the Calibre library, and will get pushed to the e-reader again when/if it updates.)
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 11
+:DateUnix: 1446146908.0
+:DateShort: 2015-Oct-29
+:END:
+
+*** Same. And if you put the library in your Dropbox (or hardlink it there) or do some manual setup you can use CalibreBox or Calibre Companion on android to browse your library and get at any fic you ever downloaded while you are out and about. Add a good eBook reader app (for example moon+ reader or one of the many others) and you are golden.
+
+Full disclosure: I am the developer of CalibreBox (though for some people Calibre Companion is a better app, look at the apps and test them, both have ways to test them for free and they do different things). Btw I wrote it mostly to have my fic library on hand because I already had them in Calibre for my kindle and the library in my Dropbox for data safety. Also I needed a bachelor thesis project :D
+:PROPERTIES:
+:Author: Hofferic
+:Score: 5
+:DateUnix: 1446161198.0
+:DateShort: 2015-Oct-30
+:END:
+
+
+** I use this app too but a big glaring feature it's missing that was present in another app is the ability to sort by read/unread. It wouldn't even be that hard for him to implement cause he has that bar there already tracking the chapters read
+:PROPERTIES:
+:Author: WizardBrownbeard
+:Score: 4
+:DateUnix: 1446177743.0
+:DateShort: 2015-Oct-30
+:END:
+
+*** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1446182612.0
+:DateShort: 2015-Oct-30
+:END:
+
+**** Its not about remembering, like I said he has that bar, but sorting by that, that's what's missing. I don't want to have to scroll through all of my previously read fics to go to the one I want to read now
+:PROPERTIES:
+:Author: WizardBrownbeard
+:Score: 2
+:DateUnix: 1446204196.0
+:DateShort: 2015-Oct-30
+:END:
+
+
+** I've been using [[https://play.google.com/store/apps/details?id=com.loktech.webreader&hl=en][this (fanfiction reader google play)]] for years just for straight downloads, but ever since the ffbot I've started just hitting the epub download button and sticking them in my google docs, then letting google read them to me as I drive/bike/etc... I don't really use the communities on FF, however this looks like a snappy app so I'll give it a run. Thanks for the rec, I'm always hunting for a "better" app/way to do something.
+:PROPERTIES:
+:Author: paperhurts
+:Score: 3
+:DateUnix: 1446211050.0
+:DateShort: 2015-Oct-30
+:END:
+
+*** [deleted]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1446322186.0
+:DateShort: 2015-Oct-31
+:END:
+
+**** Yes, Google play books, where you can put any epub, reads put loud. It works for me!
+:PROPERTIES:
+:Author: paperhurts
+:Score: 2
+:DateUnix: 1446327519.0
+:DateShort: 2015-Nov-01
+:END:
+
+***** [deleted]
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1446330560.0
+:DateShort: 2015-Nov-01
+:END:
+
+****** I did a dance when I figured it out.
+:PROPERTIES:
+:Author: paperhurts
+:Score: 1
+:DateUnix: 1446332461.0
+:DateShort: 2015-Nov-01
+:END:
+
+
+** I actually really like the official fanfiction.net app. I actually didn't discover the wonders of communities until I started using the app because they're so much more prominently displayed in the app than online.
+
+[[https://play.google.com/store/apps/details?id=com.fictionpress.fanfiction&hl=en][Linky]] (Android)
+:PROPERTIES:
+:Author: ligirl
+:Score: 2
+:DateUnix: 1446180583.0
+:DateShort: 2015-Oct-30
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1448334572.0
+:DateShort: 2015-Nov-24
+:END:
+
+*** A little late, but Codex Reader for android supports ff.net, fictionpress and ao3.
+:PROPERTIES:
+:Author: ajford
+:Score: 1
+:DateUnix: 1451862981.0
+:DateShort: 2016-Jan-04
+:END:

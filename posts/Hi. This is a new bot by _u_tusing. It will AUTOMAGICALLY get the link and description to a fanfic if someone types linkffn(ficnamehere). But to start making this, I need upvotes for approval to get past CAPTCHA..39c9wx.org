@@ -1,0 +1,651 @@
+#+TITLE: Hi. This is a new bot by /u/tusing. It will AUTOMAGICALLY get the link and description to a fanfic if someone types linkffn(ficnamehere). But to start making this, I need upvotes for approval to get past CAPTCHA.
+
+* [[http://hastebin.com/ifofigiqem.erl][Hi. This is a new bot by /u/tusing. It will AUTOMAGICALLY get the link and description to a fanfic if someone types linkffn(ficnamehere). But to start making this, I need upvotes for approval to get past CAPTCHA.]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 411
+:DateUnix: 1433967143.0
+:DateShort: 2015-Jun-11
+:FlairText: Misc
+:END:
+
+** * PROGRESS: [=========>-----]
+  :PROPERTIES:
+  :CUSTOM_ID: progress------
+  :END:
+
+- Everything /almost/ works. Now I just need to figure out how to handle errors (404, subreddit down, etc...)
+
+* *APPROVAL*
+  :PROPERTIES:
+  :CUSTOM_ID: approval
+  :END:
+Guys, I can confirm this. To start developing this, though, I need manual upvotes, otherwise Reddit's API never lets bots through the CAPTCHA.
+
+It's been a really long time since I've developed in Python, so it will take some time to develop, and iron out bugs.
+
+ 
+
+* *THE GOAL*
+  :PROPERTIES:
+  :CUSTOM_ID: the-goal
+  :END:
+Lately, I've seen everyone likes to link fics. Though, that can be tedious, especially if you are on mobile. You have to /go/ to fanfiction.net, and then you have to /copy/ the link, /hyperlink/ it, and then /format/ the description. This bot aims to simplify it all - all you'll have to type is
+
+#+begin_example
+  linkffn(Dagger and Rose)
+#+end_example
+
+to link Dagger and Rose.
+
+ 
+
+* *OUTPUT*
+  :PROPERTIES:
+  :CUSTOM_ID: output
+  :END:
+Output for
+
+#+begin_example
+  linkffn(Magics of the Arcane)
+#+end_example
+
+will look like this:
+
+#+begin_quote
+  [[https://www.fanfiction.net/s/8303194/1/Magics-of-the-Arcane][*Magics of the Arcane* by Eilyfe]]
+
+  #+begin_quote
+    /Sometimes, all it takes for a man to rise to greatness is a helping hand and the incentive to survive. Amid giants, there is no choice but become one yourself. If you want to keep on living, that is. [GoF, Mentor!Albus]/
+
+    ^{Rated:} ^{Fiction} ^{M} ^{-} ^{English} ^{-} ^{Adventure} ^{-} ^{Harry} ^{P.,} ^{Albus} ^{D.} ^{-} ^{Chapters:} ^{27} ^{-} ^{Words:} ^{193,359} ^{-} ^{Reviews:} ^{1,447} ^{-} ^{Favs:} ^{3,805} ^{-} ^{Follows:} ^{4,046} ^{-} ^{Updated:} ^{Apr} ^{23,} ^{2014} ^{-} ^{Published:} ^{Jul} ^{9,} ^{2012} ^{-} ^{id:} ^{8303194}
+  #+end_quote
+#+end_quote
+
+ 
+
+* *FUTURE UPDATES*
+  :PROPERTIES:
+  :CUSTOM_ID: future-updates
+  :END:
+Once I have the basics outlined, I'll start adding in more providers, such as AO3 and DLP. For these, the commands will be
+
+#+begin_example
+  linkao3(D.S.S. Requirement)
+#+end_example
+
+or
+
+#+begin_example
+  linkdlp(Santi Boy Who Lived)
+#+end_example
+
+ 
+
+*/Thanks, everyone! I can start working on this for real now./*
+:PROPERTIES:
+:Author: tusing
+:Score: 54
+:DateUnix: 1433967587.0
+:DateShort: 2015-Jun-11
+:END:
+
+*** [[https://www.fanfiction.net/s/4152930/1/Dagger-and-Rose][*/Dagger and Rose/*]] [[https://www.fanfiction.net/u/1446455/Perspicacity][/by Perspicacity/]]
+
+#+begin_quote
+  Dumbledore doesn?t ignore the 2nd prophecy! He apprentices Harry and teaches him a rare form of magic, but draws the ire of a secret society who seek to guard this knowledge and do Harry in. Assassination attempts on multiple fronts. H/F, Yr. 4 GoF AU.
+
+  Fiction M - English - Suspense/Romance - Harry P., Fleur D. - Chapters: 17 - Words: 85,199 - Reviews: 1,289 - Favs: 2,098 - Follows: 1,035 - Updated: 5/7/20083/24/2008 - Status: Complete - id: 4152930
+#+end_quote
+
+ 
+
+[[https://www.fanfiction.net/s/8303194/1/Magics-of-the-Arcane][*/Magics of the Arcane/*]] [[https://www.fanfiction.net/u/2552465/Eilyfe][/by Eilyfe/]]
+
+#+begin_quote
+  Sometimes, all it takes for a man to rise to greatness is a helping hand and the incentive to survive. Amid giants, there is no choice but become one yourself. If you want to keep on living, that is. [GoF, Mentor!Albus]
+
+  Fiction M - English - Adventure - Harry P., Albus D. - Chapters: 27 - Words: 193,359 - Reviews: 1,448 - Favs: 3,813 - Follows: 4,049 - Updated: 4/23/20147/9/2012 - id: 8303194
+#+end_quote
+
+ 
+
+/Graciously brought to you by me - [[/u/tusing]]'s bot./
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 7
+:DateUnix: 1434034617.0
+:DateShort: 2015-Jun-11
+:END:
+
+
+*** cool thanks!
+
+does it work if you name drop multiple fics?
+:PROPERTIES:
+:Author: OwlPostAgain
+:Score: 5
+:DateUnix: 1433972016.0
+:DateShort: 2015-Jun-11
+:END:
+
+**** Yup, that will also be implemented
+:PROPERTIES:
+:Author: tusing
+:Score: 4
+:DateUnix: 1433973947.0
+:DateShort: 2015-Jun-11
+:END:
+
+
+** With over 500 thousand fanfics what happens if someone puts a very generic name in the bot?
+:PROPERTIES:
+:Author: SomecallmeMichelle
+:Score: 10
+:DateUnix: 1433975178.0
+:DateShort: 2015-Jun-11
+:END:
+
+*** It would search Google in order to get the most relevant fic.
+
+If you want to find a fic by a specific author, you can drastically increase your chances of doing so by including the author name in the brackets, eg.
+
+#+begin_example
+  linkffn(The Denarian Renegade by Shezza)
+#+end_example
+:PROPERTIES:
+:Author: tusing
+:Score: 10
+:DateUnix: 1433975343.0
+:DateShort: 2015-Jun-11
+:END:
+
+**** [[https://www.fanfiction.net/s/3473224/1/The-Denarian-Renegade][*/The Denarian Renegade/*]] [[https://www.fanfiction.net/u/524094/Shezza][/by Shezza/]]
+
+#+begin_quote
+  By the age of seven, Harry Potter hated his home, his relatives and his life. However, an ancient demonic artefact has granted him the powers of a Fallen and now he will let nothing stop him in his quest for power. AU: Slight Xover with Dresden Files
+#+end_quote
+
+ 
+
+/Graciously brought to you by me - [[/u/tusing]]'s bot./
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 5
+:DateUnix: 1434036935.0
+:DateShort: 2015-Jun-11
+:END:
+
+
+**** [deleted]
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1434006869.0
+:DateShort: 2015-Jun-11
+:END:
+
+***** Good idea! I'll expand the parsing abilities after the initial release.
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1434019723.0
+:DateShort: 2015-Jun-11
+:END:
+
+
+** This looks awesomely useful. Upvoted. No objection to this violation of intergalactic law.
+
+I would suggest making a few posts across reddit in any subreddit's 'rising' category if this alone doesn't get you enough Karma. Also, post this to [[/r/harrypotter]] and [[/r/hpmor]]
+:PROPERTIES:
+:Author: Imborednow
+:Score: 7
+:DateUnix: 1433972023.0
+:DateShort: 2015-Jun-11
+:END:
+
+
+** Yes Yes Yes.
+:PROPERTIES:
+:Author: Karinta
+:Score: 6
+:DateUnix: 1433974102.0
+:DateShort: 2015-Jun-11
+:END:
+
+
+** Neat. Good luck.
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1433971178.0
+:DateShort: 2015-Jun-11
+:END:
+
+
+** So what happens if there's multiple stories with the same name, but we don't input the author? Will it choose the one with [insert highest parameter]?
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 4
+:DateUnix: 1433985700.0
+:DateShort: 2015-Jun-11
+:END:
+
+*** Yup. It'll choose what would be the highest Google result.
+:PROPERTIES:
+:Author: tusing
+:Score: 3
+:DateUnix: 1433991370.0
+:DateShort: 2015-Jun-11
+:END:
+
+
+** If you haven't already, you should probably also post in [[/r/FANFICTION]] [[/r/WHATTHEFANFIC]] and [[/r/MYLITTLEFANFIC]] for karma.
+:PROPERTIES:
+:Author: fastfinge
+:Score: 4
+:DateUnix: 1434033794.0
+:DateShort: 2015-Jun-11
+:END:
+
+
+** linkffn(HarryTano)
+:PROPERTIES:
+:Author: HerculesWannaBe
+:Score: 3
+:DateUnix: 1433997194.0
+:DateShort: 2015-Jun-11
+:END:
+
+*** [[https://www.fanfiction.net/s/9264843/1/Harry-Tano][*/Harry Tano/*]] [[https://www.fanfiction.net/u/4011588/TheBeardedOne][/by TheBeardedOne/]]
+
+#+begin_quote
+  After resigning from the Jedi Order, Ahsoka didn't expect to find herself sent to a new world, especially a world where a young boy needed her help... (Epilogue 1 links to Knave Squadron.)
+
+  Fiction T - English - Ahsoka T., Harry P. - Chapters: 57 - Words: 136,800 - Reviews: 1,722 - Favs: 1,869 - Follows: 1,410 - Updated: 10/19/20135/5/2013 - Status: Complete - id: 9264843
+#+end_quote
+
+ 
+
+/Graciously brought to you by me - [[/u/tusing]]'s bot./
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 8
+:DateUnix: 1434038037.0
+:DateShort: 2015-Jun-11
+:END:
+
+**** YOU WORK! WOO
+:PROPERTIES:
+:Author: HerculesWannaBe
+:Score: 1
+:DateUnix: 1434038470.0
+:DateShort: 2015-Jun-11
+:END:
+
+***** It does! It'll take time for replies, though, because the bot still has the 9-minute post speed restriction. On top of that, it is recommended bots take 30 minute pauses in between looking through 'hot' posts.
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1434040116.0
+:DateShort: 2015-Jun-11
+:END:
+
+
+*** Not done yet!
+
+It can grab all the data and generate a reddit-formatted description, but I still have to implement saving comments its replied to, so it doesn't reply to the same comment multiple times.
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1433997506.0
+:DateShort: 2015-Jun-11
+:END:
+
+**** Ah, ok. :)
+:PROPERTIES:
+:Author: HerculesWannaBe
+:Score: 1
+:DateUnix: 1433997529.0
+:DateShort: 2015-Jun-11
+:END:
+
+
+** Nice. Is it also possible to get a list of all stories linked to in the last 2 months or something like that? Maybe sorted by number of recs or uovotes?
+:PROPERTIES:
+:Author: ryanvdb
+:Score: 2
+:DateUnix: 1433977062.0
+:DateShort: 2015-Jun-11
+:END:
+
+
+** Can you add support for AO3 and Fimfiction as well if you have time?
+:PROPERTIES:
+:Author: gameboy17
+:Score: 2
+:DateUnix: 1434035150.0
+:DateShort: 2015-Jun-11
+:END:
+
+*** Eventually, yeah.
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 5
+:DateUnix: 1434037580.0
+:DateShort: 2015-Jun-11
+:END:
+
+
+** Does this bot work on other subreddits?
+
+If no, have you considered releasing the code to allow other subreddits to use it? I ask because I think that [[/r/RWBY]] would like it, since they tend to do a lot of fanfiction over there.
+:PROPERTIES:
+:Author: ulobmoga
+:Score: 2
+:DateUnix: 1434044735.0
+:DateShort: 2015-Jun-11
+:END:
+
+
+** Since we are all here: I will try to query ao3 linkao3(Crossovers that should not be)
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 2
+:DateUnix: 1434234342.0
+:DateShort: 2015-Jun-14
+:END:
+
+*** [[http://archiveofourown.org/works/2889728][*/Nanoha Crossovers that Should Not Be!/*]] by [[http://archiveofourown.org/users/Shanejayell/pseuds/Shanejayell][/Shanejayell/]]
+
+#+begin_quote
+  Crack crossovers with Nanoha
+
+  ^{Published:} ^{2014-12-28} ^{Completed:} ^{2014-12-27} ^{Words:} ^{4565} ^{Chapters:} ^{5/5} ^{Kudos:} ^{5} ^{Bookmarks:} ^{1} ^{Hits:} ^{192} /NOW WITH AO3 (linkao3) and FICTIONPRESS (linkfp) support! Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][here]]./
+#+end_quote
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1434249552.0
+:DateShort: 2015-Jun-14
+:END:
+
+
+** Linkffn(Harry Potter and the Defiance of the Hero)
+:PROPERTIES:
+:Author: SilenceoftheSamz
+:Score: 1
+:DateUnix: 1434041551.0
+:DateShort: 2015-Jun-11
+:END:
+
+*** linkffn(Harry Potter and the Defiance of the Hero)
+
+(has to be lowercase)
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1434049986.0
+:DateShort: 2015-Jun-11
+:END:
+
+**** [[https://www.fanfiction.net/s/4042356/1/Harry-Potter-and-the-Defiance-of-the-Hero][*/Harry Potter and the Defiance of the Hero/*]] by [[https://www.fanfiction.net/u/557425/joe6991][/joe6991/]]
+
+#+begin_quote
+  The Hero Trilogy, Part Two. Whether he survives or not, Harry Potter has changed the very nature of magic forever. Alone and bereft, the Boy Who Lived will learn that his enemies are not gone, but have evolved, and that power does not grow, but consumes..
+
+  Fiction M - English - Fantasy - Harry P., Voldemort - Chapters: 30 - Words: 350,089 - Reviews: 198 - Favs: 452 - Follows: 141 - Updated: 7/17/20081/29/2008 - Status: Complete - id: 4042356
+#+end_quote
+
+ 
+
+/Graciously brought to you by me - [[/u/tusing]]'s bot./
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 3
+:DateUnix: 1434057441.0
+:DateShort: 2015-Jun-12
+:END:
+
+
+**** It would be nice not to have to worry abou capital L.
+:PROPERTIES:
+:Author: ryanvdb
+:Score: 1
+:DateUnix: 1434061680.0
+:DateShort: 2015-Jun-12
+:END:
+
+
+** Very good idea, thoroughly approved!
+:PROPERTIES:
+:Author: -Oc-
+:Score: 1
+:DateUnix: 1434053578.0
+:DateShort: 2015-Jun-12
+:END:
+
+
+** This is beautiful, thank you.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1434054752.0
+:DateShort: 2015-Jun-12
+:END:
+
+
+** How quickly will the bot notice new work? Will it detect if you edit a post and add/change the link? Also, when can this be used in other threads?
+:PROPERTIES:
+:Author: ryanvdb
+:Score: 1
+:DateUnix: 1434062662.0
+:DateShort: 2015-Jun-12
+:END:
+
+*** So I don't want to use this on a wide scale until I have error handling in place - meaning that if a part of it crashes, it can still keep running without me manually having to manage that.
+
+Until then, I'm running it periodically. It might take up to an hour, until the bot has enough comment karma, per request.
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1434065804.0
+:DateShort: 2015-Jun-12
+:END:
+
+
+** linkffn(Harry Potter and the Champion's Champion)
+:PROPERTIES:
+:Author: ChaoQueen
+:Score: 1
+:DateUnix: 1434067175.0
+:DateShort: 2015-Jun-12
+:END:
+
+*** [[https://www.fanfiction.net/s/5483280/1/Harry-Potter-and-the-Champion-s-Champion][*/Harry Potter and the Champion's Champion/*]] by [[https://www.fanfiction.net/u/2036266/DriftWood1965][/DriftWood1965/]]
+
+#+begin_quote
+  Harry allows Ron to compete for him in the tournament. How does he fare? This is a Harry/Hermione story with SERIOUSLY Idiot!Ron Bashing. If that isn't what you like, please read something else. Complete but I do expect to add an alternate ending or two.
+
+  Fiction T - English - Romance/Humor - Harry P., Hermione G. - Chapters: 16 - Words: 108,951 - Reviews: 3,530 - Favs: 6,166 - Follows: 2,717 - Updated: 11/26/201011/1/2009 - Status: Complete - id: 5483280
+#+end_quote
+
+ 
+
+/Graciously brought to you by me - [[/u/tusing]]'s bot. Many improvements by [[/u/MikroMan]]./
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 4
+:DateUnix: 1434068183.0
+:DateShort: 2015-Jun-12
+:END:
+
+
+** I think you should drop the reviews, favs, and follows when fetching the description. Those can change quite a bit in the space of hours.
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 1
+:DateUnix: 1434090161.0
+:DateShort: 2015-Jun-12
+:END:
+
+*** Maybe, but sometimes it doesn't change much for a whole year.
+
+Either way, the bot grabs new stats every time it's pulled, so if a story has very few reviews during one pull, and then it gets a lot of reviews, the bot will grab the brand-new stats next time someone references them.
+
+Either way, no one really reads a story by the number of reviews or favs, because let's face it - those are not indicators of how good a fanfiction is, especially in this fandom. You have really good fanfics, like linkffn(By The Divining Light enembee), linkffn(Conlaodh's Song enembee), and then you have absolutely terrible fics - linkffn(Harry Crow). No one in their right mind would choose Harry Crow over the first two just because of the number of favs/reviews - they're just an indicator of how /popular/ the story is, not how /worthwhile/ they are as a read.
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1434218889.0
+:DateShort: 2015-Jun-13
+:END:
+
+**** [[https://www.fanfiction.net/s/5201703/1/By-the-Divining-Light][*/By the Divining Light/*]] by [[https://www.fanfiction.net/u/980211/enembee][/enembee/]]
+
+#+begin_quote
+  Book 1. Follow Harry and Dumbledore as they descend into the depths of Old Magic seeking power and redemption in equal measure. En route they encounter ancient enchantments, a heliopath and an evil that could burn the world.
+
+  Rated: Fiction T - English - Fantasy/Adventure - Harry P., Albus D. - Chapters: 6 - Words: 24,970 - Reviews: 127 - Favs: 518 - Follows: 168 - Updated: 1/23/2010 - Published: 7/8/2009 - Status: Complete - id: 5201703
+#+end_quote
+
+ 
+
+[[https://www.fanfiction.net/s/5971274/1/Conlaodh-s-Song][*/Conlaodh's Song/*]] by [[https://www.fanfiction.net/u/980211/enembee][/enembee/]]
+
+#+begin_quote
+  Book 2. As the Second War begins, Voldemort becomes obsessed with harnessing the realm of Old Magic to his own ends. Meanwhile, Harry has to contend with the Ministry, ancient foes and the machinations of a world he barely understands.
+
+  Rated: Fiction T - English - Fantasy/Adventure - Harry P., Luna L. - Chapters: 13 - Words: 57,777 - Reviews: 201 - Favs: 470 - Follows: 283 - Updated: 4/28/2011 - Published: 5/14/2010 - Status: Complete - id: 5971274
+#+end_quote
+
+ 
+
+[[https://www.fanfiction.net/s/8186071/1/Harry-Crow][*/Harry Crow/*]] by [[https://www.fanfiction.net/u/1451358/robst][/robst/]]
+
+#+begin_quote
+  What will happen when a goblin-raised Harry arrives at Hogwarts. A Harry who has received training, already knows the prophecy and has no scar. With the backing of the goblin nation and Hogwarts herself. Complete.
+
+  Rated: Fiction T - English - [Harry P., Hermione G.] - Chapters: 106 - Words: 737,006 - Reviews: 24,683 - Favs: 12,722 - Follows: 11,333 - Updated: 6/8/2014 - Published: 6/5/2012 - Status: Complete - id: 8186071
+#+end_quote
+
+ 
+
+/Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][here]]./
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1434219401.0
+:DateShort: 2015-Jun-13
+:END:
+
+
+**** To me, all the points you made at the end of your post are additional reasons to drop fetching those data. If no-one reads a story based on reviews or favs, and those metrics aren't worthwhile for judging a story, why have them cluttering up replies?
+
+Although, maybe it's difficult to parse out useful info (pairing, genre, rating, chapter count, wip/completed, etc) from the favs/reviews.
+
+edit grammar
+:PROPERTIES:
+:Author: lurkielurker
+:Score: 1
+:DateUnix: 1434732491.0
+:DateShort: 2015-Jun-19
+:END:
+
+
+** linkffn(A Little Light Reading by dullastacks)
+:PROPERTIES:
+:Author: bluspacecow
+:Score: 1
+:DateUnix: 1434132148.0
+:DateShort: 2015-Jun-12
+:END:
+
+
+** linkffn(A Little Light Reading)
+:PROPERTIES:
+:Author: bluspacecow
+:Score: 1
+:DateUnix: 1434132233.0
+:DateShort: 2015-Jun-12
+:END:
+
+*** [[https://www.fanfiction.net/s/5272991/1/A-Little-Light-Reading][*/A Little Light Reading/*]] by [[https://www.fanfiction.net/u/1424597/Salome-Weil][/Salome Weil/]]
+
+#+begin_quote
+  Draco discovers, to his glee, that Hermione occasionally indulges in young adult drivel of the fantasy type and proceeds to pester her. T for very mild sexual reference. AU for anachronism. Oneshot!
+
+  Rated: Fiction T - English - Humor/Romance - Draco M., Hermione G. - Words: 1,356 - Reviews: 20 - Favs: 34 - Follows: 7 - Published: 8/3/2009 - Status: Complete - id: 5272991
+#+end_quote
+
+ 
+
+/Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][here]]./
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1434219502.0
+:DateShort: 2015-Jun-13
+:END:
+
+
+** Bot not active yet?
+:PROPERTIES:
+:Author: RobinX
+:Score: 1
+:DateUnix: 1434215203.0
+:DateShort: 2015-Jun-13
+:END:
+
+
+** linkffn(Harry Potter)
+:PROPERTIES:
+:Author: TieSoul
+:Score: 0
+:DateUnix: 1434050561.0
+:DateShort: 2015-Jun-11
+:END:
+
+*** [[https://www.fanfiction.net/s/10644439/1/Hogwarts-School-of-Prayer-and-Miracles][*/Hogwarts School of Prayer and Miracles )/*]] by [[https://www.fanfiction.net/u/5953252/proudhousewife][/proudhousewife/]]
+
+#+begin_quote
+  Do you want your little ones to read books; and they want to read the Harry Potter Books; but you do not want them to turn into witches? Well-this is the story for you! This story has all the adventure of JKR's books; but will not lead your children astray. For concerned mommies everywhere! Blessings! Grace Ann
+#+end_quote
+
+ 
+
+/Graciously brought to you by me - [[/u/tusing]]'s bot. Many improvements by [[/u/MikroMan]]./
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 5
+:DateUnix: 1434057715.0
+:DateShort: 2015-Jun-12
+:END:
+
+**** Oh god why did it pick that one D:
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1434068567.0
+:DateShort: 2015-Jun-12
+:END:
+
+
+**** HAHAHAHAHAHAHAHA
+:PROPERTIES:
+:Author: lurkielurker
+:Score: 2
+:DateUnix: 1434732275.0
+:DateShort: 2015-Jun-19
+:END:
+
+
+*** [deleted]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1434058162.0
+:DateShort: 2015-Jun-12
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1434058236.0
+:DateShort: 2015-Jun-12
+:END:

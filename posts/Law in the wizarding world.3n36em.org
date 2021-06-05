@@ -1,0 +1,385 @@
+#+TITLE: Law in the wizarding world
+
+* Law in the wizarding world
+:PROPERTIES:
+:Author: femmewitch
+:Score: 15
+:DateUnix: 1443696324.0
+:DateShort: 2015-Oct-01
+:FlairText: Discussion
+:END:
+The Wizarding World's laws and justice system is minimal, vague and contradictory at best as we know it in canon. This makes sense, as we aren't reading Harry Potter and the Journey to Law School.
+
+Basically, in a fic I'm writing, I'm showing a Death Eater trial. I'm looking for others thoughts as to the contradictions and ramifications of convicting DE's and how to portray the lower courts when canon only gives us a high court, The Wizengamot, to work through.
+
+What evidence could you use to convict a death eater? Who should be convicted of a crime during Voldemort's reign/the Battle of Hogwarts? Any fics that show a good example of this?
+
+Links on Wizarding law: [[https://lawblog.justia.com/2010/11/18/introduction-to-wizarding-law/]] [[http://papers.ssrn.com/sol3/papers.cfm?abstract_id=818185]] [[http://www.the-leaky-cauldron.org/features/essays/issue4/authoritylawjustice/]]
+
+Other thoughts on this posted below.
+
+
+** I tend to view the laws of wizarding Britain to be an off-shoot of English law rather than a completely separate legal system. English common law was well-established before the Statute of Secrecy (some cases like the Six Carpenters Case 1610 are still usable precedent), and I think for the vast majority of areas of law the magical world doesn't really need to reinvent the wheel.
+
+So I would expect, for example, that contracts in magical Britain must have the same essential elements as Muggle contracts: offer, acceptance, consideration, intention to be legally binding, and certain terms. Judgements from Muggle English courts as to the minutiae of contract law would apply in wizard court (as persuasive but not binding precedent, just as Canadian cases can be brought as precedent in English courts).
+
+But the Wizengamot will have established its own precedents and the Ministry will have passed its own legislation which adds to and adapts the Muggle law to take magic into account - for example, law relating to the use of magically binding contractual terms (for example, since you can't make a contract for your own death in the Muggle world, one imagines by analogy that Unbreakable Vows are considered illegal by the Ministry).
+
+Similarly, when it comes to criminal law, I expect that the crimes in question are essentially the same: assault, battery, murder, etc. They can have the same definition as the Muggle crimes. It's just that there will be a body of magical law that adds to Muggle criminal law. For example, it's likely that the definition of "grievous bodily harm" is different in the magical world, given the way you can reattach limbs, regrow bones etc. It seems likely that it will be defined in some way relative to permanent injuries/dark magic. And obviously wizards have certain unique crimes such as use of the Unforgiveables on humans.
+
+I actually think the area of law that will differ most is public law (aka constitutional and administrative law). The wizarding government obviously has a different structure to the Muggle one.
+
+It's an interesting question to consider if European Union law applies at all in wizarding Britain.
+
+I really doubt that there are any lower courts than the Wizengamot, however. The population doesn't seem large enough. Rather, I think most trivial infractions will be dealt with by the executive branch in a hearing by panel. An example of this would be underage magic.
+
+Edit: regarding Death Eaters specifically, you could probably get them as accessories to Voldemort's crimes at the least. There's definitely aiding, abetting and counselling going on. More ambitiously you could try to get them for conspiracy, but that's a bit of a legal mess.
+:PROPERTIES:
+:Author: Taure
+:Score: 9
+:DateUnix: 1443704947.0
+:DateShort: 2015-Oct-01
+:END:
+
+*** Somehow, I knew when I clicked the topic that you'd be the top poster.
+:PROPERTIES:
+:Author: Lane_Anasazi
+:Score: 3
+:DateUnix: 1443778316.0
+:DateShort: 2015-Oct-02
+:END:
+
+**** Didn't we all?
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1443786225.0
+:DateShort: 2015-Oct-02
+:END:
+
+
+*** REgarding your point on the lower courts and the panels, isn't this exactly what was originally scheduled for Harry's hearing in OotP before Fudge relocated it to Courtroom Ten? It's been a while since I read it but I remember Mr. Weasley reassuring Harry that Amelia was a reasonable person, and flipping out that it was in Courtroom Ten.
+:PROPERTIES:
+:Author: Ignisami
+:Score: 3
+:DateUnix: 1443711919.0
+:DateShort: 2015-Oct-01
+:END:
+
+**** Indeed it is. Harry was originally supposed to attend a hearing and then Fudge surprised them with a trial.
+:PROPERTIES:
+:Author: Taure
+:Score: 4
+:DateUnix: 1443712069.0
+:DateShort: 2015-Oct-01
+:END:
+
+
+*** Thank you for sharing your thoughts - really interesting. I'll have to mull over all the implications for a while :)
+:PROPERTIES:
+:Author: femmewitch
+:Score: 1
+:DateUnix: 1443846916.0
+:DateShort: 2015-Oct-03
+:END:
+
+
+** If you're interested in the political system of the British Wizarding world, I highly recommend you to read the following essay from [[http://pharnabazus.livejournal.com/715.html][Pharnabazus]]. It was a total eye-opener for me.
+:PROPERTIES:
+:Author: Helenavonvalsa
+:Score: 5
+:DateUnix: 1443724686.0
+:DateShort: 2015-Oct-01
+:END:
+
+*** Having a factual error in the third sentence isn't encouraging.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1443730363.0
+:DateShort: 2015-Oct-01
+:END:
+
+**** This is an awesome piece that I've recommended in the past. It was written back in 2004; before even Half-Blood Prince had been released, and yet for the most part remains a relevant and interesting interpretation of the power dynamics hinted at in the novels up to that point.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 6
+:DateUnix: 1443748563.0
+:DateShort: 2015-Oct-02
+:END:
+
+
+**** What's the error? If I counted right the sentence talks about how Sirius got screwed, and is accurate?
+:PROPERTIES:
+:Author: yetioverthere
+:Score: 1
+:DateUnix: 1443763181.0
+:DateShort: 2015-Oct-02
+:END:
+
+
+** You might enjoy [[http://accio.zymurgy.org/proc/ajhall.pdf][A.J. Hall's article on rule of law in the wizarding world]]. tl;dr - the statute of secrecy has created a permanent state of emergency where the need for concealment trumps individual rights and liberties, and has thus inhibited the development of democratic institutions like an independent judiciary. In the absence of a strong or equitable rule of law patronage networks have developed.
+:PROPERTIES:
+:Author: yetioverthere
+:Score: 4
+:DateUnix: 1443763497.0
+:DateShort: 2015-Oct-02
+:END:
+
+*** Thank you!
+:PROPERTIES:
+:Author: femmewitch
+:Score: 1
+:DateUnix: 1443846822.0
+:DateShort: 2015-Oct-03
+:END:
+
+
+** Other thoughts I'm trying to muddle through for this blasted fic: Why isn't Molly Weasley convicted of killing Bellatrix - because Bellatrix was evil or because it was an act of war?
+
+Did the Ministry declare a state of war that could protect Aurors from being charged?
+
+If Harry used a spell to rebound the killing curse, is it manslaughter against Voldie? (Intent doesn't matter in manslaughter).
+
+What evidence do you use - memories, which can be tampered with? A history of that wand's last spell? Can it reveal the wand's whole spell history?
+:PROPERTIES:
+:Author: femmewitch
+:Score: 1
+:DateUnix: 1443696490.0
+:DateShort: 2015-Oct-01
+:END:
+
+*** u/turbinicarpus:
+#+begin_quote
+  Why isn't Molly Weasley convicted of killing Bellatrix - because Bellatrix was evil or because it was an act of war? If Harry used a spell to rebound the killing curse, is it manslaughter against Voldie? (Intent doesn't matter in manslaughter).
+#+end_quote
+
+Self-defense or defense of another. It's pretty explicitly invoked after Harry uses a Patronus in front of Muggles in OotP, IIRC.
+
+#+begin_quote
+  Did the Ministry declare a state of war that could protect Aurors from being charged?
+#+end_quote
+
+Peace officers are often authorized by law to use lethal force in situations where non-police are not.
+
+#+begin_quote
+  What evidence do you use - memories, which can be tampered with? A history of that wand's last spell? Can it reveal the wand's whole spell history?
+#+end_quote
+
+All of the above, as well as finding and questioning witnesses, checking alibis, following paper trails and financial records, and otherwise working to establish means, motive, and opportunity --- just like their Muggle counterparts.
+
+In the grand scheme of things, Wizards have methods for finding the truth that Muggles lack, but they also have ways of concealing the truth that Muggles lack, so it pretty much balances out.
+
+(To be clear, this is my headcanon, but it seems reasonable and consistent with canon-canon.)
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 10
+:DateUnix: 1443700964.0
+:DateShort: 2015-Oct-01
+:END:
+
+**** Good headcanon, though!
+:PROPERTIES:
+:Author: femmewitch
+:Score: 1
+:DateUnix: 1443846929.0
+:DateShort: 2015-Oct-03
+:END:
+
+
+*** I've described a very biased and corrupt trial here: linkffn(10993575)
+:PROPERTIES:
+:Author: Starfox5
+:Score: 1
+:DateUnix: 1443700798.0
+:DateShort: 2015-Oct-01
+:END:
+
+**** [[http://www.fanfiction.net/s/10993575/1/][*/Prologue to a Revolution/*]] by [[https://www.fanfiction.net/u/2548648/Starfox5][/Starfox5/]]
+
+#+begin_quote
+  After the Battle of Hogwarts, the prominent Death Eaters taken prisoners were tried and sentenced. But what happened to the rest of Voldemort's followers? What happened to the Snatchers and the others who did his bidding in the Ministry? Harry and Hermione are about to find out in the prologue to "Hermione Granger and the Marriage Law Revolution".
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Words/: 3,409 *|* /Reviews/: 17 *|* /Favs/: 70 *|* /Follows/: 42 *|* /Published/: 1/23 *|* /Status/: Complete *|* /id/: 10993575 *|* /Language/: English *|* /Genre/: Drama *|* /Characters/: Harry P., Hermione G. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=10993575][EPUB]]}
+
+--------------
+
+*Bot v1.3.0 - 9/7/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* Use /ffnbot!delete/ to delete a comment! Use /ffnbot!refresh/ to refresh bot replies!
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1443700822.0
+:DateShort: 2015-Oct-01
+:END:
+
+
+** I think you will have to decide first if there is actually a "Lower court", given the small numbers of wizards and witches around, or if anything not deserving a Trial in front of the Wizengamot is handled by a Ministry employee with a fine.
+
+Then you need to decide what laws actually are in effect. Self-defense and defense of others, for example, cover Molly's actions in any civilized state, but might not be enough in Wizarding Britain. Matter of fact, Harry wouldn't be charged with manslaughter, since he was defending himself against a lethal attack. Self-defense without a doubt.
+
+Personally, I tend to treat the Wizarding Juicidial System as very manipulative, due to the use of the Wizengamot as a Jury, and relying on case law even more than the anglo-saxon System already does. So, basically, anything is possible with enough gold.
+
+Alternatively, you could have magical means to compell a fair Trial, and the unspeakables might have experts in detecting altered memories or similar evidence tampering.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 1
+:DateUnix: 1443700718.0
+:DateShort: 2015-Oct-01
+:END:
+
+*** Hmm, interesting idea with the Unspeakables. I have already established in my fic that there is a lower court system - now it's about deciding the rules.
+:PROPERTIES:
+:Author: femmewitch
+:Score: 1
+:DateUnix: 1443846974.0
+:DateShort: 2015-Oct-03
+:END:
+
+**** In Switzerland, a lot of the less serious cases are sentenced by the prosecutor and not a judge (up to a certain punishment limit). The defendant can appeal to a judge though, if he won't accept the sentence. You could have a similar system with senior aurors investigating and handling fines and other minor punishments.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 1
+:DateUnix: 1443860359.0
+:DateShort: 2015-Oct-03
+:END:
+
+
+** For death eaters, having the dark mark alone should be evidence enough to receive a life sentence in Azkaban. Receiving the dark mark is supposed to be a voluntary act that involves casting an unforgivable curse as the minimum. The law already states that casting even a single unforgivable is enough for a life sentence in Azkaban.
+
+Systematic use of veritaserum and legilimency should ferret out any voluntary Voldemort sympathizers in the ministry and wizengamot.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 0
+:DateUnix: 1443716190.0
+:DateShort: 2015-Oct-01
+:END:
+
+*** u/Almavet:
+#+begin_quote
+  Receiving the dark mark is supposed to be a voluntary act that involves casting an unforgivable curse as the minimum
+#+end_quote
+
+I'm pretty sure that's fanon. Otherwise, Lucius wouldn't have been able to get away with the Imperius defense. We also know that Imperiused people can use Unforgivables, and that Veritaserum and Legilimency can be combated with Occlumency.
+
+The most important thing to remember is that Rowling used law in the HPverse as a plot-device: when she wants Hagrid and Sirius to be sent to Azkaban without a trial, they don't get a trial, while in other cases we see DE trials, as well as DEs who avoided imprisonment, and in OotP, it's clear that the Ministry can do pretty much whatever it wants with minimal consideration for public opinion.
+:PROPERTIES:
+:Author: Almavet
+:Score: 10
+:DateUnix: 1443718184.0
+:DateShort: 2015-Oct-01
+:END:
+
+**** This is key: Law Is A Plot Device!
+
+Unless you /are/ writing "Harry Potter and the Journey to Law School," the legal system in your story will be your plot device. What matters is not so much what "is" but rather what you can get your readers to accept as reasonably plausible.
+
+Will your story be better with a legal system that is inherently bad, manipulatable, etc.? You have enough elements to create that. Will your story be better with a legal system that is inherently decent, but burdened with corrupt officers? You have enough elements to create that.
+
+As you say, Rowling's text is contradictory. That's good, from our perspective, because it means that so many more and different fanfics can be written from it - we aren't all stuck with the same, rigidly defined legal or political system that can't be expanded upon or deviated from.
+
+So anyway, start with how you want your story to go - where you want it to end, how you want your characters to develop, then look at what it will take to construct a legal system that will help you achieve that in a believable way. You can probably find enough bits and pieces in the books to construct what you need in a way that feels believably Potter-ish. And English, which will be important.
+:PROPERTIES:
+:Author: philosophize
+:Score: 9
+:DateUnix: 1443720314.0
+:DateShort: 2015-Oct-01
+:END:
+
+***** Man who else here would love to read "Harry Potter and the Journey to Law School"?
+:PROPERTIES:
+:Author: Saffrin-chan
+:Score: 9
+:DateUnix: 1443723495.0
+:DateShort: 2015-Oct-01
+:END:
+
+****** To be followed by "Harry Potter and the Bar Exams", "Harry Potter and the Order of the Esquire", "Harry Potter and the Half-Baked Defense", and "Harry Potter and the Death(ly) Sentence_.
+
+I would totally read these.
+:PROPERTIES:
+:Author: MoonfireArt
+:Score: 7
+:DateUnix: 1443725728.0
+:DateShort: 2015-Oct-01
+:END:
+
+******* In the fight against Dark magic, there are two separate yet equally important groups: the Aurors who investigate crime, and the Wizengamot who prosecute the offenders. These are their stories.
+
+/DOINK DOINK./
+:PROPERTIES:
+:Score: 7
+:DateUnix: 1443747218.0
+:DateShort: 2015-Oct-02
+:END:
+
+******** Still waiting for someone to write up 'Law & Aurors: Spellfire Victims Unit'.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 4
+:DateUnix: 1443748789.0
+:DateShort: 2015-Oct-02
+:END:
+
+
+***** Well, Sirius did get a trial, or a hearing of some sort. Dumbledore says in PoA that he gave evidence at it. Sirius thinks he didn't get a trial, but that just means he was tried in absentia.
+
+In the case of Hagrid, it seems likely to me that he was under a suspended sentence from the original Chamber of Secrets opening. We know his wand was snapped, and we know from OotP that the Ministry is only supposed to do that after a hearing.
+:PROPERTIES:
+:Author: Taure
+:Score: 0
+:DateUnix: 1443743811.0
+:DateShort: 2015-Oct-02
+:END:
+
+****** The text doesn't support the idea that Hagrid was sent back under any sort of "suspended sentence."
+
+Fudge is there alone, without aurors, and says: "Ministry's got to act. ... Hagrid's record's against him. Ministry's got to do something ... Look at it from my point of view ... I'm under a lot of pressure. Got to be seen to be doing something. If it turns out it wasn't Hagrid, he'll be back and no more said. But I've got to take him in..."
+
+Fudge is taking him, not aurors. Fudge offers no /legal/ reasons why Hagrid should be imprisoned - no mention of a judge reversing a suspended sentence. It's also made clear that Fudge's visit is about the new attacks, not Myrtle, so Hagrid is going to Azkaban because of the new attacks, not to serve out any earlier sentence that had been suspended.
+
+The statment that Hagrid will "be back and no more said" if it wasn't him is telling - they have no intention of putting him on trial for the crimes he's being imprisoned for, and they don't expect to hear any complaints if it turns out they were wrong. Fudge is presuming a power to put people in prison then release him based on what he thinks is necessary, not any objective legal standards.
+
+Fudge's reasons are entirely about image and pressure, not the law.
+:PROPERTIES:
+:Author: philosophize
+:Score: 3
+:DateUnix: 1443748161.0
+:DateShort: 2015-Oct-02
+:END:
+
+
+****** With regards to Sirius, Dumbledore said he "gave evidence" that Sirius was the secret keeper in the same passage where he references muggle "eyewitnesses." There is no mention of a hearing or trial and the context suggests that it might have been nothing more than a statement to aurors (because we can be sure that muggles weren't invited to an actual hearing or trial at the Ministry for Magic - statements were taken and they were oblivated).
+
+Unless Dumbledore was there when the fidelius was case and Sirius made the secret keeper (impossible, unless the keeper can be changed later), he didn't even technically give evidence - he gave hearsay testimony or a hearsay statement which wouldn't be allowed in court (unless wizarding courts allow for hearsay, which is simply evidence of the injustice of the system).
+
+And tried "in abentia" when the accused is sitting in a prison controlled by the same government that is putting him on trial? That's no less of an injustice than not giving him a trial to begin with.
+
+So we don't know that we was given a trial, but if he was we can be confident that it was as more of a farce than the one Harry had, because he at least Harry had a slim chance of getting to his.
+:PROPERTIES:
+:Author: philosophize
+:Score: 2
+:DateUnix: 1443748751.0
+:DateShort: 2015-Oct-02
+:END:
+
+
+**** Well, Lucy bribed his way out of trouble last time. This time around, he and Draco were volunteering to spill everything they knew about V and his death eaters. Imperious curse defense would no longer work.
+
+Occlumency only works against legilimency, but that defense can be overcome by emotionally destabilizing the subject. Veritaserum has an antidote, but that wears off after a day or two. So I think sleep depravation and solitary confinement will work very well with veritaserum and legilimency together.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 1
+:DateUnix: 1443719408.0
+:DateShort: 2015-Oct-01
+:END:
+
+
+*** Really great food for thought here.
+:PROPERTIES:
+:Author: femmewitch
+:Score: 1
+:DateUnix: 1443846857.0
+:DateShort: 2015-Oct-03
+:END:

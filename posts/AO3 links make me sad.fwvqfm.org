@@ -1,0 +1,66 @@
+#+TITLE: AO3 links make me sad
+
+* AO3 links make me sad
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1586303986.0
+:DateShort: 2020-Apr-08
+:FlairText: Misc
+:END:
+[deleted]
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1586310029.0
+:DateShort: 2020-Apr-08
+:END:
+
+*** A what what? No I just have a safety block on my Internet??
+:PROPERTIES:
+:Author: browtfiwasboredokai
+:Score: 0
+:DateUnix: 1586310181.0
+:DateShort: 2020-Apr-08
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1586317480.0
+:DateShort: 2020-Apr-08
+:END:
+
+***** Parents. Also I'm on mobile. Really grateful for the advice tho, I'll try and look into it when I'm more awake
+:PROPERTIES:
+:Author: browtfiwasboredokai
+:Score: 1
+:DateUnix: 1586317866.0
+:DateShort: 2020-Apr-08
+:END:
+
+
+** Would it help to use the "view full work" function, so at least you only have to load it once instead of every chapter?
+
+Just add *?view_full_work=true* at the end of the AO3 link. (Make sure it's the link with ONLY the fic number, without /chapters/12345678 at the end).
+
+Examples:
+
+- [[https://archiveofourown.org/works/12429789]]The bare-bones link for a fic. You can mock this up when somebody uses the AO3 linkbot to list the fic number.
+- [[https://archiveofourown.org/works/12429789/chapters/28288686]] The AO3 system automatically adds that last part when you go to the page, to show it one chapter at a time. The number is different for each chapter. Sometimes there's a #workskin at the end, but I don't usually see that on the first chapter.
+- [[https://archiveofourown.org/works/12429789?view_full_work=true]] This will show the entire work on one page. No idea how long it will take your VPN to load it, but once it's done you'll have the entire thing.
+:PROPERTIES:
+:Author: JennaSayquah
+:Score: 2
+:DateUnix: 1586385104.0
+:DateShort: 2020-Apr-09
+:END:
+
+*** I didn't think of that! Thanks!
+:PROPERTIES:
+:Author: browtfiwasboredokai
+:Score: 1
+:DateUnix: 1586386736.0
+:DateShort: 2020-Apr-09
+:END:

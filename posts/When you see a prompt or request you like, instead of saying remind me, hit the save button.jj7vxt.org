@@ -1,0 +1,532 @@
+#+TITLE: When you see a prompt or request you like, instead of saying remind me, hit the save button
+
+* When you see a prompt or request you like, instead of saying remind me, hit the save button
+:PROPERTIES:
+:Author: NotSoSnarky
+:Score: 342
+:DateUnix: 1603826606.0
+:DateShort: 2020-Oct-27
+:FlairText: Meta
+:END:
+The save button, will save it, to your username, and once a few days or a week has passed, you can go back to your saved post, and see if anyone has posted anything.
+
+It's just a shame, whenever you see a prompt or request you really like, and half of the comments, are remind me posts.
+
+Edit: The remind me bot itself isn't something I have a issue with. The issue I have is when there's like 20 comments and a majority of them are remind me comments when one person can say remind me and the other people can hit that person's remind me post, so we aren't flooded with remind me comments.
+
+
+** Problem with using the save button: there's a limit to how many you can save. I fell afoul of this and many posts I enjoyed are now lost to the ether to me.
+
+I've taken to bookmarking in Chrome, I have a folder for fanfic links with several subfolders and one of them is now titled "forum posts" for this purpose alone.
+:PROPERTIES:
+:Author: Avigorus
+:Score: 50
+:DateUnix: 1603851623.0
+:DateShort: 2020-Oct-28
+:END:
+
+*** I had no idea there was a limit. :(
+:PROPERTIES:
+:Author: nolacola
+:Score: 34
+:DateUnix: 1603852943.0
+:DateShort: 2020-Oct-28
+:END:
+
+**** Neither did I until I realized things I was saving were vanishing and googled it.
+:PROPERTIES:
+:Author: Avigorus
+:Score: 13
+:DateUnix: 1603854251.0
+:DateShort: 2020-Oct-28
+:END:
+
+***** I have probably a thousand posts saved, if not more and I can still save more
+:PROPERTIES:
+:Author: Aquamelon008
+:Score: 8
+:DateUnix: 1603864472.0
+:DateShort: 2020-Oct-28
+:END:
+
+****** U can save infinite but the earlier ones u have saved will disappear
+:PROPERTIES:
+:Author: YellowGetRekt
+:Score: 7
+:DateUnix: 1603873861.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+****** Right about to my understanding before old saves start getting removed as new saves are made.
+:PROPERTIES:
+:Author: Avigorus
+:Score: 1
+:DateUnix: 1603933855.0
+:DateShort: 2020-Oct-29
+:END:
+
+
+*** ...what's the limit?
+:PROPERTIES:
+:Author: littlemsterious
+:Score: 7
+:DateUnix: 1603868487.0
+:DateShort: 2020-Oct-28
+:END:
+
+**** One thousand. Older will disappear once you hit 1000. I think you can access more if you currently have reddit gold, though?
+:PROPERTIES:
+:Author: Sporkalork
+:Score: 8
+:DateUnix: 1603875993.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+**** I believe it's approx 1000, after which new saves will un-save the oldest saves.
+:PROPERTIES:
+:Author: Avigorus
+:Score: 1
+:DateUnix: 1603933815.0
+:DateShort: 2020-Oct-29
+:END:
+
+
+*** u/MoDthestralHostler:
+#+begin_quote
+  there's a limit to how many you can save
+#+end_quote
+
+I feel betrayed :c
+:PROPERTIES:
+:Author: MoDthestralHostler
+:Score: 2
+:DateUnix: 1603907365.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+** Seriously though. I can't believe that people know about the remindme bot and how to summon it but not the save feature built into reddit.
+:PROPERTIES:
+:Author: Impossible-Poetry
+:Score: 64
+:DateUnix: 1603833030.0
+:DateShort: 2020-Oct-28
+:END:
+
+*** The save feature does not remind you. You can save something and then forget about it in a week, the RemindMe bot will send you a message. I don't know why people are acting like they're the same thing.
+:PROPERTIES:
+:Author: onlytoask
+:Score: 45
+:DateUnix: 1603854306.0
+:DateShort: 2020-Oct-28
+:END:
+
+**** Agreed. The save feature is also badly thought out, without any Way to search through it.
+:PROPERTIES:
+:Author: Quemmmm
+:Score: 13
+:DateUnix: 1603869658.0
+:DateShort: 2020-Oct-28
+:END:
+
+***** Ctrl-F is a better search engine than whatever crap Reddit uses.
+:PROPERTIES:
+:Author: Holy_Hand_Grenadier
+:Score: 1
+:DateUnix: 1603890853.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+*** because the remindme bot is better feature than the save feature. If you save you have to back and track it, and honestly idk where 'saved' post go, I have only managed to get there accidentally, not intentionally.
+:PROPERTIES:
+:Author: Jakyland
+:Score: 1
+:DateUnix: 1603895167.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+** Don't mind me. I'm just waiting for someone to use the remind me bot
+:PROPERTIES:
+:Author: Overkaer
+:Score: 29
+:DateUnix: 1603833867.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+** But who's going to remind me to check my saved posts?
+:PROPERTIES:
+:Author: cavelioness
+:Score: 8
+:DateUnix: 1603854369.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+** Just from the perspective of an inveterate lifehacker who uses a lot of various systems for keeping track of stuff, there is a /huge/ difference between a save function and a remind function. There is barely any overlap between them.
+
+Saving something makes it available for reference. Ideally, a reference storage system has at least folders or tags so it's easy to sort through to find things. Even a search is du rigueur. Reddit's save feature has none of these, and so is in practical terms nearly useless. I use it for short term stashes of things I want to show my wife or look at with sound on when that's amenable. Anything beyond that it's a black hole into which things go to never be seen again.
+
+A reminder gives you a notification in the future to prompt you to do something with it. If I don't have time right now to taskify a prompt (by adding it to my dedicated system for tracking such things) or if I want to see what transpires on the thread after some time has passed (waiting for it to 'ripen' as it were), a reminder is the ideal solution. Putting such a reminder on one of my external task notification apps will clutter them, and copying the reddit thread link into their title is generally how reddit threads are shared to those apps, which is ugly and uninformative. Having a reddit bot send me a message keeps the notification native to the relevant context and includes relevant context in an elegant way. This method is easy to use and unobtrusive and fits the use-case.
+
+Also, it literally hurts no one. In fact, having someone ask to be reminded of one's thread is in my view a higher compliment than even an upvote or a lower-effort comment of "nice." I'm still puzzled as to why people don't like them. Having two on the same reddit that respond to the same trigger is annoying, but that's easily fixed. Do a poll to see which is preferred then use that one. Simple, unless I'm missing something. Which I could be.
+
+You are, however, correct that people should be clicking the link in the original bot post to get the same reminder instead of summoning it again. Unless they want to be reminded at a different time, in which case have at it.
+
+TLDR: the reddit save button does not serve the same function as the remind me bots, and should not be considered a replacement for them.
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 77
+:DateUnix: 1603841555.0
+:DateShort: 2020-Oct-28
+:END:
+
+*** My biggest complaint about the remind me, button. Is that, you can have a really cool request or prompt, see 20 comments, get excited, and then half of them, are remind me posts. That's the thing, that irks me, about it.
+
+Heck, one person can say remind me, that's fine, and others, can also hit, that remind button, they don't have to do, multiple remind me posts.
+:PROPERTIES:
+:Author: NotSoSnarky
+:Score: 25
+:DateUnix: 1603842643.0
+:DateShort: 2020-Oct-28
+:END:
+
+**** Yup, I'm with you there. I like how [[/r/askHistorians][r/askHistorians]] does it, where they auto post one remind me link at the top, and everyone just clicks that one. Reduces clutter to zero.
+
+I wonder if you can do that based on the OP's flair? Like if it's flaired a prompt, the bot auto posts a remind me post for people to use?
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 46
+:DateUnix: 1603844623.0
+:DateShort: 2020-Oct-28
+:END:
+
+***** I like this! I think many subs, including this one, would benefit a lot from just doing it that way.
+
+I love the reminder bots. The save button is kind of just crap compared to the reminder bots, but it's also really annoying to have a dozen posts summoning the bot(s) instead of clicking the link in the first summons. A single auto post would keep threads from being cluttered while automatically letting us use the reminder bots.
+:PROPERTIES:
+:Author: silverminnow
+:Score: 17
+:DateUnix: 1603849774.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+***** That's an interesting idea.
+
+Would definitely, be helpful.
+:PROPERTIES:
+:Author: NotSoSnarky
+:Score: 10
+:DateUnix: 1603845135.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+***** The writing prompts sub has a bot that automatically deletes remind me comments and the immediate parent.
+:PROPERTIES:
+:Author: dark-phoenix-lady
+:Score: 2
+:DateUnix: 1603881658.0
+:DateShort: 2020-Oct-28
+:END:
+
+****** That's unfortunate. Do they express a reason for deleting all instead of all but the first?
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 0
+:DateUnix: 1603889192.0
+:DateShort: 2020-Oct-28
+:END:
+
+******* I thnik they meant to remove the clutter. The bot will still work
+:PROPERTIES:
+:Author: anonymousdog3673
+:Score: 3
+:DateUnix: 1603892551.0
+:DateShort: 2020-Oct-28
+:END:
+
+******** Ah gotcha. So there's just no way for people to click the original, they just summon their own instance of the bot, just so it can do its job and be obliviated, leaving invisible corpses littered about.
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 0
+:DateUnix: 1603906722.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+******* Why is it unfortunate? It only deletes the post that the bot makes and the immediate parent (which is the post where the reminder is requested), it doesn't stop the reminder being placed.
+:PROPERTIES:
+:Author: dark-phoenix-lady
+:Score: 3
+:DateUnix: 1603897096.0
+:DateShort: 2020-Oct-28
+:END:
+
+******** I feel bad for the poor bot, being decapitated and vanished after it happily does its duty. * sniff *
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 1
+:DateUnix: 1603906818.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+**** Why are there so many commas in this lmao
+:PROPERTIES:
+:Author: GiftedString109
+:Score: 15
+:DateUnix: 1603852340.0
+:DateShort: 2020-Oct-28
+:END:
+
+***** I'm out of breath just reading their comment
+:PROPERTIES:
+:Author: GoldieFox
+:Score: 5
+:DateUnix: 1603855512.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+***** Maybe OP is actually a tumblrarian in disguise, and he's using that strange punctuation accent they have.
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 3
+:DateUnix: 1603855460.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+** While we're at it, can we ban the knockoff reminder bot that sometimes butts in when people call the original reminder bot?
+:PROPERTIES:
+:Author: TheLetterJ0
+:Score: 14
+:DateUnix: 1603839007.0
+:DateShort: 2020-Oct-28
+:END:
+
+*** The knockoff bot (or at least the one I'm thinking of) has a different trigger, and shouldn't be banned. It's useful since the first one goes offline at times.
+:PROPERTIES:
+:Author: Lightwavers
+:Score: 3
+:DateUnix: 1603858498.0
+:DateShort: 2020-Oct-28
+:END:
+
+**** I know it has its own trigger, but I've never seen anyone use it. I've only ever seen it respond to calls to the original bot, which is pretty bad behavior.
+:PROPERTIES:
+:Author: TheLetterJ0
+:Score: 5
+:DateUnix: 1603860881.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+** !remindme 2 days
+:PROPERTIES:
+:Author: Lord_Anarchy
+:Score: 41
+:DateUnix: 1603842499.0
+:DateShort: 2020-Oct-28
+:END:
+
+*** I will be messaging you in 2 days on [[http://www.wolframalpha.com/input/?i=2020-10-29%2023:48:19%20UTC%20To%20Local%20Time][*2020-10-29 23:48:19 UTC*]] to remind you of [[https://np.reddit.com/r/HPfanfiction/comments/jj7vxt/when_you_see_a_prompt_or_request_you_like_instead/gabtinl/?context=3][*this link*]]
+
+[[https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2FHPfanfiction%2Fcomments%2Fjj7vxt%2Fwhen_you_see_a_prompt_or_request_you_like_instead%2Fgabtinl%2F%5D%0A%0ARemindMe%21%202020-10-29%2023%3A48%3A19%20UTC][*5 OTHERS CLICKED THIS LINK*]] to send a PM to also be reminded and to reduce spam.
+
+^{Parent commenter can} [[https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20jj7vxt][^{delete this message to hide from others.}]]
+
+--------------
+
+[[https://np.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/][^{Info}]]
+
+[[https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here][^{Custom}]]
+[[https://np.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21][^{Your Reminders}]]
+[[https://np.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback][^{Feedback}]]
+:PROPERTIES:
+:Author: RemindMeBot
+:Score: 6
+:DateUnix: 1603842538.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+*** Haha you did the thing they said not to do, funiiiiii
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 2
+:DateUnix: 1603868729.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+** I save it but I tend to forget to go back lol which is why I like reminders
+:PROPERTIES:
+:Author: Oopdidoop
+:Score: 8
+:DateUnix: 1603845861.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+** that's where posts go to die. I never remember to go back and then the stuff I actually wanted to save like prompts get lost
+:PROPERTIES:
+:Author: karigan_g
+:Score: 5
+:DateUnix: 1603854442.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+** Agreed, but isn't there a function on the reminder that if one person sets it, you can “hop on” that reminder, without having to make a comment?
+:PROPERTIES:
+:Author: the_long_way_round25
+:Score: 3
+:DateUnix: 1603875339.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+** I do that all the time haha! Just scroll through this sub and save any new posts I'd like to come back to!
+:PROPERTIES:
+:Author: Tizzybell
+:Score: 5
+:DateUnix: 1603842206.0
+:DateShort: 2020-Oct-28
+:END:
+
+*** I do this and then forget that I saved posts.
+:PROPERTIES:
+:Author: TauLupis
+:Score: 7
+:DateUnix: 1603843610.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+** It amuses me how anal some of you are about this stupid bot business.
+:PROPERTIES:
+:Author: cupidwithagun
+:Score: 7
+:DateUnix: 1603846884.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+** !emojify
+:PROPERTIES:
+:Author: rek-lama
+:Score: 8
+:DateUnix: 1603835063.0
+:DateShort: 2020-Oct-28
+:END:
+
+*** The save 📑 button 🔘, will save 📑 it, to your 👉 username 🔠, and once a few days 📆 or a week 📅😏 has passed 🎫, you 👉 can go 🏃💦 back ⬅ to your 👉 saved 💾 post 📝, and see 👀 if anyone 🙋 has posted 📲 anything 😯.
+
+It's just a shame 😳, whenever 🏪 you 👈 see 👀 a prompt 🔍 or request ❓ you 👈 really 💯 like 👍💥, and half 💀 of the comments 📄, are remind 🎗 me posts 📝.
+
+Or heck 👹, if one 👺☝ person 👫👦👱 says 🗣 remind 💭 me, instead 🚔 of spamming 😡 remind 💭 me multiple 💶💷💴 times 🌐💯⏰ from multiple 🍼🐦👶🏻 people 👨, you 👈 can hit 💥 that person's 👫 remind 🎗 me button 🔘 as well 😦.
+:PROPERTIES:
+:Author: EmojifierBot
+:Score: 26
+:DateUnix: 1603835078.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+*** That is so cute I didn't know we had a botty like that! :)
+:PROPERTIES:
+:Score: 9
+:DateUnix: 1603841226.0
+:DateShort: 2020-Oct-28
+:END:
+
+**** !emojify!!!
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1603841242.0
+:DateShort: 2020-Oct-28
+:END:
+
+***** That is so cute 😏 I 👥 didn't know 🤔 we had a botty like 👍 that! :)
+:PROPERTIES:
+:Author: EmojifierBot
+:Score: 9
+:DateUnix: 1603841254.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+** Thanks man, I didn't even know that button was a thing!
+:PROPERTIES:
+:Author: Abbray
+:Score: 4
+:DateUnix: 1603831112.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+** So obvious in hindsight! Thank you!
+:PROPERTIES:
+:Author: fer4lrabbit
+:Score: 2
+:DateUnix: 1603840671.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+** I struggle more with the first bit.
+:PROPERTIES:
+:Author: Ch1pp
+:Score: 1
+:DateUnix: 1603852329.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+** Then you have to remember to check your saved posts, much more convenient to just get a message from a bot telling you to check a thread out.
+:PROPERTIES:
+:Author: Electric999999
+:Score: 1
+:DateUnix: 1603940540.0
+:DateShort: 2020-Oct-29
+:END:
+
+*** The remind me bot itself isn't something I have a issue with. The issue I have is when there's like 20 comments and a majority of them are remind me comments when one person can say remind me and the other people can hit that person's remind me post, so we aren't flooded with remind me comments.
+:PROPERTIES:
+:Author: NotSoSnarky
+:Score: 1
+:DateUnix: 1603940655.0
+:DateShort: 2020-Oct-29
+:END:
+
+
+** I use the save feature, but I rarely remember to go back through my saved content
+:PROPERTIES:
+:Author: MasterGamer223
+:Score: 1
+:DateUnix: 1603853589.0
+:DateShort: 2020-Oct-28
+:END:
+
+
+** Honestly; ban the bot. Ban all bots.
+:PROPERTIES:
+:Score: -17
+:DateUnix: 1603842506.0
+:DateShort: 2020-Oct-28
+:END:
+
+*** What about fanfic bot?
+:PROPERTIES:
+:Author: otrovik
+:Score: 8
+:DateUnix: 1603847500.0
+:DateShort: 2020-Oct-28
+:END:

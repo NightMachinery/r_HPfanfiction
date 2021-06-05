@@ -1,0 +1,363 @@
+#+TITLE: [Discussion] How are potions and magical theories discovered? Experimentation? Logic? Philosophy?
+
+* [Discussion] How are potions and magical theories discovered? Experimentation? Logic? Philosophy?
+:PROPERTIES:
+:Score: 12
+:DateUnix: 1493261473.0
+:DateShort: 2017-Apr-27
+:FlairText: Discussion
+:END:
+For instance, Dumbledore's 12 usage of dragon blood, or the discovery of the Wolfsbane. I'm also interested on how certain theories that limited magic are founded. We know that Voldemort disproved a long held belief about magical flight, but for things like Gamp's Law, are they just assumed true until disproved?
+
+Haven't checked Pottermore in a while, so if there's an article on there, feel free to point me there. Looking for some refreshing headcanons on this.
+
+
+** I think the best model is something like the natural philosophy of Galileo or the physics of Aristotle. That is to say, it's a combination of ideas inspired by observation with the building of narratives from the armchair about the nature of phenomena.
+
+I dislike the idea that magical theory is mathematical immensely. For a start in terms of tone it makes magic feel far too much like science. But on top of that, Hogwarts teaches a large amount of magical theory but does not teach mathematics, so it seems mathematics is not needed to understand the magic. I therefore feel like looking to modern science and especially physics is not a good model for magical theory.
+
+(Yes there is arithmancy but it is a non-essential subject and the students successfully study a large amount of magical theory without it, and on top of that there's very little in canon to back up the fanon idea that arithmancy describes the fundamental nature of magic).
+
+I think it's important to consider the heavily conceptual nature of magic. The currency of magic seems to be abstract ideas more than physical quantities, with you being able to cast magic on abstract items like job positions, names, and secrets. I therefore picture a large amount of magical theory as being involved in properly understanding the nature of the concepts involved in the branch of magic you're using, or the specific spell you're using.
+
+For example, before casting the fidelius charm I imagine you have to read about the true nature of secrets. A fair limitation on the fidelius charm would be that a secret has to belong to you before you can use the fidelius to hide it. Not only does this prevent the absurdity of any wizard using it to destroy items of essential common knowledge, it's also implied by Flitwick's description in PoA of moving a secret from your soul into the soul of the secret keeper. The secret has to be in your soul to start with i.e. it has to be yours. So I picture there being a fairly complex analysis of when a secret can be said to be yours and when it has become common knowledge and therefore is not capable of being hidden by the fidelius.
+
+In many ways this analysis represents philosophy, but it also bears a strong resemblance to the kind of reasoning made by courts.
+
+Now, from the DoM we know there is a place for observation. But I don't see this as the kind of systematic observation of modern science, and more like the observation of Aristotle. It inspires ideas but it is not precise.
+
+On top of the above conceptual analysis, I picture there being more systematic narratives about magic which link up the concepts into schemes of understanding. These schemes would represent the large scale "worldbuilding" narratives about the world created by philosophers like Hegel. There would be a number of them in competition with no real way of determining which of them are true, but with plenty of arguments for and against each. And understanding them would increase your general appreciation for the nature of magic even if they are not "true" - they would each capture some part of the essence of magic. And over-reliance on a single view of magic could result in one dangerously ignoring aspects of magic which are given greater prominence in opposing views. Ideas like the power of sacrifice.
+
+TLDR: magical theories are created, not discovered.
+:PROPERTIES:
+:Author: Taure
+:Score: 13
+:DateUnix: 1493274099.0
+:DateShort: 2017-Apr-27
+:END:
+
+*** This.
+
+#+begin_quote
+  I think it's important to consider the heavily conceptual nature of magic. The currency of magic seems to be abstract ideas more than physical quantities, with you being able to cast magic on abstract items like job positions, names, and secrets.
+#+end_quote
+
+Abstract ideas are certainly prevalent in HP magic, but there seems to be some evidence that physical quantities effect magic. Things like distance effecting apparition or weight effecting levitation. Though those two examples I could only find from extra-canonical sources.
+
+Less obvious would be the idea that the shield charm blocks "magic." What type of magic it blocks isn't based on some abstract concept. It blocks certain types of magic and fails to block other types (dark magic such as the killing curse for example). This doesn't seem to be some abstract concept, but dependent on some actual magical property or attribute.
+
+#+begin_quote
+  Now, from the DoM we know there is a place for observation. But I don't see this as the kind of systematic observation of modern science, and more like the observation of Aristotle. It inspires ideas but it is not precise.
+#+end_quote
+
+I'd say in support of this, most wizards seem to shrug off anomalies and inconsistencies in magic as though they were commonplace (and they seem to be). An example would be when the Weasley car comes to life, and nobody bats an eye. Now whether this is because the particular wizards we see aren't knowledgeable enough or interested enough to examine such anomalies is up to debate.
+
+There do seem to be some strict/iron cad rules that magic follows, but those aren't explained in any great detail in canon.
+:PROPERTIES:
+:Author: blandge
+:Score: 3
+:DateUnix: 1493276348.0
+:DateShort: 2017-Apr-27
+:END:
+
+**** u/Taure:
+#+begin_quote
+  Less obvious would be the idea that the shield charm blocks "magic." What type of magic it blocks isn't based on some abstract concept. It blocks certain types of magic and fails to block other types (dark magic such as the killing curse for example). This doesn't seem to be some abstract concept, but dependent on some actual magical property or attribute.
+#+end_quote
+
+I feel like you've drawn an overly universal conclusion from a single example. The Killing Curse is the only spell we know of that cannot be shielded against and is particularly noted several times for the uniqueness of its unblockability.
+
+The shield charm handles other dark magic just fine.
+
+(On a speculative aside, I always felt that the unblockable nature of the killing curse represents the inevitability of death. So that too would be conceptual.)
+:PROPERTIES:
+:Author: Taure
+:Score: 3
+:DateUnix: 1493277038.0
+:DateShort: 2017-Apr-27
+:END:
+
+***** So is "dark" magic just a label ascribed to certain spells because of their sinister nature or is it a categorical classification of magic based on some inherent property?
+:PROPERTIES:
+:Author: blandge
+:Score: 2
+:DateUnix: 1493277587.0
+:DateShort: 2017-Apr-27
+:END:
+
+****** That requires a 2000 word kind of answer and I have to go to work in 5 mins. Ask me again sometime!
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1493277846.0
+:DateShort: 2017-Apr-27
+:END:
+
+******* Hah! I've chatted with you before on this exact topic, so I knew I was fanning the flames here. What I understand of your position doesn't mesh with your statement about the shield charm only failing against the killing curse (which admittedly may imply a misunderstanding on my part of your thoughts on the subject).
+
+A counter example would be Fred's and George's shield clothing in HBP which only protects against minor curses and jinxes, but are useless against powerful spells such as the unforgivables (not just the killing curse). However, if you're headed out the door I'll digress... for now :).
+:PROPERTIES:
+:Author: blandge
+:Score: 1
+:DateUnix: 1493278107.0
+:DateShort: 2017-Apr-27
+:END:
+
+******** The shield charm can of course fail against any spell depending on how powerfully the shield was cast compared to how powerful the attacking spell is. But the killing curse is the only spell we know of which the shield charm is fundamentally unable to block.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1493278432.0
+:DateShort: 2017-Apr-27
+:END:
+
+********* OK I'll give you that the unblockable...ness? of the killing curse is potentially due to some abstract symbolism.
+
+However, the powerfulness of spells relative each other is at least qualitative, if not quantitative. This leads to my only point which is that magic is not purely conceptual in nature, but has some literal attributes. Do you agree with that?
+:PROPERTIES:
+:Author: blandge
+:Score: 1
+:DateUnix: 1493279083.0
+:DateShort: 2017-Apr-27
+:END:
+
+********** If it was purely conceptual then it would never actually do anything. Yes, of course magic has real effects in the world as well.
+:PROPERTIES:
+:Author: Taure
+:Score: 3
+:DateUnix: 1493279248.0
+:DateShort: 2017-Apr-27
+:END:
+
+*********** Sorry should have restated that this is in response to the statement that abstract ideas appear to be the currency of HP magic. I'd say that abstract concepts play the major role, but literal attributes do seem to play some underlying role in magical interaction (but not necessarily in the same way that math and physics do in the physical realm).
+
+I think we may be in agreement here
+:PROPERTIES:
+:Author: blandge
+:Score: 1
+:DateUnix: 1493279723.0
+:DateShort: 2017-Apr-27
+:END:
+
+
+*** I really like the idea of competing philosophies about magic. Three questions out of curiosity though. Do you believe that there are hard limits to magic? As in, there are things that magic simply can't do no matter what philosophies you are using, or abstraction/conceptualization you make? In canon bringing back the dead or conjuring food was presented as a hard limit.
+
+The other thing is your opinion on belief magic. It's a common trope where Harry does things that are considered difficult or even impossible, due to his confidence in his magic, or because he didn't know about the rules he was breaking.
+
+Finally, I agree that a magical philosophy or theory concerning math would be a bad idea, simply because abstract ideas like love can't really be defined using math. But, you did say that there could be competing ideas. So imagine if a muggleborn attempted to create a magical philosophy that uses math. Or attempted to explain magic using math. He wouldn't be able to apply this to abstract human concepts like love, but it would work for a very narrow range of magic, so narrow that the idea is discarded because other philosophies are better. What are your thoughts on this?
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1493305915.0
+:DateShort: 2017-Apr-27
+:END:
+
+
+** Paging [[/u/Taure]]
+:PROPERTIES:
+:Author: blandge
+:Score: 4
+:DateUnix: 1493273515.0
+:DateShort: 2017-Apr-27
+:END:
+
+
+** u/yarglethatblargle:
+#+begin_quote
+  Experimentation? Logic? Philosophy?
+#+end_quote
+
+Yes, a thousand times yes.
+
+linkffn(Shadow of Angmar) spends some time discussing the potions side of it.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 5
+:DateUnix: 1493264449.0
+:DateShort: 2017-Apr-27
+:END:
+
+*** In The Shadow of Angmar it's worth pointing out that while I have tried to keep a certain canonicity to the potion making process, it is still informed by the existence of the Lord of the Rings crossover aspect. What follows is a short explanation of the system I ended up with. No spoilers, but if you're reading the story and want to discover the nature of magic alongside Harry, you might want to skip it.
+
+What I went for, basically, was 'if viewed through the lens of LotR, how would Harry Potter magic work, and how would it extend beyond what is seen in canon'. This caused me to think of things as strains or melodies in the original song of creation. When creating a potion you are taking those elements and combining them, constructively and destructively into a new song, a new power. That new melody modifies the world (which is itself a song), to create the desired effect. But to be able to do this, one needs to be able to hear the music, and sing the connecting notes to bring it together into a complete whole. This is the meaning of being a wizard in my constructed crossover world.
+
+In SoA, the Harry Potter world is Eru's second creation (the Elves have a legend which says that men, after passing on, go to Eru and will in time join him in singing a new world), and it is one that does not wane over time as Arda does. The Men who sang it into existence, or their children still live within it and are always adding to the orchestration.
+
+All people, muggles included, have some limited ability to hear the music, and this is why things like folk remedies tend to be a part of the ingredients I use in my potion making process in the story. While no-one is all that good at hearing it and understanding the meaning, over the millions of people, the wisdom of crowds sees them find the kernel of truth. Wizards are, of course, more attuned to the music, and so are much more able to work out the uses of potion ingredients.
+
+That's the idea underlying it, anyway. I might have talked at more length, but I'm on my phone.
+:PROPERTIES:
+:Author: SteelbadgerMk2
+:Score: 7
+:DateUnix: 1493275011.0
+:DateShort: 2017-Apr-27
+:END:
+
+**** Fascinating. I'm guessing this is something that's going to come up in the last arc of SoA?
+
+Though as I said in another comment, I was mostly discussing the bit where Harry is talking to Daewen (or maybe the Blue Wizards?) about how the uses for potions ingredients were discussed by trial and error by thousands over centuries.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 2
+:DateUnix: 1493300550.0
+:DateShort: 2017-Apr-27
+:END:
+
+
+*** [[http://www.fanfiction.net/s/11115934/1/][*/The Shadow of Angmar/*]] by [[https://www.fanfiction.net/u/5291694/Steelbadger][/Steelbadger/]]
+
+#+begin_quote
+  The Master of Death is a dangerous title; many would claim to hold a position greater than Death. Harry is pulled to Middle-earth by the Witch King of Angmar in an attempt to bring Morgoth back to Arda. A year later Angmar falls and Harry is freed. What will he do with the eternity granted to him? Story begins 1000 years before LotR. Eventual major canon divergence.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter + Lord of the Rings Crossover *|* /Rated/: Fiction M *|* /Chapters/: 22 *|* /Words/: 141,517 *|* /Reviews/: 2,714 *|* /Favs/: 6,678 *|* /Follows/: 8,536 *|* /Updated/: 2/19 *|* /Published/: 3/15/2015 *|* /id/: 11115934 *|* /Language/: English *|* /Genre/: Adventure *|* /Characters/: Harry P. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11115934&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11115934&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1493264460.0
+:DateShort: 2017-Apr-27
+:END:
+
+
+*** Is familiarity with LOTR required? I keep on seeing this recommended, but I haven't read LOTR yet
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1493271426.0
+:DateShort: 2017-Apr-27
+:END:
+
+**** While it would probably help, Steelbadger has some author's notes that give some info, but a lot is presented in the text because Harry is a stranger to that world as well.
+
+EDIT: Right now it is taking place LONG before the events of The Hobbit, let alone Lord of the Rings.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 1
+:DateUnix: 1493302670.0
+:DateShort: 2017-Apr-27
+:END:
+
+
+*** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1493264654.0
+:DateShort: 2017-Apr-27
+:END:
+
+**** It is expanded canon. Meaning it adheres to cannon and builds upon it.
+:PROPERTIES:
+:Author: EpicBeardMan
+:Score: 6
+:DateUnix: 1493265151.0
+:DateShort: 2017-Apr-27
+:END:
+
+***** Yeah. Frankly, canon doesn't tell us anything about how potionmaking actually works (other than you mix shit together, stir in multiple directions and how you prepare ingredients can change things) outside of Golpalott's Third Law.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 4
+:DateUnix: 1493265355.0
+:DateShort: 2017-Apr-27
+:END:
+
+
+**** And. I. Quote.
+
+#+begin_quote
+  Looking for some refreshing headcanons on this.
+#+end_quote
+
+And you missed my point: Steelbadger straight up says in Shadow of Angmar that the uses of ingredients in potionmaking has been a matter of trial and error by thousands of people over thousands of years. That's what I was going for.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 3
+:DateUnix: 1493265083.0
+:DateShort: 2017-Apr-27
+:END:
+
+
+** Obviously you downward flick then counterclockwise swish with your wand and say "potion revelosa"
+:PROPERTIES:
+:Author: PawnJJ
+:Score: 3
+:DateUnix: 1493264515.0
+:DateShort: 2017-Apr-27
+:END:
+
+*** haha! You joke but I have read fics where magic is all about believing, and once Harry convinced himself that anything is possible, all of a sudden his potions are perfect due to his confidence and he's making spells by rhyming. Interesting, but the plot suffers due to how OP Harry gets.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1493271518.0
+:DateShort: 2017-Apr-27
+:END:
+
+
+** Logical deductions revolving around a conclusive base. Theories are educated guesses backed up by logic. Understanding Magical Theories would make brewing new potions fairly easier because you'd understand what you are aiming for. You can't mix random things and hope for the best for example, a potion generally has ingredients related to it's use.
+
+Let's take the Polyjuice potion, a potion that let's you successfully take the appearance to that of another. Each Ingredient represents a concept, if we were in a time where the polyjuice wasn't yet made, it would simply be a theory. The combination of ingredients to get a certain result those ingredients represent what you are trying to achieve.
+
+So let's say you're a wizard/witch and you're doing a ritual for immortality
+
+A circle with a slash down the middle The flow of your blood mixed with another persons blood flowing down the line in the middle On both sides there are the hieroglyph for both the /sun/ and /moon/ You activate the ritual under a solar eclipse
+
+There is symbolism behind both and they are opposites. The circle with a slash represents balance, the blood represents your being and will which acts as a medium the mixture of blood represents two blending into one. The hieroglyphics represent the sun and moon while the solar eclipse is when the moon passes between the sun making it a stronger time-frame.
+
+Focus your intent on certain aspects of the sun and moon
+
+Moon- Immortality, eternity
+
+Sun- Rebirth, Strength
+
+The notion of Sacrifice would also be relevant due to the mixture of blood to "take" their life as your own and add it to your own. Thus you would have to continue to do this more then once to continue living.
+
+You wouldn't be able to do anything without first understanding the concepts and what they represent
+
+Everything is connected to your end result, Magic is connected to what you want to do, which would explain cases of young magical children and accidental magic. This is overall how I view it
+:PROPERTIES:
+:Author: xKingGilgameshx
+:Score: 3
+:DateUnix: 1493272029.0
+:DateShort: 2017-Apr-27
+:END:
+
+
+** Voldemort can fly because he had broomstick enchantments put on his bones. 👍
+:PROPERTIES:
+:Author: pretzelusb
+:Score: 1
+:DateUnix: 1493279554.0
+:DateShort: 2017-Apr-27
+:END:
+
+
+** It's created when <<instert random fanfic author>> thinks "OMG wouldn't a potion that makes you pee in rainbow colors be so cool???"
+:PROPERTIES:
+:Author: T0lias
+:Score: 1
+:DateUnix: 1493306154.0
+:DateShort: 2017-Apr-27
+:END:
+
+*** Wait, urine /isn't/ supposed to be technicolor?
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 2
+:DateUnix: 1493307657.0
+:DateShort: 2017-Apr-27
+:END:
+
+
+** This may be a controversial opinion, but I think the source material has more than one valid interpretation. Canon presents us with magic that has many mystical aspects such as the power of love, casting magic on ideas, etc. while simultaneously presenting the outline of a structured system with rules and limits that can be studied and verified. So both the mystical and scientific interpretations of magic are equally valid interpretations of canon in my opinion and I enjoy reading fics that use either especially when they are well thought out.
+
+Personally, my headcanon leans toward the scientific interpretation. A world where symbols and belief determine the power of a wizard's magic is a lot harder to build a good fic around in my opinion as that essentially opens the door to Swiss-cheese plots and solvus plotus type spells unless the author is particularity talented with their world building. Good fiction requires internal consistency and that's just harder to achieve the more you deviate from reality as we know it.
+:PROPERTIES:
+:Author: A_Rabid_Pie
+:Score: 1
+:DateUnix: 1493341090.0
+:DateShort: 2017-Apr-28
+:END:

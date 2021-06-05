@@ -1,0 +1,256 @@
+#+TITLE: Authors: What do you write your stories in?
+
+* Authors: What do you write your stories in?
+:PROPERTIES:
+:Author: Skeletickles
+:Score: 7
+:DateUnix: 1483925865.0
+:DateShort: 2017-Jan-09
+:FlairText: Discussion
+:END:
+Google docs, word, ect
+
+
+** ... straight into the FFN window. I know: my Mum deemed me a lost cause a long time ago.
+
+I'll try to make a change.
+:PROPERTIES:
+:Author: Ihateseatbelts
+:Score: 6
+:DateUnix: 1483953319.0
+:DateShort: 2017-Jan-09
+:END:
+
+*** Holy shit you're brave
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 12
+:DateUnix: 1483967560.0
+:DateShort: 2017-Jan-09
+:END:
+
+
+** Waaaay back in the day, I used Microsoft Publisher.
+
+When I started writing again, I tried using Google Docs. Far too slow. I had a document that was maybe twenty pages, and opening it was painful.
+
+I switched from that to LibreOffice. Problem was, I wanted to be able to edit my documents from wherever. That means either web-based or text-based, because with plain text, I can edit with vim over ssh.
+
+I switched to LaTeX, which was nice in that it prevents me from making certain types of mistakes. LaTeX is way too complex to use for this. Trying to convert its output to an ebook that actually renders correctly on a wide variety of devices is painful. Trying to upload its output to any fic sites results in a loss of formatting.
+
+I ended up writing a kind of variant subset of LaTeX that I call [[https://github.com/dhasenan/subtex][SubTex]].
+
+An excerpt from a subtex document:
+
+#+begin_example
+  \chapter{Awakening}
+
+  % Day 1: June 18, 2011
+
+  Hermione woke slowly, head pounding. It felt like she'd just had an elephant lying on top of her,
+  sore all over and barely able to move. Hunger and dehydration added their unforgettable \emph{je ne
+  se quoi}, and that was before she opened her eyes. Something chimed nearby.
+
+  \e{Ms Granger?} someone asked softly in the unmistakable tones of a medical professional.
+  \e{Can you hear me?}
+#+end_example
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1483938751.0
+:DateShort: 2017-Jan-09
+:END:
+
+*** That's really cool.
+
+I have similar goals to you for remote editing and the like. Having no experience with LaTeX but being a Redditor, I ended up settling on using Markdown (and storing my works in a Git repo).
+
+Conveniently, there are WYSIWYG editors for Markdown and easy ways to export to HTML for distribution. I'm currently following the development of [[http://abricotine.brrd.fr/][Abricotine]] quite closely. My other like of Markdown is the way its syntax seems fairly intuitive to read plain
+
+An example from one of my drafts:
+
+#+begin_example
+  # Chapter 8(?)
+  ## The Hall of Records
+
+  The door was plain and black, just like everything else on the Ministry’s
+  lowest level. A small black plaque sat in its centre, reading simply *Hall of
+  Records*. Harry straightened his robes slightly and rearranged the files
+  under his arm, before pushing open the door and stepping inside.
+#+end_example
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1483981048.0
+:DateShort: 2017-Jan-09
+:END:
+
+
+** google docs
+:PROPERTIES:
+:Author: Lord_Anarchy
+:Score: 8
+:DateUnix: 1483931286.0
+:DateShort: 2017-Jan-09
+:END:
+
+
+** Wordpad, as .rtf files. They're small and the app doesn't interfere with my writing by trying to autocorrect anything.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 2
+:DateUnix: 1483928796.0
+:DateShort: 2017-Jan-09
+:END:
+
+
+** Scrivener. Love it. Makes publishing to three different websites much easier since you can save as many sets of formatting rules as you like.
+:PROPERTIES:
+:Author: LeadVonE
+:Score: 2
+:DateUnix: 1483980642.0
+:DateShort: 2017-Jan-09
+:END:
+
+*** Seconding Scrivener. These days I use it more for my academic writing than fanfic, but it is brilliant.
+
+I used to use Ulysses, wich I liked for their Markdown support but they turned me off by not allowing separate docs anymore and requiring everything in one monolith in iCloud.
+:PROPERTIES:
+:Author: nothorse
+:Score: 1
+:DateUnix: 1483988955.0
+:DateShort: 2017-Jan-09
+:END:
+
+
+*** I wish I could get used to Scrivener's interface. It sounds amazing, but I just can't get used to it. I have to try and replicate its functionality by combining Google Keep, Simplenote, and MS Word.
+:PROPERTIES:
+:Author: Conneron
+:Score: 1
+:DateUnix: 1484000408.0
+:DateShort: 2017-Jan-10
+:END:
+
+
+** Apple notes, google docs, and openoffice depending on what i'm writing on. I wish google docs worked on my xbox one.
+:PROPERTIES:
+:Author: viol8er
+:Score: 2
+:DateUnix: 1483925922.0
+:DateShort: 2017-Jan-09
+:END:
+
+
+** Microsoft Word when I'm on my laptop and my phone and WPS Office when I'm using my Kindle.
+:PROPERTIES:
+:Author: BronzeButterfly
+:Score: 1
+:DateUnix: 1483934721.0
+:DateShort: 2017-Jan-09
+:END:
+
+
+** Most of my multi chapter Fics are written in a notepad then typed and edited (or dictated to) in Word 2016, stored on both Dropbox and OneDrive.
+
+Most of my one-shots are written, or dictated, straight in Word 2016.
+:PROPERTIES:
+:Author: GryffindorTom
+:Score: 1
+:DateUnix: 1483954791.0
+:DateShort: 2017-Jan-09
+:END:
+
+
+** I'm a creature of habit and use Word, I write the entire story in one doc. But when I want a chapter to be edited by someone else I paste it into Google docs. I really should switch over completely, but I have no common sense. :p
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 1
+:DateUnix: 1483963612.0
+:DateShort: 2017-Jan-09
+:END:
+
+
+** I used WPS Writer at first, then I got annoyed by the bugs and moved to Google Docs. Then one day my internet cut out and two hours worth of my work got lost, and that ended my relationship with Google Docs. Now I just use MS Word.
+
+I just have to remember to save very /very/ */very/* regularly.
+:PROPERTIES:
+:Author: Conneron
+:Score: 1
+:DateUnix: 1483965138.0
+:DateShort: 2017-Jan-09
+:END:
+
+*** u/SilverCookieDust:
+#+begin_quote
+  I just have to remember to save very very very regularly.
+#+end_quote
+
+I'd recommend Atlantis Word Processor on that. It has a backup option where you can tell it to save every ## minutes -- you can set it anywhere between 1-120. It literally creates an entire new save every time ("Doc Name date-stamp time-stamp") rather than a single back up that just gets overwritten every ## minutes, which is good if you delete something and change your mind about it later. You can just find the relevant save and find the text you want. (Only downside of course is that those backups pile up and take space on your HD so you should clear them out every so often, but unless you've got docs full of pictures or thousands of pages worth of text then they're not that large, and obviously there won't be so many if you set it to a longer time between back ups.)
+
+Honestly, I prefer Atlantis over Word so much. The styles are much easier to customise (I could never get my changes to stick in Word) and there isn't a ridiculous number of preset styles so you can just have as many as you need. Also it uses a kind of tab function so you can have multiple docs open and only one window, and it has a save to webpage or ebook options (inc. batch convert). It even has an install to portable drive option and, perhaps most importantly, it's a lot cheaper than Word.
+
+That sounds kind of like a sales pitch, oops. But seriously, it's a really good word processor.
+:PROPERTIES:
+:Author: SilverCookieDust
+:Score: 2
+:DateUnix: 1483994423.0
+:DateShort: 2017-Jan-10
+:END:
+
+
+** Google Docs.
+
+I can write everywhere, anytime, especially since Docs introduced offline functions into their mobile apps.
+
+I got a very busy day and a 1 hour commute. I often use that hour to re-read what I wrote and pre-edit grammar and typos. Plus I like writing in my browser.
+
+The comment function is also wonderfully practical, plus there are a lot of plug-ins that make your life easier.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 1
+:DateUnix: 1483969144.0
+:DateShort: 2017-Jan-09
+:END:
+
+
+** Evernote. I can use it on all of my devices and if I don't have access to them then I just log on from any computer (great for getting through a boring computer class in college) , and my work automatically syncs every time I make a change to the note (so long as there is internet connection).
+:PROPERTIES:
+:Author: gods-therapist
+:Score: 1
+:DateUnix: 1483974931.0
+:DateShort: 2017-Jan-09
+:END:
+
+
+** My first stores were written in Apple's Pages software. Nowadays, everything is written in Microsoft Word for Mac 2011.
+:PROPERTIES:
+:Author: __Pers
+:Score: 1
+:DateUnix: 1483987126.0
+:DateShort: 2017-Jan-09
+:END:
+
+
+** yWriter5. It's simple enough compared to some other stuff but it works well for what I need so ... yeah.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 1
+:DateUnix: 1483993526.0
+:DateShort: 2017-Jan-09
+:END:
+
+
+** Notes on my phone. As a fic approaches completion, I email it to myself and copy/paste it into Word where I finish it up or let it sit for months, adding a paragraph here and there.
+:PROPERTIES:
+:Author: ApteryxAustralis
+:Score: 1
+:DateUnix: 1484030585.0
+:DateShort: 2017-Jan-10
+:END:
+
+
+** Google Docs. I can write on just about every device connected to the Internet and I can share the docs with my beta readers easily. The comment function works very well for editing.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 1
+:DateUnix: 1483946130.0
+:DateShort: 2017-Jan-09
+:END:

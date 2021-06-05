@@ -1,0 +1,82 @@
+#+TITLE: Try out a potential new theme for this subreddit!
+
+* [[https://www.reddit.com/r/fanfictionbot][Try out a potential new theme for this subreddit!]]
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1444106682.0
+:DateShort: 2015-Oct-06
+:END:
+
+** Hey, all,
+
+Since I'm too lazy to create my own images and CSS, I'm trying the free-to-use and publicly available [[https://www.reddit.com/r/themes/comments/3in1u1/slique_a_clean_and_soothing_theme_with/][Slique theme]].
+
+Unfortunately, we were denied permission to use the [[/r/harrypotter]] theme, but I was thinking a makeover might not be a bad idea for us, either.
+
+If you guys like it, we'll be switching soon!
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1444106811.0
+:DateShort: 2015-Oct-06
+:END:
+
+*** u/deleted:
+#+begin_quote
+  we were denied permission to use the [[/r/harrypotter]] theme
+#+end_quote
+
+Why wouldn't they want another HP related sub to use their theme?
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1444111444.0
+:DateShort: 2015-Oct-06
+:END:
+
+**** Good question!
+
+As it stands, [[/r/harrypotter]] does not own the theme; it was created by [[/u/dagrock]] out of generosity. [[/u/dagrock]] even offered to help me out with CSS for this sub - unfortunately, CSS is very far down the list of priorities for me, even in programming, and I will not have time to do my own. That she offered to help out in the first place was /pretty cool/, I think. The style sheet certainly is a work of art, and I think I can understand why she would be uncomfortable with spreading it.
+
+For example, while I have a bot on this sub, and it's open source (so anyone can use it), there's something quite personal about /creating/ something. If someone asked if they could use it - I would allow them, I think, because it's less of a work of art and more of a tool - but still, I would feel just a tad bit uncomfortable, because it is a lot of effort put into one creation, and to have it spread seems to dilute the effort. I can imagine it applies much more so to something like [[/u/dagrock]]'s stylesheet.
+
+And it's super-cool that [[/u/TreeTwo]] has thrown up the Silque theme for anyone to use on GitHub! I think it looks phenomenal.
+:PROPERTIES:
+:Author: tusing
+:Score: 5
+:DateUnix: 1444116602.0
+:DateShort: 2015-Oct-06
+:END:
+
+
+** It does look very nice, but it takes longer to load on my phone. :(
+:PROPERTIES:
+:Author: bunn2
+:Score: 2
+:DateUnix: 1444109590.0
+:DateShort: 2015-Oct-06
+:END:
+
+*** Hmm. Reddit Mobile was never good in the first place, and many Reddit apps exist for virtually every major phone OS - regardless, if you don't want to use an app, you should consider using the mobile version of Reddit.com as opposed to the desktop version on your phone.
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1444113591.0
+:DateShort: 2015-Oct-06
+:END:
+
+**** yeah, its not a huge deal or anything but since I have a korean OS that doesn't support apple/android market I browse this subreddit through my phone's web browser. like I said, it looks very nice, and its not like we have tons of gifs and things anyway, mostly text posts
+:PROPERTIES:
+:Author: bunn2
+:Score: 1
+:DateUnix: 1444165036.0
+:DateShort: 2015-Oct-07
+:END:
+
+
+** I think it looks nice on desktop but I'm not sure how it would look on a 4" phone screen.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1444111395.0
+:DateShort: 2015-Oct-06
+:END:

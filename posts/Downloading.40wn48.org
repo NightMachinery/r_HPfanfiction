@@ -1,0 +1,189 @@
+#+TITLE: Downloading
+
+* Downloading
+:PROPERTIES:
+:Author: coupestar
+:Score: 13
+:DateUnix: 1452757294.0
+:DateShort: 2016-Jan-14
+:FlairText: Discussion
+:END:
+How do I download a book from fanfiction? Usually I just do it from the bot description but I don't know how else to do it.
+
+
+** 1. Download Calibre [[http://calibre-ebook.com/download]]
+2. (I'm on OSX so you might have to dig a bit to do the same on Windows) Select Preferences --> Advanced --> Get new plugins
+3. Filter for the plugin *FanFicFare*
+4. Click install and choose the option to place the icon on the toolbar
+5. Restart the program
+6. After the program starts select "Download from URLs" from the dropdown next to the *FanFicFare* icon
+7. Paste the URL of the fic you want to download in the box and press ok
+
+I hope this is enough to get you started!
+:PROPERTIES:
+:Author: gekko15
+:Score: 10
+:DateUnix: 1452763410.0
+:DateShort: 2016-Jan-14
+:END:
+
+*** Thank you so much. I'm looking into it now :)
+:PROPERTIES:
+:Author: coupestar
+:Score: 1
+:DateUnix: 1452837628.0
+:DateShort: 2016-Jan-15
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1452773615.0
+:DateShort: 2016-Jan-14
+:END:
+
+*** Thank you :)
+:PROPERTIES:
+:Author: coupestar
+:Score: 1
+:DateUnix: 1452837655.0
+:DateShort: 2016-Jan-15
+:END:
+
+
+*** Thank you :)
+:PROPERTIES:
+:Author: coupestar
+:Score: 1
+:DateUnix: 1452837663.0
+:DateShort: 2016-Jan-15
+:END:
+
+
+** [[http://p0ody-files.com/ff_to_ebook/]] i use this one. Gives a nice info page at the start.
+:PROPERTIES:
+:Author: Manicial
+:Score: 5
+:DateUnix: 1452761749.0
+:DateShort: 2016-Jan-14
+:END:
+
+*** Thank you :)
+:PROPERTIES:
+:Author: coupestar
+:Score: 1
+:DateUnix: 1452837707.0
+:DateShort: 2016-Jan-15
+:END:
+
+
+** google "download fanfic"
+
+[[https://ficsave.com/][ficsave]] is decent.
+:PROPERTIES:
+:Author: munin295
+:Score: 5
+:DateUnix: 1452760105.0
+:DateShort: 2016-Jan-14
+:END:
+
+*** Thank you
+:PROPERTIES:
+:Author: coupestar
+:Score: 1
+:DateUnix: 1452837728.0
+:DateShort: 2016-Jan-15
+:END:
+
+
+** The bot uses the following: [[http://p0ody-files.com/ff_to_ebook/]] as our first choice, and the one I recommend above all others except Calibre.
+
+Our second choice is [[http://ficsave.com/]]
+:PROPERTIES:
+:Author: tusing
+:Score: 3
+:DateUnix: 1452798975.0
+:DateShort: 2016-Jan-14
+:END:
+
+*** Thank you for the suggestion and for the bot. It's how I started downloading fanfic and why I asked. I should've put 2 and 2 together but I'm not a ravenclaw.
+:PROPERTIES:
+:Author: coupestar
+:Score: 1
+:DateUnix: 1452837791.0
+:DateShort: 2016-Jan-15
+:END:
+
+
+** [[http://ficsave.com/]]
+
+Not sure if it works with other sites than [[https://www.fanfiction.net/]]
+:PROPERTIES:
+:Author: svipy
+:Score: 8
+:DateUnix: 1452760087.0
+:DateShort: 2016-Jan-14
+:END:
+
+*** It does AFF as well
+:PROPERTIES:
+:Author: Meiyouxiangjiao
+:Score: 1
+:DateUnix: 1453039318.0
+:DateShort: 2016-Jan-17
+:END:
+
+
+** I use calibre with the fanficfare extention. Let's me organize all the ffs really easily too.
+:PROPERTIES:
+:Author: Windschatten
+:Score: 3
+:DateUnix: 1452762316.0
+:DateShort: 2016-Jan-14
+:END:
+
+
+** If you use Android, Codex Reader is a good offline fanfic reader. Supports FF.net, FictionPress and AO3. Can also download as epub.
+:PROPERTIES:
+:Author: ajford
+:Score: 2
+:DateUnix: 1452774920.0
+:DateShort: 2016-Jan-14
+:END:
+
+*** Thank you kind sir :)
+:PROPERTIES:
+:Author: coupestar
+:Score: 1
+:DateUnix: 1452837873.0
+:DateShort: 2016-Jan-15
+:END:
+
+
+** My personal favorite is [[http://allinaccess.com/fanfic_downloader/Fanfic%20Downloader-0.21-Windows.zip]]
+:PROPERTIES:
+:Author: Anomalous11
+:Score: 2
+:DateUnix: 1452818356.0
+:DateShort: 2016-Jan-15
+:END:
+
+
+** I guess you mean Fanfiction.net, since you you mention the bot? There are other fanfiction sites that provide ebook formats themselves ([[http://archiveofourown.org/][Ao3]] is the big one). Many people have already mentioned bots that will automatically create an ebook for you from various archives.
+
+If all those others mentioned fail you, you can also try the [[http://grabmybooks.com/][GrabMyBooks]] extension for Firefox and Chrome. It's good for archives that aren't big enough for the automated grabbers to bother programming for, for sites that aren't fanfic-specific (and therefore don't have standard formatting, like individual blogs), and /especially/ for sites that are password-protected, because it saves what's displayed on-screen.
+:PROPERTIES:
+:Author: t1mepiece
+:Score: 1
+:DateUnix: 1452875392.0
+:DateShort: 2016-Jan-15
+:END:
+
+*** I appreciate that. I'll check them ouy
+:PROPERTIES:
+:Author: coupestar
+:Score: 1
+:DateUnix: 1452878045.0
+:DateShort: 2016-Jan-15
+:END:

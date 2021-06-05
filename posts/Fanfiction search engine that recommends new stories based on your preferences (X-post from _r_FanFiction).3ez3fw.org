@@ -1,0 +1,118 @@
+#+TITLE: Fanfiction search engine that recommends new stories based on your preferences (X-post from /r/FanFiction)
+
+* [[http://82.165.137.110/fanfictionsearch/ffsearch.php][Fanfiction search engine that recommends new stories based on your preferences (X-post from /r/FanFiction)]]
+:PROPERTIES:
+:Author: AcceleratedGlass
+:Score: 29
+:DateUnix: 1438133735.0
+:DateShort: 2015-Jul-29
+:FlairText: Misc
+:END:
+
+** Apparently there are 5 other people who have all of my favorite stories on their favorites list. That's 240 stories across a half dozen fandoms.
+:PROPERTIES:
+:Author: MeijiHao
+:Score: 6
+:DateUnix: 1438136262.0
+:DateShort: 2015-Jul-29
+:END:
+
+*** You know how "everyone has a twin that looks like them somewhere" in the world? You found all the people from your fanfiction sextuplet.
+:PROPERTIES:
+:Author: lurkielurker
+:Score: 8
+:DateUnix: 1438179910.0
+:DateShort: 2015-Jul-29
+:END:
+
+
+*** Some people seem to favorite everything they read.
+:PROPERTIES:
+:Author: howtopleaseme
+:Score: 8
+:DateUnix: 1438196043.0
+:DateShort: 2015-Jul-29
+:END:
+
+
+*** I think if it doesn't find enough perfect matches it goes with the 5 best ones. Some of my favorites are only on a few dozen lists and over a decade old.
+
+Did anyone get less than 5 twins?
+:PROPERTIES:
+:Author: jazzjazzmine
+:Score: 1
+:DateUnix: 1438209878.0
+:DateShort: 2015-Jul-30
+:END:
+
+
+** You know, I've often thought about something like this for fanfiction. What I've always wanted is something similar to the recommendation system at myanimelist.net. I just figured that the HP community was too dead to really make it work.
+
+This is actually fucking brilliant in both thought and execution. It leverages information already available, and makes searching for fics much easier than just using the FFN search or Scryer.
+
+Whoever made this, great fucking job. This is an invaluable tool. I've already found two or three (good) fics that I've neverseen before, and I've been reading HPFF for over 12 years now.
+:PROPERTIES:
+:Author: Servalpur
+:Score: 3
+:DateUnix: 1438180149.0
+:DateShort: 2015-Jul-29
+:END:
+
+
+** I saw this in [[/r/FanFiction]] here: [[/r/FanFiction/comments/3eak6k/]]
+
+Here's an example starting from [[http://82.165.137.110/fanfictionsearch/ffsearch.php?storyid=&userid=616007&category=&summary=#search][old-crow]], to pick a random popular author that's not [[http://82.165.137.110/fanfictionsearch/ffsearch.php?storyid=&userid=1451358&category=&summary=#search][robst]].
+:PROPERTIES:
+:Author: AcceleratedGlass
+:Score: 2
+:DateUnix: 1438133923.0
+:DateShort: 2015-Jul-29
+:END:
+
+
+** This is really great! Is there a way to simply implement a completed/not completed flag? I don't know if you search live or have a database you use, either way it wouldn't be that much work to parse the complete tag as well. Although I don't know how expensive the search will be this way. (ever looked at [[http://scryer.darklordpotter.net/]] ?)
+:PROPERTIES:
+:Author: Sitethief
+:Score: 4
+:DateUnix: 1438162379.0
+:DateShort: 2015-Jul-29
+:END:
+
+*** I second this, sorting by favs would be a nice edition too.
+
+In addition to this, it would really help if you added some basic styling. I put some bottom margin for the list elements in stylish (just 0.5 em) and it makes it a lot easier on the eyes. It doesn't have to be elaborate or anything, even little bits help.
+:PROPERTIES:
+:Author: Riversz
+:Score: 2
+:DateUnix: 1438166325.0
+:DateShort: 2015-Jul-29
+:END:
+
+
+** Hmmmm I don't know about this. I put in 4 stories that are Snape/Lily and got back mostly Severitus and Snape/Hermione. Bleh. I guess how well it works depends on what specifically you're searching for.
+
+Edit: ACTUALLY I switched it to search only 1 story and it worked really well. Yay! Nice find, OP!
+:PROPERTIES:
+:Author: orangedarkchocolate
+:Score: 4
+:DateUnix: 1438177034.0
+:DateShort: 2015-Jul-29
+:END:
+
+
+** Okay wow!! This website is everything I could dream off. I have already found loads of new fics to read, so much that I have had to create a bookmark folder dedicated to new found fics! I am very happy. This should be stickied at the top of this sub reddit tbh.
+:PROPERTIES:
+:Author: Cloudborn
+:Score: 3
+:DateUnix: 1438212859.0
+:DateShort: 2015-Jul-30
+:END:
+
+
+** This is really cool, there's a lot of crossover of stuff I've already read, but definitely showing some new stuff I haven't. Thanks op.
+:PROPERTIES:
+:Author: zluj
+:Score: 2
+:DateUnix: 1438180913.0
+:DateShort: 2015-Jul-29
+:END:

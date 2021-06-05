@@ -1,0 +1,1381 @@
+#+TITLE: AO3 and the Problematic Protection of Plagiarists
+
+* [[/r/FanFiction/comments/n0916y/ao3_and_the_problematic_protection_of_plagiarists/][AO3 and the Problematic Protection of Plagiarists]]
+:PROPERTIES:
+:Author: Taure
+:Score: 34
+:DateUnix: 1619593268.0
+:DateShort: 2021-Apr-28
+:FlairText: Discussion
+:END:
+
+** I'll move past the fairly pointless arguments that /reposting with credit, but without consent/ does not technically constitute plagiarism as defined by the AO3 TOS because it is also explicitly disallowed as copyright and trademark infringement:
+
+#+begin_quote
+  Reproductions of entire copyrighted works---whether songs, poems, transcripts, or other material---are not allowed without the consent of the copyright owner.
+#+end_quote
+
+Similarly, representatives of AO3 have stated in the past that exactly this kind of activity should not be performed without explicit consent: [[https://www.reddit.com/r/AO3/comments/bgvbqa/am_i_allowed_to_post_someone_elses_work/elntbtr?utm_source=share&utm_medium=web2x&context=3]]
+
+The issue here is that it appears to only be enforceable by the copyright holder themselves:
+
+#+begin_quote
+  If you believe that your content has been reproduced in whole or in part, without transformative use (transformative use is defined by the OTW as adding something new, with a further purpose or different character, altering the source with new expression, meaning, or message), please follow our procedures for reporting copyright infringement.
+
+  The report must clearly and specifically indicate the exact location (URL), nature, and extent of each instance of allegedly infringing content, as well as the exact copyrighted material that is being infringed, as well as full and complete contact information for the copyright holder and/or an authorized agent.
+#+end_quote
+
+Thus, if the author is dead, or simply no longer active, it seems that it's open season on their works.
+
+This is similar to the broader problem of orphan works. In most places use of copyrighted orphan works (where the rights holder is either unknown or unreachable) is still illegal, it's just entirely without enforcement as only the rights holder can enforce their ownership of a work.
+
+Thus it seems AO3 is entirely in step with most international copyright law. Copying shit without permission isn't allowed, but attempting to police it is too much work, and so it falls to the rights holders to do so. If those rights holders are unaware of the infringement, then it simply gets overlooked.
+:PROPERTIES:
+:Author: SteelbadgerMk2
+:Score: 62
+:DateUnix: 1619603450.0
+:DateShort: 2021-Apr-28
+:END:
+
+*** If the author's dead or no longer active, I think it shoukd be open season on their works. Orphan works should automatically pass into the public domain, but as protection against accidentally scooping in non-orphan works the cooyright remains but the author has to actively defend their copyright. That way orphan works are still de jure cooyrighted (which is unfortunate) but with nobody actively claiming and enforcing cooyright on them, de facto they're public domain.
+:PROPERTIES:
+:Author: RealLifeH_sapiens
+:Score: 1
+:DateUnix: 1619623014.0
+:DateShort: 2021-Apr-28
+:END:
+
+**** If the author is no longer active and have moved on, it's still plagiarism to steal their stories and repost them under your account. Now, there were a few stories that I was inspired to write that are based off of orphaned works, but I always made it a point to link to the source material. However, these stories were only based on some events that took place in that orphaned work... and if I can find the original authors to that fic, if say it is a story that gained a lot of traction in the fandom, then I ask around to see if I could find the name of the author and ask them if I can base my fic around x story.
+
+In most cases, the authors of the orphaned fic have removed themselves entirely from the fandom and deleted their accounts, so I just link to the orphaned fic and let it be. If I do get into contact with the original author and they tell me that I can do whatever I want as it is no longer their fic, then I still link to the source, and take great care to not name the author.
+
+Also, if we are dealing with authors that published their books, their works are protected by copyright as well. I've seen people lift entire books from now deceased writers and post them to sites like Wattpad and AO3. If it's a fanfic writer that has died, and their work is still posted to the archive, then I feel that the copyright of that fic is still to the original writer and stealing it verbatim and reposting it to your account is incredibly offensive.
+:PROPERTIES:
+:Author: TiffWaffles
+:Score: 5
+:DateUnix: 1619639674.0
+:DateShort: 2021-Apr-29
+:END:
+
+***** But if, as in this case, the person who wrote it and originally posted it is still identified as the author when it's reposted and the original posting made it available to the world free of charge, how does "steal their stories" even apply as a description of reposting it? The author's still getting credit and there's no lost income/unjust enrichment issues. How does it affect me at all if I post a story to FFN, that all the world can read without paying me a cent, and someone copies it to AO3 as "Story From FFN by RealLifeH_sapiens"?
+
+Hell, what difference would it have made if you'd written your stories based around around Story X without the Author of Story X's permission? I can't think of any compelling or valid reason for you to have refrained from writing and posting your stories even if Author of Story X had specifically said, "No, I don't want you writing derivative works based on my work", so I can't think of a reason.to ask for unneccessary permission. Or to post the link to Story X except as a courtesy (as much to your readers as to that author).
+:PROPERTIES:
+:Author: RealLifeH_sapiens
+:Score: 2
+:DateUnix: 1619641221.0
+:DateShort: 2021-Apr-29
+:END:
+
+
+*** Well, from a legal point of view, complaining that you have to prove that you have the authorisation to act in someone's name when you act in their name is kind of... weird. That's how things work when you represent someone.
+:PROPERTIES:
+:Author: Starfox5
+:Score: -12
+:DateUnix: 1619605409.0
+:DateShort: 2021-Apr-28
+:END:
+
+**** I'm honestly struggling to see your point here. In fact, I'm kinda struggling to see the point of most of your comments on this post.
+
+My first question is where exactly did I complain? I merely pointed out the legal reality of how things worked. Am I suggesting that something is left to be desired about reality? Yes, of course. What I did not do, however is:
+
+#+begin_quote
+  [complain] that you have to prove that you have the authorisation to act in someone's name
+#+end_quote
+
+What I was in fact suggesting is that it is kind of... weird (to borrow a turn of phrase) that a thing can be both /illegal/ and /explicitly against the terms of service/, but that no-one bothers trying to enforce these things unless they're about to get in trouble for /not/ enforcing them.
+
+Why does representation matter at all when something has been posted on a site which clearly falls afoul of the rules of that site? Why does the site drag its feet so much on enforcing their own rules that it is only the possibility of legal liability that makes them do so?
+
+Further, your arguments in other comments about the nature of plagiarism just seem to be pointless noise. They don't further the discussion at hand. You could have made the point (which I did above) that it is not technically plagiarism, but just straight up copyright infringement without needing to enter into more than one lengthy argument which was completely irrelevant to the real question of /why AO3 doesn't feel the need to enforce its own rules/.
+
+The answer, as I have said above is that they don't feel the need, because the way they enforce their own rules in this case is identical to the way the law is applied. Whether you believe that that is a fair way of treating intellectual property or not is a further conversation, and one which I think is entirely more valuable to have than trying to pick at irrelevant details of the original complaint just so you can look smart.
+:PROPERTIES:
+:Author: SteelbadgerMk2
+:Score: 25
+:DateUnix: 1619607550.0
+:DateShort: 2021-Apr-28
+:END:
+
+***** You didn't complain about it - but the whole thread is about complaining that in order to act on someone's behalf, you have to prove that you are allowed to act on their behalf. Which is a basic legal requirement.
+
+I don't like that people treat plagiarism the same as reposting.
+
+/Ao3 doesn't protect plagiarists/. Claiming they do, and citing the rules for reposting, is dishonest.
+:PROPERTIES:
+:Author: Starfox5
+:Score: -4
+:DateUnix: 1619608126.0
+:DateShort: 2021-Apr-28
+:END:
+
+****** So, firstly, if you accept that I did not in fact complain about it, why did you address it as a reply to something I'd said? Have you not made top-level comments to this effect already?
+
+Of course, what you actually said in reply to my earlier comment didn't really have anything to do with the plagiarism/reposting confusion at all and was instead commenting on the legal reality of copyright ownership and enforcement. If you were trying to make a point referencing my own comment, perhaps it would have been better to actually make the point, rather than settling for making vague implications.
+
+In fact, this seems a fairly strange hill on which to die because copyright infringement and plagiarism are two concepts which overlap significantly.
+
+Copyright states that the creator has the sole right to:
+
+- reproduce a work.
+- create derivative works based upon it.
+- distribute copies of the work to the public.
+- publicly display or perform the work.
+
+Here's the thing, copying, with or without attribution, is copyright infringement if the copyright holder did not give permission for their work to be copied.
+
+The primary difference is that with plagiarism there's an additional 'victim' at play: the mislead 'consumers' of the plagiarised work. There are cases where one may plagiarise someone without infringing their copyrights, but these really aren't especially applicable in this context.
+
+I guess that raises an interesting point. If AO3 is more strict in its actions against plagiarism (considering that their interpretation of fair use probably makes it extremely difficult to plagiarise a work without infringing copyright) than it is when dealing with copyright issues, it says something about how they value authors and readers.
+
+It is almost as if AO3 holds the position that readers are worthy of protection, but authors must fend for themselves.
+:PROPERTIES:
+:Author: SteelbadgerMk2
+:Score: 15
+:DateUnix: 1619610577.0
+:DateShort: 2021-Apr-28
+:END:
+
+******* No, it's a matter of the burden of proof. If Ao3 would just let anyone claim something is an unauthorised repost, that would be valuing the readers - or third parties - more than the authors, who might have to defend their work being theirs from anyone harassing them with the report button. It just makes sense that the burden of proof is different in the case of reposting.
+:PROPERTIES:
+:Author: Starfox5
+:Score: -8
+:DateUnix: 1619611348.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+**** Are you talking about the accounts of plagiarists that take on the identity of another author to repost their fic? There are a few fanfic writers that found out that somebody stole all of their fic and reposted them to platforms that they don't have accounts on, and the punishment is still the same. The thief is still called out and removed.
+:PROPERTIES:
+:Author: TiffWaffles
+:Score: 2
+:DateUnix: 1619640053.0
+:DateShort: 2021-Apr-29
+:END:
+
+***** No, I'm talking about someone, without asking the original author, demands that a repost of their work is taken down. Like, imagine you have a house with a lawn, and your neighbours kids are playing there one day, and someone else comes and, without asking you whether or not you mind them playing there, tells them to get off /your/ lawn or else.
+
+If someone reposts a story and credits the original author, then one should check with the original author if they mind that before demanding that a story is taken down. Because no matter what people say about moral and not, only the original author has the right to demand that the work is taken down. Anyone who, without asking, steps in and demands that in their name is usurping a right they don't have.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 5
+:DateUnix: 1619643051.0
+:DateShort: 2021-Apr-29
+:END:
+
+****** Most authors who give away their fics to another writer would make a note of it so that their fans could go to the other author in question. Most of the time, if the author doesn't have that acknowledgement on their profile or on the fic in question, it was plagiarised and posted under another account without the original author's knowledge or consent.
+
+Also, many reposts of fic come from plagiarists that for whatever reason want to give the fic attention or to 'finish the fic' for the author who is no longer active. That is still plagiarism.
+:PROPERTIES:
+:Author: TiffWaffles
+:Score: 2
+:DateUnix: 1619652779.0
+:DateShort: 2021-Apr-29
+:END:
+
+******* No, plagiarism is taking someone's work and passing it off as your own. Reposting without authorisation isn't plagiarism.
+
+Which is the whole thing wrong with this thread: The OP is complaining about reposting without authorisation but keeps calling it plagiarism despite everything - dictionary, law - saying the contrary.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 5
+:DateUnix: 1619672121.0
+:DateShort: 2021-Apr-29
+:END:
+
+******** It's plagiarism. It's literally copy and paste, but to a different site and is under somebody else's account. As somebody who had somebody plagiarise my stories and 'repost them' to different sites, it's still considered plagiarism. It's still considered wrong. It is still considered an insult. And it still makes me angry to think about.
+:PROPERTIES:
+:Author: TiffWaffles
+:Score: 1
+:DateUnix: 1619673849.0
+:DateShort: 2021-Apr-29
+:END:
+
+********* It's not /plagiarism/ if they don't pass it off as their work. That doesn't mean it's right.
+
+But /piracy/ isn't /plagiarism/. Those words have meanings, and how you use [[https://en.wikipedia.org/wiki/Plagiarism][plagiarism]] isn't correct.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 5
+:DateUnix: 1619674277.0
+:DateShort: 2021-Apr-29
+:END:
+
+********** It's still theft. It's still plagiarism. I am not going to continue arguing with you about this subject. I've tried my best in educating you on the harm that 'reposting' fic does to the original author, but you're daft and continuously sweep everything that I say under the rug like it doesn't matter.
+
+You go to any site that writers participate on, and their definition of plagiarism is very similar to mine.
+:PROPERTIES:
+:Author: TiffWaffles
+:Score: 1
+:DateUnix: 1619756832.0
+:DateShort: 2021-Apr-30
+:END:
+
+*********** Words have meanings. Learn them.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 2
+:DateUnix: 1619760552.0
+:DateShort: 2021-Apr-30
+:END:
+
+
+** u/Aardwarkthe2nd:
+#+begin_quote
+  In order to investigate a claim of unauthorized reposting, we require at least two of the following: proof that the user did not ask for or receive permission, proof that the original creator has previously stated that they do not give permission for anyone to reproduce or redistribute their work, and an accessible link to, or copy of, the original source.
+#+end_quote
+
+So basically AO3 wants the author himself to complain against plagiarism/ reposting, huh.
+:PROPERTIES:
+:Author: Aardwarkthe2nd
+:Score: 17
+:DateUnix: 1619597324.0
+:DateShort: 2021-Apr-28
+:END:
+
+*** I think this is to make sure that somebody isn't revenge reporting plagiarism. A lot of people crosspost their fic to other platforms, and there are some people that for whatever reason don't like the author, so a lot of the time they will report the fic to the mods.
+
+This sort of rule is also on Wattpad and I think FFN implemented this policy as well.
+
+The original author is able to do the takedown order and is able to then present further evidence that they are victims of plagiarism when the mods reach out to them. However, this is bad news for fanfic authors that are no longer active on their platforms. On Wattpad there is a plagiarist that uses this fact to their advantage and will post fanfic from these inactive writers because they know that the site won't do anything.
+
+Mind you, Wattpad is notoriously bad for even doing anything when the writers themselves reach out to get the plagiarised copies of their work removed. One writer found out her story was plagiarised back in 2018 and the story is still posted there under the plagiarist's account who bailed the moment they found out that the original author was on the warpath.
+:PROPERTIES:
+:Author: TiffWaffles
+:Score: 10
+:DateUnix: 1619640406.0
+:DateShort: 2021-Apr-29
+:END:
+
+
+*** I reported a repost and gave links and info to AO3. It took like 3 months but they took the reposted work down.
+
+I was also not the author. The author had only posted their work on ff.net and then deleted it. It was part of a small fandom so it felt weird no one else had reported it! I think they just take time to make sure they're doing the right thing.
+:PROPERTIES:
+:Author: pattyspack
+:Score: 6
+:DateUnix: 1619627349.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+*** No, Ao3 wants the author themselves to complain about /reposting/. Plagiarism is the practice of taking someone else's work or ideas and passing them off as one's own, which isn't the same as reposting someone's work and clearly giving credit to the author.
+
+Two different things.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 6
+:DateUnix: 1619600252.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+*** I see your point but the counterpoint to that is that it's exactly the sort of attitude and lack of basic morality that allows Ao3 to continue letting people post MLPxHP fics where Snape anally violates anything that moves.
+
+Absolute heathens.
+:PROPERTIES:
+:Author: Nitares
+:Score: -15
+:DateUnix: 1619597983.0
+:DateShort: 2021-Apr-28
+:END:
+
+**** u/daniboyi:
+#+begin_quote
+  lack of basic morality that allows Ao3 to continue letting people post MLPxHP fics where Snape anally violates anything that moves.
+#+end_quote
+
+that is literally why Ao3 got popular. Its most basic purpose is literally to be there to have a website to post porn since ffnet does not allow it anymore.
+:PROPERTIES:
+:Author: daniboyi
+:Score: 11
+:DateUnix: 1619599981.0
+:DateShort: 2021-Apr-28
+:END:
+
+***** And what a good job of suppressing porn it does!
+:PROPERTIES:
+:Author: White_fri2z
+:Score: 0
+:DateUnix: 1619601870.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+**** It has nothing to with with morality or lack thereof that disgusting fics are allowed on AO3. Their whole thing is that they don't censor, so any fic, no matter how morally reprehensible, is allowed on AO3, and they provide a clear warning in the ToS.
+:PROPERTIES:
+:Author: Abie775
+:Score: 3
+:DateUnix: 1619607255.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+**** I mean, AO3 is still letting the plagiarism/ reposts continue until author complains. That's still bad.
+
+And yeah, AO3 is a lot more free with slash and xxx stuff.
+:PROPERTIES:
+:Author: Aardwarkthe2nd
+:Score: -2
+:DateUnix: 1619598420.0
+:DateShort: 2021-Apr-28
+:END:
+
+***** Again, it's not plagiarism. It's reposting.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 5
+:DateUnix: 1619600272.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+** So whilst The Santi is trending again, anyone got a good link for The Vampires Kiss? Can only find one working link with all nine chapters and it's in Spanish? I need English please.
+:PROPERTIES:
+:Author: DamianBill
+:Score: 5
+:DateUnix: 1619634956.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+** I suspect the author can file a DMCA Takedown Request and force AO3 to remove it regardless of AO3's policy. The author has that right even if they don't live in the US, since AO3 is hosted within the US (I think).
+:PROPERTIES:
+:Author: Sarifel
+:Score: 13
+:DateUnix: 1619594489.0
+:DateShort: 2021-Apr-28
+:END:
+
+*** Sadly The Santi is no longer with us.
+
+By which I don't mean he is dead - he went to law school.
+:PROPERTIES:
+:Author: Taure
+:Score: 30
+:DateUnix: 1619594999.0
+:DateShort: 2021-Apr-28
+:END:
+
+**** A fate worse than death, surely.
+:PROPERTIES:
+:Author: White_fri2z
+:Score: 42
+:DateUnix: 1619601767.0
+:DateShort: 2021-Apr-28
+:END:
+
+***** I mean being expelled would be a fate worse than death, but I'm not sure about law school itself.
+:PROPERTIES:
+:Author: Sarifel
+:Score: 8
+:DateUnix: 1619640192.0
+:DateShort: 2021-Apr-29
+:END:
+
+
+**** I believe I read their Harry Potter vampire work, was amazing, wish it had been finished.
+:PROPERTIES:
+:Author: DamianBill
+:Score: 2
+:DateUnix: 1619634275.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+**** Then who cares? This whole thread is the fanfiction equivalent of calling the manager and being upset no one's interested.
+
+It's not your story, the author isn't concerned. Somehow, the world continues to turn.
+:PROPERTIES:
+:Author: GDenthusiast
+:Score: -7
+:DateUnix: 1619616174.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+** It's not plagiarism, but it is ethically wrong.
+
+That said, many sites will not remove uploaded works that are posted without the creator's permission unless the creator themselves complains. Ao3 is not the only site that has this policy.
+
+It's disrespectful to the original creator, but it isn't illegal and Ao3 has no legal requirement to do anything unless contacted by the creator or someone designated by the creator to speak for them (such as a lawyer).
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 16
+:DateUnix: 1619608299.0
+:DateShort: 2021-Apr-28
+:END:
+
+*** u/caeciliusinhorto:
+#+begin_quote
+  That said, many sites will not remove uploaded works that are posted without the creator's permission unless the creator themselves complains. Ao3 is not the only site that has this policy.
+#+end_quote
+
+Including other fanfiction websites. FFN's policy on copyright infringement requires you to be the copyright holder in order to request a takedown, for instance. Their first requirement for filing a copyright complaint is that you:
+
+#+begin_quote
+  Include a statement telling us that you have found a content on FanFiction.Net which you believe infringes your copyright (for example, "I hereby confirm that I believe the story identified below infringes my copyright").
+#+end_quote
+:PROPERTIES:
+:Author: caeciliusinhorto
+:Score: 8
+:DateUnix: 1619616235.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+** Yeah, the policy of AO3 sucks. But the alternative where authors have to prove "ownership" every time someone spams the report button is worse. There are far more legitimate works on AO3 than copies.
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 18
+:DateUnix: 1619605280.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+** I think you are misrepresenting what has happened. While I am not involved of the forum in question and no nothing about the individuals, looking at the stories in question this is reposting not plagerism. Firstly BadWolfe placed a clear disclaimer on the front owning up to this not being their own work and crediting the actual author. Secondly, the original story seemed to be on fanfiction.net only and not on AO3, so it is not directly competing with the author's account, but making it available on a different site in addition. Finally, going by the update date, the original seems to be dead, unless you happen to know if The Santi is active behind the scenes. This is more morally dubious, but I feel that there is a general principle on the internet as a whole that if you have clearly abandoned a project then it is fine for someone else to volunteer to maintain it in your place. Also I feel that proactively getting permission from the original owner can be an unreasonable requirement if it may be impossible to actually contact them if they are no longer involved in the community.
+:PROPERTIES:
+:Author: greatandmodest
+:Score: 18
+:DateUnix: 1619603068.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+** So what do you want AO3 to do? You want them to instantly take down any fic that anyone claims is plagiarized, without any proof? There'd be chaos, with random people accusing fics they don't like of “plagiarism” just to get them taken down.
+:PROPERTIES:
+:Author: MTheLoud
+:Score: 19
+:DateUnix: 1619614593.0
+:DateShort: 2021-Apr-28
+:END:
+
+*** Your predictions of chaos are not borne out by the fact that every other site operates that policy without chaos. All it takes is a bit of basic common sense.
+
+1. Send report: "This fic on your site is a copy of this fic posted on another site."
+
+2. Admin reads the report, looks at the two fics, and if the one on their site is indeed a copy with a later posting date, removes it.
+
+3. In the exceedingly rare case that it is the same author, that author can message the admins on being notified that their fic has been deleted to say "actually that was my fic" and the fic is reinstated.
+:PROPERTIES:
+:Author: Taure
+:Score: 1
+:DateUnix: 1619614949.0
+:DateShort: 2021-Apr-28
+:END:
+
+**** Lots of authors cross-post. You're basically asking AO3 to have a policy again cross-posting except by special exemption. There's no reason for that.
+
+Edited to add: and you're forgetting that one of the reasons ffn sucks is that people do make baseless accusations against fics there, and ffn takes them down without giving the authors a chance to defend them, just like you're asking AO3 to do. There are organized mobs making baseless accusations against stories just because they're a ship they don't like or whatever.
+:PROPERTIES:
+:Author: MTheLoud
+:Score: 19
+:DateUnix: 1619615104.0
+:DateShort: 2021-Apr-28
+:END:
+
+***** The vast vast majority of cross-posted fics would never be reported because it would be apparent that they are cross-posted by the original author. This is how the fandom worked for years without any problems at all before AO3 came along.
+
+Edit: just realised this entire discussion (including all the exchanges below) was a pointless tangent. We're talking about removal of copied works that give credit to the original author. The very act of giving credit unambiguously signals that the poster is not the author and therefore doesn't have the right to post it. So there is no practical problem with identifying which fics to remove.
+
+The practical issues you are talking about only really come up with people taking other people's fics /without/ giving credit. But even the posters in this thread who support taking other people's works without permission seem to hold the view that sites should remove those works that do not give credit.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1619615329.0
+:DateShort: 2021-Apr-28
+:END:
+
+****** What do you mean by “apparent”? What if someone has different user names on different sites?
+
+Edited to add again: and it's not like having the same user name is proof that it's the same author, of course. That's why it's up to the authors to point out plagiarism of their own work, not random readers with delusions of heroism.
+:PROPERTIES:
+:Author: MTheLoud
+:Score: 12
+:DateUnix: 1619615420.0
+:DateShort: 2021-Apr-28
+:END:
+
+******* [removed]
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1619615652.0
+:DateShort: 2021-Apr-28
+:END:
+
+******** I'm not going to accuse you of deliberate stupidity, since it's probably not deliberate, but “the same name” as proof it's the same person? Seriously? You probably think every handbag labeled “Gucci” is genuine Gucci.
+
+And as I said, it's really common to cross-post, and there's no reason the stories would be posted at the same time. Lots of people posted on ffn first and AO3 later.
+
+And sheesh, you're requiring writers to interact with commenters as “proof” that they are who they say they are? First, that's not proof, and second, why should writers have to do that? They don't owe commenters replies.
+:PROPERTIES:
+:Author: MTheLoud
+:Score: 18
+:DateUnix: 1619616032.0
+:DateShort: 2021-Apr-28
+:END:
+
+********* These are all very easy problems to resolve by the exercise of sensible judgement - the "common sense" I referred to. I am not setting out an algorithm or strict requirements of proof and have repeatedly said as much.
+
+My position is not "authors must interact with readers to prove who they are". That was simply an example of one possible factor amidst the host of factors within the factual matrix that a decision maker would take into account when making their decision.
+
+There is no need to set out a kind of recipe for how to prove you are an author when a human will be making a judgement with a view to all the circumstances in accordance with their common sense. Particularly where those circumstances include messages exchanged with the user in question, who (in the rare event that the account is in fact genuine and not a plagiarist) can respond to concerns with perfectly reasonable, common sense explanations such as "yes, that account is mine, here, look, I just edited the profile to say that the two accounts are the same person".
+:PROPERTIES:
+:Author: Taure
+:Score: 1
+:DateUnix: 1619617073.0
+:DateShort: 2021-Apr-28
+:END:
+
+********** You're demonstrating your lack of common sense in this discussion, so you're putting too much trust in “common sense” here.
+
+AO3's policy is common sense. Authors defend their own writing. Your idea that random internet sleuths can fight plagiarism by looking for clues like different user names is not common sense.
+:PROPERTIES:
+:Author: MTheLoud
+:Score: 15
+:DateUnix: 1619618094.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+********** The common sense approach is: If an author is bothered by a repost, they can inform the site. That's easy and quick.
+
+The "a third party wants a repost gone, but doesn't want to or can't contact the original author" is a really rare case. To alter the rules merely to accommodate a few people who want to act in someone's name feels rather against common sense. If you can dismiss the possibility of abuse of your proposed rule so easily, then dismissing your case here as one of a kind is even easier.
+
+Normally, someone tells the author about this, and they decide how to react, case closed.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 17
+:DateUnix: 1619618408.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+**** That is not remotely true.
+
+Many, many sites, including reddit, FFnet, imgur, pinterest, etc have absolutely no rules against reposts. In fact, reddit and imgur would probably die off if people couldn't upload content they found elsewhere. It's considered good manners to credit the original creator, but that's not enforced by the administrators of those sites.
+
+What you are referring to is not an act of plagiarism, but of reposting. The two things are not the same.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 14
+:DateUnix: 1619618610.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+**** Well, the reality of how many sites handle DMCA take-down claims suggests Step 2 is not guaranteed.
+:PROPERTIES:
+:Author: RealLifeH_sapiens
+:Score: 4
+:DateUnix: 1619622057.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+** I used to run a HP fanfiction site where I would repost stories by different authors, that were posted at other sites or private message boards. My own personal rule though, was that I would never post a story without permission. If I found stories I wanted to add to my site, I would attempt to reach out to the author as ask for permission. For the most part, as I was asking permission, they were more than willing to allow it. There was one instance of an author not responding to my request, so I did not repost that authors stories. To me, it is only courteous to obtain permission, and not do it without first getting that permission.
+:PROPERTIES:
+:Author: Total2Blue
+:Score: 6
+:DateUnix: 1619608520.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+** /Reproducing the content of the post here as the [[/r/fanfiction][r/fanfiction]] mods are apparently very protective of AO3.../
+
+There is a story in the Harry Potter fandom called [[https://www.fanfiction.net/s/5353809/1/Harry-Potter-and-the-Boy-Who-Lived][Harry Potter and the Boy Who Lived]], written by The Santi. With 12,000 favourites, it's pretty well known.
+
+The Santi was also a member of the DarkLordPotter forums (DLP). Those forums have a private subforum called "Work by Author" (or "WBA") where authors can share their draft works with beta readers for comments and revisions prior to public publication.
+
+In addition to the 12 chapters which The Santi published publicly on FF.Net, there were an additional [[https://forums.darklordpotter.net/threads/harry-potter-and-the-boy-who-lived.17021/][6 chapters]] posted in draft, incomplete form in the private WBA subforum on DLP.
+
+An unscrupulous individual going by the nick "BadWolfe" has [[https://archiveofourown.org/works/21393430/chapters/50965216][reposted]] The Santi's fic on AO3. Worse, they have taken the private, draft chapters from DLP and published them publicly, even though The Santi intended to make further revisions to them before posting and had deliberately not added them to the publicly-accessible FF.Net version of the story.
+
+A number of people reported this plagiarism to AO3. This is their response:
+
+[[https://i.imgur.com/8os97FQ.png]]
+
+The key section:
+
+#+begin_quote
+  In order to investigate a claim of unauthorized reposting, we require at least two of the following: proof that the user did not ask for or receive permission, proof that the original creator has previously stated that they do not give permission for anyone to reproduce or redistribute their work, and an accessible link to, or copy of, the original source.
+#+end_quote
+
+This is a horrible and frankly immoral policy which cannot possibly be justified. AO3 apparently operates on an assumption that all authors /consent/ to the plagiarism of their work unless they have explicitly said "no".
+
+That's not how consent works.
+
+Where someone has posted another person's work, the obvious assumption must be that (i) it is not their work, so they have no right to post it, and (ii) they do not have permission unless they can show that permission was obtained. In cases of apparent plagiarism, deletion must be the default, with the plagiarist only getting a reprieve if they can show that the original author consented.
+
+The idea that it is the responsibility of the reporting party to prove a negative - prove that permission was not given - is absurd. Lack of permission for other people to take your work is implied. It is especially implied when you have only ever posted that work to a private, members-only forum inaccessible to the public.
+
+AO3's policy in this area is completely shameful.
+:PROPERTIES:
+:Author: Taure
+:Score: 19
+:DateUnix: 1619596094.0
+:DateShort: 2021-Apr-28
+:END:
+
+*** I agree. This isn't 2012, and fanfiction, particularly more prominent fanfic like this, is real property. DLP is one thing because though its member-locked anyone can sign up for an account so its still in another sense 'public,' but that's only the smallest of problems that can result from this sort of policy.
+
+Imagine for a moment you are an author who is literally paying the bills by offering early access to chapters that will later be publicly posted. This is a classic way to build revenue for yourself by leveraging your fanfiction writing.
+
+By stealing that work ahead of time, such a poster is devaluing the product offered by the writer, and potentially depriving them of revenue. And that's /if/ they credit the original author, which they may not actually do, Ao3's policy doesn't seem to preclude it.
+
+And sure, you might say that this is (ethically) no different from pirating an anime, but I think that loses sight of the fact that:
+
+- the 'victim' here would an independent author who's making very little (or potentially no) money here, not some mega-corp that will actually benefit from 'the exposure.'
+- The IP is only being gated for a week or two at most
+- Ao3 isn't a piracy site.
+
+and I'm sure this is where tons of people will jump in to tell me that transformative writers don't deserve to get paid because they're stealing IP themselves which.... gosh, I really just don't have time for that argument. Writing transformative fanfiction of someone else's IP is not the same thing as literally conducting espionage to steal and redistribute someone's work /without their consent/ .
+
+But if I've lost you because I'm talking about piracy and copyright and all that shit, consider this alternate thought: What if the author decided that they /never wanted/ that beta chapter to be published? Not now, not ever. What if they included a thoughtless line that promoted rape culture, or had a character make a comment that came across as racist or sexist in a way they didn't like? What if they used a word without realizing it was a slur? (See: any american trying to write about european traveling communities) In a private beta forum like DLP, people understand that its beta work and will be gentle about offering correction. It's entirely conceivable that an author might decide to scrap a project entirely, realizing that the premise itself is unworkable.
+
+But if someone circumvents that process, steals the work, posts it without permission and then credits that author /without their consent/ that author will forever have their tag associated with things that they did not want to be associated with. Authors should have a right to publish their works when they want, and to have their works /not be published when they do not want./ This is super basic stuff.
+
+Gosh, I could list examples, but I fear that would just get me too much in the weeds. Suffice to say that 'giving credit' does not allow you to steal someone's work. Good Grief.
+:PROPERTIES:
+:Author: strangebloke1
+:Score: 3
+:DateUnix: 1619743418.0
+:DateShort: 2021-Apr-30
+:END:
+
+**** No, giving credit does not let you post a work. But it means it is not plagiarism.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 2
+:DateUnix: 1619760806.0
+:DateShort: 2021-Apr-30
+:END:
+
+***** I envy your confidence. You persist even when you've been proven wrong!
+:PROPERTIES:
+:Author: strangebloke1
+:Score: 3
+:DateUnix: 1619790814.0
+:DateShort: 2021-Apr-30
+:END:
+
+****** Did you ever try to look up the definition of "plagiarism"? Please do it. Check for yourself. Look it up in a dictionary. Read Wiki.
+
+Don't just mindlessly repeat lies.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 4
+:DateUnix: 1619809408.0
+:DateShort: 2021-Apr-30
+:END:
+
+
+*** Er, no. I'm very much sympathetic to your concerns, and I'm a moderator at [[/r/FanFiction][r/FanFiction]] . The post wasn't removed because we're protective of AO3 at that subreddit. I for one don't condone this policy over at AO3. The reasons were:
+
+#+begin_quote
+  It's not allowed to post links to fictions on the main of the sub. We also don't allow pointing out fingers to concrete fictions, attacking them.
+#+end_quote
+
+My guess is that if the links were removed and the example were made more general over there, it would be reinstated. IOW, it's a subreddit policy issue.
+
+BTW, I did not make this decision specifically, nor was I involved with it. I just woke up and saw it in the deleted queue.
+
+There's also an [[/r/AO3][r/AO3]] subreddit where this could perhaps be reposted in some form.
+:PROPERTIES:
+:Author: Bolt_DMC
+:Score: 22
+:DateUnix: 1619608086.0
+:DateShort: 2021-Apr-28
+:END:
+
+**** Seems like linking to the offending fanfic would also direct a good bit of hate towards the one that posted it - which I can understand subreddit rules being against.
+:PROPERTIES:
+:Author: matgopack
+:Score: 11
+:DateUnix: 1619613863.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+*** Plagiarism is the practice of taking someone else's work or ideas /and passing them off as one's own/. Reposting a work and clearly crediting the author isn't plagiarism.
+
+So, this isn't about plagiarism, but reposting. And the policy for reposting is absolutely fine - it would be far worse if anyone could have a reposted work taken down without having the author's leave to do so since only the author should have a say about where his work is being posted.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 22
+:DateUnix: 1619600189.0
+:DateShort: 2021-Apr-28
+:END:
+
+**** Within the fanfiction community, posting another person's work on your own account has historically been called plagiarism. I acknowledge that AO3 does not define it that way. But quibbling over definitions is pure semantics.
+
+The point of substance is that posting another person's work /with credit/ and posting another person's work /without credit/ share the common core characteristic of /taking another person's work/, a characteristic which makes both morally wrong, and of a similar enough nature that the rules for how they are dealt with should be the same. Doing it without credit just adds an additional aggravating factor.
+
+If you want to cling to a semantic point that they should be called something different, then I'm not going to die on that hill.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1619608724.0
+:DateShort: 2021-Apr-28
+:END:
+
+***** I disagree that they - plagiarism and piracy - are similar enough to be treated the same. If they were, the law wouldn't treat them differently.
+
+That both are morally wrong isn't in question.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 11
+:DateUnix: 1619610495.0
+:DateShort: 2021-Apr-28
+:END:
+
+****** As a matter of fact, plagiarism and piracy *are* treated the same at law. Which is to say, both are infringements of the author's copyright.
+
+Piracy is an infringement of the author's right to commercially exploit their work. Plagiarism is an infringement of that right, plus the right to be recognised as the author of the work. Both rights are aspects of the author holding copyright in the work, though it is possible to separate the two out if the author sells one but not the other.
+
+But I say this merely as a point of interest, as I don't think copyright law has much to do with what AO3's terms of service should be.
+:PROPERTIES:
+:Author: Taure
+:Score: 7
+:DateUnix: 1619613221.0
+:DateShort: 2021-Apr-28
+:END:
+
+******* How they are /enforced/ is different. You don't need to have the original author make a claim to deal with plagiarism. And that's the crucial difference here as well.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 4
+:DateUnix: 1619613334.0
+:DateShort: 2021-Apr-28
+:END:
+
+******** Not correct. Legal proceedings commenced in respect of plagiarism would take exactly the same form as an enforcement action for piracy. The rights holder would have to commence legal proceedings alleging breach of their intellectual property rights.
+
+As a matter of policy, many entities will self police their websites to avoid such actions. AO3 is almost unique in not being willing to self-police people posting other people's work.
+:PROPERTIES:
+:Author: Taure
+:Score: 12
+:DateUnix: 1619613623.0
+:DateShort: 2021-Apr-28
+:END:
+
+********* Actually, no - plagiarism is acted upon, such as in the case of say a Master's thesis, if it's reported by anyone. You don't need to be the original author to report plagiarism. That's how a number of German politicians lost their PhD.
+
+Ao3 does self-policing. And where /plagiarism/ is concerned, the original author's input isn't required at all. Please stop mixing that up.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 3
+:DateUnix: 1619617796.0
+:DateShort: 2021-Apr-28
+:END:
+
+********** The only mix up here is your mixing up your arguments. Let's set out how the argument has progressed:
+
+1. Me: Taking someone else's work with credit and without credit are both still taking someone else's work and should be dealt with accordingly: neither should be tolerated.
+
+2. You: Taking someone else's work with credit and without credit should be treated differently because the law treats them differently.
+
+3. Me: Actually the law treats them the same.
+
+4. You: They should be treated differently because they are enforced differently.
+
+5. Me: They are enforced the same at law.
+
+6. You: They are enforced differently by AO3.
+
+So it now seems like you have completely abandoned your argument that taking someone's work with and without credit should be treated differently because they are legally different.
+
+Instead, your position now appears to be that they should be treated differently because AO3 treats them differently.
+
+In short, you are justifying AO3's policy with the argument "it's AO3's policy".
+
+Responding to a "should" with an "is" fails as an argument, however. The question is: what /should/ AO3's policy be? And it seems you've run out of arguments for why AO3 should treat two forms of taking someone else's work differently, with one requiring the author to complain but the other AO3 enforcing of its own volition.
+
+The very fact that AO3 (and universities) are perfectly capable of practically enforcing a self-policing policy against taking other people's work /without credit/ shows that it's perfectly possible to enact a self-policing policy against taking other people's work /with credit/. The only difference between the two in practical terms is if the work contains an extra sentence "By the way this isn't mine."
+
+Indeed, arguably it's significantly easier to practically enforce a rule against taking other people's work with credit, because by giving credit, the work will always flag up that the person posting it doesn't have the right to do so, by their own admission.
+:PROPERTIES:
+:Author: Taure
+:Score: 7
+:DateUnix: 1619626767.0
+:DateShort: 2021-Apr-28
+:END:
+
+*********** Ao3 is perfectly fine to treat two different things differently. As I posted, there is a difference between plagiarism and copyright violation. No matter how long you ignore that, it doesn't change that there is a difference.
+
+One of them can be handled without proving that you're speaking for the original author. Because, as I keep saying, you need the authorisation of the original author to go against reposting because only they can decide that something should be taken down. That's their decision, not anyone else's.
+
+That you don't want to accept that, that you want Ao3 to let anyone enforce copyright, without proving that they are speaking for the author in question, doesn't make that stance OK, right or sensible.
+
+Could Ao3 allow anyone to take down a repsoted work? They could. Would it be a good idea? Absolutely not.
+
+I don't exactly understand why you are so obsessed with taking down a reposted work without the consent of the author of the work. If an author cannot be bothered to act, then why should someone else have the power to act for them without any authorisation given? That's nonsensical.
+
+And yes, "by the way, this isn't mine, it's X's work" is the only difference - and it makes all the difference. That you don't seem to understand that is very, very weird.
+
+Now, why do you think you should be able to speak for an author without having proof that you are authorised to do so? Why do you feel you should have the right to represent someone without them authorising you to do so? When you can't even contact the author?
+
+That's not how things work. Why should that be how things work here? As long as credit is given, it's not plagiarism, and if it's just reposting, it's none of your business at all, but just the author's.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 0
+:DateUnix: 1619630460.0
+:DateShort: 2021-Apr-28
+:END:
+
+************ This is a completely unnatural and wrong-headed position.
+
+The starting point is that no author consents to unauthorised copies of their works being posted - with or without credit. This is a simple extension of two basic, general moral principles:
+
+1. People are assumed not to consent to wrongdoing against them.
+
+2. Consent must be given and cannot be assumed.
+
+The simple truth of these basic principles can be demonstrated by considering other forms of wrongdoing. Should you assume that people consent to assault, or should you intervene to protect them on the assumption they don't consent? Should you assume that people consent to being defrauded, or should you intervene to prevent dishonest business practices?
+
+As a general moral rule, you assume that people do not consent to having their rights encroached upon, and you are justified in intervening without explicit authorisation.
+
+It is completely arbitrary to say, as you do, that:
+
+1. We assume authors do not consent to people taking their works without credit;
+
+2. We assume authors do consent to people taking their works with credit.
+
+What possible basis is there for treating the two as complete opposites? There is none - neither rational, nor moral.
+
+Your arguments fail to disclose any real basis for this distinction.
+
+You rely on the idea that only copyright holders can enforce copyright. This is a bad argument on many levels.
+
+- Firstly, we're not talking about enforcement of copyright, we're talking about the AO3 terms of service, the rules of the community that AO3 choose to implement. As stated elsewhere, those rules can be anything they want, but to be good rules they should reflect good moral standards.
+
+- Secondly, even if it was a good argument, it would equally apply to the takedown of copied works which do not give credit. At law, to oblige someone to take down a work which is copied without credit, the action would have to be brought in the name of the copyright holder. The only reason why universities and websites take down copied works without credit is because they voluntarily self police. And they are perfectly capable of equally self-policing the copying of works with credit.
+
+Then you rely on the idea that people must not act to protect an author's rights unless that author has explicitly given them permission to do so or commenced the process themselves.
+
+But again, this displays an inconsistency in your position. Because if people protecting the rights of authors could only do so with the author's explicit authorisation, then websites also could not take down copied works without credit unless the author kicked up a fuss. And yet by your own admission they rightly do not require an author's explicit permission to do so. There is in fact no general moral or rational principle that sites must not act to protect people's rights unless the victim themselves initiates a complaint.
+
+Finally, you state that an author's absence justifies the idea that no one should protect them. This is clearly a morally bankrupt principle. If I had something in a deposit box and someone took it, but because I didn't check the deposit box I didn't realise it was taken so didn't kick up a fuss, would that render the theft morally acceptable? Of course not.
+
+"Someone has to kick up a fuss first before immoral act becomes immoral" is an indefensible moral standpoint. The fact that the author isn't around to complain doesn't mean it's okay to take their work.
+
+Finally, you query why I care so much. This should be obvious:
+
+1. I am an author so I care about other authors having their work taken, and I care doubly when no one seems to give a shit about the casual wrongdoing playing out in front of them.
+
+2. I am a member of the private community from which the work in question was taken.
+
+3. There are very good reasons for society to create the social construct of protecting the works of creative individuals, because most creators would not create if they could not control the distribution of their creation.
+
+4. Beyond that, there are additional good reasons for insular, close knit, collaborative communities like the fanfic community, of which I am a member, to have common standards of solidarity which hold people to a higher standard than their bare legal obligations. And one of those standards is don't nick other people's shit.
+
+5. As a moral individual, I have an interest in preventing immorality.
+:PROPERTIES:
+:Author: Taure
+:Score: 10
+:DateUnix: 1619631907.0
+:DateShort: 2021-Apr-28
+:END:
+
+************* You really don't get the difference between plagiarism and reposting without authorisation. There is a difference, and it's why those things are treated differently.
+
+Morally, it's not OK to claim you're representing someone without their authorisation. If someone's playing on your neighbour's lawn, you don't get to send them away unless the neighbour told you you could do it. Whether you assume they want their lawn free of others or not doesn't matter: You don't get to assume that you speak for someone. That should be very, very clear. Outside very rare cases, you aren't protecting anyone's right by assuming to speak for them without their authorisation - you are violating their rights.
+
+Also, the idea that reposting a fanfiction story is in any way, shape or form equal to stealing is ridiculous. You can't make money off fanfiction, so there's no monetary interest. That means, it's not obvious, nor can you assume so, that an author is opposed to their work being spread as long as they are credited.
+
+Really, your case is a very, very rare situation. The arrogance to assume everyone has to follow your views is striking - as if you speak for every author, and as if every author would be fine with people speaking for them without being asked. Not everyone minds a repost as long as they are being credited.
+
+So, no, the idea that Ao3 should change their rules and allow everyone to take down reposts without checking with the original author is wrong and stupid. Ao3 shouldn't cater to a very small group and screw over everyone else.
+
+And, again: the idea that you can just act in someone's name without authorisation is not moral nor common sense. It's actually barely better than taking someone's work without asking and reposting it.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 1
+:DateUnix: 1619642729.0
+:DateShort: 2021-Apr-29
+:END:
+
+
+******* u/caeciliusinhorto:
+#+begin_quote
+  As a matter of fact, plagiarism and piracy are treated the same at law. Which is to say, both are infringements of the author's copyright.
+#+end_quote
+
+Nope. Piracy is copyright infringement. Plagiarism is not inherently. The law does not care about plagiarism. The fact that much plagiarism is /also/ copyright infringement doesn't change that in the slightest. You can plagiarize Shakespeare to your heart's content without ever having to worry about legal consequences.
+:PROPERTIES:
+:Author: caeciliusinhorto
+:Score: -3
+:DateUnix: 1619616009.0
+:DateShort: 2021-Apr-28
+:END:
+
+******** Incorrect.
+
+Plagiarism is indeed copyright infringement. An aspect of copyright is what is called the author's "moral rights". That is the author's right to be recognised as the author. If you look inside any book you will see a statement that the author's moral rights are reserved. When an author sells a work to a publisher, what they are doing is splitting out the copyright so that the publisher gets the commercial rights and the author keeps the moral rights.
+
+Both commercial rights and moral rights can be enforced by civil suit.
+
+There are two reasons you can plagiarise Shakespeare to your heart's content. Firstly, the work has entered the public domain so there is no commercial rights remaining to be enforced. Secondly, the author is no longer alive to enforce their moral rights.
+:PROPERTIES:
+:Author: Taure
+:Score: 11
+:DateUnix: 1619616706.0
+:DateShort: 2021-Apr-28
+:END:
+
+********* u/caeciliusinhorto:
+#+begin_quote
+  Secondly, the author is no longer alive to enforce their moral rights.
+#+end_quote
+
+Eh, if the moral rights were still enforceable Shakespeare's estate (assuming that you could trace it) would be able to enforce it. But they are not, because moral rights (at least in some jurisdictions) expire. So in the UK, Shakespeare's hypothetical estate has neither economic nor moral rights over Shakespeare's expired copyright, and yet copying his work without proper attribution is /still plagiarism/. I'm not based in the US, but as I understand it American law cares even less about moral rights than British law.
+:PROPERTIES:
+:Author: caeciliusinhorto
+:Score: -2
+:DateUnix: 1619620036.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+*** Thanks for the link, those extra hidden chapters were always annoying to track down. I like to save .mobis of stories that I'm worried might someday get deleted from the internet and never come back.
+:PROPERTIES:
+:Author: Gullible-Ad-2082
+:Score: 6
+:DateUnix: 1619602517.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+*** I'm not seeing what's immoral about it. Author wasn't exploiting it commercially on FFN/DLP, so they lose nothing from it being on AO3. Non-commercial release should be instant public domain. Term on copyright's already way too long.
+:PROPERTIES:
+:Author: RealLifeH_sapiens
+:Score: 7
+:DateUnix: 1619622518.0
+:DateShort: 2021-Apr-28
+:END:
+
+**** The point is they would want to post it themselves. You really see no issue with someone posting your rough draft before you finished your book?
+:PROPERTIES:
+:Author: Fleureverr
+:Score: 4
+:DateUnix: 1619644066.0
+:DateShort: 2021-Apr-29
+:END:
+
+
+*** u/Togop:
+#+begin_quote
+  AO3 apparently operates on an assumption that all authors /consent/ to the plagiarism of their work unless they have explicitly said "no".
+#+end_quote
+
+No, the assumption behind the policy is that the reposter obtained consent before doing the repost.
+:PROPERTIES:
+:Author: Togop
+:Score: 4
+:DateUnix: 1619631508.0
+:DateShort: 2021-Apr-28
+:END:
+
+**** Their assumption is that he has the right to repost the work unless the author explicitly denies it to him /before/ he posts it. In other words, Ao3 assumes that authors are clairvoyant
+:PROPERTIES:
+:Author: strangebloke1
+:Score: 1
+:DateUnix: 1619747351.0
+:DateShort: 2021-Apr-30
+:END:
+
+
+**** That's a bad assumption on their part. The default assumption should be "an author has not consented to their works being reposted or shared unless otherwise stated"
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1619734491.0
+:DateShort: 2021-Apr-30
+:END:
+
+***** But they don't know what the author has stated. If I wanted to repost a fic, I'd do it as follows: I'd PM or email the author for permission, and if I got it, I'd go ahead and repost. But the permission would most likely be made in private.
+
+The presumption of innocence then dictates that it should be assumed that I did contact the author and got permission before reposting, unless there's some evidence to the contrary.
+:PROPERTIES:
+:Author: Togop
+:Score: 1
+:DateUnix: 1619736255.0
+:DateShort: 2021-Apr-30
+:END:
+
+****** The fact that six chapters of BWL are locked behind a forum's membership requirement indicates they are not meant to be publicly available.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1619736750.0
+:DateShort: 2021-Apr-30
+:END:
+
+
+****** "The presumption of innocence" ? And how do you figure any such thing applies here?
+:PROPERTIES:
+:Author: hakairyu
+:Score: 1
+:DateUnix: 1619741252.0
+:DateShort: 2021-Apr-30
+:END:
+
+******* It's up to AO3 whether it would apply on their site or not - but it is well established and reasonable, so a policy based on it is NOT "a horrible and frankly immoral policy which cannot possibly be justified".
+:PROPERTIES:
+:Author: Togop
+:Score: 1
+:DateUnix: 1619744896.0
+:DateShort: 2021-Apr-30
+:END:
+
+
+** [removed]
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1619601167.0
+:DateShort: 2021-Apr-28
+:END:
+
+*** [removed]
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1619603695.0
+:DateShort: 2021-Apr-28
+:END:
+
+**** [removed]
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1619604103.0
+:DateShort: 2021-Apr-28
+:END:
+
+***** [removed]
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1619605200.0
+:DateShort: 2021-Apr-28
+:END:
+
+****** [removed]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1619606217.0
+:DateShort: 2021-Apr-28
+:END:
+
+******* [removed]
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1619606529.0
+:DateShort: 2021-Apr-28
+:END:
+
+******** [removed]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1619607126.0
+:DateShort: 2021-Apr-28
+:END:
+
+********* [removed]
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1619607719.0
+:DateShort: 2021-Apr-28
+:END:
+
+********** [removed]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1619608265.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+*** [removed]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1619601841.0
+:DateShort: 2021-Apr-28
+:END:
+
+**** [removed]
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1619601915.0
+:DateShort: 2021-Apr-28
+:END:
+
+***** [removed]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1619602573.0
+:DateShort: 2021-Apr-28
+:END:
+
+****** [removed]
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1619603061.0
+:DateShort: 2021-Apr-28
+:END:
+
+******* [removed]
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1619606950.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+*** [removed]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1619601968.0
+:DateShort: 2021-Apr-28
+:END:
+
+**** [removed]
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1619602347.0
+:DateShort: 2021-Apr-28
+:END:
+
+***** [removed]
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1619602460.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+*** [removed]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1619601650.0
+:DateShort: 2021-Apr-28
+:END:
+
+**** [removed]
+:PROPERTIES:
+:Score: 9
+:DateUnix: 1619601767.0
+:DateShort: 2021-Apr-28
+:END:
+
+***** [removed]
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1619602155.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+**** [removed]
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1619602467.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+** I don't know what was said as the post has been removed, but I feel that the mods on AO3 take plagiarism more seriously than the mods on Wattpad. Speaking as somebody who had to deal with plagiarism on both these platforms, the mods on AO3 looked at my evidence and removed my stories while Wattpad allowed my stories to be under somebody else's name for months until they finally deleted them.
+
+And I know so many other authors that have complained years ago that their fics have been reposted without their permission, and they are still up on the site where commenters on the plagiarised story go on witch hunts against those that accuse the plagiarist and the actual authors of the fic.
+:PROPERTIES:
+:Author: TiffWaffles
+:Score: 2
+:DateUnix: 1619639364.0
+:DateShort: 2021-Apr-29
+:END:
+
+
+** Not really relevant to this post. But how do (established) authors see fanfiction?
+:PROPERTIES:
+:Author: AdequatelyBoring
+:Score: 1
+:DateUnix: 1619626563.0
+:DateShort: 2021-Apr-28
+:END:
+
+*** Varies by author. In the case of Harry Potter, JKR has given blanket permission for people to write fanfic, with the exception of sexual content, which she asked people not to write (and actually commenced legal action to shut down RestrictedSection.org to get rid of it). But most people seem to ignore that caveat and JKR hasn't sued anyone over HP since she sued HP Lexicon.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1619627763.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+** Agreed, that's utterly horrible.
+
+OP, I wasn't able to contact you via PM. Just so you know, the post was taken down at the FanFiction subreddit. My guess is that a revised version might be reinstated. Check the moderator reply for details.
+
+There's also a subreddit dedicated to AO3 (which is [[/r/AO3][r/AO3]] ) if you want to crosspost this there in some form.
+:PROPERTIES:
+:Author: Bolt_DMC
+:Score: -2
+:DateUnix: 1619607186.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+** Not surprised by this at all.
+:PROPERTIES:
+:Author: sicklegirl
+:Score: -4
+:DateUnix: 1619594083.0
+:DateShort: 2021-Apr-28
+:END:
+
+*** I think the worst part of it is just how impractical the policy is.
+
+E.g. the demand for a publicly accessible link to the original work. The whole point is that the original work was posted to a private, members-only forum which is not publicly accessible. Or the demand to prove that the plagiarist didn't ask for permission. How is the reporting party supposed to have access to the plagiarist's messages?
+
+It's basically the creation of criteria with the deliberate aim of making plagiarism complaints impossible to sustain.
+:PROPERTIES:
+:Author: Taure
+:Score: -1
+:DateUnix: 1619594277.0
+:DateShort: 2021-Apr-28
+:END:
+
+**** Uh. Here's the rule for Plagiarism on Ao3:
+
+#+begin_quote
+  E. Plagiarism Plagiarism is an often-contested and fuzzy concept, and no definition will satisfy everyone. Our aim is to be transparent and fair in resolving disputes.
+
+  Plagiarism is the use of someone else's words or concepts without properly attributing those words or concepts to their original source. Simply finding and replacing names, substituting synonyms, or rearranging a few words is not enough to make the work original to you. Deliberately writing a work using the same general idea as another work is not plagiarism, but citation is always appreciated. Generally, quotes from the source material (canon) on which the Content is based will not constitute plagiarism, nor will obvious allusions ("Use the Force, Luke!"). However, when in doubt, cite. Be aware that the Policy & Abuse team may decide that your citation is not sufficient to render the work your own; a mere nod to another author whose work you are presenting as your own may result in a judgment of plagiarism.
+
+  Plagiarism is a violation of the ToS and will incur the penalties described in the Abuse Policy. As with all Content that violates the ToS, plagiarized Content must be removed. Depending on the type and amount of plagiarized Content, this might entail removing an entire piece of Content, removing only the plagiarized portions from a longer work while leaving the original material, or adding citations.
+
+  If you believe a fanwork posted on the Archive plagiarizes another work, please report the work to the Policy & Abuse team. In order to allow us to investigate, please provide a link to the work on the Archive, relevant excerpts, and a specific citation of the original material (for example, a URL or a book edition and page number).
+#+end_quote
+
+What you are complaining about isn't plagiarism.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 15
+:DateUnix: 1619600558.0
+:DateShort: 2021-Apr-28
+:END:
+
+***** [removed]
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1619601435.0
+:DateShort: 2021-Apr-28
+:END:
+
+****** Sorry, but wholesale copying and pasting of someone else's work without claiming to be the author isn't plagiarism. That's pretty basic stuff here, champ.
+
+Or do you think music piracy is plagiarism? That someone posting a copy of a Tayor Swift album is a plagiarist? Certainly not.
+
+It's the same with reposting. Unauthorised reposting isn't plagiarism unless the poster claims to be the author.
+
+Please check the definition of plagiarism.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 13
+:DateUnix: 1619601673.0
+:DateShort: 2021-Apr-28
+:END:
+
+******* [removed]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1619611030.0
+:DateShort: 2021-Apr-28
+:END:
+
+******** The point is that just giving anyone leave to have a work taken down as an unauthorised repost is incredibly open to abuse. Plagiarism you can prove with links to the original work. Unauthorised reposting? If you don't require proof that the author is behind the demand, you force authors to defend their work from every jerk that reports them - or, worse, have to contact Ao3 to get their work restored. That's especially bothersome if, which isn't uncommon, authors use different nicknames on different sites.
+
+And I said before: In this case, the fact that they were posted on a semi-private forum might be enough to get the stuff taken down. But blanket permission without any, much less solid, evidence that the author wants something taken down? That's how plagiarism is handled, correctly, but would be incredibly dangerous to extend to reposting.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 7
+:DateUnix: 1619611626.0
+:DateShort: 2021-Apr-28
+:END:
+
+********* [removed]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1619611916.0
+:DateShort: 2021-Apr-28
+:END:
+
+********** No, I am saying scrutiny and standards /should/ be applied. Just going by "oh, yeah, you claim this is an unauthorised repost, let's take it down without checking if you're representing the author" would be sloppy and wrong.
+
+Because ultimately, whether or not something is an unauthorised repost and should be taken down is the author's decision - not anyone else's. Certainly not the decision of someone who can't even be bothered to prove that they are representing the author.
+
+Whether or not that's the case in this case depends on details I'm not privy to and would be up to debate in any case.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 8
+:DateUnix: 1619612214.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+**** They would rather cultivate their reputation of allowing anything and everything instead of dealing with things that really should be dealt with. I think it is amazing that FFN of all places has a policy against this sort of behaviour while AO3 does not.
+:PROPERTIES:
+:Author: sicklegirl
+:Score: -5
+:DateUnix: 1619596816.0
+:DateShort: 2021-Apr-28
+:END:
+
+
+** brb, posting the entire Harry Potter series on AO3 because the mods can't take it down until someone finds a quote from Rowling explicitly prohibiting anyone from doing so.
+:PROPERTIES:
+:Author: TheLetterJ0
+:Score: -6
+:DateUnix: 1619621727.0
+:DateShort: 2021-Apr-28
+:END:
+
+*** You'll find that quote in every Harry Potter book.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 5
+:DateUnix: 1619624926.0
+:DateShort: 2021-Apr-28
+:END:
+
+**** u/TheLetterJ0:
+#+begin_quote
+  no part of this publication may be reproduced...without the prior permission of the publisher
+#+end_quote
+
+Well, it's a good thing I have permission then. And if the mods want to prove otherwise, they'll have to go and ask the publisher. And if they were willing to do that, this entire thread would not exist.
+:PROPERTIES:
+:Author: TheLetterJ0
+:Score: 1
+:DateUnix: 1619659296.0
+:DateShort: 2021-Apr-29
+:END:
+
+
+*** You should really take a good look at the standard front matter of any book lmao
+:PROPERTIES:
+:Author: BigFatNo
+:Score: 1
+:DateUnix: 1619643647.0
+:DateShort: 2021-Apr-29
+:END:
+
+**** u/TheLetterJ0:
+#+begin_quote
+  no part of this publication may be reproduced...without the prior permission of the publisher
+#+end_quote
+
+Well, it's a good thing I have permission then. And if the mods want to prove otherwise, they'll have to go and ask the publisher. And if they were willing to do that, this entire thread would not exist.
+:PROPERTIES:
+:Author: TheLetterJ0
+:Score: 2
+:DateUnix: 1619659307.0
+:DateShort: 2021-Apr-29
+:END:

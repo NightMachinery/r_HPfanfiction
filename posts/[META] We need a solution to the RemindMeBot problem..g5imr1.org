@@ -1,0 +1,411 @@
+#+TITLE: [META] We need a solution to the RemindMeBot problem.
+
+* [META] We need a solution to the RemindMeBot problem.
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 84
+:DateUnix: 1587487225.0
+:DateShort: 2020-Apr-21
+:FlairText: Meta
+:END:
+I'm sure you've all experienced it, you click on a request thread with maybe 50 or 60 upvotes, as well as 12 or so comments.
+
+Then it turns out that about one third of those are "RemindMe 2 days" or "RemindMe 1 week" or "RemindMe 80 quintillion years". The second third are "Remind Me" or "!Remind Me" or other misspellings of the bot summoning phrase, with the last third being the bot's responses and the desperate attempts by people who did it wrong to summon their own prompted bot. One will inevitably be a Kminder, whose response takes up your entire screen as you scroll by it.
+
+Pretty frustrating if you ask me.
+
+So, I propose a solution. Instead of downvoting every single bot comment or bot response until they're removed by the reddit admins, or reporting their comments for spam or whatever as /some people/ have suggested we do, how about creating an automatic summoning comment using the AutoMod, which simply plops into every request thread and posts a 1 week reminder. It's not too long a wait, but it also isn't too short. After this week, your thread will have collected everything it's going to get, down to the last stragglers, and will have vanished into the depths below, never to be seen again.
+
+To prevent more bot spam, we could then just create a rule for the subreddit that prevents summoning by users and automatically removes their comment using the Automod, which cites the rule.
+
+Solution achieved in the form of a single new rule and a single application of the Automod.
+
+
+** Judging by past threads on this topic, the community seems to be pretty heavily divided between people who see the remindme comments as worthless spam and those who love the functionality that the bot provides.
+
+In my opinion this proposal is a good compromise that would make both sides happy. The spam would disappear and the people who like getting reminders would still be able to do so.
+
+Past threads for context:
+
+- [[https://www.reddit.com/r/HPfanfiction/comments/9ojto6/goddamn_i_despise_the_remindme_bot/][1 year ago]]
+
+- [[https://www.reddit.com/r/HPfanfiction/comments/cqiywp/can_the_mods_make_a_rule_against_misusing_remindme/][8 months ago]]
+
+- [[https://www.reddit.com/r/HPfanfiction/comments/dv2mce/can_we_do_something_about_remindme_comments/][5 months ago]]
+
+- [[https://www.reddit.com/r/HPfanfiction/comments/dwyurh/meta_an_idea_for_the_remindme_bot_replies/][5 months ago]]
+
+- [[https://www.reddit.com/r/HPfanfiction/comments/e59byo/why_are_yall_downvoting_remindme_comments_how_do/][4 months ago]]
+
+- [[https://www.reddit.com/r/HPfanfiction/comments/foucuw/why_do_people_downvote_remindme_comments/][1 month ago]]
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 45
+:DateUnix: 1587492104.0
+:DateShort: 2020-Apr-21
+:END:
+
+
+** Shame there isn't a "show to no one but me" functionality or sth.
+
+Besides can't "Save post/comment" be used in a similar manner?
+:PROPERTIES:
+:Author: Seiridis
+:Score: 11
+:DateUnix: 1587514956.0
+:DateShort: 2020-Apr-22
+:END:
+
+*** Judging by comments in past threads, many people use the bot because they have a hard time keeping track of their saved posts.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 10
+:DateUnix: 1587515535.0
+:DateShort: 2020-Apr-22
+:END:
+
+**** Hmmm, so like "wow, I really have too many saved posts..." let's stop saving them and instead set a reminder? Wouldn't it only move the issue a little to the left instead of solving it? They had a lot of saves. Now they have a lot of reminders. ? ._.
+:PROPERTIES:
+:Author: Seiridis
+:Score: 3
+:DateUnix: 1587516682.0
+:DateShort: 2020-Apr-22
+:END:
+
+***** No, it's not the same. Saved posts don't send you PMs when the time has come. For saved posts you have to remember to check your saved posts and if you have a lot of them you'll have to scroll down past a lot. PMs will almost disappear once you've read them unless you really want to look at your inbox again. Overall using the RemindMe bot is superior to just saving because it ensures you actually know to check again.
+:PROPERTIES:
+:Author: SnowingSilently
+:Score: 9
+:DateUnix: 1587525164.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+** This would be an excellent solution! Barring unfinished longfics, nothing is more depressing than when the comments on an interesting post are just reminders being called.
+:PROPERTIES:
+:Author: Holy_Hand_Grenadier
+:Score: 5
+:DateUnix: 1587515656.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+** I've never personally used the remind me bot, but I also haven't ever seen a thread so flooded with remindmes as to be bothered by it. I'd lean towards live and let live on this one.
+:PROPERTIES:
+:Author: ChasingAnna
+:Score: 3
+:DateUnix: 1587523362.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+** I support this proposal. Now I can just default to 3 comments on a Request post meaning a recommendation has been made rather than go check a post with 2 comments only to find the bot.
+:PROPERTIES:
+:Author: SnowingSilently
+:Score: 3
+:DateUnix: 1587525366.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+** !remindme 1 week
+:PROPERTIES:
+:Author: treereee
+:Score: 10
+:DateUnix: 1587510241.0
+:DateShort: 2020-Apr-22
+:END:
+
+*** Wow, you`re so funny
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 11
+:DateUnix: 1587511592.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+*** There is a 1 hour delay fetching comments.
+
+I will be messaging you in 7 days on [[http://www.wolframalpha.com/input/?i=2020-04-28%2023:04:01%20UTC%20To%20Local%20Time][*2020-04-28 23:04:01 UTC*]] to remind you of [[https://np.reddit.com/r/HPfanfiction/comments/g5imr1/meta_we_need_a_solution_to_the_remindmebot_problem/fo4sa7l/?context=3][*this link*]]
+
+[[https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2FHPfanfiction%2Fcomments%2Fg5imr1%2Fmeta_we_need_a_solution_to_the_remindmebot_problem%2Ffo4sa7l%2F%5D%0A%0ARemindMe%21%202020-04-28%2023%3A04%3A01%20UTC][*CLICK THIS LINK*]] to send a PM to also be reminded and to reduce spam.
+
+^{Parent commenter can} [[https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20g5imr1][^{delete this message to hide from others.}]]
+
+--------------
+
+[[https://np.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/][^{Info}]]
+
+[[https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here][^{Custom}]]
+[[https://np.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21][^{Your Reminders}]]
+[[https://np.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback][^{Feedback}]]
+:PROPERTIES:
+:Author: RemindMeBot
+:Score: 2
+:DateUnix: 1587516592.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+** Don't care one way or the other, never used it and will never use it, don't care if other people use it I just scroll through if I see a bot comment ¯\_(ツ)_/¯
+:PROPERTIES:
+:Author: DarkLordRowan
+:Score: 2
+:DateUnix: 1587521350.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+** But I love REMINDME BOTTIES!!! :( PLEASE KEEP THEM THEY'RE SO HELPFUL AND NICE YES THEY ARE! :( :(
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1587510866.0
+:DateShort: 2020-Apr-22
+:END:
+
+*** Sister, I'm not recommending we ban the bot. Only that there be a single instance of it and no spam calls for it. It would make everyone happy.
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 13
+:DateUnix: 1587511536.0
+:DateShort: 2020-Apr-22
+:END:
+
+**** Oh okay. Thanks Commonality that's better then. :)
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1587512150.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1587510844.0
+:DateShort: 2020-Apr-22
+:END:
+
+*** You're even funnier than the other guy. Making the same exact joke twice... what an absolute /banger/.
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 3
+:DateUnix: 1587511549.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+** Oh look, you're back, tilting at a windmill.
+
+Edit: Again, the solution exists. Block the bot. Ignore its users. We don't need more moderation just because a bot annoys you.
+
+Edit 2: And you're using an alt this time. Ok.
+
+Edit 3: The bot was called four times in the past 24 hours. In three of those four calls, it has multiple clickthroughs for other people wanting the bot to remindthem. In one of those three, the comment was from someone who wanted to view the thread because it was a good idea. Twice it was people wanting to be called back with no contribution.
+
+In the fourth call, YOU called it.
+
+A bot being called 4 times in ~48 posts in 24 hours is NOT a problem.
+:PROPERTIES:
+:Author: Sturmundsterne
+:Score: -24
+:DateUnix: 1587487575.0
+:DateShort: 2020-Apr-21
+:END:
+
+*** u/Uncommonality:
+#+begin_quote
+  Oh look, you're back, tilting at a windmill.
+#+end_quote
+
+Sorry, but am I supposed to know who you are? This is the first post I've made in this regard.
+
+#+begin_quote
+  Edit: Again, the solution exists. Block the bot. Ignore its users. We don't need more moderation just because a bot annoys you.
+#+end_quote
+
+Good job completely ignoring the proposal in favor of your own opinion. I like the bot. I don't like seeing 12 comments on every thread related to it. Make a single automod comment summoning the bot and this whole thing is cleared up. Why we rely on users to summon the bot is anyone's guess.
+
+#+begin_quote
+  Edit 2: And you're using an alt this time. Ok.
+#+end_quote
+
+Can you link my main, you fucking weirdo?
+
+#+begin_quote
+  Edit 3: The bot was called four times in the past 24 hours. In three of those four calls, it has multiple clickthroughs for other people wanting the bot to remindthem. In one of those three, the comment was from someone who wanted to view the thread because it was a good idea. Twice it was people wanting to be called back with no contribution.
+#+end_quote
+
+Statistics don't matter, because the bot isn't called consistently. There are a few good threads every once in a while, and those ones are /filled/ with bot summonings. Obviously they will balance out with the days where there are no request threads or all the ones that are posted aren't appealing. It's still a problem.
+
+#+begin_quote
+  In the fourth call, YOU called it.
+#+end_quote
+
+Wait, I thought I hated the bot? Can you clear up this weird idea you have about this account being an alt?
+
+Also, good job misrepresenting why I used the bot. I corrected another user's spelling.
+
+#+begin_quote
+  A bot being called 4 times in ~48 posts in 24 hours is NOT a problem.
+#+end_quote
+
+Again, statistics are meaningless. Viewing it post by post would be more accurate, but you couldn't have accuracy in this obviously loaded comment, could you?
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 19
+:DateUnix: 1587492705.0
+:DateShort: 2020-Apr-21
+:END:
+
+
+*** I'm likely to agree that I haven't seen much evidence of remindme bot overuse in this sub, nor do I particularly care about its use here. I see no need for rules on it
+
+But it's a bit ironic for you to accuse the user of 'tilting at a windmill' in a comment with three edits in under 40 minutes, most of which are you tilting at said user under the assumption it's someone else using an alt
+
+Your original comment and the first two edits were simply dismissals of the user without any discussion about the topic they raised, bordering on a personal attack
+:PROPERTIES:
+:Author: TheCuddlyCanons
+:Score: 24
+:DateUnix: 1587490714.0
+:DateShort: 2020-Apr-21
+:END:
+
+**** Shshshs dude chill tf out literaly no one cares about the bot apart from this guy and his alt stop taking it so personal
+:PROPERTIES:
+:Author: your-english-cousin
+:Score: -22
+:DateUnix: 1587491267.0
+:DateShort: 2020-Apr-21
+:END:
+
+***** Actually, there have been multiple threads about this topic in the past year with many people chiming in with their opinion on both sides of the issue. The longest thread on the topic had 63 comments from a wide range of redditors. Clearly it's a topic that concerns a lot of members on this sub.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 15
+:DateUnix: 1587492774.0
+:DateShort: 2020-Apr-21
+:END:
+
+****** That's fair enough but insulting and being defensive when the first commenter gives him opinion, is a disproportionate response. if we want this issue to be fixed, then we should like to others who have differing views yes?
+:PROPERTIES:
+:Author: your-english-cousin
+:Score: -15
+:DateUnix: 1587494551.0
+:DateShort: 2020-Apr-21
+:END:
+
+******* That's an admirable sentiment, and would hold more weight if your own first comment had actually addressed the content of the proposal rather than casting aspersions on the integrity of the OP and the other commenter.
+
+I certainly would prefer that this thread stay on topic rather than devolving into the back and forth nitpicking of ad hominems that it already has.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 17
+:DateUnix: 1587495261.0
+:DateShort: 2020-Apr-21
+:END:
+
+
+***** Bro what the fuck are you talking about
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 9
+:DateUnix: 1587492770.0
+:DateShort: 2020-Apr-21
+:END:
+
+
+***** Alright mate, kinda proving my point but sure. I just figure that it's possible to disagree with someone without being an arsehole about it.
+
+But maybe that outlook doesn't belong on the internet
+:PROPERTIES:
+:Author: TheCuddlyCanons
+:Score: 10
+:DateUnix: 1587491669.0
+:DateShort: 2020-Apr-21
+:END:
+
+****** Just gonna say I have no idea what he means with alt. This is my main and only account. I don't know who this guy is.
+
+Honestly creeps me out a tad.
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 12
+:DateUnix: 1587492802.0
+:DateShort: 2020-Apr-21
+:END:
+
+******* A likely story.
+:PROPERTIES:
+:Author: otrovik
+:Score: -2
+:DateUnix: 1587500937.0
+:DateShort: 2020-Apr-22
+:END:
+
+******** Yeah that's my flair lmao
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 7
+:DateUnix: 1587502729.0
+:DateShort: 2020-Apr-22
+:END:
+
+********* Indeed, I'm so clever.
+:PROPERTIES:
+:Author: otrovik
+:Score: -3
+:DateUnix: 1587502748.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+***** u/Pvtmiller:
+#+begin_quote
+  post
+#+end_quote
+
+76 points
+
+#+begin_quote
+  ree no one cares about the bot
+#+end_quote
+
+-22 points
+
+hmmm. It's almost like more people agree that the bot is a problem or something here.
+:PROPERTIES:
+:Author: Pvtmiller
+:Score: 3
+:DateUnix: 1587575249.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+*** If he's an alt, what's his main?
+:PROPERTIES:
+:Author: xxshrekingxx
+:Score: 9
+:DateUnix: 1587501453.0
+:DateShort: 2020-Apr-22
+:END:
+
+**** wondering the same lol
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 10
+:DateUnix: 1587502975.0
+:DateShort: 2020-Apr-22
+:END:
+
+
+*** I think you need to take a break from the internet.
+
+Maybe go out and get some sun
+:PROPERTIES:
+:Author: spliffay666
+:Score: 4
+:DateUnix: 1587498060.0
+:DateShort: 2020-Apr-22
+:END:

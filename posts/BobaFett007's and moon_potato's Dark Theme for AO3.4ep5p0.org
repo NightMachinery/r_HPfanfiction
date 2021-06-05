@@ -1,0 +1,79 @@
+#+TITLE: BobaFett007's and moon_potato's Dark Theme for AO3
+
+* BobaFett007's and moon_potato's Dark Theme for AO3
+:PROPERTIES:
+:Score: 10
+:DateUnix: 1460601808.0
+:DateShort: 2016-Apr-14
+:FlairText: Misc
+:END:
+[deleted]
+
+
+** [[http://imgur.com/8dTBKRY][I think I've found a key design flaw with this.]]
+:PROPERTIES:
+:Author: Raderph
+:Score: 6
+:DateUnix: 1460606538.0
+:DateShort: 2016-Apr-14
+:END:
+
+*** ...people tag too much, anyway.
+:PROPERTIES:
+:Author: Averant
+:Score: 4
+:DateUnix: 1460616206.0
+:DateShort: 2016-Apr-14
+:END:
+
+
+*** I though I fixed that... I'll work on it and post an update soon.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1460617331.0
+:DateShort: 2016-Apr-14
+:END:
+
+
+*** Thanks, fixed by adding
+
+#+begin_example
+  .work .tags a.tag {
+    color: #f2f2f2;
+  }
+#+end_example
+
+Don't hesitate to point out any more faults.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1460618136.0
+:DateShort: 2016-Apr-14
+:END:
+
+
+** I'm not familiar with how skins work on AO3, will it also work on mobile?
+:PROPERTIES:
+:Author: NaughtyGaymer
+:Score: 2
+:DateUnix: 1460603853.0
+:DateShort: 2016-Apr-14
+:END:
+
+*** I just tested it, and seems like it doesn't.
+
+Well, it does, but only the text colour changes, making it exceptionally difficult to read.
+:PROPERTIES:
+:Author: Raderph
+:Score: 1
+:DateUnix: 1460615270.0
+:DateShort: 2016-Apr-14
+:END:
+
+
+** Maybe share this with [[/r/Fanfiction]] as well? I'm sure they'd appreciate it.
+:PROPERTIES:
+:Author: Averant
+:Score: 1
+:DateUnix: 1460628730.0
+:DateShort: 2016-Apr-14
+:END:

@@ -1,0 +1,472 @@
+#+TITLE: FanfictionBot Usage Tips Updated! Check 'em out here!
+
+* FanfictionBot Usage Tips Updated! Check 'em out here!
+:PROPERTIES:
+:Author: tusing
+:Score: 29
+:DateUnix: 1437528188.0
+:DateShort: 2015-Jul-22
+:FlairText: Meta
+:END:
+Hi, everyone, So far I'd like to thank everyone for support. [[/u/StuxCrystal]] was particularly helpful in the making of the bot, and the bot wouldn't be where it is if it wasn't for him.
+
+*/applause/*
+
+The bot has, indeed, come quite far:
+
+- I used to run it on my own laptop, but now we have a server for it!
+- We used to only support fanfiction.net, but now we support 4 popular fanfiction sites!
+- We never supported downloads, but now each request will include an option for an EPUB download (a direct download for AO3; through FicSave for everything else).
+- We've added a bunch of new features, and a new things called "tags" that modify the bot behavior. You can view these new usage tips on the [Usage] link posted at the bottom of any bot reply, but I'll copy-paste it here.
+- And a lot more... see below!
+
+--------------
+
+* Behold, the new bot tips!
+  :PROPERTIES:
+  :CUSTOM_ID: behold-the-new-bot-tips
+  :END:
+/(The latest version can be found on [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][GitHub]] or in the [Usage] link at the bottom of a bot reply)/
+
+--------------
+
+**** *SUPPORTED WEBSITES:*
+     :PROPERTIES:
+     :CUSTOM_ID: supported-websites
+     :END:
+***** /=linkffn(...)=/ ([[https://www.fanfiction.net/][fanfiction.net]])
+      :PROPERTIES:
+      :CUSTOM_ID: linkffn...-fanfiction.net
+      :END:
+***** /=linkao3(...)=/ ([[http://archiveofourown.org/][archiveofourown.org]])
+      :PROPERTIES:
+      :CUSTOM_ID: linkao3...-archiveofourown.org
+      :END:
+***** /=linkffa(...)=/ ([[http://www.hpfanficarchive.com/stories/][hpfanficarchive.com]])
+      :PROPERTIES:
+      :CUSTOM_ID: linkffa...-hpfanficarchive.com
+      :END:
+***** /=linkfp(...)=/ ([[https://www.fictionpress.com/][fictionpress.com]])
+      :PROPERTIES:
+      :CUSTOM_ID: linkfp...-fictionpress.com
+      :END:
+
+--------------
+
+**** *Tags:*
+     :PROPERTIES:
+     :CUSTOM_ID: tags
+     :END:
+
+- *Tags work by adding them into any comment or post.* They are as follows:
+- =ffnbot!directlinks= will parse any links (or hyperlink) to any supported website and generate a reply similar to the examples below. *Useful if you want to use hyperlinks in your post instead of manually calling the bot with =linksite(...)=.*
+- =ffnbot!parent= will call ffnbot!directlinks on the parent comment. *Useful for when someone doesn't use the bot* - you can just reply to their comment with ffnbot!directlinks and the bot will generate a reply
+- =ffnbot!ignore= will make sure the bot will not parse your comment. *Use if you do not want the bot to create a reply even if someone else wants to see the full bot reply by calling =ffnbot!parent=.*
+
+To hide a tag, you can add a bunch of =^= to subscript the tag away. So you could do =^^^^^^^^^^^^^^^^^ffnbot!directlinks= to use that tag and have it not appear in your comment! *Useful for aesthetics.*
+
+--------------
+
+**** *Calling the bot:*
+     :PROPERTIES:
+     :CUSTOM_ID: calling-the-bot
+     :END:
+*/To link Harry Potter and the Natural 20:/*
+
+- You can use the *name of the story*. /(A bad idea if your story is generically named - try another method!)/
+- You can use the *author name* in the link request for more accuracy. This is /especially/ helpful if your requested fic has a generic name. /(Almost always accurate.)/
+- You can use *direct links or the URL*. /(100% accurate!)/
+- You can use the *story ID*. /(100% accurate!)/
+
+*/Thus, the following will all yield the same result./*
+
+#+begin_example
+  linkffn(Harry Potter and the Natural 20)
+
+  linkffn(Harry Potter and the Natural 20 by Sir Poley)
+
+  linkffn(https://www.fanfiction.net/s/8096183/1/Harry-Potter-and-the-Natural-20)
+
+  linkffn(8096183)
+
+  ---- OR ----
+
+  [Check out this awesome fic!](https://www.fanfiction.net/s/8096183/1/Harry-Potter-and-the-Natural-20)
+  ffnbot!directlinks
+#+end_example
+
+#+begin_quote
+  [[http://www.fanfiction.net/s/8096183/1/][*/Harry Potter and the Natural 20/*]] by [[https://www.fanfiction.net/u/3989854/Sir-Poley][/Sir Poley/]]
+
+  #+begin_quote
+    Milo, a genre-savvy D&D Wizard and Adventurer Extraordinaire is forced to attend Hogwarts, and soon finds himself plunged into a new adventure of magic, mad old Wizards, metagaming, misunderstandings, and munchkinry. Updates Fridays.
+  #+end_quote
+
+  ^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter + Dungeons and Dragons Crossover *|* /Rated/: Fiction T *|* /Chapters/: 72 *|* /Words/: 301,307 *|* /Reviews/: 5,303 *|* /Favs/: 3,805 *|* /Follows/: 4,373 *|* /Updated/: 2/27 *|* /Published/: 5/7/2012 *|* /id/: 8096183 *|* /Language/: English *|* /Download/: [[http://ficsave.com/?story*url=https://www.fanfiction.net/s/8096183&amp;format=epub&amp;auto*download=yes][EPUB]]}
+
+  --------------
+
+  *Bot updated MM/DD/YY!* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+#+end_quote
+
+*You can namedrop multiple links in a comment.* *You can separate queries with semicolons.*
+
+#+begin_example
+  Check out this completely awesome fic I found! linkffn(By the Divining Light by enembee) and it's sequel! linkffn(Conlaodh's Song enembee)
+
+  or
+
+  Check out these awesome fics! linkffn(By the Divining Light; Conlaodh's Song)
+#+end_example
+
+#+begin_quote
+  [[http://www.fanfiction.net/s/5971274/1/][*/Conlaodh's Song/*]] by [[https://www.fanfiction.net/u/980211/enembee][/enembee/]]
+
+  #+begin_quote
+    Book 2. As the Second War begins, Voldemort becomes obsessed with harnessing the realm of Old Magic to his own ends. Meanwhile, Harry has to contend with the Ministry, ancient foes and the machinations of a world he barely understands.
+  #+end_quote
+
+  ^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 13 *|* /Words/: 57,777 *|* /Reviews/: 201 *|* /Favs/: 472 *|* /Follows/: 285 *|* /Updated/: 4/28/2011 *|* /Published/: 5/14/2010 *|* /Status/: Complete *|* /id/: 5971274 *|* /Language/: English *|* /Genre/: Fantasy/Adventure *|* /Characters/: Harry P., Luna L. *|* /Download/: [[http://ficsave.com/?story*url=https://www.fanfiction.net/s/5971274/1/Conlaodh-s-Song&amp;format=epub&amp;auto*download=yes][EPUB]]}
+
+  --------------
+
+  [[http://www.fanfiction.net/s/5201703/1/][*/By the Divining Light/*]] by [[https://www.fanfiction.net/u/980211/enembee][/enembee/]]
+
+  #+begin_quote
+    Book 1. Follow Harry and Dumbledore as they descend into the depths of Old Magic seeking power and redemption in equal measure. En route they encounter ancient enchantments, a heliopath and an evil that could burn the world.
+  #+end_quote
+
+  ^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 6 *|* /Words/: 24,970 *|* /Reviews/: 127 *|* /Favs/: 523 *|* /Follows/: 167 *|* /Updated/: 1/23/2010 *|* /Published/: 7/8/2009 *|* /Status/: Complete *|* /id/: 5201703 *|* /Language/: English *|* /Genre/: Fantasy/Adventure *|* /Characters/: Harry P., Albus D. *|* /Download/: [[http://ficsave.com/?story*url=https://www.fanfiction.net/s/5201703/1/By-the-Divining-Light&amp;format=epub&amp;auto*download=yes][EPUB]]}
+
+  --------------
+
+  *Bot updated MM/DD/YY!* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+#+end_quote
+
+
+** Hey all,
+
+As stated in the post, thanks for your ideas, tips, support, code contributions, and more.
+
+If you have any questions, comments, or criticism, please do post them here. The amount of time I will have to work on this will plummet for the rest of the year starting next month, so I would rather address what I can soon.
+
+And with that said, I think the bot is very close to it's final form, if it's not there yet.
+:PROPERTIES:
+:Author: tusing
+:Score: 5
+:DateUnix: 1437528433.0
+:DateShort: 2015-Jul-22
+:END:
+
+*** Thank you to both you and [[/u/StuxCrystal]]. This is a very handy tool to have.
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1437531113.0
+:DateShort: 2015-Jul-22
+:END:
+
+
+*** Any chance of being able to link to a series on Ao3?
+:PROPERTIES:
+:Author: Eldresh
+:Score: 3
+:DateUnix: 1437530293.0
+:DateShort: 2015-Jul-22
+:END:
+
+**** Doesn't seem too difficult. We'll see what we can do.
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1437530710.0
+:DateShort: 2015-Jul-22
+:END:
+
+
+*** Have you ever used [[http://p0ody-files.com/ff_to_ebook/]] as a converter? IMO it works better than FicSave, and takes no time if it has already been converted because it saves the fics it converts. And its formatting is pretty good too.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1437615861.0
+:DateShort: 2015-Jul-23
+:END:
+
+**** We will consider your request.
+
+However, as the current implementation works, it's unlikely we'll implement it ourselves.
+
+--------------
+
+If you really want your proposal to be added, please, add an [[http://github.com/tusing/reddit-ffn-bot/issues/][issue]] or better, make a [[http://github.com/tusing/reddit-ffn-bot/pulls/][pull request]], so we will have a more permanent reminder on this issue.
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 2
+:DateUnix: 1437632885.0
+:DateShort: 2015-Jul-23
+:END:
+
+
+**** This is a great idea! It's way faster, too. Do you know if it's open source?
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1437682179.0
+:DateShort: 2015-Jul-24
+:END:
+
+***** I don't know sorry, but I found it on DLP. [[https://forums.darklordpotter.net/member.php?u=49474][Here]] is the guy who made it if you want to ask him anything.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1437749917.0
+:DateShort: 2015-Jul-24
+:END:
+
+
+***** Congratulations, by implementing his suggestion you broke your own feature! linkffn(11399578)
+
+So please, test your new solution and think about what might break when implementing things.
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 1
+:DateUnix: 1437762267.0
+:DateShort: 2015-Jul-24
+:END:
+
+****** [[http://www.fanfiction.net/s/11399578/1/][*/A vacation to earth/*]] by [[https://www.fanfiction.net/u/6619732/SuperNorGfortioladofus][/SuperNorGfortioladofus/]]
+
+#+begin_quote
+  Vivio has been asking her mamas about earth, so this summer they have decided to take her there. There is only one problem. Nanohas family does not know about Vivio and her realtionship with Fate. So with a visit to earth the small family has to face the Inevitable, facing the parents. Join the Takamachi family of Mid-Childa as they try to survive their vacaion on earth.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Magical Girl Lyrical Nanoha *|* /Rated/: Fiction T *|* /Words/: 3,630 *|* /Reviews/: 1 *|* /Favs/: 2 *|* /Follows/: 4 *|* /Published/: 7/23 *|* /id/: 11399578 *|* /Language/: English *|* /Genre/: Family *|* /Characters/: Fate T., Nanoha T., Vivio *|* /Download/: [[http://p0ody-files.com/ff_to_ebook/download.php?id=11399578&isSplit=0&filetype=epub][EPUB]]}
+
+--------------
+
+*Bot updated 7/24/15!* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* /Direct EPUB downloads for all FF sites!/
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1437762293.0
+:DateShort: 2015-Jul-24
+:END:
+
+
+****** And I forgot, there is also fictionpress:
+
+linkfp(3259408)
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 1
+:DateUnix: 1437762424.0
+:DateShort: 2015-Jul-24
+:END:
+
+******* [[http://www.fictionpress.com/s/3259408/1/][*/The Neo Strikers Episode 2: Elemental Spirits/*]] by [[https://www.fictionpress.com/u/1034570/Neo-Striker][/Neo Striker/]]
+
+#+begin_quote
+  This tale explains what the shooting stars were and how they came to Earth, plus it also explains their primary enemy in which they've fought him for centuries
+#+end_quote
+
+^{/Site/: [[http://www.fictionpress.com/][FictionPress]] *|* /Category/: Action *|* /Rated/: Fiction T *|* /Words/: 280 *|* /Published/: 16h *|* /id/: 3259408 *|* /Language/: English *|* /Genre/: Adventure/Fantasy *|* /Download/: [[http://p0ody-files.com/ff_to_ebook/download.php?id=3259408&isSplit=0&filetype=epub][EPUB]]}
+
+--------------
+
+*Bot updated 7/24/15!* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* /Direct EPUB downloads for all FF sites!/
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1437762449.0
+:DateShort: 2015-Jul-24
+:END:
+
+
+****** Okay. Weird. It worked fine on all of my personal tests.
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1437773052.0
+:DateShort: 2015-Jul-25
+:END:
+
+******* works for me too. On a 1st gen iPad right now, and will test on Mac later.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1437777082.0
+:DateShort: 2015-Jul-25
+:END:
+
+
+****** Works for me.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1437777052.0
+:DateShort: 2015-Jul-25
+:END:
+
+
+*** Another suggestion:
+
+What about adding a way to take an author's name and have the bot reply with their profile/other names?
+
+I don't know how hard this will be to implement, but I was thinking about this:
+
+--------------
+
+#+begin_example
+      authorffn(Kwan Li)   
+#+end_example
+
+Kwan Li has written 6 stories for Harry Potter:
+
+- [[https://www.fanfiction.net/s/8379655/1/Hogwarts-Battle-School][Hogwarts Battle School]]\\
+- [[https://www.fanfiction.net/s/4985330/1/The-Other-Boy-Who-Lived][The Other Boy Who Lived]]\\
+- [[https://www.fanfiction.net/s/8098609/1/The-Dark-of-Night][The Dark of Night]]\\
+- [[https://www.fanfiction.net/s/8033348/1/The-Boy-Who-Killed][The Boy Who Killed]]\\
+- [[https://www.fanfictio.%20net/s/6326753/1/Wedding-Dress][Wedding Dress]]\\
+- [[https://www.fanfiction.t/s/3877185/1/My-Name-is-Harry-Potter][My Name is Harry Potter]]\\
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1437750537.0
+:DateShort: 2015-Jul-24
+:END:
+
+**** Interesting idea. I second.
+
+But please, add your suggestion to the [[http://github.com/tusing/reddit-ffn-bot/issues/][GitHub issue page]], so we can discuss you idea further.
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 1
+:DateUnix: 1437761707.0
+:DateShort: 2015-Jul-24
+:END:
+
+***** Will do when on my desktop.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1437777095.0
+:DateShort: 2015-Jul-25
+:END:
+
+
+** Some more notes that are not mentioned here
+
+The tags are comma-separated. Doing =ffnbot!parent,directlinks= is a shorthand for =ffnbot!parent ffnbot!directlinks=
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 2
+:DateUnix: 1437563683.0
+:DateShort: 2015-Jul-22
+:END:
+
+
+** This seems awesome! I think I must just be missing something, but where is the link? I'm viewing this on mobile and all of the links posted by the bot take me to the ff.n homepage. Is there a direct story link?
+:PROPERTIES:
+:Author: blueberryfinn
+:Score: 1
+:DateUnix: 1437567234.0
+:DateShort: 2015-Jul-22
+:END:
+
+*** Which link, specifically? All of them work as intended for me on all of my devices.
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1437568316.0
+:DateShort: 2015-Jul-22
+:END:
+
+**** Sorry for the confusion. I had to look at this sub in my desktop browser to figure out the problem. I use iAlien as my reddit app for iphone. In the app, the title of the story is plain text -- no link and no indication that the link is even missing. The links to fanfiction.net go to the homepage of the site. Check out the screenshot from my phone here: [[http://imgur.com/de75hhb][link]]
+:PROPERTIES:
+:Author: blueberryfinn
+:Score: 1
+:DateUnix: 1437685701.0
+:DateShort: 2015-Jul-24
+:END:
+
+***** Ouch. Might wanna switch to an app with better markdown parsing.
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1437695309.0
+:DateShort: 2015-Jul-24
+:END:
+
+****** Yeah, I'm going to switch to Alien Blue, I think. It looks great in that!
+:PROPERTIES:
+:Author: blueberryfinn
+:Score: 1
+:DateUnix: 1437699985.0
+:DateShort: 2015-Jul-24
+:END:
+
+
+** * *We are searching contributors.*
+  :PROPERTIES:
+  :CUSTOM_ID: we-are-searching-contributors.
+  :END:
+If you want to help us maintaining the bot, please look at the [[https://github.com/tusing/reddit-ffn-bot/issues][issue list on the GitHub Project page]]!
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 1
+:DateUnix: 1437634395.0
+:DateShort: 2015-Jul-23
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1437779136.0
+:DateShort: 2015-Jul-25
+:END:
+
+*** [[http://www.fanfiction.net/s/11402812/1/][*/Desperate Measures/*]] by [[https://www.fanfiction.net/u/2764183/MaryRoyale][/MaryRoyale/]]
+
+#+begin_quote
+  Cassiopeia Black wasn't the sort who was willing to just sit idly by while her House fell down around her. When Cassiopeia is given a Muggleborn witch orphaned by Death Eaters, she uses magical adoption to make the baby a true Black. Pureblood!Hermione. Slytherin!Hermione.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Words/: 5,259 *|* /Published/: 20m *|* /id/: 11402812 *|* /Language/: English *|* /Characters/: Cassiopeia B., Hermione G. *|* /Download/: [[http://ficsave.com/?story_url=https://www.fanfiction.net/s/11402812/1/Desperate-Measures&format=epub&auto_download=yes][EPUB]]}
+
+--------------
+
+*Bot updated 7/20/15!* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1437779185.0
+:DateShort: 2015-Jul-25
+:END:
+
+
+** This is a test:
+
+linkffn([[https://www.fanfiction.net/s/11415469/]])
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1438289333.0
+:DateShort: 2015-Jul-31
+:END:
+
+*** [[http://www.fanfiction.net/s/11415469/1/][*/La Redencion/*]] by [[https://www.fanfiction.net/u/4023057/tamarabvillar][/tamarabvillar/]]
+
+#+begin_quote
+  Rodolphus Lestrange se da cuenta que seguir a VOLDEMORT no le va a llevar a nada bueno. Por lo que decide desertar. ¿Logrará encontrar la redención y la paz que tanto anhela?
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Words/: 1,751 *|* /Published/: 3h *|* /Status/: Complete *|* /id/: 11415469 *|* /Language/: Spanish *|* /Genre/: Family *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=11415469][EPUB]]}
+
+--------------
+
+*Bot v1.1.2 - 7/28/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* /Direct EPUB downloads for FFnet!/
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1438289368.0
+:DateShort: 2015-Jul-31
+:END:

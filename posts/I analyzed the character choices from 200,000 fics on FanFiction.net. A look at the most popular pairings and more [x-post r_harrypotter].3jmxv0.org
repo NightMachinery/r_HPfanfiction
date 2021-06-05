@@ -1,0 +1,490 @@
+#+TITLE: I analyzed the character choices from 200,000 fics on FanFiction.net. A look at the most popular pairings and more! [x-post r/harrypotter]
+
+* [[http://uncertaindecisions.com/index.php/2015/09/04/character-choices-in-harry-potter-fanfiction/][I analyzed the character choices from 200,000 fics on FanFiction.net. A look at the most popular pairings and more! [x-post r/harrypotter]]]
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 116
+:DateUnix: 1441384123.0
+:DateShort: 2015-Sep-04
+:FlairText: Promotion
+:END:
+
+** Is anyone else depressed that this list reflects almost the exact opposite of their fanfiction preferences?
+:PROPERTIES:
+:Author: Ch1pp
+:Score: 37
+:DateUnix: 1441386952.0
+:DateShort: 2015-Sep-04
+:END:
+
+*** Hey, don't feel bad. Something I've learned is that popularity!=quality.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 13
+:DateUnix: 1441389247.0
+:DateShort: 2015-Sep-04
+:END:
+
+
+*** Anyone have any good harmony suggestions? This made me sad.
+:PROPERTIES:
+:Author: Awwkitties
+:Score: 7
+:DateUnix: 1441394399.0
+:DateShort: 2015-Sep-04
+:END:
+
+**** Forever knight on portkey. My favorite harmony story. Starts really fluffy but decends into a wonderful world of darkness. The prologue is great and on rereads, i normally start at that point in the story. Its is beautiful. [[http://fanfiction.portkey.org/index.php?act=read&storyid=5185&chapterid=&agree=1]]
+:PROPERTIES:
+:Author: Doin_Doughty_Deeds
+:Score: 12
+:DateUnix: 1441401982.0
+:DateShort: 2015-Sep-05
+:END:
+
+***** Yes!! Thanks!!
+:PROPERTIES:
+:Author: Awwkitties
+:Score: 3
+:DateUnix: 1441405230.0
+:DateShort: 2015-Sep-05
+:END:
+
+
+*** So true :(
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1441419803.0
+:DateShort: 2015-Sep-05
+:END:
+
+
+** Analysis and statistics is always a game of choices, so i had a few thoughts about your choices in the analysis.
+
+1 - 200,000 HP fanfics analyzed: how did you filter this down? Did you only include stories in English or skip those with an 'M' rating or ones with less than 500 words? What was the filter?
+
+2 - Counting the number of characters listed will give you a false bias. The fanfiction.net engine only allowed two characters to be listed until a few years ago, and they added the bracket for pairing later as well. Many of the secondary characters weren't available until recently, so stories made before the change with ex.: Harry/Daphne had no recourse but to list Harry/OC or Harry alone.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 11
+:DateUnix: 1441387546.0
+:DateShort: 2015-Sep-04
+:END:
+
+*** 1 - I tried to randomly sample from the entire population and didn't apply any filters. To do this, I used the FFN browsing tool and sorted by publish date (no excluded ratings), and then randomly chose a page number (I think it takes around 28,000 pages to cover the 700,000 fics). I then processed all the fics on that page, skipping fics if they were already in the database. So it wasn't 100% random since I have little chunks of 25 fics here and there with almost sequential IDs, but the ranking changes constantly as new fics get submitted, so I think the net result is decently random.
+
+It would be interesting to repeat this analysis and restrict the sample to "popular" fics, so with some sort of review/fav cutoff. The distribution is definitely skewed to the lower end, i.e. a very large percentage have <100 reviews. However, I think this my analysis is the most unbiased way of doing this.
+
+2 - Thanks for pointing that out, I wasn't aware. That definitely explains the small number of triples/quadruples. I'll take a look at that.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 8
+:DateUnix: 1441388394.0
+:DateShort: 2015-Sep-04
+:END:
+
+**** Just trying to put a critical eye on the analytics- the intent and presentation was very cool. Also I'm jazzed that you referred interested parties to Cauterize, as that's the fic I recommend as a fanfiction entry point.
+
+If you choose to re-run the query, it might be effective to select from stories with most hits, but that's a hidden value and it favors those stories posted earlier. Whatever you do choose, though, I think it's important to include your details in the article or a reference doc for those wanting to understand the scope of the analysis.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 7
+:DateUnix: 1441388916.0
+:DateShort: 2015-Sep-04
+:END:
+
+***** No I welcome any technical questions. I think it's very important. I can't tell you how many times I've looked at posts on [[/r/DataIsBeautiful]] and wondered how the data was actually collected.
+
+I'd definitely be interested in looking at hits. Can you sort by it with the right page request? Or would I have to request it for each fic individually?
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 6
+:DateUnix: 1441391073.0
+:DateShort: 2015-Sep-04
+:END:
+
+****** Honestly, I haven't tried to penetrate the data structures- I only know that, as a writer, I get to look at story traffic summaries collected on a daily basis by source country, per chapter. Basically, I know the data exists, but I have no idea if it's queriable.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 3
+:DateUnix: 1441394583.0
+:DateShort: 2015-Sep-04
+:END:
+
+
+**** u/turbinicarpus:
+#+begin_quote
+  To do this, I used the FFN browsing tool and sorted by publish date (no excluded ratings), and then randomly chose a page number (I think it takes around 28,000 pages to cover the 700,000 fics). I then processed all the fics on that page, skipping fics if they were already in the database. So it wasn't 100% random since I have little chunks of 25 fics here and there with almost sequential IDs, but the ranking changes constantly as new fics get submitted, so I think the net result is decently random.
+#+end_quote
+
+Technically, this is a [[https://en.wikipedia.org/wiki/Cluster_sampling][one-stage cluster sample]]. The good news is that if for descriptives that you generated, it probably doesn't make a difference; the bad news is that if you wanted to do any sort of statistical inference (E.g., is there sufficient evidence to believe that there is more Harmony fanfic than canon pairing fanfic?), you'd have to take that into account, which isn't too hard, provided that you recorded which fic came from which chunk.
+
+Like [[/u/wordhammer]], I'd be more concerned about the measurement issues. The "bracket notation" wasn't available until fairly recently, and I am not sure how fast or complete its adoption was. It might be worth splitting the fics up by date of initial posting and/or date of the last update and seeing if there are any sharp jumps. (Another crazy plan would be to manually classify a subsample of the fics based on their keywords, descriptions, and other available information, and use that to train a classifier to do the rest of the dataset. Of course, one then has to take the (inevitable) misclassification into account. There are methods for that, but they are more complicated.)
+
+Also, it might be worth cross-classifying the character lists by genre: Harry P. + Severus S. + Romance = Snarry (probably), but Harry P. + Severus S. + Family = Severitus (probably). So, show the character combinations for Romance fics, as opposed to for non-Romance fics.
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 3
+:DateUnix: 1441409985.0
+:DateShort: 2015-Sep-05
+:END:
+
+***** u/vir_innominatus:
+#+begin_quote
+  Technically, this is a one-stage cluster sample
+#+end_quote
+
+Yeah, I'm hoping my sample size is large enough to make the effects negligible. When you look at [[http://uncertaindecisions.com/wp-content/uploads/2015/09/id_cdf.png][the empirical CDF of IDs]], it looks very smooth. You really have to zoom in to see the discrete jumps. Also, there's bound to be discrete jumps anyway, since all of FFN use the same ID system, so there will be larger jumps and gaps when a particular book/movie besides HP became popular.
+
+#+begin_quote
+  The "bracket notation" wasn't available until fairly recently
+#+end_quote
+
+I ignored brackets entirely. I used the word "pairing" to refer to any fic with two characters. Regarding a classifier, I've thought about it, but I'd have to do the classification based on the summary, since I didn't download the full texts. This would also be a lot of work and I'm just doing this for fun.
+
+I think a different, but equally interesting technique is trying an unsupervised clustering technique and then see which dimensions of the data are best for separating the data
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 2
+:DateUnix: 1441413745.0
+:DateShort: 2015-Sep-05
+:END:
+
+****** u/turbinicarpus:
+#+begin_quote
+  Yeah, I'm hoping my sample size is large enough to make the effects negligible. When you look at the empirical CDF of IDs, it looks very smooth. You really have to zoom in to see the discrete jumps. Also, there's bound to be discrete jumps anyway, since all of FFN use the same ID system, so there will be larger jumps and gaps when a particular book/movie besides HP became popular.
+#+end_quote
+
+A large non-representative sample is no better than a small non-representative sample. That said, your sample probably is representative (because you took a random sample of the 25-fic "clusters"), so for descriptive statistics, it'll do. The cluster sampling issue is only an issue if you want statistical inference, since then you have to think about the [[https://en.wikipedia.org/wiki/Sampling_distribution][sampling distribution]] of your summary statistics.
+
+#+begin_quote
+  I think a different, but equally interesting technique is trying an unsupervised clustering technique and then see which dimensions of the data are best for separating the data
+#+end_quote
+
+Indeed. Another fun thing to do might be to look at a network of users reviewing/faving/following fics of other users and cluster that.
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 2
+:DateUnix: 1441415118.0
+:DateShort: 2015-Sep-05
+:END:
+
+******* u/vir_innominatus:
+#+begin_quote
+  A large non-representative sample is no better than a small non-representative sample
+#+end_quote
+
+You're right, of course. An additional complication (or maybe benefit) was that the ordering fics on each page was constantly changing as new fics were submitted (fics at the end of one page were pushed to the next), so not all of the chunks are 25 fics long. Many are shorter since as I went along, some fics on each page had already been parsed. I collected the data over a period of 24 hours (trying to avoid too many page requests at once), so /another/ issue is that fics sampled later could have gotten a few more fics/reviews since I started. I think it's basically impossible to get a random "snapshot" with webscraping. Maybe FFN would be willing to share metadata...
+
+#+begin_quote
+  Another fun thing to do might be to look at a network of users reviewing/faving/following fics of other users and cluster that
+#+end_quote
+
+Someone actually did that [[http://colah.github.io/posts/2014-07-FFN-Graphs-Vis/][here]]. It's fascinating.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1441418139.0
+:DateShort: 2015-Sep-05
+:END:
+
+
+****** Relatedly, any chance you could post the dataset somewhere?
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 1
+:DateUnix: 1441415888.0
+:DateShort: 2015-Sep-05
+:END:
+
+******* I think that's a violation of the FFN Terms of Service if I do it without permission. It might be worth asking, though.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1441419180.0
+:DateShort: 2015-Sep-05
+:END:
+
+
+** Draco's popularity is expected, but who the hell writes this much James/Lily? May be it is because I avoid Marauder era fanfics for most part, but I had no idea the pairing was so popular.
+
+Also, did not expect this much Ron/Hermione. More than Harry/Ginny even, which was definitely unexpected. It seems that I might have to branch out a bit more.
+:PROPERTIES:
+:Author: PsychoGeek
+:Score: 11
+:DateUnix: 1441387714.0
+:DateShort: 2015-Sep-04
+:END:
+
+*** R/Hr is more popular than H/G because 90% of fics with Harry and being with anyone other than Hermione just stick Ron and her together.
+:PROPERTIES:
+:Score: 11
+:DateUnix: 1441402909.0
+:DateShort: 2015-Sep-05
+:END:
+
+**** Those stories don't mention Ron and Hermione as main characters. This contains only those stories where Ron/Hermione is the main pairing.
+:PROPERTIES:
+:Author: PsychoGeek
+:Score: 3
+:DateUnix: 1441426659.0
+:DateShort: 2015-Sep-05
+:END:
+
+
+*** Well this a random sampling, so it's possible different types of pairings are more popular in terms of reviews/favs. That deserves a whole different post, however.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 3
+:DateUnix: 1441388520.0
+:DateShort: 2015-Sep-04
+:END:
+
+**** In my personal opinion, reviews/favs should mean nothing: views are what's important. Literally how many readers the story has had, not how many used a site-specific bookmarking program to save it or how many commented on it.
+:PROPERTIES:
+:Author: soulofmind
+:Score: 2
+:DateUnix: 1441543225.0
+:DateShort: 2015-Sep-06
+:END:
+
+***** I agree. I don't think that info is publicly available though, just to authors for their stories
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 2
+:DateUnix: 1441576522.0
+:DateShort: 2015-Sep-07
+:END:
+
+****** I didn't consider that, that's disappointing when I think about it, those would be some interesting stats to have. I'd share my view counts for a good cause lol.
+:PROPERTIES:
+:Author: soulofmind
+:Score: 1
+:DateUnix: 1441723647.0
+:DateShort: 2015-Sep-08
+:END:
+
+
+*** It may be because its random, but I know in the early fandom, there was an absolute flurry of Marauder-era fanwork simply because there were so few details given about it. Almost any characterisation was valid.
+:PROPERTIES:
+:Author: 360Saturn
+:Score: 1
+:DateUnix: 1442463202.0
+:DateShort: 2015-Sep-17
+:END:
+
+
+** Hermione and Severus fics are always disturbing to me.
+:PROPERTIES:
+:Author: Hutnick
+:Score: 26
+:DateUnix: 1441392677.0
+:DateShort: 2015-Sep-04
+:END:
+
+*** I liked them when I was closer to Hermione's age, but now that I'm catching up to Snape I find them super disturbing.
+:PROPERTIES:
+:Author: suddenlyshoes
+:Score: 8
+:DateUnix: 1441423426.0
+:DateShort: 2015-Sep-05
+:END:
+
+**** I stumbled onto one that was great but within 2 pages it turned into 3 some with Harry. Like what?!
+:PROPERTIES:
+:Author: Hutnick
+:Score: 6
+:DateUnix: 1441428404.0
+:DateShort: 2015-Sep-05
+:END:
+
+***** ...That's not an SSHG it's an SS/HG/HP then. Poly couples/threesomes are different from fics about two people falling for one another.
+:PROPERTIES:
+:Author: soulofmind
+:Score: 1
+:DateUnix: 1441542958.0
+:DateShort: 2015-Sep-06
+:END:
+
+****** Sure they are different. In my opinion any Snape/Hermy fic is disturbing.
+:PROPERTIES:
+:Author: Hutnick
+:Score: 1
+:DateUnix: 1441548052.0
+:DateShort: 2015-Sep-06
+:END:
+
+******* it's just that your example... isn't an example... so you really wouldn't know... no offense...
+:PROPERTIES:
+:Author: soulofmind
+:Score: 2
+:DateUnix: 1441571893.0
+:DateShort: 2015-Sep-07
+:END:
+
+******** No that wasn't my example it was another reason why I think Snape/Hermy fics can be weird.
+:PROPERTIES:
+:Author: Hutnick
+:Score: 1
+:DateUnix: 1441576094.0
+:DateShort: 2015-Sep-07
+:END:
+
+
+*** Anyone and Snape fics are always disturbing to me.
+:PROPERTIES:
+:Author: FutureTrunks
+:Score: 18
+:DateUnix: 1441405293.0
+:DateShort: 2015-Sep-05
+:END:
+
+
+*** I love them! I think what I enjoy about the pairing is that it combines two of the series' most intellectual characters, and I love seeing what happens when you pair two great minds like that. I personally prefer stories where Hermione's no longer a student, though.
+:PROPERTIES:
+:Author: silva-rerum
+:Score: 6
+:DateUnix: 1441397588.0
+:DateShort: 2015-Sep-05
+:END:
+
+**** That is fine but I have come across many where they end up together romantically. Just weird.
+:PROPERTIES:
+:Author: Hutnick
+:Score: 8
+:DateUnix: 1441397768.0
+:DateShort: 2015-Sep-05
+:END:
+
+
+**** I really enjoy Snape/Hermione as well and mostly agree with what you've said.
+:PROPERTIES:
+:Score: 9
+:DateUnix: 1441403121.0
+:DateShort: 2015-Sep-05
+:END:
+
+
+** This was an interesting presentation of data. Thanks for taking the time to put this together.
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1441393116.0
+:DateShort: 2015-Sep-04
+:END:
+
+
+** Very cool stats, thanks for the hard work you put in.
+:PROPERTIES:
+:Author: hugggybear
+:Score: 3
+:DateUnix: 1441408424.0
+:DateShort: 2015-Sep-05
+:END:
+
+
+** This made me so happy because Snape is number four and SSHG made the list<3
+:PROPERTIES:
+:Author: soulofmind
+:Score: 6
+:DateUnix: 1441402506.0
+:DateShort: 2015-Sep-05
+:END:
+
+*** Why did you get thumbs down? What, stating a preference for a couple without harming anyone else gets a thumbs down? Really?
+
+I like SSHG too, but Snarry is still my favorite.
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1441403217.0
+:DateShort: 2015-Sep-05
+:END:
+
+
+** X-Post referenced from [[/r/harrypotter]] by [[/u/vir_innominatus]]\\
+[[https://www.reddit.com/r/harrypotter/comments/3jmk8u/i_analyzed_the_character_choices_from_200000/][I analyzed the character choices from 200,000 Harry Potter fanfiction stories. See if your ship made the cut! [x-post from /r/DataisBeautiful]]]
+
+--------------
+
+^{^{I}} ^{^{am}} ^{^{a}} ^{^{bot}} ^{^{made}} ^{^{for}} ^{^{your}} ^{^{convenience}} ^{^{(Especially}} ^{^{for}} ^{^{mobile}} ^{^{users).}}\\
+^{^{[[https://www.reddit.com/message/compose/?to=OriginalPostSearcher][Contact]]}} ^{^{|}} ^{^{[[https://github.com/papernotes/Reddit-OriginalPostSearcher][Code]]}}
+:PROPERTIES:
+:Author: OriginalPostSearcher
+:Score: 2
+:DateUnix: 1441384169.0
+:DateShort: 2015-Sep-04
+:END:
+
+
+** Thanks for compiling this. Also, the James/Lily portmanteau is Jily.
+:PROPERTIES:
+:Author: Dimplz
+:Score: 2
+:DateUnix: 1441385861.0
+:DateShort: 2015-Sep-04
+:END:
+
+*** Also, can't LJ mean life journal as well? That would also complicate things, as some docs mention "find me on LJ" "original on LJ" etc.
+:PROPERTIES:
+:Author: I_cant_even_blink
+:Score: 7
+:DateUnix: 1441397618.0
+:DateShort: 2015-Sep-05
+:END:
+
+
+*** Someone mentioned that on [[/r/harrypotter]]. I was hoping for Limes because I like when portmanteaus are themselves words, like Harmony
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 3
+:DateUnix: 1441386272.0
+:DateShort: 2015-Sep-04
+:END:
+
+**** Limes [[http://www.urbandictionary.com/define.php?term=lime][has a different meaning in the fanfiction subculture]].
+:PROPERTIES:
+:Author: wordhammer
+:Score: 10
+:DateUnix: 1441387227.0
+:DateShort: 2015-Sep-04
+:END:
+
+***** Ah, that makes sense. I was aware of lemons, not limes. It would be very interesting to look at the way those terms come about and evolve
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 3
+:DateUnix: 1441388773.0
+:DateShort: 2015-Sep-04
+:END:
+
+****** More info for the curious: [[http://fanlore.org/wiki/Citrus]]
+:PROPERTIES:
+:Author: wordhammer
+:Score: 3
+:DateUnix: 1441389110.0
+:DateShort: 2015-Sep-04
+:END:
+
+
+*** Jily sounds gross. Just call it James/Lily.
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1441394208.0
+:DateShort: 2015-Sep-04
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: -3
+:DateUnix: 1441394525.0
+:DateShort: 2015-Sep-04
+:END:
+
+*** Wow can't believe people are downvoting you for stating an opinion. I too dislike Snape and Malfoy and think that they were pretty despicable people in the books. At least Snape had some redeeming features but I really can't think of any for Draco.
+:PROPERTIES:
+:Author: falconandeagle
+:Score: 1
+:DateUnix: 1441458985.0
+:DateShort: 2015-Sep-05
+:END:

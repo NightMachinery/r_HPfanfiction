@@ -1,0 +1,542 @@
+#+TITLE: What would you like out of an online story downloader?
+
+* What would you like out of an online story downloader?
+:PROPERTIES:
+:Score: 17
+:DateUnix: 1430016192.0
+:DateShort: 2015-Apr-26
+:FlairText: Discussion
+:END:
+Hello guys and gals, recently I decided to take on this small project to suspend boredom and maybe learn a thing or two in the process.
+
+It's a small web app, similar to ficsave.com, in which you paste the link to an online story, choose your preferred format and download it easily.
+
+I decided to make this because other websites and applications are so sporadic. By that I just mean that website support varies, each website only supports a handful of sites, each format comes out differently, sometimes there's issues with parts of the story being cut out, or the text is not encoded properly... At least, this is what I've found. I figured I would make a one-stop shop, so to speak. But I need your help.
+
+So far I have support for fanfiction.net, fictionpress.com, portkey.org, and fanficauthors.net.
+
+I have support for HTML, MOBI, and EPUB formats.
+
+This is being mind with this subreddit specifically in mind. I love you guys.
+
+My question is: Which websites do you want to see support for, and which formats? Additionally, any features you've seen (like the send to kindle email on ficsave) that you would like to see on the app. I'm going to add it all.
+
+Thanks!
+
+
+** honestly I have basically three requirements:
+
+- preserves original formatting
+
+- supports whatever site story is on
+
+- epub download
+
+Anything else is window dressing
+:PROPERTIES:
+:Author: k5josh
+:Score: 10
+:DateUnix: 1430028564.0
+:DateShort: 2015-Apr-26
+:END:
+
+*** Yep, the most important part is the first one, so many fic downloaders remove italics it's not even funny.
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1430051532.0
+:DateShort: 2015-Apr-26
+:END:
+
+
+*** - preserves original formatting (done)
+
+- supports whatever site story is on (if you download from lesser known sites, please specify)
+
+- epub download (done)
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1430062919.0
+:DateShort: 2015-Apr-26
+:END:
+
+**** Hmmm... do you think downloading story forum threads like the ones at [[http://forums.spacebattles.com/threads/alchemical-solutions-worm-exalted-story-only-thread.283060/][SpaceBattles]] or SufficientVelocity would be possible? Not many Harry Potter fanfics there, but it seems 90% of Worm's are on it. And the layout sucks so much, ugh.
+
+I haven't seen any fanfiction downloaders that supported threads, so it'd probably be a challenge and more trouble than it's worth, but suggesting anyway just in case you feel like it.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1430082680.0
+:DateShort: 2015-Apr-27
+:END:
+
+***** I'm not sure. With sites like fanfiction.net, you get a very specific area that contains the story content. On a forum, there is no area/html element that always contains the story element. It could be different per thread. I could take a crack at this, but it would be later on. Thanks for the suggestion!
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1430087213.0
+:DateShort: 2015-Apr-27
+:END:
+
+****** Your best bet for SB or SV would probably be threadmarks, but those are optional and so not all (~70% maybe?) authors make use of them.
+
+So what kind of timescale were you thinking of for this? Releasing this week, month, era, what?
+:PROPERTIES:
+:Author: k5josh
+:Score: 1
+:DateUnix: 1430110417.0
+:DateShort: 2015-Apr-27
+:END:
+
+
+** I'd like to see support for harrypotterfanfiction.com as well. PDF versions would be nice if you can do that too.
+
+EDIT: I thought of another site: archiveofourown.org
+:PROPERTIES:
+:Author: ApteryxAustralis
+:Score: 7
+:DateUnix: 1430020307.0
+:DateShort: 2015-Apr-26
+:END:
+
+*** Both will be there for you at launch.
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1430062788.0
+:DateShort: 2015-Apr-26
+:END:
+
+
+*** Does HPFF have any good stories that aren't posted anywhere else? The only one I know is /Clash/ by Shez, but I admit I don't pay much attention to the site.
+:PROPERTIES:
+:Author: PsychoGeek
+:Score: 3
+:DateUnix: 1430074665.0
+:DateShort: 2015-Apr-26
+:END:
+
+**** Nothing to write home about so far. Their search function sucks though.
+:PROPERTIES:
+:Author: ApteryxAustralis
+:Score: 2
+:DateUnix: 1430074938.0
+:DateShort: 2015-Apr-26
+:END:
+
+***** They have a similar function to FF.net you just need to click past the Google search engine they direct you to
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1430083732.0
+:DateShort: 2015-Apr-27
+:END:
+
+
+**** A pretty good one is Ignite by Slide. Not sure if it's posted anywhere else
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1430083799.0
+:DateShort: 2015-Apr-27
+:END:
+
+
+** Do you also find that FanFicFare (formerly FamFicDownloader) supports too few? The only things I've been sad about are LiveJournal pages (but I don't really blame them, since there's no standardized formatting).
+:PROPERTIES:
+:Author: shocabo
+:Score: 4
+:DateUnix: 1430032207.0
+:DateShort: 2015-Apr-26
+:END:
+
+*** Fanficfare is now the most complete service I've seen, thank you for showing me. Obviously I won't be supporting as many sites at launch, but I will get there soon enough :)
+
+Edit: Actually, I know of this service! It used to be hosted on Google Code under a different name. I used it all the time. I thought it had disappeared for good! Thanks!
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1430063081.0
+:DateShort: 2015-Apr-26
+:END:
+
+**** Is FanFicFare open source? Maybe you could extend (or fork) it?
+:PROPERTIES:
+:Author: shocabo
+:Score: 2
+:DateUnix: 1430178200.0
+:DateShort: 2015-Apr-28
+:END:
+
+
+** Kindle email is a feature I absolutely love, even if there's a queue (a listed waiting time is great if that's necessary).
+
+Preserve a link to both the story and author- when using an ereader app, often you can click and it'll open in the default browser, which is really convenient.
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 4
+:DateUnix: 1430039059.0
+:DateShort: 2015-Apr-26
+:END:
+
+*** u/deleted:
+#+begin_quote
+  Kindle email is a feature I absolutely love, even if there's a queue (a listed waiting time is great if that's necessary).
+#+end_quote
+
+This will be available at launch for you (with or without a waiting time)
+
+#+begin_quote
+  Preserve a link to both the story and author- when using an ereader app, often you can click and it'll open in the default browser, which is really convenient.
+#+end_quote
+
+Already done :)
+
+Edit: Formatting
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1430063151.0
+:DateShort: 2015-Apr-26
+:END:
+
+**** Glad to hear it, on both counts! Good luck, and I look forward to seeing it.
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 2
+:DateUnix: 1430063615.0
+:DateShort: 2015-Apr-26
+:END:
+
+
+** Proper preservation of the story info such as rating, language, category, word count, and update/publish dates.
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 3
+:DateUnix: 1430039694.0
+:DateShort: 2015-Apr-26
+:END:
+
+*** All implemented :) Thanks for the input!
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1430063954.0
+:DateShort: 2015-Apr-26
+:END:
+
+
+** Integration with Dropbox, Google Drive, or iCloud. I use all three, so...any one of those would satisfy me. Especially if there is a queue, just convert it and drop it into my cloud storage whenever it happens.
+
+Bonus feature: I would happily pay for a service that would monitor some fics I specify, check them perhaps once a day for updates, and then automatically update the file in my cloud storage (dropbox/Google Drive/whatever) for me. However, I doubt this will ever happen. It would be complicated to write, and probably get you banned from your supported sites. You'd have to write it as an app I can deploy on a server of my own. If you did, I'd probably still pay to license it.
+
+Plain text (.txt) output is another feature I'd like. It's easier to search, easy to parse programmatically, and small. If you want to preserve some formatting, you could always use Markdown, I guess. But sometimes I just want a quick glance at something, and I don't want to open a web browser or word processor or epub reader.
+
+Don't be afraid to support websites that already offer downloads, like AO3. If the site already offers an epub download, just redirect to that and start the download, for example. Sometimes when moving fast, or on mobile, it could be useful to have a place we can paste any URL to any fanfic, almost anywhere, without even having to think about if the site itself offers downloads or not. Just go to your app, and get downloads in the format we want. Also, not all sites offer downloads in all formats.
+
+The more I think about it, the more I hope you'll write this as an open-source web app, similar to Wordpress or MediaWiki. I have servers, thanks, and I have no problem configuring stuff to run on them. Let me deploy a downloader for me and my buddies, and then my app with 10 users probably won't get an IP ban from fanfiction.net. Whereas your demo copy, with nine million users, will be banned within a week.
+:PROPERTIES:
+:Author: fastfinge
+:Score: 3
+:DateUnix: 1430059641.0
+:DateShort: 2015-Apr-26
+:END:
+
+*** u/deleted:
+#+begin_quote
+  Integration with Dropbox, Google Drive, or iCloud. I use all three, so...any one of those would satisfy me. Especially if there is a queue, just convert it and drop it into my cloud storage whenever it happens.
+#+end_quote
+
+I like the idea of implementing a cloud storage service of some sort. There won't be queues, because the app is instance based. Should this pose an issue in the future, I will change it.
+
+#+begin_quote
+  Bonus feature: I would happily pay for a service that would monitor some fics I specify, check them perhaps once a day for updates, and then automatically update the file in my cloud storage (dropbox/Google Drive/whatever) for me. However, I doubt this will ever happen. It would be complicated to write, and probably get you banned from your supported sites. You'd have to write it as an app I can deploy on a server of my own. If you did, I'd probably still pay to license it.
+#+end_quote
+
+I would like to see a similar service, and perhaps in the future I could add this to the website, but for now, it is outside the scope of this project. Just as a sidebar, it will be completely free.
+
+#+begin_quote
+  Plain text (.txt) output is another feature I'd like. It's easier to search, easy to parse programmatically, and small. If you want to preserve some formatting, you could always use Markdown, I guess. But sometimes I just want a quick glance at something, and I don't want to open a web browser or word processor or epub reader.
+#+end_quote
+
+Plaintext support will be available at launch, just for you. It will have some formatting, I.e. Paragraph breaks, indentation, quotations, etc. But nothing major. I could add support for a special "dev" version as well that dumps all the text into a condensed text file. Is that something you'd have use for?
+
+#+begin_quote
+  Don't be afraid to support websites that already offer downloads, like AO3. If the site already offers an epub download, just redirect to that and start the download, for example. Sometimes when moving fast, or on mobile, it could be useful to have a place we can paste any URL to any fanfic, almost anywhere, without even having to think about if the site itself offers downloads or not. Just go to your app, and get downloads in the format we want. Also, not all sites offer downloads in all formats.
+#+end_quote
+
+Indeed I could redirect to each existing download, but that goes against the spirit of the project. Besides, once the html source is grabbed, it is more simple to convert it to instead of writing in special case scenarios to find available downloads.
+
+#+begin_quote
+  The more I think about it, the more I hope you'll write this as an open-source web app, similar to Wordpress or MediaWiki. I have servers, thanks, and I have no problem configuring stuff to run on them. Let me deploy a downloader for me and my buddies, and then my app with 10 users probably won't get an IP ban from fanfiction.net. Whereas your demo copy, with nine million users, will be banned within a week.
+#+end_quote
+
+As far as I know, no services have been banned by any website... Perhaps I'm wrong? I know fanficdownloader went down, but that's because it was moving away from Google code... It's up again as fanficfare.
+
+Nonetheless, I have no plans to make the app open source for now (sorry!).
+
+Thanks for the input!
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1430069243.0
+:DateShort: 2015-Apr-26
+:END:
+
+**** Edit: Thanks for nudging me to check out fanficfare! I didn't realize you could get it with pip; I thought you had to use calibre, and I loathe that huge bloatware. Between fanficfare, skicka, cron, and some shell-scripts, I should have the automatic fanfic updater I want in a couple hours. Winning!
+
+#+begin_quote
+  Plaintext support will be available at launch, just for you. It will have some formatting, I.e. Paragraph breaks, indentation, quotations, etc. But nothing major. I could add support for a special "dev" version as well that dumps all the text into a condensed text file. Is that something you'd have use for?
+#+end_quote
+
+Yay! For what I'm doing, plaintext is good enough; I already split the text file into tokens once I get it, so stripping out quotations and paragraphs and stuff wouldn't be all that useful.
+
+#+begin_quote
+  As far as I know, no services have been banned by any website... Perhaps I'm wrong?
+#+end_quote
+
+I'm afraid you are. While only one site does this, it's unfortunately the site that matters: Fanfiction.net bans downloaders, repeatedly. The one that got the most coverage was when they banned flagfic: [[http://www.teleread.com/net-related-tools-from-search-engines-to-blogware/fanfic-net-blocks-flag-fanfic-e-book-converter-disallows-copying-and-pasting/]]
+
+There was even a petition about it, that resulted in nothing.
+
+They also banned AO3 from importing fics from them, for similar reasons: [[http://archiveofourown.org/admin_posts/183?show_comments=true]]
+
+They also give stuff like FFDL issues: [[https://groups.google.com/forum/#!topic/fanfic-downloader/jG18LuV7uXQ]]
+
+because they have extremely, extremely tight per-IP request throttling in place.
+
+So, in short, even if you are doing an instanced app, unless every instance uses a different IP address, your software will be banned at fanfiction.net extremely quickly. Your choices are either to make it open source, or have a queue, in order to keep requests per minute under a threshold that will attract the attention of the FF administrators.
+
+I'll close with the relevant section in the fanfiction.net terms that they're enforcing:
+
+#+begin_quote
+  E. You agree not to use or launch any automated system, including without limitation, "robots," "spiders," or "offline readers," that accesses the Website in a manner that sends more request messages to the FanFiction.Net servers in a given period of time than a human can reasonably produce in the same period by using a conventional on-line web browser. Notwithstanding the foregoing, FanFiction.Net grants the operators of public search engines permission to use spiders to copy materials from the site for the sole purpose of and solely to the extent necessary for creating publicly available searchable indices of the materials, but not caches or archives of such materials. FanFiction.Net reserves the right to revoke these exceptions either generally or in specific cases.
+#+end_quote
+:PROPERTIES:
+:Author: fastfinge
+:Score: 2
+:DateUnix: 1430075819.0
+:DateShort: 2015-Apr-26
+:END:
+
+***** It seems like the reasonable course of action for me would be to implement a queue for chapter requests on sites that limit me like this. 1 minute or even 30 seconds could give me the leeway for this. In the future, I could have multiple IPs for chapter page requests, but it would be costly. Thanks for the input!
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1430078910.0
+:DateShort: 2015-Apr-27
+:END:
+
+****** Yeah, that is how you'll have to do it, sadly. I believe, and please please don't quote me on this, that the limit of requests at fanfiction.net is 24 per minute, at the moment.
+
+Also, looks like I was editing my above comment at the exact time you answered it. If you didn't see it, thanks for pointing me at fanficfare! I didn't realize it offered a command line interface. Also, it can update downloads. So my need for an auto-updater for fanfic files on Google Drive will be satisfied shortly. :-)
+:PROPERTIES:
+:Author: fastfinge
+:Score: 2
+:DateUnix: 1430079573.0
+:DateShort: 2015-Apr-27
+:END:
+
+******* No problem buddy! I used to use FanFicFare while it was still on Google Code. It's definitely one of the best out there :)
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1430086911.0
+:DateShort: 2015-Apr-27
+:END:
+
+
+****** [deleted]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1430085128.0
+:DateShort: 2015-Apr-27
+:END:
+
+******* Interesting. I would still need to visit the page to verify the story is a match, but that could potentially lower page requests exponentially, especially on stories like Harry Potter & The Fifth Element (86 chapters down to 1 page request?). I will play around with this idea and see if I can make it work (at least, well enough to implement).
+
+Thanks for the input!
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1430086829.0
+:DateShort: 2015-Apr-27
+:END:
+
+
+** Readable HTML versions like the ones that used to come from FLAG would be nice. Not a must-have, but since pdf is a slow piece of shit and it has page breaks, html gives pretty much the best PC experience.
+
+[[https://i.imgur.com/Hhuy5vA.png][Example]].
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1430072976.0
+:DateShort: 2015-Apr-26
+:END:
+
+*** Interesting. Right now my HTML files are very plain-jane, I changed the font size and spacing, as well as the paragraph width, but a more completely designed file would be cool too. Thanks for the input!
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1430074699.0
+:DateShort: 2015-Apr-26
+:END:
+
+
+** Just a word of caution before you start: FanFiction.net appears to be in the habit of blocking downloaders, especially web-based ones. They eventually blocked a tracker (that exported an RSS feed of a fanfic's updates) a friend of mine had implemented about a year ago, and, IIRC, they blocked FlagFic.com (which is down anyway) at some point.
+
+I could be wrong about this, of course, or my information could be out of date, but considering that FF.net tries to prevent copying and pasting text from a fanfic's body, expect obstruction.
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 1
+:DateUnix: 1430098160.0
+:DateShort: 2015-Apr-27
+:END:
+
+*** Indeed. I don't know what else I can do about this, besides what I already have implemented. I added a delay for chapter downloading at 12 chapters / minute, which is well within their ToS for clicking at a human rate. Doesn't help if multiple people are downloading at the same time though... Or if the IP is banned. Oh well I guess, it's beyond my scope of wisdom... For now ;)
+
+Thanks for the input!
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1430276186.0
+:DateShort: 2015-Apr-29
+:END:
+
+
+** Livejournal support would be nice, if possible. So many good fics still languish in blog format.
+:PROPERTIES:
+:Author: CauldronCape
+:Score: 1
+:DateUnix: 1430103251.0
+:DateShort: 2015-Apr-27
+:END:
+
+*** I will look into this for you. Thanks for the suggestion!
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1430276004.0
+:DateShort: 2015-Apr-29
+:END:
+
+
+** FB2 format would also be nice
+:PROPERTIES:
+:Author: flupo42
+:Score: 1
+:DateUnix: 1430154301.0
+:DateShort: 2015-Apr-27
+:END:
+
+*** Will be available at launch or shortly thereafter :)
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1430275975.0
+:DateShort: 2015-Apr-29
+:END:
+
+
+** This all sounds wonderful, I will definitely give it a go.
+
+If you ever feel like expanding, I would love an alternative to calibre specifically geared towards fanfiction (yes I know about its downloader). Frankly, there are far too many tools, and the multiple copies of the same story and obscene amount of subfolders and space it takes up and difficult filter/tagging/rating systems and poor syncing with iBooks makes it impossible for me to use properly. I'd be happy to help define/design the interface for an alternative, but am useless with the programming of it.
+:PROPERTIES:
+:Author: kerrryn
+:Score: 1
+:DateUnix: 1430334462.0
+:DateShort: 2015-Apr-29
+:END:
+
+
+** One big thing for me that would make me switch downloaders is the ability to download an entire library of an author. Being able to manually change the title, name and add a description would also help - that is one thing none of the downloaders out their has. Finally, don't just limit it to fanfiction.net, include some of the other major sites like harrypotterfanfiction.com, that would make it truly unique. Please post when the site's up and running - I would love to check it out.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1430765184.0
+:DateShort: 2015-May-04
+:END:
+
+
+** Support for SugarQuill.net would be appreciated. Though the site has ostensibly shutdown years ago, it still has many good fanfics. I would be willing to help beta test your script if you need testers.
+:PROPERTIES:
+:Author: kileko65
+:Score: 1
+:DateUnix: 1435170673.0
+:DateShort: 2015-Jun-24
+:END:
+
+
+** In case if it can have a downloadable/locally-launch-able version too:
+
+- _1.1. bulk download from a specific website in a manner that wouldn't register as DoS/traffic spam.
+
+- _1.2. cloud account configuration and automated uploading to the cloud storage. (not important)
+
+- _1.3. easy generation of links to share the downloaded/re-uploaded files with others (not important)
+
+In case if it is only going to be workable as an online website:
+
+- _2.1. create a backup copy of the requested story --- either on your own storage or on 3rd-party servers like mega or google docs.
+
+In both cases
+
+- _3.1. a “plugin” system, which would allow for the users to add additional websites.
+:PROPERTIES:
+:Author: OutOfNiceUsernames
+:Score: 1
+:DateUnix: 1430043075.0
+:DateShort: 2015-Apr-26
+:END:
+
+*** An offline version is unlikely, but not totally out of the question.
+
+#+begin_quote
+  In case if it can have a downloadable/locally-launch-able version too:
+
+  - _1.1. bulk download from a specific website in a manner that wouldn't register as DoS/traffic spam.
+#+end_quote
+
+Similar to fanfictiondownloader? This would be doable. Registering as anything other than multiple page requests per story, for each chapters page? A little outside my scope of wisdom. This could be implemented online, but I would need to figure out the page request issue.
+
+#+begin_quote
+
+  - _1.2. cloud account configuration and automated uploading to the cloud storage. (not important)
+#+end_quote
+
+Dropbox or similar services, or do you mean specific to the service?
+
+#+begin_quote
+
+  - _1.3. easy generation of links to share the downloaded/re-uploaded files with others (not important)
+#+end_quote
+
+As of now the files are temporary on the server, and are deleted periodically to free up space. I would need huge servers for archiving. I want to keep this free, so this is unlikely.
+
+#+begin_quote
+  In case if it is only going to be workable as an online website:
+
+  - _2.1. create a backup copy of the requested story --- either on your own storage or on 3rd-party servers like mega or google docs.
+#+end_quote
+
+Interesting. If I integrated a cloud storage solution, this would be a happy consequence. I will take this under advisement.
+
+#+begin_quote
+  In both cases
+
+  - _3.1. a “plugin” system, which would allow for the users to add additional websites.
+#+end_quote
+
+Unfortunately, the app is in php, and allowing users to inject snippets would pose a security risk. I will implement a request form in which users can ask for websites and formats. Each website is its own module, easy to add and remove, so it doesn't take me long to add support.
+
+Thanks so much for the input!
+
+Edit: Typos
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1430068138.0
+:DateShort: 2015-Apr-26
+:END:
+
+**** /(note: #1.1. --- #1.3. were only about the locally usable version of the software)/
+
+#+begin_quote
+  Similar to fanfictiondownloader?
+#+end_quote
+
+FFdldr seems to be processing stories one-by-one, even if multiple chapters at a time. What I was referring to was more like a website crawler/offline mirror-maker. Similar to what was requested [[http://www.reddit.com/r/HPfanfiction/comments/313uwl/bulk_download/][here]] not long ago.
+
+#+begin_quote
+  Dropbox or similar services, or do you mean specific to the service?
+#+end_quote
+
+Dropbox, mega.co.nz, Google Drive/Docs and such, yes.
+
+Cheers and good luck with your project.
+:PROPERTIES:
+:Author: OutOfNiceUsernames
+:Score: 2
+:DateUnix: 1430075396.0
+:DateShort: 2015-Apr-26
+:END:

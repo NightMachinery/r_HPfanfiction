@@ -1,0 +1,146 @@
+#+TITLE: How to convert fanfiction to Google Drive?
+
+* How to convert fanfiction to Google Drive?
+:PROPERTIES:
+:Author: audeneverest
+:Score: 2
+:DateUnix: 1558891998.0
+:DateShort: 2019-May-26
+:END:
+I have over 100 fics saved to my Kindle (and I only started downloading fics I completely read a month or two ago, though I've been reading fanfics for 3/4 of a year), but I realized that downloading fics to Google Drive would be more convenient. Does anyone know of an online website (preferably one that can be used on iPhones and/or iPads) that can convert fanfiction to a form that can be exported to and read on Google Drive? Or a way to convert books from Kindle to Google Drive (which would be better)? Thanks!!
+
+
+** im fairly certain ao3 has a download option? most conversion websites will take one format and turn it to a pdf and vice versa, though since im not certain what format ao3 uses I can't fully confirm this method.
+
+on my computer i use a program called fanfiction converter to download fics in different formats. you might have to google a bit to find it but it shouldn't be awful. :)
+:PROPERTIES:
+:Author: NeonicBeast
+:Score: 3
+:DateUnix: 1558893874.0
+:DateShort: 2019-May-26
+:END:
+
+*** Ao3 you can download as PDF, MOBI, EPUB, HTML, and AZW3
+:PROPERTIES:
+:Author: TGotAReddit
+:Score: 1
+:DateUnix: 1558925742.0
+:DateShort: 2019-May-27
+:END:
+
+
+** If I may ask, why do you consider Google Drive more convenient?
+
+I've used both the Kindle app and Google Drive on my phone, and in my experience Google Drive uses much more RAM/processing power/battery life to handle long word files in comparison to the Kindle app.
+
+Alternatively, if you don't like the Kindle app, you could use the Google Play Books app.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 2
+:DateUnix: 1558901952.0
+:DateShort: 2019-May-27
+:END:
+
+*** I can't read fanfiction on the Kindle website, so when I'm on a computer I can't access my saved fics. Other than that, I prefer Kindle because I like the feel of reading an ebook.
+:PROPERTIES:
+:Author: audeneverest
+:Score: 2
+:DateUnix: 1558902332.0
+:DateShort: 2019-May-27
+:END:
+
+**** I'm not sure what you mean by "Kindle website." Do you mean browsing Amazon for ebooks to purchase?
+
+The [[https://www.amazon.com/Amazon-Digital-Services-LLC-Download/dp/B00UB76290?th=1][Kindle app]] is something different. You can install the app on your PC to read ebooks that way. To read fanfiction ebooks in the app you just need to copy the ebook files to the correct folder on your PC.
+
+Here's a guide on how to do that if you like: [[https://www.howtogeek.com/howto/13169/add-mobi-ebooks-to-kindle-for-pc/]]
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 1
+:DateUnix: 1558903293.0
+:DateShort: 2019-May-27
+:END:
+
+***** I mean Kindle Cloud Reader. I have a school Chromebook with most websites and apps blocked, so I can't use fanfiction websites or download the Kindle app. I can use Kindle Cloud Reader, though. I had been bringing my Kindle to school so I have something to do in my free time (phones aren't allowed) but I somehow lost it.
+:PROPERTIES:
+:Author: audeneverest
+:Score: 3
+:DateUnix: 1558903450.0
+:DateShort: 2019-May-27
+:END:
+
+****** I had never heard of the Kindle Cloud Reader before. That's neat.
+
+Looks like you can upload other ebooks to your Kindle cloud from your PC or phone: [[http://pubgen.com/blog/kindle-cloud-upload/]]
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 1
+:DateUnix: 1558906295.0
+:DateShort: 2019-May-27
+:END:
+
+
+** Save the fics in whatever format you want ( I do epub and mobi) and you can then use them in multiple ways. Plus they are backed up that way. AO3 has a download function, and FF2ebook can be used to download [[https://FF.net][FF.net]] stories.
+:PROPERTIES:
+:Author: raveninthewind84
+:Score: 2
+:DateUnix: 1558907291.0
+:DateShort: 2019-May-27
+:END:
+
+*** I use FF2ebook and AO3's download function for Kindle, but mobi and ePub don't work on Google Drive. Thanks anyways!
+:PROPERTIES:
+:Author: audeneverest
+:Score: 2
+:DateUnix: 1558907367.0
+:DateShort: 2019-May-27
+:END:
+
+**** Someone else already mentioned Google play but I will second it. It does epubs and the thing I love is that I can switch from multiple devices like my home computer, my phone and my work computer without an issue.
+
+I don't use AO3 at all. When I am on my phone I just use the epub links that the bot provides and then it's fairly simple to upload to my Play books account on Google. If I find something I like that the bot hasn't generated a link for I just enter the URL for it on ficsave.xyz and then upload it to Google Play.
+:PROPERTIES:
+:Author: alwaysaloneguy
+:Score: 3
+:DateUnix: 1558923872.0
+:DateShort: 2019-May-27
+:END:
+
+***** I second this. Google Play Books + ff2ebook.com is the best
+:PROPERTIES:
+:Author: SurbhitSrivastava
+:Score: 2
+:DateUnix: 1558937762.0
+:DateShort: 2019-May-27
+:END:
+
+
+***** I think I'm going to try out Google Play Books. Signing into my home account is blocked on my Chromebook, but next year websites won't be blocked so it will be convenient (though my phone is technically allowed, I won't be supposed to use it in class). I also like that you can use it on the web so I can use it on any device. Though, it will take a while to redownload all 106 books onto Google Play Books LOL (because I can't upload them from Kindle). Thanks for the recommendations everyone!
+:PROPERTIES:
+:Author: audeneverest
+:Score: 2
+:DateUnix: 1558971434.0
+:DateShort: 2019-May-27
+:END:
+
+
+** Looks like google play books is what you want based on your other responses. You can upload epub books there and read both online and on your phone/tablet
+:PROPERTIES:
+:Author: TGotAReddit
+:Score: 2
+:DateUnix: 1558925908.0
+:DateShort: 2019-May-27
+:END:
+
+
+** [[http://ficsave.xyz][Ficsave]] can be used to convert to ePub, MOBI, and plain text. It cannot export directly to GDrive, but they're just files, you can upload them to anything that'll take them.
+
+There are Numerous E-Reader Apps for Google Drive (ePub/MOBI), and plain text is plain text and can be read by anything.
+
+I have absolutely no Idea if Kindle -> GDrive is even possible. Probably not.
+:PROPERTIES:
+:Author: g4rretc
+:Score: 1
+:DateUnix: 1559066163.0
+:DateShort: 2019-May-28
+:END:

@@ -1,0 +1,88 @@
+#+TITLE: Can we have a pinned post of Haphne recs ?
+
+* Can we have a pinned post of Haphne recs ?
+:PROPERTIES:
+:Author: Bleepbloopbotz2
+:Score: 0
+:DateUnix: 1572624080.0
+:DateShort: 2019-Nov-01
+:FlairText: Misc
+:END:
+Seems like everyday,we get posts requesting good quality fics for the pair and it's always the same handful of fics recced .
+
+
+** I honestly think this proposal has some problems on a few different levels.
+
+First, there are only two pinned post slots per subreddit, so this takes up one slot, I will get back to this point.
+
+Second, Is this really a problem? It's not that the subreddit is just constantly spammed with Haphne posts, one a day is semi-reasonable.
+
+Third, why single out the Haphne posts? We have tons of things that come up all the time, (pet peeves, requests for other common ships, etc).
+
+Four, If Haphne gets a pinned post why doesn't Harmony get one? Or Harry/Luna? By putting Haphne front and center on the subreddit it basically makes it the "official" parring of this subreddit, and you can't make a post for each major parring because of the slot limit. It singles out Haphne as something different than everything else, and in some ways shuts down conversation about Haphne to have it as a pinned post, because people are less likely to interact with it.
+
+Five, It is selective enforcement in a way, and that never works out. It treats Haphne differently and so both unofficially endorses it and puts it down at the same time.
+
+The best way to deal with a repeated request is to use the "linksub()" command in the bot. It posts all the fics from whatever reddit thread is put into the parentheses, so just link a few of the previous threads and everyone is happy.
+:PROPERTIES:
+:Author: bonsly24
+:Score: 12
+:DateUnix: 1572627379.0
+:DateShort: 2019-Nov-01
+:END:
+
+*** No one reads the sidebar though.
+
+We should have the fanfiction tools pinned to the top though.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1572627948.0
+:DateShort: 2019-Nov-01
+:END:
+
+**** And it is a shame too. The bot has so many cool features that mostly go unused. Having a "Here is how to use the ffnbot" pin is actually a great idea in my opinion. For example my way of linking fics (and of hiding my commands from the post to keep it clean looking) is right there in the documentation, but I see so many people posting both a link and a linkffn command when just adding ffnbot!directlinks would work.
+
+#+begin_example
+  To hide a tag, you can add a bunch of ^ to superscript the tag away. So you could do ^^^^^^^^^^^^^^^^^ffnbot!directlinks to use that tag and have it not appear in your comment!
+#+end_example
+:PROPERTIES:
+:Author: bonsly24
+:Score: 2
+:DateUnix: 1572628551.0
+:DateShort: 2019-Nov-01
+:END:
+
+***** Yep! Although do you think the bot would deal with its limits with repeated thread links?
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1572629055.0
+:DateShort: 2019-Nov-01
+:END:
+
+****** Hmm, good question. Presumably if the threads shared a bunch of fics it should lighten the load a bit. I have linked threads that had fics I was also linking in my comment (and they weren't duplicated) so it should be fine I think? But I don't know for certain, the bot does get very finicky ocasinaly.
+:PROPERTIES:
+:Author: bonsly24
+:Score: 2
+:DateUnix: 1572629281.0
+:DateShort: 2019-Nov-01
+:END:
+
+
+*** That's a far better idea
+:PROPERTIES:
+:Author: Bleepbloopbotz2
+:Score: 1
+:DateUnix: 1572627468.0
+:DateShort: 2019-Nov-01
+:END:
+
+
+** Just the nature of reddit. Doesn't bother me overmuch.
+
+(This totally /is/ Harry/Daphne fanboy central though lol).
+:PROPERTIES:
+:Author: rek-lama
+:Score: 1
+:DateUnix: 1572637135.0
+:DateShort: 2019-Nov-01
+:END:

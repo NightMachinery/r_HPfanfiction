@@ -1,0 +1,177 @@
+#+TITLE: Rampant exposition within an internal monologue
+
+* Rampant exposition within an internal monologue
+:PROPERTIES:
+:Score: 20
+:DateUnix: 1449177353.0
+:DateShort: 2015-Dec-04
+:FlairText: Discussion
+:END:
+I'm looking for people's thoughts and tips on this issue: a character is having a conversation, but the actually talking is separated by long chunks of characterization and backstory disguised as the character's inner thoughts. [[http://www.helpingwritersbecomeauthors.com/dos-and-donts-of-internal-monologue/][It seems to be a common problem in writing]]. Writers, how do you get around it? Seems like it's a symptom of "showing" being harder than "telling", that and writing natural conversations is hard. Personally, I do not enjoy have to scroll through paragraphs of inner monologue to reach the next part where someone actually says something. Also, in real life people do not have the time (or reason) to reflect on the past in length. See below for an example of what I'm talking about, taken from linkffn(7292932). Granted, it's a crossover with /Ghost in the Shell/ which is known for long winded exposition.
+
+ 
+
+#+begin_quote
+  *Andromeda snorted. "I heard. Apparently, there was a terrorist attack on King's Cross not five minutes prior to your call."*
+
+  Nurse Brown flinched as she heard the news. She still remembered the aftermath of the 2005 bombings. One of the subway bombs somehow took out a disillusioned warding cluster that maintained the floo network's stability. Three hundred people were on their way to the ministry via the floo network at the time the stabiliser failed. 60 people made it to the hospital alive. The first thing the wizarding world knew about it was when Arthur Weasley's skin, and only his skin, flew across the main lobby and hit the wand-weighing clerk in the face. Sure, they put the poor guy back together later, but it'd taken months and Arthur had been teetering on the precipice for the majority of his stay. Most weren't so lucky though, ending up in pieces in front of fireplaces up and down Wizarding Europe. One guy had his spleen deposited in Majorca, his liver in Beauxbatons' arrival flooplace and left his left eyeball at a resort in Transylvania. The rest of him landed in the high security wing of Nurmengard Prison, where he died a miserable death drowning in his own blood. And now, another muggle transportation hub had been blown to hell on the one day where the majority of the wizarding world for the UK is within spitting distance of the target. She was wondering why she hadn't been called upon yet to support the operation. So it wasn't a muggle firework. Merlin. And how did Harry get poisoned in the middle of an explosion, of all things? She sighed, put on her professional mask and faced her superior. *"Hermione Weasley's waiting in the staff lounge room off Emergency diagnostics. She should have the full story for us then."*
+
+  Andie frowned at the direction Lavender had taken this conversation. *"And why, exactly, do I have to hear it from her rather than from you?"*
+#+end_quote
+
+
+** Some people love this stuff, but it's unnatural, distracting and in this case far overdone. Lavender /might/ recall the overall mess of the 2005 incident, but the more detail included here only confuses the matter rather than informing on it. How is it that a muggle bomb was able to disrupt the Floo enough to dismember users and project them to highly-secured locations? Besides which, unless she was a principle investigator for the entire incident, most of that information wouldn't be available to her.
+
+#+begin_quote
+  Nurse Brown shuddered at that. Her worst day at work was in 2005, a result of a muggle bomb interfering with the Floo network. The parts and pieces of victims she'd had to match and reassemble...
+
+  Lavender gulped down some memory-stirred bile and said to Mrs. Tonks, "I imagine Hermione-- er, Dr. Weasley -- might know more about this. I'll take you up. She's in the staff lounge on second floor, by the Triage."
+#+end_quote
+:PROPERTIES:
+:Author: wordhammer
+:Score: 12
+:DateUnix: 1449184629.0
+:DateShort: 2015-Dec-04
+:END:
+
+
+** I think the best way to get around it is to weave the exposition within the dialogue. Yet, you must also refrain from the easy trap of the characters just spouting exposition to each other. For example:
+
+#+begin_quote
+  "What happened?" Harry asked
+
+  "Exposition. Exposition," Hermione answered.
+
+  "And then what happened?"
+
+  "Continue exposition," Hermione said.
+#+end_quote
+
+That's a poor way of using dialogue for exposition.
+
+I actually wrote a chapter for the simple purpose of going through exposition without just dumping the information within inner monologues or heavy handed dialogue.
+
+[[https://m.fanfiction.net/s/8379655/25/]]
+
+So, I wanted to write the chapter that explained the back drop of the first "book" of HBS in such a way that avoided explanation through inner monologue. I also wanted someone who hadn't read any of HBS to be able to start at this chapter and not be too confused about the history of the AU.
+
+At the same time, I wanted to give these characters some depth and personality through their dialogue and interactions. I think if you want to avoid these long bouts of inner monologues, this is one way to do it. Weave the exposition through the dialogue, but also flesh out the characters and have them go through their own development.
+:PROPERTIES:
+:Author: KwanLi
+:Score: 4
+:DateUnix: 1449242061.0
+:DateShort: 2015-Dec-04
+:END:
+
+*** Yeah, that's a fantastic example of weaving exposition through dialogue. I've read your story through before actually, but I never really pay proper attention the first time through something. On this reread the whole chapter is fascinating, the small details, the slight misdirection.
+
+I didn't know any of the characters and yet I still wanted to listen to what they were saying. Really great stuff.
+:PROPERTIES:
+:Author: ILoveToph4Eva
+:Score: 2
+:DateUnix: 1449415573.0
+:DateShort: 2015-Dec-06
+:END:
+
+
+** linkffn(Jamie Evans and Fate's Fool) has this.
+:PROPERTIES:
+:Author: Karinta
+:Score: 3
+:DateUnix: 1449193626.0
+:DateShort: 2015-Dec-04
+:END:
+
+*** Sure does, thanks!
+
+ 
+
+Hmmm..I am guessing that any bashing fic will have it cause Harry needs to inform the readers what horrible things have been done that justify him being a jerk
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1449203650.0
+:DateShort: 2015-Dec-04
+:END:
+
+
+*** [[http://www.fanfiction.net/s/8175132/1/][*/Jamie Evans and Fate's Fool/*]] by [[https://www.fanfiction.net/u/699762/The-Mad-Mad-Reviewer][/The Mad Mad Reviewer/]]
+
+#+begin_quote
+  Harry Potter stepped back in time with enough plans to deal with just about everything fate could throw at him. He forgot one problem: He's fate's chewtoy. Mentions of rape, sex, unholy vengeance, and venomous squirrels. Reposted after takedown!
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 12 *|* /Words/: 77,208 *|* /Reviews/: 372 *|* /Favs/: 1,876 *|* /Follows/: 611 *|* /Published/: 6/2/2012 *|* /Status/: Complete *|* /id/: 8175132 *|* /Language/: English *|* /Genre/: Adventure/Family *|* /Characters/: <Harry P., N. Tonks> *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=8175132][EPUB]]}
+
+--------------
+
+*Bot v1.3.0 - 9/7/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* Use /ffnbot!delete/ to delete a comment! Use /ffnbot!refresh/ to refresh bot replies!
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1449193704.0
+:DateShort: 2015-Dec-04
+:END:
+
+
+** You could use flashbacks in that scene, when the news takes Lavender back to that day.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 2
+:DateUnix: 1449220474.0
+:DateShort: 2015-Dec-04
+:END:
+
+*** That still breaks the dialog flow. The problem here is that (for the reader) there is a major pause between elements of speech. While a flashback might be more 'active' it still breaks the conversation, perhaps even more the exposition there now.
+:PROPERTIES:
+:Author: TheBlueMenace
+:Score: 1
+:DateUnix: 1449562908.0
+:DateShort: 2015-Dec-08
+:END:
+
+**** Then restructure the dialogue in the scene. Start with the Nurse staring at the casaulties, triggering the flashback, then start the dialogue.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 1
+:DateUnix: 1449576956.0
+:DateShort: 2015-Dec-08
+:END:
+
+***** It may not be that easy, for example, you don't start a random conversation with something like: "Lots of people are dead." you start with "Hello, how are you? what are you doing?..... Oh thats nice, that reminds me of that time lots of people died."
+:PROPERTIES:
+:Author: TheBlueMenace
+:Score: 1
+:DateUnix: 1449614304.0
+:DateShort: 2015-Dec-09
+:END:
+
+****** In the example given, you can have her listen to the news, or see some wounded wizard brought in, and have a flashback without anyone talking to her.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 1
+:DateUnix: 1449618043.0
+:DateShort: 2015-Dec-09
+:END:
+
+
+** [[http://www.fanfiction.net/s/7292932/1/][*/Woes of a magical android/*]] by [[https://www.fanfiction.net/u/2675104/Darklooshkin][/Darklooshkin/]]
+
+#+begin_quote
+  "All was well", Harry thought. And so it was-for 15 minutes. With a terrorist attack on King's Cross leaving him in a magically induced healing coma, he is volunteered for a full prosthetic body replacement. But there is a price, mayhap a war involved.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter + Ghost in the Shell Crossover *|* /Rated/: Fiction M *|* /Chapters/: 2 *|* /Words/: 15,104 *|* /Reviews/: 22 *|* /Favs/: 114 *|* /Follows/: 141 *|* /Updated/: 8/22/2011 *|* /Published/: 8/16/2011 *|* /id/: 7292932 *|* /Language/: English *|* /Genre/: Sci-Fi/Adventure *|* /Characters/: Harry P., M. Kusanagi *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=7292932][EPUB]]}
+
+--------------
+
+*Bot v1.3.0 - 9/7/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* Use /ffnbot!delete/ to delete a comment! Use /ffnbot!refresh/ to refresh bot replies!
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1449177362.0
+:DateShort: 2015-Dec-04
+:END:

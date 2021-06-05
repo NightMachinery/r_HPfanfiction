@@ -1,0 +1,22 @@
+#+TITLE: Is it possible to filter OUT by flair?
+
+* Is it possible to filter OUT by flair?
+:PROPERTIES:
+:Author: carelesslazy
+:Score: 2
+:DateUnix: 1584297720.0
+:DateShort: 2020-Mar-15
+:FlairText: Meta
+:END:
+If it is possible, can somebody please explain to me how to do so? Do I have to switch to old reddit? Do I have to turn off night mode?
+
+
+** I don't know about default reddit, but you can do that with the [[https://www.reddit.com/r/Enhancement/][Reddit Enhancement Suite]] (RES) addon for your browser.
+
+With that addon installed, whenever you are on reddit you can click on the settings console icon to create your own filters in the Subreddits -> fillteReddit -> Flair section.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 3
+:DateUnix: 1584298426.0
+:DateShort: 2020-Mar-15
+:END:

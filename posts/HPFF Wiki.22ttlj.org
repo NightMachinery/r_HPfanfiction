@@ -1,0 +1,211 @@
+#+TITLE: HPFF Wiki
+
+* HPFF Wiki
+:PROPERTIES:
+:Author: wont_eat_bugs
+:Score: 9
+:DateUnix: 1397269653.0
+:DateShort: 2014-Apr-12
+:FlairText: Discussion
+:END:
+I was exploring the HPFF Wiki (great idea, btw!) and and a gazillion questions and some ideas to expand on the great start that's been made.
+
+The HP Fanfiction Universe is HUGE. Enormous. There is something for everybody, and while I know we'll never have every single fanfic ever written including in the Wiki (nor should we), I would love to add some categories to what already exists. I don't want to go charging in like a rampaging Blast-Ended Skrewt, though, so I thought I'd list some ideas and see what the community in general thinks. I'm happy to incorporate the ideas here or forward them to the Wiki Administrative team or... I'm not certain what the proper protocol is.
+
+I was thinking it might be helpful to have a couple more genres (Crossover, AU-Magical, AU-Non-magical, Historical, Science Fiction) and I'd like to increase the Themes category substantially. I have a list of 15-20 themes that I adapted (stole) from the Painless J site but aren't on our Wiki. I would also like to work on the pairings a bit and help build the Wiki as a resource.
+
+More than anything, I'm seeking your wisdom and guidance. I'd love to contribute to the Wiki and work on it as time permits, but I don't want to step on toes either. Thoughts? Comments? Ideas?
+
+
+** I think a tag system like the old Livejournal communities have is a good idea (For example: AU:Non-Magical, or whatever).
+
+Slight Tangent, Wall of Text Ahead:
+
+But honestly, I think a big problem of the fandom in general is that the golden age was in the 2002-2006 period, so most of the best work are spread out across between archaic, poorly designed archives like FictionAlley/Astronomy Towers and HarryPotterFanfiction, blogging sites like Dreamwidth and Livejournal and personal homepages, with certain dedicated archives in between (Skyhawke for example, is invitation only, so exposure are minimal). Most modern rec lists, this Wiki included only consider the stuffs in AO3 and FF.Net, which is good in some ways and bad in others (AO3 and FF.Net consist of fairly modern writers, so the stuffs are more canon compliant, and the amount of epic lengthed fics are much higher. However, because of how the archive works, you have a lot more shits to shift through before you get the gem). This may be taking things a little too far, but a mirroring system would be nice. The popularization of AO3 and FFN helps a lot, but we still have authors deleting their works for whatever reason. Lifejournals get friendslocked, old sites goes down, etc... It would be fairly easy to keep with Google Doc, but maintenance could be a problem
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1397308582.0
+:DateShort: 2014-Apr-12
+:END:
+
+*** For tagging, the closest thing we've got is [[http://reddit-hpff.wikia.com/wiki/Category:Lists:_Themed_Lists][themed lists]]; it seems to work decent enough for categorization, but wikia search is kind of horrible, so you basically have to look at the themed lists and pick one (and if a story is categorized in a list, that will appear on the bottom of the story page as a category "tag" type thing).
+
+And we absolutely don't discriminate based on host site! :D The wiki is open to all fics from everywhere. It just happens to be that the users who have been adding stories to the database have a preference for the bigger sites.
+
+I love the idea of a mirroring system, but I think it would require a dedicated task force. One very small and inactive wiki would never be able to get anything meaningful done. Maybe that could be a new project for the subreddit itself? That's an exciting prospect, honestly! I'd love to see that happen.
+:PROPERTIES:
+:Author: felicitations
+:Score: 1
+:DateUnix: 1397315195.0
+:DateShort: 2014-Apr-12
+:END:
+
+**** u/deleted:
+#+begin_quote
+  And we absolutely don't discriminate based on host site! :D The wiki is open to all fics from everywhere. It just happens to be that the users who have been adding stories to the database have a preference for the bigger sites.
+#+end_quote
+
+Yup, I'm not blaming anyone, but that IS exactly the problem I stated. We're way past the fandom's golden age, and those remaining either remain in their own community which has their own rec list/wiki and interact solely there, while the newer readers/writers only know/care about the newer/larger archives. I was hoping by revamping the wiki, we could bridge the two
+
+#+begin_quote
+  I love the idea of a mirroring system, but I think it would require a dedicated task force. One very small and inactive wiki would never be able to get anything meaningful done. Maybe that could be a new project for the subreddit itself? That's an exciting prospect, honestly! I'd love to see tha
+#+end_quote
+
+The hardest things to do IMO, is archiving the really old stuffs. Newsgroups, Yahoo Groups, personal sites, etc... Those needs to be done by hand usually. The bigger archives will often have API, or a script can be written to comb them automatically. I don't have time right now (school is just about to start again), but I can look into that next holiday. Hosting is fairly simple through Google Doc, and 5gb per account is more than enough.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1397385810.0
+:DateShort: 2014-Apr-13
+:END:
+
+***** I think I can see what you're getting at... that we could sort of use the wiki as a portal to mirrored fics hosted elsewhere? I could see that working nicely -- at first I thought you meant, like, convert the wiki to a mirroring site rather than a database, which would be more work than just starting a new project from scratch! But we could keep the wiki mostly as is, and when a fic is mirrored on Google Docs or something, then we could just create a story page on the wiki and provide a link to that mirror. I'd definitely be willing to do anything that needs to be done on the wiki side to make that happen, if a dedicated group were organized to do all of the mirroring! I just personally wouldn't want to be involved with the mirroring side of things, because I'm completely unfamiliar with the legal ins and outs of hosting abandoned/deleted content.
+:PROPERTIES:
+:Author: felicitations
+:Score: 1
+:DateUnix: 1397404647.0
+:DateShort: 2014-Apr-13
+:END:
+
+****** Fanfiction itself falls under the grey area, but in general the stance of authors on it is "If you don't make money off it, I don't give a shit". If a FF author explicitly decides he/she doesn't want his/her fic online ever again and contact us, we'll just take it down
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1397430322.0
+:DateShort: 2014-Apr-14
+:END:
+
+
+*** I'm still active on the LJ/DW sites and love their tagging system. :)
+
+When I'm considering a fic for the Wiki, I check to see if its hosted on AO3 or FF.net and use that link instead of one to the journaling sites. If I do need to use a link to LJ/DW, I make certain it's not friends-locked so you don't need an account or to join a comm to read it. But you're absolutely right about old archives going down. Skyehawke was inaccessible for about two weeks while the site admin was struggling through some domain issues. I don't even like to think about what might have been lost. From what I understand, Silver Snitch is gone for good.
+:PROPERTIES:
+:Author: wont_eat_bugs
+:Score: 1
+:DateUnix: 1397324341.0
+:DateShort: 2014-Apr-12
+:END:
+
+**** Skyhawke had domain name issue for years. Tien Ru has been pretty fast in recent years though, this year was kind of a fluke it took so long. The issues is in archives like Wolf & Hound (and silver snitch). I've got no idea how that thing is still running. The site looks like it was designed in Frontpage 2000, the contact email is a hotmail account, most likely abandoned and the last update was in 2003. If I have to guess, I'd say the admin had it on automatic renewal and just forgot. Hosting and domain name for a site like that is 20-30 a year at best, and it'll seem like a CC fee unless you look closely
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1397385983.0
+:DateShort: 2014-Apr-13
+:END:
+
+
+** Not very related to what you're saying, but I'd really like a rating system. DarkLordPotter's doesn't have many fics while FFnet's favorite system doesn't really correlate with quality, so it's hard to find fics that are actually good or sort by "best".
+
+I'm pretty sure Wikia allows polls, but whoever is in charge of the wiki should look into a better ranking system. Maybe even with a top 100 or something.
+
+Seems to me like it would be the best use of the wiki.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1397306292.0
+:DateShort: 2014-Apr-12
+:END:
+
+*** The problem is wikis just aren't a good way to organize data in a way that's searchable by multiple criteria such as rating, pairing, etc. I want to create a site that aggregates fanfic recommendations and reviews, but I don't have a lot of free time lately; I started a new job a couple weeks ago.
+:PROPERTIES:
+:Author: denarii
+:Score: 2
+:DateUnix: 1397312141.0
+:DateShort: 2014-Apr-12
+:END:
+
+
+*** One of the main goals of the wiki when we started it was to incorporate a rating system, but we couldn't ever quite figure it out. You can read all of our thoughts about it [[http://reddit-hpff.wikia.com/wiki/Thread:2170][here]], in the latter half of the thread -- basically, we really want to have a rating system, but haven't found an easy way to do it. It's been a while since we last explored the idea, so I can do a bit of research and see if there are any new options... if there are, then implementing one of them would my first priority for the wiki! If anyone at all has any ideas, I would love to hear them.
+
+Since we couldn't find a proper way to rate fics, we just created categories of "featured fics" and "quality fics" and hoped that users could come to a consensus on which fics are the best of the best, and which are verified good (since I sure as hell can't be bothered to check every fic that's posted to ensure it isn't crap :p). That never even got implemented, though, for myriad reasons :/
+:PROPERTIES:
+:Author: felicitations
+:Score: 2
+:DateUnix: 1397314750.0
+:DateShort: 2014-Apr-12
+:END:
+
+**** u/deleted:
+#+begin_quote
+  Since we couldn't find a proper way to rate fics, we just created categories of "featured fics" and "quality fics" and hoped that users could come to a consensus on which fics are the best of the best, and which are verified good (since I sure as hell can't be bothered to check every fic that's posted to ensure it isn't crap :p). That never even got implemented, though, for myriad reasons :/
+#+end_quote
+
+Isn't the point of having a wiki/rec list a giant list of featured/quality fic :P?
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1397386318.0
+:DateShort: 2014-Apr-13
+:END:
+
+***** Hehe, well yes, it is a large part of the point! :D But there really are many reasons... not enough active users, too few fics/too little fic diversity, not enough time on anybody's part to get the ball rolling, etc. There does seem to be an uptick of interest in the wiki lately, so I can try to get something implemented in the next few weeks/months. (Poor timing, though -- I just started spring quarter and I'm stupid busy!)
+:PROPERTIES:
+:Author: felicitations
+:Score: 1
+:DateUnix: 1397403185.0
+:DateShort: 2014-Apr-13
+:END:
+
+
+** Hi! wiki admin here :)
+
+Well, it's a wiki -- it's community-run! Don't be afraid to jump in and help out! The wiki doesn't have many admins/mods in the first place, so it's not like there are many toes available for stepping on. purpleyuan hasn't been active on the wiki recently, but does seem to be here on reddit, so I'm sure you'll hear from them if there's any sort of objection or anything -- and I doubt there will be any :)
+
+I'll add a Science Fiction genre -- I planned on adding it as soon as I saw we got a sci fi story added to the wiki the other day ;) Our crossover, AU, etc. "genres" are actually [[http://reddit-hpff.wikia.com/wiki/Category:Lists:_Themed_Lists][themed lists]]; basically, genres are being kept as your typical vague literary genres, and anything more fanfic-specific or HP-specific is set as a themed list (because the way we categorize by genre isn't flexible enough to allow for more diverse themes). Please, please go right ahead and create whatever lists you see fit! Just take a peek at our other themed lists and copy the formatting! And if you think there are themed lists that should be changed or are redundant or whatever, you can leave a comment on the theme page in question.
+
+For pairings and things, I do have them set up in a certain way and don't really want them created willy-nilly -- but that doesn't mean you can't help out! There's a partial explanation on the [[http://reddit-hpff.wikia.com/wiki/Category:Pairings][pairing category page]], and if you want to make some new pairings, I'll just PM you a brief explanation on how I do it, and you could go right ahead! It's nothing complicated or confusing, just kind of tedious :) I would love for anyone to help out with that, as long as they stick to the system. (And systems can be changed, of course, if people would like them to change, as long as there's some discussion beforehand!)
+
+Basically, as long as you don't mess with things like the wiki layout, basic organization setup, templates, or anything like that, then just go full speed ahead with whatever! I haven't been posting new content, really, but I am keeping an eye on the activity and I go through and fix any errors I spot, so don't be worried about making a mistake and getting banned for eternity :D
+:PROPERTIES:
+:Author: felicitations
+:Score: 2
+:DateUnix: 1397316839.0
+:DateShort: 2014-Apr-12
+:END:
+
+*** This is very helpful. Thanks!
+
+Other than Science Fiction, I didn't really see anything missing on the Genres list, other than perhaps 'Crossover'. I wasn't certain if Alternate Universe Magical/Non-Magical would be a genre or a theme, though, since I've seen it listed both ways.
+
+As for Themes, there are a number I'd like to add (Creatures, Vampires, Werewolves, Disability, Mpreg, Animagus, Powerful/Mage), but maybe I should wait until I have fics to add into them before I build them.
+
+I was wondering if the Snape/Harry pairing should be divided into slash and mentor/father (non/slash) since it's one of the few pairings I can think of that divides itself pretty cleanly along those lines. Does Harry/Sirius do the same? I've not read enough in that pairing to know.
+
+I wouldn't dream of touching the layout or templates. I don't know enough about how Wiki operates to begin to touch it!
+:PROPERTIES:
+:Author: wont_eat_bugs
+:Score: 1
+:DateUnix: 1397323917.0
+:DateShort: 2014-Apr-12
+:END:
+
+**** There is a "crossover" themed list -- that just felt like the right place to put it, since it's more of a "type" than a genre (like, readers know what they're in for when they find a "romance" or "adventure" story, but a crossover can be romantic, adventurous, dark, funny, etc.). I'd say the same for AUs. But that's just my thinking, and the whole purpose of the wiki is to be a tool for readers, so we can change anything if there's a demand for it!
+
+Go ahead and create themed lists, even if you don't have any stories in mind! :) The only times I'd recommend you hold off is if it's a very rare or niche theme (like "Vampire!Harry/Draco/Blaise MPreg" or something). Stuff like you listed is all super common in fanfic, so the themed lists would definitely be used.
+
+And the pairing categories are explicitly for romantic relationships, since that's the assumed meaning when you see the format Name1/Name2. I think there's already a themed list in place for Snape/Harry friendship (maybe mentor/father, too), and more could be created for other friendship pairings. Plus, every so often, I go through all stories tagged with a pairing and manually categorize them as Het or Slash or whatever they are, so there are a few ways you can just look at a story with two main characters and tell whether they're having sex or not :p
+
+I think if anything, it might make the most sense to just integrate the themed lists more smoothly into the genre/pairing/etc. categorization, since right now the lists are just kind of... there. I am ridiculously busy these days, but I can try to come up with something, and if you or anyone has any ideas, I can look into how to make them happen!
+:PROPERTIES:
+:Author: felicitations
+:Score: 2
+:DateUnix: 1397327188.0
+:DateShort: 2014-Apr-12
+:END:
+
+***** More good stuff to know. I love how much thought you've put into everything. I'll see how much I can get added to the Wiki this afternoon.
+:PROPERTIES:
+:Author: wont_eat_bugs
+:Score: 2
+:DateUnix: 1397327440.0
+:DateShort: 2014-Apr-12
+:END:
+
+
+**** u/deleted:
+#+begin_quote
+  I was wondering if the Snape/Harry pairing should be divided into slash and mentor/father (non/slash) since it's one of the few pairings I can think of that divides itself pretty cleanly along those lines. Does Harry/Sirius do the same? I've not read enough in that pairing to know.
+#+end_quote
+
+Avoid that entire can of worm and use Mentor:Snape and Snape/Harry. Luckily this is not an Anime fandom, or there would be the entire x/y vs y/x issue /shudder
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1397386137.0
+:DateShort: 2014-Apr-13
+:END:

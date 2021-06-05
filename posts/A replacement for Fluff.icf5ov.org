@@ -1,0 +1,33 @@
+#+TITLE: A replacement for Fluff
+
+* A replacement for Fluff
+:PROPERTIES:
+:Author: barry922
+:Score: 2
+:DateUnix: 1597803895.0
+:DateShort: 2020-Aug-19
+:FlairText: Misc
+:END:
+I enjoy reading docs on AO3 but the site isn't really mobile friendly. I used Fluff, but it's kinda buggy.
+
+Any suggestions on an app to use besides fluff?
+
+
+** I find ao3 works perfectly fine on mobile, what browser do you use?
+:PROPERTIES:
+:Author: MrMrRubic
+:Score: 2
+:DateUnix: 1597814983.0
+:DateShort: 2020-Aug-19
+:END:
+
+
+** “the site isn't really mobile friendly” ???? Really. It worked for me in Firefox (with the Reader option on) way better than FFnet.
+
+Anyway, [[https://github.com/JimmXinu/FanFicFare]] (either as the stand-alone command line application or as the Calibre plugin) is really great in pulling down EPubs from all fanfic sites, and EPubs in turn can be read on mobile by many independent applications.
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1597823629.0
+:DateShort: 2020-Aug-19
+:END:

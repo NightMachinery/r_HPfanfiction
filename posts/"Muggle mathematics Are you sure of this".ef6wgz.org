@@ -1,0 +1,204 @@
+#+TITLE: "Muggle mathematics? Are you sure of this?"
+
+* "Muggle mathematics? Are you sure of this?"
+:PROPERTIES:
+:Author: Redditforgoit
+:Score: 162
+:DateUnix: 1577220589.0
+:DateShort: 2019-Dec-25
+:FlairText: Prompt
+:END:
+"Yes, Headmaster. The wizarding world is eons behind and I believe the Dark Lord might have secretly used that knowledge for his more advanced spells, including the binding of Death Eaters". "I must admit, my dear Septima, the very concept of imaginary numbers does seem magical." "Oh, it goes deeper than that. Are you familiar with Euler's identity?" "Of course, a beautiful equation. But how..." Dumbledore froze, as if in a trance. ".../the power he knows not/... Of course! We need to find Harry!".
+
+
+** e, the number that describes constant self-referential growth (or decay)
+
+i, the number that extends the number line into a new dimension by attempting the impossible
+
+pi, the number that describes how far one must travel to return where they began
+:PROPERTIES:
+:Author: IrvingMintumble
+:Score: 82
+:DateUnix: 1577227662.0
+:DateShort: 2019-Dec-25
+:END:
+
+*** All 3 of which can be approximated to 3. /Laughs in engineering/
+:PROPERTIES:
+:Author: AceTriton
+:Score: 69
+:DateUnix: 1577236506.0
+:DateShort: 2019-Dec-25
+:END:
+
+**** wait you approximate i as 3? What projects have you worked on so I don't use them?
+:PROPERTIES:
+:Author: IrvingMintumble
+:Score: 62
+:DateUnix: 1577244594.0
+:DateShort: 2019-Dec-25
+:END:
+
+
+**** Do you happen to be named B. S. Johnson?
+
+* gnupratchett
+  :PROPERTIES:
+  :CUSTOM_ID: gnupratchett
+  :END:
+:PROPERTIES:
+:Author: vernonff
+:Score: 14
+:DateUnix: 1577250194.0
+:DateShort: 2019-Dec-25
+:END:
+
+
+** So... The Arithmancer series then...
+:PROPERTIES:
+:Author: philj114
+:Score: 57
+:DateUnix: 1577233454.0
+:DateShort: 2019-Dec-25
+:END:
+
+
+** I am not familiar with Euler's identity but I still love this
+:PROPERTIES:
+:Author: hypercell57
+:Score: 30
+:DateUnix: 1577227240.0
+:DateShort: 2019-Dec-25
+:END:
+
+*** e^{i*pi}=-1
+
+In human terms, this means if you multiply e by itself i*pi times, you get -1.
+
+This is weird. These are all constants that were discovered in very different ways with very different uses, you would very much not expect just about anything you do with them to come up with a nice round number like -1.
+
+e was discovered when calculating what would happen if instead of compounding interest once a year, or twice a year, or 12 times a year, you do it infinite times per year?
+
+Say I do 100% annually. I turn 1 dollar into 2 dollars.
+
+Or 50%(100/2) twice a year. 1 -> 1.50 -> 2.25
+
+25%(100/4) four times a year. 1 -> 1.25 -> 1.56 -> 1.95 -> 2.44
+
+When you do it 100%/[tiny], every [tiny], you get e, ~2.718.
+
+When you see e in a formula, that means that formula has something to do with something multiplied by itself continuously.
+
+Pi, you probably know, is the ratio of the circumference of a circle to its diameter. It shows up in formulas where something has anything to do with circles, and any time something moves through the same sequence over and over, that has to do with circles. Like as you move through a circle, you get 0 degrees, 90 degrees, 180 degrees, 270 degrees, 360 degrees, which puts you in the same spot as 0 degrees.
+
+i is the square root of -1. When you square -1, you get +1. There is no such thing as a square root of -1. That's just silly. You can have 1 apple, or 2 apples, and in a sense you can have -1 apples, if you had 2 apples and now you have 1 apple, but you can't have i apples. That's not a thing.
+
+i has an interesting thing happen when you /multiply it by itself/ though.
+
+#+begin_example
+  i = i
+
+  i*i = -1
+
+  i*i*i = -i
+
+  i*i*i*i = 1
+
+  i*i*i*i*i = i, which is *back where we started*
+#+end_example
+
+So, when you /compound/ i, you get a /circle/ of values. e describes what happens when you compound things without any arbitrary time frame involved, pi lets you think about circles in terms of nice round numbers because it's 1 circumference / 1 diameter.
+
+So, Euler's identity isn't actually as weird as it seems.
+
+(math people feel free to correct mistakes, i haven't done any of this in seven years)
+:PROPERTIES:
+:Author: IrvingMintumble
+:Score: 65
+:DateUnix: 1577232759.0
+:DateShort: 2019-Dec-25
+:END:
+
+**** Minored in math, though it has been a while for me, too. But you look like you got everything correct, and explained it in nicer, simpler terms than I could have thought up off the top of my head.
+:PROPERTIES:
+:Author: mikekearn
+:Score: 18
+:DateUnix: 1577243494.0
+:DateShort: 2019-Dec-25
+:END:
+
+
+*** Euler's Identity is e^{πi} = -1, sometimes expressed as e^{πi} + 1 = 0.
+
+It is considered one of the most beautiful expressions in mathematics because it brings a handful of the most fundamental building blocks (e, π, i, 1 and 0) in the field together into one simple equation.
+
+[[https://www.youtube.com/watch?v=v0YEaeIClKY][This video]] from 3blue1brown explains how to arrive at this result in fairly accessable manner.
+:PROPERTIES:
+:Author: DoubleFried
+:Score: 37
+:DateUnix: 1577232310.0
+:DateShort: 2019-Dec-25
+:END:
+
+
+** But what happens if someone tries to divide by zero while at Hogwarts?
+:PROPERTIES:
+:Author: Raesong
+:Score: 15
+:DateUnix: 1577250674.0
+:DateShort: 2019-Dec-25
+:END:
+
+*** The entrance to the chamber of secrets opens up
+:PROPERTIES:
+:Author: amoeba-tower
+:Score: 20
+:DateUnix: 1577251951.0
+:DateShort: 2019-Dec-25
+:END:
+
+
+*** Snape takes a load of house points and gives them detention.
+:PROPERTIES:
+:Author: ConsiderableHat
+:Score: 5
+:DateUnix: 1577262185.0
+:DateShort: 2019-Dec-25
+:END:
+
+
+** Hyperreal and Surreal numbers are where the true magic happens, *cries in infinitesimals*.
+:PROPERTIES:
+:Author: DarkLordRowan
+:Score: 12
+:DateUnix: 1577234327.0
+:DateShort: 2019-Dec-25
+:END:
+
+
+** linkffn(The Arithmancer)
+:PROPERTIES:
+:Score: 9
+:DateUnix: 1577239430.0
+:DateShort: 2019-Dec-25
+:END:
+
+
+** Voldemort: My magic is e^x! You can't stop me!
+
+Harry: Hi Tom, my magic is d/dy.
+:PROPERTIES:
+:Author: SamRHughes
+:Score: 4
+:DateUnix: 1577366474.0
+:DateShort: 2019-Dec-26
+:END:
+
+
+** A squared plus B squared equals Voldemort's death and despair
+:PROPERTIES:
+:Author: top-50s
+:Score: 0
+:DateUnix: 1577299830.0
+:DateShort: 2019-Dec-25
+:END:

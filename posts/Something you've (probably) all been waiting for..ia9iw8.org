@@ -1,0 +1,227 @@
+#+TITLE: Something you've (probably) all been waiting for.
+
+* Something you've (probably) all been waiting for.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 61
+:DateUnix: 1597506046.0
+:DateShort: 2020-Aug-15
+:FlairText: Discussion
+:END:
+Edit: Would love if you could either critique or suggest improvements in the comments. Would you use it? Would you not? Why?
+
+I've posted on this subreddit asking for suggestions to improve fanfiction.online before, just wanted to update you all on something I've been working on for a while now, it's finally here!
+
+Drafts. You can now write all your fanfiction in one place, collaborate with others on them, compare their changes, preview them for better reading, and even export them in different formats for other sites. Currently only AO3 and FFN are supported, but let me know what other sites you think I should support.
+
+You can try it out by logging in, it's up now. If you want a preview first, there's some pictures below.
+
+[[https://fanfiction.online/content/static/images/drafts/dark-mobile.png][Dark Mode - Mobile]]
+
+[[https://fanfiction.online/content/static/images/drafts/dark-full.png][Dark Mode - Full]]
+
+[[https://fanfiction.online/content/static/images/drafts/light-mobile.png][Default - Mobile]]
+
+[[https://fanfiction.online/content/static/images/drafts/light-full.png][Default - Full]]
+
+Received a lot of suggestions here on how to improve the site, and have completely revamped the site in the past (almost) two months
+
+When you visit for the first time, there's a guide that will help you get started. Filters/Search are even more extensive, and I addressed complaints from last time that the filters results loaded too slowly. Now results, in some cases load up to 8 times faster!
+
+Also revamped the private messaging, with a much nicer interface and the ability to block others users (another common request).
+
+Chapters, like before, have some reading preferences for comfortable reading. Another pale theme added as well. You can also search entire books for specific phrases.
+
+Really excited to share this update, with so many amazing new features, and a lot I probably forgot mentioning.
+
+Please visit the [[https://fanfiction.online/][site]], and comment your feedback on what more can be improved. Thanks!
+
+
+** Thanks for sharing your site I'll start using it
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1597515115.0
+:DateShort: 2020-Aug-15
+:END:
+
+*** Please do share if you have any suggestions or if you face any issues. Thanks!
+:PROPERTIES:
+:Author: eqwe32
+:Score: 3
+:DateUnix: 1597516353.0
+:DateShort: 2020-Aug-15
+:END:
+
+
+*** Please don't, the site creator has been stealing works from fanfiction.net and AO3 without author's permissions with absolutely no remorse.
+:PROPERTIES:
+:Author: 1jooper
+:Score: 2
+:DateUnix: 1597754051.0
+:DateShort: 2020-Aug-18
+:END:
+
+**** Yeah I just checked and little things are different on this site compared to people's profiles on fanfiction.net and AO3 I will stop using it.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1597754393.0
+:DateShort: 2020-Aug-18
+:END:
+
+
+** This sounds really cool cant wait to check it out!
+:PROPERTIES:
+:Author: ashdawg8790
+:Score: 3
+:DateUnix: 1597515735.0
+:DateShort: 2020-Aug-15
+:END:
+
+*** Thanks! Please leave me a comment here or at [[https://fanfiction.online/contact][fanfiction.online/contact]] if you face any issues or have any suggestions.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 5
+:DateUnix: 1597516193.0
+:DateShort: 2020-Aug-15
+:END:
+
+
+*** Please don't, the site creator has been stealing works from fanfiction.net and AO3 without author's permissions with absolutely no remorse.
+:PROPERTIES:
+:Author: 1jooper
+:Score: 3
+:DateUnix: 1597754074.0
+:DateShort: 2020-Aug-18
+:END:
+
+**** Oh that's not cool then!
+:PROPERTIES:
+:Author: ashdawg8790
+:Score: 1
+:DateUnix: 1597754733.0
+:DateShort: 2020-Aug-18
+:END:
+
+
+** Wow just heard of this and it's pretty amazing . Thanks for taking the time to make this!!
+:PROPERTIES:
+:Author: gagasfsf
+:Score: 2
+:DateUnix: 1597525795.0
+:DateShort: 2020-Aug-16
+:END:
+
+*** You're welcome :) Please do mention if you think of something else that would be helpful.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 3
+:DateUnix: 1597528732.0
+:DateShort: 2020-Aug-16
+:END:
+
+
+*** The site creator has been stealing works from fanfiction.net and AO3 without author's permissions with absolutely no remorse.
+:PROPERTIES:
+:Author: 1jooper
+:Score: 2
+:DateUnix: 1597754095.0
+:DateShort: 2020-Aug-18
+:END:
+
+**** Wow that's disappointing. I thought it was just a viewer :(
+:PROPERTIES:
+:Author: gagasfsf
+:Score: 2
+:DateUnix: 1597768800.0
+:DateShort: 2020-Aug-18
+:END:
+
+
+** Finding my own profile to set a password was not easy. Heck, going through "write" to create an account and login is weird.
+
+I have yet to find the logout function. The password can be changed without requiring the current password or e-mail verification. Not a good combination.
+
+Some stuff seems a bit weird like using /api for stuff like add_update, update_bio and so on but not for the search.
+
+I have cookies for the paths like /wp-content but it's not a wordpress site as far as I can tell. Maybe it was before you changed it?
+
+All small stuff, but makes me a bit concerned about security.
+:PROPERTIES:
+:Author: Leangeful
+:Score: 2
+:DateUnix: 1597581734.0
+:DateShort: 2020-Aug-16
+:END:
+
+*** u/eqwe32:
+#+begin_quote
+  Finding my own profile to set a password was not easy.
+#+end_quote
+
+A shortcut is that you can go to \@me to get to your own profile easily.
+
+You can logout from your account. The password isn't the primary login. I still haven't removed it because it is the prevalent way of logging in online. Logging in through your email is more secure.
+
+#+begin_quote
+  Some stuff seems a bit weird like using /api for stuff like add_update, update_bio and so on but not for the search.
+#+end_quote
+
+The api endpoint is used for the search as well.
+
+One of the main reasons for the revamp in the last two months was security. If you still do have specific concerns though, you can private message me, since I think going into detail under this post will be a bit of a drag for other people going through the comments.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 1
+:DateUnix: 1597583625.0
+:DateShort: 2020-Aug-16
+:END:
+
+
+** Could you make an app for iOS?
+:PROPERTIES:
+:Author: Wizard_King_Cartman
+:Score: 1
+:DateUnix: 1597535697.0
+:DateShort: 2020-Aug-16
+:END:
+
+*** A safari friendly mobile site would the serve the same purpose. Unfortunately, Fanfiction Online isn't very Safari friendly... yet. There are a lot safari specific bugs I'm aware of and working on. When I'm confident that all of them have been ironed out, I'll update. Stay tuned.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 2
+:DateUnix: 1597553827.0
+:DateShort: 2020-Aug-16
+:END:
+
+
+** Are there any authors on your site?
+:PROPERTIES:
+:Author: unknown_dude_567
+:Score: 1
+:DateUnix: 1597735638.0
+:DateShort: 2020-Aug-18
+:END:
+
+*** There aren't any authors with published stories yet, no. Considering it's only been a few days since I released drafts, I wouldn't expect there to be many anyway.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 2
+:DateUnix: 1597753561.0
+:DateShort: 2020-Aug-18
+:END:
+
+**** Ah, OK. It is a great site tho, can't wait for authors to start writing.
+:PROPERTIES:
+:Author: unknown_dude_567
+:Score: 1
+:DateUnix: 1597755215.0
+:DateShort: 2020-Aug-18
+:END:
+
+***** Thanks. I can wait either :)
+:PROPERTIES:
+:Author: eqwe32
+:Score: 2
+:DateUnix: 1597755494.0
+:DateShort: 2020-Aug-18
+:END:

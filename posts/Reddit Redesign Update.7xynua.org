@@ -1,0 +1,169 @@
+#+TITLE: Reddit Redesign Update
+
+* Reddit Redesign Update
+:PROPERTIES:
+:Score: 15
+:DateUnix: 1518787128.0
+:DateShort: 2018-Feb-16
+:FlairText: Meta :snoo:
+:END:
+Hello! As you may or may not know, reddit is being redesigned and certain moderators have received access to the Alpha. The biggest change is the removal of CSS, but there are plans to include that in the redesign at a later point.
+
+If you haven't seen the new redesign, here is are [[https://imgur.com/a/olL1X][some screenshots of what we have been working on]]. Right now, this design is still preliminary and the whole redesign is in alpha, but we thought you should be kept updated. Let us know what you think!
+
+/Remember, we don't really have much of a say in the redesign process, so you should comment to the admins for anything about the overall redesign./
+
+
+** I personally find the background-color hideous. I know it's not too hard to change, but it's such a dirty turquoise that reminds me of hospitals.
+
+The colors of the HP movies were dark blue/orange and some dark-ish grey which is reflected in the current theme, but "muddy turquoise" definitely wasn't.
+
+Rest looks good though!
+
+--------------
+
+Edit: Because I don't feel like just giving destructive criticism, I also played around with the pictures you posted a bit. Now JPEGs aren't nice to edit, but I played around a bit: [[https://i.imgur.com/SnM7zyM.jpg][click]]
+
+I tried a few different backgrounds, but none would really stick well, so in the end I simply chose to stick to the tried and tested dark-grey of this sub. However, this made the screenshot look too boring, so I tried introducing an additionnal accent-color. I'm not sure about this one, but you can see it in the "Posts" part and "[[/r/HPfanfiction][r/HPfanfiction]]"-part of the header. I do think it might make sense to use it (or a similar color) some more in other parts, but in general I think simply keeping the background has two advantages:
+
+- It looks better
+- Keeps the old identity at least a little bit.
+
+I'm not entirely sure though, so yeah.
+
+Can you use actual background-images, or is only a flat color possible for the BG?
+
+Edit 2: [[https://i.imgur.com/fnFXvik.jpg][More accent-color]]. This edit isn't too great since JPEG and text really don't like each other, and I don't have access to the original template. Might be a bit too much, but a bit more staturation for the blues in the original might work out well.
+
+Edit 3: [[https://i.imgur.com/u997WwO.png][Oh, 2nd screenshot was a png, so no artifacts]]
+:PROPERTIES:
+:Author: fflai
+:Score: 36
+:DateUnix: 1518787489.0
+:DateShort: 2018-Feb-16
+:END:
+
+*** Would it be possible for you to sample what it might look like if you flipped contrasts on the background for text and the text itself? Currently we have white text over a darker background, but these new images show black text over a lighter background.
+
+Thanks for sampling your suggestions, by the way. They look really nice. :)
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 3
+:DateUnix: 1518831008.0
+:DateShort: 2018-Feb-17
+:END:
+
+
+*** I dig the darker background mock-ups a bit more than the lighter scheme, but, to be fair, I spend a massive majority of my time staring at screens, so darker stuff is more relaxing for me.
+:PROPERTIES:
+:Author: mistermisstep
+:Score: 2
+:DateUnix: 1519023958.0
+:DateShort: 2018-Feb-19
+:END:
+
+
+*** I agree with the background color. Right now, I have it set to the color that you changed it to in your modified screenshots, but it probably won't stay that color forever. See the screenshots in the comment chain below.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1519703815.0
+:DateShort: 2018-Feb-27
+:END:
+
+**** u/fflai:
+#+begin_quote
+  but it probably won't stay that color forever. See the screenshots in the comment chain below.
+#+end_quote
+
+Sounds good! I'm not a designer by trade, so yeah. I just played around until I found a color that wasn't as bad - but it still was far from perfect, admittedly.
+:PROPERTIES:
+:Author: fflai
+:Score: 1
+:DateUnix: 1519733979.0
+:DateShort: 2018-Feb-27
+:END:
+
+
+** What I really like about the current design is that it stands out, it's the only sub I'm subscribed to that has this dark grey contrasted with the white text, and it feels really nice, in a way (it's also quite pleasing to the eye, the brightness of the screen is reduced).\\
+So in my opinion, besides the weird background colour, the whole design (palette) you're showing seems a bit...generic ?
+:PROPERTIES:
+:Author: costryme
+:Score: 10
+:DateUnix: 1518825576.0
+:DateShort: 2018-Feb-17
+:END:
+
+*** Yeah, I agree. Unfortunately, there isn't any support for that in the redesign. Maybe they'll include a native nightmode, or update RES for that.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1519597600.0
+:DateShort: 2018-Feb-26
+:END:
+
+
+** Why are they getting rid of CSS?
+:PROPERTIES:
+:Score: 9
+:DateUnix: 1518789368.0
+:DateShort: 2018-Feb-16
+:END:
+
+*** It's hard to maintain designs for mods without special expertise, it makes changing the interface of reddit near impossible since every change reddit makes will break /some/ subreddit, and special features (announcments, vote-disabling, ...) can't be translated just don't work on mobile - where a big chunk of reddit's traffic comes from.
+
+This new option will allow branding of subreddits to work on mobile as well, make it easier for amateurs to design subs, and make reddit-development easier and faster for the admins.
+
+I'm still a bit sad about it, but oh well - was only a question of time anyways.
+:PROPERTIES:
+:Author: fflai
+:Score: 10
+:DateUnix: 1518790150.0
+:DateShort: 2018-Feb-16
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1518816326.0
+:DateShort: 2018-Feb-17
+:END:
+
+*** 1. [[https://imgur.com/a/TbEOA][Yes.]]
+2. Yes.
+3. Flair support is kinda weird. I can't change anything on the redesigned flair system without messing up the normal flair system and visa versa. 🤷‍♂️
+4. Can't change this :(
+5. I can probably change this.
+6. I have no idea what you are seeing sorry.
+7. I changed it, check the above screenshots.
+8. The colors of the text changes on hover, which makes it more clear.
+
+Hope this helps!
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1519698727.0
+:DateShort: 2018-Feb-27
+:END:
+
+
+** I agree with [[/u/fflai]] that the light background color is terrible. If we could get the same color we have right now --- that darkish gray --- or something like that, it would do a great deal to make the whole thing seem less alien. Ideally, maintaining the negative color scheme right in the text posts (with white text and a darker background) would be best, but even just changing the areas currently turquoise to a darker color would still be a world of improvement.
+
+I would say that it will reduce legibility to have the whole text of each post right on the front page, rather than just the title and flair, but I suppose this is probably an element of the overall redesign that can't be helped at this level...
+
+Also, I'm not sure if this one is up to you or part of the overall redesign, but is there some way to have the flairs back at the /beginning/ of the title rather than end? It's much more legible that way when browsing through the list of new posts.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 4
+:DateUnix: 1519152510.0
+:DateShort: 2018-Feb-20
+:END:
+
+
+** Reddit should just stop ruining their website. At least they are killing it slowly I guess. Considering the shitty social networking profile pages (that I'm sure you won't be able to opt out anymore at some point) Reddit is already much worse than a few years ago.
+
+PS: Is that fixed-width shit unavoidable?
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 1
+:DateUnix: 1519239547.0
+:DateShort: 2018-Feb-21
+:END:

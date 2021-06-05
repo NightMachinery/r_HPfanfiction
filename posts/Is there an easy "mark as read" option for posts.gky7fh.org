@@ -1,0 +1,33 @@
+#+TITLE: Is there an easy "mark as read" option for posts?
+
+* Is there an easy "mark as read" option for posts?
+:PROPERTIES:
+:Author: JennaSayquah
+:Score: 3
+:DateUnix: 1589648947.0
+:DateShort: 2020-May-16
+:FlairText: Meta
+:END:
+I'd like a way to mark all the posts as read to get rid of the bolding. Once I've clicked on all the ones I'm interested in, I'd like to go ahead and unbold the rest so I can easily spot new posts.
+
+Even if I have to do it for each post individually, it would be easier than having to click on them.
+
+
+** I hide posts when I'm done with them.
+:PROPERTIES:
+:Author: callmesalticidae
+:Score: 2
+:DateUnix: 1589654301.0
+:DateShort: 2020-May-16
+:END:
+
+
+** I suggest you install [[https://www.reddit.com/r/Enhancement/wiki/index#wiki_faq][RES]] in your browser. You can use it to create custom filters on a sub. One of the default filter options you can toggle on and off is to hide all of the posts you've visited before.
+
+You can also setup RES to apply custom CSS to a sub. You could use that to automatically change the color/size/bolding of visited post links.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 2
+:DateUnix: 1589655489.0
+:DateShort: 2020-May-16
+:END:

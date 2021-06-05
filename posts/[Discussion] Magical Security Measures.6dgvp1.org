@@ -1,0 +1,87 @@
+#+TITLE: [Discussion] Magical Security Measures
+
+* [Discussion] Magical Security Measures
+:PROPERTIES:
+:Author: SteamAngel
+:Score: 5
+:DateUnix: 1495804555.0
+:DateShort: 2017-May-26
+:FlairText: Discussion
+:END:
+I'm trying to work out how Voldemort managed to get to the empty Gringotts vault in Philosopher's Stone, for my own story. I'm also trying to get a grasp of magical security measures while I'm at it, for other sneakiness.
+
+Some examples of things I've thought of so far:
+
+- anti-apparation/anti-portkey measures
+
+- dragons/sphinxes/other creatures
+
+- labyrinthine structure
+
+- thief's downfall
+
+- omnom vaults that suck in thieves and trap them inside
+
+- goblin patrols
+
+You get the idea. Discussion of more general security is welcome, too (i.e. proper security for the Stone at Hogwarts, prison security at Azkaban and Nurmengard, etc). Fanon ideas (Wards, etc) are allowed and also discussion of exploitable loopholes. Best attempt I've seen at exploring these ideas so far is linkffn(Bungle in the Jungle) but other reading recommendations are helpful as well :3
+
+
+** Harry successfully used the imperius curse to get through most of the defences. I suspect Voldemort is far more practised with that particular curse. He wouldn't have needed any disguise either since he was attached to Quirrell who was a respected teacher from his time as the muggle-studies professor.
+
+Voldemort has also shown the ability to fly without assistance. It is possible he taught this to quirrell and so was able to navigate the tunnels without the need for a cart. The Goblins also discovered the break in/were alerted or it wouldn't have been in the paper. This could have been because Voldemort simply blasted down the doors of the vault or assaulted a goblin or two. Can you memory charm a goblin? Could you have imperiused one for the theft then remove their memory for a relatively clean get-away?
+
+With regards to the stone at Hogwarts. The best defence is of course secrecy. If nobody knew the stone was there then nobody would be looking for it. This easily ties into the fidelius charm but I think that has been discussed enough already. My personal preference would be to transfigure one of the castle's stone blocks place the stone inside and reverse the transfiguration. Perhaps set up an elaborate network of curses somewhere else as a distraction but if there was no warnings or other measures then there would be no way to tell one chuck of wall from another. We know from canon that all magic leaves traces. If that is meant in an rather vague way or not it could be extrapolated to give the idea that high usage of magic defending something like the stone is a bit of a give-away.
+:PROPERTIES:
+:Author: herO_wraith
+:Score: 3
+:DateUnix: 1495805478.0
+:DateShort: 2017-May-26
+:END:
+
+*** u/yarglethatblargle:
+#+begin_quote
+  Can you memory charm a goblin?
+#+end_quote
+
+Well, we know from /DH/ that Griphook remembers being the one to show Harry his vault for the first time. This tells me he has memory, so a memory charm would work, since it likely affects /memories themselves/ and not brain structure or some nonsense like that.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 2
+:DateUnix: 1495850066.0
+:DateShort: 2017-May-27
+:END:
+
+
+** [[http://www.fanfiction.net/s/2889350/1/][*/Bungle in the Jungle: A Harry Potter Adventure/*]] by [[https://www.fanfiction.net/u/940359/jbern][/jbern/]]
+
+#+begin_quote
+  If you read just one fiction tonight make it this one. Go inside the mind of Harry Potter as he deals with betrayals, secrets and wild adventures. Not your usual fanfic.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 23 *|* /Words/: 189,882 *|* /Reviews/: 2,223 *|* /Favs/: 4,703 *|* /Follows/: 1,403 *|* /Updated/: 5/8/2007 *|* /Published/: 4/12/2006 *|* /Status/: Complete *|* /id/: 2889350 *|* /Language/: English *|* /Genre/: Adventure *|* /Characters/: Harry P., Luna L. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=2889350&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=2889350&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1495804590.0
+:DateShort: 2017-May-26
+:END:
+
+
+** Another obstacle could be the sheer size of the place. Vault 713 implies there are at least 712 other vaults and it is miles underground; you would have to either know which vault you were looking for or imperius someone who does. If it is so secret, not everyone would know.
+
+Another security method I didn't see mentioned here was enchantments on the objects themselves. The items in the Lestrange vault had Geminio and Flagrante curses on them to make it harder to steal. It probably doesn't have a direct correlation to Voldemort's break in, but there would have to be a way to dispell the curse on the items so the owners could remove it from the vault. There may be ways to dispell the curses on the other traps. Or if you plan to have Voldemort spend time researching, you could have Quirrell research the curses used on items in Gringotts only to not need the information.
+
+For things Voldemort can't dispell, you could look at how the Goblins get past the obstacles themselves. The dragons were trained to fear the clangers. Sphinxes maybe can only choose from a small set of riddles. If there is a cerberus, play it some music. The door can be bypassed by imperiusing a Gringotts goblin, though the Thief's Downfall will cancel out the imperius.
+:PROPERTIES:
+:Author: Stormmonger
+:Score: 1
+:DateUnix: 1495811987.0
+:DateShort: 2017-May-26
+:END:

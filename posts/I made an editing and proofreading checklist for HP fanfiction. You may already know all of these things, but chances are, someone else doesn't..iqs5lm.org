@@ -1,0 +1,573 @@
+#+TITLE: I made an editing and proofreading checklist for HP fanfiction. You may already know all of these things, but chances are, someone else doesn't.
+
+* I made an editing and proofreading checklist for HP fanfiction. You may already know all of these things, but chances are, someone else doesn't.
+:PROPERTIES:
+:Author: OurLawyers
+:Score: 121
+:DateUnix: 1599836540.0
+:DateShort: 2020-Sep-11
+:FlairText: Misc
+:END:
+The question came up on Discord about editing/proofreading checklists, and I decided I would [[https://docs.google.com/document/d/1EFEI3vR6JAFJ3mU9rq1FuGKHdxDa2NKgRxH3UO4RWEA/edit#][write mine up in a document]]. I've seen a few of these floating around in the past, so I don't claim to be original or a trend-setter, but writing up my own editing habits was a helpful exercise in codifying, understanding, and then justifying the steps I take when looking over fics (whether my own or someone else's).
+
+Because I read, write, and breathe HP fanfic, this checklist slightly biases toward HP fanfic, but the general spirit of the checklist applies to all writing.
+
+If you are aware of and check for all of these items (or intentionally ignore them because you disagree), great! However, I'm sure there are some out there who aren't aware of these.
+
+I am also, of course, not-so-subtly shilling for my own fic, as I've linked to my author pages in the document.
+
+[[https://docs.google.com/document/d/1EFEI3vR6JAFJ3mU9rq1FuGKHdxDa2NKgRxH3UO4RWEA/edit#][Here is the link again.]]
+
+
+** The great adverb culling: search for 'ly ' - most of these will be adverbs. Delete the word ending in 'ly ' and reread the sentence. Does it still work? Save changes.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 33
+:DateUnix: 1599840567.0
+:DateShort: 2020-Sep-11
+:END:
+
+*** In addition to that, if your characters are saying something smilingly, or defensively, or whatever-ly, check your dialogue. See if you can't make them say something that shows they're whatever-ly, and remove the word.
+:PROPERTIES:
+:Author: spacesleep
+:Score: 19
+:DateUnix: 1599857652.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+*** I will viciously, indiscriminately, murderly eviscerate all adverbs! >:D
+:PROPERTIES:
+:Author: OurLawyers
+:Score: 7
+:DateUnix: 1599864418.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+** I have seen far too many fics that could really use this list.
+
+I'd add:
+
+- Check your tenses. Writing in present tense is +objectively wrong+ fine, if you really want to, but you have to at least be consistent.
+- Delete all flashbacks. They are a crutch for bad writing, and you're probably using them wrong anyway.
+:PROPERTIES:
+:Author: TheLetterJ0
+:Score: 44
+:DateUnix: 1599840673.0
+:DateShort: 2020-Sep-11
+:END:
+
+*** I only think present tense is a viable option in first-person fics. It just feels wrong in third-person usage.
+:PROPERTIES:
+:Author: Tenebris-Umbra
+:Score: 14
+:DateUnix: 1599845305.0
+:DateShort: 2020-Sep-11
+:END:
+
+**** Past tense should be the default, but present tense can be used in combat scenes to give a sense of urgency and action that can't be replicated otherwise. However, that's only a spice, the scene still needs to be well written.
+
+If done correctly, the reader shouldn't even notice the tense change unless pointed out.
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 12
+:DateUnix: 1599848982.0
+:DateShort: 2020-Sep-11
+:END:
+
+***** Not just combat scenes. I rather like it for oneshots that are meant to be tense - [[https://www.fanfiction.net/s/8809533/1/][And the Wolves All Cry]] is a great example of a short story sized fic that's done well in present tense.
+
+That being said... I was always under the impression that it's never appropriate to switch between the two. Are you aware of any examples where it's done correctly?
+
+I find sticking to past tense extremely difficult, and will often shift mid-sentence: "dialogue here," he said, <describe some actions in present>. Needless to say, I reread everything and I'm constantly fixing it. With my current WIP, I just said fuck it and switched everything to present tense, third person limited, because I can keep it consistent and it thankfully suits the style of the story.
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 3
+:DateUnix: 1599875583.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+*** So what's the appropriate way to do POV switches? I'm usually a one POV kinda writer but I'm currently writing a FF that has POV switches. There is three MC's and I debated switching POV by chapter but I dunno if that will fit completely.
+:PROPERTIES:
+:Author: Murderous_Intention7
+:Score: 3
+:DateUnix: 1599842612.0
+:DateShort: 2020-Sep-11
+:END:
+
+**** You can switch in a chapter, just don't switch in the same scene. There are published and successful novels that do this because the chapter has more than one scene and this can also be done with fanfiction.
+
+That being said, if you can stay in one POV in an entire chapter, that is probably the way to go, but if not, switch in the next scene, just try to avoid doing this if you can, especially try to avoid doing it multiple times in the same chapter. It does all depends on the genre of the story and what exactly you are doing, but there is still a general rule. I find that reading either published books, very well-written fanfiction, or google helps whenever I have doubts about how I am writing something.
+:PROPERTIES:
+:Author: CountSagula
+:Score: 10
+:DateUnix: 1599845603.0
+:DateShort: 2020-Sep-11
+:END:
+
+***** Thanks! I barely do third person and I never do POV switches so I'm definitely out of my comfort zone. I'll do some research on it too. I've read tons of third person but not many POV changes in them usually.
+:PROPERTIES:
+:Author: Murderous_Intention7
+:Score: 2
+:DateUnix: 1599848746.0
+:DateShort: 2020-Sep-11
+:END:
+
+****** It'll also help if you can create distinct sounding 'voices' for them. Emphasise different things, change your sentence cadence, how events are processed and reacted to, that sort of thing. Really make it clear that you're in the heads of different people.
+
+If you're writing in first person (I'm struggling to parse your comment and can't really tell if you're currently writing first or third) then there's probably a lot of useful information and guides for you in D&D guides on DM roleplaying. When you're one person playing pretty much everybody on an entire planet, you have to work to keep people sounding distinct in ways other than just accents. :)
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 4
+:DateUnix: 1599850118.0
+:DateShort: 2020-Sep-11
+:END:
+
+
+**** When you want to switch POV, clearly denote a scene change using a dinkus or asterism then immediately set the new scene by making it clear to the reader who they're supposed to be following. I.e. don't start the new scene with "He heard a scream a quickly made for the door", when you can write "Harry heard a scream..."
+:PROPERTIES:
+:Author: b3iAAoLZOH9Y265cujFh
+:Score: 5
+:DateUnix: 1599843414.0
+:DateShort: 2020-Sep-11
+:END:
+
+***** This! There's lots of people saying never switch in a single chapter, but I'm of the opinion that switching mid chapter can be done, and done well. Just don't switch in the middle of a scene and make it clear the switch is happening.
+
+Hint: if you have to indicate the pov switch by explicitly stating "harry's point of view" or something, you're doing it wrong
+:PROPERTIES:
+:Author: elephantasmagoric
+:Score: 3
+:DateUnix: 1599896246.0
+:DateShort: 2020-Sep-12
+:END:
+
+****** Absolutely. A change of subject should be illustrated, never explicitly stated. If the introduction of the new subject can be executed naturally using elements relevant to the preceding scene, all the better. That way, the reader can comprehend the relation between the two scenes, and the author can avoid jarring or confusing their audience.
+
+Moreover, I don't understand the desire to make scenes and chapters functionally equivalent. Those are two distinct concepts that exist simultaneously for very good reasons: To me, a scene is the narrative of a specific event unfolding from one perspective (change of perspective requires change of scene, even if the same event is retold from a different angle), whereas a chapter is a set of one /or more/ scenes, that together form the narrative of a series of events with distinct, delineated meaning to the story. Sentence < Paragraph < Scene < Chapter < Arc < Story.
+
+If so, then equating a scene with a chapter implies either A) Very boring - and short - chapters, or B) The conflation of several separate events into a single scene. I don't see why either would be desirable.
+:PROPERTIES:
+:Author: b3iAAoLZOH9Y265cujFh
+:Score: 2
+:DateUnix: 1600495793.0
+:DateShort: 2020-Sep-19
+:END:
+
+
+**** Do it per chapter.
+
+Harry Potter I\\
+Hermione I\\
+Weird Dude I\\
+Harry POtter II
+
+etc\\
+Never switch mid chapter to another POV and switch back. Just stick to your character the entire chapter.
+:PROPERTIES:
+:Author: NakedFury
+:Score: 3
+:DateUnix: 1599844588.0
+:DateShort: 2020-Sep-11
+:END:
+
+***** I don't agree with this as it can be done successfully. Perhaps you meant don't switch between different POV's for FanFiction writers? Stephen King is able to do this really well (e.g. Under the Dome) but then again, he is a professional author and has years of experience.
+:PROPERTIES:
+:Author: emong757
+:Score: 3
+:DateUnix: 1599858866.0
+:DateShort: 2020-Sep-12
+:END:
+
+****** Stephen King also does a thing where he numbers his POV changes inside the chapter. So it's like a mini chapter inside an overarching one. I would say just do once per chapter if you're not going for 10k long chapters.
+:PROPERTIES:
+:Author: sitzprobe1
+:Score: 5
+:DateUnix: 1599869428.0
+:DateShort: 2020-Sep-12
+:END:
+
+******* In one of my WIP's, I did the numbering system he uses and my chapters were 10k words long. It's interesting to do it like that and I kind of like it.
+:PROPERTIES:
+:Author: emong757
+:Score: 1
+:DateUnix: 1599873534.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+**** Never switch inside a chapter.
+:PROPERTIES:
+:Author: how_to_choose_a_name
+:Score: 2
+:DateUnix: 1599842784.0
+:DateShort: 2020-Sep-11
+:END:
+
+***** Huh okay. I'll research it too, I definitely don't want to confuse anyone. I'm still figuring out half the plot 😅
+:PROPERTIES:
+:Author: Murderous_Intention7
+:Score: 1
+:DateUnix: 1599843341.0
+:DateShort: 2020-Sep-11
+:END:
+
+****** If you absolutely have to switch PoV within the chapter (I recommend strongly against it), do it between scenes and have some vertical spacing / line as a separator. And under no circumstances write first person with switching PoVs.
+:PROPERTIES:
+:Author: how_to_choose_a_name
+:Score: 3
+:DateUnix: 1599845866.0
+:DateShort: 2020-Sep-11
+:END:
+
+******* Nah it's third person and the characters are in very different parts around London. I'll figure it out. I want it to be easy to follow and I want it to flow. I'll need to play around with it some haha
+:PROPERTIES:
+:Author: Murderous_Intention7
+:Score: 1
+:DateUnix: 1599848618.0
+:DateShort: 2020-Sep-11
+:END:
+
+
+*** On a very personal level I definitely agree with your comment on present tense. I simply can't read present tense stuff anymore. (I'm sure I used to read some present tense novels in school, probably.) I think it can be done incredibly well, but I just find it so hard to parse through.
+
+However, I simply don't have the experience or expertise in present-tense writing to unilaterally make a claim against it :P
+:PROPERTIES:
+:Author: OurLawyers
+:Score: 1
+:DateUnix: 1599864572.0
+:DateShort: 2020-Sep-12
+:END:
+
+**** I won't close a fic just because it's written in present tense, but I will close a fic for constantly mixing past and present tense. Picking the "right" one isn't nearly as important as just picking one and sticking with it.
+:PROPERTIES:
+:Author: TheLetterJ0
+:Score: 2
+:DateUnix: 1599900083.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+**** I only write present tense now, it's because of people like you guys who think its 'wrong'. It means no one fussy leaves me tedious comments.
+
+But you do you. It's cool, you're not missing anything good, I'm a terrible writer.
+:PROPERTIES:
+:Author: FontChoiceMatters
+:Score: 0
+:DateUnix: 1599897609.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+*** I'd argue that flashbacks have at least one valid use: portraying someone as trying to figure out what memory to fuel a Patronus with. Of course, you'd only do this once (per memory if it takes multiple tries).
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 1
+:DateUnix: 1599903414.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+** I hope you added the difference between amused and bemused.
+:PROPERTIES:
+:Author: daisy_neko
+:Score: 17
+:DateUnix: 1599841508.0
+:DateShort: 2020-Sep-11
+:END:
+
+*** Your comment is bemusing...!
+
+Err...
+:PROPERTIES:
+:Author: OurLawyers
+:Score: 2
+:DateUnix: 1599924227.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+** There's only one thing i dissagree with. To me, it's the killing curse, Avada Kedavra.
+
+Spell names lower-cased, but incantations upper-cased. I haven't decided on the capitalization item names, to be honest. To me, calming draught is just an item, just like potion is.
+
+Kinda like how I'd capitalize Firebolt, because it's a brand, but wouldn't do the same for broomstick. But I do think that's just preference, and as long as you're consistent, it's fine.
+
+I see that the rule is HP-specific items. But I just find it weird, like it's placing emphasis while it shouldn't.
+
+And I know that JK capitalized Muggle and Muggleborn, and I could squint and see why, but why aren't pureblood and halfblood? It's kinda like albino, white, black, tall. Just designations, descriptions. Why should muggle and muggleborn be capitalized but not the other two?
+
+I'm also undecided on the hyphen in muggleborn, pureblood and halfblood. I know JK does it, and I don't know enough about the rules for hyphenating words, so I can't really say if it's correct or not. It feels like the oxford comma to me. Neither correct nor incorrect, as long as you use it consistently.
+
+For the rest, I agree wholeheartedly. I'm not following them all, I see I'm using some crutches here and there, and I do try to improve.
+:PROPERTIES:
+:Author: spacesleep
+:Score: 13
+:DateUnix: 1599855810.0
+:DateShort: 2020-Sep-12
+:END:
+
+*** I think that's perfectly fair. For me personally, one reason I stick so hard to these rules is to make sure my own writing is at least /consistent/, because far worse (for me on my pedestal) than mis-capitalising (or mis-hyphenating) something is capitalising (or hyphenating) it inconsistently across a fic!
+
+In the early stages of my writing, I went back and forth on Muggleborn, pureblood, halfblood hyphenation, until I finally looked up one that I think was straight from the book, and then wrote it down in my notes so that I could just reference that instead of, each time I wanted to write it, having to spend 5 minutes trying to remember how I wrote it in the past!
+:PROPERTIES:
+:Author: OurLawyers
+:Score: 4
+:DateUnix: 1599864376.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+*** I think if you tried to follow the way JKR wrote/punctuated in as consistent a manner as possible you're unlikely to go too far wrong. It would certainly beat the endless their/there/they're errors.
+:PROPERTIES:
+:Author: -_-ThatGuy-_-
+:Score: 1
+:DateUnix: 1599858655.0
+:DateShort: 2020-Sep-12
+:END:
+
+**** There's a blog called [[https://potterwords.livejournal.com/][Potterwords]] that lists how JKR spells things in canon and she's been very inconsistent herself, it's kind of a theme with her.
+:PROPERTIES:
+:Author: FontChoiceMatters
+:Score: 3
+:DateUnix: 1599898213.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+** Cackling at the Hermione ones
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 4
+:DateUnix: 1599848399.0
+:DateShort: 2020-Sep-11
+:END:
+
+*** Me too, but also scared because my entire fic is first person from Hermione's POV! Thanks to this I'm now terrified that every comment will be telling me she's out of character....
+:PROPERTIES:
+:Author: ShadowCat3500
+:Score: 2
+:DateUnix: 1599856764.0
+:DateShort: 2020-Sep-12
+:END:
+
+**** She is. Even if you think you're writing her well, you're not. The Hermione stans are at the gates defending their best girl.
+:PROPERTIES:
+:Author: Darkhorse_17
+:Score: 2
+:DateUnix: 1599866838.0
+:DateShort: 2020-Sep-12
+:END:
+
+***** Even if she is out of character, I'm painting her in a good (but not perfect - that's boring) light. It's not the stans I'm worried about!
+:PROPERTIES:
+:Author: ShadowCat3500
+:Score: 2
+:DateUnix: 1599872298.0
+:DateShort: 2020-Sep-12
+:END:
+
+****** It's your fic, your passtime, don't even bother with people who think your hobby has to be done their way. Fuck 'em.
+:PROPERTIES:
+:Author: FontChoiceMatters
+:Score: 2
+:DateUnix: 1599898268.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+** I have a suggestion for another one: when writing lists make sure to punctuate them correctly, especially when your list concerns the topic of proofreading :p
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1599841781.0
+:DateShort: 2020-Sep-11
+:END:
+
+*** Expansion: lists obey the same rules of punctuation as everything else.
+
+You can write a list using complete sentences.
+
+- In lists with complete sentences, each bullet begins with a capital letter and ends with a full stop.
+
+- It's basically a series of completely independent sentences.
+
+Alternatively, you can write a list using commas, exactly the same as if you were writing the list out without the bullet points:
+
+- in lists like this you do not capitalise each bullet,
+
+- but each item must end with a comma or a semi-colon, and
+
+- the final item on the list is preceded with an "and" or an "or" and finishes with a full stop, completing the sentence.
+
+The ultimate rule of lists is this: if you remove the bullets, the resulting prose should still make sense. Bullets are just a formatting tool.
+:PROPERTIES:
+:Author: Taure
+:Score: 10
+:DateUnix: 1599842020.0
+:DateShort: 2020-Sep-11
+:END:
+
+**** That's completely true for formal writing (eg. professional documents), but for casual use it's completely fine to put together a list using sentence fragments. Just make sure your sentence fragments aren't capitalized---as a rule of thumb, capital letter = sentence, which means you need to end it with a period.
+
+A list that's introduced (as in your examples above) generally ends up being more formal.
+
+The real no-no is mixing list styles---don't capitalize bullet points separated by commas (or sentence fragments) and always punctuate points that are full sentences.
+:PROPERTIES:
+:Author: GoldieFox
+:Score: 7
+:DateUnix: 1599843151.0
+:DateShort: 2020-Sep-11
+:END:
+
+
+**** You can also write a list where every entry is an item, with no introductory sentence, and with no punctuation at all. Like this list of colors:
+
+- Red
+- Blue
+- Green
+:PROPERTIES:
+:Author: how_to_choose_a_name
+:Score: 2
+:DateUnix: 1599843069.0
+:DateShort: 2020-Sep-11
+:END:
+
+
+** Here's my two knuts on the subject: do all the things people say you should. Or do none of it. Don't do anything readers and critics say are awful. Or do all of them. Try everything at least once, and see what works for you. My second fanfic (as of yet unfinished sadly) is in first-person present tense with POV switches and a number of alternates for 'said'. And I think I can count it a success (for my standards). And I wouldn't have the pleasure of writing in first-person and just how fun it is, if I had taken the random advice of internet strangers.
+:PROPERTIES:
+:Author: JaimeJabs
+:Score: 4
+:DateUnix: 1599855367.0
+:DateShort: 2020-Sep-12
+:END:
+
+*** Heartily agree, and good on ya, Jaime. It's your own hobby, why does anyone else have the right to tell you you're having fun wrong?
+:PROPERTIES:
+:Author: FontChoiceMatters
+:Score: 2
+:DateUnix: 1599898385.0
+:DateShort: 2020-Sep-12
+:END:
+
+**** This is the internet. If there's one thing that unites significant portions of it, it's the shared delight of yelling at others that their fun is WRONG! :)
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 1
+:DateUnix: 1599902771.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+*** best advice so far. have fun with your hobby and do what works for you.
+:PROPERTIES:
+:Author: KylosFlowingSkirts
+:Score: 1
+:DateUnix: 1599900727.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1599851030.0
+:DateShort: 2020-Sep-11
+:END:
+
+*** Thanks! I've never seen this before, but this looks amazing :) maybe I'll find something in there that I've been mis-writing this whole time!
+
+I've added a link to it to the document!
+:PROPERTIES:
+:Author: OurLawyers
+:Score: 1
+:DateUnix: 1599864100.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+** Okay, so. British vs American dialogue tags.
+
+I have a handful of books that were published in Britain, but I've never actually seen the British style outside of fanfiction - is it more common than my limited exposure would indicate?
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 2
+:DateUnix: 1599876082.0
+:DateShort: 2020-Sep-12
+:END:
+
+*** I assume here you're referring to single vs double quotes:
+
+Haha, that's a great question. I'm not exactly an authority on this, but in my own experience, it has been a long time since I've read a book with British-style quotes, and a semi-long time since I've read a fanfic with British-style quotes.
+
+I certainly wouldn't stand on my high horse and say "only use American-style quotes," but I know for me it's a lot easier to read double quotes than single quotes in stories. Maybe it's simply because I'm used to it? I think there's also the fact that I might confuse single quotes with apostrophes...
+
+At any rate, I'd pick whatever is more comfortable for you, or what you deem most appropriate for your fic, as long as you are consistent across your fic.
+
+(There's also the whole argument you can get into about "punctuation inside the quotes, American-style" or "punctuation outside the quotes, British-style" but I will withdraw my stick from that particular fire. I've seen people mix double quotes [American] with punctuation outside quotes [British], for example.)
+:PROPERTIES:
+:Author: OurLawyers
+:Score: 1
+:DateUnix: 1599879307.0
+:DateShort: 2020-Sep-12
+:END:
+
+**** My British HP editions have singles.
+:PROPERTIES:
+:Author: FontChoiceMatters
+:Score: 3
+:DateUnix: 1599897397.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+**** I mean, if you're American or particularly American-influenced, it's probably just cultural priming. You use the quotes like that, the people around you use the quotes like that, the media you consume use the quotes like that, so you're basically starting from a point of "This is the correct way to do it" in the same way that we in the UK would start from 'autumn' being correct instead of 'fall'.
+
+Both types of quotes are technically correct, after all, they're just correct in different places. Equally, a French person would find it correct to use Guillemets instead of either thing and be equally correct for their part of the world.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 3
+:DateUnix: 1599902675.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+** This is so great, thank you!! The one problem I have with this is just that it isn't really clear. Some of the dot points are things you want people to do and some you don't want people to do. You should really break it up into ‘dos' and ‘don'ts' because it doesn't really read easily. I can't quite figure out what I should and shouldn't be doing based on this list. It's just gonna be a little hard to understand for people who either don't know the universe inside and out OR for those who speak english as a second language and aren't strong. Or just people like me who are STRUGGLING to understand this list haha. I appreciate it so much, but would LOVE a little clarity.
+:PROPERTIES:
+:Author: feedthecath
+:Score: 2
+:DateUnix: 1599893174.0
+:DateShort: 2020-Sep-12
+:END:
+
+*** Oooh, great point! I have updated the doc to be a lot clearer on "do"s and "don't"s. Thank you for this feedback!
+:PROPERTIES:
+:Author: OurLawyers
+:Score: 2
+:DateUnix: 1599924130.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+** Me and my writing group just read most of this aloud. There's some sound points. But some of it is laughable and incorrect. You seem to think your opinion is verrrrrry important. Thats such a shame.
+:PROPERTIES:
+:Author: FontChoiceMatters
+:Score: 1
+:DateUnix: 1599898650.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+** Oh, I'm currently reading a disaster of a fic and was reminded of one more:
+
+If you use a descriptive noun or whatever to refer to somebody, make sure it actually makes sense.
+
+AKA don't call Harry "the raven" unless he's literally a bird. If you're referring to his hair, SAY SO. This is not the first time I've seen this nonsense :x
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 1
+:DateUnix: 1599924576.0
+:DateShort: 2020-Sep-12
+:END:

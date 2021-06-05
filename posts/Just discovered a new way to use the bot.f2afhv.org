@@ -1,0 +1,370 @@
+#+TITLE: Just discovered a new way to use the bot
+
+* Just discovered a new way to use the bot
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 4
+:DateUnix: 1581437271.0
+:DateShort: 2020-Feb-11
+:END:
+Apparently if you ask it to link a spell unique to a specific fic it works too. Linkffn(lux cohaerens)
+
+
+** Might want to tag this "Meta"
+
+Also, to test the theory it just searches strings: linkffn(Olivia Baldursdottir)
+
+Edit: Looks like [[/u/RoyTellier]] is correct; it simply searches unique strings.
+:PROPERTIES:
+:Author: shinshikaizer
+:Score: 5
+:DateUnix: 1581443403.0
+:DateShort: 2020-Feb-11
+:END:
+
+*** linkffn(shinshikaizer's favorite fanfic)
+:PROPERTIES:
+:Author: rek-lama
+:Score: 2
+:DateUnix: 1581449141.0
+:DateShort: 2020-Feb-11
+:END:
+
+**** [[https://www.fanfiction.net/s/13230151/1/][*/Harry Potter and the Hermetic Arts/*]] by [[https://www.fanfiction.net/u/12128575/HaikenEdge][/HaikenEdge/]]
+
+#+begin_quote
+  Harry Potter discovers the Player Handbook for Advanced Dungeons and Dragons, 2nd Edition after experiencing accidental magic and realizes he may have magic. Directed to a hobby shop, he develops his own style of magic based on tabletop RPGs and comics. Then, he gets his Hogwarts letter. Dark!Indie!Sarcastic!Paranoid!Pragmatic!Harry. Rated M for language and graphic violence.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{31} ^{*|*} ^{/Words/:} ^{121,781} ^{*|*} ^{/Reviews/:} ^{983} ^{*|*} ^{/Favs/:} ^{2,827} ^{*|*} ^{/Follows/:} ^{3,160} ^{*|*} ^{/Updated/:} ^{12/25/2019} ^{*|*} ^{/Published/:} ^{3/10/2019} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{13230151} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Humor/Adventure} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Hermione} ^{G.,} ^{Neville} ^{L.,} ^{Fay} ^{D.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13230151&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13230151&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1581449158.0
+:DateShort: 2020-Feb-11
+:END:
+
+
+*** [[https://www.fanfiction.net/s/13461089/1/][*/Harry Potter and the Physical Adept/*]] by [[https://www.fanfiction.net/u/12128575/HaikenEdge][/HaikenEdge/]]
+
+#+begin_quote
+  The direct continuation of Harry Potter and the Hermetic Arts, in which cyberpunk-influenced, tabletop RPG-loving Harry Potter continues his life in and out of Hogwarts. Dark!Indie!Sarcastic!Paranoid!Pragmatic!Violent!Harry. Book 2 in Harry Potter and the RPG Influence. Rated M for language and graphic violence.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{7} ^{*|*} ^{/Words/:} ^{28,837} ^{*|*} ^{/Reviews/:} ^{205} ^{*|*} ^{/Favs/:} ^{982} ^{*|*} ^{/Follows/:} ^{1,488} ^{*|*} ^{/Updated/:} ^{1/30} ^{*|*} ^{/Published/:} ^{12/25/2019} ^{*|*} ^{/id/:} ^{13461089} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Humor/Adventure} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Hermione} ^{G.,} ^{Neville} ^{L.,} ^{Fay} ^{D.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13461089&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13461089&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1581443417.0
+:DateShort: 2020-Feb-11
+:END:
+
+
+** The bot is basically just making a google search for you, any term unique to one fanfic will work. Try with a OC name or something it should work.
+:PROPERTIES:
+:Author: RoyTellier
+:Score: 8
+:DateUnix: 1581439571.0
+:DateShort: 2020-Feb-11
+:END:
+
+*** just for shits and giggles to see whats the first fic that comes up ; linkffn(mpreg) Huh, kind of thought the bot limited itself to HP fanfic. O well.
+:PROPERTIES:
+:Author: TheHeadlessScholar
+:Score: 3
+:DateUnix: 1581468941.0
+:DateShort: 2020-Feb-12
+:END:
+
+**** [[https://www.fanfiction.net/s/12440067/1/][*/Mpreg Note/*]] by [[https://www.fanfiction.net/u/8129192/Cardcaptorghost][/Cardcaptorghost/]]
+
+#+begin_quote
+  What if Light did not just have a Death Note? Rewritten
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Death} ^{Note} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{26} ^{*|*} ^{/Words/:} ^{20,812} ^{*|*} ^{/Reviews/:} ^{46} ^{*|*} ^{/Favs/:} ^{63} ^{*|*} ^{/Follows/:} ^{59} ^{*|*} ^{/Updated/:} ^{2/26/2018} ^{*|*} ^{/Published/:} ^{4/9/2017} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{12440067} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Romance/Supernatural} ^{*|*} ^{/Characters/:} ^{<L,} ^{Light} ^{Y.>} ^{Ryuk,} ^{OC} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12440067&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12440067&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1581468956.0
+:DateShort: 2020-Feb-12
+:END:
+
+
+** linkffn(Rahkesh Asmodeus)
+:PROPERTIES:
+:Author: BookAddiction1
+:Score: 2
+:DateUnix: 1581459653.0
+:DateShort: 2020-Feb-12
+:END:
+
+*** [[https://www.fanfiction.net/s/11483067/1/][*/Learning About Life/*]] by [[https://www.fanfiction.net/u/4531195/Nuitaie][/Nuitaie/]]
+
+#+begin_quote
+  Harry always knew that Umbridge was trouble, but he never knew that she could destroy the world. Now they have to read a book to get their life back. At least it isn't his life that's getting read. Rahkesh, on the other hand, really hopes that none of his thoughts are offensive to Namach. A reading of Miranda Flairgold's A Second Chance at Life Trilogy. Adopted from shadowkass101.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{4} ^{*|*} ^{/Words/:} ^{23,426} ^{*|*} ^{/Reviews/:} ^{28} ^{*|*} ^{/Favs/:} ^{65} ^{*|*} ^{/Follows/:} ^{67} ^{*|*} ^{/Updated/:} ^{1/9/2016} ^{*|*} ^{/Published/:} ^{9/2/2015} ^{*|*} ^{/id/:} ^{11483067} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Drama/Humor} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{OC} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11483067&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11483067&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1581459673.0
+:DateShort: 2020-Feb-12
+:END:
+
+
+** linkffn(lambent)
+
+Edit: I guess that word wasn't as unique as I thought.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1581456306.0
+:DateShort: 2020-Feb-12
+:END:
+
+*** [[https://www.fanfiction.net/s/12067503/1/][*/Lambent/*]] by [[https://www.fanfiction.net/u/2580524/idwir][/idwir/]]
+
+#+begin_quote
+  A continuation of Travis and Katie's story from After the War.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Percy} ^{Jackson} ^{and} ^{the} ^{Olympians} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{3} ^{*|*} ^{/Words/:} ^{1,270} ^{*|*} ^{/Reviews/:} ^{3} ^{*|*} ^{/Favs/:} ^{2} ^{*|*} ^{/Follows/:} ^{2} ^{*|*} ^{/Updated/:} ^{9/4/2016} ^{*|*} ^{/Published/:} ^{7/24/2016} ^{*|*} ^{/id/:} ^{12067503} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12067503&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12067503&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1581456324.0
+:DateShort: 2020-Feb-12
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1581465403.0
+:DateShort: 2020-Feb-12
+:END:
+
+*** [[https://www.fanfiction.net/s/12000731/1/][*/Chicken/*]] by [[https://www.fanfiction.net/u/1168378/hyperiinuyasha][/hyperiinuyasha/]]
+
+#+begin_quote
+  A mutant discovers her inspiration for pursuing the Throne.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Nuclear} ^{Throne} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Words/:} ^{875} ^{*|*} ^{/Reviews/:} ^{4} ^{*|*} ^{/Favs/:} ^{3} ^{*|*} ^{/Published/:} ^{6/15/2016} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{12000731} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12000731&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12000731&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1581465428.0
+:DateShort: 2020-Feb-12
+:END:
+
+**** Interesting
+:PROPERTIES:
+:Author: totallynotarobot97
+:Score: 1
+:DateUnix: 1581469155.0
+:DateShort: 2020-Feb-12
+:END:
+
+
+** linkffn(malus ignis totalus diabolus)
+:PROPERTIES:
+:Author: ken_x
+:Score: 1
+:DateUnix: 1581478559.0
+:DateShort: 2020-Feb-12
+:END:
+
+*** [[https://www.fanfiction.net/s/13250880/1/][*/The Advantages of Being Sane/*]] by [[https://www.fanfiction.net/u/11780899/Leyrann][/Leyrann/]]
+
+#+begin_quote
+  When Harry and Cedric grab the Cup, they are transported to a graveyard, where Harry witnesses the resurrection of Lady Voldemort... who isn't quite what he'd expected. For one, she isn't trying to kill him. For another, she doesn't seem to like the Death Eaters either. Harry/fem!Voldemort.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{22} ^{*|*} ^{/Words/:} ^{96,588} ^{*|*} ^{/Reviews/:} ^{164} ^{*|*} ^{/Favs/:} ^{1,149} ^{*|*} ^{/Follows/:} ^{1,179} ^{*|*} ^{/Updated/:} ^{8/22/2019} ^{*|*} ^{/Published/:} ^{4/2/2019} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{13250880} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Romance/Humor} ^{*|*} ^{/Characters/:} ^{<Harry} ^{P.,} ^{Voldemort>} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13250880&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13250880&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1581478573.0
+:DateShort: 2020-Feb-12
+:END:
+
+
+*** I don't know why I read it but I did
+:PROPERTIES:
+:Author: justconfused0012
+:Score: 1
+:DateUnix: 1581765902.0
+:DateShort: 2020-Feb-15
+:END:
+
+
+** Hmm...
+
+Excuse me while I be a degenerate.
+
+linkffn(Harry/Ginny Soul-Bond)
+:PROPERTIES:
+:Author: FavChanger
+:Score: 1
+:DateUnix: 1581508580.0
+:DateShort: 2020-Feb-12
+:END:
+
+*** [[https://www.fanfiction.net/s/6134295/1/][*/Harry Potter and the Defensive Soul Bond/*]] by [[https://www.fanfiction.net/u/1399029/AirshipHead][/AirshipHead/]]
+
+#+begin_quote
+  Harry and Ginny end up soul bonded after he protects her from a Killing Curse in the Department of Mysteries. As this bond grows, so do complications, and a certain bushy haired friend gets pulled into the mix... I'M BACK BABY!
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{33} ^{*|*} ^{/Words/:} ^{75,112} ^{*|*} ^{/Reviews/:} ^{739} ^{*|*} ^{/Favs/:} ^{656} ^{*|*} ^{/Follows/:} ^{648} ^{*|*} ^{/Updated/:} ^{6/16/2013} ^{*|*} ^{/Published/:} ^{7/12/2010} ^{*|*} ^{/id/:} ^{6134295} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Romance/Fantasy} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Ginny} ^{W.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=6134295&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=6134295&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1581508604.0
+:DateShort: 2020-Feb-12
+:END:
+
+**** Huh... haven't seen this one before.
+
+Edit: And it's badly rushed...
+
+/sigh/
+
+One day, one day I'll find a good Hinny Soul-Bond that isn't Meaning Of One.
+:PROPERTIES:
+:Author: FavChanger
+:Score: 1
+:DateUnix: 1581508661.0
+:DateShort: 2020-Feb-12
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1582055676.0
+:DateShort: 2020-Feb-18
+:END:
+
+*** [[https://www.fanfiction.net/s/8096183/1/][*/Harry Potter and the Natural 20/*]] by [[https://www.fanfiction.net/u/3989854/Sir-Poley][/Sir Poley/]]
+
+#+begin_quote
+  Milo, a genre-savvy D&D Wizard and Adventurer Extraordinaire is forced to attend Hogwarts, and soon finds himself plunged into a new adventure of magic, mad old Wizards, metagaming, misunderstandings, and munchkinry. Updates monthly.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{+} ^{Dungeons} ^{and} ^{Dragons} ^{Crossover} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{74} ^{*|*} ^{/Words/:} ^{314,214} ^{*|*} ^{/Reviews/:} ^{6,606} ^{*|*} ^{/Favs/:} ^{6,625} ^{*|*} ^{/Follows/:} ^{7,469} ^{*|*} ^{/Updated/:} ^{8/2/2018} ^{*|*} ^{/Published/:} ^{5/7/2012} ^{*|*} ^{/id/:} ^{8096183} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8096183&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8096183&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1582055696.0
+:DateShort: 2020-Feb-18
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1582055777.0
+:DateShort: 2020-Feb-18
+:END:
+
+*** [[https://www.fanfiction.net/s/8096183/1/][*/Harry Potter and the Natural 20/*]] by [[https://www.fanfiction.net/u/3989854/Sir-Poley][/Sir Poley/]]
+
+#+begin_quote
+  Milo, a genre-savvy D&D Wizard and Adventurer Extraordinaire is forced to attend Hogwarts, and soon finds himself plunged into a new adventure of magic, mad old Wizards, metagaming, misunderstandings, and munchkinry. Updates monthly.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{+} ^{Dungeons} ^{and} ^{Dragons} ^{Crossover} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{74} ^{*|*} ^{/Words/:} ^{314,214} ^{*|*} ^{/Reviews/:} ^{6,606} ^{*|*} ^{/Favs/:} ^{6,625} ^{*|*} ^{/Follows/:} ^{7,469} ^{*|*} ^{/Updated/:} ^{8/2/2018} ^{*|*} ^{/Published/:} ^{5/7/2012} ^{*|*} ^{/id/:} ^{8096183} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8096183&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8096183&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1582055796.0
+:DateShort: 2020-Feb-18
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1582055850.0
+:DateShort: 2020-Feb-18
+:END:
+
+*** [[https://www.fanfiction.net/s/11404252/1/][*/Dorea's Pride/*]] by [[https://www.fanfiction.net/u/6363671/Aelin08][/Aelin08/]]
+
+#+begin_quote
+  Dumbledore planned on Harry being neglected by his muggle relatives, so that he could be molded into the perfect pawn. However, when his grandmother, Dorea Potter, hears about the ludicrous plan, she snatches him away and raises him with the help of a certain pureblood family. Albus Dumbledore, better watch out! HP/DG, Nice Malfoys, Dumbledore bashing. ON HIATUS
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{2} ^{*|*} ^{/Words/:} ^{2,254} ^{*|*} ^{/Reviews/:} ^{7} ^{*|*} ^{/Favs/:} ^{82} ^{*|*} ^{/Follows/:} ^{100} ^{*|*} ^{/Published/:} ^{7/25/2015} ^{*|*} ^{/id/:} ^{11404252} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure/Romance} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11404252&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11404252&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1582055875.0
+:DateShort: 2020-Feb-18
+:END:
+
+
+** [[https://www.fanfiction.net/s/10070079/1/][*/The Arithmancer/*]] by [[https://www.fanfiction.net/u/5339762/White-Squirrel][/White Squirrel/]]
+
+#+begin_quote
+  Hermione grows up as a maths whiz instead of a bookworm and tests into Arithmancy in her first year. With the help of her friends and Professor Vector, she puts her superhuman spellcrafting skills to good use in the fight against Voldemort. Years 1-4. Sequel posted.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{84} ^{*|*} ^{/Words/:} ^{529,133} ^{*|*} ^{/Reviews/:} ^{4,585} ^{*|*} ^{/Favs/:} ^{5,731} ^{*|*} ^{/Follows/:} ^{3,941} ^{*|*} ^{/Updated/:} ^{8/22/2015} ^{*|*} ^{/Published/:} ^{1/31/2014} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{10070079} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Ron} ^{W.,} ^{Hermione} ^{G.,} ^{S.} ^{Vector} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10070079&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10070079&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1581437284.0
+:DateShort: 2020-Feb-11
+:END:

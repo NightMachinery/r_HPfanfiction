@@ -1,0 +1,61 @@
+#+TITLE: Is siye.co.uk down everywhere?
+
+* Is siye.co.uk down everywhere?
+:PROPERTIES:
+:Author: Bosaapje
+:Score: 2
+:DateUnix: 1423674671.0
+:DateShort: 2015-Feb-11
+:FlairText: Misc
+:END:
+So SIYE is down here, is it a problem from my side or is it everywhere?
+
+
+** looks like one of the backend servers are down. I'm being served a splash page that says there is a database that is mia.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1423675177.0
+:DateShort: 2015-Feb-11
+:END:
+
+*** Sucks, I just read a chapter and wanted to continue with the story.
+:PROPERTIES:
+:Author: Bosaapje
+:Score: 1
+:DateUnix: 1423675278.0
+:DateShort: 2015-Feb-11
+:END:
+
+**** If you happen to have twitter I think hpsiye is an official twitter. Send them a shout out and let them know.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1423675421.0
+:DateShort: 2015-Feb-11
+:END:
+
+
+** Oh and for anyone looking for the link:
+
+[[http://www.siye.co.uk][Sink Into Your Eyes]]\\
+[[http://www.isup.me/siye.co.uk][Is this site down for everyone or just me?]]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1423676125.0
+:DateShort: 2015-Feb-11
+:END:
+
+
+** It's back up. No word on when it came back up or why it went down.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1423697950.0
+:DateShort: 2015-Feb-12
+:END:
+
+*** I see it yeah, thanks. Maybe somewhere someone did something stupid with the database. Glad it's figured out now.
+:PROPERTIES:
+:Author: Bosaapje
+:Score: 1
+:DateUnix: 1423698665.0
+:DateShort: 2015-Feb-12
+:END:

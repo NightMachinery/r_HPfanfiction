@@ -1,0 +1,124 @@
+#+TITLE: HP Lexicon Archive for Offline Use [Download]
+
+* HP Lexicon Archive for Offline Use [Download]
+:PROPERTIES:
+:Author: tusing
+:Score: 20
+:DateUnix: 1426842975.0
+:DateShort: 2015-Mar-20
+:FlairText: Misc
+:END:
+Hi, all!
+
+Tomorrow night, I have a plane flight. I was planning on writing more of my own fanfiction, but quickly discovered that I would not have internet. Fortunately, wget came to my rescue, and I was able to download all of HP Lexicon (bar the blogs). I'll certainly be using this while I'm on my flight tomorrow!
+
+One great thing about this is that *pages will load instantly* since it's all locally stored. Nothing will need to be pulled from the internet!
+
+* Instant Download
+  :PROPERTIES:
+  :CUSTOM_ID: instant-download
+  :END:
+If you ever find yourself in a similar situation, [[https://drive.google.com/file/d/0B-z5tuznRiNGcjJDampCY2Fianc/view?usp=sharing][*/I've put together a download here. (Google Drive)/*]]
+
+ 
+
+* How To Use
+  :PROPERTIES:
+  :CUSTOM_ID: how-to-use
+  :END:
+Extract the downloaded .zip into a folder. *Simply double-click on the index-2.html file*, and open it - it should open in your local browser. If not, point your browser to that file manually (e.g. put the file path into your browser's address bar). If a page doesn't load (404 error), try finding it in the directory manually and opening it from there. For example, if you get a 404 error when you try to load /[[http://www.hp-lexicon.org/wizworld/places/azkaban.html]]/, manually navigate to the "wizworld" folder in the download, then the "places" folder, and load azkaban.html.
+
+ 
+
+* DIY: For the techies or paranoid
+  :PROPERTIES:
+  :CUSTOM_ID: diy-for-the-techies-or-paranoid
+  :END:
+Or if you want to do it yourself, the code is
+
+#+begin_example
+  wget --recursive --page-requisites --convert-links http://www.hp-lexicon.org/index-2.html
+#+end_example
+
+to download the entire website. Warning: the entire website is 2.1 GB, but a video and the blog directory take up about 2.0 GB! This is because of the MP3 podcasts and video files dating years back. (I've excluded these in my provided download) So I recommend excluding those, since you probably won't need them. *So a better command would be*
+
+#+begin_example
+  wget --recursive --page-requisites --exclude-directories=/blog/,/lumos/ --convert-links http://www.hp-lexicon.org/index-2.html
+#+end_example
+
+This command should work fine on Mac and most Linux distros. I'm using Windows - so you can get Cygwin or something lightweight, like a wget executable and just run that from command line.
+
+*Note: This does NOT violate any sort of copyright or licensing. Essentially, all you are doing is loading the entire website at once and storing it.*
+
+
+** I have nothing to say about this except 'Thank you'.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 3
+:DateUnix: 1426863674.0
+:DateShort: 2015-Mar-20
+:END:
+
+
+** Brilliant work! Thanks very much.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1426869804.0
+:DateShort: 2015-Mar-20
+:END:
+
+
+** This is amazing.
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 2
+:DateUnix: 1426876112.0
+:DateShort: 2015-Mar-20
+:END:
+
+
+** What are the limitations? I'm guessing it doesn't update on its own?
+:PROPERTIES:
+:Author: forcemon
+:Score: 1
+:DateUnix: 1426868883.0
+:DateShort: 2015-Mar-20
+:END:
+
+*** Nope, but you can always wget again. It's only ~100 MB of stuff, so it shouldn't take too long.
+
+I might update the archive periodically.
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1426894109.0
+:DateShort: 2015-Mar-21
+:END:
+
+
+** Could I download any website with this?
+:PROPERTIES:
+:Author: NargleKost
+:Score: 1
+:DateUnix: 1426929820.0
+:DateShort: 2015-Mar-21
+:END:
+
+*** Pretty much. Though you can only download what you can recursively access through the links.
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1426947963.0
+:DateShort: 2015-Mar-21
+:END:
+
+
+*** Certainly. wget is fairly powerful and scriptable. curl is the same and actually more versatile.
+
+Just watch which sites you download, some can be quite large and some may have rate limiting on content requests from a single IP address.
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 1
+:DateUnix: 1426975869.0
+:DateShort: 2015-Mar-22
+:END:

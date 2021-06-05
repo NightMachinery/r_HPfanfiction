@@ -1,0 +1,72 @@
+#+TITLE: Fictionbot not working on iPhone
+
+* Fictionbot not working on iPhone
+:PROPERTIES:
+:Author: Shadistro
+:Score: 5
+:DateUnix: 1487803516.0
+:DateShort: 2017-Feb-23
+:FlairText: Meta
+:END:
+Whenever someone uses fictionbot to share or link a story, the link is not clickable on my iPhone. My reddit app is up to date as is the software on my iPhone 7 plus. I can click the link on the Reddit app in my note 5(work phone)
+
+
+** Reddit's official app incorrectly parses Markdown. Consider using an alternative Reddit application.
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1487834021.0
+:DateShort: 2017-Feb-23
+:END:
+
+
+** This is a problem with the app. The markdown is correct. What app are you using, the official one?
+:PROPERTIES:
+:Author: fflai
+:Score: 5
+:DateUnix: 1487804996.0
+:DateShort: 2017-Feb-23
+:END:
+
+*** Yep, the official app on iphone
+:PROPERTIES:
+:Author: Shadistro
+:Score: 1
+:DateUnix: 1487806040.0
+:DateShort: 2017-Feb-23
+:END:
+
+
+** I am having the same problem. I can only click on links on this sub when I use Safari to browse reddit.
+:PROPERTIES:
+:Author: Whapples
+:Score: 3
+:DateUnix: 1487812644.0
+:DateShort: 2017-Feb-23
+:END:
+
+
+** I'm still primarily using the Alien Blue app, and the links work perfectly fine for me with it.
+:PROPERTIES:
+:Author: StormAge
+:Score: 2
+:DateUnix: 1487821753.0
+:DateShort: 2017-Feb-23
+:END:
+
+
+** Narwhal opens links properly
+:PROPERTIES:
+:Author: _awesaum_
+:Score: 2
+:DateUnix: 1487877887.0
+:DateShort: 2017-Feb-23
+:END:
+
+*** Second this. Narwhal is awesome.
+:PROPERTIES:
+:Author: cambangst
+:Score: 1
+:DateUnix: 1487889014.0
+:DateShort: 2017-Feb-24
+:END:

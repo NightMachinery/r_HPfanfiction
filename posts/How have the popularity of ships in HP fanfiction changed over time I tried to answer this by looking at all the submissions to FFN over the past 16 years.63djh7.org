@@ -1,0 +1,721 @@
+#+TITLE: How have the popularity of ships in HP fanfiction changed over time? I tried to answer this by looking at all the submissions to FFN over the past 16 years!
+
+* [[http://uncertaindecisions.com/index.php/2017/04/03/the-ship-wars-how-the-popularity-of-pairings-in-harry-potter-fanfiction-changed-over-time/][How have the popularity of ships in HP fanfiction changed over time? I tried to answer this by looking at all the submissions to FFN over the past 16 years!]]
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 170
+:DateUnix: 1491305617.0
+:DateShort: 2017-Apr-04
+:FlairText: Misc
+:END:
+
+** Wow, this is impressive.
+
+Also, I remember Draco/Ginny being a thing back then by 2002/2004. It wasn't terribly popular but it existed.
+
+I wonder how it would be now
+:PROPERTIES:
+:Author: LumosLupin
+:Score: 52
+:DateUnix: 1491308339.0
+:DateShort: 2017-Apr-04
+:END:
+
+*** That was around the time when Portkey.org was established. Draco/Ginny, and later on Ron/Luna, pretty much became side ships to pair off the main contenders to the Harry/Hermione ship.
+:PROPERTIES:
+:Author: stefvh
+:Score: 22
+:DateUnix: 1491309809.0
+:DateShort: 2017-Apr-04
+:END:
+
+
+*** I mentioned Draco/Ginny briefly at the end of the post, since I thought it was interesting how it went from 4th most popular in 2003 to 16th in 2015. It's still 10th overall. [[http://i.imgur.com/6cIFPn9.png][Here's a plot with Draco/Ginny]] compared to another interesting pairing, Rose/Scorpius (11th overall). They peaked at very different times.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 14
+:DateUnix: 1491309918.0
+:DateShort: 2017-Apr-04
+:END:
+
+**** Is there an API you used to get the source data?
+:PROPERTIES:
+:Author: mynoduesp
+:Score: 1
+:DateUnix: 1491466212.0
+:DateShort: 2017-Apr-06
+:END:
+
+***** No, just a python script I wrote, using the requests and lxml libraries to get the pages and parse them.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1491471010.0
+:DateShort: 2017-Apr-06
+:END:
+
+
+*** I always thought the Draco/Ginny ship owed its popularity to Romeo and Julliet.
+:PROPERTIES:
+:Author: CryptidGrimnoir
+:Score: 10
+:DateUnix: 1491388352.0
+:DateShort: 2017-Apr-05
+:END:
+
+**** Interesting premise!
+:PROPERTIES:
+:Author: LumosLupin
+:Score: 6
+:DateUnix: 1492036262.0
+:DateShort: 2017-Apr-13
+:END:
+
+***** Two young teenagers from rivaling families in a bloody feud. It's been used before, even if there's little justification in canon.
+
+What I can't understand is how Draco/Harry became a thing.
+:PROPERTIES:
+:Author: CryptidGrimnoir
+:Score: 5
+:DateUnix: 1492039481.0
+:DateShort: 2017-Apr-13
+:END:
+
+****** Seems simple to me. Slash popularity in general, Harry is the main character, Draco/Snape are the most consistently present antagonists (but Draco, unlike Snape, is Harry's age), "thin love between love and hate" cliche, "Romeo and Juliet star-crossed lovers" cliche, Tom Felton's looks, ...
+
+I'm not really a fan, but there are so many possible reasons for people to get into it that I honestly can't imagine Harry/Draco not becoming a thing.
+:PROPERTIES:
+:Author: thegreatapedude
+:Score: 9
+:DateUnix: 1492563461.0
+:DateShort: 2017-Apr-19
+:END:
+
+
+*** Draco/Ginny was my favorite pairing back then, actually.
+:PROPERTIES:
+:Author: yeahitisaword
+:Score: 2
+:DateUnix: 1491310227.0
+:DateShort: 2017-Apr-04
+:END:
+
+
+*** I remember one Draco/Ginny fic where Draco became a Hogwarts professor while Ginny was a 7th year even though they had kids together (I think it was a sequel to another fic I never read) and this was back around 06-08.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1491368382.0
+:DateShort: 2017-Apr-05
+:END:
+
+
+** Looking at this, I think the influence of Cassandra Claire's /Draco Trilogy/, published between 2000-2006, featuring H/D, H/Hr, D/Hr; as well as her "Big Name Fans" clique, is not to be underestimated. People tend to forget how influential she was on the early HP fandom.
+
+Also interesting to notice is the slight rise of H/Hr in 2014, which seems to correlate with JKR's statements about R/Hr in the Wonderland magazine - widely misinterpreted by the mainstream media as completely endorsing the H/Hr pairing.
+
+H/G seems to be getting a massive rise in popularity rankings in the past year or so, probably due to Cursed Child exposing their relationship more and showing deeper moments between them.
+
+Anyway, great job :)
+:PROPERTIES:
+:Author: stefvh
+:Score: 44
+:DateUnix: 1491309593.0
+:DateShort: 2017-Apr-04
+:END:
+
+*** Thanks! And yeah it's interesting that H/G is one of the few that increased from 2015 to 2016. Cursed Child probably played a part with that. It'll be interesting to see if the trend continues in 2017.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 5
+:DateUnix: 1491310714.0
+:DateShort: 2017-Apr-04
+:END:
+
+**** I think it's also that the H/G thing has entered the final stage. There's been denial (she's just a fangirl/stalker!), anger (she's a slut/totally wrong for him!), bargaining (H/G only if it's part of a harem), depression (H+G get married but Ginny dies/is a cheater) and now, at long last, acceptance.
+:PROPERTIES:
+:Author: T0lias
+:Score: 14
+:DateUnix: 1491363988.0
+:DateShort: 2017-Apr-05
+:END:
+
+
+** You might remember [[https://www.reddit.com/r/HPfanfiction/comments/3jmxv0/i_analyzed_the_character_choices_from_200000_fics/?st=j13gw1dp&sh=d431fc43][a previous post of mine]] where I looked at the popularity of various characters in HP fanfiction. Well I decided to go back and see how various pairings changed in popularity over time. I'm happy to answer questions about it, or if you're curious about a particular pairing, let me know and I'll try to tell you how it fared to the most popular ones mentioned in the post.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 17
+:DateUnix: 1491305827.0
+:DateShort: 2017-Apr-04
+:END:
+
+*** May I ask, what was the decision to data mine like this? It's something a grad course at my university offers as a final project, so I could understand doing that for the final grade, but I'm a bit goggled and impressed at the idea of doing it for fun...?
+:PROPERTIES:
+:Author: TraceyThomas86
+:Score: 6
+:DateUnix: 1491336447.0
+:DateShort: 2017-Apr-05
+:END:
+
+**** Well I am in grad school (shhh, don't tell my advisor I'm on reddit :p) so I already do a lot of programming and data analysis. I had never done web scraping before, though, so this is a hobby of mine that I have /very/ slowly cultivated over the past few years. This particular post didn't take long since I already had the code written. The part that took the longest was data collection, which was fully automated and I just had to restart the script every so often.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 7
+:DateUnix: 1491340665.0
+:DateShort: 2017-Apr-05
+:END:
+
+
+** holy cow I had no idea draco/hg was so popular.
+:PROPERTIES:
+:Author: mikkelibob
+:Score: 13
+:DateUnix: 1491305892.0
+:DateShort: 2017-Apr-04
+:END:
+
+*** Well, there's a lot of potential for the relationship when handled well, and we have some amazing authors in the fandom. That being said, I know that Dramione get's /a lot/ of hate on this subreddit, which is surprising considering some of the pairing requests that come out of here...
+:PROPERTIES:
+:Author: th3irin
+:Score: 16
+:DateUnix: 1491326068.0
+:DateShort: 2017-Apr-04
+:END:
+
+**** Draco is overwhelmingly liked by women, and overwhelmingly HATED by men. I suspect a great majority of fanfic writers are female, hence the large number of Dramione and Drarry stories.
+
+On this sub, the gender distribution is more like 50-50.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 25
+:DateUnix: 1491341686.0
+:DateShort: 2017-Apr-05
+:END:
+
+***** One oft-overlooked thing about the "Draco is overwhelmingly liked by women" statement is that it isn't a "Draco" so much as it is "Tom Felton".
+
+My sister read the books before watching the movies and /loathed/ Draco, but after the movies stated' "Well, I can see why people like Malfoy now."
+
+Edit: The exact same thing happened with Severus Snape/Alan Rickman, though on a less extreme scale.
+:PROPERTIES:
+:Author: Galuran
+:Score: 38
+:DateUnix: 1491344387.0
+:DateShort: 2017-Apr-05
+:END:
+
+****** Draco Malfoy is also painted pretty heavily as an anti-hero in the last two books. He is stuck in the unfavorable position of being ordered to kill the most powerful wizard alive by the second most powerful wizard, who happens to be an evil maniac with a proverbial noose around the neck of his parents. He also isn't fully devoted to the movement of eliminating muggleborns, lacking the conviction to use the Unforgivable Curses. His insults in earlier years could easily have been rooted in jealousy of Hermione's intellect or friendship with Harry Potter.
+
+Combined with the fact that his family has money and political weight I could see why authors would pair him with the most background developed female character. As a character I dislike him but he is honestly one of the best ones to read or write about, alongside Severus Snape and Tom Riddle.
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 21
+:DateUnix: 1491352058.0
+:DateShort: 2017-Apr-05
+:END:
+
+
+****** That's a fair statement for near a majority of the fandom, for sure, but personally, I've never been that into Tom Felton. I mean, I understand the allure (he's attractive and charming in interviews), but he's never been attributed to my liking Draco as a character.
+:PROPERTIES:
+:Author: th3irin
+:Score: 4
+:DateUnix: 1491347007.0
+:DateShort: 2017-Apr-05
+:END:
+
+
+*** Mainly because of [[https://s-media-cache-ak0.pinimg.com/originals/ca/ac/dd/caacddbda204cc9fe49b58c1df6e3fca.jpg][that]].
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 9
+:DateUnix: 1491318752.0
+:DateShort: 2017-Apr-04
+:END:
+
+
+** Did your data scrape include other data? I'd be interested in seeing pairings sorted by total favorites -- or reviews, or follows, or some other measure of reader interest rather than author interest. Maybe it'll be the same, maybe not?
+:PROPERTIES:
+:Author: munin295
+:Score: 8
+:DateUnix: 1491309517.0
+:DateShort: 2017-Apr-04
+:END:
+
+*** Yep. I'm interested in this as well, so hopefully I can get around to it.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 6
+:DateUnix: 1491310005.0
+:DateShort: 2017-Apr-04
+:END:
+
+**** Or you know what? The /ratio/ of reader interest to author interest.
+:PROPERTIES:
+:Author: munin295
+:Score: 1
+:DateUnix: 1491826695.0
+:DateShort: 2017-Apr-10
+:END:
+
+
+** Draco fics were popular from the very beginning, but I think part of the reason they've stayed so high is because of Tom Felton. He has stayed active in the HP community, doing things like comicon, [[https://www.youtube.com/watch?v=T0_r8tAZQRA][filming a tour]] of WWoHP when it opened in FL, and [[https://www.youtube.com/watch?v=SsjGYTtmlR4][adorably funny stuff like this]]. So people who may not have liked Draco the book character are fans now because they project more of Tom Felton's qualities onto Draco and want ff character Draco to grow up to be the sort of person who Felton is in real life. And of course those who liked Draco all along endure in their love believing that Tom Felton has proved them right--that Draco was really a good guy in a terrible situation who becomes kind and funny when removed from all that, or whichever theory they prefer.
+:PROPERTIES:
+:Author: m2cwf
+:Score: 10
+:DateUnix: 1491335525.0
+:DateShort: 2017-Apr-05
+:END:
+
+*** I think you're right. Plus, Draco has a lot of potential for redemption/growth stories. Also, I think a similar thing has happened with Emma Watson for Hermione and with Rupert Grint for Ron (although not in a positive way for Ron).
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 6
+:DateUnix: 1491345403.0
+:DateShort: 2017-Apr-05
+:END:
+
+**** I agree about Ron, although I don't think I would attribute it to Rupert Grint as an actor or a person, more the writing of the screenplay.
+
+IMO Ron and Ginny were both stronger/better characters in the books than in the movies. As people's memories of the book characters faded and were replaced by the (again IMO) inferior movie versions, perhaps their fondness for Ron and Ginny also faded somewhat. My guess is that this might be why Ron and Ginny as ff characters started out in the middle but ended up near the bottom.
+:PROPERTIES:
+:Author: m2cwf
+:Score: 11
+:DateUnix: 1491348433.0
+:DateShort: 2017-Apr-05
+:END:
+
+
+** One major problem with this methodology: most fics do NOT have their characters in brackets
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 9
+:DateUnix: 1491310886.0
+:DateShort: 2017-Apr-04
+:END:
+
+*** Sorry if my description in the post wasn't clear. This is an analysis of fics that list two characters, so I know this doesn't necessarily mean romantic pairings. I also included pairings that were marked with brackets for fics that had >2 characters, but this didn't change the result at all, since that system has only been around since 2013 and even then isn't used much.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 12
+:DateUnix: 1491311453.0
+:DateShort: 2017-Apr-04
+:END:
+
+**** That explains, thx.
+
+I think it's also a good idea to weight the pairings based on number of favorites.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 9
+:DateUnix: 1491315167.0
+:DateShort: 2017-Apr-04
+:END:
+
+
+** That's very interesting. Do you have more in your collected data ? I'm interested in Harry/Daphne results. This couple has always intrigued me, as we don't know diddlysquat about Daphne Greengrass from canon :)
+:PROPERTIES:
+:Author: K0ULIK0V
+:Score: 7
+:DateUnix: 1491311554.0
+:DateShort: 2017-Apr-04
+:END:
+
+*** This is an interesting one. Harry/Daphne is 72nd most popular overall, right above Harry/Cho (73rd) and Arthur/Molly (74th). However, the trends over time are /extremely/ different between these pairings. [[http://i.imgur.com/n8L8wFj.png][Here's the graph!]].
+
+Daphne/Harry is certainly more popular right now. It was the 28th most popular in 2016. Harry/Cho on the other hand, had a peak rank of 18th in 2003, but was 72nd in 2016.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 7
+:DateUnix: 1491314300.0
+:DateShort: 2017-Apr-04
+:END:
+
+**** That's *very* interesting. So there was an obvious Harry/Cho surge between GoF and OotP, people wrote about what was known, but when they realized it wasn't going anywhere, they just let go of it like a dirty old sock (hope there were some House-Elves around).
+
+And Harry/Daphne really took flight when the books ended. Probably because people started remembering her because of Astoria.
+:PROPERTIES:
+:Author: K0ULIK0V
+:Score: 8
+:DateUnix: 1491314976.0
+:DateShort: 2017-Apr-04
+:END:
+
+
+** Thanks for sharing your analysis! So fascinating to see how the fandom changed over time. Would you mind sharing what the top 25 were? I can't even think what the other ones might be, I feel like your top 8 (plus the number 9 you mentioned) are all of the "big" ships.
+:PROPERTIES:
+:Author: mandering
+:Score: 5
+:DateUnix: 1491321818.0
+:DateShort: 2017-Apr-04
+:END:
+
+*** Sure. The top 25 overall were:
+
+1.  Draco M., Hermione G.
+2.  Draco M., Harry P.
+3.  James P., Lily Evans P.
+4.  Harry P., Hermione G.
+5.  Hermione G., Ron W.
+6.  Ginny W., Harry P.
+7.  Remus L., Sirius B.
+8.  Hermione G., Severus S.
+9.  Harry P., Severus S.
+10. Draco M., Ginny W.
+11. Rose W., Scorpius M.
+12. N. Tonks, Remus L.
+13. Lily Evans P., Severus S.
+14. Harry P., Voldemort
+15. Harry P., Ron W.
+16. Harry P., OC
+17. James P., Sirius B.
+18. Draco M., OC
+19. OC, Sirius B.
+20. Harry P., Sirius B.
+21. Fred W., George W.
+22. OC, Severus S.
+23. Fred W., Hermione G.
+24. Albus D., Minerva M.
+25. Harry P., Tom R. Jr.
+
+Edit: For some perspective, there are ~5000 unique pairings in my data, so 25 is <0.5% of the total. On the other hand, these top 25 account for ~70% of the fics.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 9
+:DateUnix: 1491323646.0
+:DateShort: 2017-Apr-04
+:END:
+
+**** One important thing to keep in mind is that not all these character pairings are ships. While there are undoubtedly a few fics that pair up Fred and George romantically, it most certainly wouldn't find a place in a list of the top 25 most popular ships. Same for Harry and Ron - Harry/Ron isn't a very popular romantic pairing by any means.
+
+Harry and Hermione are also probably higher than they should be, because they have a larger number of gen fics, than Harry and Ginny or Ron and Hermione.
+
+Edit: You actually did include the caveat in your article. Didn't see it, sorry.
+:PROPERTIES:
+:Author: PsychoGeek
+:Score: 7
+:DateUnix: 1491331219.0
+:DateShort: 2017-Apr-04
+:END:
+
+
+** Tom Felton is really well liked, it seems.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 7
+:DateUnix: 1491312474.0
+:DateShort: 2017-Apr-04
+:END:
+
+
+** Very interesting! I really enjoy posts like this.
+
+Given JK still has strong opinions on her characters, she must be furious at Draco's fandom popularity.
+:PROPERTIES:
+:Author: 360Saturn
+:Score: 3
+:DateUnix: 1491322667.0
+:DateShort: 2017-Apr-04
+:END:
+
+
+** Could you do a thing for femslash pairings? From what I can observe anecdotally, Hermione/Ginny used to be really popular but fell off a cliff in recent times, whereas Hermione/Bellatrix and Hermione/Fleur became increasingly popular. Ginny/Luna has gained substantial popularity lately, but I feel it's all on ao3 instead of ffn.net, and for whatever reason are almost always oneshots.
+:PROPERTIES:
+:Author: PsychoGeek
+:Score: 3
+:DateUnix: 1491331583.0
+:DateShort: 2017-Apr-04
+:END:
+
+*** Sure. [[http://i.imgur.com/4sRgS9W.png][Here's a graph with the 8 most popular F/F pairings I could find]]. Note that these are just fics with two female characters, so it may not necessarily be femslash.
+
+It definitely agrees with your expectations. Hermione/Ginny was by far the most popular early on, but Fleur/Hermione and Bellatrix/Hermione were more popular in 2015 and 2016. Your observations are very good!
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 6
+:DateUnix: 1491344877.0
+:DateShort: 2017-Apr-05
+:END:
+
+
+** Wow. As someone who's favourite pairing is SS/HG I was unsurprised to see our black line hover toward the bottom without the grat peaks and troughs.
+
+But looking closely your diagram suggests as of 2016 that Snamione is now more popular than Hinny, Harmony and Wolfstar. I admit, that feels untrue. (I don't doubt the veracity of your work, it just doesn't feel like it is the case.)
+:PROPERTIES:
+:Author: Judy-Lee
+:Score: 2
+:DateUnix: 1491341249.0
+:DateShort: 2017-Apr-05
+:END:
+
+*** Wolfstar is the name for Remus/Sirius? That. is. awesome.
+
+And those four you mentioned are all pretty similar in popularity over the past few years, so the rankings tend to fluctuate.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 7
+:DateUnix: 1491343472.0
+:DateShort: 2017-Apr-05
+:END:
+
+**** I'd be interested is seeing the mean ages by favourite pairing also. Anecdotally Snamione fans are often older than for many other pairings, if true, I would be very interested to see if age plays a part in the stability of favourite pairings.
+
+And yeah, Wolfstar is one of the cooler portmanteau without a doubt.
+:PROPERTIES:
+:Author: Judy-Lee
+:Score: 2
+:DateUnix: 1491347726.0
+:DateShort: 2017-Apr-05
+:END:
+
+***** Snape fans in general tend to be older. I wouldn't be surprised to see the same kind of stability in all Snape pairings regardless of where they are on the chart.
+:PROPERTIES:
+:Author: silentowl
+:Score: 1
+:DateUnix: 1491364431.0
+:DateShort: 2017-Apr-05
+:END:
+
+****** Agreed, I was just idly speculating on whether it was likely to be equally true of other pairings featuring characters of Snape's generation (or older) or if it was Snape-specific.
+
+My initial suspicion would be that the above average fan age for Snape is less to do with his age and more to do with the readers. I think as I have gotten older I see more shades of grey than when I was younger and it is this depth I appreciate in Snape's character as opposed to Lupin (for example).
+
+It would be nice to see if the data bore that or if that is only my perception.
+:PROPERTIES:
+:Author: Judy-Lee
+:Score: 1
+:DateUnix: 1491366705.0
+:DateShort: 2017-Apr-05
+:END:
+
+
+** hmm, i always thought snape/harry was more popular than snape/hermione
+:PROPERTIES:
+:Author: schrodingergone
+:Score: 7
+:DateUnix: 1491307364.0
+:DateShort: 2017-Apr-04
+:END:
+
+*** Snape/Harry is #9 overall, and it's popularity is very similar to Snape/Hermione. It's only in the last couple years that Snape/Hermione has been more popular. [[http://i.imgur.com/XdbVogg.png][Here's a pic!]]
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 12
+:DateUnix: 1491308677.0
+:DateShort: 2017-Apr-04
+:END:
+
+**** Did you find anything in your research that explained that surge of popularity with Snape/Hermione?
+:PROPERTIES:
+:Author: stefvh
+:Score: 3
+:DateUnix: 1491322665.0
+:DateShort: 2017-Apr-04
+:END:
+
+***** I don't know if I would call it a surge, since the overall number still went down. Its rank increased because it went down /less/ compared to others. As to why? I have no idea. A similar trend happened with Draco, i.e. Dr/H dropped more than Dr/Hr. It could be that slash fics in general became less popular on FFN, perhaps migrating to other sites.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 7
+:DateUnix: 1491323355.0
+:DateShort: 2017-Apr-04
+:END:
+
+****** AO3's open beta started in 2009. Is there any chance you could do something similar for it? It would be interesting to compare.
+:PROPERTIES:
+:Author: ClimateMom
+:Score: 2
+:DateUnix: 1491387196.0
+:DateShort: 2017-Apr-05
+:END:
+
+
+*** I think if it were somehow possible count all ss/hp and ss/hg fics, snarry would come out on top. Possibly by a significant amount. The problem is this data (fascinating though it is) only accounts for fics posted on ff.net. Historically, before ao3, a very large amount snarry fics were posted on slash or snarry specific archives as ff.net had a very bad rep especially amongst slash fans. Even though ff.net's rep is much better these days, it seems a lot of slash writers prefer ao3.
+:PROPERTIES:
+:Author: silentowl
+:Score: 5
+:DateUnix: 1491365754.0
+:DateShort: 2017-Apr-05
+:END:
+
+
+** How does this compare when you change number of stories to purely word count for each pairing?
+
+I'm still having trouble believing this data. I'm betting the ones that are D/Ha and D/He are that high because usually those fics don't tag the other members while most canon pairings tag all of Hermione, Harry, Ron, and Ginny.
+:PROPERTIES:
+:Author: BobVosh
+:Score: 3
+:DateUnix: 1491354589.0
+:DateShort: 2017-Apr-05
+:END:
+
+*** The use of 3 and 4 characters has only been around since 2013, so the data before that point isn't from this. Even recently, though, Draco/Hermione and Draco/Harry have been more popular. You can check this yourself with the FFN browse tool and look at fics published within the last year. When I did it, Draco/Hermione had 3.8k and Draco/Harry had 3k, whereas Ron/Hermione had 1.8k had Harry/Ginny had 1.1k. These numbers include the fics with 3 and 4 characters listed.
+
+And I haven't looked at word count. Maybe some pairings tend to be longer than others.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1491362514.0
+:DateShort: 2017-Apr-05
+:END:
+
+**** I was wondering basically on one shot vs longer stories.
+
+I mean I guess we could just look at chapters above 1 now that I think of it.
+:PROPERTIES:
+:Author: BobVosh
+:Score: 1
+:DateUnix: 1491363138.0
+:DateShort: 2017-Apr-05
+:END:
+
+
+** Is it viable for you to add results from specific archives. I know SSHG has a lot of fics that are hosted on Ashwinder and not cross posted to ffnet (I've seen maybe 20-30).
+:PROPERTIES:
+:Author: pwaasome
+:Score: 2
+:DateUnix: 1491318247.0
+:DateShort: 2017-Apr-04
+:END:
+
+*** Not really. I'd have to rewrite the html parsing code for each archive since they each display the information in different ways.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 2
+:DateUnix: 1491318692.0
+:DateShort: 2017-Apr-04
+:END:
+
+
+** Do you know where Hermione/Charlie ranks? I know it's not terribly popular but that pairing is what I like to read and write about.
+
+Hopefully, Harry Potter Fanfiction does stabilize; obviously the spikes in 2010-2011 due to the final two films being released were very large, but I joined Fanficion.net only in 2015, therefore, I missed the "Golden Age" and following years where stories were released in large numbers. I still feel like it's popular but nowhere near what it once was.
+:PROPERTIES:
+:Author: emong757
+:Score: 2
+:DateUnix: 1491319113.0
+:DateShort: 2017-Apr-04
+:END:
+
+*** It's ranked 80th overall and peaked in 2007. [[http://i.imgur.com/yPxkKSJ.png][Here's the graph]]. I don't think it got as much of a movie boost in 2011 since Charlie isn't in the movies, but it's definitely still alive and well today!
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 2
+:DateUnix: 1491320813.0
+:DateShort: 2017-Apr-04
+:END:
+
+
+*** So, links to favs pls? I'm a big fan of Hermione/AnyWeasleyKidButRon
+:PROPERTIES:
+:Author: Lady_Disdain2014
+:Score: 1
+:DateUnix: 1491333115.0
+:DateShort: 2017-Apr-04
+:END:
+
+**** Also look at [[https://www.fanfiction.net/u/529718/atruwriter][atruwriter]], she's not active anymore but she wrote some pretty interesting rarepairs, and hit the Hermione/Sirius and Hermione/Remus ships at their peaks back in the day, including others like Hermione/Fred, Hermione/Charlie.
+:PROPERTIES:
+:Author: TraceyThomas86
+:Score: 3
+:DateUnix: 1491336208.0
+:DateShort: 2017-Apr-05
+:END:
+
+
+**** These are all stories involving Charlie and Hermione (as said above, is my favorite pairing). Nocturnal and Games are Afoot are quite long fics but both are incredible.
+
+Nocturnal: linkffn (12243730)
+
+Games are Afoot: linkffn (3993848)
+
+2 Weeks in Romania: linkffn (4341127)
+
+Discovering her Courage: linkffn (5272793)
+
+Charlie's Redemption: linkffn (6064427)
+
+A Pleasurable Kind of Torture (one-shot): linkffn (8417149)
+:PROPERTIES:
+:Author: emong757
+:Score: 1
+:DateUnix: 1491333940.0
+:DateShort: 2017-Apr-04
+:END:
+
+***** Ty!!
+:PROPERTIES:
+:Author: Lady_Disdain2014
+:Score: 1
+:DateUnix: 1491336063.0
+:DateShort: 2017-Apr-05
+:END:
+
+
+** This was really cool to read! I liked the graph at the end with all the rankings over time. I'm actually surprised in the popularity spike for SSHG.
+
+How are you parsing through the archive?
+:PROPERTIES:
+:Author: _awesaum_
+:Score: 2
+:DateUnix: 1491323993.0
+:DateShort: 2017-Apr-04
+:END:
+
+*** Thanks! And I wrote a script that in python using the lxml library to collect the data.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 3
+:DateUnix: 1491324334.0
+:DateShort: 2017-Apr-04
+:END:
+
+
+** Nice, thank you for this. Have you considered filtering the 724k+ fics? E.g. consider only fics with 20k+/40k+/100k+ words, or/and only completed ones?
+
+Maybe even something like the completion rate by pairing and year.
+
+I think the overall popularity graph as a function not of the number of fics, but the number of words could be interesting.
+:PROPERTIES:
+:Author: AugustinCauchy
+:Score: 2
+:DateUnix: 1491387887.0
+:DateShort: 2017-Apr-05
+:END:
+
+
+** [[/r/theydidthemath][r/theydidthemath]]
+:PROPERTIES:
+:Author: NiteMary
+:Score: 1
+:DateUnix: 1491333732.0
+:DateShort: 2017-Apr-04
+:END:
+
+
+** This is really interesting! Thanks for sharing! I was just curious, is there any significance as to which character is listed first in the pairing or was that just your personal choice when writing them out?
+:PROPERTIES:
+:Author: DemelzaR
+:Score: 1
+:DateUnix: 1491337559.0
+:DateShort: 2017-Apr-05
+:END:
+
+*** Haha, nope. It's alphabetical order. It just happened to work out that way since the list of names from FFN I use as a lookup table is also alphabetical.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 2
+:DateUnix: 1491339950.0
+:DateShort: 2017-Apr-05
+:END:
+
+
+** I really find it fascinating that the most popular pairing (according to your chart) that's actually cannon is James/Lily. It's my favorite so I feel somewhat vindicated. I have to imagine that it's because of the ability to make your own story out of it. You have a few basics: boy and girl meet, boy likes girl, girl hates boy, they spend 7 years in close quarters with each other, add some war turmoil, growing up, falling in love and you've got the J/L skeleton.
+
+That is IF you wanted to go cannon. (Of course you don't have to). But even for cannon that's some bare bones to add on to. A perfect amount for a writer (and reader) to experience the story many times,in many ways, with the same ending.
+
+Suffice to say: I'm happy to find Jily at #3.
+:PROPERTIES:
+:Author: breezieair
+:Score: 1
+:DateUnix: 1491357755.0
+:DateShort: 2017-Apr-05
+:END:

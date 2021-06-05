@@ -1,0 +1,226 @@
+#+TITLE: Series in FanFiction.net
+
+* Series in FanFiction.net
+:PROPERTIES:
+:Author: jasoneill23
+:Score: 99
+:DateUnix: 1572867391.0
+:DateShort: 2019-Nov-04
+:FlairText: Discussion
+:END:
+Fanfiction needs a feature that groups the stories in a series together and labels them as complete or in progress. Its annoying to read an awesome story and then it needs a sequal that is abandoned. Harry's Hero was the biggest let down for me. Why is this not a thing and hiw can we make it one.
+
+
+** It's not happening unless you A) happen to be Xing Li and are here to ask for programming tips, B) are one of Xing Li's friends or an admin and are here to ask for help in convincing him, in which case maybe try out How to Win Friends and Influence People, C) stir up lots of media scrutiny over this lack of feature, or D) buy out the site. Sorry to be snarky, but there's a reason why the site looks so archaic and functions so archaically. Functionality rarely is improved with the whole thing, and the biggest changes that tend to happen are fanfic purges. The most you can probably do is ask authors to crosspost to AO3 or some other superior site, or if you having the programming skills, write a site that acts as an interface for FFN and has all the functions you want.
+:PROPERTIES:
+:Author: SnowingSilently
+:Score: 64
+:DateUnix: 1572868303.0
+:DateShort: 2019-Nov-04
+:END:
+
+*** I actually tried the interface, but got stuck on the Captcha that's needed for login.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 14
+:DateUnix: 1572872831.0
+:DateShort: 2019-Nov-04
+:END:
+
+**** Can't you just pass that through to the end user?
+
+If all you want to do is add some features to the site I would recommend a userscript (and perhaps style) though, that way you don't have to recreate all the existing functionality.
+:PROPERTIES:
+:Author: how_to_choose_a_name
+:Score: 5
+:DateUnix: 1572883342.0
+:DateShort: 2019-Nov-04
+:END:
+
+***** I wanted to have a program that uploads fics and manages chapter titles and stuff for me
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 3
+:DateUnix: 1572884562.0
+:DateShort: 2019-Nov-04
+:END:
+
+
+*** I've got a husband with programming skills. I planted the idea, now let's see 😈
+:PROPERTIES:
+:Author: Tintingocce
+:Score: 8
+:DateUnix: 1572895178.0
+:DateShort: 2019-Nov-04
+:END:
+
+
+*** Quick question. How */does/* one become an admin on FFN? It's been a curiosity for me for a little while now, but no one I've asked (I've just joined Reddit a couple of months ago) happens to know.
+:PROPERTIES:
+:Author: SmartAssBlaine
+:Score: 1
+:DateUnix: 1573021090.0
+:DateShort: 2019-Nov-06
+:END:
+
+
+** Honestly, I don't see a feature like that as being much more than mildly convenient. I started out using ffn before I knew about ao3, and for whatever reason, a disproportionate amount of the fics I saw at that point were in a series, so I got in the habit of checking authors' pages to see how far along those series had gotten before looking into them pretty early on.
+:PROPERTIES:
+:Author: DeliSoupItExplodes
+:Score: 27
+:DateUnix: 1572873195.0
+:DateShort: 2019-Nov-04
+:END:
+
+*** The "series" feature of Ao3 is useful for following any ongoing stories which are broken into multiple fics. On FFN you would have to check the author's page periodically to see if they upload a new chapter as a separate fic, then subscribe to the new one when it is posted, whereas on Ao3 you can just hit subscribe on the series page to get automatic email updates for the existing fics along with any new ones when they appear. This is particularly useful for some authors who have a main fic and tend to post many one-shot spinoffs in the same series.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 5
+:DateUnix: 1572902361.0
+:DateShort: 2019-Nov-05
+:END:
+
+**** You can subscribe to the author and get a notification every time they upload a new story.
+:PROPERTIES:
+:Author: PMmeagoodstory
+:Score: 5
+:DateUnix: 1572905836.0
+:DateShort: 2019-Nov-05
+:END:
+
+***** Yes, but in the situation I described the author has multiple ongoing series, only one of which I want to get updates for. Ao3's functionality wins out in cases like that.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 5
+:DateUnix: 1572907689.0
+:DateShort: 2019-Nov-05
+:END:
+
+****** Oh, I didn't understand that you were talking about multiple series. AO3 wins here. FFN definitely could use updates.
+:PROPERTIES:
+:Author: PMmeagoodstory
+:Score: 5
+:DateUnix: 1572908327.0
+:DateShort: 2019-Nov-05
+:END:
+
+
+** Not a foolproof method but viewing the story's author and then checking their other stories is usually a good way of doing it.
+
+So for instance, if you like linkffn(7613196) The Pureblood Pretense, you can go to murkybluematter's list of stories and quickly see that linkffn(11911497) The Futile Facade is still being updated reasonably regularly.
+
+As I say, not perfect but it helps a little.
+:PROPERTIES:
+:Author: rpeh
+:Score: 23
+:DateUnix: 1572875594.0
+:DateShort: 2019-Nov-04
+:END:
+
+*** [[https://www.fanfiction.net/s/7613196/1/][*/The Pureblood Pretense/*]] by [[https://www.fanfiction.net/u/3489773/murkybluematter][/murkybluematter/]]
+
+#+begin_quote
+  Harriett Potter dreams of going to Hogwarts, but in an AU where the school only accepts purebloods, the only way to reach her goal is to switch places with her pureblood cousin---the only problem? Her cousin is a boy. Alanna the Lioness take on HP.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{22} ^{*|*} ^{/Words/:} ^{229,389} ^{*|*} ^{/Reviews/:} ^{1,014} ^{*|*} ^{/Favs/:} ^{2,398} ^{*|*} ^{/Follows/:} ^{953} ^{*|*} ^{/Updated/:} ^{6/20/2012} ^{*|*} ^{/Published/:} ^{12/5/2011} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{7613196} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure/Friendship} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Draco} ^{M.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=7613196&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=7613196&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[https://www.fanfiction.net/s/11911497/1/][*/The Futile Facade/*]] by [[https://www.fanfiction.net/u/3489773/murkybluematter][/murkybluematter/]]
+
+#+begin_quote
+  Harriet Potter is back for a fourth year of quietly masquerading as her pureblooded cousin in order to pursue her dream. There are those in the Wizarding World who refuse to see her fade into the background, however, and when the forces she's been ignoring conspire to bring her to the fore, it will take everything she has to see her artifice through. Alanna the Lioness take on HP4.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{10} ^{*|*} ^{/Words/:} ^{359,097} ^{*|*} ^{/Reviews/:} ^{3,681} ^{*|*} ^{/Favs/:} ^{1,933} ^{*|*} ^{/Follows/:} ^{2,277} ^{*|*} ^{/Updated/:} ^{8/1} ^{*|*} ^{/Published/:} ^{4/23/2016} ^{*|*} ^{/id/:} ^{11911497} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure/Drama} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{OC} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11911497&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11911497&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 3
+:DateUnix: 1572875608.0
+:DateShort: 2019-Nov-04
+:END:
+
+
+** Fanfiction.net needs a lot of things. Don't count on anything improving, though. Ideally it'd just die and we can have Ao3. Its tag system is a bit of a double-edged sword (it gives great flexibility -- sometimes /too much/) but overall the site structure is far better IMO.
+
+My biggest problem with FFN is how it's basically impossible to filter based on presence or lack of a pairing. This isn't strictly the site's own fault though, because the pairing tag actually exists -- just that for some reason, most people don't actually use it. For example, a while back looking for SS&HP fics it was impossible to filter out the Snarry from what I was actually interested in (which wasn't Snarry...), because people didn't bother to tag the pairing. In the end I just resorted to looking on different sites instead.
+
+I'd imagine you would have similar problems on looking for platonic fics between 2 people who are also shipped a lot romantically.
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 11
+:DateUnix: 1572892577.0
+:DateShort: 2019-Nov-04
+:END:
+
+*** You seem to support Ao3, and I'm interested. Do you know if there's an app on android where I can read Ao3 fics?
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1572893811.0
+:DateShort: 2019-Nov-04
+:END:
+
+**** Ao3 doesn't have an app but their mobile site is pretty great and honestly easier to use than ffnet's app imo. You can also filter for very specific things (ie all stories tagged “Slytherin Harry” or any variation of that), and it has the series function. The only downside is a lot of older HP fics from pre 2010 or so haven't been moved over.
+:PROPERTIES:
+:Author: crystalldaddy
+:Score: 5
+:DateUnix: 1572913952.0
+:DateShort: 2019-Nov-05
+:END:
+
+
+**** I haven't found one either unfortunately.\\
+I also still mainly use FFnet because of their superior app.
+:PROPERTIES:
+:Author: meandyouandyouandme
+:Score: 4
+:DateUnix: 1572898522.0
+:DateShort: 2019-Nov-04
+:END:
+
+
+**** I generally don't use apps for websites when simply just using the websites themselves work perfectly fine, and never understood people's fascination with doing this. Sorry!
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 6
+:DateUnix: 1572894119.0
+:DateShort: 2019-Nov-04
+:END:
+
+***** I'm speaking mainly of the FFnet app.
+
+- Easy and fast way to set your preferred font size.
+- Easy and fast swipe between chapters without having to download each chapter while navigating.
+- Easy full download feature for offline usage.
+- Screen on feature.
+- Fics stay on the last read chapter, so you always can come back to it and know where you left off, for people like me who read a lot of fics at the same time.
+- Bookmark feature.
+
+Just some of the features I enjoy on the FFnet app and why I still only read my fics on FFnet.
+:PROPERTIES:
+:Author: meandyouandyouandme
+:Score: 8
+:DateUnix: 1572898798.0
+:DateShort: 2019-Nov-04
+:END:
+
+****** And also: I despise having the notification bar at the top of the screen. FFN's app goes fullscreen, which is the main reason using the site(and Ao3) on mobile bothers me now. Though, I do still use the mobile site's search functionality.
+:PROPERTIES:
+:Author: OrionTheRed
+:Score: 5
+:DateUnix: 1572905247.0
+:DateShort: 2019-Nov-05
+:END:
+
+******* Oh yeah. And I also forgot receiving notifications when a followed/favorited fic was updated.
+:PROPERTIES:
+:Author: meandyouandyouandme
+:Score: 3
+:DateUnix: 1572905465.0
+:DateShort: 2019-Nov-05
+:END:

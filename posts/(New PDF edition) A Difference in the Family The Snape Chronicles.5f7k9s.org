@@ -1,0 +1,77 @@
+#+TITLE: (New PDF edition) A Difference in the Family: The Snape Chronicles
+
+* (New PDF edition) A Difference in the Family: The Snape Chronicles
+:PROPERTIES:
+:Author: xenohedron
+:Score: 26
+:DateUnix: 1480281153.0
+:DateShort: 2016-Nov-28
+:FlairText: Recommendation
+:END:
+I've recently completed a typeset edition of the epic fanfic /A Difference in the Family: The Snape Chronicles/ by Rannaro.
+
+linkffn(7937889)
+
+For those of you who haven't heard of this story, it's a truly brilliant account of the entire life of Severus Snape. It is entirely consistent with the canon of Rowling's text (insofar as the canon is self-consistent). The story is long and filled with detail, but every scene has a reason to be included, usually for the purpose of character development, so it's still an engaging read. Having come back to this fic again and again, I decided I wanted physical copies.
+
+Using LaTeX, I've formatted the story in the style of the American editions of canon Harry Potter. There were very few typographical errors to begin with, but I proofread thoroughly, standardized capitalization of magical terms, and ensured that all quotation marks are properly matched. Since 650,000 words is too long for a single volume, I split the work into four volumes at what I judged to be the best break points in the story. The files are standard 6"x9" and thus can be printed easily and cheaply with self-publishing services. I have made my source code and commits public on github, and the final PDFs are here:
+
+<[[https://github.com/xenohedron/snape/tree/master/print]]>
+
+I hope that my work helps others to enjoy this beautiful story.
+
+
+** This PDF edition looks stunning! I see you've also done one for HPMoR. If it's possible, could you make a print edition for /The Life and Times/ next? Imo it's the best Marauders fanfic out there and one of the most popular for sure! linkffn(5200789)
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1480285782.0
+:DateShort: 2016-Nov-28
+:END:
+
+*** Why thank you! Funny you should request, as /The Life and Times/ was the most recent fanfic I read. Unfortunate that it isn't complete, though...
+
+I'll definitely consider it, and let you know if it happens!
+:PROPERTIES:
+:Author: xenohedron
+:Score: 3
+:DateUnix: 1480286170.0
+:DateShort: 2016-Nov-28
+:END:
+
+
+** [[http://www.fanfiction.net/s/7937889/1/][*/A Difference in the Family: The Snape Chronicles/*]] by [[https://www.fanfiction.net/u/3824385/Rannaro][/Rannaro/]]
+
+#+begin_quote
+  We have the testimony of Harry, but witnesses can be notoriously unreliable, especially when they have only part of the story. This is a biography of Severus Snape from his birth until his death. It is canon-compatible, and it is Snape's point of view.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 64 *|* /Words/: 647,787 *|* /Reviews/: 245 *|* /Favs/: 552 *|* /Follows/: 233 *|* /Updated/: 4/29/2012 *|* /Published/: 3/18/2012 *|* /Status/: Complete *|* /id/: 7937889 *|* /Language/: English *|* /Genre/: Drama *|* /Characters/: Severus S. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=7937889&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=7937889&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 3
+:DateUnix: 1480281158.0
+:DateShort: 2016-Nov-28
+:END:
+
+
+** Is this your own own story? If not, has the author okayed this? Because if someone came along and did this with anything of mine without asking I would be incandescent with rage. Especially the 'proofreading' bit.
+:PROPERTIES:
+:Author: booksandpots
+:Score: -3
+:DateUnix: 1480282080.0
+:DateShort: 2016-Nov-28
+:END:
+
+*** I have tried to contact the author by various means, but have received no replies. The most recent activity I could find was 2012. And by "proofreading" I mean fixing a couple misspelled words; there are no significant changes.
+:PROPERTIES:
+:Author: xenohedron
+:Score: 16
+:DateUnix: 1480282235.0
+:DateShort: 2016-Nov-28
+:END:

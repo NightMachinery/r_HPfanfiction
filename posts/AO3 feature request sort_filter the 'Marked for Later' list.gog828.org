@@ -1,0 +1,124 @@
+#+TITLE: AO3 feature request: sort/filter the 'Marked for Later' list
+
+* AO3 feature request: sort/filter the 'Marked for Later' list
+:PROPERTIES:
+:Author: WaveMaker24
+:Score: 16
+:DateUnix: 1590140085.0
+:DateShort: 2020-May-22
+:FlairText: Meta
+:END:
+I admit that my Marked for Later list has got a little out of hand... It would really help to be able to filter them by word count, pairing etc. But it seems that this is the only place on the site where this isn't provided. Is AO3 open source? If not, does anyone know where to make suggestions to the web team?
+
+
+** I don't know how I never realized this was something that existed instead of the massive chrome bookmarks folder I have going.
+:PROPERTIES:
+:Author: raseyasriem
+:Score: 7
+:DateUnix: 1590154535.0
+:DateShort: 2020-May-22
+:END:
+
+
+** You can contact AO3 directly to volunteer (it's under "donate your time") on various projects. [[https://archiveofourown.org/donate]]
+:PROPERTIES:
+:Author: alephnumber
+:Score: 5
+:DateUnix: 1590166315.0
+:DateShort: 2020-May-22
+:END:
+
+*** Thanks! Unfortunately it looks like they don't have any postings open for coder volunteers at the moment, and even then I'm sure they'd have specific coding tasks assigned. I wish it was open source, I'd happily dive in and see if I could figure this out myself. I guess the best I can do in this case is find an email address to send in my suggestion.
+:PROPERTIES:
+:Author: WaveMaker24
+:Score: 1
+:DateUnix: 1590168338.0
+:DateShort: 2020-May-22
+:END:
+
+**** You're welcome! I would imagine that if you volunteered, helped with projects they have going, and then suggested this feature, you could take on that project as a trusted volunteer. It's a great suggestion!
+
+I don't let my marked for later list get too long on AO3, but I also keep a spreadsheet of fic I've read everywhere, which always has a very long "to read later" section.
+:PROPERTIES:
+:Author: alephnumber
+:Score: 2
+:DateUnix: 1590198483.0
+:DateShort: 2020-May-23
+:END:
+
+***** The admin is everywhere! :D I was just saying on a different comment that fanfic involves a surprising amount of admin. (I love a good spreadsheet though.)
+:PROPERTIES:
+:Author: WaveMaker24
+:Score: 1
+:DateUnix: 1590241115.0
+:DateShort: 2020-May-23
+:END:
+
+
+** The same thing for downloads in the FFN app would be cool too
+:PROPERTIES:
+:Author: kdbvols
+:Score: 2
+:DateUnix: 1590143280.0
+:DateShort: 2020-May-22
+:END:
+
+
+** The only place I can think of for suggestions is the [[https://archiveofourown.org/support][support and feedback form]]. I second what the other user said about the donating your time if you have the willingness and capabilities to do so.
+
+Personally, I use the bookmark feature (on private) instead of marked for later since there is a sort option for those. If you're already using bookmarks to save read fics that are your favorites for rereads then simply add "unread" under the "your tags" option when bookmarking and then you can filter it in when looking for an unread fic to read. Plus, you can import fics into bookmarks from outside of ao3 so all of your to read list is in one spot.
+:PROPERTIES:
+:Author: spleunk4
+:Score: 2
+:DateUnix: 1590169067.0
+:DateShort: 2020-May-22
+:END:
+
+*** That's a really smart work around, I think I'll start doing that. Do you happen to know if I can keep some bookmarks public and others private?
+
+Shifting the list of them all to bookmarks is going to take some doing, though! I never knew getting into fan fiction would bring so much admin into my life. :D
+
+And thanks for the link to the feedback form, I'll send it in now.
+:PROPERTIES:
+:Author: WaveMaker24
+:Score: 1
+:DateUnix: 1590170132.0
+:DateShort: 2020-May-22
+:END:
+
+**** There's an option for "private bookmark" at the bottom of the form so it should be easy enough to do either option.
+
+And yeah, I feel you on the admin front. I started reading on ffnet so I still have a massive list of fics bookmarked in Chrome. I was importing them into ao3 but then figured I should make sure I still want to read them (as my tastes have changed) before doing all that work and here I am years later, still unorganized. At least my ao3 fics are in one easy spot.
+
+I'd love to see a place to save searches, right now I do that in Chrome but it would be so handy to have that within the website!
+:PROPERTIES:
+:Author: spleunk4
+:Score: 2
+:DateUnix: 1590171129.0
+:DateShort: 2020-May-22
+:END:
+
+***** So I spent an hour looking for ways to automate the transfer from 'Marked for Later' to bookmarks, and then gave up and set a fanfic to read aloud while I spent a couple of hours transferring them all manually. It is so worth it though! I finally have a whole database of the fics I want to read. :)
+:PROPERTIES:
+:Author: WaveMaker24
+:Score: 2
+:DateUnix: 1590354001.0
+:DateShort: 2020-May-25
+:END:
+
+
+** i know they have a twitter, maybe you could DM them?
+:PROPERTIES:
+:Author: hufflepuff_padawan
+:Score: 1
+:DateUnix: 1590175921.0
+:DateShort: 2020-May-23
+:END:
+
+*** That's a thought, although I think you have to follow both ways before you can DM someone on Twitter?
+:PROPERTIES:
+:Author: WaveMaker24
+:Score: 1
+:DateUnix: 1590241193.0
+:DateShort: 2020-May-23
+:END:

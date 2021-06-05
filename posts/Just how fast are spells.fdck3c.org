@@ -1,0 +1,288 @@
+#+TITLE: Just how fast are spells?
+
+* Just how fast are spells?
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 36
+:DateUnix: 1583326335.0
+:DateShort: 2020-Mar-04
+:END:
+Can you see a curse coming and dodge out of the way?
+
+Are spells affected by gravity? Coriolis force? What'd happen in a duel in an accelerating train?
+
+What happens if the space the spell travels through is not euclidean? Space stretching magic exists.
+
+
+** From stackexchange:
+
+​
+
+#+begin_quote
+  Well, from the books we know that when wizards duel (like in the *dueling league*) they face each other at a range where normal spoken communication is easy.
+
+  Beyond ~30 feet, you have to put in a lot more effort to be heard, which the books do not demonstrate happening - Harry and Draco, for example, exchanged threats just fine.
+
+  Therefore, we can assume that it is reasonable for an experienced duelist to react to their opponent's spell at a distance of ~30 feet.
+
+  The casting time of a spell seems to average around one second (verbal and motion casting). We can further assume that the common attack spells in duels can be distinguished by an experienced duelist from the first motion (so within a half second of the start of casting).
+
+  This leaves the opponent a half second to choose a defense and cast it before the spell is headed their way. They need to then cast their defense or counterattack, which will take approximately a second.
+
+  At time 0 the attacker (A) begins casting a spell.
+
+  At time 0.5, the defender (D) begins casting a defense or counter.
+
+  At time 1, A's spell launches towards D. D still needs a half second to finish casting.
+
+  Therefore, if the spell can cover 30 feet in half a second, D will never be able to counter, and the duel will likely end with the first spell every time.
+
+  Spells can't move too slowly, either, or even an inexperienced duelist will have plenty of time to summon a defense - attacking will never hit.
+
+  I would therefore estimate that the spell takes between .75 and 1 second to travel a distance of up to 30 feet.
+
+  That works out to ~37.5 feet per second to 30 feet per second (I would expect that different spells travel at different speeds, but this works for an average range). This is fast, but not so fast that a prepared defender won't have time to defend himself and/or dodge.
+
+  For comparison, a quick google search suggests that most bullets from a handgun travel at a minimum of 1,000 feet per second (up to around 1,500 fps) when they exit the barrel. A spell travels, then, at ~2% the speed of a handgun bullet (rifle bullets are considerably faster).
+
+  These are back-of-the-envelope calculations, and may be off by a factor of two or three (if duelists stand 40 or even 60 feet apart, instead of 30). Even a worst-case scenario, though (60 feet apart, at which distance you MUST yell to be heard) has a spell traveling at less than 80 feet per second.
+#+end_quote
+
+[[https://scifi.stackexchange.com/a/30814]]
+:PROPERTIES:
+:Author: RoyTellier
+:Score: 40
+:DateUnix: 1583329907.0
+:DateShort: 2020-Mar-04
+:END:
+
+
+** Harry dodges multiple spells throughout the series, in GoF alone the Stunning-Hexes by the ministry at the world cup, and I think a curse or two at the graveyard.
+
+So, canonically it's possible.
+:PROPERTIES:
+:Author: vlaaivlaai
+:Score: 47
+:DateUnix: 1583326951.0
+:DateShort: 2020-Mar-04
+:END:
+
+*** I went and reread those sections when writing my post, every time he dodges, at least in the Goblet of Fire, he initiates the dodge before the spell is cast. Which doesn't guarantee that spells are either dodgeable or undodgeable once cast. Seems still open to interpretation. I think it works best to think of spells travelling the speed of a crossbow bolt or arrow. If you can dodge out of the way of where your opponent is aiming before they have a chance to adjust their aim, you can dodge. But if they still have a bead on you the spell moves too quickly to dodge out of the way of once it's in the air.
+:PROPERTIES:
+:Author: Kingsonne
+:Score: 7
+:DateUnix: 1583361325.0
+:DateShort: 2020-Mar-05
+:END:
+
+
+*** Didn't he pull everyone down BEFORE the stunning spells were sent at the cup? Or am I remembering that wrong?
+:PROPERTIES:
+:Author: Nyanmaru_San
+:Score: 4
+:DateUnix: 1583357380.0
+:DateShort: 2020-Mar-05
+:END:
+
+**** He did. I just reread the section when writing my reply.
+:PROPERTIES:
+:Author: Kingsonne
+:Score: 2
+:DateUnix: 1583360925.0
+:DateShort: 2020-Mar-05
+:END:
+
+
+*** Why is this downvoted
+
+Edit: now /was/ :)
+:PROPERTIES:
+:Author: RavenclawHufflepuff
+:Score: 10
+:DateUnix: 1583328305.0
+:DateShort: 2020-Mar-04
+:END:
+
+
+** As fast as the narrative requires, of course.
+:PROPERTIES:
+:Author: Notus_Oren
+:Score: 23
+:DateUnix: 1583326594.0
+:DateShort: 2020-Mar-04
+:END:
+
+
+** Here's another question: Does the same spell always cast at the same speed, or do some casters' spells fly faster than others'?
+:PROPERTIES:
+:Author: WhosThisGeek
+:Score: 9
+:DateUnix: 1583341181.0
+:DateShort: 2020-Mar-04
+:END:
+
+*** I've read some good fics with various spells traveling slower or faster than others, but not differences between the same spell.
+:PROPERTIES:
+:Author: Kingsonne
+:Score: 3
+:DateUnix: 1583361365.0
+:DateShort: 2020-Mar-05
+:END:
+
+**** In one of my fics I had that be one of the things that made Voldemort so difficult an opponent, but it was a very minor and mostly-throwaway line.
+:PROPERTIES:
+:Author: WhosThisGeek
+:Score: 3
+:DateUnix: 1583369227.0
+:DateShort: 2020-Mar-05
+:END:
+
+
+** Part of the problem is inconsistency in writing. In the first HP books there weren't any spells that were described as beams of light, or flying through the air, or anything like that. That really happened as a mutual evolution of the books and movies together. Once JK got to Goblet of Fire, where fighting and dueling really became something darker and relevant she had to develop things more, which is where the jets and beams of light, the powerful winds, etc started.
+
+Like other people I think the universe needs a balance of spells with visible dodgeable lights as well as instantly effective spells like described throughout the series. I think that visible dodgeable spells should move too fast to dodge personally. I think that dodging spells should be like dodging bullets. You can't actually do it, but you can see where the other person is aiming and dive out of the way before the spell finishes. You still get the visual and auditory cues the same way you do with the whizzing of bullets and lights of tracer rounds. I don't think it matters if spells are as fast or a little faster than bullets. It only matters that they are faster than human reflex.
+:PROPERTIES:
+:Author: Kingsonne
+:Score: 5
+:DateUnix: 1583359859.0
+:DateShort: 2020-Mar-05
+:END:
+
+
+** as fast as a glowing cgi laser beam travels
+
+to be slightly less facetious, most fic spells are like magical bullets but slower so people can duck and cover, but i doubt they really take into account the intricacies of motion of objects on earth. since magic is magical, it's not like it needs to follow the science.
+:PROPERTIES:
+:Author: vaiire
+:Score: 5
+:DateUnix: 1583327081.0
+:DateShort: 2020-Mar-04
+:END:
+
+
+** Fast enough to catch you unaware, but slow enough to be dodged if you are prepared.
+:PROPERTIES:
+:Author: will1707
+:Score: 3
+:DateUnix: 1583349680.0
+:DateShort: 2020-Mar-04
+:END:
+
+
+** Setting aside the reflexive pithy response of "its magic, speed doesn't matter," I think there is something to be said here about trying to apply physics to what can be described more as conceptual or metaphysical.
+
+1. Firstly, I don't think spells are "dodged" exactly in the way that one would say play dodgeball. More likely it has something to do with the caster being less capable or incompetent with the magic (adrenaline does away with a lot of that after all). Hence why, for example, Bellatrix doesn't "dodge" Dumbledore's spell in the Death Room, rather blocks it with a shield. And in most cases, the "dodging" seems to be more about getting behind an object that takes the spell instead than pulling a "Matrix" on everyone. Another possibility is that a person sees another caster moving their wand, or hears the beginning of some incantation. This might explain why counter-spells exist as well.
+2. The movies sort of make this hard to avoid, but canonically there are a lot of spells where we see no light flashes or sounds. Take /Wingardium Leviosa/ for instance - there is no flash or what have you. Or the shield charm which simply appears wherever the caster specifies. The point is that the lights are seemingly representations of the spells, but not the spells themselves. After all, how can you dodge Dumbledore conjuring hundreds of sleeping bags? Or how could someone, even Dumbledore, hit Harry accurately with /Arresto Momentum/ if as he was falling from the sky in the rain and wind, surrounded by Dementors? So it seems like the physics only affect a spell in so far as they are /meant to for the spell to work/.
+
+TL;DR: I think its wrong to say spells are dodged in the way objects, rather they are avoided through lack of skill, prior warning, or placing an object between them. This is supported further by the fact that many spells simply appear, having no visible or physical transmission vector to take affect.
+:PROPERTIES:
+:Author: XeshTrill
+:Score: 4
+:DateUnix: 1583335693.0
+:DateShort: 2020-Mar-04
+:END:
+
+*** This is why I distinguish in my fic between hexes and other kinds of magic like charms and transfigurations. A hex is defined (in my interpretation) as an emanation of magic propelled from one's wand towards a target, and thus has flight speed and trajectory, and can therefore be dodged or blocked.
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 6
+:DateUnix: 1583342284.0
+:DateShort: 2020-Mar-04
+:END:
+
+**** A great way to differentiate I think
+:PROPERTIES:
+:Author: Kingsonne
+:Score: 4
+:DateUnix: 1583361403.0
+:DateShort: 2020-Mar-05
+:END:
+
+***** Thanks! It made a ton of sense to me, and helped with my magical taxonomy tremendously, haha. Part of my rationale is that hexes have more range, in contrast to an individual's area of sorcerous effect (where they can do stuff like transfiguration or other non-ranged magic). I have charts and graphs correlating them along with hex speed, and so on, for the different levels of magical maturity.
+
+I like spreadsheets. :D
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 3
+:DateUnix: 1583361892.0
+:DateShort: 2020-Mar-05
+:END:
+
+
+*** I don't think this is right. The books make very clear that the lights some spells have are the spells, not representations (I don't think this makes any sense). They say things like "He dodged the spell" or whatever. Really, there's just spells that have spell light and those that don't (Dumbledore conjuring the sleeping bags, Body Bind Spell, etc.), just as some don't require any aiming beyond seeing the target you intend to hit (Legilimency, for example, just needs you to see your target, often their eyes if you're doing wandless) while others don't require aiming at all, needing only intent (Summoning). Physics doesn't really seem to matter at all to the casting.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 1
+:DateUnix: 1583381681.0
+:DateShort: 2020-Mar-05
+:END:
+
+
+** I think of them as a fastball in baseball. Maybe 95mph give or take.
+:PROPERTIES:
+:Author: streakermaximus
+:Score: 2
+:DateUnix: 1583339871.0
+:DateShort: 2020-Mar-04
+:END:
+
+
+** I would be really interested which non-euclidean space you bear in mind when talking about magic traveling through it.
+:PROPERTIES:
+:Author: FornhubForReal
+:Score: 1
+:DateUnix: 1583355990.0
+:DateShort: 2020-Mar-05
+:END:
+
+*** Bigger on the inside bags exist, so it could be possible to do a whole lot of other things as well.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 1
+:DateUnix: 1583357682.0
+:DateShort: 2020-Mar-05
+:END:
+
+
+** I was thinking the other day what if you made a spell that moved at the speed of sound you would just win every duel if someone want to write a crack prompt of this that would be great
+:PROPERTIES:
+:Author: justjustin2300
+:Score: 1
+:DateUnix: 1583366542.0
+:DateShort: 2020-Mar-05
+:END:
+
+*** How about a spell that creates laser light strong enough to do damage? Light speed!
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 1
+:DateUnix: 1583386299.0
+:DateShort: 2020-Mar-05
+:END:
+
+
+** I always figured that more powerful wizards and witches could throw faster spells. Like there's the standard speed but the more powerful you are the faster/harder the spell hits
+:PROPERTIES:
+:Author: LiriStorm
+:Score: 1
+:DateUnix: 1583370574.0
+:DateShort: 2020-Mar-05
+:END:
+
+
+** Probably ~80 mph? I'm thinking about baseball players, who have very quick reflexes, and can just manage to hit a 100 mph ball with 90 feet to react. If we assume duelists are about as quick (or quicker) than baseball players, but fire from nearer distances, our ballpark estimate should be around or just under the speed of a fastball.
+:PROPERTIES:
+:Author: TychoTyrannosaurus
+:Score: 1
+:DateUnix: 1583375212.0
+:DateShort: 2020-Mar-05
+:END:
+
+
+** I always figured spells just shoot in a straight line, no gravity, though they often seem to bounce off things, presumably more in the manner of a reflected light than a ball.
+:PROPERTIES:
+:Author: Electric999999
+:Score: 1
+:DateUnix: 1583467744.0
+:DateShort: 2020-Mar-06
+:END:

@@ -1,0 +1,294 @@
+#+TITLE: [Discussion] A working version of the Trace
+
+* [Discussion] A working version of the Trace
+:PROPERTIES:
+:Author: SteamAngel
+:Score: 2
+:DateUnix: 1502808585.0
+:DateShort: 2017-Aug-15
+:FlairText: Discussion
+:END:
+I've been searching through previous discussions on here and [[/r/HarryPotter][r/HarryPotter]] about how the Trace works... and the general consensus is that it's inconsistent and not much can be worked out for certain about it from canon.
+
+I've been racking my brains to come up with a working method for the Trace, and I was hoping I could get some feedback on my idea from you lot, or alternative headcanons and suggestions.
+
+I imagine that somewhere in the Ministry is a map of the UK that looks kinda like a weather map. There are swirls, eddies, vortices etc which represent natural magical patterns across the country. Focuses will make little dots appear on the map when used, unfocused magic (accidental and wandless) not so much but it still has an effect. Warded areas are not detectable, except possibly by their absence.
+
+So when first years go across the lake and through the tunnel, they have the Trace applied on them. The aim of the Trace is to give their magic a "colour" when it appears on the map. So if there is a bout of accidental magic, the telltale pattern on the map is coloured (which distinguishes it from natural magical effects), and the Accidental Magic Reversal Squad gets sent out. If it is 'focused' into the telltale pinpricks, then it gets studied a bit more somehow and the letter gets send out by Hopkirk. I'm unsure how they can tell /what/ spell is used unless there is a complimentary effect on the wand, like a remote-controlled Priori Incantatem. If this is the case, I thought this aspect could be removed at Graduation or something.
+
+What do you all think?
+
+
+** There /is/ an interpretation which has all of canon fit together consistently, it's just that some people don't like it.
+
+The interpretation in question:
+
+1. The Trace is on people, not on wands/places.
+
+2. The Ministry is able to detect what magic is cast around someone with the Trace, and the location where it was cast, but not who cast it.
+
+3. The Ministry is not able to detect which particular person's Trace has fed them the information. All the Ministry gets is the spell cast and the location. They use other records about which magical people live in which locations to make assumptions over who has cast the magic in question. If the location is one which contains magical adults, they assume the magic was cast by an adult. When magic is detected at Privet Drive, they assume it was cast by Harry.
+
+These 3 points account for every piece of information we have about the Trace from canon and are internally consistent. Point 3 is made necessary by Tom Riddle's murder of his family and his blaming it on Morfin Gaunt. For that to happen, it is necessary for the Ministry to not be aware that Tom Riddle was in the area, which means they cannot identify specific Traces.
+:PROPERTIES:
+:Author: Taure
+:Score: 16
+:DateUnix: 1502820651.0
+:DateShort: 2017-Aug-15
+:END:
+
+*** How do you reconcile this with Harry going on a trip during the 3rd task.
+:PROPERTIES:
+:Author: EpicBeardMan
+:Score: 3
+:DateUnix: 1502826559.0
+:DateShort: 2017-Aug-16
+:END:
+
+**** What's there to reconcile?
+:PROPERTIES:
+:Author: Taure
+:Score: 1
+:DateUnix: 1502826697.0
+:DateShort: 2017-Aug-16
+:END:
+
+***** Harry was in a graveyard well outside any known wizard home where all sorts of nasty spells were cast. However, it was during the school year, so it may be that Mafalda wasn't attending the detector or something.
+
+Another possible rule is that when spells are cast near someone with the Trace, the charm also does a check to see if an adult wizard or witch is present, in which case it doesn't bother reporting the magic.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 4
+:DateUnix: 1502826923.0
+:DateShort: 2017-Aug-16
+:END:
+
+****** 1. It's not clear that the Ministry uses the Trace to do anything other than enforce underage magic use. In particular, it does not appear that there are any systems in place to intervene in detected magic as it happens in a preventative fashion. Rather, magic use is responded to after the fact with what appears to be stock letters from a template. So there's nothing to explain in terms of the Ministry not rushing to the scene as soon as they see dangerous spells being cast there.
+
+2. As you note, it's during the school year, when the vast majority of magical children are at Hogwarts where they are permitted to cast magic. I'm not sure if the department even really has a use during the school year (but again, the letters seem to be automatically generated anyway, at least to an extent).
+
+3. In any case, due to point 3 above, the Ministry would have no idea which underage person was in the area and has no record of any living wizards in the area. They have no one to send a letter to, and thus no one to enforce against. So they'd ignore it anyway.
+:PROPERTIES:
+:Author: Taure
+:Score: 8
+:DateUnix: 1502827332.0
+:DateShort: 2017-Aug-16
+:END:
+
+******* For your point #1, I'm not clear on why you thought I was talking about a preventative measure; I was suggesting that the Trace detects magic when cast, then does a check on wizards and muggles who may be present, before deciding if a report back to the Ministry should be made. Otherwise all the magic done at 4 Privet Drive by Arthur, Tonks, Remus, et al would have been reported back to the Ministry.
+
+Also, while the message sent by owl seems to have a standard layout, it is being sent by Mafalda Hopkirk, and the first one we ever see arrived within a few minutes of Dobby's spell.
+
+#+begin_quote
+  Dear Mr Potter,
+
+  We have received intelligence that a Hover Charm was used at your place of residence this evening at twelve minutes past nine.
+#+end_quote
+
+What's more, it seems that the Minstry /does/ know who was around when a Traced spell is detected.
+
+#+begin_quote
+  Dear Mr Potter,
+
+  We have received intelligence that you performed the Patronus Charm at twenty-three minutes past nine this evening in a Muggle-inhabited area and in the presence of a Muggle.
+#+end_quote
+
+Funny thing- it makes no mention of the Lumos that Harry cast.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 3
+:DateUnix: 1502830706.0
+:DateShort: 2017-Aug-16
+:END:
+
+******** Indeed - the graveyard would have delivered a set of really interesting data.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 2
+:DateUnix: 1502864330.0
+:DateShort: 2017-Aug-16
+:END:
+
+
+*** Yay Taure! I like to follow your logical trains of thought~ If I'm following you correctly, then I /think/ my idea fits with canon? Location of underage magic, check; no identity of caster, check; possible ways of analysing the spell cast, check. I didn't actually think it would line up quite that well, as it wasn't a priority when coming up with it. My main reason for posting here is to see people's opinions on it (especially if I've missed something glaringly obvious) before adding it to my fic. Do you touch on the Trace in any of your fics?
+:PROPERTIES:
+:Author: SteamAngel
+:Score: 1
+:DateUnix: 1502822412.0
+:DateShort: 2017-Aug-15
+:END:
+
+
+*** u/yarglethatblargle:
+#+begin_quote
+  Point 3 is made necessary by Tom Riddle's murder of his family and his blaming it on Morfin Gaunt.
+#+end_quote
+
+While I do agree with you, I feel it is necessary to mention that it is completely possible that the laws regarding how underage magic outside of Hogwarts/school is tracked could have changed between the murder of the Riddles and Harry's OoTP Patronus.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 1
+:DateUnix: 1502849620.0
+:DateShort: 2017-Aug-16
+:END:
+
+**** Or, Tom figured out a way to subvert the Trace, and the only reason he used Morfin's wand was so he could frame him for the Riddle's murder. (Most of his Horcrux-creating murders seem to involve framing someone. He framed Hagrid for Myrtle, Hokey the House Elf for Hepzibah Smith, and Morfin Gaunt for the Riddle's)
+:PROPERTIES:
+:Author: Jahoan
+:Score: 1
+:DateUnix: 1502871718.0
+:DateShort: 2017-Aug-16
+:END:
+
+
+** My bit of headcanon is that it is very much working as intended. We heard that Lily was showing her parents magic. Lily wasn't expelled from Hogwarts. Therefore I kinda fill-in-the-blanks by saying that the Trace is a relatively new invention, or at least its rigorous enforcement is, after the first Voldemort War.
+
+It is working as intended because what it essentially does is pointing out magic use to the Ministry. I'm thinking of it as a Death Eater Quick Response system. If there is magic somewhere where no magic should be, Aurors get dispatched. In the present, if this magic use is in an area where only minors have magic, those minors get warnings.
+
+What it ends up doing is protecting purebloods and half-bloods from a Trace offense, and points out muggleraised and muggleborn doing magic around non-magical folks. Its been designed as a tool to uphold the Statute of Secrecy, but ended up being a rather discriminatory tool. One that also seems to have a certain wiggle room. Hermione said she had tried out a few spells before entering the train. So I deduce that the Ministry lets the overexisted wandwaving of pre-first-year muggleborns slide. But once you heard of the prohibition of magic "during the summer", aka. when you're back where muggles could see you, you have been warned.
+
+Anyway, my bit of fanon about the Trace.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 5
+:DateUnix: 1502810891.0
+:DateShort: 2017-Aug-15
+:END:
+
+*** Your headcanon about the trace being fair on paper, but discriminatory towards muggleborns in practice is exactly how I see it. Or perhaps I like "on the wings of a phoenix" way too much.
+:PROPERTIES:
+:Author: Lord_Anarchy
+:Score: 5
+:DateUnix: 1502817888.0
+:DateShort: 2017-Aug-15
+:END:
+
+
+*** It's clear that accidental magic is not contrary to the Reasonable Restriction on Underage Sorcery - otherwise the Ministry would have popped in on Harry multiple times in his childhood. It seems likely, therefore, that any pre-Hogwarts magic which is detected is assumed to be accidental magic and therefore not investigated. So that explains Hermione.
+
+As for Lily, certain comments in OotP make it sound that the Ministry generally takes breaches of the Reasonable Restriction on Underage Sorcery quite lightly, with a slap on the wrist. Harry's trial was noted as being unusually harsh and formal, implying that normal procedure is somewhat more informal and forgiving.
+:PROPERTIES:
+:Author: Taure
+:Score: 4
+:DateUnix: 1502820947.0
+:DateShort: 2017-Aug-15
+:END:
+
+
+*** About Lily from JKR's old site.
+
+#+begin_quote
+  In "Philosopher's Stone" Aunt Petunia says that Lily came back from Hogwarts with frog spawn in her pockets and turned teacups into rats. If this is true, why wasn't Lily expelled?
+
+  Aunt Petunia is exaggerating a little; you have to allow for her state of mind when she started shrieking these things. However, just like her son, Lily was not averse to testing the limits of the Statute of Secrecy, so you can safely assume she will have had a few warning letters -- nothing too serious, though.
+#+end_quote
+
+So it went like "you shouldn't be doing that, ok". Harry was treated seriously because Fudge wanted to get to him, otherwise it's probably largely handwaved unless someone breaks it constantly.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 3
+:DateUnix: 1502821480.0
+:DateShort: 2017-Aug-15
+:END:
+
+
+*** u/777MAR777:
+#+begin_quote
+  "...and the Ministry can punish you if you do magic outside school, you get letters."
+
+  "But I have done magic outside school!"
+
+  "We're all right. We haven't got wands yet. They let you off when you're a kid and you can't help it. But once you're eleven," he nodded importantly, "and they start training you, then you've got to go careful."
+#+end_quote
+
+I'm pretty sure the Trace existed even before Voldemort. And doesn't Petunia at one point say something about Lily getting warnings but nothing serious?
+:PROPERTIES:
+:Author: 777MAR777
+:Score: 1
+:DateUnix: 1502813472.0
+:DateShort: 2017-Aug-15
+:END:
+
+**** u/deleted:
+#+begin_quote
+  And doesn't Petunia at one point say something about Lily getting warnings but nothing serious?
+#+end_quote
+
+This isn't canon. I don't remember anything of the sort happening in either the books or movies.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1502816451.0
+:DateShort: 2017-Aug-15
+:END:
+
+***** You might be right. While I do my best not to get canon and fanon confused, the occasional slip up occurs.
+:PROPERTIES:
+:Author: 777MAR777
+:Score: 1
+:DateUnix: 1502817800.0
+:DateShort: 2017-Aug-15
+:END:
+
+
+** You are right in that the Trace doesn't really work as presented in canon. I don't think there's really a good solution either. The Dobby incident really messes up everything.
+:PROPERTIES:
+:Author: Lord_Anarchy
+:Score: 4
+:DateUnix: 1502817254.0
+:DateShort: 2017-Aug-15
+:END:
+
+*** Fair, but I'm planning to be relatively divergent after the first few months of Hogwarts rather than stopping off at every station. I was wondering more if people like this version, if it makes sense, and if it had any design flaws (to be fixed or to be exploited in the story).
+:PROPERTIES:
+:Author: SteamAngel
+:Score: 1
+:DateUnix: 1502822028.0
+:DateShort: 2017-Aug-15
+:END:
+
+
+** Oh! Quick check of opinion - should the Trace break when a person turns 17 exactly it upon graduating from Hogwarts? I know in canon it's the birthday, but was just curious what you all thought?
+:PROPERTIES:
+:Author: SteamAngel
+:Score: 2
+:DateUnix: 1502822526.0
+:DateShort: 2017-Aug-15
+:END:
+
+*** Students attending Hogwarts for their seventh year are already adults. In Book 5, the twins were casting and apparating all over Grimmauld Place. They'd turned 17 the previous April, but doing magic at Hogwarts wasn't remarkable (or irritating to Ron). By all accounts, the Trace dissipates at midnight plus one second on your 17th birthday.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 3
+:DateUnix: 1502826290.0
+:DateShort: 2017-Aug-16
+:END:
+
+
+** My headcanon about the Trace.
+
+The Trace was created before the ISOS came into effect and its original purpose wasn't to limit children spellcasting, but to protect them. If offensive spells were cast around children, then you could assume that they are in danger and send someone to help.
+
+The precision in terms of child's name wasn't needed (and maybe wasn't even possible to achieve) and offensive spells thrown both by the kid and around him are both warning signs.
+
+Why not create a new spell?
+
+There are fragments in canon that suggest that:
+
+1. Spells can interfere with each other giving unpredictable results.
+2. Enchantments are more powerful and prone to going out of control, the older they are.
+
+So throwing a new, big spell that would largely overlap with old, big spell may be a pretty bad idea.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 1
+:DateUnix: 1502822752.0
+:DateShort: 2017-Aug-15
+:END:
+
+*** Oooh I like that! It's great when people include historical context in their headcanons :)
+:PROPERTIES:
+:Author: SteamAngel
+:Score: 1
+:DateUnix: 1502828598.0
+:DateShort: 2017-Aug-16
+:END:

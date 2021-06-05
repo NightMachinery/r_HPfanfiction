@@ -1,0 +1,163 @@
+#+TITLE: How do I download fic from Fanfiction.net?
+
+* How do I download fic from Fanfiction.net?
+:PROPERTIES:
+:Author: Summerhlm
+:Score: 20
+:DateUnix: 1480115852.0
+:DateShort: 2016-Nov-26
+:FlairText: Discussion
+:END:
+I see people saying you should download the stories you like in case the writer or website deletes it. How do I do this? Also, can I do it from the website, Ash?
+
+
+** The fanfictionbot provides a download-link.
+
+If you have a kindle I recommend [[http://fanfictiondownloader.net]] .
+:PROPERTIES:
+:Author: ascii158
+:Score: 9
+:DateUnix: 1480117377.0
+:DateShort: 2016-Nov-26
+:END:
+
+*** Awesome, I just ordered one. Thanks :)
+:PROPERTIES:
+:Author: Summerhlm
+:Score: 2
+:DateUnix: 1480123397.0
+:DateShort: 2016-Nov-26
+:END:
+
+
+** [[http://ficsave.xyz/]] for Fanfiction.net
+
+Dunno about alternatives for other websites. I'd like to know :3
+:PROPERTIES:
+:Author: svipy
+:Score: 9
+:DateUnix: 1480120917.0
+:DateShort: 2016-Nov-26
+:END:
+
+*** I've actually recently come across this website:
+
+[[http://www.ff2ebook.com/index.php]]
+
+It is faster and keeps a record of all stories ever downloaded so downloads are instant for those stories that have already been downloaded by another person as there is no need to convert the file from html to epub/mobi/whatever again.
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1480162871.0
+:DateShort: 2016-Nov-26
+:END:
+
+
+** Also if you use the app, there is a download function on the app
+:PROPERTIES:
+:Author: difinity1
+:Score: 5
+:DateUnix: 1480124824.0
+:DateShort: 2016-Nov-26
+:END:
+
+
+** There are several ways that I know of:
+
+[[http://ficsave.xyz/][ficsave]] lets you choose between Mobi, ePub, or plain text and you can download stories or have them emailed to you, it should work on any device.
+
+[[https://fanfictiondownloader.net/][FanFiction Downloader]] is an application for Winodws, Mac OSX, and certain Linux distros, 64bit specifically. This has a larger number of formats to download in than ficsave, but installing an application is inconvenient compared to visiting a webpage.
+
+Calibre also has a plugin, [[http://www.mobileread.com/forums/showthread.php?t=259221][Fanficfare]], that can be used to download stories in bulk, I use this to manage my library across two computers, two tablets, and my phone. Although some of the apps for calibre cost money, desktop is totally free though. FYI it's not that good of a solution for reading on a desktop, as the interface is pretty bad on desktop, it's better on tablets and phones.
+
+FanfictionBot also provides links when you use it for ePub and Mobi.
+:PROPERTIES:
+:Author: Frystix
+:Score: 5
+:DateUnix: 1480125119.0
+:DateShort: 2016-Nov-26
+:END:
+
+*** I'm using Calibre with Fanficfare. I've also added a user defined column to track what I've read and mark favorites.
+:PROPERTIES:
+:Author: Huntrrz
+:Score: 1
+:DateUnix: 1480220372.0
+:DateShort: 2016-Nov-27
+:END:
+
+
+** You don't. People usually use a website or an app. I use the Pocket Fiction app or the link to download the Epub version of the fic through the ffbot.
+:PROPERTIES:
+:Author: firingmahlazors
+:Score: 7
+:DateUnix: 1480116940.0
+:DateShort: 2016-Nov-26
+:END:
+
+
+** You have to use a third party program, the site itself having no download option.
+:PROPERTIES:
+:Author: Skeletickles
+:Score: 6
+:DateUnix: 1480122030.0
+:DateShort: 2016-Nov-26
+:END:
+
+
+** [[http://omnibuser.com/]]
+
+[[http://www.ficsavers.com/]]
+
+[[http://storymaster.the-code-monkey.com/]]
+:PROPERTIES:
+:Author: bluspacecow
+:Score: 2
+:DateUnix: 1480151785.0
+:DateShort: 2016-Nov-26
+:END:
+
+
+** Here's a good tip for downloading from fanfiction.net
+
+PM FanfictionBot with the following syntax -
+
+linkffn THEN put the fanfiction URL or Story ID in brackets after it ()
+
+The Fanfiction Bot will then download it for you and send back a summary thing that has a MOBI and EPUB download link for each one.
+
+I find this the most useful way of downloading from fanfiction.net because
+
+(a) I have a record of which chapter I've read to for a fanfiction (useful when you get new chapters)
+
+(b) It means I can prepare a text file of fanfictions to download so I can Copy/Paste ones into a new message (I only like to give it 4 at a time to download)
+
+(c) It's blazingly fast. I think this may be because it searches in an archive of ones already downloaded then adds new chapters if it needs to. Seriously it was done with about 36 fanfictions in the time it takes Fanficfare to download 3
+
+PS - A warning. Only give FFBot a max of around 4 at once. Otherwise it just ignores the PM it sends. Try not to overload it :P
+:PROPERTIES:
+:Author: bluspacecow
+:Score: 2
+:DateUnix: 1480152372.0
+:DateShort: 2016-Nov-26
+:END:
+
+*** Here is the syntax page :
+
+[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage]]
+:PROPERTIES:
+:Author: bluspacecow
+:Score: 1
+:DateUnix: 1480152520.0
+:DateShort: 2016-Nov-26
+:END:
+
+
+** You know, in the good old days of dial-up internet when the latest browser was named Mosaic, the way to download a story was to use ctrl+A and then copy+paste and save the story chapter by chapter as txt-file to either your harddrive or your floppy disk.
+
+According to rumours this method still works...
+:PROPERTIES:
+:Author: maryfamilyresearch
+:Score: 2
+:DateUnix: 1480226139.0
+:DateShort: 2016-Nov-27
+:END:

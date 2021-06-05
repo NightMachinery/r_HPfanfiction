@@ -1,0 +1,181 @@
+#+TITLE: Keeping track of AO3
+
+* Keeping track of AO3
+:PROPERTIES:
+:Author: SHVRPI3
+:Score: 17
+:DateUnix: 1600162053.0
+:DateShort: 2020-Sep-15
+:FlairText: Discussion
+:END:
+Fanfiction.net has an app and I'm able to keep track of fics and catch updates via that. But I'm not finding it so easy with AO3. I've tried excel sheets and constantly checking up in each fic is a pain.
+
+Maybe you guys have some other way to organize and keep track.
+
+Share your wisdom with me!!!
+
+
+** Do you have an Ao3 account? I subscribe to the different fics I want to follow up with, it'll send you emails when there are updates. You can also subscribe to particular authors if you want updates about other works they might write.
+:PROPERTIES:
+:Author: argetlamzn
+:Score: 37
+:DateUnix: 1600163036.0
+:DateShort: 2020-Sep-15
+:END:
+
+*** If you bookmark them you can sort by 'recently updated' and click on the newest chapter right from that page.
+
+Personally, I just dump everything into calibre, ao3 and ffn both, and check for updates that way.
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 16
+:DateUnix: 1600169160.0
+:DateShort: 2020-Sep-15
+:END:
+
+
+*** Subscriptions are still alphabetically sorted in their Ao3 window through rather than by update date like on FFN. And it's just the title (unlike in the FFN app), so you might have to klick on it only to realise that it wasn't the fic you were looking for and it has not updated for two years.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 6
+:DateUnix: 1600163205.0
+:DateShort: 2020-Sep-15
+:END:
+
+**** I rely on the email updates I receive. It shows the summary and chapter summary so you can easily recognize what fic it is.
+:PROPERTIES:
+:Author: MrPaaanget
+:Score: 28
+:DateUnix: 1600164143.0
+:DateShort: 2020-Sep-15
+:END:
+
+***** This is the best way to do it. I created a label in Gmail called "Fanfiction Updates" - if you save the below XML code (save it as a .xml file, for example "fanfictionFilters.xml") and import it into Gmail using the [[https://support.google.com/mail/answer/6579?hl=en][instructions here]], it should auto-sort all subscription emails from Ao3 and following emails from ffn.net into that label, making it easier to see what's updated recently.
+
+#+begin_example
+  <?xml version='1.0' encoding='UTF-8'?>
+  <feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+      <title>Mail Filters</title>
+      <id>tag:mail.google.com,2008:filters:8327573678817282346,cluster_7621546280286594667-4697202106268822328</id>
+      <updated>2020-09-15T16:26:31Z</updated>
+      <entry>
+          <category term='filter'></category>
+          <title>Mail Filter</title>
+          <id>tag:mail.google.com,2008:filter:8327573678817282346</id>
+          <updated>2020-09-15T16:26:31Z</updated>
+          <content></content>
+          <apps:property name='from' value='bot@fanfiction.com OR do-not-reply@archiveofourown.org'/>
+          <apps:property name='hasTheWord' value='label:inbox'/>
+          <apps:property name='label' value='Fanfiction Updates'/>
+          <apps:property name='sizeOperator' value='s_sl'/>
+          <apps:property name='sizeUnit' value='s_smb'/>
+      </entry>
+      <entry>
+          <category term='filter'></category>
+          <title>Mail Filter</title>
+          <id>tag:mail.google.com,2008:filter:cluster_7621546280286594667-4697202106268822328</id>
+          <updated>2020-09-15T16:26:31Z</updated>
+          <content></content>
+          <apps:property name='from' value='bot@fanfiction.com, do-not-reply@archiveofourown.org'/>
+          <apps:property name='hasTheWord' value='new'/>
+          <apps:property name='label' value='Fanfiction Updates'/>
+      </entry>
+  </feed>
+#+end_example
+:PROPERTIES:
+:Author: bgottfried91
+:Score: 3
+:DateUnix: 1600187415.0
+:DateShort: 2020-Sep-15
+:END:
+
+
+**** Can't you just change the sorting system?
+:PROPERTIES:
+:Author: nousernameslef
+:Score: 1
+:DateUnix: 1600191449.0
+:DateShort: 2020-Sep-15
+:END:
+
+***** You can switch between all, story, author and series subscriptions, but not the sorting order.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 1
+:DateUnix: 1600192183.0
+:DateShort: 2020-Sep-15
+:END:
+
+
+***** Subscriptions, no. Bookmarks, yes.
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 1
+:DateUnix: 1600198812.0
+:DateShort: 2020-Sep-16
+:END:
+
+
+** I have a 'currently updating' bookmarks folder on my browser (every bookmark is for the last chapter I read, so I know what updates come after that point), but that's just for anything that's actively updating on any site. AO3 specific, I'm like argetlamzn and MrPaaanget, I rely on email updates to let me know what's updating specifically and when. Checking a list is just time-consuming when there's stuff that automatically does it for you.
+
+Oh, and my gmail account is set-up to filter any update alerts to a specific folder in my inbox, so I can just check the one spot for every fic update together.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 6
+:DateUnix: 1600165186.0
+:DateShort: 2020-Sep-15
+:END:
+
+*** How do you get email updates?? I use AO3 primarily on mobile and cant see any subscribe option.
+:PROPERTIES:
+:Author: SHVRPI3
+:Score: 2
+:DateUnix: 1600170373.0
+:DateShort: 2020-Sep-15
+:END:
+
+**** You know the bar of buttons 'kudos', 'entire work', 'chapter by chapter' and so on? If you have an account and are logged in, it'll pop up there. It's usually right at the end, near Share and Download.
+
+Once you're subscribed to a fic, it'll automatically email you when any new chapters are uploaded, and if you subscribe to the author, it'll email whenever they upload something new.
+
+EDIT - If you don't have an account, let me know and I can send you an invite link thing. I have nine of the things, so it's no issue if you want one. :)
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 6
+:DateUnix: 1600171225.0
+:DateShort: 2020-Sep-15
+:END:
+
+
+** Tbh I just bookmark the ones I'm reading on my ao3 account . They come up listed by date updated. I just refresh or log on to see if anyone has updated. It's a much better layout then the subscription link. Good luck!
+:PROPERTIES:
+:Author: ifindtrouble
+:Score: 3
+:DateUnix: 1600171127.0
+:DateShort: 2020-Sep-15
+:END:
+
+*** I wish they would change the default sort to date updated so much, but rn it starts as date bookmarked
+:PROPERTIES:
+:Author: colorandtimbre
+:Score: 1
+:DateUnix: 1600238169.0
+:DateShort: 2020-Sep-16
+:END:
+
+**** I tend to use my phone-so ao3 just comes up in my phone under favorites, and when I click on it-it's already at the default of the update date. But that's probably because I switched it so many times it eventually stuck lol. Try changing it to date updated in the filters, and then “bookmark”/favorite the page in your phone or computer. I think it should stay.
+:PROPERTIES:
+:Author: ifindtrouble
+:Score: 1
+:DateUnix: 1600256794.0
+:DateShort: 2020-Sep-16
+:END:
+
+
+** It would be nice if ao3 had rss feeds for story updates and I was thinking of using their feedback form to suggest that.
+:PROPERTIES:
+:Author: gwa_is_amazing
+:Score: 1
+:DateUnix: 1600185152.0
+:DateShort: 2020-Sep-15
+:END:

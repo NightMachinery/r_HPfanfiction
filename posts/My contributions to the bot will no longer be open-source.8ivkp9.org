@@ -1,0 +1,231 @@
+#+TITLE: My contributions to the bot will no longer be open-source
+
+* My contributions to the bot will no longer be open-source
+:PROPERTIES:
+:Author: tusing
+:Score: 204
+:DateUnix: 1526126298.0
+:DateShort: 2018-May-12
+:END:
+Hello friends,
+
+The good news is that I got my first job - and it looks to be everything I could have ever wanted in a job! However, the bad news is that due to the rather sensitive nature of the job, I will not be allowed to make any /open-source (publicly visible)/ contributions to the bot.
+
+*I can still maintain the bot privately and keep it running*, but in a few days, any bugs in the /public version/ of the bot will have to be dealt with by fellow programmers in the community. There are also a few things I need help on and, with my new job, will not be able to effectively devote the time to fixing myself - these issues can be found on the bot's [[https://github.com/tusing/reddit-ffn-bot/issues][GitHub issues]] page. Someone should fork the bot and future public bugfixes should be made there. I can still pull those changes down to the currently running (private) version of the bot.
+
+I'm thrilled to have been able to help design such an impactful piece of open-source software for this community! The bot has helped me grow as a programmer and I'm excited to see what the community does with it.
+
+
+** Congratulations :)
+:PROPERTIES:
+:Author: kyella14
+:Score: 48
+:DateUnix: 1526126766.0
+:DateShort: 2018-May-12
+:END:
+
+
+** Thanks for a truly excellent tool. I wish you well in your new job.
+
+Can you explain why you/anyone would be unable to manage their own personal project whilst employed? Is this something common in your field?
+:PROPERTIES:
+:Author: Faeriniel
+:Score: 46
+:DateUnix: 1526127844.0
+:DateShort: 2018-May-12
+:END:
+
+*** It's fairly common. Illegal in some states and a bit frowned on, but there are often clauses that say something like the company owns the rights to anything related to the company produce on or off the clock while employed. They can get more strict than that too, but the problem is it's often not clear what is or is not related to the company.
+:PROPERTIES:
+:Author: space_fountain
+:Score: 14
+:DateUnix: 1526133479.0
+:DateShort: 2018-May-12
+:END:
+
+**** I think this kind of thing is only common in the U.S definitely not common or even a thing at even the same parent companies elsewhere in the world as legally a business would get destroyed claiming ownership of said work.
+
+Can only assume there's precedent in the states for otherwise but?
+
+Congratulations but!
+:PROPERTIES:
+:Author: mattyyyp
+:Score: 12
+:DateUnix: 1526175219.0
+:DateShort: 2018-May-13
+:END:
+
+***** Yeah, while I can't say it never happens at all outside of US, I can confirm as someone who lives in Europe that I've done stuff as a programmer and never got hit by anything of this kind.
+
+NDAs, sure, had to sign those and they are in effect even past my employment (or time of the contract work, as the case may have been), and there were agreements to not do work for any other company dealing with the same stuff while working on their projects, and in a few cases there was working in an isolated environment so that I couldn't take whatever got created out of the workplace. Stuff like limiting my employment when I was no longer working for them, though, or any claims that anything I write at any time counts as theirs ... no, nothing of that kind, and in fact I'm pretty sure anyone who tried to do stuff like that could be sued for it.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 5
+:DateUnix: 1526224184.0
+:DateShort: 2018-May-13
+:END:
+
+
+*** Likely classified government jobs that require security clearance
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 22
+:DateUnix: 1526128934.0
+:DateShort: 2018-May-12
+:END:
+
+**** Or, perhaps more likely, a private firm with a very strict IP policy.
+
+(Disclaimer: I may or may not work for a contractor with the U.S. government and may or may not hold a security clearance; I have never had trouble contributing to OSS projects. There's a bit of reporting but it's not at all onerous.)
+
+Edit: qualifiers added
+:PROPERTIES:
+:Author: __Pers
+:Score: 71
+:DateUnix: 1526129921.0
+:DateShort: 2018-May-12
+:END:
+
+***** yeah this is it
+:PROPERTIES:
+:Author: tusing
+:Score: 27
+:DateUnix: 1526130453.0
+:DateShort: 2018-May-12
+:END:
+
+****** Sadly that reminds me of a fathers friend who worked for HP. The contract he and the rest of his team were under were pretty vile. Everything they worked on was company property and they could be fired at almost anytime and then couldn't work in the same industry for 6+ months due to a non compete clause.
+
+edit: Was the parent comment edited?
+:PROPERTIES:
+:Author: Faeriniel
+:Score: 14
+:DateUnix: 1526130766.0
+:DateShort: 2018-May-12
+:END:
+
+******* Yeah, aside from that non-compete clause, this sort of thing is actually fairly common at many companies. If the company likes to play things close to the chest, they may not want employees using knowledge they've acquired on the job publicly. Also, it's often just a case of strict IP clauses to legally protect the company.
+:PROPERTIES:
+:Author: tusing
+:Score: 21
+:DateUnix: 1526131372.0
+:DateShort: 2018-May-12
+:END:
+
+******** Can confirm. My company has first right of refusal on anything I might invent. Congratulations on the job!
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 2
+:DateUnix: 1526138260.0
+:DateShort: 2018-May-12
+:END:
+
+
+******* That is actually all very common. The non-compete will be unenforceable in most states if an employee is fired without cause and in many states even if they leave or are fired with cause.
+:PROPERTIES:
+:Author: jimjack575
+:Score: 4
+:DateUnix: 1526172024.0
+:DateShort: 2018-May-13
+:END:
+
+
+******* pretty sure noncompetes are now known to be almost always unenforceable, though the exact nature differs by state (california in particular might be completely illegal to have noncompetes --- not sure on details)
+:PROPERTIES:
+:Author: tsunami70875
+:Score: 2
+:DateUnix: 1526179020.0
+:DateShort: 2018-May-13
+:END:
+
+
+** Congratulations! Best of luck for your job.
+
+The bot is amazing, and though, currently, I only know C and C++, I have begun learning Python, so I just might be able to help out once I'm a bit better.
+:PROPERTIES:
+:Author: A2i9
+:Score: 11
+:DateUnix: 1526130593.0
+:DateShort: 2018-May-12
+:END:
+
+*** Check out [[https://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html][this link]] once you figure out Python! There's a lot of cool tips and tricks there that will absolutely save you hours of writing code.
+:PROPERTIES:
+:Author: tusing
+:Score: 13
+:DateUnix: 1526131198.0
+:DateShort: 2018-May-12
+:END:
+
+**** Can confirm, there is some good stuff there.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 4
+:DateUnix: 1526134952.0
+:DateShort: 2018-May-12
+:END:
+
+
+**** Thanks! That looks really useful.
+:PROPERTIES:
+:Author: A2i9
+:Score: 2
+:DateUnix: 1526131272.0
+:DateShort: 2018-May-12
+:END:
+
+
+** I can fork the project to continue the public open-source aspect of the bot. I'll post the link in a bit.
+:PROPERTIES:
+:Score: 7
+:DateUnix: 1526153743.0
+:DateShort: 2018-May-13
+:END:
+
+*** Congratulations on the job [[/u/tusing]]. And thank you for all the work on the bot.
+
+I've worked in Python for a couple of years now and can help in resolving bugs and so on
+:PROPERTIES:
+:Author: shillecce
+:Score: 4
+:DateUnix: 1526159130.0
+:DateShort: 2018-May-13
+:END:
+
+
+** Hey, hope you do well in your job. I am currently learning python, and saw you linked something to someone else, so I'll use that after learning some more
+:PROPERTIES:
+:Author: ethanbrecke
+:Score: 3
+:DateUnix: 1526132710.0
+:DateShort: 2018-May-12
+:END:
+
+
+** Congratulations and thank you for all you've done for us here :)
+:PROPERTIES:
+:Author: ravenclaw-sass
+:Score: 4
+:DateUnix: 1526138432.0
+:DateShort: 2018-May-12
+:END:
+
+
+** Congrats on the job!
+:PROPERTIES:
+:Author: Ch1pp
+:Score: 2
+:DateUnix: 1526137965.0
+:DateShort: 2018-May-12
+:END:
+
+
+** Congratulations on your new job.
+
+The bot is great. The main problem is that some browsers and apps escape the parentheses without the user noticing, and the bot does not work then.
+:PROPERTIES:
+:Author: farseer2
+:Score: 2
+:DateUnix: 1526149508.0
+:DateShort: 2018-May-12
+:END:

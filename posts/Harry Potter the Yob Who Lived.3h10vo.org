@@ -1,0 +1,249 @@
+#+TITLE: Harry Potter the Yob Who Lived
+
+* Harry Potter the Yob Who Lived
+:PROPERTIES:
+:Author: forlornhero
+:Score: 9
+:DateUnix: 1439588716.0
+:DateShort: 2015-Aug-15
+:FlairText: Promotion
+:END:
+I got tired of the variety of fics which have Harry becoming master of the underworld at the age of seven, dominating everybody he meets like a younger Tom Riddle on steroids and generally being unrealistic.
+
+So I decided to try my hand at writing a fic about a criminal Harry who actually fits into what I know of Britain.
+
+I'm attempting to keep it realistic (or at least within the realm of possibility) while still keeping it exciting.
+
+This is just a brief draft of the first chapter, pre-hogwarts. Was hoping for a little feedback.
+
+[[https://docs.google.com/document/d/1SOGEO_v2RPCvcJhPKa2lrWPrWzCbBdXlY-Bul5pIFsw/edit?usp=sharing][Link]].
+
+By the way this is my first post ever. Be gentle with my shitty formatting.
+
+
+** Seems like an interesting concept, but there are parts the grammar Nazi in me cannot deal with.
+
+#+begin_quote
+  "Now now Duddykins say hello to Mr Benedict." she simpered. Mr Benedict had to stop himself from chuckling at Mrs Dursley's pet name for her son. Going to grow up spoilt that one was.
+#+end_quote
+
+A few issues. Firstly, use commas. Wherever there's a pause when you read it back to yourself, there should be a comma.
+
+#+begin_quote
+  Now now Duddykins*,* say hello to Mr Benedict
+#+end_quote
+
+When writing direct speech, ideally you don't want a full stop at the end when you're going to put "she said" or something to that effect after. Full stops are for the end of a sentence. However you still want a comma, question mark or exclamation mark depending on the circumstances. So,
+
+#+begin_quote
+  "Now now Duddykins say hello to Mr Benedict." she simpered.
+#+end_quote
+
+becomes
+
+#+begin_quote
+  "Now now Duddykins*,* say hello to Mr Benedict*,*" she simpered.
+#+end_quote
+
+Next,
+
+#+begin_quote
+  Going to grow up spoilt that one was.
+#+end_quote
+
+This is a minor thing that makes it easier for the reader, but personally I like to italicise for a character's thoughts and internal monologue, to differentiate between the third person narrative used the rest of the time.
+
+In short, that whole paragraph should look like:
+
+#+begin_quote
+  "Now now Duddykins, say hello to Mr Benedict," she simpered. Mr Benedict had to stop himself from chuckling at Mrs Dursley's pet name for her son. /Going to grow up spoilt that one was./
+#+end_quote
+
+A few more issues:
+
+#+begin_quote
+  Shaking his head, Mr Benedict picked up his paper and resumed doing the crossword puzzle, as he had been doing before the Dursley's came in. All thoughts of Petunia Dursley's scruffy nephew leaving his mind.
+#+end_quote
+
+Next lesson, apostrophes! An apostrophe should only be placed before the letter s when describing something belonging to something/someone. Eg. "Petunia Dursley's nephew" is a good use of an apostrophe as it is describing the nephew of Petunia Dursley.
+
+However, "as he had been doing before the Dursley's came in" is incorrect as it is talking about the Dursleys as plural, rather than something belonging to the Dursleys.
+
+Finally,
+
+#+begin_quote
+  All thoughts of Petunia Dursley's scruffy nephew leaving his mind.
+#+end_quote
+
+This isn't a sentence. I can't remember why, but it isn't. It could be changed to say:
+
+#+begin_quote
+  All thoughts of Petunia Dursley's scruffy nephew left his mind.
+#+end_quote
+
+Or you could link it up to the previous sentence using a comma.
+
+#+begin_quote
+  ...as he had been doing before the Dursleys came in, all thoughts of Petunia Dursley's scruffy nephew leaving his mind.
+#+end_quote
+
+Some of these issues have been repeated a few times throughout the text, I would suggest going through it and fixing as many as you can.
+
+Sorry if this seems discouraging, the story itself is a good idea, just fix the grammar.
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1439591248.0
+:DateShort: 2015-Aug-15
+:END:
+
+*** As a writer, I love people like you who are willing to point out exactly where the grammar is off. Not just saying "there was a wrong word halfway down" or even more vague "improve your grammar."
+:PROPERTIES:
+:Author: LadyLilly44
+:Score: 4
+:DateUnix: 1439608621.0
+:DateShort: 2015-Aug-15
+:END:
+
+
+*** u/TychoTyrannosaurus:
+#+begin_quote
+  An apostrophe should only be placed before the letter s when describing something belonging to something/someone.
+#+end_quote
+
+Not quite, though that's a fairly good rule of thumb.
+
+Apostrophes are also used to show contraction, which means 's can also mean /is/ or /has/, as in “she's really something” and “she's got a wonderful car.”
+
+'s is also used for plurals of lower-case letters (mind your p's and q's) and of mixed case abbreviations (I hear she's got six PhD's).
+
+Important to note:
+
+- “Its” (no apostrophe) is possessive: the world has lost its mind.
+- “It's” (with the apostrophe) is a contraction: it's been a hard week, and now it looks like it's going to hail.
+
+(But Rohovark's given very good advice, and you won't go amiss if you follow it. Just wanted to make sure you were as informed as possible.)
+:PROPERTIES:
+:Author: TychoTyrannosaurus
+:Score: 3
+:DateUnix: 1439610667.0
+:DateShort: 2015-Aug-15
+:END:
+
+
+*** Thanks for the grammar corrections. This was just a really rough draft hammered out in one night when I didn't have any internet access. I'll have done at least half of the fic before I start publishing it. I'll do a massive grammar/spelling check before I release .
+:PROPERTIES:
+:Author: forlornhero
+:Score: 2
+:DateUnix: 1439635765.0
+:DateShort: 2015-Aug-15
+:END:
+
+
+*** Im gunna request you to check my ff when I write it =)
+:PROPERTIES:
+:Author: PolarBearIcePop
+:Score: 1
+:DateUnix: 1439757613.0
+:DateShort: 2015-Aug-17
+:END:
+
+**** I'd be happy to :)
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1439761319.0
+:DateShort: 2015-Aug-17
+:END:
+
+
+** Interesting and I think shows promise. A couple of things, don't use an authors note mid chapter, secondly I'd suggest finding a beta reader to tidy up a few grammatical and punctuation errors. I'd try and merge the first two parts, switching perspective can be confusing and is best saved for new chapters.
+
+I look forward to seeing where this story will go, after all, Dumbledore himself said that thievery is not tolerated in Hogwarts!
+:PROPERTIES:
+:Author: Aidenk77
+:Score: 3
+:DateUnix: 1439590967.0
+:DateShort: 2015-Aug-15
+:END:
+
+
+** Ok, I like it, just want to toss out an idea. Maybe as the story goes on, add a part where he gets caught, and the Dursleys find out. It would be a learning moment for him, would reinforce how dickish the Dursleys are, and would cement that Harry isn't invincible, and that he still has a long way to grow before becoming some sort of criminal mastermind.
+:PROPERTIES:
+:Author: The_Entire_Eurozone
+:Score: 1
+:DateUnix: 1439625122.0
+:DateShort: 2015-Aug-15
+:END:
+
+*** Don't worry. Harry will never be a criminal mastermind. He's only eight, he's just been lucky, for reasons I'll explain when it comes to that.
+:PROPERTIES:
+:Author: forlornhero
+:Score: 1
+:DateUnix: 1439635850.0
+:DateShort: 2015-Aug-15
+:END:
+
+
+** I like it. The premise is interesting, and you /can/ write.
+
+The economist in me would like to point out that the economics of what Harry is doing don't make sense. If Harry is selling candy at more than retail, then he has no need to risk shoplifting, since he can just buy his product lawfully: his markup is a premium for storing and sneaking them into the school.
+
+In practice, like most stolen goods, he'd probably have to sell them /cheaper/ than retail, unless sneaking them into the school is some sort of a scarce skill. I think that if you had him undersell retail (because it costs him nothing to steal), it would make more sense, and it would justify people protecting him because he brings candy, since he supplies it cheaper than they could get it otherwise.
+
+Interestingly, if this Harry gets sorted into Slytherin, he /really/ wouldn't fit in, since Slytherins consider themselves wizarding aristocracy, and he'll probably be more uncouth than canon; but I can see him being a wheeler-and-dealer, like a younger Slughorn (but without the Potions).
+
+--------------
+
+Incoming plot bunny... Speaking of Potions, this is /not/ necessarily where you should take this fic, but suppose that Harry finds his place in Slytherin as this scrappy wheeler-and-dealer. Hermione, due to a slightly different encounter on the train, finds herself in Ravenclaw, has a generally pleasant if uninteresting time there, but, due to a lack of active discouragement from Snape (because not Gryffindor or Harry's friend) finds herself excelling in Potions in particular.
+
+Fast forward five years later. Voldemort is back, and Slytherin increasingly uncomfortable for Harry; but magical items that provide protection and bribes are rather expensive. He's done Potions dealing, but his brewing efforts don't work out very well (he did minimum necessary in Snape's class), and he almost gets caught. Meanwhile, Hermione, the Potions prodigy, also finds herself in desperate need of money. (Not sure what reason. Maybe a Death Eater attack on her family leaves her in need of expensive magical treatment for her parents?)
+
+She approaches him with an offer. It's...
+
+*Breaking Bad: Harry Potter Edition*
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 1
+:DateUnix: 1439628449.0
+:DateShort: 2015-Aug-15
+:END:
+
+*** It's more the thrill of breaking the rules which Harry likes. Obviously it also increases his profit margin to never buy anything.
+
+I'm taking this scenario from my own childhood. Of course plenty of kids snuck in food, but others had parents who wouldn't buy them that much junk food or at least not as much variety, so Harry still get's plenty of business even with the inflated prices (as the lad in my school did, God bless him).
+
+That plot bunny will be incorporated somehow (although obviously not exactly). It's too good not to. It's fucking glorious.
+:PROPERTIES:
+:Author: forlornhero
+:Score: 1
+:DateUnix: 1439636258.0
+:DateShort: 2015-Aug-15
+:END:
+
+**** u/turbinicarpus:
+#+begin_quote
+  It's more the thrill of breaking the rules which Harry likes. Obviously it also increases his profit margin to never buy anything.
+#+end_quote
+
+That makes sense.
+
+#+begin_quote
+  I'm taking this scenario from my own childhood. Of course plenty of kids snuck in food, but others had parents who wouldn't buy them that much junk food or at least not as much variety, so Harry still get's plenty of business even with the inflated prices (as the lad in my school did, God bless him).
+#+end_quote
+
+Interesting. I guess they /were/ willing to pay a premium for the convenience.
+
+#+begin_quote
+  That plot bunny will be incorporated somehow (although obviously not exactly). It's too good not to. It's fucking glorious.
+#+end_quote
+
+"Obviously not exactly"? I am insulted by the "obviously". :D
+
+Think about it: Jerry Potter and Waltermione "Mme. Curie" Granger partnering up to cook the Crystal Ecstasy Potion in the Chamber of Secrets, sneaking ingredients past Filch, with Harry trying to run a crew of distributors, even as Hermione decides that the money to cure her parents isn't enough, because she must also get enough to set herself up in France, so they end up escalating, clashing with the Weasley Crew (because The Twins also cook to raise startup funds for their joke shop), eventually taking out Voldemort because he is in the way of their drug operation.
+
+*Dumbledore:* [upon receiving news that Voldemort has died in a massive explosion, which rumors say was orchestrated by Harry Potter and the mysterious "Madame Curie"] This is completely not how I thought the Prophecy would play out, but... OK. As long as they don't try to poison my lemon drops again.
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 1
+:DateUnix: 1439641027.0
+:DateShort: 2015-Aug-15
+:END:

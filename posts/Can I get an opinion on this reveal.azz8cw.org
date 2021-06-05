@@ -1,0 +1,270 @@
+#+TITLE: Can I get an opinion on this reveal?
+
+* Can I get an opinion on this reveal?
+:PROPERTIES:
+:Author: Waycreepedout
+:Score: 4
+:DateUnix: 1552340550.0
+:DateShort: 2019-Mar-12
+:FlairText: Misc
+:END:
+This takes place in chapter one of my in-progress story “The Sett”. Harry met Hannah Abbott and Susan Bones while getting robes instead of Malfoy, and it's revealed Susan has been living with the Abbotts since she was one.
+
+•••
+
+“Oh! There's Hagrid,” Harry said cheerfully after only a few moments outside. The large man was approaching, ice cream in hand, though he paused when he saw Susan and Hannah. “Hey Hagrid! How are you feeling?” Harry asked.
+
+“Alrigh'. Who're these, then?”
+
+“Hello, sir. I'm Hannah Abbott and this is Susan Bones. Are you alright?” Hannah frowned as Hagrid paled rapidly. “Harry said you weren't feeling good, maybe you should go back to Hogwarts? Mum and dad can help him get the rest of his things,” she offered.
+
+Hagrid stared at them until a drip of ice cream rolled off the scoop and hit his hand, the chill apparently snapping him out of his shock. “Harry, come on,” he demanded. Harry jolted at the tone of his voice.
+
+“But-But I was hoping we could go together. We were going to have lun-“
+
+“No. Not with them. Come on. Now.”
+
+Harry glanced at his new friends, who looked quite intimidated by the giant man's sudden change in attitude. Hannah bit her lip. “It-It's okay, Harry. We can just . . . We'll give you the stuff dad's bought on the train. We don't want to cause trouble . . .”
+
+Seeing his new friends upset stirred something in Harry: a long beaten down hero complex, a desperate need to have their approval and affection. He rounded on Hagrid. “No. These are my friends. I want them to come with us,” he said firmly.
+
+“Yeh don't understand, Harry! They're not safe ter be around! They're Hufflepuffs, Harry! They were followers of You-Know-Who! Let's be going before their parents come looking fer them!”
+
+
+** u/jenorama_CA:
+#+begin_quote
+  “Oh! There's Hagrid,” Harry said cheerfully after only a few moments outside. The large man was approaching, ice cream in hand, though he paused when he saw Susan and Hannah. “Hey Hagrid! How are you feeling?” Harry asked.
+#+end_quote
+
+I would get rid of the “cheerfully”. Adverbs like this tell rather than show and you usually want to limit them. Think of how you can show the reader that Harry is cheerful. Maybe have him wave? “Oh! There's Hagrid!” Harry gave the large man a cheerful wave as he approached them, two ice cream cones in his huge hands.
+
+#+begin_quote
+  “Alrigh'. Who're these, then?”
+
+  “Hello, sir. I'm Hannah Abbott and this is Susan Bones. Are you alright?” Hannah frowned as Hagrid paled rapidly. “Harry said you weren't feeling good, maybe you should go back to Hogwarts? Mum and dad can help him get the rest of his things,” she offered.
+#+end_quote
+
+“Rapidly” here is again telling rather than showing. It's not especially important how quickly Hagrid pales, just that he goes pale at the sight of Harry with the girls. You can get rid of it and not miss anything. WRT to “mum and dad”, when you're using them as names, they are capitalized. “Mum and Dad can ...” But, if you say, “My mum and dad,” then you don't capitalize them because you're not using them as names in that case.
+
+#+begin_quote
+  Hagrid stared at them until a drip of ice cream rolled off the scoop and hit his hand, the chill apparently snapping him out of his shock. “Harry, come on,” he demanded. Harry jolted at the tone of his voice.
+#+end_quote
+
+Again, an adverb. Take about “apparently” because it serves no purpose here. The “Harry jolted ...” is awkward here.
+
+#+begin_quote
+  “But-But I was hoping we could go together. We were going to have lun-”
+#+end_quote
+
+At the beginning of this sentence would be a good place for a reaction from Harry rather than the “jolted” in the previous sentence. Example: Harry stared at Hagrid who was now looking rather angry and he searched his mind for how he could have possibly upset him.
+
+#+begin_quote
+  “No. Not with them. Come on. Now.”
+
+  Harry glanced at his new friends, who looked quite intimidated by the giant man's sudden change in attitude. Hannah bit her lip. “It-It's okay, Harry. We can just . . . We'll give you the stuff dad's bought on the train. We don't want to cause trouble . . .”
+#+end_quote
+
+Capitalize “Dad” here since Hannah is using it as his name.
+
+#+begin_quote
+  Seeing his new friends upset stirred something in Harry: a long beaten down hero complex, a desperate need to have their approval and affection. He rounded on Hagrid. “No. These are my friends. I want them to come with us,” he said firmly.
+#+end_quote
+
+Hmm, this doesn't seem to go too well here. Are you telling this from third-person limited (only Harry's POV and what Harry knows) or third-person omniscient? It doesn't seem to me that Harry would be aware of any sort of hero complex inside of him, so as a consequence, this is telling the reader what's going on rather than having Harry himself show the reader through his experience and actions. I think you can get rid of the hero complex stuff and focus on the fact that he's an 11-year-old boy that's never had any friends and suddenly here are two friends that he's being forced to leave for some sort of adult reason he doesn't understand. Hurt, confusion---these are all things you can have Harry react with.
+
+#+begin_quote
+  “Yeh don't understand, Harry! They're not safe ter be around! They're Hufflepuffs, Harry! They were followers of You-Know-Who! Let's be going before their parents come looking fer them!”
+#+end_quote
+
+I agree---how would Hagrid know what house they're in? Overall, not too bad. I think you need to chill on the adverbs, decide if you're doing third-person limited or omniscient and focus on showing through actions, reactions and dialog rather than telling.
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 13
+:DateUnix: 1552351381.0
+:DateShort: 2019-Mar-12
+:END:
+
+*** u/avittamboy:
+#+begin_quote
+  I would get rid of the “cheerfully”. Adverbs like this tell rather than show and you usually want to limit them. Think of how you can show the reader that Harry is cheerful. Maybe have him wave? “Oh! There's Hagrid!” Harry gave the large man a cheerful wave as he approached them, two ice cream cones in his huge hands.
+#+end_quote
+
+How is the cheerful wave any different from using the adverb? Won't it make sense to just wave? Genuine question.
+:PROPERTIES:
+:Author: avittamboy
+:Score: 3
+:DateUnix: 1552399819.0
+:DateShort: 2019-Mar-12
+:END:
+
+**** I see what you're saying. To me, it's about the image you project into the reader's head. If you just use adverbs for how things are said or done, you're missing an opportunity to paint a picture in the reader's imagination. Just saying "Harry said cheerfully" doesn't do much for the scene. But if you give him an action to perform, that's something the reader can "see".
+
+What image comes to mind when you read about a child giving a cheerful wave? I imagine a tiny Harry in terrible clothes with a wide smile waving his fool hand off because he's just so happy and excited and wants Hagrid to meet his new friends. So yes, an adverb will get the basic job done, but who wants to be basic?
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 2
+:DateUnix: 1552420642.0
+:DateShort: 2019-Mar-12
+:END:
+
+
+**** Well, you can wave in various different styles. An indifferent wave of your hand while gesuring showing how you are ambivalent, a shy wave which shares that you might be selfconscious over the interaction, or an energetic wave at a friend.
+:PROPERTIES:
+:Author: zombieqatz
+:Score: 1
+:DateUnix: 1552403671.0
+:DateShort: 2019-Mar-12
+:END:
+
+***** Yes, you can wave differently, but the way he's worded Harry's words makes it rather obvious, doesn't it?
+
+#+begin_quote
+  “Oh! There's Hagrid!” Harry gave the large man a +cheerful+ wave as he approached them, two ice cream cones in his huge hands.
+#+end_quote
+
+To me, it looks like the greeting is cheerful as it is. But maybe that's just me.
+:PROPERTIES:
+:Author: avittamboy
+:Score: 1
+:DateUnix: 1552404062.0
+:DateShort: 2019-Mar-12
+:END:
+
+
+*** He was supposed to be making a reference to their parents being followers in particular. Recall that Hagrid doesn't exactly hide his thoughts well and he (canonically) doesn't trust the Malfoy family any more than the Weasleys do. There is nothing to suggest that he thinks that Draco Malfoy ever had a chance to be anything but a chip off the old block.
+
+​
+
+For that matter, do you think anyone didn't think Malfoy was going to be in Slytherin or Bill, Charlie, Percy, Fred and George, Ron, or Ginny were going to be in Gryffindor? We're not talking about a society that's particularly tolerant or disinclined to believe that children will be just like their parents.
+
+​
+
+Consider Ron: from a family portrayed as incredibly close to Dumbledore, they never give a moment's thought to the idea that Draco Malfoy will be anything but a miniature of his father. Likewise, everyone pretty much expected Ron to be a Muggle-lover. No one was surprised that Susan Bones was a Hufflepuff, just like her Aunt. Heck, the only person that came as something of a surprise in their whole cohort was Neville. And everyone had good reason to doubt with a few rare exceptions through Seventh Year.
+:PROPERTIES:
+:Author: ObjectiveGrapefruit
+:Score: 0
+:DateUnix: 1552428278.0
+:DateShort: 2019-Mar-13
+:END:
+
+**** Okay.
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 2
+:DateUnix: 1552445846.0
+:DateShort: 2019-Mar-13
+:END:
+
+
+** I think it's silly for Hagrid to react that way toward a couple of eleven year old girls. Of course, there could be some extremists who would behave with like prejudice, but not Hagrid, in my opinion.
+:PROPERTIES:
+:Author: More_Cortisol
+:Score: 20
+:DateUnix: 1552341901.0
+:DateShort: 2019-Mar-12
+:END:
+
+
+** I think you need to make Hagrid's reaction much less extreme. Maybe have him allow them to come along but have Harry notice how uncomfortable Hagrid acts and Harry can ask him about it later. It would be less jarring and would actually build up a bit of suspense as to why Hagrid is acting so oddly. As it is now it feels like it all comes in a rush. And it also doesn't seem in Hagrid's nature to be so cold to little kids like that.
+
+Someone else mentioned it and they are right...he wouldn't refer to them as Hufflepuffs...maybe it could be changed to them coming from a long line of Hufflepuffs.
+
+​
+:PROPERTIES:
+:Author: PetrificusSomewhatus
+:Score: 9
+:DateUnix: 1552349431.0
+:DateShort: 2019-Mar-12
+:END:
+
+*** From an objective standpoint, you're right that they're not Hufflepuffs, but that's not how Hagrid would phrase it. If he were more precise with his speech, he'd be particular. But we're talking about Hagrid. Speaking of which, unless they stop being little kids after a couple of months, please recall that he wasn't exactly nice to Malfoy when they headed out into the Forest. Considering that he *liked* Harry and nevertheless sent him into the Forbidden Forest with a boy who hated Harry and a cowardly dog . . . I can't see him really understanding how to treat children.
+:PROPERTIES:
+:Author: ObjectiveGrapefruit
+:Score: 2
+:DateUnix: 1552428471.0
+:DateShort: 2019-Mar-13
+:END:
+
+**** I get what you are saying but in canon Draco had given Hagrid tangible reasons for disliking him by the time they served detention in the Forbidden Forest. Draco had insulted Hagrid and Harry multiple times at this point. As the passage is written Hannah and Susan are perfectly nice and sincerely friendly with Harry...the exact opposite of Draco.
+
+I'm sure Hagrid has nothing against muggles but he clearly is insulting and hostile to the Dursleys once he sees how horrible they are, particularly in how they treat Harry.
+
+As far as sending Harry and Draco into the forest alone I chalk that up to Hagrid being clueless to the inherent dangers of certain things...not cruel.
+:PROPERTIES:
+:Author: PetrificusSomewhatus
+:Score: 2
+:DateUnix: 1552428939.0
+:DateShort: 2019-Mar-13
+:END:
+
+
+** How would Hagrid know that they are Huflepuffs without the sorting having taken place yet?
+
+That said, I don't think Hagrid would be prejudiced against the two without a cause - and if he recognised their names, then it's likely that their parents had been Death Eaters. That's grounds to distrust them, as you'd distrust Malfoy.
+
+Personally, my reaction would be "Oh... please not another "our parents and our house is riddled with scumbags, we never did anything against them, but we're unjustly persecuted, yes" story. I'm pretty sick of "the Slytherins are the real victims! How dare Harry assume all Slytherins are the same just because they never say anything against Draco when he throws slurs around and mocks Harry in public, and cheer him on on the pitch" stories. perhaps unfair, but I'm also not really interested in stories about Susan Bones and Hannah Abbot.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 14
+:DateUnix: 1552342359.0
+:DateShort: 2019-Mar-12
+:END:
+
+*** See other comments regarding Hagrid's nominal tolerance for children of bad people.
+
+​
+
+But you seem to have made a leap here. Nothing here suggests that Hagrid was wrong. This isn't supposed to be taken as apologist and defending the Badgers. Hagrid has good reason to be terrified. Or at least concerned. Imagine if he had encountered Harry with Draco Malfoy and Harry had insisted he wanted to hang out with Draco . . . *and Lucius and Narcissa*. *Because he thought they were good people*.
+:PROPERTIES:
+:Author: ObjectiveGrapefruit
+:Score: 1
+:DateUnix: 1552428645.0
+:DateShort: 2019-Mar-13
+:END:
+
+**** Yeah, I would make that leap since that's usually the plot of "poor misunderstood Slytherins bullied by the evil prejudiced Gryffindors".
+:PROPERTIES:
+:Author: Starfox5
+:Score: 1
+:DateUnix: 1552432689.0
+:DateShort: 2019-Mar-13
+:END:
+
+
+** I myself feel like Hagrid is a very positive guy, and wouldn't really be all conniving, if Dumble asked him to keep Harry separated from others I feel it more natural for him to say something along the lines of "You aren't supposed to hang out with others yet... now come along Harry"...
+
+then ether him dragging Harry away and the girls staying put,
+
+or them following Harry and Hagrid noticeably uncomfortable at him failing Albus giving transparent hints from time to time that the girls should really stop bothering Harry, go find Hannas parents or whatever.
+:PROPERTIES:
+:Author: Erska
+:Score: 5
+:DateUnix: 1552351590.0
+:DateShort: 2019-Mar-12
+:END:
+
+*** Not from "others", this is from Hufflepuffs. See above comments about Hagrid finding Harry hanging out with Draco Malfoy and maybe Theodore Nott. He'd need no orders from Dumbledore to want to keep them away from Harry.
+:PROPERTIES:
+:Author: ObjectiveGrapefruit
+:Score: 1
+:DateUnix: 1552428789.0
+:DateShort: 2019-Mar-13
+:END:
+
+
+** WTF did I just read?! I don't have words to explain why it doesn't make any sense. Damn
+:PROPERTIES:
+:Author: MoleOfWar
+:Score: 7
+:DateUnix: 1552345438.0
+:DateShort: 2019-Mar-12
+:END:
+
+
+** Lol yeah this is pretty funny
+:PROPERTIES:
+:Author: FitzDizzyspells
+:Score: 4
+:DateUnix: 1552346605.0
+:DateShort: 2019-Mar-12
+:END:

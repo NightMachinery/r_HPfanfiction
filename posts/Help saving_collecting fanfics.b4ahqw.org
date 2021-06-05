@@ -1,0 +1,208 @@
+#+TITLE: Help saving/collecting fanfics?
+
+* Help saving/collecting fanfics?
+:PROPERTIES:
+:Author: audeneverest
+:Score: 13
+:DateUnix: 1553288928.0
+:DateShort: 2019-Mar-23
+:END:
+I've been reading fanfiction since September and I've realized that I've read so many fics that I've forgotten the names of ones I liked. I've deleted my history so I won't be able to find them again, but from now on I want to start collecting fanfiction as I read them - preferably so I can read it on Kindle (because my school blocked fanfiction.net and ao3 on our computers so it would be nice to have access to fanfiction). Unfortunately, I don't know any website/way to download fics. Help?
+
+Thanks!!!
+
+EDIT: I forgot to add... anything that works on iOS (I mostly use my iPhone and iPad instead of a computer lol)?
+
+
+** Another option is to use FanFicFare with Calibre, I've been getting set up with it and it's great, just drop in the URLs and it downloads an ebook and brings in the tags with it (status, genre, summary, characters, etc) plus you can set up your own tags to organize it however you want or add in your own tags (like WBWL or time travel)
+
+There's like 50+ sites it works with, [[https://github.com/JimmXinu/FanFicFare/wiki/SupportedSites][here]] is the full list
+:PROPERTIES:
+:Author: tectonictigress
+:Score: 12
+:DateUnix: 1553290917.0
+:DateShort: 2019-Mar-23
+:END:
+
+*** you can use FanFicFare even without Callibre. If you know how to run a Python script on the command line, it is [[https://pypi.org/project/FanFicFare/]] (also packaged for [[https://software.opensuse.org/package/python-fanficfare?search_term=python-FanFicFare][openSUSE]]).
+:PROPERTIES:
+:Author: ceplma
+:Score: 3
+:DateUnix: 1553291681.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+*** Been doing some research myself since I want to switch to just reading on a kindle and I think this will be my preferred method.
+:PROPERTIES:
+:Author: IamProudofthefish
+:Score: 2
+:DateUnix: 1553291668.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+*** Does this work on iOS?
+
+Thanks!!
+:PROPERTIES:
+:Author: audeneverest
+:Score: 2
+:DateUnix: 1553291882.0
+:DateShort: 2019-Mar-23
+:END:
+
+**** I have mine on my MacBook but it also works on PC
+
+Download calibre to your computer, then add the fanficfare plugin, then you can start downloading fics, all fics can be downloaded as ePub or mobi to move to your device
+:PROPERTIES:
+:Author: tectonictigress
+:Score: 2
+:DateUnix: 1553291997.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+** Ao3 let's you download fanfics as epub, pdf, html, and I think there was one other format that I don't recall right now... via their own site already. I've only ever downloaded them as epub and that worked pretty well on my devices. :)
+:PROPERTIES:
+:Author: NocturnalMJ
+:Score: 6
+:DateUnix: 1553292853.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+** I read most of my fanfiction in the [[https://fanfiction.net][fanfiction.net]] app. Simple to use. I have over 400 fics downloaded.
+:PROPERTIES:
+:Author: VulpineKitsune
+:Score: 5
+:DateUnix: 1553290839.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+** Yes use [[https://fanfictiondownloader.net/#/home]] it is what I use! :)
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1553289226.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+** Your school did what, now? That's horrible. Like, if you are on their WiFi, it won't allow you on the site?.....
+
+Not gonna lie, when I was younger, they didn't allow phones and whatnot to be on in class... So I would print out the fics in very small font size with the school's paper and ink, because I wanted to read, anyway. I would do this in the library before class. This was pretty terrible of me, because that was a lot of paper. Thankfully, I didn't do it for long. However, since I tend to only want to read longer fics, it was a lot of paper. The poor trees. My poor highschool.
+:PROPERTIES:
+:Author: Lumina_Solaris
+:Score: 5
+:DateUnix: 1553294490.0
+:DateShort: 2019-Mar-23
+:END:
+
+*** We have school provided computers we are required to use and they block EVERYTHING! I literally can't even Google search dungeons and dragons. We aren't allowed our phones either.
+:PROPERTIES:
+:Author: audeneverest
+:Score: 3
+:DateUnix: 1553294573.0
+:DateShort: 2019-Mar-23
+:END:
+
+**** Oh, yeah. They implemented that to the grade below us, while we were still in school. I, now, upon reflection, recall many students being salty about the fact that we weren't being given laptops, but the grade below us was.
+:PROPERTIES:
+:Author: Lumina_Solaris
+:Score: 3
+:DateUnix: 1553295349.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+** Everyone forgot about the FanFictionBot !
+
+:(
+
+​
+
+You just send [[/u/FanfictionBot]] a direct message containing commands ([[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][command usage here]]) and it'll package up the fanfiction for you and send you back a link. You can even put multiple link commands in one message and it'll send back ones for each one.
+
+EG
+
+linkffn(4)
+
+linkffn(Harry Potter and the Natural 20 by Sir Poley)
+
+​
+
+Supports - [[https://www.fanfiction.net/][fanfiction.net]] , [[http://archiveofourown.org/][archiveofourown.org]] , [[http://www.hpfanficarchive.com/stories/][hpfanficarchive.com]] , [[https://www.fictionpress.com/][fictionpress.com]] , [[http://www.adult-fanfiction.org/][adult-fanfiction.org]]
+
+​
+
+EDIT - See below for examples. Yes the Bot listens on threads too lol *gently pats the Bot* Good Bot. That'll do Bot. That'll Do.
+:PROPERTIES:
+:Author: bluspacecow
+:Score: 5
+:DateUnix: 1553323707.0
+:DateShort: 2019-Mar-23
+:END:
+
+*** [[https://www.fanfiction.net/s/4/1/][*/Little Helper/*]] by [[https://www.fanfiction.net/u/3284/Sheryl-Nantus][/Sheryl Nantus/]]
+
+#+begin_quote
+  Sometimes the worst person you want to see when sick is the best...
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{X-Files} ^{*|*} ^{/Rated/:} ^{Fiction} ^{K+} ^{*|*} ^{/Words/:} ^{1,030} ^{*|*} ^{/Reviews/:} ^{62} ^{*|*} ^{/Favs/:} ^{96} ^{*|*} ^{/Follows/:} ^{24} ^{*|*} ^{/Published/:} ^{3/16/1999} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{4} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Characters/:} ^{F.} ^{Mulder,} ^{D.} ^{Scully} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=4&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=4&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[https://www.fanfiction.net/s/8096183/1/][*/Harry Potter and the Natural 20/*]] by [[https://www.fanfiction.net/u/3989854/Sir-Poley][/Sir Poley/]]
+
+#+begin_quote
+  Milo, a genre-savvy D&D Wizard and Adventurer Extraordinaire is forced to attend Hogwarts, and soon finds himself plunged into a new adventure of magic, mad old Wizards, metagaming, misunderstandings, and munchkinry. Updates monthly.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{+} ^{Dungeons} ^{and} ^{Dragons} ^{Crossover} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{74} ^{*|*} ^{/Words/:} ^{314,214} ^{*|*} ^{/Reviews/:} ^{6,478} ^{*|*} ^{/Favs/:} ^{6,183} ^{*|*} ^{/Follows/:} ^{6,991} ^{*|*} ^{/Updated/:} ^{8/2/2018} ^{*|*} ^{/Published/:} ^{5/7/2012} ^{*|*} ^{/id/:} ^{8096183} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8096183&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8096183&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1553323732.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+** The [[http://ff2ebook.com/][best]] and other options such as [[http://ficsave.xyz/][here]] and [[https://adamcfranco.github.io/ficfetch/][here]]. I also have my personal backups [[https://drive.google.com/open?id=1r3jxhP739TFEBM0Hjw7LERLPVzeRPdLP][here]] if you are interested.
+:PROPERTIES:
+:Author: moomoogoat
+:Score: 2
+:DateUnix: 1553290883.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+** I finally made a ffn account for this purpose after close to 10 years of reading
+:PROPERTIES:
+:Author: GravityMyGuy
+:Score: 1
+:DateUnix: 1553294227.0
+:DateShort: 2019-Mar-23
+:END:
+
+
+** If it's on AO3, and it's one I really like, I'll download the pdf so I can read them on Adobe acrobat. That way you can read them offline too. I don't know if there's a way to download fics from FF. If anyone knows how to do that, I'd really appreciate it.
+:PROPERTIES:
+:Author: TwoCagedBirds
+:Score: 1
+:DateUnix: 1553306046.0
+:DateShort: 2019-Mar-23
+:END:
+
+*** the ffn app, you can download the stories onto your phone/tablet with that
+:PROPERTIES:
+:Author: LiriStorm
+:Score: 2
+:DateUnix: 1553353833.0
+:DateShort: 2019-Mar-23
+:END:

@@ -1,0 +1,60 @@
+#+TITLE: Looking for TTS Android app that reads Fanfic?
+
+* Looking for TTS Android app that reads Fanfic?
+:PROPERTIES:
+:Author: NevenEleven
+:Score: 2
+:DateUnix: 1600912568.0
+:DateShort: 2020-Sep-24
+:FlairText: Request
+:END:
+I didn't know what to flair this, so apologies if it's incorrect.
+
+I'm looking specifically for an android app for reading text to speech, so I can listen to fanfic at work.\\
+Preferably something that has somewhat natural sounding voices, and the ability to read full pdf or ebook files so I don't have to copy and paste each chapter or anything like that.
+
+Any ideas would be much appreciated, as a quick session of google-fu didn't turn up much that was useful. :)
+
+
+** The official Fanfiction.net app does TTS, its not great but it works.
+:PROPERTIES:
+:Author: RyML2012
+:Score: 3
+:DateUnix: 1600913672.0
+:DateShort: 2020-Sep-24
+:END:
+
+*** Mine loses my place and starts me over at the beginning of the story often enough that I've quit using it. 😥
+:PROPERTIES:
+:Author: Madam_Hook
+:Score: 1
+:DateUnix: 1601001481.0
+:DateShort: 2020-Sep-25
+:END:
+
+
+** Most ePub readers (at least CoolReader and FBReader) do it. And of course, there is [[https://github.com/JimmXinu/FanFicFare]]
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1600933446.0
+:DateShort: 2020-Sep-24
+:END:
+
+
+** I use and like Moon+ Reader. I'm not sure how many customization options the free version has, but the paid version has tons. I also like that it (unlike the fanfiction.net app) starts reading wherever you are instead of at the beginning of chapters. I also like that it has named favorites as well as tags, which I use as a star-rating so I can remember what stories I liked and which I didn't.
+:PROPERTIES:
+:Author: Madam_Hook
+:Score: 1
+:DateUnix: 1601001739.0
+:DateShort: 2020-Sep-25
+:END:
+
+
+** I use @voice and I really like it for the most part. It has some quirks, but it doesn't sound as robotic as a lot of TTS apps do. Also, you can choose from several accents, which is nice because then you can listen to your HP fics in a British accent if you like 😁
+:PROPERTIES:
+:Author: HungryGhostCat
+:Score: 1
+:DateUnix: 1601096646.0
+:DateShort: 2020-Sep-26
+:END:

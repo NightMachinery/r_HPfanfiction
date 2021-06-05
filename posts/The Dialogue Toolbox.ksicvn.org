@@ -1,0 +1,619 @@
+#+TITLE: The Dialogue Toolbox
+
+* The Dialogue Toolbox
+:PROPERTIES:
+:Author: SteelbadgerMk2
+:Score: 80
+:DateUnix: 1610041450.0
+:DateShort: 2021-Jan-07
+:FlairText: Discussion
+:END:
+Something that has always been a minor irritant to me, is how dialogue is often handled in fanfiction.
+
+So, in the spirit of mansplaining something something which I myself am certainly not an expert in. Lets get down to it.
+
+* Dialogue and Tags and Beats, Oh My!
+  :PROPERTIES:
+  :CUSTOM_ID: dialogue-and-tags-and-beats-oh-my
+  :END:
+First, lets nail down some terms:
+
+- /Speech/. This is the core of the dialogue. In the British standard, this is contained within single quotation marks (‘Hello'), while elsewhere it is typically contained within double quotation marks ( “Hello”).
+- /Actions/. Like /Speech/, I guess we know what these are. 'John nodded.'
+- /Beats/. /Beats/ are actions which are associated with /Speech/, but are not /Speaking Actions/. An Example of a beat would be: "Hello." John nodded at the new arrival.
+- /Tags/. /Tags/ are, specifically, /Speaking Actions/. These are centred on a verb which expresses some form of communication. 'Said' is such a word. As are 'shouted', 'screamed', 'cried', 'whispered', 'murmured', 'replied', 'posited', 'argued', etc. Less obviously, something like 'signed' could also serve this purpose for a mute character.
+
+These are our nuts and bolts, and I'm not about to pretend I have furnished anyone with ground-breaking new information here. I just want to make sure we're using the same language as we move forward.
+
+* Tag Yourself Before You Wreck Yourself
+  :PROPERTIES:
+  :CUSTOM_ID: tag-yourself-before-you-wreck-yourself
+  :END:
+The most basic form of Dialogue is unattributed /Speech/.
+
+#+begin_quote
+  "Hello."
+#+end_quote
+
+The problem with unattributed /Speech/ is that it becomes difficult to follow once multiple characters are introduced.
+
+#+begin_quote
+  John waved at Tom.
+
+  "Hello."
+
+  "Hi."
+
+  "How are you doing?"
+
+  "Alright I guess, though the missus is on the warpath. Didn't mow the lawn."
+
+  "Better get to it then, eh?"
+
+  "I guess so."
+#+end_quote
+
+We don't know whether it is John's partner, or Tom's who is annoyed about their inability to stay on top of the grass cutting. This is where tags come in. The next most simple form of dialogue is /Tagged/ /Speech/.
+
+#+begin_quote
+  "Hello," said John.
+#+end_quote
+
+It doesn't give you much more information than the raw /Speech/, but it does at least let you know who is who in an exchange. It gets a bit repetitive, though:
+
+#+begin_quote
+  John waved at Tom.
+
+  "Hello," said John.
+
+  "Hi," said Tom.
+
+  "How are you doing?" said John.
+
+  "Alright I guess, though the missus is on the warpath. Didn't mow the lawn," said Tom.
+
+  "Better get to it then, eh?" said John.
+
+  "I guess so," said Tom.
+#+end_quote
+
+However, this repetitive and onerous exchange serves to demonstrate a rule concerning /Tags/. When the /Speech/ to which they attach terminates with a period (or full stop), the period is replaced with a comma when the /Tag/ is being appended (added to the end of the /Speech/). However, /Speech/ which ends in another piece of punctuation is left unaltered. A somewhat common error I see is:
+
+#+begin_quote
+  "How are you doing," said Tom?
+#+end_quote
+
+This punctuation form may be correct in other languages (I'd be interest to hear if it is), but it is not correct in English. Another common error which is often seen is:
+
+#+begin_quote
+  "Hello." Said Tom
+#+end_quote
+
+This is a misapplied /Tag/, and becomes confused with /Beats/, which will be explained later.
+
+However, one stylistic choice a writer may make is to use 'asked' in place of 'said' when a question mark is present, but only when actually asking a question:
+
+#+begin_quote
+  John waved at Tom.
+
+  "Hello," said John.
+
+  "Hi," said Tom.
+
+  "How are you doing?" John asked.
+
+  "Alright I guess, though the missus is on the warpath. Didn't mow the lawn," said Tom.
+
+  "Better get to it then, eh?" said John.
+
+  "I guess so," said Tom.
+#+end_quote
+
+In this case 'eh?' isn't really a question. Instead it is an emphasiser, and so does not warrant an 'asked'. More interestingly, we can move /Tags/ around. They can be appended, prepended, or inserted between /Speech/ clauses:
+
+#+begin_quote
+  John waved at Tom.
+
+  "Hello," said John.
+
+  "Hi," said Tom.
+
+  John asked, "How are you doing?"
+
+  "Alright I guess," said Tom, "though the missus is on the warpath. Didn't mow the lawn."
+
+  "Better get to it then, eh?" said John.
+
+  "I guess so," said Tom.
+#+end_quote
+
+There are a couple of different stylistic options for the prepended form of /Tag/. Some published fiction uses the form:
+
+#+begin_quote
+  John said: "Hello."
+#+end_quote
+
+Instead of the (I think) more common form:
+
+#+begin_quote
+  John said, "Hello."
+#+end_quote
+
+I'm not going to demand one or the other. But a work should try to be consistent in its application of stylistic choices like this.
+
+Returning once more to the tags. These changes demonstrate some interesting rules of dialogue in English. A prepended /Tag/ should terminate with a comma (or colon) and the /Speech/ which follows should begin with a capital letter (as it is the beginning of a new sentence).
+
+In the case of an inserted /Tag/, it is important not to confuse it with the other types of /Tag/. It is easier than you might expect:
+
+#+begin_quote
+  "Hello," said John. "How are you today?"
+#+end_quote
+
+This features a /Tag/ which has been appended to the /Speech/ 'Hello', plus an second bit of /Speech/ which is its own sentence. On the other hand, this:
+
+#+begin_quote
+  "I'm doing okay," said Tom, "but I could really use a holiday."
+#+end_quote
+
+Features an inserted /Tag/ between two clauses within the /Speech/. The appended /Tag/ is terminated with a period, while the inserted /Tag/ is separated from the continued /Speech/ by a comma. The way to work out which form is correct is to imagine removing the /Tag/ completely.
+
+#+begin_quote
+  /✓/ "Hello. How are you today?"
+
+  X "Hello, how are you today?"
+#+end_quote
+
+Here, 'Hello' and 'How are you today?' are fully independent, and should thus be separate sentences.
+
+#+begin_quote
+  /✓/ "I'm doing okay, but I could really use a holiday."
+
+  X "I'm doing okay. But I could really use a holiday."
+#+end_quote
+
+Here, 'but I could really use a holiday.' is a dependent clause, and relies on the presence of 'I'm doing okay' for its full meaning.
+
+Thus, when inserting a /Tag/ into multi-clause /Speech/ we must make sure to observe the natural form of the /Speech/ before the /Tag/ is inserted. Once we're aware of that, it becomes a relatively easy task.
+
+* Actions Speak Louder than Tags
+  :PROPERTIES:
+  :CUSTOM_ID: actions-speak-louder-than-tags
+  :END:
+/Tags/ are great for identifying speakers, and with a light sprinkling of alternate /Speaking Action/ verbs and adverbs, it can even achieve a rudimentary level of descriptiveness. If you really want to make things interesting though, /Actions/ are where it's at.
+
+#+begin_quote
+  "Fine, you do it, then!" said John sourly.
+#+end_quote
+
+It's fine. It communicates the words, and it tells us his emotion, but it doesn't really include us as the reader in the scene. We're separated from events by the words on the page. Sourly is a lovely little adverb, and it has plenty of meaning, but it doesn't involve the reader. /Actions/ are what really draw the reader in.
+
+#+begin_quote
+  John threw up his arms and glared at Tom. "Fine, you do it then!" he said sourly.
+#+end_quote
+
+We have added a /Beat/. No part of John throwing up his arms and glaring is actually part of John's Speech, but the action of the /Beat/ informs the /Speech/, and allows the reader to build up the scene in their mind's eye. I'm not here to go on about show vs tell, though, so lets move swiftly on.
+
+/Beats/ are *not* /Tags/. They should never be treated as such. /Beats/ are always separated from /Speech/ by a period, question mark, or exclamation mark. Never commas. This is perhaps the most frequent technical mistake I see in fanfiction:
+
+#+begin_quote
+  "You do it then," John glared.
+#+end_quote
+
+This is a /Beat/, masquerading as a /Tag/. In English this implies that John is somehow communicating the words "You do it then." through the medium of his gaze, which is a fairly difficult task to manage. In a case like this, it is easy enough to overlook, but imagine the following:
+
+#+begin_quote
+  "Bollocks," John coughed awkwardly.
+#+end_quote
+
+or
+
+#+begin_quote
+  "Bollocks." John coughed awkwardly.
+#+end_quote
+
+The first example, by the rules of English, shows John literally coughing the words. A clunky way of saying it, perhaps, but I think it would be generally understood that this means he is concealing the word beneath a cough. The second example, however, has John simply saying "Bollocks" then coughing awkwardly, perhaps not having meant to speak out loud. This may seem like an incredibly niche area of concern, but it keeps me up of nights, it really does.
+
+Okay, maybe it doesn't. But there's still a right way and a wrong way, and there's a reason for one being right and the other being wrong, so if possible, is it not best to improve clarity where possible?
+
+/Beats/, like /Tags/, may be appended, prepended, or inserted. However, in the case of insertion they should only be added between sentences. As /Beats/ are not /Speech Actions/, they cannot have the comma-join with following text. If you really need to insert a beat between two dependant clauses... well, I'll come back to that later.
+
+#+begin_quote
+  X "You can't do that." John glared at the man, "that's bollocks."
+
+  X "You can't do that." John glared at the man. "That's bollocks."
+
+  X "You can't do that." John glared at the man, "That's bollocks."
+#+end_quote
+
+Here, we see the issue of attempting to insert a /Beat/ between two dependant clauses. Because of how the punctuation is structured, it either incorrectly capitalises the dependant clause, leaves the dependant clause floating in it's own sentence fragment, or it looks like it's moonlighting as a Tag.
+
+There is a way around this, however.
+
+* Action Tags, a Match Made in Heaven.
+  :PROPERTIES:
+  :CUSTOM_ID: action-tags-a-match-made-in-heaven.
+  :END:
+
+#+begin_quote
+  "You can't do that," said John as he glared at the man, "that's bollocks."
+#+end_quote
+
+You can add /Actions/ to /Tags/. Remember, however, that it must be a /Tag/: it much be anchored by a /Speech Action/, and your desired action becomes secondary to that /Speech Action/.
+
+Now---
+
+* Imma Let You Finish. But Interruptions Make The Best Dialogue of All Time.
+  :PROPERTIES:
+  :CUSTOM_ID: imma-let-you-finish.-but-interruptions-make-the-best-dialogue-of-all-time.
+  :END:
+Something which is much more rarely seen than either /Beats/ or /Tags/ are /Interruptions/. These are, in essence, /Beats/, but with some special rules.
+
+#+begin_quote
+  "You just need to" --- John waved his hands around vaguely --- "feel the music."
+#+end_quote
+
+The precise form of /Interruptions/ is subject to some debate. Some would argue for outer spaces, others for inner spaces, but really so long as they're consistent, I'm not sure it's all that important. What /is/ important is that they allow a writer to insert a /Beat/ anywhere in a piece of /Speech/. It doesn't even need to be between clauses. You have complete freedom. It also implies Speech and Action to be happening simultaneously, when ordinary /Beats/ often imply a certain degree of sequential ordering in the /Speech/ and /Action/ (one precedes the other).
+
+An Interruption Beat is not ended with a period. It is surrounded by em-dashes (long dashed: ---), and nothing else. Because of this, it really breaks the flow of the dialogue, and should be used fairly sparingly, for things that absolutely positively need to be identified at that moment in time.
+
+Something similar, but not identical, is /Speech Interruption/.
+
+#+begin_quote
+  John smiled. "You just need to---"
+
+  "No, I don't think I do," said Tom, cutting him off.
+#+end_quote
+
+Here, the character's actual words are interrupted, not merely the narrative, and so the em-dash lives inside the quotation marks (note that /Beat Interruptions/ place the em-dashes outside the /Speech/, as it is not actually interrupted, only the reader's experience of it is).
+
+* No, But Really. What Was the Point of All This?
+  :PROPERTIES:
+  :CUSTOM_ID: no-but-really.-what-was-the-point-of-all-this
+  :END:
+Honestly? I'm not all that sure. Writing dialogue is a very complex endeavour, and this mammoth post has not even touched upon the best way to actually use these tools to produce good dialogue. Honestly, I don't know that I'm really qualified to make such bold statements anyway.
+
+So I guess the purpose of this post is simply to try and explain the tools available to authors when writing dialogue in English, and the right technical way of executing them. I find it annoying when Beats, Tags and Interruptions are all mixed up. It's not enough to kill a fic, but it is sufficient to impact understandability at sometimes crucial moments.
+
+Said is a hammer. It's a bloody good tool. Use it often, but don't forget that there are many other tools in this toolbox, and most of them are much more interesting or specialised than electing to use another hammer of slightly different shape and weight (he stated, firmly). There's a lot of talk about the over- or under-use of Said, and I'm not going to touch on that here as I've already rambled far too long. I just hope that by showing the number of tools we have available to us, the over-proliferation of non-said tags we commonly see in fanfiction might be slightly reduced. There are far more ways of introducing variety to the shape and form of your dialogue than merely searching the thesaurus for a said-synonym.
+
+
+** I'm going to save this because I fecking hate dialogue! Thank you!
+:PROPERTIES:
+:Author: WhistlingBanshee
+:Score: 16
+:DateUnix: 1610044230.0
+:DateShort: 2021-Jan-07
+:END:
+
+*** /I'm going to save/
+
+/This because I fecking hate/
+
+/Dialogue! Thank you!/
+
+- WhistlingBanshee
+
+--------------
+
+^{I detect haikus. And sometimes, successfully.} ^{[[https://www.reddit.com/r/haikusbot/][Learn more about me.]]}
+
+^{Opt out of replies: "haikusbot opt out" | Delete my comment: "haikusbot delete"}
+:PROPERTIES:
+:Author: haikusbot
+:Score: 12
+:DateUnix: 1610044243.0
+:DateShort: 2021-Jan-07
+:END:
+
+**** good job, haiku bot. I've never seen you before. Haikus must be rare.
+:PROPERTIES:
+:Author: iamgurbanguly
+:Score: 9
+:DateUnix: 1610048361.0
+:DateShort: 2021-Jan-07
+:END:
+
+***** They are not that rare. I think that I see that bot about once per day.
+:PROPERTIES:
+:Author: TheLetterJ0
+:Score: 5
+:DateUnix: 1610050342.0
+:DateShort: 2021-Jan-07
+:END:
+
+****** we have both made them. does it not work for replies? here is another.
+:PROPERTIES:
+:Author: iamgurbanguly
+:Score: 5
+:DateUnix: 1610050511.0
+:DateShort: 2021-Jan-07
+:END:
+
+******* I think you are right. I skimmed over its comments; none of them were deep.
+:PROPERTIES:
+:Author: TheLetterJ0
+:Score: 4
+:DateUnix: 1610051606.0
+:DateShort: 2021-Jan-08
+:END:
+
+******** that's rather odd, eh? don't other bots do replies? Well, that's too bad then
+:PROPERTIES:
+:Author: iamgurbanguly
+:Score: 3
+:DateUnix: 1610077940.0
+:DateShort: 2021-Jan-08
+:END:
+
+********* This is rather cute, your adorable exchange. Now you must kiss, yes?
+:PROPERTIES:
+:Author: SteelbadgerMk2
+:Score: 5
+:DateUnix: 1610091799.0
+:DateShort: 2021-Jan-08
+:END:
+
+********** That's the trope, I guess. Well, it's not like I would mind. Alas, we are not ink.
+:PROPERTIES:
+:Author: iamgurbanguly
+:Score: 3
+:DateUnix: 1610112989.0
+:DateShort: 2021-Jan-08
+:END:
+
+*********** I guess this has died, as all things, in time, will do. Ah, nihilism.
+:PROPERTIES:
+:Author: iamgurbanguly
+:Score: 2
+:DateUnix: 1610317204.0
+:DateShort: 2021-Jan-11
+:END:
+
+************ That was impressive.
+
+Here is my attempted poem.
+
+Haiku bot, bless me.
+:PROPERTIES:
+:Author: Ok_Equivalent1337
+:Score: 2
+:DateUnix: 1610330423.0
+:DateShort: 2021-Jan-11
+:END:
+
+************* A worthy attempt. The bot does not do replies. That is your folly
+:PROPERTIES:
+:Author: iamgurbanguly
+:Score: 2
+:DateUnix: 1610333760.0
+:DateShort: 2021-Jan-11
+:END:
+
+************** Folly you say? Fool!
+
+The robot shall notice me!
+
+Unlike Claire from school.
+:PROPERTIES:
+:Author: Ok_Equivalent1337
+:Score: 2
+:DateUnix: 1610334001.0
+:DateShort: 2021-Jan-11
+:END:
+
+
+** In terms of interruptions, JKR often used en-dashes (--) over em-dashes (---). I think the British standard prefers the former over the latter, though there are a few times when JKR did use em-dashes in the books.
+
+Anyway, I've heard that when you use an em-dash it shouldn't be spaced, i.e.:
+
+"Interrupted dialogue"---action---"continuation."
+
+while en-dashes are spaced, i.e.:
+
+"Interrupted dialogue" -- action -- "continuation."
+
+On another note, I've noticed that JKR favoured the curly quotation marks (‘ ' and “ ”), as opposed to using the straight ones (' ' and " ") that many fanfic writers do. The same goes for her apostrophes (' instead of ').
+
+Nothing really wrong with this. It's just an observation.
+:PROPERTIES:
+:Author: Vg65
+:Score: 9
+:DateUnix: 1610048963.0
+:DateShort: 2021-Jan-07
+:END:
+
+*** u/Raesong:
+#+begin_quote
+  On another note, I've noticed that JKR favoured the curly quotation marks (‘ ' and “ ”), as opposed to using the straight ones (' ' and " ") that many fanfic writers do. The same goes for her apostrophes (' instead of ').
+#+end_quote
+
+That's more of to do with sites like FFN and AO3 using a different font than Rowling did when she had her books printed out.
+:PROPERTIES:
+:Author: Raesong
+:Score: 7
+:DateUnix: 1610076814.0
+:DateShort: 2021-Jan-08
+:END:
+
+
+*** It doesn't matter if you space them. The norm is no spaces, but there's nothing incorrect about having spaces. Mine always have spaces around them.
+:PROPERTIES:
+:Author: MissEvers
+:Score: 2
+:DateUnix: 1610049188.0
+:DateShort: 2021-Jan-07
+:END:
+
+**** That's what I thought, yes. I think they look a bit neater when spaced.
+:PROPERTIES:
+:Author: Vg65
+:Score: 3
+:DateUnix: 1610049524.0
+:DateShort: 2021-Jan-07
+:END:
+
+***** Same. No spaces feels a bit cluttered.
+:PROPERTIES:
+:Author: MissEvers
+:Score: 4
+:DateUnix: 1610049636.0
+:DateShort: 2021-Jan-07
+:END:
+
+
+** I'm not too fussed with the technical aspect of writing, other than proper spelling, and basic grammar.
+
+Oh, and people making certain they start a new paragraph, every time a new person starts speaking. I hate when conversations are bunched up into one, long paragraph. It's unreadable.
+:PROPERTIES:
+:Author: IceReddit87
+:Score: 7
+:DateUnix: 1610062213.0
+:DateShort: 2021-Jan-08
+:END:
+
+*** It is the most /aggravating/ trend in writing. I can deal with poor grammar and poor spelling, and occasionally even paragraph-long descriptions of the characters' outfits (with extra points for making me wonder whether the author is colorblind.)
+
+But poor structure? No.
+:PROPERTIES:
+:Author: Ok_Equivalent1337
+:Score: 4
+:DateUnix: 1610239185.0
+:DateShort: 2021-Jan-10
+:END:
+
+
+** Practical advice, tags should be used when starting an exchange, or switching from dialogue to action. If you use tags only when necessary for what you want to convey, you'll avoid many of the more common issues with tags, such as too many adverbs, or horrible, horrible tags. Additionally, using too many tags ruins the flow of the scene. If you have more than two characters in active conversation, you should be using tags always. Otherwise, you won't be able to follow which character is speaking. However, when only two characters are talking, it can allow for a faster flow of dialogue, especially when using interruptions.
+
+"But-"
+
+"This conversation is over."
+
+"Boss I-"
+
+"I said it's over!
+
+Sorry, wanted to add a bit more about integration, because it's something I see done more poorly in a lot of fics.
+:PROPERTIES:
+:Author: Ok_Equivalent1337
+:Score: 6
+:DateUnix: 1610048742.0
+:DateShort: 2021-Jan-07
+:END:
+
+*** Or, you can skip the tags in a segment of conversation between three or more people to /deliberately/ give a sense of confusion and talking over each other, especially with liberal use of interrupts.
+:PROPERTIES:
+:Author: thrawnca
+:Score: 1
+:DateUnix: 1610232986.0
+:DateShort: 2021-Jan-10
+:END:
+
+**** Yes. That would sound great. If you intercut paragraphs of description you'd get a real good picture of the scene.
+
+The Wizengamot rose as one.
+
+"This is an outrage!"
+
+"How dare you!"
+
+The shouting was escalating, and several hands twitched towards wands.
+
+And so on...
+:PROPERTIES:
+:Author: Ok_Equivalent1337
+:Score: 2
+:DateUnix: 1610239026.0
+:DateShort: 2021-Jan-10
+:END:
+
+
+** Nice post.
+
+I'd like to add that even when the dialogue, beats and punctuation are technically correct more often than not the sentences themselves could use some variety. I personally think it's best not to use nouns, pronouns, or tags too much once the characters have been introduced unless there's more than three. If they have to be used, mixing them up is important so that readers are less likely to skim through your work. For example:
+
+/Beat./ "Speech."
+
+"Speech," (Pro)noun /Tag/.
+
+"Speech."
+
+"Speech."
+
+"Speech," /Beat/, "Speech."
+
+/Action/. "Speech."
+
+"Speech." /Beat/.
+
+"Speech."
+
+and so on and so forth.
+
+In fanfiction it's better to use terms and phases that will identify who's speaking (aka character voice) instead relying too heavily on tags. Of course, if there's important actions framing the dialogue I disregard this rule.
+:PROPERTIES:
+:Author: YOB1997
+:Score: 4
+:DateUnix: 1610046577.0
+:DateShort: 2021-Jan-07
+:END:
+
+
+** Thanks for this! I had to beta a fic recently that had so many of these issues, but I didn't have the right words to express why they were wrong, or even how to describe these best practices. I don't think most grammar education gets this deep (well, I went to public school), and I mostly learned these practices just by noticing patterns in what I read. But these mistakes are very common!
+:PROPERTIES:
+:Author: house_of_black_
+:Score: 3
+:DateUnix: 1610050456.0
+:DateShort: 2021-Jan-07
+:END:
+
+
+** Note that British punctuation rules are (officially) different from this guide. Notable changes are that the usage of single and double quotes are flipped around (primary dialogue is single, quotes within the dialogue are double), and the punctuation goes /outside/ the quotes. An example stolen from the guide is:
+
+#+begin_quote
+  John smiled. 'You just need to---'
+
+  'No, I don't think I do', said Tom, cutting him off.
+#+end_quote
+
+It's rare to see this style, but it does exist in fanfiction.
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 2
+:DateUnix: 1610122635.0
+:DateShort: 2021-Jan-08
+:END:
+
+*** I did indeed mention part of that at the beginning:
+
+#+begin_quote
+  In the British standard, this is contained within single quotation marks (‘Hello'), while elsewhere it is typically contained within double quotation marks ( “Hello”).
+#+end_quote
+
+I didn't address how to write quotes in quotes as this isn't really meant to be an exhaustive guide.
+
+You are right, though. As a Brit myself, most of the stuff I read before discovering fanfic was indeed in the single quotation style.
+:PROPERTIES:
+:Author: SteelbadgerMk2
+:Score: 1
+:DateUnix: 1610123060.0
+:DateShort: 2021-Jan-08
+:END:
+
+**** Whoops, sorry! I just skimmed the article and didn't notice that there @.@ Thanks for writing it out, though - this is a pet peeve of mine lol.
+
+As far as I'm aware, the double quote style is only used in North America, and even then Canada is a bit lackadaisical about that too. Just like spelling lol. (A book that's originally British will usually keep using the British standard, while they always get changed for an American audience.)
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 1
+:DateUnix: 1610123534.0
+:DateShort: 2021-Jan-08
+:END:
+
+
+*** That actually causes some issues for me. Since I use British terminology and spelling, Canadian terminology, and American structure and spelling. I have to go back and edit behaviour to behavior sometimes. Even now Grammarly is trying to correct it. Theatre also messes with me
+:PROPERTIES:
+:Author: Ok_Equivalent1337
+:Score: 1
+:DateUnix: 1610244387.0
+:DateShort: 2021-Jan-10
+:END:

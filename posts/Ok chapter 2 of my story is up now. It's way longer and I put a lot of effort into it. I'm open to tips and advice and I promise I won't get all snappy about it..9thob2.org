@@ -1,0 +1,273 @@
+#+TITLE: Ok chapter 2 of my story is up now. It's way longer and I put a lot of effort into it. I'm open to tips and advice and I promise I won't get all snappy about it.
+
+* Ok chapter 2 of my story is up now. It's way longer and I put a lot of effort into it. I'm open to tips and advice and I promise I won't get all snappy about it.
+:PROPERTIES:
+:Score: 8
+:DateUnix: 1541140646.0
+:DateShort: 2018-Nov-02
+:FlairText: Self-Promotion
+:END:
+[[https://www.fanfiction.net/s/13107867/2/We-The-Incongruous]]
+
+Please? Constructive stuff? See, I'm using all them capitals and stuff. I want to be a good writer.
+
+
+** You have really nice, personable dialogue which sounds realistic and natural - that's very rare to find in novice writers so well done. The only thing I would say is that you should avoid letting that bleed into the main narration which, to an extent, should be more formal for clarity.
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 7
+:DateUnix: 1541145912.0
+:DateShort: 2018-Nov-02
+:END:
+
+*** OK. So um. You're saying I gotta keep like the actual non dialogue character actions stuff not like the dialogue stuff? What's that mean though? How do I do that?
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1541146276.0
+:DateShort: 2018-Nov-02
+:END:
+
+**** So, this bit for example:
+
+It was like out of her dreams. Except she could feel the sun on her. She could hear the voices in her ears. Sharp. Crisp. She could see all the cloaks fluttering. Her nose smelled like food and animals. It was way too real to be just a dream. So. It was real? Emma was excited!
+
+Some of this is really nice. You've got some varience in sentence length and structure and some nice description without being over the top. The sharp. Crisp. Bit is definitely something I would do and I like that a lot.
+
+What doesn't work as well is "her nose smelled like food and animals". That like is unnecessary and the sentence doesn't tell us anything. What food? What animals? Is it pleasant or not? I would write something like "on the air, she could smell sweet, burnt sugar from the ice cream parlour."
+
+And then this bit:
+
+It was way too real to be just a dream. So. It was real? Emma was excited!
+
+You're telling rather than showing and it sounds too much like dialogue. Way too is redundant and something you would have in speech, not narration. So As a sentence on it's own doesn't make sense and is unnecessary. Rhetorical questions like it was real?" Are ok now and then, but avoided if possible. Emma was excited! Is an example of telling rather than showing - it's nice to let the reader figure it out. So you could perhaps have something like "she began to smile in disbelief and excitement as she realised - this was real. All of it."
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 6
+:DateUnix: 1541147017.0
+:DateShort: 2018-Nov-02
+:END:
+
+***** Ok. Ok ok. That's good stuff! Thanks. Uh, should I go back and edit these parts or should I leave it though? Is it fine how it is or does it NEED to be fixed up? Is there a time limit to fixing stuff up anyway? Do I gotta fix it within 24 hours or I suck at being a writer? Or can I wait a few days or a week?
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1541147534.0
+:DateShort: 2018-Nov-02
+:END:
+
+****** Chill!!
+
+It's up to you. Personally when I get feedback I usually keep it in mind for next time but some people like to go back and edit. There's no time limitnor anything.
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 5
+:DateUnix: 1541148099.0
+:DateShort: 2018-Nov-02
+:END:
+
+
+** Okay, here are some quick things I see:
+
+- All instances of "Blah blah blah." Said Name. should be -> "Blah blah blah," said Name. or just "Blah blah blah." (No said tags after a period). When you end on a period, you can give the dialogue something extra with an action, like you did here:
+
+#+begin_quote
+  "That's Anna." Edward +said, and he+ pointed at a little thin blond girl near the back of the group.
+#+end_quote
+
+In these cases, either take out the crossed out bit, or change the first period to a comma. (Little thin girl is also redundant here)
+
+- You have the characters speaking in caps for emphasis, but it'd read better if you used italics instead.
+
+- You're using hyphens ( - ) instead of em-dashes ( --- ). It's technically wrong, but I don't think I've ever seen anyone complain about it in fanfic, so maybe I'm the only one who cares. Change it if you feel like!
+
+- I think you'd benefit from more comma use in your descriptions. I'll try to give a couple examples:
+
+#+begin_quote
+  She couldn't stop smiling. She listened though. Walked back into the alley's shadiness with the others.
+#+end_quote
+
+into
+
+She couldn't stop smiling as she listened to the others, walking after them back into the alley's shade.
+
+#+begin_quote
+  Allison looked around at them all again. Looking for someone to take her side. No face in there was any sort of friendly to her cause. She gave another disgusted noise and just leaned against a wall. She rolled her eyes too. Sent a middle finger at Emma.
+#+end_quote
+
+into
+
+Allison looked around at them all again, hoping for someone to take her side. No face in there was any sort of friendly to her cause. She made a disgusted noise and rolled her eyes as she leaned against the wall, sending Emma a middle finger.
+
+- Sometimes you have bits that aren't proper sentences (in bold).
+
+#+begin_quote
+  "Shut up, you're not an expert!" Emma grunted. *Thrashing.*
+
+  Jessica spoke up in soft tones. *Shocking everyone.*
+#+end_quote
+
+Here's how you could change those:
+
+"Shut up, you're not an expert!" Emma grunted, thrashing in Marcus's grip.
+
+Jessica spoke up softly, shocking everyone.
+
+All that said, I'll echo what FloreatCastellum said about the dialogue; it's natural and it flows pretty well. I'm a little jealous at how easy it seems to come to you! I hope you continue to practice. You've got plenty of potential.
+:PROPERTIES:
+:Author: More_Cortisol
+:Score: 5
+:DateUnix: 1541153238.0
+:DateShort: 2018-Nov-02
+:END:
+
+*** Thank you. So you're saying I gotta use commas instead of periods and make stuff longer? Commas after dialogue too not periods. Ok. xD Got it.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1541183059.0
+:DateShort: 2018-Nov-02
+:END:
+
+**** It can be either. You can do:
+
+"I can't believe you did that," Bob said incredulously. (No capitalizing said)
+
+"I can't believe you did that!" Bob ran his hands roughly through his hair, clearly at the end of his rope.
+
+Bob stepped right up to Jim and met his eyes with a lost sort of disbelief. "I can't believe you did that."
+
+"I can't believe you did that." Bob clapped Jim firmly on the shoulder. "I'm glad you did, though."
+
+"I can't believe you did that," Bob said, firmly clapping Jim's shoulder. "I'm glad you did, though."
+
+Bob laughed until his face was flushed. "I can't believe you did that," he said between breaths.
+
+The midday summer sun shined down on Bob's blonde head and reflected dazzling gold, a bizarrely angelic effect. "What the fuck are you looking at?" he said, stepping back warily.
+
+And yes, I think a bit more use of commas like in my examples would read nicely. Don't go overboard, though! Mix up shorter and longer sentences. You've done pretty well so far.
+:PROPERTIES:
+:Author: More_Cortisol
+:Score: 1
+:DateUnix: 1541186410.0
+:DateShort: 2018-Nov-02
+:END:
+
+
+**** comma in dialogue if it goes into a 'said' word.
+
+"Use commans," TE7 said.
+
+Period if there is not a tagline following the dialogue.
+:PROPERTIES:
+:Author: TE7
+:Score: 1
+:DateUnix: 1541186838.0
+:DateShort: 2018-Nov-02
+:END:
+
+***** Cool. Thank you. :D
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1541187039.0
+:DateShort: 2018-Nov-02
+:END:
+
+
+** Your writing seems okay, but aside from it being a self-insert fic, which I almost never read, there's several other problems, each of which would make me stop reading immediately:
+
+- I have to say: Introducing eight OCs (did I count them right?) in the first chapter is way too fucking much. Eight OCs is probably too much for an entire fic. Try stretching their introduction over at least 10 chapters or so, in order for it not to be just a list of names.
+
+- Them having a group discussion about multiverse theory, VR and self-inserts in a side-alley minutes after being thrust into the world is just weird and severely hurts my suspension of disbelief. It's neither the time nor the place. Why does no one notice them? They should stand out like a sore thumb with their muggle clothes (Allison said she was in bed... are they all in their pyjamas or underwear?) and their huge group. If you wanted them to have this discussion right now they could have had it in the house. At this point I'd just leave it out, it's too soon for such a high level debate.
+
+- Why are they talking about acquiring galleons and Magic? Muggle London is right outside Diagon Alley. Their one and only plan right now should be to beeline it towards the exit, acquire some muggle money (pawnshop if they don't have any) and figure out the date and time, maybe rent a motel room. What is even going on? Are they from 2018? Since they know the ending of the books they are at least from 2007, which gives them a lot of future knowledge (if they are in the past, which IMHO they don't know). They need to figure out whether the muggle world is the same as where they come from. Do they automatically assume they traveled to the book timeline? Do they even know the date, have I missed it? Shouldn't they at this point just assume that the HP books are real instead of fiction and just try to leave to get back home (one more reason why they shouldn't have had the multiverse debate)? None of these people act like teenagers who have just been kidnapped.
+
+- I think it's pretty dumb that they are trying to apparate and expect it to be some kind of test of their magic. Witches and Wizards have classes for that and years of experience focusing their magic. But maybe they are supposed to be dumb.
+
+- Anna is a ridiculous character. Even a psychopath wouldn't immediately jump to murdering random people. *There's no way to salvage your story at this point.* Why is everyone just cool (yeah they are hemming and hawing about it, but not actually doing anything) with having a psychopath in their group? Why is Jake praising her? Everyone, except Allison, has completely ceased being human beings. Previously they were threatening to kick out Allison for being a mere homophobe and now being a murderer is a-ok. Are they not going to clean up the crime scene? WTF is going on? Anna killed a shop owner and there were witnesses right around the corner. They should all be apprehended by Aurors in the next 5 seconds. Are they still just walking around in Diagon Alley and having a stroll?! *WTF?*
+
+Maybe you threw in the murder just for shock value and want to explain it later, but fanfictions don't get a lot of leeway from me in comparison to published novels, because - usually - no good explanation will be forthcoming in fanfiction. I can totally overlook small grammatical errors and typos, but at this point both your plot and your characters make zero sense (borderline incomprehensible) to me and I feel lost.
+
+For me writing Fanfiction is a bit like a trust building exercise. When a bit of trust has been built (after 10 chapters or so) you can write off-the-wall stuff and your readers will assume that it will all make sense at some point. The whole "suddenly in the HP-verse with a bunch of strangers" thing already offers more than enough drama and tension, you don't need to add more to make it more exciting.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 5
+:DateUnix: 1541154266.0
+:DateShort: 2018-Nov-02
+:END:
+
+*** Ok. Wow. Thank you for all the insight. xD Ok soooo. Yeah. I was gonna actually address the whole murder and group thing next chapter. Yeah. Anna isn't going to stick around, and nobody else except Jake is even going to bother trying. That's the point I had there, is everyone else is fine to kick her out except him. But she gets kicked anyway don't worry. xD
+
+And the murder itself wasn't for shock. I'm trying to show that while some of them see the world as a real place, some people see it as just being in a dream kinda. That's why I used "dreamworld" in Anna's point of view to show how she sees it. She don't think twice about it cause she doesn't actually think it's real. I had Jake even comment on that at the end, that maybe she wouldn't have done it if she thought it was.
+
+I also had wrote down that Jake was pale and shaking when he praised Anna. I was trying to show that he was as scared as the rest of them, but he thought it was best to just go along with it and appease her you know? Keep her from freaking out again and trying to maybe hurt THEM too. Sorry I screwed getting that idea across though.
+
+And they aren't walking around the Alley. They're in a side alley. It's dark and stuff!
+
+Yeah also, I already had Jake say they should all just leave and try to call their families. That's leading into next chapter's plot point where they all find out that they don't exist in this reality! Which is important shit!
+
+Look, I'm trying to get across here that it's not gonna be easy for them. There ain't no outs, there isn't no easy mode. That's why the apparating failed, why Anna screwed things up thinking it wasn't real, why she can't even do a cutting curse properly-unlike you know most other fanfics I read where self inserts are GODS from the get go! So I thought that was pretty good of me-and that in this fantasy universe their homes and families ain't even there. They never existed here.
+
+Sorry if I stuffed too much shit into the chapter though. I guess I can see that from what the other person said too. That i was trying to put too many of my plot ideas into one chapter.
+
+And yeah you're right I maybe shoulda tried to space out a lot of this shit. But what do I do now? Do I redo it and take a lot of stuff out? Do I keep it and go forward?
+
+EDIT: Aurors ain't got a great track record of showing up on time for anything in canon, so I wasn't gonna have them show up in 5 seconds like you said.
+
+EDIT EDIT: I'm not getting rid of the "eight OC's" ok? The whole point of this fucking story is that it's different from other self inserts because it has more then one person instead of just some solo badass god! It's a group of morons who fumble and shit. Get it? The whole /point is that they're suppose to be a team in a strange world!/ Getting rid of them would mean scrapping the whole fucking story because the basic idea of the story to begin with /is them all being there./ It's /about/ a group. A team.
+
+I got the idea after rewatching LOST, OK? A group of people in a strange place. Except it's Harry Potter and not a mystic island.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1541183491.0
+:DateShort: 2018-Nov-02
+:END:
+
+**** u/Deathcrow:
+#+begin_quote
+  And the murder itself wasn't for shock. I'm trying to show that while some of them see the world as a real place, some people see it as just being in a dream kinda. That's why I used "dreamworld" in Anna's point of view to show how she sees it.
+#+end_quote
+
+Doesn't really work for me. Even in my dreams I don't turn into a violent killer and if there were some kind of virtual reality machine that simulated real-life in a way that I couldn't tell whether it was real or fake I don't think I could murder anyone in such a brutal way. Add to that the fact that it's more likely that these are real people and I certainly still see her has an insane psychopath / monster even with that explanation.
+
+#+begin_quote
+  So I thought that was pretty good of me-and that in this fantasy universe their homes and families ain't even there. They never existed here.
+#+end_quote
+
+Yeah but they don't know that. All of those characters act exactly as you - the author - would want them to act in the framework of your world just to move the story you imagined along, even though they don't understand the framework yet.
+
+I don't find any of their actions or their conversations remotely believable (though you have a knack for writing natural sounding dialogue, I have to compliment you there too).
+
+#+begin_quote
+  And yeah you're right I maybe shoulda tried to space out a lot of this shit. But what do I do now? Do I redo it and take a lot of stuff out? Do I keep it and go forward?
+#+end_quote
+
+Just keep going forward. It's good exercise and in the future you can think about the stuff I moaned and griped about it more. It's really important in self-inserts like this to get a good grasp on how a normal person would react. You have added EIGHT of them. It's very likely that you'd have at least one Deathcrow in there who'd be like "Yeah fuck you guys, you're all insane, I'm not going to try figure out Magic, try to acquire galleons and infiltrate the magical world. I'm going home right now".
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 1
+:DateUnix: 1541184319.0
+:DateShort: 2018-Nov-02
+:END:
+
+***** Ok. I can still do that. Throw in a Deathcrow. I could crazy easy have one of them change their mind about it! It'll work. Thank you for all the griping. xD
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1541184480.0
+:DateShort: 2018-Nov-02
+:END:
+
+
+** So I actually kind of liked it, but I did have some problems with the content like the other guy. I think my problems all boil down to one thing, and the easiest way to describe it is overeager. You clearly have an idea in mind and changes you would want to make if you could hop into the books. But that doesn't mean your story has to immediately tackle all of them. Slow the pace down, introduce ideas slowly, have real discussions about the best solutions. Most importantly, have patience! This type of story isn't my cup of tea normally, but you do it pretty well. It just seems like you were on a sugar rush while writing and wanted to cram everything in and get the plot (that you very clearly want to write) rolling. I think if you dial it back and slow the pace, I'll definitely want to keep reading.
+
+(I have more to add but I'm about to take an exam so I'll have to add it later. Cheers)
+:PROPERTIES:
+:Author: AskMeAboutKtizo
+:Score: 2
+:DateUnix: 1541167888.0
+:DateShort: 2018-Nov-02
+:END:
+
+*** Yeah. I got that. I stuffed too much of my ideas into the one chapter. My bad. Thank you.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1541183579.0
+:DateShort: 2018-Nov-02
+:END:

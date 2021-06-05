@@ -1,0 +1,215 @@
+#+TITLE: Is it canon that the Shield Charm cannot block Unforgivable Curses?
+
+* Is it canon that the Shield Charm cannot block Unforgivable Curses?
+:PROPERTIES:
+:Author: I_love_DPs
+:Score: 7
+:DateUnix: 1602154626.0
+:DateShort: 2020-Oct-08
+:FlairText: Discussion
+:END:
+I know that it's stated that nothing can stop Avada Kedavra but Dumbledore uses statues to block. Also Harry uses shield charms multiple times during the battle of Hogwarts to protect others, including Molly when Voldemort wants to attack her after killing Bellatrix (albeit not stated what spell Voldemort was going to use against her, I would have expected it to be the killing curse since that's his signature spell).
+
+
+** No. The Killing Curse is specifically singled out as unblockable by Moody in the class on Unforgiveables, which rather implies that the other two are not unblockable.
+
+Moreover, no one ever says anything to suggest that the Cruciatus and Imperius are unblockable, and the default assumption for all spells is that they can be blocked unless we are given reason to think otherwise. No such reason exists for the Cruciatus and the Imperius.
+
+However, from what Fred and George say in HBP about the Shield Hats only stopping "minor to moderate hexes and jinxes", and specifically noting they they cannot stop the Unforgiveables, I think it can be assumed that all the Unforgiveables are powerful curses and therefore very /difficult/ to shield against. You'd need a pretty powerful Shield Charm to stop them.
+
+Incidentally, Snape blocks Harry's attempt at the Cruciatus in HBP. It's a block rather than a Shield Charm, so not directly on point, but it definitely shows that the Cruciatus is not "unblockable".
+:PROPERTIES:
+:Author: Taure
+:Score: 16
+:DateUnix: 1602155113.0
+:DateShort: 2020-Oct-08
+:END:
+
+*** It makes internal-logic sense that the Killing Curse would be an unblockable death-thing too. There's lots of spells that can kill, but they can (seemingly) all be shielded against, so the Killing Curse being unblockable would be a sensible reason for it to be Unforgiveable.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 5
+:DateUnix: 1602159409.0
+:DateShort: 2020-Oct-08
+:END:
+
+**** I suspect it is also intended to be symbolic of the inevitability of death.
+:PROPERTIES:
+:Author: Taure
+:Score: 3
+:DateUnix: 1602159713.0
+:DateShort: 2020-Oct-08
+:END:
+
+***** It is Harry Potter. It's a safe bet that most things in the series are. :)
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 4
+:DateUnix: 1602160992.0
+:DateShort: 2020-Oct-08
+:END:
+
+
+*** u/Serena_Sers:
+#+begin_quote
+  Incidentally, Snape blocks Harry's attempt at the Cruciatus in HBP. It's a block rather than a Shield Charm, so not directly on point, but it definitely shows that the Cruciatus is not "unblockable".
+#+end_quote
+
+Meh. I wouldn't say he blocked the Crutiatus but Harry himself. Crouch Junior implied that you can only fight the Imperius - but it is shown that you can stop the caster from actually casting the curse. That's what Snape did with Harry - and what Harry did with Malfoy when he casted Sectum Sempra; both cases were a Cruciatus Curse that was "blocked". So I always assumed it's the same like with the Killing Curse. You can't block it directly but indirectly by distrubing the caster or with physical items (like Harry did in GOF)
+:PROPERTIES:
+:Author: Serena_Sers
+:Score: 2
+:DateUnix: 1602164453.0
+:DateShort: 2020-Oct-08
+:END:
+
+**** It is clear that there is a duelling technique referred to as "blocking" which has the effect of stopping an opponent's spell other than via shielding. This was first introduced in COS:
+
+#+begin_quote
+  “I think I'd better teach you how to block unfriendly spells,” said Lockhart, standing flustered in the midst of the hall.
+
+  [...]
+
+  “Now, Harry,” said Lockhart. “When Draco points his wand at you, you do this.” He raised his own wand, attempted a complicated sort of wiggling action, and dropped it. Snape smirked as Lockhart quickly picked it up, saying, “Whoops--- my wand is a little overexcited---”
+#+end_quote
+
+Lockhart's incompetence aside, the technique he was /trying/ to show is definitely a real one, because we see it referred to in later books.
+
+GoF 14:
+
+#+begin_quote
+  “Not nice,” he said calmly. “Not pleasant. And there's no countercurse. There's no blocking it. Only one known person has ever survived it, and he's sitting right in front of me.”
+#+end_quote
+
+OotP 35:
+
+#+begin_quote
+  “PETRIFICUS TOTALUS!”
+
+  The spell hit Dolohov before he could block it and he toppled forwards across his comrade, both of them rigid as boards and unable to move an inch.
+#+end_quote
+
+HBP 24:
+
+#+begin_quote
+  Harry threw himself sideways, thought /Levicorpus!/ and flicked his wand, but Malfoy blocked the jinx and raised his wand for another ---
+#+end_quote
+
+However, we are never really shown what blocking does - until HBP 28:
+
+#+begin_quote
+  “Cruc ---” yelled Harry for the second time, aiming for the figure ahead illuminated in the dancing firelight, but Snape *blocked* the spell again. Harry could see him sneering.
+
+  “No Unforgivable Curses from you, Potter!” he shouted over the rushing of the flames, Hagrid's yells, and the wild yelping of the trapped Fang. “You haven't got the nerve or the ability ---”
+
+  “Incarc ---”Harry roared, but Snape deflected the spell with an almost lazy flick of his arm.
+
+  “Fight back!” Harry screamed at him. “Fight back, you cowardly ---”
+
+  “Coward, did you call me, Potter?” shouted Snape. “Your father would never attack me unless it was four on one, what would you call him, I wonder?”
+
+  “Stupe ---”
+
+  “*Blocked* again and again and again until you learn to keep your mouth shut and your mind closed, Potter!” sneered Snape, deflecting the curse once more.
+#+end_quote
+
+Combining all these comments, I think we have a complete picture:
+
+1. There is a technique called blocking which stops a spell in its tracks.
+
+2. The technique is performed with a wand movement.
+
+3. Knowledge of what spell your opponent is casting is required (from Snape's comments that he is able to do it because Harry is giving away his spells). So it seems likely there are different blocks for different spells. From Moody's comments, the block may be related to the counter-curse (or even the same thing, simply cast in advance).
+
+4. Blocking can be performed while a spell is in transit, or while it is still in the process of being cast.
+
+5. Where blocking is performed while the spell is still being cast, it prevents the spell from ever forming.
+
+6. The Cruciatus Curse is one of the spells which can be blocked.
+
+7. Blocking appears to be related to deflection.
+:PROPERTIES:
+:Author: Taure
+:Score: 7
+:DateUnix: 1602166357.0
+:DateShort: 2020-Oct-08
+:END:
+
+***** I thought it was more like "preventing the spell from being cast" since it literally silences Harry's tongue mid-cast. It could be some sort of very temporary silencing spell that needs no incantation and cripples anyone unable to cast silently.
+
+However Snape was able to *deflect* something with a lazy flick of his arm which strongly implies something was being sent at him, likely the projectile of a fully formed spell, that he batted away. So then what makes Harry stop saying the full word for the incarcerous spell? 'Tis all a bit confusing, indeed.
+:PROPERTIES:
+:Author: asifbaig
+:Score: 1
+:DateUnix: 1602178071.0
+:DateShort: 2020-Oct-08
+:END:
+
+****** I think it's simply the limitation of a linear narrative attempting to convey things which occur simultaneously.
+
+It is common in fanon to depict a wand as a gun and a spell as a projectile, where the incantation is like pulling the trigger. The spell leaves the wand when the incantation is complete.
+
+However, the sense I get from canon, and in particular that passage, is actually the spell forms and travels between the caster and target /during/ the incantation, and the end of the incantation is the time at which the spell takes effect on the target - /not/ when it leaves the wand. And when you think about it, that's the more traditional/folk view of how magic works.
+
+With that approach to spell formation, the scene makes perfect sense: Snape is blocking/deflecting the half-formed spell which is already on its way to him before the incantation is complete. And then incantation is cut off by the act of blocking and the half-form spell is blocked/deflected.
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1602178393.0
+:DateShort: 2020-Oct-08
+:END:
+
+******* Wow, that's a very interesting approach to spellcasting. I never thought of it like this and it fits the explanation perfectly.
+:PROPERTIES:
+:Author: asifbaig
+:Score: 1
+:DateUnix: 1602228216.0
+:DateShort: 2020-Oct-09
+:END:
+
+
+***** Well written!
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1602952227.0
+:DateShort: 2020-Oct-17
+:END:
+
+
+** The Killing Curse explicitly cannot be blocked by magic (except in very rare and complicated circumstances, ie the love sacrifice effect, or the multiple levels of weird connections between Harry and Voldemort). Dumbledore got around that by animating statues to create physical barriers, because Dumbledore is smart.
+
+During the final battle, its noted that Voldemort's spells in general are being less effective- this is likely due to a combination of him using a wand that doesn't recognize him as its master, and Harry's sacrifice having provided the sacrificial protection against Voldemort to his opponents (this was sort of the point of having Harry willingly sacrifice himself, I believe).
+
+Normally, no, a shield charm would not block Avada Kedavra, and its highly doubtful it would be an effective block against the other Unforgivables either- at best, it might reduce their effectiveness.
+:PROPERTIES:
+:Author: AntonBrakhage
+:Score: 2
+:DateUnix: 1602174450.0
+:DateShort: 2020-Oct-08
+:END:
+
+
+** When the Shield Charm is introduced in GoF, isn't it specifically described as blocking 'minor' curses / hexes / jinxes?
+:PROPERTIES:
+:Author: LizaSolovyev
+:Score: 2
+:DateUnix: 1602250194.0
+:DateShort: 2020-Oct-09
+:END:
+
+*** It's introduced then as such. It's actually introduced after Avada Kedavra. My assumption was that in the beginning Harry's was only strong enough to block minor hexes and jinxes. By the end of the battle of Hogwarts he uses it to protect people from Death Eater curses and even blocks Voldemort. Hence my question.
+:PROPERTIES:
+:Author: I_love_DPs
+:Score: 1
+:DateUnix: 1602254313.0
+:DateShort: 2020-Oct-09
+:END:
+
+
+** Yes it's canon; I think it is mentioned on the wiki. The thing is, it's not referring to the Unforgivables being totally unstoppable, things like physical items (including transfigured items) can stop it.
+:PROPERTIES:
+:Author: Katherien0Corazon
+:Score: 2
+:DateUnix: 1602155274.0
+:DateShort: 2020-Oct-08
+:END:

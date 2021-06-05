@@ -1,0 +1,43 @@
+#+TITLE: How can I read fanfiction on Kindle Paperwhite?
+
+* How can I read fanfiction on Kindle Paperwhite?
+:PROPERTIES:
+:Author: xepheiro10
+:Score: 4
+:DateUnix: 1621794564.0
+:DateShort: 2021-May-23
+:FlairText: Misc
+:END:
+
+** Download the fanfic in mobi format and then you can plug your kindle into your computer and drag it into the documents folder. You can also use calibre to manage sending fics to your kindle. I think you can email them to your kindle but I've never bothered to set that up.
+
+You can download the fics directly from ao3, use the fanfic plugin with calibre, or the ficsave website.
+:PROPERTIES:
+:Author: midgardian_tauri
+:Score: 3
+:DateUnix: 1621795093.0
+:DateShort: 2021-May-23
+:END:
+
+
+** 1. [[https://calibre-ebook.com/download][Install Calibre.]]
+
+2. Install the plugin [[https://www.mobileread.com/forums/showthread.php?t=259221]['FanFicFare']]
+
+3. Set up Connect/Share in Calibre with your send-to-kindle email address by going to Preferences>Sharing Books By Email. You can find the @kindle.com address under 'Manage Your Content and Devices' on Amazon's homepage, or in your device's options. You'll need to use the website version to allow files to be sent from your actual email, and calibre will help you set up gmail and hotmail/outlook adresses.
+
+4. Download the fics you want with FanFicFare, then right-click the stories and choose Connect/Share> Email to X. Agree when it wants to change the format to mobi.
+
+5. Or, you can plug your kindle in, and send stories over that way.
+
+Note that any fic you /email/ to your kindle will be stored in the cloud and whispersync will apply. Which means that if you start reading at home, and pick it up again on your phone during break at work, it'll automatically go to the right spot. The downside to this is that you might end up with multiple copies of in-progress fics as files with the same title don't overwright each other.
+
+I love my fucking paperwhite, ngl, and calibre is pretty damn impressive too.
+
+The edit book function, especially - randomly double-spaced stories? Fixed in seconds. Don't like the name Hadrian? Gone. Changing it to literally anything else takes seconds with search/replace.
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 2
+:DateUnix: 1621828710.0
+:DateShort: 2021-May-24
+:END:

@@ -1,0 +1,292 @@
+#+TITLE: FanFiction.io is officially launching on August 1st!
+
+* FanFiction.io is officially launching on August 1st!
+:PROPERTIES:
+:Author: guppy221
+:Score: 62
+:DateUnix: 1467947529.0
+:DateShort: 2016-Jul-08
+:FlairText: Misc
+:END:
+Hi Everyone,
+
+I'm back to introduce the public beta v1.01 for [[http://beta.fanfiction.io][FanFiction.io]], which will be launched August 1st, 2016.
+
+[[http://beta.fanfiction.io][FanFiction.io]] aims to be an ad-free, censorship-free, and beautiful fanfiction platform that focuses on giving the reader and writer a thoroughly enjoyable experience. To do that, we have to go through many rounds of improvements.
+
+And for that, I need your help! Until August 1st, *everyone who register and publish at least one story before August 1st will receive a free, hardcover, commemorative [[http://beta.fanfiction.io][FanFiction.io]] notebook.*
+
+When you're using the website, keep in mind that we are still in a 'minimum viable product' (MVP) stage of launch, meaning that only the bare essential features for a fanfiction website is available to the public. Our plan is to let users decide what kind of features they want, so if you have a feature you NEED, or one that you can't stand, please email [[mailto:contact@fanfiction.io][contact@fanfiction.io]].
+
+If you have any suggestions, see any bugs, or have any other comments, also email [[mailto:contact@fanfiction.io][contact@fanfiction.io]].
+
+Go claim your username before someone else does!
+
+Happy Writing, FanFiction.io Team
+
+Edit - the auto capitalization on the title is way cool - any mods want to tell me what's the code for that? :)
+
+
+** I am curious regarding the financing (especially if you send notebooks). Would the website work on donations, subscription fees, or sponsorship?
+:PROPERTIES:
+:Author: HermioneGPEV
+:Score: 13
+:DateUnix: 1467948729.0
+:DateShort: 2016-Jul-08
+:END:
+
+*** Financing will (hopefully) come from VC's and Kickstarter, but the first step is the proof of concept. I can promise, however, that FanFiction.io will forever be ad-free, no subscription fees either. Cheers!
+:PROPERTIES:
+:Author: guppy221
+:Score: 4
+:DateUnix: 1467949696.0
+:DateShort: 2016-Jul-08
+:END:
+
+**** So, how're you going to make a profit without ads? VC isn't going to give money if you have no potential for making a profit. And Kickstarter is likelier to fail than succeed.
+:PROPERTIES:
+:Author: viol8er
+:Score: 17
+:DateUnix: 1467949949.0
+:DateShort: 2016-Jul-08
+:END:
+
+***** We're testing a reddit-gold based system on a separate, closed-to-public version right now. I truly believe that monetization can be accomplished without sacrificing user experience, and maybe some VCs are going to see it that way too!
+:PROPERTIES:
+:Author: guppy221
+:Score: 5
+:DateUnix: 1467950939.0
+:DateShort: 2016-Jul-08
+:END:
+
+****** I think that can work well if your product is quality enough to take users from ffnet.
+
+edit: I know its beta but I just went to check it out for a minute and I don't see any easy way to enable a dark mode. There is no chance I'm going to read on a white background.
+:PROPERTIES:
+:Author: howtopleaseme
+:Score: 21
+:DateUnix: 1467954070.0
+:DateShort: 2016-Jul-08
+:END:
+
+******* I don't like to read longer fics on a backlit screen at all. I wonder if there are any plans to be able to download fics in mobi or epub format?
+:PROPERTIES:
+:Author: ClimateMom
+:Score: 2
+:DateUnix: 1467994785.0
+:DateShort: 2016-Jul-08
+:END:
+
+******** Well, according to fanfiction.io's first post on the subreddit, they said they weren't going to enable downloading options.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1469913368.0
+:DateShort: 2016-Jul-31
+:END:
+
+********* Oh, I missed that. That's unfortunate.
+:PROPERTIES:
+:Author: ClimateMom
+:Score: 1
+:DateUnix: 1469915408.0
+:DateShort: 2016-Jul-31
+:END:
+
+
+****** Monetizing fanfiction is a really fast way to get shut down.
+:PROPERTIES:
+:Author: klackerz
+:Score: 4
+:DateUnix: 1467958572.0
+:DateShort: 2016-Jul-08
+:END:
+
+******* Selling fanfiction is. Monetizing it just progress. There are a few authors I'd subscribe to if the feature existed.
+:PROPERTIES:
+:Author: howtopleaseme
+:Score: 3
+:DateUnix: 1467959329.0
+:DateShort: 2016-Jul-08
+:END:
+
+
+** Oh! A new fanfiction site!
+
+Some questions:
+
+1) Would the rating system be more detailed compared than fanfiction.net's one?
+
+2) Can this site be browsed through Android?
+
+3) Would it be more... um, (don't know how to write it- controlled perhaps, or filtered?), than AO3?
+
+4) How defined are the search function or when entering in a section? (Show only fanfics with this "rating letter", "time period", "book or movie universe", and more criteria)
+
+5) how are the rules or guidelines about the fanfics' themes? (In a scale from fanfiction.net (restrictive) to AO3 (freer? I think))
+
+Sorry if the questions feels awkward after reading it, English isn't my first language.
+:PROPERTIES:
+:Author: splitz78
+:Score: 12
+:DateUnix: 1467950166.0
+:DateShort: 2016-Jul-08
+:END:
+
+
+** The large cover photos are very distracting. Decrease the dimensions of cover photos and add more stories per page.
+:PROPERTIES:
+:Author: klackerz
+:Score: 13
+:DateUnix: 1467958510.0
+:DateShort: 2016-Jul-08
+:END:
+
+*** I agree. When more entries are added it's going to be very annoying clicking through all those pages.
+:PROPERTIES:
+:Author: torystory
+:Score: 6
+:DateUnix: 1467969497.0
+:DateShort: 2016-Jul-08
+:END:
+
+
+** A few things I noticed:
+
+- There's no word count when scrolling through stories
+- There's no chapter count when scrolling through stories
+- No information on main character when scrolling through stories
+- When I went to add my fic, there was multiple "Harry Potter" options. They all seemed to default to the same group but it seems to be a bug.
+- when copying my chapters into the doc manager, if I don't hit spacebar or enter, it pastes my chapter in reverse, with my last paragraph first and my title at the bottom.
+:PROPERTIES:
+:Author: Faeriniel
+:Score: 9
+:DateUnix: 1467985646.0
+:DateShort: 2016-Jul-08
+:END:
+
+
+** AO3 already does that. Seriously.
+:PROPERTIES:
+:Author: Karinta
+:Score: 12
+:DateUnix: 1467992953.0
+:DateShort: 2016-Jul-08
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 7
+:DateUnix: 1467959487.0
+:DateShort: 2016-Jul-08
+:END:
+
+*** On the main page, click new. When the window shows up select new chapter, it defaults to new story. Then below that select which story the new chapter belongs to.
+
+I just posted my story and three chapters on top, they system is rather elegant once you know what to do.
+:PROPERTIES:
+:Author: Faeriniel
+:Score: 3
+:DateUnix: 1467985203.0
+:DateShort: 2016-Jul-08
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1467986455.0
+:DateShort: 2016-Jul-08
+:END:
+
+***** I did the same thing until I clicked on new on a whim.
+:PROPERTIES:
+:Author: Faeriniel
+:Score: 1
+:DateUnix: 1467987055.0
+:DateShort: 2016-Jul-08
+:END:
+
+
+** Can we cross-post fics from another website?
+:PROPERTIES:
+:Author: perfectauthentic
+:Score: 5
+:DateUnix: 1467949895.0
+:DateShort: 2016-Jul-08
+:END:
+
+*** [deleted]
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1467955734.0
+:DateShort: 2016-Jul-08
+:END:
+
+**** You must provide a title image. This is enough work that it will probably cut down on low-effort stories...except for the authors who realize they can just post fifty stories all with the same image.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1467956059.0
+:DateShort: 2016-Jul-08
+:END:
+
+
+** I just signed up and published a story. A few things:\\
+* it's weird you don't have any ways to classify your story, how will readers find a story they feel like reading if they can't filter?\\
+* I don't like the way the description of the story sits really close to the real story, it almost seems like it's a part of my text. * Also, to be really honest, ads don's usually bother me that much whilst reading. The people that are bothered by them will have installed an ad blocker anyway, so why go through so much trouble to go adfree?\\
+Apart from this, I like the site, it looks pretty nice.
+:PROPERTIES:
+:Author: gebruikers_maan
+:Score: 3
+:DateUnix: 1467998451.0
+:DateShort: 2016-Jul-08
+:END:
+
+
+** I think I signed up like a year ago for this!
+:PROPERTIES:
+:Author: femmewitch
+:Score: 2
+:DateUnix: 1467949923.0
+:DateShort: 2016-Jul-08
+:END:
+
+*** You probably did they originally posted about launching last October. Then November. Then again in April though at least it opened in beta that time. Also I've sent several emails to these guys with questions that were simply ignored. I don't have huge hopes of them being great on customer service or responsiveness.
+:PROPERTIES:
+:Author: Judy-Lee
+:Score: 3
+:DateUnix: 1468031680.0
+:DateShort: 2016-Jul-09
+:END:
+
+**** lol the username I reserved wasn't reserved because I was able to register the account that I created with it haha (with a different email than before too!)
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1469913493.0
+:DateShort: 2016-Jul-31
+:END:
+
+***** I had suspected that would happen and didn't wait to reserve as soon as it went to Beta I signed up.
+:PROPERTIES:
+:Author: Judy-Lee
+:Score: 1
+:DateUnix: 1469926505.0
+:DateShort: 2016-Jul-31
+:END:
+
+
+** Gonna sign up because I'm intrigued but what is the difference going to be from this and Fanfiction.net ? I've thoroughly enjoyed FFN so I'm interested to see what improvements would be done to complete with the existing site.
+:PROPERTIES:
+:Author: HelloBeautifulChild
+:Score: 1
+:DateUnix: 1467992421.0
+:DateShort: 2016-Jul-08
+:END:
+
+
+** Got Hobbit as a username, whoop!
+:PROPERTIES:
+:Author: Hobbitcraftlol
+:Score: 1
+:DateUnix: 1468008733.0
+:DateShort: 2016-Jul-09
+:END:

@@ -1,0 +1,110 @@
+#+TITLE: Discussion Is ff.net safe now?
+
+* Discussion Is ff.net safe now?
+:PROPERTIES:
+:Author: listen_algaib
+:Score: 13
+:DateUnix: 1541133096.0
+:DateShort: 2018-Nov-02
+:END:
+I'd read a bit of stay away last week, what's the deal?
+
+
+** Yes, ffn is safe now.
+
+Basically, there was a slight hole in the safety that allowed a dick to slip in some Javascript into people's profiles, that let shit happen. It's been plugged (hole is no longer there) and they are doing a full safety review of the site.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 16
+:DateUnix: 1541133693.0
+:DateShort: 2018-Nov-02
+:END:
+
+*** Thanks
+:PROPERTIES:
+:Author: listen_algaib
+:Score: 1
+:DateUnix: 1541156881.0
+:DateShort: 2018-Nov-02
+:END:
+
+
+** .... it never stopped being safe, the issue was with some trash on profiles and it merely added the trash to your own if you were logged in, using the browser, and visited them. You could have kept reading without issue as long as you did not do all of those three things.
+:PROPERTIES:
+:Author: Edocsiru
+:Score: 4
+:DateUnix: 1541153670.0
+:DateShort: 2018-Nov-02
+:END:
+
+*** A security issue like the one that was around is /not safe/. Just because the way it was used was harmless from a security point of view didn't stop anyone from using more malicious code.
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 24
+:DateUnix: 1541156207.0
+:DateShort: 2018-Nov-02
+:END:
+
+**** Basicslly three bad things could have happened:
+
+- Account taken over
+- Cryptominers
+- Bad Ads on profile-pages
+
+It's not really that big - it was an XSS (albeit a persistent XSS) on a non-critical website, there are way worse things to happen in security.
+:PROPERTIES:
+:Author: fflai
+:Score: 11
+:DateUnix: 1541157480.0
+:DateShort: 2018-Nov-02
+:END:
+
+
+**** It was safe as long as you followed some simple rules. At worse you would just disable scripts on ffnet or use the app, but there was no reason to stop using ffnet and bellow everywhere how unsafe it was.
+
+Instead of fear mongering you should explain how to prevent it happening to others.
+:PROPERTIES:
+:Author: Edocsiru
+:Score: -2
+:DateUnix: 1541160867.0
+:DateShort: 2018-Nov-02
+:END:
+
+***** I wasn't intentionally fear-mongering -- the security issue is obviously gone at this point.
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 8
+:DateUnix: 1541160909.0
+:DateShort: 2018-Nov-02
+:END:
+
+****** I agree with you. Just because something bad didn't happen THIS time doesn't mean that something bad couldn't have. It could've been very offensive or inappropriate language put on the profiles of minors or just exposing them to it. It could've been a virus that went onto a person's computer and did its real damage there.
+
+While this isn't a site where things like credit cards or bank numbers are floating around, for all we know this could've been a test before going to a bigger site.
+
+Brushing theses sort of things off is what leads to bigger things happening. By acknowledging that it happened, and doing something to fix it, other instances can be prevented.
+
+That isn't “fear-mongerig.” That's being cautious.
+:PROPERTIES:
+:Author: UnalteredCube
+:Score: 8
+:DateUnix: 1541168702.0
+:DateShort: 2018-Nov-02
+:END:
+
+
+****** Well, my apologies, some people certainly did as can be seen by the OP.
+:PROPERTIES:
+:Author: Edocsiru
+:Score: -5
+:DateUnix: 1541164463.0
+:DateShort: 2018-Nov-02
+:END:
+
+******* Please explain how saying thank you conveys that you think someone is “fear-mongering”
+:PROPERTIES:
+:Author: UnalteredCube
+:Score: 3
+:DateUnix: 1541168797.0
+:DateShort: 2018-Nov-02
+:END:

@@ -1,0 +1,188 @@
+#+TITLE: FanfictionBot activity over the years + Update on HPFanfiction Recommender
+
+* FanfictionBot activity over the years + Update on HPFanfiction Recommender
+:PROPERTIES:
+:Author: dJones176
+:Score: 45
+:DateUnix: 1562945437.0
+:DateShort: 2019-Jul-12
+:FlairText: Misc
+:END:
+Hello everyone,
+
+Three days ago, I posted about [[https://hpffrec.hackesta.org/][HPFanfiction Recommender]]. With the constant feedback I received, I made many updates to it. I added information about the update in the [[https://www.reddit.com/r/HPfanfiction/comments/camzsb/hpfanfiction_recommender_tool_website/][original post]], but wasn't sure if everyone saw it.
+
+The updates I added were:
+
+- Options to change items displayed per page
+- Added Metadata (words, chapters, genre, etc) for around 56% (7k+) stories. It refreshes data for a story every time it is mentioned.
+- Added options to filter the lists (word length, genre, completion status and rating)
+- Increased size of Top Stories from 100 to 1000.
+- Auto Refresh - once a day
+
+There is also an updates section on the page that will list all the updates I am adding. It will be removed once a no constant improving stage is reached.
+
+Link to HPFanfiction Recommender: [[https://hpffrec.hackesta.org/]]
+
+​
+
+The next step was to find the proper time to refresh the page each day. For that, I did some analysis on the data and thought you guys might be interested in the results (Also, I wasn't sure if making a simple updates post was against the rules or not).
+
+​
+
+Here are the images
+
+[[https://imgur.com/gallery/QSzBR8w][IMGUR Album Link]]
+
+​
+
+​*Why can't I post images??*
+
+​
+
+From the data, I think 17:00 UTC would be the best time to refresh the page. If my hosting allows, I might add more refreshes per day.
+
+P.S, I just saw the Read / Recommendations section on the sidebar. I think my tool deserves a mention.
+
+Blog post:
+
+[[https://blog.haideralipunjabi.com/posts/making-hpfanfiction-recommender/]]
+
+
+** Very impressive!
+
+As for your “all time” stats, what is the beginning date?
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 5
+:DateUnix: 1562946240.0
+:DateShort: 2019-Jul-12
+:END:
+
+*** Thursday, June 11, 2015 3:35:35 PM
+:PROPERTIES:
+:Author: dJones176
+:Score: 4
+:DateUnix: 1562947020.0
+:DateShort: 2019-Jul-12
+:END:
+
+**** Should be Jan 1, 1970. :P
+:PROPERTIES:
+:Author: Clegko
+:Score: 3
+:DateUnix: 1562947793.0
+:DateShort: 2019-Jul-12
+:END:
+
+***** If only reddit was around back then?
+:PROPERTIES:
+:Author: DearDeathDay
+:Score: 3
+:DateUnix: 1562962984.0
+:DateShort: 2019-Jul-13
+:END:
+
+****** As far as I'm concerned, the universe started on that day.
+:PROPERTIES:
+:Author: Clegko
+:Score: 4
+:DateUnix: 1562973121.0
+:DateShort: 2019-Jul-13
+:END:
+
+
+** First of all, it's great work you're doing. I am quite thankful really.
+
+Also it seems like pairing tags in Fanfiction.Net are not showing up on the recommender. For example the fic The Legacy shows Ron W. Hermione G. as its characters when it's actually [Harry P., Daphne G.] Ron W. Hermione G.
+:PROPERTIES:
+:Author: SurbhitSrivastava
+:Score: 2
+:DateUnix: 1562981336.0
+:DateShort: 2019-Jul-13
+:END:
+
+*** Thanks for informing me. I fixed it. At first I thought nmy scraping code had some issues, although it shouldn't. After checking, the issue was due to the bot using < , > to enclose pairings. HTML treated it as a tag instead of text and made it disappear
+:PROPERTIES:
+:Author: dJones176
+:Score: 3
+:DateUnix: 1563007377.0
+:DateShort: 2019-Jul-13
+:END:
+
+
+** Very nifty!
+
+How much historical data do you have, and how detailed is that data? For example, if I wanted to see the trend in recommendations of a /specific/ fic, would I be able to do that?
+:PROPERTIES:
+:Author: kenneth1221
+:Score: 1
+:DateUnix: 1562967301.0
+:DateShort: 2019-Jul-13
+:END:
+
+*** I have data from 11 June 2015
+:PROPERTIES:
+:Author: dJones176
+:Score: 1
+:DateUnix: 1562974079.0
+:DateShort: 2019-Jul-13
+:END:
+
+
+** So i do love this! I had one request. Could we get the option to sort by website? I personally really hate reading on fanfiction.net for the most part and I think it would be really cool to be able to filter for whatever website I'm specifically looking at
+:PROPERTIES:
+:Author: TGotAReddit
+:Score: 1
+:DateUnix: 1562984886.0
+:DateShort: 2019-Jul-13
+:END:
+
+*** I can do that, but I don't think it would be that great. I have data of 68.6k FF stories, and only 6.9k AO3 stories. I will add that filter but there will be very less number of stories for other sites
+:PROPERTIES:
+:Author: dJones176
+:Score: 1
+:DateUnix: 1562986381.0
+:DateShort: 2019-Jul-13
+:END:
+
+**** Is it just that people rec ao3 fics less often, or is it that you just dont have the data on them?
+:PROPERTIES:
+:Author: TGotAReddit
+:Score: 1
+:DateUnix: 1562990634.0
+:DateShort: 2019-Jul-13
+:END:
+
+***** They recommended it less often. Fiction Press and some site called HPFFA have even less recommendations. You might hate it, but others love fanfiction.net apparently
+:PROPERTIES:
+:Author: dJones176
+:Score: 1
+:DateUnix: 1562991436.0
+:DateShort: 2019-Jul-13
+:END:
+
+****** there is more content there, of course people recommend it more. Plus its where you find first when you google fanfiction, so it just makes sense that there are more users just from there alone even. Not my problem if people wanna use the site, even if its the worst thing I've ever tried using online except for maybe wattpad
+:PROPERTIES:
+:Author: TGotAReddit
+:Score: 1
+:DateUnix: 1562994179.0
+:DateShort: 2019-Jul-13
+:END:
+
+
+*** I have added the website filter
+:PROPERTIES:
+:Author: dJones176
+:Score: 1
+:DateUnix: 1563004842.0
+:DateShort: 2019-Jul-13
+:END:
+
+**** <3
+:PROPERTIES:
+:Author: TGotAReddit
+:Score: 1
+:DateUnix: 1563011074.0
+:DateShort: 2019-Jul-13
+:END:

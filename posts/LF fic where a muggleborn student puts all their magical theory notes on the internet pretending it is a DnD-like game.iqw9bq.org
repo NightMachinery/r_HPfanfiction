@@ -1,0 +1,291 @@
+#+TITLE: LF fic where a muggleborn student puts all their magical theory notes on the internet pretending it is a DnD-like game
+
+* LF fic where a muggleborn student puts all their magical theory notes on the internet pretending it is a DnD-like game
+:PROPERTIES:
+:Author: blackhole_124
+:Score: 88
+:DateUnix: 1599848853.0
+:DateShort: 2020-Sep-11
+:FlairText: What's That Fic?
+:END:
+I know the student went to some forums where the users helped each other refine their worlds and games and what not. Then the student said something like, Hey guys this is my new magic system for the game I created, how would I go about creating a spell with these constraints?
+
+The kid basically put everything they learned in Hogwarts on the internet and some randos looked at it all, and actually helped the kid invent new spells/potions that actually worked in real life.
+
+I think it was just a one shot, and am reasonably sure it ended with a visit from the MoM for breaking the statute of secrecy.
+
+I am also 30% sure that fic actually came from a prompt on this subreddit, but couldn't find that either. :(
+
+
+** Oh hey that's mine! Glad you liked it enough to reread.
+
+I had a couple other chapters planned out but work got busy and I just let it go. I'll have to take a look at it again to see if enough of the original idea and creativity is bouncing around in my skull to put out another chapter or two.
+:PROPERTIES:
+:Author: Kingsonne
+:Score: 27
+:DateUnix: 1599883049.0
+:DateShort: 2020-Sep-12
+:END:
+
+*** while I refuse to create an account on FFN or AO3 to manage the series I follow... (right now I use a botched together javascript, and bookmarks)
+
+I feel I should say that this one was a really fun read, and I added it to the bookmarks :P
+:PROPERTIES:
+:Author: Erska
+:Score: 5
+:DateUnix: 1599906184.0
+:DateShort: 2020-Sep-12
+:END:
+
+**** Why not use Calibre? Press a button and it'll check everything for updates.
+
+Fanficfare is the main plugin, and it'll handle AO3 style series' with the epubmerge plugin.
+
+Takes a while to get the most out of it, but it's an extremely powerful library program and 100% free.
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 2
+:DateUnix: 1599929615.0
+:DateShort: 2020-Sep-12
+:END:
+
+***** I use Calibre+FanFicFare when I find new longer series.
+
+The biggest reason for me not using it as my main portal is that I dislike it's search or rather it's lack of 'drop this fic... and hide it'
+
+I've tried the =Reading List= plugin, and while it does tag fics... I haven't found a way to easily 'show only read/new/dropped/etc'. I've got around 400+ fics that I got the status stored for. And well migration would be a hassle, the user experience I want seems to not be available on Calibre and when I tried 'Update' it seemed to download the whole fic again rather than just the missing chapters... so yea the FanFicFare plugin is wonderful imo, when i wish to download a whole fic for TTS conversion
+:PROPERTIES:
+:Author: Erska
+:Score: 2
+:DateUnix: 1599968916.0
+:DateShort: 2020-Sep-13
+:END:
+
+****** Off the top of my head, a simple way to manage it would be with tags. You can instruct Fanficfare to always add a specific tag to new fics, then use the virtual library function to filter for specific tags - this will put a set of tabs across the top of the program under the search bar.
+
+I have several tabs: Read, Unread, Complete, In-Progress, Abandoned, Anthologies (where it looks for those specific tags) and Unsorted (where it looks for custom genre tags - if they're missing and I need to add some then the story will show up here). For example, the 'search expression' for the "complete" tab looks like this:
+
+#+begin_example
+  tags:"=Completed"
+#+end_example
+
+and "unsorted" looks like this:
+
+#+begin_example
+  #genre:false    
+#+end_example
+
+To add a tag to all newly download stories, open up personal.ini and add the following to it somewhere:
+
+#+begin_example
+  extratags_label:Unread
+#+end_example
+
+I also have custom columns for genre/the main element of the story, one for tropes found in the story and one for pairings (or lack thereof). A fic that's been "sorted" would have only Read/Unread and Complete/In-Progress/Abandoned tags, and everything else is categorized by the custom columns.
+
+It does download the whole fic again, but... I'm not sure why that's a problem? The in-program reader doesn't seem to have any issues remembering where you were (but I also don't use TTS so).
+
+I agree with you, however: migration would be a bitch with that many saved stories.
+
+Edit -
+
+It seems to me that the simplest way to try this method out would be to add a custom column called "status" or whatever you like and place Read/Unread/Dropped there. You can still use the tabs / virtual library to show only stories that contain whatever filter you choose (so /only/ unread fics or what have you) - and then you just change the tag when you drop it or finish it. Especially if you keep the default tags from ffn and ao3 (especially ao3!). If you don't want to use virtual libraries, you can also add the custom column to the sidebar underneath authors/series/formats/tags and all that. The tabs are pretty darn handy though, since once you click on it you'll /only/ see those stories that meet the criteria which makes filtering it further using tags easier. :D
+
+Edit 2 -
+
+The column type "text, but with a fixed set of permitted values" will give you a drop down box for ease of switching.
+
+#+begin_example
+  Values: Read,Unread,Dropped
+  Colors: blue,green,red
+#+end_example
+
+That will give those three options (plus a blank one) and colour the text the corresponding colour. You can also just leave the colours blank... I just wanted to see what would happen lol. It's neat, I didn't realize until now you could get a drop down box.
+
+Adding a custom column is done in Preferences > Add your own Columns.
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 2
+:DateUnix: 1599970422.0
+:DateShort: 2020-Sep-13
+:END:
+
+******* thanks... this might fix stuff to a level that I can use it.
+:PROPERTIES:
+:Author: Erska
+:Score: 1
+:DateUnix: 1599978188.0
+:DateShort: 2020-Sep-13
+:END:
+
+
+*** It's a ten out of ten for me plot wise, and I don't say that often for one or two shots
+:PROPERTIES:
+:Author: ahugefanfirl
+:Score: 3
+:DateUnix: 1599897350.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+*** What you have so far is brilliant. I do hope you feel up to adding another couple of chapters.
+:PROPERTIES:
+:Author: Total2Blue
+:Score: 3
+:DateUnix: 1599897517.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+*** Joining the chorus to say that it was a good read and would love to see it expanded.
+:PROPERTIES:
+:Author: ParanoidDrone
+:Score: 3
+:DateUnix: 1599931845.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+*** It is beautiful.
+:PROPERTIES:
+:Author: DynMaxBlaze
+:Score: 2
+:DateUnix: 1599897141.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+*** I absolutely love this fic. Please finish!!
+:PROPERTIES:
+:Author: BookwormHPPJ
+:Score: 2
+:DateUnix: 1599914336.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+*** Thank you for your contribution. It was a fun read and i would like to read more. Would spells that are more esotaric stop being so easily calculable like the killing curse and patronous? what about occulamancy. Mind/Soul arts?
+:PROPERTIES:
+:Author: I_Hump_Rainbowz
+:Score: 2
+:DateUnix: 1599931672.0
+:DateShort: 2020-Sep-12
+:END:
+
+**** I was going more... I can't remember what the style of magic is called... but the style where everything follows rules even if you don't know the rules. Esoteric spells would be included in the system. Emotion is harder to quantify than specific movements but thats why the RPG World Worldbuilding team is a diverse cast. They aren't all Physicists or scientists well versed in the scientific method trying to crack the code of what exactly qualifies as a sufficiently "happy memory" they are fantasy buffs, role players, world builders, min-maxers, students, professionals etc; each bringing their perspective to the problem.
+
+While a scientist might get hung up on specific qualifications, and a wizard might just accept that the spell is described as requiring a happy memory at face value, another person might look at the "system" and a list of proven happy memories and propose that memories involving loved ones, family, chosen family, and connections are the most successful and powerful. Something that could then be tested and either confirmed or falsified by a wizard.
+
+Basically, some things might be best approached from a calculated standpoint, others from a pattern recognition one, more from a retrospective examination, and still others from just looking at things with different perspectives to see gaps or flaws.
+:PROPERTIES:
+:Author: Kingsonne
+:Score: 2
+:DateUnix: 1599932514.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+** Should be this one:
+
+[[https://www.fanfiction.net/s/13516262][An Exercise in Worldbuilding]]
+
+linkffn(13516262)
+:PROPERTIES:
+:Author: Cyb0rgGaming_DE
+:Score: 27
+:DateUnix: 1599859826.0
+:DateShort: 2020-Sep-12
+:END:
+
+*** [[https://www.fanfiction.net/s/13516262/1/][*/An Exercise in Worldbuilding/*]] by [[https://www.fanfiction.net/u/7909712/Kingsonne][/Kingsonne/]]
+
+#+begin_quote
+  Muggleborn Ravenclaw Terry Cline has enjoyed worldbuilding ever since he used to stay up late to watch his dad DM for a group playing in his homebrew world. After his third year he created a post on a worldbuilding forum describing the magical world, and asking for peoples thoughts. The reaction he got was greater than he expected, and things might be spiraling out of his control.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{2} ^{*|*} ^{/Words/:} ^{5,582} ^{*|*} ^{/Reviews/:} ^{14} ^{*|*} ^{/Favs/:} ^{38} ^{*|*} ^{/Follows/:} ^{81} ^{*|*} ^{/Updated/:} ^{3/10} ^{*|*} ^{/Published/:} ^{3/5} ^{*|*} ^{/id/:} ^{13516262} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Fantasy} ^{*|*} ^{/Characters/:} ^{OC} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13516262&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13516262&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/FanfictionBot/reddit-ffn-bot/wiki/Usage][Usage]] | [[https://www.reddit.com/message/compose?to=tusing][Contact]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 15
+:DateUnix: 1599859845.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+*** That's the one! Thank you so much!
+:PROPERTIES:
+:Author: blackhole_124
+:Score: 7
+:DateUnix: 1599864124.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+*** Just favorited this one. Even though it's super short, it's very intriguing.
+:PROPERTIES:
+:Author: ahugefanfirl
+:Score: 3
+:DateUnix: 1599897271.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+** It's not the same, but in the same vein; in [[https://www.fanfiction.net/s/9264843/1/Harry-Tano][Harry Tano]], I believe Harry and Ahsoka prepare the muggle world to discover the greater galaxy by producing and marketing a Star Wars Roleplaying Game with accurate race and culture information.
+:PROPERTIES:
+:Author: Avaday_Daydream
+:Score: 10
+:DateUnix: 1599865376.0
+:DateShort: 2020-Sep-12
+:END:
+
+*** I don't know much about Star Wars, sorry :( Would you say I could read it even without knowing much about the universe?
+:PROPERTIES:
+:Author: blackhole_124
+:Score: 6
+:DateUnix: 1599865595.0
+:DateShort: 2020-Sep-12
+:END:
+
+**** I think so, all of the main plot takes place on Earth without contact from the greater galactic community; it starts with Ahsoka getting displaced halfway across the galaxy by a mysterious artifact and ending up in an unexplored region of the galaxy which contains Earth, see, so for pretty much the entire story she's the only Star Wars character.
+:PROPERTIES:
+:Author: Avaday_Daydream
+:Score: 6
+:DateUnix: 1599869934.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+** This is... Woah...
+
+IF he ever got caught by the magical world, they wouldn't have anything to worry about. In fact, they could keep feeding it. It's like how Stargate SG1 had an in-show show called Wormhole X-Treme! in it. They let it continue, as it gave them plausible deniability if the secret ever got out by pointing at the TV show.
+
+Besides, the Unspeakables would most definitely keep that going. From what I saw, the theorycrafting is decades ahead of what they have now.
+:PROPERTIES:
+:Author: Nyanmaru_San
+:Score: 6
+:DateUnix: 1599894033.0
+:DateShort: 2020-Sep-12
+:END:
+
+*** I've always really wanted to read a story where the harry potter world is real but the story is not, with basically this premise. Like, the MoM realized that with advances in muggle tech it was gonna get pretty hard to hide the magical world, so they had a writing contest with the intention of passing off any slips caught on camera as die hard fans of the resulting books with particularly good special effects. A contest which JKR won, and then the books were way more successful than they expected.
+
+The biggest problem was that this requires basically an entire cast of OCs unless it's written as a crossover.
+:PROPERTIES:
+:Author: elephantasmagoric
+:Score: 5
+:DateUnix: 1599896676.0
+:DateShort: 2020-Sep-12
+:END:
+
+
+** That sounds amazing! I hope you find it!
+:PROPERTIES:
+:Author: Glitched-Quill
+:Score: 6
+:DateUnix: 1599855416.0
+:DateShort: 2020-Sep-12
+:END:

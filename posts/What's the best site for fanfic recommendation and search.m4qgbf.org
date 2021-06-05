@@ -1,0 +1,66 @@
+#+TITLE: What's the best site for fanfic recommendation and search
+
+* What's the best site for fanfic recommendation and search
+:PROPERTIES:
+:Author: Unit-Superb
+:Score: 1
+:DateUnix: 1615706392.0
+:DateShort: 2021-Mar-14
+:FlairText: Discussion
+:END:
+I've tried search on fanfic.net and ao3 but they weren't that good, when compared to sites like DLP scryer ,so are there any more sites like that???
+
+
+** I search by google a lot of times. There's a trick to it that can generally help you get a better search on those sites than the internal search bars provide. It's not perfect, but it's another option.
+
+If you search something in google (or most other search engines) that you put in speech marks, it'll search for that exact phrase on any pages you're looking at.
+
+eg. "Harry dances like a drunken monkey" will look for any pages that have that exact phrase on.
+
+If you follow that with the 'site:' command, it'll search a specific site for that specific thing.
+
+eg. "Harry dances like a drunken monkey" site:reddit.com[[/r/HPfanfiction]]
+
+That'll search this subreddit for any instances of that phrase.
+
+If you look on most fanfic site URLs, they generally take a similar format: WebsiteName dot Thing slash Something-that-tells-us-it's-a-story slash Story ID code.
+
+AO3 is [[https://archiveofourown.org/works]]
+
+FFNet is [[https://www.fanfiction.net/s]]
+
+So, if you search:
+
+"Honks" Harry Potter fanfiction site:fanfiction.net/s/
+
+It'll look for any stories on FFNet that have the phrase 'Honks' involved.
+
+Might help.
+
+I also look over the Dark Lord Potter Forum for fanfic recs occasionally. Mostly it's recommendations here, and on author pages/by authors in stories I like to read.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 3
+:DateUnix: 1615721808.0
+:DateShort: 2021-Mar-14
+:END:
+
+
+** Tbh I get most of my recommendations from this subreddit. I also read what my favourite authors have favourited/bookmarked.
+
+It can help to sort your ao3 search by kudos, but some of my very favourite fics have a shockingly low number of likes/ kudos. They definitely need more love.
+:PROPERTIES:
+:Author: jacdot
+:Score: 2
+:DateUnix: 1615719944.0
+:DateShort: 2021-Mar-14
+:END:
+
+
+** There's the github recommendation bot created by one of the mods here
+:PROPERTIES:
+:Author: browtfiwasboredokai
+:Score: 1
+:DateUnix: 1615730279.0
+:DateShort: 2021-Mar-14
+:END:

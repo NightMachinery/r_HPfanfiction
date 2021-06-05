@@ -1,0 +1,672 @@
+#+TITLE: I spent the past 3 months building Goodreads for fanfiction - feedback wanted!
+
+* I spent the past 3 months building Goodreads for fanfiction - feedback wanted!
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 328
+:DateUnix: 1543773985.0
+:DateShort: 2018-Dec-02
+:FlairText: Self-Promotion
+:END:
+Hey [[/r/HPfanfiction][r/HPfanfiction]] - here's my side project and labor of love for the past 3 months - [[https://ficdb.com/][https://ficdb.com]]. I've posted on a few other subreddits, but I think it's time to get some perspective from a wider audience!
+
+​
+
+Elevator pitch - Ficdb is Goodreads for webfiction... a platform to discover, review, and share fanfics and web serials worth reading. Hunting for quality webfiction sucks, but Ficdb can help make it suck less.
+
+Quick tour of Ficdb:
+
+- [[https://ficdb.com/][Home Page]] - search for and exclude fanfics by title, author, genre, main character, relationship, and completion status (click additional filters for power user features!)
+- [[https://ficdb.com/reviews][Reviews Index]] - filter and sort reviews by rating and helpfulness - use the <3 upvotes to reward quality reviews
+- [[https://ficdb.com/fandoms][Fandoms]] - view existing fandoms - more fandoms are being added daily, but the focus is on Harry Potter and Worm fanfiction to help Ficdb get a critical mass of users
+- [[https://ficdb.com/genres][Genres]] - view existing genres - subject to change, would love additional ideas on building a more complete genre taxonomy esp. specific to Harry Potter fanfiction
+- [[https://ficdb.com/faq][FAQ Page]] - rules of engagement
+- [[https://ficdb.com/fanfics/new][New Fanfic]] - submit the fanfics you think are noteworthy - requires mod approval before being visible to the world
+
+Why I built Ficdb:
+
+- fanfiction ecosystem is fragmented across 10 different platforms - wanted a unifying platform to help readers navigate new fandoms and be notified when a fanfic updated
+- no quantitative reviews - 5-star reviews help filter out the wheat from the chaff
+- an excuse to play around with Elixir, a fantastic programming language!
+
+Why you should join Ficdb:
+
+- be an early adopter and help guide Ficdb's future development
+- spread the gospel of your favorite fanfics to a wider audience
+- get a dopamine rush when someone <3's your well-written reviews
+- help me get a critical mass of reviews, so I can build a machine-learning powered fanfic recommendation engine
+
+I'd love to hear feedback here or on the [[https://discord.gg/uRrEHfV][Discord channel]]. Thx!
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 42
+:DateUnix: 1543777275.0
+:DateShort: 2018-Dec-02
+:END:
+
+*** Good call on Drunk! I'll remove that.
+
+​
+
+I just edited the error messages to be a bit clearer - good call.
+
+​
+
+Mobile is WIP - way better than 2 weeks ago, going to loop back in UX.
+
+​
+
+Right now, top rated is a dumb filter with no weighing - one 5 star review beats 20 4.9 star average review. Once the dust settles, this is a priority.
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 28
+:DateUnix: 1543781674.0
+:DateShort: 2018-Dec-02
+:END:
+
+
+** If this picks up, oh man. What a game changer. You're doing the lord's work.
+:PROPERTIES:
+:Author: nuclearnat
+:Score: 66
+:DateUnix: 1543780577.0
+:DateShort: 2018-Dec-02
+:END:
+
+*** bless ye!
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 7
+:DateUnix: 1543837745.0
+:DateShort: 2018-Dec-03
+:END:
+
+
+** I love the idea of this. I currently keep fanfic reviews for myself in an evernote, so I have a lot of stuff I can port over.
+
+One bug I've noticed so far: if you go to submit a review and haven't put in a star rating, it won't respond at all when you click "submit" (I would expect that it would give an error message).
+
+edit: I also think that when you're adding a fic you should be able to add multiple main characters.
+:PROPERTIES:
+:Author: anathea
+:Score: 18
+:DateUnix: 1543780390.0
+:DateShort: 2018-Dec-02
+:END:
+
+*** Necessary evil there to prevent AO3 tag soup :(
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 11
+:DateUnix: 1543781547.0
+:DateShort: 2018-Dec-02
+:END:
+
+**** Then raise the cap to four like FFN does. And no one complains about tag spam there (outside of bad descriptions).
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 21
+:DateUnix: 1543782685.0
+:DateShort: 2018-Dec-03
+:END:
+
+***** Aight, I'm more open to this idea. Talked to the mods and we'll get in the coding queue this week.
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 1
+:DateUnix: 1543877862.0
+:DateShort: 2018-Dec-04
+:END:
+
+
+** Also you should advertise this on some of the forums on ff.net.
+:PROPERTIES:
+:Author: anathea
+:Score: 15
+:DateUnix: 1543781251.0
+:DateShort: 2018-Dec-02
+:END:
+
+
+** Make sure you don't have [[https://xkcd.com/927/][this]] scenario occur.
+:PROPERTIES:
+:Score: 15
+:DateUnix: 1543794248.0
+:DateShort: 2018-Dec-03
+:END:
+
+
+** Very well designed. I love the fact that the "political" category has the head of Putin as a thumbnail
+:PROPERTIES:
+:Author: LucretiusCarus
+:Score: 11
+:DateUnix: 1543782413.0
+:DateShort: 2018-Dec-02
+:END:
+
+*** hah, i tried to include a few goodines along the way. the "rational" genre is my favorite use of that meme!
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 5
+:DateUnix: 1543789274.0
+:DateShort: 2018-Dec-03
+:END:
+
+
+** I had to laugh. My sister used to work at Good Reads and the last time I flew out to visit we talked about if there was a market for a Good Reads for Fan Fiction when I was talking about the fics I've read.
+:PROPERTIES:
+:Author: VeraLapsa
+:Score: 10
+:DateUnix: 1543782719.0
+:DateShort: 2018-Dec-03
+:END:
+
+
+** A small suggestion. When you're trying to submit a fic, "Main Character" and "Primary Relationship" fields list all the characters of /every/ fandom on the site. For sake of clarity, perhaps it would be possible to only list characters of the fandoms you've selected.
+:PROPERTIES:
+:Author: rek-lama
+:Score: 9
+:DateUnix: 1543783531.0
+:DateShort: 2018-Dec-03
+:END:
+
+*** great suggestion - it's getting tedious to find the right character! ill see if I can implement by tomorrow
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 7
+:DateUnix: 1543784016.0
+:DateShort: 2018-Dec-03
+:END:
+
+**** I implemented it! Check and let me know if it works for you
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 9
+:DateUnix: 1543788904.0
+:DateShort: 2018-Dec-03
+:END:
+
+***** [[https://i.imgur.com/PsbfSgc.png][Doesn't seem to be]]
+:PROPERTIES:
+:Author: rek-lama
+:Score: 2
+:DateUnix: 1543841878.0
+:DateShort: 2018-Dec-03
+:END:
+
+****** What browser are you using @rek-lama? I've heard reports that Chromium and Brave aren't working for that feature...
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 1
+:DateUnix: 1544005070.0
+:DateShort: 2018-Dec-05
+:END:
+
+******* I tried Firefox and Edge. [[https://i.imgur.com/lIFn2Sr.png][Console shows an error]] when I add a fandom, not sure if it's related.
+:PROPERTIES:
+:Author: rek-lama
+:Score: 1
+:DateUnix: 1544014422.0
+:DateShort: 2018-Dec-05
+:END:
+
+
+**** Something else I'd be curious if it can be implemented is community tag voting so major tags the uploader missed could be added or even removed if the uploader was overzealous in tag spamming like what happens on regular at AO3.
+:PROPERTIES:
+:Author: Boscolt
+:Score: 1
+:DateUnix: 1544691912.0
+:DateShort: 2018-Dec-13
+:END:
+
+
+** I'm poking through now and am definitely interested! Even if I only end up using it to track my own reading, a database like this is a huge godsend for readers. I use Goodreads heavily so this for fanfic will be great.
+:PROPERTIES:
+:Author: cparen3
+:Score: 8
+:DateUnix: 1543779717.0
+:DateShort: 2018-Dec-02
+:END:
+
+
+** I was always thinking that there needs to be a centralized system for fanfic especially since archives can shut down or fics can get deleted. Often when I read a good doc I Google it to see if it's discussed anywhere. Typically I see this sub/DLP/tumblr/TVTropes. It would be amazing to peruse throughly well written reviews to see if a fic is worth it or not. I definitely want to add to this when I have free time in two weeks!
+
+One thing I noticed that I would change is that in the rating system 1 is at the top, 5 is at the bottom. I would switch the order so that the rating bar is displayed best to worst.
+:PROPERTIES:
+:Author: _awesaum_
+:Score: 7
+:DateUnix: 1543815286.0
+:DateShort: 2018-Dec-03
+:END:
+
+*** I switched it!
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 3
+:DateUnix: 1543837790.0
+:DateShort: 2018-Dec-03
+:END:
+
+
+** Great idea, and I hope it gets big!
+
+​
+
+I found that on first sight the home page is kind of confusing, mainly because of the lack of clear separation between the different link categories (you seem to have a top row for major pages, a second indicating the path to the page you are on, a third for filters, a fourth mostly for a few extra random links, and the remainder of the page for actually viewing). Because there are no horizontal lines/coloration differences separating the different rows, they kind of all jumble together, making it hard to see the hierarchy of the rows. I'm no graphic designer, and I don't know what the best fix is, but I'd recommend finding some way to separate out the different rows so its easy to see, for example, that the top two rows are page-wide, while the other rows only exist on the fanfic page.
+
+​
+
+Additionally, for some reason that second row (which shows /Fanfic or /Fandom, for example) doesn't show up on the review page but does on all the others. That could also be a source of confusion. Since it also doesn't seem to be changing in response to any of the pages except the topmost, I'm assuming that's mostly because it is a work in progress.
+:PROPERTIES:
+:Author: Arcindium
+:Score: 5
+:DateUnix: 1543792270.0
+:DateShort: 2018-Dec-03
+:END:
+
+
+** This looks super promising! I haven't added anything yet but will definitely do that at some point.
+
+For mobile, everything works perfectly fine for me by selecting Desktop Mode for now.
+
+One thought I had after looking around a bit, it seems like genres can only be added by the person who first added the fic, so whoever gets there first essentially decides on this. There's no process to add more later on or to up/downvote them for relevancy.
+
+This isn't so important for regular genres but as others have already pointed out the genre list currently includes items which should more accurately be called tropes/features/whatever. It's kind of restricting if only the first person can suggest which tags should be displayed for that story.
+
+But seriously, you've done an awesome job on this so far! Very excited to see where this is going :)
+:PROPERTIES:
+:Author: ChelseaDagger13
+:Score: 4
+:DateUnix: 1543791679.0
+:DateShort: 2018-Dec-03
+:END:
+
+
+** Okay, this is AWESOME!!! I'll check it out tomorrow, but congrats on a great idea!
+:PROPERTIES:
+:Author: lukedap
+:Score: 5
+:DateUnix: 1543805453.0
+:DateShort: 2018-Dec-03
+:END:
+
+
+** Oh is this the thing I saw on dlp a month or so ago? I didn't have time to look into it but it then but it sounds dope.
+:PROPERTIES:
+:Author: GravityMyGuy
+:Score: 3
+:DateUnix: 1543787915.0
+:DateShort: 2018-Dec-03
+:END:
+
+*** Si! It's grown quite a lot since then - DLP kinda jived with it kinda didnt :/
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 4
+:DateUnix: 1543788439.0
+:DateShort: 2018-Dec-03
+:END:
+
+
+** Good idea! But you should add subcategories for the different eras in the HP section (Golden Trio, Marauders, Riddle etc).
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1543788399.0
+:DateShort: 2018-Dec-03
+:END:
+
+*** convinced a mod to add them - check again later today!
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 3
+:DateUnix: 1543788805.0
+:DateShort: 2018-Dec-03
+:END:
+
+**** Thanks! Hopefully well also get sections such as “canon compliant” or “non-canon”. This website is a pretty cool idea. I wonder if we can hook it up to FanFiction.Net or something.
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1543792490.0
+:DateShort: 2018-Dec-03
+:END:
+
+***** Those tags were added! C:
+
+And a few relevant other fandom related ones.
+
+We also have canon compliant and AU tags!
+:PROPERTIES:
+:Author: UrbanWidow
+:Score: 3
+:DateUnix: 1543793368.0
+:DateShort: 2018-Dec-03
+:END:
+
+****** Yay /claps/
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1543793881.0
+:DateShort: 2018-Dec-03
+:END:
+
+
+** This is cool as hell! Thanks for sharing! Will contribute once finals are over!!
+:PROPERTIES:
+:Author: raggoats
+:Score: 2
+:DateUnix: 1543790384.0
+:DateShort: 2018-Dec-03
+:END:
+
+
+** I just made an account and am poking around -- you've done some really nice work here! My one suggestion so far would be if it was possible to tag up to three main characters, just to make it a little more specific.
+:PROPERTIES:
+:Author: Flye_Autumne
+:Score: 2
+:DateUnix: 1543806822.0
+:DateShort: 2018-Dec-03
+:END:
+
+*** yup yup, check again later this week for this feature
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 1
+:DateUnix: 1543878431.0
+:DateShort: 2018-Dec-04
+:END:
+
+
+** Count me in!! Looks great!
+:PROPERTIES:
+:Author: username_hereismy
+:Score: 2
+:DateUnix: 1543848183.0
+:DateShort: 2018-Dec-03
+:END:
+
+
+** Uh, that looks very interesting, I look forward to clicking through it later today. Thank you for the work you put into this. :)
+
+For now there seems to be no way to specifically filter to in- or exclude for crossovers, right? edit/ Ah ignore me. You can choose multiple fandoms when you filter for them. My bad :D
+:PROPERTIES:
+:Author: dotike
+:Score: 2
+:DateUnix: 1543851317.0
+:DateShort: 2018-Dec-03
+:END:
+
+
+** What a great idea!! Is this project open source? Would love to see the repo.
+
+Feedback at a glance: On the Fandoms page, while I think the images/title boxes look nice, I can see that very easily becoming unreadable/impossible to navigate when more and more fandoms are added. To deal with this, consider allowing users to collapse/expand based on category (anime/manga, books, comics etc.) and organizing the content into distinct columns with even spacing. This goes for the genres page as well.
+
+I like the color scheme and layout. User interface is relatively clean and readable overall. The new chapter banner is a nice touch.
+
+For security's sake, I'd look into adding passwords, or at the very least hashing user information. (not sure if you are doing this/looking into it)
+
+Keep up the good work!!
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1543877085.0
+:DateShort: 2018-Dec-04
+:END:
+
+
+** This is awesome!!! I use a spreadsheet to keep track of all the stories I've read across different websites, and using ficdb instead would be a much nicer method. :)
+
+My only critiques thus far are a couple bugs I'm running into with clicking buttons (e.g., the Scrape button for fanfiction.net or the Submit button when trying to leave a review), and nothing happens. :( Weirdly enough, the scrape button worked just fine when I submitted a story from Ao3. I'm using Firefox, if that helps.
+:PROPERTIES:
+:Author: propensity
+:Score: 2
+:DateUnix: 1543887220.0
+:DateShort: 2018-Dec-04
+:END:
+
+
+** The tags feel clunky. M/M should not be in the same category as actual genre tags like comedy. And manually entering the data of a fic feels tedious, especially the dates. And the site jumps up and down when drop-down menus near the bottom of the screen are opened/closed.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 3
+:DateUnix: 1543783276.0
+:DateShort: 2018-Dec-03
+:END:
+
+*** You should be able to scrape most of the data if the fic is on ao3/fp/ff/sb/sv! DropDown menu bug is annoying, granted. Genres is work in progress, going for a bit of ad-hoc process now until dust is settled.
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 3
+:DateUnix: 1543783574.0
+:DateShort: 2018-Dec-03
+:END:
+
+**** So I don't have to manually fill that in?
+
+Also, how are updates handled regarding the whole story information?
+
+Edit: Also, is there a way to specifically tag smut/porn/erotica as such or is there just the NSFW marking?
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 2
+:DateUnix: 1543783884.0
+:DateShort: 2018-Dec-03
+:END:
+
+***** I would adore a NSFW tag cause a lot of fics that are rated M don't have smut in them but the only way to search and guarantee you won't see any is to only search K-T
+:PROPERTIES:
+:Author: tectonictigress
+:Score: 7
+:DateUnix: 1543785744.0
+:DateShort: 2018-Dec-03
+:END:
+
+****** There is an NSFW tag under age rating.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 2
+:DateUnix: 1543787545.0
+:DateShort: 2018-Dec-03
+:END:
+
+******* I'm going to make that more prominent... leave a message underneath the select thingy
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 1
+:DateUnix: 1543788995.0
+:DateShort: 2018-Dec-03
+:END:
+
+
+****** Yup! There's a jump between Mature and NSFW that's a bit hard to figure out on other sites I've found.
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 1
+:DateUnix: 1543788977.0
+:DateShort: 2018-Dec-03
+:END:
+
+
+***** ah, to be clear, once you provide the ID for a story on ao3/fp/ff/sb/sv, you can scrape most of the fields. in addition, the scraper runs daily to check for updates on every fanfic in the database
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 2
+:DateUnix: 1543789370.0
+:DateShort: 2018-Dec-03
+:END:
+
+****** You should maybe add some infobox on what gets filled out on its own and what needs to be filled in by hand.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 5
+:DateUnix: 1543790153.0
+:DateShort: 2018-Dec-03
+:END:
+
+******* u/samosa_samsara:
+#+begin_quote
+  I just did!
+#+end_quote
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 1
+:DateUnix: 1543928768.0
+:DateShort: 2018-Dec-04
+:END:
+
+
+** Can we exclude tags? I'd love to, for example, be able to exclude crack fics, is that possible?
+:PROPERTIES:
+:Author: lcymrdls
+:Score: 1
+:DateUnix: 1543796092.0
+:DateShort: 2018-Dec-03
+:END:
+
+*** yup, click additional filters, go wild with the exclusions
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 2
+:DateUnix: 1543796430.0
+:DateShort: 2018-Dec-03
+:END:
+
+
+** I would suggest being able to filter by word count as well as completion status. Also it would be nice to be able to exclude tags, like if you don't care about the pairings except you don't want slash or Harry/Ginny, etc.
+:PROPERTIES:
+:Author: Freshenstein
+:Score: 1
+:DateUnix: 1543808812.0
+:DateShort: 2018-Dec-03
+:END:
+
+*** click additional filters! you should be able to do all of the above
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 1
+:DateUnix: 1543837822.0
+:DateShort: 2018-Dec-03
+:END:
+
+
+** Yess!!!!!
+:PROPERTIES:
+:Author: Struggling_to_Keto
+:Score: 1
+:DateUnix: 1543817144.0
+:DateShort: 2018-Dec-03
+:END:
+
+
+** I wish we could see the summaries of fanfics directly in the Home Page instead of needing to click a story to view it though. Saves a lot of time when browsing for stories.
+:PROPERTIES:
+:Author: NAJ_P_Jackson
+:Score: 1
+:DateUnix: 1543817204.0
+:DateShort: 2018-Dec-03
+:END:
+
+*** great suggestion, I'll see if I can make a toggle
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 2
+:DateUnix: 1543837081.0
+:DateShort: 2018-Dec-03
+:END:
+
+
+*** u/samosa_samsara:
+#+begin_quote
+  I just made this feature! Check under additional features for the Show Description checkbox
+#+end_quote
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 2
+:DateUnix: 1543859226.0
+:DateShort: 2018-Dec-03
+:END:
+
+**** Awesome 👍
+:PROPERTIES:
+:Author: NAJ_P_Jackson
+:Score: 1
+:DateUnix: 1543859509.0
+:DateShort: 2018-Dec-03
+:END:
+
+
+** First of all thank you for doing this! For now the only suggestion I'd make is expand search features to include or exclude certain tags, word count, No. of reviews and such
+:PROPERTIES:
+:Author: dmantisk
+:Score: 1
+:DateUnix: 1543836036.0
+:DateShort: 2018-Dec-03
+:END:
+
+*** You can already exclude! Click additional filters
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 2
+:DateUnix: 1543837036.0
+:DateShort: 2018-Dec-03
+:END:
+
+**** Ouch, I didn't notice that. Thanks again! I'll make sure to atleast update any unlisted fics as I read them.
+:PROPERTIES:
+:Author: dmantisk
+:Score: 1
+:DateUnix: 1543844868.0
+:DateShort: 2018-Dec-03
+:END:
+
+
+** Wasn't there a flood of fanfic authors against having their works referenced in outside sites à la Goodreads? I know this sub stans FF.net and avoids ao3, but if you take a look over there you'll find plenty of authors asking not to share their works on Goodreads. Have you asked for permission, or tried to take this into account?
+:PROPERTIES:
+:Author: MlleLane
+:Score: 1
+:DateUnix: 1543842527.0
+:DateShort: 2018-Dec-03
+:END:
+
+*** u/samosa_samsara:
+#+begin_quote
+  Wasn't there a flood of fanfic authors against having their works referenced in outside sites à la Goodreads? I know this sub stans FF.net and avoids ao3, but if you take a look over there you'll find plenty of authors asking not to share their works on Goodreads. Have you asked for permission, or tried to take this into account?
+#+end_quote
+
+yup, i'm building out a feature so author's can delete the page if they so desire. all the feedback i've gotten from author's has been very positive so far... i'm starting to message individual authors asking how they're listings can be improved.
+
+the main issue with the goodreads fiasco was cultural backlash, hoping to avoid that as much as possible by encouraging polite, constructive criticism and focusing on only the fanfiction community and not the greater literary community. keep everyone happy and my cortisol levels low
+:PROPERTIES:
+:Author: samosa_samsara
+:Score: 3
+:DateUnix: 1543843122.0
+:DateShort: 2018-Dec-03
+:END:
+
+**** Ok. I'm not an author myself, don't have any strong opinion on the subject, but I know it was a hot topic for a bit. I know one of the problems was that, although GR was completely willing to delete works when the author asked, people would just upload them back again a few days later. Have you thought of a way to "block" re-upload?
+
+This [[https://fanlore.org/wiki/Goodreads][article]] may be relevant.
+:PROPERTIES:
+:Author: MlleLane
+:Score: 3
+:DateUnix: 1543843511.0
+:DateShort: 2018-Dec-03
+:END:
+
+
+** What is this exactly, and how does it work?
+:PROPERTIES:
+:Author: WillWatanabe
+:Score: 1
+:DateUnix: 1545771009.0
+:DateShort: 2018-Dec-26
+:END:
+
+
+** Idk how well this will be received by fic authors. There's an unspoken culture, at least on AO3, of "don't like don't read" -- that is, praise it if it's good and leave if it's not -- because fic writers share their work for fun and fun alone unless explicitly stated otherwise. There was a huge stink a few years back about a college class on fanfiction where students were required to leave comments "critiquing" random fics the instructor picked for them to read, because it's considered rude unless it's from a beta or someone else explicitly invited to find fault with it. Of course, typos or grammar errors are fair game, but major critical analysis is not received well.
+:PROPERTIES:
+:Author: thevegitations
+:Score: 1
+:DateUnix: 1554249661.0
+:DateShort: 2019-Apr-03
+:END:

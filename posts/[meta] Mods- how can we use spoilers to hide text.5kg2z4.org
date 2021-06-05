@@ -1,0 +1,106 @@
+#+TITLE: [meta] Mods- how can we use spoilers to hide text?
+
+* [meta] Mods- how can we use spoilers to hide text?
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1482790180.0
+:DateShort: 2016-Dec-27
+:FlairText: Meta
+:END:
+The regular spoiler HTML text isn't working; how do we hide spoilers now?
+
+everyone else- have you found any work arounds?
+
+
+** [visible text](/s "hidden text")
+
+[[/s][visible text]]
+
+The quotation marks are important. (FYI, I used a backslash to escape the first bracket in the example)
+
+As well as being outdated, Rule #5 in the margin is really confusing. It doesn't explain which part should be the visible part and which part the hidden (they're both described as "spoiler").
+:PROPERTIES:
+:Author: munin295
+:Score: 1
+:DateUnix: 1482790961.0
+:DateShort: 2016-Dec-27
+:END:
+
+
+** [[/spoiler][Wait this is visible?]]
+
+Edit: The spoiler in rule 5 works
+
+#+begin_example
+  [Text that you want hidden](/spoiler)
+#+end_example
+:PROPERTIES:
+:Author: Frystix
+:Score: 1
+:DateUnix: 1482810186.0
+:DateShort: 2016-Dec-27
+:END:
+
+*** To me, the text "Wait this is visible?" is clearly visible without hovering or anything. It just looks like a regular link to "[[https://www.reddit.com/spoiler]]"
+:PROPERTIES:
+:Author: munin295
+:Score: 1
+:DateUnix: 1482856742.0
+:DateShort: 2016-Dec-27
+:END:
+
+**** I appear to have a similar problem, your method comes up as a hyperlink and doesn't actually tell me what you are trying to hide. I decided to investigate the problem.
+
+If you use RES and disable subreddit style (the style here looks nice but makes me read so much slower) you get [[https://i.imgur.com/LN3EYdU.png][this]]. I actually tested across eight different browsers, you will always get that with RES and subreddit styles disabled. Now without subreddit styles enabled I consistently get [[https://i.imgur.com/siezV7Q.png][this]]. Personally, I'd rather be spoiled than disable disable subreddit styles.
+
+I am unable to replicate your issue.
+:PROPERTIES:
+:Author: Frystix
+:Score: 2
+:DateUnix: 1482860014.0
+:DateShort: 2016-Dec-27
+:END:
+
+***** I do have some user css to color-code different threads. Let me try something:
+
+[visible text](/# "hidden text")
+
+[[/#][visible text]]
+
+Can you see that "visible text"?
+:PROPERTIES:
+:Author: munin295
+:Score: 1
+:DateUnix: 1482861658.0
+:DateShort: 2016-Dec-27
+:END:
+
+****** Yes, I can see visible text. I'm on mobile, would that affect it?
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1482862053.0
+:DateShort: 2016-Dec-27
+:END:
+
+******* Ah. On a PC browser you then hover your cursor over the visible text and the hidden text appears in a popup. Do you have something similar on a mobile?
+:PROPERTIES:
+:Author: munin295
+:Score: 1
+:DateUnix: 1482862720.0
+:DateShort: 2016-Dec-27
+:END:
+
+******** Not really.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1482964552.0
+:DateShort: 2016-Dec-29
+:END:
+
+
+***** I checked into Reddit spoiler tags and it looks like it varies by subreddit, so this is an issue for the mods here to address and code spoiler warnings back into the subreddit theme, I think.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1482862201.0
+:DateShort: 2016-Dec-27
+:END:

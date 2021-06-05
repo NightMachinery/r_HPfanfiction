@@ -1,0 +1,232 @@
+#+TITLE: Harry money mine idea
+
+* Harry money mine idea
+:PROPERTIES:
+:Author: jasoneill23
+:Score: 15
+:DateUnix: 1579862578.0
+:DateShort: 2020-Jan-24
+:FlairText: Prompt
+:END:
+Harry buys a powerplant and uses charms to make the turbine spin endlessly and sells electricity back to muggles. The magic is only on the turbine and can be kept completely away from all elctrical wiring but still Harry can make a fortune. Nobody would catch on and he wouldn't need anybody working there because there is very little going on.
+
+
+** I'm all in favor of using clever ways to (ab)use magic to trick the system, but you you gotta stay under the radar.
+
+You can't just buy and operate a fucking powerplant without anyone asking questions... Not only would the muggle government find out immediately that this doesn't make sense, you would be too public to hide it from the aurors as well.
+
+The trick is to remain low-key and not draw attention. Here's how I would do it:
+
+​
+
+1. pick up old and broken junk from the scrapyard.
+2. "Reparo" it to fix it up
+3. Sell it as an antique in mint condition to collectors.
+
+That's easy, low-key and doesn't attract the attention running a powerplant would.
+:PROPERTIES:
+:Author: Frix
+:Score: 14
+:DateUnix: 1579883393.0
+:DateShort: 2020-Jan-24
+:END:
+
+*** And you can apparate to a bunch of different muggle locations. Even country hop with a few "vacation" portkeys. Cause a frequent seller of mint condition collections could draw muggle attention if in one area, but spread it out? Problem goes away.
+:PROPERTIES:
+:Author: Terras1fan
+:Score: 2
+:DateUnix: 1579908778.0
+:DateShort: 2020-Jan-25
+:END:
+
+
+** u/HeisenV:
+#+begin_quote
+  The magic is only on the turbine and can be kept completely away from all elctrical wiring but still Harry can make a fortune.
+#+end_quote
+
+How would the electricity generated get to the power grid if the turbine is away from all the electrical wiring? If magical exhaustion is a thing, that means that the energy to move the turbine is, at least in part, coming from the caster. Which means that even if you take it to an extreme, there has to be a limit to how much energy a single person can produce. The caster would be constantly drained to keep the turbine going and turbines are /very/ inefficient, so something like 70% of the energy required to spin is lost as heat and sound. That means that Harry would have to produce about 333% of the energy required to power a city. By that point you might as well take the turbine out of the equation and invent a new spell or something .
+:PROPERTIES:
+:Author: HeisenV
+:Score: 6
+:DateUnix: 1579878814.0
+:DateShort: 2020-Jan-24
+:END:
+
+*** A turbine: [[https://energyeducation.ca/wiki/images/2/2c/Hydroturbine_schematic.jpg]]
+
+As you can see in that image, a turbine is a set of +rotor+ blades mounted on a shaft which spins depending on the force exerted on the blades. The /other end/ of the shaft sticks into the generator where the actual electrical wiring is located which generates electricity via. electromagnetic induction.
+
+Thus, the turbine is purely mechanical and the length of the shaft keeps it at a distance from the electrical wiring.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 3
+:DateUnix: 1579890673.0
+:DateShort: 2020-Jan-24
+:END:
+
+
+*** You are thinking about thermodynamic losses in a heat engine, which doesn't apply here. Also combined cycle gas turbines can be over 60% efficient in current plants.
+
+Harry is probably just spinning a dynamo. Those are 95+% efficient. The primary loss is in converting statistical motion into ordered motion, once you have general order converting it is really quite efficient.
+:PROPERTIES:
+:Author: varno2
+:Score: 2
+:DateUnix: 1579879406.0
+:DateShort: 2020-Jan-24
+:END:
+
+**** Regardless, its one dude working as a battery. Even at 100% efficiency Harry must be somehow producing it directly. I mean, JKs magic system is pretty soft. They violate the laws of thermodynamics constantly since first year, but here the spell involves spinning the damn thing constantly to power a city. I think you'd need more layers of magic hand waving for the concept to have legs. Make something up with runic arrays and a new spell or something.
+:PROPERTIES:
+:Author: HeisenV
+:Score: 2
+:DateUnix: 1579880789.0
+:DateShort: 2020-Jan-24
+:END:
+
+***** It's magic. There is no limit to JK's magic. People trying to explain it using physics always amuse me, because they assume some form of energy transfer or anything like that, when it's not. The mechanics of the spell are whatever, but the end result is indusputable - infinite motion without clear cause.
+
+Magic in JK's world doesn't have physical limitations like power levels, people don't run out of mana or spell slots, there is no limit to the amount of magic you can cast beyond your knowledge. If you know how to draw upon and cast a reductor as large as your house, then you can do that.
+
+In your model, the "energy draw" could very well be applied to the spell affixed to the rotor, which means Harry doesn't have to contribute anything, and makes it not he a perpetuum mobile anymore, since it's then just a magical power plant converting magical energy into motion into electricity.
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 7
+:DateUnix: 1579881598.0
+:DateShort: 2020-Jan-24
+:END:
+
+****** That's what I meant with the magic system being soft and hand wavy. And I also added the "if magical exhaustion is a thing". Once you start to combine technology with magic you need to add some layers of fantasy so you don't break the suspension of disbelief. You have to admit it's a bit lazy to have someone wave their wand once and create infinite energy.
+:PROPERTIES:
+:Author: HeisenV
+:Score: 2
+:DateUnix: 1579881951.0
+:DateShort: 2020-Jan-24
+:END:
+
+******* Lazy or not I agree it wouldn't work out like that. The spells wear off eventually in canon except for Transfiguration, which is permanent in canon. Enchanting things to do stuff however is canon, even if it's never explained how enchanting works.
+
+So he could cast a feather-light light charm on a turbine and then cast some type of spinning charm every few minutes/hours/days or however long it lasts.
+
+The easier option would to be just enchant the thing and forget it about if for a few decades. Maybe come back once a year and throw around a few reparo spells at most.
+
+Soft magic allows for game breaking stuff super easily if you want to do so.
+:PROPERTIES:
+:Author: drsmilegood
+:Score: 3
+:DateUnix: 1579885884.0
+:DateShort: 2020-Jan-24
+:END:
+
+
+*** Off the top of my head, force can be transferred from the magically turning part to the electricity-generating part by simple gearing, an axle, or a chain.
+:PROPERTIES:
+:Author: ChasingAnna
+:Score: 2
+:DateUnix: 1579881263.0
+:DateShort: 2020-Jan-24
+:END:
+
+**** True, but that would make the system even more inefficient, increasing the burden in the caster. It could be magically generated steam in another location that moves the turbine in the generator now that I think about it. But there's still the question of keeping the thing going.
+:PROPERTIES:
+:Author: HeisenV
+:Score: 2
+:DateUnix: 1579881607.0
+:DateShort: 2020-Jan-24
+:END:
+
+***** All of those options for transferring mechanical energy to the generator have very low efficiency cost. The total efficiency of a hydroplant is ~90% which should be about what total system efficiency here should be.
+
+The limitation would be the ability to magically generate sufficient force.
+:PROPERTIES:
+:Author: ChasingAnna
+:Score: 3
+:DateUnix: 1579892152.0
+:DateShort: 2020-Jan-24
+:END:
+
+
+***** Just to be clear, what [[/u/ChasingAnna]] has described regarding a gear is actually standard for wind turbines used to generate electricity throughout the world ([[http://windeis.anl.gov/guide/basics/turbine.html][example]]). The same principle of transferring mechanical energy into electrical energy applies to steam turbines ([[https://qph.fs.quoracdn.net/main-qimg-ed657bde2fbc7b4a3f546d5306ce3ac3-c][example]]) and water turbines (example in my other comment). So long as the turbine shaft turns - whether via magical or normal means - efficiency is a not a problem.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 1
+:DateUnix: 1579908197.0
+:DateShort: 2020-Jan-25
+:END:
+
+
+*** You just do "Turbinius Spinnum" (or whatever spell that makes it spin) on the shaft (don't even need a turbine, you could probably replace the physical one with an illusion), and it begins to move. That motion translates through the shaft into a reverse electromotor, which uses the motion of magnets to induct electricity. electricity = money. If the shaft is long enough and doesn't conduct magic, then there's no problem.
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 1
+:DateUnix: 1579881336.0
+:DateShort: 2020-Jan-24
+:END:
+
+**** u/chiruochiba:
+#+begin_quote
+  reverse electromotor
+#+end_quote
+
+...no need to invent terms. The word is /generator/.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 2
+:DateUnix: 1579908664.0
+:DateShort: 2020-Jan-25
+:END:
+
+***** you know how it is, you forget the word but not how it works, so you approximate. Thank you in any case.
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 1
+:DateUnix: 1579909168.0
+:DateShort: 2020-Jan-25
+:END:
+
+****** Haha no problem!
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 1
+:DateUnix: 1579909197.0
+:DateShort: 2020-Jan-25
+:END:
+
+
+** Magic doesn't mess with electricity.
+
+Seriously, it doesn't. Look at all of these HIGHLY Magical locations smack dab in the middle of muggle society:
+
+- The Ministry
+- St. Mungoes
+- Diagon Alley
+
+If magic really interfered with electronics as they said they do, those areas would be electrical dead zones. And then the muggles would investigate. The magicals would obliviate. The Muggles would go back to investigate. This logic loop would eventually end up with the statute of secrecy getting broken and maybe a muggle vs magical war.
+
+-
+
+What I do see happening is some bigwigs making wards to prevent electronics from working and propagating the "magic hates electricity" myth.
+:PROPERTIES:
+:Author: Nyanmaru_San
+:Score: 5
+:DateUnix: 1579903882.0
+:DateShort: 2020-Jan-25
+:END:
+
+
+** I've toyed with this idea a long time. He wouldnt even need to be there assuming runes could make the rotor spin.
+:PROPERTIES:
+:Author: Lgamezp
+:Score: 2
+:DateUnix: 1579885043.0
+:DateShort: 2020-Jan-24
+:END:
+
+
+** People might notice if a power plant isn't getting any shipments of coal. Better spend some money buying a fusion startup first and pretend that they managed to get it working as cover story. Then make big profit, hire more wizards and build thousands of power plants around the world, solve climate change and the ICW is probably okay with it since you have a good cover and if secrecy ever ends and muggles ask wizards to fix their problems the wizards can be like "what do you think we have been doing the past few years? Where do you think your pollution free power comes from?"
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 2
+:DateUnix: 1579933438.0
+:DateShort: 2020-Jan-25
+:END:

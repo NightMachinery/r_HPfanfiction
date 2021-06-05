@@ -1,0 +1,258 @@
+#+TITLE: FanfictionBot Update 1.4.0: linksub(...) and ffnbot!slim: Recommend threads! Slimmer replies option!
+
+* FanfictionBot Update 1.4.0: linksub(...) and ffnbot!slim: Recommend threads! Slimmer replies option!
+:PROPERTIES:
+:Author: tusing
+:Score: 42
+:DateUnix: 1465581727.0
+:DateShort: 2016-Jun-10
+:FlairText: Meta
+:END:
+So today I'm fulfilling two requests that came to mind when I saw [[https://www.reddit.com/r/HPfanfiction/comments/4nb2fk/highest_quality_fic_youve_read/][this thread]], which felt like it was almost the exact same as [[https://www.reddit.com/r/HPfanfiction/comments/4km10c/highestquality_fics_youve_ever_read/][another thread]] that was only a few days older.
+
+The requests were to *(a) give people the ability to recommend older threads* - useful for "repeat LF/request" threads like those referenced above; and *(b) allow for bot comments that take up less space* (goes hand-in-hand with (a) when the bot is recommending fics from an entire thread).
+
+--------------
+
+** Quick Overview
+   :PROPERTIES:
+   :CUSTOM_ID: quick-overview
+   :END:
+
+- =linksub(link_to_thread)= or =linksub(thread_id)= will cause the bot to parse all previous bot comments in the old thread, and reply with a slimmer version of them (/implies ffnbot!slim/)
+
+- Adding =ffnbot!slim= to your comment with bot requests will cause the bot to return a much slimmer comment, carrying only the name, author, description, and download links for each fic.
+
+--------------
+
+*Additional Notes*
+
+- The thread ID is the six-character key from a thread URL: in [[https://www.reddit.com/r/HPfanfiction/comments/4j5i3f/request_any_good_stories_where_harry_dumbledore/]], the thread ID would be =4j5i3f=.
+
+- Combine this with the private message feature and Reddit's new email feature to get multiple threads and download links packaged nicely and sent to your email!
+
+- Rarely, ffnbot!slim may be buggy or incorrectly formatted. It basically reverse-engineers old bot comments to avoid overloading fanfiction websites, but this can sometimes fail.
+
+- linksub will work across all subreddits the bot runs on, which currently consists of [[/r/HPFanfiction]], [[/r/WormFanfic]], [[/r/NarutoFanfiction]], [[/r/Fanfiction]], [[/r/fandomnatural]], and [[/r/marvelfans]].
+
+- You can recommend multiple submissions with linksub, separating with semicolons - just like normal bot requests.
+
+- I've tried to make sure there'll be no duplicates when linking multiple threads, but I haven't really tested that yet.
+
+--------------
+
+*** An example: linksub([[https://www.reddit.com/r/HPfanfiction/comments/4j5i3f/request_any_good_stories_where_harry_dumbledore/][some random dumbledore thread]])
+    :PROPERTIES:
+    :CUSTOM_ID: an-example-linksubsome-random-dumbledore-thread
+    :END:
+(I've removed one of the replies so as to not clutter this thread. The bot will recommend all the fics in a thread. You can see the greatly improved information density for yourself!)
+
+
+** You are honestly such a gift to this sub.
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 28
+:DateUnix: 1465582492.0
+:DateShort: 2016-Jun-10
+:END:
+
+*** Right? Programmers rock.
+:PROPERTIES:
+:Author: Averant
+:Score: 6
+:DateUnix: 1465588737.0
+:DateShort: 2016-Jun-11
+:END:
+
+
+** Oh wow nice update.
+
+/bends down to gently pat FanfactionBot/
+
+That'll do Bot. That'll do.
+:PROPERTIES:
+:Author: bluspacecow
+:Score: 11
+:DateUnix: 1465593586.0
+:DateShort: 2016-Jun-11
+:END:
+
+
+** [[http://www.fanfiction.net/s/11580650/1/][*/Abraxas/*]] by [[https://www.fanfiction.net/u/4577618/Brennus][/Brennus/]] (201,342 words; /Download/: [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=11580650&source=ff&filetype=epub][EPUB]] or [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=11580650&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  It started with a surprising proposals from an unexpected source, but that was only the beginning. Soon, Harry finds himself dealing with forces beyond his imagination and dreams, and ultimately finds that the world is not what he believed it to be.
+#+end_quote
+
+[[http://www.fanfiction.net/s/4101650/1/][*/Backward With Purpose Part I: Always and Always/*]] by [[https://www.fanfiction.net/u/386600/Deadwoodpecker][/Deadwoodpecker/]] (287,429 words; /Download/: [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=4101650&source=ff&filetype=epub][EPUB]] or [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=4101650&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  AU. Harry, Ron, and Ginny send themselves back in time to avoid the destruction of everything they hold dear, and the deaths of everyone they love. This story is now complete! Stay tuned for the sequel!
+#+end_quote
+
+[[http://www.fanfiction.net/s/6892925/1/][*/Stages of Hope/*]] by [[https://www.fanfiction.net/u/291348/kayly-silverstorm][/kayly silverstorm/]] (94,563 words; /Download/: [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=6892925&source=ff&filetype=epub][EPUB]] or [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=6892925&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  Professor Sirius Black, Head of Slytherin house, is confused. Who are these two strangers found at Hogwarts, and why does one of them claim to be the son of Lily Lupin and that git James Potter? Dimension travel AU, no pairings so far. Dark humour.
+#+end_quote
+
+[[http://www.fanfiction.net/s/8712160/1/][*/The Next Lord of Kobol/*]] by [[https://www.fanfiction.net/u/940359/jbern][/jbern/]] (72,539 words; /Download/: [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=8712160&source=ff&filetype=epub][EPUB]] or [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=8712160&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  Carried to the far end of the Galaxy by the veil in the Department of Mysteries, Harry Potter becomes a veritable stranger in a strange land. But all the obstacles he has faced pale in comparison to the Cylon menace. Starts in the middle of Harry's fifth year and roughly eleven years before the fall of the Twelve Colonies.
+#+end_quote
+
+[[http://www.fanfiction.net/s/5201703/1/][*/By the Divining Light/*]] by [[https://www.fanfiction.net/u/980211/enembee][/enembee/]] (24,970 words; /Download/: [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=5201703&source=ff&filetype=epub][EPUB]] or [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=5201703&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  Book 1. Follow Harry and Dumbledore as they descend into the depths of Old Magic seeking power and redemption in equal measure. En route they encounter ancient enchantments, a heliopath and an evil that could burn the world.
+#+end_quote
+
+[[http://www.fanfiction.net/s/5971274/1/][*/Conlaodh's Song/*]] by [[https://www.fanfiction.net/u/980211/enembee][/enembee/]] (57,777 words; /Download/: [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=5971274&source=ff&filetype=epub][EPUB]] or [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=5971274&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  Book 2. As the Second War begins, Voldemort becomes obsessed with harnessing the realm of Old Magic to his own ends. Meanwhile, Harry has to contend with the Ministry, ancient foes and the machinations of a world he barely understands.
+#+end_quote
+
+[[http://www.fanfiction.net/s/3384712/1/][*/The Lie I've Lived/*]] by [[https://www.fanfiction.net/u/940359/jbern][/jbern/]] (234,571 words; /Download/: [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=3384712&source=ff&filetype=epub][EPUB]] or [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=3384712&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  Not all of James died that night. Not all of Harry lived. The Triwizard Tournament as it should have been and a hero discovering who he really wants to be.
+#+end_quote
+
+[[http://www.fanfiction.net/s/9754483/1/][*/Para Bellum/*]] by [[https://www.fanfiction.net/u/116880/Lord-Silvere][/Lord Silvere/]] (79,471 words; /Download/: [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=9754483&source=ff&filetype=epub][EPUB]] or [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=9754483&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  An ambitious Voldemort prepares to lead his armies into the Delenda Est dimension to topple Minister Black III. But, he has lost the element of surprise, and there is a Pre-OotP dimension in between his dimension and the DE dimension where he will have to fight Minister Black's armies, spies, and civilian meddlers, not to mention two Harry Potters and the infamous Black Triplets.
+#+end_quote
+
+[[http://www.fanfiction.net/s/4152930/1/][*/Dagger and Rose/*]] by [[https://www.fanfiction.net/u/1446455/Perspicacity][/Perspicacity/]] (85,199 words; /Download/: [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=4152930&source=ff&filetype=epub][EPUB]] or [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=4152930&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  Dumbledore doesn't ignore the 2nd prophecy! He apprentices Harry and teaches him a rare form of magic, but draws the ire of a secret society who seek to guard this knowledge and do Harry in. Assassination attempts on multiple fronts. H/F, Yr. 4 GoF AU.
+#+end_quote
+
+[[http://www.fanfiction.net/s/7309863/1/][*/The Prisoner's Cipher/*]] by [[https://www.fanfiction.net/u/1007770/Ecthelion3][/Ecthelion3/]] (69,457 words; /Download/: [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=7309863&source=ff&filetype=epub][EPUB]] or [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=7309863&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  AU. Years after his defeat of Voldemort, Harry Potter remains a willing and secret prisoner of the Ministry, but not all is what it seems. Harry has a plan, and the world will never be the same.
+#+end_quote
+
+[[http://www.fanfiction.net/s/5677867/1/][*/Ginny Weasley and the Half Blood Prince/*]] by [[https://www.fanfiction.net/u/1915468/RRFang][/RRFang/]] (178,509 words; /Download/: [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=5677867&source=ff&filetype=epub][EPUB]] or [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=5677867&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  The story of "Harry Potter and the HBP", but told from the 3rd person POV of Ginny Weasley. Strictly in-canon. Suitable for anyone whom the "Harry Potter" novels themselves would be suitable for.
+#+end_quote
+
+[[http://www.fanfiction.net/s/5843349/1/][*/The Other Side of the Coin/*]] by [[https://www.fanfiction.net/u/569787/Zennith6][/Zennith6/]] (92,276 words; /Download/: [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=5843349&source=ff&filetype=epub][EPUB]] or [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=5843349&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  Harry Potter, defeater of Grindelwald, has come to Hogwarts. Raised by Sirius Black and sorted in to Slytherin, Harry finds his way under the guidance and watchful gaze of his mentor and Defense Against the Dark Arts professor, one Tom Marvolo Riddle.
+#+end_quote
+
+--------------
+
+/slim!FanfictionBot/^{1.4.0}. Note that some story data has been sourced from older threads, and may be out of date.
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 8
+:DateUnix: 1465581739.0
+:DateShort: 2016-Jun-10
+:END:
+
+*** So now you see some use cases for this, and why I implemented lighter comments alongside recommending threads. I shudder to imagine how much space this would take up with the original system!
+:PROPERTIES:
+:Author: tusing
+:Score: 8
+:DateUnix: 1465582340.0
+:DateShort: 2016-Jun-10
+:END:
+
+**** One request: If a fic is complete in the new slim! version, can you include it along with the word count and download?
+
+Otherwise, this shit is amazing. Thanks!
+:PROPERTIES:
+:Author: Clegko
+:Score: 13
+:DateUnix: 1465584561.0
+:DateShort: 2016-Jun-10
+:END:
+
+***** Okay, just implemented it. It'll only work for some sites, though, mainly fanfiction.net:
+
+linkffn(Emperor; Alexandra Quick and the Thorn Circle) ffnbot!slim
+:PROPERTIES:
+:Author: tusing
+:Score: 12
+:DateUnix: 1465588939.0
+:DateShort: 2016-Jun-11
+:END:
+
+****** [[http://www.fanfiction.net/s/3964606/1/][*/Alexandra Quick and the Thorn Circle/*]] by [[https://www.fanfiction.net/u/1374917/Inverarity][/Inverarity/]] (165,657 words, complete; /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=3964606&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=3964606&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  The war against Voldemort never reached America, but all is not well there. When 11-year-old Alexandra Quick learns she is a witch, she is plunged into a world of prejudices, intrigue, and danger. Who wants Alexandra dead, and why?
+#+end_quote
+
+[[http://www.fanfiction.net/s/5904185/1/][*/Emperor/*]] by [[https://www.fanfiction.net/u/1227033/Marquis-Black][/Marquis Black/]] (638,154 words; /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=5904185&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=5904185&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  Some men live their whole lives at peace and are content. Others are born with an unquenchable fire and change the world forever. Inspired by the rise of Napoleon, Augustus, Nobunaga, and T'sao T'sao. Very AU.
+#+end_quote
+
+--------------
+
+/slim!FanfictionBot/^{1.4.0}.
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1465588986.0
+:DateShort: 2016-Jun-11
+:END:
+
+
+****** Awesome, thanks!
+:PROPERTIES:
+:Author: Clegko
+:Score: 1
+:DateUnix: 1465589329.0
+:DateShort: 2016-Jun-11
+:END:
+
+
+***** I second this motion, if possible!
+:PROPERTIES:
+:Author: lurkielurker
+:Score: 3
+:DateUnix: 1465584773.0
+:DateShort: 2016-Jun-10
+:END:
+
+
+** Petition for tusing to be Minister of Magic, since he does so much shit.
+:PROPERTIES:
+:Author: RisingSunsets
+:Score: 7
+:DateUnix: 1465620030.0
+:DateShort: 2016-Jun-11
+:END:
+
+
+** god damn just bless you [[/u/tusing]] like just seriously you've honestly changed how i consume and understand fanfiction thank you.
+:PROPERTIES:
+:Author: speedheart
+:Score: 5
+:DateUnix: 1465616399.0
+:DateShort: 2016-Jun-11
+:END:
+
+
+** All Hail [[/u/tusing]]
+
+Hail
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 3
+:DateUnix: 1465620335.0
+:DateShort: 2016-Jun-11
+:END:

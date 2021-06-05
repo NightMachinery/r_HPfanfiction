@@ -1,0 +1,129 @@
+#+TITLE: Good way to save fanfic for later reading?
+
+* Good way to save fanfic for later reading?
+:PROPERTIES:
+:Author: pwispwpwpw
+:Score: 8
+:DateUnix: 1401732057.0
+:DateShort: 2014-Jun-02
+:FlairText: Request
+:END:
+I'm trying to save 'A Study in Magic' ([[https://www.fanfiction.net/s/7578572/1]]), but I can't seem to. Ficsavers and Fanfictiondownloader don't seem to work on it.
+
+Does anyone know anything else to use for ffnet?
+
+EDIT: THANK YOU, ALL! I got a copy, and found that ficsave.com worked, too.
+
+
+** If you are willing to install extra software you can use calibre with the ffdl plugin. It will download fanfics from a huge variety of sites and allow you to organise them in a library. From there calibre can convert the ebooks into pretty much any format you could ever need, enabling you to read them offline on your PC (or Mac or Linux machine), mobile phone (with apps like MoonReader+, Google books, iBooks or whathaveyou) or eBook reader of choice.
+
+If you just want to store new chapters until you've read them (or collect them from email alerts to download later) I recommend using a read-it-later service with an article view feature. I use pocket for that.
+
+If anyone needs the links to the pages I've mentioned please comment, I'm on my mobile right now and adding several links is a chore ;)
+:PROPERTIES:
+:Author: Hofferic
+:Score: 3
+:DateUnix: 1401742372.0
+:DateShort: 2014-Jun-03
+:END:
+
+*** This, one thousand times. I calibre everything.
+:PROPERTIES:
+:Author: duriel
+:Score: 1
+:DateUnix: 1401841187.0
+:DateShort: 2014-Jun-04
+:END:
+
+
+** If you're on mobile you can use the fanfiction reader app.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1401733548.0
+:DateShort: 2014-Jun-02
+:END:
+
+*** Thanks, but it looks like that won't work on my old ipad. I'll definitely check it out when I update my device.
+:PROPERTIES:
+:Author: pwispwpwpw
+:Score: 1
+:DateUnix: 1401744440.0
+:DateShort: 2014-Jun-03
+:END:
+
+
+** I have this in ePub and PDF if you want me to send it to you
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1401738540.0
+:DateShort: 2014-Jun-03
+:END:
+
+*** Thank you!
+:PROPERTIES:
+:Author: pwispwpwpw
+:Score: 1
+:DateUnix: 1401742336.0
+:DateShort: 2014-Jun-03
+:END:
+
+
+** [[http://ficsave.com/]]
+:PROPERTIES:
+:Author: Notosk
+:Score: 2
+:DateUnix: 1401777933.0
+:DateShort: 2014-Jun-03
+:END:
+
+*** Thanks, this worked for me!
+:PROPERTIES:
+:Author: pwispwpwpw
+:Score: 1
+:DateUnix: 1401796038.0
+:DateShort: 2014-Jun-03
+:END:
+
+
+** Does fanfictiondownloader give you a html file? If so then open it with your internet browser and print to PDF (if you don't have that option just google it, there are tons of programs and ways to do that).
+:PROPERTIES:
+:Author: alexandersvendsen
+:Score: 1
+:DateUnix: 1401743060.0
+:DateShort: 2014-Jun-03
+:END:
+
+*** fanfictiondowloader seems to just hang with this fic. I don't know if it's because of the length, or something else.
+:PROPERTIES:
+:Author: pwispwpwpw
+:Score: 1
+:DateUnix: 1401744410.0
+:DateShort: 2014-Jun-03
+:END:
+
+**** Looks like it's working for me. What format do you want it in?
+:PROPERTIES:
+:Author: deirox
+:Score: 1
+:DateUnix: 1401747399.0
+:DateShort: 2014-Jun-03
+:END:
+
+***** I've gotten it now, thanks for the offer!
+:PROPERTIES:
+:Author: pwispwpwpw
+:Score: 1
+:DateUnix: 1401796045.0
+:DateShort: 2014-Jun-03
+:END:
+
+
+**** I can´t get it to export a pdf file or any other file either, and instead it stays at about 90-99% complete. However at this point it has made a html file in the output folder. Have you checked?
+
+Edit: nevermind. It seems you have found a different solution.
+:PROPERTIES:
+:Author: alexandersvendsen
+:Score: 1
+:DateUnix: 1401823677.0
+:DateShort: 2014-Jun-03
+:END:

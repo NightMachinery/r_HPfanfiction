@@ -1,0 +1,270 @@
+#+TITLE: LF Fics that shit on dumb tropes.
+
+* LF Fics that shit on dumb tropes.
+:PROPERTIES:
+:Author: Englishhedgehog13
+:Score: 8
+:DateUnix: 1462550155.0
+:DateShort: 2016-May-06
+:FlairText: Request
+:END:
+I officially declare May 5th 2016 to be forever known as "Not my day". On top of college work being an absolute shitfest, today I found myself in a debate with a retarded Draco fangirl who seems to think she slaughtered me, after I said that I was leaving this argument. Also, she refers to herself as Tom Felton's wife. Clearly, I'm in the wrong here and should hang myself like a true lord of the faggits.
+
+So yeah. Need fics that'll make me feel better about that.
+
+
+** This is a quality shitpost.
+
+linkffn(11511601;7191459)
+
+Edit: [[http://fictionhunt.com/read/8210699/1]] as well
+:PROPERTIES:
+:Author: Pashow
+:Score: 8
+:DateUnix: 1462554549.0
+:DateShort: 2016-May-06
+:END:
+
+*** Would a quality shitpost be a manurepost?
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 4
+:DateUnix: 1462559289.0
+:DateShort: 2016-May-06
+:END:
+
+**** Guanopost?
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 3
+:DateUnix: 1462559603.0
+:DateShort: 2016-May-06
+:END:
+
+***** I think that's only if it's a batshit crazy post.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 3
+:DateUnix: 1462561571.0
+:DateShort: 2016-May-06
+:END:
+
+****** HAHAHAHAHA.
+
+I'm fucking dying.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 2
+:DateUnix: 1462564530.0
+:DateShort: 2016-May-07
+:END:
+
+
+*** For anyone wanting to download something from fictionhunt just use the following command.
+
+#+begin_example
+  curl -O http://fictionhunt.com/read/8210699/[1-62]
+#+end_example
+
+Exchange the 1-62 for the number of chapters in the story and obviously the story ID itself. cURL will need to be installed of course.
+
+It will spit out 62 HTML formatted files containing the story in the current folder. With a tiny bit of effort you can automatically name the files and add the .html extension but I'm extremely lazy.
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 2
+:DateUnix: 1462596411.0
+:DateShort: 2016-May-07
+:END:
+
+**** Assuming you're using bash, you can do:
+
+#+begin_example
+  wget http://fictionhunt.com/read/8210699/{1..62} -E
+#+end_example
+
+The synatx ={x..y}= expands to the range x to y inclusive, and the =-E= option causes it to append the html extension.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1462611607.0
+:DateShort: 2016-May-07
+:END:
+
+
+*** [[http://www.fanfiction.net/s/7191459/1/][*/Harry Potter and the Something Something/*]] by [[https://www.fanfiction.net/u/1095870/Legendary-Legacy][/Legendary Legacy/]]
+
+#+begin_quote
+  Hey, wouldn't it be cool if someone took as many fanfic cliches as possible and stuffed them all into one story? No? Well, I went ahead and did it anyway. Multi-chapter Mockfic. This summary is actually a lot better than I originally thought.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 10 *|* /Words/: 26,891 *|* /Reviews/: 367 *|* /Favs/: 524 *|* /Follows/: 467 *|* /Updated/: 5/4/2015 *|* /Published/: 7/18/2011 *|* /id/: 7191459 *|* /Language/: English *|* /Genre/: Humor/Parody *|* /Characters/: Harry P. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=7191459&source=ff&filetype=epub][EPUB]] or [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=7191459&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/11511601/1/][*/Harry Potter Fanfiction Cliches/*]] by [[https://www.fanfiction.net/u/4452036/solartai][/solartai/]]
+
+#+begin_quote
+  Breathtaking tales of adventure and things and stuff! You might even be able to comprehend the words.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 3 *|* /Words/: 935 *|* /Reviews/: 3 *|* /Favs/: 3 *|* /Follows/: 5 *|* /Updated/: 9/24/2015 *|* /Published/: 9/17/2015 *|* /id/: 11511601 *|* /Language/: English *|* /Genre/: Horror/Adventure *|* /Characters/: <Molly W., Voldemort> <Alastor M., I. Karkaroff> *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=11511601&source=ff&filetype=epub][EPUB]] or [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=11511601&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.3.7} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=%2Fu%2Ftusing][Contact]]]
+
+^{/New in this version: PM request support!/}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1462554594.0
+:DateShort: 2016-May-06
+:END:
+
+
+** Linkffn(Seventh Horcrux by Emerald Ashes) covers the 7 years of canon messing with tropes along the way and linkffn(Harry Potter and the Prince of Slytherin) is at the end of year 2 and sort of twists the tropes you expect into something different.
+:PROPERTIES:
+:Author: Ch1pp
+:Score: 4
+:DateUnix: 1462581306.0
+:DateShort: 2016-May-07
+:END:
+
+*** [[http://www.fanfiction.net/s/11191235/1/][*/Harry Potter and the Prince of Slytherin/*]] by [[https://www.fanfiction.net/u/4788805/The-Sinister-Man][/The Sinister Man/]]
+
+#+begin_quote
+  Harry Potter was sent away to the Dursleys by his parents who were raising Jim Potter, the Boy Who Lived. Think you know this story? You have no idea. AU, Slytherin!Harry, WBWL. Currently in Year Two (Harry Potter and the Secret Enemy). NO romantic pairings prior to Fourth Year. Basically good Dumbledore and Weasleys. Hopefully no bashing.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 75 *|* /Words/: 384,869 *|* /Reviews/: 3,820 *|* /Favs/: 3,163 *|* /Follows/: 4,028 *|* /Updated/: 4/18 *|* /Published/: 4/17/2015 *|* /id/: 11191235 *|* /Language/: English *|* /Genre/: Adventure *|* /Characters/: Harry P., Hermione G., Neville L., Theodore N. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=11191235&source=ff&filetype=epub][EPUB]] or [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=11191235&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/10677106/1/][*/Seventh Horcrux/*]] by [[https://www.fanfiction.net/u/4112736/Emerald-Ashes][/Emerald Ashes/]]
+
+#+begin_quote
+  The presence of a foreign soul may have unexpected side effects on a growing child. I am Lord Volde...Harry Potter. I'm Harry Potter. In which Harry is insane, Hermione is a Dark Lady-in-training, Ginny is a minion, and Ron is confused.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 21 *|* /Words/: 104,212 *|* /Reviews/: 917 *|* /Favs/: 3,503 *|* /Follows/: 2,053 *|* /Updated/: 2/3/2015 *|* /Published/: 9/7/2014 *|* /Status/: Complete *|* /id/: 10677106 *|* /Language/: English *|* /Genre/: Humor/Parody *|* /Characters/: Harry P. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=10677106&source=ff&filetype=epub][EPUB]] or [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=10677106&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.3.7} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=%2Fu%2Ftusing][Contact]]]
+
+^{/New in this version: PM request support!/}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1462581316.0
+:DateShort: 2016-May-07
+:END:
+
+
+** linkffn(Dimension Hopping for Beginners by nonjon)
+:PROPERTIES:
+:Author: Almavet
+:Score: 2
+:DateUnix: 1462560807.0
+:DateShort: 2016-May-06
+:END:
+
+*** [[http://www.fanfiction.net/s/2829366/1/][*/Dimension Hopping for Beginners/*]] by [[https://www.fanfiction.net/u/649528/nonjon][/nonjon/]]
+
+#+begin_quote
+  COMPLETE. In the heat of the battle, he swore a blood oath to defeat Voldemort in every form. But when you factor in his understanding and abilities to travel to alternate dimensions, it presented the sort of problem only a Harry Potter could have.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 10 *|* /Words/: 56,035 *|* /Reviews/: 1,092 *|* /Favs/: 2,663 *|* /Follows/: 833 *|* /Updated/: 3/13/2006 *|* /Published/: 3/4/2006 *|* /Status/: Complete *|* /id/: 2829366 *|* /Language/: English *|* /Genre/: Parody/Adventure *|* /Characters/: Harry P. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=2829366&source=ff&filetype=epub][EPUB]] or [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=2829366&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.3.7} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=%2Fu%2Ftusing][Contact]]]
+
+^{/New in this version: PM request support!/}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1462560843.0
+:DateShort: 2016-May-06
+:END:
+
+
+** linkffn(Harry Potter and the Boy Who Lived)
+
+#+begin_quote
+  If you believe that Calypso, at age twelve, was capable of that ridiculous level of manipulation, you might as well believe in soul bonds, magical cores, or that the American government is trying to blend muggle technology with magic.
+#+end_quote
+
+This sort of thing is done many times throughout the fic.
+:PROPERTIES:
+:Author: howtopleaseme
+:Score: 2
+:DateUnix: 1462565547.0
+:DateShort: 2016-May-07
+:END:
+
+*** [[http://www.fanfiction.net/s/5353809/1/][*/Harry Potter and the Boy Who Lived/*]] by [[https://www.fanfiction.net/u/1239654/The-Santi][/The Santi/]]
+
+#+begin_quote
+  Harry Potter loves, and is loved by, his parents, his godfather, and his brother. He isn't mistreated, abused, or neglected. So why is he a Dark Wizard? NonBWL!Harry. Not your typical Harry's brother is the Boy Who Lived story.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 12 *|* /Words/: 147,796 *|* /Reviews/: 4,118 *|* /Favs/: 8,599 *|* /Follows/: 8,963 *|* /Updated/: 1/3/2015 *|* /Published/: 9/3/2009 *|* /id/: 5353809 *|* /Language/: English *|* /Genre/: Adventure *|* /Characters/: Harry P. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=5353809&source=ff&filetype=epub][EPUB]] or [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=5353809&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.3.7} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=%2Fu%2Ftusing][Contact]]]
+
+^{/New in this version: PM request support!/}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1462565612.0
+:DateShort: 2016-May-07
+:END:
+
+
+*** It's been a while since I read that one, can you explain the trope and how/if 'Harry Potter and the Boy Who Lived' plays with it?
+:PROPERTIES:
+:Author: Faeriniel
+:Score: 1
+:DateUnix: 1462608150.0
+:DateShort: 2016-May-07
+:END:
+
+**** What trope? This fic shits on dumb tropes by blatantly dismissing them, not by using them well.
+:PROPERTIES:
+:Author: howtopleaseme
+:Score: 4
+:DateUnix: 1462608417.0
+:DateShort: 2016-May-07
+:END:
+
+
+** *The Trio and Ginny Read Fanfiction*, linkffn(3679134), is pretty funny.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 1
+:DateUnix: 1462555502.0
+:DateShort: 2016-May-06
+:END:
+
+*** [[http://www.fanfiction.net/s/3679134/1/][*/The Trio and Ginny Read Fanfiction/*]] by [[https://www.fanfiction.net/u/1289587/Lady-Alinor][/Lady Alinor/]]
+
+#+begin_quote
+  One fine day at the Burrow, Harry and Ginny relaxing on the couch, and Hermione is reading something on her laptop. 'Hermione, what are you reading,' Ron asks. 'Oh, just a bit of fanfiction...' she says lightly. Therein lies the tale. DH spoilers.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 4 *|* /Words/: 9,334 *|* /Reviews/: 156 *|* /Favs/: 228 *|* /Follows/: 116 *|* /Updated/: 7/31/2011 *|* /Published/: 7/24/2007 *|* /Status/: Complete *|* /id/: 3679134 *|* /Language/: English *|* /Genre/: Humor *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=3679134&source=ff&filetype=epub][EPUB]] or [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=3679134&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.3.7} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=%2Fu%2Ftusing][Contact]]]
+
+^{/New in this version: PM request support!/}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1462555597.0
+:DateShort: 2016-May-06
+:END:

@@ -1,0 +1,209 @@
+#+TITLE: HPFanfiction Recommender (Tool/Website) - Redesign + New Features
+
+* HPFanfiction Recommender (Tool/Website) - Redesign + New Features
+:PROPERTIES:
+:Author: dJones176
+:Score: 57
+:DateUnix: 1607855582.0
+:DateShort: 2020-Dec-13
+:FlairText: Misc
+:END:
+Hello everyone,
+
+I made [[https://hpffrec.hackesta.org/][HPFanficiton Recommender]] over a year ago, and many of you liked it. One of the biggest drawbacks it had was its design. I decided to remake it from scratch using better technologies.
+
+Visit: [[https://hpffrec.hackesta.org/]]
+
+Apart from the design, nothing much has changed, but I will still explain all of the things again.
+
+I have Python code running on a server that fetches data from this subreddit, it specifically looks for comments made by our beloved [[/u/FanfictionBot][u/FanfictionBot]]. It then extracts all the fanfiction related data from the comments and creates a database of the stories. Based on that data, I generate the necessary data for the website.
+
+The frontend is written in NextJS and is rebuilt every time the backend generates new data
+
+Features:
+
+- 1000 Latest Recommendations
+- Hall of Fame: Top 100 Stories & Authors in the past week, month, year, and all time.
+- Data filtering based on Word Count, Genre, Website, Characters, Rating, and Completion Status
+- The website is downloadable on all devices (Android, iOS, Mac, Windows, Linux) using PWA technology. It won't be available in App Stores, but you can click the download button on the Top / in the menu. You won't be installing anything, it will just add a shortcut that opens the website in your browser but will look like an app.
+
+I currently have data of 163k stories, out of which 21k stories are unique. When I made the original website back in July 2019, I only had 70k stories.
+
+I hope you like it, and I would appreciate some feedback.
+
+[[https://imgur.com/gallery/qqtJyIm][Some Screenshots of the Website]]
+
+[[https://www.reddit.com/r/HPfanfiction/comments/camzsb/hpfanfiction_recommender_tool_website/][Link to the original post]]
+
+[[https://blog.haideralipunjabi.com/posts/making-hpfanfiction-recommender/][Blog Post about developing the whole thing back in 2019]]
+
+​
+
+P.S: If any mods think it is worth it, please add a link to the Wiki/Sidebar
+
+​
+
+Update: I fixed a bug where the site wasn't working on some Android browsers. If it wasn't working for you, try it now.
+
+Update 16 Dec: I have added Descriptions for each story. They are downloaded individually when you request them. A little white arrow near the top-right of each card will open up the description.
+
+
+** You should contact the creator of wormstorysearch.com It is also a tool of recommendation but it also indexes a bunch of things for worm fanfiction, including every time a new story starts and when there's new updates to old stories
+:PROPERTIES:
+:Author: bloodelemental
+:Score: 7
+:DateUnix: 1607864110.0
+:DateShort: 2020-Dec-13
+:END:
+
+*** u/dJones176:
+#+begin_quote
+  wormstorysearch.com
+#+end_quote
+
+Looks interesting. Thanks
+:PROPERTIES:
+:Author: dJones176
+:Score: 5
+:DateUnix: 1607864541.0
+:DateShort: 2020-Dec-13
+:END:
+
+
+** small complaint:
+
+In the "status" dropdown, the options are "Complete" and "completed"
+
+also, it seems that there are duplicated results.
+:PROPERTIES:
+:Author: Vash_the_Snake
+:Score: 3
+:DateUnix: 1607907504.0
+:DateShort: 2020-Dec-14
+:END:
+
+*** All the filter dropdowns are generated based on the stories. Complete and Completed are there because FF.net calls them complete, and AO3 calls them completed. Anyways, I will fix it somehow.
+
+The duplicate entries are there on the homepage because they are recommended multiple times. I don't think removing that is necessary, but I will look into showing unique stories only after using some filter.
+
+Thanks for the feedback.
+:PROPERTIES:
+:Author: dJones176
+:Score: 3
+:DateUnix: 1607907893.0
+:DateShort: 2020-Dec-14
+:END:
+
+
+** You should think about including the story summaries on the web page, its hard to decide to read a fic from the title and tags alone.
+:PROPERTIES:
+:Author: Ironworkshop
+:Score: 2
+:DateUnix: 1608026483.0
+:DateShort: 2020-Dec-15
+:END:
+
+*** I tried doing that today. That increased the size of data by a lot, and my server couldn't handle it. I am looking into other ways of doing it, but lacking a proper way to get data from [[https://Fanfiction.net][Fanfiction.net]], it will be very difficult.
+
+I can't promise anything yet, but if it would be possible, I will add it.
+:PROPERTIES:
+:Author: dJones176
+:Score: 2
+:DateUnix: 1608038048.0
+:DateShort: 2020-Dec-15
+:END:
+
+**** Could you use the front end component to poll the bots comments them selves and pull from there? Not exactly best practise but it would mean no server strain and avoids dealing with the ffnet api?
+:PROPERTIES:
+:Author: Ironworkshop
+:Score: 1
+:DateUnix: 1608039755.0
+:DateShort: 2020-Dec-15
+:END:
+
+***** I have added this. A little white arrow near the top-right of each card will open up the description.
+:PROPERTIES:
+:Author: dJones176
+:Score: 2
+:DateUnix: 1608099187.0
+:DateShort: 2020-Dec-16
+:END:
+
+
+***** That is possible. I am trying to look for something better, but I think I will implement this till I can do something better.
+:PROPERTIES:
+:Author: dJones176
+:Score: 1
+:DateUnix: 1608039911.0
+:DateShort: 2020-Dec-15
+:END:
+
+
+** It might just be me who can't find it - but is there a way to feed a link to a fic and have the site offer recommendations? I'm on Android, if it helps.
+:PROPERTIES:
+:Author: AcetyleneFumes
+:Score: 1
+:DateUnix: 1607900892.0
+:DateShort: 2020-Dec-14
+:END:
+
+*** No it isn't there. I am looking into making something like that. And if it works, I will definitely add it. Thanks
+:PROPERTIES:
+:Author: dJones176
+:Score: 2
+:DateUnix: 1607907940.0
+:DateShort: 2020-Dec-14
+:END:
+
+
+*** I have added this
+:PROPERTIES:
+:Author: dJones176
+:Score: 1
+:DateUnix: 1608902004.0
+:DateShort: 2020-Dec-25
+:END:
+
+**** I gave it a try - I went to the site, tapped the menu button, tapped search, and then put in a story URL link. The website returned "an unexpected error has occurred". I tried searching for [[https://www.fanfiction.net/s/12185252/7]]
+:PROPERTIES:
+:Author: AcetyleneFumes
+:Score: 1
+:DateUnix: 1609119247.0
+:DateShort: 2020-Dec-28
+:END:
+
+***** Well, looks like somethings broken. I will fix it ASAP
+:PROPERTIES:
+:Author: dJones176
+:Score: 1
+:DateUnix: 1609120418.0
+:DateShort: 2020-Dec-28
+:END:
+
+
+***** Well, it seems this story has never been linked by the bot. The page showed an error because I forgot that there are stories that haven't been linked yet.
+
+Thanks
+:PROPERTIES:
+:Author: dJones176
+:Score: 1
+:DateUnix: 1609120802.0
+:DateShort: 2020-Dec-28
+:END:
+
+****** That makes perfect sense! At least you can update the error message for future occurrences. Thanks for the great tool!
+:PROPERTIES:
+:Author: AcetyleneFumes
+:Score: 2
+:DateUnix: 1609123914.0
+:DateShort: 2020-Dec-28
+:END:
+
+
+** Nice work 👍🔥🍋
+:PROPERTIES:
+:Author: masitech
+:Score: 1
+:DateUnix: 1608418106.0
+:DateShort: 2020-Dec-20
+:END:

@@ -1,0 +1,619 @@
+#+TITLE: I am a scientist with a passion for fantasy and science fiction. So, I wrote a research article from the perspective of Albus Dumbledore.
+
+* I am a scientist with a passion for fantasy and science fiction. So, I wrote a research article from the perspective of Albus Dumbledore.
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 235
+:DateUnix: 1515272434.0
+:DateShort: 2018-Jan-07
+:END:
+Dumbledore is described in the /Harry Potter/ novels as being a scholar, publishing research in wizarding journals such as /Transfiguration Today/. As a scientist, I have often wondered what these articles might read like. [[https://drive.google.com/open?id=1mpDBEsC3QscSlHi_YsIvQbLwZyad1231][Here]] is my first attempt at such an article. This was written in LaTeX (my preferred writing platform for scientific articles) so as to lend a professional feel to the presentation, and to auto-format footnotes and spacing. LaTeX compiles text to a .pdf, hence why this is a download rather than a copy-and-paste job.
+
+An explanation of why I wrote this the way I did. First, I am not J. K. Rowling, and I could never replicate her style, though I try to emulate what I perceive Dumbledore's style to be. To explain the discrepancies between my style and Rowling's, this "manuscript" is a transcription by a magical researcher from a collection of incomplete manuscripts that he had was tasked with completing.
+
+Dumbledore admitted that his mind was prone to wandering, so I imagine that his articles would be fraught with footnotes allowing him to satisfy this tendency while keeping him on task in the main text. I have borrowed this style heavily from Jonathan Stroud's /Bartimeus/ novels, as well as ideas from certain products from White Wolf Publishing.
+
+Hope you enjoy reading this as much as I enjoyed writing it.
+
+EDIT: I had an awful lot of fun writing this, so I'm considering follow-ups (Saddlesbeck describes this as an ongoing project, after all). Happy to think about suggestions if anyone has anything they'd particularly like to see!
+
+
+** Amazing.
+
+So Voldy can fly by folding spacetime a fuckton of times?
+:PROPERTIES:
+:Author: SomeoneTrading
+:Score: 33
+:DateUnix: 1515279101.0
+:DateShort: 2018-Jan-07
+:END:
+
+*** I like to think so. To do so would appeal to his sense of elitism because I would imagine it would require intense focus to produce micro-folds in the right pattern and with proper timing. (And of course, being the first wizard to achieve flight would be its own feather in his cap.)
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 23
+:DateUnix: 1515281850.0
+:DateShort: 2018-Jan-07
+:END:
+
+
+** This felt precisely like reading one of the companion books (/Fantastic Beasts/, /Quidditch Through the Ages/, etc.). ...Well done, sir, well done. This is perfect. Loved the footnotes, and it /sounded/ like Dumbledore all throughout.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 21
+:DateUnix: 1515277539.0
+:DateShort: 2018-Jan-07
+:END:
+
+*** Thank you!!
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 5
+:DateUnix: 1515281703.0
+:DateShort: 2018-Jan-07
+:END:
+
+**** The whales, though. That was an odd idea. Not bad (although a bit depressing, what with whaling being what it is on the muggle end), but odd. Also, did you have any particular inspiration for the "Ways"? Because I recall no hint of any such thing in canon.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 4
+:DateUnix: 1515282628.0
+:DateShort: 2018-Jan-07
+:END:
+
+***** I expect a lot of it is odd. But for the sake of thoroughness, I figured how might a wizard travel by sea animal? Naturally, I thought of Jonah. And I just watched Finding Nemo, so...
+
+As for the Ways, there's a fair bit of European folklore that talk about these (though naming them such is a contrivance for my purposes), mostly I believe in Celtic folklore. The lady Maeve I think was said to travel by a particular way from our world to the faerie realm, for instance. But really, my inspiration there was /The Dresden Files/ and Jim Butcher's description of travel through the Nevernever.
+
+So I guess you can think of this as a confluence of multiple fantasy stories and different folklore, not all of which is mentioned in the Potterverse!
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 10
+:DateUnix: 1515283430.0
+:DateShort: 2018-Jan-07
+:END:
+
+****** Yeah... On the whale matter, if I were you, I'd have created a magical creature wholecloth, a sentient magical /equivalent/ of whales --- for bonus points, make it look like [[http://www.medievalists.net/wp-content/uploads/2009/06/whales.jpg][medieval artists' wonderfully bizarre idea of a whale]], thus chalking up that peculiar real-life discrepancy as a mistake in the implementation of the Statute of Secrecy where they forgot to edit some of the illustrations even as the meticulously replaced each mention of the magical creature in manuscripts with "whale" or with a neutral term like "sea monster".
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 7
+:DateUnix: 1515283889.0
+:DateShort: 2018-Jan-07
+:END:
+
+******* Honestly I'd thought of that, but I really enjoy the notion that whales and other sea mammals possess an innate magic of their own, and an intellect rivaling ours. And having seen whales in person, I gotta say, there's not much that feels more magical. But certainly I think there's room for a Newt Scamander paper on whale-like beasts!
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 5
+:DateUnix: 1515284086.0
+:DateShort: 2018-Jan-07
+:END:
+
+******** I see your idea, but again, thinking of whales as sapient and knowing what the muggle whaling industry /did/... it's just too dark and depressing for my taste, kind of like those stories that assume Mandrakes are fully sapient creatures.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 4
+:DateUnix: 1515320686.0
+:DateShort: 2018-Jan-07
+:END:
+
+********* Ohhhhh, I gotcha now.
+
+For what it's worth, and purely my humble opinion, the absence of sapience doesn't really diminish the magnitude of what was done to whales. Theirs is a kind of tragic majesty when you consider their history.
+
+Of course, that introduces a new idea. The anti-whaling movement was actually started by wizards who couldn't stand to see a magical beast slaughtered for oil and fat.
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 5
+:DateUnix: 1515334323.0
+:DateShort: 2018-Jan-07
+:END:
+
+
+****** The Wheel of Time also has the Ogier ways. I think they're a cool concept and I wish I had one from my doorstep to my office!
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 3
+:DateUnix: 1515283760.0
+:DateShort: 2018-Jan-07
+:END:
+
+******* Oh man, I didn't even think of Wheel of Time!!! Good call!!
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 3
+:DateUnix: 1515284143.0
+:DateShort: 2018-Jan-07
+:END:
+
+
+** This was surprisingly good. I say surprising because a lot of people who IRL have a lot of scientific knowledge have a tendency to try to make magic very similar to science and start introducing mathematical formulae and rules that are reminiscent of physics/thermodynamics, essentially treating magic as energy.
+
+Your "review" approach was a good angle to take.
+
+When formalising magic in this way the problem is that one tends to lose the mystical (and even eccentric) aspects of the subject matter. I think this has occurred in your article as well, but the approach you took has at least minimized it.
+:PROPERTIES:
+:Author: Taure
+:Score: 19
+:DateUnix: 1515330757.0
+:DateShort: 2018-Jan-07
+:END:
+
+*** Thank you very much! Sorry you didn't like some elements of the theory portions.
+
+In writing about these things, I asked myself, “Given what we know about space and time, how do these things work?” Perhaps limiting myself to what /we/ know is why you felt that way; by restricting myself to a scientific paradigm, some readers may feel a lose of the sense of wonder. (Me personally, I think science makes everything more wonderful. Probably why I'm a scientist.)
+
+That actually might make a fun article to write. Dumbledore's “When Worlds Collide: Can Muggle Science Inform Magic?”
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 7
+:DateUnix: 1515334087.0
+:DateShort: 2018-Jan-07
+:END:
+
+**** I tend to take an approach informed by the philosophy of [[https://www.youtube.com/watch?v=zGUsIf9qYw8][Hasok Chang]] on scientific pluralism when I consider the interaction of the natural and unnatural worlds in the Harry Potter universe. I don't really agree with this approach in real life but it's a good model for magic, I think.
+
+Essentially scientific pluralism is the idea that there is not one scientific truth but rather it is possible for there to be multiple, conflicting scientific explanations for a given phenomena, each one empirically adequate and yet each one describing the world in a different way. In this view, therefore, science is not about /discovering/ the way the world "actually is" but rather is the /invention/ of empirically adequate models. It's quite an interesting theory, especially when you get into details such as the epistemological status of observations using instruments built according to and with results interpreted in light of a specific theory (e.g. the electron microscope). Nonetheless in real life pluralism's biggest problem is that no one has actually managed to develop an equally empirically adequate but contradictory scientific theory in comparison to our current best knowledge (though there's some interesting work on the different formulations of Newtonian mechanics).
+
+RETURNING TO HARRY POTTER...
+
+My preference for theory of magic is that it describes the world in a way that is fundamentally incompatible with modern science - it will have its own way of describing substance and composition, for example, potentially based on the old Aristotelian system of physics (which was of course developed before the Statute of Secrecy). From the perspective of wizards, the Muggle periodic table would simply be wrong - it fails to account for fundamental (magical) properties of what substance is, how it behaves, etc.
+
+But then how do you explain the fact that Muggle science works so well for said Muggles? That's where the pluralism comes in. It's not that the periodic table is "wrong". It's that it's another way of describing the world. Neither the magical theory of matter nor the Muggle one would be true. Rather they are both empirically adequate (relative to their own set of observations), each one thoroughly confirmed by observation, and yet those observations fundamentally contradicting each other about the most basic constitution of the universe.
+
+Fundamentally, the world is split into the natural and unnatural worlds, and the two are simply distinct. There is no universal, consistent set of rules for the universe as a whole. And when the natural and unnatural clash, the unnatural overrules the natural.
+:PROPERTIES:
+:Author: Taure
+:Score: 7
+:DateUnix: 1515344878.0
+:DateShort: 2018-Jan-07
+:END:
+
+***** That's a cool observation (nice reference to pluralism!). So there are (at least) two possibilities: either magic and science operate on fundamentally different levels, as you suggest, or they play by the same “rules” but magic operates with the added force of a wizard's will behind them.
+
+I would imagine that Dumbledore would feel that the truth of this is something for each wizard to decide for themselves, not entirely unlike the Kuhn vs. Popper debates on what constitutes scientific advancement (I know lots of scientists who ascribe to one or the other, or who think it's somewhere in between). Such a paper by Dumbledore would probably deconstruct both sides of the argument and give examples in support of either philosophy, and when both sides work equally well (the pluralism). He would conclude with a call for deeper consideration of these philosophies, and for wizards to accept that the truth need not be some binary outcome. Perhaps he would argue that, whenever a Muggle scientific construct helps further magical research, it should be used, but when it doesn't, to acknowledge that magic is, tautologically, magical (but to never close one's mind to the possibility that perhaps wizards have much to gain from Muggle sciences).
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 3
+:DateUnix: 1515345841.0
+:DateShort: 2018-Jan-07
+:END:
+
+****** u/Taure:
+#+begin_quote
+  That's a cool observation (nice reference to pluralism!). So there are (at least) two possibilities: either magic and science operate on fundamentally different levels, as you suggest, or they play by the same “rules” but magic operates with the added force of a wizard's will behind them.
+#+end_quote
+
+Indeed. I think the latter presents some serious problems if you want to keep it canon compatible. Even skipping over the "people have access to large reserves of energy which they can direct with their mind" point and just taking that as a given rather than questioning the biology of it, I think you still have several major hurdles to overcome in joining magic with Muggle scientific knowledge:
+
+1. The quantities of energy wizards have access to are astronomical (or as Feynman would put it, economical). Consider the amount of energy it takes to create kilograms of matter, something wizards do with casual ease, or to fuel time travel. You end up with wizards having an amount of power at their fingertips which dwarfs that of the largest nuclear bomb. While I like wizards to be depicted as strong, I feel like this leads to some problems (where are the spells of mass description?!).
+
+2. The conceptual nature of magic doesn't mix well with the physical approach of science. What science treats as abstractions are in magic actually real things that can be interacted with: numbers and sets, information (and specific types of information, such as words and secrets). Not to mention human social concepts like a job position and the difference between Muggles and squibs (squibs and Muggles both have absolutely no magic, but magic treats them differently - squibs can see Hogwarts, Muggles cannot. So magic recognizes the human social category of defining someone based on who their parents were).
+
+3. The anthropocentric nature of magic. Consider the exceptions to Gamp's law. The human-relative concept of "food" forms a fundamental part of the rules governing Transfiguration, a branch of magic, and therefore part of the universe you are trying to unify with Muggle science. I think any consideration of magic on a meta-level inevitably results in the conclusion that the universe is anthropocentric and going down that route quickly leads to religion, something I prefer not to mix with HP.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1515346934.0
+:DateShort: 2018-Jan-07
+:END:
+
+
+***** “Fundamentally, the world is split into the natural and unnatural worlds, and the two are simply distinct. There is no universal, consistent set of rules for the universe as a whole. And when the natural and unnatural clash, the unnatural overrules the natural.”
+
+Again thinking of Dumbledore's perspective, he would probably ask, “What makes magic unnatural and science natural? Who is to say that magic is not the natural way of the universe, and Muggle science is an unnatural way for those without magic to achieve the impossible?”
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 3
+:DateUnix: 1515345948.0
+:DateShort: 2018-Jan-07
+:END:
+
+
+*** Can you explain what you mean about making magic similar to science? I am not sure how to write about the theoretical parts of magic --- do they get taught in Hogwarts or is the curriculum just practical work? Does theoretical magic even exist, then, in your interpretation of HP?
+:PROPERTIES:
+:Author: allieee212
+:Score: 2
+:DateUnix: 1515344745.0
+:DateShort: 2018-Jan-07
+:END:
+
+**** Well, on the most abstract level, I refer you to my comment [[https://www.reddit.com/r/HPfanfiction/comments/7olwvi/i_am_a_scientist_with_a_passion_for_fantasy_and/dsbpua4/][here]].
+
+To be more specific, however, about how exactly magical theory and practical spellcasting interact... here is a summary of my headcanon on the matter.
+
+The basis of the idea is the observation that magic appears to perform operations upon concepts more than physical quantities. Magic of course has physical consequences but is not physical in its fundamental nature. So, for example, you can cast magic on job positions, on information such as secrets, on linguistic items, on types of behaviour, etc.
+
+A basic spell therefore represents an idea given reality via magic. Most spells are more complex and involve a combination of ideas in certain relationships with each other. By way of example you have the shield charm, which is the concept of "protection from personal harm" in magical form (1).
+
+Magical theory would refer to the body of thought which elaborates upon these concepts and their magical significance, and places them into theoretical systems which relate them together into larger, more general systems of representation.
+
+All this goes towards answering the question of what makes magic difficult, because a) we know from PS that magic is much more than incantations and wand movements, and b) we know from the wide distribution of wizarding achievement that there must be some factor of difficulty which goes beyond pronunciation accuracy and dexterity.
+
+We also know from what unites the most talented wizards in the books, and from Hermione's success with magic following her reading of theory, that academic understanding of magic is a key component of being able to cast more advanced magic.
+
+/Understanding/ the magic you are using is what underpins successful spell casting. I say understanding rather than knowing because it goes deeper than rote memorisation. Understanding from experience and the insight of having an innately more magical mindset and character are just as valid routes to understanding as theoretical understanding from a book.
+
+Now, to continue with the example of the Shield Charm, we know from the books that the spell can be used in different ways. The basic version blocks spells, but it can also be used to reflect spells. The basic version protects the caster, but it can also be used as a “wall” across a room, and as a boundary around a much larger area. The basic version is purely focused on protection, but from the incantation “protego horribilis” we might speculate that there are advanced versions of the Charm which are an aggressive defence and seek to harm those who attempt to breach the protection (the movies, though not canon, would support this, as DH Pt 2 involved a shield charm which disintegrated those who attempted to cross it in the final battle, which is where in the books Flitwick cast protego horribilis).
+
+These are all examples of what I would term spell extension. You are taking a spell from its basic form and doing more with it by adjoining additional concepts to it. Sometimes this does not require a change in the incantation, only in intent and understanding - see, for example, Harry casting the Shield Charm in DH as a wall rather than a personal shield, still using the regular incantation. Other more dramatic alterations seem to require modifications to the incantation e.g. “totalum”. To be able to cast these extensions you would need to understand how the addition of further concepts to your spell changes its magical nature, which in turn requires you to understand those concepts. For example, to be able to make the Shield Charm into the wall you would need to understand the magical concept of “the person” (which appears to include clothing, for example) and how it is distinct from other magically recognised groupings. Only when you understand this can you make the Shield Charm do something other than its default behaviour of protecting the person.
+
+This is why the Hogwarts library contains so many long books. They're not dictionaries of wand movements and incantations. They are discourses on the magical concepts involved in spells and their relationships.
+
+From all this you should hopefully be appreciating an image of magic and spells which is a web of connected concepts, not discrete objects. A spell is a position on the web comprising a particular combination of concepts. You can move your position in different directions to change the spell's behaviour, so long as you understand what you are doing. Extremely powerful wizards like Dumbledore and Voldemort are essentially able, through a combination of innate talent and extensive knowledge, to navigate this "web" with ease, essentially "speaking magic fluently". They are not restricted to using spells which default to certain behaviours but rather their every casting does precisely what they want.(2)
+
+The definition of a spell, therefore, is not its incantation, but rather what it does. Two spells which do the same thing are, in fact, the same spell. Two spells which do very similar things are very close to each other on that web of concepts and the one can be easily turned into the other by spell extension.
+
+(1)Incidentally this is (one of) the reasons why I have never bought the idea that wizards need to understand what they are defending themselves from, and therefore the shield charm could not defend from e.g. radiation. The magic is far more general than that - it guarantees protection from harm, not protection via certain mechanisms. Is radiation harmful? Some of it, yes. Other forms of radiation, no. The shield charm would protect you from the harmful stuff but would not block the safe stuff.
+
+(2) This is just one aspect of what makes wizards like Dumbledore and Voldemort more powerful. For further details on that, please see my full [[https://docs.google.com/document/d/1VOF1eu_B7qpTeTUykW5ZGK2HJmVAG5WouY71a5AiRPo/edit?usp=sharing][headcanon document]] because this post is already long enough!
+:PROPERTIES:
+:Author: Taure
+:Score: 9
+:DateUnix: 1515345327.0
+:DateShort: 2018-Jan-07
+:END:
+
+***** Wow. Thank you for this very detailed insight into the magic system of Harry Potter!
+:PROPERTIES:
+:Author: allieee212
+:Score: 1
+:DateUnix: 1515455723.0
+:DateShort: 2018-Jan-09
+:END:
+
+
+**** I like the vast majority of what Taure writes here, but I also disagree with some of it. Critically, I think Taure's answer gives some attention to (but not nearly enough) an important part of magic in Harry Potter: wandless magic. A wizard's first experience with magic is likely when they accidentally cause something to happen without the use of a wand--blowing up one's aunt, for example. This implies that wizards do not need a strict movement of a wand and a specific spell word to make magic happen (which Taure hints at but I don't think intends when they talk about magic being more than incantations and wand movements), and indeed do not need a wand at all! They simply become comfortable with the use of a wand and eventually reliant upon it as they forget that they can make magic without one. This would also not necessitate understanding the magic at all, which Taure also proposes, because a wizard can make magic happen without understanding at all what they are doing.
+
+I agree with Taure, though, that it's all about intent and desire. So in my mind, theoretical spellcraft (which is in fact taught at Hogwarts!) would only partially cover what a spell "does". It would, instead, heavily emphasize what /magic/ does in general. Specific spells could be used as examples (see Taure's reference to the shield charm and its permutations), but it would more focus on why a wizard's will and intent combine in such a fashion as to produce a desired effect (and why failures happen, such as turning a Levitation Charm into a small explosion). It's easy to think of magic as an energy source (though I think Taure in an earlier comment said they didn't like thinking of it in that fashion); if it is, how does that energy move, and how does a wizard's will shape it? I would also imagine such a course would delve a bit into wandlore to help rectify why a wizard "needs" a wand.
+
+Just my two cents. I fully plan to write another Dumbledore piece on wandless magic and how it works, which will delve heavily into what I imagine as "theoretical spellcraft".
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 1
+:DateUnix: 1515430204.0
+:DateShort: 2018-Jan-08
+:END:
+
+***** I didn't really see Taure's comment as saying that an understanding of magic was essential to performing it. I think Taure's headcanon document says that rather, a deeper understanding of magic leads to better results, but this can also be achieved through more practice.
+
+I'm not sure if my interpretation is consistent with yours, but I always thought that indeed, magic does not /need/ a wand or incantation/wand movements, but the incantation/wand movements help to focus your intent coherently, and the preexisting magic in the wand (like the unicorn tail hairs and dragon heartstrings) help give the spells you do more power.
+
+Ooh I would be extremely interested in reading such a Dumbledore piece! Dumbledore's style with all the footnotes is a pleasure to read, and I wish my own professors could format their lecture notes in such a way!
+
+However, I don't think that there /is/ a single correct interpretation of the magic system in Harry Potter to the specificity that Taure has written; I think that since it's all just distilled from the evidence in the books instead of ever being stated outright. There are probably some pretty good fanfics with a bit of a tweaked magic system based on more formal rules (such as The Arithmancer) and I think they're pretty fun as long as people don't get them confused with canon.
+:PROPERTIES:
+:Author: allieee212
+:Score: 2
+:DateUnix: 1515456381.0
+:DateShort: 2018-Jan-09
+:END:
+
+
+** This is amazing and I love it. Great work!
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 9
+:DateUnix: 1515277442.0
+:DateShort: 2018-Jan-07
+:END:
+
+*** Thank you kindly!
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 5
+:DateUnix: 1515281736.0
+:DateShort: 2018-Jan-07
+:END:
+
+
+** You know, you should show this to [[/r/harrypotter]] if you haven't already.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 8
+:DateUnix: 1515277674.0
+:DateShort: 2018-Jan-07
+:END:
+
+*** Hadn't thought of it honestly, but good idea!
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 3
+:DateUnix: 1515281724.0
+:DateShort: 2018-Jan-07
+:END:
+
+
+** looks awesome but I've read too many research articles in an intro to research class already. /shudders/
+
+edit: also where be the citations? lol
+:PROPERTIES:
+:Author: lightningowl15
+:Score: 8
+:DateUnix: 1515290004.0
+:DateShort: 2018-Jan-07
+:END:
+
+*** I like to think that wizard experts are treated as true authorities in their field. Their exploits are so well-renowned that they don't have to cite anyone; other wizards know they're right. But there are several footnotes throughout where I “cite” certain other wizards. :)
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 6
+:DateUnix: 1515290457.0
+:DateShort: 2018-Jan-07
+:END:
+
+
+*** But, perhaps on a follow-up I will add more magical references to up the realism. :)
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 2
+:DateUnix: 1515291758.0
+:DateShort: 2018-Jan-07
+:END:
+
+**** tbh I'm not sure how much magical literature would resemble muggle papers, but whatever :P
+:PROPERTIES:
+:Author: lightningowl15
+:Score: 2
+:DateUnix: 1515292041.0
+:DateShort: 2018-Jan-07
+:END:
+
+***** They say write what you know!
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 2
+:DateUnix: 1515292509.0
+:DateShort: 2018-Jan-07
+:END:
+
+
+** That was spot on Albus Dumbledore. Incredible work, Master AgingHipster.
+
+#+begin_quote
+  1Reference the venerable Horatio Hogswallow, who told me that my argument to distinguish the two was “worth little more than [his] namesake”.
+#+end_quote
+
+That almost made me choke on my coffee, not because its an especially funny joke, but because I see little passive aggressive sidenotes like this is /so many/ scientific texts.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 6
+:DateUnix: 1515320535.0
+:DateShort: 2018-Jan-07
+:END:
+
+*** High praise, thank you very much!
+
+Oh yes, that happens all the time and was the inspiration for those two footnotes. I was specifically channelling a well-known “personal” fight from the biology literature. Nice catch on that!!
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 3
+:DateUnix: 1515333615.0
+:DateShort: 2018-Jan-07
+:END:
+
+
+** I found myself grinning so widely at footnote #56, I could practically /hear/ the old man's eyes twinkling merrily, as they no doubt would be at such a moment.
+
+You've done an excellent job of not just capturing some interesting lore and deeper mechanics of magic, but also the kind of extensive and descriptive vocabulary I would expect in such a work, and the unique mix of humour and intelligence that really bring Dumbledore to life.
+:PROPERTIES:
+:Author: Judge_Knox
+:Score: 3
+:DateUnix: 1515334291.0
+:DateShort: 2018-Jan-07
+:END:
+
+*** Wow, thank you, that is incredibly flattering! I'm glad you enjoyed it.
+
+Also: Jesus, #56. I couldn't stop with the footnotes...
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 2
+:DateUnix: 1515334586.0
+:DateShort: 2018-Jan-07
+:END:
+
+
+** I loved this! It sounds just like Dumbledore the majority of the time, and your footnotes had me laughing out loud on a number of occasions.
+
+I was surprised that you referenced the Scholomance, as although I independently discovered the myth recently as part of my own research, I don't remember ever seeing it appear in any fic I've come across.
+:PROPERTIES:
+:Author: SteamAngel
+:Score: 3
+:DateUnix: 1515350470.0
+:DateShort: 2018-Jan-07
+:END:
+
+*** Thanks, glad you enjoyed it! I've spent a lot of free time over the years reading folklore and mythology from across the globe. Not sure where I first heard of Scholomance, but I think it features in World of Warcraft? And I clearly took some major liberties with the lore (both ours and the Potterverse's).
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 3
+:DateUnix: 1515352916.0
+:DateShort: 2018-Jan-07
+:END:
+
+
+** I haven't finished it yet, but before I forgot I wanted to take a moment to say that this is absolutely brilliant.
+:PROPERTIES:
+:Author: SouthernVices
+:Score: 1
+:DateUnix: 1515282140.0
+:DateShort: 2018-Jan-07
+:END:
+
+*** Thank you kindly!
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 1
+:DateUnix: 1515283171.0
+:DateShort: 2018-Jan-07
+:END:
+
+
+** This is delightful. The footnotes and asides put me very much in mind of Sir Pterry. Well done!
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 1
+:DateUnix: 1515284093.0
+:DateShort: 2018-Jan-07
+:END:
+
+*** Thank you very much! Tell your friends!
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 1
+:DateUnix: 1515285006.0
+:DateShort: 2018-Jan-07
+:END:
+
+
+** If you wanted to go for the feel of an academic article, that's way too many footnotes and not enough citations.
+:PROPERTIES:
+:Author: KaneTW
+:Score: 1
+:DateUnix: 1515290739.0
+:DateShort: 2018-Jan-07
+:END:
+
+*** For a traditional article, absolutely, and particularly so for a review. But I imagine wizard experts are considered true experts who are taken at their word for their expertise, rather than expected to reference preceding work. But I do “cite” certain works and researchers throughout. (And, if I'm to be frank, I just didn't much feel like making up that many scholarly titles.)
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 5
+:DateUnix: 1515291660.0
+:DateShort: 2018-Jan-07
+:END:
+
+
+*** Oh, and thanks for the comment! Perhaps in a follow-up I will endeavor to have more citations.
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 1
+:DateUnix: 1515291729.0
+:DateShort: 2018-Jan-07
+:END:
+
+
+** What a fantastic read! Thank you for sharing!
+:PROPERTIES:
+:Author: cavey_dude
+:Score: 1
+:DateUnix: 1515293311.0
+:DateShort: 2018-Jan-07
+:END:
+
+*** Thanks for reading, glad you enjoyed it!
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 1
+:DateUnix: 1515293384.0
+:DateShort: 2018-Jan-07
+:END:
+
+
+** What an amazing read. Really like the little notes at the end of each page. Maybe a little too much concentration on muggles, which I know that Dumbledore was a lover of, who Dumbledore wouldn't concentrate on.
+:PROPERTIES:
+:Author: iamAgooner
+:Score: 1
+:DateUnix: 1515339688.0
+:DateShort: 2018-Jan-07
+:END:
+
+*** Thank you kindly! Yeah I spent a lot of time on Muggle thinking and science, probably because that's what framed my thinking for a big part of the teleportation section. And I just like the idea that Dumbledore would be like, “Hey, this Einstein guy really seems to know his stuff. I'm gonna read his papers.”
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 3
+:DateUnix: 1515340350.0
+:DateShort: 2018-Jan-07
+:END:
+
+**** I agree that Dumbledore would be the kind of wizard who would think to read muggle scientists but only to say how wrong they were because they don't know about the magical possibilities and concepts to explain the science.
+:PROPERTIES:
+:Author: iamAgooner
+:Score: 2
+:DateUnix: 1515343366.0
+:DateShort: 2018-Jan-07
+:END:
+
+***** Here we have to disagree. I think Dumbledore had too much respect for Muggles and their ingenuity, and I suspect he would have been fascinated by Einstein's theory and way of thinking. In my headcanon, Dumbledore had always know how teleportation worked---by bending the universe, or moving a wizard---but Einstein's space-time surface provided an excellent construct to describe the phenomenon. But then, given Dumbledore's inquisitive nature, he would naturally ask himself, “If space-time works to describe the process of teleportation, and space-time is a part of special relativity, what else does relativity imply about magic?” He might not believe it, but he would be fascinated by the possibility that a Muggle had learned so much about their world, whether they knew it or not!
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 3
+:DateUnix: 1515344910.0
+:DateShort: 2018-Jan-07
+:END:
+
+
+***** But now I am contemplating a philosophical position paper by Dumbledore called “When World Collide: Can Muggle Science Inform Magical Research?”
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 1
+:DateUnix: 1515345224.0
+:DateShort: 2018-Jan-07
+:END:
+
+****** Too deep a topic for a Sunday afternoon. I personally think Dumbledore would see the theory and prospose his own more magical explanation to relativity. And the philosophical paper does sound intriguing.
+:PROPERTIES:
+:Author: iamAgooner
+:Score: 1
+:DateUnix: 1515347171.0
+:DateShort: 2018-Jan-07
+:END:
+
+******* Possibly, but I disagree! Dumbledore knows Muggles are capable of all sorts of things due only to their ingenuity. Making a plane fly is an incredible feat of physics, for example, and I imagine that Dumbledore would wonder, if that's possible without magic, what more can be done without it? Are we playing by the same rules as Muggles and just using a different set of tools?
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 1
+:DateUnix: 1515430848.0
+:DateShort: 2018-Jan-08
+:END:
+
+
+** I really enjoyed this
+:PROPERTIES:
+:Author: beetnemesis
+:Score: 1
+:DateUnix: 1515417273.0
+:DateShort: 2018-Jan-08
+:END:
+
+*** Thank you very much!
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 1
+:DateUnix: 1515429217.0
+:DateShort: 2018-Jan-08
+:END:
+
+
+** Do you plan on writing any more? I'd love to see something like a scientific analysis of duelling!
+:PROPERTIES:
+:Author: Rob-With-One-B
+:Score: 1
+:DateUnix: 1515433648.0
+:DateShort: 2018-Jan-08
+:END:
+
+*** Yes I do, as time permits! I've thought about "articles" on theoretical spellcraft (e.g., why do wizards need wands?), philosophy of magic relative to Muggle science, etc. Hadn't considered duelling specifically, though. Were you thinking like a tactics paper?
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 1
+:DateUnix: 1515448824.0
+:DateShort: 2018-Jan-09
+:END:
+
+
+** Hi! As a newbie to this reddit, I cannot find the pdf :( let me know how I can access it?
+:PROPERTIES:
+:Author: partyAddict13
+:Score: 1
+:DateUnix: 1526969310.0
+:DateShort: 2018-May-22
+:END:
+
+*** In the first paragraph there is a link (the word “Here”). Just follow it!
+:PROPERTIES:
+:Author: TheAgingHipster
+:Score: 1
+:DateUnix: 1527029935.0
+:DateShort: 2018-May-23
+:END:

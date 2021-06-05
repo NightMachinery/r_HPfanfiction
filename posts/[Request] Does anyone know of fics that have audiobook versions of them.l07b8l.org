@@ -1,0 +1,133 @@
+#+TITLE: [Request] Does anyone know of fics that have audiobook versions of them?
+
+* [Request] Does anyone know of fics that have audiobook versions of them?
+:PROPERTIES:
+:Author: A_FluteBoy
+:Score: 2
+:DateUnix: 1611014470.0
+:DateShort: 2021-Jan-19
+:FlairText: Request
+:END:
+Hello, I like to read a lot of these fan fics, but sometimes I am doing something that doesn't let me read so I would like to be able to listen to an audiobook version.
+
+Do any of you know of good fics that have an audiobook version of them?
+
+I know that Harry Potter and the Methods of Rationality has one, but have no idea how i would go about searching for others.
+
+
+** Search "podfic," or set the word count on your search to be anything under...dunno, 25? 50?
+
+Hard to give specifics since you don't say what sort of fics you like, but Saras_girl, one of my most favorite fanfic authors, has a couple on her AO3 profile, and I know I've run across several others. Here's one:
+
+[[https://archiveofourown.org/works/4419794]]
+:PROPERTIES:
+:Author: Fugue78
+:Score: 3
+:DateUnix: 1611018133.0
+:DateShort: 2021-Jan-19
+:END:
+
+*** Thanks, I'll give it a look!
+:PROPERTIES:
+:Author: A_FluteBoy
+:Score: 1
+:DateUnix: 1611021263.0
+:DateShort: 2021-Jan-19
+:END:
+
+
+** I would recommend looking into TextToSpeech.
+
+I myself use IVONA Brian as the voice, and [[http://cross-plus-a.com/bconsole.htm][Balaboka]] by executing the command ="...\balabolka_console.exe"  -c -s 0 -n Brian= I have my Clipboard read aloud to me... which means that I just copy the chapter ^{I have written a javascript that selects the text, runs some regexp cleanup on it then copies it to the clipboard... but it's messy/not ready} and then press the shortcut^{I have a Streamdeck-Mini so I have physical button for it} and I go do other stuff.
+
+--------------
+
+now, one should note that expectations shouldn't be too high as the reading will be done without emotion which one gets used to (reading has no emotion either) and some words are taken as shortened versions of others for example: =Sun.= is read as =Sunday= and so on
+:PROPERTIES:
+:Author: Erska
+:Score: 2
+:DateUnix: 1611064377.0
+:DateShort: 2021-Jan-19
+:END:
+
+*** Thank you, this looks promising. I've often wondered if I could just get a text to speech reader of my browser. Any idea if there is something like this for mobile? I do most of my listening on the go.
+:PROPERTIES:
+:Author: A_FluteBoy
+:Score: 1
+:DateUnix: 1611095671.0
+:DateShort: 2021-Jan-20
+:END:
+
+**** on F-Droid (android FOSS-store) I've found =Talk Free= and one can install IVONA Brian for Android too ^{google it up due to IVONA being abandoned after buyout by Amazon I think}.
+
+This one takes =Share=d text and reads it aloud... but it does stop on Interrupt. I've a ½written program that would do the work...but I ran into problems and it's "on Hiatus" -.-'
+
+--------------
+
+I tend to use ="...\balabolka_console.exe" -c -w "e:\readContent.wav" -s 0 -n brian= ran through /lame/ to convert the .wav to .mp3 ="...\lame.exe" -V4 "E:\readContent.wav" "...\01 - readContent.mp3"=
+
+which means I send over the mp3file and use Musicolet to play it, as it supports creating Shortcuts to folders (which means i got a icon on the main screen to open the folder the mp3 is sent to)
+:PROPERTIES:
+:Author: Erska
+:Score: 1
+:DateUnix: 1611121364.0
+:DateShort: 2021-Jan-20
+:END:
+
+
+** There are at least a handful of authors on ao3, try searching for podfic they are usually good about tagging it [sometimes in the title].
+:PROPERTIES:
+:Author: couchfly
+:Score: 1
+:DateUnix: 1611099170.0
+:DateShort: 2021-Jan-20
+:END:
+
+*** Perfect! Thank you, this is exactly the type of information I was looking for. I didn't even know this was a tag.
+:PROPERTIES:
+:Author: A_FluteBoy
+:Score: 1
+:DateUnix: 1611108127.0
+:DateShort: 2021-Jan-20
+:END:
+
+
+** You know, there would be a lot of profit to be made if one was to have a business of turning fanfics into audio books, I know I'd be a customer
+:PROPERTIES:
+:Author: PotatoBro42069
+:Score: 1
+:DateUnix: 1611015120.0
+:DateShort: 2021-Jan-19
+:END:
+
+*** Oh man, that could be a fun job lol. Not sure you could really make money off of it though, might be copyright infringement or something
+:PROPERTIES:
+:Author: A_FluteBoy
+:Score: 1
+:DateUnix: 1611015254.0
+:DateShort: 2021-Jan-19
+:END:
+
+**** Partnerships: they make fics, you make discs
+:PROPERTIES:
+:Author: PotatoBro42069
+:Score: 1
+:DateUnix: 1611021077.0
+:DateShort: 2021-Jan-19
+:END:
+
+***** I mean like you can't make money of HP fics as it is. If it just random fics (or originals) then maybe ya, you could do a partnership thing.
+:PROPERTIES:
+:Author: A_FluteBoy
+:Score: 3
+:DateUnix: 1611021203.0
+:DateShort: 2021-Jan-19
+:END:
+
+****** Ok
+:PROPERTIES:
+:Author: PotatoBro42069
+:Score: 1
+:DateUnix: 1611021612.0
+:DateShort: 2021-Jan-19
+:END:

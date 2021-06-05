@@ -1,0 +1,193 @@
+#+TITLE: FF.net shutting down?
+
+* FF.net shutting down?
+:PROPERTIES:
+:Author: Wirenfeldt
+:Score: 3
+:DateUnix: 1621806330.0
+:DateShort: 2021-May-24
+:FlairText: Meta
+:END:
+Someone on [[/r/hpslashfic][r/hpslashfic]] is saying that FF.net might shut down and urged everyone to start backing up everything they want to keep
+
+Could some coding genius like [[/u/tusing]] or others maybe figure out how to make bulk downloading easier or something?
+
+
+** Their twitter claims they're physically migrating to new servers atm (as in, the message was thirty minutes ago). I highly doubt they'd do that if the site was dying.
+
+I imagine what you heard might've been a misinterpretation on someone's part.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 26
+:DateUnix: 1621807548.0
+:DateShort: 2021-May-24
+:END:
+
+*** This is actually wrong. The site shows the tweet as being 34 minutes ago or something, but that's actually from a long time ago. Their latest tweet was an update to the android app on may 11.
+:PROPERTIES:
+:Author: AaronAegeus
+:Score: 5
+:DateUnix: 1621829878.0
+:DateShort: 2021-May-24
+:END:
+
+**** So it is. Good catch, thanks!
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 2
+:DateUnix: 1621880348.0
+:DateShort: 2021-May-24
+:END:
+
+
+** I use Calibre and FanFicFare to download multiple stories at once, you just need to input the url.
+
+I wouldn't worry about ffn shutting down in the near future, they just finished a server migration. Eventually it will go down, but I don't see that happening for another few years at least.
+
+Oh the other hand, it never hurts to have your favorite fics downloaded, you never know if the author might decide to take them down.
+:PROPERTIES:
+:Author: Welfycat
+:Score: 10
+:DateUnix: 1621807644.0
+:DateShort: 2021-May-24
+:END:
+
+*** [[https://github.com/JimmXinu/FanFicFare]] for the link. It is available either as a stand-alone command line application or as a Calibre plugin.
+:PROPERTIES:
+:Author: ceplma
+:Score: 5
+:DateUnix: 1621808651.0
+:DateShort: 2021-May-24
+:END:
+
+
+** It seems this is a rumor getting blown out of proportion. Here is a good summary about what is happening: reddit.com[[/r/FanFiction/comments/mg6c0e/is]]_there_any_truth_to_this_round_of_fanfictionnet/
+:PROPERTIES:
+:Author: Serena_Sers
+:Score: 11
+:DateUnix: 1621811513.0
+:DateShort: 2021-May-24
+:END:
+
+
+** FFn is too big of a beast to die and the owners are raking in too much money from ad-revenue. It's not going anywhere, and the fact they're migrating to better servers indicates that they're not going to let their cash-cow die.
+:PROPERTIES:
+:Author: MidgardWyrm
+:Score: 8
+:DateUnix: 1621822528.0
+:DateShort: 2021-May-24
+:END:
+
+
+** I've used [[https://ficsave.xyz][ficsave.xyz]] successfully in the past. It works for one story at a time. I don't know of any tools that can download multiple stories at once.
+:PROPERTIES:
+:Author: a_marie_z
+:Score: 4
+:DateUnix: 1621807375.0
+:DateShort: 2021-May-24
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1621821264.0
+:DateShort: 2021-May-24
+:END:
+
+*** I was thinking the same thing. The bulk of my readers are on FFN. Some of the other comments are making me feel better though.
+:PROPERTIES:
+:Author: grace644
+:Score: 1
+:DateUnix: 1621829652.0
+:DateShort: 2021-May-24
+:END:
+
+**** I mean, there's always ao3... but it isn't the same in a lot of ways even though the interface is much, much more modern.
+:PROPERTIES:
+:Author: HeirGaunt
+:Score: 1
+:DateUnix: 1621833057.0
+:DateShort: 2021-May-24
+:END:
+
+***** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1621839137.0
+:DateShort: 2021-May-24
+:END:
+
+****** I mean, I just read fanfic on whatever platform I first encounter. And I don't sort or search for fics on FFN or ao3, I just get rec-lists from somewhere else.
+
+That said, the skins on ao3 make for a much better reader experience.
+:PROPERTIES:
+:Author: HeirGaunt
+:Score: 2
+:DateUnix: 1621839781.0
+:DateShort: 2021-May-24
+:END:
+
+******* [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1621840047.0
+:DateShort: 2021-May-24
+:END:
+
+******** AO3 isn't all better. They both have their strong points. For example, FFN has private messages, the ability to distinguish Favorites from Follows, and predictable URLs (so you can jump to a different chapter, or to the reviews, by editing the URL). AO3's comments, on the other hand, work better for having an actual conversation, and they allow markup.
+
+From what I understand, though, AO3 treats its community better. The deletion of Nightmares of Futures Past, with no consultation and ignoring all attempts by the author to contact them, probably wouldn't have happened on AO3.
+:PROPERTIES:
+:Author: thrawnca
+:Score: 4
+:DateUnix: 1621842811.0
+:DateShort: 2021-May-24
+:END:
+
+********* Ao3 has direct equivalents to faves and follows - bookmarks and subscriptions.
+:PROPERTIES:
+:Author: _jammerific
+:Score: 2
+:DateUnix: 1621855580.0
+:DateShort: 2021-May-24
+:END:
+
+
+****** There is always Exlude Category M/M as a starting point. And while filled with quite a lot of weird stuff. I'd say I read as many normal fanfics on AO3 as on [[https://FF.net][FF.net]]. it's just down to where authors keep their fics.
+:PROPERTIES:
+:Author: RedKorss
+:Score: 2
+:DateUnix: 1621893427.0
+:DateShort: 2021-May-25
+:END:
+
+
+***** Ao3.... they've got better filters than ff dot net by a coutry mile and they somehow still suck even more donkey balls than ff dot net's. And even if they didn't, the great majority of the writers there simply don't care enough to label their stuff properly anyway.
+
+Finding a decent story there, for me at least, practically requires you to wade into a sea of unnecessary angst, because every other story there seems to find great joy in illustrating how horrific life really would be in fantasy land, daddy issues, gender issues and incredibly huge amounts of slash first.
+
+And like I said, practically no one there label's their stuff properly, so the filters do jack squat.
+:PROPERTIES:
+:Author: CreamPuffDelight
+:Score: 1
+:DateUnix: 1621834783.0
+:DateShort: 2021-May-24
+:END:
+
+****** I mean, I never directly search for fic myself. I just look at the various rec threads on this subreddit and then go see if I can find the fic on ffn/ao3 (wherever I find it first.)
+:PROPERTIES:
+:Author: HeirGaunt
+:Score: 2
+:DateUnix: 1621838633.0
+:DateShort: 2021-May-24
+:END:
+
+
+** It is
+:PROPERTIES:
+:Author: ju88A4
+:Score: -10
+:DateUnix: 1621806756.0
+:DateShort: 2021-May-24
+:END:

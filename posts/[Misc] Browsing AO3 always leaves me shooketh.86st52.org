@@ -1,0 +1,510 @@
+#+TITLE: [Misc] Browsing AO3 always leaves me shooketh
+
+* [[https://i.redd.it/mqu02fkpjpn01.png][[Misc] Browsing AO3 always leaves me shooketh]]
+:PROPERTIES:
+:Author: pumpkinsouptroupe
+:Score: 378
+:DateUnix: 1521895744.0
+:DateShort: 2018-Mar-24
+:FlairText: Misc
+:END:
+
+** I get that AO3 was supposed to be made as the better alternative to fanfiction.net, and it does have a lot of things I like about it better, but the tagging system is so broken its ridiculous. First of all, there should be some kind of tag limit like fanfiction.net. Maybe a bit less restrictive but still a limit. On top of that, tags should be made by choosing from a list of characters like fanfiction.net as well so you dont up with a bunch of variations of tags that essentially mean the same thing for example (Harry/Ginny and Harry Potter/Ginny Weasley and Harry Potter/Ginny, etc...).
+
+At least thats what I've noticed. Unless they've changed how tagging works recently those are its biggest problems.
+:PROPERTIES:
+:Author: Emerald-Guardian
+:Score: 122
+:DateUnix: 1521902542.0
+:DateShort: 2018-Mar-24
+:END:
+
+*** I think part of the problem with AO3 is that nobody can agree on how the fuck one should tag things.
+
+Like ships. Should you tag every ship which appears in the fic because it might be someone's backbutton issue? Some people say yes. Other people say that it makes finding stories specifically relating to a ship which often appears in the background of stories a nightmare. I can see both sides of the thing, but I'm not sure where anybody else sits on that issue.
+
+There is no universally agreed manual of style.
+
+I would also love the ability to tick a box that lets me ignore everything which is tagged with an entire category of fics. I am not now, nor will I ever be, interested in RPF especially related to One Direction or Korean pop stars and I really want to *never see them again*.
+:PROPERTIES:
+:Author: SerCoat
+:Score: 73
+:DateUnix: 1521912013.0
+:DateShort: 2018-Mar-24
+:END:
+
+**** Change the system to: Main ship(s) with a limit of three and then a background ship category.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 32
+:DateUnix: 1521912848.0
+:DateShort: 2018-Mar-24
+:END:
+
+
+**** Partial solution which already exists: if you tag a background ship in additional tags instead of relationship tags it won't show up if someone sorts by tags. I've tested this on my story, sort of (sort of tested, story is not sort of but 100% mine :P).
+
+Basically I have a main ship that's relevant and tagged, and then in extra tags I have "(also background [ship] because why not)". If you just go into [ship]'s tags my story doesn't show up (it was easy to check, that [ship] is a rarepair).
+
+I wish more people knew that this works, you can tag background stuff that might be off-putting for some readers but you don't make the lives of rarepair shippers more hellish.
+:PROPERTIES:
+:Author: Karaeir
+:Score: 13
+:DateUnix: 1521927302.0
+:DateShort: 2018-Mar-25
+:END:
+
+***** Interesting. I just started mirroring my stories on AO3, and maybe I should go back and clean up the tags a bit with this. I agree background ships would be a big improvement. As others have pointed out, being able to filter out all crossovers like FFN does by default would be a /massive/ improvement.
+
+By the way, has anyone else noticed the automatic chapter numbering system? It's impossible to get the site to number chapters correctly if you have prologues or interludes. I checked, and they promised a fix for this problem in 2009, and they never delivered.
+:PROPERTIES:
+:Author: TheWhiteSquirrel
+:Score: 2
+:DateUnix: 1521952189.0
+:DateShort: 2018-Mar-25
+:END:
+
+
+**** Not sure if this is what you're looking for with regards to filtering out fics, but entering "-rpf" in "search within results" should do the trick. -"one direction" and -"Music & Bands" or -"K-pop" should be able to filter out the majority of the fics you're talking about. For any common tags you want to filter, you could try going to their tag page and filtering out any parent or meta tags.
+
+I agree with you on the whole tagging issue. One solution might be to allow community voting on tags, so that more relevant pairings can float to the top. Maybe search could be modified to accept a "vote threshold" parameter? Alternative, each tag could be given a relevancy rating, "major" or "minor", or numerical values from 1 to 5.
+:PROPERTIES:
+:Author: php30010
+:Score: 12
+:DateUnix: 1521913952.0
+:DateShort: 2018-Mar-24
+:END:
+
+
+*** My biggest issue with Ao3's system is the abuse of character tags. People often tend to tag every single character with a speaking role which makes them useless if you want to find stories with a particular main character. If a character isn't in the top 4 or 5 most important in a fic they shouldn't be tagged.
+:PROPERTIES:
+:Author: ClearlyClaire
+:Score: 37
+:DateUnix: 1521919457.0
+:DateShort: 2018-Mar-24
+:END:
+
+**** I completely agree!
+:PROPERTIES:
+:Author: Emerald-Guardian
+:Score: 5
+:DateUnix: 1521919687.0
+:DateShort: 2018-Mar-24
+:END:
+
+
+*** u/t1mepiece:
+#+begin_quote
+  a bunch of variations of tags that essentially mean the same thing for example (Harry/Ginny and Harry Potter/Ginny Weasley and Harry Potter/Ginny, etc...).
+#+end_quote
+
+Ao3 specifically has "tag wranglers" who mark those kinds of things as synonyms of each other, so that people can use any variation they want and it means the same thing, and they all show up in search. So, your example: [[https://archiveofourown.org/tags/Harry%20Potter*s*Ginny%20Weasley]]
+:PROPERTIES:
+:Author: t1mepiece
+:Score: 25
+:DateUnix: 1521913863.0
+:DateShort: 2018-Mar-24
+:END:
+
+**** Ok thats good to know at least. I thought they were all separate so you had to search for the exact variation to find the fic tagged like that. It doesn't fix the people that still add like a million tags onto their story but it does fix what I thought was a major problem.
+:PROPERTIES:
+:Author: Emerald-Guardian
+:Score: 2
+:DateUnix: 1521914122.0
+:DateShort: 2018-Mar-24
+:END:
+
+***** No, you can see it in action: search for Harry/Ginny, all the top results are actually tagged Harry Potter/Ginny Weasley. The tag wranglers are an awesome part of the site. And all volunteers, too!
+:PROPERTIES:
+:Author: t1mepiece
+:Score: 7
+:DateUnix: 1521914746.0
+:DateShort: 2018-Mar-24
+:END:
+
+****** I believe you. What I meant in my last comment was that I didn't know that before you told me :P
+:PROPERTIES:
+:Author: Emerald-Guardian
+:Score: 4
+:DateUnix: 1521916416.0
+:DateShort: 2018-Mar-24
+:END:
+
+
+*** All those tags you listed as esstally meaning the same thing actually are the same tag in ao3, all (commomy used) tags with the same meaning are made synonymous in search functions, the only other problem you brought up with ao3 is you want a tag limit? personally i doubt see any benefit from that(unless your like morally opposed to content warnings or something) and plenty of losses (not least of which is you'd have to either grandfather in the old fics that are over the tag limit or hire people to go though all of their tags and pick out the inportant ones) and if a story has to many tags then thats the authors fault not the archives.
+:PROPERTIES:
+:Author: weq150
+:Score: 7
+:DateUnix: 1521921368.0
+:DateShort: 2018-Mar-25
+:END:
+
+**** I was originally under the impression with people naming their tags whatever they wanted that each of my examples would bring up a separate thing. I have since had that cleared up for me.
+:PROPERTIES:
+:Author: Emerald-Guardian
+:Score: 2
+:DateUnix: 1521923066.0
+:DateShort: 2018-Mar-25
+:END:
+
+
+** The rampant overtagging is what prevented me from giving Ao3 a chance to begin with. Heh
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 58
+:DateUnix: 1521902264.0
+:DateShort: 2018-Mar-24
+:END:
+
+*** Actually, it's a feature. Just avoid those authors completely. If you find a story with only 8-10 tags, then it's worth trying.
+:PROPERTIES:
+:Author: t1mepiece
+:Score: 39
+:DateUnix: 1521913953.0
+:DateShort: 2018-Mar-24
+:END:
+
+**** A feature which is more trouble than its worth as a reader or an author. I might give it a try some other time.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 9
+:DateUnix: 1521915628.0
+:DateShort: 2018-Mar-24
+:END:
+
+***** I don't generally try to just browse. If you can find just one good story, then you can check out the author's bookmarks and find stuff that way. And then repeat with those stories. Or sometimes you find something in a collection, and can check the rest of the collection.
+:PROPERTIES:
+:Author: t1mepiece
+:Score: 8
+:DateUnix: 1521928685.0
+:DateShort: 2018-Mar-25
+:END:
+
+
+*** Same. I'm not big on Harry/Ginny or Harry/Hermione but the less common pairings are always getting bunged into these tag fests. Not worth trying to read any of them.
+:PROPERTIES:
+:Author: Ch1pp
+:Score: 5
+:DateUnix: 1521923188.0
+:DateShort: 2018-Mar-25
+:END:
+
+
+** Oh god, this ridiculous tagging has to stop. It's the worst with fics that have only one chapter (and will probably remain so), yet feel it necessary to include every pairing and everything else that might or might not happen in future chapters that will never be written.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 96
+:DateUnix: 1521898272.0
+:DateShort: 2018-Mar-24
+:END:
+
+*** Or when a fic is just a multi-fandom collection of one-shots and has every little detail tagged. Just. Stop.
+:PROPERTIES:
+:Author: Karaeir
+:Score: 57
+:DateUnix: 1521900059.0
+:DateShort: 2018-Mar-24
+:END:
+
+**** Because what I really want in my tiny fandom or rarepair is a behemoth of drabbles where there 1 x 100 words relating to aforementioned tiny fandom or rarepair.
+:PROPERTIES:
+:Author: SerCoat
+:Score: 27
+:DateUnix: 1521911367.0
+:DateShort: 2018-Mar-24
+:END:
+
+
+*** I always think it is pretty clear you only tag for the chapters you have written, and you don't tag for unessential things that happen once in a single line. But even still there's crap with more tags than written sentences, getting hundreds of kudos because "the first chapter was so good", even though that second chapter hasn't been written in the four years the story's been online...
+:PROPERTIES:
+:Author: HBOscar
+:Score: 2
+:DateUnix: 1521979520.0
+:DateShort: 2018-Mar-25
+:END:
+
+
+** Kill it with fire, before it can reproduce.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 63
+:DateUnix: 1521896780.0
+:DateShort: 2018-Mar-24
+:END:
+
+*** Fiendfyre?
+:PROPERTIES:
+:Author: WilFenrir
+:Score: 15
+:DateUnix: 1521897214.0
+:DateShort: 2018-Mar-24
+:END:
+
+**** No, it's Light counterpart, Phoenixfire, which is like fiendfire except only Light Lords can cast it.
+:PROPERTIES:
+:Author: Astramancer_
+:Score: 45
+:DateUnix: 1521902921.0
+:DateShort: 2018-Mar-24
+:END:
+
+***** Light Lord Potter-Black-Magic-God
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 14
+:DateUnix: 1521913725.0
+:DateShort: 2018-Mar-24
+:END:
+
+
+***** Even better
+:PROPERTIES:
+:Author: WilFenrir
+:Score: 7
+:DateUnix: 1521904541.0
+:DateShort: 2018-Mar-24
+:END:
+
+
+***** [[https://vignette.wikia.nocookie.net/hearthstone/images/7/7b/Ragnaros%2C_Lightlord.gif]]
+
+LIVE, INSECT!
+
+wait
+:PROPERTIES:
+:Author: Amazements
+:Score: 4
+:DateUnix: 1521927512.0
+:DateShort: 2018-Mar-25
+:END:
+
+****** Great, now I have too look for HP/Warcraft Crossovers:
+
+Ok, 9 with a Word Count of 10k+, 5 of which can be immediately disregarded by looking at author tags (on topic for this thread), 3 I rejected after skimping over the first chapter, and now I'm reading Harry the Blue.
+
+Terrible yield.
+:PROPERTIES:
+:Author: AugustinCauchy
+:Score: 6
+:DateUnix: 1521932488.0
+:DateShort: 2018-Mar-25
+:END:
+
+******* Just remember Sturgeons Law: 90% of everything is crap.
+
+One in nine is pretty much par for course.
+:PROPERTIES:
+:Author: Astramancer_
+:Score: 7
+:DateUnix: 1521934825.0
+:DateShort: 2018-Mar-25
+:END:
+
+
+** I know what you mean. I like the organic modularity of AO3 and how it's a lot easier to search but my god the tagging is freaking insane a lot of the times.
+:PROPERTIES:
+:Score: 14
+:DateUnix: 1521904550.0
+:DateShort: 2018-Mar-24
+:END:
+
+
+** AO3 might have better architectural framework, but it sure as hell isn't the better site, due to shit like this.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 11
+:DateUnix: 1521916202.0
+:DateShort: 2018-Mar-24
+:END:
+
+*** This fic is the exception not the rule. In fact, only a small minority of fics are like this.
+:PROPERTIES:
+:Author: caterinax
+:Score: 6
+:DateUnix: 1521959177.0
+:DateShort: 2018-Mar-25
+:END:
+
+**** Far too many fics have far too many tags. And excluding tags is far too cumbersome. Why can't I right-click on a tag and pick "exclude" or "include" for the search menu? Who thought it would be a good idea to exclude tags by writing them out?
+:PROPERTIES:
+:Author: Starfox5
+:Score: 9
+:DateUnix: 1521965885.0
+:DateShort: 2018-Mar-25
+:END:
+
+***** Use AO3 Savior and AO3 Savior Config + Saved Filters for global and local-fandom-specific tags and exclusions
+
+[[https://greasyfork.org/en/scripts/3579-ao3-savior]]
+
+[[https://greasyfork.org/en/scripts/3578-ao3-saved-filters]]
+
+A guide to AO3 Savior - [[http://quietgames.tumblr.com/post/75235075885/how-to-ao3-savior-an-updated-tutorial]]
+:PROPERTIES:
+:Author: TesseractCipher
+:Score: 4
+:DateUnix: 1521994656.0
+:DateShort: 2018-Mar-25
+:END:
+
+
+***** u/Lakas1236547:
+#+begin_quote
+  Who thought it would be a good idea to exclude tags by writing them out?
+#+end_quote
+
+It's a result of the programming language they use.
+:PROPERTIES:
+:Author: Lakas1236547
+:Score: 1
+:DateUnix: 1521995333.0
+:DateShort: 2018-Mar-25
+:END:
+
+
+** I fucking hate those. I should start keeping a word doc of the search tags I use to avoid these
+
+-"doctor who" -buffy -holmes -smallville -"friends (TV)" -"fall out boy" -every other tag that I'm not looking for. I JUST WANT STAR WARS AND STAR WARS ALONE!
+:PROPERTIES:
+:Author: HighTreason25
+:Score: 17
+:DateUnix: 1521908372.0
+:DateShort: 2018-Mar-24
+:END:
+
+*** Use AO3 Savior and AO3 Savior Config + Saved Filters for global and local-fandom-specific tags and exclusions
+
+[[https://greasyfork.org/en/scripts/3579-ao3-savior]]
+
+[[https://greasyfork.org/en/scripts/3578-ao3-saved-filters]]
+
+A guide to AO3 Savior - [[http://quietgames.tumblr.com/post/75235075885/how-to-ao3-savior-an-updated-tutorial]]
+:PROPERTIES:
+:Author: TesseractCipher
+:Score: 3
+:DateUnix: 1521994421.0
+:DateShort: 2018-Mar-25
+:END:
+
+
+*** I was on board until you excluded Buffy, lol. One of the greatest shows to ever air imo. But a list of random to avoid is prolly wise
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1521909258.0
+:DateShort: 2018-Mar-24
+:END:
+
+**** Buffy fic is great, when you're /looking/ for Buffy fic.
+
+When you're looking for Star Wars fanfic, not so much with the greatness.
+:PROPERTIES:
+:Author: SerCoat
+:Score: 24
+:DateUnix: 1521911188.0
+:DateShort: 2018-Mar-24
+:END:
+
+***** Hah, true. Though there are some really good crossovers on Twisting the Hellmouth...
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1521911458.0
+:DateShort: 2018-Mar-24
+:END:
+
+
+**** Oh yeah, it's great, no doubt. But if I'm looking for specifically Spider-Man stuff, and not crossovers, then I have to hit all the bases.
+:PROPERTIES:
+:Author: HighTreason25
+:Score: 1
+:DateUnix: 1522042713.0
+:DateShort: 2018-Mar-26
+:END:
+
+
+** If I was to take a guess I would say that this story has a few thousand words before it was abandoned, and they spend more time tagging than actually writing the story, the reason of course being the cancer of actually looking at that shitpile for longer than anyone else.
+:PROPERTIES:
+:Author: smurph26
+:Score: 8
+:DateUnix: 1521906355.0
+:DateShort: 2018-Mar-24
+:END:
+
+*** It's a 5-minute-long music video that's not even a good one. The words (all 531 of them) are the lyrics and the author's (pfft) note.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 7
+:DateUnix: 1521913537.0
+:DateShort: 2018-Mar-24
+:END:
+
+
+** The video is 5 minutes long.
+:PROPERTIES:
+:Author: DifficultMeat
+:Score: 5
+:DateUnix: 1521897767.0
+:DateShort: 2018-Mar-24
+:END:
+
+
+** My brain actually refuses to process a block of tags like that. I don't care how good your fic is, I'm not going to search through that to try and decipher what I'm getting into.
+:PROPERTIES:
+:Author: r_ca
+:Score: 4
+:DateUnix: 1521945571.0
+:DateShort: 2018-Mar-25
+:END:
+
+
+** I reckon if the full set of stories from the Journeyerse or from the Wandererverse were on Ao3 it would look even longer than that.
+:PROPERTIES:
+:Author: nostaw
+:Score: 2
+:DateUnix: 1521906975.0
+:DateShort: 2018-Mar-24
+:END:
+
+
+** When searching for the Harry/Ginny pairing, Out of the first top 100 I'd say the vast majority of them were concentrated on slash. You have to make sure to tag out Harry/Draco, Harry/Tom and Harry/Dnape to even find a story that concentrated on that pairing. It's a pain in the ass.
+:PROPERTIES:
+:Author: fiachra12
+:Score: 2
+:DateUnix: 1523920659.0
+:DateShort: 2018-Apr-17
+:END:
+
+
+** Maneuvering through AO3 is like wandering through into a maze and then forgetting what a maze is
+:PROPERTIES:
+:Author: idontvapeisteam
+:Score: 2
+:DateUnix: 1532827236.0
+:DateShort: 2018-Jul-29
+:END:
+
+
+** It's a video, those are always gimmes. Those and misc. compilations.
+:PROPERTIES:
+:Author: kopikuchi
+:Score: 1
+:DateUnix: 1521922132.0
+:DateShort: 2018-Mar-25
+:END:
+
+
+** "Harry and the Potters"
+:PROPERTIES:
+:Author: UnusualOutlet
+:Score: 1
+:DateUnix: 1521937822.0
+:DateShort: 2018-Mar-25
+:END:
+
+
+** 1 chapter
+:PROPERTIES:
+:Author: piecromancer
+:Score: 1
+:DateUnix: 1533020147.0
+:DateShort: 2018-Jul-31
+:END:

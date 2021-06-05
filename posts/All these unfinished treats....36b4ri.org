@@ -1,0 +1,87 @@
+#+TITLE: All these unfinished treats...
+
+* All these unfinished treats...
+:PROPERTIES:
+:Author: hugggybear
+:Score: 8
+:DateUnix: 1431903767.0
+:DateShort: 2015-May-18
+:FlairText: Request
+:END:
+Just "finished" reading How to Save Harry, a HP/HG fic at this link [[http://fictionhunt.com/read/7316864/1]]. I have a feeling it was posted on this sub and that's how i stumbled upon it...
+
+For some reason the author has taken the story down? It isn't finished and yet the authors notes seem to indicate an intent to finish the story.
+
+Any ideas on whether or not it was finished?
+
+
+** Not that I can find. With a bit of luck, the author pulled it down to finish writing it before putting it back up. Another possibility is that the ff.net admins pulled it. I know they do that with some over M rated stuff.
+
+I actually haven't read this story yet so I hit it with a download script in case it vanishes from fictionhunt.
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 2
+:DateUnix: 1431915066.0
+:DateShort: 2015-May-18
+:END:
+
+*** A download script? What is this magic and how do i get it, i'd love to build my own library.
+:PROPERTIES:
+:Author: hugggybear
+:Score: 1
+:DateUnix: 1431915948.0
+:DateShort: 2015-May-18
+:END:
+
+**** Most of the stuff I read is on fanfiction.net so I just use [[http://www.fanfictiondownloader.net/download.php][FanFictionDownloader]].
+
+[[http://www.fanfictiondownloader.net/archives.php][Here]] is the list of sites it supports.
+
+I haven't used fictionhunt.com before but I just did a really simple 1 line script.
+
+#+begin_example
+  curl -O http://fictionhunt.com/read/7316864/[1-16]
+#+end_example
+
+It basically spits 16 files that have chapter number for the file name. I manually create a folder with the proper title and drop them all in.
+
+If you use fictionhunt.com a lot, let me know. I can probably make a script that would automate more of it.
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 2
+:DateUnix: 1431917433.0
+:DateShort: 2015-May-18
+:END:
+
+***** Honestly, i just love reading 17+ HG/HP fics, well written or not. I've been trying to amass a collection, over loads of different sites. I'll have to turn this bookmarks bar into files. I can't thank you enough for enlightening me.
+
+If you have any suggestions for me i'd be grateful as well i seem to be running out of stories over 100k words!
+:PROPERTIES:
+:Author: hugggybear
+:Score: 1
+:DateUnix: 1431919819.0
+:DateShort: 2015-May-18
+:END:
+
+
+***** How do you get around the ff.net copy protection? Disable Javascript?
+:PROPERTIES:
+:Author: MoonfireArt
+:Score: 0
+:DateUnix: 1431955875.0
+:DateShort: 2015-May-18
+:END:
+
+****** [[/u/dahlesreb]] made a great comment about a year ago.
+
+#+begin_quote
+  [[http://benalman.com/code/test/jquery-run-code-bookmarklet/?name=FF.net+Copyfix&ver=1.3.2&code=%24%28%22div.storytext%22%29.removeClass%28%22nocopy%22%29%3B][Here you go.]] Works in all browsers, just drag the green button into your bookmarks. Click it when you're on a ff.net site and copy/paste to your heart's content. Edit: probably won't work on mobile browsers due to how they implement bookmarks, sorry mobile readers.
+#+end_quote
+
+For fanfiction downloader apps and my personal scripts, they don't implement Javascript when saving the files and ff.net still gives you the raw story, they just use a bit of JS to disable highlighting.
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 1
+:DateUnix: 1431980556.0
+:DateShort: 2015-May-19
+:END:

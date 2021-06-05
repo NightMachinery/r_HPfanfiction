@@ -1,0 +1,121 @@
+#+TITLE: I'm practicing to link, but this is a good fic.
+
+* I'm practicing to link, but this is a good fic.
+:PROPERTIES:
+:Author: Zhalia_Riddle
+:Score: 2
+:DateUnix: 1591910558.0
+:DateShort: 2020-Jun-12
+:FlairText: Recommendation
+:END:
+I need to try something.
+
+{New Divide: By AislingSiobhan}([[https://archiveofourown.org/works/129360/chapters/183778]])
+
+
+** You need to do square brackets [] and parenthesese (), not {}()
+
+it would be
+
+#+begin_example
+  [New Divide: By AislingSiobhan](https://archiveofourown.org/works/129360/chapters/183778)
+#+end_example
+
+which results in
+
+[[https://archiveofourown.org/works/129360/chapters/183778][New Divide: By AislingSiobhan]]
+:PROPERTIES:
+:Author: Vercalos
+:Score: 2
+:DateUnix: 1591911174.0
+:DateShort: 2020-Jun-12
+:END:
+
+*** This is correct, but even better (this is standard Markdown after all), but in this subreddit it is even better to use robot and special commands like linkao3(New Divide by AislingSiobhan) (see the sidebar for explanation).
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1591912852.0
+:DateShort: 2020-Jun-12
+:END:
+
+**** [[https://archiveofourown.org/works/129360][*/New Divide/*]] by [[https://www.archiveofourown.org/users/AislingSiobhan/pseuds/AislingSiobhan][/AislingSiobhan/]]
+
+#+begin_quote
+  [LV/HP] Harry Potter was the Boy-Who-Lived. But by some twist of Fate he was also the reincarnation of Voldemort's murdered lover. Harry has enjoyed the past few years at Hogwarts, but this one looks set to be even more intriguing. Suddenly smarter than he was before and plagued with memories of his past life as he sleeps, Harry gets set for his school year. But then Voldemort finds out who Harry really is. And every thing changes. AU. Slash. LV/HP. Past LV/OC (Harry). Violence. Language. Character Death (OC). Flashbacks.
+#+end_quote
+
+^{/Site/:} ^{Archive} ^{of} ^{Our} ^{Own} ^{*|*} ^{/Fandom/:} ^{Harry} ^{Potter} ^{-} ^{J.} ^{K.} ^{Rowling} ^{*|*} ^{/Published/:} ^{2010-10-26} ^{*|*} ^{/Completed/:} ^{2012-06-05} ^{*|*} ^{/Words/:} ^{76939} ^{*|*} ^{/Chapters/:} ^{16/16} ^{*|*} ^{/Comments/:} ^{70} ^{*|*} ^{/Kudos/:} ^{1220} ^{*|*} ^{/Bookmarks/:} ^{424} ^{*|*} ^{/Hits/:} ^{25591} ^{*|*} ^{/ID/:} ^{129360} ^{*|*} ^{/Download/:} ^{[[https://archiveofourown.org/downloads/129360/New%20Divide.epub?updated_at=1589261775][EPUB]]} ^{or} ^{[[https://archiveofourown.org/downloads/129360/New%20Divide.mobi?updated_at=1589261775][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1591912867.0
+:DateShort: 2020-Jun-12
+:END:
+
+
+**** Actually, [[/u/Vercalos][u/Vercalos]] is /not/ correct; the closing bracket is misplaced.
+:PROPERTIES:
+:Author: thrawnca
+:Score: 1
+:DateUnix: 1591937069.0
+:DateShort: 2020-Jun-12
+:END:
+
+***** I missed the closing parentheses. fixed it.
+:PROPERTIES:
+:Author: Vercalos
+:Score: 1
+:DateUnix: 1591937586.0
+:DateShort: 2020-Jun-12
+:END:
+
+****** Now, you have two closing brackets.
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1591946781.0
+:DateShort: 2020-Jun-12
+:END:
+
+******* eh? I'm looking at the source and only see one.
+:PROPERTIES:
+:Author: Vercalos
+:Score: 1
+:DateUnix: 1591947327.0
+:DateShort: 2020-Jun-12
+:END:
+
+******** u/ceplma:
+#+begin_quote
+  =[New Divide: By AislingSiobhan](https://archiveofourown.org/works)/129360/chapters/183778)=
+#+end_quote
+
+one after “works” and one after the last number.
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1591947430.0
+:DateShort: 2020-Jun-12
+:END:
+
+********* Ah. Didn't notice due to line wrapping.
+:PROPERTIES:
+:Author: Vercalos
+:Score: 1
+:DateUnix: 1591947554.0
+:DateShort: 2020-Jun-12
+:END:
+
+
+*** Thanks for the tip.
+:PROPERTIES:
+:Author: Zhalia_Riddle
+:Score: 1
+:DateUnix: 1591911304.0
+:DateShort: 2020-Jun-12
+:END:

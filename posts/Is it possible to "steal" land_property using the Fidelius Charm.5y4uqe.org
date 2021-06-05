@@ -1,0 +1,990 @@
+#+TITLE: Is it possible to "steal" land/property using the Fidelius Charm?
+
+* Is it possible to "steal" land/property using the Fidelius Charm?
+:PROPERTIES:
+:Author: aaronhowser1
+:Score: 22
+:DateUnix: 1488935203.0
+:DateShort: 2017-Mar-08
+:FlairText: Discussion
+:END:
+For instance, if someone "really* wanted someone else's house, could they break in while the owners are gone and cast the charm? It's supposed to be hard or whatever, but it's a really nice house. If it /is/ possible, is it illegal? How would they persecute? The owners wouldn't know about it, and they probably wouldn't be the secret keepers, and wouldn't be able to report it.
+
+
+** They would know about it. They wouldn't know where the house is anymore. But they would definitely know that they had a house and don't know it´'s location
+:PROPERTIES:
+:Author: Quoba
+:Score: 24
+:DateUnix: 1488936495.0
+:DateShort: 2017-Mar-08
+:END:
+
+
+** It's been my belief for a while that there are limitations on the Fidelius charm implied by how it was used within the story.
+
+- It can only be used on a building, as that's the only way it was ever used
+- The owner must be a participant in the casting, as it's his or her property that is being secured
+- The Fidelius will break down if the building can no longer fulfill its function; if the roof is gone it's no longer a shelter
+- Corollary to the above, you can't cast the Fidelius on a monument, business or public building, as hiding it directly contradicts the purpose of that sort of building
+- The spell requires that trust be given; you can't make the secret keeper the one who is being hidden there and you can't make the secret keeper someone for whom you're holding a similar secret
+
+Unfortunately for that last point, book seven shot holes into any sense of consistency about how the spell functions, mostly with this one passage:
+
+#+begin_quote
+  ‘Right. Dobby, I want you to grab Luna, Dean and Mr Ollivander, and take them -- take them to --'
+
+  ‘Bill and Fleur's,' said Ron. ‘Shell Cottage on the outskirts of Tinworth!'
+#+end_quote
+
+Bill later informs Harry that their safehouses are protected by Fidelius charm, and that Bill is secret-keeper for Shell Cottage (his own house, though if Arthur Weasley bought it for them, maybe there's a loophole). That doesn't explain how Ron can tell Dobby where to evacuate them.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 15
+:DateUnix: 1488942711.0
+:DateShort: 2017-Mar-08
+:END:
+
+*** Unless I'm wrong they cast the Fidelius Charm on Shell Cottage after Harry, Ron, Hermione and the others arrive, which would explain how Ron was able to tell Dobby where to go.
+
+#+begin_quote
+  'Fidelius Charm. Dad's Secret Keeper. And we've done it on this cottage too...'
+#+end_quote
+
+It's confusing as you say that Bill is the Secret Keeper. I think your suggestion that Arthur might own the property is plausible, it's worth noting that the Weasleys move from the Burrow to Murial's House.
+:PROPERTIES:
+:Author: elizabnthe
+:Score: 6
+:DateUnix: 1488958609.0
+:DateShort: 2017-Mar-08
+:END:
+
+**** u/Deathcrow:
+#+begin_quote
+  Arthur might own the property is plausible,
+#+end_quote
+
+It would still undermine the whole Trust/Fidelius intent part of the spell, which IMHO is most important to preserve. Who cares who owns the house? If you can live in the house AND be the secret keeper there's no reason to ever have someone outside of the house be the secret keeper. Why didn't James and Lily just gift their house in Godrics Hollow to Dumbledore and be their own secret keepers?
+
+Same with the whole "underage Magic trace" stuff I think we have to accept that in some regards the writing is just too inconsistent to make sense of it. Fanfic authors should just stick with one or the other interpretation, explain how it works in their story and stay internally consistent that way.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 2
+:DateUnix: 1489079485.0
+:DateShort: 2017-Mar-09
+:END:
+
+
+*** Another reason for having an outsider knowing the secret would be the ability to spread it to the right people without the ones in hiding leaving the property. Bill, who's not as much as a target as Lily and James were, didn't have to remain at the property all the time.
+
+Also, I've added another limitation in my head-canon: the more people who know the would-be secret, the more it will take to perform the fidelius. Hiding Hogwarts, for instance, wouldn't work and possibly land the wizards and witches casting it in a coma.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1488967143.0
+:DateShort: 2017-Mar-08
+:END:
+
+
+*** When Ron went home maybe he was told by them? Making him Secret keeper as well too.
+:PROPERTIES:
+:Author: bladderdash_fernweh
+:Score: -1
+:DateUnix: 1488962401.0
+:DateShort: 2017-Mar-08
+:END:
+
+**** Thats not how it works. There is only ever one Secret Keeper. If you're told the secret you can see it, but you can't propagate it. The only way for someone else to tell the secret is to show a piece of paper where the Secret Keeper has written the secret on.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 2
+:DateUnix: 1488972619.0
+:DateShort: 2017-Mar-08
+:END:
+
+***** Or the secret keeper dying.
+:PROPERTIES:
+:Author: Steel_Shield
+:Score: 3
+:DateUnix: 1488980697.0
+:DateShort: 2017-Mar-08
+:END:
+
+****** true
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 0
+:DateUnix: 1488981784.0
+:DateShort: 2017-Mar-08
+:END:
+
+
+** I have a theory that the Fidelius Charm can only be used on buildings. It uses a four walls and a roof mentality and cannot be used to hide farmland or any open spaces. I believe that you cast it inside and then it expand outwards like a dome and stops at solid foundations. If a wall or roof breaks then the spell breaks -- also explains how the Fidelius over the Potter house vanished.
+
+I also believe that it must be /your/ property. If you have stolen it or taken it by force, the spell will not stick. This makes sense for why the Death Eaters didn't abuse this with Hogwarts or why family manors weren't stolen or seized when the line died out.
+
+The owner of said property must be present or cast the spell. Again, this explains the rarity behind the spells. Same with hiding the secret keeper. As wordhammer said. Voldemort cannot be his own secret keeper, same with Lily and James.
+
+This one is for my current story...
+
+The binder is ‘Obliviated' of the location and the fact they cast it. They may have been the binding force, but they were not the secret keeper or the owner.
+:PROPERTIES:
+:Author: ModernDayWeeaboo
+:Score: 2
+:DateUnix: 1488947296.0
+:DateShort: 2017-Mar-08
+:END:
+
+*** u/WizardOffArts:
+#+begin_quote
+  If you have stolen it or taken it by force, the spell will not stick.
+#+end_quote
+
+Does that include Ministry laws? I don't remember if it's canon, but lots of fanfics have the Potter house in Godric's Hollow made into some kind of historical landmark or something, often compensated with a single Gallon.
+
+I'd love to see a fanfic where Harry casts the Fidelius over the entire property to take back what the Ministry in effect stole from him through "legal" means.
+
+Do it, Harry, you know you want to...
+:PROPERTIES:
+:Author: WizardOffArts
+:Score: 2
+:DateUnix: 1488970885.0
+:DateShort: 2017-Mar-08
+:END:
+
+**** In one story, the property was legally divided into two lots, leaving the cornerstone of the original house alone and unhidden so that dedications could still be placed, but then put the Fidelius on the rest of the house (once it was rebuilt).
+:PROPERTIES:
+:Author: wordhammer
+:Score: 1
+:DateUnix: 1488982768.0
+:DateShort: 2017-Mar-08
+:END:
+
+
+** The Fidelius charm preserves /secrets/. It also shows no ability to remove memories (although it can alter perception).
+
+If you tried to Fidelius my house without somehow including me in the spell, presumably it would fail. Since someone else knows the 'secret' and, no being included, can spread it around with impunity, it is no longer a secret.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1488955979.0
+:DateShort: 2017-Mar-08
+:END:
+
+*** Well, people must have known where Grimmauld Place was, or how to find the cottage in Godric's Hollow, before the Fidelius was cast on those places. The Blacks were a well-known family and James and Lily were popular. For it to work as you're saying you'd have to start out with a place no one even knew about.
+:PROPERTIES:
+:Author: cavelioness
+:Score: 4
+:DateUnix: 1488956927.0
+:DateShort: 2017-Mar-08
+:END:
+
+**** A secret is a statement, not a location. Only Fideliusing the statement, "there is a house at 2 Privet Drive" would stop someone from locating it on a map. Which, as you say, wouldn't work since Petunia Dursley is famously nosy.
+
+#+begin_quote
+  ...a note, in Dumbledore's hand, which said "the headquarters of the Order of the Phoenix can be found at Number 12 Grimmauld Place, London."
+#+end_quote
+
+Grimmauld Place itself wasn't protected under the Fidelius -- the location of the Order was. If Bellatrix had separate reason to go there (and could get past the considerable protections on the townhouse), she could presumably do so, just never making the connection to the Order's location.
+
+#+begin_quote
+  As long as the Secret Keeper refused to speak, You-Know-Who could search the village where Lily and James were staying for years and never find them, not even if he had his nose pressed against their sitting room window!"
+#+end_quote
+
+Flitwick corroborates this when he talks about the Fidelius on Godric's Hollow. He may be exaggerating, but the intent is clear: Godric Hollow itself wasn't protected -- the Potters' location was.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1488966115.0
+:DateShort: 2017-Mar-08
+:END:
+
+***** The secret protected is that 12 Grimmauld Place is the headquarters for the Order of the Phoenix. That means you should be able to detect that it exists, enter, count and identify the people inside, etc, but you won't be able to make the intuitive leap that that's the Order of the Phoenix.
+
+That would be nearly useless.
+
+You can make it work that way in your fics, but canon is a bit more generous with the spell's abilities.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1488995801.0
+:DateShort: 2017-Mar-08
+:END:
+
+****** u/deleted:
+#+begin_quote
+  You can make it work that way in your fics, but canon is a bit more generous with the spell's abilities.
+#+end_quote
+
+I'm the one who's been quoting canon. If anything, the charm is still too powerful. /It manipulates reality to prevent anyone from learning your secret./ Heaven forbid if a serial killer were able to cast the spell.
+
+#+begin_quote
+  The secret protected is that 12 Grimmauld Place is the headquarters for the Order of the Phoenix. That means you should be able to detect that it exists, enter, count and identify the people inside, etc, but you won't be able to make the intuitive leap that that's the Order of the Phoenix.
+#+end_quote
+
+Well, if Death Eaters are inside Grimmauld Place, it's probably a bit late to matter. The point is that they no matter how they search for Dumbledore's resistance movement, they won't be able to find the address.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1489007741.0
+:DateShort: 2017-Mar-09
+:END:
+
+******* u/deleted:
+#+begin_quote
+  I'm the one who's been quoting canon.
+#+end_quote
+
+Flitwick seemed to think it would prevent Voldemort from seeing Harry's family, but would not prevent him from seeing their home.
+
+Harry, in narration, saw:
+
+#+begin_quote
+  “Think about what you've just memorized,” said Lupin quietly.
+
+  Harry thought, and no sooner had he reached the part about number twelve, Grimmauld Place, than a battered door emerged out of nowhere between numbers eleven and thirteen, followed swiftly by dirty walls and grimy windows. It was as though an extra house had inflated, pushing those on either side out of its way. Harry gaped at it. The stereo in number eleven thudded on. Apparently the Muggles inside hadn't even felt anything.
+#+end_quote
+
+Which is inconsistent. The most obvious explanation is that JK Rowling hadn't fully envisioned how the charm worked at that point. The next most obvious is that Flitwick doesn't precisely know how the charm works, not having seen it in action.
+
+A third alternative is that Lily and James had their family's existence hidden, not their place of residence -- which turns the charm from protecting a location, to protecting any secret, which is much more powerful.
+
+Or possibly the charm wouldn't keep you out and doesn't mess with space, but it does mess with your perceptions. Voldemort would think his nose were pressed to the bricks of the neighbor's house instead.
+
+#+begin_quote
+  The point is that they no matter how they search for Dumbledore's resistance movement, they won't be able to find the address.
+#+end_quote
+
+They won't be able to establish that it's the headquarters. They might think that it's a secondary base, or that it's a major safehouse, or simply that several members live there.
+
+If the secret had been "Members of the Order of the Phoenix can be found at number twelve Grimmauld Place", then that would actually do something useful. The kids would be vulnerable at that point, but someone trying to find Remus Lupin would either be unable to track him down at Grimmauld Place or unable to suspect that he's a member of the Order.
+
+It has to be more general than precisely what's written on the paper for it to have the desired effect.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1489011839.0
+:DateShort: 2017-Mar-09
+:END:
+
+
+** I believe there is some sort of magic tied to ownership. I mean looking at the obedience of house elves.
+
+So the charm could only work if someone was a recognised owner of the house.
+:PROPERTIES:
+:Author: bladderdash_fernweh
+:Score: 2
+:DateUnix: 1488962522.0
+:DateShort: 2017-Mar-08
+:END:
+
+
+** I'd say no. It isn't your secret to trust to the Secret Keeper.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 2
+:DateUnix: 1488939189.0
+:DateShort: 2017-Mar-08
+:END:
+
+
+** I'm of the belief system that the fidelus is damn hard to cast. Some fics throw it around every chapter but I think it should be something that takes a lot of prep and require a lot of power. If you make it so every character can cast the ultimate hide me spell, it kind of takes away from its significance
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1488946865.0
+:DateShort: 2017-Mar-08
+:END:
+
+
+** The secret is stored inside one soul. So, yes, you could steal someone's property. But there may be mechanics to the spell we don't know negating its usefulness to criminals
+:PROPERTIES:
+:Author: viol8er
+:Score: 1
+:DateUnix: 1488938012.0
+:DateShort: 2017-Mar-08
+:END:
+
+
+** Up to you as the writer really. Because there weren't any limitations of the sort stated in the original story.
+:PROPERTIES:
+:Author: richardwhereat
+:Score: 1
+:DateUnix: 1488980036.0
+:DateShort: 2017-Mar-08
+:END:
+
+
+** That exact mechanic was used in a fic called Master Potter on fanficauthors.net. Harry steals a potion factory by putting it under the charm.
+:PROPERTIES:
+:Author: tsudonimh
+:Score: 1
+:DateUnix: 1489035434.0
+:DateShort: 2017-Mar-09
+:END:
+
+
+** 1st) Petty crime isn't really common in the Magical World, we didn't really see many criminal acts that didn't involve Voldemort and his Death Eaters if any at all.
+
+2nd) The Fidelius Charm is likely a long and tedious charm to cast, also requiring other people, etc... I doubt if someone had the Magical Talent to pull something like that off, they wouldn't need to steal a house, they'd be capable of making money on their own.
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1488947401.0
+:DateShort: 2017-Mar-08
+:END:
+
+*** 1) Petty crime is fairly rampant. Evidence presented: nearly every appearance of Mundungus Fletcher. Arthur Weasley's job.
+
+2) Talent does not equate to cunning or business savvy. Evidence presented (some anecdotal): the many paupers who are members of MENSA. Most of the Weasleys.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 4
+:DateUnix: 1488951865.0
+:DateShort: 2017-Mar-08
+:END:
+
+**** 1) Mundungus didn't rob anyone at wand point. He seemed to be a rarity. Arthur Weasley's job dips into the Muggle World, more so than the magical, I'm talking about Magical on Magical crime.
+
+2) Don't need to be business savvy to get a high-paying job. Case in point, Bill Weasely and Fleur Delacour. Those paupers are people that aren't particularly gifted at Magic, hence, their working in a field that doesn't require you to be a god at magic. Just somewhat competent. The Weasleys themselves aren't too good of an example, as most of them aren't that good at magic, aside from the alluded Bill.
+:PROPERTIES:
+:Score: -2
+:DateUnix: 1488955730.0
+:DateShort: 2017-Mar-08
+:END:
+
+***** u/UndeadBBQ:
+#+begin_quote
+  The Weasleys themselves aren't too good of an example, as most of them aren't that good at magic
+#+end_quote
+
+That's simply not true. We saw a lot of evidence for their talents and skills in the books. True, none of them are "gods" at magic, but we only know of 3 people alive during the books that would, /maybe/ be worthy of that title - Grindelwald, Dumbledore and Voldemort.
+
+We don't know of Arthurs abilities as they're never shown. However he /did/ enchant a car to almost sentience, so take that as you will.
+
+Molly Weasley beat up Bellatrix Lestrange. You know, the psychopathic mass-murderess who is known for her prowess on the battlefield.
+
+Charlie Weasley is a non-entity mostly. But he is a dragon handler, so...
+
+Percy Weasley also isn't known for his magic. No verdict there.
+
+The twins are shown to be able of quite spectacular magic. Not just in a sense of making great fireworks, but as in using highly complex magic for highly complex effects.
+
+Ron is lazy. Thats probably why he isn't spectacular at magic. He is the only one of the Weasleys we know better who isn't particularly gifted at magic. Not saying he is bad, he's probably just average given his grades.
+
+Ginny is invited to the Slug Club for being great at hexing people. I mean, get that: Ginny hexed someone in such an expert fashion in front of a Professor that instead of detention she gets an invitation. An Invitation that is repeated, meaning that Slughorn sees something in her. I would say that Slughorn is a somewhat competent judge of talent.
+
+All in all, the Weasleys tend to be above average in their use of and skill in magic. Not gods, sure, but definitely somewhere in the upper echelons.
+
+oh, and edit: Bill and Fleur not particularly gifted at magic? Yeah... One's a cursebreaker the other was a Triwizard Champion. If you describe those as "not particularly gifted at magic" what kind of description would you give the other 90% of Britains wizarding population?
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 8
+:DateUnix: 1488974097.0
+:DateShort: 2017-Mar-08
+:END:
+
+****** u/yarglethatblargle:
+#+begin_quote
+  Percy Weasley also isn't known for his magic. No verdict there
+#+end_quote
+
+Didn't he get Outstandings on all his OWLs and NEWTs? Can't be bad or even average at magic and do that, considering (if we take OWL examinations as similar to NEWT examinations) that there is a practical portion to virtually all subjects.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 3
+:DateUnix: 1489008379.0
+:DateShort: 2017-Mar-09
+:END:
+
+******* Did he? I don't remember, to be honest.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 1
+:DateUnix: 1489010030.0
+:DateShort: 2017-Mar-09
+:END:
+
+******** Pretty sure.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 1
+:DateUnix: 1489010115.0
+:DateShort: 2017-Mar-09
+:END:
+
+
+****** u/deleted:
+#+begin_quote
+  Molly Weasley beat up Bellatrix Lestrange. You know, the psychopathic mass-murderess who is known for her prowess on the battlefield.
+#+end_quote
+
+Single-handedly? Don't believe so, you also have to account for the fact that Bellatrix was throwing around spells like crazy throughout Hogwarts, it's highly likely that she suffered from a magical exhaustion of sorts. Other than that single feat, all we've seen Molly be good at is household charms.
+
+#+begin_quote
+  Charlie Weasley is a non-entity mostly. But he is a dragon handler, so...
+#+end_quote
+
+Newt Scamander managed to become a Dragon Handler and was expelled from Hogwarts before he could even finish his OWL year. Doubt it's that hard of a job then.
+
+#+begin_quote
+  The twins are shown to be able of quite spectacular magic. Not just in a sense of making great fireworks, but as in using highly complex magic for highly complex effects.
+#+end_quote
+
+Not really, they were mediocre in every subject they did, only scoring four O.W.L.s apiece. So it can be assumed that they weren't that good at the curriculum, and they were no Marauders in themselves.
+
+#+begin_quote
+  Ginny is invited to the Slug Club for being great at hexing people. I mean, get that: Ginny hexed someone in such an expert fashion in front of a Professor that instead of detention she gets an invitation. An Invitation that is repeated, meaning that Slughorn sees something in her. I would say that Slughorn is a somewhat competent judge of talent.
+#+end_quote
+
+A singular hex, not to mention hexes are decidedly easier to cast than other spells. Case in point, Malfoy being able to conjure a Snake as a second year through the Serpensortia Hex. Ginny is no more talented than Neville or Luna.
+
+#+begin_quote
+  All in all, the Weasleys tend to be above average in their use of and skill in magic.
+#+end_quote
+
+Nope, they're pretty much average. Haven't seen them perform any magical feats that would suggest otherwise, unlike the Marauders who cast advanced NEWT level Charms as fifth years, and became Animagus'.
+
+#+begin_quote
+  Bill and Fleur not particularly gifted at magic? Yeah... One's a cursebreaker the other was a Triwizard Champion. If you describe those as "not particularly gifted at magic" what kind of description would you give the other 90% of Britains wizarding population?
+#+end_quote
+
+I love when people don't read properly, so they think they're making a good point. I said that "You don't need business savvy to have a high-paying job when you're good at magic." I used Bill and Fleur as examples, because they don't seem like business savvy people, yet are capable cure-breakers that get paid by the largest wizarding bank.
+:PROPERTIES:
+:Score: -2
+:DateUnix: 1488988876.0
+:DateShort: 2017-Mar-08
+:END:
+
+******* u/UndeadBBQ:
+#+begin_quote
+  magical exhaustion of sorts
+#+end_quote
+
+No such thing as magical exhaustion. Its completely made up by fanfiction authors that magic takes any amount of physical power from the caster by simply casting it. The only exhaustion would be physical, but Molly fought the same battle as Bellatrix, maybe even longer.
+
+#+begin_quote
+  Newt Scamander managed to become a Dragon Handler and was expelled from Hogwarts
+#+end_quote
+
+Being expelled does not mean being weak at magic.
+
+#+begin_quote
+  Not really, they were mediocre in every subject they did, only scoring four O.W.L.s apiece. So it can be assumed that they weren't that good at the curriculum, and they were no Marauders in themselves.
+#+end_quote
+
+Yes, they didn't give a damn about school. So what? The stuff they make is still described as great feats of magic by several other characters. They're still skilled at magic.
+
+#+begin_quote
+  A singular hex, not to mention hexes are decidedly easier to cast than other spells. Case in point, Malfoy being able to conjure a Snake as a second year through the Serpensortia Hex. Ginny is no more talented than Neville or Luna.
+#+end_quote
+
+Yes, both Luna and Neville are pretty damn good mages as well.
+
+#+begin_quote
+  I love when people don't read properly
+
+  #+begin_quote
+    Those paupers are people that aren't particularly gifted at Magic, hence, their working in a field that doesn't require you to be a god at magic.
+  #+end_quote
+#+end_quote
+
+You're being pretty selective there in your memory. You described them as "not particularly gifted at Magic".
+
+But anyway, I don't know why I even argue with you. Its not like I don't know your bias and your tendency to use fanon in your arguments.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 6
+:DateUnix: 1488989740.0
+:DateShort: 2017-Mar-08
+:END:
+
+******** u/deleted:
+#+begin_quote
+  .Those paupers are people that aren't particularly gifted at Magic, hence, their working in a field that doesn't require you to be a god at magic.
+#+end_quote
+
+It's almost as if I put a period there for a reason? Could it be because they were two independent statements?
+
+#+begin_quote
+  The only exhaustion would be physical, but Molly fought the same battle as Bellatrix, maybe even longer
+#+end_quote
+
+Molly wasn't running around throwing killing curses. It doesn't matter if magical exhaustion exists or not, there should be a side-effect to casting several dangerous spells in a row.
+
+#+begin_quote
+  Being expelled does not mean being weak at magic.
+#+end_quote
+
+It does mean they have naturally less of an education. Meaning they're less equipped to do something. We don't hire police officers without a college degree for a reason.
+
+#+begin_quote
+  They're still skilled at magic.
+#+end_quote
+
+You're the one who says I'm stuck in headcanon? Lol.
+
+#+begin_quote
+  both Luna and Neville are pretty damn good mages as well
+#+end_quote
+
+Luna and Neville aren't mages, I don't know where you got that idea from. As for talented, that's untrue once again, both of them had menial magical feats.
+
+#+begin_quote
+  Its not like I don't know your bias and your tendency to use fanon in your arguments.
+#+end_quote
+
+???
+:PROPERTIES:
+:Score: -5
+:DateUnix: 1488991595.0
+:DateShort: 2017-Mar-08
+:END:
+
+********* u/deleted:
+#+begin_quote
+
+  #+begin_quote
+    Being expelled does not mean being weak at magic.
+  #+end_quote
+
+  It does mean they have naturally less of an education. Meaning they're less equipped to do something.
+#+end_quote
+
+The twins were already excelling at their chosen career.
+
+#+begin_quote
+  We don't hire police officers without a college degree for a reason.
+#+end_quote
+
+I live in the United States. The typical prerequisite in general education is a high school diploma. Police academy averages 19 weeks.
+
+#+begin_quote
+  Luna and Neville aren't mages
+#+end_quote
+
+"Mage" is a gender neutral term for magic users. (It's not used in canon in any sense, so that shouldn't be tripping you up.) Luna and Neville both use magic, so they are both mages.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1488997154.0
+:DateShort: 2017-Mar-08
+:END:
+
+********** u/deleted:
+#+begin_quote
+  Chosen Career
+#+end_quote
+
+Their chosen career was opening a store that sold joke items, it's unlikely that they wouldn't have succeeded, considering that, that is what they're good at. But that doesn't mean that they're above average on the magical scale.
+
+Pretty sure the requirement to be a police officer is at least a bachelors. But I could be wrong, that, however, is not the point. Being expelled considerably lowers career choices, if it's a job that someone who didn't finish their fourth year, could do, then it's likely in the domain of being easy.
+
+Mage is a male term, once again, don't know where you got your information from, but it's wrong.
+:PROPERTIES:
+:Score: -2
+:DateUnix: 1488997705.0
+:DateShort: 2017-Mar-08
+:END:
+
+*********** u/deleted:
+#+begin_quote
+  Their chosen career was opening a store that sold joke items
+#+end_quote
+
+/Inventing/ and selling joke items.
+
+#+begin_quote
+  Pretty sure the requirement to be a police officer is at least a bachelors.
+#+end_quote
+
+You could, I dunno, *look it up online*, like I did. Or is that too difficult?
+
+#+begin_quote
+  Mage is a male term
+#+end_quote
+
+Language is defined by usage. I use it as a gender neutral term. [[/u/UndeadBBQ]] used it as a gender neutral term. You disagree.
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1488998037.0
+:DateShort: 2017-Mar-08
+:END:
+
+************ Yes, inventing and selling.
+
+Yep, minimum requirement for federal police is bachelors.
+
+No, Mage is a male term, synonymous with wizard. Once again, you prove to show your ignorance through opinionated reasoning. You can't even form proper rebuttals, so you stick to commenting on my wording and my annoyance at the use of the 'Mage' pro-noun. Maybe I dislike you using it, because it is never stated in the books as being a valid descriptor? likely because it actually means something in the potterverse.
+:PROPERTIES:
+:Score: -2
+:DateUnix: 1488998639.0
+:DateShort: 2017-Mar-08
+:END:
+
+************* u/deleted:
+#+begin_quote
+  Yes, inventing and selling.
+#+end_quote
+
+Which kind of invalidates your point about Fred and George being crud at magic. We only see like two other people inventing anything to do with magic.
+
+#+begin_quote
+  Yep, minimum requirement for federal police is bachelors.
+#+end_quote
+
+[[http://discoverpolicing.org/what_does_take/?fa=requirements]]
+
+[[http://study.com/police_education.html]]
+
+[[http://work.chron.com/kind-training-education-needed-become-cop-2151.html]]
+
+[[http://www.criminaljusticeusa.com/police-officer/]]
+
+Four different sources saying that at least some police departments don't require postsecondary education, in comparison with the zero sources you provided.
+
+#+begin_quote
+  No, Mage is a male term, synonymous with wizard.
+#+end_quote
+
+Do a Google image search for mage. According to you, we shouldn't see any female characters showing up. In fact, we do see female characters.
+
+In the webcomic 8-Bit Theatre, the character White Mage is a woman.
+
+You've provided no sources, only bloviation. Repeating your point doesn't strengthen it.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1488999095.0
+:DateShort: 2017-Mar-08
+:END:
+
+************** u/deleted:
+#+begin_quote
+  Crud at magic
+#+end_quote
+
+Nice Strawman, but I didn't they they were crud. Said they were average, if not slightly below due to lack of finishing education. They invent, doesn't mean that they did anything advanced.
+
+Like I said, to be a federal police officer, you need a bachelors.
+
+#+begin_quote
+  Google Image Search
+#+end_quote
+
+O shit, google images, the most irrefutable source of evidence in existence!!!11!!
+
+8-bit theater is a satirical webcomic, is it not? They also call pretty much everyone a mage in that webcomic (Red Mage is male, is he not?)
+
+#+begin_quote
+  Repeating...doesn't strengthen
+#+end_quote
+
+Ignorantly denying everything I say because I don't comply with your headcanon is even worse.
+:PROPERTIES:
+:Score: -1
+:DateUnix: 1488999577.0
+:DateShort: 2017-Mar-08
+:END:
+
+*************** u/deleted:
+#+begin_quote
+  Like I said, to be a federal police officer, you need a bachelors.
+#+end_quote
+
+Police as such do not exist at the federal level in the US. Are you referring to the FBI? The US Marshals? The DEA? The ATF? The Bureau of Prisons? Border Patrol? The Coast Guard? These are all independent agencies with their own requirements.
+
+#+begin_quote
+  O shit, google images, the most irrefutable source of evidence in existence!!!11!!
+#+end_quote
+
+We're looking at common usage. Google Image Search is a quick way of showing this. If you weren't being deliberately obtuse, you'd realize that.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1488999900.0
+:DateShort: 2017-Mar-08
+:END:
+
+**************** Oh God this is the funniest fight I've seen on here since [[/u/FloreatCastellum]] got into one with that person who 'wanted' criticism of a HPMOR spinoff she(?) was writing.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 1
+:DateUnix: 1489008487.0
+:DateShort: 2017-Mar-09
+:END:
+
+***************** lmao don't drag me into more drama
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 2
+:DateUnix: 1489008856.0
+:DateShort: 2017-Mar-09
+:END:
+
+****************** I was just referencing, haha.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 1
+:DateUnix: 1489009472.0
+:DateShort: 2017-Mar-09
+:END:
+
+******************* She later bitched about it in the HPMOR sub and admitted she was drunk hahaha
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 2
+:DateUnix: 1489011314.0
+:DateShort: 2017-Mar-09
+:END:
+
+******************** ...That is literally the bright spot of my day.
+
+EDIT: I'm going to need a link.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 1
+:DateUnix: 1489011382.0
+:DateShort: 2017-Mar-09
+:END:
+
+********************* Complained about and misgendered me here: [[https://www.reddit.com/r/HPMOR/comments/5sc5uw/to_everyone_who_has_written_and_posted_a_metafic/ddt18qo/?context=3]]
+
+She was arguing with someone else at the same time and it tipped over into the next day; she kept making a big deal about how drunk she was while implying she was drinking alone which is a bit sad. [[https://www.reddit.com/r/HPMOR/comments/5ty24v/an_ethical_problem_involving_dying_grandmothers/ddt7pcr/]]
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 2
+:DateUnix: 1489011682.0
+:DateShort: 2017-Mar-09
+:END:
+
+********************** Holy shit, read through that thread about the philosophy question, and just /holy shit/. Fuckin' transhumanists.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 2
+:DateUnix: 1489012819.0
+:DateShort: 2017-Mar-09
+:END:
+
+
+********************** I think the saddest thing (outside the drinking alone thing. Been there, sympathize with that) is how they buy into her really bad narrative.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 1
+:DateUnix: 1489012556.0
+:DateShort: 2017-Mar-09
+:END:
+
+*********************** Yeah I honestly just feel bad about the whole thing to be honest now. She's clearly not a happy person.
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 1
+:DateUnix: 1489013975.0
+:DateShort: 2017-Mar-09
+:END:
+
+
+***************** Yeah, block and move on is the order of the day, I think. No point in arguing with this person when they can't even recall which points were theirs and which were mine, or read more than half of any paragraph.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1489009159.0
+:DateShort: 2017-Mar-09
+:END:
+
+
+**************** Are you purposefully being ignorant? Plenty of law enforcement positions exist in a federal level. But, as I said, that is neither here no there. The point is, to become a police officer, you need to finish your education (Hogwarts education ends at about the time high school ends). So if you take someone who only has a fourteen year old's knowledge of magic, and say that they can do the tough jobs that fully equipped wizards can, then you're only kidding yourself.
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1489000359.0
+:DateShort: 2017-Mar-08
+:END:
+
+***************** u/deleted:
+#+begin_quote
+  Are you purposefully being ignorant? Plenty of law enforcement positions exist in a federal level.
+#+end_quote
+
+I listed out half a dozen federal law enforcement agencies. Did you just not read what I wrote?
+
+Were you referring to all of them when you talked about postsecondary education requirements? It's hard to tell when you refuse to provide sources.
+
+#+begin_quote
+  The point is, to become a police officer, you need to finish your education
+#+end_quote
+
+Which wasn't a career goal for the twins, so that's also irrelevant.
+
+Are you conceding about "mage" being gender-neutral?
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1489002985.0
+:DateShort: 2017-Mar-08
+:END:
+
+****************** Yet, you said no police existed in a federal level, nice contradiction, bub.
+
+Who is talking about the twins? Stop switching the goal posts. If most jobs require that you finish your education, one that doesn't is either less 'mentally intensive' or more labor intensive. One can assume that Charlie's job isn't much of a big deal. Whilst you said that him working with dragons was a 'nuff said' on how powerful he is. Fred and George are obviously not the best Wizards, as if they were, Molly would have furthered her attempts at getting them to finish their education. Four O.W.L.s after months of studying only proves my point further.
+
+The Mage point is one you conceded fairly quickly, after I said that calling anyone a mage is against canon in this context, as no one uses it in canon. Seriously, we had Warlock, Witch, Wizard, Wizardess, Sorceress, Sorcerer, and you choose mage, the only term never used in canon. I don't know why you attempt to push it?
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1489003973.0
+:DateShort: 2017-Mar-08
+:END:
+
+******************* u/deleted:
+#+begin_quote
+  Yet, you said no police existed in a federal level
+
+  Police as such do not exist at the federal level in the US. Are you referring to the FBI? The US Marshals? The DEA? The ATF? The Bureau of Prisons? Border Patrol? The Coast Guard?
+#+end_quote
+
+DEA agents are DEA agents, not police officers. FBI agents are FBI agents, not police officers. US Marshals are US Marshals, not police officers. And so on.
+
+They are law enforcement officers, but they are not police as such.
+
+#+begin_quote
+  Who is talking about the twins?
+#+end_quote
+
+You were.
+
+#+begin_quote
+  Whilst you said that him working with dragons was a 'nuff said' on how powerful he is.
+#+end_quote
+
+Not me. We get little insight into what dragon handling requires.
+
+#+begin_quote
+  Fred and George are obviously not the best Wizards, as if they were, Molly would have furthered her attempts at getting them to finish their education.
+#+end_quote
+
+Why? How?
+
+#+begin_quote
+  The Mage point is one you conceded fairly quickly
+#+end_quote
+
+That it's gender neutral? No.
+
+#+begin_quote
+  after I said that calling anyone a mage is against canon in this context
+#+end_quote
+
+That was me, not you. Are you incapable of remembering something you read an hour ago? If so, there's a 'context' link just below this post that might help you.
+
+#+begin_quote
+  Seriously, we had Warlock, Witch, Wizard, Wizardess, Sorceress, Sorcerer, and you choose mage
+#+end_quote
+
+Nobody's called a Sorcerer or Sorceress. Those appear to be gendered terms, and "warlock" is associated with a Wizengamot position.
+
+#+begin_quote
+  I don't know why you attempt to push it?
+#+end_quote
+
+Luna Lovegood is not a wizard. Neville Longbottom is not a witch. They are both capable of magic. It seems that there should be a term to refer to people who can use magic without specifying their gender.
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1489009089.0
+:DateShort: 2017-Mar-09
+:END:
+
+******************** u/deleted:
+#+begin_quote
+  the civil force of a national or local government, responsible for the prevention and detection of crime and the maintenance of public order. synonyms: police force, police officers, policemen, policewomen, officers of the law, law officers, authorities, constabulary;
+#+end_quote
+
+Wow, it's almost as if Law enforcement, and police, are synonyms, weird huh?
+
+#+begin_quote
+  Maybe I dislike you using it, because it is never stated in the books as being a valid descriptor? likely because it actually means something in the potterverse.
+#+end_quote
+
+Yea, totally don't remember what I said.
+
+#+begin_quote
+  Why? How?
+#+end_quote
+
+Because a parent wouldn't let a potentially successful child waste away into mediocrity. It's simple psychology.
+
+#+begin_quote
+  That it's gender neutral? No.
+#+end_quote
+
+Is that why you couldn't respond to my point about 8-Bit Theater being a satirical webcomic, where White Mage being a female was a joke in itself. Not to mention their being more male characters with the Mage descriptor.
+
+#+begin_quote
+  Nobody's called a Sorcerer or Sorceress.
+#+end_quote
+
+Except for Voldemort, Bellatrix, and Dumbledore. I remember several times when Voldemort was called Sorcerer, in fact. And Dumbledore is the Grand Sorcerer.
+
+#+begin_quote
+  Luna Lovegood is not a wizard. Neville Longbottom is not a witch. They are both capable of magic. It seems that there should be a term to refer to people who can use magic without specifying their gender.
+#+end_quote
+
+Just use Magic-User, using a word that isn't mentioned once, even in passing, in canon, just makes it confusing.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1489018183.0
+:DateShort: 2017-Mar-09
+:END:
+
+
+***************** As I understand this subthread, you're debating whether the Weasley twins could be excellent wizards given that they left school with an incomplete education.
+
+The point I vaguely made towards the top of this was that 'ability to make money with magic without resorting to theft' was not a function of magical ability so much as business acumen. There are plenty of low-income geniuses and average-IQ millionaires out there in both the real and literary worlds to prove my point: there is no direct relationship between magical ability and economic success, a direct reply to what [[/u/SuperAlexIY][u/SuperAlexIY]] was suggesting:
+
+#+begin_quote
+  Petty crime isn't really common in the Magical World, we didn't really see many criminal acts that didn't involve Voldemort and his Death Eaters if any at all.
+#+end_quote
+
+Petty crime /is/ common in the magical world. We saw many criminal acts perpetrated that didn't involve Voldemort and his Death Eaters. Fletcher was guilty of theft, burglary, fraud, and dealing in stolen goods. Arthur Weasley threatened to chase after a huckster selling fake metamorph medals, but he was off-duty and busy leading the family on a shopping trip. I can't even say whether gambling was illegal, but Ludo Bagman defrauded the goblins by making a wager and running away when it didn't play out for him.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 3
+:DateUnix: 1489001684.0
+:DateShort: 2017-Mar-08
+:END:
+
+****************** So to prove that it is common, you give me an isolated incident and a single person?
+
+Nope, I'm saying that the Weasleys themselves aren't amazing at magic, that could be the reasoning for their terrible income. As Bill, who is good at magic, managed to become a curse-breaker, and is likely making decent income if he could already buy a cottage.
+
+Not to mention, if you have the magical ability you could be an Auror, Hit-Wizard, Professor, etc... If one is talented enough, they could make decent income.
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1489003154.0
+:DateShort: 2017-Mar-08
+:END:
+
+******************* And my point is that both Bill and Arthur cast the Fidelius charm. There's no proof that Bill paid for the cottage. For all we know, he Confunded the owners and then put the Fidelius on it, because why bother with muggle money and paper trails if you can steal what you need- like a tomb raider does.
+
+Thanks for playing. You've been fun.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 2
+:DateUnix: 1489003422.0
+:DateShort: 2017-Mar-08
+:END:
+
+******************** Yes, I already said that Bill was a good wizard. Considering the fact that Bill was a Gryffindor, it's very unlikely that he would do that, nor would Arthur allow such a thing, as he seems to oppose muggle-baiting very heavily.
+:PROPERTIES:
+:Score: -1
+:DateUnix: 1489004578.0
+:DateShort: 2017-Mar-08
+:END:
+
+
+** Yeah boi. Its hella easy to do that shit yo. All you need to do is know what exact secret you want to hide from the homedawgs, and you're home scot free yo.
+:PROPERTIES:
+:Score: -1
+:DateUnix: 1488977381.0
+:DateShort: 2017-Mar-08
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: -2
+:DateUnix: 1488937395.0
+:DateShort: 2017-Mar-08
+:END:
+
+*** Care to explain?
+:PROPERTIES:
+:Author: Skeletickles
+:Score: 2
+:DateUnix: 1488942082.0
+:DateShort: 2017-Mar-08
+:END:

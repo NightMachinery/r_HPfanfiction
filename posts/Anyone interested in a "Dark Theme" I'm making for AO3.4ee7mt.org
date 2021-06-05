@@ -1,0 +1,179 @@
+#+TITLE: Anyone interested in a "Dark Theme" I'm making for AO3?
+
+* Anyone interested in a "Dark Theme" I'm making for AO3?
+:PROPERTIES:
+:Author: BobaFett007
+:Score: 9
+:DateUnix: 1460429350.0
+:DateShort: 2016-Apr-12
+:FlairText: Misc
+:END:
+Not quite sure if this belongs here, so here goes nothing. I'm making a dark theme for AO3 that I intended to post here, but I wanted to know what the rest of you thought first. Also, I've hit a small snag.
+
+[[https://i.imgur.com/v1AL6ka.png][This is what the skin currently looks like.]] However, I have been unable to determine the proper CSS tags for the table [[https://i.imgur.com/2z5csG8.png][here]], and the text [[https://i.imgur.com/RIjOMxw.png][here]]. If anybody would be willing to help, that'd be great. The CSS tags I'm currently using can be seen below.
+
+#+begin_example
+  body {
+    background-color: #262626;
+  }
+
+  p {
+    color: #f2f2f2;
+  }
+
+  div {
+    color: #f2f2f2;
+  }
+
+  h1 {
+    color: #f2f2f2;
+  }
+
+  h2 {
+    color: #f2f2f2;
+  }
+
+  h3 {
+    color: #f2f2f2;
+  }
+
+  h4 {
+    color: #f2f2f2;
+  }
+
+  h5 {
+    color: #f2f2f2;
+  }
+
+  h6 {
+    color: #f2f2f2;
+  }
+
+  a,
+  a:link,
+  a:visited:hover {
+    color: #f2f2f2;
+  }
+
+  table {
+    background: #262626;
+    color: #262626;
+    background-color: #262626;
+  }
+
+  #header a,
+  #header a:visited,
+  #header .current,
+  #header .primary .open a,
+  #header .primary .dropdown:hover a,
+  #header .primary .dropdown a:focus {
+    color: #f2f2f2;
+  }
+
+  #header .actions a:hover,
+  #header .actions a:focus,
+  #header .dropdown:hover a,
+  #header .open a {
+    background: #262626;
+  }
+#+end_example
+
+TL;DR: If I can figure those 2 tags out, the skin would be just about done, and I'd have a working dark theme for you guys!
+
+
+** Definitely interested. I use a dark theme for just about every site, and an inverter for anything I can't find a theme for.
+:PROPERTIES:
+:Author: Dromeo
+:Score: 6
+:DateUnix: 1460473115.0
+:DateShort: 2016-Apr-12
+:END:
+
+
+** I fixed the sidebar text by adding this:
+
+#+begin_example
+  .actions,
+  #dashboard a,
+  #dashboard span {
+    color: #f2f2f2;
+  }
+#+end_example
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1460474642.0
+:DateShort: 2016-Apr-12
+:END:
+
+*** And there we are, fixed the fandom tags page with:
+
+#+begin_example
+  a.tag,
+  .tags li,
+  .fandom li,
+  .fandom li a:link {
+    color: #262626;
+  }
+#+end_example
+
+EDIT: added more selectors
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1460474980.0
+:DateShort: 2016-Apr-12
+:END:
+
+**** Ok, so I added another few more selectors to fix a few bugs I noticed:
+
+#+begin_example
+  fieldset,
+  fieldset label,
+  fieldset a:link,
+  fieldset a:visited,
+  div.notice {
+    color: #262626;
+  }
+
+  .works-index a.tag,
+  .fandoms a.tag,
+  .warnings a.tag,
+  .relationships a.tag,
+  .characters a.tag,
+  .freeforms a.tag {
+    background-color: #262626;
+    color: #f2f2f2;
+    background: #262626;
+  }
+#+end_example
+
+EDIT: Found another one, dammit.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1460476407.0
+:DateShort: 2016-Apr-12
+:END:
+
+
+** How do you insert the styles into the page automatically?
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1460470652.0
+:DateShort: 2016-Apr-12
+:END:
+
+*** If you're logged in to AO3, there's an option under user settings for skins.
+:PROPERTIES:
+:Author: BobaFett007
+:Score: 1
+:DateUnix: 1460474020.0
+:DateShort: 2016-Apr-12
+:END:
+
+
+** That...would make it sooo much easier to read on AO3, solving one of the very few complaints I have about it.
+:PROPERTIES:
+:Author: SincereBumble
+:Score: 1
+:DateUnix: 1460475561.0
+:DateShort: 2016-Apr-12
+:END:

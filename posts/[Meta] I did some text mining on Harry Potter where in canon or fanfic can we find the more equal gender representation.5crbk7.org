@@ -1,0 +1,1184 @@
+#+TITLE: [Meta] I did some text mining on Harry Potter: where in canon or fanfic can we find the more equal gender representation?
+
+* [[http://witchsandwich.org/fanfic-vs-canon-female-characters-in-harry-potter/][[Meta] I did some text mining on Harry Potter: where in canon or fanfic can we find the more equal gender representation?]]
+:PROPERTIES:
+:Author: Mzudny
+:Score: 9
+:DateUnix: 1479062539.0
+:DateShort: 2016-Nov-13
+:FlairText: Meta
+:END:
+
+** Two things.
+
+Firstly:
+
+#+begin_quote
+  Several explanations can be advanced on the subject:
+
+  Canon books, movies and TV series are more often centered around male characters than female ones
+
+  Even when there are canon female characters, canon male characters are deemed more interesting than female ones in terms of story development and character arcs
+
+  Or it could be due to internalized misogyny: we would be taught since infancy that men are more of the hero-type than female
+#+end_quote
+
+I feel like you've missed the most obvious explanation, which is that most female fanfic writers are interested in romance fics, and when writing these, fanfic authors tend to focus on the characters they are attracted to themselves (also explaining the popularity of slash amongst females and femslash amongst males). So heterosexual women writing romance stories are going to focus on male characters (e.g. Snape, Malfoy).
+
+Secondly:
+
+I feel like the pronoun analysis is a weak way to measure any kind of gender representation.
+
+Most obviously, because in any work written in third person, the vast majority of the pronouns used are going to refer to the protagonist and will simply reflect their gender. Natural variation in the frequency with which the protagonist is referred to by name vs pronoun seems likely to distort any results.
+
+The other reason why pronoun analysis is a bit useless as a measure here is that of course frequency is not the same thing as importance. I'm sure a harem fic would have tons of female pronouns in it, but I would not exactly call that a prime example of female empowerment. Ultimately what matters most is how the female characters are depicted, not how many of them there are. A single fleshed out female character is worth a hundred walking stereotypes.
+
+Edit:
+
+Oh, and with regards to your conclusion, while Hermione is frequently shown to be a superior witch to Harry in Transfiguration and Charms, Harry is equally consistently shown to be the superior wizard when it comes to Defence Against the Dark Arts, the most directly applicable subject to most of the dangerous situations they find themselves in. I think it's a bit disingenuous to present it as if Harry is the leader due to courage and prophecy alone. He's also the one who generally is the best at navigating high pressure and perilous situations.
+
+(Also, if you reread Philosopher's Stone you will be struck by how genuinely unlikeable Hermione was back then.)
+:PROPERTIES:
+:Author: Taure
+:Score: 23
+:DateUnix: 1479063382.0
+:DateShort: 2016-Nov-13
+:END:
+
+*** u/deleted:
+#+begin_quote
+  I feel like the pronoun analysis is a weak way to measure any kind of gender representation.
+#+end_quote
+
+It's not perfect, but it is informative and it's an easy metric to gather.
+
+#+begin_quote
+  Most obviously, because in any work written in third person, the vast majority of the pronouns used are going to refer to the protagonist and will simply reflect their gender.
+#+end_quote
+
+You missed this part:
+
+"Again, I looked at the most-loved stories for each list: the first 50 for the Hermione-centric fics, the first 20 for the fem!Harry fics (this is a more minor genre), excluding crossovers, and compared them to canon."
+
+In the following table, it looks like about 40% of them are still weighted toward masculine pronouns over feminine. Compare to general fics and it's something around 95% of them weighted toward masculine over feminine. In general fics, about a fifth have less than 10% female pronouns; in the fem!Harry/Hermione-centric fics, only one of them had such a skewed pronoun ratio.
+
+Not sure how you missed it; it was a full third of the post.
+
+#+begin_quote
+  while Hermione is frequently shown to be a superior witch to Harry in Transfiguration and Charms, Harry is equally consistently shown to be the superior wizard when it comes to Defence Against the Dark Arts
+#+end_quote
+
+Nothing like that is mentioned in /Philosopher's Stone/. In /Chamber of Secrets/, Hermione was sniping pixies out of the air with /Immobilus/ while Harry was trying to *catch* them like a Muggle. He's not shown to be better than her in the theoretical aspects -- Hermione identified that the monster was a basilisk, not Harry.
+
+In /Prisoner of Azkaban/, in his first display of anything beyond mediocrity with a wand, he does learn the Patronus charm, though it takes him a full term to do it. In fifth year he manages to teach it to a number of other students -- they started on it after students started having stress breakdowns from studying for OWLs (maybe a little sooner), and almost everyone finished by the end of the chapter. OWL scores favor Harry over Hermione, but that works as an informed ability.
+
+In short, Harry displays very little advanced knowledge of Defence, and none is recorded by the end of /Philosopher's Stone/.
+
+You're free to think that Harry demonstrated unusual levels of ability during Quirrell's classes, or that he was studying and practising outside class and Hermione noticed that he was more skilled, but that's outside of canon.
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1479071118.0
+:DateShort: 2016-Nov-14
+:END:
+
+**** I feel like you're confusing being a better student at DADA with being better at DAD. In canon Harry is better at DADA, and Hermione is a better student.
+
+Harry having less knowledge than Hermione doesn't make him worse at DADA, in the same sense that knowing the physics of tennis doesn't make you the best tennis player. The first thing we see (and the only specific thing we see that I can recall) is Harry mastering the Patronus Charm in third year, which we are told is a spell most adult wizards can't do. Hermione on the other hand had a difficult time with it in fifth year, 2 years older than Harry.
+
+I'm not saying it doesn't make sense for Hermione to struggle with the Patronus Charm at first, Harry did as well (though we can't compare their progress to each others as we only see Harry's). However I think that Harry mastering the spell so early and Hermione struggling with it is a way to show us that he is naturally better than Hermione at DADA, given that I can't think of any other SPECIFIC defense spell or technique that could show us aptitude in DADA.
+
+EDIT: Just remembered Harry could (at least partiallt) resist the Imperius on his first try, iirc he's the only one in class.
+:PROPERTIES:
+:Author: Mat_Snow
+:Score: 2
+:DateUnix: 1479078297.0
+:DateShort: 2016-Nov-14
+:END:
+
+***** I only know of one point of evidence for Harry being better at combat than Hermione: Hermione is injured at the Department of Mysteries, but Harry isn't. Otherwise, they both perform competently.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1479085154.0
+:DateShort: 2016-Nov-14
+:END:
+
+****** Oh yeah, I'm not saying that Hermione is bad at combat, I think it's just shown that Harry is more natutally suited to it than her (ignoring Harry's resistance to kill in Canon).
+:PROPERTIES:
+:Author: Mat_Snow
+:Score: 1
+:DateUnix: 1479088679.0
+:DateShort: 2016-Nov-14
+:END:
+
+******* It would certainly be reasonable for the fated hero to be better at combat than his companions. I just don't find much canon support for it.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1479090702.0
+:DateShort: 2016-Nov-14
+:END:
+
+******** Other than the fact that he faces Voldemort multiple times and survives and beats him in the final confrontation.
+:PROPERTIES:
+:Author: Herenes
+:Score: 2
+:DateUnix: 1479112865.0
+:DateShort: 2016-Nov-14
+:END:
+
+********* The combat skills he demonstrates during those confrontations:
+
+- Dodging
+- Running
+- Hiding
+- Having your opponent's horcrux inside you so that they can hit you with the Killing Curse and you can survive
+- Mastering the Elder Wand, which your opponent is wielding, so that it will refuse to defeat you in a duel and instead ensure your victory
+
+Yep, that's certainly an unparalleled level of ability in duelling. I'll eat my hat if Flitwick could so much as touch him with a spell. He could disarm Dumbledore at his peak in a fair fight, no problem. Nobody else has shown even a fraction of that facility with magical battle.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1479141226.0
+:DateShort: 2016-Nov-14
+:END:
+
+********** Not bad for a kid against the most powerful dark lord ever seen.
+:PROPERTIES:
+:Author: Herenes
+:Score: 2
+:DateUnix: 1479142611.0
+:DateShort: 2016-Nov-14
+:END:
+
+
+*** Pronoun analysis is sure a crude measure but I wouldn't say that it is useless. It reflects the gender of the main protagonist sure, but as long as the main character interacts with a variety of other characters, this should be reflected in pronouns. A text with less than 15% of female pronouns is a text without any strong female agency. Furthermore, the impact of having a male as the main protagonist is not necessarily a problem in a comparatist perspective, when one looks at a book and at fics with quite often the same hero. And anyway, you can see in the last table that fics where the main protagonist is a woman (either Hermione or a genderbent Harry) do not exhibit a reverse imbalance in gendered pronouns of the same size as when Harry is the hero.
+
+I agree with you that the frequency of male and female pronouns tells us nothing about their role, the qualities associated with them, etc. I'd like into the future to look at associations. I also started an analysis with the characters name, rather than the pronouns. It is more complicated obviously since some important characters share names (the Weasleys for example). However, the results are not so different than when using pronouns (I plan to post something about that on the blog in the following weeks, but this post was already far too long!).
+
+I see your point about the power of attraction of male characters for female writers who are attracted to men but I am not convinced that it is the answer to the question "why slash?". Buffy fans do not really see the need for writing dudeslash. Plenty who love Snape and Draco as characters actually write Snamione or Dramione.
+
+For the beginning of the conclusion, maybe that wasn't clear but I was paraphrasing the linked article because it is in French. I really like both Harry and Hermione, and Harry sure is a powerful wizard. But still, the fact that he is the Boy Who Lived (and later the prophecy) is crucial to him being the leader.
+
+Anyway, thanks for your comment!
+:PROPERTIES:
+:Author: Mzudny
+:Score: 5
+:DateUnix: 1479068397.0
+:DateShort: 2016-Nov-13
+:END:
+
+**** My main problem with what I read was that fanfiction is based off of a source. A source which you've already shown the ratios for. When writing a fanfiction it's almost always better to pull from the known cast list than to make an original character. So writers have a much larger pool of males to pull from than females.
+
+I think that the initial source material is effecting the statistics you pulled from fanfiction a lot. As well as the protagonist effecting a vast majority of the pronouns you would have pulled(But you've already addressed that).
+:PROPERTIES:
+:Author: ChaoQueen
+:Score: 1
+:DateUnix: 1479105034.0
+:DateShort: 2016-Nov-14
+:END:
+
+***** Yes, of course it's influencing them, that's why I chose to compare both and not just compute stats on fics. But authors choose which characters they expand on. As I said, the full cast is pretty long (around 170). I'm currently doing stats using character names, to see which characters are overrepresented and which are underrepresented in these 100 fics with respect to canon. Many of the results are not surprising: Theodore Nott or Fleur Delacour are more developed in ff, while Hagrid, Trelawney or Filch are relatively less mentioned in fics than in HP. However some surprised me a little: fics mentioned more Alice and Frank Longbottom, or Septima Vector. The numbers are still small, so I still have to check if it is driven by only one specific fic or not.
+:PROPERTIES:
+:Author: Mzudny
+:Score: 4
+:DateUnix: 1479106557.0
+:DateShort: 2016-Nov-14
+:END:
+
+****** And for me that would be a much more compelling set of statistics. But I've read a /lot/ of fanfiction and can already make some assumptions.
+
+I already know that there a certain popular characters there are to expand on. Fluer and Nott being two of them. Also you'll see a much weirder expansion on Daphne Greengrass that if I remember correctly is only mentioned once in all 7 of the books but has a lot of stories starring her. You'll see Vector in a lot of stories where Harry takes his schooling more seriously and takes her class.
+
+Context is going to show the real facts. But I believe each story really just depends on the author and the source material.
+
+Also side note: A lot of people hate writing Hagrid because of his accent. Trelawney is fairly unpopular, even in fics that feature divination, she'll probably only get a few lines, usually mentioning that she gave the prophecy and not much else. And Filch plays almost no real role for anything besides the cannon story points.. I mean in a world of House Elves about the only meaningful thing he does is patrol at night and give students the stink eye. He's just not a compelling character and I've only read maybe one or two fics that do anything with him at all.
+:PROPERTIES:
+:Author: ChaoQueen
+:Score: 1
+:DateUnix: 1479107579.0
+:DateShort: 2016-Nov-14
+:END:
+
+
+** I'm really confused by that author's metrics and emphasis on AO3. FF.net is vastly larger and far more popular than AO3. So a simple look at the most frequently used main characters can give you a pretty good idea about the so called female/male ratio:
+
+Harry P: main character in 205k fics
+
+Hermione G: 168k
+
+Draco M: 159k
+
+Severus S: 70.9k
+
+Ginny W: 53.7k
+
+Sirius B: 53.0k
+
+Lily Evans P: 50.2k
+
+James P: 48.8k
+
+Remus L: 43.8k
+
+Ron W: 43.7k
+
+Voldemort: 16.1k, Tom Riddle Jr: 10.2k
+
+Luna L: 13.2k
+
+--------------
+
+Almost all of Draco and Snape's popularity comes from female readers. If our [[https://www.reddit.com/r/HPfanfiction/comments/5atpzk/hpfanfiction_survey_2016_survey_on_demographics/][recent survey]] is any guide, hardly any male readers like those guys.
+
+I don't understand why that author complains about underrepresentation of female characters in HP world. If both the protagonist and antagonist are male, of course we are going to see male characters more often in the story.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 9
+:DateUnix: 1479068036.0
+:DateShort: 2016-Nov-13
+:END:
+
+*** u/deleted:
+#+begin_quote
+  I'm really confused by that author's metrics and emphasis on AO3.
+#+end_quote
+
+The author wanted data from reasonably long stories (because short stories tend to be more skewed individually and they were only analysing a small number of stories). This was trivially easy with ffn. It took additional work with ao3. The author described that work. That's all.
+
+#+begin_quote
+  Almost all of Draco and Snape's popularity comes from female readers.
+#+end_quote
+
+Which is entirely beside the point.
+
+#+begin_quote
+  I don't understand why that author complains about underrepresentation of female characters in HP world. If both the protagonist and antagonist are male, of course we are going to see male characters more often in the story.
+#+end_quote
+
+You can excuse or explain it a thousand ways from Sunday, but that won't make it go away.
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1479071778.0
+:DateShort: 2016-Nov-14
+:END:
+
+
+** Taure already got to the juicy parts of criticism. I agree with him/her that your method isn't exactly fool-proof. And my first idea as to how it fails would be that since a big majority of characters in HP are male, and most fanfiction authors used pre-existing characters, the ratio from the original books won't be vastly different except for the extreme cases you've shown.
+
+Furthermore you're beating a dead horse. Its widely known that Harry Potter is not in any way the pinnacle of feminist literature. If you get down to it, Harry Potter has a lot of problems. For example the infamous "good guys = handsome/pretty, bad guys = ugly or otherwise physically undesirable". Rowling also worked in a lot of her own experiences, and those were, of course, from the 70s and 80s when the feminist idea was on the rise, but beyond the civil rights issues definitely not widely accepted, or(, caution: overused word,) internalized by society.
+
+#+begin_quote
+  We have a distorted image of what equal gender representation is: people (especially men) tend to think that a population has a female/male composition of 50-50, even when the ratio is close to 20-80 or 30-70. (Is there a name for this effect?)
+#+end_quote
+
+Uhm... We think that because its very close to the truth. Worldwide the ratio men to women is almost 1:1. I have no idea where you get these numbers, or am I misunderstanding something here?
+
+Edit: I also can't believe you seriously linked a Buzzfeed article. Have you no shame?
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 11
+:DateUnix: 1479065803.0
+:DateShort: 2016-Nov-13
+:END:
+
+*** No, actually, no shame ;) It made me laugh and I'm sorry you did not. I'm just playing with numbers and R, and throwing in a bunch of gifs, fanart and links I like in the middle.
+
+About the passage you cited, I probably explained myself badly. English is not my native language. I was referring to studies about the perceived gender equilibrium (this is called mixité or parité in French). When asked if there is an equal proportion of men in women around them (for example in the workplace), men tend to answer yes, even when the actual proportions are closer to 30-70 than 50-50. I do not know how such a phenomenon is called in English, and thus have difficulties finding the appropriate sources. Do you have an idea?
+:PROPERTIES:
+:Author: Mzudny
+:Score: 4
+:DateUnix: 1479072134.0
+:DateShort: 2016-Nov-14
+:END:
+
+**** Ahh, yes, I know what you mean. I don't remember the name of the phenomenon, but I've learned about it.
+
+What I can remember from the explanations is that women are just "more important" in the initial perception of men. I'm looting my piles of discarded lesson-notes trying to find it. Its a well known thing in marketing, advertisement and entertainment media, and I learned about it as a tool and area of caution. However, what it boils down to is that any man, if he doesn't perceive his environment as hostile, will focus much more on the female population of an area than he will on the male population.
+
+Its one of many explanations and far too simple for what is most likely a complex process of perception and memorization. Its just what was taught to us so we may use it as a tool for whatever stories we'll tell to our audience.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 2
+:DateUnix: 1479108040.0
+:DateShort: 2016-Nov-14
+:END:
+
+
+**** u/Skeletickles:
+#+begin_quote
+  English is not my native language
+#+end_quote
+
+That moment when you realize... he knows English better than you.
+:PROPERTIES:
+:Author: Skeletickles
+:Score: 1
+:DateUnix: 1479152293.0
+:DateShort: 2016-Nov-14
+:END:
+
+
+** I'm going to call bullshit on this entire article.
+
+#+begin_quote
+  Even when there are canon female characters, *canon male characters are deemed more interesting than female ones* in terms of story development and character arcs
+#+end_quote
+
+Who says this exactly? Have you /seen/ the amount of Hermione wank this fandom produces?
+
+#+begin_quote
+  Whereas centred around a male character, the book has an interesting ---if *limited--- list of female characters* that provide ample matter for fanfic authors
+#+end_quote
+
+Seriously? Please provide the number of female characters in the series and then state exactly how far short this falls from your expectation. Also, why do we need to quantify the number of female characters when a discussion of quality would be more appropriate?
+
+#+begin_quote
+  dudeslash (mainly Drarry -- Harry/Draco)
+#+end_quote
+
+AFAIK, it's just 'slash.' The meaning of the word in this context is something like forty years old now, right?
+
+#+begin_quote
+  female characters that were underdeveloped in canon (Luna Lovegood, Hestia Jones, Millicent Bulstrode, etc.).
+#+end_quote
+
+The series is almost 1.1 million words long, but you want more time devoted to [[https://www.reddit.com/r/HPfanfiction/comments/50ykma/i_think_its_time_that_we_have_a_character/d78ca4a/][Luna Lovegood]], who very likely didn't exist in Rowling's mind until OOtP. I agree about Millicent Bulstrode, but for a [[http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilMakesYouUgly][different reason]]. Her entire character is spectacularly lazy writing on Rowling's part.
+
+#+begin_quote
+  A very crude measure of the prevalence of female vs. male characters is to compare the proportion of she/her pronouns to he/him/his in the books.
+#+end_quote
+
+100% agree that this is very crude. A better way to do this might be to confine your search to characters that received a certain number of mentions (say two hundred as an arbitrary number) throughout the series.
+
+#+begin_quote
+  where Harry's interactions with girls are pretty much restricted to Hermione, and *women are virtually non-existent* (McGonagall, Molly Weasley or Pomfrey appearing only very occasionally by contrast with Snape, Dumbledore or even Quirrell, Lockhart and (fake)Moody)
+#+end_quote
+
+Provide a citation for this as I'll guarantee you that McGonagall receives more mentions throughout the series than Quirrell or Lockhart. If you're going to switch to a per-book argument, then it makes sense for the antagonist (primary or secondary) to receive more mentions than a character that is kept in the background *not because of their gender* but because any assistance they offer would likely turn the final confrontation irrelevant. [e.g. If Minerva had believed Harry/Hermione/Ron about someone attempting to steal the Philosopher's Stone, she would have likely faced Quirrell without them]
+
+#+begin_quote
+  Starting with the fourth volume [...] Tonks and Luna get more important roles
+#+end_quote
+
+Yes, because neither off them existed in the author's mind before OOtP.
+
+#+begin_quote
+  FF.net does not offer an easy way to see at the first glance which ships are involved in a fic and anyway, a larger proportion of fics are gen.
+#+end_quote
+
+Sure it does. It puts a pair of names in brackets in the summary.
+
+#+begin_quote
+  relatively few occurrences of female agency
+#+end_quote
+
+Whoa! That's a big logical leap: because there are few female pronouns, women do not contribute to the Harry Potter series.
+
+You're ignoring the fact that Lily chose to sacrifice herself for her child, turning a blind eye to Hermione's contributions (too numerous to list), and dozens of other women who played parts in the Harry Potter series.
+
+#+begin_quote
+  Conclusion
+#+end_quote
+
+Wait, what? You've moved here without offering any proof whatsoever for the lack of female agency claim!
+
+For sources, you provide something in French[!] and a blog by a film critic.
+
+#+begin_quote
+  despite being a superior witch compared to Harry, [Hermione] is bound to be secondary to him
+#+end_quote
+
+A superior witch? How and when did that happen? She's one of my favourite characters in the series, but even I wouldn't go that far in describing her abilities. Remember this exchange from the original series:
+
+#+begin_quote
+  "I'm not as good as you," said Harry, very embarrassed, as she let go of him.
+
+  "Me!" said Hermione. "Books! And cleverness! There are more important things -- friendship and bravery and -- oh Harry -- /be careful/!"
+
+  Having no friends is her own fault, because of her supposed pretientiousness.[sic]
+#+end_quote
+
+Supposed? She was bloody arrogant! *Strong characters have faults!* You're just angry she wasn't the fanon Mary-Sue in the original series.
+
+#+begin_quote
+  During their adventures, if her intelligence is frequently put forward, it is presented as a secondary quality compared to Harry's courage.
+#+end_quote
+
+This is tunnel vision. You don't think Harry displays any intelligence or Hermione any bravery? One character is not an avatar for any one particular trait in HP.
+
+#+begin_quote
+  The lack of interesting female characters in canon
+#+end_quote
+
+You've just restated this point without having proved it above. Repetition is not the same as proof. Also, what's interesting to you may not be interesting to someone else and vice versa.
+
+You close with another link to a blog and a Buzzfeed article. Forgive me if I don't find these sources to be compelling or accurate.
+:PROPERTIES:
+:Author: MacsenWledig
+:Score: 11
+:DateUnix: 1479066145.0
+:DateShort: 2016-Nov-13
+:END:
+
+*** u/boomberrybella:
+#+begin_quote
+  where Harry's interactions with girls are pretty much restricted to Hermione
+#+end_quote
+
+I thought this was especially funny. One of Harry's two best friends is a girl. That's a big deal to me! Of course there will be exceptions, but children generally have friends among their own gender.
+:PROPERTIES:
+:Author: boomberrybella
+:Score: 10
+:DateUnix: 1479067175.0
+:DateShort: 2016-Nov-13
+:END:
+
+
+*** Wow, I can actually /taste/ your anger and disdain (kind of garlicky). Impressive.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 7
+:DateUnix: 1479070007.0
+:DateShort: 2016-Nov-14
+:END:
+
+
+*** u/Mzudny:
+#+begin_quote
+  You're ignoring the fact that Lily chose to sacrifice herself for her child
+#+end_quote
+
+If the first example that comes to mind is of a woman that has been dead 10 years before the beginning of the book events, then yes, there is lack of female agency
+:PROPERTIES:
+:Author: Mzudny
+:Score: 4
+:DateUnix: 1479076931.0
+:DateShort: 2016-Nov-14
+:END:
+
+**** Despite the fact that Lily's choice set in motion the events of the entire series? I think she had one of the most important parts to play, despite only appearing sporadically in the series.
+
+I didn't choose to list that example first because of its timeliness, but because of its significance.
+:PROPERTIES:
+:Author: MacsenWledig
+:Score: 3
+:DateUnix: 1479077379.0
+:DateShort: 2016-Nov-14
+:END:
+
+***** Well, that's your way to see it. I still feel that she had not that much of a choice (few people wouldn't do the same faced with a death threat on a loved one, especially on a son or a daughter), and that she is more of a background character in the story that unfolds in the seven books.
+:PROPERTIES:
+:Author: Mzudny
+:Score: 2
+:DateUnix: 1479082504.0
+:DateShort: 2016-Nov-14
+:END:
+
+****** James got to fight, Lily got to beg. Says a lot about clichés.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 5
+:DateUnix: 1479117534.0
+:DateShort: 2016-Nov-14
+:END:
+
+
+*** u/deleted:
+#+begin_quote
+  A better way to do this might be to confine your search to characters that received a certain number of mentions (say two hundred as an arbitrary number) throughout the series.
+#+end_quote
+
+And omit original and renamed characters in the process. Not ideal.
+
+#+begin_quote
+  That's a big logical leap: because there are few female pronouns, women do not contribute to the Harry Potter series.
+#+end_quote
+
+From pronoun ratios alone, we would expect less female agency simply because female characters are mentioned less. From reading the books, that expectation is confirmed.
+
+#+begin_quote
+  You're ignoring the fact that Lily chose to sacrifice herself for her child,
+#+end_quote
+
+Begging your soon-to-be-murderer to spare your child isn't agency.
+
+#+begin_quote
+  turning a blind eye to Hermione's contributions (too numerous to list),
+#+end_quote
+
+A contribution is not the same as agency.
+
+#+begin_quote
+  and dozens of other women who played parts in the Harry Potter series.
+#+end_quote
+
+Ginny Weasley has some agency, at least in her backstory: she sneaked out of the house at night to ride her bothers' brooms.
+
+Molly Weasley arguably shows agency in choosing to fight at the Battle of Hogwarts. I would generally not consider it particularly demonstrative of agency to to fulfil a role, but in this case the role is contrary to what the dominant forces in society approve of. It's like, being gay in 1940 doesn't show agency, but being out and proud and defiant about it does.
+
+Dolores Umbridge shows some agency -- she acts primarily within her role, but she greatly exceeds her mandate.
+
+#+begin_quote
+  Provide a citation for this as I'll guarantee you that McGonagall receives more mentions throughout the series than Quirrell or Lockhart.
+#+end_quote
+
+A fair comparison between a recurring character and the freak of the week is likely impossible. You can compare with every Defence professor, but that's hardly fair -- the Defence professor will only have one book to make themselves known.
+
+A fairer comparison would be with Professor Snape, who is mentioned over twice as often as Professor McGonagall, or Professor Flitwick, who is mentioned a fifth as often. High variance, low sample size. That's why you get a better overview when aggregating by gender instead of by character then gender.
+
+#+begin_quote
+  A superior witch? How and when did that happen?
+#+end_quote
+
+Pretty much every book? In the first classes, she gets her feather levitating first, and she turns her matchstick silver before anyone else. By the end of the series, Hermione is enchanting objects and Harry seems to know about ten spells in total. As long as you're not riding brooms, Hermione's better at magic than Harry.
+
+Harry is the protagonist, so people assume that he must be more puissant than he really is.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1479074828.0
+:DateShort: 2016-Nov-14
+:END:
+
+**** I was wondering when you were going to get to me.
+
+#+begin_quote
+  Not ideal.
+#+end_quote
+
+Why not and what would you suggest instead?
+
+#+begin_quote
+  From pronoun ratios alone, we would expect less female agency simply because female characters are mentioned less.
+#+end_quote
+
+This is a thoroughly unconvincing circular argument that fails to consider the quality or magnitude of a character's actions.
+
+#+begin_quote
+  From reading the books, that expectation is confirmed.
+#+end_quote
+
+By whom? Don't presume to think for me. I disagree with the OP's premise.
+
+#+begin_quote
+  Begging your soon-to-be-murderer to spare your child isn't agency.
+#+end_quote
+
+You don't think she had a choice? Sure she did and if Lily had stepped aside, the series would have been drastically different.
+
+#+begin_quote
+  A contribution is not the same as agency.
+#+end_quote
+
+Now you're trying to wheedle semantics. From [[https://en.wikipedia.org/wiki/Agency_(philosophy][Wikipedia]]:
+
+#+begin_quote
+  agency is the capacity of an actor [...] to act in any given environment.
+#+end_quote
+
+I believe Hermione's actions affected change throughout the series, thus demonstrating agency.
+
+#+begin_quote
+  A fair comparison between a recurring character and the freak of the week is likely impossible. You can compare with every Defence professor, but *that's hardly fair* -- the Defence professor will only have one book to make themselves known.
+#+end_quote
+
+Yes, this was my point. The OP wanted to draw stark conclusions on the agency of an entire gender without paying enough attention to other considerations, such as their role in that particular book (e.g. McGonagall vs. Quirrell in PS). Why not Umbridge vs Lockhart then? That doesn't work IMO because of my next point:
+
+#+begin_quote
+  A fairer comparison would be with Professor Snape, who is mentioned over twice as often as Professor McGonagall
+#+end_quote
+
+No. Snape serves far more roles than McGonagall does, so naturally he would have more mentions. This obsession with placing everyone into a hierarchy is baffling.
+
+#+begin_quote
+  Pretty much every book? In the first classes, she gets her feather levitating first, and she turns her matchstick silver before anyone else. By the end of the series, Hermione is enchanting objects and Harry seems to know about ten spells in total.
+#+end_quote
+
+Yes, because Hermione is needed to drive the plot forward. Here's a snippet from a speech J K Rowling gave to a group of librarians:
+
+#+begin_quote
+  "I would like to apologise for you and any other librarians present here today and my get-out clause is always if they'd had a pleasant, helpful librarian, half my plots would be gone. 'Cause the answer invariably is in a book, but *Hermione* has to go and find it. If they'd had a good librarian, that would have been that problem solved."
+#+end_quote
+
+Seems clear to me that the author thought she had given Hermione some agency.
+
+#+begin_quote
+  By the end of the series, Hermione is enchanting objects and Harry seems to know about ten spells in total.
+#+end_quote
+
+He did pretty well on his Defence O.W.L. for only knowing a handful of spells. Remind me, was his mark better or worse than Hermione's on that particular exam? As a follow up, out of all of their subjects, which one do you think best codifies all of the spells necessary for surviving encounters with Death Eaters?
+
+#+begin_quote
+  As long as you're not riding brooms, Hermione's better at magic than Harry.
+#+end_quote
+
+Hermione has flaws. One of them is that she chokes under pressure. Remember the Devil's Snare underneath the school? Or how about silencing instead of stunning her opponent at the Ministry battle? Having a vast repertoire of spells at your disposal is fairly meaningless if you aren't able to use them effectively when it counts.
+:PROPERTIES:
+:Author: MacsenWledig
+:Score: 5
+:DateUnix: 1479077135.0
+:DateShort: 2016-Nov-14
+:END:
+
+***** u/deleted:
+#+begin_quote
+  Now you're trying to wheedle semantics. From Wikipedia:
+
+  #+begin_quote
+    agency is the capacity of an actor [...] to act in any given environment.
+  #+end_quote
+#+end_quote
+
+Compare:
+
+- [[http://spartanideas.msu.edu/2014/06/13/what-is-character-agency/]]
+- [[http://terribleminds.com/ramble/2014/06/03/just-what-the-humping-heck-is-character-agency-anyway/]]
+- [[http://www.pcwrede.com/agency-in-fiction/]]
+- [[http://www.matthewcoxbooks.com/wordpress/2016/06/03/writing-character-agency/]]
+- [[http://exploringbelievability.blogspot.com/2012/03/character-agency.html]]
+
+"Agency" in literary jargon is different from "agency" in philosophical jargon.
+
+But it should have been bleeding obvious even without going into jargon. Is it equality if a story has a good gender mix of characters who do anything, but the only ones who make decisions, show independence, or have clear goals of their own are men?
+
+#+begin_quote
+  Snape serves far more roles than McGonagall does, so naturally he would have more mentions.
+#+end_quote
+
+Rowling chose to give more roles to Snape, a male character, than to McGonagall, a female character, you mean. You're missing the point that a human designed the story.
+
+#+begin_quote
+  He did pretty well on his Defence O.W.L.
+#+end_quote
+
+Lupin taught mainly about household pests. Lockhart taught improv acting. Quirrell taught mainly about vampires. The D.A. taught roughly three spells. Crouch Jr taught about the Unforgivables and who knows what else. That's what got Harry that grade, apparently.
+
+#+begin_quote
+  As a follow up, out of all of their subjects, which one do you think best codifies all of the spells necessary for surviving encounters with Death Eaters?
+#+end_quote
+
+Is that a general qualification for being a good mage?
+
+#+begin_quote
+  because Hermione is needed to drive the plot forward.
+#+end_quote
+
+She's not better at learning spells because her ability to find information in the library is required by the plot? Searching the library isn't relevant to spellcasting ability, and if it were, we wouldn't argue that Conan's thews are any less mighty because Conan drives the plot.
+
+#+begin_quote
+  One of [Hermione's flaws] is that she chokes under pressure.
+#+end_quote
+
+In first year, she does react worse to dangerous situations than does Harry. She improves through the course of the books.
+
+#+begin_quote
+  Or how about silencing instead of stunning her opponent at the Ministry battle?
+#+end_quote
+
+Looking at the book:
+
+#+begin_quote
+  he heard Hermione shout “Stupefy!” and the hand released him at once.
+
+  “STUPEFY!” screamed Hermione
+#+end_quote
+
+She knew the spell, could cast it quickly and effectively in a combat situation, and defeated two opponents with it.
+
+Then she silenced a Death Eater who was calling for backup. In context, it wasn't a bad move, though we can't be certain it was the best move without knowing more about magic than canon tells us.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1479082512.0
+:DateShort: 2016-Nov-14
+:END:
+
+****** I chose the broader philosophical definition because it is rather similar to the narrower literary one:
+
+#+begin_quote
+  the freedom and capacity to live or act in a defined world
+#+end_quote
+
+No other reason. It's still quibbling about phrasing.
+
+#+begin_quote
+  the only ones who make decisions, show independence, or have clear goals of their own are men
+#+end_quote
+
+You're speaking /so/ broadly here. Do you really need someone to illustrate all the times when a female in the HP series made a choice, acted independently, or had a goal/ambition of their own?
+
+#+begin_quote
+  That's what got Harry that grade, apparently.
+#+end_quote
+
+Well, he got extra credit for performing a Patronus, which is something that very few adult wizards and witches can do. Fred & George indicated that most magic users also have difficulty with the Shield Charm, hence the need for their line of enchanted products. I'm no fan of an overpowered protagonist, but you're selling canon Harry short.
+
+#+begin_quote
+  Is that a general qualification for being a good mage?
+#+end_quote
+
+For that particular place, time, and circumstance? Yes. If it was in peacetime, then I'd think that Harry's education was lopsided, but I think he applied himself when it counted.
+
+#+begin_quote
+  She's not better at learning spells because her ability to find information in the library is required by the plot?
+#+end_quote
+
+I don't know that she's better at learning spells. I take Hermione's ability to maintain an expansive spell repertoire not as an innate quality, but as a result of her /choice/ to spend most of her free time reading and taking notes on classroom material above and beyond what is expected.
+:PROPERTIES:
+:Author: MacsenWledig
+:Score: 1
+:DateUnix: 1479083986.0
+:DateShort: 2016-Nov-14
+:END:
+
+******* u/deleted:
+#+begin_quote
+  I chose the broader philosophical definition because it is rather similar to the narrower literary one:
+#+end_quote
+
+It's not. It really isn't. Ron eating breakfast doesn't show agency in the literary sense, but it does in the philosophical sense.
+
+#+begin_quote
+  Do you really need someone to illustrate all the times when a female in the HP series made a choice, acted independently, or had a goal/ambition of their own?
+#+end_quote
+
+It would be kind of nice to have actual numbers on that.
+
+#+begin_quote
+  Well, he got extra credit for performing a Patronus, which is something that very few adult wizards and witches can do.
+#+end_quote
+
+And every member of the D.A. could with something like one meeting a week and several weeks off for Harry's remedial potions lessons.
+
+#+begin_quote
+  Fred & George indicated that most magic users also have difficulty with the Shield Charm
+#+end_quote
+
+Likewise. Also, if you're worried that someone will hex you in the streets, it's a lot more practical to have a shield hat than to maintain a shield charm constantly.
+
+#+begin_quote
+
+  #+begin_quote
+    Is that [being able to defeat Death Eaters] a general qualification for being a good mage?
+  #+end_quote
+
+  For that particular place, time, and circumstance? Yes.
+#+end_quote
+
+Then Hermione qualifies as one of the most accomplished of her generation.
+
+#+begin_quote
+  I don't know that she's better at learning spells.
+#+end_quote
+
+Check the first book again.
+
+#+begin_quote
+  I take Hermione's ability to maintain an expansive spell repertoire not as an innate quality, but as a result of her choice
+#+end_quote
+
+With that much inference, it still doesn't count as agency, any more than Dumbledore being revealed as gay a decade after the books being published doesn't let HP be an example of representation of homosexual people.
+
+Regardless of the source of her facility with learning spells, she has it; Harry doesn't.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1479084782.0
+:DateShort: 2016-Nov-14
+:END:
+
+******** u/MacsenWledig:
+#+begin_quote
+  Ron eating breakfast doesn't show agency in the literary sense, but it does in the philosophical sense.
+#+end_quote
+
+That's a radical interpretation. The only change that he would be affected involves turning a full plate of food into an empty one.
+
+#+begin_quote
+  It would be kind of nice to have actual numbers on that.
+#+end_quote
+
+Then since you're the one attempting to call attention to a problem, add them up, provide a number that you think would be more fair, and suggest methods for JKR to bridge the gap between the two.
+
+I want to sincerely thank you for [[https://www.reddit.com/r/HPfanfiction/comments/5crbk7/meta_i_did_some_text_mining_on_harry_potter_where/d9z5t0a/][responding]] to my earlier post. I love to see meaningful suggestions for challenging the original series. It adds so much more than empty whinging. The only feedback I can offer to that post is that you've focussed on discussing reasons for why quantitative analysis is so difficult and haven't done enough to allay my concerns about the OP's assertion that the quantity of incidents displaying female agency is more important than the quality.
+
+I doubt that we're going to find much common ground, but I think empathy for well-argued viewpoints is important. I agree that a publishable report would be time consuming, but it would be met with less derision than something pushed with Buzzfeed and blog articles.
+
+#+begin_quote
+  And every member of the D.A. could with something like one meeting a week and several weeks off for Harry's remedial potions lessons.
+#+end_quote
+
+True, but Harry did it two years earlier in the presence of both a Boggart and a genuine Dementor, which is noticeably more difficult than alone.
+
+#+begin_quote
+  Also, if you're worried that someone will hex you in the streets, it's a lot more practical to have a shield hat than to maintain a shield charm constantly.
+#+end_quote
+
+This doesn't diminish Harry's accomplishment.
+
+#+begin_quote
+  Then Hermione qualifies as one of the most accomplished of her generation.
+
+  Check the first book again.
+#+end_quote
+
+I'm not attempting to argue that Hermione has no skill. Rather that she makes more mistakes in the course of battle than Harry does.
+
+#+begin_quote
+  With that much inference
+#+end_quote
+
+Hermione is frequently described as spending large amounts of time in the library. I don't think it's that much of a logical leap.
+
+#+begin_quote
+  Regardless of the source of her facility with learning spells, she has it; Harry doesn't.
+#+end_quote
+
+I just can't buy this. Harry learned several useful spells in a fairly short period of time while preparing for the Triwizard Tournament.
+:PROPERTIES:
+:Author: MacsenWledig
+:Score: 1
+:DateUnix: 1479160062.0
+:DateShort: 2016-Nov-15
+:END:
+
+********* u/deleted:
+#+begin_quote
+  haven't done enough to allay my concerns about the OP's assertion that the quantity of incidents displaying female agency is more important than the quality.
+#+end_quote
+
+I think you're mischaracterizing the point. People here, in arguing for the status quo, have been implying that quantity is unimportant, and /only/ quality matters. But in reality, /both/ matter.
+
+If a book has only one female character, they only appear in one scene, but they're a paragon of agency and portrayed in a respectful manner, it's not doing a good job with representation.
+
+If a book has as many female characters as male characters, but female characters are all in traditional roles and don't show any agency, it's not doing a good job with representation.
+
+I myself argued that quality is important several posts ago:
+
+#+begin_quote
+  Is it equality if a story has a good gender mix of characters who do anything, but the only ones who make decisions, show independence, or have clear goals of their own are men?
+#+end_quote
+
+Perhaps you missed that.
+
+#+begin_quote
+  Then since you're the one attempting to call attention to a problem, add them up, provide a number that you think would be more fair, and suggest methods for JKR to bridge the gap between the two.
+#+end_quote
+
+JKR isn't going to rewrite the series. This is an attempt to get me to shut up and go away.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1479161358.0
+:DateShort: 2016-Nov-15
+:END:
+
+
+***** u/deleted:
+#+begin_quote
+
+  #+begin_quote
+    [regarding pronoun counting] Not ideal.
+  #+end_quote
+
+  Why not and what would you suggest instead?
+#+end_quote
+
+Pronouns are used more often when they are unambiguous -- when one person is acting for an extended period. If a story has three main characters, one male and two female, each with equal narration devoted to them, the male character will be referred to with pronouns more often because it is unambiguous, while the female characters will be referred to by name more often. Conversely, if one character is portrayed alone a lot and others are mainly portrayed together, the one who is portrayed alone will use pronouns a lot more.
+
+Addressing this hole takes a lot of work -- you have to identify every character's name, the alternate forms of those names, and the genders of each character. You might encounter ambiguous cases. The good part is that we expect the magnitude of this effect to be relatively small with a large work of fiction.
+
+After that, tracking the amount of dialogue and narration by gender. Then sentiment analysis for each character, aggregated by gender.
+
+Improving more than a little is /hard/. What OP did was straightforward -- I've done the exact same thing before. Implementing any of these would mean spending time in a university library searching through NLP journals and might yield a couple publications. It's better to have this much data today than to delay for probably a couple years (because this is an evenings and weekends type of deal -- I'm not getting paid to do this).
+
+There's one simple improvement that might be worthwhile and quick to implement: compare subject and object mentions. This is a rough estimate of how often each gender acts and how often they are acted upon. This is not terribly difficult to track, except that in English, the possessive and accusative cases for the feminine pronoun are identical (the sentence "I worked with her" might be finished with "at Cal Tech" or "cousin" with a rather different effect; changing the gender means you'd have to swap "him" for "his"). You can produce a report that explicitly handles this ambiguity by specifying subject vs non-subject instead. This would be easier in Esperanto.
+
+#+begin_quote
+
+  #+begin_quote
+    From pronoun ratios alone, we would expect less female agency simply because female characters are mentioned less.
+  #+end_quote
+
+  This is a thoroughly unconvincing circular argument that fails to consider the quality or magnitude of a character's actions.
+#+end_quote
+
+You're arguing that a character might be mentioned only a few times but be the key to the plot, I think. But we're talking about /representation/, which kind of requires the character to be, well, present.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1479084227.0
+:DateShort: 2016-Nov-14
+:END:
+
+
+** This has the same flaws as Ancient Aliens. You clearly went into this with a conclusion in mind, and chose your methodology to produce evidence matching your pre-chosen conclusion, all wrapped in incredibly bad logic and just... wrong facts (it really is approximately 1:1 Male:Female).
+
+0/10. Do better.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 8
+:DateUnix: 1479070384.0
+:DateShort: 2016-Nov-14
+:END:
+
+*** u/deleted:
+#+begin_quote
+  it really is approximately 1:1 Male:Female
+#+end_quote
+
+You obviously haven't read canon or pretty much any popular fan fiction, then.
+:PROPERTIES:
+:Score: -1
+:DateUnix: 1479071178.0
+:DateShort: 2016-Nov-14
+:END:
+
+**** A. The author of this article claimed that populations have wildly differing gender ratios. While this is true when looking at various professional fields, it isn't true in general. If the author meant fanfiction or canon only, they have to work on their communication skills.
+
+B. In general, children of school age (particularly younger ages like we see in the earlier HP books) have their friendships mostly with children of the same gender, so this /obviously/ would reflect into fiction about schoolchildren of that age.
+
+C. No need to have an attitude.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 9
+:DateUnix: 1479072271.0
+:DateShort: 2016-Nov-14
+:END:
+
+***** u/Aristause:
+#+begin_quote
+  0/10. Do better.
+
+  C. No need to have an attitude.
+#+end_quote
+
+Oh, come on, dude.
+:PROPERTIES:
+:Author: Aristause
+:Score: 8
+:DateUnix: 1479076681.0
+:DateShort: 2016-Nov-14
+:END:
+
+
+***** I think the author's phrasing might not be very clear. They meant that there is a skewed perception of the male:female ratio in a defined environment. For instance in a classroom, or work environment: one would feel that there are 50% of women when in fact it's more like 30%. You would /feel/ like there are a lot of women... when in fact, not that much.
+:PROPERTIES:
+:Author: _mmepsychosis
+:Score: 3
+:DateUnix: 1479072946.0
+:DateShort: 2016-Nov-14
+:END:
+
+
+***** u/deleted:
+#+begin_quote
+  In general, children of school age (particularly younger ages like we see in the earlier HP books) have their friendships mostly with children of the same gender
+#+end_quote
+
+In general, children of school age don't wrestle trolls. Authors are free to portray worlds nicer than our own.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1479075090.0
+:DateShort: 2016-Nov-14
+:END:
+
+
+** u/Satanniel:
+#+begin_quote
+  As we well know, fanfiction is dominated by stories about male characters, which can appear a bit paradoxical at first, since it is predominantly written by women.
+
+  Several explanations can be advanced on the subject: (...)
+#+end_quote
+
+Manga, anime etc. (from now on shortened to m&a) are my field of expertise and allow me to quickly present some analogical situations that show true explanation for this matter.
+
+In m&a there exist a genre called BL (boy's love), those are romances about homosexual males, created mainly by and for heterosexual females. There are also so called "cute girls doing cute things", which as you can guess are about females and are created mainly by males for males. Males over 30 years old are also secondary target of magical girl series, which as the name suggest are about females.
+
+Similar situation apply to fanfiction. Taure's last survey confirmed what everybody already knew, slash is mainly read by females. So how do this work? Simple, most of people are heterosexual and are simply interested in opposite gender, and so in works that feature them. Of course character in those works are often warped to be more in line with creators' and readers' fantasies than reality. So the abundance of male characters in female-created works (and vice-versa) isn't exactly some hallmark of equal representation.
+
+#+begin_quote
+  [GIF from GoF movie]
+#+end_quote
+
+Making Beauxbatons all-female school (and Durmstrang all-male) is a movie change geared for bigger contrast and isn't relevant.
+
+#+begin_quote
+  HP has a few difficulties passing the Bechdel test.
+#+end_quote
+
+Bechdel test is worthless as a tool of actual critique. It fails to include things like character perspective, story subject, etc. And meeting it, actually proves nothing about quality (and very little about quantity) of the female characters in story.
+
+#+begin_quote
+  and taking into account only humans
+#+end_quote
+
+SPIECISM!
+
+#+begin_quote
+  [pronouns]
+#+end_quote
+
+That was extensively commented upon, by Taure and I'm too lazy too restate that, but your focus on the most popular fics is another failure of your analysis, as they are not reflective of the spectrum of published fanfiction.
+
+#+begin_quote
+  despite being a superior witch compared to Harry, she is bound to be secondary to him, in a quite arbitrary manner (he is the Chosen One, because of the prophecy)
+#+end_quote
+
+What a crazy thing in the books in which were (I think even directly) stated that there are more important things than being skilled at magic (Hermione herself thought that, that's why she ended up in Gryffindor and not Ravenclaw).
+
+#+begin_quote
+  She has to be punished for her bossyness (from Harry's and Ron's points of view) in order to evolve into a likable character. For example, in the first volume, when she tries to teach Ron how to do a proper Wingardium Leviosa charm, she is ridiculed by him behind her back. Having no friends is her own fault, because of her supposed pretientiousness.
+#+end_quote
+
+You've either have read the books long time ago, or misinterpret them heavily. She was annoying, and bossy and she was clearly meant to be annoying and bossy. Her getting more likeable isn't some part of JKR's evil, anti-female plot, it's character development.
+
+#+begin_quote
+  This is stated in full words when Hermione solves the potions puzzle in order to access the Philosopher's stone, and yet gives way to Harry because she only learned it in books and courage is more important.
+#+end_quote
+
+And Harry caught the key and put Fluffy to sleep, and Ron defeated the chess set and reminded Hermione about fire. And those were equally important in getting there.
+
+#+begin_quote
+  We have a distorted image of what equal gender representation is: people (especially men) tend to think that a population has a female/male composition of 50-50, even when the ratio is close to 20-80 or 30-70. (Is there a name for this effect?)
+#+end_quote
+
+[[https://en.wikipedia.org/wiki/List_of_countries_by_sex_ratio#Countries][Too bad for you, that statistics show something different.]] Sorry, for Wikipedia, but it nicely summarizes CIA's data.
+
+While some of the points you rise are right (books having more important male characters than female ones, and many fics following suit), your incorrect research methods, and bending of facts to support your theories clearly show that this article is worthless.
+
+Get better and try again. Or just read and promote good fanfics with a focus on female characters. Maybe then, they will get more favourites.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 8
+:DateUnix: 1479068083.0
+:DateShort: 2016-Nov-13
+:END:
+
+*** u/deleted:
+#+begin_quote
+
+  #+begin_quote
+    We have a distorted image of what equal gender representation is: people (especially men) tend to think that a population has a female/male composition of 50-50, even when the ratio is close to 20-80 or 30-70. (Is there a name for this effect?)
+  #+end_quote
+
+  Too bad for you, that statistics show something different.
+#+end_quote
+
+The author was trying to say: in a mixed group with a gender ratio of 80% men and 20% women, men will perceive it as having roughly as many men as women.
+
+#+begin_quote
+  Or just read and promote good fanfics with a focus on female characters. Maybe then, they will get more favourites.
+#+end_quote
+
+People tend to deride fics that feature Hermione being badass as Hermione-wank. Oddly enough, if you level up Harry enough to be a traditional hero and then level him up some more, nobody calls it Harry-wank.
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1479075372.0
+:DateShort: 2016-Nov-14
+:END:
+
+**** u/Satanniel:
+#+begin_quote
+  The author was trying to say: in a mixed group with a gender ratio of 80% men and 20% women, men will perceive it as having roughly as many men as women.
+#+end_quote
+
+My fault. Clearly I can't read, sorry Mzudny.
+
+#+begin_quote
+  People tend to deride fics that feature Hermione being badass as Hermione-wank. Oddly enough, if you level up Harry enough to be a traditional hero and then level him up some more, nobody calls it Harry-wank.
+#+end_quote
+
+Never seen fics where Hermione is a badass on a reasonable scale (aka without going into Mary Sue territory) being derided for it. OP Hermione is another matter, but OP Harry gets derided pretty heavily in certain circles. Still, many like it, because they want to have this cool and powerful self-insert protagonist. For contrast female-aimed shitty self-insert fics are bad romances, where ability level doesn't matter much. Cue many Hermione fans not caring much about the OP Hermione fics, while people who want to complain about it will complain about it anyway.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 5
+:DateUnix: 1479077383.0
+:DateShort: 2016-Nov-14
+:END:
+
+
+**** [deleted]
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1479085927.0
+:DateShort: 2016-Nov-14
+:END:
+
+***** People have different views of what is "overpowered".
+:PROPERTIES:
+:Author: Starfox5
+:Score: 2
+:DateUnix: 1479164215.0
+:DateShort: 2016-Nov-15
+:END:
+
+
+** Awesome!
+
+I did a similar analysis a while back, though not as in depth, and received a similarly poor response. People are sometimes willing to listen if you call a specific trope sexist (though it's likely that someone will argue), and sometimes they'll listen about a specific fic, but they're not willing to listen when it's in aggregate. That feels like it might be possibly hinting on an accusation that we're sexist, and them's fightin' words.
+
+Good luck! Any plans to look into sentiment analysis?
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1479076650.0
+:DateShort: 2016-Nov-14
+:END:
+
+*** u/Mzudny:
+#+begin_quote
+  Awesome!
+#+end_quote
+
+Glad you liked it!
+
+#+begin_quote
+  they're not willing to listen when it's in aggregate
+#+end_quote
+
+I know but i'll keep doing it because that's what I like about stats, being able to see a larger picture. I mean, saying that this book or this fic or this trope has poor representation of [choose any category] is a thing, and trying to analyze if this is a pattern is another. Above all I think people tend to confuse analysis and criticism. As you say "That feels like it might be possibly hinting on an accusation that we're sexist". But regretting that most fiction works do not have well-developed female characters is not the same as saying that books or fics or movies staring and almost all-male cast are not interesting, or that fics with female heros are /per se/ better. I enjoyed reading quite a few of the fics that ranked low in my list according to their female/male pronouns ratio, and a huge number of other ones that would not have performed better on this matter.
+
+#+begin_quote
+  Any plans to look into sentiment analysis?
+#+end_quote
+
+Yes! But i'm pretty new to text mining, and I did not yet find a way to restrict sentiment analysis to specific parts of a text (for example text at a certain distance from a specific pronoun of a specific character name).
+:PROPERTIES:
+:Author: Mzudny
+:Score: 4
+:DateUnix: 1479082020.0
+:DateShort: 2016-Nov-14
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1479152403.0
+:DateShort: 2016-Nov-14
+:END:
+
+*** Sound the alarms, the feminists enjoy pop culture too much.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1479167462.0
+:DateShort: 2016-Nov-15
+:END:
+
+
+*** I remember those heady days when my kids were little and Harry Potter was just a kids book.
+:PROPERTIES:
+:Author: Herenes
+:Score: 1
+:DateUnix: 1479196715.0
+:DateShort: 2016-Nov-15
+:END:
+
+
+** It's pretty well accepted that the number and quality of female characters jumped in Order of the Phoenix. If you text mine canon, you'll probably find a significant increase in female pronouns starting there.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1479150693.0
+:DateShort: 2016-Nov-14
+:END:
+
+*** Yes I do! The female/male pronouns ratio jumped from 23% in GoF to 34% in OotF. But since it went back to around 25% in HBP and DH, I think that most of the jump can be attributed to Umbridge being the DADA teacher at the time.
+:PROPERTIES:
+:Author: Mzudny
+:Score: 3
+:DateUnix: 1479151238.0
+:DateShort: 2016-Nov-14
+:END:

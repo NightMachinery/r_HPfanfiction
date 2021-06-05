@@ -1,0 +1,52 @@
+#+TITLE: We need a bot refresh.
+
+* We need a bot refresh.
+:PROPERTIES:
+:Author: varno2
+:Score: 15
+:DateUnix: 1515298632.0
+:DateShort: 2018-Jan-07
+:END:
+
+** you know you can just pm [[/u/tusing]]. Do we need to sticky this? It feels like we need to sticky this.
+:PROPERTIES:
+:Author: Averant
+:Score: 9
+:DateUnix: 1515301514.0
+:DateShort: 2018-Jan-07
+:END:
+
+*** Does anyone know why the bot links to fics don't link when using the phone app?
+:PROPERTIES:
+:Author: GothamOracle
+:Score: 3
+:DateUnix: 1515309260.0
+:DateShort: 2018-Jan-07
+:END:
+
+**** The bot currently dosent link at all.
+:PROPERTIES:
+:Author: Distaly
+:Score: 3
+:DateUnix: 1515327882.0
+:DateShort: 2018-Jan-07
+:END:
+
+
+** There already is a refresh feature. Doesn't it do what you want? [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage]]
+
+"ffnbot!refresh will refresh bot comments. Use if you've edited your post or in general want the bot to update it's comment! Reply to a comment with fic requests to have the bot delete its prior replies and create new ones."
+:PROPERTIES:
+:Author: Nemrodd
+:Score: 2
+:DateUnix: 1515309383.0
+:DateShort: 2018-Jan-07
+:END:
+
+*** The bot had crashed earlier, I am not sure if it works right now. Was asking for it to be rebooted not refreshing data.
+:PROPERTIES:
+:Author: varno2
+:Score: 5
+:DateUnix: 1515310694.0
+:DateShort: 2018-Jan-07
+:END:

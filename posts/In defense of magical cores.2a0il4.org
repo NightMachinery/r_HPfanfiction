@@ -1,0 +1,429 @@
+#+TITLE: In defense of magical cores
+
+* In defense of magical cores
+:PROPERTIES:
+:Author: deirox
+:Score: 25
+:DateUnix: 1404698790.0
+:DateShort: 2014-Jul-07
+:FlairText: Discussion
+:END:
+Magical cores seem to be a common - and widely disliked - trope in Harry Potter fanfiction. Yet the alternative (a skill-based system, where only the accuracy of your wand-waving and incantations determines the outcome) creates too many problems.
+
+One such problem is the strength of spells. Wingardium Leviosa can levitate a feather, or a Troll's club. Why not a car, a house, or a mountain? You could explain this by saying that the spell itself has its limits. It might be possible to levitate a mountain, but you'd have to use a more powerful spell, rather than being a super-wizard. It seems kind of arbitrary ("Wingardium only works for objects weighing up to 243.5 lbs"), but it's one way to impose a limit on spellcasters.
+
+And limits /are/ necessary. Patronus and Crucio aside, most spells don't require anything beyond a wave of a wand and an incantation. Any healthy person is quite capable of performing repetitive motions for several hours. Repeating the same word over and over again very quickly is impossible, but you could just alternate between several spells (or learn nonverbal magic). Fanfic writers often add additional requirements, such as visualization for transfiguration, but I don't think anything beyond incantation and gesture is ever mentioned in canon. So even if the spells themselves have limits, if a wizard can spam hundreds of them in a row (and thousands over the course of several hours), it's surely possible to do something "game-breaking".
+
+This has probably been discussed to death in various places online over the years, but I haven't seen a topic here yet. So, what's your take on this? Do you prefer "skill" or "mana", or maybe there's something else entirely?
+
+
+** Limits exist in canon. People don't cast spells constantly, even when it would be useful and easy. They use magic as if *not* using magic is far easier, or keeping certain charms up is taxing somehow. There are not "perfectly" done spell effect levels that represent the limits of the spell if done properly -- unless possibly in transfigurations -- as one would expect if spell power was skill-limited.
+
+Emotion seems to matter for some spells, but not enough for kids to be taught emotional control in any class.
+
+Focus matters, but again not enough to be taught as a skill -- or really at all, outside a few specific spells.
+
+This all suggests that knowing the wand motions and incantation at all, for most spells, is both the most important part and the only teachable part of most magic at Hogwarts levels up to year six. Though there is silent casting then, Snape doesn't really suggest any specific training to make /all/ spells work better.
+
+--------------
+
+There are reasons to believe something like willpower or innate magical "umpf" is exhausted in some way by casting successful spells in canon, and that something /like/ a classic magical core is what improves with age. This explains why certain simple-looking spells are taught later in school or not at all, and why magic isn't madly spammed even outside of combat.
+
+As a limited but canon-compliant system, I actually like a sort of magical will. It'll likely end up in my next fanfic. This would be exhausted and recharged like willpower is in real life -- by eating and resting --, is innate but can be tweaked through great strength of character, and is also the primary reason some people succeed in magical professions and others don't. Hell, I might skip the "magical" part and just make it human willpower. You cast too much, you can't even decide what to order at Subway anymore, let alone bend the powers of the universe to your command.
+
+The fanfic I'm writing currently uses a sort of variable recharge rate capacitor system that I called a "core". I outlined what that uniquely meant in my story, but used that name just to avoid having to make up my own term; and then I promptly caught flak from people unable to read past that word. Their loss.
+
+Magical spells sapping physical strength by fatiguing the user is also a classic in RPG systems, but I don't think I've ever seen that one used. This isn't the same as the Naruto-esque "chakra" magical cores that are popular now, with physical and mental power equaling magical power. This would be muscles becoming less able to function as calories are drained from the body with every cast. Sounds like a fun world, where Hermione has to consume massive breakfasts to make it though her revisions and exercises for the day. There are fat witches and there are nerd witches, but there are no /fat nerd/ witches.
+
+But regardless of the system, something is needed other than skill and practice for both length and effect of magic, otherwise people like Hermione would never stop casting (even if only to practice or levitate her books), and neither would anyone in a duel.
+
+Instead, even outside the movies, they fight like six-shooter gunfighters: fast, but cautious of their limits. That again implies limits, otherwise even trivial battlefields would be flooded with water, covered in snakes, filled with stone golems, constantly on fire, appear to be upside-down, filled with nearly invisible people /and/ things, immune to external threat and notice from wizards and muggles (Hermione's camping spells, canon), and/or mostly levitating three feet in the air just from high school spells. I guess non-magical fire would be less than useless, as everyone knows the flame-freezing charm, but that doesn't exclude the rest. That is why rational balance is a /must/ if you want to explore magic any more than it is in canon (i.e. not really at all).
+
+--------------
+
+Just like a good author won't have a fat desk cop run the NY Marathon at the head of the pack, a fanfic author should be able to figure out how much is too much when it come to "realistic" use of magic in their stories. If you just want to write a story where magic sits in the background and people smooch or something, that clearly doesn't matter. But if you want to have real combat or contests of magic against magic, you better have an idea how many bullets are in their "guns", or it /will/ simply be seen as unexplained and dramatically unjustified author fiat.
+
+And speaking of guns: some wands themselves are more magically powerful than other wands, both overall at at certain tasks. Canon.
+
+A simple rule from Brandon Sanderson (a popular and published fantasy writer) is that to the extent that magic /solves/ problems, it must first be /explained/ as a logical (if not rational) system. Otherwise, the magic is just swooping in to save the day or doing something the audience had no reason to expect. This breaks the suspension of disbelief a lot compared to simply exploiting a system they already bought into at least a little in the earlier chapters.
+
+--------------
+
+As for "classic" cores specifically: the name itself is clearly pure fanon, along with the word "wards". But the basic effects are also there, as with wards.
+
+Best example is, Harry at 16 has less innate magical power than Dumbledore. A /lot/ less. This is canon. That means something, both for fighting Voldemort and for going undetected to certain charms or enchantments. Dumbledore also makes it sound like Harry has a chance because of his unblemished soul and his ability to love.
+
+#+begin_quote
+  "You have flitted into Lord Voldemort's mind without damage to yourself, but he cannot possess you without enduring mortal agony, as he discovered in the Ministry. I do not think he understands why, Harry, but then, he was in such a hurry to mutilate his own soul, he never paused to understand the incomparable power of a soul that is untarnished and whole."
+#+end_quote
+
+Both of which give him /power/ according to Dumbledore, power that Voldemort doesn't have. That doesn't read as metaphorical, either, but that those feature directly into Harry's ability to fight against Voldemort magically. This is pure opinion, obviously, but it is compelling to me. That it didn't exactly come down to a magic-off (and what a let-down that was) seems beside the point based on what Dumbledore says in books five and six.
+
+This points to there being power, it mattering, and Voldemort missing out by not loving and having a soul shattered and corrupted by murder.
+
+--------------
+
+Some more book quotes.
+
+Dumbledore on why Voldemort is tough to kill even with his Horcruxes gone. Hint: it isn't /just/ his skill or knowledge. You will need uncommon power to killed a wizard like Voldemort. Not "powers", like the usual love protections idea. But magical power /itself/. Not that that ultimately matters in canon (sigh):
+
+#+begin_quote
+  "Never forget, though, that while his soul may be damaged beyond repair, his brain and his magical powers remain intact. It will take uncommon skill and power to kill a wizard like Voldemort even without his Horcruxes."
+#+end_quote
+
+Kids have less of some sort of juice:
+
+#+begin_quote
+  "Voldemort will not have cared about the weight, but about the amount of magical power that crossed his lake."
+
+  ...
+
+  "I do not think you will count, Harry: You are underaged and un-qualified. Voldemort would never have expected a sixteen-year-old to reach this place: I think it unlikely that your powers will register compared to mine."
+#+end_quote
+
+--------------
+
+*tl;dr magical power exists, calling it a "core" seems a small step; there is no link between magical power and spells in canon, but it seems to matter in how dangerous Voldemort is; kids are pathetic magic-power-wise compared to adults, even Harry.*
+
+*EDIT minor spelling stuff *EDIT more fixes, and thanks for the gold!
+:PROPERTIES:
+:Author: TimeLoopedPowerGamer
+:Score: 16
+:DateUnix: 1404738119.0
+:DateShort: 2014-Jul-07
+:END:
+
+*** In the magical system for the fic I'll probably never finish I combine a few of the usual forms of magical limitation. Magic is practice/skilled-based /and/ dependent on the caster's physical endurance /and/ intent-based /and/ belief-based. They all factor into how successful an attempt at spellcasting is, in a way.
+
+The primary limitations are intent and endurance. Magic is directly tied to what the caster can endure where x calories are burned to accomplish y amount of work. It's intent-based such that the only limit to what can be accomplished within the bounds of the amount of energy a witch or wizard has to expend is their focus and imagination. Free-form spellcasting requires the caster to hold a nearly perfect mental model of the desired effect along with a complete resolve to bend reality to your will, which is nearly impossible for all but the simplest effects.
+
+This is where the other form of casting comes in, with sufficient repetition and faith that waving a stick around will cause the feather to float, it will. The brain, magic, soul, or whatever takes over and associates a set of actions with a desired outcome. It's like magical muscle memory, and it's obviously much easier to teach to schoolchildren than constructing a mental model, especially when it comes to things like transfiguration.
+
+I'm toying with the idea of Magic being a semi-sentient, pervasive /thing/ that has a memory of sorts as a way of explaining why there are canonical incantations, wand movements and such. The person who invents a spell has to do it the hard way, with intent and willpower, but then through repetition they can teach magic itself to associate a set of actions with that effect. If I use this, the canonical type of spellcasting, with incantations and wand movements, will be dependent on a harmony between Magic's memory of that spell and the witch or wizard's precision and belief.
+
+I've, uh, put a lot of thought into how to create a consistent magical system with sane limits that's still /magical/.
+
+And now I have this idea of the Weasley twins inventing spells with outlandish effects based on the mispronunciation of common spells. Hmm.
+:PROPERTIES:
+:Author: denarii
+:Score: 5
+:DateUnix: 1404767889.0
+:DateShort: 2014-Jul-08
+:END:
+
+**** Wands are aware, to some extent. They are said to pick their users, switch to the winner in some contests (not just the Elder wand, but all of them), and they have different abilities and strengths. Makes sense that magic in general would be aware as well.
+
+Might also be that Muggle-born aren't so much stealing magic (as the pure-bloods claim book seven) but are growing numerically and are culturally simply not reminding magic how to cast certain older (and Darker) spells, so those spells weaken and "die out".
+:PROPERTIES:
+:Author: TimeLoopedPowerGamer
+:Score: 3
+:DateUnix: 1404781096.0
+:DateShort: 2014-Jul-08
+:END:
+
+
+**** Abara Cadabra! = Simple cleaning spell, similar to scourgify but emits a green light when cast.
+:PROPERTIES:
+:Author: JustRuss79
+:Score: 2
+:DateUnix: 1404775648.0
+:DateShort: 2014-Jul-08
+:END:
+
+
+*** I just wanted to post Sanderson's laws of magic, because I feel they're fairly well thought out and a good guideline to fiction writing with a magic system:
+
+1. An author's ability to solve conflict with magic is directly proportional to how well the reader understands said magic.
+2. Limitations are more interesting than power
+3. Expand on what you have already, before you add something new.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1404805886.0
+:DateShort: 2014-Jul-08
+:END:
+
+
+** I'm ok with magical cores, but I don't like an emphasis on them. "OMG his power level is so high!"
+
+A casual reference to a magical core being drained after a huge feat of magic, or a slight boost to it due to a voldemort-infection, that's fine.
+:PROPERTIES:
+:Author: beetnemesis
+:Score: 13
+:DateUnix: 1404702963.0
+:DateShort: 2014-Jul-07
+:END:
+
+*** What does the scanner say about his power level?
+
+IT'S OVER 9000!!!!!!!
+
+^{^{i}} ^{^{mean}} ^{^{what}}
+:PROPERTIES:
+:Author: gbear605
+:Score: 6
+:DateUnix: 1404707541.0
+:DateShort: 2014-Jul-07
+:END:
+
+**** It's... It's... 1006. Kill him, Nappa.
+:PROPERTIES:
+:Author: Silidon
+:Score: 4
+:DateUnix: 1404740774.0
+:DateShort: 2014-Jul-07
+:END:
+
+
+** The problem with magical cores that it is often nothing more then an excuse for the edgy protagonist to be more powerful than other characters without actually working for it.
+
+Every time I read a story where Harry has a magical core over 9000 and is thus much more magical then voldyshorts or dumbles I die a little inside.
+
+Besides, I like how in the books that magic is more akin to a skill like playing the piano or the violin. Dumbledore and Voldemort are the most powerful because they are brilliant, hardworking, and thus incredibly skilled in magic. Not because their magical cores are huge or something like that.
+:PROPERTIES:
+:Author: okaycat
+:Score: 6
+:DateUnix: 1404717875.0
+:DateShort: 2014-Jul-07
+:END:
+
+*** Well think about this, you have a violin core, in some sense. You have a natural propensity to ability of violin playing. Magical cores would just mean how much magic someone has to pull on in x amount of time. Okay you have more raw magical energy than someone else, does that make you better? No. You just have more to draw on. The wizard with 100+ years on your or the forbidden knowledge of Salazar slytherin at their disposal is going to kick your ass all day long.
+:PROPERTIES:
+:Author: SeraphimNoted
+:Score: 3
+:DateUnix: 1404720683.0
+:DateShort: 2014-Jul-07
+:END:
+
+
+** The Harry Potter Lexicon has a very good essay on what "magical power" actually is: [[http://www.hp-lexicon.org/essays/essay-magical-power.html][link here]]
+
+tl;dr: it's more about hard work and dedication rather than raw talent.
+:PROPERTIES:
+:Author: Frix
+:Score: 5
+:DateUnix: 1404725709.0
+:DateShort: 2014-Jul-07
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1404736832.0
+:DateShort: 2014-Jul-07
+:END:
+
+*** u/turbinicarpus:
+#+begin_quote
+  In addition to this I'm thinking acclimatization is more of a factor in becoming like Dumbledore or Riddle (who both have studied magic more extensively than many other witches and wizards).
+#+end_quote
+
+I like this mechanic. Study and practice of greater and greater variety of magic results in a deeper and deeper intuitive understanding of and communion with magic, which, in turn, results in superior magical ability. This means that "magical power" is meaningful and different characters have different amounts, but it is a consequence of the character's nonmagical traits and actions, and different personality and actions lead to being attuned to different categories of magic.
+
+#+begin_quote
+  Magical exhaustion is a very realistic limit that is imposed in most fanon (not sure about canon).
+#+end_quote
+
+It never comes up in canon unambiguously, that I know of.
+
+#+begin_quote
+  I don't subscribe to the notion that people have an affinity for occlumency however, it just seems to me to be based around mental discipline and fortitude.
+#+end_quote
+
+I think that Rowling kind of fumbled this one. Harry can't learn Occlumency because he wears his heart on his sleeve, but Snape, in his rant about people who could never learn it basically describes himself, while Draco, who's never done a subtle thing in his life (well, maybe, once, in his first year, with the "duel"), picks it up in two months so well that Snape couldn't get past it.
+
+#+begin_quote
+  Magical cores are really crude. It sort of reminds me of how people think massive, hulking bodybuilders are the epitome of strength, yet a 120lb, 6'4" man from Ethiopia can run 80 kilometers in a day. Both are impressive in their own right.
+#+end_quote
+
+Indeed. If "magical power" is a thing, it's definitely not one-dimensional.
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 4
+:DateUnix: 1404741569.0
+:DateShort: 2014-Jul-07
+:END:
+
+
+** I like to think that casting a spell is like being good at basketball. There's talent necessary to be great at it. There are physical limitations. There's skill. There is practice. There's luck, intelligence, state of mind, confidence, and a trillion other small details that each are relevant, and make many people have many different styles, be incomparable to one another.
+
+But in the end, it all comes to throwing the ball through a hoop, and the true greats, through a combination of all the different elements required, can differentiate themselves. Naturally, every one of them is a freak of nature, looking like they were created for this one action in mind with every inch of their body, how they move, how they think... everything about them just screams "this guy is inhumanly good".
+
+So Harry may have not been extraordinarily powerful like Voldemort was, nor as skilled, and needed the Elder Wand to level the playing field, but in the end, what he did have was sheer force of will and quick reflexes. Just like Larry Bird wasn't particularly athletic, fast or strong, but through sheer determination and with a smooth shot is now a legend.
+
+There's no need to oversimplify with magical cores. There's no need to limit it to one parameter.
+:PROPERTIES:
+:Author: Teh_Warlus
+:Score: 4
+:DateUnix: 1404781798.0
+:DateShort: 2014-Jul-08
+:END:
+
+
+** u/just_helping:
+#+begin_quote
+  And limits are necessary... it's surely possible to do something "game-breaking"
+#+end_quote
+
+Yes - and if you were adapting Harry Potter to a game, you clearly would need some sort of limit, either cores or something else.
+
+But it's not a game - it's a story, it's a book. The real problem with magical cores is that they make magic boring, they simplify it. Harry is powerful because his core is very big - boring. Harry is good at a specific spell because he practised it for ages or has some sort of empathetic connection or deeper understanding of the intent and/or logic of certain spells - more interesting, more varied.
+
+There are stories where the 'core' is somehow made complex and interesting - but they certainly seem to come across as a lazy crutch in a lot of story telling. And frankly it seems like getting worked up about 'game-breaking' in Harry Potter is a bit of a waste of time - the cannon is full of various game-breaking mechanisms.
+:PROPERTIES:
+:Author: just_helping
+:Score: 7
+:DateUnix: 1404706876.0
+:DateShort: 2014-Jul-07
+:END:
+
+
+** u/deleted:
+#+begin_quote
+  Do you prefer "skill" or "mana", or maybe there's something else entirely?
+#+end_quote
+
+The third-year Patronus incident would definitely put Harry in the "powerful" category. How did he get so powerful? Skills? He didn't /practice/ the Patronus, he /struggled/ with it, and he failed, and failed, and failed.
+
+Then suddenly, he farts off the biggest Patronus of the century.
+
+"Mana" (magical core) explains it, "skills" doesn't.
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1404708897.0
+:DateShort: 2014-Jul-07
+:END:
+
+*** I would actually disagree - magic in canon is very much about intent and belief. So, when Harry realises that he was the one who cast the Patronus, suddenly he has a very powerful belief (one about reality) that he could cast the Patronus, and cast it powerfully: and therefore, he did.
+:PROPERTIES:
+:Author: ROBOT__BEE
+:Score: 7
+:DateUnix: 1404715344.0
+:DateShort: 2014-Jul-07
+:END:
+
+**** That still points more towards an inherent ability than trained skills.
+
+And arguably, his /belief/ didn't give him the /ability/, his previous /lack of/ belief were merely holding him back until he realized that he already had the ability.
+
+I can't really believe that /intent and belief/ trumps /ability/. If that were the case, Draco Malfoy would be more powerful than Dumbledore.
+
+#+begin_quote
+  magic in canon
+#+end_quote
+
+is full of plot holes.
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1404744573.0
+:DateShort: 2014-Jul-07
+:END:
+
+
+** I find most explanations of how magic works somewhat disappointing. In both the case of skill-systems and core-systems I find they're used as brief 'explanations' for specific events and then forgotten about or sometimes contradicted later on in the story.
+
+In terms of what is or isn't necessary as limitations or to avoid 'game-breaking' effects, I don't think it's really necessary at all. Canon already includes a whole range of possibly game-breaking effects (time travel, functional immortality, conservation of energy violations aplenty) and so I honestly don't mind when an author decides they want one of the characters to do something crazy.
+
+What I'd really like to see somewhere is an author committing to a system and then finding interesting ways to integrate that system into the story so that it feels like more than just an arbitrary restriction/explanation and more like part of the world that the characters have to live with.
+:PROPERTIES:
+:Author: InvisibleMusic
+:Score: 2
+:DateUnix: 1404723145.0
+:DateShort: 2014-Jul-07
+:END:
+
+
+** Confidence has something to do with it as well; cf. Ron and especially Cedric's first attempt at Wingardium Leviosa and Harry's inability to use the Cruciatis curse on Bellatrix Lestrange.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1404737383.0
+:DateShort: 2014-Jul-07
+:END:
+
+
+** This topic has been extensively discussed and debated in fantasy writing in general. An essay you might find interesting by author Brandon Sanderson is [[http://brandonsanderson.com/sandersons-first-law/][here]].
+:PROPERTIES:
+:Author: yetioverthere
+:Score: 2
+:DateUnix: 1404738438.0
+:DateShort: 2014-Jul-07
+:END:
+
+
+** I think that the best comparison is physical fitness.\\
+Someone who is out of shape and never exercises can't run very far or punch very hard or if they have small muscles like small children do, then they also cannot perform great feats of physical prowess (with perhaps a very few exceptions of those with the best genealogical luck). With time and exercise peoples ability to perform magic "grows" and if they have a good aptitude to begin with, like Dumbledore or Tom Riddle, they will excel and with physical/magical training you learn to make your stamina and strength do more with less; but those who lost in the gene lottery, like the Hogwarts caretaker (can't remember his name right now) don't have a good chance. One could say, with this comparison in mind, that squibs have a sort of birth defect.\\
+Whenever story authors start talking about "magical cores" it makes characters sound like submarines, robots or computers with subsystems and it totally removes my suspension of disbelieve from the story; makes me feel that I'm just assessing a D&D character sheet.
+:PROPERTIES:
+:Author: gnarlin
+:Score: 2
+:DateUnix: 1404776565.0
+:DateShort: 2014-Jul-08
+:END:
+
+
+** One of my favorite fics, "Bungle in the Jungle", also features magical cores. Granted, the exact words were probably never used in the story, but Harry gets tired after casting big spells, he sometimes runs out of juice entirely, and he can also make spells stronger by pushing more magic into them.
+:PROPERTIES:
+:Author: deirox
+:Score: 1
+:DateUnix: 1404698872.0
+:DateShort: 2014-Jul-07
+:END:
+
+
+** Wands have magical cores in them. People don't (unless it's a /really/ weird slash fic, and even then, only temporarily (I hope)).
+
+However, I can see the appeal of a "magical battery" mechanic --- under any name --- in that it makes Potterverse magic work in an intuitive and familiar way: most resources that we have to deal with in real life, from money to electricity to ATP, have limits on the amount of them available for immediate use, on the rate at which they can be used, on the rate at which they can be replenished, etc.. It's not /quite/ how magic appears to work in the Potterverse, since you'd think that with all the emphasis on DADA (owing to the point-of-view character's interests) and adventuring, /someone/ would have run out of magic or mentioned running out of magic as an issue, but the Potterverse picture isn't all that coherent, so writing a coherent story where mechanics are important requires coherent mechanics.
+
+--------------
+
+That said, I don't think I've seen /one/ fanfic that was improved by invoking magical cores (or, more generally, inborn magical power differences between characters) in a plot-relevant way, and I've seen scores that were degraded by it or where this fanon was used to facilitate crappy storylines. There is a handful of fanfics that use magical cores that are good, but most of those could have done without it.
+
+So, my sense is the following, and please forgive the presumption:
+
+1. If you feel like writing a fanfic, and the premise involves magical cores (or, more generally, inborn magical power differences between characters), ask yourself, "Is this element necessary for the storyline?"
+
+2. If the answer to (1) is "no", write the story without magical cores. If the answer is "yes", ask yourself, "Is this a good premise/storyline in the first place?"
+
+3. If the answer is "no", come up with a better premise/storyline. If the answer is "yes", well, I can't stop you, but your odds of ending up with something good aren't good.
+
+Of course, there are exceptions to every rule. For example, if it's your protagonist who has a "weak" magical core and has to work around that in dealing with others who are more magically powerful, coming out on top through hard work and guile, I wish you the best of luck.
+
+--------------
+
+One more thing... There are many mundane factors that can result in different characters having different magical capabilities and outcomes: physical and mental health, general athleticism and intelligence, a nurturing and stimulating childhood environment, willpower, even moral values. These are, in some sense, just as unearned and arbitrary as "magical core size", but they don't /feel/ that way, and, unlike the more arbitrary "magical power", they integrate with the character's other traits, personality, and decisions.
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 1
+:DateUnix: 1404739332.0
+:DateShort: 2014-Jul-07
+:END:
+
+*** u/deirox:
+#+begin_quote
+  For example, if it's your protagonist who has a "weak" magical core and has to work around that in dealing with others who are more magically powerful, coming out on top through hard work and guile, I wish you the best of luck.
+#+end_quote
+
+That's the premise of BajaB's "Almost a Squib". It's really interesting.
+:PROPERTIES:
+:Author: deirox
+:Score: 3
+:DateUnix: 1404739885.0
+:DateShort: 2014-Jul-07
+:END:
+
+**** Yes, I remember reading that, but I couldn't remember the name. Thanks for the reminder.
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 1
+:DateUnix: 1404740461.0
+:DateShort: 2014-Jul-07
+:END:
+
+
+** Huh, I wasn't aware that core was an issue. I honestly like the idea of magical cores. .-.
+:PROPERTIES:
+:Author: SlytherC
+:Score: 1
+:DateUnix: 1404846338.0
+:DateShort: 2014-Jul-08
+:END:

@@ -1,0 +1,73 @@
+#+TITLE: Is ffbot not showing the correct date of when fic updates?
+
+* Is ffbot not showing the correct date of when fic updates?
+:PROPERTIES:
+:Score: 8
+:DateUnix: 1508792501.0
+:DateShort: 2017-Oct-24
+:END:
+[deleted]
+
+
+** They updated this? I'm almost afraid to check - hands down the most unsettling fic I've ever read.
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 4
+:DateUnix: 1508796658.0
+:DateShort: 2017-Oct-24
+:END:
+
+*** Yep, they updated not so long ago. It's still uncomfortable tho
+:PROPERTIES:
+:Author: Haddep
+:Score: 1
+:DateUnix: 1508799903.0
+:DateShort: 2017-Oct-24
+:END:
+
+
+** [[/u/tusing][u/tusing]]
+:PROPERTIES:
+:Author: UndergroundNerd
+:Score: 3
+:DateUnix: 1508794612.0
+:DateShort: 2017-Oct-24
+:END:
+
+
+** [[http://www.fanfiction.net/s/2006636/1/][*/Catechism/*]] by [[https://www.fanfiction.net/u/584081/Dreamfall][/Dreamfall/]]
+
+#+begin_quote
+  AU The Dursleys taught Harry to fear and hate magic and all things magical including himself. Now how long will it take the wizarding world see the damage done? And can they ever hope to fix it? Disturbing. WIP
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 15 *|* /Words/: 106,473 *|* /Reviews/: 2,032 *|* /Favs/: 2,739 *|* /Follows/: 3,289 *|* /Updated/: 9/2/2014 *|* /Published/: 8/11/2004 *|* /id/: 2006636 *|* /Language/: English *|* /Genre/: Angst *|* /Characters/: Harry P., Severus S. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=2006636&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=2006636&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1508792504.0
+:DateShort: 2017-Oct-24
+:END:
+
+
+** It does that. It'll also get word counts wrong if there was a recent update.
+:PROPERTIES:
+:Author: AutumnSouls
+:Score: 1
+:DateUnix: 1508799174.0
+:DateShort: 2017-Oct-24
+:END:
+
+
+** I recommend making an [[https://github.com/tusing/reddit-ffn-bot/issues/][issue]] on the Github Repository. There's nothing that can be done here.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1508864021.0
+:DateShort: 2017-Oct-24
+:END:

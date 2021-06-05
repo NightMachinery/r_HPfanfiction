@@ -1,0 +1,269 @@
+#+TITLE: Wizarding Population Statistics
+
+* Wizarding Population Statistics
+:PROPERTIES:
+:Author: totorox92
+:Score: 9
+:DateUnix: 1579814363.0
+:DateShort: 2020-Jan-24
+:FlairText: Discussion
+:END:
+This is hardly the first instance of a thread on this topic, but I did have a somewhat new idea, and I'm always interested in hearing the thoughts of others so-
+
+It's a bit difficult to get accurate estimates on exactly how large Wizarding Britain, and by extension the rest of the Wizarding World, is. I think JK has made some posts on Pottermore regarding this, and I'll mention one of those posts in particular at one point, but I'm operating under the impression that this was one of those things she didn't put a massive amount of forethought into and may have made contradictory statements on (like the Black family tree).
+
+So, to begin with, let's look at Hogwarts. Hogwarts is the only magical school in the UK, and it has a catchment area which includes at least Northern Ireland, if not the whole of Ireland (Seamus Finnegan). To make any headway, we will need to begin making some assumptions.
+
+1. Hogwarts serves the entirety of the UK; no one from the UK goes to any other school, or if they do, only in trivial numbers.
+2. All of the Hogwarts houses are /roughly/ the same size. (we'll get back to this in a bit)
+3. Harry's year is roughly representative of what an average year looks like; the year ahead or behind him isn't too much larger or smaller. (we'll also get back to this)
+
+We'll leave the first assumption be for now and look at the second one. This is something I've heard people get particularly salty over, so it bears scrutiny. The Sorting Hat puts children where they will fit in, where they will be happier, or where they will have the most opportunity for growth. *However*, the /point/ of school houses is to separate children into more easily managed lumps. If any one house is twice as large as another, /then the house system is not doing it's job/. This means that, while the Sorting Hat has as its primary utility putting children where they belong, it has as a secondary utility making sure the houses stay relatively even in population. In practice, this might mean that some innately more Hufflepuff children get sent to Gryfindor, or innately more Ravenclaw children get sent to Slytherin, etc, in order to balance the houses out a bit. For example, it seems reasonable that the largest house is probably Hufflepuff. Most kids like having friends, most kids aren't particularly focused on learning, most kids aren't particularly driven to be courageous, and most kids aren't particularly ambitious. I would expect Ravenclaw to be the next largest, followed by Gryfindor and then Slytherin, but remember, they can't be /massively/ different. As a simple rule, we might say that 'no house should be twice as large as any other house for a given year', which seems reasonable. So, a /hypothetical/ distribution might be something like:
+
+Slytherin- 18%
+
+Gryfindor- 20%
+
+Ravenclaw- 29%
+
+Hufflepuff- 33%
+
+The houses aren't even, but they aren't hugely different in terms of population.
+
+So how many kids are in Harry's year? Short answer, we don't really know for sure. JK had a list of reusable names for different kids from different houses in Harry's year, so we know some of them, like Zacharias Smith and Blaise Zabini, but not all of them necessarily. We know that there were 5 boys in Gryfindor in Harry's year, Harry, Ron, Neville, Dean, Seamus, and at least three girls, Hermione, Parvati, Lavender. If we make the simple assumption that there were a couple other girls that didn't get mentioned (to make the math easier and because there are usually about the same number of girls as boys per year) then Gryfindor had 10 students for the class of 1998. Following our hypothetical distribution of students this would give us a total of 50 students in Harry's year; 9 Slytherins, 10 Gryfindors, 15 Ravenclaws, and 16 Hufflepuffs. The exact proportions likely vary from year to year, but this feels like a somewhat reasonable estimate. (It's possible that Gryfindor might actually be the largest house and have only 8 total students, in which case our later estimates would be much lower, but we'll ignore this for know).
+
+Following on from assumption 3, we would then multiply 50 students per year over 7 years and end up with a rather pathetic total of 350 students attending Hogwarts at any one time. This number is hardly precise, and it isn't unreasonable to assume a pretty wide variability; the real number might be anywhere from 280-420, even if our base assumptions hold true. This seems relatively consistent with what we see in the movies, but JK has said that she had in mind about 1,000 students attending Hogwarts at any given time. This number is more useful for our future needs, and isn't too hard to get to if we modify assumption 3, that Harry's year is relatively *ab*normal.
+
+Harry was born in 1980, during the height of Voldemort's reign of terror (he didn't' die until fall 1981 remember). It is not at all unreasonable to make the assumption that less children were being born, and more children being murdered, during this time. In fact, I wouldn't be too surprised if there was a noticeable depression in magical children stretching from around 1975-1982. So how much smaller than normal was Harry's year? Well, if we want to hit that 1,000 mark, quite a bit smaller. Like, potentially as low as a quarter of what it should normally be. In other words, during, say, the Marauder era (for a baseline) there was probably something more like 200 kids per year rather than 50. (This does present its own problem, because the classrooms would have to be pretty damn large. Doubles classes would have somewhere in the neighborhood of 76-124 kids! That's not a classroom anymore, that's a lecture hall! But we'll set this aside for now)
+
+Regardless of the exact numbers however, a new problem arises. Let's just take for granted the 1,000 student number. In accordance with assumption 1, how many Wizards live in the UK?
+
+Well, this number is a bit tricky to calculate accurately without some information that we simply don't have. Specifically, age distribution. Normal populations in first world countries like the UK generally have a sort of sloped distribution of ages, that is, percentage wise, most of the population is young, rather than old, because the odds of dying from something go up the older you get, and you've had more time for even long odds to catch up with you. You can see an example graph of what this looks like [[https://eros.usgs.gov/westafrica/sites/default/files/inline-images/Pyramid2.JPG][here]]. But let's assume some things that are likely to be wildly inaccurate. Let's assume that the 7 year block of Hogwarts students represents 5% of the population, and that the population of wizards has an exactly even distribution of ages, that is, each 7 year block stretching from 0-140 years of age has the same number of people. (in actuality, there would likely be a lot more Wizards aged 11-17 than there would be 133-140, and we're assuming wizarding longevity is pretty great as well). What's our total population then?
+
+1,000 / 0.05 = 20,000
+
+WHAT!? Only 20,000 wizards in all of the UK!?
+
+The math doesn't lie. In fact, as we pointed out above, this is probably a *very high* estimate. The real number should be quite a bit lower. Even if we do assume that Harry's year, and by extension, his experience of the population of Hogwarts is low, and use the 200 students per year, 1,400 overall, then we get a population of 28,000, but this is still a very low number comparatively.
+
+The UK census figures had a population of 57,000,000 in 1990. This means that Wizards made up less than 0.05% of the population, that is, less than 1 in 2000 (even using our higher estimate). This ratio might not seem unacceptable, but it does lead to some disappointing conclusions on how big the rest of the Wizarding World is. If the UK is more or less average, then there is likely not much more than 3,000,000 wizards total in the entire world. This doesn't seem quite as pathetic a number, but it does mean that there can't realistically be much in the way of Wizarding Civilization (as we would understand it); the largest Wizarding City in the world probably couldn't even expect a population of 100,000, let alone the multiple millions of a muggle city like London or Seoul. Hogsmeade is the largest all-magic settlement in the UK, and if it had a population of 5,000 people, it would be too small to even be considered a town. Hogsmeade is a /village/, which contains a full /sixth/ of the wizards living in the UK in this scenario.
+
+However. All of this hinges on something we've forgotten about: assumption 1, Hogwarts is the only school in the UK, and/or Everyone in the UK only goes to Hogwarts.
+
+Draco says that his parents considered sending him to Durmstrang rather than Hogwarts at one point; what if this is more common than we realize? In fact, it doesn't seem impossible that Hogwarts has some sort of limitations on class size, perhaps the reason they only have one teacher for each subject is because the Hogwarts Charter actually requires it, and as a result they only let in a certain number of students.
+
+One amusing theory that occurred to me was the possibility that Hogwarts acceptance has gotten extremely unwieldy due to the practice of granting automatic acceptance to alumni; Hagrid does say that Harry's name had been on the list essentially since he was born.
+
+Imagine this sort of silly scenario: Hogwarts limits their class size to around a thousand every year. While they technically have spots open for anyone, they grant the children of alumni pride of place; they have a long list of applicants each year and if your parent graduated Hogwarts, your name will be somewhere near the top of that list. However, they also have some sort of minimum diversity requirement so they have a set of spots reserved for muggleborns. Say, maybe 10-20% of the kids. Now parents might actually have pressure on to have fewer kids; if they want their kids to go to Hogwarts they might not be able to get in. As an extension, this would have the unfortunate side effect of increasing resentment against muggleborns, since they got in without having to sit on some massive list for years and years. The upshot of this scenario is that it likely means lots of kids getting sent to Beauxbatons or Durmstrang, and that our estimates for total UK Wizarding population (which are based exclusively off Hogwarts population) are very low. We could easily have twice the number of wizards that we seem to. (Obviously this explanation is hardly flawless)
+
+*Tl;DR:* Hogwarts doesn't seem to have many kids which means that there can't be many adults in the Wizarding UK, and by extension the rest of the magical world, which is a bit sad. How can we address this problem in a story without adding massive AU elements?
+
+Please note that none of the numbers presented here are supposed to be absolute; there is a /significant/ margin for error arising from several places where we have to make educated guesses that could easily be wrong.
+
+
+** These types of post are always fun. I made one not to long ago as well similar in nature.
+
+Long story short Rowling's admits she is absolutely garbage at math, statistics, economics, population studies, or anything related to those subjects.
+
+She has went back and retconned some stuff, Hogwarts is only the most elite school in Magical UK. There are tons of day schools, less prestigious schools, trade schools, and even /shudder/ home schooled kids.
+
+So best bet is just make the worldwide numbers whatever the heck you want them to be worldwide. She tells good stories but is garbage at building a clean cut and coherent world. So make millions of wizards with huge hidden magical metropolises around the world or have they be just a few hundred thousand hiding in muggle cities. It's entirely up to you, she hasn't cleared it up past saying she is bad at numbers lol.
+:PROPERTIES:
+:Author: drsmilegood
+:Score: 5
+:DateUnix: 1579815858.0
+:DateShort: 2020-Jan-24
+:END:
+
+*** > She has went back and retconned some stuff, Hogwarts is only the most elite school in Magical UK. There are tons of day schools, less prestigious schools, trade schools, and even /shudder/ home schooled kids.
+
+I don't know why, but something about this inspires an instinctive aversion; I think the fandom has simply ingrained it in my head the Hogwarts Is The Only One. But it makes sense that there would be others; I imagine that for ordinary jobs you don't really need NEWT level certifications you know? So having some smaller day schools that only teach up to OWL level seems highly plausible. Then, if you've got a couple of those lying around, you can probably also have at least one school that only teaches NEWT level classes, either for people that failed the first time around at Hogwarts, or for people that want to get new NEWTs, or for people that went to the little schools and want to continue. And trade schools too, Hogwarts presents itself as a very total learning experience, hell, Astronomy is mandatory until 5th year, but most people don't need all that rubbish to do an actual job, like running an apothecary shop. Given how many little shops there are all over the place, I can certainly imagine there being a small business school that just teaches basic accounting and so on.
+
+> So make millions of wizards with huge hidden magical metropolises around the world or have they be just a few hundred thousand hiding in muggle cities.
+
+I am actually writing a fic where I do want there to be at least one massive magical city, the Forbidden City in China, population ~1mill, wrapped up in a little pocket space. But having such a big city is illogical if that one city was a third of the population, you know? Going off some rough numbers I've done for other big cities in larger countries, the largest city probably shouldn't be more than ~1/10th of the whole population, so then I need to say 'well where the hell are these extra 7 million wizards?' Ah well. I'm sure I can fiddle with the numbers one way or the other.
+:PROPERTIES:
+:Author: totorox92
+:Score: 2
+:DateUnix: 1579826929.0
+:DateShort: 2020-Jan-24
+:END:
+
+**** One idea is to introduce mixed cities on each American coast. Such as the poor and middle class Asian magicals immigrated with the rest to California trying to escape and make a new life for themselves.
+
+Do the same for European countries in the East coast and Australia. Perhaps a few hidden cities in depths of Africa and South America. Use the Alps to hide one in Europe even. India had around under a billion people in the 80s while China was just over it iirc.
+
+Tons of places to hide magic cities. Heck, for as huge and open as Texas and the Midwest are you could easily hide entire cities out there. Magic cities don't need roads leading to them. That makes it easy to hide them if there is no way to drive to it.
+
+Just some ideas, I've been tinkering with them heavily for the book series I'm writing. Where would magicals live in a real world? I have about 40k written in world building alone.
+
+I plan to post the HP specific research that I can't use this weekend. Such as a possible, and reasonable, history of why the Potter family knew the fidelius charm along with their ancient history. Hint: they were conquered in the 2nd century CE. The royal family actually had hair exactly like the famous Potter family hair. That took some effort to find out but totally worth it. Oh and they were famous for wait for it... Pottery.
+
+Fun stuff and love chatting about world building. DM'ing is one of my favorite things.
+:PROPERTIES:
+:Author: drsmilegood
+:Score: 3
+:DateUnix: 1579831385.0
+:DateShort: 2020-Jan-24
+:END:
+
+***** This is close to my headcanon, the rest of the world is huge in comparison to the UK so it makes sense that larger populations could have entirely magical cities.
+
+I now wonder if there are just like 2 or wizards/witches in smaller countries like Iceland that have to go somewhere else to learn.
+:PROPERTIES:
+:Author: timthomas299
+:Score: 1
+:DateUnix: 1579909457.0
+:DateShort: 2020-Jan-25
+:END:
+
+
+**** u/Avalon1632:
+#+begin_quote
+  Hogwarts Is The Only One
+#+end_quote
+
+Personally, I see it as being the Only One now - after two wars, it's quite possible they wouldn't have the population to, uh, populate more schools than that. When Harry and the rest of his Magical Baby Boomer generation get going, they'll probably be able to start rebuilding that wider education system.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 2
+:DateUnix: 1579951522.0
+:DateShort: 2020-Jan-25
+:END:
+
+
+** A population of 20.000 does make the fear about voldemort and his name more understandable if he and his death eaters killed in the hunderds.
+:PROPERTIES:
+:Author: ninjaasdf
+:Score: 5
+:DateUnix: 1579822129.0
+:DateShort: 2020-Jan-24
+:END:
+
+*** Hmm. That's and angle I hadn't considered. An army of 200 terrorists sounds pathetic until that starts becoming an appreciable percentage of the population.
+:PROPERTIES:
+:Author: totorox92
+:Score: 2
+:DateUnix: 1579825179.0
+:DateShort: 2020-Jan-24
+:END:
+
+
+** I like it. Honestly, I agree with most of what you wrote. I do think your Maths is a bit iffy in places - you're right that it's hard to calculate accurately without the information we don't have. Wizards living to 150, but apparently mostly having children in their 20s-40s would throw off standard demographic proportions.
+
+Historically, it makes sense that there'd be bugger-all magicals about. Wizarding Economy seems to be relatively cottage-industry-esque, and pre-Industrial UK had about 10-11 million people in the 1750s (pre-Industrial Revolution estimate). If one wizard can do the work of an entire farm of muggle workers, then the need for increased population isn't there. Our recent population booms all correspond to needing more people to do more things. The Industrial Revolution and the World Wars both created need for massive numbers of workers to produce stuff. Two Wizards (the Weasley Twins) could apparently produce enough product to stock an entire shop, and we've seen conjuration and transfiguration do lots of stuff, so we can infer one Wizard is able to be a production line all on his own. Thus, no need for a big population.
+
+It's what I see as the main reason the two big wars fucked 'em up in Rowling-Magical Britain. They've not got the infrastructure or culture for rapid rebuilding/growth, so suddenly losing a significant portion of population or infrastructure would be crippling to them.
+
+I mean, Rowling claimed there was only about 3000 wizards in the entire country.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 3
+:DateUnix: 1579815880.0
+:DateShort: 2020-Jan-24
+:END:
+
+*** Oh to be sure. The math is little better than ballparking for the most part; we just don't have the numbers.
+
+See, I was always taught the the reason for the population explosion wasn't directly causal with the increased demand for labour, but rather improvements in medicine, sanitation, and food production, which /enabled/ such a population to exist. Then, more consumers requires more producers and you get that lovely self sustaining spiral of exponential growth which has only just started really tapering off in developed countries. So, while I would agree that the wizarding population probably remained pretty stable over the past thousand years, barring more muggleborns because there are more muggles, that doesn't necessitate that the population is /low/. (it just makes it likely)
+
+It does seem like they operate on a mostly cottage industry scale, with individuals or small groups of 2-5 being entire businesses in themselves. Like, the Nimbus 2000 is obviously made by a corporation of some kind, but how many people are actually even using brooms for more than recreation, to the point where owning one is like owning a car? Wizards can't be selling more than a few hundred brooms a year, so even if it takes a single person an entire day to make one broom, if you have something like half a dozen people making brooms, you could saturate the market. Similarly, it doesn't matter if it takes a month to brew a fancy potion, because if that one cauldron full is a year's supply of product then you still only need one person brewing.
+
+The thought that occurs to me with this however, is essentially about self-referential systems. Like, how big does a settlement of wizards need to be that even niche jobs like house building need constant doing and common jobs like ingredient farming or potion brewing need lots of people? In muggle cities, you can have systems where the primary occupation of the average citizen of the city is making stuff or doing things for the other people in the city. Normally you'll have a system of importing and exporting, but that doesn't need to be the case, particularly with magic. Basically, if you can have a cozy little self sufficient community of ~1000 wizards, given all their space folding and such you could have an arbitrary number of such little villages.
+
+> I mean, Rowling claimed there was only about 3000 wizards in the entire country.
+
+That's just depressing, though, and this is a little amusing, not actually that far off what a realistic population based off of ~280 Hogwarts students would sustain.
+:PROPERTIES:
+:Author: totorox92
+:Score: 1
+:DateUnix: 1579826329.0
+:DateShort: 2020-Jan-24
+:END:
+
+**** Oh God, yeah. There's never one reason for anything, always a dozen or more that feed into each other. I look at it like architecture, myself. If the 'foundations'/'pillars' are the reasons that the 'building' (the thing that you're looking at) exists, then they're all still reasons and they're all still causal (they're all needed to keep the building standing), even if there is a 'first' foundation put in. I just see the industrialisation as a main motivating factor (psychologist by trade and education here, for my sins :D) while the rest just allowed the change to occur.
+
+The self-referential systems point is a very good one, in my opinion. On one hand, it's possible that stuff is mostly just done themselves unless they can pay for House-Elves/Other Wizards to do it for them - Weasleys produce what Weasleys need, Malfoy Elves produce what Malfoys need, etc. But on the other hand, that assumes every Magical is widely competent in magic-use (which I'm pretty sure is the opposite in canon, people have specialised/narrowed talents in magic), so it's possible that all that stuff is instead consulted out by the majority to those who're more competent at that particular skill (potioneers make potions for those who're bad at potioning themselves, etc). Personally, rather than a city-esque societal structure, I think it's sort of a mix of cottage industry and commuter culture. General centralisation of some stuff for sheer convenience, and some people live around that stuff, but a significant portion live scattered about and just floo, apparate, or fly in as needed. The UK magical population is just a village that lives really, really far away from each other, basically.
+
+I do wonder sometimes how the houses in HP are made. The Burrow was clearly the fault of magical cowboys. :)
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 2
+:DateUnix: 1579857140.0
+:DateShort: 2020-Jan-24
+:END:
+
+***** Hah! I'm a biologist myself.
+
+That's actually something I feel gets a bit overlooked; magical transportation isn't quite as liberating for the average wizard as it might seem. Floo powder and the Knight Buse both cost money; brooms are pretty high visibility and portkeys are hard to make; and while people take lessons to learn to apperate, the average witch or wizard is apparently not good enough at it to side-along anyone, which I wouldn't be surprised to learn also extended to carrying large quantities of freight. So, for a family like the Weasleys, moving from location to location long distance is still somewhat inconvenient, even with all the methods at their disposal. This could lend itself to having local stores nearby; for instance, even if Goddrics Hollow is a mixed community, they could still have one or two magical shops there hidden behind muggle repelling wards.
+:PROPERTIES:
+:Author: totorox92
+:Score: 1
+:DateUnix: 1579887151.0
+:DateShort: 2020-Jan-24
+:END:
+
+****** Sure, but at 'two sickles a scoop', it seems pretty cheap (not sure where that value comes from, but it's agreed across several wikis, so I'm taking it as relatively canon despite it being Rowling's usual utter numbers-nonsense) - I'm not sure how much exactly a scoop is, but I'm assuming it means a cupful that you then take pinches from to travel, meaning that it probably gives at least a couple of months for a 2-4 person family unless you're taking massive pinches. And you could always shrink that freight, probably aside from powdered things that would explode if put under high pressure. Depends on how difficult a shrinking spell is too, I imagine.
+
+I agree with you on the local stores matter, though. You have a point that, even if it was cheap, the methods are still difficult in their own ways. Adding that in, I suspect it'd mimic somewhat the medieval English pattern. One big town where the regular market happens (Hogsmeade in the North and Diagon in the South) that everyone travels to get to, plus smaller elements of private trading (my chickens have laid eggs, you've milled some good bread, lets trade) and small consultant shop-work (I know how to do the shrinking spell, you pay me and I'll shrink your big chattels) in the outskirt-communities.
+
+It'd fit the travel difficulty pattern, reducing the number of times you'd have to do in balance with the number of times you'd absolutely need to do so. Bringing all your goods to market in the old days was tough - bandits were a thing, wolves were still around 'til the mid-1500s, and wagons are a bitch to drive properly if you've got delicate things like eggs to look after. If taking things delicately through apparition and floo was difficult, it'd be a similar pattern, no?
+
+It'd also explain why the Weasley's were poor despite having sufficient food on their table - they would literally have to buy enough food to last the time between markets, and buying a theoretical month's worth of food for seven-to-nine people would take a significant portion out of anyone's budget. Something we can see in the modern world too, unfortunately.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 2
+:DateUnix: 1579951305.0
+:DateShort: 2020-Jan-25
+:END:
+
+
+** A few months ago I did some similar calculations:
+
+#+begin_quote
+  In the books it is never mentioned how many magical people live in Britain. However, we can do a bit of calculation.
+
+  In /the Deathly Hallows/ (Chapter 11) Lupin mentions that nearly every British witch and wizard is educated at Hogwarts. In /the Prisoner of Azkaban/ (Chapter 15) it is mentioned that there are two hundred Slytherins cheering the Slytherin Quidditch team. If every Slytherin was present, that means the size of a Hogwarts House is 207 (spectators plus players). If every House has as many students, the total number of students in Hogwarts is 828. As education at Hogwarts lasts for seven years, and a small minority does not attend Hogwarts, that means the British age group of magicals is about 120. Magical people appear to live very long. I'm not sure if Dumbledore's age has been confirmed /in the books/, but he was a bearded man in 1938 when he first met Tom Riddle. In the 1990s Griselda Marchbanks, who oversaw Dumbledore's OWLs, is still active, as is Bathilda Bagshot, whose great-nephew is the same age as Dumbledore. Maybe we could estimate that on average magical people live to the age of 120. 120 times 120 is 14,400. However, most magical families appear to only have one child, and childlessness is very common (Albus and Aberforth Dumbledore, Voldemort (in the books, anyway), Snape, Sirius, Pettigrew, Crouch Junior etc.). That means the older age groups are probably larger. (Of course, there is some inflow of Muggle-borns and foreign magicals.) So, the total population is about 15,000.
+#+end_quote
+
+It would make sense that much fewer children were born during the First Wizarding War, but it is never confirmed. The Sorting is not told to take longer in books 4 and 5 compared to Harry's Sorting.
+
+The population size in wizarding Britain makes some things in Harry Potter very strange. Again, I quote myself from a few months ago:
+
+#+begin_quote
+  The total population of the British Isles is over 60 million. Diagon Alley and Hogsmeade are the only non-Muggle settlements, so apparently magical people live among the Muggles. If they are distributed across the Isles in the same proportion, that means there are about 12,000 English magicals, a little more than 1,000 Scottish and Irish magicals, and less than 1,000 Welsh magicals. Then why are there separate English, Scottish, Irish, and Welsh national identities among wizards? Why don't they all mix up into one nationality? It would make sense, because they attend the same school, and magicals don't have social or logistical limitations based on geography. We know that each one of the nationalities has their own national Quidditch team. The Irish team is superb, but who are the players, actually? They attended Hogwarts, right? Did they totally rule the Hogwarts Quidditch championship? When did that happen? Why are they so much better than the Gryffindor Quidditch team? Does one have to graduate before he/she can become such a Quidditch virtuoso?
+
+  Then there is the question of The Quibbler. It is a magazine for weirdos. Perhaps one percent of British magicals read it, and that's 150. And since most of British magicals appear to live in families, and family members read the same copy, The Quibbler's distribution is perhaps 50. It is published monthly. How does a family provide for their living by selling 50 copies of a magazine a month?
+#+end_quote
+
+And don't tell me Ireland is not fully under the jurisdiction of the Ministry of Magic in London. Muggle Ireland is divided because of religion. The Christianity of wizards appears to be just superficial traditions like holidays. Why would Irish wizards (who should have assimilated to the rest of British wizarding community centuries ago) have taken part in the Irish War of Independence?
+:PROPERTIES:
+:Author: Gavin_Magnus
+:Score: 2
+:DateUnix: 1579848989.0
+:DateShort: 2020-Jan-24
+:END:
+
+
+** I just go off of [[http://members.madasafish.com/%7Ecj_whitehound/Fanfic/numbers.htm][http://members.madasafish.com/~cj_whitehound/Fanfic/numbers.htm]] and go from there.
+:PROPERTIES:
+:Author: YOB1997
+:Score: 2
+:DateUnix: 1579849520.0
+:DateShort: 2020-Jan-24
+:END:
+
+
+** The math is precisely as you calculate. I suppose many people have done it over the years; it's the obvious thing to do, if you have even a bit of interest in the somewhat more wonky bits of world building.
+
+Personally, when I build my (not-entirely canon) Hogwarts, I start at your point about lecture halls. I don't want more than 50 children per double class, consequently I get 700 students at Hogwarts.
+
+From there, you get a population the size of 10,000 - 15,000. Where I differ is your assessment. I don't /necessarily/ think this is disappointing. It's the size of a small town. It can sustain quite a few businesses, especially if you return to more mediaeval crafting styles or at least manufacturing, not factories and mass production, and it also motivates a certain level of politics and bureaucracy, basically your local town hall + the entire foreign relations apparatus that is usually found at the higher levels (which we obviously don't have here, because the Ministry is the highest level). You can work with that.
+
+The most straightforward way to expand that is to postulate not all children go to Hogwarts. They needn't go abroad, however, you can equally well postulate lesser schools, possibly day schools, in Britain. Entirely depends on what kind of story you want to tell; if you want to build a story around stark inequality, for instance, Hogwarts being an elite school and most people having to be content with lesser quality education -- or even no education at all, beyond home schooling -- follows naturally.
+:PROPERTIES:
+:Author: Sescquatch
+:Score: 2
+:DateUnix: 1580039537.0
+:DateShort: 2020-Jan-26
+:END:

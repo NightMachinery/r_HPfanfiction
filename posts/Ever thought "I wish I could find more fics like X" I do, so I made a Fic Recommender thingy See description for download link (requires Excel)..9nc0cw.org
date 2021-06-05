@@ -1,0 +1,501 @@
+#+TITLE: Ever thought "I wish I could find more fics like X"? I do, so I made a Fic Recommender thingy! See description for download link (requires Excel).
+
+* Ever thought "I wish I could find more fics like X"? I do, so I made a Fic Recommender thingy! See description for download link (requires Excel).
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 154
+:DateUnix: 1539278955.0
+:DateShort: 2018-Oct-11
+:FlairText: Misc
+:END:
+Here's the link [[https://drive.google.com/open?id=1E15fS6pKZxcAiVhpTCpJDyL7NyXpKcFe]]. It's a large Excel file, so you'll have to download it and load it with Excel. I tried to make a Google Sheets version, but there's a matrix in there with 4 million values, and Google caps the number of cells at 2 million.
+
+To use the file, type a FFN ID number (e.g. 4152700) into the box at the top of the first sheet. The sheet will then load the info for "similar" Fics. You can only type in one of the IDs from the "Fic info" sheet, which has the top 2000 HP fics on FFN with the most favorites. I want to make another version of this with more Fics, but it works pretty well right now as a recommender of "popular" fics.
+
+* How does it work?
+  :PROPERTIES:
+  :CUSTOM_ID: how-does-it-work
+  :END:
+It works by replicating the analysis done here: [[http://colah.github.io/posts/2014-07-FFN-Graphs-Vis/]]. That's not my work, but I highly recommend reading it if you're interested in this sort of thing. The author of that blog is now working at Google Brain, so he's doing AI research.
+
+Essentially, I downloaded the list of favorite fics for a large number of FFN users (I used FFN authors because I already had their usernames from a [[https://www.reddit.com/r/HPfanfiction/comments/9emp6z/my_posts_with_character_and_pairing_statistics/][previous analysis]]. Then I calculated a "similarity" score between every pair of fics. For two fics numbered 1 and 2, the similarity score is roughly:
+
+#+begin_example
+  score = (# of users that like Fic 1 AND Fic 2)/(# of users that like Fic 1 OR Fic 2) 
+#+end_example
+
+This takes a while to calculate for every possible pairing of fics, which is why I capped it at 2000.
+
+The excel file has a matrix of these scores, and when you enter a Fic, it sorts the fics by descending score (the scores are called "Weights" in the Excel file). A large weight means that the recommended fic and your chosen fic are more likely to appear together on the favorites list of users than a different pairing.
+
+The assumption is that a user will tend to favorite similar types of fics. I think it works well, but that's mostly because it uses data from a lot of users (~65,000).
+
+* What's next?
+  :PROPERTIES:
+  :CUSTOM_ID: whats-next
+  :END:
+I'd like to do other things with this data set that are described on this blog post, like visualizing the graph of fics and maybe ranking them with the [[https://en.wikipedia.org/wiki/PageRank][PageRank]] algorithm. Let me know if you have any other suggestions!
+
+​
+
+Edit: [[/u/sfu69]] mentioned that this didn't work with LibreOffice, so here's a version that does:
+
+[[https://drive.google.com/open?id=1StBT_JO-AH4m0gVeZ0SvOmoYscPWET0n]]
+
+​
+
+​
+
+​
+
+​
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 21
+:DateUnix: 1539280162.0
+:DateShort: 2018-Oct-11
+:END:
+
+*** Great! I'm glad LibreOffice works. Did you manage to get the whole thing loaded? Or did it cut off some of the rows?
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 5
+:DateUnix: 1539280853.0
+:DateShort: 2018-Oct-11
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 7
+:DateUnix: 1539284738.0
+:DateShort: 2018-Oct-11
+:END:
+
+***** Gotcha. thanks for the clarification. For the next version, I'll make sure to keep the number of columns low
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 2
+:DateUnix: 1539285362.0
+:DateShort: 2018-Oct-11
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 9
+:DateUnix: 1539284587.0
+:DateShort: 2018-Oct-11
+:END:
+
+*** Hey, just wanted to say in case you didn't see it, but there's now a version with more fics! [[https://www.reddit.com/r/HPfanfiction/comments/9pw53f/a_lot_of_people_liked_the_fic_recommender_i/]]
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1540069017.0
+:DateShort: 2018-Oct-21
+:END:
+
+
+** Super cool way to find new fics on ff.net, thanks! Is there any reason some fics just return a bunch of #N/A results, though?
+:PROPERTIES:
+:Author: siderumincaelo
+:Score: 5
+:DateUnix: 1539284729.0
+:DateShort: 2018-Oct-11
+:END:
+
+*** Hmm. Maybe you're trying a fic that isn't in the database? It only work for fics on the "Fic info" page, which are popular fics on FFN. I'm hoping to expand the database in the future
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 2
+:DateUnix: 1539285191.0
+:DateShort: 2018-Oct-11
+:END:
+
+**** Ah, that's probably it. Thanks!
+:PROPERTIES:
+:Author: siderumincaelo
+:Score: 1
+:DateUnix: 1539285897.0
+:DateShort: 2018-Oct-11
+:END:
+
+
+** This would be really cool to turn into a web app...
+:PROPERTIES:
+:Author: the_geek_fwoop
+:Score: 4
+:DateUnix: 1539288506.0
+:DateShort: 2018-Oct-11
+:END:
+
+*** Feel free if you know how. Learning web development is one of those things on my todo lists that I never seem to get around to doing.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 5
+:DateUnix: 1539289847.0
+:DateShort: 2018-Oct-12
+:END:
+
+**** I know the feeling. And I actually do know how, but I probably won't have time, gah! OTOH it doesn't seem to be a huge thing... hmm.
+:PROPERTIES:
+:Author: the_geek_fwoop
+:Score: 2
+:DateUnix: 1539290526.0
+:DateShort: 2018-Oct-12
+:END:
+
+
+**** Hm. I'll give it a shot.
+
+Would you be willing to help maintain/update the database?
+
+Edit: now up at [[https://ficrecs.elusiveguy.com/]]
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 1
+:DateUnix: 1539579872.0
+:DateShort: 2018-Oct-15
+:END:
+
+***** Hmm. Probably not. I don't know anything about what that would entail.
+
+I'm finishing up an expanded version of this (30,000 fics) but I might want to stop at this point. I don't know how "maintainable" this database is.
+
+For example, the "Fic Info" page was from a scrape of FFN that I did over a year and a half ago, so it's already old.
+
+The weights were calculated from a scrape of info from 65,000 FFN users, so that's another database that might need to be updated. It's also only a tiny fraction of FFN users.
+
+Lastly, for my expanded version I'm conserving space by only saving the nearest neighbors to each fic. It's nice, but I don't really know how to easily add new fics to this since you might have to recalculate ALL the weights. There's probably algorithms out there but I don't have the time to find out.
+
+That being said, I'm happy to make my code and data available.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1539589066.0
+:DateShort: 2018-Oct-15
+:END:
+
+****** I'm ingesting data from the xlsx already, but if you have code to calculate more, I can probably use that directly - and this database (currently postgres) should be more space efficient than the xlsx.
+
+With the right indexes it might even be feasible to calculate on the fly.
+
+Obviously no need for any kind of commitment, though any help would be appreciated.
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 1
+:DateUnix: 1539590083.0
+:DateShort: 2018-Oct-15
+:END:
+
+******* Well if you want more data, here's a new file. [[https://drive.google.com/open?id=12TRoBtJ92ssvZ-ekaDSM0s07ARGsbftN]]
+
+Sorry it's in a different format, but it's pretty simple. Instead of the full matrix, I save the 20 nearest neighbors for each fic, so the largest 20 values of each row in the matrix. This is the "Weights" sheet. The "Indexes" sheet has which columns those weights are from, so it's used to lookup the corresponding row in the "Fic Info" sheet.
+
+I also have this version: [[https://drive.google.com/open?id=1XH5BX-x1508iZXnKOE2-F7AX0ZvaDEQj]]. It's the same info, but I removed the parts of "Fic Info" which are outdated, so things like # of favs or reviews. Feel free to use any of it.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1539623190.0
+:DateShort: 2018-Oct-15
+:END:
+
+******** Thanks, I'll tackle that after I've finished with the first set.
+
+Incidentally, the matrix (of the first one) is ... interesting. There's a literal =#NUM!= at EV43, and a few other places where rows/cols of 0s intersect.
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 1
+:DateUnix: 1539655313.0
+:DateShort: 2018-Oct-16
+:END:
+
+********* Yeah that row and column should just be removed. It's Vox Corporis, a popular H/Hr fic that was taken down from FFN.
+
+The matrix is symmetric, so A(i,j) = A(j,i). There should technically be 1s along the diagonal, (since every fic is most closely related to itself), but I put 0s so the requested fic won't also be returned in the results. I'm guessing the #NUM! values are all along the diagonal for fics that have been removed from FFN.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1539658450.0
+:DateShort: 2018-Oct-16
+:END:
+
+********** Yea, I'm just ignoring those.
+
+The first set's imported and sitting happy (at 133 MB in DB, bigger than I expected... I blame the indexes!). Searches seem to be working fine at 300ms for an uncached search or 25ms for a cached one. (edit: 10-20ms all around now. I flubbed an index earlier.) I'll create the world's worst-looking website tomorrow :P
+
+Before I go importing the second set - would it be much trouble for you to share the source data or code? The full 30000^{2} is far too large, but going from 20 to maybe 100 or even 1000 of the top ones should be doable and would offer many more suggestions. Though I suppose it's also possible to just click through the graph.
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 1
+:DateUnix: 1539672670.0
+:DateShort: 2018-Oct-16
+:END:
+
+*********** Yeah, I just put it on Github: [[https://github.com/vir-innominatus/FFN-Fic-Recommender]]
+
+Fair warning, I used Matlab for most of it.
+
+You'll unfortunately have to re-calculate the weights if you want >20. It takes a long time to run but will probably go much faster in a different language.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1539681761.0
+:DateShort: 2018-Oct-16
+:END:
+
+************ Cool, thanks.
+
+I know nothing about Matlab so I'll probably try reimplementing it, time permitting.
+
+Gotta get the web UI up first though!
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 1
+:DateUnix: 1539687741.0
+:DateShort: 2018-Oct-16
+:END:
+
+************* I decided to start another run with 200 recs per fic. It will take a few days though, since I'm just running it on a slow laptop during the day and then I'll add in my desktop at night. I'll let you know when it's done.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1539723706.0
+:DateShort: 2018-Oct-17
+:END:
+
+************** I can give you access to a decently fast server if that would help. Needs to be able to run on Linux though.
+
+Edit: [[https://github.com/ElusiveGuy/FicRecs]] for current db/importer/website code. Getting there, slowly.
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 1
+:DateUnix: 1539734160.0
+:DateShort: 2018-Oct-17
+:END:
+
+
+************** It's alive! [[https://ficrecs.elusiveguy.com/Story/Similar?storyId=4172226]]
+
+Still needs a fair bit of polish. Like adding page numbers (currently restricted to top 10), fixing table widths, proper links, etc.. Maybe a search by fic name.
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 1
+:DateUnix: 1539827306.0
+:DateShort: 2018-Oct-18
+:END:
+
+*************** Awesome! I really like the similar button so you can through move through the list. And I like that you removed the favs/follows/review numbers by default. I can do another scrape sometime to update the numbers. It shouldn't take that long for the fics in the database. It just takes forever for all 750k.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1539839313.0
+:DateShort: 2018-Oct-18
+:END:
+
+**************** Ok, pagination added and I think I'll consider this more or less done for now.
+
+I'll hold off on importing the 20-fics-per dataset until you finish the bigger one, I suppose. Thanks!
+
+Ugly homepage at [[https://ficrecs.elusiveguy.com/]]
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 1
+:DateUnix: 1539847551.0
+:DateShort: 2018-Oct-18
+:END:
+
+***************** It looks great.
+
+As to the new database, I have 18k of 30k fics finished. It'll be done by late Friday. I'll try to have updated metadata for the fics by then too.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1539879747.0
+:DateShort: 2018-Oct-18
+:END:
+
+
+** This is so cool! With the number of fanfic there is already, it's really hard to search for and find good fics so this is really great! Only thing is that an app (web or mobile) would be a better way to present the information
+:PROPERTIES:
+:Author: _awesaum_
+:Score: 3
+:DateUnix: 1539292666.0
+:DateShort: 2018-Oct-12
+:END:
+
+
+** Downloaded it, tried it. Nice!
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 2
+:DateUnix: 1539281946.0
+:DateShort: 2018-Oct-11
+:END:
+
+
+** I've brainstormed a bit about this method for finding new fics in the past so it's really nice to see you implement it succesfully and im excited to try it out.
+
+EDIT: After playing with it a bit this is a really sweet tool but I am feeling some of the limitations. What are the chances of a beefier version that looks at a good amount more fics? I'd also be interested in one that included HP crossovers. I'd also be interested in not just grabbing the top X favorites but having newer fics weighted a bit more heavily so that lets say a 1k favs fic published last year is more impressive than a 3k favs fic published in 2007.
+:PROPERTIES:
+:Author: DoubleFried
+:Score: 2
+:DateUnix: 1539292678.0
+:DateShort: 2018-Oct-12
+:END:
+
+*** I definitely want to increase the number of fics, but I need to improve the algorithm because the computation time is prohibitively expensive. Right now its O(n^2), so ten times the fics would take 100 times as long.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 3
+:DateUnix: 1539296286.0
+:DateShort: 2018-Oct-12
+:END:
+
+
+** Thank you so much! This is great! I thought about doing something like this but I don't have the know how (yet)
+:PROPERTIES:
+:Author: Jakyland
+:Score: 2
+:DateUnix: 1539303756.0
+:DateShort: 2018-Oct-12
+:END:
+
+
+** Wow this is amazing! Is there any way to expand its "library"?
+:PROPERTIES:
+:Author: cosmicsyren
+:Score: 2
+:DateUnix: 1539309633.0
+:DateShort: 2018-Oct-12
+:END:
+
+
+** I tried using it and it frequently crashed on it, thought it managed to my (my laptop is potato though lol)
+
+I put in 2233473 and I got nothing :(
+:PROPERTIES:
+:Author: xAkMoRRoWiNdx
+:Score: 1
+:DateUnix: 1539309816.0
+:DateShort: 2018-Oct-12
+:END:
+
+*** Yeah, sorry it only works for "popular" fics that have a lot of favorites. I want to expand it, but it takes a while
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1539319748.0
+:DateShort: 2018-Oct-12
+:END:
+
+**** The fanfic by the way is my Flair. I love the series so much heh
+
+Edit: Changed fix to fanfic
+:PROPERTIES:
+:Author: xAkMoRRoWiNdx
+:Score: 1
+:DateUnix: 1539321192.0
+:DateShort: 2018-Oct-12
+:END:
+
+
+** Like others have said it's a good idea but limited in its current form. When was this snapshot taken? First story I tried was The Changeling, which is missing even though it has over 2k favorites and should rank ~1350th on this list.
+:PROPERTIES:
+:Author: eclaircissement
+:Score: 1
+:DateUnix: 1539333387.0
+:DateShort: 2018-Oct-12
+:END:
+
+*** Yeah, I'm working on expanding it, it just takes forever. I can do single fics quickly, though. Here's the top 20 results for The Changeling. (You'll have to copy/paste the IDs)
+
+#+begin_example
+       Weight                   Titles                      ID   
+      ________    ___________________________________    ________
+
+             1    'The Changeling'                        6919395
+      0.055824    'Applied Cultural Anthropology, or'     9238861
+      0.050995    'Elizium for the Sleepless Souls'       7713063
+      0.050576    'Strangers at Drakeshaugh'              6331126
+      0.048364    'The Assassin Wore White'              10071063
+      0.047376    'A Long Journey Home'                   9860311
+      0.047296    'The Arithmancer'                      10070079
+      0.047054    'The Sum of Their Parts'               11858167
+      0.044871    'Seventh Horcrux'                      10677106
+      0.041247    'Weasley Girl'                          8202739
+      0.039361    'Ectomancer'                            4563439
+      0.038332    'What You Leave Behind'                10758358
+      0.038143    'Divided and Entwined'                 11910994
+      0.037342    'fair fortune'                         11376508
+      0.037203    'Contractual Invalidation'             11697407
+      0.036931    'Forging the Sword'                     3557725
+      0.036705    'In Bad Faith'                          9399640
+      0.036061    'Unatoned'                              8262940
+      0.035913    'On the Way to Greatness'               4745329
+      0.035672    'Soul Scars'                           11923792
+      0.035245    'Weasley Girl: Secrets of the Past'     9932798
+#+end_example
+
+​
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1539366897.0
+:DateShort: 2018-Oct-12
+:END:
+
+**** Heya, just tried it and noticed it didn't include Crack'd Mirror ([[https://www.fanfiction.net/s/4045539/1/Crack-d-Mirror]] ) Despite that being at 1702 favs, which should have it within the top2k fics.
+:PROPERTIES:
+:Author: CorruptedFlame
+:Score: 1
+:DateUnix: 1539790623.0
+:DateShort: 2018-Oct-17
+:END:
+
+***** The Favorites numbers are from a snapshot of FFN I saved in March 2017, so the numbers are old. The next version will have more fics, but in the meantime, here's a list for Crack'd Mirror
+
+#+begin_example
+      Weights                     Title                         ID    
+      ________    ______________________________________    __________
+
+      0.091331    'Dudley's Girlfriend'                     '4434259' 
+      0.077735    'Cuckolding at Shell Cottage'             '4867943' 
+      0.077698    'Tease'                                   '4884595' 
+      0.074859    'Darkened Paths'                          '4483046' 
+      0.068705    'Harmony'                                 '5005327' 
+      0.059788    'Missing: Presumed Missing?'              '3957804' 
+      0.059225    'Agent Double O Hex'                      '4019608' 
+      0.056947    'Without You, There is Nothing'           '4532058' 
+      0.056731    'Achieving Clarity'                       '4960786' 
+      0.055993    'That Boy Is Trouble'                     '5708111' 
+      0.055979    'Coming Back Late'                        '6471922' 
+      0.055882    'The Hand Bites Back'                     '10853157'
+      0.053642    'Luna's Helping Hand'                     '6935533' 
+      0.052003    'Larceny, Lechery, and Luna Lovegood!'    '3695087' 
+      0.051642    'The Poker Game'                          '4081016' 
+       0.05012    'Harry Potter, No More!'                  '9952983' 
+       0.04967    'Lucky Harry'                             '6463116' 
+       0.04958    'Rise of the Evolution Network'           '10674545'
+      0.049297    'Terminal Justice by Overkill'            '11965672'
+      0.047986    'Ginny's Trial'                           '5129057' 
+#+end_example
+
+​
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1539807598.0
+:DateShort: 2018-Oct-17
+:END:
+
+
+** Bless your soul, I can finally find huge fics with a decent plot. Much appreciated!
+:PROPERTIES:
+:Author: Juliank4
+:Score: 1
+:DateUnix: 1539367132.0
+:DateShort: 2018-Oct-12
+:END:

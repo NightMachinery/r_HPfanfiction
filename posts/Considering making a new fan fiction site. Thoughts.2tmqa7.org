@@ -1,0 +1,441 @@
+#+TITLE: Considering making a new fan fiction site. Thoughts?
+
+* Considering making a new fan fiction site. Thoughts?
+:PROPERTIES:
+:Author: NewSiteQuestions
+:Score: 12
+:DateUnix: 1422208500.0
+:DateShort: 2015-Jan-25
+:FlairText: Discussion
+:END:
+I'm a web developer who enjoys reading fanfic, especially HP. I've been thinking about making a new site for stories to be hosted on and so I've come to ask for opinions on this.
+
+1) If there was a new site with nice features, would you consider switching?
+
+2) What features would you want from a new site? I have a few ideas of my own but I'd like to hear from the community too.
+
+3) If the site had a Reddit gold type subscription option where the site was perfectly usable without subscribing, but some extra/unique features required a gold membership, would you consider subscribing? Would the existence of a subscription put you off?
+
+
+** I wouldn't expect too much success, even if you make a perfect site. PatronusCharm.Net has never really taken off despite having better features than FF.Net. FF.Net just has too much momentum behind it that means people will always post fics there, otherwise they'll be missing out on reviews/views.
+:PROPERTIES:
+:Author: Taure
+:Score: 16
+:DateUnix: 1422212691.0
+:DateShort: 2015-Jan-25
+:END:
+
+
+** 1) Yes.
+
+2) Quite a few, actually. I only use FF.net and Portkey to read fanfics, but some things I would really like are:
+
+- Lack of decent search/filter system. Sure, you can filter by wordcount and character etc, but that isn't going to stop me from having to sort through 930 badly written slash fics where Harry and Draco do the deed every other chapter.
+
+- Heavily customisable reading experience. As mentioned by others, having customisation over fonts, text sizes, background colours (bright white is not good for reading at night) text colour etc.
+
+- Downloadable fanfic files. .epub/.mobi or whatever you can work into it. I read so much on my phone it's ridiculous, and opening 20+ chapters on Chrome on my phone is tedious and boring. Plus, it allows for reading when your internet goes down/you're without it.
+
+- Categories. So many different fanfics can slot into categories neatly and it's ridiculous that we don't use them. Of course, a fanfic wouldn't be a part of one category specifically, but take for example 'A Black Comedy' (assuming you've read that.) It technically classes as an AU, but Humour and Action etc. also. If you could file it in all of those categories, it would work just as effectively as a tag system for trying to find it.
+
+- More in-depth story status options. FF.net has 'Complete' and 'In-progress'. I'm thinking it would be infinitely more useful if a range of tags was available. For example, if you are putting your story on Hiatus you can set it as 'Hiatus'. If you haven't updated for a certain period of time (1-2 years, maybe?) then it is automatically tagged with 'Abandoned'.
+
+- Recommendations! Go take a look at myanimelist.net. Under each anime there is a section called 'recommendations' where a user can post what they think is a story that readers of the current story would enjoy, and then other users vote up or vote down those recommendations based on how true that is.
+
+- A better rating system. It could be something as simple as 'rate 1-10' with the average being displayed. Would make searching for stories others think are great much easier.
+
+- 'Safeguard' mode. A setting in your profile (assuming you'll implement those) that will change whether or not you will see NC-17/explicit stories. A better alternative to just banning it outright, as there are people that like it.
+
+- 'Story of the week'? It could be an upcoming story that has received a lot of reads/votes/whatever recently. Would help with the production of new quality stories, as that's been quite lackluster recently.
+
+3) Yup. I'd pay for a site like this, easily.
+:PROPERTIES:
+:Author: Leaf__
+:Score: 9
+:DateUnix: 1422212157.0
+:DateShort: 2015-Jan-25
+:END:
+
+*** I very much like your idea for more story status options than just a simple complete or in-progress. I'll be working that one in for sure.
+
+I have put some thought to putting the ability to set defaults for some filters in your profile. Language for example, what you can read isn't going to change very often so having to set it every time is annoying.
+:PROPERTIES:
+:Author: NewSiteQuestions
+:Score: 1
+:DateUnix: 1422212649.0
+:DateShort: 2015-Jan-25
+:END:
+
+
+*** u/Daimonin_123:
+#+begin_quote
+  Categories. So many different fanfics can slot into categories neatly and it's ridiculous that we don't use them. Of course, a fanfic wouldn't be a part of one category specifically, but take for example 'A Black Comedy' (assuming you've read that.) It technically classes as an AU, but Humour and Action etc. also. If you could file it in all of those categories, it would work just as effectively as a tag system for trying to find it.
+#+end_quote
+
+Careful with that one, don't want to end up like hpfanfictionarchive, where you do a search for a particular catgeory/character/pairing, and get tons of results where authors just flagged everything to increase search results. Unfortunately the only way to curtail that is either by having a massive moderator team that can force authors to use the right tags, or much better, only allow 1/2/3 options per selection.
+:PROPERTIES:
+:Author: Daimonin_123
+:Score: 1
+:DateUnix: 1422994686.0
+:DateShort: 2015-Feb-03
+:END:
+
+
+** I think there already are way too many fanfic-hosting websites. You'd either have to make something exceptionally good to draw the already accustomed users to your new project or you'd only increase the number of overall websites.
+
+My suggestion would be to try focusing on a servicing application instead. This could be a browser script, similar to reddit enhancement suite, a set of browser expansions or a set of smartphone apps. This way you'd manage to make /all/ the already existing websites “yours”, in a way. By going one step further, you could even provide your own backend-only server for archiving and data mining purposes.
+:PROPERTIES:
+:Author: OutOfNiceUsernames
+:Score: 9
+:DateUnix: 1422217264.0
+:DateShort: 2015-Jan-25
+:END:
+
+*** Like scryer?
+:PROPERTIES:
+:Author: blueocean43
+:Score: 1
+:DateUnix: 1422309614.0
+:DateShort: 2015-Jan-27
+:END:
+
+
+** I would use it, but only if it had a decent search system and allowed explicit content. For example, FFN.net is great, but no mature content. AO3 has the worst search system known to man, but otherwise is good. Also, as a search parameter, make a no-slash one.
+
+That is one of the most annoying things about archive. If you want explicit M/F, then it's almost impossible to find due to all the Harry/Draco stories.
+:PROPERTIES:
+:Score: 8
+:DateUnix: 1422210847.0
+:DateShort: 2015-Jan-25
+:END:
+
+*** I agree--one of the most important things for me as an avid reader (I've only written one short one-shot) is an excellent search system. I really like fanfiction.net's ability to specifically exclude certain characters/genres.
+:PROPERTIES:
+:Author: Madam_Hook
+:Score: 3
+:DateUnix: 1422212267.0
+:DateShort: 2015-Jan-25
+:END:
+
+**** Please /please/ add a full-text search! It can be so frustrating searching for fanfictions where you know certain terms are mentioned, but you cannot find them by describtion!
+:PROPERTIES:
+:Author: DesLr
+:Score: 2
+:DateUnix: 1422234269.0
+:DateShort: 2015-Jan-26
+:END:
+
+***** I always use google for this. It doesn't always work, but often.
+:PROPERTIES:
+:Author: CrucioCup
+:Score: 1
+:DateUnix: 1422287154.0
+:DateShort: 2015-Jan-26
+:END:
+
+****** I've got this paticular one I've been searching for long time :P
+:PROPERTIES:
+:Author: DesLr
+:Score: 1
+:DateUnix: 1422289459.0
+:DateShort: 2015-Jan-26
+:END:
+
+******* Aww /: did you try making a request, here for example? Someone might have heard of it.
+:PROPERTIES:
+:Author: CrucioCup
+:Score: 1
+:DateUnix: 1422293704.0
+:DateShort: 2015-Jan-26
+:END:
+
+******** [[http://www.reddit.com/r/HPfanfiction/comments/2rlkdz/searching_for_specific_ff_about_wizarding_royalty/][Yep.]] No results though :/
+:PROPERTIES:
+:Author: DesLr
+:Score: 1
+:DateUnix: 1422296303.0
+:DateShort: 2015-Jan-26
+:END:
+
+********* [[https://m.fanfiction.net/s/7683768/1/Princess-of-Avalon]] It's not this one, is it? I'm sorry, I don't really read fics about Hermione /: especially not with Harry
+
+If you've been searching for years, it might have been taken down =( that's happened to me a few times
+:PROPERTIES:
+:Author: CrucioCup
+:Score: 1
+:DateUnix: 1422379509.0
+:DateShort: 2015-Jan-27
+:END:
+
+********** No, I dont think so.
+
+Not years, but, well...
+:PROPERTIES:
+:Author: DesLr
+:Score: 1
+:DateUnix: 1422396869.0
+:DateShort: 2015-Jan-28
+:END:
+
+*********** Well good luck =(
+:PROPERTIES:
+:Author: CrucioCup
+:Score: 2
+:DateUnix: 1422428565.0
+:DateShort: 2015-Jan-28
+:END:
+
+
+*** Yeah, search is very very important for a site such as this. Straight up text search is probably slightly less useful than having a wide variety of ways to filter the visible stories as desired.
+
+I've been thinking about the idea of explicit content. I'm all for allowing it, although I think above a certain raiting level it may have to be behind age confirmation (Registered users who have confirmed their date of birth only) with no explicit content in titles or descriptions at all.
+:PROPERTIES:
+:Author: NewSiteQuestions
+:Score: 1
+:DateUnix: 1422211570.0
+:DateShort: 2015-Jan-25
+:END:
+
+
+** 1) Not unless there was a huge following on it. If there's not many stories being uploaded onto it or not many people reading stories (I write too) I wouldn't see it as worth my time. I have stories posted to both A03 and FFnet but I always forget to update the A03 one as I don't have the same readership as I do on ffnet (less people reading it, less people reviewing).
+
+2) I like the idea someone mentioned about having a bookshelf for stories. If I may add, have a bookmark option for individual stories as well. Sometimes when I leave a story I forget what chapter I was on (if the chapters are unnamed) and it takes some time to find my spot again.
+
+I think a "no" search parameter needs to be added. So "no-character" or "no-pairing" or "no-keyword".
+
+3) I wouldn't pay for a gold membership if that's what you're asking. I'm not sure what extra/unique features you could provide that would make it worth it (I've been reading/writing fan fiction for nearly ten years, so I'm pretty content with the free services that already exist).
+:PROPERTIES:
+:Author: chatterchick
+:Score: 3
+:DateUnix: 1422214152.0
+:DateShort: 2015-Jan-25
+:END:
+
+*** You do realize 1 is a chicken and egg problem right? You don't post to sites that have few users, and users don't go to sites that have few stories... followings don't just randomly appear.
+:PROPERTIES:
+:Author: Daimonin_123
+:Score: 1
+:DateUnix: 1422994780.0
+:DateShort: 2015-Feb-03
+:END:
+
+**** I'm aware, but I was giving the OP an honest answer. There are going to be people like me who won't jump on this bandwagon until it gets some momentum behind it. It's been mentioned a few times in the responses that the site will have a hard time competing against fanfiction giants such as ffnet and AO3.
+:PROPERTIES:
+:Author: chatterchick
+:Score: 1
+:DateUnix: 1423000599.0
+:DateShort: 2015-Feb-04
+:END:
+
+
+** If you can combine the FF.net search with the content amount of FF.net and AO3 I would use it. The biggest sticking point will get be getting authors to use your site. You could post their stories without their permissions and just give them no author tag but that would generate a ton of legal issues.
+
+What I said above is all I really want for features but being able to copy and paste would be nice. Night reading mode that inverts colors would be great.
+
+I dislike the idea of subscription for features. I understand you need money to operate a site but I can't think of any features you could paywall without subtracting from the quality of the site.
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 2
+:DateUnix: 1422231676.0
+:DateShort: 2015-Jan-26
+:END:
+
+
+** To be completely honest, there's no way that a new fanfiction site will ever be able to compete, simply because the hardest part is getting a userbase. That being said, there isn't a good-looking metasite, and I think that I'd use one of those if it existed.
+:PROPERTIES:
+:Author: bpile009
+:Score: 2
+:DateUnix: 1422222706.0
+:DateShort: 2015-Jan-26
+:END:
+
+*** Ooh, site that searches on different fanfics sites would be really handy *nods*. Maybe even something that lets users give tags to the ones already there, like the main character distinction that was mentioned.
+:PROPERTIES:
+:Author: evanna11
+:Score: 3
+:DateUnix: 1422305931.0
+:DateShort: 2015-Jan-27
+:END:
+
+
+** 1) Yes.
+
+2) A proper reading mode on the site, with customizable fonts, font sizes, spacing on sides, font and background colours... OR an automated conversion to .epub files to download. A companion Android/iOS app would also be awesome and would elevate the site to something much more than fanfiction.net.
+
+Also, a method of putting stories in some kind of a "read later bookshelf", you know, when you find a story but you're in the middle of another one, so you don't forget about it.
+
+3) Yes, I would consider it. Would not think long if it also meant no ads on the site and the companion app.
+
+BUT, a site can be absolutely awesome, I will not use it if the stories and writers are not there. You have to focus on getting the writers there.
+:PROPERTIES:
+:Author: Neamow
+:Score: 1
+:DateUnix: 1422210102.0
+:DateShort: 2015-Jan-25
+:END:
+
+*** Customisable fonts was certainly on the menu, I very much like the idea of having the site be very customisable with regards to reading experience as everyone likes things different.
+
+With regards to ads, they're unfortunately a necessary evil when it comes to making a site and no ads would certainly be a benefit of "gold" membership.
+
+Any suggestions as to how I might attract writers? I'd considered contacting some of the higher rated authors and inviting them on to the site to cross-post their current stories to get the ball rolling.
+:PROPERTIES:
+:Author: NewSiteQuestions
+:Score: 1
+:DateUnix: 1422210907.0
+:DateShort: 2015-Jan-25
+:END:
+
+**** As I am not a writer, I have unfortunately no idea. There are a few writers on this subreddit I think, maybe they can weigh in on this. But it definitely doesn't cost them anything to post somewhere else as well, and invite their readers to read there if they find the site preferable.
+:PROPERTIES:
+:Author: Neamow
+:Score: 1
+:DateUnix: 1422211125.0
+:DateShort: 2015-Jan-25
+:END:
+
+***** Yeah, I should imagine most authors would be happy to cross post if requested for increased exposure for their stories.
+:PROPERTIES:
+:Author: NewSiteQuestions
+:Score: 1
+:DateUnix: 1422211649.0
+:DateShort: 2015-Jan-25
+:END:
+
+
+**** I'd suggest just getting the word out (once it's up and ready) and asking some of the 'big' writers if they'd like to post their story on the website too. If it really is better than FF.net, you'll eventually begin attracting people on word of mouth alone.
+
+One thing that you should aim for is getting people to write exclusively on this website. If a story can only be found there, and the story is good, more people are likely to read it.
+:PROPERTIES:
+:Author: Leaf__
+:Score: 1
+:DateUnix: 1422212275.0
+:DateShort: 2015-Jan-25
+:END:
+
+
+** So I'm a web developer too! (Yay!) And I wrote a blog post about this - I've really been thinking about this myself. Anyways, I'm currently moving houses / been busy, but this is the next project I'm going to work on. I'd love to work with you - or if you prefer to work by yourself, feel free to steal these ideas. Seriously, a better fanfiction website would help all of us out.
+
+[[http://hackit.im/another-fanfiction-website/]]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1422210149.0
+:DateShort: 2015-Jan-25
+:END:
+
+*** I had a read of your points and there's some interesting things in there. I like the idea of more encouragement for beta readers, perhaps support for that could be included on the site such as adding Beta: <name> to the credits.
+
+Author donations is a tricky subject, since much of the subject matter is covered by copyright laws. I suspect that might end up crossing the line into lawsuit territory.
+
+I agree with you on author's notes. I'm not against them, but I do think they should be out of the "flow" of the story. Maybe have a section at the start/end of the chapter for author notes that people can have collapsed or expanded as per their preference. The notes will be there to read if you want, or hidden if you don't.
+:PROPERTIES:
+:Author: NewSiteQuestions
+:Score: 2
+:DateUnix: 1422211315.0
+:DateShort: 2015-Jan-25
+:END:
+
+
+** The only thing I currently miss at FFN is a way to sort searches by /favourites/last 30 days/ or something like that.
+
+I can sort by favourites today, but the top of the list will have mostly old fics. I want to find the fast-rising new fics.
+
+I've been thinking about writing a web scraping script to let me search off-line just to find those hidden gems.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1422211640.0
+:DateShort: 2015-Jan-25
+:END:
+
+*** From what I understand on FFN you can sort by favorites and my follows within a time range. Under Sort you can choose either favorites/follows and under time range you can choose Updated within: so and do weeks/ months.
+:PROPERTIES:
+:Author: susire
+:Score: 2
+:DateUnix: 1422226993.0
+:DateShort: 2015-Jan-26
+:END:
+
+
+** Whatever you do, just give me the option to alter the css to make it more readable for me. The textbox, for example, shouldn't be as broad as my screen. With 27" thats actual neck movement to read one line in fullscreen.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 1
+:DateUnix: 1422212458.0
+:DateShort: 2015-Jan-25
+:END:
+
+
+** I think you will have a very hard time making it popular with giants like FFN and AO3 around, but you can never know I guess.
+
+I'd say, go for responsive design which would make for easy reading on both mobile devices and desktops. Put the story first and simplify the interface as much as possible. I like FFN overall, but it's a bit busy and complex, at least on the author side. And AO3 just gives you this monster of a page when you post a story. An intuitive and simple interface should help attract readers and writers.
+
+You could also try to create some unique features to set your site apart from the others. For example, there's this site anonkun.com which has a very interesting system for interactive stories and live feedback. I'm not saying copy it, it's just that it's something I've never seen on other writing sites. If you have something that's not offered by FFN or AO3, it might make people flock there as well.
+:PROPERTIES:
+:Author: deirox
+:Score: 1
+:DateUnix: 1422213990.0
+:DateShort: 2015-Jan-25
+:END:
+
+
+** The time constraint in the FFnet search filter is crap. Also a min-max to the world count would be better. Tagging would be also useful(tho would require heavy mod presence).
+
+Also I just remembered this, when I was writing this: [[http://scryer.darklordpotter.net/][Scryer]]
+:PROPERTIES:
+:Author: kecskepasztor
+:Score: 1
+:DateUnix: 1422217705.0
+:DateShort: 2015-Jan-25
+:END:
+
+
+** I'd definitely consider it. I agree with what other people have said about search features. One thing I wish FFN had was greater interactivity between authors and readers. Authors can't respond inline to reviews the way the can on HPFF. I would love a site with a discussion board system that was tightly integrated with the story archive.
+:PROPERTIES:
+:Author: cambangst
+:Score: 1
+:DateUnix: 1422236600.0
+:DateShort: 2015-Jan-26
+:END:
+
+
+** 1. Yes. You would probably have better luck trying to create a site for FF generally, rather than a site that focuses on HP FF.
+
+2. I would want to be able to list categories/characters like on FF.net. AO3 seartchng is difficult because everyone tags their fics with as many characters as possible. That needs to be limited as it is on FF. The other thing I wish FF.net would do would be the implementation of a "Similar fics" type feature. Basically if you like a fic, it will suggest fics for you based on other people's preferences and perhaps the story info (like the main characters).
+
+3. Make it first, and then figure out how to monetize. You can try to set up a subscription-based model, but I think FF is something of a guilty pleasure for some people and a lot of readers might be underage.
+:PROPERTIES:
+:Author: OwlPostAgain
+:Score: 1
+:DateUnix: 1422250073.0
+:DateShort: 2015-Jan-26
+:END:
+
+*** Oh yes a main character/side character distinction would be super great, and the similar fic thing sounds awesome.
+:PROPERTIES:
+:Author: evanna11
+:Score: 1
+:DateUnix: 1422305769.0
+:DateShort: 2015-Jan-27
+:END:
+
+
+** Probably wouldnt use it. Ff.net has the largest userbase, both in writers and readers. You could try making a site for authors, make it easy to share chapters with beta readers etc.
+:PROPERTIES:
+:Author: ryanvdb
+:Score: 1
+:DateUnix: 1422491620.0
+:DateShort: 2015-Jan-29
+:END:
+
+
+** Search ability is important. This also means certain restrictions that MUST be placed on authors.
+
+1. Allow stories to be flagged as slash/nonslash, and for users to then search specifically for one or the other or both. Cause nothing's more annoying then 20 pages of results of slash.
+
+2. This is important, DO NOT allow authors to list "Characters: [List of every character in the story]" (I'm looking at you hpfanficarchive). Same goes with categories, pairings, genres, etc. FFnet has the right idea, constrain authors to pick the 1 or 2 items per selection that best fit, cause nobody wants to search for harry/luna and get a result of fics where luna is listed as a pairing along with every other girl just to get in on search results.
+:PROPERTIES:
+:Author: Daimonin_123
+:Score: 1
+:DateUnix: 1422994204.0
+:DateShort: 2015-Feb-03
+:END:

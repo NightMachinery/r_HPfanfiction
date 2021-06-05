@@ -1,0 +1,158 @@
+#+TITLE: [Discussion] Foreign Relations
+
+* [Discussion] Foreign Relations
+:PROPERTIES:
+:Author: Dorgamund
+:Score: 9
+:DateUnix: 1491629432.0
+:DateShort: 2017-Apr-08
+:FlairText: Discussion
+:END:
+What are your thoughts on the role of diplomacy and foreign affairs in Wizarding Britain. It is an immensely important political factor to any government, but we don't get a real in depth view of all the issues that are dealt with. I really would like to see more of this, because the issues which appear to be in the Wizarding World don't necessarily have any parallels with the Muggle world. Some things I was thinking of-
+
+Dementors-What is the ministry policy regarding them. Is Azkaban a way to get two birds with one stone? Appeasing an immortal, nigh unkillable, and debatably sentient race of creatures with actively prey on wizards, as well as providing a very good way of controlling wizard prisoners who would otherwise easily escape. What is the official story there?
+
+Centaurs-What are the laws governing the centaurs. The canon books give the impression that they are allowed limited self-governance, though forced into certain areas like the Forbidden Forest. They are also restricted rights such as carrying a wand, and canonically, we don't see much in the way of representation, though if they are a sovereign entity, that raises a whole host of political complication.
+
+Goblins-These are the most obvious ones. Fully sentient, with abilities of their own which can rival wizarding fighting capabilities. While a sovereign entity bound by treaties that neither side is overly happy with, they control a large portion of Wizarding economy. Wizards also have a department of government devoted towards communication and diplomacy. What are some conflict areas Goblins and Wizards run into, legally or culturally? What are the diplomatic consequences of Wizards being allowed to pass down goblin-made artifacts? Do goblins regard that as a monetary debt that the ministry prevents them from enforcing? What about the practice of alchemy, and creating gold? What do the goblins do with that scenario?
+
+Muggles-Obviously the top levels of Muggle government know about the Wizarding World. From what it looks like, they seem content with leaving the Wizards alone in their isolationist ways. Neither side wants to go to war, because there is absolutely no way of determining the victor, and both sides could do irreparable damage before being eliminated. Where does legal conflict arise? When Wizards have to do Obliviations and the like to keep their world as secret and isolationist as possible, is it the Muggles who smooth out the paperwork? Do Aurors work jointly with MI5/6 (I am American sorry) when required, or when loaned when a more progressive magical Minister is in power? And for that matter, what about the differences in magical countries? It is pretty well established fanon that magical borders do not align with Muggle ones, mostly due to the slower rate of the Wizarding World, as well as it's isolationism. I have seen fics where the Magical Ottoman Empire is still alive and well, unaffected by WWI. So what happens with Muggle borders crossing over? Are there multiple governments for magical Wales, Ireland and Scotland, or are they all united under the British Ministry of Magic? Have the Wizards even occupied the same spots? Obviously a token presence in areas which will need to deal with Muggleborns, like an embassy or outpost, but what is there is no government of South America, the Spanish Magical government simply has embassies and outposts to teleport Muggleborns over to Spain. Excepting possibly, Magical indigenous populations which could be around, remnants from the Aztec/Inca/Maya.
+
+These, and any other issues you would like to weigh in on, such as tension between magical states, etc, I look forward to reading and discussing.
+
+
+** RE: Muggles, I think you're overestimating the relationship. It seems to be the Prime Minister alone who knows, though you can perhaps speculatively extend that to the Queen as well. The Statute of Secrecy is still a thing - I highly doubt there's any cooperation of note between the two governments.
+
+I think you're also overestimating the reciprocity of the relationship. From what we can see, the magical government dictates terms to the Muggle one - Scrimgeour inserted Kingsley into the Prime Minister's office without permission or anyone noticing. Similarly, Fudge rearranged the Prime Minister's scheduled telephone call with a foreign president (likely the US president, given that "president" without national qualification generally means US). It would appear that the magical government knows what is going on at the highest levels of Muggle government and is able to interfere at will, but that the Muggle government is virtually clueless about the magical world.
+
+RE: relationships between magical governments of different nations. I think in the magical world the nation-state is significantly less important than in the Muggle world. The reason for this is the International Statute of Secrecy. Most wizards seem to have loyalty to their kind first, and nation second. They view themselves as part of an international community that spreads across national borders.
+
+We see this exhibited in a variety of ways.
+
+The most significant is that magical governments are literally forbidden by the ICW from going to war with each other. See the following:
+
+#+begin_quote
+  Evangeline Orpington
+
+  1849 - 1855
+
+  A good friend of Queen Victoria's, who never realised she was a witch, let alone Minister for Magic. Orpington is believed to have intervened magically (and illegally) in the Crimean War.
+#+end_quote
+
+Illegal to interfere in wars.
+
+#+begin_quote
+  Archer Evermonde
+
+  1912 - 1923
+
+  In post during the Muggle First World War, Evermonde passed emergency legislation forbidding witches and wizards to get involved, lest they risk mass infractions of the International Statute of Secrecy. Thousands defied him, aiding Muggles where they could.
+#+end_quote
+
+Wizards getting involved in the first world war would have been against the statute of secrecy (though it was not fully effective).
+
+See also the following:
+
+#+begin_quote
+  It was in Washington that President Elizabeth McGilliguddy presided over the infamous ‘Country or Kind?' debate of 1777. Thousands of witches and wizards from all over America descended upon MACUSA to attend this extraordinary meeting, for which the Great Meeting Chamber had to be magically enlarged. The issue for discussion was: did the magical community owe their highest allegiance to the country in which they had made their homes, or to the global underground wizarding community? Were they morally obliged to join American No-Majs in their fight for liberation from the British Muggles? Or was this, simply put, not their fight?
+
+  The arguments for and against intervention were protracted and the fight became vicious. Pro-interventionists argued that they might be able to save lives; anti-interventionists that wizards risked their own security by revealing themselves in battle. Messengers were sent to the Ministry of Magic in London to ask whether they intended to fight. A four-word message returned: ‘Sitting this one out.' McGilliguddy's famous response was even shorter: ‘Mind you do.' While officially the American witches and wizards did not engage in battle, unofficially there were many instances of intervention to protect No-Maj neighbours and the wizarding community celebrated Independence Day along with the rest of American society -- although not necessarily alongside them.
+#+end_quote
+
+The running theme seems to be this: secrecy trumps nation, interference in wars between Muggle states is contrary to the Statute of Secrecy, but breaches occur. Nonetheless, these breaches do not affect the official stances of the magical governments, and they remain duty bound to prosecute those who are caught breaking the Statute.
+
+It's also worth noting that the ICW seems to have the power to either remove heads of magical government or at the very least lean very heavily on nations to have a head of government removed:
+
+#+begin_quote
+  Damocles Rowle
+
+  1718 - 1726
+
+  Rowle was elected on a platform of being 'tough on Muggles'. Censured by the International Confederation of Wizards, he was eventually forced to step down.
+#+end_quote
+
+With all of this in mind, the vision of the ICW as a magical UN (as commonly portrayed in fanon) seems misplaced. It has far more authority than the UN. The international wizarding world is less like a splintered group of magical nations, and much more like a global conspiracy (think Illuminati) with regional chapters.
+
+This vision of magical government is further enhanced when you contemplate the realities of the size of small wizarding populations. Sophisticated government is unnecessary. There's no need for powerful constitutional checks and balances or separation of powers when everyone knows everyone else. Civil servants like Arthur write legislation, pass it, and then enforce it. The relative informality of the use of political power in the wizarding world makes sense in light of the fact that the population of magical Britain is like that of a small town.
+
+In such a world, a much greater emphasis ends up on significant individuals. It's internationally respected and feared powerful wizards like Dumbledore, Voldemort and Grindelwald who are the juggernaughts of the magical world, not the nation-state. This also works well with the view of the ICW we got in Fantastic Beasts: again, a relatively informal gathering of what appeared to be influential /individuals/ who decided matters on common consensus rather than any strict voting procedure or constitutional process. There were nowhere near enough people there to represent every country in the world.
+
+It is significant that the Wizengamot is named as it is. It mirrors the Anglo-Saxon witenagemot, which was an informal gathering of influential people (landowners and clergy) called on an ad hoc basis. It had no set membership, no rules or procedure, no regularly scheduled meetings. It seems like decision making in the magical world follows a similar pattern.
+
+As a final note, it might be worth speculating as to the number of highly influential Dumbledore-like individuals in the magical world at any given time. It strikes me that a good comparison (in order to create the right dynamic) might be that of billionaires in the Muggle world. What happens if we make the ratio of Dumbledore-esque wizards to population the same as that of billionaires to population?
+
+Assumptions:
+
+Wizarding Britain population: 10,000
+
+Assuming Britain has a proportionate share of global wizards, that will mean 107 global wizards for every British wizard, and therefore a global magical population of around 1,000,000.
+
+Now, there's around 1800 billionaires in the world (pop 7 billion). But the dynamic we're wanting is not the number of billionaires relative to global population, but more the dynamic of billionaires relative to population within a developed western nation.
+
+There are 120 billionaires in Britain (pop 65,000,000). That's a ratio of 1.8 x 10^{-6.} If we use that ratio as the ratio of Dumbledore-esque wizards to wizarding population, then at any one time there's around 1.8 Dumbledore-esque wizards in the world. Let's round that up to 2. If that's true, then Dumbledore and Voldemort both being British kinda means that in the latter 20th century, Britain had both of the world's top-level wizards. It certainly explains why there was not much of an international response to Voldemort.
+:PROPERTIES:
+:Author: Taure
+:Score: 7
+:DateUnix: 1491739352.0
+:DateShort: 2017-Apr-09
+:END:
+
+
+** I think there's a lot of room for reasonable interpretation here. A wise reader not form too close an attachment to any particular headcanon (unless they want to be irked by every fic that discusses non-wizards).
+
+Conversely, a wise author should not bash their personal headcanon over the reader's head. (Looking at you, /Prince of Slytherin/.)
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1491643016.0
+:DateShort: 2017-Apr-08
+:END:
+
+*** u/fflai:
+#+begin_quote
+  Conversely, a wise author should not bash their personal headcanon over the reader's head
+#+end_quote
+
+Meh, PoS is AU in my opinion, so I can deal with it.
+:PROPERTIES:
+:Author: fflai
+:Score: 1
+:DateUnix: 1491691637.0
+:DateShort: 2017-Apr-09
+:END:
+
+
+** These are all really great questions!
+
+Dementors: According to [[https://www.pottermore.com/writing-by-jk-rowling/azkaban][Pottermore]] it does appear that the use of Azkaban as a prison was an attempt to 'kill two birds with one stone' forced by a corrupt minister. Attempts at reform were made, but their was no headway until Kingsley. Since Kingsley managed to remove Dementors as guards of Azkaban I imagine that wizards don't need to placate the Dementors, perhaps instead they set up a permanent specialist force to protect the Wizarding World.
+
+Centaurs: I don't think the Ministery has much say in Centaur affairs. The only thing they do is as you say, restrict their territory, I imagine they enforce the Statue of Secrecy and not much else. Although I believe they are considered a part of 'Wizarding Britain' such that they are included in the fountain.
+
+Goblins: In terms of passing down items, it might depend upon the Goblin. Would they all have similar views to Griphook? Griphook might be more passionate about Goblin culture. They seem to work alongside Wizards on a regular basis, which suggests they are probably the most integrated sentient being. The main issues that I could see arising involve the justice system and significant cultural differences. Goblins might have their own form of justice (or retribution) if a wizard were to kill a Goblin, would the Goblins expect to exact their own form of justice? What about a Goblin killing another Goblin? I think those issues are what the Goblin Liasion Office is intended for. I think that Goblins are a constant issue for the Ministry, more so than anything else. Goblins might be given the freedom to enact their own form of justice (do we here of Goblins-or actually any other creature in Azkaban?), but are expected to abide by the Statue of Secrecy and keep open negotiations between the Ministry.
+
+Muggles: I think it all depends on each individual government. Some governments might be more involved with their Muggle counterparts, others might not negotiate at all.
+:PROPERTIES:
+:Author: elizabnthe
+:Score: 2
+:DateUnix: 1491644381.0
+:DateShort: 2017-Apr-08
+:END:
+
+
+** On one hand, it's high-level diplomacy with other magical HUMANS. Everything else would be handled by Regulation and Control of Magical Creatures.
+
+On the other hand, Percy, as a new hire, was writing reports on cauldron bottom thickness which is, well, not exactly world-shaping diplomacy.
+:PROPERTIES:
+:Author: jeffala
+:Score: 1
+:DateUnix: 1491700672.0
+:DateShort: 2017-Apr-09
+:END:
+
+
+** Oh joy, a kindred spirit. I'm in the middle of a story that sort of wrote itself (+even though I have other stories to work on dammit+) where I focus on the relationship between the /Goblins/ and the various other races/people. This includes the French Goblins, Banshees, Leprechauns, Giants, and, of course, all sorts of wizards (aside from foreign dignitaries, Umbride, Malfoy and Dumbledore all show up).
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 1
+:DateUnix: 1493930661.0
+:DateShort: 2017-May-05
+:END:

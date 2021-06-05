@@ -1,0 +1,121 @@
+#+TITLE: What 'powers' magic?
+
+* What 'powers' magic?
+:PROPERTIES:
+:Author: QuintBrit
+:Score: 0
+:DateUnix: 1579887975.0
+:DateShort: 2020-Jan-24
+:FlairText: Discussion
+:END:
+My theory is that as Vanished objects go
+
+#+begin_quote
+  Into non-being, which is to say, everything.
+#+end_quote
+
+The objects undergo fission, and the resulting energy is what makes up the magical energy field. Since so much energy is released from fission, it wouldn't require much mass to be vanished.
+
+
+** IIRC, Vanished things can come back, and that is how Vanishing Cabinets work; you make an object "not" exist (which you could translate to quantum mechanics as having an absolutely uncertain position), and then reconstitute it elsewhere (by defining its position again, except giving it a different position).
+
+And if you're using matter-to-energy to power magic, then the energy-to-matter conversion of conjuration/transfiguration suddenly becomes exponentially more expensive. Either magic would eventually "run dry," even if just in a local area until more magic can flow in, or it can fuel itself by eroding the world around the caster (which would cause a hell of a lot of issues as random molecules break and atoms split). Ten pounds of matter conjured means ten pounds of matter vanished.
+
+In order for magic to work as we see it, one of the following needs to be true:
+
+1. Magic is infinite.
+2. Some natural, energetic process powers magic (perhaps nuclear fusion on a stellar scale).
+3. There is a finite but absolutely massive supply of magic in the universe.
+
+Anything on a more human scale would probably be catastrophic - poisonous/radioactive at best, and antimatter bombs at worst.
+
+Look at [[http://www.scp-wiki.net/scp-2966][SCP-2966]] for an example of what uncontrolled mass-to-energy conversions can do.
+:PROPERTIES:
+:Author: wille179
+:Score: 4
+:DateUnix: 1579889653.0
+:DateShort: 2020-Jan-24
+:END:
+
+*** u/Chendii:
+#+begin_quote
+  Magic is infinite.
+#+end_quote
+
+In the same way gravity is infinite. It just is. So long as the thing exists, it has gravity. So long as magic beings exist, they have magic.
+:PROPERTIES:
+:Author: Chendii
+:Score: 3
+:DateUnix: 1579916719.0
+:DateShort: 2020-Jan-25
+:END:
+
+**** Yes, but no.
+
+All mass has a gravitational field proportional to the amount of mass in a given volume. It's a fact of the universe. However, objects only have gravitational potential energy proportional to the distance between themselves and another object and the mass of both objects. Ultimately, this value is finite for any finite distance.
+
+In other words, having gravity and doing things with gravity are fundamentally different things. Likewise, having the property of "magic" and doing things with magic are different things. One is a statement that you can interact with magic/gravity, the other is a measure of how much you can do with that interaction.
+
+The TL;DR is this: By that analogy, if I'm a magical (gravitational) creature, I can cast spells (fall), but when I use up the available energy (hit the ground), I'm not going to be able to keep casting (falling).
+
+Magic, being magic, probably doesn't work that way.
+:PROPERTIES:
+:Author: wille179
+:Score: 1
+:DateUnix: 1579920021.0
+:DateShort: 2020-Jan-25
+:END:
+
+***** What about when the object never stops falling? The Earth from our perspective is continuously falling towards the sun, or slowly drifting away from it as the universe expands.
+
+Wizards are extremely local gods. So long as they exist in a space, a sufficiently trained wizard can essentially control the world around them. When they die, their potential energy is gone.
+
+When the Earth leaves the Sun's gravity well it will no longer be affected by it. (obviously the sun will supernova before this, but for arguments sake.)
+:PROPERTIES:
+:Author: Chendii
+:Score: 1
+:DateUnix: 1579921114.0
+:DateShort: 2020-Jan-25
+:END:
+
+****** u/wille179:
+#+begin_quote
+  What about when the object never stops falling? The Earth from our perspective is continuously falling towards the sun,
+#+end_quote
+
+The thing with orbits is that, from the perspective of an object doing the orbiting, its path through gravitationally curved space is exactly equivalent to moving at a constant speed through flat space. If it periodically returns to its starting location (as all stable orbits do), then the sum of its kinetic and gravitational potential energy is always constant. That is, it may get closer and speed up (GPE -> KE) or may get further away and slow down (KE -> GPE), but there's still only a finite amount of energy.
+
+#+begin_quote
+  or slowly drifting away from it as the universe expands.
+#+end_quote
+
+Also, on the scale of our solar system, the solar winds exert more force on the Earth than the expansion of space itself.
+
+#+begin_quote
+  When they die, their potential energy is gone.
+#+end_quote
+
+That's not how real energy works, which is kind of my point: the gravity metaphor doesn't really hold up to what we see happen in the books.
+
+#+begin_quote
+  When the Earth leaves the Sun's gravity well it will no longer be affected by it. (obviously the sun will supernova before this, but for arguments sake.)
+#+end_quote
+
+It'd take something like a rogue star system or a nearby black hole to yeet the Earth out of the Sun's gravity well, just FYI. Also, gravity is infinite in range, so while an objects GPE is ultimately finite, that influence works over infinite range... just really, really weakly.
+:PROPERTIES:
+:Author: wille179
+:Score: 1
+:DateUnix: 1579970946.0
+:DateShort: 2020-Jan-25
+:END:
+
+
+** Wizards and witches can produce magic from food and anything with any ”foodiness” gosh i cant get the right word
+
+That's my theory if you understand what ”foodiness” means
+:PROPERTIES:
+:Author: Erkkifloof
+:Score: 1
+:DateUnix: 1579952168.0
+:DateShort: 2020-Jan-25
+:END:

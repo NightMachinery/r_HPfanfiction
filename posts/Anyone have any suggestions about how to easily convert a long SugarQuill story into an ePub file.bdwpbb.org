@@ -1,0 +1,18 @@
+#+TITLE: Anyone have any suggestions about how to easily convert a long SugarQuill story into an ePub file?
+
+* Anyone have any suggestions about how to easily convert a long SugarQuill story into an ePub file?
+:PROPERTIES:
+:Author: FitzDizzyspells
+:Score: 2
+:DateUnix: 1555435863.0
+:DateShort: 2019-Apr-16
+:FlairText: Misc
+:END:
+
+** I use [[https://calibre-ebook.com/download_windows64][calibre]] and haven't had problems with 600k-word files. Only takes a few seconds.
+:PROPERTIES:
+:Author: jmartkdr
+:Score: 3
+:DateUnix: 1555438125.0
+:DateShort: 2019-Apr-16
+:END:

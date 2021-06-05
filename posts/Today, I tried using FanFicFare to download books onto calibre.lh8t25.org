@@ -1,0 +1,27 @@
+#+TITLE: Today, I tried using FanFicFare to download books onto calibre
+
+* Today, I tried using FanFicFare to download books onto calibre
+:PROPERTIES:
+:Author: Snoo14122
+:Score: 1
+:DateUnix: 1613004705.0
+:DateShort: 2021-Feb-11
+:FlairText: Discussion
+:END:
+It did not work, something to do with that annoying cloudfare thing. Yes i checked it is on the latest update.
+
+
+** The problems are back. Basically [[https://ff.net][f]]anfiction.net is trying to preserve its revenue by preventing downloading. Don't keep [[https://ff.net][ff.net]] stuff in the same library. Ghettoize it.
+
+Solutions:
+
+1. Wait for cloudscraper and/or fanficfare to catch up. This also applies to ficsave.xyy because they are usually like very old fanficfare. It also usually applies to ff2ebook.
+2. ([[https://FF.net][FF.net]] friendly) Follow every not-completed, not abandoned fiction you can only get on [[https://fanfiction.net][fanfiction.net]]. Replace the others (usually with AO3). When they are updated, which you can see by checking your follow page or email, either read them on [[https://ff.net][ff.net]] (if it's annoying, use some sort of Reader View), or use the most robust downloader so far - see next item.
+3. If it's a small number or you are following them, use the fanfictiondownloader app. It tends to be much more robust with [[https://fanfiction.net][fanfiction.net]] than anything else, WARNING: MacOS version does NOT succeed in making epub. Download as HTML, add to calibre, convert to epub, delete zip/html vers ion.
+4. If you are in a real hurry, use dotepub and just keep merging new chapter epubs with the older ones. you will have many watermark pages, though.
+:PROPERTIES:
+:Author: MarionADelgado
+:Score: 2
+:DateUnix: 1620242770.0
+:DateShort: 2021-May-05
+:END:

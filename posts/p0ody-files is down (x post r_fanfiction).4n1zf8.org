@@ -1,0 +1,43 @@
+#+TITLE: p0ody-files is down? (x post r/fanfiction)
+
+* [[https://www.reddit.com/r/FanFiction/comments/4n1w2f/p0odyfiles_is_down/][p0ody-files is down? (x post r/fanfiction)]]
+:PROPERTIES:
+:Author: Shastaw2006
+:Score: 7
+:DateUnix: 1465341591.0
+:DateShort: 2016-Jun-08
+:FlairText: Misc
+:END:
+
+** This should work now: [[http://ff2ebook.com/old/]]
+
+p0ody accidentally let his host expire, so he moved the downloader.
+:PROPERTIES:
+:Author: theimmortalhp
+:Score: 5
+:DateUnix: 1465343205.0
+:DateShort: 2016-Jun-08
+:END:
+
+*** Thanks!!
+:PROPERTIES:
+:Author: Shastaw2006
+:Score: 1
+:DateUnix: 1465343472.0
+:DateShort: 2016-Jun-08
+:END:
+
+
+** Don't worry, I changed the FFNBot code, so the FFNBot should give correct download links soon.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1465347220.0
+:DateShort: 2016-Jun-08
+:END:
+
+*** Just FYI, FFBot is currently running from the 1.3 branch, not from master. I've already had [[https://github.com/tusing/reddit-ffn-bot/pull/93][my pull request]] merged for that, so the download links should have been working for the last few days.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1465364939.0
+:DateShort: 2016-Jun-08
+:END:

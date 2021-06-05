@@ -1,0 +1,86 @@
+#+TITLE: Saving fanfics as ebooks to put on Kindle. Specifically, fictionhunt.com
+
+* Saving fanfics as ebooks to put on Kindle. Specifically, fictionhunt.com
+:PROPERTIES:
+:Author: somebody325
+:Score: 12
+:DateUnix: 1480991797.0
+:DateShort: 2016-Dec-06
+:END:
+So I want to download some fanfic for my Kindle. I have successfully used FanFicFare on Calibre to download fics in the past but it doesn't seem to want to work with fictionhunt, even though the site is on the list of supported sites. Does anybody know of a way to download from fictionhunt.com?
+
+
+** Well, the extensions/apps at [[http://www.grabmybooks.com/]] work anywhere, so it's a good last resort if you can't find anything easier. I've even used it on password-protected sites.
+
+Have you tried the web-based version of Fanficfare? [[http://fanficfare.appspot.com/]]
+:PROPERTIES:
+:Author: t1mepiece
+:Score: 3
+:DateUnix: 1480993978.0
+:DateShort: 2016-Dec-06
+:END:
+
+*** The web based version worked, Thanks :)
+
+Didn't know about that other one, but will definitely bookmark it, So thanks for that one too .
+:PROPERTIES:
+:Author: somebody325
+:Score: 2
+:DateUnix: 1480999102.0
+:DateShort: 2016-Dec-06
+:END:
+
+**** Glad it worked. And yeah, the first one is great for places like Livejournal or individual blogs/sites. If you can get it displayed on your screen, that can save it. And I've never seen anyone else mention it download threads, so I try to make it known.
+:PROPERTIES:
+:Author: t1mepiece
+:Score: 2
+:DateUnix: 1481028146.0
+:DateShort: 2016-Dec-06
+:END:
+
+
+** Maybe for future reference?
+
+I use a site called [[http://ficsave.xyz/][FicSave]], but I don't know if it works for all sites. When Calibre doesn't work, and I want to grab something off of ff.net or other places it works about 90% of the time.
+:PROPERTIES:
+:Author: th3irin
+:Score: 2
+:DateUnix: 1481005087.0
+:DateShort: 2016-Dec-06
+:END:
+
+*** Thanks. Will save it. Always good to have backup options.
+:PROPERTIES:
+:Author: somebody325
+:Score: 1
+:DateUnix: 1481008574.0
+:DateShort: 2016-Dec-06
+:END:
+
+
+** I use [[http://ficsave.xyz/]] I've just started using it, so i can't guarantee it's not a virus. But so far, it's fine.
+:PROPERTIES:
+:Author: sharkheadgirl
+:Score: 1
+:DateUnix: 1481033590.0
+:DateShort: 2016-Dec-06
+:END:
+
+*** I read only on my kindle these days and I've been using ficsave for months with no issues. Unless my e-reader is secretly incubating ebola.
+:PROPERTIES:
+:Author: T0lias
+:Score: 1
+:DateUnix: 1481044200.0
+:DateShort: 2016-Dec-06
+:END:
+
+
+** If you can find a tool, there's always the option of copying the fic as a text file and uploading it that way.
+
+How annoying that is depends on the UI of fictionhunt (which I haven't seen)
+:PROPERTIES:
+:Author: jmartkdr
+:Score: 1
+:DateUnix: 1481037254.0
+:DateShort: 2016-Dec-06
+:END:

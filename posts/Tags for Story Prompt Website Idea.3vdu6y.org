@@ -1,0 +1,226 @@
+#+TITLE: Tags for Story Prompt Website Idea
+
+* Tags for Story Prompt Website Idea
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 6
+:DateUnix: 1449208844.0
+:DateShort: 2015-Dec-04
+:FlairText: Discussion
+:END:
+Hey everyone! So, as promised, I'm working on the website idea that I introduced [[https://www.reddit.com/r/HPfanfiction/comments/3u5wcv/story_idea_hot_pot/][here]] and one thing lots of people mentioned was having fairly detailed tags. So, I wanted to get your input: what tags do you want to see? I'll list the ones I've come up with in a comment below, so it doesn't clutter up the post here, but I'd love to hear your feedback on that as well. Keep in mind that while we want the tags to describe a story prompt, they shouldn't be too descriptive. The goal is to spark an idea based on a particular person, place, or thing, not to write the story for them. So [[/r/hpfanfiction][r/hpfanfiction]], tell me what you want to see!
+
+
+** I think AO3 has it right: tags can be custom, and then someone else can come by and define that tag as being equivalent to another tag (ex: [[http://archiveofourown.org/tags/Romance][Romance]])
+
+I think having a spoiler section of tags would be good too, something that can be searched for. Stuff like "Character dies" or "X is killed by Y" or "X turns out to be Y", basically when you search, and are searching for something based on a spoiler, it searches the spoiler section and shows you the results that might fit.
+
+maybe don't show the whole spoiler section though, in case it spoils stories you haven't actually read yet
+
+Actually while I'm thinking about it, it should have chapter summaries as well that can be searched. Either have the author a moderated reader submissions add them.
+
+edit: You've considered most of the worn cliches but one of the big ones is the Mary Sue Shopping Montage. Also maybe add one for stories that are responses to, or are inspired by, particular prompts. Granted, it won't be useful for at least three quarters of stories, but it might help some people.
+
+Maybe add a tag to distinguish between full length stories and drabble files and one shots.
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1449208989.0
+:DateShort: 2015-Dec-04
+:END:
+
+*** But then how do you avoid a situation like you see so often (at least in my experience) on AO3, where it gets to be too many ridiculous tags, to the point where you might as well just read the story in time it takes you to read the tags. Plus, the goal is to just provide a story idea the person can run with for inspiration - after a certain point, each descriptor is just going to be a limitation.
+
+I do have some tags that are kinda like spoilers, like "Manipulative Dumbledore" and "Good Malfoys." But why would I need to include a whole spoiler section of tags? I don't think there's that many. Why would I have it hidden?
+
+Each story idea does have a 300 word description - the search can be for a word in the description and/or a tag. That way it covers more things that wouldn't necessarily be a tag, like wand or Horcrux.
+
+Actually, I think there's some confusion - this isn't a website for people to host their stories. It's a site where people can list story ideas. Does that change your idea for a spoiler section?
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 2
+:DateUnix: 1449210491.0
+:DateShort: 2015-Dec-04
+:END:
+
+
+** Here are the ideas I've come up with so far:\\
+* story length, based on feel rather than a hard word count, so like one-shot, epic, short story, etc.\\
+* world based on the world filter for fanfiction.net\\
+* a pairing or trio tag - 2 groups max\\
+* a character tag - 5 max (any character in a pairing or trio tag can't be listed here)\\
+* crossover - creates additional tag to list other fandom\\
+*alternate universe * canon compliant *EWE\\
+*smut\\
+*muggle-wizard relations\\
+*political\\
+*duelling\\
+*Quidditch\\
+*magical/muggle creatures\\
+*Dark Harry\\
+*Dark Ron\\
+*Dark Hermione\\
+*non-magical alternate universe\\
+*time travel\\
+*harem\\
+*original character\\
+*Golden trio\\
+*self-insert\\
+*FemHarry\\
+*one for each book title\\
+*location based tags like London, France, Central/Eastern Europe, South America\\
+*Ministry of Magic\\
+*Manipulative Dumbledore\\
+*Wily Weaselys\\
+*bashing\\
+*international relations\\
+*military\\
+*magical inheritance\\
+*helpful/friendly goblins\\
+*mentor Snape\\
+*sorting\\
+*animagus\\
+*magical theory\\
+*various school subjects like transfiguration, divination\\
+*education\\
+*spell crafting\\
+*curse breaking\\
+*religion\\
+*Good Tom Riddle/Voldemort\\
+*Good Malfoys\\
+*Death Eaters\\
+*unrequited love\\
+*prisoner\\
+*PTSD\\
+*Gryffindor Draco\\
+*Slytherin Harry\\
+*Slytherin Ron\\
+*Slytherin Hermione\\
+*Hogwarts houses
+
+Edit: eh, it's close enough to bullet points anyway.
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 3
+:DateUnix: 1449209296.0
+:DateShort: 2015-Dec-04
+:END:
+
+*** =*[space]Dot[enter][enter]*[space]Dot=
+
+- Dot
+
+- Dot
+
+=1.[space]One[enter][enter]3.[space]Not Three=
+
+1. One
+
+2. Not Three
+
+=1\.[space]One[enter][enter]3\.[space]Actual Three=
+
+1. One
+
+3. Actual Three
+
+The last part there is useful if you want to maintain numbering with non-indented parts in the middle:
+
+#+begin_quote
+
+  1. This should be number one\\
+
+  Then there's a paragraph here
+
+  1. This should be 2 but it's not
+
+  RIP
+#+end_quote
+
+Instead you get
+
+#+begin_quote
+  1. This should be number one
+
+  Then there's a paragraph here
+
+  2. This should be 2 AND IT IS
+
+  YAY
+#+end_quote
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1449211123.0
+:DateShort: 2015-Dec-04
+:END:
+
+
+*** Rituals? Magical professions such as Auror and Healer? There are also power levels such as (from least to most) Squib, Hedgewitch, Wizard, Mage, Sorcerer, with Sorcerer being a walking natural disaster. There are varying definitions, of course, but that's my system. There's also Human!Hedwig, which is my guilty pleasure. There also seems to be a lot of Ronbledore mentions recently.
+
+Can't forget Master of Death, in its many interpretations. Also the varying types of magic, and I'm not just talking school classes, but Black magic like Necromancy and Hoodoo. White magic could be Holy magic, but I'm fairly sure there's more to it than that. Druidism as well.
+
+Mythical/Magical creatures. Mythical/Magical plants.
+
+That's all I got for now.
+:PROPERTIES:
+:Author: Averant
+:Score: 2
+:DateUnix: 1449241053.0
+:DateShort: 2015-Dec-04
+:END:
+
+**** Ok, so I added rituals, auror, and healer. I can add the power levels, but I'd need an idea of what exactly differentiates a mage from a sorceror, and what exactly a hedgewitch is - can you point me to a resource?
+
+Human! Hedwig, and Ronbledore are also added. So is Master of death, and the broad categories of Dark magic and Light magic. Druidism will fall under religion, and mythical/magical creatures under muggle/magical creatures. I'll also create a tag for muggle/magical plants. Thanks!
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 1
+:DateUnix: 1449264010.0
+:DateShort: 2015-Dec-05
+:END:
+
+***** Glad to help. I don't really have a resource for the power levels, though I can always go scouring the internet if I need to. Mostly it's just my personal theory and what I've gathered from reading other stories.
+
+- Squib - Debatable as to whether it is a wizard that simply can't express his magic externally, or is simply a muggle from a wizard family. General consensus seems to point to the former, but Mrs Figg couldn't actually see the dementors at Privet Drive, so that's best left up to the individual.
+
+- Hedgewitch - A wizard with weak magic, borderline nonexistent. They could do a spell, brew a potion, maybe even fly a broom, but not much else. Best example of this would be Lockhart, with the Obliviate spell being literally the only thing he could do properly. One could argue that he had power, enough to vanish Harry's bones, but that could simply be the result of a miscast spell, with power not being a factor. Also up to the individual.
+
+- Wizard - The standard power level of those that attend Hogwarts. Able to cast a diverse range of spells, if not always powerful ones. Can specialize and become more powerful and proficient with study and practice.
+
+- Mage - An extremely powerful wizard, stronger than the average wizard by at least a factor of 3. Dumbledore and Voldemort are in this class, evidenced by Dumbledore's mass conjuration in book 3, and Voldemort's broomless flight in book 6(or was it 7?). Canon Harry could also be in this class, provided he grows older and gets his head out of his ass long enough to learn some new spells. After all, not just any wizard could drive away that many dementors. Also note that this class is possibly where the term "war mage" came from, as such a position required wizards able to cast widespread, destructive spells.
+
+- Sorcerer - As I mentioned before, this is a wizard capable of being a walking natural disaster. They can summon tornadoes, induce earthquakes, even erupt volcanoes should one be in the region. Sometimes known as a warlock (see Jamie Evans and Fate's Fool), though whether Dumbledore's title of Chief Warlock is just a title remains to be seen, but is likely the case. Their magic is immense, and their access to it is unparalleled. Wandless magic is simple to them, and using a wand runs the risk of frying the core due to the sheer power running through it. Staffs and staves are less precise, but sturdier. Merlin was likely a sorcerer, as was the mythical figure Circe.
+
+Remember, this is all personal theory combined with my observations of canon and other fics. Feel free to change any of it to suite your liking.
+
+Also, you said you added broad categories of Dark and Light magic. This is good, but I don't believe they are the same thing as Black and White magic. Dark and Light seem to focus more on the emotional aspect of things (Patronus, Unforgivables) while White magic is things like purification rituals and Black magic is things like Necromancy and Horcruxes, which are literal /atrocities/ of nature. It amused me greatly when I realized that the Big Bad dark lord only had one act of Black magic to his name, though he did commit it multiple times. And before you say anything, I don't think Inferi (another prompt?) are proper necromancy. They seem more like somebody tagged a corpse with animation spells and a few dark curses.
+:PROPERTIES:
+:Author: Averant
+:Score: 1
+:DateUnix: 1449321631.0
+:DateShort: 2015-Dec-05
+:END:
+
+
+*** the only other things I can think of are ravenclaw/hufflepuff harry and listing harry as smart/powerful
+:PROPERTIES:
+:Author: delinquent_turnip
+:Score: 1
+:DateUnix: 1449251088.0
+:DateShort: 2015-Dec-04
+:END:
+
+**** Will add. Although personally, I always felt a bit weird about "smartHarry." While he's not Hermione, I always got the impression that Harry was slightly above average, not exactly dumb or anything.
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 1
+:DateUnix: 1449259580.0
+:DateShort: 2015-Dec-04
+:END:
+
+***** I agree, I guess its a responce to the fact that cannonharry only succeeds through dumb fucking luck.
+:PROPERTIES:
+:Author: delinquent_turnip
+:Score: 1
+:DateUnix: 1449285346.0
+:DateShort: 2015-Dec-05
+:END:

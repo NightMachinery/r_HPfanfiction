@@ -1,0 +1,72 @@
+#+TITLE: What is this communities stand on archives of sites that went offline?
+
+* What is this communities stand on archives of sites that went offline?
+:PROPERTIES:
+:Author: Wombarly
+:Score: 34
+:DateUnix: 1619886121.0
+:DateShort: 2021-May-01
+:FlairText: Discussion
+:END:
+A year ago or so FictionAlley.org went offline and with it the thirty thousand stories they hosted.
+
+It was [[https://www.transformativeworks.org/fictionalley-is-moving-to-the-ao3/][announced]] that they were moving to AO3 back in 2018 but only [[https://archiveofourown.org/collections/fictionalley][74 stories]] have since been moved. I've asked OpenDoors on why this is, but no answer yet. I'll update when I get one.
+
+I've archived the majority of fanfics (some are sadly lost) on the site back in 2018, a few months before the announcement. Last week I wanted to read a fic so I spend a few days building out a website so I can search through the archive I made.
+
+Now my question is, should I make it public similar to portkey-archive.org? I will of course allow authors to remove their stories if they want. I can also just remove the chapters and act as a search index that links to the same stories on sites like AO3 or FFN.
+
+Edit: Got an answer from OpenDoors, they aren't done with (or haven't gotten around to) writing the code to import the custom database FictionAlley used into AO3. Offered my help, we shall see. I prefer having it all on AO3 to hosting it myself.
+
+
+** Please do, I wasn't reading fanfiction at that time, so all those stories would be new to me. :)
+:PROPERTIES:
+:Author: DIYwithMassamo
+:Score: 17
+:DateUnix: 1619893242.0
+:DateShort: 2021-May-01
+:END:
+
+
+** I can't see any reason why not (fwiw, I speak from the perspective of someone who in 2006 took over as archivist, and who still - very passively - maintains, a fandom-specific archive that hasn't migrated to AO3). I imagine you, unlike the original owners, have no easy way to reach all the authors with archived stories, but you can post a clear notice on your site as to how authors can contact you if they want their stories taken down. When archives are migrated onto AO3, my impression has been that all stories are included, even stories by authors who haven't been able to be contacted, and for such stories there's a notice posted at the top; this doesn't strike me as that different.
+
+I'm surprised OpenDoors hasn't responded, and I'm shocked that they didn't do a better job getting FictionAlley onto AO3, though maybe it wasn't their fault, in which case I'd think they'd be thrilled to hear from you....
+:PROPERTIES:
+:Author: dozyhorse
+:Score: 12
+:DateUnix: 1619897529.0
+:DateShort: 2021-May-02
+:END:
+
+*** Thanks for your insight, I have come to the same conclusion with AO3 migrations.
+
+As for OpenDoors, I've only asked a few days ago. I didn't really expect them to respond so soon, mostly mentioned it so that others won't contact them asking why as well.
+
+Maybe you're correct and they don't have access to the database files. Although unsure if they are able to use external sources (like mine) for this. Since they do want to contact all authors about it.
+:PROPERTIES:
+:Author: Wombarly
+:Score: 8
+:DateUnix: 1619897959.0
+:DateShort: 2021-May-02
+:END:
+
+**** As an author whose work was moved from HPFandom to AO3 through OpenDoors, I can tell you that, while they attempt to contact the authors, if they can't contact them they migrate the work anyway.
+
+I lost access to the email I'd used for HPFandom, so I never got any of their notices. And since I hadn't written anything for quite a while, HPFandom had been gone for a few years before I noticed. :-/
+:PROPERTIES:
+:Author: JennaSayquah
+:Score: 1
+:DateUnix: 1619989512.0
+:DateShort: 2021-May-03
+:END:
+
+
+** Sites going offline is the raison d'etre for the Wayback Machine at [[http://web.archive.org/]]. I don't see any problem with another site picking up content from dead sites - as long as credit is given and no money is taken. Except maybe a donation here and there for costs.
+
+When an author has explicitly taken down her or his stories, then hosting them somewhere else should be forbidden, and posting them here should be grounds for a block.
+:PROPERTIES:
+:Author: rpeh
+:Score: 7
+:DateUnix: 1619908287.0
+:DateShort: 2021-May-02
+:END:

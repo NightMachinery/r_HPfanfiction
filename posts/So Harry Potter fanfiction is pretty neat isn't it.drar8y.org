@@ -1,0 +1,35 @@
+#+TITLE: So Harry Potter fanfiction is pretty neat isn't it?
+
+* So Harry Potter fanfiction is pretty neat isn't it?
+:PROPERTIES:
+:Author: Wassa110
+:Score: 4
+:DateUnix: 1572833028.0
+:DateShort: 2019-Nov-04
+:FlairText: Discussion
+:END:
+I'm just putting this here so that I can better understand the mechanics of posts. There are a few things i've noticed others do that i've never done, and I thought i'd finally get around to figuring all these things. So discuss away, but this is basically a "how do I do all that stuff" post.
+
+Edit: So i've seen posts that have hidden their upvote/downvote thing. How do you do that?
+
+Thanks,\\
+Warryn.
+
+
+** Some lesser known commands for the bot.
+
+ffnbot!directlinks will link every fic that you have a link to in your post, so if you have a link in your post you do not have to do the "linkffn" command.
+
+#+begin_example
+  If you do a trail of ^^^^^^^^^^^^^^^ before a word it disappears, so if you put a command after that in your post it is visible to the bot, but invisible to everyone else. 
+
+  For example if you do ^^^^^^^^^^^^^^^ffnbot!directlinks it will link all fics linked in your post/comment while not affecting the aesthetics of it.
+#+end_example
+
+Use linksub() with a link to a past reddit thread in the parentheses to link every fic linked in the thread. Good for common requests, just do that command with a few past threads on the subject and everyone is happy.
+:PROPERTIES:
+:Author: bonsly24
+:Score: 3
+:DateUnix: 1572834860.0
+:DateShort: 2019-Nov-04
+:END:

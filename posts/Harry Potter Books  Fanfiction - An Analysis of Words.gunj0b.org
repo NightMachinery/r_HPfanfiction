@@ -1,0 +1,140 @@
+#+TITLE: Harry Potter Books & Fanfiction - An Analysis of Words
+
+* Harry Potter Books & Fanfiction - An Analysis of Words
+:PROPERTIES:
+:Author: dJones176
+:Score: 30
+:DateUnix: 1591028383.0
+:DateShort: 2020-Jun-01
+:FlairText: Misc
+:END:
+Hello Everyone,
+
+After my [[https://www.reddit.com/r/HPfanfiction/comments/gtyvl1/frequently_occurring_words_in_top_250_harry/][post yesterday]] received some feedback and suggestions, I decided to do the visualisations again, and make some additional ones as well. I didn't want to spam here so I wrote about it on my blog and posted the link here.
+
+It contains:
+
+- Newer, Better version of yesterday's Word Cloud of Top 250 Harry Potter Fanfictions
+- Comparing the Occurrence of Words in Fanfiction & Original Books
+- Word Clouds from Original Book
+
+I used Python, nltk, wordcloud, matplotlib to generate everything
+
+​
+
+Link to Blog Post:
+
+[[https://blog.haideralipunjabi.com/posts/harry-potter-books-fanfiction-an-analysis-of-words/]]
+
+
+** The first word I saw was “clenched” and NGL, I burst out laughing 😏
+
+Really good visualization! I like that the 2nd attempt excluded commonly used linking words.. made it much more meaningful.. as someone who used to read a lot of fan fiction myself, seeing some of those words triggered memories of fics I had read before.. very cool! Thanks for this!
+:PROPERTIES:
+:Author: tabletaffy
+:Score: 5
+:DateUnix: 1591031322.0
+:DateShort: 2020-Jun-01
+:END:
+
+
+** This is wonderful! Well done again.
+
+The discrepancies between the top words in fanfic and canon is fascinating. Canon has a lot more focus on characters positive to Harry, like Hagrid and McGonagall, or on neutral mundane things, like wand and robes. I think endeavours like this help us learn a lot about how we think of the series and what we do with it.
+
+If you do decide to do this again in future, it might also be interesting to analyse characters separately to the rest of words. That might also help us see what characters get attention, and also what subjects. I found the fact that Remus Lupin, Snape, Sirius and Draco all getting way more interest in fandom than canon text interesting.
+
+It reminds me of my recent reread - I couldn't believe how much Hagrid and Peeves there was in the books, as they almost disappear in fanfics.
+
+Thanks again 😊
+:PROPERTIES:
+:Author: Bumblerina
+:Score: 3
+:DateUnix: 1591036479.0
+:DateShort: 2020-Jun-01
+:END:
+
+
+** Where did Lenin come from?
+:PROPERTIES:
+:Author: Tsorovar
+:Score: 1
+:DateUnix: 1591076717.0
+:DateShort: 2020-Jun-02
+:END:
+
+*** linkffn(9911469)
+
+This story has 2108/2112 occurrences of the word Lenin, I have no idea why
+:PROPERTIES:
+:Author: dJones176
+:Score: 2
+:DateUnix: 1591095154.0
+:DateShort: 2020-Jun-02
+:END:
+
+**** [[https://www.fanfiction.net/s/9911469/1/][*/Lily and the Art of Being Sisyphus/*]] by [[https://www.fanfiction.net/u/1318815/The-Carnivorous-Muffin][/The Carnivorous Muffin/]]
+
+#+begin_quote
+  As the unwitting personification of Death, reality exists to Lily through the veil of a backstage curtain, a transient stage show performed by actors who take their roles only too seriously. But as the Girl-Who-Lived, Lily's role to play is the most important of all, and come hell or high water play it she will, regardless of how awful Wizard Lenin seems to think she is at her job.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{70} ^{*|*} ^{/Words/:} ^{418,116} ^{*|*} ^{/Reviews/:} ^{4,851} ^{*|*} ^{/Favs/:} ^{6,358} ^{*|*} ^{/Follows/:} ^{6,337} ^{*|*} ^{/Updated/:} ^{5/13} ^{*|*} ^{/Published/:} ^{12/8/2013} ^{*|*} ^{/id/:} ^{9911469} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Humor/Fantasy} ^{*|*} ^{/Characters/:} ^{<Harry} ^{P.,} ^{Tom} ^{R.} ^{Jr.>} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9911469&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9911469&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1591095164.0
+:DateShort: 2020-Jun-02
+:END:
+
+
+**** That's interesting. Like the Leolin one below, too, a single very long fic can have a lot of impact on the word cloud, from ideas or characters that are only in that fic. I wonder if it would be better to have an upper limit on the length of the fics
+:PROPERTIES:
+:Author: Tsorovar
+:Score: 1
+:DateUnix: 1591097395.0
+:DateShort: 2020-Jun-02
+:END:
+
+
+** What the fuck does Leolin mean? Why is it so frequently used?
+:PROPERTIES:
+:Author: nousernameslef
+:Score: 1
+:DateUnix: 1591094230.0
+:DateShort: 2020-Jun-02
+:END:
+
+*** linkffn(8022667)
+
+​
+
+This story has all the occurrences (2255 to be exact) of the word Leolin, I have no idea why.
+:PROPERTIES:
+:Author: dJones176
+:Score: 2
+:DateUnix: 1591095222.0
+:DateShort: 2020-Jun-02
+:END:
+
+**** [[https://www.fanfiction.net/s/8022667/1/][*/The Rise of the Drackens/*]] by [[https://www.fanfiction.net/u/988531/StarLight-Massacre][/StarLight Massacre/]]
+
+#+begin_quote
+  Harry comes into a very unexpected inheritance. He is a creature both rare and very dangerous, a creature that is black listed by the British Ministry. So now he must avoid detection at all costs, whilst choosing his life partners and dealing with impending pregnancy at just sixteen. With danger coming not just from the Ministry but even other creatures, what was he supposed to do?
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{129} ^{*|*} ^{/Words/:} ^{1,409,066} ^{*|*} ^{/Reviews/:} ^{15,103} ^{*|*} ^{/Favs/:} ^{7,171} ^{*|*} ^{/Follows/:} ^{6,648} ^{*|*} ^{/Updated/:} ^{3/25} ^{*|*} ^{/Published/:} ^{4/14/2012} ^{*|*} ^{/id/:} ^{8022667} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Romance/Family} ^{*|*} ^{/Characters/:} ^{<Harry} ^{P.,} ^{Draco} ^{M.,} ^{Blaise} ^{Z.,} ^{OC>} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8022667&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8022667&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1591095228.0
+:DateShort: 2020-Jun-02
+:END:

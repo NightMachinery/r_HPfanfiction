@@ -1,0 +1,65 @@
+#+TITLE: Well, another day, another update to the fanfiction bot.
+
+* Well, another day, another update to the fanfiction bot.
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 25
+:DateUnix: 1436584804.0
+:DateShort: 2015-Jul-11
+:FlairText: Misc
+:END:
+We have a couple of new features implemented. Some features are opt in only!
+
+1. Limited Adultfanfiction-Support using linkaff(<Link>) and linkaff(<subdomain>:<id>) you can now get links to adultfanfiction
+
+2. Using ffnbot!directlinks Will cause the bot to also handle all direct links to supported fanfiction sites.
+
+3. Using ffnbot!submissionlink Your submissionlink (for example in promotion) will be causing the bot to fetch the story data of the submission link.
+
+4. ffnbot!ignore you completely opt out of the bot.
+
+Example (will load the same story):
+
+#+begin_quote
+  linkaff([[http://hp.adult-fanfiction.org/story.php?no=600095379]]) linkaff(hp:600095379)
+#+end_quote
+
+Example (direct links)
+
+#+begin_quote
+  ffnbot!directlinks [[http://hp.adult-fanfiction.org/story.php?no=600095379]] [[https://www.fanfiction.net/s/4068153/1/Harry-Potter-and-the-Wastelands-of-Time]] And the information for both stories will appear
+#+end_quote
+
+
+** Thanks to [[/u/StuxCrystal]] for implementing these and many, many more changes that have taken the bot far from what it was originally!
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 4
+:DateUnix: 1436585107.0
+:DateShort: 2015-Jul-11
+:END:
+
+
+** Cool!
+:PROPERTIES:
+:Author: beetnemesis
+:Score: 2
+:DateUnix: 1436591673.0
+:DateShort: 2015-Jul-11
+:END:
+
+
+** Are you still planning on implementing a linkdlp function at some point?
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1436722684.0
+:DateShort: 2015-Jul-12
+:END:
+
+*** Interesting question. I'm currently researching the topic. As it stands now it may need a little bit of time before we are able to implement it. So I can't promise that we are able to implement it in a safe way (e.g. without fearing that some messed up markup there will crash the bot.) but we're working on it.
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 2
+:DateUnix: 1436869766.0
+:DateShort: 2015-Jul-14
+:END:

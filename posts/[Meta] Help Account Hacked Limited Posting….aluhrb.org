@@ -1,0 +1,237 @@
+#+TITLE: [Meta] Help! Account Hacked? Limited Posting??…
+
+* [Meta] Help! Account Hacked? Limited Posting??…
+:PROPERTIES:
+:Author: Achille_Talon_II
+:Score: 14
+:DateUnix: 1548970262.0
+:DateShort: 2019-Feb-01
+:FlairText: Meta
+:END:
+So, folks, you know me as [[/u/Achille-Talon]]. Problem is, I was abruptly logged off from my account in the middle of browsing our here fine sub, and couldn't log back it again. I asked for a reset of my password but didn't get the promised email (even though I am quite certain I used the right address).
+
+And more puzzlingly, now that I have grudgingly reregistered under this slightly altered username, Reddit won't let me post twice in ten minutes. Huh? I thought at first it was because I hadn't confirmed the account yet, but nope.
+
+I'm the furthest thing from tech-savvy, and really in need of some advice...
+
+
+** u/denarii:
+#+begin_quote
+  I asked for a reset of my password but didn't get the promised email (even though I am quite certain I used the right address).
+#+end_quote
+
+If you were hacked and they changed the email on the account quickly enough that might be why. Some sites will email the original address for verification if the email address on an account is changed for this reason, but I dunno if reddit does that.
+
+#+begin_quote
+  Reddit won't let me post twice in ten minutes. Huh? I thought at first it was because I hadn't confirmed the account yet, but nope.
+#+end_quote
+
+That's likely an anti-spam measure to prevent spammers from making a new account whenever they're banned and immediately resuming spamming.
+:PROPERTIES:
+:Author: denarii
+:Score: 11
+:DateUnix: 1548976300.0
+:DateShort: 2019-Feb-01
+:END:
+
+*** u/Achille_Talon_II:
+#+begin_quote
+  That's likely an anti-spam measure to prevent spammers from making a new account whenever they're banned and immediately resuming spamming.
+#+end_quote
+
+Okay, how do I make it stop then? Must I speak to the Mods?
+:PROPERTIES:
+:Author: Achille_Talon_II
+:Score: 7
+:DateUnix: 1548976507.0
+:DateShort: 2019-Feb-01
+:END:
+
+**** It's definitely karma, I have to go through it every year or two when I make a new account. But it can be sub-specific as well. Within a day or two of normal activity, you should be good to go, but it's definitely irritating.
+:PROPERTIES:
+:Author: AnimaLepton
+:Score: 3
+:DateUnix: 1548983172.0
+:DateShort: 2019-Feb-01
+:END:
+
+***** ...Why'd you make a new account every few years? Current predicament aside I've been using the same one since forever.
+:PROPERTIES:
+:Author: Achille_Talon_II
+:Score: 2
+:DateUnix: 1549019751.0
+:DateShort: 2019-Feb-01
+:END:
+
+****** I've been actively using Reddit since 2013, when I was still in high school. There's obviously a good chunk of subs/opinions that I've moved away from as I grew up and matured, and while my old accounts have past achievements, they also have old things I'm not exactly proud of. It applies less now: I'm planning to stick with this account for longer and this username matches my username on several other websites. But back when I wanted to have a degree of anonymity with my reddit accounts, it was easy for people to strip that away, especially if you're participating in something fairly niche/local (i.e. a college subreddit).
+
+There's also been ~2 accounts lost in transition, i.e. one of my old accounts is linked to a throwaway email and I don't know the password anymore, so I can only access it from my phone.
+:PROPERTIES:
+:Author: AnimaLepton
+:Score: 3
+:DateUnix: 1549048347.0
+:DateShort: 2019-Feb-01
+:END:
+
+
+***** Is karma for anything else?
+:PROPERTIES:
+:Author: Garanar
+:Score: 1
+:DateUnix: 1548990396.0
+:DateShort: 2019-Feb-01
+:END:
+
+****** nah, just to stroke your ego. Sometimes I go back and read my most upvoted comments on this account or one of my old accounts that I didn't end up deleting. Old anime discussions, games I used to play, past news events and memes, etc.
+:PROPERTIES:
+:Author: AnimaLepton
+:Score: 5
+:DateUnix: 1548991278.0
+:DateShort: 2019-Feb-01
+:END:
+
+******* Oh I was hoping it would have some purpose.
+:PROPERTIES:
+:Author: Garanar
+:Score: 1
+:DateUnix: 1548991314.0
+:DateShort: 2019-Feb-01
+:END:
+
+
+***** Uhm why do you make new account every year?
+:PROPERTIES:
+:Author: natus92
+:Score: 1
+:DateUnix: 1549014975.0
+:DateShort: 2019-Feb-01
+:END:
+
+
+**** I expect it'll stop after a set period of time, I don't know how long that will be.
+:PROPERTIES:
+:Author: denarii
+:Score: 1
+:DateUnix: 1548976563.0
+:DateShort: 2019-Feb-01
+:END:
+
+
+** Look here: [[https://www.reddithelp.com/en/categories/using-reddit/your-reddit-account/im-having-issues-email]]
+
+Good luck getting access back.
+:PROPERTIES:
+:Author: hovercraft_of_eels
+:Score: 4
+:DateUnix: 1548976397.0
+:DateShort: 2019-Feb-01
+:END:
+
+
+** u/AutumnSouls:
+#+begin_quote
+  Reddit won't let me post twice in ten minutes. Huh?
+#+end_quote
+
+It's something put into place with new accounts and also users who have had several recent comments downvoted. Either go karma whoring or let your karma build up naturally. As for your other problem, try switching reddit designs. I had a similar problem yesterday and that fixed it.
+:PROPERTIES:
+:Author: AutumnSouls
+:Score: 4
+:DateUnix: 1548981076.0
+:DateShort: 2019-Feb-01
+:END:
+
+
+** EDIT: /Okay/, I'm back.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 3
+:DateUnix: 1549021708.0
+:DateShort: 2019-Feb-01
+:END:
+
+*** What had happened and how did you resolve it?
+:PROPERTIES:
+:Author: EpicDaNoob
+:Score: 1
+:DateUnix: 1549028420.0
+:DateShort: 2019-Feb-01
+:END:
+
+**** No idea why it wouldn't log me back in earlier but as for the reset email it was indeed, stupidly in my spam folder.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 2
+:DateUnix: 1549028845.0
+:DateShort: 2019-Feb-01
+:END:
+
+***** Oh, haha. I've had that happen to me before, it was so frustrating! Good to know you're back now though.
+:PROPERTIES:
+:Author: EpicDaNoob
+:Score: 1
+:DateUnix: 1549033109.0
+:DateShort: 2019-Feb-01
+:END:
+
+
+** you can try [[/r/help]]
+
+other than that if you use similar pw's for anything you should change them.
+:PROPERTIES:
+:Author: YouGotToasted
+:Score: 1
+:DateUnix: 1548989803.0
+:DateShort: 2019-Feb-01
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1549006080.0
+:DateShort: 2019-Feb-01
+:END:
+
+*** [[https://www.fanfiction.net/s/7353678/1/][*/Fraterculus/*]] by [[https://www.fanfiction.net/u/1218850/bloodsox88][/bloodsox88/]]
+
+#+begin_quote
+  It may be Harry's little brother's destiny to save the world but it's up to Harry to make it so. Follow Harry as he struggles to keep his family safe while trying to have a life of his own. /Check out my profile for more details.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{34} ^{*|*} ^{/Words/:} ^{270,761} ^{*|*} ^{/Reviews/:} ^{514} ^{*|*} ^{/Favs/:} ^{1,565} ^{*|*} ^{/Follows/:} ^{1,949} ^{*|*} ^{/Updated/:} ^{12/30/2018} ^{*|*} ^{/Published/:} ^{9/4/2011} ^{*|*} ^{/id/:} ^{7353678} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure/Suspense} ^{*|*} ^{/Characters/:} ^{<Harry} ^{P.,} ^{Daphne} ^{G.>} ^{Hermione} ^{G.,} ^{OC} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=7353678&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=7353678&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1549006114.0
+:DateShort: 2019-Feb-01
+:END:
+
+
+** :o ACHILLE NO!!! :( :( :( :( WHO WOULD DO THAT TO YOU THAT IS SO MEAN YES IT IS YOU ARE SO NICE AND GOOD WHY?!?! :(((((((( NOW YOU HAVE TO BE ACHILLES TALON 2? :( :( :( :( CAN YOU BE ACHILLES TALON 1 AGAIN EVER? :(
+:PROPERTIES:
+:Score: -2
+:DateUnix: 1548978038.0
+:DateShort: 2019-Feb-01
+:END:
+
+*** We'll see.
+
+I mean, it's not the end of the world if not. It's just annoying. Thanks for your concern though!
+:PROPERTIES:
+:Author: Achille_Talon_II
+:Score: 5
+:DateUnix: 1548978088.0
+:DateShort: 2019-Feb-01
+:END:
+
+**** Achille yes it's annoying. :( I had cute and funny and also interesting posts that I clicked "SAVE" on to my profile page but since I got a new account they are all gone. :( :( I hope you didn't have any saved stuff either.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1548980988.0
+:DateShort: 2019-Feb-01
+:END:

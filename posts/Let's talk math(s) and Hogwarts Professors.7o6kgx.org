@@ -1,0 +1,542 @@
+#+TITLE: Let's talk math(s) and Hogwarts Professors
+
+* Let's talk math(s) and Hogwarts Professors
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 31
+:DateUnix: 1515105863.0
+:DateShort: 2018-Jan-05
+:FlairText: Discussion
+:END:
+WARNING: Contains numbers, and rampant specuation
+
+So, for one of my stories, one of the characters becomes a professor at Hogwarts. This lead me to delve a bit deeper into the educational process at Hogwarts, and look at things like student population. Interestingly, I came up with some real problems.
+
+If you take the assumption that there are, on average, 40 students in every year (backed up by the "Canon 40" list from JKR) you have a total of 280 students at Hogwarts. This works pretty good for class sizes, as you could easily have two houses in a class for a class size of 20, or even all 40 together for a much larger but still manageable class size. You can from there work out schedules for each year. Let's assume classes are six days a week, with teachers teaching seven periods except on Saturday, where they teach four (this seems reasonable if a great deal of work for the professors) where students have each core topic three times a week with things like electives sprinkled in (I'm going to assume that flying is a first year class, but there is also some sort of second year class that everyone takes like zylomancy or something). Then you have each year get Astronomy once or twice a week at night, and things work themselves out nicely.
+
+Except hold on a moment, you run into a population problem. While it's not unreasonable to assume that not everyone goes to Hogwarts for various reasons such as being homeschooled or something, 280 students from the ages of 11-17 makes for a tiny population. To make the numbers nice, lets double the number of kids assuming only half go to Hogwarts and assume they make up between 8-10% of the wizarding population (this is reasonable based on first world country population demographics). So you have 560 kids in a population between 5000-5600. This is frankly too small. The ministry had 600 employees working for months to construct the quidditch stadium that could hold 100,000 spectators. Unless the majority of adult wizards of working age in Britain were busy building the stadium and a ridiculous percentage of the global wizarding population came to the world cup this just doesn't make sense.
+
+Thankfully, JKR gave us another number to base the Hogwarts population on, saying there were 1000 kids at the school. Well, then you get a far more reasonable population number for the UK when you try to calculate it out, with between 20000-25000 wizards. That's a whole lot more reasonable, if still on the small side. That's fine though, you don't want a huge wizarding population anyway.
+
+However, now we run into a serious problem. You've quadrupled the student size but you still have a tiny number of professors. Unless every professor is using a time turner to manage to teach all their classes and kids are having at most one or two sessions a week with class sizes that are huge, you simply don't have enough teachers.
+
+What's the solution? Simple. Harry is an oblivious idiot who never noticed that there were actually multiple teachers in every subject. Why? Because Dumbledore made sure Harry always had the BEST teacher in each area, assigning the same teachers to teach Harry's year because they were best at that job. Though why he thought that was Snape and Binns, I have no idea.
+
+TL;DR Either some serious shenanigans are going on with time turners or Hogwarts only has a tiny number of students and thus a tiny number of wizards total, there have to be more professors to teach a student body of around 1000.
+
+
+** Well, it makes sense in at least one way. All the profs being so busy can be used to explain why they frequently drop the ball plot-wise.
+
+Dumbledore: Minerva, can you adjust the schedule so that each of the professors guard the Philosopher's Stone in turns?
+
+McGonagall: Albus, I swear to Maeve I will transform and rip your eyes out if suggest adding anything at all to my or the other professors' workload.
+
+Dumbledore: Ah. Perhaps a series of clever traps will do.
+
+~ Harry: Professor, Snape's trying to steal the stone!
+
+McGonagall: /Raises head from haze of grading and caffeine/ Don't be ridiculous. Go to bed, Potter. /Returns to grading. Later doesn't recall the conversation ever happening./
+
+~ Flitwick: I wonder what could be producing that interesting and powerful petrifaction effect on these students and even a ghost! I'll look into as soon as I catch up with these essays. /Six months later/ Oh bloody hell.
+:PROPERTIES:
+:Author: apothecaragorn19
+:Score: 52
+:DateUnix: 1515111269.0
+:DateShort: 2018-Jan-05
+:END:
+
+*** This, if anything, makes too much sense.
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 18
+:DateUnix: 1515111568.0
+:DateShort: 2018-Jan-05
+:END:
+
+
+** Also, regarding population size:
+
+Dumbledore is 110 years old during philosopher's stone. And he's still working as a headmaster - the population is probably bigger because wizards get older.
+:PROPERTIES:
+:Author: fflai
+:Score: 18
+:DateUnix: 1515108892.0
+:DateShort: 2018-Jan-05
+:END:
+
+*** That is actually a good point. It's likely that the wizarding population does skew older than the general population due to the higher number of those in higher age brackets.
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 13
+:DateUnix: 1515109147.0
+:DateShort: 2018-Jan-05
+:END:
+
+**** Also, in regards to the student population. When Harry starts at Hogwarts, every student there was born during the war with Voldemort, a war that more than likely killed a significant portion of the population, particularly the children, given how "whole families were wiped out" Like the McKinnons or how if you're a pure-blood whose last name isn't Weasley means you are more than likely an only child.
+:PROPERTIES:
+:Author: Jahoan
+:Score: 12
+:DateUnix: 1515114631.0
+:DateShort: 2018-Jan-05
+:END:
+
+
+** It's only about 95% as bad as you make it out to be. It's implied that NEWT level courses are much more restrictive on who gets in, and it's possible some students don't take NEWTs at all, which drops the 6 and 7 year classes to one group of students per year. It's also possible that they meet less often, expecting students to do more self-learning.
+:PROPERTIES:
+:Author: DreadCanary
+:Score: 16
+:DateUnix: 1515108299.0
+:DateShort: 2018-Jan-05
+:END:
+
+*** I figured about half the kids drop out of NEWT level courses, but that still leaves the professors hideously overburdened even if NEWT courses meet only once a week.
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 8
+:DateUnix: 1515108570.0
+:DateShort: 2018-Jan-05
+:END:
+
+
+*** When I was at school (UK, ~1000 students) our number of classes dropped from 22 in first and second year (30 periods per week), to 11 in third and fourth year (30 periods per week), to 5 in fifth year (25 periods per week) and 3 in sixth/final year (15 periods per week). As subjects got harder, more hours were devoted to each subject, and more homework and self-study was set. Getting in to the next level up course was based on getting a certain grade in the course before.
+
+I always assumed the same system was in place at Hogwarts, with class sizes dwindling and hours per class increasing as number of classes decreased, but not at the same rate. However, there would still need to be either much bigger classes or more teachers (or both) for this to work, especially for main subjects like potions, charms etc.
+:PROPERTIES:
+:Author: ayeayefitlike
+:Score: 3
+:DateUnix: 1515179086.0
+:DateShort: 2018-Jan-05
+:END:
+
+
+** Some numbers I crunched earlier: [[https://www.reddit.com/r/HPfanfiction/comments/79ugcr/how_many_witches_and_wizard_are_in_britain/dp5kcwa/]]
+
+Obviously you can vary your estimates widely: Add lessor schools and homeschooling to greatly grow the population estimate if needed.
+
+I however, like using the smaller numbers. I think the idea of a small population does fit the books.
+
+Things to consider:
+
+- Better age-related actuarial rates, worse accident related rates.
+- The wizarding world is much more work efficient, with the use of magic allowing for a much smaller population to do a lot more.
+- The role of non-wizards in the wizarding world (Centaurs, Veelas, etc)
+- The general incompetence of the adults in the series. This supports the notion of a smaller population.
+- With magic travel, you really could have Diagon Alley be the only shopping center in the entire Britain
+- The effect of the war on the population. Harry would be in (or right before) the war baby boom. Also, the adult population should be significantly decreased from the 'regular' population size, due to the older generation dying in war.
+- The general lack of viable wizarding jobs displayed in the books: Besides Government and Policing and Sports, The only other things really mentioned were shopkeeping, writing, and good production of certain things that cannot be magically produced (Caldron's, ingredients). There isn't exactly an image of a thriving economy.\\
+- The threat level of the evils: He is running a terrorist organization with only a few dozen members. Usually you have to go down the 'oh some people are more magically powerful and voldemort is super powerful' to justify this. However, if there is only 4000 wizards, 1% participating in an armed terrorist movement would be a HUGE amount.
+- The number of 'Purebloods' displayed in Cannon as having relatively low absolute numbers. Purebloods are mostly displayed as being relating to the Wizmont, which has a known size. To have a much larger population you have to either greatly increase the number of halfbloods in your population mix or create a new group of 'purebloods not in power' that are really not explored in the books.\\
+- Similarly, the number of muggleborns displayed in cannot have relatively low absolute numbers. You know they all go through Hogwarts, and I think it was stated there are only a few every year? 4/year is 10% of 40/year, and muggleborns being 10% of the population represents a very significant demographic threat that you can see causing the friction displayed in the books. If you up it to 1000/year, 4/year is just not significant enough to generate such a movement. You start having to rely on things like 'the muggleborn keep coming in and trying to change society / introduce their own way of doing things' which is... not how the characters are displayed in the books at all. Most of them are shown as integrating into the wizarding world and mostly leaving the Muggle ones behind, and certainly not a hotbed of activisim (Hermione's SPEW was displayed as something unusual).
+:PROPERTIES:
+:Author: StarDolph
+:Score: 10
+:DateUnix: 1515113710.0
+:DateShort: 2018-Jan-05
+:END:
+
+
+** Well, /obviously/ all the Professors have Time-Turners.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 8
+:DateUnix: 1515109067.0
+:DateShort: 2018-Jan-05
+:END:
+
+*** Sure, but screw putting those in my story, because casual time travel just screws over so many plot points if anyone has half a brain.
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 4
+:DateUnix: 1515109207.0
+:DateShort: 2018-Jan-05
+:END:
+
+
+** Yeah, I ran into that problem as well when working on my AU. My solution was to pull some shenanigans to put the Irish (not Northern Irish) students in a separate school, and also have multiple professors per department for a staff of about thirty. Admittedly, I also added additional classes for upper year students, as it wouldn't make sense for N.E.W.T students to only be taking a handful of classes.
+:PROPERTIES:
+:Author: Flye_Autumne
+:Score: 4
+:DateUnix: 1515111737.0
+:DateShort: 2018-Jan-05
+:END:
+
+*** Canonically Alchemy and Apparition are available only as NEWT level subjects.
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 5
+:DateUnix: 1515113095.0
+:DateShort: 2018-Jan-05
+:END:
+
+
+*** It would make sense for N.E.W.T students to only take a few classes, though, because the magical system is based on the education system in the UK. O.W.Ls = GCSEs, where you'd take around 10-12 subjects. N.E.W.Ts = A levels, most people would only take 3 or 4 (apart from the Hermione types who take 5). I agree that there's most likely more staff than Harry notices though.
+:PROPERTIES:
+:Author: historygeek98
+:Score: 2
+:DateUnix: 1515114203.0
+:DateShort: 2018-Jan-05
+:END:
+
+
+** They only need one Time Turner - the staff gathers at specific points during the day and they use a really long chain to get everyone into the spin.
+
+It's the only way Umbridge could possibly monitor her own classes while harassing professors during theirs.
+
+It also explains why the whole staff was willing to cooperate with Hermione using a Time Turner to attend classes as well... though nothing logically explains why she would need to. The classes mustn't conflict, or any number of students would be denied their elective choices.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 7
+:DateUnix: 1515109077.0
+:DateShort: 2018-Jan-05
+:END:
+
+*** u/ayeayefitlike:
+#+begin_quote
+  The classes mustn't conflict, or any number of students would be denied their elective choices.
+#+end_quote
+
+This happens all the time in the UK. You are offered your electives in groups based on the available timetable usually, and you pick based on what you can take in your timetable, not what subjects specifically you want to take.
+
+I had to change schools in my final year to be able to take the combinations of subjects I wanted, but usually that isn't necessary.
+:PROPERTIES:
+:Author: ayeayefitlike
+:Score: 4
+:DateUnix: 1515179642.0
+:DateShort: 2018-Jan-05
+:END:
+
+**** I get what you're saying as it would apply to a school with a year size in the hundreds and a dozen electives to choose from, but there's only 40 of them and 5 electives to cover.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 2
+:DateUnix: 1515184881.0
+:DateShort: 2018-Jan-06
+:END:
+
+***** Yeah, so with fewer teachers to offer multiple class times, they'd potentially be more restricted even at Hogwarts.
+:PROPERTIES:
+:Author: ayeayefitlike
+:Score: 1
+:DateUnix: 1515185161.0
+:DateShort: 2018-Jan-06
+:END:
+
+
+*** Its not unusual for schools to have their some electives at the same time if they are similar. In my school third language classes like French,Spanish and Latin take place at the same time. It would make sense for Arithmancy and Divination to take place at the same time and have the students choose between the two electives that both are about predicting the future.
+
+But that doesn't really explain why Muggle Studies is also at the same time.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1515146542.0
+:DateShort: 2018-Jan-05
+:END:
+
+
+** The most important thing is that Rowling herself admitted that she is bad at math.
+
+But the number of 1000 students seems most reasonable.
+
+At one point she even mentions that she imagined that there would be considerably more than forty students in each year at Hogwarts. And that the list was mainly used so she had name available when she needed to mention someone.
+
+with only 40 students a year the way Harry interacts with his classmates also wouldn't make much sense. There are multiple instances where he doesn't know the name of students with whom he would have to have shared classes for several years. And he generally doesn't act nearly aquainted enough with the other students like someone with only 280 schoolmates would, especialy in a boarding school.
+
+The solution of adding multiple professors is possible, but it would diminish the worth of individual ones and conflict with plot points like Dumbledore only keeping Divination so he can keep Trelawney in the castle or Dumbledore having to hire a new Defense against the Dark Arts professor every year instead of five. Trelawney is even upset at one point that she has to share her classes with Firenze.
+
+One solution to the problem that wouldn't include giving the professors time turners, would be to make this inconsistency a feature of Hogwarts itself. like the professors wouldn't travel in time but rather would be able to teach 5 classes at once and return to being one person with all the memories after the classes ended. So at lunch Harry and for example Katie both could talk about just having had class with McGonagall even though they weren't in the same class room. And McGonagall would remember teaching both of them.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1515136181.0
+:DateShort: 2018-Jan-05
+:END:
+
+*** I readily acknoweldge that the main reason to keep the number of professors small is because you want to keep your cast tight and consistant in a story. Makes sense. However, in a story where the POV character IS a Hogwarts professor and not a student, it makes more sense that you'd place more emphasis on coworkers and less on students.
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 1
+:DateUnix: 1515137683.0
+:DateShort: 2018-Jan-05
+:END:
+
+**** honestly it just depends on the plot points. If the plot requires there to be more teacher you can easily add them.
+
+But even if the POV character is a professor, adding more teachers just for the sake of it, is unnecessary. Few story can concentrate on too many characters without getting overly long.
+
+Even if you were to concentrate your plot on coworkers, you would still be limited how many of them can actually be important for the plot. so it doesn't really matter if there are 10 or 50 professor, when you cant have more then 5 be important characters without the quality of the story declining.
+
+Unless of course it important for the plot that there are a bunch of teachers in the background.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1515138668.0
+:DateShort: 2018-Jan-05
+:END:
+
+
+** u/Taure:
+#+begin_quote
+  assume they make up between 8-10% of the wizarding population (this is reasonable based on first world country population demographics).
+#+end_quote
+
+Not reasonable - wizards live about twice as long as Muggles. Young people would therefore make up a much smaller percentage of the population.
+
+#+begin_quote
+  What's the solution? Simple. Harry is an oblivious idiot who never noticed that there were actually multiple teachers in every subject.
+#+end_quote
+
+Not a viable solution, because there being only one teacher for each subject is a plot point - DADA curse, Snape-Slughorn switcheroo in HBP.
+
+--------------
+
+But yes, wizarding Britain clearly has a small population. My preference is for around 9000 wizards in Britain. This is based on a "compromise figure" of about 60 students per year at Hogwarts, and a life expectancy of 150 years. The 60 students a year is a compromise between the 40 students/year that is suggested by the dorms/JKR's class list and the PoA statement of there being 200 Slytherins in the crowd of a Quidditch game (which would make approx 114 students/year).
+
+That makes certain things /odd/, but not impossible, especially once you add magic to the mix. So, for example, the Quidditch world cup would be attended by a large percentage of the global wizarding population. But that's not impossible - wizards can travel a lot quicker, easier and cheaper than Muggles, and Quidditch is universally loved (except in the US).
+
+Similarly it means that the Ministry/public sector employment is a very large percentage of total wizarding activity. But again, this isn't impossible. Clearly the existence of magic changes the [[https://forums.darklordpotter.net/threads/wizarding-economy-revisited.37478/][dynamics of an economy]] significantly, and on top of that the magical world is engaged in an ongoing global project that requires significant resources (enforcing the Statute of Secrecy). So I'm not against, say, 50% of wizards being employed by the Ministry.
+:PROPERTIES:
+:Author: Taure
+:Score: 3
+:DateUnix: 1515138707.0
+:DateShort: 2018-Jan-05
+:END:
+
+*** That's an interesting compromise. It still makes for a crushing work burden for the professors, but it at least makes sense. I do agree that the absolute upper limit for the number of wizards in the UK needs to be south of 0.1% of the population with fewer than that being preferable (I think .05% is more likely). Otherwise you end up with too many wizards.
+
+I do agree about the increased lifespan throwing a spanner in the works for my calculations population wise. However, that really would just allow for a stable population with around 1k students in Hogwarts making up a majority of the youth population. If say the 11-17 was ~5% of the population and 80% of them were at Hogwarts, you get a similar total wizarding population number of ~25000. This would be about .042% of the total UK population and is acceptable to me.
+
+With numbers at 25000, that would also mean that a few dozen death eaters would be a terrifying force and likely represent a good chuck of the combat capable wizards in the entire country.
+
+Globally you would be looking at about 2.4 million magicals. That means a whopping 5% of the global wizarding population showed up to the 1994 quidditch world cup. However, 8% of Icelanders showed up to the 2016 Euro cup so I guess that's not entirely unreasonable (though still makes quidditch mindbogglingly popular).
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 1
+:DateUnix: 1515176030.0
+:DateShort: 2018-Jan-05
+:END:
+
+
+** I feel there is one key detail you are missing from the books. The books clearly state the students sometimes have double periods. I've taken that to mean that pre-NEWT level all classes except for 3rd year electives are taken twice a week. I've gotten a schedule to work out for the students but could never get the teachers to work though.
+:PROPERTIES:
+:Author: Humdinger5000
+:Score: 2
+:DateUnix: 1515131081.0
+:DateShort: 2018-Jan-05
+:END:
+
+*** That's my point. You CAN'T get the teachers schedule to work out. They have too much to do, too many classes, too many extra duties, too many students to handle. Either the school is a lot smaller than 1000 students, or you have to have more teachers.
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 2
+:DateUnix: 1515131242.0
+:DateShort: 2018-Jan-05
+:END:
+
+**** Realistically they need at least 2 professors per subject. One for 1st-5th year and one for NEWT level.
+:PROPERTIES:
+:Author: Humdinger5000
+:Score: 1
+:DateUnix: 1515131434.0
+:DateShort: 2018-Jan-05
+:END:
+
+***** I'd personally say they need one for 1-4, then another to do 5-7. So, OWL and above are your upper level, and your lower level is another teacher. Teaching four years of four classes each (they'd have about 35 students in each house for every year) is 16 classes. You can get through that in 2 days with an 8 hour day, which means you could do 2.5 classes in a week (and that gives you your double periods where you mix the .5 but have 70 kids in the class).
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 2
+:DateUnix: 1515131992.0
+:DateShort: 2018-Jan-05
+:END:
+
+
+**** Why is the 1000 number then so important? Imagine the sorting feasts, taking 1-2 minute per student, taking the greater part of three-five hours... They'd probably be past midnight before pudding was served.
+
+I'd rather trust the events of the books rather than any number Rowling pulled out of her arse, even when they're in the books, which that number /wasn't/.
+
+If you ignore the 1000 number, sticking with 300 [at least in the 90's], it's not hard to make a schedule that adds up. Class sizes in subjects like Potions would then be around 20-25, and Snape would teach 12 different classes (some 3h/week, other 2h/week to fill up a 30 hour schedule).
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1515245189.0
+:DateShort: 2018-Jan-06
+:END:
+
+***** But then as I pointed out you run into serious population issues, from the quidditch world cup to the number of ministry employees to the number of students described at games.
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 1
+:DateUnix: 1515257852.0
+:DateShort: 2018-Jan-06
+:END:
+
+
+** In the latest news: Rowling was bad at maths in her worldbuilding.
+
+I once wrote a fic in which I just went ahead and crammed as much subjects into one day as humanly (magically) possible. As someone already wrote, that would explain nicely why Hogwarts Professors seem to be useless bystanders to pretty much anything else but their subjects.
+
+However, the solution I actually went with is to take the number 300 for the current student population of Hogwarts and added smaller schools, specialized schools (for seers or other gifted students) and a system of apprenticeship, as well as the odd dozens or so every year that actually goes to Beauxbatons, Durmstrang or some other schools of magic. Summa summarum it all added up to roughly 1500 students all over Britain and Ireland.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 2
+:DateUnix: 1515148101.0
+:DateShort: 2018-Jan-05
+:END:
+
+
+** So I feel I messed up somewhere so if someone can double check me and find where I messed up that would be great. Now, if we go off of the 1000 students and say that they just happen to take every class (so the basics) those basic teachers would generally need to teach about 10 classes a day for 5 days or so (1000/20 = 50 50/5 = 10) so if they happen to start classes early say at 7-8am and end at 5 or 6 it should be achievable for those basic teachers but would be even simpler if higher level courses take place less often with less students. The only problem would happen to be with when elective classes (muggle studies, care of magical creatures, arithmancy, runes etc.) would fit in, but they could perhaps be bi-weekly or take place on Saturdays?
+:PROPERTIES:
+:Author: WilFenrir
+:Score: 1
+:DateUnix: 1515117528.0
+:DateShort: 2018-Jan-05
+:END:
+
+*** Except that it's made clear the students take these classes more than just once a week. Additionally, teaching for 10 hours a day would be exhausting, especially since the teachers clearly have a large number of other duties. There is simply no way that this would work for the teachers without them either dropping from exhaustion or the students barely having any time with them.
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 2
+:DateUnix: 1515117815.0
+:DateShort: 2018-Jan-05
+:END:
+
+**** Yeah thats definitely true! Forgot about that lol
+:PROPERTIES:
+:Author: WilFenrir
+:Score: 1
+:DateUnix: 1515117851.0
+:DateShort: 2018-Jan-05
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1515137877.0
+:DateShort: 2018-Jan-05
+:END:
+
+*** Hogwarts isn't in England, its in Scotland. Hogwarts is the only magical school in the UK at the time in the book. Its mentioned by multiple canon sources that the only alternative for British kids are foreign schools and homeschooling.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1515138857.0
+:DateShort: 2018-Jan-05
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1515139862.0
+:DateShort: 2018-Jan-05
+:END:
+
+***** Most wizards in Britain did go to Hogwarts. And unless Voldemort is involved its not really that dangerous. And we know the Ministry steps in if things get to dangerous.
+
+In Deathly Hallows after Voldemort makes attendance for Hogwarts compulsory Lupin says
+
+#+begin_quote
+  That was announced yesterday. It's a change, because it was never obligatory before. Of course, nearly every witch and wizard in Britain has been educated at Hogwarts, but their parents had the right to teach them at home or send them abroad if they preferred.
+#+end_quote
+
+Pottermore mentions is much more common in other counries because most countries dont have their own magic schools.
+
+#+begin_quote
+  The number of countries that have their own magical school is minuscule compared to those that do not. This is because the wizarding populations of most countries choose the option of home schooling.
+#+end_quote
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1515140427.0
+:DateShort: 2018-Jan-05
+:END:
+
+
+*** Canon wise Hogwarts is 100% the only wizarding school. You might have some villages with multiple wizarding families that work together to educate their children, but you certainly wouldn't have a school with more than a dozen pupils (and that would barely qualify as a school).
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 1
+:DateUnix: 1515176435.0
+:DateShort: 2018-Jan-05
+:END:
+
+
+** The Harry Potter world is not well thought out. There is absolutely no point to bring math into any area: Economy, Population or Society. Everything just falls apart if you do that.
+
+There's surprisingly few fanfics that decide on a few numbers "Wizarding britain is only ~5000 people" to see where that leads and construct a new AU around that (no Wizarding pop-artists, different relationship to muggles).
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 0
+:DateUnix: 1515141032.0
+:DateShort: 2018-Jan-05
+:END:
+
+*** Except bringing in math and nerding out about Harry Potter is why a good chunk of the adult audience reads and writes fanfiction. Filling in obvious plot holes and expanding things so that they make logical sense can be good fun. I'm not doing this because I hate Harry Potter, I'm doing this because I love it and sussing out these minor details is enjoyable.
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 2
+:DateUnix: 1515176149.0
+:DateShort: 2018-Jan-05
+:END:
+
+**** Yeah okay, I think I came across wrong here. Of course you can do this... you'll just follow through and realize that you'll have to throw out a lot of stuff and can't really take a lot of things from the books for granted when you start doing this.
+
+Just a tiny example: As soon as you start to take money, numbers and economy seriously you /have/ to give me a reason why the Weasleys (or any wizard or witch) would be poor or wear 2nd-hand clothes. Many things in the world only work if you don't question them.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 1
+:DateUnix: 1515176356.0
+:DateShort: 2018-Jan-05
+:END:
+
+***** They're not poor -- they own their house which has a self-sustaining garden and livestock. They're rural middle-class who refuse to employ slave labour.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 2
+:DateUnix: 1515178534.0
+:DateShort: 2018-Jan-05
+:END:
+
+
+***** I always figured that having seven kids was sort of self explanatory as to why the Weasleys were practically destitute. That, and all the money for damages they've had to pay out for the twins antics.
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 1
+:DateUnix: 1515176752.0
+:DateShort: 2018-Jan-05
+:END:
+
+****** Whatever, just keep reparo-ing expensive muggle watches or antiques and be rich.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 1
+:DateUnix: 1515179666.0
+:DateShort: 2018-Jan-05
+:END:
+
+******* Pretty sure that the Ministry and ICW would come down on your ass for fragrantly violating the Statue of Secrecy.
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 1
+:DateUnix: 1515179847.0
+:DateShort: 2018-Jan-05
+:END:
+
+******** I doubt the statute forbids any and all interaction with muggles. Of course you're not going to tell them that you are fixing their shit with magic. But whatever, if that's not allowed I have hundreds of other business ideas with magic that would make me a millionaire in a week.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 1
+:DateUnix: 1515179972.0
+:DateShort: 2018-Jan-05
+:END:
+
+
+******** Actually, the Ministry didn't care as long as the magic was not flashed in front of Muggles.
+
+Another trick is to buy deeply distressed real estate, use Reparo to fix most costly damages, use Muggle contractors to finish up, and then flip it at market price.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 1
+:DateUnix: 1515188502.0
+:DateShort: 2018-Jan-06
+:END:
+
+********* You'd be called out on tax returns near instantly unless you massively fudge everything, which is basically guaranteed to get you in trouble with either muggle or magical law enforcement. You might get away with repairing clocks or domestic appliances, but not houses.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1515344105.0
+:DateShort: 2018-Jan-07
+:END:

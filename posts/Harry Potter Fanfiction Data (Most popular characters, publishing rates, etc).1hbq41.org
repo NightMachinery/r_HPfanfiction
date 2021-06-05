@@ -1,0 +1,140 @@
+#+TITLE: Harry Potter Fanfiction Data (Most popular characters, publishing rates, etc)
+
+* Harry Potter Fanfiction Data (Most popular characters, publishing rates, etc)
+:PROPERTIES:
+:Author: deskglass
+:Score: 2
+:DateUnix: 1372535053.0
+:DateShort: 2013-Jun-30
+:END:
+I'm crossposting my [[http://www.reddit.com/r/HPMOR/comments/1h10vl/harry_potter_fanfiction_data_most_popular/][original post]] from[[/r/hpmor]] (Bulwersator pointed me to this subreddit.)
+
+I used the Python webscraping framework [[http://www.scrapy.org/][Scrapy]] to collect information on every Harry Potter fanfiction published to Fanfiction.net. I then analyzed the 601,203 fanfictions that were published before 2013. Below are what I think were the most interesting results.
+
+[[http://i.imgur.com/pHbwkFT.png][Average Number of Favorites Gained vs Starring Character Included Pruned]]
+
+On average, fanfictions in which one of the starring characters is both female and obscure in the original series are favorited the most. I use the word "pruned" in the graph's title because this ranking only considers characters that were in at least 101 stories. Otherwise, a very rare character that starred in a very successful fanfiction would throw off the results. The popularity of previously obscure characters makes sense. Fanfiction authors have more flexibility with characters' whose personalities were ill-defined in the original series. Also, we should expect female characters to dominate as [[http://ffnresearch.blogspot.com/2011/03/fan-fiction-demographics-in-2010-age.html][3/4 of fanfiction.net users are female]]. With that said, there is still gender balance in that [[http://i.imgur.com/FSXSHYZ.png][Harry Potter was almost always the co-star.]]
+
+[[http://i.imgur.com/Sw5lM3w.png][Here]] are the number of fanfictions published that contain some starring character. The primary surprise is the popularity of Severus and Draco, both antagonists in the original series, and the unpopularity of Ron W., who was one of the 3 main characters in the original story. (Okay, maybe Ron's relative unpopularity actually isn't surprising.) Looking at [[http://i.imgur.com/144OTK2.png][groups of starring characters vs publishing amounts]], shows that Draco is a co-star in the two most common groups.
+
+This graph shows how [[http://i.imgur.com/q437v6I.png][the number of fanfictions published per year has increased over time]]. Not only has the number of fanfictions published increased, but so has their [[http://i.imgur.com/Geh3xMI.png][popularity]]. Perhaps this means that the reader to author ratio has increased. Most strikingly, the number of [[http://i.imgur.com/Geh3xMI.png][favorites]] and [[http://i.imgur.com/tlv0Qs4.png][follows]] has increased each year, but the average number of [[http://i.imgur.com/z8nLQWj.png][reviews]] per fanfiction has not increased since 2005.
+
+
+** "there is still gender balance in that Harry Potter was almost always the co-star."
+
+Taking a look at that particular chart, it seems like the pairings haven't been properly grouped. If I read it right, you can combine Draco+Hermione with Hermione+Draco and end up with more than Harry+Draco. Similarly, the Lily Evans+James Potter combo is listed much lower than the combined pairing figures would show.
+
+It shouldn't matter who was listed first- half the time it would be alphabetical rather than chosen for primary vs. secondary focus.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 4
+:DateUnix: 1372784422.0
+:DateShort: 2013-Jul-02
+:END:
+
+*** I combine the sums of both orders in the code, so it doesn't matter who is listed first.
+
+I'm not sure I understand what you mean by "Similarly, the Lily Evans+James Potter combo is listed much lower than the combined pairing figures would show." James Potter isn't a starring character in every story Lily Evans is and vice versa.
+:PROPERTIES:
+:Author: deskglass
+:Score: 1
+:DateUnix: 1372792898.0
+:DateShort: 2013-Jul-02
+:END:
+
+**** u/felicitations:
+#+begin_quote
+  I'm not sure I understand what you mean by "Similarly, the Lily Evans+James Potter combo is listed much lower than the combined pairing figures would show."
+#+end_quote
+
+In [[http://i.imgur.com/144OTK2.png][this graph]] (number of fanfictions published vs starring characters pruned), you've got one bar for /'James P.', 'Lily Evans P.'/ and another for /'Lily Evans P.', 'James P.'/ They're the eighth and ninth highest, respectively, but they're both the same thing. If you combined the two, they'd be the fourth highest in the graph. Looking at the graph as it is, though, you wouldn't know that there were so many James/Lily fics because they're separated into two smaller groups when they don't need to be. The order of the characters shouldn't matter, since as wordhammer says, most of the time they're just selected in the order they appear in the FanFiction.net character list, which is alphabetical. It's the same thing as /'Draco M.', 'Hermione G.'/ and /'Hermione G.', 'Draco M.'/ If you combined those, they'd outnumber /'Draco M.', 'Harry P.'/
+:PROPERTIES:
+:Author: felicitations
+:Score: 3
+:DateUnix: 1372797625.0
+:DateShort: 2013-Jul-03
+:END:
+
+***** Damn, you're right. I was certain I'd taken care of that, thanks.
+:PROPERTIES:
+:Author: deskglass
+:Score: 3
+:DateUnix: 1372798066.0
+:DateShort: 2013-Jul-03
+:END:
+
+****** Of course! Easy to overlook, I think. I didn't even notice it until [[/u/wordhammer]] pointed it out.
+:PROPERTIES:
+:Author: felicitations
+:Score: 2
+:DateUnix: 1372798206.0
+:DateShort: 2013-Jul-03
+:END:
+
+
+** I made an addition to the graph about the number of fanfics per year that puts it into greater context. You can see it next to the years the books were published. [[http://i.imgur.com/w7MQxgp.png]]
+:PROPERTIES:
+:Author: the_bad_girl
+:Score: 5
+:DateUnix: 1372903116.0
+:DateShort: 2013-Jul-04
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1372705514.0
+:DateShort: 2013-Jul-01
+:END:
+
+*** I'm not, a lot of writers particularly young people who like to write start with the stories they love, that + adult fic writers that do it for fun/have grown up with fanfiction as an outlet it will level off eventually with other child fiction of course... unless there's a tv series, new book, or film remakes
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1372719163.0
+:DateShort: 2013-Jul-02
+:END:
+
+
+** Wow, whats the obsession with Daphane i wounder?
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1372718874.0
+:DateShort: 2013-Jul-02
+:END:
+
+*** All we really know about her is that she was a Slytherin, friends with Pansy Parkinson, and she was in the same year as Harry Potter. Draco's wife isn't named in the epilogue to the series, but it came out in an interview or something that he married Astoria Greengrass, Daphne's sister.
+
+So if you're a fanfiction writer, Daphne has the appeal of giving you a lot of flexibility to give her a canon-compliant place in the story while giving her whatever personality you want. For example, if your favorite character is Harry or Draco or another teenage male student, then you can write a believable romance with him in it. She is also a popular character for fanfic writers to use when they are writing an AU fic where Harry is a Slytherin, or where he stops being friends with both Ron and Hermione.
+
+Here are some summaries of highly favorited stories with Daphne Greengrass:
+
+- Beginning during the Goblet of Fire, Harry looks to different friends for support after both Ron and Hermione refuse to believe that he did not put his name in the Goblet. Including one unexpected friend: Daphne Greengrass.
+
+- Starts in the middle of DH - What if Hermione left the tent when Ron had asked her to come with him? How will Harry respond? What repercussions will her decision have on the Wizarding World? Will All be well? Who will Harry end up with? Ron bashing.
+
+- During the second term of Harry's sixth year, he ends up saving Daphne Greengrass from a fate worse than death. To repay him, she teaches him Occlumency and they get to know each other well enough to learn that labels are not always useful... HP/DG
+
+- What if Harry didn't bump into the Weasleys at Kings Cross on his first day? What if instead he met another family, one that has ties to his parents? This simple encounter will set him on a different path including new friends and new ambitions. Year Two in progress. Includes: Slytherin!Harry, Good!Dumbledore, Conflicted!Snape, & Supportive!Remus.
+:PROPERTIES:
+:Author: the_bad_girl
+:Score: 4
+:DateUnix: 1372729097.0
+:DateShort: 2013-Jul-02
+:END:
+
+**** can you find links to the 4 plots you listed?
+:PROPERTIES:
+:Author: flupo42
+:Score: 3
+:DateUnix: 1372767677.0
+:DateShort: 2013-Jul-02
+:END:
+
+***** Sure. I found them all here: [[http://www.fanfiction.net/book/Harry-Potter/10/0/0/4/0/0/5549/0/0/1/0/]]
+:PROPERTIES:
+:Author: the_bad_girl
+:Score: 3
+:DateUnix: 1372797131.0
+:DateShort: 2013-Jul-03
+:END:

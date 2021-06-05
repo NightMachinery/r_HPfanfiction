@@ -1,0 +1,559 @@
+#+TITLE: Harry Potter and the Class Curriculum
+
+* Harry Potter and the Class Curriculum
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 196
+:DateUnix: 1556913201.0
+:DateShort: 2019-May-04
+:FlairText: Misc
+:END:
+** Introduction
+   :PROPERTIES:
+   :CUSTOM_ID: introduction
+   :END:
+In my spare time I have taken to creating a sample curriculum for each Harry Potter class. This could be a nice aide to authors needing their students to being studying something that isn't important for plot reasons. Of course, this is a mere guide. The plot should not be sacrificed in order to follow this too closely.
+
+I admit the curriculum here is a bit idealized. It assumes that a competent professor is teaching the class and that they are using useful curriculum. This is especially noticeable in History of Magic, Defense Against the Dark Arts, and Muggle Studies.
+
+I tried to incur some inter-connection between some of the classes. For example, in Third Year, the focuses of History of Magic and Defense Against the Dark Arts will be on magical creatures. While History of Magic will deal with the sentient ones such as merpeople, centaurs, and goblins, Defense Against the Dark Arts will cover defending against magical creatures such as hinkypunks, grindylows, etc. And of course, those taking Care of Magical Creatures as an elective will get even more curriculum on magical creatures.
+
+Fo another example, in Fourth Year, students would be learning about useful First Aid Potions while they are learning about magical plants that are used in salves and healing potions in Herbology.
+
+It very loosely follows what is presented in the books, but is more in depth than Rowling's writings while leaving plenty of wiggle room for fanfiction authors.
+
+** Core Classes
+   :PROPERTIES:
+   :CUSTOM_ID: core-classes
+   :END:
+| History of Magic | Term 1                                                       | Term 2                                                  | Term 3                                                                                                                                                                       |
+|------------------+--------------------------------------------------------------+---------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1                | Intro to Wizarding World/History                             | Founders Era                                            | Brief History of Hogwarts (Design, Grounds, Chamber of Secrets, Various renovations, can't use electricity/muggle devices near it, charms and wards used for its protection) |
+| 2                | Medieval Days (Merlin, Morgan Le Fay, Camelot)               | The International Statute of Secrecy                    | Magical Invention and Innovation                                                                                                                                             |
+| 3                | Sentient Magical Creatures (Centaurs, Merpeople, Giants etc) | Goblins                                                 | Goblins part II                                                                                                                                                              |
+| 4                | Survey of the Wizarding World on the Continent               | Survey of the Wizarding World in the New World          | Survey of the Wizarding World in Africa and Asia                                                                                                                             |
+| 5                | Magical Government Overview                                  | Magical Government II and History of Pureblood Ideology | Grindelwald, Dumbledore, Voldemort, Harry Potter, and OWL Review                                                                                                             |
+| 6                | A Closer Look into the Workings of the Ministry              | A Closer Look into Wizarding Society                    | A Closer Look into Wizarding Society Part II                                                                                                                                 |
+| 7                | An overview of Economics and Currency                        | Current Topics and Social Issues                        | Current Topics and Social Issues Part II and NEWT Review                                                                                                                     |
+
+| Defense Against the Dark Arts | Term 1                                                                                | Term 2                                                              | Term 3                                           |
+|-------------------------------+---------------------------------------------------------------------------------------+---------------------------------------------------------------------+--------------------------------------------------|
+| 1                             | Introduction to DADA, Controlling your magic, Stinging Hex, Spell Accuracy            | Maximizing the power and success of your spells                     | Hitting moving targets and Physical Conditioning |
+| 2                             | Basic Defensive Spells (Expelliarmus, Flipendo)                                       | Basic Defensive Tactics (Using cover, running, getting high ground) | The Shield Charm                                 |
+| 3                             | Introduction to Dark Magical Creatures                                                | Introduction to Dark Magical Creatures II                           | Introduction to Dark Magical Creatures III       |
+| 4                             | Common curses and how to recognize and negate them                                    | Basic Offensive Spells (Reducto, Impedimenta)                       | The Stunning Spell                               |
+| 5                             | More common curses and how to recognize and negate them, review of the stunning spell | Intro to Duelling and Formalized Battle Magic                       | OWL Review                                       |
+| 6                             | Nonverbal Magic                                                                       | Using basic medical spells in the field                             | Review of basic wards                            |
+| 7                             | Advanced Defensive Spellwork (Patronus)                                               | Advanced medical spells                                             | Recognizing Dark activity and NEWT review        |
+
+| Potions | Term 1                                           | Term 2                                                                | Term 3                                                                   |
+|---------+--------------------------------------------------+-----------------------------------------------------------------------+--------------------------------------------------------------------------|
+| 1       | Basics of Potion-Making, Safety, Basic Potions   | Potions that require precise measurements                             | Potions that require precise measurements II                             |
+| 2       | Potions that require precise stirring            | Potions that require a very specific temperature                      | Potions that require specific timing                                     |
+| 3       | Ingredient Identification and Use I              | Ingredient Identification and Use II                                  | Ingredient Identification and Use III                                    |
+| 4       | First Aid Potions                                | First Aid Potions II                                                  | Potions that Induce Emotion or Mental Fortitude                          |
+| 5       | Poisons                                          | Antidotes                                                             | Antidotes II and OWL Review                                              |
+| 6       | Counters: How one ingredient can counter another | Variations in Potion-Making: How one potion can be made multiple ways | Variations in Potion-Making: How one potion can be made multiple ways II |
+| 7       | Tricky but useful potions                        | Tricky but useful potions II                                          | Variance: Putting Your Own Spin on a Potion and NEWT Review              |
+
+| Astronomy | Term 1                                            | Term 2                                             | Term 3                                                         |
+|-----------+---------------------------------------------------+----------------------------------------------------+----------------------------------------------------------------|
+| 1         | Intro, Using a telescope, the Moon                | The Inner Planets                                  | The Asteroid Belt, Jupiter, and its moons                      |
+| 2         | Saturn, Uranus, Neptune, Pluto and their moons    | Charting the Planet Movements                      | Charting the Planet Movements II                               |
+| 3         | Major Stars                                       | Minor Stars                                        | Minor Stars II                                                 |
+| 4         | Charting the Movements of the Stars I             | Charting the Movements of the Stars II             | Charting the Movements of the Stars III                        |
+| 5         | Constellations                                    | Charting the Movements of the Constellations       | Charting the Movements of the Constellations II and OWL Review |
+| 6         | The Zodiac                                        | The Zodiac Part II                                 | The Zodiac Part III                                            |
+| 7         | Other Heavenly Bodies (Binary Stars, Black Holes) | Other Matter in Space (Gas, Supernovas, Radiation) | Muggles in Space and NEWT Review                               |
+
+| Transfiguration | Term 1                                                    | Term 2                                                           | Term 3                                                              |
+|-----------------+-----------------------------------------------------------+------------------------------------------------------------------+---------------------------------------------------------------------|
+| 1               | Theory of Transfiguration, Basic Transfigurations         | The Rules and Best Practices of Transfiguration                  | Transfiguring objects of a similar size and shape                   |
+| 2               | Transfiguring objects of similar shape but differing size | Transfiguring objects of similar size but differing shape        | Transfiguring objects of different sizes /and/ shapes               |
+| 3               | Transfiguring animate objects into inanimate objects      | Transfiguring inanimate objects into animate objects             | Transfiguring inanimate objects into animate objects II             |
+| 4               | Transfiguring a part of an object but not the whole       | Transfiguring animate objects that don't want to be transfigured | Transfiguring animate objects that don't want to be transfigured II |
+| 5               | Vanishing part or whole of objects                        | Wards and transfiguration under pressure                         | OWL Review                                                          |
+| 6               | Nonverbal transfiguration                                 | Conjuration                                                      | Conjuration II                                                      |
+| 7               | Human Transfiguration                                     | Human Transfiguration II                                         | Transfiguring sentient species                                      |
+
+| Charms | Term 1                                                                                         | Term 2                                                                               | Term 3                                                |
+|--------+------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+-------------------------------------------------------|
+| 1      | Intro to Charms, basic wandwork, levitating charms, red/blue sparks, aberto (opening)          | Softening charm, severing charm, locking and unlocking, basic locomotion             | Water-making, Fire-making, Lumos                      |
+| 2      | Charms that require precise pronunciation (arresto momentum, freezing, engorgement, shrinking) | Charms that require precise wand movement (disarming, dancing feet, warming, reparo) | Revision of previous charms                           |
+| 3      | Cheering, lumos duo, mending, freezing spell (creates ice), cushioning charm                   | Bluebell flames, sweeping charm, severing, sticking charm                            | Revision, Scourgify, Tergeo, Cleaning Charm           |
+| 4      | Moving objects from one location to another (accio, banishing, more powerful locomotion charm) | Amplifying charm, anti-cheating spell, Avis (bird conjuring), hardening charm        | Obscuro, Softening charm (spongify), revision         |
+| 5      | Stunning spell, impedimenta, bubble-head charm, washing dishes charm, umbrella charm           | Drought charm, substantive charm, containment charm, impervius                       | Silencing charm, quieting charm, OWL Review           |
+| 6      | Non-verbal charms (flame-freezing, hand-held flames, packing objects into a container spell)   | Fermenting charm, stasis charm, Skurge charm, Ascendio                               | Hair-regrowing, blackboard-writing spell, revision    |
+| 7      | Disillusionment charm, concealment charm, confundus, muggle-repelling                          | Atmospheric charm, revealing charm, room-sealing                                     | Protean charm, anti-apparition, Bombarda, NEWT Review |
+
+| Herbology | Term 1                                                                         | Term 2                                                                            | Term 3                                                                                                                                |
+|-----------+--------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------|
+| 1         | Intro, basics of herbology, potting and repotting, soil                        | Identifying basic plants and their needs                                          | Identifying basic plants and their needs II                                                                                           |
+| 2         | Plants that change significantly as they age/plant life cycle (Mandrakes, etc) | Plants that change significantly as they age/plant life cycle (Mandrakes, etc) II | Plants that require they be checked several times a day, including a plant that requires you to sing to it in the morning and evening |
+| 3         | Plants that require special foods                                              | Plants that provide good Potions ingredients                                      | Plants that provide good Potions ingredients II                                                                                       |
+| 4         | Plants useful for salves and healing potions                                   | Plants useful for salves and healing potions II                                   | Plants that live in arid environments                                                                                                 |
+| 5         | Plants that live in water-heavy environments (underwater, marshes)             | Plants that live in cold/tundra environments                                      | Plants that are semi sentient, OWL Review                                                                                             |
+| 6         | Plants that live in arboreal environments/magical trees                        | Plants that house other magical organisms                                         | Plants that live inside other plants                                                                                                  |
+| 7         | Plants hostile to wizards and witches                                          | Plants that live in environments hostile to wizards                               | NEWT Review                                                                                                                           |
+
+** Elective Classes
+   :PROPERTIES:
+   :CUSTOM_ID: elective-classes
+   :END:
+| Divination | Term 1                       | Term 2               | Term 3                 |
+|------------+------------------------------+----------------------+------------------------|
+| 3          | Introduction, Tea Leaves     | Crystal Balls        | Crystal Balls II       |
+| 4          | Knucklebones and Lot Casting | Palmistry            | Palmistry II           |
+| 5          | Astrology (human)            | Astrology (human) II | OWL Review             |
+| 6          | Smoke Signals                | Astrology (centaur)  | Astrology (centaur) II |
+| 7          | Animals (reading feces, etc) | Face Reading         | NEWT Review            |
+
+- Divination note: It is assumed here that Trelawney teaches Years 3,5, and 7 while Firenze teaches Years 4 and 6.
+
+| Care of Magical Creatures | Term 1                                                  | Term 2                                                   | Term 3                                                     |
+|---------------------------+---------------------------------------------------------+----------------------------------------------------------+------------------------------------------------------------|
+| 3                         | Basic Magical Creatures, Gnomes, Nifflers, Flobberworms | Basic Magical Creatures II: Swear toads, pixies, Augerey | The Importance of Respect: Hippogriffs, Unicorns           |
+| 4                         | Common Magical Imposters: Crups, Kneazles, Knarls       | Inhospitable Habitats: Ice                               | Inhospitable Habitats: Fire (e.g. Fire Crabs, Salamanders) |
+| 5                         | Useful Creatures: Thestrals, Bowtruckles, Porlocks      | Giants I                                                 | Giants II, Review for OWLs                                 |
+| 6                         | Underwater Creatures                                    | Forested Creatures                                       | Forested Creatures II                                      |
+| 7                         | Undead Creatures: Ghouls, Ghosts                        | Professor's choice                                       | Professor's Choice II and NEWT Review                      |
+
+| Muggle Studies | Term 1                                          | Term 2                                                                                    | Term 3                                                                                |
+|----------------+-------------------------------------------------+-------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------|
+| 3              | Intro and Mechanical Machines (simple machines) | Intro to Muggle Literature (children's books mostly)                                      | Muggle Literature takes on Magic (King Arthur) and Magical Beings (Dragons, Centaurs) |
+| 4              | Muggle Sports and Entertainment                 | Muggle Manufacturing and Appliances                                                       | Muggle Society and Government                                                         |
+| 5              | Muggle Transportation                           | Electricity and Computing (using electricity as power, basic digital concepts, computers) | Electricity and Electronics II (Phones, video games, etc)                             |
+| 6              | Muggle Occupations and Education                | Modern Muggle Literature (Narnia, Dickens, Shakespeare)                                   | Muggle Attire and Fashion                                                             |
+| 7              | Muggles in other parts of the world             | Muggle Foods (Fast Food, Pizza, Fried foods, etc)                                         | Muggle Social Media and the Internet                                                  |
+
+| Arithmancy | Term 1                                                  | Term 2                                          | Term 3                                    |
+|------------+---------------------------------------------------------+-------------------------------------------------+-------------------------------------------|
+| 3          | Introduction to Arithmancy                              | Basics of Arithmancy                            | Basics of Numerology                      |
+| 4          | Performing mathematical calculations on magical numbers | The Number Thirteen                             | The Numbers One and Three                 |
+| 5          | The Number Seven                                        | The Number Seven: Part II                       | OWL Review                                |
+| 6          | Particularly non-magical numbers (two, four)            | Particularly non-magical numbers (five and six) | Particularly non-magical numbers (twelve) |
+| 7          | Advanced tenets of Arithmancy                           | Advanced tenets of Numerology                   | NEWT Review                               |
+
+| Study of Ancient Runes | Term 1                             | Term 2                            | Term 3                               |
+|------------------------+------------------------------------+-----------------------------------+--------------------------------------|
+| 3                      | Introduction to Runology           | The Latin Alphabet                | The Greek Alphabet                   |
+| 4                      | The Ancient German/Runic Alphabets | Ancient German/Runic Alphabets II | The Old and Middle English Alphabets |
+| 5                      | Egyptian Hieroglyphics             | Egyptian Hieroglyphics II         | OWL Review                           |
+| 6                      | Ancient Chinese                    | Ancient Assyrian and Sumerian     | Arabic and Slavic Alphabets          |
+| 7                      | Ancient Native American            | Ancient Indian                    | NEWT Review                          |
+
+I do have each of these curricula in .xlsx form, so if there is interest I may choose to upload it.
+
+
+** My two initial thoughts are:
+
+1. I think the focus of DADA is a bit off. Hogwarts isn't an academy for child soldiers and the purpose of DADA isn't to turn kids into Aurors. Your curriculum has a heavy focus on fighting as opposed to, well, defence against the dark arts.
+
+2. Across the board you have introduced advanced spells very early in the curriculum. The Shield Charm in Year 2 is particular egregious - we know that this is an O.W.L. level spell and even then most wizards have trouble with it. Another example is the Water-Making Charm, in canon a N.E.W.T. level spell, which you have them learning in first year.
+
+Also, pet peeve alert: it should be remembered that the Stunning Charm, Reductor Curse et al are not basic or easy spells. Harry learnt these early for the purpose of the third task; they are not standard spells that 4th years are expected to learn. Indeed, Harry's mastery of these spells put him in a position to be able to teach defensive magic to his peers and NEWT-level students in OotP.
+:PROPERTIES:
+:Author: Taure
+:Score: 81
+:DateUnix: 1556914614.0
+:DateShort: 2019-May-04
+:END:
+
+*** Re the Shield Charm, I just read that part in GoF and it was also during Harry's special preparation for the third task, and Harry doesn't even use it "in the field"(and he certainly had cause to). The reason being it must not have been up to snuff. See quote.
+
+#+begin_quote
+  He was still having trouble with the Shield Charm, though. This was supposed to cast a temporary, invisible wall around himself that deflected minor curses; Hermione managed to shatter it with a well-placed Jelly-Legs Jinx.
+#+end_quote
+
+And you know, it seems to me that in many ways people should look to the Patronus Charm as the standard way of spells rather than the exceptional. Too often I see spell learning to be rather binary: doesn't know Wingardium Leviosa, next day knows it and can cast it in its complete form. And its not just the Patronus or Shield, again I just read Dumbledore using I think Stupefy with such ability as to blast apart an intervening door. I suppose this is just canon, but in my experience this is largely missed in much of fanfiction.
+
+To OP/whomever it may concern, if you really wanted to it wouldn't be completely out there (though not canon) to introduce some spells early, but without expectation of practical use (see wispy gaseous patronus and above shield charm). Then revisit and reinforce them in later years, as Harry clearly must have done with the Shield Charm.
+:PROPERTIES:
+:Author: troutbadger
+:Score: 21
+:DateUnix: 1556917930.0
+:DateShort: 2019-May-04
+:END:
+
+**** That's quite a good point, and I did include some instances of 'revision' in there. I probably should have added a "Shield Charm Review" in there, possibly in Term 1 of Year 5 where they also review the stunning spell.
+
+I /completely/ agree that spell-learning is not binary, and I guess I was assuming that most students' shield charms would be rather weak at first and get stronger over time, but I never explicitly indicated that in the curriculum.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 9
+:DateUnix: 1556919042.0
+:DateShort: 2019-May-04
+:END:
+
+
+*** Thanks for the reply!
+
+Wall of text alert!
+
+As to point 1, I agree that it isn't intended to turn students into child soldiers, and I tried not to make it seem that way. Clearly I didn't do as good of a job as I would have hoped, though!
+
+The problem with Defense Against the Dark Arts is that it is very nebulously defined throughout the series. Compound that with the curse on the position, and it's difficult to draw any accurate conclusions on the state of what the course usually covers. My personal thoughts on wizarding society is that it's a very small and fragmented society. Hogsmeade, which is described as a village in the text, is the largest permanent residence of wizards and witches in Britain. This, and other factors, lead me to believe that each wizard or wizarding family needs to be largely self-sufficient in matters of defense and protection. This gives it a more medieval and /wild magic/ vibe, which I personally associate with a lot of English magical folklore.
+
+The way I prefer to look at DADA is that a lot of these are basic defense and survival tactics and spells. Note that none of the curriculum deals with permanently injuring. Most of it deals with defending yourself and possibly incapacitating whatever is coming to get you. Just like most martial arts courses do for citizens. I will agree that I should have rephrased a couple of things in retrospect. For example, "using basic medical spells in the field" does give off a connotation of a battlefield, which wasn't what I intended.
+
+The first two years are focused on control, aim, and strategy. The only spells that are taught until fourth year are the stinging hex, expelliarmus, flipendo, and protego. I included the Shield charm so early because while in the books it wasn't taught until later, and while it was stated that most adult wizards could not produce an adequate Shield charm, I choose to believe that this is more a product of the curse against the position than it is any particular difficulty with the spell itself. Naturally, this is only my take so I encourage each author to use their own headcanons and theories that they like.
+
+To continue addressing your second point, I agree that in canon the Water-Making Charm (Aguamenti) isn't taught until Year Six, but I consciously took a few liberties with Charms. I only /loosely/ based this on canon, and so I grouped Charms based on how they related to each other (water-making, fire-making, and light-making are all taught in the same Term), as well as their usefulness.
+
+Rowling did not explicitly say in her texts why some charms are harder than others, or really anything governing the nature of charms themselves. I took the leeway she gave and adapted it to my ideas. Perhaps I was a little overzealous in the changes I made, but to be honest, it would be very simple for an author to move the different Charms around as they see fit.
+
+As to your point about the Stunning Spell and Reductor Curse, I know that Harry learned them for a purpose. However, we do have some evidence that students of that age should be able to learn them. Ron and Hermione did, as well as plenty of Fourth Years that Harry taught through Dumbledore's Army. In my rather idealized curriculum, I see no reason that a student that has received competent and consistent instruction through their first three years of school could not cast said spells.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 9
+:DateUnix: 1556918814.0
+:DateShort: 2019-May-04
+:END:
+
+**** u/Raesong:
+#+begin_quote
+  "using basic medical spells in the field" does give off a connotation of a battlefield, which wasn't what I intended.
+#+end_quote
+
+This could easily be reworded to "basic magical first aid" to make it sound more general purpose.
+:PROPERTIES:
+:Author: Raesong
+:Score: 5
+:DateUnix: 1556960118.0
+:DateShort: 2019-May-04
+:END:
+
+***** I like that phrasing much better. Thanks.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 2
+:DateUnix: 1556973206.0
+:DateShort: 2019-May-04
+:END:
+
+
+** Holy crap this is impressive. I wanna go to Hogwarts now.
+:PROPERTIES:
+:Author: academico5000
+:Score: 21
+:DateUnix: 1556913949.0
+:DateShort: 2019-May-04
+:END:
+
+*** You didn't already want to go to Hogwarts?
+:PROPERTIES:
+:Author: hamstersmagic
+:Score: 16
+:DateUnix: 1556914357.0
+:DateShort: 2019-May-04
+:END:
+
+**** All the fanfic that highlights the apparent incompetence of the teachers has put me off
+:PROPERTIES:
+:Author: academico5000
+:Score: 18
+:DateUnix: 1556916995.0
+:DateShort: 2019-May-04
+:END:
+
+***** Ah, but Gildekenneth Branaughart is so /dreamy./
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 7
+:DateUnix: 1556918847.0
+:DateShort: 2019-May-04
+:END:
+
+****** Huh?
+:PROPERTIES:
+:Author: academico5000
+:Score: 1
+:DateUnix: 1556919637.0
+:DateShort: 2019-May-04
+:END:
+
+******* It's a joke. Gilderoy Lockhart was played by Kenneth Branaugh, and Gilderoy was supposed to be very good-looking.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 2
+:DateUnix: 1556922008.0
+:DateShort: 2019-May-04
+:END:
+
+******** Ah. I thought the actor was very unattractive. It was quite ridiculous
+:PROPERTIES:
+:Author: academico5000
+:Score: 5
+:DateUnix: 1556922370.0
+:DateShort: 2019-May-04
+:END:
+
+********* Cucumber guy is the standard for attraction there.... :)) need I say more.
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1556938545.0
+:DateShort: 2019-May-04
+:END:
+
+
+** Okay, this whole thing looks more like what Hogwarts' curriculum /should/ be as opposed to what it is, but I can definitely comment on the Astronomy curriculum.
+
+In a basic astronomy class, after you learn how to use a telescope (probably by looking at the Moon and planets), you would definitely not start by studying the planets in detail. The planets aren't always up, and which ones are changes from year to year. You would start by learning about the celestial sphere--that is, the daily and yearly motion of the heavens as a whole (and finding true north). This is a large part of learning how to navigate on the sky, which is pretty essential to everything that comes after.
+
+Next, you would learn about the daily and yearly motion of the Sun (without a telescope, obviously), and the Moon and its phases. Then, you would go straight to the constellations. Unlike the planets, the constellations stay put, and they are the other part of how you navigate on the sky. You would also learn the major stars with the constellations as you go because both the constellations and the stars in them are signposts to finding everything else (at least in the absence of surveying equipment). Since Astronomy at Hogwarts is astrology-heavy, the zodiac would be studied early, although realistically, it wouldn't really be a distinct unit separate from studying all the constellations and/or the motions of heavenly bodies through it. Minor stars generally wouldn't figure unless you included a unit on variable stars.
+
+Only then would you move on to the planets, starting with the naked-eye planets: Mercury, Venus, Mars, Jupiter, and Saturn, and their moons. In the books, they do seem to study the physical properties of the planets (which is weird because very little was known in the muggle world until the 1960s), but I think it would mainly have to do with their motions on multiyear timescales and how they affect magic like herbology and potions.
+
+After Uranus and Neptune (no handheld telescope is going to be able to spot Pluto), you could touch on asteroids and then move on to deep sky objects: binary stars, star clusters, galaxies, and nebulae; and transient phenomena: comets, eclipses, novae, and supernovae. And all of this would probably show up by 5th year, and it's about as far as you'll get with a handheld telescope.
+
+At NEWT level, I'm not sure wizards would have a clue about the physics of gas and radiation, much less black holes, but I could definitely see them using larger telescopes and working on old-timey astronomy techniques like hunting comets and asteroids and taking pictures with photographic plates.
+:PROPERTIES:
+:Author: TheWhiteSquirrel
+:Score: 14
+:DateUnix: 1556928752.0
+:DateShort: 2019-May-04
+:END:
+
+*** u/LittleDinghy:
+#+begin_quote
+  Okay, this whole thing looks more like what Hogwarts' curriculum should be as opposed to what it is
+#+end_quote
+
+I addressed that in the post.
+
+As to the rest of your comment, I appreciate the information. I am admittedly not familiar with Astronomy and how it is taught. When I release a revised version of this, I will certainly take all this into account.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 4
+:DateUnix: 1556928973.0
+:DateShort: 2019-May-04
+:END:
+
+
+*** I'd add, that in in the first few years, there should perhaps be a mathematical basis; Euclidean and Pythagorean Geometry, Trigonometry, Newtonian Mechanics; based upon Newton's Principia Mathematica.
+
+NEWT students would learn about Kepler's Laws and Galilean invariance, perhaps Galilean Relativity.
+:PROPERTIES:
+:Author: Duvkav1
+:Score: 1
+:DateUnix: 1556964805.0
+:DateShort: 2019-May-04
+:END:
+
+
+** About Muggle studies...\\
+It is stuck in the extreme past. "Muggle Social Media and the Internet" would not even exist in the magical world by the time Harry goes to Hogwarts, the Internet was still very much in its cradle at the start of the 90s.
+
+Also, based on the fact that Arthur Weasley works for the Misuse of Muggle Artefacts Office and knows barely anything about muggle items... I'd say that no one takes this class seriously and it has probably not been updated so heavily before the death of Voldemort.
+:PROPERTIES:
+:Author: Kradchand
+:Score: 5
+:DateUnix: 1556919338.0
+:DateShort: 2019-May-04
+:END:
+
+*** Oh, I forgot to mention that this curriculum was something that I developed for my story that is set in modern day. Not the 90s. My bad.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 7
+:DateUnix: 1556919608.0
+:DateShort: 2019-May-04
+:END:
+
+
+** Damn, this is really good. Thank you for all the time you put into this!
+:PROPERTIES:
+:Author: YOB1997
+:Score: 4
+:DateUnix: 1556920596.0
+:DateShort: 2019-May-04
+:END:
+
+
+** This is too brilliant. I was literally thinking earlier today that I wish there was a clear curriculum for Hogwarts out there. I really wouldn't trust J.K.Rowling to make one at the moment (sorry Jo but it's true re: "wizards literally pooping themselves". If you were to post the .xlsx form I would definitely download it! Now I just need to find a list of all canon spells and spells that were alluded to.
+:PROPERTIES:
+:Author: kiraheart94
+:Score: 6
+:DateUnix: 1556920040.0
+:DateShort: 2019-May-04
+:END:
+
+*** Is wizards popping themselves really that ridiculous when we consider that people used to empty their chamber pots out of their window onto the street?
+:PROPERTIES:
+:Author: hamstersmagic
+:Score: 1
+:DateUnix: 1556934004.0
+:DateShort: 2019-May-04
+:END:
+
+**** Well considering that fact is actually false, yes. People of the Middle Ages knew human waste spread disease they just weren't sure how because they didn't have modern science on their hands. SO considering the fact that they believed in the four humors and other forms of pseudoscience, they came to the conclusion that "fouls smells must cause disease" they decided to get rid of their waste by emptying their chamber pots into local rivers and streams such as the Thames in London or even the subsequently named Shitbrook in Exeter where it would be carried away stench and all. But disregarding that, have you really thought of the implications of wizards just soiling their clothes when the urge to purge their bowels arose? Assuming that wizards like muggles took their children out of diapers by 2/3 then that meant that every pre-Hogwarts aged magical child went to the restroom they soiled themselves and had to run to an adult to clean them up. and there's no telling if they did that immediately! I mean that is ridiculous as well as unsanitary and foul smelling. And when exactly did student at Hogwarts learn the vanishing charm? Before they learned did they purposely wet their beds, what about when they went for a nice afternoon flight on their brooms, was there a sudden un-forecasted yellow rain shower???? What about sessions of the Wizangamot, witches and wizards in the stands and public galleries close quarters just letting go and poops make sounds when they come out depending on if their regular or like the curse of Moctezuma so yeah.... I just can't.... my mind just goes weird places. Sorry about the rant.
+:PROPERTIES:
+:Author: kiraheart94
+:Score: 6
+:DateUnix: 1556937608.0
+:DateShort: 2019-May-04
+:END:
+
+***** The actual tweet is that they just relieved themselves where they stood not that they were shitting in their pants.
+
+Edit: also scourgify is a charm learned fairly early on so it would be pretty easy to clean stuff
+:PROPERTIES:
+:Author: hamstersmagic
+:Score: 2
+:DateUnix: 1556960472.0
+:DateShort: 2019-May-04
+:END:
+
+
+**** see that whole "wizards pooped and then magic it away" didn't really bother me cause it reminded me of the "fact" that people would just take a dump in a corner at the Palace of Versailles and that the king and queen would vacation for a couple of weeks of the year while the palace got cleaned. (side note, this was actually more like anti-royalist propaganda than historical fact. But it's one of those pseudo facts that stick with you). I'm assuming JKR might have been told a similar story and maybe that's why it didn't seem that weird to her when she wrote that tweet.
+:PROPERTIES:
+:Author: minty_teacup
+:Score: 2
+:DateUnix: 1556946559.0
+:DateShort: 2019-May-04
+:END:
+
+***** Yeah seriously people are losing their mind over that tweet but people did some disgusting shit before modern plumbing.
+:PROPERTIES:
+:Author: hamstersmagic
+:Score: 1
+:DateUnix: 1556960381.0
+:DateShort: 2019-May-04
+:END:
+
+****** I wish JKR took 2 seconds more to think about it and instead wrote "wizards would use chamber pots and then magic the waste away". There. Fixed her tweet. No one would have had a problem with that
+:PROPERTIES:
+:Author: minty_teacup
+:Score: 4
+:DateUnix: 1556983459.0
+:DateShort: 2019-May-04
+:END:
+
+******* It wouldn't be nonsensical anymore, but it'd still grossly contradict /Chamber of Secrets/ where we actually see a wizarding restroom.
+:PROPERTIES:
+:Author: Evan_Th
+:Score: 1
+:DateUnix: 1557183519.0
+:DateShort: 2019-May-07
+:END:
+
+
+** Umm history is wrong it should say goblins et al.
+:PROPERTIES:
+:Author: aslightnerd
+:Score: 3
+:DateUnix: 1556919203.0
+:DateShort: 2019-May-04
+:END:
+
+*** Argh, the subtle intricacies of the English language strike again!
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 1
+:DateUnix: 1556922102.0
+:DateShort: 2019-May-04
+:END:
+
+**** What was incorrect, besides my ignoring of grammer. Which, being on reddit, should be ignored.
+:PROPERTIES:
+:Author: aslightnerd
+:Score: 1
+:DateUnix: 1556922372.0
+:DateShort: 2019-May-04
+:END:
+
+***** I never implied there was anything wrong with your statement.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 1
+:DateUnix: 1556927116.0
+:DateShort: 2019-May-04
+:END:
+
+
+** Very cool, and great inspiration for writers. But some of these seem kinda far from canon, still good though.
+:PROPERTIES:
+:Author: TommyBrooks
+:Score: 3
+:DateUnix: 1556926891.0
+:DateShort: 2019-May-04
+:END:
+
+
+** This is great! Also formatted here very nicely, thank you! I hate to be picky, but I just wanted to add that they do dream interpretation in divination! Thanks for posting this for everyone :)
+:PROPERTIES:
+:Author: beebet
+:Score: 3
+:DateUnix: 1556945165.0
+:DateShort: 2019-May-04
+:END:
+
+*** That is true. That will appear in the revised version of this, I think.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 2
+:DateUnix: 1556973180.0
+:DateShort: 2019-May-04
+:END:
+
+
+** Now this is amazing and so impressive, well done!
+
+I am really interested in the Arithmancy + Study of Ancient Runes and their break down; it look so interesting to me,
+:PROPERTIES:
+:Author: AoifeCheeks
+:Score: 2
+:DateUnix: 1556922094.0
+:DateShort: 2019-May-04
+:END:
+
+
+** No i agree with the defensove curriculum shown here... I mean how many people use everything they learn at school in their jobs, not many! People specialise after school, but that doesnt stop them learning the basics for most things. Like all learning the basics for.m becoming an Auror... Some at Hogwarts could be incapable of casting any DADA spells, they still take the class, at least up until OWL in canon
+:PROPERTIES:
+:Author: RavenclawHufflepuff
+:Score: 2
+:DateUnix: 1557095313.0
+:DateShort: 2019-May-06
+:END:
+
+
+** Love this!
+:PROPERTIES:
+:Author: YOB1997
+:Score: 2
+:DateUnix: 1572397977.0
+:DateShort: 2019-Oct-30
+:END:
+
+
+** Omg. I literally love it
+:PROPERTIES:
+:Author: Maryleighwear
+:Score: 4
+:DateUnix: 1556915554.0
+:DateShort: 2019-May-04
+:END:
+
+
+** This is awesome.
+
+One observation though: With the exception of Potions, there's nothing in this curriculum about giving students tools to /advance/ the state of magic. Granted, this is far from an emphasis for non-magic high school either, but I'd expect there to be at least a little bit about spell-crafting.
+
+In a similar vein, it's unclear if there is anything in Runes about combining runes for magical effects. I assume some magical effects may be mentioned in the context of each alphabet, but I'd also assume that there would be some shared principles underlying /all/ alphabets and so there would be at least some comparative parts of the curriculum.
+
+Similar comments apply to Arithmancy, although there the gap isn't as egregious because one could imagine that that's what goes into the "advanced tenets".
+:PROPERTIES:
+:Author: fyi1183
+:Score: 2
+:DateUnix: 1556947719.0
+:DateShort: 2019-May-04
+:END:
+
+
+** Make DaDa DA&D,Dark Arts and Defense. End the prejudice against Dark Magic.
+:PROPERTIES:
+:Author: MrToddWilkins
+:Score: 1
+:DateUnix: 1563910256.0
+:DateShort: 2019-Jul-24
+:END:

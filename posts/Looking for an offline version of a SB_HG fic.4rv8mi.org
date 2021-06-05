@@ -1,0 +1,31 @@
+#+TITLE: Looking for an offline version of a SB/HG fic
+
+* Looking for an offline version of a SB/HG fic
+:PROPERTIES:
+:Author: dissyblack
+:Score: 3
+:DateUnix: 1467992115.0
+:DateShort: 2016-Jul-08
+:FlairText: Request
+:END:
+Hi Everyone... sorry to barge in but I'm desperate - does anyone happen to have some version of the fic Sirius de Bergerac by Gregor please? It was archived at GrangerEnchanted.com and nowhere else it seems like... unfortunately I somehow missed backing it up and now it's gone forever! Any help would be appreciated... Thanks in Advance.
+
+
+** Looks like the Wayback Machine has the site: [[https://web.archive.org/web/20151204122409/http://www.grangerenchanted.com/]]
+
+Which isn't to say it has the story.
+
+In the future, if you see a site that's going away, you can ping me and I'll find a way to archive it. Sometimes it's nothing more complicated than =wget --mirror http://site.com=.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1468010375.0
+:DateShort: 2016-Jul-09
+:END:
+
+*** Hey... thank you for this but wayback machine does not have the individual story pages archived... :(
+:PROPERTIES:
+:Author: dissyblack
+:Score: 1
+:DateUnix: 1468237638.0
+:DateShort: 2016-Jul-11
+:END:

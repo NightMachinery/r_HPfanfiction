@@ -1,0 +1,119 @@
+#+TITLE: [Suggestion] Story update notices
+
+* [Suggestion] Story update notices
+:PROPERTIES:
+:Author: bloopenstein
+:Score: 13
+:DateUnix: 1453615420.0
+:DateShort: 2016-Jan-24
+:FlairText: Suggestion
+:END:
+So, I've noticed that occasionally stories are posted here when they have updates, frequently after a significant time of stasis. While I don't have a problem with the situation or the posts, it seems as if they are no more than simple announcements, and not so much inspirations for discussion. I haven't even seen all that many of them (a handful in the past week or two?), but it has the potential to become more than a bit... /excessive/. Or cluttered. Or something. Maybe its purely for my own aesthetic preferences, but the situation metaphorically kicked me in the head, and settled my thinking circuits to 'lightbulb-on'.
+
+How bout a thing on the sidebar (or a sticky. can you even change a stickied thread though, to keep it updated week by week?) that has a Recently Updated Fics list, taken from whatever people have used the Bot to share. FicBot's gotta have a list somewhere of everything it's posted, and if [botmaker] can just parse it's list for everything with an update in the past day? week? indeterminate subjective measure of time?, I think it would be very helpfun in finding things to read.
+
+With the sheer quantity of fics posted on ffn, and the inherent 'less pretty and more obfuscated' display as compared to 'Bot, slogging through thousands of words of trash to find the readable, much less the even-rarer /good/ fics is often more work than my lazy ass wants to do. Granted, I know approximately nothing of how 'Bot does what it does, but it seems like a fairly easy thing implement, if others would find this as helpful as I think I would.
+
+Agree? Disagree? Thoughts? Hey botmaker, would this be difficult/time consuming to make/do? Or even worth doing?
+
+
+** I don't really see the usual update posts as a problem, and what you're talking about seems a tad excessive itself. People can ask the bot for a lot of fics, so it would seem more likely to induce clutter than be informative. The update posts always seem more about slow updating (year+) fics or small, no-name stuff from what I've seen, anyway.
+:PROPERTIES:
+:Author: Averant
+:Score: 14
+:DateUnix: 1453632301.0
+:DateShort: 2016-Jan-24
+:END:
+
+
+** I don't mind the announcements, usually they are for fics I wasn't already reading so it's like a suggestion for what to read next. If people are really happy something updated, it must be good. The quality of those fics is usually better than the fics from request-threats, so purely from a what-should-I-read-next perspective they aren't the most useless posts (of course requests have a different purpose).
+
+That said, I'm okay with a list too. But it sounds like a lot of work, while people can easily follow fics and get an update notification that way.
+:PROPERTIES:
+:Author: mossenmeisje
+:Score: 9
+:DateUnix: 1453622671.0
+:DateShort: 2016-Jan-24
+:END:
+
+*** I 100% agree with you, but according to my calculations, all the work is going to be done by someone who isn't me. Therefore, I thought I'd toss it out there and see what happens.
+:PROPERTIES:
+:Author: bloopenstein
+:Score: 1
+:DateUnix: 1453623190.0
+:DateShort: 2016-Jan-24
+:END:
+
+
+** There's really no need for these announcements, other than as a usual promotion. People who were already interested in the story should have already followed it (on FFN at least) and would have been personally notified. So no need for a list either.
+:PROPERTIES:
+:Author: munin295
+:Score: 6
+:DateUnix: 1453619007.0
+:DateShort: 2016-Jan-24
+:END:
+
+
+** I haven't found the promotions to be annoying as they really don't pop up that often and for the most part, when they do it is for some really big name authors/stories that some of us thought might have disappeared. I feel like it may be a bit premature to start trying to add stuff
+:PROPERTIES:
+:Author: Doin_Doughty_Deeds
+:Score: 4
+:DateUnix: 1453628071.0
+:DateShort: 2016-Jan-24
+:END:
+
+
+** That could get very long. You'd probably want a tab for a page listing the links, and then link to that from the sidebar.
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 3
+:DateUnix: 1453616581.0
+:DateShort: 2016-Jan-24
+:END:
+
+
+** I don't mind posts than inform of long neglected story updates. Posts about stories that have updated in the last half year are annoying, but not really needing a system to deal with them. Generally, I don't see a problem.
+:PROPERTIES:
+:Author: ryanvdb
+:Score: 1
+:DateUnix: 1453655228.0
+:DateShort: 2016-Jan-24
+:END:
+
+
+** I don't have a problem with things the way they are- it's not like they're constant, and it's not like we're exactly a hive of activity. Trying to change it, and especially trying to use a script/bot for it, seems needlessly complicated.
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 1
+:DateUnix: 1453694510.0
+:DateShort: 2016-Jan-25
+:END:
+
+
+** I try to skim past them as much as possible. I do not need to skim past them in more than one place. Honestly, I don't see the point to them - I've followed what I want to know about, and the three posts telling me that the Black Princess story was updated are redundant upon redundant upon...
+:PROPERTIES:
+:Author: paperhurts
+:Score: 1
+:DateUnix: 1453727152.0
+:DateShort: 2016-Jan-25
+:END:
+
+*** u/deleted:
+#+begin_quote
+  redundant upon redundant upon...
+#+end_quote
+
+...Well? Upon what? The suspense!
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1453732676.0
+:DateShort: 2016-Jan-25
+:END:
+
+**** Oh, you!
+:PROPERTIES:
+:Author: paperhurts
+:Score: 3
+:DateUnix: 1453734288.0
+:DateShort: 2016-Jan-25
+:END:

@@ -1,0 +1,100 @@
+#+TITLE: [Discussion] A question regarding apparition and momentum.
+
+* [Discussion] A question regarding apparition and momentum.
+:PROPERTIES:
+:Author: GhostPhantomSpectre
+:Score: 17
+:DateUnix: 1467224664.0
+:DateShort: 2016-Jun-29
+:FlairText: Discussion
+:END:
+Let's say that you were falling from a great height. Could Disapparating to the ground save you, or would you just be hastening your own demise?
+
+In short, would Apparition conserve or cancel momentum?
+
+
+** I can't say what would happen exactly if you were falling, but I do know that Apparition does not conserve momentum.
+
+In HBP, we see Harry and Dumbledore Apparate between the south of England and Hogwarts (somewhere in Scotland). If momentum was conserved, the difference in rotational velocity of the Earth's surface would have been deadly.
+
+If your momentum is already being changed, I don't see why you wouldn't be able to save yourself. However, you would have to be quite skilled and calm to be able to muster the right Deliberation and Destination while falling to your likely death.
+
+A very large fall (say out of an aeroplane) would be a much better situation for this than falling out of a tall building. Even a fall from a 20-story building only gives you a few seconds to react, compared to the few minutes it might take to fall at terminal velocity from 35000 ft.
+:PROPERTIES:
+:Score: 17
+:DateUnix: 1467230233.0
+:DateShort: 2016-Jun-30
+:END:
+
+*** To be specific, you'd be thrown at a speed of roughly forty meters per second, or ninety miles an hour, if you Apparated between Aberdeen and London.
+
+If your orientation doesn't change, then you'll be tossed to the east when you travel north, or west when you travel south. So we know that the spell is doing something about your momentum that's more intelligent than preserving it relative to the Earth as a whole.
+
+But it's a matter of frame of reference, isn't it? Like if the spell locates the nearest object massing at least 1000kg at the source, records your velocity relative to it, then restores that velocity relative to the nearest object of at least 1000kg at your destination.
+
+You're standing on the ground in Aberdeen, so it records your velocity relative to the ground beneath your feet in Aberdeen -- you were walking at 1m/s. Then it transports you to London. It finds you're on a plot of ground, so it sets your velocity relative to /that/ bit of ground, and everything works naturally for you.
+
+But then you decide to sky-dive. You jump out of the plane (which weighs over 1000kg) and get scared out of your mind. So you Apparate back into the plane, but you already fell for a bit and you're going 20m/s in some arbitrary direction (since you're inside the object that the spell found).
+
+Or you Apparate to the surface of Black Lake on Hogwarts grounds. The nearest heavy object is the lake. You were falling away from the plane, so you get thrown up away from the lake.
+
+You Apparate from riding a broom in Aberdeen to the ground in London. The spell matched the ground in each respective city since your broom is too light, so you get a nice dose of road rash.
+
+I think this would be a way to make it work intuitively in common cases but interestingly absurd in uncommon cases.
+
+Alternatively, you could make it teleport you /and/ set your velocity however you want. That would be weaponizable, I'm sure.
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1467235221.0
+:DateShort: 2016-Jun-30
+:END:
+
+
+** All evidence suggests that apparating cancels momentum. That's one reason why Hagrid found the idea of James and Lily dying in a car crash laughable.
+
+The whole 'squeezing through a tube' effect suggests that the wizard is busy transfiguring themselves to fit through a micro-wormhole. Splinching happens when you try to close the wormhole before all your parts have gone through.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 11
+:DateUnix: 1467225870.0
+:DateShort: 2016-Jun-29
+:END:
+
+
+** I think that we are assuming that Apparation is teleportation. Upon further thinking, I would state that Apparation is Transmigration, not teleportation. That is the key to the question you ask. Teleportation is when one person's complete being is moved to point B nearly instantaneously from point A. But we know that Apparation is not instantaneous, as there is enough time for people grab onto you as you Apparate, for there to be a knife to embed itself into your chest, and for air to displace twice. The latter is essential to notice. Since there are two pops every time a person Apparates, that means it cannot be instantaneous since two pops are heard. If it was instantaneous then only one pop would be heard. That being said, if it was teleportation, then momentum would be conserved, thus you would go splat.
+
+Transmigration however is when something (in this case a magical being) is moved to another destination in such a way that distance is hardly a factor. This means that unlike teleportation which by definition must be instantaneous, Transmigration does not. Transmigration also would not be affected by momentum since its NOT instantaneous. It explains why people can Apparate in midstride, in midair, and why altitude does not seem to matter to the one who is Apparating.
+
+TL:DR- Apparation is Transmigration, thus momentum does not play a factor.
+:PROPERTIES:
+:Author: Zerokun11
+:Score: 7
+:DateUnix: 1467244782.0
+:DateShort: 2016-Jun-30
+:END:
+
+
+** If you could muster enough concentration and control over your body's movements in freefall, then maybe.
+
+But every instance of Apparition that we've seen involved a witch/wizard Disapparating from a fixed point to another, save the Trio's escape from the Atrium in DH... And we all know what happened there.
+:PROPERTIES:
+:Author: Ihateseatbelts
+:Score: 6
+:DateUnix: 1467225743.0
+:DateShort: 2016-Jun-29
+:END:
+
+*** [deleted]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1467238593.0
+:DateShort: 2016-Jun-30
+:END:
+
+**** Hermione's just awesome like that, methinks.
+:PROPERTIES:
+:Author: Execute13
+:Score: 2
+:DateUnix: 1467243140.0
+:DateShort: 2016-Jun-30
+:END:

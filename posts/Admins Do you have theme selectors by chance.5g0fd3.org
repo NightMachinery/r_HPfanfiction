@@ -1,0 +1,102 @@
+#+TITLE: Admins: Do you have theme selectors by chance?
+
+* Admins: Do you have theme selectors by chance?
+:PROPERTIES:
+:Author: kjpotter
+:Score: 23
+:DateUnix: 1480641624.0
+:DateShort: 2016-Dec-02
+:END:
+Admins, I'm not sure where else to post this, but even as I type, the white on black looks so blurry to me; it's hard to read. Are there plans perhaps to implement a theme selector as seen on sites like SIYE and others? I don't mean to suggest that the overall look isn't nice, because it is, but the text scheme, the bright white on black just hurts the eyes! Thanks.
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 8
+:DateUnix: 1480646535.0
+:DateShort: 2016-Dec-02
+:END:
+
+*** Where? My eyes hurt X_X
+
+edit: found it! Right above the susbcribe button phew
+:PROPERTIES:
+:Author: catch22needtoreadit
+:Score: 3
+:DateUnix: 1480809549.0
+:DateShort: 2016-Dec-04
+:END:
+
+
+*** Even without RES there's also a checkbox in your Reddit account preferences. This is side-wide. Personally I never missed custom subreddit designs, but I guess RES is better if you only want to get rid of it for certain subs.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 2
+:DateUnix: 1480682542.0
+:DateShort: 2016-Dec-02
+:END:
+
+**** Not seeing the themes on the other subs is worth it not to see this one.
+:PROPERTIES:
+:Author: Woild
+:Score: 3
+:DateUnix: 1480696117.0
+:DateShort: 2016-Dec-02
+:END:
+
+
+** The other way is to get a user-css browser extension like /Stylish/ or /UserCSS/ and use the following stylesheet. It keeeps most of the layout, but reverses the colors. It's a quick hack, but servicable.
+
+#+begin_example
+      .modtools-page>div.content, .res.res-commentBoxes body>.content, body>.content, .link .usertext-body .md, .side, .link .md :not(pre)>code, .link .md pre, .md code, .md pre, .new-comment .md :not(pre)>code, .new-comment .md pre, .usertext.border .md :not(pre)>code, .usertext.border .md pre,
+      .hover-bubble.multi-selector .create-multi input[type=text], input#url, input[type=text], textarea {
+       background: #eee!important;
+       color: #333!important;
+      }
+
+      .md, blockquote, .menuarea, .panestack-title, h1, h2, h3, h4, h5, h6,
+      #searchexpando a, .res #srList a, a, body .generic-table {
+        color: #333!important;
+      }
+
+      body span.score {
+       color: #3b963b!important;
+      }
+
+      .entry .buttons li a, .entry .buttons li a.nonbutton, .link .entry .tagline, .link .redditSingleClick, .tagline a, .md a, .dropdown.lightdrop .selected {
+        color: #555!important;
+      }
+
+      .search-result-header>a, .thing a.title.may-blank.logged-in {
+        color: #ff8914!important;
+      }
+
+      lcTagged.RES-keyNav-activeElement {
+       background: #efe!important;
+       color: #343!important;
+
+      }
+#+end_example
+:PROPERTIES:
+:Author: nothorse
+:Score: 2
+:DateUnix: 1480657758.0
+:DateShort: 2016-Dec-02
+:END:
+
+
+** I myself have experienced issues on mobile. The selector next to the snoo at the top(to switch between, hot/new/etc) breaks on mobile for me. I have to manually type in /new
+:PROPERTIES:
+:Author: ChaoQueen
+:Score: 1
+:DateUnix: 1480660052.0
+:DateShort: 2016-Dec-02
+:END:
+
+*** Doesn't seem to work on surface either but no one cares about surfaces, not even Microsoft.
+:PROPERTIES:
+:Author: herO_wraith
+:Score: 2
+:DateUnix: 1480668489.0
+:DateShort: 2016-Dec-02
+:END:

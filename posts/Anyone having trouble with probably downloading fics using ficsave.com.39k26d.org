@@ -1,0 +1,151 @@
+#+TITLE: Anyone having trouble with probably downloading fics using ficsave.com?
+
+* Anyone having trouble with probably downloading fics using ficsave.com?
+:PROPERTIES:
+:Author: onlytoask
+:Score: 3
+:DateUnix: 1434094059.0
+:DateShort: 2015-Jun-12
+:FlairText: Discussion
+:END:
+I keep getting blank chapters. Anyone know what's wrong or how to fix it?
+
+
+** Never gotten a blank chapter but I always use the email option.
+
+What kind of path is your input ? Could you give an example ?
+
+Did this start recently ?
+:PROPERTIES:
+:Author: throwaway24182
+:Score: 2
+:DateUnix: 1434100153.0
+:DateShort: 2015-Jun-12
+:END:
+
+*** By path, do you mean format? I download into PDF files. I only started using the site a couple days ago. An exact example would be A Butterfly Effect by SlyGoddess. I've tried to download it a couple times and it's always missing chapters, usually chapter 10, at least. It happens with almost every single long fic I try to download. I can't use the email option as I don't use kindle.
+:PROPERTIES:
+:Author: onlytoask
+:Score: 2
+:DateUnix: 1434100790.0
+:DateShort: 2015-Jun-12
+:END:
+
+**** how many pages would you have in the pdf ? i got arround 1100
+:PROPERTIES:
+:Author: throwaway24182
+:Score: 1
+:DateUnix: 1434106682.0
+:DateShort: 2015-Jun-12
+:END:
+
+***** I got 1124. There's no chapter 10, though.
+:PROPERTIES:
+:Author: onlytoask
+:Score: 1
+:DateUnix: 1434107122.0
+:DateShort: 2015-Jun-12
+:END:
+
+****** I can replicate the problem !!!
+
+Can't replicate it with .mobi but is possible to recreate with .pdf
+:PROPERTIES:
+:Author: throwaway24182
+:Score: 1
+:DateUnix: 1434111981.0
+:DateShort: 2015-Jun-12
+:END:
+
+******* So you're getting the same thing?
+:PROPERTIES:
+:Author: onlytoask
+:Score: 1
+:DateUnix: 1434112055.0
+:DateShort: 2015-Jun-12
+:END:
+
+******** yes for pdf the chapter is empty in .mobi the chapter is full.
+
+Maybe you could use a .mobi to .pdf converter until the problem is fixed.
+:PROPERTIES:
+:Author: throwaway24182
+:Score: 1
+:DateUnix: 1434113174.0
+:DateShort: 2015-Jun-12
+:END:
+
+
+** I've had this happen before. I think it happens if the http request for that chapter times out. I'm pretty sure ficsave.com waits in between chapter retrieval so that it doesn't overload ff.net, so if it can't get the chapter then it gives a blank one and moves to the next chapter.
+
+However, I'm just guessing about it. You can also try to use [[http://p0ody-files.com/ff_to_ebook/]] to download the fic, but it isn't as good at preserving formatting of the fic.
+:PROPERTIES:
+:Author: fxf
+:Score: 2
+:DateUnix: 1434127164.0
+:DateShort: 2015-Jun-12
+:END:
+
+
+** I've downloaded around 300 fics with the *[[http://www.mobileread.com/forums/showthread.php?t=259221][FanFicFare]]* plugin for Calibre. Absolutely no issues.
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1434143938.0
+:DateShort: 2015-Jun-13
+:END:
+
+
+** What site are you downloading from ? The author of that site is on Twitter @FicSave maybe you could tweet them on it ?
+:PROPERTIES:
+:Author: bluspacecow
+:Score: 1
+:DateUnix: 1434107948.0
+:DateShort: 2015-Jun-12
+:END:
+
+*** ff.net
+
+I've already contacted the guy through his reddit account. I'm waiting for a reply.
+:PROPERTIES:
+:Author: onlytoask
+:Score: 1
+:DateUnix: 1434108352.0
+:DateShort: 2015-Jun-12
+:END:
+
+**** I haven't seen anything about fanfiction.net having a format update at all.
+
+Have you tried other fanfiction downloading tools or sites ? Have you loaded the fanfiction up at fanfiction.net to check if it still exists ?
+:PROPERTIES:
+:Author: bluspacecow
+:Score: 1
+:DateUnix: 1434113083.0
+:DateShort: 2015-Jun-12
+:END:
+
+***** I tried fanfictiondownloader, but it takes forever and I don't very much like it's formatting. I know the fanfiction still exists, I've been downloading them the past few days. It's just that the downloader skips chapter content.
+:PROPERTIES:
+:Author: onlytoask
+:Score: 1
+:DateUnix: 1434113401.0
+:DateShort: 2015-Jun-12
+:END:
+
+
+** Yea this happens a lot with large fics. It's cause sometimes ffnet doesn't respond fast enough so it skips a chapter. Try using poody or fanficdownloader on your comp
+:PROPERTIES:
+:Author: Theowalcottisthebest
+:Score: 1
+:DateUnix: 1434179626.0
+:DateShort: 2015-Jun-13
+:END:
+
+
+** The problem I've noticed is that maybe every 100 words or so, a word won't have the first letter, which is not a huge issue because I can usually infer what it is, but it can be pretty distracting!
+:PROPERTIES:
+:Author: redditj4
+:Score: 1
+:DateUnix: 1434646330.0
+:DateShort: 2015-Jun-18
+:END:

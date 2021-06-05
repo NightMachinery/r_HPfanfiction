@@ -1,0 +1,121 @@
+#+TITLE: Harry Potter Text Generator
+
+* Harry Potter Text Generator
+:PROPERTIES:
+:Author: Madam_Hook
+:Score: 27
+:DateUnix: 1431888874.0
+:DateShort: 2015-May-17
+:FlairText: Misc
+:END:
+This is a bit different than our usual fare on this sub, but it's /kinda/ like fan fiction, if the fan fiction was written by a drunken monkey.
+
+One of my hobbies (other than reading fan fiction) is Python programming, and this week I made a Harry Potter Markov chain generator. The idea is that you input a text, and the program finds all of the word sets of a specified length (the word sets of length two in "the Order of the Phoenix" would be "the Order", "Order of", "of the", and "the Phoenix") and tries to re-combine them by overlapping shared words ("of the" could be followed with "the Phoenix" or "the Order", but not with "Order of"). So, being the Potter fan I am, I set my input text as the first five HP books (I couldn't find good txt files of the last two books). With a word set length of two like in the example above the output almost makes sense if you squint at it funny. With a longer word set the output makes more sense, but it also is less scrambled and ends up directly quoting longer passages from the book.
+
+Enough theory, let's see some examples!
+
+An output with a longer word set length (4) that almost makes sense:
+
+#+begin_quote
+  "Well, I think that's everything of importance," Said Dumbledore. "Let the feast begin!" The golden plates and goblets and examining them, apparently impressed. Up at the staff table, Filch, the caretaker, was loathed by every student in the school.
+
+  "And you, Potter, will be helping Professor Lockhart answer his fan mail," said Professor McGonagall. "Oh n - Professor, can't I go and do the trophy room, too?" Said Harry desperately. "Certainly not," Said Professor McGonagall, raising her eyebrows. "Professor Lockhart requested you particularly. Eight o'clock sharp, both of you." Harry and Ron slouched into the Great Hall carrying the mail as usual, and Neville choked as a huge barn owl landed in front of her so that it stuck up in the air once more.
+
+  'Second signal, let's go!' said Lupin loudly as more sparks, green this time, exploded high above them. Harry kicked off hard from the ground. The cool night air rushed through his hair as the neat square gardens of Privet Drive fell away, shrinking rapidly into a patchwork of dark greens and blacks, and every thought of the Ministry hearing. What if they ruled against him? What if he was expelled and his wand was snapped in half? What would he do, where would he go?
+#+end_quote
+
+An output with a shorter word set length (2) that is more chaotic:
+
+#+begin_quote
+  A Wizarding Genealogy. There was a matter of fact,' said Hermione earnestly. "We're witnesses," Said Harry. "We just heard it somewhere else!' 'DO YOU UNDERSTAND ME?' 'GET THAT THING AWAY FROM -' Dudley gave a whimper. "You heard James?" Said Lupin quietly, looking at the curves. And then, from right under the rim told Harry he and Harry heard it, too. Of the many students filed past the Slytherin table. With a low voice, fury now pumping so hard on Wood sometimes.' She was rocking backwards and forwards, clutching her chest.
+
+  "Harry Potter is greater by far had been filled with its horny little feet; he grasped it around his eye against the wall; Harry actually pulled in his sleep. An owl hooted somewhere out in the place at the thought of Sirius, Kreacher flung himself sideways onto the dance floor, and to see the sun warming the castle to visit her every evening. When the Potions master, the mail arriving by flying car." When they arrived in the fountain. The plump witch carrying a couple o' swings at me like I was kind.
+
+  "They see the street to the floor above reached their Defence Against the Dark Arts teachers, both of you." Harry and Ron stood talking about him being led to the Marauder's Map, but he did so, platform nine and three-quarters, which wasn't visible to the floor; every piece of parchment over, looking for a student's rights? Harry, you're still on his wand, and the unicorns... Ron had lowered his voice. How could he be with you?"
+
+  Said George. "Who d'you reckon it's better if he carried his lightning-bolt scar? Was the Grim at all keen on it; he raised the bough again and it's Katie Bell, Alicia Spinnet and Angelina Johnson, who looked tearful. 'Nor did I,' said Ron furiously. "Listen... you know my mother, Potter."
+#+end_quote
+
+What do you think?
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 9
+:DateUnix: 1431897320.0
+:DateShort: 2015-May-18
+:END:
+
+*** Haha, that line made me laugh, too!
+:PROPERTIES:
+:Author: Madam_Hook
+:Score: 1
+:DateUnix: 1431919878.0
+:DateShort: 2015-May-18
+:END:
+
+
+** Hits at least the 50th percentile on quality for FF.net. I say it's good!
+
+"Harry actually pulled in his sleep." bwahahhaa
+:PROPERTIES:
+:Author: rainbowmoonheartache
+:Score: 9
+:DateUnix: 1431902828.0
+:DateShort: 2015-May-18
+:END:
+
+*** LOL.
+:PROPERTIES:
+:Author: Karinta
+:Score: 5
+:DateUnix: 1431909564.0
+:DateShort: 2015-May-18
+:END:
+
+
+** I thought this was going to be something involving context-free grammars, and generating Harry Potter fanfiction synopsis ideas. That's something I've often felt like doing after spending an hour or two fishing for a good fic.
+
+I think you should horrify all of the ultra-conservative Christians, and mix Harry Potter and the bible; it might work as well as what this guy did: [[http://kingjamesprogramming.tumblr.com/]]
+:PROPERTIES:
+:Author: fastfinge
+:Score: 7
+:DateUnix: 1431908893.0
+:DateShort: 2015-May-18
+:END:
+
+*** That's such a good idea! I can see it now: "The Gospel of Potter". I'll make an update when I've got it working.
+:PROPERTIES:
+:Author: Madam_Hook
+:Score: 2
+:DateUnix: 1431919493.0
+:DateShort: 2015-May-18
+:END:
+
+**** If you need bible data for training, this might be helpful: [[http://www.sacred-texts.com/bib/osrc/]]
+
+Stripping out books and verses is a simple matter of a regular expression.
+:PROPERTIES:
+:Author: fastfinge
+:Score: 1
+:DateUnix: 1431969413.0
+:DateShort: 2015-May-18
+:END:
+
+
+** What do I think? I think this is really neat to see.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1431903311.0
+:DateShort: 2015-May-18
+:END:
+
+*** From a programming standpoint it was fun to work with something that had a text output (it'd be a stretch to call it a "narrative" output!) rather than a numerical output.
+
+Using Harry Potter as my input text changed the project from "Huh, this is interesting" to "This is so cool!" Every output I've gotten so far has made me giggle.
+:PROPERTIES:
+:Author: Madam_Hook
+:Score: 2
+:DateUnix: 1431920087.0
+:DateShort: 2015-May-18
+:END:

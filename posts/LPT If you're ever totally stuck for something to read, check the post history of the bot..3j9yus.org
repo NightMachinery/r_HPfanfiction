@@ -1,0 +1,157 @@
+#+TITLE: LPT: If you're ever totally stuck for something to read, check the post history of the bot.
+
+* LPT: If you're ever totally stuck for something to read, check the post history of the bot.
+:PROPERTIES:
+:Score: 40
+:DateUnix: 1441145036.0
+:DateShort: 2015-Sep-02
+:FlairText: Misc
+:END:
+
+** [[https://www.reddit.com/user/FanfictionBot]]
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 15
+:DateUnix: 1441152106.0
+:DateShort: 2015-Sep-02
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 10
+:DateUnix: 1441147299.0
+:DateShort: 2015-Sep-02
+:END:
+
+*** Yeah I accidentally clicked on it and realised it's a complete list of fic recommendations and if you check the thread name that the comments posted on you can even see why it was recommended.
+:PROPERTIES:
+:Score: 11
+:DateUnix: 1441147890.0
+:DateShort: 2015-Sep-02
+:END:
+
+**** I was gonna say you can sort the bot's comments by "top" rather than "new", but then the top "rec" right now is this atrocity: linkffn(Kitten Ears and Lion Hugs)
+:PROPERTIES:
+:Author: delmarria
+:Score: 3
+:DateUnix: 1441218859.0
+:DateShort: 2015-Sep-02
+:END:
+
+***** [[http://www.fanfiction.net/s/8236444/1/][*/Kitten Ears and Lion Hugs/*]] by [[https://www.fanfiction.net/u/4038918/HPSSflufflover][/HPSSflufflover/]]
+
+#+begin_quote
+  It's Harry's fourth year and fate couldn't have picked worse timing. Mated to a possessive Draco? Check, Entered in the Triwizard tournament? Check, successfully became the schools most wanted boyfriend? Check. Oh this was going to be a fun year. HP/DM fluff. Warnings: fluffy spankings Not bdsm
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 18 *|* /Words/: 52,839 *|* /Reviews/: 305 *|* /Favs/: 660 *|* /Follows/: 619 *|* /Updated/: 8/1 *|* /Published/: 6/20/2012 *|* /id/: 8236444 *|* /Language/: English *|* /Genre/: Romance/Humor *|* /Characters/: Harry P., Draco M. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=8236444][EPUB]]}
+
+--------------
+
+*Bot v1.1.2 - 7/28/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* /Direct EPUB downloads for FFnet!/
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1441218924.0
+:DateShort: 2015-Sep-02
+:END:
+
+
+***** ...
+
+This was in response to one of my comments.
+
+Apparently it's the fic that gets linked if you just write linkffn() and don't put anything in the brackets...
+
+EDIT: It seems I was mistaken. [[/u/tusing]]?
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1441220430.0
+:DateShort: 2015-Sep-02
+:END:
+
+****** [[http://www.fanfiction.net/s/10587413/1/][*/My Wife and Kids/*]] by [[https://www.fanfiction.net/u/4528541/TALKS][/TALKS/]]
+
+#+begin_quote
+  Brittany and Santana juggle raising three teenagers while still handling their own personal Hollywood Careers. *Trilogy to Forever Friends and Hollywood Living" *Brittana*Smut*Romance*Humor*
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Glee *|* /Rated/: Fiction M *|* /Chapters/: 43 *|* /Words/: 278,655 *|* /Reviews/: 1,765 *|* /Favs/: 274 *|* /Follows/: 351 *|* /Updated/: 8/30 *|* /Published/: 8/2/2014 *|* /id/: 10587413 *|* /Language/: English *|* /Genre/: Romance/Drama *|* /Characters/: <Brittany P., Santana L.> *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=10587413][EPUB]]}
+
+--------------
+
+*Bot v1.1.2 - 7/28/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* /Direct EPUB downloads for FFnet!/
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1441220471.0
+:DateShort: 2015-Sep-02
+:END:
+
+******* I'm so glad that not only does a nearly 300,000 word fic exist about this but also that it's the final of a trilogy...
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1441220856.0
+:DateShort: 2015-Sep-02
+:END:
+
+
+****** It seems to be random, for now. The next update should remove this issue. For now, use a backslash in the middle of the link\ffn() command like so:
+
+= link\ffn()=
+
+so the bot can't parse the command (it only searches for exactly "link\ffn(...)".
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1441224945.0
+:DateShort: 2015-Sep-03
+:END:
+
+
+** Its so obvious that you need someone to point it out to you.\\
+Congratulations, you have found a new usecase for the bot.
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 6
+:DateUnix: 1441215402.0
+:DateShort: 2015-Sep-02
+:END:
+
+
+** What does LPT mean?
+:PROPERTIES:
+:Author: FutureTrunks
+:Score: 6
+:DateUnix: 1441146775.0
+:DateShort: 2015-Sep-02
+:END:
+
+*** Life pro tip
+:PROPERTIES:
+:Score: 7
+:DateUnix: 1441147306.0
+:DateShort: 2015-Sep-02
+:END:
+
+
+** How... have... I not thought of this before?!... omg
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1441207231.0
+:DateShort: 2015-Sep-02
+:END:
+
+
+** ooooh smart.
+:PROPERTIES:
+:Author: OwlPostAgain
+:Score: 2
+:DateUnix: 1441217469.0
+:DateShort: 2015-Sep-02
+:END:

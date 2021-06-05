@@ -1,0 +1,97 @@
+#+TITLE: Using bot to download story, will remove post later.
+
+* Using bot to download story, will remove post later.
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1600747027.0
+:DateShort: 2020-Sep-22
+:FlairText: Misc
+:END:
+[deleted]
+
+
+** u/chlorinecrownt:
+#+begin_example
+  javascript:(function()%7Bvar ficsaveStoryUrl=
+  encodeURI(window.location.href);var ficsaveFormat="epub";
+  var ficsaveUrl="http://ficsave.xyz/?url="+ficsaveStoryUrl+
+  "&format="+ficsaveFormat+"&download=yes";
+  window.open(ficsaveUrl, "_blank");%7D)()
+#+end_example
+
+[save this link as a bookmark](javascript:(function()%7Bvar ficsaveStoryUrl=encodeURI(window.location.href);var ficsaveFormat="epub";var ficsaveUrl="[[http://ficsave.xyz/?url="+ficsaveStoryUrl+"&format="+ficsaveFormat+"&download=yes";window.open(ficsaveUrl]], "_blank");%7D)())
+
+It will bring you to a website with a download as epub url.
+:PROPERTIES:
+:Author: chlorinecrownt
+:Score: 3
+:DateUnix: 1600747564.0
+:DateShort: 2020-Sep-22
+:END:
+
+*** Thank you!
+:PROPERTIES:
+:Author: goldenbnana
+:Score: 1
+:DateUnix: 1600750660.0
+:DateShort: 2020-Sep-22
+:END:
+
+
+** Two better options not bothering everybody else:
+
+- [[https://github.com/JimmXinu/FanFicFare]] -- either command line tool or the Calibre plugin
+
+- [[https://www.ff2ebook.com/]]
+:PROPERTIES:
+:Author: ceplma
+:Score: 3
+:DateUnix: 1600751042.0
+:DateShort: 2020-Sep-22
+:END:
+
+
+** [[https://www.fanfiction.net/s/13614247/1/][*/The Pugilist/*]] by [[https://www.fanfiction.net/u/5433116/Luna-Incendia14][/Luna-Incendia14/]]
+
+#+begin_quote
+  Annabeth Chase continues to buy milk even though she forgets to drink it and goes on long walks just to get lost. She's a senior in college just trying to graduate top of her class and suffering from annoying feelings for the boy with green eyes in her art history class. But there's a ghost in the apartment next to Annabeth Chase's and he can't leave.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Percy} ^{Jackson} ^{and} ^{the} ^{Olympians} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{5} ^{*|*} ^{/Words/:} ^{26,665} ^{*|*} ^{/Reviews/:} ^{55} ^{*|*} ^{/Favs/:} ^{47} ^{*|*} ^{/Follows/:} ^{71} ^{*|*} ^{/Updated/:} ^{7/24} ^{*|*} ^{/Published/:} ^{6/12} ^{*|*} ^{/id/:} ^{13614247} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Romance/Supernatural} ^{*|*} ^{/Characters/:} ^{<Annabeth} ^{C.,} ^{Percy} ^{J.>} ^{Luke} ^{C.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13614247&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13614247&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/FanfictionBot/reddit-ffn-bot/wiki/Usage][Usage]] | [[https://www.reddit.com/message/compose?to=tusing][Contact]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1600747046.0
+:DateShort: 2020-Sep-22
+:END:
+
+
+** Backup: linkffn(13614247)
+:PROPERTIES:
+:Author: goldenbnana
+:Score: 1
+:DateUnix: 1600747062.0
+:DateShort: 2020-Sep-22
+:END:
+
+*** [[https://www.fanfiction.net/s/13614247/1/][*/The Pugilist/*]] by [[https://www.fanfiction.net/u/5433116/Luna-Incendia14][/Luna-Incendia14/]]
+
+#+begin_quote
+  Annabeth Chase continues to buy milk even though she forgets to drink it and goes on long walks just to get lost. She's a senior in college just trying to graduate top of her class and suffering from annoying feelings for the boy with green eyes in her art history class. But there's a ghost in the apartment next to Annabeth Chase's and he can't leave.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Percy} ^{Jackson} ^{and} ^{the} ^{Olympians} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{5} ^{*|*} ^{/Words/:} ^{26,665} ^{*|*} ^{/Reviews/:} ^{55} ^{*|*} ^{/Favs/:} ^{47} ^{*|*} ^{/Follows/:} ^{71} ^{*|*} ^{/Updated/:} ^{7/24} ^{*|*} ^{/Published/:} ^{6/12} ^{*|*} ^{/id/:} ^{13614247} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Romance/Supernatural} ^{*|*} ^{/Characters/:} ^{<Annabeth} ^{C.,} ^{Percy} ^{J.>} ^{Luke} ^{C.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13614247&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13614247&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/FanfictionBot/reddit-ffn-bot/wiki/Usage][Usage]] | [[https://www.reddit.com/message/compose?to=tusing][Contact]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1600747080.0
+:DateShort: 2020-Sep-22
+:END:

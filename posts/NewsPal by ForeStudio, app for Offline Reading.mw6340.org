@@ -1,0 +1,24 @@
+#+TITLE: NewsPal by ForeStudio, app for Offline Reading
+
+* NewsPal by ForeStudio, app for Offline Reading
+:PROPERTIES:
+:Author: IzayaYagami
+:Score: 0
+:DateUnix: 1619101976.0
+:DateShort: 2021-Apr-22
+:FlairText: Discussion
+:END:
+found an app to read fanfic offline (like fanfiction's app but works for AO3 and WattPad)
+
+I like it because it bypasses the limits of other app: Wattpad's app only 2 offline books, ads between chapters, an invasive privacy policy, AO3 doesn't even have an app.
+
+Its called [[https://apps.apple.com/app/newspal-offline-web-browser/id1501637899][NewsPal]] ([[https://apps.apple.com/app/newspal-offline-web-browser/id1501637899]]). Find a story you like on Wattpad/AO3, share it with NewsPal, and you can read it offline, no ads, no logins, no one stealing your data, and it supports up to 5 wattpad stories and unlimited AO3 stories (and 500mb of news offline).
+
+(I posted about it a while ago and some people used it and enough people sent feedback that they had a major rehaul to better support wattpad/ao3).
+
+[[https://imgur.com/a/O4NkD3H][Some Imgur screenshots of the app in action]]:
+
+ps. doesn't work on [[http://fanfiction.net/][fanfiction.net]], doesn't work on Wattpad's paid stories.
+
+-like any writer, the makers of this app would appreciate your feedback, please give them some thru the app store or by going in app, tapping on the gear symbol in the upper left corner and tapping on "Leave Feedback"
+

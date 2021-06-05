@@ -1,0 +1,92 @@
+#+TITLE: Is there a program like flipper that isn't so slow and with a better UI?
+
+* Is there a program like flipper that isn't so slow and with a better UI?
+:PROPERTIES:
+:Author: Miqdad_Suleman
+:Score: 4
+:DateUnix: 1570383358.0
+:DateShort: 2019-Oct-06
+:FlairText: Misc
+:END:
+The UI isn't that bad, but it was hard to understand when I started using it. But it freezes a lot and, occasionally, repeats errors when I haven't clicked on anything.
+
+
+** Assuming you are talking about the program that [[/u/rocketguy2]] mentioned, I don't think there is anything else that extensive.
+
+Your best bet is probably to report issues/request features or improvements on the github. Or contact the dev via mail/discord.
+:PROPERTIES:
+:Author: Leangeful
+:Score: 3
+:DateUnix: 1570398381.0
+:DateShort: 2019-Oct-07
+:END:
+
+*** Thanks. I'll try that. For all I know, though, it could just be my laptop. I'll have to clean it up a bit and try again.
+:PROPERTIES:
+:Author: Miqdad_Suleman
+:Score: 1
+:DateUnix: 1570448298.0
+:DateShort: 2019-Oct-07
+:END:
+
+
+** FLIPPER!!! :) FLIPPER THE DOLPHIN! I LOVE FLIPPER HE'S SO CUTE YES HE IS AND FLIPS!
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1570388544.0
+:DateShort: 2019-Oct-06
+:END:
+
+*** You've earned this upvote for making me laugh. It was just so out of place and I somehow missed it when replying to the other two commenters yesterday.
+:PROPERTIES:
+:Author: Miqdad_Suleman
+:Score: 3
+:DateUnix: 1570473339.0
+:DateShort: 2019-Oct-07
+:END:
+
+
+** Wrong sub maybe ?
+:PROPERTIES:
+:Author: K0ULIK0V
+:Score: 1
+:DateUnix: 1570388521.0
+:DateShort: 2019-Oct-06
+:END:
+
+*** [[https://github.com/Zeks/flipper][I assume he's talking about this, but I could be wrong]]
+:PROPERTIES:
+:Author: rocketguy2
+:Score: 5
+:DateUnix: 1570392703.0
+:DateShort: 2019-Oct-06
+:END:
+
+**** Yeah. Sorry, should have been clearer.
+:PROPERTIES:
+:Author: Miqdad_Suleman
+:Score: 1
+:DateUnix: 1570448246.0
+:DateShort: 2019-Oct-07
+:END:
+
+
+** Can you record a video of you using it? It's hard to estimate what you mean by slow. And record the errors too. And I am not entirely sure what you mean by freezes
+
+anyway, flipper has a support discord here: [[https://discord.gg/AdDvX5H]]
+
+Also, I will freely admit UI is confusing to start using it but it's designed to give power search first and foremost and there are both tutorials and videos.
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1571156522.0
+:DateShort: 2019-Oct-15
+:END:
+
+*** I actually went back to it about a week ago. I realised it was the fact that my 'temp' files folder was overflowing. I tried it again and it's ok. I did manage to figure out the UI eventually as well. Thanks for the link!
+:PROPERTIES:
+:Author: Miqdad_Suleman
+:Score: 1
+:DateUnix: 1571395527.0
+:DateShort: 2019-Oct-18
+:END:

@@ -1,0 +1,204 @@
+#+TITLE: If Conjuration is a part of Transfiguration. why are incendio and aguamenti considered charms?
+
+* If Conjuration is a part of Transfiguration. why are incendio and aguamenti considered charms?
+:PROPERTIES:
+:Author: Snoo-31074
+:Score: 19
+:DateUnix: 1602172509.0
+:DateShort: 2020-Oct-08
+:FlairText: Discussion
+:END:
+Honest question and it's been in my head for a while. Why are those two spells considered charms when you basically conjure flames/water?\\
+Also, what is your general impression regarding the permanency of transfigured objects and conjured objects?
+
+I'd love to hear your theories!
+
+
+** Both conjuration and animation appear to have parallel forms in Charms and Transfiguration.
+
+*Animation*
+
+An example of Transfiguration animation is McGonagall's chess set in PS (and presumably all wizarding chess sets). Dumbledore's statue animation in OotP is also possibly a transfiguration.
+
+An example of animation in Charms are making a pineapple dance across a desk (PS).
+
+Just to complete the set, there are also animation within the Dark Arts, such as the Tarantallegra Jinx which makes the victim dance, or even Inferi.
+
+My best guess as to the difference between them relates to the method of how the animation occurs. The chess set's animation appears to function independently of McGonagall. She animates the stuff, walks away, and it's still animated months later, acting independently of McGonagall without needing her directions.
+
+In contrast, the examples of animation we see in Charms all seem to involve the caster imbuing the object with a specific behaviour. The object has no true life of its own; it is simply being moved around by the caster like a puppet.
+
+This makes sense. We know transfiguration can create life because we have seen it used to create pigs, dogs, and other animals. So it's consistent that transfiguration should be able to give life to objects. It just so happens with the chess set that the objects in question are not animals.
+
+The explanation I have used in Victoria Potter draws upon the Early Modern theory of vitalism, the idea that living matter is animated by a "vital force" and that is what makes it different to other matter. In most of the universe, for a thing to move, something else has to hit it and impart it with motion; life is the only matter which moves of its own accord, which must mean that living matter is driven by a force not possessed by non-living matter.
+
+So in VP I took that idea and made it true. Animation in Transfiguration gives an object vital force. The object is turned into living matter. It has its own life and behaviour independent of the caster. Meanwhile, Charms simply simulates the appearance of life by moving under the power of the caster.
+
+*Conjuration*
+
+Preliminary point: JKR has said that all conjured objects disappear after a time. So that's where we have to end up.
+
+It's easiest here to start with transfiguration. There are two observations to make here:
+
+1. The nature of Transfiguration is that of creating true /physical/ change.
+
+2. Transfiguration does not alter a thing's /magical/ nature.
+
+When you transfigure something into something else, it's not a tactile illusion. The thing has physically altered; that is why transfiguration is permanent, because in the absence of a further magical intervention (e.g. untransfiguration) physical things do not spontaneously turn into other physical things.
+
+However, the thing's magical nature is not changed by Transfiguration and the object can be forced back into its magical nature by Untransfiguration. An Untransfigured object carries all of the things that have happened to it while in transfigured form: Malfoy, after being turned back into human form, winces from the pain of being bounced around as a ferret. This implies that Untransfiguration doesn't turn a thing back into what it used to be, which is the alternative explanation for how it works. Rather, there is object continuity which implies that as well as being physically altered there is something which remains unaltered - it's non-physical, or magical, nature.
+
+So when you conjure something with transfiguration, the thing is physically real: if you put it under a microscope, you would see cells etc. That's what transfiguration does.
+
+But what about its magical nature? The best clue we have to this is vanishing. In DH, McGonagall says that vanishing sends things into non-being. In OotP, McGonagall contrasts vanishing and conjuration, which implies they are linked in some sense, perhaps two sides of the same coin. If so, then the magical nature of a conjured object would be that of non-being.
+
+So a conjured object using transfiguration is /physically/ real but /magically/ false. And that is why they eventually fade: they lack magical reality.
+
+Since we know that charms conjurations also must fade after a time, they cannot be both physically and magically real. Which provides a neat explanation for what Charms conjurations are: in contrast to transfiguration conjuration, they are /physically/ false but /magically/ real.
+
+This actually works out quite nicely. Physical change is the realm of Transfiguration; Charms doesn't do it. So of course Charms can't create an object which is physically real. A Charms conjuration would be like a magical construct which has the appearance and feel of matter, but is just made up of magic with no actual physical stuff. If you're familiar with the Dresden Files, think a body made of ectoplasm.
+
+*But what about Aguamenti?*
+
+The Water-Conjuring Charm is the eternal spanner in the works here, because people drink the water it conjures, implying that it's got all the properties to take the place of real water i.e. it is magically and physically real.
+
+I think the best way around this is to say that water isn't matter in the HP universe. Rather it's one of the fundamental 4 elements, along with earth, air, and fire. Therefore magic can produce it because it's not really a conjuration of stuff, but rather the application of a force.
+:PROPERTIES:
+:Author: Taure
+:Score: 16
+:DateUnix: 1602175121.0
+:DateShort: 2020-Oct-08
+:END:
+
+*** This is a really informative answer and it really helps me a lot. Thank you so much for taking the time, I really do appreciate it.
+:PROPERTIES:
+:Author: Snoo-31074
+:Score: 1
+:DateUnix: 1602180156.0
+:DateShort: 2020-Oct-08
+:END:
+
+
+*** For Aguamenti, another route is saying it just condenses water from the air particles (could also duplicate the existing water in the air to avoid any issues with running out of water, duplicating food seems to be Charms). Since it's not changing the nature of the water, rather just relocating and altering its temperature, it would be a Charm not a Transfiguration.
+:PROPERTIES:
+:Author: Byakko-WesternTiger
+:Score: 1
+:DateUnix: 1602216389.0
+:DateShort: 2020-Oct-09
+:END:
+
+
+** The two branches are distinct in theory. For example, the limits of transfiguration are different from the limits of charms. However, the two branches do overlap in function. Aguamenti is a charms that conjures water (a function associated more often with transfiguration).
+
+#+begin_quote
+  McGonagall transfigured the chessmen to make them alive
+
+  /PS/
+#+end_quote
+
+Transfiguration can also be used to animate objects, a function associated with charms as well. And fire, of course, can be created and manipulated through a charm or transfiguration.
+
+Conjured objects are not permanent.
+
+#+begin_quote
+  Something that you conjure out of thin air will not last.
+
+  /JKR/
+#+end_quote
+
+However, transfiguration (as in entity to entity transfiguration) is permanent. See McGonagall's chessmen, the fact that Dudley's tail had to be removed, the fact that a self human-transfiguration has to be reversed by someone else (you can't wait it out), and the fact that the ministry tried to untransfigure Quintapeds.
+:PROPERTIES:
+:Author: Impossible-Poetry
+:Score: 5
+:DateUnix: 1602175394.0
+:DateShort: 2020-Oct-08
+:END:
+
+*** Tysm, but I didn't understand the last one, quintapeds? What is that?
+:PROPERTIES:
+:Author: Snoo-31074
+:Score: 1
+:DateUnix: 1602179810.0
+:DateShort: 2020-Oct-08
+:END:
+
+**** Taure beat me to it :)
+
+You can find the original story and the mention in the 7 books in fantastic beasts and half blood prince respectively.
+:PROPERTIES:
+:Author: Impossible-Poetry
+:Score: 3
+:DateUnix: 1602180691.0
+:DateShort: 2020-Oct-08
+:END:
+
+
+**** The argument goes like this:
+
+1. According to legend, the Quintapeds were created centuries ago when one wizard family transfigured another wizarding family into Quintapeds.
+
+2. No one knows if the story is true or not.
+
+3. The Ministry have attempted to Untransfigure the Quintapeds back into humans and failed.
+
+4. This means that the Ministry believes that it is possible that the legend is true.
+
+5. The Ministry knows how Transfiguration works.
+
+6. Therefore whether or not it is in fact true, the story of wizards being transfigured into Quintapeds and staying that way for hundreds of years is within the range of possible transfigurations.
+
+7. This is evidence that transfiguration is permanent, or at the very least lasts hundreds of years, which amounts to the same from the practical standpoint.
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1602180079.0
+:DateShort: 2020-Oct-08
+:END:
+
+
+** If you transfigured something into an amount of water, or straight-up conjured some water, it would just fall down and pool around. Transfiguration also involves defining exactly how large your end result will be from the start of the spell, and happens all at once.
+
+Aguamenti produces a stream of water that has momentum and energy and is sustained. You can keep it up for as little or as long as you like, mess with the pressure, and change your mind partway through.
+
+Transfiguration always has a desired end result that you are shaping things towards, and charms are capable of producing malleable effects that can be directed and changed while you are casting the charm. So it's clear that while matter is being created, Aguamenti has reasons to be considered a charm.
+
+This is similar to how shrinking and engorgement charms are a thing that exist, and differ from transfiguring objects in to larger or smaller versions of themselves.
+
+TL;DR: Conjuring x number of gallons of water would fall under the school of Transfiguration. Making a jet of water would fall under the school of Charms.
+:PROPERTIES:
+:Author: wiseguy149
+:Score: 3
+:DateUnix: 1602187963.0
+:DateShort: 2020-Oct-08
+:END:
+
+
+** you probably charm the carbon dioxide to detach from it's oxygen. that's how fire works. both probably involve some kind of summoning to get the amount needed.
+:PROPERTIES:
+:Author: andrewwaiting
+:Score: 0
+:DateUnix: 1602187721.0
+:DateShort: 2020-Oct-08
+:END:
+
+
+** This is totally not canon, but I see Incendio and Aguamenti as working the same trick as apparation - they open a tunnel to a source of fire or water and allow it to be released into the local space.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 0
+:DateUnix: 1602195369.0
+:DateShort: 2020-Oct-09
+:END:
+
+
+** Aguamenti might not conjure water, but rather condense water from the air. Same for Incendio, it doesn't create fire, it ignites existing gases.
+
+Both things would take horrendous amounts of energy which is bypassed, because magic.
+
+This does mean these spells would be subject to environmental conditions heightening or lowering their effectiveness.
+:PROPERTIES:
+:Author: Byakko-WesternTiger
+:Score: 0
+:DateUnix: 1602216062.0
+:DateShort: 2020-Oct-09
+:END:

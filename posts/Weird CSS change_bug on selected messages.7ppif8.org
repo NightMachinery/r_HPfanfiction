@@ -1,0 +1,50 @@
+#+TITLE: Weird CSS change/bug on selected messages?
+
+* Weird CSS change/bug on selected messages?
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 5
+:DateUnix: 1515690231.0
+:DateShort: 2018-Jan-11
+:FlairText: Meta
+:END:
+Is anyone else suddenly having this problem?
+
+(Note: Usernames were blurred on purpose, not part of the bug.
+
+[[https://i.imgur.com/qlrejQt.png]]
+
+[[https://i.imgur.com/m3qCdBu.png]]
+
+[[https://i.imgur.com/hbQYMy5.png]]
+
+
+** I believe you are using RES. This is a known bug & has been reported in [[/r/Enhancement]].
+
+To fix this:
+
+#+begin_quote
+  You can turn this off by disabling *[[#res:settings/selectedEntry/setColors][setColors]]* -- [[#gear][]] [[#res:settings][RES settings console]] > Browsing > [[#res:settings/selectedEntry][Selected Entry]] > [[#res:settings/selectedEntry/setColors][setColors]], though it shouldn't have happened
+#+end_quote
+:PROPERTIES:
+:Author: darthShadow
+:Score: 7
+:DateUnix: 1515696220.0
+:DateShort: 2018-Jan-11
+:END:
+
+*** Thank you so much! I didn't think to check RES because I just have it set to default to the theme used on the subreddit.
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 3
+:DateUnix: 1515699019.0
+:DateShort: 2018-Jan-11
+:END:
+
+
+** I have this too. It's annoying.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1515693419.0
+:DateShort: 2018-Jan-11
+:END:

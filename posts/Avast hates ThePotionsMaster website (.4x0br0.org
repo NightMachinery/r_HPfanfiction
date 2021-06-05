@@ -1,0 +1,38 @@
+#+TITLE: Avast hates ThePotionsMaster website :(
+
+* Avast hates ThePotionsMaster website :(
+:PROPERTIES:
+:Author: hisfireandtherose
+:Score: 3
+:DateUnix: 1470801448.0
+:DateShort: 2016-Aug-10
+:FlairText: Misc
+:END:
+Long story short, my version of Avast (recently installed, so it's up-to-date) says thepotionsmaster.net has a virus on it/in it. A trojan, to be exact.
+
+Anyone have any ideas what might be wrong? Anyone know if we could contact the webmaster/webmistress to see about fixing it? Maybe it's a false-positive? Help!
+
+
+** I get the same problem. I don't know if it's a false positive or not and can't find any information about it.
+
+If you want to take the chance and browse it anyway, you can add
+
+#+begin_example
+   thepotionsmaster.net/*
+#+end_example
+
+to your Avast exclusions (Settings > General > Exclusions) and it'll ignore it.
+:PROPERTIES:
+:Author: SilverCookieDust
+:Score: 1
+:DateUnix: 1470850624.0
+:DateShort: 2016-Aug-10
+:END:
+
+*** Thanks for replying! I remember that site being a good place to find long stories, but I really don't want to get a trojan on this computer. :(
+:PROPERTIES:
+:Author: hisfireandtherose
+:Score: 1
+:DateUnix: 1470857694.0
+:DateShort: 2016-Aug-11
+:END:

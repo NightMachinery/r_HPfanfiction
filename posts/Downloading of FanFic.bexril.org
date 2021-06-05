@@ -1,0 +1,72 @@
+#+TITLE: Downloading of FanFic
+
+* Downloading of FanFic
+:PROPERTIES:
+:Author: Iceyyyyy
+:Score: 3
+:DateUnix: 1555671006.0
+:DateShort: 2019-Apr-19
+:FlairText: Discussion
+:END:
+Hi there,
+
+Avid HP fan here. I haven't read much Fanfic but I did read HP and the Psychic Serpent and Lost Generation.
+
+I've noticed a lot of the Fanfic is located at m.fanfiction.net.
+
+Is there no easier way to download the Fanfic as PDF? It's much easier and I can actually bookmark them on my phone?
+
+
+** [[http://ficsave.xyz/]]
+
+Use this website. Lets you choose the format between popular ebook formats.
+:PROPERTIES:
+:Author: BiomassDenial
+:Score: 7
+:DateUnix: 1555675709.0
+:DateShort: 2019-Apr-19
+:END:
+
+*** Thanks. This actually worked quite well especially since I'm reading on my phone.
+:PROPERTIES:
+:Author: Iceyyyyy
+:Score: 2
+:DateUnix: 1555693262.0
+:DateShort: 2019-Apr-19
+:END:
+
+
+** There's also an app for fanfiction.net that'll download fics, if you'd rather use that.
+:PROPERTIES:
+:Author: huchamabacha
+:Score: 4
+:DateUnix: 1555676062.0
+:DateShort: 2019-Apr-19
+:END:
+
+
+** There is a calibre plugin. I use it to get them in .epub but I'm pretty sure .pdf is also available.
+:PROPERTIES:
+:Author: Nagiarutai
+:Score: 1
+:DateUnix: 1555672478.0
+:DateShort: 2019-Apr-19
+:END:
+
+
+** Sometimes I'll just look for a fic here and download via autobot hahah
+:PROPERTIES:
+:Author: dis0rdered
+:Score: 1
+:DateUnix: 1555677333.0
+:DateShort: 2019-Apr-19
+:END:
+
+
+** [[https://pypi.org/project/FanFicFare/]] works for me just fine, and it is also available as a Calibre plugin, or as a webservice [[http://fanficfare.appspot.com/]]
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1555677488.0
+:DateShort: 2019-Apr-19
+:END:

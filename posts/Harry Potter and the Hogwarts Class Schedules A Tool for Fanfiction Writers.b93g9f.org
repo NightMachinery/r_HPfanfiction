@@ -1,0 +1,817 @@
+#+TITLE: Harry Potter and the Hogwarts Class Schedules: A Tool for Fanfiction Writers
+
+* Harry Potter and the Hogwarts Class Schedules: A Tool for Fanfiction Writers
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 422
+:DateUnix: 1554324246.0
+:DateShort: 2019-Apr-04
+:FlairText: Misc
+:END:
+** *Introduction*
+   :PROPERTIES:
+   :CUSTOM_ID: introduction
+   :END:
+In the course of writing Harry Potter fanfiction, one of the more irritating problems I have encountered is making internally consistent and reasonable class schedules for Hogwarts.\\
+In typical organized writer fashion, rather than dashing off a quick note for myself that contained all the class schedule-related information that I had inserted into the story, I created myself a nice clear Excel spreadsheet that contained my characters' schedule for the current year that I was writing.\\
+In typical research-enjoying writer fashion, I delved into the text to glean every clue that I could in order to maintain a good amount of compatibility with Rowlings' books.\\
+In typical redditor fashion, I found several things that wouldn't be realistic and decided to 'fix' the Class Schedules so that they would make sense and could be applied to a 'real-world' Hogwarts.\\
+In typical programmer fashion, I decided to make this into a spreadsheet that would auto-generate schedules based on which Houses I wanted to pair with each other per class.\\
+In typical /hobbyist/ programmer fashion, I was just putting the finishing touches on this in Excel before realizing that this might be something that others might want to use, and therefore an Excel spreadsheet would not be the best way of distributing this.\\
+In typical /lazy/ programmer fashion, I decided that what I had was good enough since it was in a releasable state, polished it up, and readied it for release.
+
+*Thus, I present a fully functioning and internally consistent but somewhat lacking tool for writers to generate seven years of class schedules for every House. It could even, if you turn your head and squint, work for a 'real world' Hogwarts.*
+
+[[https://docs.google.com/spreadsheets/d/1A6tWQ9IrWAQyOFfWFtkbgOwnnAqL11vzy2202jz0pd0/edit?usp=sharing][Link to a non-editable Google Sheet that gives a preview of the tool.]]
+
+[[https://drive.google.com/file/d/1F910O7npn15loHVgTjTu1_ZMYDD8r_RE/view?usp=sharing][Link to the actual downloadable Excel spreadsheet on Google Drive.]] This has a certain editable region that allows you to generate your own class schedule, but is otherwise locked down.
+
+** *Schedule Base*
+   :PROPERTIES:
+   :CUSTOM_ID: schedule-base
+   :END:
+| *Schedule Timing*          |              |            | *Time Slots (SlotID)* |     |     |      |     |
+|----------------------------+--------------+------------+-----------------------+-----+-----+------+-----|
+| *Period*                   |              |            |                       |     |     |      |     |
+|                            | *Start Time* | *End Time* | *M*                   | *T* | *W* | *Th* | *F* |
+| *Morning Period 1 (MP1)*   | 8:00         | 9:00       | 1                     | 6   | 11  | 6    | 13  |
+| *Morning Period 2 (MP2)*   | 9:15         | 10:15      | 1                     | 7   | 11  | 7    | 13  |
+| *Morning Period 3 (MP3)*   | 10:30        | 11:45      | 2                     | 8   |     | 8    | 2   |
+| *Lunch*                    | 11:45        | 1:00       |                       |     |     |      |     |
+| *Afternoon Period 1 (AP1)* | 1:00         | 2:00       | 3                     | 9   | 3   | 9    | 14  |
+| *Afternoon Period 2 (AP2)* | 2:15         | 3:15       | 4                     | 10  | 4   | 12   | 14  |
+| *Afternoon Period 3 (AP3)* | 3:30         | 4:30       | 5                     | 10  | 5   | 12   |     |
+
+** *Notes on how this Schedule Works*
+   :PROPERTIES:
+   :CUSTOM_ID: notes-on-how-this-schedule-works
+   :END:
+*Basic Constraints*\\
+1) Each student takes six core classes for five years. Starting in third year, they take 2 additional electives. The core classes consist of Transfiguration, Potions, Charms, Defense Against the Dark Arts, Herbology, and History of Magic. The electives are Arithmancy, Muggle Studies, Care of Magical Creatures, Divination, Ancient Runes, and Flying. Plus Astronomy.^{[*]}\\
+2) After fifth year, each student typically takes only the classes that they want to in order to get the job that they want.\\
+3) There is only one teacher per class. This was the hardest to work around. It means that each teacher of core classes has a heavy teaching load.\\
+4) Until Sixth & Seventh Year (NEWT level), each class can only have students from two Houses in it at the same time. No G/R/S classes, for example.\\
+^{[*]} Flying and Astronomy have their own special schedules.
+
+*Class Period Times*\\
+Each class day begins at 8 AM and ends at 4:30 PM, Monday through Friday. There are no classes on Saturday or Sunday (save for Astronomy). Each 'period' lasts one hour, with a fifteen-minute break in between periods. Double periods last two hours and fifteen minutes since there is no reason for a fifteen-minute break.
+
+*Getting To and From Classes*\\
+Students have fifteen minutes to get from their previous class to their new one. In a castle the size of Hogwarts, this could be doable though difficult for some classes, depending on where you have the classes. It also means that coming back from Care of Magical Creatures or Herbology leaves you no time to get cleaned up. This is unfortunately unavoidable but can be worked around or ignored in your story as needed.
+
+*Class Meeting Times*\\
+I planned my schedule around each class meeting for two class hours per week, in either two sessions of one-hour classes or one session of a two-hour-and-fifteen-minute class. I took care to spread the classes out so that teachers could assign homework due the next class session with a reasonable expectation of it getting done and students could practice the material if needed. No student will have Transfiguration on Monday and then have it again on Tuesday, for example.
+
+*Double Periods*\\
+In Harry Potter we have frequent mention of 'double periods,' where it is implied that one class takes up the time slot of two classes. Double periods occur at specific times each week. During those times, everyone that has class is in a double period. It was technically possible for this not to be the case, but it would make the schedule generation even more of a headache than normal. Therefore I decided to keep it (somewhat) simple. Note that double periods are technically 2 hours and 15 minutes, because you don't have to travel to another class during it. I also managed to avoid having double periods split by lunch in the middle, for obvious reasons.
+
+*House Pairings*\\
+Each class will feature two Houses paired together. I'm sorry, J.K. Rowling, but there can't reasonably be such a thing as "First Year Transfiguration with Gryffindors only." That is the only way to make the times work in a reasonable way with only one teacher per class. Note that the pairings do not change throughout the years. So (for example) if Ravenclaws and Hufflepuffs are taking Potions together, they are taking it together from First through Fifth Year. Sixth and Seventh Years work a little differently. I elaborate on this below.
+
+*Class Sizes and NEWTS*\\
+All Sixth Years will be grouped together for their classes. Same with all Seventh Years. We see this in canon in Potions, so there is precedent. I am making the assumption that the majority of students only take three to five NEWT courses and that they are evenly distributed among the available classes. Harry took 5: Transfiguration, Herbology, Charms, Defense Against the Dark Arts, and Potions, and he was going into being an Auror, which I feel safe in assuming is one of the more study-intensive career choices. All this helps keep the class size for NEWT students down to manageable levels. For example, if there are 15 students in each year in each house (for a total of 60 students in each year), and 25% of students decided to pursue the class to NEWT level, then the class size would be 25%*60=15 students. I feel that is a reasonable number. If if there are 20 students in each year in each house, then the class size would be 25%*80=20 students, which is also reasonable.
+
+*Astronomy*\\
+Astronomy is different. To make things easier, each Year takes Astronomy all at the same time. In my current schedule, each year subsequently gets the first two periods of the next day off (where applicable). This also means that Fourth years take Astronomy on Saturday nights, and Second Years take Astronomy on Sunday nights. I couldn't think of a good way to get around that. Sorry, Second and Fourth Years.
+
+*Flying*\\
+First years are the only year that take Flying as a class. I scheduled it in a couple of free periods for the first years. For purposes of House Pairings, I counted it as a sixth elective, even though it is a mandatory class.
+
+*SlotID Explanation*\\
+Time Slots: As you can see in the chart above, each time slot is numbered, 1-14. No one will have class in MP3 on Wednesday nor AP3 on Friday. This is used in the spreadsheet in order to determine when classes meet. For example, there is a class that meets Monday mornings during MP1 and MP2. We know this because the SlotID fo that class (1), is in the MP1 and MP2 spots in the table. There is a different class (SlotID 9) that meets Tuesdays and Thursdays during AP1.
+
+** *Screenshots of the Tool*
+   :PROPERTIES:
+   :CUSTOM_ID: screenshots-of-the-tool
+   :END:
+[[https://i.imgur.com/pkgxc0t.png][Here is the page that contains the only thing you will edit.]]
+
+Note: The *only* area that you will need to edit are the colored cells with the 'x' and 'o' symbols in them. /Everything else will automatically generate based on those cells./
+
+[[https://i.imgur.com/DXni0Hx.png][Example of a Teachers' Schedule]]
+
+As you can see, teachers of core classes teach a /lot/ of class periods. Somehow I don't think the Hogwarts professors get paid enough for what they do...
+
+[[https://i.imgur.com/GvFrLDx.png][Sample Schedule for Years 1-2]]
+
+[[https://i.imgur.com/9BUh9gt.png][Sample Schedule for Years 3-5]]
+
+[[https://i.imgur.com/6fKtInn.png][Sample Schedule for Years 6-7]]
+
+Note that all of these schedules will change based on what you enter into those 'x' and 'o' cells in the User_Setup page.
+
+** Drawbacks of this Tool
+   :PROPERTIES:
+   :CUSTOM_ID: drawbacks-of-this-tool
+   :END:
+
+- This tool rigidly defines the slot locations. You can't decide that you want first years to have the option of Transfiguration on Thursday afternoons, for example. This could be added in a future version.\\
+- It relies on my setup for classes, in that it requires 3 morning classes and 3 afternoon classes. This may not work for every fanfiction author's story.\\
+- It doesn't account for any non-canon classes.
+- It relies on each House being partnered with another House for every class. Again, this may not work for every fanfiction author's story.
+
+** *Conclusion*
+   :PROPERTIES:
+   :CUSTOM_ID: conclusion
+   :END:
+This was fun to create and hopefully it is useful for aspiring or current fanfiction writers. Depending on the response, I might put time into releasing a version that gives the user a little more control over what year gets which class at what time. I have an idea for how to implement this. However, the user won't ever get the ability to tailor everything because the amount of logic that would require would be extensive.
+
+
+** This is really cool. If I ever get around to writing that HP AU fic that's been bouncing around my brain for a few years, I may use this. Thanks.
+:PROPERTIES:
+:Author: EurwenPendragon
+:Score: 48
+:DateUnix: 1554326236.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+** For the Astronomy classes, you could have the first five years doing observations during the week in scheduled times, but allow the NEWT students to do their observations 'at will'- the one benefit of pursuing a NEWT in Astronomy therefore being a 24 hr hall pass.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 32
+:DateUnix: 1554335504.0
+:DateShort: 2019-Apr-04
+:END:
+
+*** This is true. Any fanfic author should feel free to implement this.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 7
+:DateUnix: 1554336562.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+** I have a headcanon that there being only one teacher per subject is very recent due to the depopulation of the first Voldewar and a few years before the series/a few years later there will be more teachers per department and the excessive work per teacher is just during an adjustment period.
+:PROPERTIES:
+:Author: BernotAndJakob
+:Score: 43
+:DateUnix: 1554335430.0
+:DateShort: 2019-Apr-04
+:END:
+
+*** There's some canon justification as well, I believe. Either Dumbledore or McGonagall -I can't remember which exactly- was referred to at one point as Head of the Transfiguration department. Kind of strange to have a department of one person!
+
+It opens the door to there being many more Hogwarts faculty members, although in that case you'd have to come up with a reason why Harry always had the same teachers and fairly consistent classmates. Or just ignore it.
+
+And I guess Defence would only ever have one teacher at a time- though even there, it's possible that there used to be multiple Defence professors at once, but the curse winnowed them down, until getting even one replacement was almost impossible.
+:PROPERTIES:
+:Author: awfulrunner43434
+:Score: 30
+:DateUnix: 1554337937.0
+:DateShort: 2019-Apr-04
+:END:
+
+**** Maybe for the children to have consistency in how the material is taught. A big issue in school is that you get one professor one year that likes papers in xy format, the next year a different professor likes yz format, one teacher says you'll learn about x next year and the other says you already learnt x last year. So maybe student groups are assigned to a professor that teaches them for their entire school career. (Or, more realistically, just one more thing not really thought through 🤷🏻‍♀️)
+:PROPERTIES:
+:Author: LilyRM
+:Score: 17
+:DateUnix: 1554341348.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+**** I think it's mentioned in the 2016 ebooks that Mcgonagall joins the transfiguration department a few years after working for the ministry
+:PROPERTIES:
+:Author: psu-fan
+:Score: 5
+:DateUnix: 1554354091.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+*** Just want to say I /love/ the term "Voldewar". Totally using this in future discussions!
+:PROPERTIES:
+:Author: the-phony-pony
+:Score: 12
+:DateUnix: 1554338767.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+*** That could be the case. It would make a certain amount of sense.
+
+Though too many teachers can detract from a story. Rowling barely mentioned some of the less important teachers as it is, and that's with only one teacher per subject!
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 10
+:DateUnix: 1554336710.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+** Can I add this to our Writer Center in the [[/r/hpfanfiction][r/hpfanfiction]] wiki? All credit will be given back to you! This is incredible!
+
+* 20 Imaginary Points to Hufflepuff!
+  :PROPERTIES:
+  :CUSTOM_ID: imaginary-points-to-hufflepuff
+  :END:
+^{^{this}} ^{^{is}} ^{^{me}} ^{^{pretending}} ^{^{we're}} ^{^{in}} ^{^{[[/r/harrypotter][r/harrypotter]]}} ^{^{where}} ^{^{I}} ^{^{can}} ^{^{actually}} ^{^{award}} ^{^{points.}}
+:PROPERTIES:
+:Author: the-phony-pony
+:Score: 14
+:DateUnix: 1554338899.0
+:DateShort: 2019-Apr-04
+:END:
+
+*** Feel free to add it!
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 4
+:DateUnix: 1554339629.0
+:DateShort: 2019-Apr-04
+:END:
+
+**** Thanks for your contribution!
+:PROPERTIES:
+:Author: the-phony-pony
+:Score: 4
+:DateUnix: 1554339774.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+** I'd love to see your book research if you took notes.
+:PROPERTIES:
+:Author: plopzer
+:Score: 7
+:DateUnix: 1554327399.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+** In our University a class is 50 mins where the remaining 10 will be to go to places (building s are far apart so it's doable) Electives are usually around 1hour and 20 min.
+
+If topic is not finished by the time the period ends. Prof assigns essay to make sure student reads up on the topic so they can continue following the syllabus. So essays are unlikely as it seems. it also probable that non essay assignments are answered in class the next meeting checked by seatmate or something then proof get it all afterwards and records it.
+
+I believe there is truly a course syllabus where a topic is followed at specific dates and highly scheduled but the style and method is left to the teacher. Or DADA would have failed a long time ago. From what I can infer,
+
+1st is introductory definitions and basics, like difference of charm, hex, jinx 2nd is for 1-2 X beings as well as common creatures, also Lockhart's dueling club is a club not part of the actual class (possibly pre requisite for care of magical creatures) 3rd is for the really dangerous but uncommon ones 3-4X beasts 4th is curses, hexes and jinxes, definitions and theories 5th is combat/dueling spell defensive spells, definition and theories (Umbridge removed the practicals and a watered down version.) 6th and 7th is probably to build up prerequisites of other jobs, (I think at the very least it has spell/curse identification, countercurse, basic healing, five X and above beasts and creatures, and the likes since it is needed for curse breaker, healing, aurors and stuff)
+
+I think of double period class as something like a laboratory class like potions has a double period and has a single period. One for practicals (laboratory) and one for lecture.
+
+As an example transfiguration lecture is about gamp's law, while lab/ double period will be when students will try in inanimate to animate or something.
+
+Charm's lecture will be charm interaction on things that don't have necessary parts, double charm's will be a tap dancing pineapple (since pineapple doesn't have feet, one will test how it will behave and make it dance despite having no legs) the purpose is so that one can guess what will happen if one applies charm to make something do something that it theoretically cannot do.
+
+(I seriously don't understand why people assume in fics that there's no lecturing done on potions and just straight up follow the formula. The way I see it. Snape probably give lab topic before hand and if you don't do advance reading you're Fkd at pre Lab quizzes. That's how chem is taught to me, like you can fail lab class but pass lecture. I kind imagine Snape reading lab reports and commenting that everyone is so fking stupid since the topic is covered in lecture class. Like my old prof.)
+
+HBP's book is like a lab manual where Snape wrote important lecture/reference note on it's not "I'm going to teach you potions better." But rather, "here's relevant points for this topic I got from from reference book kind of notes". Or "here's a short cut" but a book filled with nothing but short cuts will not teach theory.
+:PROPERTIES:
+:Author: Rift-Warden
+:Score: 6
+:DateUnix: 1554366327.0
+:DateShort: 2019-Apr-04
+:END:
+
+*** That reminds me. I developed a curriculum for each class for every year as well. I might make that into another post sometime.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 5
+:DateUnix: 1554383329.0
+:DateShort: 2019-Apr-04
+:END:
+
+**** Do it.
+:PROPERTIES:
+:Author: zenguy3
+:Score: 3
+:DateUnix: 1554609160.0
+:DateShort: 2019-Apr-07
+:END:
+
+***** Absolutely! That would be awesome.
+:PROPERTIES:
+:Author: sodasinside
+:Score: 1
+:DateUnix: 1554907852.0
+:DateShort: 2019-Apr-10
+:END:
+
+
+** My headcanon has always been core classes MWF with electives and flying and the like on TuTh. That only works where like in my story DA, there are more than one professor per subject(three in fact).
+
+Also, in my headcanon each DADA prof follows the last viable lesson plan written by Merrythought that is updated by Dumbledore when he can with only blowhards like Lockhart and Umbridge going their own way.
+:PROPERTIES:
+:Author: viol8er
+:Score: 5
+:DateUnix: 1554353424.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+** First of all this tool is amazing. Like damn, programmers are on some crazy shit.
+
+At my university, all our passing periods are 10 minutes regardless of how far your next class is. Sometimes I have to book it and cross the entire campus (~1.3 miles) in 10 minutes. A lot of the time is spent in “traffic” bc there's so many people at my school. So 15 minutes is way more than enough for a school of Hogwart's size with such little people. I'd say even 10 minutes are efficient.
+
+One note, it's kind of crazy (to me) to have them taking 8 classes by 3rd year. My middle school had a max of 6 classes and my high school had a max of 7 (where u were considered a little crazy is you took all 7; 5-6 classes was a little more usual). This was while meeting 5 times a week for about 50 minutes each period. When you compare like this it seems impossible that the students would ever finish learning anything before they end up taking their final exams, especially if (as according to the book as you researched it) they're only meeting for 2 hours a week. I cant imagine how that would work.
+:PROPERTIES:
+:Author: njrebecca
+:Score: 4
+:DateUnix: 1554367651.0
+:DateShort: 2019-Apr-04
+:END:
+
+*** My high school met two days a week, and you'd be assigned a lot of homework. It worked fine.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 4
+:DateUnix: 1554372842.0
+:DateShort: 2019-Apr-04
+:END:
+
+**** How many classes did you take? And for how long did you meet for each class? The key here is they're taking 8 classes simultaneously at 13 (middle school age) while only meeting two hours a week.
+
+Also, I understand with homework there may not be a need to go over a lot of material. But from what we've seen in the books (from what I recall) most of the homework was only essays and practicing the spells they're learning. No mention of required reading (except perhaps to supplement the essays) and the essay topics were usually on things discussed in the class already rather than asking the students to go over things on their own. Of course a lot of this random academic stuff isn't rly shown much in the books so it's mostly speculation.
+:PROPERTIES:
+:Author: njrebecca
+:Score: 2
+:DateUnix: 1554373084.0
+:DateShort: 2019-Apr-04
+:END:
+
+***** I took seven, usually. Each class met once a week for 1.5 hours, spread out over two days.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 1
+:DateUnix: 1554373427.0
+:DateShort: 2019-Apr-04
+:END:
+
+****** Interesting! Do you mind if I ask, where are you from? Was this kind of schedule typical for public schools in your area?
+
+I realized that since Hogwarts is in Britain and I'm, well, not, I really can't apply my experiences to this. Also, I guess you could count Hogwarts as a private/specialized/boarding school, which could operate vastly differently from a typical public school in Scotland or England.
+:PROPERTIES:
+:Author: njrebecca
+:Score: 2
+:DateUnix: 1554403492.0
+:DateShort: 2019-Apr-04
+:END:
+
+******* No, my school was unusual in this case. It was originally intended to be a homeschool supplement, with classes that are hard to homeschool (math, science, etc) taught by professional teachers. By the time I moved into the area, it had grown to offer enough classes that you could get your high school degree just taking classes from there. You paid like $300 per class per year, directly to the teacher, and had an additional one-time $300 payment to the school itself for administrative purposes. Since for most of my time there it didn't have any sports teams, I was allowed to be on my local public school's football team.\\
+I am from the USA by the way, though I do have close friends from Britain that I have leaned on for my understanding of the British school system.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 1
+:DateUnix: 1554404524.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+*** dude I had like 13 subject in high school but majority of them we had once per week (school from 7:15/8:00 to 14:30/15:10) :D
+:PROPERTIES:
+:Author: GirlWithFlower
+:Score: 1
+:DateUnix: 1554394953.0
+:DateShort: 2019-Apr-04
+:END:
+
+**** ooh shit that sounds crazy!! Where are you from, if you don't mind me asking? Did you go to a private or specialized school or was this pretty typical of public schools in your area? Did you find it efficient or was it difficult?
+:PROPERTIES:
+:Author: njrebecca
+:Score: 1
+:DateUnix: 1554403221.0
+:DateShort: 2019-Apr-04
+:END:
+
+***** I'm from Czech Republic, I attend public school with specialization - which is very normal, the amount of subject wary but it will be probably always over 10 subjects. We also have Gymnasium which has just general subjects like chemistry, literature, czech, English + other language, math...
+
+We also have schools with specialization in common worker fields - furniture making, car repairing, dressmaking, hairdressing or cooking and basically anything else you need for future jobs :D
+
+I studied management in transport (so Economy, entrepreneurship, accounting, aerodynamics, history of flying, subject about air traffic in general and all the laws, how airports work and shits like that :D)
+:PROPERTIES:
+:Author: GirlWithFlower
+:Score: 2
+:DateUnix: 1554403902.0
+:DateShort: 2019-Apr-04
+:END:
+
+****** oh shit ok damn so from what I'm getting y'all actually study specific fields/subjects in high school? damn that's nice, wish we had that. In the US its general education until university, and even then you might not be able to go as specialized as you want (med school and law school requires 4 years of general undergraduate education before)
+:PROPERTIES:
+:Author: njrebecca
+:Score: 2
+:DateUnix: 1554409033.0
+:DateShort: 2019-Apr-05
+:END:
+
+******* Yes, at 15 we/ sometimes our parents pick high school with specific field we want to study :D I think for some jobs it is very good system and you finish high school with maturita exam (you have to write final work, have oral and written exam from all four years of education) or you have final and practical exam at the end but you get some sort of qualification list (hairdressers, plumbers and any similar works :D )
+:PROPERTIES:
+:Author: GirlWithFlower
+:Score: 1
+:DateUnix: 1554409544.0
+:DateShort: 2019-Apr-05
+:END:
+
+******** uGH i wish the US had this option. If you want to be a lawyer you basically have to go through at least 6 (if not 8) more years of higher education beyond high school. It's so inefficient
+:PROPERTIES:
+:Author: njrebecca
+:Score: 1
+:DateUnix: 1554411424.0
+:DateShort: 2019-Apr-05
+:END:
+
+********* Well for lawyer you would have to attend college you would probably do first gymnasium and then study law for 4 years
+:PROPERTIES:
+:Author: GirlWithFlower
+:Score: 1
+:DateUnix: 1554411521.0
+:DateShort: 2019-Apr-05
+:END:
+
+
+******* Don't your universities also have bizarre requirements that you do subjects not pertaining to your degree as an undergraduate?
+:PROPERTIES:
+:Author: SerCoat
+:Score: 1
+:DateUnix: 1554456101.0
+:DateShort: 2019-Apr-05
+:END:
+
+******** Yeah we do, it's mad stupid. Like, I get the idea is to give us a more well-rounded education (and I'm sure it does make a difference) but like...isn't there a more efficient way to do it? Everyone takes the same GEs (that's what we call those requirements) regardless of what they're studying---so a humanities major (who is generally better at writing) has to take the same amount of writing classes as a STEM major (who may be generally not as good at writing). It's quite ridiculous imo
+:PROPERTIES:
+:Author: njrebecca
+:Score: 1
+:DateUnix: 1554491793.0
+:DateShort: 2019-Apr-05
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1554373858.0
+:DateShort: 2019-Apr-04
+:END:
+
+*** That's a terrible idea that Rowling had, because that way a Third Year Ravenclaw or Slytherin could not take both CoMC and Muggle Studies as electives. She did it to set up the time turner, but it didn't make sense overall.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 8
+:DateUnix: 1554375039.0
+:DateShort: 2019-Apr-04
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1554376452.0
+:DateShort: 2019-Apr-04
+:END:
+
+***** There is no evidence in canon for multiple levels of the same class other than the one offered to different years.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 1
+:DateUnix: 1554376767.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+** This is amazing! If I ever got around to writing a HP fanfiction I'll use this for my schedules.
+:PROPERTIES:
+:Author: keroblade
+:Score: 3
+:DateUnix: 1554329768.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+** This may be the thing that actually gets me to start writing - love it!
+:PROPERTIES:
+:Author: aPercabethPotterhead
+:Score: 3
+:DateUnix: 1554330497.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+** Is it okay for me to love this?
+:PROPERTIES:
+:Author: Ithitani
+:Score: 3
+:DateUnix: 1554332904.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+** Omg you're amazing!
+:PROPERTIES:
+:Author: Mazzidazs
+:Score: 3
+:DateUnix: 1554348567.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+** Bless you!
+:PROPERTIES:
+:Author: LiriStorm
+:Score: 3
+:DateUnix: 1554359403.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+** This is amazing!
+
+One thing to add perhaps: I went to boarding school (though in the US) and we had week 1, week 2 schedules. This allowed some classes to meet more in one week than another, and to distribute longer blocks equally. Also we had designated time slots for longer blocks and only certain classes used the whole block. It would be
+
+A* 8-8:50
+
+B 8:55-9:45
+
+Break
+
+C 10:45-11:35
+
+D 11:40-12:50 (Always long time slot, sometimes classes would go BACD, CDAB, DCBA)
+
+Break
+
+E 1:20-2:10
+
+F 2:15-3:25 (example long block, could be E, G, H time slot)
+
+Break
+
+G 4:15-5:05
+
+H* 5:10-6:00 (EFGH always stayed in order)
+
+Star means some classes don't meet that day, depending if the class used the auxiliary block. Auxiliary block was always first in the morning, and there were always 2/day, one in second half of day. Also Wednesday was half day for sports. Every student had a free block (like never had a class during E block) and one set of two were for sports. Team sports were usually GH or EF.
+:PROPERTIES:
+:Author: croseking
+:Score: 3
+:DateUnix: 1554368051.0
+:DateShort: 2019-Apr-04
+:END:
+
+*** See that would be fun for a HP story if the author didn't care about being canon-compliant. I like that system.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 1
+:DateUnix: 1554393788.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+** This is excellent! My original thoughts about the extra 15 min in double periods would be a break since that is a long time to sit, but I can't imagine Hogwarts being up on best teaching practices.
+:PROPERTIES:
+:Author: IamProudofthefish
+:Score: 3
+:DateUnix: 1554390820.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+** Order of the Phoenix chapter 12 'Professor Umbridge' has a lot of info about the Monday timetables.
+
+Class periods appear to go 45 minutes, based in the 3/4 of an hour of Binns' droning Harry suffered through. Double potions gave Snape enough time to warn them about OWLs, start off on describing a potion and then set them an hour and a half to make it, while still leaving clean-up time at the end. Snape charged them with homework that he expected to get back that Thursday, which seems to indicate that major subjects occupy at least 3 periods during a week.
+
+With those guidelines, I think the timetable needs at least seven slots per day, possibly eight. I worked up a model where there are two periods early morning, a half-hour break, two late morning periods, lunch, then three afternoon periods leading into an early dinnertime. I can't remember all the references that went into that, but it makes a certain sense to me.
+
+More info: the next chapter had the trio in double Charms and then double Transfiguration before the lunch hour on Tuesday. After lunch they had Care of Magical Creatures, followed by Herbology, where they bumped into Ginny and Luna leaving the greenhouse. After class he had to head straight to the Great Hall to grab something to eat before his 5 PM detention with Umbridge.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 3
+:DateUnix: 1554402423.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+** I think a base with 4 blocks of double lessons (two before and two after lunch) works better since it gives you more time to schedule and therefore either a better working condition for teachers or more classes for the students. Dedicate one day to the electives per year and you can offer every student 4 electives.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 3
+:DateUnix: 1554410831.0
+:DateShort: 2019-Apr-05
+:END:
+
+*** I considered something like that, actually. It would be similar to how my high school worked, where each class met once a week.
+
+In fact, that would make it easier on both the students and the teachers. However, I was trying to make it as canon-compliant as possible (within reason), and in canon we know that not every class period is a 'double period.' There's not really an easier way to incorporate some classes that are double periods and some classes that are not without either weekly rotating schedules (not ideal), having the students be in class late in the day (4:30 is already pretty late for classes to end), and/or giving core classes larger time blocks than electives (not ideal).
+
+Then again, if someone comes up with a better way that is consistent with canon but is also less unwieldy, I welcome their input and may even create a schedule generator for their idea.
+
+Heck, I might just create a schedule generator for your idea just for fun. Once-a-week classes, each of them say, two hours in length. My high school had once-a-week 1.5 hour classes and it worked out okay.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 2
+:DateUnix: 1554419256.0
+:DateShort: 2019-Apr-05
+:END:
+
+
+** Uwah, if I were a teacher, I would /never/ opt for professor job in Hogwarts.
+:PROPERTIES:
+:Author: QuotablePatella
+:Score: 5
+:DateUnix: 1554330649.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+** This is wonderful
+:PROPERTIES:
+:Author: silentbutsweet13
+:Score: 2
+:DateUnix: 1554395138.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+** This is better planned than my college class schedules. Thank you.
+:PROPERTIES:
+:Author: CarolusPotter
+:Score: 2
+:DateUnix: 1554412699.0
+:DateShort: 2019-Apr-05
+:END:
+
+
+** This is one of the most amazing things I've seen on any HP sub to date. Thank you for this incredible tool.
+:PROPERTIES:
+:Author: average_texas_guy
+:Score: 2
+:DateUnix: 1554326233.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+** My British bugbear is that it should be called a timetable, not a schedule.
+
+Yeah, I'm that person that likes to brit pick.
+:PROPERTIES:
+:Author: riverowl128
+:Score: 1
+:DateUnix: 1554378878.0
+:DateShort: 2019-Apr-04
+:END:
+
+*** Feel free to mentally insert "timetable" where "schedule" is used.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 2
+:DateUnix: 1554382534.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+*** So Brits not only pronounce schedule as "shedule" but also the usage is different??
+:PROPERTIES:
+:Author: loweryourgays
+:Score: 2
+:DateUnix: 1554392980.0
+:DateShort: 2019-Apr-04
+:END:
+
+**** Depends on the local accent for pronunciation, but any place you have a list of classes and times, like at a gym, school etc, it would be a timetable.
+
+I'm now trying to think when I would use "schedule". Ahead of schedule?
+
+I love looking at the differences in word use and language and find it really interesting to discuss.
+:PROPERTIES:
+:Author: riverowl128
+:Score: 2
+:DateUnix: 1554393695.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+** Each class is actually 45 minutes, and there's implication that they end quite late in the day. There could reasonably be first-year Gryffindor Transfiguration. Also, I think some OWL and most NEWT classes are all four houses.
+:PROPERTIES:
+:Author: UbiquitousPanacea
+:Score: 1
+:DateUnix: 1554395299.0
+:DateShort: 2019-Apr-04
+:END:
+
+*** Any sources on that? Afaik, the only thing we know for sure is that there are six periods in a day (see OotP, Professor Umbridge).
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1554398899.0
+:DateShort: 2019-Apr-04
+:END:
+
+**** [[https://scifi.stackexchange.com/questions/157251/how-long-is-a-lesson-at-hogwarts]]
+
+What's the source on the six periods in a day?
+:PROPERTIES:
+:Author: UbiquitousPanacea
+:Score: 2
+:DateUnix: 1554408882.0
+:DateShort: 2019-Apr-05
+:END:
+
+***** u/deleted:
+#+begin_quote
+  (see OotP, Professor Umbridge)
+#+end_quote
+
+The first day back at Hogwarts had History, double Potions, Divination and double Defence, and no mentions of free periods.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1554409631.0
+:DateShort: 2019-Apr-05
+:END:
+
+****** They may be used to having free periods interspersed with their lessons
+:PROPERTIES:
+:Author: UbiquitousPanacea
+:Score: 2
+:DateUnix: 1554410041.0
+:DateShort: 2019-Apr-05
+:END:
+
+******* It's also possible that free periods are restricted to sixth and seventh years, much as they were when I was at school
+
+5th year is OWL year, congruent to GCSE year. Your schedule is pretty full. From 6th year your number of subjects could be halved, meaning that free periods would be added rather than more lessons
+:PROPERTIES:
+:Author: SerCoat
+:Score: 1
+:DateUnix: 1554455970.0
+:DateShort: 2019-Apr-05
+:END:
+
+
+******* Considering Ron's reaction in HBP, the concept of free lessons seemed rather novel to them.
+
+Also, we know for sure that Umbridge's classes on Mondays were right after Divination (OotP, High Inquisitor), and iirc, Snape's were right after Binns'.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1554480154.0
+:DateShort: 2019-Apr-05
+:END:
+
+******** I can't remember exactly what he said, but isn't it possible he was gleeful at the sheer amount of them rather than the fact that they existed?
+:PROPERTIES:
+:Author: UbiquitousPanacea
+:Score: 1
+:DateUnix: 1554977782.0
+:DateShort: 2019-Apr-11
+:END:
+
+
+** tbh, there's probably so few people taking Runes and Arithmancy (Muggle Studies too, that's basically a 3-house course) that all of the houses could take them together...also, how likely is it that anyone actually takes NEWT History at a school that employs the Spectral Soporific?
+
+​
+
+Also, there might be something jacked up with the core class COUNTIF setting, it was counting the electives instead when I first tried it. (easily fixable, just minorly annoying)
+:PROPERTIES:
+:Author: buckybone
+:Score: 1
+:DateUnix: 1554552174.0
+:DateShort: 2019-Apr-06
+:END:
+
+
+** Dang, /bookmarks./
+
+I couldn't hello but notice, though, that Magical Theory class is missing. Oddly enough, it's one I always notice since I only re-read HP1 recently and noticed that it was an actual class 🧐
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1554335582.0
+:DateShort: 2019-Apr-04
+:END:
+
+*** Magical Theory isn't a class - it's a textbook, likely for either charms or transfiguration.
+:PROPERTIES:
+:Score: 13
+:DateUnix: 1554347645.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+*** Um, I'm pretty sure that was in the film, not the book.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 7
+:DateUnix: 1554336509.0
+:DateShort: 2019-Apr-04
+:END:
+
+**** Nope, check the book list (page 71 in my book)
+
+Magical Theory by Adalbert Waffling
+:PROPERTIES:
+:Score: -2
+:DateUnix: 1554336937.0
+:DateShort: 2019-Apr-04
+:END:
+
+***** Yes, that's the book, but it's not specified that it's for a class named that.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 13
+:DateUnix: 1554337155.0
+:DateShort: 2019-Apr-04
+:END:
+
+
+***** Having to sort by controversial just to be able to find my post doesn't feel very good. It's a fucking valid point it's a book that has absolutely no explanation and there's only one book for every other class.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1554516710.0
+:DateShort: 2019-Apr-06
+:END:

@@ -1,0 +1,448 @@
+#+TITLE: [Discussion] Is it time for a new fanfiction site?
+
+* [Discussion] Is it time for a new fanfiction site?
+:PROPERTIES:
+:Author: Halandar_0815
+:Score: 24
+:DateUnix: 1506689548.0
+:DateShort: 2017-Sep-29
+:FlairText: Discussion
+:END:
+I am realy curious what you guys think. There are a couple of fanfiction sites worth mentioning, but it seems every single one is in one way or another majorly flawed.
+
+adult-fanfiction.org -> a fanfiction site for a single genre / purpose? This should be just a category, not an extra website. And there are many others like this. And why? Well because all site miss this major feature for fanfic tags. Most authors just write it in the description so you can search for it, like all the pairing tags.
+
+hpfanficarchive -> It just looks ancient... like... wow
+
+fanfiction.net -> probalby the biggest site of them all. The filter is ok, but way to weak for 775k HP Fics. You will find something but never what you wanted... They also seem to have rather harsh policies about what you are allowd to publish. Which just should not be. I can accept some extreme topics to be dropped, but for what I have heard and read they drop anything to explicit (from sex to brutality= which just should not happen. Flag it accordingly, but do not delete it. But in the end it's the website owners right to do so.
+
+What annoys me to no end is, that not a single fanfiction page has a good search system. For the search problem, I know there is still scryer, which is the best search plattform ever for ffnet, but it just should not be an extra site... (yeah I am that picky)
+
+I could go on for a couople of other "archives" but it will be pretty much the same.
+
+Now I am a tech guy, and just for the fun of it, I made a concept, teste a few things, and I am pretty sure I could (with some help) build and maintain a fanfiction site, that has all the major features (categories, tags, genres, ratings, comments, favorites, notifications, powerfull complex search engine, API for external systems and sites to search and pull data, download story as ebook) and all that pretty powerfull and scalable.
+
+My question is, would anyone of this community want this? Would anyone actually consider using such a newcomer? Does it make sense at all or am I totaly delusional? Even if so the page will be empty, and most sites do not allow to copy their stuff (which also would not be a good idea in general i think; would be very rude to the authors...) Is is possible to lunch a new awsome fanfiction site today?
+
+
+** Are you willing to commit to spending the next 20 years of your life maintaining and upgrading a site with zero money rolling in? Can you interpret and convert uploaded Word documents?
+:PROPERTIES:
+:Author: munin295
+:Score: 46
+:DateUnix: 1506690882.0
+:DateShort: 2017-Sep-29
+:END:
+
+*** Yeah the zero money rolling in part is what gets me. I'm an experienced web developer and like to think I could make an awesome next-gen fanfiction site, but I just don't see how I could monetize it effectively given the legal grey area fanfiction exists in. While I don't think I'm particularly greedy, I'd like to get something tangible in return for the effort I'd put in; at the very least, covering the hosting costs.
+:PROPERTIES:
+:Author: adumidea
+:Score: 23
+:DateUnix: 1506691596.0
+:DateShort: 2017-Sep-29
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 16
+:DateUnix: 1506699449.0
+:DateShort: 2017-Sep-29
+:END:
+
+***** That's devious, love it! :) Though I'd feel bad if I didn't make it opt-in, haha.
+:PROPERTIES:
+:Author: adumidea
+:Score: 8
+:DateUnix: 1506701481.0
+:DateShort: 2017-Sep-29
+:END:
+
+****** Loads of torrent sites do it. Beats ads, that's for sure.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1506747225.0
+:DateShort: 2017-Sep-30
+:END:
+
+
+**** AO3 is run as a non-profit through the Organization for Transformative Works, and donations from users cover the hosting and server costs, so that might be an option for somebody really dedicated to making a new fanfiction site happen, but it would require lawyers to set it up and a user base dedicated enough to actually donate.
+:PROPERTIES:
+:Author: ClimateMom
+:Score: 14
+:DateUnix: 1506712544.0
+:DateShort: 2017-Sep-29
+:END:
+
+***** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1506725822.0
+:DateShort: 2017-Sep-30
+:END:
+
+****** Yeah, AO3 benefited a lot from being founded by one of the biggest BNFs of all time, who also happened to have a huge circle of friends with a large number of aca fans, lawyers, webmasters/coders, and others with professional-level experience in fandom and related issues of copyright law who were willing to work pro bono for a cause they cared about. Your average joe-schmo fan is unlikely to be able to mobilize that level of resources and experience to help dot the i's and cross the t's.
+
+As great as the site is, I notice fimfiction seems to be supported by ads and Patreon donations, for example, which I imagine puts it on much riskier ground, legally speaking, than AO3, if the MLP copyright holders were to decide to go after fanworks.
+:PROPERTIES:
+:Author: ClimateMom
+:Score: 2
+:DateUnix: 1506771864.0
+:DateShort: 2017-Sep-30
+:END:
+
+
+***** AO3 also requires admin approval/invitation to create a new account, and one of the stated reasons for that is server capacity.
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 1
+:DateUnix: 1506727174.0
+:DateShort: 2017-Sep-30
+:END:
+
+
+** There are several problems with running a fan fiction site.
+
+The first is legality. Who has creative control of the work? What happens if the original author demands no one publish fanfics of their work? How do you manage this across multiple countries to ensure you don't get blocked in one and fragment the community further?
+
+The second is draw. How do you draw authors to use your site instead of established ones? Will the new host last very long? Fanfiction sites have a history of suddenly shutting down, losing countless stories. If you suddenly become totally disgusted by the smut and trash people are posting, or if you get tired of dealing with ungrateful authors, or the cost of upkeep becomes too high, will your site disappear like so many others?
+
+The third is management. How will stories be curated? Will they have a bloated tag system like AO3? How do you ensure stories get put in the right genre? Do you use volunteers or paid staff? What happens when the community demands a feature down the road and you don't have time to implement it?
+
+There's already so much fragmentation within the community. I had your idea once too, and then I started looking into FFN and AO3. They had to overcome so many problems to get where they are and they still aren't perfect. Maybe you could help them out and be the savior we need?
+
+I'm not saying don't do it. AO3 and FFN might benefit from better competition. But it's a massive undertaking. (That said, I'll help if you want it.)
+
+Edit: I believe AO3 is under GPL and hosted on github. Maybe contributing through there would be the best help to the community?
+:PROPERTIES:
+:Author: Ember_Rising
+:Score: 18
+:DateUnix: 1506690919.0
+:DateShort: 2017-Sep-29
+:END:
+
+*** This reply is gold, thank very much. The creative control should be always given to the author in my opinions, but I get the implications of that. Legally, you can help yourself a lot with the correct erms of use and legal notice, but yes this will still be continuous work, but so it is for almost all content publishing sites. The draw is probably the most important. Do I want to pay for the system for 2 years if only a few are using it... hmm Curatiors... thats a point where I have to say I do not know the community well enough to decide. Very good point to think of! Major feature implementation could work well with a donation/headhunter system. But need carefull explanation. The fragemantion is a vital point actually, a new site shoud not divide further but one site to rule them all, one site to find them, one site to bring them all and in the darkness bind them... wait taht was something different... but I think you get what I mean.
+
+I will have a closer look at the systems and community of FFN and AO3
+:PROPERTIES:
+:Author: Halandar_0815
+:Score: 3
+:DateUnix: 1506691976.0
+:DateShort: 2017-Sep-29
+:END:
+
+
+*** This is really making me miss Checkmated. That was a pretty well-run site with a really dedicated group of volunteers. Every story had to be accepted and beta'd by one of their volunteers and I know this caused some drama, but it was a much better alternative to the wild-west of FF.net back in the day. I used to beta for them and I met people who are still RL friends, including my current beta reader. Their forums were pretty good, too.
+
+I was so sad when the site went away. All of my reviews just went /poof/.
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 3
+:DateUnix: 1506693688.0
+:DateShort: 2017-Sep-29
+:END:
+
+**** u/Halandar_0815:
+#+begin_quote
+  Checkmated
+#+end_quote
+
+as I do not know Checkmated a question: How vital was a forum to the writers and betas?
+:PROPERTIES:
+:Author: Halandar_0815
+:Score: 3
+:DateUnix: 1506694282.0
+:DateShort: 2017-Sep-29
+:END:
+
+***** So Checkmated was very much a curated site focused on Ron and Hermione and Harry and Ginny. In order to get a story up, you had to submit it, after which it was reviewed to see if it met their criteria and then it was put in the queue to be picked up by a volunteer beta.
+
+The site volunteers had their own forums and there was a forum to discuss/debate incoming fics and authors. With the queue system, any beta could pick up any work, but writers often found betas they liked to work with and one of the forums was dedicated to calling out these specific relationships so your work wouldn't get picked up by someone else.
+
+Now, this site was around before the series was finished, I started reading/writing HP FF in between GoF and OOTP, so the forums were rife with speculation and it was also a place to discuss character relationships and fan fiction works. For authors, you could also have what we called "Shameless Plug" threads where you could post about a new work you'd put up. For mine, I had a whole series of works all in the same Potterverse, but I wrote them out of order and I got a lot of questions as to which order they go in, so I used the forums to keep that up to date.
+
+The forum aspect is one thing I kind of miss. This sub fills some of that gap, but it's not quite the same.
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 2
+:DateUnix: 1506696017.0
+:DateShort: 2017-Sep-29
+:END:
+
+
+** I mean, I feel like almost anyone would agree that a new and stable fanfiction site with good moderation and updates would be a godsend.
+
+The issue with this is that you aren't the first person to present the idea, and we've even had websites pop-up, with some activity. People have been tossing the thought around for years, with little to no results to show for it. It's left a lot of people sort of wary when it gets brought up again.
+
+That said, if you feel that you can in fact get a group together to build and, more importantly, maintain a website tailored to modern fanfiction writing and reading, then by all means do so. Fanfiction.net hasn't been significantly updated or renovated in over a decade, and AO3 (being the other top popular modern site) is more useful to readers than writers, and even still it has issues with tag standardization and search-ability as a result.
+
+My best suggestion would be to get something workable made up, get a mock-up going (one that DOESN'T look like it's 15 years out of date design wise), and go from there. Take suggestions, enter a beta-stage, and really take the time to go over feedback and build off of it. If something doesn't work, even if its a feature YOU personally like, revise it. You're making a tool for the masses and not just yourself. Likewise, don't remove or alter key features just because the masses complain, if that feature makes the rest of the site better overall.
+
+--------------
+
+Personally, I would advocate the following as being key to possible new fanfiction-based website that would be key.
+
+- Increased functionality for the *writers.* Almost every fiction site currently available has piss-poor tools available to the writers themselves, beyond basic upload capability. There are no writing tools available, no customization tools, etc. And websites that DO have some of these feature either bury them deeply under other menus and features, or implement them so poorly that they're unusable regardless. Make it easy to upload works, or to write works on site and publish them from there.
+
+- Enhanced file management. Make it easy to upload files, store files, edit files, or even change out files. Say I accidentally upload the wrong file for a chapter; make it so I can within a few click change out the file with an updated version without having to jump through 32109 hoops to do so.
+
+- Good search engine. This may require some standardization of tags. Perhaps implement a system where new tags can be implemented if enough of the community agree to them; say the HP fandom for example. We start with some standard ship tags like Drarry or some such, but someone suggests Drapple because its in one of their stories. Perhaps the community can vote to implement the tag. Regardless of how its done, you'll need something more flexible than Fanfiction.net's but not as chaotic and user-driven as AO3's clusterfuck of tags.
+
+- Easy favorite's organization. Make it easy for me to group together my favorited stories, and to find them. Perhaps a filing system and personal tagging system. Something that means I'm not just scrolling through a giant aggregated list. (Fanfiction.net's system for this is awful and I hate it vehemently).
+:PROPERTIES:
+:Author: NeonicBeast
+:Score: 16
+:DateUnix: 1506692262.0
+:DateShort: 2017-Sep-29
+:END:
+
+*** Thank you very much for this feedback. Getting a group together who work with a passion on it could be a challenge. Good search engine: Well thats my major wish as a reader, so I know that is an important one, which needs to be though through thoroughly. Enhanced file management: That is a good point, which I am kind of aware, but yet I do not know much about the requirements, as I am not a writer. Will have to look into that more. Easy favorite's organization: So you want to make multiple personal favorite lists? That sounds like a good idea, and will not be hard to implement. Thank you
+:PROPERTIES:
+:Author: Halandar_0815
+:Score: 1
+:DateUnix: 1506694042.0
+:DateShort: 2017-Sep-29
+:END:
+
+**** Fopr favorites, perhaps a system to put them into categories and subcategories would be nice. For example, you could add a story to your 'Harry potter's' folder, and then a subfolder for 'Super!Harry' favorites. Something that makes it easier to look through and see what type of story it is and perhaps why you favorited it to begin with.
+
+If the user could self-label the 'folders' or lists, that would be great as well.
+:PROPERTIES:
+:Author: NeonicBeast
+:Score: 3
+:DateUnix: 1506697120.0
+:DateShort: 2017-Sep-29
+:END:
+
+
+** AO3 seems to do most of this. You can DL fics in ePub format, tag the daylights out of your work and their search seems pretty okay. As far as I know, they don't have any restrictions on what one can post.
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 27
+:DateUnix: 1506690555.0
+:DateShort: 2017-Sep-29
+:END:
+
+*** The problem that I have with tags in AO3 is that too many fics obuse the tag system and tag everything and every character they can possibly think of making search difficult. Unless it's something obscure or less popular, I tend to get pages and pages of completely irrelevant results because every pairing and character is included in the tags.
+
+Also, is there a way to filter out crossovers? I don't read those and tend to get way too many of those in the results. Especially ones that for some reason tag 10+ different series and all the major characters and pairings in the series that don't even seem to be in the fic.
+:PROPERTIES:
+:Author: dehue
+:Score: 15
+:DateUnix: 1506695367.0
+:DateShort: 2017-Sep-29
+:END:
+
+**** Well, I learned on here about using the "-" when searching to take out characters I'm not interested in, so that helps to weed out some of the stuff. As for crossovers, I haven't found a way to get rid of those. Not really interested in your HP/Naruto/Avengers crossover, I'm afraid. :D
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 4
+:DateUnix: 1506696136.0
+:DateShort: 2017-Sep-29
+:END:
+
+
+*** u/Halandar_0815:
+#+begin_quote
+  Archive of Our Own
+#+end_quote
+
+The page states it is in beta for 8 years now. Apart from that the search is.. strange. Maybe it is just me or I am just not used to it, but self generated tags can be hard if you do not know exactly what you are looking for. And are the tags there also the genera category? hmm yes not bad, but not what I excpect from a search engine
+:PROPERTIES:
+:Author: Halandar_0815
+:Score: 11
+:DateUnix: 1506690966.0
+:DateShort: 2017-Sep-29
+:END:
+
+**** It's in beta in the same way that Warframe is in beta. It's already finished, they just don't want to remove the beta tag until they have all the features they want in it. If you want to learn more, their roadmap is available here: [[http://archiveofourown.org/admin_posts/295]]
+
+Regarding the search and tagging systems, while I admit it is somewhat different, and it does take some getting used to, I consider it far better than most others I've seen on other sites.
+:PROPERTIES:
+:Author: FrostingFlames
+:Score: 15
+:DateUnix: 1506691507.0
+:DateShort: 2017-Sep-29
+:END:
+
+
+**** The self-generated tags can get out of hand. I've run into some where it seems like half the fic is in the tags like a Tumblr post. I'm old, so I didn't grow up tagging the shit out of my stuff, so mine are very minimal. I find the search to be robust enough to get me a list of what I'm mostly looking for and then I can scan the tags for more detailed info.
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 10
+:DateUnix: 1506693156.0
+:DateShort: 2017-Sep-29
+:END:
+
+
+**** AO3's search definitely has a higher learning curve than the FF.net system, but I love being able to drill down to find specific tropes I'm in the mood for. After 10 years on the site, I'm so used to AO3's tagging and filtering system that I find it nearly impossible to find anything I'd want to read on FF.net. The categories are simply too broad.
+
+I just scroll past the fics that abuse the tagging system with dozens of tags. If you find them really annoying, you can hide additional tags by default in your preferences.
+
+My biggest complaint about the tagging system on AO3 is that there's no way to mark primary vs secondary fandoms, characters, pairings, etc. I think if that could be differentiated when posting and searching, it would reduce some of the tag abuse as well, because there would be less incentive to tag every character who appears in the fic for so much as a single mention if people could search based on "[character] as a primary character" instead of the current system, which only allows them to search "[character]".
+:PROPERTIES:
+:Author: ClimateMom
+:Score: 4
+:DateUnix: 1506711350.0
+:DateShort: 2017-Sep-29
+:END:
+
+***** Agreed, the search is horrid. I feel like I have to wade through so many crap fics to find good ones. Considering how heavily people tag their fics, it should be mandatory to say your fic is unbetad, so that I can exclude them from my search. I wish there was a forum that highlighted well-written fics. Both Schnoogle (Niffler's Recommend) and Ashwinder had curated forums dedicated to just this. Though this goes back to who is being employed to do this, etc.
+:PROPERTIES:
+:Author: rentingumbrellas
+:Score: 1
+:DateUnix: 1506729108.0
+:DateShort: 2017-Sep-30
+:END:
+
+****** u/ClimateMom:
+#+begin_quote
+  Though this goes back to who is being employed to do this, etc.
+#+end_quote
+
+I tend to think any sort of "official" list of recommendations is probably going to be a wank magnet, just because people have different tastes and one reader's trash is another's treasure. I prefer to rely on individual reccers, and really love AO3's bookmarking feature because it enables reccers to add notes about what they liked, and even additional tags (under-tagging can be just as big of a problem as over-tagging on AO3 when you're looking for something really specific). Once I find a few good fics in a new fandom, I often find more good reading just by trawling through people's bookmarks than visiting the main fandom tag.
+:PROPERTIES:
+:Author: ClimateMom
+:Score: 2
+:DateUnix: 1506770728.0
+:DateShort: 2017-Sep-30
+:END:
+
+
+*** I've found the AO3 search system to be pretty atrocious. Like, the default is searching using the top 10 tags, but if your character you want to find isn't on the list, and you don't know the precise spelling, you're going to have a hard time finding any story. And of course the tag system is atrocious, and since there's so little quality content over there it's not really worth it to search through the minefields.
+:PROPERTIES:
+:Author: Lord_Anarchy
+:Score: 3
+:DateUnix: 1506703451.0
+:DateShort: 2017-Sep-29
+:END:
+
+
+** I would rather think about improving the current two largest sites (AO3, FFN) than to build something from bottom up.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 8
+:DateUnix: 1506699278.0
+:DateShort: 2017-Sep-29
+:END:
+
+
+** I like the idea but you shouldn't let people rate the fics. I mean there would probably be some stupid people who would downvote a good fic because it's slash or because it's not the pairing they like. Or other idiots, who worship Hermione, who would upvote a bad fic just because it paint her in a good light.
+:PROPERTIES:
+:Author: Quoba
+:Score: 5
+:DateUnix: 1506723795.0
+:DateShort: 2017-Sep-30
+:END:
+
+*** I agree with this.
+
+Netflix used to base recommendations off how people rated the movies they watched out of five stars.
+
+Now they mostly base recommendations off what movies you actually watch and what movies you actually finish.
+
+Rather than a rating system, a good fanfic site should have a good recommendation system. "Hey, you and these 14 other users all finished Story A, and 11 of them went on to finish Story B, too. Why not try Story B?"
+:PROPERTIES:
+:Author: Governor_Humphries
+:Score: 3
+:DateUnix: 1506790519.0
+:DateShort: 2017-Sep-30
+:END:
+
+
+** Over the years I have found that the sites with more options...just annoy me. I know its oddly counterintuitive, and I hate that I cannot filter and sort better on FFN.. but the descriptions and tags and pairing lists and everything else just clutter up my brain and I find myself going back to simpler searches...
+
+As for whether a new site can make it today... not if you are concentrating on Harry Potter. You have to jump on board the next Fan Fic hype train and get a bunch of authors to post their stuff to your site, which they would probably do in addition to posting it on FFN.
+
+That means that FFN will keep its users, and only a handful of new users will make their way to the new site. The only caveat being if your site allows higher content ratings and directs people to read the "Full Version" on your site. I've seen this happen a few times, but generally users will follow the link for THAT story...and just end up going back to the site they have preferred for several years.
+
+Now if someone can make a "google" for fanfic sites, that indexes all the stories and ratings and pairings, and allows you to search them all at once...
+:PROPERTIES:
+:Author: JustRuss79
+:Score: 3
+:DateUnix: 1506699340.0
+:DateShort: 2017-Sep-29
+:END:
+
+
+** Ao3 allows people to copy and paste, it has a good tagging system, very easy to search for, allows ratings, comments, favourites, bookmarks, etc. They look for coders to help them out; I think if you want to work on a big fanfic site, you should help them out rather than making a whole new thing, honestly.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1506764630.0
+:DateShort: 2017-Sep-30
+:END:
+
+
+** If anyone wonders what is currently state-of-the-art, have a look at [[https://www.fimfiction.net][fimfiction.net]]. Ignoring the actual content, is has a great presentation and browsing filters, rating systems, comments, groups, ... - everything one could wish for.
+
+Example: Top Menu->Browse->Select any category and play around with the options on the right side.
+:PROPERTIES:
+:Author: AugustinCauchy
+:Score: 3
+:DateUnix: 1506702922.0
+:DateShort: 2017-Sep-29
+:END:
+
+*** I gree it's probably one of the best modern fanfic sites available; last i heard they had a site in the works for general fanfic, but so far there hasnt been any word on it. A pity, since fimfiction is currently setting a good standard aside from being very fandom specific.
+:PROPERTIES:
+:Author: NeonicBeast
+:Score: 2
+:DateUnix: 1506744905.0
+:DateShort: 2017-Sep-30
+:END:
+
+
+** [[/u/Halandar_0815]]
+
+If you're looking for something to template forum use in a fanfiction site setting on, perhaps check out Dokuga? It's primarily a site dedicated to sesskag (an Inuyasha ship) fanfiction and fanworks, but the forums are highly used to keep the fanbase connected even a decade or more after the series has ended. I feel that the forums play a key role in keeping the community from dying off despite how long it has been since any canon material has been released.
+
+They also has a yearly fundraiser to help keep the site afloat, and I feel like that might be a good template to go by in how to fund and maintain a fanfiction website. Perhaps messaging the moderators/admins on their processes would be helpful in figuring out a model for your hypothetical website?
+
+Similarly, perhaps going to some of the other archive and fansites and doing similar 'interviews' with those that run them and how they do so would be helpful in finding your own method for you and any team you put together to run with.
+:PROPERTIES:
+:Author: NeonicBeast
+:Score: 2
+:DateUnix: 1506697506.0
+:DateShort: 2017-Sep-29
+:END:
+
+
+** Frankly, my biggest wish for a fanfiction site is something as clean and approachable like FFN, but with something like a curator section that is really prominent - out there on the front page.
+
+Somewhere where you can find some critics you think you can trust or you share a taste with, and follow their tagged stories.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 2
+:DateUnix: 1506717615.0
+:DateShort: 2017-Sep-30
+:END:
+
+
+** or those created and pretty much abandoned
+
+[[http://ficwad.com/category/19][Ficwad]] (running on one cylinder)
+
+[[https://www.portkey-archive.org/][portkey]] (closed)HP/HG
+
+[[https://www.fanficauthors.net/][fanficauthors.net]] (zero updates, pretty much)
+
+[[https://fanlore.org/wiki/Checkmated][Checkmated]] a dead R/Hr site
+
+[[http://www.siye.co.uk/][SIYE]] for the HP/GW fanatics.
+:PROPERTIES:
+:Author: 944tim
+:Score: 1
+:DateUnix: 1506727090.0
+:DateShort: 2017-Sep-30
+:END:
+
+
+** That would be a lot of effort on not only yourself but others who are willing to help you. Would you really be willing to take the time and energy that it takes to create such a site? Note not being rude here, just merely curious.
+
+Because if you are I'd be all for it, but it doesn't really seem like that good of an investment when you will not get any money or anything like that out of it.
+
+If you and others are willing to take the time and energy to do this, it will probably take quite a while I'd imagine to set it up, but if you are willing to do this I'd be more then willing to use the site.
+:PROPERTIES:
+:Author: SnarkyAndProud
+:Score: 1
+:DateUnix: 1506734676.0
+:DateShort: 2017-Sep-30
+:END:

@@ -1,0 +1,314 @@
+#+TITLE: What kind of site is the hp universe missing?
+
+* What kind of site is the hp universe missing?
+:PROPERTIES:
+:Score: 12
+:DateUnix: 1442341705.0
+:DateShort: 2015-Sep-15
+:FlairText: Discussion
+:END:
+[deleted]
+
+
+** I'd think some sort of review aggregator like Goodreads would be an interesting and different site.
+
+From the top of my head: something with an index of stories read and reviews by readers who are intent on reviewing for the sake of other readers. It could include some sort of elective tag system where tags can be added but can be removed by the originator or possibly at the authors request. Whether it could be a discussion thread per story might be troublesome but as long as the participation is kept civil it might rock.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 18
+:DateUnix: 1442351486.0
+:DateShort: 2015-Sep-16
+:END:
+
+*** That's actually what I'm "working" on, i.e. I work on it a bit every few months. I'm a web developer for my day job so I'm often not in the mood for doing more of it in my free time. And it would be for fanfic in general, not just HP.
+:PROPERTIES:
+:Author: denarii
+:Score: 13
+:DateUnix: 1442356317.0
+:DateShort: 2015-Sep-16
+:END:
+
+**** I encourage you to keep working on it.
+
+Do you have a github or some repository where you keep your code? I'd be interested to look at it.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1442361026.0
+:DateShort: 2015-Sep-16
+:END:
+
+***** Yeah, but it's private at the moment. It's in a really weird state. I started it using Foundation, decided to try out [[https://material.angularjs.org/latest/#/]], realized I hated it, started to go back to Foundation.. then the Bootstrap v4 alpha was announced... I have a habit of using my side projects to play with different frameworks/gems/whatever look interesting.
+:PROPERTIES:
+:Author: denarii
+:Score: 3
+:DateUnix: 1442361281.0
+:DateShort: 2015-Sep-16
+:END:
+
+****** I'd love if you could message me when it is public (or even when it's not ^{:P} )!
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1442361501.0
+:DateShort: 2015-Sep-16
+:END:
+
+******* Do you happen to be a Rails and/or Angular dev?
+:PROPERTIES:
+:Author: denarii
+:Score: 1
+:DateUnix: 1442455697.0
+:DateShort: 2015-Sep-17
+:END:
+
+******** I know Ruby on Rails fairly well (not as good as my Java or Obj-C)
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1442457470.0
+:DateShort: 2015-Sep-17
+:END:
+
+********* PM me your github username? I could add you as a contributor once it's in a slightly more sane state.
+:PROPERTIES:
+:Author: denarii
+:Score: 1
+:DateUnix: 1442528681.0
+:DateShort: 2015-Sep-18
+:END:
+
+
+*** :) You are on to something...reviews for readers is a great idea (that actually makes me want to review...I seldomly do so if only the writer gets it (even less so if said writer has already been dismissive of my last review!)) as are story tags (I for example prefer not to read slash but on a lot of sites there's no tag and if it's not included in the summary (by the author) then you are out of luck :( (note: I don't think the author should be able to remove the tags...he/she should be able to tag his/her own story though!)
+:PROPERTIES:
+:Author: Laxian
+:Score: 2
+:DateUnix: 1442703255.0
+:DateShort: 2015-Sep-20
+:END:
+
+**** Maybe there's a compromise position, where an author can mark a tag as 'contested' or 'on appeal'. That's probably more effort than is needed though- after all, if the post originator isn't the author, there may be some trouble verifying the author is genuine to be granted the right to contest.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 1
+:DateUnix: 1442706714.0
+:DateShort: 2015-Sep-20
+:END:
+
+***** Maybe (though as long as nobody wrongly tags a fanfiction, why would you want to contest a tag?)
+:PROPERTIES:
+:Author: Laxian
+:Score: 1
+:DateUnix: 1442755115.0
+:DateShort: 2015-Sep-20
+:END:
+
+
+** It would be cool to have a webapp like Pandora where we can positively or negatively rate the stories we read and get recommendations for stories with similar characteristics. The problem would be indexing all the fics. (You'd almost have to program a script to 'read' each one and understand how to identify different plot characteristics. )
+
+ 
+
+A site that would encourage crowd sourced translating of fics would be cool. There's loads of great fics that I'm sure non-english speakers would enjoy. I bet the same goes for the reverse as well. The trouble here is keeping the translators accountable, ensuring quality translations, and you'd need a very large database. (overall a PITA)
+
+ 
+
+I'd love a site that would watch a list of stories from various fiction sites and email me when there's an update to any of them. The problem with this would be potentially using a lot of bandwidth constantly checking sites for updates for every fic that the users of your site list.
+
+ 
+
+There's a lot of options, but I suggest starting something you'd be comfortable maintaining. Not every option is a good fit, there's drawbacks to every idea. Just brainstorm for a bit about any frustration or need you think needs to be addressed and ask yourself if you can do anything for it.
+:PROPERTIES:
+:Author: UsernamesR_Pointless
+:Score: 10
+:DateUnix: 1442348206.0
+:DateShort: 2015-Sep-16
+:END:
+
+*** You wouldn't necessarily have to index or evaluate fics; you could just look at what other users have liked and disliked. Maybe you could do a bit of basic evaluation over just the summary and basic features, like what ffnbot returns, but it would probably be a bit overkill to try to evaluate the text of the fic.
+:PROPERTIES:
+:Author: Coppppp
+:Score: 1
+:DateUnix: 1442360103.0
+:DateShort: 2015-Sep-16
+:END:
+
+
+*** Rate out of 5 stars, like Goodreads does?
+:PROPERTIES:
+:Author: Karinta
+:Score: 1
+:DateUnix: 1442534846.0
+:DateShort: 2015-Sep-18
+:END:
+
+
+** I like the Pandora and review-aggregation ideas other people have mentioned.
+
+Half-relatedly, one of the things I worry about a little, as the first wave of HP fanfic sites slowly become ghost towns, is who'll be there to maintain them to keep them from just /failing/ one day, without warning.
+
+FictionAlley Park now gets one or two non-spam posts a day, and the front pages of their fic archives are now full of broken images and easily fixed password requests, etc. Portkey, if you're into H/Hr at all, has been nearly broken for five years---no forum, no art, no rec engine, no sign of life---and appears to be totally abandoned.
+
+It'd be great to see somebody with free time (which I have) and skill (which I don't) modernize them, or at least triage the easiest parts. Honestly they probably just need to be archived permanently, but it's a little sad to watch these huge bastions of the original HP internet transform into weird internet ruins.
+:PROPERTIES:
+:Author: danfiction
+:Score: 7
+:DateUnix: 1442356821.0
+:DateShort: 2015-Sep-16
+:END:
+
+*** Sugar Quill has been down since 2009, but SIYE is still going strong, even after 12 years.
+:PROPERTIES:
+:Author: stefvh
+:Score: 1
+:DateUnix: 1442410088.0
+:DateShort: 2015-Sep-16
+:END:
+
+
+*** Perhaps not exactly what your looking for, but: [[https://transformativeworks.org/open-doors-0]]
+:PROPERTIES:
+:Author: DandalfTheWhite
+:Score: 1
+:DateUnix: 1442703401.0
+:DateShort: 2015-Sep-20
+:END:
+
+
+** So, I'm gonna be the downer of this discussion and bring up the problem with new sites: we don't have the population for them. The HP fandom is all but dead, with this subreddit and dlp are pretty much all that's left with active communities.
+
+Recommendation sites would be great, but you need an alive community to make them work, and there really aren't enough people to make it happen.
+
+To be honest, I'm actually fairly surprised at how this sub has grown in the past two years. It's probably the best thing that could have happened to the fandom in terms of keeping it alive.
+
+I don't want to put anyone down, but that's the reality. Aggregate or recommendation sites that rely on heavy user input without being able to leverage existing data from older sites are most likely doomed to fail.
+:PROPERTIES:
+:Author: Servalpur
+:Score: 6
+:DateUnix: 1442359227.0
+:DateShort: 2015-Sep-16
+:END:
+
+*** I think you're right, unfortunately. We're Fandom Detroit---all the old crumbling sites are built for preposterously large communities that don't exist anymore, and the only solution is to abandon them and gather in the city center, where we can at least keep the lights on.
+
+I'm really thankful for the subreddit---it seems like most of us who are still around are gradually finding it and coming aboard, and luckily it seems like there are enough of us left all together to keep /one/ community going. (Plus DLP, of course, which I think of as its own beast.)
+:PROPERTIES:
+:Author: danfiction
+:Score: 4
+:DateUnix: 1442361113.0
+:DateShort: 2015-Sep-16
+:END:
+
+**** That's the perfect analogy for the situation, and also incredibly depressing.
+
+As someone who started reading fanfiction in 2003, watching all the old sites die hurts a little.
+:PROPERTIES:
+:Author: Servalpur
+:Score: 3
+:DateUnix: 1442363090.0
+:DateShort: 2015-Sep-16
+:END:
+
+
+*** Perhaps the post is too narrow minded. I think it would be easier to get a community around such a site if he opens it up for more fandoms. But starting with hp famfictions should he fine.
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 1
+:DateUnix: 1442359939.0
+:DateShort: 2015-Sep-16
+:END:
+
+**** I'm not saying the server would crash and burn it it was tried, just that the site would be empty it he did it without importing data from already established sources. Probably dlp, with its already existing star rating system.
+
+Getting people to review on ffnet is hard entity, and most of those reviews are hardly week thought out to begin with. Getting people to find fics, go to an unestablished site, and place thoughtful, useful reviews with the fandom this small just won't work.
+
+Ten years ago, I would have been all for it. Even five years ago it might have worked. Now the fandom is just really small.
+:PROPERTIES:
+:Author: Servalpur
+:Score: 2
+:DateUnix: 1442360420.0
+:DateShort: 2015-Sep-16
+:END:
+
+
+** A site with a /really good/, versatile search engine. A complex one, that lets you filter in/out an indefinite amount of characters, specific plots, tags and genres. None of the sites I've visited does so sufficiently. No, not even AO3.
+:PROPERTIES:
+:Author: Almavet
+:Score: 4
+:DateUnix: 1442357993.0
+:DateShort: 2015-Sep-16
+:END:
+
+*** That was another goal of the aggregator. I'd argue that AO3's one of the worst because the signal to noise ratio is so low.
+:PROPERTIES:
+:Author: denarii
+:Score: 4
+:DateUnix: 1442359285.0
+:DateShort: 2015-Sep-16
+:END:
+
+
+*** [deleted]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1442366019.0
+:DateShort: 2015-Sep-16
+:END:
+
+**** I think you might run into legal trouble if you tried to crawl sites and index all the fics. My plan was to rely on user submissions plus scraping metadata on the specific fics that are submitted.
+:PROPERTIES:
+:Author: denarii
+:Score: 1
+:DateUnix: 1442366507.0
+:DateShort: 2015-Sep-16
+:END:
+
+
+**** I actually meant a website where the authors themselves would upload the fics and tag them for the search engine. Though I guess it could also work with user tags like last.fm.
+:PROPERTIES:
+:Author: Almavet
+:Score: 1
+:DateUnix: 1442368005.0
+:DateShort: 2015-Sep-16
+:END:
+
+
+** An interesting variation would be a site which would be a better one spot fiction manager site.
+
+1. Keep track of stories that I am tracking and message me when new chapters are uploaded (like an RSS feeder)
+
+2. Allow me to enter cleaner/better metadata (pairings, tags in a better format) to allow easier searching for stories
+
+3. A possible, "you may like" recommendation engine based on accurate stats.
+
+4. Simple neural net logic to keep track of stories that people like for a better recommendation engine.
+
+5. An internal communication platform/review engine
+
+6. And eventually, if there was a reason for it, a place for writing stories with a better interface so that better authors could slowly start drifting this side and just start adding stories here. We could add a way to "donate" to authors to support them and thank them for their stories, have "professional reviewer" accounts so authors could fix and improve story quality...
+
+In the short run, authors would start mirroring their stories here...
+
+In the long run, all the good stories would be here, but the search engine would still let you search across stories in other sites....
+
+Basically a "hpfanfictionworld" style site (so to speak), designed to nurture readers, reviewers and authors.....
+:PROPERTIES:
+:Author: adityars
+:Score: 2
+:DateUnix: 1442378991.0
+:DateShort: 2015-Sep-16
+:END:
+
+
+** I'd like to be able to add comments to a story. Sometimes I forget I read something until I get a couple chapters in, sometimes I forgot why I didn't read something.
+:PROPERTIES:
+:Author: howtopleaseme
+:Score: 1
+:DateUnix: 1442359318.0
+:DateShort: 2015-Sep-16
+:END:
+
+
+** A website with a Netflix-style recommendation system.
+:PROPERTIES:
+:Author: Imborednow
+:Score: 1
+:DateUnix: 1442365941.0
+:DateShort: 2015-Sep-16
+:END:

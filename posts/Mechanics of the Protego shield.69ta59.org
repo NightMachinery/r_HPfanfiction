@@ -1,0 +1,288 @@
+#+TITLE: Mechanics of the Protego shield
+
+* Mechanics of the Protego shield
+:PROPERTIES:
+:Author: deirox
+:Score: 5
+:DateUnix: 1494185971.0
+:DateShort: 2017-May-08
+:FlairText: Discussion
+:END:
+I realized I have no idea how the good old Protego works, which is a pain when trying to write duels. Don't recall if the books ever went into detail about it - if they didn't, feel free to give me your headcanon.
+
+- Can you move after casting a Protego, and if yes, will the shield move along with you or stay stationary?
+
+- Can you cast spells through your own Protego?
+
+- Is it a sphere or a sheet?
+
+
+** The thing to keep in mind is that spells in HP are pretty flexible, both in terms of power and in terms of function.
+
+Power: when Harry first casts the shield charm in GoF, it's incredibly flimsy and barely able to block jinxes. By the time of DH he's blocking powerful curses with it.
+
+Function: as well as blocking spells, we have seen the shield charm block physical objects and reflect spells. We've seen it cast to protect a single individual (most of the time) and also to act as a wall (when Harry threw up a shield between Voldemort and the rest of the Great Hall in DH).
+
+On top of the above "simple" variations in function, we also see over the course of the HP books how alterations and modifications to an incantation can help you to modify the behaviour of a spell. It seems to be that you can make small alterations without modifying the incantation but larger changes to spell behaviour can require a change in the incantation.
+
+However, the alteration of incantation seems to be something that is not fixed but rather relative to the caster's expertise. For example, when Harry first starts using the summoning charm he is using it as a two-word incantation, having to verbally identify the object he wants to summon. But later we see him using it as a single word incantation - apparently as he gets better with the spell, he no longer needs to verbalise the variation of the spell but rather his subconscious handles it.
+
+Vitally what this suggests is that there's no fundamental difference between altering a spell with purely mental effort and doing it via alteration of the incantation, though the former seems to require a greater level of mastery of the spell.
+
+In the case of the shield charm, we've seen a couple of variations in incantation: protego totalum, which is used when you want to cast the charm over a large area and have it last longer (but see Harry's shield in DH climax, which he cast without the "totalum" modifier but largely behaves like a "protego totalum"), and protego horriblis, with unknown results (my own interpretation is that it's an aggressive shield that harms those who try to break it).
+
+So to go to your questions:
+
+- Can you move after casting a Protego, and if yes, will the shield move along with you or stay stationary? Depends how you cast it.
+
+- Can you cast spells through your own Protego? Yes.
+
+- Is it a sphere or a sheet? Depends how you cast it.
+
+For a fuller consideration of what goes into spell variation and mastery, see my [[https://docs.google.com/document/d/1VOF1eu_B7qpTeTUykW5ZGK2HJmVAG5WouY71a5AiRPo/edit?usp=sharing][full works]].
+:PROPERTIES:
+:Author: Taure
+:Score: 18
+:DateUnix: 1494187159.0
+:DateShort: 2017-May-08
+:END:
+
+
+** Taure has a pretty great dissection of Protego in the thread, but I have to disagree with one thing the ability to cast Through a already erected shield of your own design. As I would expect you have to visualize and will a new spell, so you would have to stop visualizing the Shield between you and your enemies.
+
+Taure also gives a good point on making the Protego any shape you like and we see Hermione use a variation on that when she cast a Protego between Harry and Ron in the tent during the fight, Harry notes that the Protego pushed him back. So that means Hermione either made a Sphere or a large thick Wall between the two boys. But I think that Harry and Hermione's Uses of the Protego aren't normal but rather things they either found in rarer books or things workshopped in the DA. We also have to temper expectations since Harry and Hermione are both pretty good students so while they may be shaping and changing the shield I would guess with a good amount of certainty that they are in the top 10-15% of Magic users in manipulation and use of spells and that the rest of the wizarding population use a 90° curved dome between them and their attacker, this explains why physical things like Falling Stones and Crystal Balls fell the Death Eaters and Defender of Hogwarts only seconds after using Protego or even while wearing WWW Shield Wear
+:PROPERTIES:
+:Author: KidCoheed
+:Score: 2
+:DateUnix: 1494189709.0
+:DateShort: 2017-May-08
+:END:
+
+*** u/Taure:
+#+begin_quote
+  Taure has a pretty great dissection of Protego in the thread, but I have to disagree with one thing the ability to cast Through a already erected shield of your own design. As I would expect you have to visualize and will a new spell, so you would have to stop visualizing the Shield between you and your enemies.
+#+end_quote
+
+There's no real evidence in canon to support the idea that visualisation is a common element of the HP magic system. I think the summoning charm is the only time it was used, and even then it was more an aid to focus rather than an end in itself.
+
+Personally I have never liked the idea in any case - it's too close IMO to "wish magic" where all you have to do is think really hard about what you want and you get it - too subjective, not requiring real study or knowledge, just imagination.
+
+In particular I don't think it can be supported that the shield charm requires constant mental support/visualisation, unless one wishes to argue that Hermione/Harry were continually focused on maintaining the shield charm around the campsite in DH... even when asleep.
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1494190491.0
+:DateShort: 2017-May-08
+:END:
+
+**** u/yarglethatblargle:
+#+begin_quote
+  no real evidence in canon to support the idea that visualisation is a common element of the HP magic system
+#+end_quote
+
+Probably the only time visualization comes in is in Transfiguration/Conjuration when you're deciding whether the goblet you're transfiguring/conjuring has fancy embroidery or other cosmetics.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 4
+:DateUnix: 1494194907.0
+:DateShort: 2017-May-08
+:END:
+
+
+**** Not that I'm disagreeing, but if that is true, then why do people not spend entire fights or duels casting from beneath Shield Charms? Depending on the incantation and power/knowledge of the caster, it would seem to render minor to moderate curses and hexes - the vast majority of offensive magic used in the series - pointless.
+:PROPERTIES:
+:Author: Namshiel-of-Thorns
+:Score: 3
+:DateUnix: 1494192894.0
+:DateShort: 2017-May-08
+:END:
+
+***** Well, it depends on your view of the canon status of Fantastic Beasts, but that is exactly what Grindelwald /did/ do in his fight vs 20 Aurors.
+
+That said, the possibility of having the Killing Curse chucked your way is a good incentive not to get too comfortable in your trust in a shield charm.
+
+I'm perfectly willing to accept that a person who can cast a strong shield charm is basically immune to minor to moderate curses and hexes, however.
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1494193668.0
+:DateShort: 2017-May-08
+:END:
+
+****** Ah, thank you. To be honest, I didn't even consider the Fantastic Beast fight.
+:PROPERTIES:
+:Author: Namshiel-of-Thorns
+:Score: 2
+:DateUnix: 1494194259.0
+:DateShort: 2017-May-08
+:END:
+
+
+****** Maybe Grindelwald is such a badass he's casting two spells at the same time?
+:PROPERTIES:
+:Author: ashez2ashes
+:Score: 1
+:DateUnix: 1494254092.0
+:DateShort: 2017-May-08
+:END:
+
+
+**** Eh, I personally favor the whole concentration interpretation. If we think about it, we have kids who can do pretty complex stuff with magic, but only when they are concentrating, using incantations, and using wand motions. As they get better and more experienced at magic, their spells are stronger, more flexible and adaptable, and they begin to forgo tools which specify intent, as we see in non-verbal casting and point casting. Verbalizing incantations presumably allows you to devote a lot less concentration to them as opposed to nonverbal, where apperantly, you have to think the incantation as hard as you can. Similarly, wand motions (headcanon warning) allow you to set parameters for a spell, defining size, power, target etc. As you are able to hold those variables in you head, while concentrating on the spell, you can cut those wand motions out of your spells.
+
+So the shield charm is like a balancing act. Unlike a lot of other spells, which are more fire and forget, using a shield requires constant concentration to keep up. It can stand up to a lot, but each time a spell hits it, it is a break in the concentration. A jinx hitting it might be like someone flicking you. A dark curse, might be like someone punching you. All while you are holding up a shield.
+
+Lets use an analogy of holding a glass vase. If you are bad at shields, then you have a weak grip. Someone flicking you a couple times might make you drop it. If you are stronger, then you might hold it, unless you start getting punched repeatedly. If you wanted to fire spells through it, that is like holding the vase one-handed and throwing softballs with the other. Possible of course, but if someone is hitting you while you hold a vase and are throwing softballs, then you will likely fuck up one, the other, or both. So unless you are a great wizard, it is unlikely that holding a shield and firing through it is the best approach.
+
+As for the campsite shield charm, keep in mind that none of us know what it does. Maybe it acts like a repelling charm for dark creatures, in which case it could easily be fire and forget without need of maintenance. It might act as a warning system, where if something dark crosses the boundaries, then it repels them for a second, while giving the caster that little tap we were discussing earlier. We can assume it doesn't do much for spells, as otherwise it would be used over the normal Protego. Perhaps as a deterrent for long distance spells? Perhaps it prevents dark scrying by some magical camouflage? Also keep in mind that spells in HP basically do exactly what they say they do. Protego is to protect, so while some might interpret that to mean Protego Horriblis is an offshoot of Protego, I would argue that they could have completely different properties, with just protection as a theme be the only thing in common.
+:PROPERTIES:
+:Author: Dorgamund
+:Score: 1
+:DateUnix: 1494216579.0
+:DateShort: 2017-May-08
+:END:
+
+***** The intent/concentration model fails to adequately account for the objective, independent nature of magic - Harry cast Sectumsempra without any idea of what it did, and so without any intent at all, and mistakes during an incantation can result in you casting the wrong spell regardless of your intent.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1494221875.0
+:DateShort: 2017-May-08
+:END:
+
+****** It's a fair point you make. I would personally attribute it to Harry following all the instructions and being angry enough for it to work. At that point it would just sort of default to the incantation for guidance. Though it is interesting, did Harry actually use it correctly? When he used it on Malfoy in the bathroom, I believe that it was described as multiple slash wounds opening up, like a sword. However, Snape's of the spell seem to be a highly focused, cutting spell, great for amputation as we see with him taking off Georges ear. But a spell which randomly hacks away at the target isn't how you would use that. So I feel like incantations and wand motions help determine the parameters, and intent can be substituted in for those, resulting in much more flexible spells.
+
+Also, we don't exactly have much canon knowledge about a bad incantation. The only one that comes to mind, is the wizard Barrufio, who allegedly conjured a buffalo which fell on him. That sounds suspiciously like a warning story told to wizard children(or Rowling trying to be funny) so I would hesitate to assume anything concrete from it.
+:PROPERTIES:
+:Author: Dorgamund
+:Score: 1
+:DateUnix: 1494226179.0
+:DateShort: 2017-May-08
+:END:
+
+
+*** u/Satanniel:
+#+begin_quote
+  As I would expect you have to visualize and will a new spell, so you would have to stop visualizing the Shield between you and your enemies.
+#+end_quote
+
+You don't need to maintain a shield. There is a scene where Harry casts a shield between Hermione and Ron, so Hermione won't choke him or anything. Then, when he removed it, he had to decide to remove it and wave wand at it.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 4
+:DateUnix: 1494199863.0
+:DateShort: 2017-May-08
+:END:
+
+
+** Headcanon: Sphere, can cast through it, moves with you.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 1
+:DateUnix: 1494190749.0
+:DateShort: 2017-May-08
+:END:
+
+*** My headcanon is that it only lasts while it's being cast. If they stop to cast something else, the shield is gone. But if i do roll with it being an independent charm then it's a sheet, not a dome. the caster can cast through it but for anyone else it's reflective both sides meaning if One can angle right, one could reflect a spell it into the caster's face if they can't get their back due to whatever.
+:PROPERTIES:
+:Author: viol8er
+:Score: 1
+:DateUnix: 1494205523.0
+:DateShort: 2017-May-08
+:END:
+
+
+** I suppose I always visualized protego as being like the movie version of a weak Patronus: A sort of dome like blueish-white umbrella shield that is connected to your wand. I suppose it can't be connected if you want to cast offensively directly afterwards, but that might be one of the drawbacks? It would explain why dodging is preferred, as it lets the dodger counterattack.
+:PROPERTIES:
+:Author: Averant
+:Score: -1
+:DateUnix: 1494193441.0
+:DateShort: 2017-May-08
+:END:
+
+*** u/Satanniel:
+#+begin_quote
+  dogdging is preferred
+#+end_quote
+
+That's fanfiction thing.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 3
+:DateUnix: 1494199912.0
+:DateShort: 2017-May-08
+:END:
+
+**** We're on a fanfiction subreddit, yes.
+:PROPERTIES:
+:Author: Averant
+:Score: 2
+:DateUnix: 1494202228.0
+:DateShort: 2017-May-08
+:END:
+
+***** And this thread largely discusses canon. Which means that you should've used some indicatorfor that being fanon / headcanon.
+
+Also promoting dodging is one of those many fanon cliches that should die (granted, like 90% of fanon cliches should).
+:PROPERTIES:
+:Author: Satanniel
+:Score: 3
+:DateUnix: 1494222198.0
+:DateShort: 2017-May-08
+:END:
+
+****** u/deleted:
+#+begin_quote
+  Also promoting dodging is one of those many fanon cliches that should die
+#+end_quote
+
+Dunno what you're on about; in the Marines we wore heavy kevlar vests with ceramic inserts but it's many, many times better to not get shot in the first place. I don't see how that changes with spells.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1494287438.0
+:DateShort: 2017-May-09
+:END:
+
+******* Did you dodge bullets in marines or did you put yourself in situation where you covered by something?
+
+Shields, transfigured and conjured stuff. They are covers. Dogding spells while is risky as hell, it's better to stop their path or don't allow them to be casted at all. That's why in canon basically the only dogding ones are kids who can't do anything better.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 1
+:DateUnix: 1494288154.0
+:DateShort: 2017-May-09
+:END:
+
+******** My point was that relying on PPE, shield spells included, is really dumb. Incoming fire has the right of way, as the saying goes, so it's best to get the fuck out of the intersection, and spells are slow enough to dodge, unlike bullets.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1494288372.0
+:DateShort: 2017-May-09
+:END:
+
+********* There is not a single example in canon of someone successfully and intentionally dodging a spell that is already in flight, in deliberate response to the already-travelling spell. The idea that spells are slow enough to dodge in a reactionary manner is fanon.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1494345701.0
+:DateShort: 2017-May-09
+:END:
+
+********** If spells travel slowly enough that you can A, see it cast; B, react, and C; conjure a shield, it's slow enough to step out of the way. The fact that this isn't used in canon reflects more on JKRs famously poor ability to think things through and write accordingly than on anything else.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1494359948.0
+:DateShort: 2017-May-10
+:END:
+
+
+********* As I said, I don't really consider shields to be PPE. Shield hats, etc. yes.
+
+And still, while there are few examples of reacting faster than a spell flies, they often include casting time. There is a part in GoF where Harry and Draco throw spells at each other, they ricochet, hit Hermione and Goyle and it takes a moment for everybody to process what happened.
+
+So spell, while dodgeable still fly rather fast and dodging requires much more movement than blocking it magically and so it takes more time, leaving dodger either hit or in a disadvantage.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 1
+:DateUnix: 1494364184.0
+:DateShort: 2017-May-10
+:END:

@@ -1,0 +1,114 @@
+#+TITLE: Fanfiction.net suggestions for improvement
+
+* Fanfiction.net suggestions for improvement
+:PROPERTIES:
+:Author: MattHarding87
+:Score: 8
+:DateUnix: 1538726759.0
+:DateShort: 2018-Oct-05
+:FlairText: Discussion
+:END:
+Does anyone know where I can send a recommendation of improvement to for fanfiction.net
+
+There are one specific thing I'd love to see.
+
+If any fanfiction doesn't get updated in a certain amount of time it gets a tag "slow updates" and if its not updated in a longer time it gets a tag marked as "abondoned
+
+Thoughts?
+
+
+** I have the feeling that the responsible people of ffn are not interested in any suggestions. The site has been more or less unchanged for years. General problems are simply ignored there.
+:PROPERTIES:
+:Author: ThePinguin123
+:Score: 15
+:DateUnix: 1538739325.0
+:DateShort: 2018-Oct-05
+:END:
+
+*** I find it telling that the only time FFN made improvements was after AO3 became popular. FFN made the search filtering options more robust, probably in response to AO3's better tag filtering system at the time.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 6
+:DateUnix: 1538774448.0
+:DateShort: 2018-Oct-06
+:END:
+
+
+** I only want to know what kind of time periods you would suggest, purely because I work 4am-12pm and my editor lives on the other side of the world, so we update very slowly and I'd rather my work not be marked as abandoned when it's not, we just struggle to update.
+:PROPERTIES:
+:Author: Sigyn99
+:Score: 2
+:DateUnix: 1538728252.0
+:DateShort: 2018-Oct-05
+:END:
+
+*** I agree completely. It's just a thought I had. I was thinking something along the lines of no updates in 3 or 6 month gets a "slow update" And maybe nothing after 12 months gets an abondoned. And as soon as the author posts again the tag will come off.
+
+It's not so much for the posters as it's more for readers.
+:PROPERTIES:
+:Author: MattHarding87
+:Score: 2
+:DateUnix: 1538728429.0
+:DateShort: 2018-Oct-05
+:END:
+
+**** I would say remove ‘abandoned' after an update and lower it to ‘slow updates' but ‘slow updates' should remain a tag until the author is consistently updating at a faster pace, rather than just after one chapter.
+:PROPERTIES:
+:Author: Sigyn99
+:Score: 5
+:DateUnix: 1538730446.0
+:DateShort: 2018-Oct-05
+:END:
+
+***** Good suggestion.
+:PROPERTIES:
+:Author: MattHarding87
+:Score: 2
+:DateUnix: 1538730613.0
+:DateShort: 2018-Oct-05
+:END:
+
+
+**** I don't like to get email notifications for stories as I'll see the notification and get distracted from things I need to do. Instead I keep a found of bookmarks for the fic I'm waiting for updates to. In that folder are sub folders. They are titled. Slow to update, Possibly abandoned, likely abandoned. Things that only get one update once a month or more go in the slow to update folder. After six months of nothing they move to possibly abandoned. A year of no word and it moves to likely abandoned. Given this, when I saw your suggestion I laughed since it lines up pretty well with how I already sort.
+:PROPERTIES:
+:Author: ItCouldAllBeForNot
+:Score: 1
+:DateUnix: 1538842127.0
+:DateShort: 2018-Oct-06
+:END:
+
+***** That sounds like a lot of work. I mean I already follow 93 stories currently so can see when things update etc. I just think when looking for new stories, it makes it easier if you see a tag saying slow updates rather then just the date of last update. Maybe I'm just lazy
+:PROPERTIES:
+:Author: MattHarding87
+:Score: 1
+:DateUnix: 1538842439.0
+:DateShort: 2018-Oct-06
+:END:
+
+
+** I highly doubt you could get FFN themselves to do it but there might be someone else out there who could build a plug in like the FFN Story Parser
+
+Except that assumes there's a way that you could track the update intervals over time, idk about that part
+:PROPERTIES:
+:Author: tectonictigress
+:Score: 2
+:DateUnix: 1538747168.0
+:DateShort: 2018-Oct-05
+:END:
+
+*** Probably can't get the old update times (except those that are on archive.org) but we could build a service that saves all new update times from now on... I think I found a new project ;)
+:PROPERTIES:
+:Author: how_to_choose_a_name
+:Score: 2
+:DateUnix: 1538754222.0
+:DateShort: 2018-Oct-05
+:END:
+
+
+** They aren't interested. You can use my app if you want that functionality but it doesn't have /all/ of FFN indexed. Just most popular stuff
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1538780291.0
+:DateShort: 2018-Oct-06
+:END:

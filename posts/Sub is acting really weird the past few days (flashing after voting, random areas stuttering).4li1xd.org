@@ -1,0 +1,42 @@
+#+TITLE: Sub is acting really weird the past few days (flashing after voting, random areas stuttering)
+
+* Sub is acting really weird the past few days (flashing after voting, random areas stuttering)
+:PROPERTIES:
+:Author: ggrey7
+:Score: 11
+:DateUnix: 1464477507.0
+:DateShort: 2016-May-29
+:FlairText: Meta
+:END:
+I doubt it's a problem with my browser since I haven't changed anything...
+
+It's not happening in other subs*
+
+
+** The last change to the CSS was almost 3 weeks ago and that was really minor, just fixing a bug with some links not being clickable.
+:PROPERTIES:
+:Author: denarii
+:Score: 5
+:DateUnix: 1464478007.0
+:DateShort: 2016-May-29
+:END:
+
+
+** He's back!
+:PROPERTIES:
+:Author: kneelingquim
+:Score: 1
+:DateUnix: 1464482500.0
+:DateShort: 2016-May-29
+:END:
+
+
+** I've been noticing it, too--especially animation lag after an upvote.
+
+Chrome 50.0.2661.102 m (64-bit)
+:PROPERTIES:
+:Author: jeffala
+:Score: 1
+:DateUnix: 1464529982.0
+:DateShort: 2016-May-29
+:END:

@@ -1,0 +1,111 @@
+#+TITLE: Need help figuring out Harry’s class schedule in first year
+
+* Need help figuring out Harry’s class schedule in first year
+:PROPERTIES:
+:Author: ReallyBigStick
+:Score: 0
+:DateUnix: 1609946039.0
+:DateShort: 2021-Jan-06
+:FlairText: Discussion
+:END:
+If this should be posted in [[/r/harrypotter][r/harrypotter]] instead then I will move it there.
+
+
+** [[https://www.reddit.com/r/HPfanfiction/comments/b93g9f/harry_potter_and_the_hogwarts_class_schedules_a/][This]] is what I use.
+:PROPERTIES:
+:Author: callmesalticidae
+:Score: 3
+:DateUnix: 1609946234.0
+:DateShort: 2021-Jan-06
+:END:
+
+*** This is really helpful! Thank you!
+:PROPERTIES:
+:Author: ReallyBigStick
+:Score: 2
+:DateUnix: 1609949231.0
+:DateShort: 2021-Jan-06
+:END:
+
+
+** All information we have about first year (extracted from PS):
+
+#+begin_quote
+  School starts Monday, lessons are 45 minutes. There are 10-minute-breaks, lunch is one hour, dinner before 5 pm. A bell is signalling the end of classes.
+
+  Herbology is "three times a week", it is directly after breakfast at least once; after that instance, there's a break. Defense is also on a morning at least once (and on a day after one of the three Quidditch practices a week Gryffindor has).
+
+  Astronomy Wednesday at midnight. Charms class on Halloween morning, which would be a Thursday, there is another class after Charms; the afternoon might be off/study time.
+
+  Potions on Friday in a double lesson, possibly directly after breakfast, in any case though ending 30-45 minutes before lunch. Another instance of a Friday has the first years standing on a courtyard during a break when Snape passes, and there is no indication of having just been (which wouldn't fit with the lunch thing either) or being about to go to Potions. This probably has to be discounted as an anomaly.
+
+  Transfiguration is Thursday.
+
+  About History, nothing is known, and the (one?) Flying Lesson(s) is on Thursday during the second week of school at 3:30 pm.
+#+end_quote
+
+As you see, there is a /lot/ of space left to arrange everything as you like. For general guidelines, I'd expect at least three lessons for all classes except Astronomy every week, which comes out as 18 periods per week plus Astronomy, i.e., three days with four periods, and two days with three (excluding Astronomy). In-between would be private study periods (mandatory, possibly supervised work on assignments). You could add two, so you end up with 4 periods each day. This would fill the mornings, between breakfast and lunch.
+
+So a possible template:
+
+Breakfast: 07:00 -- 08:00
+
+Period 1: 08:00 -- 08:45
+
+Period 2: 08:55 -- 09:40
+
+Period 3: 09:50 -- 10:35
+
+Period 4: 10:45 -- 11:30
+
+Lunch: 11:45 -- 12:45
+
+But all that's just an idea derived from the facts above. If you want to create your own timetable or templates, it's helpful to read about actual British boarding schools. Hogwarts isn't special in that sense.
+:PROPERTIES:
+:Author: Sescquatch
+:Score: 2
+:DateUnix: 1609960340.0
+:DateShort: 2021-Jan-06
+:END:
+
+
+** The wiki uses movie and videogame stuff, but this page goes by the book from what I remember [[https://harrypotter.fandom.com/wiki/1991%E2%80%931992_school_year#cite_note-8]]
+:PROPERTIES:
+:Author: Ash_Lestrange
+:Score: 1
+:DateUnix: 1609960332.0
+:DateShort: 2021-Jan-06
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1609962827.0
+:DateShort: 2021-Jan-06
+:END:
+
+*** Yeah... I tried a schedule with thirty blocks in a week, six per day, and came up with students using two-thirds of those, teachers using every one, PLUS they have to grade a ridiculous amount of homework.
+
+So conclusions are that A) JK Rowling really doesn't care about math, and B) The teachers all deserve pay raises.
+:PROPERTIES:
+:Author: ReallyBigStick
+:Score: 1
+:DateUnix: 1609962996.0
+:DateShort: 2021-Jan-06
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1609963570.0
+:DateShort: 2021-Jan-06
+:END:
+
+***** The schedule I decided to use has first- and second-years going to each of their classes three times a week, except for Astronomy, which happens twice, one practical and one theory. Third-, fourth- and fifth-years have the most classes, so they have each class just twice a week. Then sixth- and seventh-years go back up to three times a week.
+:PROPERTIES:
+:Author: ReallyBigStick
+:Score: 2
+:DateUnix: 1609963778.0
+:DateShort: 2021-Jan-06
+:END:

@@ -1,0 +1,375 @@
+#+TITLE: The bot has made 100K comments! To celebrate I made a little script that aggregates all this data to recommend fics.
+
+* The bot has made 100K comments! To celebrate I made a little script that aggregates all this data to recommend fics.
+:PROPERTIES:
+:Author: tusing
+:Score: 650
+:DateUnix: 1589696451.0
+:DateShort: 2020-May-17
+:END:
+** [[https://fanfictionbot.github.io][fanfictionbot.github.io]]
+   :PROPERTIES:
+   :CUSTOM_ID: fanfictionbot.github.io
+   :END:
+*Enter the URL or Story ID of a fanfiction.net story you want to find similar fics for.*
+
+As an example, for one of my favorite stories, [[https://www.fanfiction.net/s/3994212/1/Harry-Potter-and-the-Sword-of-the-Hero]], some of the top recommendations look like this:
+
+- The Denarian Renegade
+- Prince of the Dark Kingdom
+- Ectomancer
+- The Skitterleap
+- Harry Potter and the Wastelands of Time
+- Hogwarts Battle School
+
+Now I don't know about you but those recommendations seem pretty good to me!
+
+It is pretty amazing that the bot can draw on the collective wisdom of this sub over the past few years to do something like this.
+
+This is pretty crude/simple and there is a lot of room to contribute, so please do: [[https://github.com/FanfictionBot/fanfictionbot.github.io/issues/3]]
+
+
+** Awesome! How did you set the relationship between fics? I chose a fic ID that I rarely see anyone else link and have linked multiple times and while quite a few of the fics on the list were ones I also often link, there were a surprising number I haven't linked or even heard of, so I'm assuming it's not just based on who submitted the link request or fics that were requested in the same comment.
+:PROPERTIES:
+:Author: bgottfried91
+:Score: 55
+:DateUnix: 1589699199.0
+:DateShort: 2020-May-17
+:END:
+
+*** He likely made it via similarities.
+
+-similar tags?
+
+-amount of favourites/hits
+
+-how many times linked w/bot
+
+This may not be the actual way but it is a way
+:PROPERTIES:
+:Author: Erkkifloof
+:Score: 29
+:DateUnix: 1589706189.0
+:DateShort: 2020-May-17
+:END:
+
+**** Frequency with which different fics appear in the same comment / the same thread is likely to be a good indicator.
+:PROPERTIES:
+:Author: fyi1183
+:Score: 35
+:DateUnix: 1589710477.0
+:DateShort: 2020-May-17
+:END:
+
+***** Yes, very likely
+:PROPERTIES:
+:Author: Erkkifloof
+:Score: 4
+:DateUnix: 1589711235.0
+:DateShort: 2020-May-17
+:END:
+
+
+**** Social Network Analysis probably.
+
+(Can you TF-IDF this? xD)
+:PROPERTIES:
+:Author: lkc159
+:Score: 3
+:DateUnix: 1589860080.0
+:DateShort: 2020-May-19
+:END:
+
+
+** I look forward to seeing Seventh Horcrux recommended no matter what story ID you enter.
+:PROPERTIES:
+:Author: Taure
+:Score: 98
+:DateUnix: 1589705072.0
+:DateShort: 2020-May-17
+:END:
+
+*** linkffn(10677106)
+:PROPERTIES:
+:Author: Ch1pp
+:Score: 26
+:DateUnix: 1589705495.0
+:DateShort: 2020-May-17
+:END:
+
+**** [[https://www.fanfiction.net/s/10677106/1/][*/Seventh Horcrux/*]] by [[https://www.fanfiction.net/u/4112736/Emerald-Ashes][/Emerald Ashes/]]
+
+#+begin_quote
+  The presence of a foreign soul may have unexpected side effects on a growing child. I am Lord Volde...Harry Potter. I'm Harry Potter. In which Harry is insane, Hermione is a Dark Lady-in-training, Ginny is a minion, and Ron is confused.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{21} ^{*|*} ^{/Words/:} ^{104,212} ^{*|*} ^{/Reviews/:} ^{1,640} ^{*|*} ^{/Favs/:} ^{8,528} ^{*|*} ^{/Follows/:} ^{4,001} ^{*|*} ^{/Updated/:} ^{2/3/2015} ^{*|*} ^{/Published/:} ^{9/7/2014} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{10677106} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Humor/Parody} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10677106&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10677106&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 21
+:DateUnix: 1589705506.0
+:DateShort: 2020-May-17
+:END:
+
+
+**** Irony
+:PROPERTIES:
+:Author: PetrificusSomewhatus
+:Score: 7
+:DateUnix: 1589755143.0
+:DateShort: 2020-May-18
+:END:
+
+
+*** I've heard this is really good, but what exactly is it about?
+:PROPERTIES:
+:Author: insigne_rapha
+:Score: 9
+:DateUnix: 1589724676.0
+:DateShort: 2020-May-17
+:END:
+
+**** Voldemort's personality transplants into baby Harry, but cracky. Comedic paranoia, etc.
+:PROPERTIES:
+:Author: swagrabbit
+:Score: 25
+:DateUnix: 1589734613.0
+:DateShort: 2020-May-17
+:END:
+
+
+**** it's crack. Harry doesn't exist, his soul is in the afterlife with his parents, and his body is inhabited by the Horcrux. "hilarity" ensues.
+
+I never found it particularily interesting or funny.
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 39
+:DateUnix: 1589726375.0
+:DateShort: 2020-May-17
+:END:
+
+***** Some bits of it are genius but it does drag on a bit.
+:PROPERTIES:
+:Author: Ch1pp
+:Score: 11
+:DateUnix: 1589757353.0
+:DateShort: 2020-May-18
+:END:
+
+
+***** There's also the pretty blunt fact that Harry isn't Voldemort. He's just the horcrux gained sentience and can't admit it to himself. Luna said it basically as blunt as you can get.
+:PROPERTIES:
+:Author: RisingEarth
+:Score: 8
+:DateUnix: 1589786900.0
+:DateShort: 2020-May-18
+:END:
+
+
+** Here's an idea, adding the recommendations to the bot:
+
+/Download/: ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10677106&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10677106&source=ff&filetype=mobi][MOBI]]} ^{*|*} /Similar fics/:
+:PROPERTIES:
+:Author: nickaubain
+:Score: 19
+:DateUnix: 1589706579.0
+:DateShort: 2020-May-17
+:END:
+
+
+** This looks great, thank you for making such a great bot!
+:PROPERTIES:
+:Author: Namzeh011
+:Score: 13
+:DateUnix: 1589697385.0
+:DateShort: 2020-May-17
+:END:
+
+
+** Here's to 100K more.
+:PROPERTIES:
+:Author: glencoe2000
+:Score: 11
+:DateUnix: 1589780216.0
+:DateShort: 2020-May-18
+:END:
+
+
+** Oooh! Pull request will be incoming shortly, I love working on simple front-end stuff!
+:PROPERTIES:
+:Author: sarcasticIntrovert
+:Score: 7
+:DateUnix: 1589788184.0
+:DateShort: 2020-May-18
+:END:
+
+*** Thank you! I changed a few things just now, so do make sure the state of the code match up with what you expect.
+
+I have absolutely /zero/ experience with front end, I'm a backend/server dude, so you're bound to find stuff to improve on :)
+:PROPERTIES:
+:Author: tusing
+:Score: 5
+:DateUnix: 1589794841.0
+:DateShort: 2020-May-18
+:END:
+
+
+** I had made a Fanfic Recommender (or a website that lists the recommendations your bot does)
+
+Here's the link: [[https://hpffrec.hackesta.org/]]
+
+This has been active since last August
+:PROPERTIES:
+:Author: dJones176
+:Score: 7
+:DateUnix: 1590733391.0
+:DateShort: 2020-May-29
+:END:
+
+*** Brilliant! When I find the time I'll add both our websites to the sidebar.
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1590769904.0
+:DateShort: 2020-May-29
+:END:
+
+
+** Recommend me a fic, Bobby B.
+
+Wait, wrong bot.
+:PROPERTIES:
+:Author: Quillgasm
+:Score: 3
+:DateUnix: 1589741564.0
+:DateShort: 2020-May-17
+:END:
+
+
+** Thank you, my good man! Someone give him some gold, please!
+:PROPERTIES:
+:Author: vishwesh_k
+:Score: 5
+:DateUnix: 1589704564.0
+:DateShort: 2020-May-17
+:END:
+
+
+** This bot is incredibly helpful and I know those of us are in some other fanfiction communities on Reddit would love to have it available. Specifically I know of [[/r/snarrybookclub][r/snarrybookclub]] [[/r/snarry][r/snarry]] and I believe [[/r/tomharry][r/tomharry]]
+
+I am not a mod for any of these subs so I don't really know the protocol but I figured I'd just let you know.
+:PROPERTIES:
+:Author: A_Cold_Kat
+:Score: 12
+:DateUnix: 1589706361.0
+:DateShort: 2020-May-17
+:END:
+
+*** I need a Snamione sub but I can't find one! Any ideas?
+:PROPERTIES:
+:Author: Acciosanity
+:Score: 4
+:DateUnix: 1589761951.0
+:DateShort: 2020-May-18
+:END:
+
+
+** This is great. Thank you!
+:PROPERTIES:
+:Author: silverminnow
+:Score: 2
+:DateUnix: 1589711126.0
+:DateShort: 2020-May-17
+:END:
+
+
+** This is soooo cool! Also idk but only the links seemed to be working, when I put in the story I'd it wasn't working
+:PROPERTIES:
+:Author: browtfiwasboredokai
+:Score: 2
+:DateUnix: 1589788288.0
+:DateShort: 2020-May-18
+:END:
+
+*** fixed
+:PROPERTIES:
+:Author: tusing
+:Score: 3
+:DateUnix: 1589794797.0
+:DateShort: 2020-May-18
+:END:
+
+
+** What's the short version of how it works? Similarity scores based on threads/users in common and quality scores based on total number of links? Or something else?
+:PROPERTIES:
+:Author: TychoTyrannosaurus
+:Score: 1
+:DateUnix: 1589760538.0
+:DateShort: 2020-May-18
+:END:
+
+
+** Wow excellent, great tool to use, thanks dude.
+:PROPERTIES:
+:Author: JBson23
+:Score: 1
+:DateUnix: 1589763777.0
+:DateShort: 2020-May-18
+:END:
+
+
+** Can we have a look at the source code?
+:PROPERTIES:
+:Author: HeirGaunt
+:Score: 1
+:DateUnix: 1589786617.0
+:DateShort: 2020-May-18
+:END:
+
+*** Updated OP with the [[https://github.com/FanfictionBot/fanfictionbot.github.io][link]]
+:PROPERTIES:
+:Author: tusing
+:Score: 3
+:DateUnix: 1589786697.0
+:DateShort: 2020-May-18
+:END:
+
+
+** Ok. Not a problem and I believe that this is a brilliant resource. However, I would like that there would be a little bit of white space at the bottom of the screen so that I could scroll down a bit more.\\
+Also, if it could add the fic summaries in the same way that the bot does would be good. And a handy download button would be really nice.
+:PROPERTIES:
+:Author: HeirGaunt
+:Score: 1
+:DateUnix: 1589786958.0
+:DateShort: 2020-May-18
+:END:
+
+*** Thanks for the suggestion, whitespace added. Summaries aren't a good idea because it would dramatically increase the amount of data transmitted to the client. And downloads don't make much sense without summary :)
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1589794988.0
+:DateShort: 2020-May-18
+:END:
+
+
+** Does the bot reply to other non-monitored subreddits if you tag it with it's /u/ username?
+:PROPERTIES:
+:Author: Confetti-Camouflage
+:Score: 1
+:DateUnix: 1589945543.0
+:DateShort: 2020-May-20
+:END:
+
+
+** This is a great addition and thank you for your work.
+:PROPERTIES:
+:Author: viatoretvenus
+:Score: 1
+:DateUnix: 1590065196.0
+:DateShort: 2020-May-21
+:END:

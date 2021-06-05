@@ -1,0 +1,98 @@
+#+TITLE: HELP! Did anyone archive the harrypotterfanfiction.com website?
+
+* HELP! Did anyone archive the harrypotterfanfiction.com website?
+:PROPERTIES:
+:Author: hbock11
+:Score: 10
+:DateUnix: 1524848644.0
+:DateShort: 2018-Apr-27
+:END:
+I think they shut it down a day early and I wasn't able to download my favorite stories!
+
+
+** Site owner seems to be taking some specific steps to keep people from bulk-downloading all the stories. He's a prick that way.
+:PROPERTIES:
+:Author: cambangst
+:Score: 16
+:DateUnix: 1524870568.0
+:DateShort: 2018-Apr-28
+:END:
+
+*** At least it's not like fanfiction dot net where you can't even highlight and copy the text.
+:PROPERTIES:
+:Author: Vermouth1991
+:Score: 11
+:DateUnix: 1524933139.0
+:DateShort: 2018-Apr-28
+:END:
+
+**** I know this adds more steps and is kind of a pain in the ass, but most browsers have a mode you can enter which displays the main text of the page in a more readable (but also copiable) format. Safari's is called readability mode and is turned on by clicking the little three horizontal line icon on the left side of the URL bar.
+:PROPERTIES:
+:Author: HamiltonsGhost
+:Score: 3
+:DateUnix: 1524953166.0
+:DateShort: 2018-Apr-29
+:END:
+
+***** Thank you!
+:PROPERTIES:
+:Author: Vermouth1991
+:Score: 3
+:DateUnix: 1524967309.0
+:DateShort: 2018-Apr-29
+:END:
+
+
+***** If you're using Firefox, you can put the following into your [[http://kb.mozillazine.org/index.php?title=UserContent.css&printable=yes][userContent.css]] file:
+
+#+begin_example
+  @-moz-document domain(fanfiction.net)
+  {* {user-select: text !important; -moz-user-select: text !important; }}
+#+end_example
+
+It's a permanent "fix" that lets you select any text even in regular browsing mode.
+:PROPERTIES:
+:Author: deirox
+:Score: 1
+:DateUnix: 1525015777.0
+:DateShort: 2018-Apr-29
+:END:
+
+
+** Kind of obvious, but it's a place to start. You can trawl through previous snaps if you run into a broken link. [[https://web.archive.org/web/20180427184811/https://www.harrypotterfanfiction.com/]]
+:PROPERTIES:
+:Author: Incubix
+:Score: 7
+:DateUnix: 1524901131.0
+:DateShort: 2018-Apr-28
+:END:
+
+
+** I wasn't able to get everything I wanted to either, and it sucks because they did shut down a day early.
+:PROPERTIES:
+:Author: tiffany1567
+:Score: 1
+:DateUnix: 1524905684.0
+:DateShort: 2018-Apr-28
+:END:
+
+*** Check this:
+
+[[https://www.reddit.com/r/HPfanfiction/comments/8fxsis/complete_backup_of_harrypotterfanfictioncom/]]
+:PROPERTIES:
+:Author: farseer2
+:Score: 1
+:DateUnix: 1526384870.0
+:DateShort: 2018-May-15
+:END:
+
+
+** Yes, it's been archived. You can download a big zip file. Links here:
+
+[[https://www.reddit.com/r/HPfanfiction/comments/8fxsis/complete_backup_of_harrypotterfanfictioncom/]]
+:PROPERTIES:
+:Author: farseer2
+:Score: 1
+:DateUnix: 1526384794.0
+:DateShort: 2018-May-15
+:END:

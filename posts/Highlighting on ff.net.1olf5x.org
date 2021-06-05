@@ -1,0 +1,81 @@
+#+TITLE: Highlighting on ff.net?
+
+* Highlighting on ff.net?
+:PROPERTIES:
+:Score: 7
+:DateUnix: 1381954108.0
+:DateShort: 2013-Oct-16
+:END:
+[deleted]
+
+
+** I used [[http://www.reddit.com/r/HPfanfiction/comments/1o4d26/so_ffnet_has_disabled_highlightingcopypasting/ccpj8wm][this trick]] to permanently re-enable highlighting.
+
+My first language isn't English so I often need to highlight words and look up their meanings. This change was a pain in the ass.
+:PROPERTIES:
+:Author: deirox
+:Score: 4
+:DateUnix: 1381961549.0
+:DateShort: 2013-Oct-17
+:END:
+
+
+** install stylish either for chrome or firefox
+
+install this style [[http://userstyles.org/styles/93798/fanfiction-net-make-text-selectable-again]]
+
+you can also download whole fics in RTF, PDF, HTML, EPUB, Mobi with [[https://www.flagfic.com/]]
+:PROPERTIES:
+:Author: Notosk
+:Score: 3
+:DateUnix: 1381956230.0
+:DateShort: 2013-Oct-17
+:END:
+
+*** u/notwhereyouare:
+#+begin_quote
+  Update [2013-10-17 03:59 UTC]: FLAG is currently unable to connect to ffnet / fictionpress, and it now appears that they are deliberately blocking FLAG's infrastructure, including the new infrastructure which was provisioned this week to work around the issue until it could be sorted on their end
+#+end_quote
+
+From flagfic's website
+:PROPERTIES:
+:Author: notwhereyouare
+:Score: 1
+:DateUnix: 1382015145.0
+:DateShort: 2013-Oct-17
+:END:
+
+
+** I can't recommend FLAGfic service enough! You just put in the story URL and the format you want it in and it'll grab all the chapters of a story into one pdf or whatever. You can then download it or they can email it to you. Personally I email them straight to my kindle ^{^}
+
+[[https://www.flagfic.com]]
+:PROPERTIES:
+:Author: elnumbre
+:Score: 2
+:DateUnix: 1381969000.0
+:DateShort: 2013-Oct-17
+:END:
+
+
+** You can use what Notosk posted, or paste this into your address bar:
+
+#+begin_example
+  javascript:$('#storytextp').css('-webkit-user-select', 'text');$('.nocopy').removeClass('nocopy');
+#+end_example
+:PROPERTIES:
+:Author: denarii
+:Score: 1
+:DateUnix: 1381957701.0
+:DateShort: 2013-Oct-17
+:END:
+
+
+** fanfictiondownloader.net Seriously, I got this so I could read on my kindle, but it exports into rtf files as well. Copy the url and paste it into the program. It automatically downloads all the chapters, formats them into one file, and puts it wherever you told it to. It is awesome.
+
+It also includes all of the title, author, summary type information, properly formatted at the beginning, and works wonderfully with calibre.
+:PROPERTIES:
+:Author: JessicaHarper
+:Score: 1
+:DateUnix: 1381972608.0
+:DateShort: 2013-Oct-17
+:END:

@@ -1,0 +1,328 @@
+#+TITLE: [Discussion] Quidditch rules improvement
+
+* [Discussion] Quidditch rules improvement
+:PROPERTIES:
+:Author: amoeba-tower
+:Score: 6
+:DateUnix: 1489142375.0
+:DateShort: 2017-Mar-10
+:FlairText: Discussion
+:END:
+Well one big criticism I have of quidditch is the fact that essentially 2 games are being played at once: goal scoring and snitch catching. One is a kinetic score and the other is static, but the static affects the kinetic, which seems very unfair.
+
+An improvement I would make is to have the seeker scoring (aka catching the snitch) have equivalent kinetics in proportion to the goal scoring. A way to do this would be the snitch score be a certain percentage of the opponent's score.
+
+For example, if the score was Magpies 400-500 Harpies, and the Magpies get the snitch, they would get, for example, 25% of the Harpies score added to their own score (and the game ends). This would mean that the Magpies get 125 added to their score, meaning they win, 525-500.
+
+I think this would greatly even out the game without reducing the importance of the seeker, because they are still earning a huge amount of points for their team relative to the game, still get to end the game, but are not playing a separate statically scored game that permanently affects the separate kinetic scoring game.
+
+
+** There are a few ways to improve Quidditch and most of those surround the Seeker. In the books it was a glorified position, so that Harry could be the game winner. However, if you'd want to make Quidditch a "better" (apostrophes, since that is not entirely objective) game, you'd have to change the Seeker. At least that was the core starting point from our exercise in our gamedesign courses at university.
+
+The seeker could be changed in a few ways, depending on how you want his position to impact the game. Note that for all options the assumption is made that seekers may interact with all other balls and players, as distractions and even additional Chaser, if so needed or wanted.
+
+- Easiest option: Nerf the points.
+
+The simplest option is to take the ridiculous point-gain, a simple method to portray Harry as the gamechanger in the books and, according to the Wiki, a purely traditional value, away from the seeker. Team games are always fun if each member of the team makes an equal amount of impact on its outcome. Some position can carry others, but the best teams out there will, in general, have an equally strong lineup. Therefore the points of the seeker, who would score 15 goals at 1 catch, would be reduced to, say, 5 goals - 50 points.
+
+- Strategic Position only
+
+This option takes away all earnable points from the seeker. His position becomes an entirely strategic one as he /ends the game/, which in itself is a huge impact on a game. That also means that the normal game of a seeker would entail as much prevention of a catch as catching it themselves, depending on the current status of the game. Are you in a lead? Catch it! Are you behind? Prevent a catch. Are you steamrolling over the other team? Don't catch it and let the Chasers up the points for a greater lead in the league.
+
+- Seekers don't end the game
+
+You could also make Seekers the big scorers of the team. Instead of one, huge burst of points before the end of the game, a snitch-catch could be worth less points, but repeatable. Quidditch would get a time-limit, like it probably had before the introduction of the Snidget /Snitch, and the seeker would be a more open position. Depending on the flow of the game, this option would open up the chances for quick changes to Chaser powerplays or a stronger defense. An effective 4 Chaser lineup should be able to out-play a Seeker if the Snitch is particularly hard to cacth that day, or he's not skilled enough to make rapid catches, one after another.
+
+What you describe is what we dubbed the "Comeback Seeker", in which the position highly depend on how good or bad your team is. I'm not sure what you mean by "kinetic" and "static" score. That may be because of a language-problem as I speak German, but I haven't heard of those distinctions. Anyway, the percentage gained by the Seeker would have to be substantial and, as you stated, depending on the enemies team. I liked this for the need it creates for the Chasers to balance a lead on the fly. However, and that is why I think it isn't ideal, it would also create the possibility of stalling a game if the right variables come together. Equally skilled Chaser trios would eventually stop attacking as they couldn't possibly produce a big enough lead to buffer the score of the seeker.
+
+- Team-points
+
+Basically your idea but using your own teams points as a calculation base for the percentage gained.
+
+To find out what would actually work one would have to playtest a lot. But I don'T own a broom, and I couldn't fly on it anyway, so that's out.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 14
+:DateUnix: 1489148727.0
+:DateShort: 2017-Mar-10
+:END:
+
+*** u/Deathcrow:
+#+begin_quote
+  Seekers don't end the game
+#+end_quote
+
+I've been playing with the idea of doing the opposite: Seekers *only* end the game. Yeah, that's right, catching the snitch earns you 0 points. Oh and also the game ends after 2 hours at the latest.
+
+There may be problems with this too, but it could give the Seeker a more complex tactical value instead of this one-off big-point scorer. There's also a kind of hunter/defender dynamic that would develop between the two seekers depending on which team is in the lead.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 1
+:DateUnix: 1489176705.0
+:DateShort: 2017-Mar-10
+:END:
+
+**** You mean similar to what I wrote?
+
+#+begin_quote
+
+  - Strategic Position only
+
+  This option takes away all earnable points from the seeker. His position becomes an entirely strategic one as he ends the game, which in itself is a huge impact on a game. That also means that the normal game of a seeker would entail as much prevention of a catch as catching it themselves, depending on the current status of the game. Are you in a lead? Catch it! Are you behind? Prevent a catch. Are you steamrolling over the other team? Don't catch it and let the Chasers up the points for a greater lead in the league.
+#+end_quote
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 3
+:DateUnix: 1489177151.0
+:DateShort: 2017-Mar-10
+:END:
+
+***** Hehe yeah, whoops, sorry, I sorta skimmed your post because I was in a hurry. Well, never mind then... carry on! ;)
+
+^{shit} ^{^{happens}}
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 2
+:DateUnix: 1489177271.0
+:DateShort: 2017-Mar-10
+:END:
+
+****** lol :D
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 1
+:DateUnix: 1489177338.0
+:DateShort: 2017-Mar-10
+:END:
+
+
+** Linkffn(Harry Potter and the Game by Concept101) has a scene where Harry steals the snitch from the middle of a game and keeps it, just to see how long the game would go on without it. It goes on for 5 days without break before Harry decides to return the snitch onto the pitch just out of pity.
+
+That seems like a pretty big hole in the rules. A time limit would probably really help the game.
+:PROPERTIES:
+:Score: 10
+:DateUnix: 1489146749.0
+:DateShort: 2017-Mar-10
+:END:
+
+*** I'm pretty sure that's acknowledged canon. If I remember correctly at the Quidditch World Cup they talk about how games can go on for months.
+:PROPERTIES:
+:Author: ItsSpicee
+:Score: 3
+:DateUnix: 1489172297.0
+:DateShort: 2017-Mar-10
+:END:
+
+
+*** [[http://www.fanfiction.net/s/11950816/1/][*/Harry Potter and the Game/*]] by [[https://www.fanfiction.net/u/7268383/Concept101][/Concept101/]]
+
+#+begin_quote
+  YEAR 1 AND 2 COMPLETE! With his life turned into a Game, Harry now has to raise a Phoenix, uncover the Founders' darkest secrets, deal with political manipulations and live through Hogwarts all while trying desperately to not swear too much. Powerful!Grey!Ravenclaw!Harry, GreaterGood!Dumbledore
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 42 *|* /Words/: 317,389 *|* /Reviews/: 4,231 *|* /Favs/: 5,230 *|* /Follows/: 6,561 *|* /Updated/: 1/16 *|* /Published/: 5/17/2016 *|* /id/: 11950816 *|* /Language/: English *|* /Genre/: Adventure/Fantasy *|* /Characters/: Harry P., Hermione G., Ginny W., Albus D. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11950816&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11950816&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1489146766.0
+:DateShort: 2017-Mar-10
+:END:
+
+
+** One big things is a time limit. I can't imagine people paying to see games that could take anywhere from two and a half seconds to three months to play out.
+
+I also prefer the idea of an easier snitch worth far less points (15-30 maybe) that can be caught multiple times.
+:PROPERTIES:
+:Author: Slindish
+:Score: 3
+:DateUnix: 1489145348.0
+:DateShort: 2017-Mar-10
+:END:
+
+
+** I think Quidditch is probably fine but the school level is likely very different to the pro scene. A snitch is the equivalent to a 15 goal difference, this seems huge but if matches last hours then how big is this gap? If IRE vs BUL was a quick match then we could see regular high scoring. I don't know how long they last or how easy it is to score but given enough time the snitch matters less. We watch sports because their exciting but also unpredictable. In a game where it can last from minutes to days then a team getting a big early lead can seem very boring. Having the snitch in there as a wild card means games aren't over and are still worth watching.
+
+Seekers are probably the single most important role in the game, definitely for amateur games but at high levels I would prioritise good beaters. Imagine the difference between being tackled by a pro rugby blindside flanker vs a school kid. Now remember the bludgers are iron wrapped in leather. Its quite probable that the beaters play tennis amongst themselves until they get an openning onto another player which could potentially injure them and put them out of the game.
+:PROPERTIES:
+:Author: herO_wraith
+:Score: 3
+:DateUnix: 1489159761.0
+:DateShort: 2017-Mar-10
+:END:
+
+*** u/deleted:
+#+begin_quote
+  A snitch is the equivalent to a 15 goal difference, this seems huge but if matches last hours then how big is this gap?
+#+end_quote
+
+Let's say one team is 5% better than the other in all ways, and each team lines up 20 goals an hour (an average of 40 scoring attempts per hour, or one every 90 seconds).
+
+This is an average of a one-goal spread per hour at most.
+
+If the game is less than fifteen hours long, the snitch will decide the game, and (with a 5% skill difference across the team) we expect the better team to win 52.5% of the time.
+
+At Hogwarts, we don't see games long enough that people stop for food, so they're probably no more than three hours. The rest of the team has to be better by leaps and bounds to reliably win without the snitch -- five goals better per hour at least.
+
+This simply doesn't allow anyone but the Seeker to have a meaningful role.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1489162931.0
+:DateShort: 2017-Mar-10
+:END:
+
+**** If the teams are basically even then you want something to separate them, the snitch does this. If they're not even then a difference will appear, if its gradual it can get boring but the thrill of the snitch is there, a huge comeback tool. You can say its not fair but it is exciting and really that's what sport is about.
+:PROPERTIES:
+:Author: herO_wraith
+:Score: 1
+:DateUnix: 1489163551.0
+:DateShort: 2017-Mar-10
+:END:
+
+***** There are literally no sports that are popular where this is the case. People don't enjoy games that swing once, unexpectantly. They want a game that swings often, and is closely scored throughout play. The most popular ssports are ones where the scores are within a few of each other and the lead is up for grabs through the whole match.
+:PROPERTIES:
+:Author: Amnistar
+:Score: 2
+:DateUnix: 1489169978.0
+:DateShort: 2017-Mar-10
+:END:
+
+****** You have potentially close, swinging scoring with the quaffle. If one team is better than the other then it gets boring as they rack up a lead. It might feel cheap but the snitch means the game isn't over, a lead is good but you have a race to get over that 150 point margin before the snitch is found. You take the best team in the league and put them against the bottom. In regular sports its often not worth watching unless you're a fan of one of those teams since, ITA vs ENG in the six nations for example. ITA have never won against England, now a snitch is a chance, a gamble. It could just appear next to the worse team's seeker and suddenly that team has a chance. There is a chance aspect to spotting the snitch even if catching it is skill based. That chance might be too big for some but it means that every team goes in with a chance. Any game could be worth watching.
+:PROPERTIES:
+:Author: herO_wraith
+:Score: 1
+:DateUnix: 1489171549.0
+:DateShort: 2017-Mar-10
+:END:
+
+******* The quaffle doesn't matter, unless it's a trouncing game. In any close game that is exciting to watch, the impact of that scoring is lost in the hands of the seeker deciding the game. Unless there is a significant difference in skill, or the game is extremely long, all that matters is the seeker who decides the game single handedly.
+
+This doesn't make the game more exciting, it makes the game boring. Yes, there may be outliers like the world cup we see in the book, but realistically every game is going to simply be watching the seekers fly around looking for the snitch, since that is all that matters.
+:PROPERTIES:
+:Author: Amnistar
+:Score: 2
+:DateUnix: 1489173320.0
+:DateShort: 2017-Mar-10
+:END:
+
+******** We don't know how much of an outlier the world cup was. If scoring happens much faster with pro beaters possibly putting players out of the game then we don't know how often it happens. Nothing would be more boring than just watching seekers, a big issue I have with 'seeker duels' I often seek in fanfics. It is also boring watching a one sided stomp. Its not boring having a seeker wining the game, its exciting, it can feel *cheap* and there is a difference. If you genuinely think that its boring then we just can't agree. I don't mind cheap most of the time. People in rugby have called drop goals in rugby cheap and wanted the score lowered but to me the 2003 rugby world cup drop goal will forever be one of the most exciting moments in sporting history.
+:PROPERTIES:
+:Author: herO_wraith
+:Score: 1
+:DateUnix: 1489173872.0
+:DateShort: 2017-Mar-10
+:END:
+
+********* The fact that it was odd for Krum to catch the snitch and lose tells us how odd it is for a game to have chasers that unmatched.
+
+Andd yes, I would find it unfulfilling to watch a game where points are exchanged evenly between two teams when those points stop mattering. Remove the seeker position entirely from the game and you have an incredibly fulfilling sport. The presence of the seeker negates the need for the rest of the team as a sport.
+:PROPERTIES:
+:Author: Amnistar
+:Score: 2
+:DateUnix: 1489174653.0
+:DateShort: 2017-Mar-10
+:END:
+
+
+***** u/deleted:
+#+begin_quote
+  You can say its not fair but it is exciting
+#+end_quote
+
+If you view it as impromptu and uncoordinated flying tricks that happens to have a score system behind it, then sure, it can be exciting. It's not at all optimized for that -- you'd be better off with a scoring system inspired by figure skating instead.
+
+As a game, the rules are fighting to make it unexciting. The people who are doing interesting tactical things don't matter. The people who are moving in interesting ways don't matter. The only two people who matter are circling around the field slowly and squinting.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1489195954.0
+:DateShort: 2017-Mar-11
+:END:
+
+
+** Snitch isn't worth any points its merely a way to end the game prematurely while you're team has more points.
+
+If your Team has less Points , its worth 50 points but the Game doesn't end and a new snitch is added.
+
+A game cant last longer than 3 hours.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1489146529.0
+:DateShort: 2017-Mar-10
+:END:
+
+*** That's counterproductive. Such a rule encourages a team to play worse for the sake of winning, and whoever plays the worst getting the 50 point advantage ruins the spirit of sports, where everyone is supposed to do their best to succeed.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1489146856.0
+:DateShort: 2017-Mar-10
+:END:
+
+**** But if you play worse the other team will win the game should their seeker catch the Snitch first.
+
+Those 50 points are so the seeker has an encouragement to catch the snitch even if catching it would not result in your team winning.
+
+Teams would be play as best as they can, so that no matter who catches the snitch they dont loose immediately and Seekers would be encouraged to catch the snitch so they either win the game or make up for the difference in points.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1489148373.0
+:DateShort: 2017-Mar-10
+:END:
+
+
+** (I'll just post this thing I wrote a while back)
+
+And in sports today...
+
+Chairman Hassan Mostafa wrapped up the third day of pre-season hearings by the International Association of Quidditch for consideration of rule changes in the Wizarding World's most popular sport.
+
+Much of the controversy in this year's hearings came from the office of the British Department for the Regulation and Control of Magical Creatures, or rather from the spokeswitch of that Department, Hermione Weasley. Mrs. Weasley's exhaustive rule set and arithmantic proof of 'enhanced entertainment value' for her proposed Millennium Quidditch was reported to count at 1043 feet of scroll.
+
+Thankfully, in anticipation of the proposal's review, Mrs. Weasley has provided us a highlight of the most significant rule changes:
+
+- The three goal hoops are to vary in size and point value. The center hoop is to be made half as large, to be worth 20 points. The left hoop would be enlarged to twice size but worth only 5 points and the right hoop is left at standard size and point value.
+
+- The snitch is to be worth 42 points, making a tie game impossible. It isn't released onto the pitch until ten minutes after quaffle play has commenced. A Protean charm on the snitch closes the hoops of both teams the moment the snitch considers itself caught.
+
+- Brooms are to be shared- that is, everyone brings a broom for the pile, but the team captains pick from those brooms available to equip their players; by doing so, there would be little chance of disparity in the performance of the equipment. Choosing starts with a coin toss, and the captains will be challenged to stay familiar with the capabilities of all official brooms.
+
+Chairman Mostafa today declared that the proposal will require serious consideration, but that Mrs. Weasley's lack of brevity has consigned any decision on its merits to be delayed until next year's pre-season hearing.
+
+Mr. Ragmar Dorkins' proposal to change the value of the snitch to 250 points has once again been heard and denied. Mr. Dorkins, as many readers know, is the Manager for the Chudley Cannons. His analysis that such a change would result in the Cannons being more competitive was met with some sympathy. He was given a plate of cannoli.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 2
+:DateUnix: 1489162102.0
+:DateShort: 2017-Mar-10
+:END:
+
+
+** Removing the Snitch and setting a time limit would be the only change you would really need as the game is basically basketball on brooms, and people seem to like that game.
+:PROPERTIES:
+:Author: Amnistar
+:Score: 1
+:DateUnix: 1489167331.0
+:DateShort: 2017-Mar-10
+:END:
+
+
+** I have a mountain board variant of the game that removes the snitch and has time limits for younger years with the snitch being added as a variant for older students then a different version with specialized wands that only cast certain spells to add to the game.
+:PROPERTIES:
+:Author: viol8er
+:Score: 1
+:DateUnix: 1489172286.0
+:DateShort: 2017-Mar-10
+:END:
+
+
+** I like your idea, but would it be better if it was the other way around? So, say Magpies 400-500 Harpies, Magpies get the snitch and they get 25% of their own score, rather than the opponent's score added on. The Magpies would get 100 points added on, making it a draw. It just seems a little more fair to me because if the team that caught the Snitch got 25% of the opponent's score, the higher the opponent's score, the more points the Snitch team would get. So the team that catches the Snitch is actually gaining points based on the opponent being a better team, which I think is kind of weird. Does this make sense? I'm sorry if it doesn't, I'm pretty tired right now.
+:PROPERTIES:
+:Author: kyella14
+:Score: 1
+:DateUnix: 1489143953.0
+:DateShort: 2017-Mar-10
+:END:

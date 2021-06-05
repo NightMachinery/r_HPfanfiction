@@ -1,0 +1,100 @@
+#+TITLE: Syncing downloaded fics
+
+* Syncing downloaded fics
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1566264164.0
+:DateShort: 2019-Aug-20
+:FlairText: Misc
+:END:
+[deleted]
+
+
+** Just use the FFN app. Its great.
+:PROPERTIES:
+:Author: blandge
+:Score: 3
+:DateUnix: 1566266606.0
+:DateShort: 2019-Aug-20
+:END:
+
+
+** I use [[https://calibre-ebook.com/][Calibre]] to keep all the fanfic I read, using the [[https://github.com/JimmXinu/FanFicFare/wiki/FAQs][fanficfare plugin]] and some [[https://fanfic-ebooks.livejournal.com/32288.html][custom columns]] to keep track of which fics are completed by the writer and which fics I've read. Whenever a fic is updated, the "Read" status is changed back to "Unread".
+
+Then I use apps like [[https://calibrecompanion.co/][Calibre Companion]] to sync this Calibre library across multiple devices. The advantage of Calibre/FanficFare/Calibre Syncing App is that you can get fics from multiple sites, ffn, ao3, alternatehistory, etc.
+:PROPERTIES:
+:Author: hamoboy
+:Score: 2
+:DateUnix: 1566266703.0
+:DateShort: 2019-Aug-20
+:END:
+
+*** I'm honestly not a huge fan of Calibre. I use it to strip metadata otherwise I'm not a fan. FF2ebook & Ficsave generally cover all the stories I hope to read.
+:PROPERTIES:
+:Author: the-phony-pony
+:Score: 2
+:DateUnix: 1566268202.0
+:DateShort: 2019-Aug-20
+:END:
+
+**** If you are not afraid of the command line (yes, not for iPhone), then [[https://github.com/JimmXinu/FanFicFare]] is the code inside of the Callibre doing the work itself. So, just with
+
+#+begin_example
+  $ fanficfare https://www.fanfiction.net/s/6432055/
+#+end_example
+
+I can get whole linkffn(Exile by bennybear) (and if you haven't read it, you should). I don't have Calibre installed at all.
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1566282364.0
+:DateShort: 2019-Aug-20
+:END:
+
+***** [[https://www.fanfiction.net/s/6432055/1/][*/Exile/*]] by [[https://www.fanfiction.net/u/833356/bennybear][/bennybear/]]
+
+#+begin_quote
+  After the war, Draco is saved by his late grandfather's foresight. With his unanswered questions outnumbering the stars in the sky, he struggles to come to terms with reality. Will he fail yet again? Canon compliant. Prequel to my next-generation-series.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{47} ^{*|*} ^{/Words/:} ^{184,697} ^{*|*} ^{/Reviews/:} ^{328} ^{*|*} ^{/Favs/:} ^{336} ^{*|*} ^{/Follows/:} ^{241} ^{*|*} ^{/Updated/:} ^{1/17/2017} ^{*|*} ^{/Published/:} ^{10/27/2010} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{6432055} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Angst/Hurt/Comfort} ^{*|*} ^{/Characters/:} ^{Draco} ^{M.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=6432055&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=6432055&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1566284256.0
+:DateShort: 2019-Aug-20
+:END:
+
+
+**** Calibre is pretty ugly, because sadly the lead developer has been against anyone trying to make any changes at all to make it less ugly. There are wrappers that present a pretty UI with calibre CLI running in the background though. I'm not a fan of it either, but it's a really useful hub that keeps my fanfic experience across multiple devices consistent and synced.
+
+I can't really think of anything that would sync downloaded fanfics on multiple devices aside from one of the online storage apps, and even then preventing overwriting downloaded fics with the same name or updating in-progress fics with newer versions will be something you'll have to manage manually.
+:PROPERTIES:
+:Author: hamoboy
+:Score: 1
+:DateUnix: 1566489172.0
+:DateShort: 2019-Aug-22
+:END:
+
+
+*** For Calibre Companion is it just the one time fee for the app purchase or is there anything ongoing? Been thinking about trying it since I look at several sites and line them up all with Calibre on my computer but on my phone look at them separately and go back and forth
+:PROPERTIES:
+:Author: tectonictigress
+:Score: 1
+:DateUnix: 1566269460.0
+:DateShort: 2019-Aug-20
+:END:
+
+**** It's a one time purchase per app store. So if you use a mix of Android and iOS devices it'll be two purchases. I bought it years ago and it's more than paid for itself in usefulness since.
+
+I've heard that there are ways to sync calibre libraries to google drive, but I haven't really looked into them since I have a paid app.
+:PROPERTIES:
+:Author: hamoboy
+:Score: 1
+:DateUnix: 1566269569.0
+:DateShort: 2019-Aug-20
+:END:

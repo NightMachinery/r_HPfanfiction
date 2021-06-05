@@ -1,0 +1,198 @@
+#+TITLE: So FF.net has disabled highlighting/copy&pasting...
+
+* So FF.net has disabled highlighting/copy&pasting...
+:PROPERTIES:
+:Author: OwlPostAgain
+:Score: 21
+:DateUnix: 1381377965.0
+:DateShort: 2013-Oct-10
+:END:
+It's driving me crazy, I can't read stories without highlighting them bits at a time, and I like being able to cut/paste. Are there any ways to get around this rule?
+
+I don't think it's temporary.
+
+Update: According to the latest news update from FF.net, they have "disabled the basic copy protection of story content within modern browsers. Currently it is enabled for all but authors will be able to disable/enable this feature in a coming update."
+
+I'm realizing that I literally can't read without highlighting...
+
+
+** [[http://benalman.com/code/test/jquery-run-code-bookmarklet/?name=FF.net+Copyfix&ver=1.3.2&code=%24%28%22div.storytext%22%29.removeClass%28%22nocopy%22%29%3B][Here you go.]]
+
+Works in all browsers, just drag the green button into your bookmarks. Click it when you're on a ff.net site and copy/paste to your heart's content.
+
+Edit: probably won't work on mobile browsers due to how they implement bookmarks, sorry mobile readers.
+:PROPERTIES:
+:Author: dahlesreb
+:Score: 12
+:DateUnix: 1381382551.0
+:DateShort: 2013-Oct-10
+:END:
+
+*** Any ideas why this isn't working for me?
+:PROPERTIES:
+:Author: OwlPostAgain
+:Score: 2
+:DateUnix: 1381724068.0
+:DateShort: 2013-Oct-14
+:END:
+
+
+*** For mobile browsers (or all browsers really), just copy paste the line below into the addressbar after the page has completely loaded.
+
+javascript:document.querySelectorAll('div.nocopy')[0].classList.remove('nocopy');
+:PROPERTIES:
+:Author: bgdam
+:Score: 1
+:DateUnix: 1381476356.0
+:DateShort: 2013-Oct-11
+:END:
+
+
+*** None of these tips are working for me :( I have google chrome... any ideas??
+:PROPERTIES:
+:Author: Ariel0926
+:Score: 1
+:DateUnix: 1382048537.0
+:DateShort: 2013-Oct-18
+:END:
+
+
+** I have so much trouble with this as well! As a non-native speaker, I like to select words and then "define" them using my ipods library. :(
+:PROPERTIES:
+:Author: I_cant_even_blink
+:Score: 8
+:DateUnix: 1381383108.0
+:DateShort: 2013-Oct-10
+:END:
+
+
+** I thought there was just something wrong with my browser! I hear you about the highlighting, I can't help but follow along by highlight parts of the text or just random sections for entertainment.
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1381379276.0
+:DateShort: 2013-Oct-10
+:END:
+
+
+** If you use firefox, you can change this with your userContent.css file in your profile/chrome directory. userContent.css is an override file that tells firefox how to display webpages.
+
+Add exactly this to your userContent.css file (or create a new file if it doesn't already exist):\\
+* { -moz-user-select:text !important }\\
+* { user-select: text !important }
+
+user-select:text means that you can select any text. !important means that it won't be overwritten by whatever the webpage wants. Note that this is an override for ALL webpages that prevent you from selecting things, not just FF.net. You can make some changes to make it only apply to FF.net, but I can't imagine ever wanting a website to TELL ME what I'm allowed to browse, so /fuck that/.
+
+Google Chrome and Internet Explorer can do similar with global user stylesheets, though I'm unfamiliar with the exact steps.
+:PROPERTIES:
+:Author: xachariah
+:Score: 4
+:DateUnix: 1381496991.0
+:DateShort: 2013-Oct-11
+:END:
+
+*** I copied and pasted that, and it's not working for me. Is there anything else? (Already tried restarting Firefox)
+:PROPERTIES:
+:Author: yay4videogames
+:Score: 1
+:DateUnix: 1381550946.0
+:DateShort: 2013-Oct-12
+:END:
+
+**** Hmm. There's a couple of things I could think that might fix it.
+
+userContent.css is (oddly) case specific. So try checking capitalization.
+
+Try making sure that userContent.css is in the correct folder. It shouldn't be in your ProgramFiles\Mozilla Firefox\Chrome directory, but instead in the <appdata>\roaming\Mozilla\Firefox\Profiles<jibberish letters>\chrome folder.
+
+Lastly if those are correct, try manually typing the exact thing, in case reddit changed out some of the unicode characters or something.
+
+Hopefully one of those will fix it for you.
+:PROPERTIES:
+:Author: xachariah
+:Score: 2
+:DateUnix: 1381567330.0
+:DateShort: 2013-Oct-12
+:END:
+
+***** u/yay4videogames:
+#+begin_quote
+  Try making sure that userContent.css is in the correct folder. It shouldn't be in your ProgramFiles\Mozilla Firefox\Chrome directory, but instead in the <appdata>\roaming\Mozilla\Firefox\Profiles<jibberish letters>\chrome folder.
+#+end_quote
+
+This fixed it, I had it in the incorrect folder. Thanks!
+:PROPERTIES:
+:Author: yay4videogames
+:Score: 1
+:DateUnix: 1381697251.0
+:DateShort: 2013-Oct-14
+:END:
+
+
+**** This exact line worked for me on Pale Moon (Firefox) 20.0.1:
+
+=* { -moz-user-select: text !important; }=
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1381572614.0
+:DateShort: 2013-Oct-12
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1381406201.0
+:DateShort: 2013-Oct-10
+:END:
+
+*** Right click > Print > print as pdf. That gets around the plagiarism prevention entirely.
+:PROPERTIES:
+:Author: RegretfulEducation
+:Score: 5
+:DateUnix: 1381417178.0
+:DateShort: 2013-Oct-10
+:END:
+
+
+*** Three times? That's absurd! How do people think they can get away with stuff like that?
+:PROPERTIES:
+:Author: sarahrogers9811
+:Score: 5
+:DateUnix: 1381428845.0
+:DateShort: 2013-Oct-10
+:END:
+
+
+*** Really? I knew it happened occasionally, but I've never read a fic where the author mentions that issue or seen a fic duplicated.
+:PROPERTIES:
+:Author: OwlPostAgain
+:Score: 3
+:DateUnix: 1381429239.0
+:DateShort: 2013-Oct-10
+:END:
+
+
+** I made a quick chrome extension that solves this issue, let me know if you need any help/have any feedback! You can get it [[https://chrome.google.com/webstore/detail/selectable/jcidlhgdoojamkbpmhbpgldmajnobefd][here]]
+:PROPERTIES:
+:Author: DevHydra
+:Score: 2
+:DateUnix: 1395802693.0
+:DateShort: 2014-Mar-26
+:END:
+
+
+** Ctrl+A still works though, even if it is for the entire page.
+:PROPERTIES:
+:Author: darklooshkin
+:Score: 1
+:DateUnix: 1381441513.0
+:DateShort: 2013-Oct-11
+:END:
+
+*** I tried this and it doesnt work... idk why.
+:PROPERTIES:
+:Author: Ariel0926
+:Score: 2
+:DateUnix: 1382047859.0
+:DateShort: 2013-Oct-18
+:END:

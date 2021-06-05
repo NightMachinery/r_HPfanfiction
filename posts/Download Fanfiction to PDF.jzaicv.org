@@ -1,0 +1,109 @@
+#+TITLE: Download Fanfiction to PDF
+
+* Download Fanfiction to PDF
+:PROPERTIES:
+:Author: Eeminxs4
+:Score: 1
+:DateUnix: 1606104437.0
+:DateShort: 2020-Nov-23
+:FlairText: Request
+:END:
+I was wondering if anyone knew of sites I could download fanfiction.net to PDF or text without a program download as I use a tablet. FF2EBook,FicSaver, and FanFictionDownloader don't seem to work. Plus, Omnibuster is no longer available 😢. Thanks!
+
+
+** For specific fics, you can check to see if they're on Ao3, which has the download to pdf function automatically available. I have also gone the agonizingly long route of saving each chapter to PDF.
+:PROPERTIES:
+:Author: mari_go1d
+:Score: 3
+:DateUnix: 1606105589.0
+:DateShort: 2020-Nov-23
+:END:
+
+*** I can't even find anywhere to download to PDF!
+:PROPERTIES:
+:Author: Eeminxs4
+:Score: 2
+:DateUnix: 1606106729.0
+:DateShort: 2020-Nov-23
+:END:
+
+**** If you're on AO3 there should be a "download" button in the upper right corner. In the same section as "next chapter" and "chapter index," etc.
+:PROPERTIES:
+:Author: mari_go1d
+:Score: 4
+:DateUnix: 1606109764.0
+:DateShort: 2020-Nov-23
+:END:
+
+
+**** Which browser do you use? There should be a "print page" or "download page" option (check the "share" options too, if you can't find any of those). I do this using the Chrome app on my phone (Android) and it works just fine.
+:PROPERTIES:
+:Author: KaleeahS
+:Score: 1
+:DateUnix: 1606107388.0
+:DateShort: 2020-Nov-23
+:END:
+
+
+** Calibre
+:PROPERTIES:
+:Author: elliemff
+:Score: 1
+:DateUnix: 1606105032.0
+:DateShort: 2020-Nov-23
+:END:
+
+*** Don't you need to download it? Or am I missing something?
+:PROPERTIES:
+:Author: Eeminxs4
+:Score: 1
+:DateUnix: 1606106701.0
+:DateShort: 2020-Nov-23
+:END:
+
+
+** Why don't just install an epub reader on your tablet? On Android I can throw any format to [[https://play.google.com/store/apps/details?id=com.obreey.reader][PocketBook]], if this is an old tablet or no support for Playstore, you can sideload [[https://www.apkmirror.com/uploads/?q=aldiko-book-reader][old version of Aldiko]]. If it's an iOS, Apple Books supports [[https://support.apple.com/en-us/HT201478][adding your own ePub]] or you can just use [[https://apps.apple.com/us/app/pocketbook-reader/id805488884][PocketBook]] that doesn't involve jumping through hoops.
+
+I noticed you mention "or text", I just tried [[https://ficsave.xyz/][FicSave]] and [[https://fanfictionloader.appspot.com/][FanFictionDownLoader]] to download the text version from a short FF.net fic with 6 chapters, both work well (though FicSave is way faster). Keep in mind FanFictionDownLoader will definitely die soon due to GAE billing changes.
+
+You can also use one of those online epub to PDF converters, though I really implore you to use epub instead, pinching to change font size directly, using custom fonts, any background and text colors, etc, they're far better than PDF.
+:PROPERTIES:
+:Author: pm-me-your-nenen
+:Score: 1
+:DateUnix: 1606121235.0
+:DateShort: 2020-Nov-23
+:END:
+
+
+** I don't know how to do it on a tablet directly but if you can get access to a PC then a program like fanfiction downloader which does PDF and other formats, would work then connect the tablet to the PC with the USB cable and copy the PDF to it.
+
+If it's an android tablet it should show up and be accessable like a USB stick or hard drive but if it's an iPad it's a little more diffecult but I'm sure there are planty of youtube tutorials.
+
+If you have a mac I'm not sure if the software has a mac version but you can check the website.
+
+Sorry I couldn't be more help,
+:PROPERTIES:
+:Author: We_Are_Venom_99
+:Score: 1
+:DateUnix: 1606140768.0
+:DateShort: 2020-Nov-23
+:END:
+
+
+** Hi! If you use an ipad/iphone, you can use [[https://apps.apple.com/app/newspal-offline-web-browser/id1501637899][NewsPal]]
+
+it download whole fandom pages so you can see all the fics offline. also removes the ads. its how to is more general, so I made one for fanfiction [[https://www.reddit.com/r/FanFiction/comments/jztvb5/downloading_multiple_fanfic_so_you_dont_have_to/][here]]
+:PROPERTIES:
+:Author: IzayaYagami
+:Score: 1
+:DateUnix: 1606179836.0
+:DateShort: 2020-Nov-24
+:END:
+
+*** I have a Samsung tablet.
+:PROPERTIES:
+:Author: Eeminxs4
+:Score: 1
+:DateUnix: 1606181097.0
+:DateShort: 2020-Nov-24
+:END:

@@ -1,0 +1,352 @@
+#+TITLE: Schrodinger's Population Numbers
+
+* Schrodinger's Population Numbers
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 49
+:DateUnix: 1611380612.0
+:DateShort: 2021-Jan-23
+:FlairText: Discussion
+:END:
+(This is a comment I made on a post [[https://www.reddit.com/r/HPfanfiction/comments/l2l3c1/could_someone_explain_the_jk_is_bad_at_numbers/?utm_medium=android_app&utm_source=share][here]] that I thought was good enough to share on its own.)
+
+JK has stated that the population of wizarding britain is 3000ish, this is impossible.
+
+In /The Goblet of Fire/, Arthur Weasley states that a ministry task force of 500 have been working all summer on the stadium for the quidditch world cup. This alone would mean that 1 sixth of the total population of magical britain was working on building that stadium. That's not all however. Let's forget the stated population, what would that task force imply?
+
+So, it's a task force of ministry workers. That means it's a government function. Governments do not have the liberty to dedicate 100% of their resources to any one project. When not at war, they cannot even dedicate fully 20% of their resources to any one project due to the sheer number of other things they have to do. Let's be /extremely/ generous and assume that the ministry task force building the stadium accounted for 10% of the /entire government of magical britain./ That means that the Ministry of Magic is composed of, at minimum, 5000 people. (500 = 10%, 500 × 10 = 5000). So that means that the government /alone/ has 2000 more people than the stated population. But we can go further. According to the *UK Office of National Statistics* 16.5% of the total /working/ population was employed in the public sector, aka working for the government. ([[https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/publicsectorpersonnel/bulletins/publicsectoremployment/march2019#:%7E:text=For%20March%202019%2C%20there%20were,percentage%20points%20on%20December%202018.][Source found here]]) We can make a rough comparison between the wizarding and muggle worlds. Not a fully precise comparison as wizards live far longer than muggles, but any innacuracies on that account would mean less people in government not more so we can safely find a minimum. So if we take the ministry as having 5000 people, (remember, a generous estimate based on the government of magical britain dedicating /one tenth/ of their manpower to building a /stadium/), and apply the same statistics as found in the UK, then the minimum /working/ population of Magical Britain (not including children and retirees) is 30300ish (30303.03 repeating) as illustrated by this, JK Rowling's stated population for Magical Britain is frankly impossible.
+
+But wait, there's more.
+
+It would not be an unreasonable assessment to say that I am unfairly basing my analysis on a single excerpt from a much larger series, so I shall rely on a far more established example. The population of Hogwarts. Rowling has gone on record, ([[https://www.therowlinglibrary.com/2016/11/06/how-many-students-are-at-hogwarts/#:%7E:text=It%20was%20in%20Pottermore%20where,its%20own%20house%20and%20gender.][here]]), saying that Hogwarts has around 600 students in it. As found [[https://www.ethnicity-facts-figures.service.gov.uk/uk-population-by-ethnicity/demographics/age-groups/latest][here]], roughly 21.3% of the population of england and Wales is under 18. If we take as granted that Hogwarts is the sole magical school of britain, and that enrollment is free aside from the cost of supplies, then we can assume the vast majority of the population goes through the school. But there's another problem. Hogwarts only accounts for people between the ages of eleven and 17-18. I couldn't find any statistics that specific, so we will guesstimate that of the total under-18 population of britain, Hogwarts students account for 40% of them, (Seven years at hogwarts, half of that age range is nine years so 40% is generous), and that leaves us with a total under age population of 1500 (not including homeschooled students or part-humans barred from education). So, we've got an under-18 population of 1500. Under-18 accounts for 21.3% of the population of britain. Doing that math leaves us with a minimum population of 7042.25, more than double what JK stated, and again not including any homeschooled people, or part-humans denied education. /But there's more./ We know that witches and wizards live for longer than muggles with a stated life expectancy of 137 (and three quarters) in the 1990s, ([[https://harrypotter.fandom.com/wiki/Wizardkind#:%7E:text=Wizard%20life%20expectancy%20in%20Britain,times%20as%20long%20as%20their][Source]]), which is nearly double that of muggles at the time, who had a life expectancy of 75.14 years. The number of students at hogwarts remains the same, as does the number of under-18 individuals, but given that wizards live twice as long, then we can safely double the total population that we calculated based on those percentages. So instead of 7042.25 minimum, we get a minimum population of 14,084.5, or 1000 short of five times the stated population. So again, JK's stated population is /impossible/.
+
+*/But wait, there's more!/*
+
+You're probably sick of maths by now, so this has less than the other examples (still quite a bit though). Think about Diagon Alley, Knockturn Alley, and Hogsmeade. Think about their infrastructure. Can a /total population/ of 3000 support that kind of commercial infrastructure? What about the sports teams? We know that there are, at least, 13 professional quidditch teams. ([[https://www.hp-lexicon.org/thing/ministry-of-magic/department-of-games/british-and-irish-quidditch-league/#:%7E:text=The%20thirteen%20most%20successful%20Quidditch,Ministry%20of%20Magic%20(OP7][Source]]). But how would that work? If you divide 3000 by 13 that's less than 250 fans per team, that's not enough to financially support a major league sports team. Hell, 1000 is barely enough. What about the wizengamot? It has roughly fifty members, one sixtieth of the total population. Is it really reasonable that the highest level of government, the equivalent of a legislature and judiciary rolled into one, would account for one out of every sixty people you meet? No, it wouldn't. And so, based on the institutions of Magical Britain, the stated population is impossible.
+
+*/bUt WAiT thEReS mOrE!/*
+
+JK Rowling said herself that she's not good with math, [[https://www.therowlinglibrary.com/2016/11/06/how-many-students-are-at-hogwarts/#:%7E:text=It%20was%20in%20Pottermore%20where,its%20own%20house%20and%20gender.][here.]]
+
+--------------
+
+That's all.
+
+
+** And that not counting calendar math.
+
+She's worse at math than George RR Martin
+:PROPERTIES:
+:Author: Jon_Riptide
+:Score: 37
+:DateUnix: 1611381062.0
+:DateShort: 2021-Jan-23
+:END:
+
+*** What's hilarious is the Manderly fleet expansion. A galley usually had between 100 and 250 crew. We know that the North, all of the Seven Kingdoms, have no slavery. Which means that the entire crew needs to come from his domains. So the 23 galleys he built will take at least 2300 men to crew, with numbers up to 6000 not impossible. And that is just his navy EXPANSION. Lord Manderly also had sent an army south with Rob, raised one for the Bolton, has forced he will pledge to Stannis if Rickon is rescued and he keeps a city watch and he must have had some local fleet before that.
+
+Which means that the combined military strength of Lord Manderly alone equals the Northern army which went south to save Ned. Granted, manpower alone does not equal a capable military force, and if he would raise such numbers, it would include a lot of teenagers and old men, but the potential alone makes Lord Manderly ridiculously powerful.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 5
+:DateUnix: 1611411655.0
+:DateShort: 2021-Jan-23
+:END:
+
+**** River lands numbers don't add up either.
+
+And how tyrion and cat arrived at that inn at the same time
+:PROPERTIES:
+:Author: Jon_Riptide
+:Score: 1
+:DateUnix: 1611417942.0
+:DateShort: 2021-Jan-23
+:END:
+
+
+** Sometimes her world is small and sometimes it's large without making much sense beyond serving the story's plot. I think you did a good job coming up with numbers that support certain elements of JKR's worldbuilding, but JKR wrote a story where population numbers contradict themselves.
+
+​
+
+#+begin_quote
+  I couldn't find any statistics that specific, so we will guesstimate that of the total under-18 population of britain, Hogwarts students account for 40% of them,
+#+end_quote
+
+This is the only number of yours I can't make any sense of. Maybe I'm missing something, but why do you assume that the population between the ages 0-11 (*with a birthday after August 31st) would be 60% of the under 18 population while the population between the ages of 11 (*with a birthday before September 1st)-18 would be 40% of the under 18 population? I understand you're using the 600 student number in order to make population estimates, so your number actually lowballs the population with 1500 under 18, but I think JKR's 600 number is a suspect in the first place.
+
+#+begin_quote
+  given that wizards live twice as long, then we can safely double the total population that we calculated based on those percentages
+#+end_quote
+
+I also don't think you can "safely double" the total population because of wizard life expectancy. Although it might be 137, we don't meet many old wizards at all. No Weasley grandparents, Neville and Draco's grandfathers are dead. It's just as probable that wizard diseases and other hazards contribute to a shorter wizard lifespan than the maximum allotted for death by old age.
+
+#+begin_quote
+  based on the institutions of Magical Britain, the stated population is impossible.
+#+end_quote
+
+I would say any population, small or large, is impossible when it comes to fitting all aspects of HP worldbuilding given that the Ministry requires a large population and Hogwarts, as JKR wrote it, requires a small population. You gave many good examples how a population of 3000 couldn't support the infrastructure implied by the Ministry of Magic. But on the other hand, it wouldn't make sense for a population of about 14,000 (or more) to be educated in Hogwarts.
+
+#+begin_quote
+  JK has stated that the population of wizarding britain is 3000ish, this is impossible.
+#+end_quote
+
+It's also impossible for Hogwarts to house 1000 students, which is another number she gave for the student population during Harry's time in an interview before admitting it was too large. She wrote a small school with one teacher per core subject, one hospital matron, and a sorting ceremony that can only take so long. If every student had, on average, 60 seconds to walk to the hat, put it on, wait for its answer, and walk to their new house table amid cheering, it would take 1 hour to sort 60 students, or 2 hours and 20 minutes to sort 140 students. If we use Rowling's population of 600 students, as you did, and divide that evenly by 7 grades, we still have a sorting ceremony of 85 students to contend with.
+
+To have a single hospital, a single school, a single all-wizard village (that is so small it's only real hangout spot is The Three Broomsticks since The Hog's Head is shady), a single high street as the main shopping strip, and a population unsustainable without marrying muggles (according to Ron Weasley), you need a small population. To have a Quidditch league/large Ministry/a population to support a large Ministry, you need much larger numbers. JKR's world doesn't comfortably line up one way or the other. I think we have to attribute it to bad math and ignore the ways it doesn't make sense.
+:PROPERTIES:
+:Author: metametatron4
+:Score: 4
+:DateUnix: 1611405043.0
+:DateShort: 2021-Jan-23
+:END:
+
+*** u/Valirys-Reinhald:
+#+begin_quote
+  I think we have to attribute it to bad math and ignore the ways it doesn't make sense.
+#+end_quote
+
+That would be the point of the post.
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 4
+:DateUnix: 1611405338.0
+:DateShort: 2021-Jan-23
+:END:
+
+**** That was a really long post with math and research just to say her numbers don't fit.
+:PROPERTIES:
+:Author: metametatron4
+:Score: 1
+:DateUnix: 1611405872.0
+:DateShort: 2021-Jan-23
+:END:
+
+***** Yep. Took about an hour to write. I did it, however, because I enjoy that kind of analysis.
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 3
+:DateUnix: 1611406006.0
+:DateShort: 2021-Jan-23
+:END:
+
+
+*** Also, for the 40% thing, I said that because it's roughly accurate. I was looking at people under the age of 18 as a whole, the people at hogwarts accounted for 7 of those 18 years, 7 is 38.88888888889% of 18. Yes I could have been more precise, and I could have accounted for more factors, but all that would do is make a small increase in the total population. I was already doing a lot of maths and didn't find the extra specificity worth the extra work.
+
+As for the life expectancy, I agree that we don't see /many/ witches and wizards over a hundred, although there are a few examples like the OWL examiners, but that's not the point. The point wasn't to try and make sense of what is in the books, the point was to highlight the ways it /didn't/ make sense. In that context, having contradictory information in the books does not weaken my case, but strengthens it. No, we don't see many people living as long as Rowling said they do, but she did still say that's how long they live.
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 3
+:DateUnix: 1611405763.0
+:DateShort: 2021-Jan-23
+:END:
+
+**** u/metametatron4:
+#+begin_quote
+  it's roughly accurate
+
+  The point wasn't to try and make sense of what is in the books, the point was to highlight the ways it /didn't/ make sense. In that context, having contradictory information in the books does not weaken my case, but strengthens it
+#+end_quote
+
+That's fair (re: 40%). The point of my first reply was that although the 3000 number doesn't make sense, another number, such as 14,000 wouldn't make sense either given other factors in the books, like the Hogwarts school population. JKR wrote herself into a corner because her worldbuilding prevents a suitable population estimate from being made without corollaries (such as Harry's year was small because of the war and there were fewer teachers or there must be lesser wizarding schools in the UK besides Hogwarts and numerous other key locations that we don't see). So my reply to your point "JK's stated population is /impossible"/ was that any proposed population size is impossible if it has to fit all the vague parameters she outlined in her books. Given your choice of post title, I assume you agree. I certainly wasn't trying to argue her numbers made sense.
+:PROPERTIES:
+:Author: metametatron4
+:Score: 2
+:DateUnix: 1611409034.0
+:DateShort: 2021-Jan-23
+:END:
+
+***** Another fun tidbit, the first arguement (based on the world cup task force) was extremely generous with the ministry's resources. Devoting 10% of government manpower to any single project, even in wartime, is incredibly risky and unlikely to occur. It would be more reasonable to assume something like 1%, as that group would have to be drawn from the Departmentent of Magical Games and Sports, which itself would have other duties it would have to maintain. Thus the population /range/ is not just 30,000, but /between/ 30,000 and 300,000, with a median of a around 165,000.
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 4
+:DateUnix: 1611409433.0
+:DateShort: 2021-Jan-23
+:END:
+
+****** Stranger still is the implication of OoTP that the Ministry doesn't keep records of Squibs and supplementary material that states Squibs are rare and frequently leave the wizarding world for muggle society. That implies the population numbers don't account for Squibs or muggle relatives/spouses of magical people. So what are we to believe about those tens of thousands of wizards who mostly don't understand muggles. Half-bloods or purebloods?
+
+It's quick to fall apart as a true society. There's no official army or known draft system. There's no implication of the international conflict one would expect from larger numbers. It was smart to make your initial World Cup numbers conservative since it's an international event and the Ministry isn't aware of Voldemort, but the implication of the books that quidditch and law enforcement each get their own floors in the Ministry/are staffed with the same number of people doesn't give the impression of a functioning society, not one remotely comparable with the real world.
+:PROPERTIES:
+:Author: metametatron4
+:Score: 3
+:DateUnix: 1611411193.0
+:DateShort: 2021-Jan-23
+:END:
+
+
+****** You say that 10% max could be spent on the World cup, but what is everyone else doing. For a real-world government most of the manpower is tied up in necessary jobs like the military, tax collection and infrastructure management. The wizarding world does none of this. As far as we know the Department of Magical Games and Sport consisted of Ludo and Bertha Jorkins, the Department of International Magical Cooperation is Crouch and Percy and Arthur's department consists of two people. The Department of Mysteries seems to be always deserted and all the other named departments are jokes. The only part of the Ministry that actually seems to be staffed is the DMLE, and even then half the aurors seem to be spending as much time working for the order, including pulling night shifts, as they do at their day jobs.
+
+Maybe half the Ministry is working on the stadium because it consists of a few dozen people who had nothing else to do.
+:PROPERTIES:
+:Author: greatandmodest
+:Score: 1
+:DateUnix: 1611439533.0
+:DateShort: 2021-Jan-24
+:END:
+
+******* While plausible, I find that highly improbable for two reasons.
+
+One, JK Rowling envisioned a world with a fully functioning government implied. On multiple occaisons we see the ministry bustling with unnamed masses, all of whom seem to be going about other tasks. Furthermore, who says the wizarding world doesn't do infrastructure, collect tax, or fulfill the other functions of government? We know that they have no standing military, but the wizarding world has all the other hallmarks of a functioning society, which includes the full range of administrative jobs. You say that my assumption that only 10% of the government was assigned to the taskforce is flawed on the ground that Rowling's government was not a fully functioning government, I say that, given the implications throughout the series, it is your assumption that the government is not fully functioning that is flawed, not mine.
+
+Two, the world necessitates a full government. It has full commercial economy, public education, professional health care, a banking system, a full legislature and courts, and publicly funded facilities such as Azkaban. Additionally, there are certain implications to the way the ministry is structured. We know that smaller sections are referred to not as departments, but offices. (See, the misuse of muggle artifacts /office/.) And that those offices comprise larger departments. It would be reasonable to conclude that the examples of ministerial structure would follow this pattern of larger departments comprised of many specialized offices made of a small team of people. It would be /unreasonable/ to assume that the ministry does not follow the pattern set in the absence of evidence to support such a claim.
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 3
+:DateUnix: 1611440948.0
+:DateShort: 2021-Jan-24
+:END:
+
+******** I am not arguing what is sensible, but what could be reasonably justified given the source material. Hogwarts runs itself (although the ministry does do two sets of exams, once a year), so does St Mungo's for all we know. Running Azkaban involves supplying the prisoners with the bare minimum of gruel so they are just starving and not actually dead, all the guarding work seems to be done by the dementors. The bank is run by goblins, which thanks to the Goblin /Liason/ Office must govern themselves. Given Dumbledore is Chief Warlock of the Wizengamot we know that sitting on it can't be a full time job. The only thing that we know is fully staffed is their Home Office equivalent, and even then they only need as many people as the population demands. The UK has 211 police officers per 100,000 people according to Google, so the magical world must only have dozens of aurors. There doesn't seem to be any magical sanitation, roads, electricity or post office.
+
+I am not saying your interpretation is wrong, but that you should consider that there is no reason why the magical government should be structured anything like ours.
+:PROPERTIES:
+:Author: greatandmodest
+:Score: 2
+:DateUnix: 1611442973.0
+:DateShort: 2021-Jan-24
+:END:
+
+********* There's no reason to believe that it isn't steuctured like ours either, and given that JK wrote the later books to more heavily parralel the real world, then I believe it more likely the ministry does parralel our governments than not.
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 2
+:DateUnix: 1611443160.0
+:DateShort: 2021-Jan-24
+:END:
+
+
+** It doesn't make the numbers work, but the ministry clearly employs a far larger portion of the population than any muggle government.
+
+There's not a whole lot of jobs in the magical world.\\
+A few shops, but rarely more than two specialising in any given area, most of the nation just shops in Diagon alley as it's one of the few places where magic can be openly used in public and between the Floo and apparation it's probably easier to go there than a local shop would be (as said local shop would require the hassle of hiding from muggles, rather than just flooing to the Leaky Cauldron).\\
+There's teaching at Hogwarts, the only school in the nation.\\
+There's some professional sports.\\
+That's pretty much it, because magic and low population mean you just don't need most other jobs.
+:PROPERTIES:
+:Author: Electric999999
+:Score: 3
+:DateUnix: 1611453269.0
+:DateShort: 2021-Jan-24
+:END:
+
+
+** Honestly, open a phone or computer, select the date, September 1st 1991, 1992... etc. Et viola, you know what day of the week it was. Looking in the met service records to see what the weather was like on a given day isn't cheating either.
+
+30,000 works. Though it can be smidgin lower as the magical economy is (a bit) post-scarcity.
+
+​
+
+Honestly, open a phone or computer, select the date, september 1st 1991, 1992... etc. Et viola, you know what day of the week it was. Looking in the met service records to see what the weather was like on a given day isn't cheating either.
+
+The bit where there are 5 pounds to the galleon is tricky to justify too. (I roll with it, because difficulties are liberating.)
+:PROPERTIES:
+:Author: Excellent_Tubleweed
+:Score: 7
+:DateUnix: 1611384729.0
+:DateShort: 2021-Jan-23
+:END:
+
+*** Rowling didn't have a modern phone when she wrote the series because they didn't exist at the time. Did she even have a computer? I think I read that she had all the notes for the series written on paper in a big box. It's much easier to look stuff up now than it used to be.
+:PROPERTIES:
+:Author: MTheLoud
+:Score: 12
+:DateUnix: 1611418793.0
+:DateShort: 2021-Jan-23
+:END:
+
+**** Yeah. The transition from "write everything on paper" to "everyone has a laptop" happened between 2003 and 2009ish. Also, didn't she write in a coffee shop to avoid putting the heating on at home (I don't remember)? Being too reliant on electricity sounds like a mistake in that situation.
+:PROPERTIES:
+:Author: TJ_Rowe
+:Score: 5
+:DateUnix: 1611431397.0
+:DateShort: 2021-Jan-23
+:END:
+
+***** I think so. She was jobless when she was writing the first book. So, doubtful she had a laptop.
+:PROPERTIES:
+:Author: ModernDayWeeaboo
+:Score: 1
+:DateUnix: 1611481244.0
+:DateShort: 2021-Jan-24
+:END:
+
+
+*** u/mschuster91:
+#+begin_quote
+  30,000 works. Though it can be smidgin lower as the magical economy is (a bit) post-scarcity.
+#+end_quote
+
+Not just post-scarcity but also post-war - two Voldemort wars plus people who helped out in mainland Europe during the Grindelwald time, that's bound to make a serious dent in population figures.
+:PROPERTIES:
+:Author: mschuster91
+:Score: 3
+:DateUnix: 1611417427.0
+:DateShort: 2021-Jan-23
+:END:
+
+
+** I don't remember where the statistic was - it was probably fanon - but I use the ratio of 1 in every 5,000 births is magical. Given that, and the population of the UK in 1991 was 57.34 million, that leaves a total magical population of 11,468.
+
+But yeah, you are wholly correct in that there is no math at all behind JKR's assertions, it's just what she imagined in her head with no logistics considered.
+:PROPERTIES:
+:Author: OldMarvelRPGFan
+:Score: 2
+:DateUnix: 1611405364.0
+:DateShort: 2021-Jan-23
+:END:
+
+*** Been scrolling through old comments and stumbled upon yours and I had to comment on something. 1 in 5000 accounts for muggleborns, but as we know from copius evidence when two magicals have children the result is almost always another magical, so in addition to the influx of muggleborns via the 1 in 5000 metric, we also have a steady and stable population growth from the existing magical base.
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 1
+:DateUnix: 1614306414.0
+:DateShort: 2021-Feb-26
+:END:
+
+
+** > So that means that the government /alone/ has 2000 more people than the stated population.
+
+There's a theory that there is only one electron in the entire universe, travelling backwards and forwards in time, so where we see gazillions of the things it's just the same one many times (and positrons are when it's travelling backwards in time). Clearly the ministry did the same, with time turners!
+:PROPERTIES:
+:Author: HiddenAltAccount
+:Score: 1
+:DateUnix: 1611437654.0
+:DateShort: 2021-Jan-24
+:END:
+
+
+** It's easy how they had this impossibly large task force. The entire Ministry used a time turner to basically clone themselves for the World Cup.
+:PROPERTIES:
+:Author: Rp0605
+:Score: 1
+:DateUnix: 1611454904.0
+:DateShort: 2021-Jan-24
+:END:
+
+
+** I'll happily ignore random numbers thrown in for effect and plot irrelevant tidbits like the number of quidditch teams. I think a small population serves the story best, although maybe not this small.
+:PROPERTIES:
+:Author: pet_genius
+:Score: 1
+:DateUnix: 1611391630.0
+:DateShort: 2021-Jan-23
+:END:
+
+
+** One thing that does add up is the class size. There are what 30-40 kids in Harry's year? If this holds true and the age of wizards is 80-100 years old on average then the most amount of people that can be alive at once is 35 kids x 90 years old(90 years of hogwarts graduates being alive at once.) and you get 3,150 max population not counting magicals that move to Brittan or deaths. I could see the # of 3,000 being a decent average.
+:PROPERTIES:
+:Author: Aiyania
+:Score: 0
+:DateUnix: 1611433727.0
+:DateShort: 2021-Jan-23
+:END:
+
+*** I disagree, and I went into my reasons for such in the post, paragraph three.
+
+Edit: also, the average life expectancy (as stated by Rowling) is 137ish, not 80-100.
+:PROPERTIES:
+:Author: Valirys-Reinhald
+:Score: 1
+:DateUnix: 1611438163.0
+:DateShort: 2021-Jan-24
+:END:

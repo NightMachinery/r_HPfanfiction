@@ -1,0 +1,186 @@
+#+TITLE: Is it Canon that the Trace does not work if an adult is nearby?
+
+* Is it Canon that the Trace does not work if an adult is nearby?
+:PROPERTIES:
+:Author: pumpkinsouptroupe
+:Score: 13
+:DateUnix: 1522387412.0
+:DateShort: 2018-Mar-30
+:FlairText: Discussion
+:END:
+I keep seeing this pop up in fanfiction but was this something that Rowling confirmed or did our community make it?
+
+
+** The only thing that canon says in that regard is that the trace detects magic around the underage wizard but is unable to determine the caster.
+:PROPERTIES:
+:Author: Amazements
+:Score: 26
+:DateUnix: 1522388396.0
+:DateShort: 2018-Mar-30
+:END:
+
+*** It also appears that it is unable to determine which underage wizard's Trace fed them the information. The Ministry just gets a feed on information which states:
+
+1. Location
+
+2. Type of magic
+
+All the information from all the Traces is all merged into a single "feed" where you cannot distinguish what information has come from which Trace.
+
+This is why:
+
+a) The Ministry has to deduce from location who has cast the magic, and so can only enforce underage magic rules in locations where it is clear who has cast the magic.
+
+b) Tom Riddle was able to get away with murdering his family with his uncle's wand, because the wand was the only evidence the Ministry had regarding who did it.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1522481362.0
+:DateShort: 2018-Mar-31
+:END:
+
+
+** The trace alerts the ministry where magic was used around a underage wizards. They find out what spells are used, but are unable to determine who used the magic and whose trace alerted them. In places with adult wizards the ministry assumes its them using the magic and ignores the trace. If a adult wizards would go to a place with only a underage wizard living nearby, only the underage wizard would be blamed for it(the ministry can probably be informed in advance so no criminal records exists.)
+
+In Half-Blood-Prince underage Tom Riddle murders his paternal family in a neighborhood with a wizard living nearby and only the wizards gets blames(also because Riddle memory charmed him into beliving he did it)
+
+#+begin_quote
+  “But how come the Ministry didn't realize that Voldemort had done all that to Morfin?” Harry asked angrily. “He was underage at the time, wasn't he? I thought they could detect underage magic!” “You are quite right --- they can detect magic, but not the perpetrator: You will remember that you were blamed by the Ministry for the Hover Charm that was, in fact, cast by ---” “Dobby,” growled Harry; this injustice still rankled. “So if you're underage and you do magic inside an adult witch or wizard's house, the Ministry won't know?” “They will certainly be unable to tell who performed the magic,” said Dumbledore, smiling slightly at the look of great indignation on Harry's face. “They rely on witch and wizard parents to enforce their offspring's obedience while within their walls.”
+#+end_quote
+:PROPERTIES:
+:Score: 16
+:DateUnix: 1522400399.0
+:DateShort: 2018-Mar-30
+:END:
+
+
+** The Trace isn't really handled consistently in canon, and where it is invoked, there are often extenuating circumstances. As far as I know, JKR hasn't expanded on it in any interviews. But we can get some clues from what the Trace can and /cannot/ do in the books.
+
+- The Trace cannot track underage wizards directly when no magic is cast. (Fudge couldn't just Trace Harry when he ran away from home in Book 3.)
+
+- The Trace is not, as some fics suggest, monitoring only the places of residence of underage wizards. (Harry is at risk of being Traced in Book 7 even after he leaves Privett Drive.)
+
+- The Trace does not detect magic when there is no underage wizard nearby. (Ron considers this to be an extremely safe assumption in Book 7 even after the Death Eaters take over the Ministry.) This is true even when the Unforgivable Curses are used, something the Ministry has an interest in specifically scanning for.
+
+- According to Dumbledore, the Ministry simply assumes that an adult wizard living in the area casts any nearby magic when the Trace detects anything.
+
+- When Tom Riddle killed his family, Dumbledore implied that the Ministry detected the underage magic. It seems like a stretch that they would assume Morfin did it when Morfin lived a mile away from the Riddles, and the Trace should have said that Tom was at their house. However, recall that the Ministry specifically had Morfin's address on file as an ex-con, and Tom did a very good frame job on him. It's plausible that Tom would have been found out were it not for those two things.
+
+My headcanon on the Trace has evolved over time. However, based on these facts, I think it is most plausible that the Trace uses similar enchantments to the Book and Quill at Hogwarts and activates upon the first use of magic of a young witch or wizard. It then irrevocably deactivates when the child turns 17, probably by a similar mechanism to the Protection of Blood on Privett Drive. During this time, the Trace tracks the location of the child, but it only "transmits" to the Ministry when magic is performed, supplying it with power. In theory, this is when the child performs magic, but like an RFID chip, if it is "pinged" by someone else performing magic nearby, it will trigger and transmit that too. It can't be pinged from a distance for active tracking because the amount of power required would be too great.
+:PROPERTIES:
+:Author: TheWhiteSquirrel
+:Score: 9
+:DateUnix: 1522417842.0
+:DateShort: 2018-Mar-30
+:END:
+
+*** It's even possible that Tom, as part of the frame-up, told the Ministry that he was approaching the Riddle House when Morfin knocked him out and killed the Riddles.
+:PROPERTIES:
+:Author: Jahoan
+:Score: 1
+:DateUnix: 1522428908.0
+:DateShort: 2018-Mar-30
+:END:
+
+
+** The Ministry cant make a difference between House Elf magic and Human magic, which is, in my opinion, a very poor result of the Powerful Wizard Gouvernment. As Dobby used his magic in Book 2, the Ministry was alerted, because Harry was the only magical registered Person in Privet Drive, so they assumed, he had used magic. This was stated by Dumbledore in Book 6, if i remember.
+
+And fun fact: the Wand serve as a alerting system for the Ministry, means, if the Underage performs wandless magic, it wont be detected. As seen in Book 5, where Harry did a Wandless Lumos at the Beginning, but he was accused for the Patronus which he performed with his Wand. And like Dumbles said: the Ministry rely on the Parents to keep their Kids Magic on a leash.
+:PROPERTIES:
+:Author: Atomstern
+:Score: 12
+:DateUnix: 1522389457.0
+:DateShort: 2018-Mar-30
+:END:
+
+*** But Dobby didn't use a wand, so how was /that/ magic detected?
+
+...Oh wait! This is one of those things I've heard of... what's the word? Oh, right! A plothole!
+:PROPERTIES:
+:Author: MolochDhalgren
+:Score: 18
+:DateUnix: 1522395055.0
+:DateShort: 2018-Mar-30
+:END:
+
+**** i...guess, you are right. Unless of course its correct, that Madam Bones said in Book 5 that Privet Drive is under surveillance. So whatever Magic is used, it HAS to be Harry. Maybe the House itself is put under a Spell. Harry was several meters away from it, during the Dementor attack, so they detected the Magic through his Wand. Harry hexed his Aunt in Book 3 Wandless, via emotional outburst and the Ministry knew about it.
+:PROPERTIES:
+:Author: Atomstern
+:Score: 5
+:DateUnix: 1522402310.0
+:DateShort: 2018-Mar-30
+:END:
+
+***** That seemed to have tripped their detectors for Accidental Magic, which is what it is. (Harry's emotions were heightened, and he did not intent to hex her, but his magic did it anyway.)
+:PROPERTIES:
+:Author: Jahoan
+:Score: 4
+:DateUnix: 1522428052.0
+:DateShort: 2018-Mar-30
+:END:
+
+
+**** I always figure house elf magic is of the "Tricksy" variety. Dobby spoofed a wizard-magic signature to trip the Trace, whereas elf magic is capable of being used undetected to most spells, likely because they are not tailored to look for elf magic.
+:PROPERTIES:
+:Author: Averant
+:Score: 5
+:DateUnix: 1522444481.0
+:DateShort: 2018-Mar-31
+:END:
+
+
+*** u/deleted:
+#+begin_quote
+  he Wand serve as a alerting system for the Ministry, means, if the Underage performs wandless magic, it wont be detected. As seen in Book 5, where Harry did a Wandless Lumos at the Beginning, but he was accused for the Patronus which he performed with his Wand
+#+end_quote
+
+The simpler explanation would be that the number of charms doesn't make a difference for a trial on Underage Sorcery and they choose to trial him for the Patronus because it endangers the statute of secrecy more.
+
+The lumos in prisoner of Azkaban was also ignored in comparisson of Harry blowing up his aunt.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1522413043.0
+:DateShort: 2018-Mar-30
+:END:
+
+**** as i said. Wandless magic cant be detected. The Trial didnt mention the Lumos, but instead Harrys outburst on his Aunt....because he was inside his Registered Home. I doubt that the kind of spell is important here. Fudge was very eager to banish Harry from School, so he would accused him of any performed Magic outside Hogwarts. The Performed Lumos would be "harmless", compared to his other charms, but it would be counted.
+
+By the way, its what annoys me in Book 5: "performing magic in the present of a Muggle". YES, Dudley IS a Muggle, BUT he is also Harrys relative, so he should be achknowledge that Harry can do magic. Fudge and the rest of the Community assume, that Harry is living a happy and friendly live together with the Dursleys and that they might be interested in the Magic stuff (like hermiones parents might be), so he would tell them, but also that he is forbidden to perform magic outside the School, so he cant show them the Tricks. BUT, the Dursleys would be aware of it...so, accusing Harry of doing magic in the presence of a Muggle (cousing) is ridiculous. It should be stated as underage magic or doing magic outside Hogwarts.
+:PROPERTIES:
+:Author: Atomstern
+:Score: 1
+:DateUnix: 1522448048.0
+:DateShort: 2018-Mar-31
+:END:
+
+
+** It doesn't recognise the caster, so I'd assume that Trace reports from magical households, public areas, etc. end up in the bin without any sort of investigation.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1522389787.0
+:DateShort: 2018-Mar-30
+:END:
+
+
+** They had to wait for Harry to turn eighteen before they could go off on the Horcrux hunt when both Ron and Hermione were already eighteen so... It's probably not canon.
+:PROPERTIES:
+:Author: spydalek
+:Score: 1
+:DateUnix: 1522393429.0
+:DateShort: 2018-Mar-30
+:END:
+
+*** *seventeen
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1522402193.0
+:DateShort: 2018-Mar-30
+:END:
+
+**** Right yes, of course it is... :o I just went with what the world at large considers Adult Age... :o
+:PROPERTIES:
+:Author: spydalek
+:Score: 0
+:DateUnix: 1522406739.0
+:DateShort: 2018-Mar-30
+:END:

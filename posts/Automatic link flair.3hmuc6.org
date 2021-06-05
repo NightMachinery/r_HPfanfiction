@@ -1,0 +1,58 @@
+#+TITLE: Automatic link flair
+
+* Automatic link flair
+:PROPERTIES:
+:Author: denarii
+:Score: 18
+:DateUnix: 1440018004.0
+:DateShort: 2015-Aug-20
+:FlairText: Meta
+:END:
+AutoModerator should now be set up to automatically flair your posts based on the title.
+
+If you begin the title of your post with the flair type in brackets like this: =[Discussion] Some Awesome Topic= then it should be automatically flaired. It'll match some other variants too, but for the sake of simplicity that's what I recommend.
+
+"NSFW" anywhere in the title will also automatically flag it as NSFW.
+
+
+** Favor be upon you
+:PROPERTIES:
+:Author: KwanLi
+:Score: 4
+:DateUnix: 1440024729.0
+:DateShort: 2015-Aug-20
+:END:
+
+
+** Is the button still going to be there?
+:PROPERTIES:
+:Author: howtopleaseme
+:Score: 2
+:DateUnix: 1440021862.0
+:DateShort: 2015-Aug-20
+:END:
+
+*** Yes
+:PROPERTIES:
+:Author: denarii
+:Score: 1
+:DateUnix: 1440022156.0
+:DateShort: 2015-Aug-20
+:END:
+
+
+** Thanks!
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1440024354.0
+:DateShort: 2015-Aug-20
+:END:
+
+
+** Awesome, this will make me less guilty when posting something from mobile.
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 1
+:DateUnix: 1440045908.0
+:DateShort: 2015-Aug-20
+:END:

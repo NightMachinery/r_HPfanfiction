@@ -1,0 +1,360 @@
+#+TITLE: New Bot Feature: ffnbot!delete! And more info on the bot!
+
+* New Bot Feature: ffnbot!delete! And more info on the bot!
+:PROPERTIES:
+:Author: tusing
+:Score: 26
+:DateUnix: 1441593215.0
+:DateShort: 2015-Sep-07
+:FlairText: Meta
+:END:
+**** *EDIT: [[https://www.reddit.com/r/HPfanfiction/comments/3jyddd/ffnbotrefresh_another_new_bot_feature/][Check out the new ffnbot!refresh feature I just added!]]*
+     :PROPERTIES:
+     :CUSTOM_ID: edit-check-out-the-new-ffnbotrefresh-feature-i-just-added
+     :END:
+Hey, all,
+
+I would like to thank you all for using and supporting the bot so far.
+
+Today, I've introduced a new feature - /ffnbot!delete/ will delete a bot comment. This is useful when:
+
+- Someone calls ffnbot!parent on you and you forgot to put ffnbot!ignore (so you can edit the your comment with the ignore tag and call delete on the bot comment so it never replies again)
+- Someone spoils a story with a bot comment
+- You want to edit your comment to include more fics (in this case, call ffnbot!delete on the current bot reply, and ffnbot!parent on your own comment)
+
+--------------
+
+** *USAGE*
+   :PROPERTIES:
+   :CUSTOM_ID: usage
+   :END:
+**** Include /ffnbot!delete/ in a reply to a bot comment.
+     :PROPERTIES:
+     :CUSTOM_ID: include-ffnbotdelete-in-a-reply-to-a-bot-comment.
+     :END:
+
+--------------
+
+An additional change in this update implements minor delay reductions in between comments.
+
+Another thing I would like to go over is *versioning*. You might notice that the bot has hit version 1.2.0. Bot versions are meant to be like this:
+
+*[MAJOR UPDATE]*.*[NORMAL UPDATE]*.*[MATURITY UPDATE]*
+
+So we're on the first major update, second normal/functionality update, and there have been no maturity updates to this normal update.
+
+- /Major updates/ will be rare and involve complete overhauls to bot backend, functionality, style, and more - think of [[https://www.reddit.com/r/HPfanfiction/comments/39c9wx/hi_this_is_a_new_bot_by_utusing_it_will/][the first few bot replies]] (v0.x beta) to [[https://www.reddit.com/user/FanfictionBot][today's bot]]. These will be super-rare as they involve a lot of time to make, and involve exponentially more complexity behind the scenes.
+
+- /Normal updates/ will introduce new functionality to the bot. For example, v1.1 introduced fic downloading, v1.2 is introducing the delete tag. These are relatively minor.
+
+- /Maturity updates/ are usually just backend changes or bug fixes. These will almost never introduce new end-user functionality.
+
+
+** Is there something preventing someone deleting a bot post on someone else's comment? I doubt anyone in our community would be rude/malicious with it, but I'm just wondering if it checks to compare the user's calling for it or something. If so, cool. If not, cool. Either way, awesome update.
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 5
+:DateUnix: 1441593762.0
+:DateShort: 2015-Sep-07
+:END:
+
+*** Thanks!
+
+In short: No.
+
+I was thinking that /maybe/ it should be locked to the person who actually made the comment, but the actual reason I implemented this was because I noticed someone had made a spoiler comment using the bot. They may have not been able to delete it themselves in time, and it would have been useful if other people had the capability to delete bot comments.
+
+I was thinking about implementing a "delete on -1 karma" feature like other bots, but the issue with that is the people who downvote it are not held accountable if they use the feature maliciously. This way, if anyone calls for a bot comment to be deleted, they will be accountable for it; if they do it maliciously, they will be disciplined/banned/etc.
+:PROPERTIES:
+:Author: tusing
+:Score: 3
+:DateUnix: 1441593991.0
+:DateShort: 2015-Sep-07
+:END:
+
+**** I think if you're going to do a delete on karma thing it needs to be somewhere between 3 and 5. Loads of posts hit -1 for very little reason, like the fic is slash or I've recommended Seventh Horcrux for the twelfth thread in a row. :P
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1441595208.0
+:DateShort: 2015-Sep-07
+:END:
+
+***** I agree, I've seen the bot go -1 for seemingly no reason.
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 3
+:DateUnix: 1441600615.0
+:DateShort: 2015-Sep-07
+:END:
+
+****** I routinely downvote the bot simply because the fic links take up a lot of screen space and I think discussion should have precedence over links. Same reason why bibliographies are at the end of an essay.
+:PROPERTIES:
+:Author: Taure
+:Score: 1
+:DateUnix: 1441616475.0
+:DateShort: 2015-Sep-07
+:END:
+
+******* Sorry about that problem. The bot was never intended to be a point of discussion - it was intended to be a way for users to quickly link stuff they want to and move on to writing their /actual/ reply. It's also intended to make it so you don't have to click through multiple links to get an overview of the fic (fic length, replies, summary, etc).
+
+If Reddit markdown had a "collapsible spoiler", I'd use it in a heartbeat, but they don't. I've tried to compact the bot as much as I can for now, though. It certainly is nicer than it was when the bot first came out.
+:PROPERTIES:
+:Author: tusing
+:Score: 3
+:DateUnix: 1441617848.0
+:DateShort: 2015-Sep-07
+:END:
+
+******** [deleted]
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1441633590.0
+:DateShort: 2015-Sep-07
+:END:
+
+********* Would that work on mobile? Also, how would you click links?
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1441648562.0
+:DateShort: 2015-Sep-07
+:END:
+
+********** I think a collapsible option would be amazing, if implementing it isn't too strenuous. I love so many of the bot's features (fic downloading right from reddit is a dream). But I do agree with [[/u/taure]] that it takes up space. Having said that though, I'd rather have the bot taking up space than not have the bot at all. (:
+:PROPERTIES:
+:Author: lurkielurker
+:Score: 1
+:DateUnix: 1441653956.0
+:DateShort: 2015-Sep-07
+:END:
+
+
+******* Why don't you collapse it? People don't really comment on the bot so you're not losing any children.
+:PROPERTIES:
+:Author: boomberrybella
+:Score: 2
+:DateUnix: 1441685013.0
+:DateShort: 2015-Sep-08
+:END:
+
+
+**** Sounds good to me, definitely good reasoning in either case :)
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 3
+:DateUnix: 1441594389.0
+:DateShort: 2015-Sep-07
+:END:
+
+
+**** As long as it is not implemented, consider the bot to be effectively broken. As good an respectable the community may be. There will certainly be someone who will be trolling. That's just how the internet is.
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 1
+:DateUnix: 1441624525.0
+:DateShort: 2015-Sep-07
+:END:
+
+
+** Hey, you rock. I just thought you should know. Thanks for making and maintaining this bot!
+:PROPERTIES:
+:Author: rainbowmoonheartache
+:Score: 3
+:DateUnix: 1441596701.0
+:DateShort: 2015-Sep-07
+:END:
+
+*** Thank you!
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1441600193.0
+:DateShort: 2015-Sep-07
+:END:
+
+
+** u/OutOfNiceUsernames:
+#+begin_quote
+  When you want to edit your comment to include more fics, call ffnbot!delete on the current bot reply and ffnbot!parent on your own comment.
+#+end_quote
+
+Wouldn't ffnbot!refresh / ~reparseParent be better for this?
+:PROPERTIES:
+:Author: OutOfNiceUsernames
+:Score: 2
+:DateUnix: 1441594461.0
+:DateShort: 2015-Sep-07
+:END:
+
+*** ffnbot!refresh doesn't exist yet, and it would take more time than I currently have to implement.
+:PROPERTIES:
+:Author: tusing
+:Score: 3
+:DateUnix: 1441594529.0
+:DateShort: 2015-Sep-07
+:END:
+
+**** Oh, ok. I thought this was intended as a permanent solution, sorry.
+:PROPERTIES:
+:Author: OutOfNiceUsernames
+:Score: 1
+:DateUnix: 1441594636.0
+:DateShort: 2015-Sep-07
+:END:
+
+***** Don't worry, [[http://i.imgur.com/dtVPUmo.png][I'm working on it!]]
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1441598646.0
+:DateShort: 2015-Sep-07
+:END:
+
+****** What development environment is this? Looks snazzy!
+:PROPERTIES:
+:Author: UsernamesR_Pointless
+:Score: 1
+:DateUnix: 1441607707.0
+:DateShort: 2015-Sep-07
+:END:
+
+******* Looks like sublime text. Great for scripting languages and quick things that don't need too much ide support (though with plugins sublime can be very powerful in its own right)
+:PROPERTIES:
+:Author: Hofferic
+:Score: 3
+:DateUnix: 1441612300.0
+:DateShort: 2015-Sep-07
+:END:
+
+******** Cool, thanks!
+:PROPERTIES:
+:Author: UsernamesR_Pointless
+:Score: 1
+:DateUnix: 1441616480.0
+:DateShort: 2015-Sep-07
+:END:
+
+
+******** Just as powerful as vim if it is set up and working for you. Essentially if you are the one who says "the os is your ide"
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 1
+:DateUnix: 1441624885.0
+:DateShort: 2015-Sep-07
+:END:
+
+********* I like a well-done IDE especially for the I part. Sure I can build my android app just as well with vim or sublime, if everything is configured right. But I love the power of android studio with code insights, annotations, build flavours, git integration, profilers and graphical debugger etc all easily accessible. Those are all things that can be done manually, but they require either a lot of setup or a lot of manual work.
+
+I think its just a preference kind of thing, as I like to do flashing etc by hand because for some reason toolkits doing the exact same steps, just automatically, give me the creeps when it comes to things which can easily break permanently. And for JavaScript or Python most IDEs just annoy me with unwanted/unneeded stuff and heavy ressouce use.
+:PROPERTIES:
+:Author: Hofferic
+:Score: 1
+:DateUnix: 1441626150.0
+:DateShort: 2015-Sep-07
+:END:
+
+********** And welcome to the debate about Editor vs. IDE. I agree for GUI-Creation, Editors are crap.
+
+In Java outside of gui development you can use editors just as well. Maven and Gradle are easy to use tools that will do the testing and compiling for you. And let's not forget that there are makefiles for c/c++ projects.
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 2
+:DateUnix: 1441627449.0
+:DateShort: 2015-Sep-07
+:END:
+
+*********** Exactly. Also, debugging can get nasty without a GUI.
+:PROPERTIES:
+:Author: Hofferic
+:Score: 1
+:DateUnix: 1441628312.0
+:DateShort: 2015-Sep-07
+:END:
+
+************ There are applications for debugging on a terminal.
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 1
+:DateUnix: 1441628388.0
+:DateShort: 2015-Sep-07
+:END:
+
+************* Yup, but with more involved code I really dislike them because I find the GUI variant more easy to use for most things. As I said above, mostly preference and even that changes based on what I am doing. In some cases I find a GUI option to be clunky, in some cases the reverse is true. As long as it works the way it's supposed to and gets the job done it is great to have a variety of tools available for all situations and preferences :D
+:PROPERTIES:
+:Author: Hofferic
+:Score: 1
+:DateUnix: 1441629395.0
+:DateShort: 2015-Sep-07
+:END:
+
+
+******* Thanks! It's Sublime Text 3 with the Material Theme.
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1441617688.0
+:DateShort: 2015-Sep-07
+:END:
+
+******** Thanks for sharing. :)
+
+The UI looks much more friendly than notepad++(my current go-to text editor) and it looks like you can work on an entire project at once. Their website has a lot of examples of clever work-flow solutions. (Not to mention this Material Theme looks wonderful) I really need to try it out. I'm glad I got responses from you guys.
+
+ 
+
+($70 for a license, though.. /smh/)
+:PROPERTIES:
+:Author: UsernamesR_Pointless
+:Score: 1
+:DateUnix: 1441620339.0
+:DateShort: 2015-Sep-07
+:END:
+
+********* Sublime Text is actually free. They ask for a license for support, but you're not obligated to buy it, and the messages pop up very rarely. It really is worth a try.
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1441621277.0
+:DateShort: 2015-Sep-07
+:END:
+
+********** Just downloaded it a few minutes ago, I think I'm going to love the Project thing they've got going on.
+
+ 
+
++Now I just need to find out how to use themes.+  
+
+/edit:/ Figured it out, looking great!
+:PROPERTIES:
+:Author: UsernamesR_Pointless
+:Score: 1
+:DateUnix: 1441621455.0
+:DateShort: 2015-Sep-07
+:END:
+
+*********** Welcome to the Sublime Text master race !
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1441648427.0
+:DateShort: 2015-Sep-07
+:END:
+
+
+***** [[https://www.reddit.com/r/HPfanfiction/comments/3jyddd/ffnbotrefresh_another_new_bot_feature/][Implemented.]] Have fun!
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1441617651.0
+:DateShort: 2015-Sep-07
+:END:
+
+****** Thank you!
+
+Now the only thing it needs is to know how to make coffee, haha.
+:PROPERTIES:
+:Author: OutOfNiceUsernames
+:Score: 1
+:DateUnix: 1441624981.0
+:DateShort: 2015-Sep-07
+:END:

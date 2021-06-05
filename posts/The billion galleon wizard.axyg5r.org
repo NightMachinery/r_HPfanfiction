@@ -1,0 +1,400 @@
+#+TITLE: The billion galleon wizard
+
+* The billion galleon wizard
+:PROPERTIES:
+:Author: Lynix2341
+:Score: 47
+:DateUnix: 1551876429.0
+:DateShort: 2019-Mar-06
+:END:
+So, I have no problem with Harry being rich, but why does he have a million sickles and knuts. You don't go to the bank and they be like, you got 8,745,329 pennies and 4,300,001 nickles in your account. Dafuq? Nah, it would be in dollars, so it should just be galleons, a handful of sickles, and a slightly larger handful of knuts.
+
+
+** Potentially because Gringrotts stores things physically in a personal vault. So they don't actually change out sickles for galleons. When you get an account statement you see what actually is physically in the vault and not the value that translates to
+:PROPERTIES:
+:Author: MartDiamond
+:Score: 62
+:DateUnix: 1551877605.0
+:DateShort: 2019-Mar-06
+:END:
+
+
+** Because Gringotts isn't electronic banking. It's a safe deposit/storage unit service.
+
+Also, if we're being real meta, people who write long Gringotts account statements are probably just wanking themselves off, or padding their wordcount. Or both.
+
+How else can you explain where things like this come from?
+
+#+begin_quote
+  *Vaults under control of Hadrian James Potter-Peverell-Gryffindor-Black-Evans*
+
+  Potter Trust Fund (Vault 687): 105,000 Galleons, 500 Sickles, 50 Knuts
+
+  Potter-Evans Family Vault (Vault 680): 396,502 Galleons, 352 Sickles, 21 Knuts
+
+  Main Potter Account (Vault 245): 4,286,987 Galleons, 1,543 Sickles, 381 Knuts
+
+  Main Black Vaults (Vault 200): 234,846,301 Galleons, 3,687 Sickles, 201 Knuts
+
+  Black Family allowance (Vault 630): 500,000 Galleons, 1000 Sickles, 100 Knuts
+
+  Peverell Vault (Vault 1): 1,601,209,988,021 Galleons, 7094 Sickles, 1926 Knuts
+
+  Main Gryffindor Vault (Vault 5): 35,874,729,639 Galleons, 2043 Sickles, 843 Knuts
+
+  Gryffindor House-Keeping Allowance (Vault 10): 1,000,000 Galleons
+
+  Evans Vault: 100,846 Galleons, 90 Sickles, 40 Knuts
+
+  Slytherin Vault (Locked) (Vault 2): Hidden
+
+  *Total Money: 1,637,330,454,262 Galleons, 353 Sickles, 23 Knuts*
+#+end_quote
+:PROPERTIES:
+:Author: 4ecks
+:Score: 48
+:DateUnix: 1551877915.0
+:DateShort: 2019-Mar-06
+:END:
+
+*** u/rocketsp13:
+#+begin_quote
+  1,637,330,454,262 Galleons
+#+end_quote
+
+So, trillions are a big number, so let's try to give a scale of this. A direct size for galleons is not specified (aside from "Gold coins the size of a hubcap" that's mentioned in GoF, which I suspect is a size considerably larger on the American side of the pond), so let's be conservative and use the Dungeons and Dragons gold coin size, which is 60 coins weigh 1 Lb.
+
+So, 1,637,330,354,262 galleons at that conversion rate is 27,288,839,237.7 pounds of gold, which sure that's a lot, but how much space would that take up?
+
+Gold is notoriously dense at 19.32 g/cm^{3}. Which yes, that means I had to convert to grams. 12378009264377.3 g by the way. A quick bit of math tells me that if the gold were solid, it would take up 640683.709 m^{3}, which would be a cube with about 86.208 meter long sides, made of pure gold.
+
+Of course these are coins, not solid gold, so we'll divide that volume by the circle packing ratio of ~.9069 to get an ideal estimated volume of 706454.884 m^{3}, or a cube with sides 89.062 m long.
+
+Now by now, I'm sure you're asking how much pointless math have I done, and I assure you that I'm not finished yet. You see I'm sure you imagine that gold, while valuable is in jewelry everywhere so surely the numbers, while staggering, are not beyond the pale. Surely there's this much gold in the world, right?
+
+Wrong.
+
+As of 2017, the World Gold Council estimated that 187,200 metric tons of gold has been mined in the entirety of human history.
+
+Harry's proposed wealth is 66 times that amount.
+:PROPERTIES:
+:Author: rocketsp13
+:Score: 41
+:DateUnix: 1551889727.0
+:DateShort: 2019-Mar-06
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 30
+:DateUnix: 1551890045.0
+:DateShort: 2019-Mar-06
+:END:
+
+***** This could actually be a nice bit of worldbuilding for an AU.
+:PROPERTIES:
+:Author: Lenrivk
+:Score: 7
+:DateUnix: 1551915123.0
+:DateShort: 2019-Mar-07
+:END:
+
+****** Goblins secretly run the whole show?
+:PROPERTIES:
+:Author: bernstien
+:Score: 1
+:DateUnix: 1551922841.0
+:DateShort: 2019-Mar-07
+:END:
+
+******* Not necessarily, you could have them just being a classic mining company, just that they mine in space.
+:PROPERTIES:
+:Author: Lenrivk
+:Score: 1
+:DateUnix: 1551923656.0
+:DateShort: 2019-Mar-07
+:END:
+
+
+***** The Goblins having a vast space force and only ever using it for mining purposes would be hilarious. It would also allow the author a funny opportunity to turn a common muggle wank line on its head.
+
+​
+
+"You do know muggles have gone to the moon right?" Hermione remarked as she wandered toward the book store.
+
+​
+
+(Insert random Pureblood) gasped in amazement.
+
+​
+
+"Please, we've been to Alpha Centauri," a random Goblin spat as he passed them.
+:PROPERTIES:
+:Author: Leahsyn
+:Score: 8
+:DateUnix: 1551966496.0
+:DateShort: 2019-Mar-07
+:END:
+
+****** Please make this fanon
+:PROPERTIES:
+:Author: Duck_Giblets
+:Score: 1
+:DateUnix: 1554701700.0
+:DateShort: 2019-Apr-08
+:END:
+
+
+**** u/avittamboy:
+#+begin_quote
+  As of 2017, the World Gold Council estimated that 187,200 metric tons of gold has been mined in the entirety of human history.
+
+  Harry's proposed wealth is 66 times that amount.
+#+end_quote
+
+Pffft. The Potters were the original creators of the Philosopher's Stone, didn't you know?
+:PROPERTIES:
+:Author: avittamboy
+:Score: 19
+:DateUnix: 1551891377.0
+:DateShort: 2019-Mar-06
+:END:
+
+
+**** u/ParanoidDrone:
+#+begin_quote
+  (aside from "Gold coins the size of a hubcap" that's mentioned in GoF, which I suspect is a size considerably larger on the American side of the pond)
+#+end_quote
+
+Yeah, to an American, a hubcap is the metal insert on the side of a car tire. [[https://upload.wikimedia.org/wikipedia/commons/1/1b/Lancer_Hubcap.jpg][One of these.]]
+:PROPERTIES:
+:Author: ParanoidDrone
+:Score: 7
+:DateUnix: 1551902596.0
+:DateShort: 2019-Mar-06
+:END:
+
+***** That confused me so much as a teenager.
+
+I remember being like.... so you're carrying around 7 hubcaps just for a wand? How can you carry anything else? How does it fit in your money bag. I eventually decided they were the size of a US golden dollar and ignored anything that said otherwise.
+:PROPERTIES:
+:Author: altrarose
+:Score: 4
+:DateUnix: 1551903339.0
+:DateShort: 2019-Mar-06
+:END:
+
+
+***** Yep, as an American that's what I'm familiar with. Apparently they're more along the lines of [[https://www.aliexpress.com/item/1set-4PCS-52MM-Aluminum-alloy-Car-Wheel-Hub-Center-Cap-Stickers-British-flag-Hubcaps-for-BMW/32862019092.html][this]], which is 52 mm or about 2 in across.
+
+And why yes, I'm restraining the urge to rerun all my math for 2 inch wide gold coins.
+:PROPERTIES:
+:Author: rocketsp13
+:Score: 4
+:DateUnix: 1551907099.0
+:DateShort: 2019-Mar-07
+:END:
+
+****** Wait, really? I always thought that was just hyperbole. Silver dollars were only 38 mm, and they're so much bigger than anything in circulation today that it wouldn't surprise me to hear someone call them "the size of hubcaps."
+:PROPERTIES:
+:Author: TheWhiteSquirrel
+:Score: 1
+:DateUnix: 1554479968.0
+:DateShort: 2019-Apr-05
+:END:
+
+******* I'd seen something about the size difference somewhere, but after I made this post, I mentioned this to a brit I'm acquainted with, and he said it's probably hyperbole as well. Well, his actual words were something along the lines of "you don't get exaggeration, do you?" There may have been some profanity thrown in there.
+:PROPERTIES:
+:Author: rocketsp13
+:Score: 1
+:DateUnix: 1554483925.0
+:DateShort: 2019-Apr-05
+:END:
+
+
+**** Wow, I'm disappointed that I missed slipping in a "golden grams" pun.
+:PROPERTIES:
+:Author: rocketsp13
+:Score: 6
+:DateUnix: 1551897633.0
+:DateShort: 2019-Mar-06
+:END:
+
+
+**** [[/r/theydidthemath][r/theydidthemath]]
+:PROPERTIES:
+:Author: justjustin2300
+:Score: 2
+:DateUnix: 1554052807.0
+:DateShort: 2019-Mar-31
+:END:
+
+
+**** That World Gold Council estimate is what muggles know about.
+:PROPERTIES:
+:Author: streakermaximus
+:Score: 1
+:DateUnix: 1551928176.0
+:DateShort: 2019-Mar-07
+:END:
+
+
+**** A thing i really liked that was in a fanfic once, not sure which one, was that the gringotts coins are actually not made of gold, and not even gold plated, they are made of common stone, enchanted to look like gold/silver/bronze.
+
+The thing is, only the goblins know that, since they are the ones who make the coins, and real gold would be too expensive/impossible to use in that scale. It also prevents fraud, since if someone gives them a coin whose enchantments don't match, or that is actually made of gold, they would immediatly detect.
+:PROPERTIES:
+:Author: Lord_yami
+:Score: 1
+:DateUnix: 1551980978.0
+:DateShort: 2019-Mar-07
+:END:
+
+
+*** I'd recommend investing some o' that in the muggle economy and becoming the richest man in the world there too. Or better yet, if you live in a verse where the goblins are a merchantile race that values honor above all, make them do it for you for 1% of the profits. Of course, they'll ask for 50% but you can always just do it yourself and they Know that. I'm sure you can work them down. Maybe you'll end up closer to 15% though...
+:PROPERTIES:
+:Author: Sefera17
+:Score: 11
+:DateUnix: 1551881354.0
+:DateShort: 2019-Mar-06
+:END:
+
+
+*** These lists never fail to bring me joy! If I don't have to read the entire fic, that is. I wonder if other fandoms have something like that?
+:PROPERTIES:
+:Author: neymovirne
+:Score: 4
+:DateUnix: 1551878927.0
+:DateShort: 2019-Mar-06
+:END:
+
+**** The LitRPG genre as a whole is full of giant stat sheets.
+
+If you read Gamer Fics like linkffn(11950816), they use video game style interfaces as part of the story. This means long lists of the character's stats, showing the number of points they've accrued in STR, DEF, END, and the long, long list of items in their inventory that is reposted every time they gain a new item or a new level.
+
+I see the "Gringotts Account Balance" trope to be nothing but the HP-flavored version of the classic Item Inventory.
+:PROPERTIES:
+:Author: 4ecks
+:Score: 14
+:DateUnix: 1551879297.0
+:DateShort: 2019-Mar-06
+:END:
+
+***** Good to know the origin, I don't really read Gamer Fics, so I've never seen it outside HP. Now I kinda want Tony Stark jer... reading his full asset statement or Daenerys claiming her vaults in the Iron Bank, Gringotts-style
+:PROPERTIES:
+:Author: neymovirne
+:Score: 5
+:DateUnix: 1551880749.0
+:DateShort: 2019-Mar-06
+:END:
+
+
+***** [[https://www.fanfiction.net/s/11950816/1/][*/Harry Potter and the Game/*]] by [[https://www.fanfiction.net/u/7268383/Concept101][/Concept101/]]
+
+#+begin_quote
+  With his life turned into a Game, Harry now has to raise a Phoenix, uncover the Founders' darkest secrets, deal with political manipulations and live through Hogwarts all while trying desperately to not swear too much.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{45} ^{*|*} ^{/Words/:} ^{363,393} ^{*|*} ^{/Reviews/:} ^{7,226} ^{*|*} ^{/Favs/:} ^{9,273} ^{*|*} ^{/Follows/:} ^{11,326} ^{*|*} ^{/Updated/:} ^{7/28/2018} ^{*|*} ^{/Published/:} ^{5/17/2016} ^{*|*} ^{/id/:} ^{11950816} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure/Fantasy} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Hermione} ^{G.,} ^{Ginny} ^{W.,} ^{Albus} ^{D.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11950816&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11950816&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1551879308.0
+:DateShort: 2019-Mar-06
+:END:
+
+
+*** Especially given that roughly 98% of that is found in one vault
+:PROPERTIES:
+:Author: randomredditor12345
+:Score: 2
+:DateUnix: 1551885365.0
+:DateShort: 2019-Mar-06
+:END:
+
+
+** As people have commented, Banking-as-safe-deposit-box is the way to go.
+
+Course, then you get the stupid "magical interest appears in vault', which makes absolutely no sense. You pay for a safe deposit box, you don't get paid.
+
+... Not that thinking overly hard about wizarding economics doesn't cause all sorts of problems. Really not JKR's strong point. With what we know, it would be a likely deflationary economy. And the exchange rate with pounds would be sky-high. And some muggleborn parent would end up owning the place in a few years of trying.
+
+Honestly, the way things are set up, all-wealth-being-generational would fit best, but then Canon tries to indicate they have a work/spend economy, which would just not work...
+:PROPERTIES:
+:Author: StarDolph
+:Score: 10
+:DateUnix: 1551880859.0
+:DateShort: 2019-Mar-06
+:END:
+
+
+** How about linkffn([[https://www.fanfiction.net/s/10136172/1/Core-Threads]])?
+
+He didn't inherit it here, he made most all of it himself...
+:PROPERTIES:
+:Author: Sefera17
+:Score: 4
+:DateUnix: 1551882162.0
+:DateShort: 2019-Mar-06
+:END:
+
+*** [[https://www.fanfiction.net/s/10136172/1/][*/Core Threads/*]] by [[https://www.fanfiction.net/u/4665282/theaceoffire][/theaceoffire/]]
+
+#+begin_quote
+  A young boy in a dark cupboard is in great pain. An unusual power will allow him to heal himself, help others, and grow strong in a world of magic. Eventual God-like Harry, Unsure of eventual pairings. Alternate Universe, possible universe/dimension traveling in the future.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{73} ^{*|*} ^{/Words/:} ^{376,980} ^{*|*} ^{/Reviews/:} ^{5,502} ^{*|*} ^{/Favs/:} ^{10,113} ^{*|*} ^{/Follows/:} ^{10,944} ^{*|*} ^{/Updated/:} ^{5/28/2017} ^{*|*} ^{/Published/:} ^{2/22/2014} ^{*|*} ^{/id/:} ^{10136172} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure/Humor} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10136172&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10136172&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1551882177.0
+:DateShort: 2019-Mar-06
+:END:
+
+
+*** At least it made sense, he is basically cornered the market for the rarest shit ever.
+:PROPERTIES:
+:Author: Archimand
+:Score: 1
+:DateUnix: 1551925790.0
+:DateShort: 2019-Mar-07
+:END:
+
+**** Wouldn't you?
+:PROPERTIES:
+:Author: Sefera17
+:Score: 1
+:DateUnix: 1551938659.0
+:DateShort: 2019-Mar-07
+:END:
+
+
+** Also because Gringotts probably charge a fee to change a galleon into smaller units and thus every family keeps their own change in the vault.
+:PROPERTIES:
+:Author: thebard78
+:Score: 2
+:DateUnix: 1551878963.0
+:DateShort: 2019-Mar-06
+:END:
+
+
+** u/oneonetwooneonetwo:
+#+begin_quote
+  Nah, it would be in dollars
+#+end_quote
+
+Are we sure about this one?
+:PROPERTIES:
+:Author: oneonetwooneonetwo
+:Score: 1
+:DateUnix: 1551918191.0
+:DateShort: 2019-Mar-07
+:END:

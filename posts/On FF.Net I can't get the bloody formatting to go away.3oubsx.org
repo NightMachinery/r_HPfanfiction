@@ -1,0 +1,74 @@
+#+TITLE: On FF.Net I can't get the bloody formatting to go away!
+
+* On FF.Net I can't get the bloody formatting to go away!
+:PROPERTIES:
+:Score: 9
+:DateUnix: 1444905975.0
+:DateShort: 2015-Oct-15
+:FlairText: Misc
+:END:
+[deleted]
+
+
+** You got some HTML tags in there. Either a weird text editor or you copied and pasted incorrectly from another site.
+
+Its under 4k words so you should be able to just pop that into something like Notepad++ (don't judge me, I write my code and fanfic together) and use the search+replace function to remove it all and fix up the spacing.
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 5
+:DateUnix: 1444919897.0
+:DateShort: 2015-Oct-15
+:END:
+
+*** u/Frix:
+#+begin_quote
+  something like Notepad++ (don't judge me, I write my code and fanfic together)
+#+end_quote
+
+Code should be written in an IDE, not in notepad++...
+:PROPERTIES:
+:Author: Frix
+:Score: -2
+:DateUnix: 1444921668.0
+:DateShort: 2015-Oct-15
+:END:
+
+**** Most professional developers use a lightweight text editor like emacs, vim, or Sublime. IDE's are a thing of the past.
+:PROPERTIES:
+:Author: bpile009
+:Score: 5
+:DateUnix: 1444936867.0
+:DateShort: 2015-Oct-15
+:END:
+
+***** u/RainbowRats:
+#+begin_quote
+  IDE's are a thing of the past.
+#+end_quote
+
+I wouldn't say that yet, lots of developers that I know (inc. me) write code in IDEs, at least for some languages. I really like Netbeans, but I wouldn't write code in the Python IDE ever.
+:PROPERTIES:
+:Author: RainbowRats
+:Score: 1
+:DateUnix: 1445219248.0
+:DateShort: 2015-Oct-19
+:END:
+
+
+**** Not a full IDE but its got a few useful features and I write code for personal use, not a job.
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 2
+:DateUnix: 1444923521.0
+:DateShort: 2015-Oct-15
+:END:
+
+
+** Alright so what it looks like is all of the angle brackets < and > have been removed from the HTML of the story. As to why it happened, I can't really tell just from looking.
+
+We're going to need a few more details in order to help you out. What format was the story in originally? What does it look like in the document manager?
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1444910256.0
+:DateShort: 2015-Oct-15
+:END:

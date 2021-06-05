@@ -1,0 +1,50 @@
+#+TITLE: Downloading all that sweet sweet HP fanfic
+
+* Downloading all that sweet sweet HP fanfic
+:PROPERTIES:
+:Author: IzayaYagami
+:Score: 6
+:DateUnix: 1606176657.0
+:DateShort: 2020-Nov-24
+:FlairText: Discussion
+:END:
+Hi so AO3 is having probs with their downloads being DRM'd and [[https://ff.net/][ff.net]] is showing ads EVERY OTHER PARAGRAPH so I though I'd share this app I use to read my fics.
+
+[[https://apps.apple.com/app/newspal-offline-web-browser/id1501637899][newspal]] (only have an iphone and ipad so I don't know if its on android, anyone know if it is?) * works on macs too
+
+its like a website saver, BUT it saves like a billion websites (i saved the HP page on [[https://fanfiction.net/][fanfiction.net]] and IT SAVED ALL THE FICS (all 625K) so I can choose without wifi/ when my school blocked fanfic)
+
+Its kinda weird with its explanation but I figured it out:
+
+1)download it
+
+2)go to the fandom you want on ao3/fanfic/wattpad/ livejournal (am I missing any?)
+
+I went to [[https://www.fanfiction.net/book/Harry-Potter/]] (cuz don't we all?)
+
+3)share it with [[https://apps.apple.com/app/newspal-offline-web-browser/id1501637899][newspal]]
+
+4)open the app (its icon looks white and orange, kinda like crunchyroll?), you'll see the ff/ao3 icon, click the update button
+
+5) read whatever you want, no ads, no drm, no annoying school ban (like why?? aren't schools supposed to encourage my reading? even if its a rare pairing/lemony)
+
+tip- what I do is download the fandom page at home, then choose what to read at school/ while commuting
+
+
+** [[https://github.com/JimmXinu/FanFicFare]] is an alternative. It is written in Python, so I guess it doesn't work well on phones, but on normal computer it works just fine.
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1606213027.0
+:DateShort: 2020-Nov-24
+:END:
+
+*** fanficfare is great, but requires you to individually input the url's of the fics you wanna read, this app shows you whole fandom (pages? communities?) so that you can browse and pick what to read when you're offline.
+
+also this app works extremely well on iphones (and ipad) and fanficfare is awesome if you read on android/ tablet.
+:PROPERTIES:
+:Author: IzayaYagami
+:Score: 1
+:DateUnix: 1606260508.0
+:DateShort: 2020-Nov-25
+:END:

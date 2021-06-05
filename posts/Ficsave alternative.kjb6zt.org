@@ -1,0 +1,82 @@
+#+TITLE: Ficsave alternative?
+
+* Ficsave alternative?
+:PROPERTIES:
+:Author: pitachipsandbeer
+:Score: 10
+:DateUnix: 1608795251.0
+:DateShort: 2020-Dec-24
+:FlairText: Discussion
+:END:
+Since ffnet (and others) recently started using Cloudflare, ficsave.xyz has stopped working.
+
+Does anyone know of an alternate website that can achieve the same thing? (That is, receive a URL, spit out an ePub file for free download)
+
+Thx for any suggestions!
+
+
+** Not a website, but standalone program (or Calibre plugin) is [[https://github.com/JimmXinu/FanFicFare]], which does exactly the same. It had problems with FFnet as well during the conversion, but it works well now again.
+:PROPERTIES:
+:Author: ceplma
+:Score: 5
+:DateUnix: 1608798038.0
+:DateShort: 2020-Dec-24
+:END:
+
+*** +1 for calibre.
+
+It'll also update all your in-progress fics and give you the most recent epub with a click of a button. Paired with a kindle or kindle app on your phone/tablet, and another button click will email the fic to your cloud library (though it will /not/ overwrite old versions, unfortunately).
+
+Pair it with epubmerge (another plugin), and you can grab entire AO3 series' in one epub that once again can be updated all at once.
+
+Fantastic resource without even touching on the library aspects of the program.
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 1
+:DateUnix: 1608832223.0
+:DateShort: 2020-Dec-24
+:END:
+
+**** What? How can I grab entire AO3 series in one ePub?
+:PROPERTIES:
+:Author: glisteningsunlight
+:Score: 1
+:DateUnix: 1608953743.0
+:DateShort: 2020-Dec-26
+:END:
+
+***** 1. Have [[https://www.mobileread.com/forums/showthread.php?t=169744][epubmerge]] installed. You can snag it from the plugin browser/installer in preferences.
+
+2. Copy the series url (archiveofourown.org/series/#)
+
+3. Use the Fanficfare dropdown and select "Make Anthology from Web Page" instead of "download from url" (You can manually drop in the urls from other websites like FFN if you use "Make Anthology from URLs" but you /cannot/ easily update these.)
+
+4. To update, select "Update Anthology Epub" - I like to tag them all as "Anthology" (Calibre can do this automatically for you) and have a tab/virtual library exclusively for the ones tagged both in-progress and anthology to make checking for updates easier.
+
+5. If you have a manually created epub made from epubmerge and want to be able to update it, go into it's metadata and add the series url. Then update it as above. I made a quick [[https://imgur.com/a/yLCDXWU][imgur album]] to show the process, using a selective anthology of Flamethrower's "Of A Linear Circle" that only includes the /finished/ stories and skipped some of the side-stories (such as Ravenclaw's origin fic). So it goes from seven entries to eleven.
+
+Note that you can change it so that the "Anthology Containing:" list shows the ao3 summary of each entry, but I honestly have no idea what the hell I changed to make it do that. But it's possible... I just don't remember how lol.
+
+Calibre is /incredibly/ robust for library management.
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 1
+:DateUnix: 1608996548.0
+:DateShort: 2020-Dec-26
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1608810935.0
+:DateShort: 2020-Dec-24
+:END:
+
+*** Thanks!! You're right, it works!
+:PROPERTIES:
+:Author: pitachipsandbeer
+:Score: 2
+:DateUnix: 1608936592.0
+:DateShort: 2020-Dec-26
+:END:

@@ -1,0 +1,91 @@
+#+TITLE: The Magic contract in GoF
+
+* The Magic contract in GoF
+:PROPERTIES:
+:Author: Its_Padparadscha
+:Score: 5
+:DateUnix: 1617913617.0
+:DateShort: 2021-Apr-09
+:FlairText: Discussion
+:END:
+How do you handle the contract to enter the Triwizard tournament, or prefer to see it handled? The main 2 I've come across are death or loss of magic.
+
+Though I haven't found the motivation to write it, I've wanted to do a version where the participants & judges are compelled and can't think about dropping out or forfeiting (magically enforced.) So there'd be no penalty but for those bound by the goblet it is literally inconceivable.
+
+
+** I don't have a favourite one, but I've seen some very interesting takes.
+
+The mechanism you describe was pretty close to what happened in linkffn(On the Way to Greatness by mira mirth): you can conceive of dropping out, you can talk about it, but in the end, you will comply.
+
+Another very interesting vision, which also makes sense from the point of view that one can't be bound by a contract to which one didn't agree at least in spirit, was found in linkffn(Forging the Sword by Myst Shadow): the contract magically binds the schools and the governments (who all knowingly agreed to it) to do everything they are able to compel the champions to participate. A champion is not magically bound in any way, but their only options are to participate or to flee Europe.
+
+I also recall a crackfic in which it turned out that the penalty was beggaring---a fine large enough to reduce one to a pauper---but it had been set hundreds of years ago, and a lot of inflation had happened since. And so, Harry just paid those 5 or 10 galleons and walked away.
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 7
+:DateUnix: 1617916049.0
+:DateShort: 2021-Apr-09
+:END:
+
+*** [[https://www.fanfiction.net/s/4745329/1/][*/On the Way to Greatness/*]] by [[https://www.fanfiction.net/u/1541187/mira-mirth][/mira mirth/]]
+
+#+begin_quote
+  As per the Hat's decision, Harry gets Sorted into Slytherin upon his arrival in Hogwarts---and suddenly, the future isn't what it used to be.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{20} ^{*|*} ^{/Words/:} ^{232,719} ^{*|*} ^{/Reviews/:} ^{3,984} ^{*|*} ^{/Favs/:} ^{11,667} ^{*|*} ^{/Follows/:} ^{12,770} ^{*|*} ^{/Updated/:} ^{Sep} ^{4,} ^{2014} ^{*|*} ^{/Published/:} ^{Dec} ^{27,} ^{2008} ^{*|*} ^{/id/:} ^{4745329} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=4745329&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=4745329&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[https://www.fanfiction.net/s/3557725/1/][*/Forging the Sword/*]] by [[https://www.fanfiction.net/u/318654/Myst-Shadow][/Myst Shadow/]]
+
+#+begin_quote
+  ::Year 2 Divergence:: What does it take, to reshape a child? And if reshaped, what then is formed? Down in the Chamber, a choice is made. (Harry's Gryffindor traits were always so much scarier than other peoples'.)
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{15} ^{*|*} ^{/Words/:} ^{152,578} ^{*|*} ^{/Reviews/:} ^{3,306} ^{*|*} ^{/Favs/:} ^{9,067} ^{*|*} ^{/Follows/:} ^{10,615} ^{*|*} ^{/Updated/:} ^{Aug} ^{20,} ^{2014} ^{*|*} ^{/Published/:} ^{May} ^{26,} ^{2007} ^{*|*} ^{/id/:} ^{3557725} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Ron} ^{W.,} ^{Hermione} ^{G.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=3557725&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=3557725&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/FanfictionBot/reddit-ffn-bot/wiki/Usage][Usage]] | [[https://www.reddit.com/message/compose?to=tusing][Contact]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 3
+:DateUnix: 1617916078.0
+:DateShort: 2021-Apr-09
+:END:
+
+
+** That's a really cool idea; there are a ton of implications there that would be interesting to explore! I'd love to read it if you ever do write it.
+
+For one, I think it'd be super concerning that that kind of magic would be legal, even if it is limited to the tournament, but that makes it even more fun to explore imo. Would there also be magic in place guaranteeing that nobody could be entered against their will? Because the implications if there aren't are mildly horrifying. I'd also to be interested to see if the magic can be overcome (like how Crouch Jr confunded the goblet into thinking there were four schools). Or seeing how far the compulsion goes! If someone else physically restrains a competitor, for instance, would it create an “escape at any cost” mentality for the competitor, or is it only to the point that the competitor couldn't have come up with any such plan themselves? I suppose that would kind of boil down to determining whether the compulsion drives them to participate or makes them incapable of refusing to participate...
+
+All in all, just a fascinating idea to explore!
+:PROPERTIES:
+:Author: queerAsAllHeck
+:Score: 2
+:DateUnix: 1617916565.0
+:DateShort: 2021-Apr-09
+:END:
+
+*** In my head, atleast, inspite of the horrifying implications it would be chosen as a safer option incase someone is entered against their will since anyone not directly involved (judges, competitors, hostages, but not Yule dates) could theoretically restrain them from competing. Ideally once would be enough to break it but from a story perspective having to stop someone for each event seems the better route to me. For the competitor restrained my mind goes to a junkie trying to get a fix type of desperation until the event is over with them becoming more desperate with each event missed (but only during the event.)
+:PROPERTIES:
+:Author: Its_Padparadscha
+:Score: 2
+:DateUnix: 1617917620.0
+:DateShort: 2021-Apr-09
+:END:
+
+
+** I'm just a reader, but my headcanon (and favourite version when I read) is that the Magical Contract doesn't exist. In canon, this theory was only pushed by Crouch Jr/Moody, who wanted Harry to participate, and by Crouch Sr, who was already under the Imperius.
+
+I think Harry could have just not showed up to the Task, but everybody agreed to still make him participate because :
+
+- For most : having him not participate after being selected would create way more trouble than its wort.
+- For Dumbledore: No matter how low the chances are, he can't take the risk of Harry suffering the potential punishment of a contract. Having him participate in the Tournament is probably safer, especially after they added safety measure. Having Harry act like this is also an opportunity to see what the person who put his name in the Goblet would do, and maybe even to catch him.
+:PROPERTIES:
+:Author: PlusMortgage
+:Score: 2
+:DateUnix: 1617926984.0
+:DateShort: 2021-Apr-09
+:END:

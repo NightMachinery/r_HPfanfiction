@@ -1,0 +1,65 @@
+#+TITLE: Help anyone?
+
+* Help anyone?
+:PROPERTIES:
+:Author: svipy
+:Score: 8
+:DateUnix: 1444138639.0
+:DateShort: 2015-Oct-06
+:FlairText: Meta
+:END:
+[[http://i.imgur.com/2pSDUt9.png]] Some way to fix this?
+
+
+** Try clearing your browser cache. If that doesn't work, I recommend disabling the subreddit style for now.
+:PROPERTIES:
+:Author: denarii
+:Score: 3
+:DateUnix: 1444139069.0
+:DateShort: 2015-Oct-06
+:END:
+
+*** Didn't work :/
+
+Also is there option to disable style only for chosen subreddit? Or do I have to disable all styles?
+:PROPERTIES:
+:Author: svipy
+:Score: 1
+:DateUnix: 1444140809.0
+:DateShort: 2015-Oct-06
+:END:
+
+**** Hm, yeah, but looks like it's a RES feature.
+:PROPERTIES:
+:Author: denarii
+:Score: 2
+:DateUnix: 1444140920.0
+:DateShort: 2015-Oct-06
+:END:
+
+
+**** Are you on iOS? I recall someone else mentioning what I think is the same problem that was on an ipad.
+:PROPERTIES:
+:Author: denarii
+:Score: 1
+:DateUnix: 1444141592.0
+:DateShort: 2015-Oct-06
+:END:
+
+***** Nope. I have Windows and I am using google chrome.
+
+Just tried it on firefox and no problems there.
+:PROPERTIES:
+:Author: svipy
+:Score: 1
+:DateUnix: 1444142087.0
+:DateShort: 2015-Oct-06
+:END:
+
+****** Interesting. I'm also using Chrome on Windows and I'm not having that problem.
+:PROPERTIES:
+:Author: denarii
+:Score: 1
+:DateUnix: 1444142273.0
+:DateShort: 2015-Oct-06
+:END:

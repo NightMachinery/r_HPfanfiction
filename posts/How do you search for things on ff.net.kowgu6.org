@@ -1,0 +1,177 @@
+#+TITLE: How do you search for things on ff.net?
+
+* How do you search for things on ff.net?
+:PROPERTIES:
+:Author: eurasian_nuthatch
+:Score: 12
+:DateUnix: 1609589158.0
+:DateShort: 2021-Jan-02
+:FlairText: Discussion
+:END:
+(Apart from going through the favorited stories of liked authors?)
+
+Edit: especially when you're against certain pairings/romance in general and you can't filter it out
+
+
+** I personally have always preferred fr.bet despite ao3 having a superior filtering system cause no matter what I search for, pairings, ratings or whatever, it will include my pairing that I want, and then I'll scroll down and see Harry/lily, Harry/Voldemort, Harry/Lily Luna. And it's fucking weird
+:PROPERTIES:
+:Author: RoyalAct4
+:Score: 8
+:DateUnix: 1609590768.0
+:DateShort: 2021-Jan-02
+:END:
+
+*** Ao3 also has an exclude tags system.
+:PROPERTIES:
+:Author: Cally6
+:Score: 3
+:DateUnix: 1609607349.0
+:DateShort: 2021-Jan-02
+:END:
+
+**** My problem is that so many authors tag so many characters in their stories even if they show up once/are far removed from the main characters
+:PROPERTIES:
+:Author: Garanar
+:Score: 14
+:DateUnix: 1609615059.0
+:DateShort: 2021-Jan-02
+:END:
+
+
+**** It doesn't work half the time. Every once in a while, I go on ao3 to search for death eater Harry fics, as I'm pretty certain I've read all the decent ones on FFN. I try to filter out HP/LV fics as I don't like the concept of Harry joining the death eaters because he fell in love. I start out just crossing out HP/LV, then HP/TMR, then increasingly more related tags, eventually just completely excluding M/M. It still pops up like five HP/LV fics in the first page of results.
+:PROPERTIES:
+:Author: Myreque_BTW
+:Score: 7
+:DateUnix: 1609632354.0
+:DateShort: 2021-Jan-03
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1609599670.0
+:DateShort: 2021-Jan-02
+:END:
+
+*** I usually do that for authors, I like a fic, see what else the author wrote, what are their fav fics and authors ... so on until I get bored.
+:PROPERTIES:
+:Author: tankuser_32
+:Score: 2
+:DateUnix: 1609625367.0
+:DateShort: 2021-Jan-03
+:END:
+
+
+** [[https://scryer.darklordpotter.net][I]] use [[https://scryer.darklordpotter.net][scryer.darklordpotter.net]] to find most of the fics i read
+:PROPERTIES:
+:Author: NeXuN
+:Score: 5
+:DateUnix: 1609595181.0
+:DateShort: 2021-Jan-02
+:END:
+
+*** I'm hoping that they can bypass the issues that they've been having. Damn anti-bot measures.
+:PROPERTIES:
+:Author: ApteryxAustralis
+:Score: 1
+:DateUnix: 1609740570.0
+:DateShort: 2021-Jan-04
+:END:
+
+
+** I use google. I go to the search engine, type what ever I want, then do site:fanfiction.net at the end of my request
+:PROPERTIES:
+:Author: UndergroundNerd
+:Score: 3
+:DateUnix: 1609617519.0
+:DateShort: 2021-Jan-02
+:END:
+
+
+** That's one of the reasons a lot of people left ff.net for ao3, the search mechanism is unfortunately inferior
+:PROPERTIES:
+:Author: Dalashas
+:Score: 4
+:DateUnix: 1609589367.0
+:DateShort: 2021-Jan-02
+:END:
+
+*** True, but I find the quality is higher on FF.net, might just be preference. Also there's something rewarding about picking a genre, sorting by reviews then skipping 10 pages and finding a diamond in the rough lol.
+:PROPERTIES:
+:Author: DiabolusCrustulam
+:Score: 3
+:DateUnix: 1609589655.0
+:DateShort: 2021-Jan-02
+:END:
+
+**** I tended to find quality was worse on ff.net but maybe that's because I was able to search more specifically on ao3, and the quality is about the same on each site. I think a lot of current writers are posting on both sites or on ao3 only, maybe it is worth having another go on ao3? Albeit my ff.net account dated back to my tweens and I had the cringiest 13 year old profile page ever, I have since immortalised it on my pc. You can't get beautiful nostalgic travesties like that on ao3 for sure
+:PROPERTIES:
+:Author: Dalashas
+:Score: 5
+:DateUnix: 1609590304.0
+:DateShort: 2021-Jan-02
+:END:
+
+
+** I wrote my own js script to filter stories in favorites - by fandoms, category, or word count ;)
+:PROPERTIES:
+:Author: redHussar93
+:Score: 2
+:DateUnix: 1609596480.0
+:DateShort: 2021-Jan-02
+:END:
+
+
+** You don't
+:PROPERTIES:
+:Author: MrToddWilkins
+:Score: 3
+:DateUnix: 1609616675.0
+:DateShort: 2021-Jan-02
+:END:
+
+
+** I tend to just filter by favorites and then skip a few pages to filter out the ones I've certainly read lol, or go in with a genre in mind. Or characters you want to see as a pairing. Just take one aspect you want to see and then go from there I guess.
+
+Sorry if I've missed the point slightly but hope it helps.
+:PROPERTIES:
+:Author: DiabolusCrustulam
+:Score: 1
+:DateUnix: 1609589481.0
+:DateShort: 2021-Jan-02
+:END:
+
+
+** Flipper:
+
+[[https://github.com/Zeks/flipper]]
+:PROPERTIES:
+:Author: AliasR_r
+:Score: 1
+:DateUnix: 1609614244.0
+:DateShort: 2021-Jan-02
+:END:
+
+*** please note: flipper is broken right now as in - it can't parse new user lists because of the cloudflare that ffn uses. I am working on a solution but it will be a part of the more complex infrastructural refactoring and won't be online for a while yet.
+
+Meanwhile you can use my discord bot(Socrates) in #botspam on my server: [[https://discord.gg/HrftyVQcCV]]
+
+The bot uses the same algorithm as flipper to create recommendations, but ,since it's working on my own server, fixing the parsing was massively easier for it, so unlike flipper it actually works atm
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1609751453.0
+:DateShort: 2021-Jan-04
+:END:
+
+
+** If you use my recommendations mechanism via discord bot, then when you don't have a certain pairing in your favourites there's a fair chance my bot won't recommend it to you too. See #botspam on my discord server [[https://discord.gg/HrftyVQcCV]]
+
+You can scroll up in that channel for examples of usage or issue *!help* to see full list of options.
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1609752571.0
+:DateShort: 2021-Jan-04
+:END:

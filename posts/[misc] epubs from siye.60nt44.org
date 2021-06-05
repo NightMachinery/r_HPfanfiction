@@ -1,0 +1,56 @@
+#+TITLE: [misc] epubs from siye?
+
+* [misc] epubs from siye?
+:PROPERTIES:
+:Author: locksleyrox
+:Score: 3
+:DateUnix: 1490105657.0
+:DateShort: 2017-Mar-21
+:FlairText: Misc
+:END:
+is there a way to download a story as epub from sink into your eyes or a way to make that site readable on mobile?
+
+
+** [[https://fanficfare.appspot.com/][FanFicFare]] - web-based or Calibre plugin. Says it supports SIYE.
+:PROPERTIES:
+:Author: t1mepiece
+:Score: 3
+:DateUnix: 1490134844.0
+:DateShort: 2017-Mar-22
+:END:
+
+*** Can confirm, tried it out. Once you add the plugin, just click on the arrow on the right side of its icon, click download from url and paste the link of the first chapter.
+
+It is a bit slow compared to sites like ficsave though (3-4 minutes for a story vs 30-45 seconds). Of course they don't support SIYE...
+:PROPERTIES:
+:Author: T0lias
+:Score: 1
+:DateUnix: 1490181263.0
+:DateShort: 2017-Mar-22
+:END:
+
+
+** What device do you use? because ios safari gave me the option to save a printable version to iBooks
+:PROPERTIES:
+:Author: viol8er
+:Score: 2
+:DateUnix: 1490118385.0
+:DateShort: 2017-Mar-21
+:END:
+
+
+** My Kindle app on iOS just updated to add a share feature to Safari to save to your Kindle library in a Kindle format.
+:PROPERTIES:
+:Author: Huntrrz
+:Score: 1
+:DateUnix: 1490118997.0
+:DateShort: 2017-Mar-21
+:END:
+
+
+** Check out my wiki article on Reading, Archiving and Downloading. It should she what you are asking.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1490134997.0
+:DateShort: 2017-Mar-22
+:END:

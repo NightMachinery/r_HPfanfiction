@@ -1,0 +1,97 @@
+#+TITLE: Harry Potter: RPG - Part 3: Wands and Wandlore
+
+* Harry Potter: RPG - Part 3: Wands and Wandlore
+:PROPERTIES:
+:Author: HaltCPM
+:Score: 4
+:DateUnix: 1509691818.0
+:DateShort: 2017-Nov-03
+:END:
+First of, quick PSA. I've set up a Discord Channel for anyone interested in more discussion or who want to make suggestions. Invite link here: [[https://discord.gg/fB9rkVd]]
+
+For anyone on the DLP IRC, there's also a channel there if you prefer called #HPRPG
+
+This Google Excel File contains specific breakdowns for types of woods and cores. [[https://docs.google.com/spreadsheets/d/1_bZqZ122pmScPQn5dYNaA4wvDW29zVVggea-2BGtxFY/edit#gid=0]]
+
+Now, on to the good stuff, yeah?
+
+The wand chooses the wizard. Among all your prized and earthly possessions, the wand is the greatest. Without it, you are nothing. It is not merely a tool, it is a partner on your journey and must be treated with respect. Ignore it and it's desires at your own peril. Much like people, your wand has certain stances, preferences and peculiarities and no two wands are exactly the same. The player is encouraged to work alongside their Game Master to develop the wand's personality and their own.
+
+All wands have a Potency, Loyalty, and Autonomy, which is the sum of their core and wood's own scores. The final rating will always be some number between One (1) and Seven (7).
+
+Potency - This measures your wand's potential and strength. Mechanically, this measures the maximum potential bonuses your wand can grant you. Beware though, stronger wands have a tendency to be more autonomous and if your wand turns on you, it'll have more power to screw you over. It is almost universal that high potency wands have a proportional autonomy.
+
+[ 1 ] - Your wand is flimsy. Max Bonus/Penalty to Difficulty 0
+
+[ 2 ] - Your wand is weak. Max Bonus/Penalty to Difficulty 0
+
+[ 3 ] - Your wand is mediocre. Max Bonus/Penalty to Difficulty 1
+
+[ 4 ] - Your wand is great. Max Bonus/Penalty to Difficulty 1
+
+[ 5 ] - Your wand is superior. Max Bonus/Penalty to Difficulty 2
+
+[ 6 ] - Your wand is excellent. Max Bonus/Penalty to Difficulty 2
+
+[ 7 ] - Your wand is outstanding. Max Bonus/Penalty to Difficulty 3
+
+Loyalty - This measures your wand's happiness with you. The values provided in the Appendix is its starting happiness assuming that you are a good fit for it. If your personalities clash but you insist on the wand, it's loyalty will be decreased. Acting in a way that the wand expects from you increases it's happiness. A highly loyal wand will serve your interests and lend you more of it's power, while a disloyal one might resist your spells or even outright work against you to seek a new master.
+
+[ 1 ] - Your wand is in open rebellion. It actively seeks a new master. Penalty to Difficulty +3.
+
+[ 2 ] - Your wand is disloyal. It will accept a new master. Penalty to Difficulty +2.
+
+[ 3 ] - Your wand does not feel strongly about you either way. It might accept a new master. Bonus to Difficulty 0.
+
+[ 4 ] - Your wand likes you. It is unlikely to accept anyone else, unless it is in it's nature. Bonus to Difficulty +1.
+
+[ 5 ] - Your wand has grown fond of you. It will resist a new master. Bonus to Difficulty -2.
+
+[ 6 ] - Your wand is loyal. It will actively resist a new master. Bonus to Difficulty -3.
+
+[ 7 ] - Your wand loves you. It will not work for anyone else. Bonus to Difficulty -5. This Bonus is more applicable for the Elder Wand.
+
+Autonomy - Where Loyalty measures the wand's happiness with you, Autonomy dictates to what extent it will act against you or for you, depending on it's Loyalty. A highly independent wand is a double-edged sword, for it may not be as consistent or reliable as subservient wands but you may find it has a mind of it's own. Highly independent wands are less likely to change their nature for you and are easier to please but also easier to insult.
+
+[ 1 ] - Your wand is entirely subservient. It will never make it harder for you to cast a spell or aid your enemies if they try to take it from you, but neither will it go all out for you in times of need. It's loyalty will very rarely decrease and it will easily change to fit with you. Rate of Change 0
+
+[ 2 ] - Your wand is mostly subservient. It will never aid your enemies if they try to take it from you, but you may find spellcraft harder. It can change for you. Rate of Change 1
+
+[ 3 ] - Your wand is sometimes subservient. It will aid your enemies if it is in open rebellion and make spells harder when unhappy. It will take some time for this wand to change for you. Rate of Change 1
+
+[ 4 ] - Your wand has some ideas. It will take a while before it changes for you. Rate of Change 1
+
+[ 5 ] - Your wand has ideas of how things ought to be. It will never change it's nature, but you will find it warning you when it senses danger. Rate of Change 2
+
+[ 6 ] - Your wand has an opinion on everything. You may find it suddenly in your hand when it is lost or taken. Rate of Change 2.
+
+[ 7 ] - Your wand is a strong, independent wand who needs no wizard. It will go to great lengths to see a good owner prosper, even coming to his defense and casting spells without prompting. Rate of Change 3
+
+The above three stats are the more mechanical features of wands. Aside from that, all wands have a Price, Affinity, Restriction, and Personality.
+
+Price, put simply, is the amount of Galleons you need to pay for the wand and the easiest thing to understand. Rarer wands cost more, wands in greater demand cost more, and more powerful wands cost more.
+
+Affinity determines what types of magic a wand is predisposed towards and where it's bonus will apply. Note that the penalty you incur when a wand is unhappy with you applies to all tasks that require a wand. Wands that have an Autonomy of 4 or lower can change its affinity over time to better suit the wizard in question.
+
+If a Diverse component (whether core or wood) is matched with a non-Diverse component, it defaults to the non-Diverse component's Affinity. If two Diverse components are paired up, the following rules apply. For an adult game, you must choose the branch you have the highest skill level in. In case of a tie, the player may choose. For a student game, you may choose at anytime, and may delay choosing until the end of your First Year, during which no bonus applies. When choosing, you must choose the branch with the highest skill level in. In case of a tie, you default to that branch where you have learned the most spells in. In case of another tie, you may choose.
+
+Restriction determines what types of magic a wand refuses to deal with. Using spells of that nature decreases its happiness with you and it will only accept that type of magic as it's Affinity if the wand has an Autonomy of 0.
+
+Personality is how the wand expects its owner to behave and how it wants to be used. Going against this decreases its happiness while using it as it wishes will increase happiness. Try to keep the personality of a wand concise and to the point, using descriptive words to capture the core of its desires.
+
+
+** Looking at your wand woods in the doc, what do you mean by "Exterminator" by English oak?
+:PROPERTIES:
+:Author: Stormmonger
+:Score: 2
+:DateUnix: 1509797373.0
+:DateShort: 2017-Nov-04
+:END:
+
+*** Exterminator is a specific Sub-Branch of DADA, specifically for dealing with magical pests and dark creatures rather than wizard combatants
+:PROPERTIES:
+:Author: HaltCPM
+:Score: 2
+:DateUnix: 1509799649.0
+:DateShort: 2017-Nov-04
+:END:

@@ -1,0 +1,702 @@
+#+TITLE: I made a bookmarklet to scrape your FFNet follow page
+
+* I made a bookmarklet to scrape your FFNet follow page
+:PROPERTIES:
+:Score: 17
+:DateUnix: 1493840397.0
+:DateShort: 2017-May-04
+:END:
+[deleted]
+
+
+** You requested too many fics.
+
+We allow a maximum of 30 stories
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 9
+:DateUnix: 1493840435.0
+:DateShort: 2017-May-04
+:END:
+
+*** gotchu fam
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1493840599.0
+:DateShort: 2017-May-04
+:END:
+
+
+** How do you think I wrote [[https://www.reddit.com/r/HPfanfiction/comments/68wudx/what_wips_are_you_subscribed_to/dh2eir5][this]] comment on the fic?
+
+Also some JS-wizardy to generate the markdown. Although I did it with a jQuery-oneliner (it was a long line though)
+:PROPERTIES:
+:Author: fflai
+:Score: 2
+:DateUnix: 1493848666.0
+:DateShort: 2017-May-04
+:END:
+
+
+** You probably should crosspost it to [[/r/fanfiction]]
+
+I think they will appreciate it.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 2
+:DateUnix: 1493851618.0
+:DateShort: 2017-May-04
+:END:
+
+
+** linkffn(11987060;12104688;12461030;3800169;12040341;12382425;11669575;8501689;12023037;12188150;10523682;9303518;11825888;12110842;10438223;12043835;11574569;8996023;11671069;9948426;12188248;9860311;11364705;10622535;10209135)
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1493840678.0
+:DateShort: 2017-May-04
+:END:
+
+*** [[http://www.fanfiction.net/s/12382425/1/][*/Like a Red Headed Stepchild/*]] by [[https://www.fanfiction.net/u/4497458/mugglesftw][/mugglesftw/]]
+
+#+begin_quote
+  Harry Potter was born with red hair, but the Dursley's always treated him like the proverbial red-headed stepchild. Once he enters the wizarding world however, everyone assumes he's just another Weasley. To Harry's surprise, the Weasleys don't seem to mind.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 10 *|* /Words/: 46,027 *|* /Reviews/: 311 *|* /Favs/: 376 *|* /Follows/: 557 *|* /Updated/: 9h *|* /Published/: 2/25 *|* /id/: 12382425 *|* /Language/: English *|* /Genre/: Family/Humor *|* /Characters/: Harry P., Ron W., Percy W., Fred W. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12382425&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12382425&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/9948426/1/][*/Bits and Bobs/*]] by [[https://www.fanfiction.net/u/1761675/Jonn-Wolfe][/Jonn Wolfe/]]
+
+#+begin_quote
+  Seen a few 'stories' that are nothing more than a collection of one shots and/or ideas. This happens to be mine. Good to flush the brain with multiple ideas every once in a while. Enjoy, or not... whichever. Rating is "just in case". If you want to write up a story based on one of these, just shout who you got it from, and link me! :-)
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter + X-overs Crossover *|* /Rated/: Fiction M *|* /Chapters/: 69 *|* /Words/: 141,812 *|* /Reviews/: 1,150 *|* /Favs/: 417 *|* /Follows/: 520 *|* /Updated/: 3/24 *|* /Published/: 12/22/2013 *|* /id/: 9948426 *|* /Language/: English *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9948426&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9948426&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/8501689/1/][*/The Havoc side of the Force/*]] by [[https://www.fanfiction.net/u/3484707/Tsu-Doh-Nimh][/Tsu Doh Nimh/]]
+
+#+begin_quote
+  I have a singularly impressive talent for messing up the plans of very powerful people - both good and evil. Somehow, I'm always just in the right place at exactly the wrong time. What can I say? It's a gift.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Star Wars + Harry Potter Crossover *|* /Rated/: Fiction T *|* /Chapters/: 20 *|* /Words/: 160,859 *|* /Reviews/: 5,054 *|* /Favs/: 9,893 *|* /Follows/: 11,427 *|* /Updated/: 4/25 *|* /Published/: 9/6/2012 *|* /id/: 8501689 *|* /Language/: English *|* /Genre/: Fantasy/Mystery *|* /Characters/: Anakin Skywalker, Harry P. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8501689&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8501689&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/12043835/1/][*/History is Written by the Victors/*]] by [[https://www.fanfiction.net/u/3624295/SlytherinNinjaKnight][/SlytherinNinjaKnight/]]
+
+#+begin_quote
+  The Second Blood War is over but the damage has been done. Wizarding Britain has suffered horrendously and stands on the brink of anarchy and collapse. In a desperate and fool hardy scheme, Harry decides to turn back the sands of time to stop the war before it even starts, and save all those he can. But will he succeed or make things worse? (New Title)
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 8 *|* /Words/: 55,196 *|* /Reviews/: 133 *|* /Favs/: 277 *|* /Follows/: 486 *|* /Updated/: 4/7 *|* /Published/: 7/10/2016 *|* /id/: 12043835 *|* /Language/: English *|* /Genre/: Adventure/Sci-Fi *|* /Characters/: Harry P., Hermione G., James P., Lily Evans P. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12043835&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12043835&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/10438223/1/][*/Snippets that wont let me be/*]] by [[https://www.fanfiction.net/u/4191876/Elunas][/Elunas/]]
+
+#+begin_quote
+  Random thoughts, ideas born of nothing, or gathered from Inspiration. Everything is AU, obviously, and liberties are heavily taken most of the time. Rated M just in case.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 61 *|* /Words/: 373,916 *|* /Reviews/: 416 *|* /Favs/: 130 *|* /Follows/: 136 *|* /Updated/: 4/9 *|* /Published/: 6/9/2014 *|* /id/: 10438223 *|* /Language/: English *|* /Characters/: Harry P. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10438223&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10438223&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/11825888/1/][*/Changing Fate's Plans/*]] by [[https://www.fanfiction.net/u/492394/Golasgil-Sindar][/Golasgil Sindar/]]
+
+#+begin_quote
+  At the end of 4th year Hermione asks the Headmaster to help Harry. He turns to Sirius and things quickly get out of control. How will Harry react to the sudden changes it forces upon him? Slightly altered book 4 events, Harry and Hermione got together while their schoolmates ignored them once his name came out of the Goblet of Fire. H/Hr/DG femslash, Weasley bashing except Ginny.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 35 *|* /Words/: 154,880 *|* /Reviews/: 743 *|* /Favs/: 1,774 *|* /Follows/: 2,705 *|* /Updated/: 4/9 *|* /Published/: 3/5/2016 *|* /id/: 11825888 *|* /Language/: English *|* /Genre/: Adventure/Romance *|* /Characters/: <Harry P., Hermione G., Daphne G.> *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11825888&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11825888&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1493841552.0
+:DateShort: 2017-May-04
+:END:
+
+
+*** [[http://www.fanfiction.net/s/11671069/1/][*/Adventures in Magick/*]] by [[https://www.fanfiction.net/u/5588410/PseudonymousEntity][/PseudonymousEntity/]]
+
+#+begin_quote
+  "What Would A Hero Do?" Newly crowned wizard and avid reader of fantasy fiction, eleven-year-old Harry Potter makes friends with the goblin standing outside Gringotts with unforeseen consequences. Armed with an unlikely posse -his insatiable curiosity- and a pocket full of questions, Curious!Harry embarks on his first year at Hogwarts. Merlin help us.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 25 *|* /Words/: 91,310 *|* /Reviews/: 2,286 *|* /Favs/: 4,592 *|* /Follows/: 5,712 *|* /Updated/: 3/29 *|* /Published/: 12/15/2015 *|* /id/: 11671069 *|* /Language/: English *|* /Genre/: Adventure/Humor *|* /Characters/: Harry P. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11671069&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11671069&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/8996023/1/][*/Strings of Fate/*]] by [[https://www.fanfiction.net/u/147648/Knife-Hand][/Knife Hand/]]
+
+#+begin_quote
+  Being raised only by his Aunt, Harry comes to Hogwarts not only knowing about the Wizarding World, but with a kind of training no one at the school is expecting. Chapter 30 up
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 30 *|* /Words/: 46,970 *|* /Reviews/: 1,874 *|* /Favs/: 4,632 *|* /Follows/: 6,512 *|* /Updated/: 4/5 *|* /Published/: 2/10/2013 *|* /id/: 8996023 *|* /Language/: English *|* /Characters/: Harry P., Hermione G., N. Tonks, Susan B. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8996023&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8996023&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/12040341/1/][*/The Stars Alone/*]] by [[https://www.fanfiction.net/u/1229909/Darth-Marrs][/Darth Marrs/]]
+
+#+begin_quote
+  Sequel to Broken Chains. Every choice has a consequence. Every action has a price. Their financial empire lost, their allies turned against them for crimes they actually did commit, Harry, Hermione and Luna are exiled from Earth. The Goa'uld have no idea what is about to hit them, because the stars alone know how far they will go.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Stargate: SG-1 + Harry Potter Crossover *|* /Rated/: Fiction M *|* /Chapters/: 38 *|* /Words/: 176,390 *|* /Reviews/: 2,024 *|* /Favs/: 1,980 *|* /Follows/: 2,391 *|* /Updated/: 6h *|* /Published/: 7/8/2016 *|* /id/: 12040341 *|* /Language/: English *|* /Genre/: Drama/Fantasy *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12040341&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12040341&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/11987060/1/][*/Potter Club/*]] by [[https://www.fanfiction.net/u/2277200/Razamataz22][/Razamataz22/]]
+
+#+begin_quote
+  Seven years is a long time. Especially when you have to do it twice. You know what you have to do and you think you know how you'll do it, so what can you do in the meantime? Live up your family legacy of course. It's time for a changing of the guard; the Marauders time is over, now it's time for Potter Club to step up
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 18 *|* /Words/: 77,498 *|* /Reviews/: 321 *|* /Favs/: 1,021 *|* /Follows/: 1,540 *|* /Updated/: 5/2 *|* /Published/: 6/7/2016 *|* /id/: 11987060 *|* /Language/: English *|* /Genre/: Romance/Humor *|* /Characters/: Harry P., Hermione G., Susan B. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11987060&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11987060&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/12188248/1/][*/Dead Man Walking/*]] by [[https://www.fanfiction.net/u/5889566/BloodRedDemon][/BloodRedDemon/]]
+
+#+begin_quote
+  His fight finished, his enemies dead, Harry Potter expects to move on from a life of conflict and pain. Either to the peace of oblivion, or to the embrace of those already fallen to Riddle's army. But fate does not have such a happy ending in store for our protagonist, and he arrives in another world to be found, covered in blood, by a familiar face.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 8 *|* /Words/: 58,520 *|* /Reviews/: 171 *|* /Favs/: 568 *|* /Follows/: 873 *|* /Updated/: 3/15 *|* /Published/: 10/12/2016 *|* /id/: 12188248 *|* /Language/: English *|* /Genre/: Adventure/Romance *|* /Characters/: Harry P., N. Tonks *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12188248&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12188248&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/11574569/1/][*/Dodging Prison and Stealing Witches - Revenge is Best Served Raw/*]] by [[https://www.fanfiction.net/u/6791440/LeadVonE][/LeadVonE/]]
+
+#+begin_quote
+  Harry Potter has been banged up for ten years in the hellhole brig of Azkaban for a crime he didn't commit, and his traitorous brother, the not-really-boy-who-lived, has royally messed things up. After meeting Fate and Death, Harry is given a second chance to squash Voldemort, dodge a thousand years in prison, and snatch everything his hated brother holds dear. H/Hr/LL/DG/GW.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 35 *|* /Words/: 356,280 *|* /Reviews/: 4,575 *|* /Favs/: 8,225 *|* /Follows/: 10,526 *|* /Updated/: 4/5 *|* /Published/: 10/23/2015 *|* /id/: 11574569 *|* /Language/: English *|* /Genre/: Adventure/Romance *|* /Characters/: <Harry P., Hermione G., Daphne G., Ginny W.> *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11574569&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11574569&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1493841548.0
+:DateShort: 2017-May-04
+:END:
+
+
+*** [[http://www.fanfiction.net/s/11669575/1/][*/For Love of Magic/*]] by [[https://www.fanfiction.net/u/5241558/Noodlehammer][/Noodlehammer/]]
+
+#+begin_quote
+  A different upbringing leaves Harry Potter with an early knowledge of magic and a view towards the Wizarding World not as an escape from the Dursleys, but as an opportunity to learn more about it. Unfortunately, he quickly finds that there are many elements in this new world that are unwilling to leave the Boy-Who-Lived alone.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 37 *|* /Words/: 510,853 *|* /Reviews/: 6,283 *|* /Favs/: 6,241 *|* /Follows/: 7,146 *|* /Updated/: 3/30 *|* /Published/: 12/15/2015 *|* /id/: 11669575 *|* /Language/: English *|* /Characters/: Harry P. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11669575&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11669575&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/11364705/1/][*/Barefoot/*]] by [[https://www.fanfiction.net/u/5569435/Zaxaramas][/Zaxaramas/]]
+
+#+begin_quote
+  Harry has the ability to learn the history of any object he touches, whether he wants to or not.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 49 *|* /Words/: 138,112 *|* /Reviews/: 2,051 *|* /Favs/: 6,053 *|* /Follows/: 7,530 *|* /Updated/: 3/3 *|* /Published/: 7/7/2015 *|* /id/: 11364705 *|* /Language/: English *|* /Genre/: Adventure *|* /Characters/: Harry P., N. Tonks *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11364705&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11364705&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/12110842/1/][*/Harry Potter and the Horcrux Hunt/*]] by [[https://www.fanfiction.net/u/6679075/F-D-Wurth][/F.D.Wurth/]]
+
+#+begin_quote
+  Fleur and Tonks' plans for the future get derailed. Now they are pulled into Harry's hunt for horcruxes. How will things go with an Auror and a trained Curse Breaker along? Rated M for language, mild violence, and sexual situations.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 9 *|* /Words/: 29,187 *|* /Reviews/: 255 *|* /Favs/: 1,274 *|* /Follows/: 1,889 *|* /Updated/: 4/9 *|* /Published/: 8/20/2016 *|* /id/: 12110842 *|* /Language/: English *|* /Genre/: Adventure/Romance *|* /Characters/: Harry P., Fleur D., N. Tonks *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12110842&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12110842&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/10523682/1/][*/Harry Potter and Grief's Wisdom/*]] by [[https://www.fanfiction.net/u/1751050/Poetheather1][/Poetheather1/]]
+
+#+begin_quote
+  Harry is not feeling very good about life. His godfather has just died and he almost got his friends killed. How could he be so stupid? There had to be some sort of way to get better... right? His grief and guilt lead him to question what he knows and try to find a better way. An Alternate HBP. Lunar Harmony maybe?
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 37 *|* /Words/: 103,060 *|* /Reviews/: 762 *|* /Favs/: 1,115 *|* /Follows/: 1,742 *|* /Updated/: 4/17 *|* /Published/: 7/9/2014 *|* /id/: 10523682 *|* /Language/: English *|* /Genre/: Adventure/Romance *|* /Characters/: Harry P., Hermione G., Luna L., N. Tonks *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10523682&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10523682&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/12023037/1/][*/Hitting the tomes/*]] by [[https://www.fanfiction.net/u/2513956/Arasinyah][/Arasinyah/]]
+
+#+begin_quote
+  The world, universe, fate, it's all very complicated. Too complicated in fact and explaining it would take far too long, better to move on. The important thing is that everything is connected. The Universe can be changed by the simplest little things. Harry Potter's life changed because of one simple thing: Homework.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 11 *|* /Words/: 27,736 *|* /Reviews/: 90 *|* /Favs/: 215 *|* /Follows/: 361 *|* /Updated/: 4/24 *|* /Published/: 6/28/2016 *|* /id/: 12023037 *|* /Language/: English *|* /Genre/: Family/Humor *|* /Characters/: Harry P., Sirius B., Petunia D. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12023037&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12023037&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/9860311/1/][*/A Long Journey Home/*]] by [[https://www.fanfiction.net/u/236698/Rakeesh][/Rakeesh/]]
+
+#+begin_quote
+  In one world, it was Harry Potter who defeated Voldemort. In another, it was Jasmine Potter instead. But her victory wasn't the end - her struggles continued long afterward. And began long, long before. (fem!Harry, powerful!Harry, sporadic updates)
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 14 *|* /Words/: 203,334 *|* /Reviews/: 811 *|* /Favs/: 2,514 *|* /Follows/: 2,800 *|* /Updated/: 3/6 *|* /Published/: 11/19/2013 *|* /id/: 9860311 *|* /Language/: English *|* /Genre/: Drama/Adventure *|* /Characters/: Harry P., Ron W., Hermione G. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9860311&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9860311&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1493841554.0
+:DateShort: 2017-May-04
+:END:
+
+
+*** [[http://www.fanfiction.net/s/12188150/1/][*/Like Grains of Sand in the Hourglass/*]] by [[https://www.fanfiction.net/u/1057022/Temporal-Knight][/Temporal Knight/]]
+
+#+begin_quote
+  During the Battle in the Department of Mysteries Nymphadora Tonks finds herself thrown back to the beginning of Fifth Year. With two Tonks walking around and her faith in Dumbledore eroded what's a Metamorphmagus to do? Protect Harry Potter at all costs, that's what! Tonks ends up crafting a new identity for herself and infiltrates Hogwarts to fix the future. Pairing: Harry/Tonks.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 6 *|* /Words/: 58,108 *|* /Reviews/: 354 *|* /Favs/: 1,336 *|* /Follows/: 2,053 *|* /Updated/: 4/14 *|* /Published/: 10/12/2016 *|* /id/: 12188150 *|* /Language/: English *|* /Genre/: Fantasy/Romance *|* /Characters/: <Harry P., N. Tonks> Luna L. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12188150&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12188150&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/12104688/1/][*/Whispers in the Night/*]] by [[https://www.fanfiction.net/u/4926128/Jean11089][/Jean11089/]]
+
+#+begin_quote
+  Words have more power than we think. Thoughts & dreams can be revealed to those closest to us, to those we want to know more of, & to our greatest enemies. A single act of kindness, a single word can change someone's entire world. Join Harry on another adventure through his time at Hogwarts where even the quietest whispers can make a difference. Harry/Multi. Mature for a reason.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 43 *|* /Words/: 553,341 *|* /Reviews/: 2,189 *|* /Favs/: 4,026 *|* /Follows/: 5,180 *|* /Updated/: 5/1 *|* /Published/: 8/16/2016 *|* /id/: 12104688 *|* /Language/: English *|* /Genre/: Romance/Drama *|* /Characters/: <Harry P., Fleur D., Susan B., Daphne G.> *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12104688&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12104688&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/3800169/1/][*/You Can't Keep An Old Dog Down/*]] by [[https://www.fanfiction.net/u/145155/Lady-FoxFire][/Lady FoxFire/]]
+
+#+begin_quote
+  HP-SG1 Magic can make anything possible and when you mix in SG1 it's a guarantee that the impossible will happen.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Stargate: SG-1 + Harry Potter Crossover *|* /Rated/: Fiction T *|* /Chapters/: 17 *|* /Words/: 71,742 *|* /Reviews/: 783 *|* /Favs/: 1,630 *|* /Follows/: 2,370 *|* /Updated/: 4/29 *|* /Published/: 9/23/2007 *|* /id/: 3800169 *|* /Language/: English *|* /Genre/: Drama/Humor *|* /Characters/: J. O'Neill, Harry P. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=3800169&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=3800169&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/12461030/1/][*/The Tinkerer/*]] by [[https://www.fanfiction.net/u/8653986/wickwynn][/wickwynn/]]
+
+#+begin_quote
+  The Dusley family, who value normalcy above all else, would of course never dream of keeping their orphan nephew in a cupboard. They treated him not amazingly well, no. But they treated him as a human being, a family member who had some kind of value, even if they didn't want him. And in that environment of not-love but not-hate, Harry grew. A Harry Gets Things Done fic.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 4 *|* /Words/: 43,261 *|* /Reviews/: 75 *|* /Favs/: 230 *|* /Follows/: 386 *|* /Updated/: 5/1 *|* /Published/: 4/23 *|* /id/: 12461030 *|* /Language/: English *|* /Genre/: Romance/Drama *|* /Characters/: Harry P., Hermione G. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12461030&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12461030&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/9303518/1/][*/Harry Potter: Whiskey Accident/*]] by [[https://www.fanfiction.net/u/4670856/LordFira][/LordFira/]]
+
+#+begin_quote
+  Why is it when you're drunk you come up with the greatest ideas! Well they aren't really great, especially when your father and his best friend, forget they did this and it comes back to bite you squarely in the ass. Thanks James, thanks Sirius. Marriage is a beautiful thing, when you are aware of it. But what happens when you're 15? HP/NM/AB Response to a whitetigerwolf challenge
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 20 *|* /Words/: 110,134 *|* /Reviews/: 1,433 *|* /Favs/: 3,610 *|* /Follows/: 4,454 *|* /Updated/: 4/16 *|* /Published/: 5/18/2013 *|* /id/: 9303518 *|* /Language/: English *|* /Genre/: Romance *|* /Characters/: <Harry P., Narcissa M., Amelia B.> Sirius B. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9303518&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9303518&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/10622535/1/][*/A Trek to the Stars: The Potter Files/*]] by [[https://www.fanfiction.net/u/358482/Cole-Pascal][/Cole Pascal/]]
+
+#+begin_quote
+  Exiled for three centuries on a barren rock, Harry's saved by the crew of the Enterprise D. He makes it to the colony world his people planned to go to and finds they're just as insular as ever though Hermione and his friends set them on a better course. Their nuclear option, though, left Harry with no escape. A prophecy is once again in play and he's the Chosen One. Again.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: StarTrek: The Next Generation + Harry Potter Crossover *|* /Rated/: Fiction M *|* /Chapters/: 15 *|* /Words/: 95,533 *|* /Reviews/: 188 *|* /Favs/: 814 *|* /Follows/: 1,120 *|* /Updated/: 2/28 *|* /Published/: 8/15/2014 *|* /id/: 10622535 *|* /Language/: English *|* /Genre/: Adventure/Sci-Fi *|* /Characters/: <OC, Harry P.> <OC, W. Riker> *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10622535&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10622535&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1493841556.0
+:DateShort: 2017-May-04
+:END:
+
+
+*** [[http://www.fanfiction.net/s/10209135/1/][*/Results of a Proper Introduction/*]] by [[https://www.fanfiction.net/u/2198557/dunuelos][/dunuelos/]]
+
+#+begin_quote
+  A spin-off of my Lone Traveler stories (Lone Traveler originally from The Professional). Harry gets a proper introduction with some insights from an alternate self who has lived it. What does he do with this information? How would his attitudes change?
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 15 *|* /Words/: 72,760 *|* /Reviews/: 592 *|* /Favs/: 1,582 *|* /Follows/: 2,094 *|* /Updated/: 2/11 *|* /Published/: 3/22/2014 *|* /id/: 10209135 *|* /Language/: English *|* /Genre/: Adventure/Drama *|* /Characters/: Harry P. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10209135&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10209135&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1493841558.0
+:DateShort: 2017-May-04
+:END:
+
+
+** linkffn(12307886;11602420;11896247;9704180;6685668;12058516;11950816;11157943;3693052;11697407;11037069;10139565;7866134;11898648;11111990;11950451;10932567;11071872;12200475;8507121;11955570;11955777;8806745;9950232;8326928)
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1493840713.0
+:DateShort: 2017-May-04
+:END:
+
+*** [[http://www.fanfiction.net/s/12200475/1/][*/Potters Against the World/*]] by [[https://www.fanfiction.net/u/1057022/Temporal-Knight][/Temporal Knight/]]
+
+#+begin_quote
+  Harry and Rose Potter faced everything together...until the Ministry ripped him away from her. Now, finally, Rose - with the assistance of Gabrielle Delacour - has found him again. They've got a plan to fix what was broken; and maybe get a bit of revenge along the way. Pairing: Harry/OFC/Gabrielle (twincest).
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 3 *|* /Words/: 24,279 *|* /Reviews/: 129 *|* /Favs/: 921 *|* /Follows/: 1,332 *|* /Updated/: 12/7/2016 *|* /Published/: 10/22/2016 *|* /id/: 12200475 *|* /Language/: English *|* /Genre/: Drama/Romance *|* /Characters/: <Harry P., Gabrielle D., OC> *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12200475&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12200475&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/11071872/1/][*/Witches of Westfield/*]] by [[https://www.fanfiction.net/u/3252342/EJ-Daniels][/EJ Daniels/]]
+
+#+begin_quote
+  The war is over, Voldemort was defeated and the summer draws to a close as the new school term begins. Harry must decide what to do with his life. Will he return to school for his 7th year, be an Auror...or something else? Read along as Harry finally has control of his own life...or does he?
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 29 *|* /Words/: 241,143 *|* /Reviews/: 1,145 *|* /Favs/: 2,204 *|* /Follows/: 3,123 *|* /Updated/: 12/18/2016 *|* /Published/: 2/24/2015 *|* /id/: 11071872 *|* /Language/: English *|* /Genre/: Humor/Romance *|* /Characters/: Harry P., Hermione G., Luna L., Daphne G. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11071872&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11071872&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/6685668/1/][*/A Switched Chance/*]] by [[https://www.fanfiction.net/u/2257366/LunaStorm][/LunaStorm/]]
+
+#+begin_quote
+  In which Hermione attempts a time-travelling ritual without due preparation and Harry happily goes along for the ride, and both have to cope with living their best friend's life.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction K *|* /Chapters/: 15 *|* /Words/: 123,643 *|* /Reviews/: 723 *|* /Favs/: 1,348 *|* /Follows/: 1,910 *|* /Updated/: 1/20 *|* /Published/: 1/25/2011 *|* /id/: 6685668 *|* /Language/: English *|* /Characters/: Harry P., Hermione G. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=6685668&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=6685668&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/9950232/1/][*/Hermione Granger and the Perfectly Reasonable Explanation/*]] by [[https://www.fanfiction.net/u/5402473/Robin-Drew][/Robin.Drew/]]
+
+#+begin_quote
+  In 1991, a child came to Hogwarts School of Witchcraft and Wizardry with obvious gifts, but which few suspected would change the world... Oh, and Harry Potter enrolled that year as well. *** A few tweaks to canon, plus extrapolating Hermione's apparent intelligence realistically. I expect events to diverge fairly quickly. ;) *** cover image cc by-nc RooReynolds @ Flickr
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 23 *|* /Words/: 109,537 *|* /Reviews/: 421 *|* /Favs/: 666 *|* /Follows/: 1,149 *|* /Updated/: 11/15/2016 *|* /Published/: 12/23/2013 *|* /id/: 9950232 *|* /Language/: English *|* /Genre/: Suspense *|* /Characters/: Hermione G. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9950232&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9950232&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/8326928/1/][*/Three's The Charm/*]] by [[https://www.fanfiction.net/u/2016918/MissCHSparkles][/MissCHSparkles/]]
+
+#+begin_quote
+  Time Travel. It's the end of the Battle of Hogwarts but the price has been high. The Golden Trio dearly wished that they could have done more to save lives and fate decides to grant their wish. Follow them as they redo their years at Hogwarts, starting from First year and work to make a difference in the wizarding world. All while trying to keep their true selves a secret.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 34 *|* /Words/: 142,174 *|* /Reviews/: 3,050 *|* /Favs/: 4,982 *|* /Follows/: 6,566 *|* /Updated/: 11/14/2016 *|* /Published/: 7/16/2012 *|* /id/: 8326928 *|* /Language/: English *|* /Genre/: Adventure/Hurt/Comfort *|* /Characters/: Harry P., Ron W., Hermione G. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8326928&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8326928&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/3693052/1/][*/Back Again, Harry?/*]] by [[https://www.fanfiction.net/u/183901/Jedi-Buttercup][/Jedi Buttercup/]]
+
+#+begin_quote
+  WIP. Harry makes a different choice in King's Cross and is given the double edged gift of a second chance. Time Travel AU, DH canon.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 20 *|* /Words/: 74,412 *|* /Reviews/: 3,448 *|* /Favs/: 6,982 *|* /Follows/: 9,376 *|* /Updated/: 1/12 *|* /Published/: 7/31/2007 *|* /id/: 3693052 *|* /Language/: English *|* /Genre/: Drama *|* /Characters/: Harry P., Ron W., Hermione G. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=3693052&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=3693052&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1493840761.0
+:DateShort: 2017-May-04
+:END:
+
+
+*** [[http://www.fanfiction.net/s/10139565/1/][*/Travel Secrets: Third/*]] by [[https://www.fanfiction.net/u/4349156/E4mj][/E4mj/]]
+
+#+begin_quote
+  Harry's now going into his 3rd year again & it's getting complicated. Sirius still escaped & Harry has to deal with Slytherin politics & some extra timetravel on top of old drama. Rescuing Sirius is the number one mission, but things keep reverting & Harry is worried he can't change a Thing. Dumbledore/Goodguys bashing. 3rd in series. Rated M coz I'm paranoid. It all belongs to Jo!
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 31 *|* /Words/: 175,748 *|* /Reviews/: 2,387 *|* /Favs/: 4,997 *|* /Follows/: 6,700 *|* /Updated/: 12/31/2016 *|* /Published/: 2/24/2014 *|* /id/: 10139565 *|* /Language/: English *|* /Characters/: Harry P. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10139565&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10139565&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/11111990/1/][*/Grow Young with Me/*]] by [[https://www.fanfiction.net/u/997444/Taliesin19][/Taliesin19/]]
+
+#+begin_quote
+  He always sat there, just staring out the window. The nameless man with sad eyes. He bothered no one, and no one bothered him. Until now, that is. Abigail Waters knew her curiosity would one day be the death of her...but not today. Today it would give her life instead.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 24 *|* /Words/: 183,027 *|* /Reviews/: 1,025 *|* /Favs/: 2,217 *|* /Follows/: 3,026 *|* /Updated/: 12/20/2016 *|* /Published/: 3/14/2015 *|* /id/: 11111990 *|* /Language/: English *|* /Genre/: Family/Romance *|* /Characters/: Harry P., OC *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11111990&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11111990&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/9704180/1/][*/I'm Still Here/*]] by [[https://www.fanfiction.net/u/4404355/kathryn518][/kathryn518/]]
+
+#+begin_quote
+  The second war with Voldemort never really ended, and there were no winners, certainly not Harry Potter who has lost everything. What will Harry do when a ritual from Voldemort sends him to another world? How will he manage in this new world in which he never existed, especially as he sees familiar events unfolding? Harry/Multi eventually.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 13 *|* /Words/: 292,870 *|* /Reviews/: 4,208 *|* /Favs/: 10,988 *|* /Follows/: 13,079 *|* /Updated/: 1/28 *|* /Published/: 9/21/2013 *|* /id/: 9704180 *|* /Language/: English *|* /Genre/: Drama/Romance *|* /Characters/: Harry P., Fleur D., Daphne G., Perenelle F. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9704180&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9704180&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/11896247/1/][*/The Serpent's Gaze/*]] by [[https://www.fanfiction.net/u/1650948/DictionaryWrites][/DictionaryWrites/]]
+
+#+begin_quote
+  There are poisons that blind you, and poisons that open your eyes. The pride of a Slytherin is in his resource and cunning, and in the serpent's discerning gaze. At Hogwarts, Harry Potter learns to value pride, loyalty, and poison over mercy. Slytherin!Harry, platonic H&Hr duo, assorted ships later. No Horcruxes. Cross-posted (with extra content) to Ao3.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 104 *|* /Words/: 251,673 *|* /Reviews/: 754 *|* /Favs/: 868 *|* /Follows/: 1,198 *|* /Updated/: 2/2 *|* /Published/: 4/14/2016 *|* /id/: 11896247 *|* /Language/: English *|* /Genre/: Adventure/Drama *|* /Characters/: Harry P., Hermione G., Severus S., George W. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11896247&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11896247&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/8507121/1/][*/Specialist of the Impossible/*]] by [[https://www.fanfiction.net/u/2257366/LunaStorm][/LunaStorm/]]
+
+#+begin_quote
+  Harry Potter was 26 years old, rich, famous, and at a loss as to what to do with himself. That was likely why he didn't turn down that odd proposal... Arc One: All in all, the fact that Death had managed to scatter around yet more prized possessions wasn't that big of a surprise.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 16 *|* /Words/: 31,952 *|* /Reviews/: 120 *|* /Favs/: 276 *|* /Follows/: 412 *|* /Updated/: 12/7/2016 *|* /Published/: 9/8/2012 *|* /id/: 8507121 *|* /Language/: English *|* /Genre/: Humor/Suspense *|* /Characters/: Harry P. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8507121&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8507121&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/11950451/1/][*/A Different Professor/*]] by [[https://www.fanfiction.net/u/4219330/AsphodelWolf15][/AsphodelWolf15/]]
+
+#+begin_quote
+  "Her skeleton will lie in the chamber forever." Ginny has been taken to the Chamber of Secrets and Harry may know where that is. How would things have turned out if he had gone to a Different Professor?
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 30 *|* /Words/: 267,584 *|* /Reviews/: 1,389 *|* /Favs/: 2,664 *|* /Follows/: 3,819 *|* /Updated/: 12/19/2016 *|* /Published/: 5/16/2016 *|* /id/: 11950451 *|* /Language/: English *|* /Genre/: Adventure/Drama *|* /Characters/: <Harry P., Hermione G.> *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11950451&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11950451&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1493840757.0
+:DateShort: 2017-May-04
+:END:
+
+
+*** [[http://www.fanfiction.net/s/11602420/1/][*/Call Me Moriarty/*]] by [[https://www.fanfiction.net/u/7011953/ProfessorScrooge][/ProfessorScrooge/]]
+
+#+begin_quote
+  Jasmine Potter comes out of her abusive childhood somewhat changed, showing a few sociopathic tendencies. When she lays eyes upon the wizarding world she sees oppurtunity, and decides to take up the mantle of her favourite villain. AU,OOC, Fem!HarryxHermione pairing. Jasmine as Moriarty/Irene A, Hermione as Sherlock, Longbottom as John.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 18 *|* /Words/: 117,534 *|* /Reviews/: 498 *|* /Favs/: 1,576 *|* /Follows/: 1,947 *|* /Updated/: 2/4 *|* /Published/: 11/7/2015 *|* /id/: 11602420 *|* /Language/: English *|* /Genre/: Crime/Drama *|* /Characters/: <Harry P., Hermione G.> Neville L. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11602420&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11602420&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/12058516/1/][*/The Reclamation of Black Magic/*]] by [[https://www.fanfiction.net/u/5869599/ShayaLonnie][/ShayaLonnie/]]
+
+#+begin_quote
+  Harry Potter's family isn't only at Number 4 Privet Drive. Unaware to even Dumbledore, an upheaval is approaching. The Ancient and Noble House of Black is reclaiming their power and changing the future of the magical world. (EST HIATUS UNTIL SUMMER)
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 24 *|* /Words/: 111,153 *|* /Reviews/: 5,770 *|* /Favs/: 5,647 *|* /Follows/: 8,233 *|* /Updated/: 1/19 *|* /Published/: 7/19/2016 *|* /id/: 12058516 *|* /Language/: English *|* /Genre/: Family/Drama *|* /Characters/: <Harry P., Hermione G.> Sirius B., Dorea Black/Potter *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12058516&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12058516&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/10932567/1/][*/Holly Polter/*]] by [[https://www.fanfiction.net/u/1485356/wordhammer][/wordhammer/]]
+
+#+begin_quote
+  Pre-5th year, Harry is visited by a woman claiming to be his magical Aunt Holly, except that she can't cast spells... or keep her hands off of him... or stay out of trouble. Holly/Harry/we're not sure what'll happen. Not just naughty- it's knotty (as in subject to entanglement).
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 16 *|* /Words/: 144,805 *|* /Reviews/: 128 *|* /Favs/: 419 *|* /Follows/: 489 *|* /Updated/: 12/18/2016 *|* /Published/: 12/30/2014 *|* /id/: 10932567 *|* /Language/: English *|* /Genre/: Adventure/Mystery *|* /Characters/: Harry P., Lily Evans P., Ginny W. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10932567&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10932567&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/11157943/1/][*/I Still Haven't Found What I'm Looking For/*]] by [[https://www.fanfiction.net/u/4404355/kathryn518][/kathryn518/]]
+
+#+begin_quote
+  Ahsoka Tano left the Jedi Order, walking away after their betrayal. She did not consider the consequences of what her actions might bring, or the danger she might be in. A chance run in with a single irreverent, and possibly crazy, person in a bar changes the course of fate for an entire galaxy.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Star Wars + Harry Potter Crossover *|* /Rated/: Fiction M *|* /Chapters/: 15 *|* /Words/: 317,420 *|* /Reviews/: 4,230 *|* /Favs/: 9,617 *|* /Follows/: 11,064 *|* /Updated/: 1/13 *|* /Published/: 4/2/2015 *|* /id/: 11157943 *|* /Language/: English *|* /Genre/: Adventure/Romance *|* /Characters/: Aayla S., Ahsoka T., Harry P. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11157943&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11157943&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/12307886/1/][*/Strange Reflections/*]] by [[https://www.fanfiction.net/u/1634726/LeQuin][/LeQuin/]]
+
+#+begin_quote
+  In the aftermath of the Second Blood War its horrors still haunt the survivors, the country needs to be rebuilt and the last thing Harry Potter needed was a family of Potters from another dimension suddenly appearing.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 20 *|* /Words/: 138,885 *|* /Reviews/: 1,006 *|* /Favs/: 937 *|* /Follows/: 761 *|* /Updated/: 2/11 *|* /Published/: 1/4 *|* /Status/: Complete *|* /id/: 12307886 *|* /Language/: English *|* /Genre/: Drama *|* /Characters/: Harry P., Hermione G., Ginny W. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12307886&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12307886&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/11955777/1/][*/After the Fall/*]] by [[https://www.fanfiction.net/u/7217172/mctazman][/mctazman/]]
+
+#+begin_quote
+  When Harry gets killed in the Forbidden Forrest, he learns that he made a big mistake. One he gets a chance to correct. A re-do fic, obviously. Rating is just in case, may be lowered once finished.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 15 *|* /Words/: 39,565 *|* /Reviews/: 272 *|* /Favs/: 913 *|* /Follows/: 1,594 *|* /Updated/: 11/28/2016 *|* /Published/: 5/20/2016 *|* /id/: 11955777 *|* /Language/: English *|* /Genre/: Adventure *|* /Characters/: <Harry P., Hermione G.> *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11955777&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11955777&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1493840763.0
+:DateShort: 2017-May-04
+:END:
+
+
+*** [[http://www.fanfiction.net/s/11950816/1/][*/Harry Potter and the Game/*]] by [[https://www.fanfiction.net/u/7268383/Concept101][/Concept101/]]
+
+#+begin_quote
+  YEAR 1 AND 2 COMPLETE! With his life turned into a Game, Harry now has to raise a Phoenix, uncover the Founders' darkest secrets, deal with political manipulations and live through Hogwarts all while trying desperately to not swear too much. Powerful!Grey!Ravenclaw!Harry, GreaterGood!Dumbledore
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 42 *|* /Words/: 317,389 *|* /Reviews/: 4,311 *|* /Favs/: 5,553 *|* /Follows/: 6,956 *|* /Updated/: 1/16 *|* /Published/: 5/17/2016 *|* /id/: 11950816 *|* /Language/: English *|* /Genre/: Adventure/Fantasy *|* /Characters/: Harry P., Hermione G., Ginny W., Albus D. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11950816&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11950816&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/11037069/1/][*/The Potions Cabinet/*]] by [[https://www.fanfiction.net/u/1015908/Kidan][/Kidan/]]
+
+#+begin_quote
+  Apparently, behavior these days is to have a 'one-shots' story, so this is a dumping ground for one-offs and random scenes that I've written. And they're free to a good home.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 43 *|* /Words/: 142,327 *|* /Reviews/: 370 *|* /Favs/: 182 *|* /Follows/: 213 *|* /Updated/: 1/3 *|* /Published/: 2/10/2015 *|* /id/: 11037069 *|* /Language/: English *|* /Characters/: Harry P., Hermione G. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11037069&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11037069&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/7866134/1/][*/Harry Potter and the Weasley Seer/*]] by [[https://www.fanfiction.net/u/2554582/Sarcasm-Dragon][/Sarcasm Dragon/]]
+
+#+begin_quote
+  A prank in Professor Trelawney's class leads to Ron being hailed as a seer. But nobody could predict how that would change Harry's fate. AU, starts 3rd year. Powerful!Harry. Adventure/Humor.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction K+ *|* /Chapters/: 26 *|* /Words/: 64,691 *|* /Reviews/: 441 *|* /Favs/: 1,000 *|* /Follows/: 1,281 *|* /Updated/: 12/30/2016 *|* /Published/: 2/24/2012 *|* /id/: 7866134 *|* /Language/: English *|* /Genre/: Fantasy/Adventure *|* /Characters/: Harry P., Ron W., Albus D., Sybill T. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=7866134&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=7866134&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/11955570/1/][*/When Fate Intervened/*]] by [[https://www.fanfiction.net/u/7754563/LordVishnu][/LordVishnu/]]
+
+#+begin_quote
+  When Harry's name comes out of the Goblet of Fire Dumbledore gives him a choice. Either participate in the tournament or lose his magic and leave Hogwarts. The Headmaster would never have guessed that Harry would lash out angrily and choose the latter. Minor Ron and Dumbledore bashing at the start. Wizarding War on a quicker timescale than in canon. H/Hr. My first FanFic. Complete.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 36 *|* /Words/: 129,411 *|* /Reviews/: 1,203 *|* /Favs/: 2,969 *|* /Follows/: 3,155 *|* /Updated/: 12/1/2016 *|* /Published/: 5/20/2016 *|* /Status/: Complete *|* /id/: 11955570 *|* /Language/: English *|* /Genre/: Adventure/Romance *|* /Characters/: <Harry P., Hermione G.> *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11955570&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11955570&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/8806745/1/][*/At The End Of All Things/*]] by [[https://www.fanfiction.net/u/1595021/SnuggleKitten69][/SnuggleKitten69/]]
+
+#+begin_quote
+  When Hermione dies, Harry is willing to do anything to save her. Lunar Harmony. Weasley bashing. Redo. Femslash. Time travel. Harem. Major character death. Super!Harry. Grey!Harry. Independent!Harry. Allusions to physical violence, emotional abuse, physical abuse, and rape by a teacher.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 23 *|* /Words/: 177,487 *|* /Reviews/: 1,185 *|* /Favs/: 3,065 *|* /Follows/: 4,127 *|* /Updated/: 11/24/2016 *|* /Published/: 12/17/2012 *|* /id/: 8806745 *|* /Language/: English *|* /Characters/: Harry P., Hermione G., Luna L., Padma P. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8806745&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8806745&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/11898648/1/][*/Harry Potter and the Rune Stone Path/*]] by [[https://www.fanfiction.net/u/1057022/Temporal-Knight][/Temporal Knight/]]
+
+#+begin_quote
+  10 year old Harry finds a chest left by his mother with books on some of her favorite subjects. Discovering he has a talent for understanding and creating runes sets Harry onto a very different path than anyone had expected. Shortcuts, inventions, and a bit of support go a long way! Pairings: H/Hr/NT/FD/DG. Ron/Molly bashing and GreaterGood!Dumbledore.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 50 *|* /Words/: 517,752 *|* /Reviews/: 4,800 *|* /Favs/: 9,074 *|* /Follows/: 9,787 *|* /Updated/: 12/28/2016 *|* /Published/: 4/15/2016 *|* /Status/: Complete *|* /id/: 11898648 *|* /Language/: English *|* /Genre/: Fantasy/Adventure *|* /Characters/: <Harry P., Hermione G., Fleur D., N. Tonks> *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11898648&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11898648&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1493840765.0
+:DateShort: 2017-May-04
+:END:
+
+
+*** [[http://www.fanfiction.net/s/11697407/1/][*/Contractual Invalidation/*]] by [[https://www.fanfiction.net/u/2057121/R-dude][/R-dude/]]
+
+#+begin_quote
+  In which pureblood tradition doesn't always favor the purebloods.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 7 *|* /Words/: 90,127 *|* /Reviews/: 645 *|* /Favs/: 2,996 *|* /Follows/: 2,662 *|* /Updated/: 1/6 *|* /Published/: 12/28/2015 *|* /Status/: Complete *|* /id/: 11697407 *|* /Language/: English *|* /Genre/: Suspense *|* /Characters/: Harry P., Daphne G. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11697407&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11697407&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1493840767.0
+:DateShort: 2017-May-04
+:END:
+
+
+** So I just installed the script into "tampermoney" and it tells me that it's turned on. How to I use the tool now?
+:PROPERTIES:
+:Author: Pete91888
+:Score: 1
+:DateUnix: 1493889483.0
+:DateShort: 2017-May-04
+:END:
+
+*** it's not designed to work like that. it's a bookmarklet. save the bookmarklet code to a bookmark on your toolbar, then navigate to the alerts page, then click the bookmark. Or you can just copy the code and run it once on the page by pasting it into the url bar (make sure "javascript:" is still at the beginning. chrome deletes that part.).
+
+here's the bookmarklet code again
+
+#+begin_example
+  javascript:(function(){var b = document.getElementById('gui_table1i');var c = [];for (i = 1; i < (b.rows.length - 1); i++){var d = [];var e = document.getElementById('gui_table1i').rows.item(i).cells;var f = e.item(0).getElementsByTagName("a")[0];d[0] = f.innerHTML; d[1] = f.href; d[2] = f.href.split("/")[4]; d[3] = e.item(1).getElementsByTagName("a")[0].innerHTML;d[4] = e.item(2).innerHTML; d[5] = e.item(3).innerHTML; d[6] = e.item(4).innerHTML;c.push(d);}var g = document.createElement("tr");var h = "<td colspan='6'> Title | Author | Updated | Followed </br> :--|:--|:--|:-- </br>";var j = "linkffn(";for (i = 0; i < c.length; i++){h += "[" + c[i][0] + "](" + c[i][1] + ") |" + c[i][3] + "|" + c[i][5] + "|" + c[i][6] + "</br>";j += c[i][2] + ";";}j += ")";h += "</br>" + j + "</td>";g.innerHTML = h;b.appendChild(g);})()
+#+end_example
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1493890859.0
+:DateShort: 2017-May-04
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1493890871.0
+:DateShort: 2017-May-04
+:END:

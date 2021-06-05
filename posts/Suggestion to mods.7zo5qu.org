@@ -1,0 +1,367 @@
+#+TITLE: Suggestion to mods
+
+* Suggestion to mods
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 19
+:DateUnix: 1519393877.0
+:DateShort: 2018-Feb-23
+:FlairText: Meta
+:END:
+Given our recent influx of trolls lately, could we maybe introduce a minimum karma to post in the sub rule? Obviously it wouldn't stop it, but it may help discourage people from creating multiple sock puppets to flood the sub.
+
+
+** Automod is currently set up to auto filter posts/comments from accounts less than a day old and under 10 karma. I can increase those if necessary. The problem was this person was using a bunch of older accounts before. I think I've banned all of those accounts now.
+:PROPERTIES:
+:Author: denarii
+:Score: 21
+:DateUnix: 1519402620.0
+:DateShort: 2018-Feb-23
+:END:
+
+*** Thanks Denarii, you're the best :)
+
+I think increasing it would be helpful, at least in the short term.
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 8
+:DateUnix: 1519403064.0
+:DateShort: 2018-Feb-23
+:END:
+
+
+*** Hmm...question, what if you set up a bot to notify you whenever someone new posts in HPfanfiction?
+
+Like, whenever a post is made, the bot checks a list; if whoever posted it isn't on said list, they're added to the list, and the bot PMs you to let you know about the newcomer. It could have a 'warmup' period so you aren't spammed with PMs about all the usual posters here already.
+
+The idea being, you quickly get notified whenever any new accounts post on the subreddit, and you can give them the boot if they're being obviously negative and hostile.
+
+** 
+   :PROPERTIES:
+   :CUSTOM_ID: section
+   :END:
+Would it work, or are there enough one-time posters here that you'd get spammed with PMs?
+:PROPERTIES:
+:Author: Avaday_Daydream
+:Score: 1
+:DateUnix: 1519472685.0
+:DateShort: 2018-Feb-24
+:END:
+
+**** New posters are frequent enough that that would be really tiresome to keep up with.
+:PROPERTIES:
+:Author: denarii
+:Score: 3
+:DateUnix: 1519482024.0
+:DateShort: 2018-Feb-24
+:END:
+
+***** Alrighty then. I know I'd get exhausted if there were 20-30 messages in my inbox every morning and I had to respond to all of them, giving advice or saying hello or giving trolls the boot...
+:PROPERTIES:
+:Author: Avaday_Daydream
+:Score: 1
+:DateUnix: 1519508137.0
+:DateShort: 2018-Feb-25
+:END:
+
+
+** Pls no what about people like me with 0 karma :(
+:PROPERTIES:
+:Author: Ttch21
+:Score: 39
+:DateUnix: 1519395403.0
+:DateShort: 2018-Feb-23
+:END:
+
+*** I believe that they mean comment karma, not post karma.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 11
+:DateUnix: 1519403911.0
+:DateShort: 2018-Feb-23
+:END:
+
+**** That makes sense
+:PROPERTIES:
+:Author: Ttch21
+:Score: 3
+:DateUnix: 1519434690.0
+:DateShort: 2018-Feb-24
+:END:
+
+
+*** Have some karma brah, just up voted you to my limit from your profile.
+:PROPERTIES:
+:Author: Epwydadlan1
+:Score: 8
+:DateUnix: 1519402078.0
+:DateShort: 2018-Feb-23
+:END:
+
+**** Thanks! :D
+:PROPERTIES:
+:Author: Ttch21
+:Score: 2
+:DateUnix: 1519434699.0
+:DateShort: 2018-Feb-24
+:END:
+
+
+*** You have 74?
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 6
+:DateUnix: 1519395969.0
+:DateShort: 2018-Feb-23
+:END:
+
+**** I did not know this
+:PROPERTIES:
+:Author: Ttch21
+:Score: 2
+:DateUnix: 1519434681.0
+:DateShort: 2018-Feb-24
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 8
+:DateUnix: 1519396502.0
+:DateShort: 2018-Feb-23
+:END:
+
+*** We have automod on :)
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1519416983.0
+:DateShort: 2018-Feb-23
+:END:
+
+
+** I dunno, I'm not sure it'd work for me. As I recall (though I'm too lazy to find it at the moment), I made my account on Reddit to ask for a fic that I was having trouble finding, after searching around as an anonymous lurker failed to find it.
+
+(It was Potter Ever After, by the way.)
+
+The problem with having a minimum karma requirement, or a minimum posts requirement, or a minimum account duration requirement, or whatever, it's a hassle to people who have been lurking but just-now want to ask a question. Which would, say, include me.
+
+** 
+   :PROPERTIES:
+   :CUSTOM_ID: section
+   :END:
+...Besides, if someone was REALLY insistent on trolling, couldn't they just set up multiple accounts (with VPNs or otherwise IP masking), wait a little while, then go on a spree of upvoting each other, downvoting others, sockpuppeting for each other, et-cetera?
+:PROPERTIES:
+:Author: Avaday_Daydream
+:Score: 7
+:DateUnix: 1519437032.0
+:DateShort: 2018-Feb-24
+:END:
+
+*** And then there's just NEW people to Reddit who joined FOR Harry Potter discussions and other Harry Potter related things.
+
+(Me)
+:PROPERTIES:
+:Author: DannyPhantomPhandom
+:Score: 3
+:DateUnix: 1519439437.0
+:DateShort: 2018-Feb-24
+:END:
+
+
+*** I just see it as a temporary solution to our current influx! Not as a long term thing.
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 1
+:DateUnix: 1519510657.0
+:DateShort: 2018-Feb-25
+:END:
+
+
+** Yes, please. It's getting tedious to apply tags to all those spam-accounts.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 7
+:DateUnix: 1519398016.0
+:DateShort: 2018-Feb-23
+:END:
+
+
+** A Karma minimum and a profile that existed for longer than a couple of months. I've seen plenty of other subreddits do that when they had issues with trolls and spammers.
+:PROPERTIES:
+:Author: Freshenstein
+:Score: 9
+:DateUnix: 1519396189.0
+:DateShort: 2018-Feb-23
+:END:
+
+
+** I haven't noticed spam accounts, but I'm not here too often.
+:PROPERTIES:
+:Author: snickerslv100
+:Score: 1
+:DateUnix: 1519398146.0
+:DateShort: 2018-Feb-23
+:END:
+
+*** They've been blowing up the sub like crazy, asking provocative questions about rape and incest and other things.
+:PROPERTIES:
+:Author: dontevenlikeboys
+:Score: 8
+:DateUnix: 1519399184.0
+:DateShort: 2018-Feb-23
+:END:
+
+**** Almost makes me miss Gryffindortom!
+:PROPERTIES:
+:Author: TE7
+:Score: 10
+:DateUnix: 1519402322.0
+:DateShort: 2018-Feb-23
+:END:
+
+***** Lol don't even.
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 12
+:DateUnix: 1519403134.0
+:DateShort: 2018-Feb-23
+:END:
+
+****** At least he was sincere?
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 6
+:DateUnix: 1519407969.0
+:DateShort: 2018-Feb-23
+:END:
+
+******* Sincere and determined.
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 5
+:DateUnix: 1519408271.0
+:DateShort: 2018-Feb-23
+:END:
+
+
+****** I don't think I was on here when Gryffindortom was. What happened with that user?
+:PROPERTIES:
+:Author: emong757
+:Score: 5
+:DateUnix: 1519404834.0
+:DateShort: 2018-Feb-23
+:END:
+
+******* He kept asking for stories about rape and child porn, if I remember correctly.
+:PROPERTIES:
+:Author: snickerslv100
+:Score: 3
+:DateUnix: 1519404986.0
+:DateShort: 2018-Feb-23
+:END:
+
+******** You forgot the next layer of crazy- that he was offended when his rape fantasies were criticised and downvoted
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 9
+:DateUnix: 1519405743.0
+:DateShort: 2018-Feb-23
+:END:
+
+********* My favorite was the "fuck y'all, I'm leaving" post /and then he stayed around./
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 6
+:DateUnix: 1519414119.0
+:DateShort: 2018-Feb-23
+:END:
+
+********** My favorite part was that he said he was trying to explore how these themes could be handled in the real world. So I was like 'huh there's potential for that to be a good story' so I read one.
+
+....
+
+He was not trying to explore how those themes work in the real world.
+:PROPERTIES:
+:Author: TE7
+:Score: 8
+:DateUnix: 1519419825.0
+:DateShort: 2018-Feb-24
+:END:
+
+*********** Yeah, none of his stuff was anywhere approximating Soprano's Employee of the Month.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 2
+:DateUnix: 1519429745.0
+:DateShort: 2018-Feb-24
+:END:
+
+
+********* I did forget that part, yeah. Just an odd one.
+:PROPERTIES:
+:Author: snickerslv100
+:Score: 2
+:DateUnix: 1519408761.0
+:DateShort: 2018-Feb-23
+:END:
+
+
+******** Oh, really? I know he's still operating on FF.net and has his own Reddit page. Strange dude, indeed.
+:PROPERTIES:
+:Author: emong757
+:Score: 3
+:DateUnix: 1519405231.0
+:DateShort: 2018-Feb-23
+:END:
+
+
+***** Nothing will ever make me miss Gryffindortom.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 5
+:DateUnix: 1519403399.0
+:DateShort: 2018-Feb-23
+:END:
+
+****** I'd forgotten about him. Maybe I just wasn't around much when he was posting. Or my memory is shit. Probably that.
+:PROPERTIES:
+:Author: Averant
+:Score: 2
+:DateUnix: 1519425693.0
+:DateShort: 2018-Feb-24
+:END:
+
+
+****** He was a good laugh for sure.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1519450450.0
+:DateShort: 2018-Feb-24
+:END:
+
+******* I think he's the first and only one who ever got me so far as to get heavily personal. So far that I think Denarii had to step in.
+
+He just grinded my gears like no other. I can't remember that I've ever laughed.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 1
+:DateUnix: 1519560884.0
+:DateShort: 2018-Feb-25
+:END:
+
+
+**** Yes, they're disgusting and they need to be kicked out forever. :( I've already reported like three of them and gotten them deleted.
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1519400333.0
+:DateShort: 2018-Feb-23
+:END:
+
+
+**** Yup that [[/u/pogbaisshit][u/pogbaisshit]] dude
+:PROPERTIES:
+:Author: Arsenal_49_Spurs_0
+:Score: 1
+:DateUnix: 1519401956.0
+:DateShort: 2018-Feb-23
+:END:

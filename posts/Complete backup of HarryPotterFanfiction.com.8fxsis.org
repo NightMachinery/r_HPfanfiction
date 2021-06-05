@@ -1,0 +1,275 @@
+#+TITLE: Complete backup of HarryPotterFanfiction.com
+
+* Complete backup of HarryPotterFanfiction.com
+:PROPERTIES:
+:Author: ModernPotatoDoctor
+:Score: 196
+:DateUnix: 1525074039.0
+:DateShort: 2018-Apr-30
+:FlairText: Misc
+:END:
+When HarryPotterFanfiction.com announced it was shutting down, I planned to create a local back-up of the whole story database purely for my own use. Then I stumbled over [[https://www.reddit.com/r/HPfanfiction/comments/8fd9cf/help_did_anyone_archive_the/][this]] and [[https://www.reddit.com/r/HPfanfiction/comments/8fw1zj/harrypotterfanfictioncom_nooooooo/][this]] thread just now and noticed there's at least /some/ interest among other readers as well.
+
+I'm providing my archive as-is for anyone that wants to download it. The directory-structure is organized in the form of /<authorname>/<storyname>/summary.html/ and /<authorname>/<storyname>/chapters/chapter_<1-x>.html/. The /summary.html/ file (mostly due to laziness but also because of a lack of time for extracting all the relevant data) is a straight-up copy of the story overview page, while the /chapter_x.html/ files are cleaned to contain only the chapter content itself.
+
+The download is 983.20 MB in size, the uncompressed size is 4.68 GB. The archive was created with the freeware packer [[https://www.7-zip.org/][7-Zip]] but it can be unpacked with several other applications such as WinRAR as well.
+
+#+begin_example
+  https://mega.nz/#!eThmDKCJ!dCzmwxhgMBPmul_ZZm7805rrEB_fzb796xdfTfhWbTQ
+  https://openload.co/f/CXAJXFCH7wk/HarryPotterFanfiction.com.7z
+#+end_example
+
+I believe I got all that was available, but a few dozen stories either contained no chapters at all (those were left out) or select chapters were simply empty/only displayed an error message. I checked and all those were definitely issues on the server side.
+
+The final numbers after the last scrape of the updated stories page at 2am UTC on the 28th of April:
+
+38,543 authors
+
+83,723 stories
+
+301,287 chapters
+
+If someone wants to use this archive to build a searchable database or convert the separate chapters into a single-file (e-book) format, then be my guest. All the required information for these steps is present, it just has to be extracted properly from the summary page.
+
+What was NOT saved? Author profile pages, reviews and ... I can't think of anything else right now.
+
+
+** I might take a crack at making a searchable database/online reader for this. I did something similar once for another site, but several archives for that one already existed. It might take a while before I have time to do it though.
+
+Edit: Just in case I never actually do this, I've also created a torrent file of the archive, so even if the files are unavailable through the links on the OP, they might still be if people help me seed it a bit.
+
+Link: magnet:?xt=urn:btih:c216749fc72d759fb1dd104ce37294c045b46aaa&dn=HarryPotterFanfiction.com.7z&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969
+
+This is a [[https://en.wikipedia.org/wiki/Magnet_URI_scheme][magnet link]], anyone who wants to help OP and this community preserve the archive or just wants to take a look at the file, please seed it.
+:PROPERTIES:
+:Author: Steel_Shield
+:Score: 29
+:DateUnix: 1525076380.0
+:DateShort: 2018-Apr-30
+:END:
+
+*** Good idea on the torrent, I'm helping with seeding now. No idea how long I can keep that up, but I'm always open to make it available again in other ways. A private message here on reddit should suffice if anyone has issues with availability.
+:PROPERTIES:
+:Author: ModernPotatoDoctor
+:Score: 4
+:DateUnix: 1525112581.0
+:DateShort: 2018-Apr-30
+:END:
+
+**** Hi ModernPotatoDoctor! I tried to download the archive but the file is too big. My friend just informed me that my story ("An Even Match") is gone since harrypotterfanfiction.com closed down, and I'm trying to get it back. Is there a way you can help me access that one? I'm not very tech savvy :( I can't believe they didn't at least send out warning emails!
+:PROPERTIES:
+:Author: Sabrielle21
+:Score: 3
+:DateUnix: 1525476606.0
+:DateShort: 2018-May-05
+:END:
+
+
+**** No worries, I myself will probably seed for at least three months, so I hope some people pick it up in the meantime.
+:PROPERTIES:
+:Author: Steel_Shield
+:Score: 1
+:DateUnix: 1525112995.0
+:DateShort: 2018-Apr-30
+:END:
+
+
+*** Good idea on the Torrent. I've added it to my (basically) always running client so there's another seed up.
+:PROPERTIES:
+:Author: hovercraft_of_eels
+:Score: 2
+:DateUnix: 1525130871.0
+:DateShort: 2018-May-01
+:END:
+
+
+*** Hi, did you ever get around to doing this?
+:PROPERTIES:
+:Author: varno2
+:Score: 1
+:DateUnix: 1538653753.0
+:DateShort: 2018-Oct-04
+:END:
+
+**** Sadly I did not, I've been overwhelmed with university and work stuff, so I didn't have the time, and then I kinda forgot about it. Sorry!
+:PROPERTIES:
+:Author: Steel_Shield
+:Score: 1
+:DateUnix: 1538656889.0
+:DateShort: 2018-Oct-04
+:END:
+
+
+** You should contact Open Doors from the OTW [[http://opendoors.transformativeworks.org/]] and see if they can give this a permanent place.
+:PROPERTIES:
+:Author: hovercraft_of_eels
+:Score: 22
+:DateUnix: 1525088062.0
+:DateShort: 2018-Apr-30
+:END:
+
+*** That would have been a good idea for the operator of HPFF.com to do, because losing such a big fanworks collection is always a sad thing to see.
+
+As an uninvolved third party however, I'm not in a position to talk to them about it. In fact, the [[https://archiveofourown.org/tos#V.D.][terms of service]] of their Open Doors project specifically exclude anyone /but the maintainer/ of the archive from initializing a transfer of such a collection.
+
+There are more requirements as well, such as the ability to contact content creators so they have the choice to opt-out of the transfer process or orphan their works.
+:PROPERTIES:
+:Author: ModernPotatoDoctor
+:Score: 11
+:DateUnix: 1525108438.0
+:DateShort: 2018-Apr-30
+:END:
+
+
+** Damn, wish I knew sooner. My fics were on there. Definitely the end of an era.
+:PROPERTIES:
+:Author: wolme
+:Score: 10
+:DateUnix: 1525094792.0
+:DateShort: 2018-Apr-30
+:END:
+
+*** Me too! So many awful half written works of my teenage self lost forever!
+:PROPERTIES:
+:Author: oceansurferg
+:Score: 6
+:DateUnix: 1525144846.0
+:DateShort: 2018-May-01
+:END:
+
+
+** Lol you beat me to it. My computer has slowed down significantly, and I have a suspicion that they throttled my internet speed, so there's still a part remaining. I will have the entire website downloaded (or as close as I could get), as in the actual website complete with assets and what not, but I'm still having the final links written, so it'll be in another 5+ days before that and my upload (maybe even more) finishes. If anyone actually wants the full website, it'll be available then.
+
+Edit: I just checked the download. Apparently the full folder is nearly 5Gb, but somehow, I've seen my download reach 30Gb+. The current download is about 8Gb. What the hell happened to the rest‽
+:PROPERTIES:
+:Author: SnowingSilently
+:Score: 6
+:DateUnix: 1525086684.0
+:DateShort: 2018-Apr-30
+:END:
+
+*** How did you download it? And more importantly, the story archive has been taken down two days ago. It sounds like you're still trying to download it, which will by now only show the [[http://www.fanfictionworld.net/404.html][404 error not found page]].
+
+Having a full mirror of the original website might be nice indeed, but when I started my process I thought it would not be worth gathering or providing that much extra data, since the dynamically created content would all be static anyway.
+:PROPERTIES:
+:Author: ModernPotatoDoctor
+:Score: 1
+:DateUnix: 1525107888.0
+:DateShort: 2018-Apr-30
+:END:
+
+**** Right now it's just writing the last remaining links that it downloaded. Hasn't downloaded any new content for the past couple of days. But I'm still really lost what happened to the massive amount of data that was supposedly downloaded, since it's set to not download any assets not directly hosted on the site.
+:PROPERTIES:
+:Author: SnowingSilently
+:Score: 1
+:DateUnix: 1525113937.0
+:DateShort: 2018-Apr-30
+:END:
+
+
+** Thanks for doing this. Good job.
+
+What tool did you use to crawl through the pages?
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 5
+:DateUnix: 1525081665.0
+:DateShort: 2018-Apr-30
+:END:
+
+*** php as a scripting language + cronjob for automated downloads.
+
+I know, strange, but it is not only a language I knew intimately, but also well suited for my purposes five years ago. Back then I started working on a local story archive of online content (fiction) from various sources. It was primarily designed to keep better track of what I read to help me find it again, but also to store the contents in a local archive so I wouldn't have to follow dead links again. Soon I added functionality to automatically download new chapters/updates and be alerted in a central location. Hosted on my NAS at the time, a web interface was both required and simple to create. php was the natural choice.
+
+Over the years I've built on top of that (cURL + regex = win) and while I haven't gotten around to adding these stories from HPFF.com to my database, it was a relatively simple thing to use the existing code logic and export the contents to the file system instead.
+
+Sadly I never got around to polishing the tool enough to be worth publishing. [[https://i.imgur.com/oonOi1N.png][This]] is how it has looked for the past five years, ie nothing much has changed except for maintenance to keep it working ;)
+
+Then there's also the many story download tools both web- and client-based to consider, many of which are just so much better and versatile for general public use. The requirement to self-host on a web-server would limit the interest to only a handful of people. It's the same principle of using cloud services: out of 1,000 people maybe one or two are interested in self-hosting while the vast majority would rather use a commercial service.
+
+Personally I'm a big fan of Calibre and the [[https://github.com/JimmXinu/FanFicFare/wiki][FanFicFare]] plugin. I use both to download and convert fanworks to my Kindle.
+:PROPERTIES:
+:Author: ModernPotatoDoctor
+:Score: 4
+:DateUnix: 1525111950.0
+:DateShort: 2018-Apr-30
+:END:
+
+
+** I wanted to do this but was too lazy, so thank you!
+:PROPERTIES:
+:Author: JWBails
+:Score: 3
+:DateUnix: 1525080191.0
+:DateShort: 2018-Apr-30
+:END:
+
+
+** WAIT WHEN WAS THIS ANNOUNCED? WHEN IS THIS HAPPENING?!?!?!?!?!
+:PROPERTIES:
+:Author: Emily-Jayne_x
+:Score: 5
+:DateUnix: 1525080280.0
+:DateShort: 2018-Apr-30
+:END:
+
+*** Announced end of March, happened 4/28
+:PROPERTIES:
+:Author: tectonictigress
+:Score: 9
+:DateUnix: 1525085954.0
+:DateShort: 2018-Apr-30
+:END:
+
+
+** im commenting so I can find the thread again if I need it
+:PROPERTIES:
+:Author: AthenaCalypso
+:Score: 2
+:DateUnix: 1525132701.0
+:DateShort: 2018-May-01
+:END:
+
+
+** thanks so much
+:PROPERTIES:
+:Author: pointyball
+:Score: 1
+:DateUnix: 1525097789.0
+:DateShort: 2018-Apr-30
+:END:
+
+
+** Can I ask how you made the backup? I tried to do the same thing using HTTRACK but it couldn't seem to mirror the site. I even tried it with FFNET and still couldn't do it either.
+:PROPERTIES:
+:Author: LordLoss01
+:Score: 1
+:DateUnix: 1525127197.0
+:DateShort: 2018-May-01
+:END:
+
+*** I'm not the OP, but I made a backup using HTTrack. For future reference, since it won't help now, I tried with HTTRACK twice, and got error messages both times, before I realized what was wrong - I needed to change the 'browser' that it was using. I put it on other instead of the firefox that was default, and it finally downloaded the whole thing. Took the better part of a day. I haven't cleaned anything up like the OP has though.
+:PROPERTIES:
+:Author: Sirius-lyNoKids
+:Score: 1
+:DateUnix: 1525151456.0
+:DateShort: 2018-May-01
+:END:
+
+
+** Thank you so much for doing this! I didn't even know it was closing I had so much from my teenhood writing on there
+:PROPERTIES:
+:Author: buxbeak
+:Score: 1
+:DateUnix: 1525281068.0
+:DateShort: 2018-May-02
+:END:
+
+
+** Thank you
+:PROPERTIES:
+:Author: vechsdavion
+:Score: 1
+:DateUnix: 1525288335.0
+:DateShort: 2018-May-02
+:END:

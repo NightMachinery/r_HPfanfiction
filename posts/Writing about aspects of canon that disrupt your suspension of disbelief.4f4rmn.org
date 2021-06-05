@@ -1,0 +1,389 @@
+#+TITLE: Writing about aspects of canon that disrupt your suspension of disbelief
+
+* Writing about aspects of canon that disrupt your suspension of disbelief
+:PROPERTIES:
+:Author: chahn32
+:Score: 9
+:DateUnix: 1460858335.0
+:DateShort: 2016-Apr-17
+:FlairText: Discussion
+:END:
+How do you as an author approach writing scenes, or aspects of the world that while canon beak your willing suspension of disbelief, and how you get around that.
+
+An example of this for me would be the interaction between magic and electronics. I suspect that the electromagnetic force behaves similarly within a strong *passive* magical field as outside. (This based the known interactions of passive magical fields and gravity, another fundamental physical force. I can't justify magic interacting with these two inherently differently) And if the fundamental physics behind a device works as expected why doesn't the device do likewise?
+
+I get around this by having charms or wards put up that do the disabling, along with lack of outlets and cell signal in the remote area around Hogwarts.
+
+
+** Well, you could get around it by ignoring it. Pull a Dumbledore and dance around actually confronting the issue head-on - just explain it as magic and be mysterious and fantastical. If JKR actually had Hermione say, "wait that doesn't make sense" whenever the characters learn a new piece of magic, the story would drag on (HPMoR sometimes).
+:PROPERTIES:
+:Author: Ember_Rising
+:Score: 14
+:DateUnix: 1460859900.0
+:DateShort: 2016-Apr-17
+:END:
+
+*** u/hpaddict:
+#+begin_quote
+  If JKR actually had Hermione say, "wait that doesn't make sense" whenever the characters learn a new piece of magic, the story would drag on
+#+end_quote
+
+Applicable to any story in which characters don't accept observed facts. This issue is ignored in less fantastical stories because readers unquestionably accept 'things work like they do in the real world' despite that not being an answer at all.
+:PROPERTIES:
+:Author: hpaddict
+:Score: 3
+:DateUnix: 1460864461.0
+:DateShort: 2016-Apr-17
+:END:
+
+**** Yeah it's easy to fall into Muggle Wank without realizing that the Wizarding Society actually works (with a few dark lords thrown in). It's sustainable and thriving according to canon despite common sense. So obviously things don't work the same way, or magic wouldn't exist in the first place.
+:PROPERTIES:
+:Author: Ember_Rising
+:Score: 2
+:DateUnix: 1460864749.0
+:DateShort: 2016-Apr-17
+:END:
+
+***** Agreed, Wizarding Society doesn't play by the same rules that we take for granted, and sometimes I feel that it's necessary for a character to ask the question of why it works and get an answer because there is only so much I as a reader can take before I give up trying to follow whats going on.
+:PROPERTIES:
+:Author: chahn32
+:Score: 2
+:DateUnix: 1460865502.0
+:DateShort: 2016-Apr-17
+:END:
+
+
+*** I know and that makes for easy writing. For me I'm one of those anal retentive people who need to have an answer once something starts bugging me, even if only for my notes.
+
+And I could actually see Hermione saying that multiple times a year at Hogwarts.
+:PROPERTIES:
+:Author: chahn32
+:Score: 1
+:DateUnix: 1460860684.0
+:DateShort: 2016-Apr-17
+:END:
+
+**** Well then, you could take the nuclear option and just remove the problem entirely.
+
+For example, create an AU where magic actually doesn't mess with electronics at all. This opens up some interesting options that could wildly deviate from canon.
+
+Like a crazy idea would be: wizards use technology. They've integrated it into their society and are the driving forces in research and development, which trickles into the muggle world. It would open up some interesting questions. Do wizards now use cars and phones? What about simulations or virtual reality for training scenarios? Or the villain could use horrifying abominations that merge soul-magic with technological/biological monstrosities. This would be a very big change from canon, but it provides an interesting avenue for world building.
+
+Really, JKR introduces magical concepts to fit her stories. She didn't want electronics in her fantastical, fairy-tale of a world, so she said, "they don't work" and that was the end of it. The Unforgivables are introduced in Book 4, not to simply write a textbook on Ministry Curse Classification ([[https://www.reddit.com/r/HPfanfiction/comments/4c2qqi/discussion_why_isnt_obliviate_an_unforgivable/][why is Obliviate not banned?!]]), but to foreshadow the graveyard scene and explain curses that Voldemort will be using. Quidditch doesn't exist as a logical extension of magical society (brooms? really?) - it was written to showcase a talent of Harry's and to parallel muggle sports culture. Wandlore throughout Book 7 is revealed so that Harry can master the Elder Wand, not to simply tickle our curiosity about sentient wood.
+
+But I guess the whole point of fanfiction is staying at least somewhat close to the canon world. But canon (I think there's a quote somewhere) inherently isn't scientific. Ugh, headaches.
+:PROPERTIES:
+:Author: Ember_Rising
+:Score: 7
+:DateUnix: 1460863460.0
+:DateShort: 2016-Apr-17
+:END:
+
+***** I know and I come from a somewhat scientific background so I feel you on the headache.
+
+I feel like even if magic didn't interfere with technology and wizards used it muggles would still be the driving force there. Wizards could then use magic or technology while muggles had to rely solely on technology, so they would have a more vested interest in it's progress. Plus muggles would have more people working on said research just by the fact that there are more of them.
+:PROPERTIES:
+:Author: chahn32
+:Score: 3
+:DateUnix: 1460864043.0
+:DateShort: 2016-Apr-17
+:END:
+
+****** Yeah that's true. And if wizarding society stayed the same, they'd be too lazy to bother (or too stuck up). But muggleborns could probably do some cool stuff.
+
+I really liked the introduction of movies to Hogwarts in linkffn(Patron). Hermione found that magic itself didn't stop electronics, but the /wards/ were interfering. She had to do some ridiculous work (take apart the VCR, inlay the whole thing with protective runes and silver, put back together, get a ward exception from Dumbledore).
+
+But Draco was like, "WITCHCRAFT".
+:PROPERTIES:
+:Author: Ember_Rising
+:Score: 3
+:DateUnix: 1460864386.0
+:DateShort: 2016-Apr-17
+:END:
+
+******* u/Taure:
+#+begin_quote
+  I really liked the introduction of movies to Hogwarts in linkffn(Patron). Hermione found that magic itself didn't stop electronics, but the wards were interfering. She had to do some ridiculous work (take apart the VCR, inlay the whole thing with protective runes and silver, put back together, get a ward exception from Dumbledore).
+#+end_quote
+
+This seems rather silly. Why didn't she just modify the televisions to work on magic rather than electricity, like Colin Creevy did with his camera? It's a well-known process in the wizarding world.
+
+From JKR's old web-site:
+
+#+begin_quote
+  Why did Colin Creevey's camera work etc?
+
+  As a vast number of people have pointed out to me in the last twenty four hours (some of them related to me by ties of blood) Colin DID develop a photograph from his camera in 'Chamber of Secrets' (my previous answer stated that he never did so).
+
+  Cameras, like radios (or, as the wizards call them 'wirelesses' -- they're always a bit behind the times when it comes to Muggle technology) do exist in the wizarding world (there's a radio in the Weasleys' kitchen and we know there are cameras because of the moving photographs you see everywhere). Wizards do not need electricity to make these things work; they function by magic, but in the case of such objects the wizards liked the Muggle invention enough to appropriate the idea without adding cumbersome plugs/batteries.
+
+  I have an old notebook in which it says dev sol (potion) magic [indecipherable word] photos move. Adept as I am at interpreting my old scribbles, I can tell you that the original idea was that wizards would use a magical developing potion to make their photographs move.
+
+  SO... as Colin's batteries can't work in Hogwarts, clearly his camera is running off the magical atmosphere and he is then developing his photographs in the magical potion that causes the figures therein to move. All of which goes to show that Colin has a lot more initiative than I ever realised.
+#+end_quote
+
+This is why I always find it so amusing when fics present it as a great achievement to get Muggle technology working in Hogwarts. Wizards can already do it in canon, and apparently it's simple enough for first-year Muggleborns to do.
+
+Incidentally, it's also now canon (via Pottermore) that television was introduced to the wizarding world in the same way as radio... but it didn't take off.
+
+#+begin_quote
+  While they have no need of mundane domestic objects such as dishwashers or vacuum cleaners, some members of the magical community are amused by Muggle television, and a few firebrand wizards even went so far, in the early eighties, as to start a British Wizarding Broadcasting Corporation, in the hope that they would be able to have their own television channel. The project foundered at an early stage, as the Ministry of Magic refused to countenance the broadcasting of wizarding material on a Muggle device, which would (it was felt) almost guarantee serious breaches of the International Statute of Secrecy.
+
+  Some felt, and with justification, that this decision was inconsistent and unfair, as many radios have been legally modified by the wizarding community for their own use, which broadcast regular wizarding programmes. The Ministry conceded that Muggles frequently catch snippets of advice on, for instance, how to prune a Venomous Tentacula, or how best to remove gnomes from a cabbage bed, but argued that the radio-listening Muggle population seems altogether more tolerant, gullible, or less convinced of their own good sense, than Muggle TV viewers. Reasons for this anomaly are examined at length in Professor Mordicus Egg's The Philosophy of the Mundane: Why the Muggles Prefer Not to Know. Professor Egg argues cogently that Muggles are much more likely to believe they have misheard something than that they are hallucinating.
+#+end_quote
+
+Still, from "some members of the magical community are amused by Muggle television" it seems that television isn't some great unknown to wizards as many fanfics suppose. It's simply that most wizards, while knowing about it, aren't that interested.
+:PROPERTIES:
+:Author: Taure
+:Score: 8
+:DateUnix: 1460884166.0
+:DateShort: 2016-Apr-17
+:END:
+
+******** You make a good point about Colin's camera. I'm not sure if the model was ever given in the books, but I had assumed it was a film camera with very little electronic that could go wrong, maybe only the flash. But if it was an early digital, unlikely from the talk after he was petrified in COS, that would throw a wrench in the no electronics at Hogwarts
+:PROPERTIES:
+:Author: chahn32
+:Score: 2
+:DateUnix: 1460895805.0
+:DateShort: 2016-Apr-17
+:END:
+
+********* I think that, rather than throwing the wrench as it is, it's that simply electronic stuff doesn't work at Hogwarts because the batteries don't want to work (emptied by magic doing something weird, possibly), but can always or nigh-always be modified to work off of magic instead and it's just more complicated with the more complicated electronics and in any case not many wizards actually care.
+
+That would be why Colin, who had a reason to make his camera work, could do it even as a first-year student (be it by himself or by taking it to someone else), but why it's generally said that muggle stuff doesn't work when in reality it's that most people don't care enough about muggle stuff to make it work.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 1
+:DateUnix: 1461024637.0
+:DateShort: 2016-Apr-19
+:END:
+
+
+******** Didn't Rowling say that Wizards have been trying unsuccessfully to mimic television?
+:PROPERTIES:
+:Author: MugaSofer
+:Score: 1
+:DateUnix: 1461497623.0
+:DateShort: 2016-Apr-24
+:END:
+
+
+******* I really like Patron.
+
+One area that I feel could get real OP is the interaction between muggle inventiveness and engineering and magical power.
+
+Can I please get a Harry, or someone goes to engineering school post Hogwarts fic?
+:PROPERTIES:
+:Author: chahn32
+:Score: 1
+:DateUnix: 1460865271.0
+:DateShort: 2016-Apr-17
+:END:
+
+******** I'd read that one :) (and I agree on "Patron", I should catch up on that soon...haven't checked for updates in a while!)
+:PROPERTIES:
+:Author: Laxian
+:Score: 1
+:DateUnix: 1460943034.0
+:DateShort: 2016-Apr-18
+:END:
+
+
+**** u/Taure:
+#+begin_quote
+  And I could actually see Hermione saying that multiple times a year at Hogwarts.
+#+end_quote
+
+If Hermione said that multiple times a year then it would kinda justify the Pure-blood opinion of Muggleborns.
+
+Hermione's most admirable quality is how she completely embraced the wizarding world. By the time we get to DH she seems to think of herself completely as a witch. There's no evidence that she has any Muggle aspect to her identity left.
+:PROPERTIES:
+:Author: Taure
+:Score: 4
+:DateUnix: 1460883296.0
+:DateShort: 2016-Apr-17
+:END:
+
+***** I don't think so - otherwise she'd have given up her house-elf-crusade! (which she didn't as far as I know) That was something she came up with because of her upbringing which makes slavery a bad thing (no exceptions!)!
+
+I mean yeah, she might know more magic than the run of the mill muggleborn, but I don't think she fully assimilated and gave up on the muggle world (it wouldn't be like her, she's into books and muggles publish a lot more books a year than wizards for example!).
+
+As a matter of fact I think she often uses (or tries to use) logic when it comes to magic which doesn't always work (that's why her practical while good isn't always the best (Harry beats her in defense for example!))
+:PROPERTIES:
+:Author: Laxian
+:Score: 1
+:DateUnix: 1460943278.0
+:DateShort: 2016-Apr-18
+:END:
+
+****** I'm not sure that Hermione's campaign for House Elf liberation has so much to do with her Muggle upbringing as it has to do with her desire for justice. Regardless, there are also some pretty strong indications that Hermione has adapted to the wizarding world. The most obvious is her memory charming her parents and sending them off to Australia without their knowledge or consent. Her approach to fiddling with the mind and paternalistic attitude towards Muggles is very much typical of the wizarding world.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1460996943.0
+:DateShort: 2016-Apr-18
+:END:
+
+******* Well, if she desired justice (and it's not her "slavery is wrong" upbringing (I mean look at Ron etc. - no wizard actually bats an eyelash when the supposed slavery of house-elfs comes up!)) then I don't know why she didn't try to go to the board of governors because of Snape's behaviour in class, Malfoy's bullying (hell bullying over all) etc. - IMHO she's not after justice, not really, she's trying to correct something that her upbringing (which was muggle) ingrained in her to see as wrong!
+
+The parents thing (as wrong as it is!), is just her being overprotective and bossy (I mean she always thinks she has the right to impose her will on others, like when she herself bullies Harry and Ron to study or when she has to be right, even when she really isn't) - she's always right and her parents can't possibly know the danger they are in (that they would probably stay despite the danger is beside the point in her mind!)
+
+I agree that she sees herself as superior to the ordinary muggle (then again: She - IMHO - sees herself to be superior to the ordinary witch/wizard, too I mean she more or less seems to think they wouldn't know common sense and logic if it hit them in the head!)
+:PROPERTIES:
+:Author: Laxian
+:Score: 1
+:DateUnix: 1461056113.0
+:DateShort: 2016-Apr-19
+:END:
+
+
+** Why do you assume that electronic items don't work at Hogwarts because magic disrupts electricity? Here's an equally viable explanation: Hogwarts is a highly magical place and electronic items are highly Muggle. The magicalness of Hogwarts prevents the extremely Muggle objects from functioning. It doesn't do so through any physical means - it doesn't disrupt the electrical workings of the object. It just says "this object will not work" and it doesn't.
+
+There's no reason to assume that the magicalness of Hogwarts is some kind of "field" or any other kind of physical analogue. Rather I prefer to think of it as an attribute. So the following statements would all be of the same kind: Hogwarts is mysterious, Hogwarts is welcoming, Hogwarts is highly magical. Just as there's no mysteriousness field around Hogwarts making it so, nor is there a magical field doing it for magicalness.
+
+Since we know abstract concepts are magically real (see spells being cast on job positions, secrets, words) there's nothing to stop these attributes from having a magical effect. And the magical effect of being a highly magical location is to prevent Muggle technological items from working.
+
+It's worth noting also, since everyone always forgets, that magic and electronics aren't opposing forces in general. In GoF Mr Weasley uses magic to repair an electric fireplace and it works just fine. There's no general incompatibility between magic and electronics. Rather it is a feature of highly magical places.
+
+So, in conclusion, to answer the OP: the magic of HP never makes me suspend by disbelief, beyond the initial suspension that magic is real. Once you've accepted the magic is real, you just have to get into the right mindset - what I call the "fairy tale logic" mindset. It's not quite true that wizards don't have logic as Hermione said in PS. Magic makes perfect sense, it's just a very different kind of sense to the Muggle world. You have to abandon the scientific way of thinking and embrace a more poetic logic to the way the world works. A logic where symbols, representations, metaphors and abstract ideas have reality and power. A logic that often works more like grammar, music or law than physics.
+:PROPERTIES:
+:Author: Taure
+:Score: 9
+:DateUnix: 1460881645.0
+:DateShort: 2016-Apr-17
+:END:
+
+
+** I don't know that it would be the /fields/ interacting, especially we have no evidence of a "magical field" - I always kind of assumed it'd be like an unintentional emp, where certain types of magic generate enough electromagnetic radiation to fry electronics in the vicinity.
+
+But anyway, I guess I always found it really weird that some classes appear to make heavy use of mathematics (in Transfiguration, for example, they're required to learn a bunch of equations during the first lesson) but they don't really have a class that teaches math. I'm sorta torn between students picking it up as they go along in each class, and students just not caring about math since it's only useful for theory and not for any practical aspects.
+:PROPERTIES:
+:Author: JeanLucAlpacard
+:Score: 3
+:DateUnix: 1460860491.0
+:DateShort: 2016-Apr-17
+:END:
+
+*** I was calling the whatever you call it that certain types of magic create the magical "fields". And I could see that happening.
+
+As for your point on the math equations, we never really have a good look at what happens during the theory portion of the lesson so the relevant math could be taught then.
+
+My classes in college do something like that, where they have a brief lesson on who the math behind the concept works first and then go on to how to apply the math to the concept. If that makes any sense.
+:PROPERTIES:
+:Author: chahn32
+:Score: 2
+:DateUnix: 1460862154.0
+:DateShort: 2016-Apr-17
+:END:
+
+
+** For your specific dilemma, I tend to think that Hogwarts has anti-lightning (therefore, anti-electricity) magic around it to prevent the castle from being struck.
+:PROPERTIES:
+:Author: Galuran
+:Score: 3
+:DateUnix: 1460862336.0
+:DateShort: 2016-Apr-17
+:END:
+
+*** So the anti lightning magic would permeate the entire castle. I could see that, just make practicing lightning based spells and such a pain.
+:PROPERTIES:
+:Author: chahn32
+:Score: 1
+:DateUnix: 1460862760.0
+:DateShort: 2016-Apr-17
+:END:
+
+
+** If it doesn't make sense to you and it's causing you grief, throw it out. Canon isn't that important.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1460866722.0
+:DateShort: 2016-Apr-17
+:END:
+
+*** Just make sure to add "AU" to the description and you're golden.
+:PROPERTIES:
+:Author: LocalMadman
+:Score: 1
+:DateUnix: 1461010162.0
+:DateShort: 2016-Apr-19
+:END:
+
+
+** You could do several one shots where characters notice that logical inconsistency and go from there. Or say that wizards have no logic .or just write well enough that readers will gloss over it
+:PROPERTIES:
+:Author: FinallyGivenIn
+:Score: 1
+:DateUnix: 1460862782.0
+:DateShort: 2016-Apr-17
+:END:
+
+*** u/chahn32:
+#+begin_quote
+  .or just write well enough that readers will gloss over it
+#+end_quote
+
+Unfortunately I am no where near that skilled.
+:PROPERTIES:
+:Author: chahn32
+:Score: 1
+:DateUnix: 1460863225.0
+:DateShort: 2016-Apr-17
+:END:
+
+
+** I don't understand your argument. While, per my understanding, Maxwell's equations are applicable in the context of General Relativity, our fundamental understanding of electromagnetism is found in Quantum Field Theory, which, as is reasonably well known, is currently incompatible with GR. Why, given our current understanding of physics, should gravity and electromagnetism be treated as equivalent.
+
+Moreover we know that magic generally does not affect 'passive' electromagnetic interactions as light propagates in the manner expected by muggleborns. The issue apparently lies in what might be called 'active' electromagnetism, i.e., objects reliant on electric control.
+:PROPERTIES:
+:Author: hpaddict
+:Score: 1
+:DateUnix: 1460864099.0
+:DateShort: 2016-Apr-17
+:END:
+
+*** I'm digging back to the idea that gravity and electromagnetism are two of the four fundamental forces of physics, and why should magic interact differently with each of the four.
+
+Would the interaction of magic and QFT be some reason.
+
+I apologize my current understanding of electromagnetism is heavily based off of a physics class structured around Maxwell's Equations and the Quantum Field Theory flies over my head.
+
+#+begin_quote
+  The issue apparently lies in what might be called 'active' electromagnetism, i.e., objects reliant on electric control.
+#+end_quote
+
+Just curious but what difference would changing from passive to active electromagnetism have on the underlying physics? Or is it a magical distinction?
+:PROPERTIES:
+:Author: chahn32
+:Score: 2
+:DateUnix: 1460865062.0
+:DateShort: 2016-Apr-17
+:END:
+
+**** u/hpaddict:
+#+begin_quote
+  I'm digging back to the idea that gravity and electromagnetism are two of the four fundamental forces of physics, and why should magic interact differently with each of the four.
+#+end_quote
+
+Yes, gravity and electromagnetism are two of the fundamental forces found in nature but current theory treats them separately. EM is combined with the strong and weak nuclear forces into Quantum Field Theory while General Relativity is used to describe gravitation. As QFT and GR remain distinct theories the treatment of gravity and EM as equivalent is unnecessary.
+
+#+begin_quote
+  Just curious but what difference would changing from passive to active electromagnetism have on the underlying physics?
+#+end_quote
+
+I merely pointed out that the observed interaction between background magic and gravity is similar to the interaction between background magic and light, i.e., electromagnetic radiation, or 'passive' electromagnetism. Only human constructed machines that attempt to manipulate EM over long time scales appear to be affected; there aren't really gravitational equivalents.
+:PROPERTIES:
+:Author: hpaddict
+:Score: 1
+:DateUnix: 1460866821.0
+:DateShort: 2016-Apr-17
+:END:
+
+
+** I tend to either drop/replace stuff that doesn't make sense, or - if it's an event that happened before the story starts - ignore it if it can be ignored without opening plot holes in the story itself.
+:PROPERTIES:
+:Author: Starfox5
+:Score: -1
+:DateUnix: 1460881336.0
+:DateShort: 2016-Apr-17
+:END:

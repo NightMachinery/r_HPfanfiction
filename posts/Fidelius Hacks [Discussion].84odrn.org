@@ -1,0 +1,343 @@
+#+TITLE: Fidelius Hacks [Discussion]
+
+* Fidelius Hacks [Discussion]
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 5
+:DateUnix: 1521135840.0
+:DateShort: 2018-Mar-15
+:FlairText: Discussion
+:END:
+So I had an exchange recently about the relative merits of the Fidelius Charm and the Bond of Blood as a means to protect Harry (i.e. did he /really/ have to live in the Muggle world to be safe?). I don't want to get into that latter question, but as I'm using this soon in my own story, I thought it'd be helpful discuss some ways to make the Fidelius more secure. The HP wiki has some speculation on who can be the Secret Keeper (the keeper must be capable of giving away the secret, for example) which I'm fine with accepting otherwise this becomes really easy (James could've make Lily the keeper).
+
+-Perhaps one could make a ghost the SK? I know Flitwick says the keeper has to be a living soul, but fanfiction can do what it wants~ And since Ghosts are virtually immune to change (much less harm), and there's not really anything to threaten them with to give it up.
+
+-Have the Secret Keeper put under an Unbreakable Vow that they won't event attempt to tell the Secret to anyone (at least not without explicit permission from those being hidden). I figure in this case, it would be more secure than simply Vowing not to tell, since it still leaves them able to give away the secret if they accept dying as a consequence of doing so. But if they swear not even try to tell, it seems more secure since they'd die before being able to; seems more canon friendly too. Of course, maybe one could suppose this breaks the stipulation that the Keeper has to be capable of telling the secret, I'm not sure.
+
+There are probably other interesting ways to protect the hidden secret (make a random snake the Keeper if the caster can speak Parsletongue?), but I figure someone else might have a more interesting way.
+
+
+** I've often thought that the power of the Fidelius was based on trust, so using some other spells to force compliance would weaken or even destroy the Fidelius charm in place. You wouldn't be able to make your house-elf the secret-keeper, for instance.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 16
+:DateUnix: 1521139032.0
+:DateShort: 2018-Mar-15
+:END:
+
+*** I'm not sure about that. Those hidden may well have to trust that person, but the Secret Keeper is well aware they could give them up if they chose to. Like, couldn't they /trust/ the other to put them under an Unbreakable Vow so they couldn't be intimidated into giving up the secret (through threats on family members for example). I mean, Sirius said he'd have rather died than give up the Potters so I doubt he'd have been too chuffed at the option to undergo a Vow for insurance.
+
+As for the Elf example, yea I can see the point there, but how many purebloods would be able to actually put the appropriate kind of trust in their elf? Even an apparently good person like Sirius couldn't trust his family elf (understandably so). Elves can also break their master's orders, so it's not really foolproof (Dobby and Kreacher flouted their master's orders quite successfully).
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 2
+:DateUnix: 1521141465.0
+:DateShort: 2018-Mar-15
+:END:
+
+**** First of all 'chuffed' means 'pleased' and not 'bothered' -- your suggestion that Sirius wouldn't mind having a Vow help him keep faith was understood even though it was backwards. That said, at some level it's an insult to say 'I trust you with this' and then add, 'but I'm assigning an enforcer to you so that you know to stay trustworthy'.
+
+For the house-elf, their owner has the power to make them obey explicit commands, so I don't think Regulus Black could make Kreacher a secret-keeper even if he'd wanted to, since there are other magics in play that disrupt the meaning of 'trust' for the sake of a Fidelius charm.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 2
+:DateUnix: 1521143243.0
+:DateShort: 2018-Mar-15
+:END:
+
+***** That was supposed to say "chafed" (I didn't know 'chuffed' was even a word, lol).
+
+#+begin_quote
+  'I trust you with this' and then add, 'but I'm assigning an enforcer to you so that you know to stay trustworthy'.
+#+end_quote
+
+That's a misunderstanding of what I'm saying. Anyone can be threatened by taking aim at people they love. Sirius might have hated most of his family, but can we really say that if Andromeda and Tonks were captured by Voldemort (it was a war and Andromeda was a blood-traitor) that Sirius wouldn't be extremely tempted to give up the secret? Trust doesn't mean you are free from other possible obligations ensuring we uphold that trust (we regulate cops after all, despite ostensibly trusting them with lethal force).
+
+As I said, I don't think wizards who actually have elves would have the kind of trust to make them the Secret Keeper even if they wanted to. But that said, Elves can disobey orders, they aren't an absolute hence why self-harm is sometimes done for failing to comply. And even if it were absolute, if their orders aren't completely disambiguous, they could pull a Kreacher and interpret an order in such a way as to give the secret up. That's partly why I suspect no wizards would be willing to trust a house-elf with the secret (if it's possible anyway).
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 2
+:DateUnix: 1521143825.0
+:DateShort: 2018-Mar-15
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1521140503.0
+:DateShort: 2018-Mar-15
+:END:
+
+*** How do we know for a fact Dumbledore didn't know Peter was the secret keeper ? I really don't want to go in the old manipulative Dumbledore theories, but we really don't know that for sure.
+
+Dumbledore "knows" Sirius killed Peter and sold the Potters, but in PoA when he listens to the ramblings of two teens, he suddenly decides Sirius is innocent ? That's too far fetched for me.
+
+I can't see the Fidelius being cast without knowing where you're putting the secret while casting it. Of course you'd forget straight away when it's done, but I'm pretty sure the keeper would have to be present to cast it.
+
+And then, to learn of the secret, Dumbledore would have to have been told by Peter.
+
+So if we accept that Dumbledore didn't know where they were hidden (which seems unlikely, considering ... well ... he's Dumbledore they'd have to have told him), the only logical explaination would be that Dumbledore didn't cast it. Someone else must have. And the only four people who could have done it would be James and Lily (with Peter present to receive the secret), or Peter (which would mean the caster is the secret keeper, which seems unlikely considering how proficient Peter was at magic), or Sirius (who actually suggested they changed keeper (still with Peter present to receive the secret).
+
+That's my take on it :)
+:PROPERTIES:
+:Author: K0ULIK0V
+:Score: 5
+:DateUnix: 1521141601.0
+:DateShort: 2018-Mar-15
+:END:
+
+**** u/turbinicarpus:
+#+begin_quote
+  How do we know for a fact Dumbledore didn't know Peter was the secret keeper ?
+#+end_quote
+
+What possible motive would Dumbledore have for keeping Sirius in Azkaban and the traitor possibly at large?
+
+#+begin_quote
+  Dumbledore "knows" Sirius killed Peter and sold the Potters, but in PoA when he listens to the ramblings of two teens, he suddenly decides Sirius is innocent ? That's too far fetched for me.
+#+end_quote
+
+Why? They have no reason to lie, he might be able to sense deception a little bit, and it fits with the rest of what he knows. Sirius's "betrayal" was a huge surprise for everyone in the first place.
+
+#+begin_quote
+  I can't see the Fidelius being cast without knowing where you're putting the secret while casting it. Of course you'd forget straight away when it's done, but I'm pretty sure the keeper would have to be present to cast it.
+#+end_quote
+
+That's a very good mechanism explaining why Dumbledore thought it was Sirius: upon casting, he forgot, and then just assumed because that was the original plan.
+
+#+begin_quote
+  And then, to learn of the secret, Dumbledore would have to have been told by Peter.
+#+end_quote
+
+Or, he read a note written by Peter.
+
+#+begin_quote
+  So if we accept that Dumbledore didn't know where they were hidden (which seems unlikely, considering ... well ... he's Dumbledore they'd have to have told him),
+#+end_quote
+
+For that matter, did Dumbledore have need-to-know? James, Lily, and Peter were the only ones with need-to-know.
+
+#+begin_quote
+  the only logical explaination would be that Dumbledore didn't cast it.
+#+end_quote
+
+The "logical explanation" raises more questions and contradictions than it resolves.
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 2
+:DateUnix: 1521146989.0
+:DateShort: 2018-Mar-16
+:END:
+
+***** Well a possible motive for Dumbledore to not contest Sirius being thrown into jail would be if he thought Sirius killed both Peter /and/ the 13 muggles. Becoming a mass murderer in ones quest for vengeance is usually frowned upon by polite society.
+:PROPERTIES:
+:Author: Triflez
+:Score: 3
+:DateUnix: 1521154879.0
+:DateShort: 2018-Mar-16
+:END:
+
+****** That's an interesting point, but Dumbledore couldn't be sure that it was Sirius who had caused the explosion and not Pettigrew, and he wouldn't send someone to Azkaban for life over a 50-50 guess.
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 1
+:DateUnix: 1521232434.0
+:DateShort: 2018-Mar-17
+:END:
+
+******* Dumbledore doesn't actually send people to prison, not his job. During that tme Crouch did that and according to the Ministry Sirius was caught red handed. Dumbledore really has no reason to question that.
+:PROPERTIES:
+:Author: Triflez
+:Score: 3
+:DateUnix: 1521233125.0
+:DateShort: 2018-Mar-17
+:END:
+
+******** Good point, but then, even if he believed Sirius to have been guilty of that crime, I don't think he would have considered him so irredeemable as to deserve a life in Azkaban. At the very least, he would have set the record straight about Sirius not being a Death Eater.
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 2
+:DateUnix: 1521256408.0
+:DateShort: 2018-Mar-17
+:END:
+
+
+***** u/Deathcrow:
+#+begin_quote
+  What possible motive would Dumbledore have for keeping Sirius in Azkaban and the traitor possibly at large?
+#+end_quote
+
+To keep Harry under his thumb in order to raise a child martyr?
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 2
+:DateUnix: 1521209301.0
+:DateShort: 2018-Mar-16
+:END:
+
+****** At the time, Dumbledore didn't know that Harry would need to be "martyred". (Does it count as martyrdom if you get to live in the end, anyway?) Try again. :P
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 2
+:DateUnix: 1521231614.0
+:DateShort: 2018-Mar-16
+:END:
+
+******* Maybe not, but Dumbledore was manipulative and it's easier to manipulate a hero who doesn't have a parent! Even if Dumbledore didn't plan Harry's sacrifice at that time, having a humble Harry dependent on Dumbledore's guidance would still be preferable with that prophecy in play (from Dumbledore's POV...the man is a chess master who plans his moves decades ahead!)
+:PROPERTIES:
+:Author: Laxian
+:Score: 1
+:DateUnix: 1521340592.0
+:DateShort: 2018-Mar-18
+:END:
+
+******** To condemn an innocent man to a hell on Earth, because at some point in the distant future, he might need to manipulate Harry into doing what Harry would have wanted to do anyway? That doesn't sound like Dumbledore at all. (Also, consider that canon Harry is actually pathologically distrustful of authority. It sounds like your "decades ahead" Dumbledore couldn't even plan for that.)
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 1
+:DateUnix: 1521404933.0
+:DateShort: 2018-Mar-18
+:END:
+
+
+**** Proficient enough to become an animagus while in school and without professional guidance (McGonagall or Dumbledore)...Peter might have been great at magic, but not the greatest among the Marauders (meaning James, Sirius and Remus are better, but that doesn't make him bad!), not to mention that Snape and Lilly were in that year, too and they both were also great at magic (remember Snape wants to teach defense and is qualified for that, too maybe even as good as he's at potions! I mean that guy made his own SPELLS while in school! Sectum Sempra anybody?)...so Peter is probably just unlucky that he's part of that class and not another that doesn't have that many shining stars in it!
+:PROPERTIES:
+:Author: Laxian
+:Score: 1
+:DateUnix: 1521340414.0
+:DateShort: 2018-Mar-18
+:END:
+
+
+*** #1 is fine, but the caster and Keeper can be the same person (Dumbledore was both for the Grimmauld Place). #2 is most likely false. There's no reason the Potters or Sirius couldn't have cast the Fidelius, given we know Bill could do so as well. We don't know who cast the Fidelius for the Potters initially, but we know Dumbledore didn't know about the switch so either they undid the Charm and recast it themselves or one is allowed to change Secret Keepers while keeping the initial enchantment going. #3 is definitely fine, but #4, as you said, seems to be false in canon.
+
+However, you raised a question I think canon answers. We're told people knew the Potters were going (or had gone) under Fidelius - presumably they noted their house in Godric's Hollow had vanished - and Sirius said he knew the obvious candidate for their Secret Keeper was Sirius himself. My guess is that Sirius knew there were people Voldemort could capture and threaten so as to force Sirius to give up the Secret. Sirius might have been willingly to die if his own life were threatened, but what if, say, Andromeda and Tonks had been captured? Pretty shitty situation.
+
+#+begin_quote
+  The Secret-Keeper can not be an animal, according to the wiki. The keeper must be 'free to tell the secret whenever they desire'.
+#+end_quote
+
+I know the Wiki says this, but it's a purely a supposition, The second bit I agree with, but the first bit is not said anywhere. It doesn't even contradict being free to tell the secret. The example I gave wasn't just any animal, but snakes, who can at least communicate with Parslemouths (of which Voldemort is a speaker of). The real issue is that doing this means he'd never find the random snake they gave the secret to, which is a bit of a tension killer. Better explanation might be that animals don't have souls to store the secret in, perhaps.
+
+The ghost bit is confusing. Snape and others refer to them as imprints of souls, so it seems to say they aren't souls themselves (meaning the charm should fail). But Nick - obviously a ghost himself - says that wizards can come back rather than go on, which seems to suggest the ghosts are literally the soul of the person come back to earth. So I'm not sure. Horcruxes seem a simpler case: they would most likely register as the same soul as the original, so the caster couldn't hide the secret in a bit of their own soul.
+
+Your 2-layer Fidelius idea seems like a solid one though given it was used in DH (I'd forgotten). Thanks!
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 2
+:DateUnix: 1521142703.0
+:DateShort: 2018-Mar-15
+:END:
+
+
+** The secret keeper must be a living soul. If you're willing to go this far, it should be possible to make your own Horcrux the secret keeper.
+:PROPERTIES:
+:Author: AnIndividualist
+:Score: 2
+:DateUnix: 1521139528.0
+:DateShort: 2018-Mar-15
+:END:
+
+*** I think the Horcrux would count as the same person to the spell, so I don't think that response works.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 1
+:DateUnix: 1521140997.0
+:DateShort: 2018-Mar-15
+:END:
+
+**** I think it's up to interpretation. A horcrux is, after all, a part of a soul that has been seperated from the soul while still being connected to it. To definitely answer that question would require some testing, which neither you nor I can perform for obvious reason... ;)
+:PROPERTIES:
+:Author: AnIndividualist
+:Score: 1
+:DateUnix: 1521150837.0
+:DateShort: 2018-Mar-16
+:END:
+
+***** Hah! Fair enough. My thought is that the soul pieces still consider themselves to be the same person (look at the diary ("Voldemort is my past, present and future") and being bits of his soul it might count.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 1
+:DateUnix: 1521156863.0
+:DateShort: 2018-Mar-16
+:END:
+
+****** Then whatever fits the fic best, I guess.
+:PROPERTIES:
+:Author: AnIndividualist
+:Score: 1
+:DateUnix: 1521202751.0
+:DateShort: 2018-Mar-16
+:END:
+
+
+** In my mind, the fidelious is just as emotion-driven as the patronus or the unforgivables.
+
+The charm doesn't merely require.you to trust someone with the secret, the foundational ability to cast the spell in the first place is complete and total trust.
+
+Thus any attempts to make the secret more secure automatically makes the spell fail (or at least be too weak to do much good) the same way an insufficiently happy memory skunks the patronus.
+:PROPERTIES:
+:Author: Astramancer_
+:Score: 2
+:DateUnix: 1521168447.0
+:DateShort: 2018-Mar-16
+:END:
+
+*** Can it not be the case that you have complete trust in someone but acknowledge they may still fail due to complications and thus add more insurance? Say if the Secret Keeper's family is kidnapped to force their. It's difficult to get angry with them and call it a violation of trust when nearly any morally normal person would be very tempted, and in most cases probably give up the secret to save their family.
+
+And besides, other charms can be cast on a Fidelius'd location. The Grimmauld Place had other protective enchantments beside the Fidelius applied on top, so it's not like other magics being present automatically negate using it.
+
+Tbf, I somewhat agree the Vow might go too far with my suggestion that it prevent even attempting to give away the secret. But seeing as Sirius, for example, said he'd have rather died than betray the Potters, I don't think it'd be a violation of trust to take him up on that an have him undergo the Vow as insurance should his hand be forced (e.g. if Andromeda & Tonks had been kidnapped by Voldemort).
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 2
+:DateUnix: 1521181956.0
+:DateShort: 2018-Mar-16
+:END:
+
+
+*** Question though: do you think the charm can work with a ghost as the secret keeper?
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 1
+:DateUnix: 1521209475.0
+:DateShort: 2018-Mar-16
+:END:
+
+**** Depends on how ghosts work in your fork of the universe.
+
+To me? The ghosts don't seem to be exactly ... sapient. They can, to some degree, process information and remember recent things, but they also appear to be somewhat stuck in a loop. More like the VI's of mass effect -- as long as you don't spend too much time with them you could mistake them for sapient, but after you spend enough time around them you realize that they're mere echos of a person and not the person themselves. Look at Professor Binns. Maybe he was a shitty lecturer before he died, but he doesn't seem to particularly notice the class or remember who is actually in his classes. In my mind, ghosts are unsuitable candidates for the fidelius because they are no longer proper thinking beings. They're an echo of a wizard, not a wizard themselves.
+
+But if you want to use ghosts, I'd say, at best, ghosts have issues converting short term memories into long term memories. They might be able to be a secret keeper, but the fidelius would be weak and fail in short order - depending on the ghost, months to a few years. Some particularly ... /present/ ghosts might be able to hang onto the secret for a decade, at most, before their memory of the secret fades and the tenuous link to the charm fails.
+:PROPERTIES:
+:Author: Astramancer_
+:Score: 2
+:DateUnix: 1521210163.0
+:DateShort: 2018-Mar-16
+:END:
+
+***** I'm not so sure about the loopy bit or them lacking good short term memory. The Gray Lady didn't seem to have any issues recalling Tom Riddle from decades prior and knew about Voldemort who was a more modern figure of note. There might be something to this (if so, I suspect it has more to do with how long the ghost has been around), but I don't think memory would be the issue with casting the Fidelius.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 2
+:DateUnix: 1521214923.0
+:DateShort: 2018-Mar-16
+:END:
+
+
+** I've read an interesting fic where Voldie imperiused the muggle mayor to change the name of the Grimmauld street to make fidelius fail once Dumbles learned of the change.
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1521190722.0
+:DateShort: 2018-Mar-16
+:END:
+
+*** That is both hilarious and genius, lmao.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 1
+:DateUnix: 1521205761.0
+:DateShort: 2018-Mar-16
+:END:

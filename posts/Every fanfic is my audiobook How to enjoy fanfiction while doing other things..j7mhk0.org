@@ -1,0 +1,154 @@
+#+TITLE: Every fanfic is my audiobook: How to enjoy fanfiction while doing other things.
+
+* Every fanfic is my audiobook: How to enjoy fanfiction while doing other things.
+:PROPERTIES:
+:Author: MidwinterOtter
+:Score: 38
+:DateUnix: 1602194375.0
+:DateShort: 2020-Oct-09
+:FlairText: Misc
+:END:
+This post is about how I savour fanfiction, I usually do so while cleaning, bustling about at home or while biking in one ear (please be safe on the roads and leave one ear free).
+
+In the really useful stuff section you will learn how to never have to read “orbs” or “Hadrian” again unless you want to.
+
+This is my routine if I need to fill up my library. I use android and don't know of any IOS alternatives
+
+ 
+
+*/Get a lot of links/*
+
+By using a chrome plugin we can get links of all the tabs off fics which which you have opened. 1. Select the tabs: [[https://winaero.com/select-move-multiple-tabs-google-chrome/]] : ctrl + f : ”Select a range of tabs”.
+
+1. Copy them [[https://chrome.google.com/webstore/detail/copy-all-urls/djdmadneanknadilpjiknlnanaolmbfk]]
+
+ 
+
+*/Get a lot of eBook files/*
+
+Calibre is an eBook manager with a plugin for downloading fanfics, we will also use it to get the books onto your phone.
+
+1. Get calibre. [[https://calibre-ebook.com/]]
+
+2. Install the Plugin FanFicFare under settings.
+
+3. Use the little arrow on the side off FanFicFare and download from addresses, paste the links in your clipboard and download.
+
+4. When downloaded select all books
+
+Optional but recommended to decrease the number of tags needed to scroll by on the phone.
+
+1. Edit meta-data in bulk
+
+2. Checkbox “Remove all” and “clear series” on tags. (Series adds tags and I usually use the plugin “EpubMerge” to make series into a single book)
+
+3. Add tags, whatever you want, perhaps the main characters. I use only “Harry Potter ff” to decrease the amount of tags. (When I download fics from ao3 my tag count have risen from 39 to 403 in one instance)
+
+ 
+
+*/Get an eBook reader./*
+
+There are many eBook readers, but I use Moon+ Reader, it works for me and some reasons are given in the Really Useful section. • Paid version with text-to-speech [[https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp]]
+
+ 
+
+*/Get the books on your phone/*
+
+We use the Calibre Companion app to get the files wirelessly from your pc to your reader, you may just dump them in your eBook reader app folder instead, but this is faster and less of a hassle
+
+1. Install Calibre Companion on your phone. (there is a demo version) [[https://play.google.com/store/apps/details?id=com.multipie.calibreandroid&hl=en_US]]
+
+2. Have the phone on the same network as PC.
+
+3. On PC Calibre, press the “Connect/share” button and start wireless sharing
+
+4. In Calibre Companion choose settings in the drop-down menu. Under “Formats and folders” choose the correct default folder which is your reader app.
+
+5. In the app press connect as a wireless device.
+
+6. The Device will show up in the banner.
+
+7. Select all the eBooks and drag them to the device button.
+
+8. Moon reader will add the books if you update manually or close the app completely and restart
+
+ 
+
+*/Get your storyteller/*
+
+Choose how you want text-to-speech to sound.
+
+1. In Moon+ open a book and choose the three dots in the lower banner.
+
+2. Remove Auto-scroll and add speak(or something close in your language)
+
+3. Press the speaker button
+
+4. IT SOUNDS HORRIBLE, I know, pause it.
+
+5. Choose the small cogwheel in the new banner.
+
+6. Choose the cogwheel in the settings.
+
+7. Install voice-data.
+
+Here you might shop around and find your preference, but here is mine
+
+1. English(Great Britain)
+
+2. Voice II
+
+3. When installed go back until you reach the app again
+
+4. Choose 9 for pitch and 11 for the rate of speech
+
+ 
+
+*/Really useful stuff/*
+
+1: When having an eBook open you can use the three dots button in the top corner to access the Names Replacement function. I have made the following substitutions Orbs > eyes Hadrian > Henry And have also used it to change really stupid fanfiction names to something more tasteful
+
+2: You will come to hate fanfic authors for their inability to use correct section breaks and instead use:
+
+xxxXXXxxxxxxXXXxxxxXXXxxxxXXXxxxxxxXXXxxx
+
+Guess what a text-to-speech does with the above? When you find something like that copy and paste it into name replacement and replace it with a “.” a period.
+
+3: There is a open a random book function in Moon+. I filter my books according to the last read which makes it easy
+
+ 
+
+*/Fanfic Recommendations/*
+
+Benefits of old laws [[https://www.fanfiction.net/s/11540013/1/]]
+
+A well-written fanfiction with many three-dimensional characters with character growth and political intrigue.
+
+Harry Potter and the International Triwizard Tournament [[https://www.fanfiction.net/s/13140418/1/]]
+
+A well-written fanfiction with many three-dimensional characters and a refreshing new spin on 4th year and after some horrible harem fanfictions this is a real slow burn political and emotionally sound one that thus far doesn't make me gag
+
+
+** Thanks for typing all this out and organizing it so well. How long did it take you? It's a very useful guide.
+:PROPERTIES:
+:Author: RookRider
+:Score: 3
+:DateUnix: 1602222657.0
+:DateShort: 2020-Oct-09
+:END:
+
+*** I think it took me about 4 hours with checking everything and trying to not leave confusing gaps. Thank you for appriciating the work I put into it.
+:PROPERTIES:
+:Author: MidwinterOtter
+:Score: 4
+:DateUnix: 1602228349.0
+:DateShort: 2020-Oct-09
+:END:
+
+
+** Cool, thank you for sharing!
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1602197097.0
+:DateShort: 2020-Oct-09
+:END:

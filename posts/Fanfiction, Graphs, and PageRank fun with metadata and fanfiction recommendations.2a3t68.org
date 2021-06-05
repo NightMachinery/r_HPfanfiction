@@ -1,0 +1,67 @@
+#+TITLE: Fanfiction, Graphs, and PageRank: fun with metadata and fanfiction recommendations
+
+* Fanfiction, Graphs, and PageRank: fun with metadata and fanfiction recommendations
+:PROPERTIES:
+:Author: misplaced_my_pants
+:Score: 15
+:DateUnix: 1404784371.0
+:DateShort: 2014-Jul-08
+:FlairText: Suggestion
+:END:
+[[http://colah.github.io/posts/2014-07-FFN-Graphs-Vis/][Fanfiction, Graphs, and PageRank]]: it's a fun read and very accessible!
+
+
+** This is a wonderful article. The author's suggestions for recommendations on websites such as ff.net and AO3 are very interesting, as there is (to my knowledge) no existing recommendation engine for fanfiction. However, some of the mathematical notation used may not make this read as accessible as one would think. Nonetheless, I encourage anyone who has once thought about automated fanfiction recommendation to skim over this article. Thank you very much for posting this!
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1404788726.0
+:DateShort: 2014-Jul-08
+:END:
+
+
+** Useful article, reminded me of [[https://dhs.stanford.edu/social-media-literacy/tvtropes-pt-1-the-weird-geometry-of-the-internet/][this other one for TVTropes]].
+
+[[http://imgur.com/4GgWHbI][The very first graph]] representing connections between stories seems to be off though---there shouldn't be so many isolated nodes. In [[http://www.yworks.com/en/products_yed_about.html][YED]], I was prone to getting similar results when I was importing the data incorrectly.
+
+Also, a [[/r/dataisbeautiful]] plug is somewhat relevant ITT.
+:PROPERTIES:
+:Author: OutOfNiceUsernames
+:Score: 3
+:DateUnix: 1404795969.0
+:DateShort: 2014-Jul-08
+:END:
+
+
+** Realizations the top fic? Well it could have been worse, I guess. I don't remember anything special about it.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1404818826.0
+:DateShort: 2014-Jul-08
+:END:
+
+*** This list is a very good demonstration of how popularity ≠ quality. A lot of the fics near the top of the list are terrible power fantasies. And the fact that /In This World and the Next/ is #20 makes me want to go off on a profanity-laced rant.
+:PROPERTIES:
+:Author: denarii
+:Score: 3
+:DateUnix: 1404866157.0
+:DateShort: 2014-Jul-09
+:END:
+
+**** Harry Crow is even higher.
+
+ಠ_ಠ
+:PROPERTIES:
+:Author: DoubleFried
+:Score: 3
+:DateUnix: 1404931637.0
+:DateShort: 2014-Jul-09
+:END:
+
+
+**** I'd be curious how it would work on sites that have stricter standards for submission quality.
+:PROPERTIES:
+:Author: misplaced_my_pants
+:Score: 1
+:DateUnix: 1404877197.0
+:DateShort: 2014-Jul-09
+:END:

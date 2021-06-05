@@ -1,0 +1,20 @@
+#+TITLE: Skyehawke to epub that works?
+
+* Skyehawke to epub that works?
+:PROPERTIES:
+:Author: nolajaxie
+:Score: 1
+:DateUnix: 1595118830.0
+:DateShort: 2020-Jul-19
+:FlairText: Misc
+:END:
+Can someone point me in the direction of a way to convert/download stories from skyehawke?
+
+
+** [[https://github.com/JimmXinu/FanFicFare]] (either as a standalone application or Calibre plugin) claims to support the site.
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1595138214.0
+:DateShort: 2020-Jul-19
+:END:

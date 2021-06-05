@@ -1,0 +1,19 @@
+#+TITLE: Does anyone know how to download a story off of Wattpad?
+
+* Does anyone know how to download a story off of Wattpad?
+:PROPERTIES:
+:Author: onlytoask
+:Score: 8
+:DateUnix: 1514610682.0
+:DateShort: 2017-Dec-30
+:END:
+
+** The FanFicFare plugin for Calibre appears to support WattPad (and just about any other fanfic site you can name). It's quite excellent.
+
+[[https://github.com/JimmXinu/FanFicFare/wiki/Supportedsites]]
+:PROPERTIES:
+:Author: RMGir
+:Score: 3
+:DateUnix: 1514653754.0
+:DateShort: 2017-Dec-30
+:END:

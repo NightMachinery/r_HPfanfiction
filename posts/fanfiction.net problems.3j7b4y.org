@@ -1,0 +1,161 @@
+#+TITLE: fanfiction.net problems?
+
+* fanfiction.net problems?
+:PROPERTIES:
+:Score: 13
+:DateUnix: 1441102573.0
+:DateShort: 2015-Sep-01
+:FlairText: Misc
+:END:
+The basic website works just fine, but I can't access my profile. Is anyone else having this problem atm?
+
+
+** It has been buggy for me for about two weeks - the view counters didn't update anymore. Today it's hit or miss - sometimes I can access my account, sometimes I can't.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 4
+:DateUnix: 1441105924.0
+:DateShort: 2015-Sep-01
+:END:
+
+*** The stats weren't even loading for me for the last two weeks. I'd just get a "FanFiction.Net Error Type 1" every time.
+:PROPERTIES:
+:Author: deirox
+:Score: 1
+:DateUnix: 1441137196.0
+:DateShort: 2015-Sep-02
+:END:
+
+**** Same for me, I haven't been able to view my stats for about a fortnight and profiles seem to be gone atm. '503 service unavailable'
+:PROPERTIES:
+:Author: haloraptor
+:Score: 1
+:DateUnix: 1441140697.0
+:DateShort: 2015-Sep-02
+:END:
+
+
+** Yep. Also haven't got any email alerts for approaching 4 hours which is highly irregular for me.
+
+Junior Inquisitor also updated recently and it was getting loads of reviews but hasn't for the past 4 hours.
+:PROPERTIES:
+:Author: Domideus
+:Score: 3
+:DateUnix: 1441104208.0
+:DateShort: 2015-Sep-01
+:END:
+
+*** Link?
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1441117282.0
+:DateShort: 2015-Sep-01
+:END:
+
+**** To what? Junior Inquisitor? If so, I'm on mobile and can't remember the specific title, but it's the first thing to come up when you search it on Google.
+:PROPERTIES:
+:Author: Domideus
+:Score: 2
+:DateUnix: 1441117728.0
+:DateShort: 2015-Sep-01
+:END:
+
+
+** Smells like a MySQL server is cooking.
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 3
+:DateUnix: 1441139096.0
+:DateShort: 2015-Sep-02
+:END:
+
+
+** Same here. If you have a nosy at the the 'Just in' section, the newest story to the site was submitted 3 hours ago, so seems to be a whole site problem.
+:PROPERTIES:
+:Author: hippoparty
+:Score: 4
+:DateUnix: 1441103394.0
+:DateShort: 2015-Sep-01
+:END:
+
+
+** The twitter feed says they're having problems with spammers. They probably turned some features, like profile access and log ins, off to stop them from spamming some more until they have taken care of it. It sucks though.
+:PROPERTIES:
+:Author: -La_Geass-
+:Score: 2
+:DateUnix: 1441108110.0
+:DateShort: 2015-Sep-01
+:END:
+
+
+** I seem to be unable to favorite a story I read. Possibly related?
+:PROPERTIES:
+:Author: Riversz
+:Score: 2
+:DateUnix: 1441128888.0
+:DateShort: 2015-Sep-01
+:END:
+
+
+** The app on my iphone is down too, starts syncing gets to 10% then just shuts down.
+:PROPERTIES:
+:Author: Yoshizz
+:Score: 1
+:DateUnix: 1441106438.0
+:DateShort: 2015-Sep-01
+:END:
+
+
+** I have this problem too.
+:PROPERTIES:
+:Author: stefvh
+:Score: 1
+:DateUnix: 1441128416.0
+:DateShort: 2015-Sep-01
+:END:
+
+
+** I keep getting an error when I try follow or favorite a story.
+:PROPERTIES:
+:Author: MagicMistoffelees
+:Score: 1
+:DateUnix: 1441129052.0
+:DateShort: 2015-Sep-01
+:END:
+
+
+** Of course. Just as I finally make an account. Oh well. Hopefully it'll be back up soon.
+:PROPERTIES:
+:Author: ApteryxAustralis
+:Score: 1
+:DateUnix: 1441142767.0
+:DateShort: 2015-Sep-02
+:END:
+
+
+** It seems to be affecting primarily whatever server or servers are involved with the submission of data. You can't submit a review, add a post to a forum, vote in a poll, add a story to favorites, etc. You also can't access your account.
+
+I'd like to think this is due to them trying to fix the stats bug that's been going on for the past week or so, but who knows...
+:PROPERTIES:
+:Author: philosophize
+:Score: 1
+:DateUnix: 1441188810.0
+:DateShort: 2015-Sep-02
+:END:
+
+
+** Could this also be why stories haven't updated?
+:PROPERTIES:
+:Author: kazetoame
+:Score: 1
+:DateUnix: 1441199451.0
+:DateShort: 2015-Sep-02
+:END:
+
+*** I know that the lack of stats has made completing a chapter less pressing for me. Now that the stats are back, I'm motor-vated to finish and post.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 2
+:DateUnix: 1441208023.0
+:DateShort: 2015-Sep-02
+:END:

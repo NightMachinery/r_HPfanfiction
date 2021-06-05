@@ -1,0 +1,698 @@
+#+TITLE: [Discussion] Methods to defeat a Fidelius...
+
+* [Discussion] Methods to defeat a Fidelius...
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 9
+:DateUnix: 1495527444.0
+:DateShort: 2017-May-23
+:FlairText: Discussion
+:END:
+I'm wondering what ideas we can come up with to defeat a Fidelius. A lot of this will probably be based on speculation, but we should allow everything that doesn't *directly* contradict canon, for example Wikia writes
+
+#+begin_quote
+  Additionally, it appears as if the disclosure must be voluntary (as evidenced by the fact that no dark wizard is ever seen attempting to coerce the disclosure by means of Veritaserum, Legilimency, the Cruciatus Curse or the Imperius Curse).
+#+end_quote
+
+That's a good argument, but it's just by implication (because the Fidelius would be less awesome and borderline useless) and not exactly watertight. More on that later.
+
+--- 1. Since the secret can be written down by the secret keeper, do other methods work as well?
+
+Can I spy on the secret keeper and create an audio recording? What about extendable ears? What happens if I create a foto-copy of the written down secret? Or is the magic somehow contained in the parchment itself? There seem to be a lot of possible weaknesses here if an opportunity presents itself.
+
+--- 2. Circumventing the secret.
+
+The wording of the secret in OotP:
+
+#+begin_quote
+  The headquarters of the Order of the Phoenix may be found at number twelve, Grimmauld Place, London.
+#+end_quote
+
+Wouldn't it have been a better idea to make it something like "There's a house at number twelve, Grimmauld Place, London"? or something to that effect? What if I'm not looking for the Headquarter of the Order of the Phoenix? Can the mail man still see the house? Since magic is all about intent, I probably can't just pretend that I don't want to know about the location of the Order of the Phoenix, but could I maybe confund myself into believing I'm the mailman? Or imperius someone else and ask them to look for a house that looks like it belongs to a wizard if I know the general area?
+
+--- 3. Area of effect spells.
+
+What happens if I spray paint in the area? Seems pretty simple to find the area where the paint disappears and then gather 20 of my friends and pepper the area with bombarda maxima for a week if necessary.
+
+--- 4. Coercing the secret-keeper
+
+I don't want to get too philosophical here, but what does 'voluntarily' even mean, when Pettigrew was able to divulge the secret? Are you telling me that he wasn't coerced? That he was just an evil fuck who wanted to see his friends die? He was afraid of Voldemort and wanted to save his own hide. I guess it went something like this: "Pettigrew, tell me where they are and you will be one of my most trusted leutenants" -> That's coercion. So either Peter Pettigrew is even more evil than presented or at least some degree of coercion works. Surely Pettigrew couldn't have kept the secret without fearing reprisal from Voldemort. "Volunarily" my ass. [Fanfic idea: Death Eaters can't tell their Lord the secret of the Fidelius around Malfoy Manor they've just cast, because they're perpetually coerced by him]
+
+I don't see any reason why I couldn't selectively obliviate the fuck out of someone, give them some leisure time with Dementors and scare the shit out of them until they are just as terrified and weak-willed as Pettigrew and divulge the secret. Or just torture them day and night (magic seems to have great healing capabilities) and suggest - without explicitly stating so - that they'd have a better time if they cooperate and think hard and long about how they could be helpful. It's totally voluntary!!1 Sorry for the snark, but seriously though: If the Fidelius truly required that the secret is given 100% voluntarily no-one should ever be able to tell the secret to Voldemort or one of his henchmen or in fact to anyone that they are even slightly afraid of. In fact it will probably be impossible to tell it to anyone that you don't have a very close trust-based relationship/friendship to (like if someone is your boss, they might fire you if you don't please them).
+
+--- 5. Polyjuice + Obliviation
+
+"Oh, but Harry, you never told me the secret to your Fidelius" "Oh, right I didn't! Well "The super secret batcave can be found..."
+
+Any more ideas?
+
+Edit: Fic recommendation for Fidelius mechanics: [[https://www.fanfiction.net/s/11574569/1/Dodging-Prison-and-Stealing-Witches-Revenge-is-Best-Served-Raw]]
+
+There's some really clever ideas in that story. For example the fact that only the secret keeper can tell the secret to someone who doesn't already know the secret is used as a check for polyjuice impostors and listening charms.
+
+
+** u/TyrialFrost:
+#+begin_quote
+  An immensely complex spell involving the magical concealment of a secret inside a single, living soul.
+#+end_quote
+
+If the Fidelius secret is stored within the casters very soul ... how about removing their soul and extracting the information.
+:PROPERTIES:
+:Author: TyrialFrost
+:Score: 18
+:DateUnix: 1495529651.0
+:DateShort: 2017-May-23
+:END:
+
+*** That idea is gold dust - is it free for use or would you prefer to keep it for your own writing?
+:PROPERTIES:
+:Author: SteamAngel
+:Score: 7
+:DateUnix: 1495536841.0
+:DateShort: 2017-May-23
+:END:
+
+**** the very concept of fan-fiction (using someone else's work in your fiction) not being free-use is ridiculous to me.
+:PROPERTIES:
+:Author: TyrialFrost
+:Score: 15
+:DateUnix: 1495540907.0
+:DateShort: 2017-May-23
+:END:
+
+***** This is true~ thanks! Do you have a username on fanfiction.net? If I use the idea I'd prefer to credit you anyway.
+:PROPERTIES:
+:Author: SteamAngel
+:Score: 5
+:DateUnix: 1495541136.0
+:DateShort: 2017-May-23
+:END:
+
+****** no, but please link me if you get something up.
+:PROPERTIES:
+:Author: TyrialFrost
+:Score: 6
+:DateUnix: 1495542131.0
+:DateShort: 2017-May-23
+:END:
+
+
+*** That certainly sounds like a field of research that someone like Voldemort might have pursued.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 4
+:DateUnix: 1495531840.0
+:DateShort: 2017-May-23
+:END:
+
+
+** There's only one broken Fidelius we know of in canon: the Fidelius charm over Godric's Hollow is apparently no longer in effect at all, as it is visited by tourists and can be seen by any witch or wizard. All other Fidelius charms have stayed in place and merely been undermined by e.g. the death of the secret keeper.
+
+I would suggest that this indicates that one way for the fidelius to fail is for the secret to no longer be true.
+:PROPERTIES:
+:Author: Taure
+:Score: 18
+:DateUnix: 1495536235.0
+:DateShort: 2017-May-23
+:END:
+
+*** But this begs the question of Grimmauld Place. If the secret was that it was the Headquarter of the Order, and it no longer was then shouldn't it be gone. Or was it still in place because Snape thought it was, and therefore as long as a secret keeper thinks it is still true means that it actually still is. I just gave myself a headache by trying to figure out Potter-canon logic. Not that FFlogic always is better. But hey.
+:PROPERTIES:
+:Author: RedKorss
+:Score: 5
+:DateUnix: 1495536783.0
+:DateShort: 2017-May-23
+:END:
+
+**** In Godric's Hollow the secret was *betrayed* and the spell broke. At Grimmauld the secret was shared (somewhat unintentionally granted) but it was shared, no trust was *betrayed*.
+
+That's my headcanon at least.
+:PROPERTIES:
+:Author: TheJadeLady
+:Score: 3
+:DateUnix: 1495582293.0
+:DateShort: 2017-May-24
+:END:
+
+***** "The Potters live at XX Godrics Hollow."
+
+The Potters no longer live there/are no longer alive, there is no longer a secret for the Fidelius to protect.
+
+I've always thought that the Fidelius doesn't hide a location, it needs a subject and a location to work. The Potter family/Godrics Hollow, the headquarters of the Order of the Phoenix/Grimmauld Place.
+:PROPERTIES:
+:Author: lord_geryon
+:Score: 4
+:DateUnix: 1495600961.0
+:DateShort: 2017-May-24
+:END:
+
+
+** Nuke the general area, like if you think the fidelus'd house is like in an area in like London, Fiendfyre the hell out of London
+:PROPERTIES:
+:Author: flingerdinger
+:Score: 18
+:DateUnix: 1495529903.0
+:DateShort: 2017-May-23
+:END:
+
+*** your comment, combined with your flair was an entertaining combination :')
+:PROPERTIES:
+:Author: SteamAngel
+:Score: 15
+:DateUnix: 1495537071.0
+:DateShort: 2017-May-23
+:END:
+
+
+*** Ok Dumbledore calm your lemon drops
+:PROPERTIES:
+:Author: TheRedSpeedster
+:Score: 3
+:DateUnix: 1495663549.0
+:DateShort: 2017-May-25
+:END:
+
+**** Okay okay i will only burn down HALF of london
+:PROPERTIES:
+:Author: flingerdinger
+:Score: 3
+:DateUnix: 1495663587.0
+:DateShort: 2017-May-25
+:END:
+
+
+** A few observations that may be helpful.
+
+The Fidelius is only ever used on a property- the Potter's house in Godric's Hollow, Grimmauld Place, Shell Cottage, Aunt Muriel's place.
+
+It appears that the owner of the property needs to be involved with the casting, probably because /they're the ones who have the right to secure it/.
+
+The root idea of 'fidelius' is trust; I would infer that the secret must be entrusted to someone other than the owner of the property, or else there really isn't any trust being leveraged. My workaround for Shell Cottage on this is that Arthur may have bought the house for Bill & Fleur, so for the time being it was his property and not Bill's. [That still doesn't explain why Ron could tell Dobby to take everyone there, as he shouldn't have been able to tell the secret unless Shell Cottage's orginal secret-keeper had died.
+
+I would think the way the Fidelius charm secures the knowledge in the secret-keeper prevents them from confessing the secret under duress of any kind. The knowledge would be impossible to find in their mind, impossible for them to say or write down unless they were choosing to betray the trust. Wormtail chose to side with Voldemort before he was made secret-keeper for the Potters, so he intentionally betrayed the trust. There doesn't seem to be a penalty for this, other than a desire by the entrustors never to trust them again.
+
+The actual hiding of the property seems to erase any evidence of its existence, so anyone in the right area will not be able to catch it using physical or magical ways to counteract invisibility. Area of Effect spells and explosions may be effective, though a protected property might already be charmed to resist the effects of bombs, conventional fires, floods, tornados, or other acts of God. Even Fiendfyre might be flummoxed, since the fiends in the fire seem to pursue what they see as worth consuming- moving creatures, anything flamable in the way. For them, they might not attack a Fidelius'd building simply because they can't sense it. Their collateral flames may not be strong enough to burn through to the property, if it's properly charmed against it.
+
+A nuke might work (I think Hogwart's protections may be enough to survive one when they're fully engaged, but most places don't have that kind of defenses), but that's a bit of overkill.
+
+I think [[/u/ABZB][u/ABZB]] has the right idea; try to deduce who may be in on the secret and force them to deliver destruction within on their next visit. Don't try to break the Fidelius; work around it.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 5
+:DateUnix: 1495556325.0
+:DateShort: 2017-May-23
+:END:
+
+*** u/Deathcrow:
+#+begin_quote
+  Wormtail chose to side with Voldemort before he was made secret-keeper for the Potters, so he intentionally betrayed the trust. There doesn't seem to be a penalty for this, other than a desire by the entrustors never to trust them again.
+#+end_quote
+
+I think this explanation is "as good as it can get", but I really have difficulty with Death Eaters telling Voldemort anything without being at least a little bit under duress. The guy throws out curcios like candy, you're going to be extra forthcoming with anything that could help if it avoids future punishment.
+
+#+begin_quote
+  It appears that the owner of the property needs to be involved with the casting, probably because they're the ones who have the right to secure it.
+#+end_quote
+
+How do you suppose magic determines ownership? Is it looking through the filed papers at the Ministry of magic? What about "unregistered" properties? Is ownership even a thing that a natural force like Magic would recognize? Seems a bit silly...
+
+I really enjoyed your explanations though. You should have a discussion with the dude who's really angry about Secrets vs Locations.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 1
+:DateUnix: 1495556896.0
+:DateShort: 2017-May-23
+:END:
+
+**** In Wormtail's case, he knew that Voldemort was going to kill Harry and probably James and Lily, but he believed Voldemort was too powerful to lose the war. Peter chose to betray them because his allegience had changed. If anything, magic would abide by what the secret-keeper intends; if he doesn't wish to betray the secret, it would help him keep it unto death.
+
+As for ownership, there's some explicit effects of inheritance that Dumbledore used to prove that Harry owned Grimmauld and therefore could command Kreacher. How that is established or ensured is left vague, but I imagine signed contracts or declarations would be involved. The more enchanted a place is, the more likely that it has the beginnings of its own personality and might have rules to follow to determine such. An empty cave or campground on a bluff probably doesn't have enough inherent 'self' to define ownership, and can be claimed by a wizard willing to go to the effort of defining the place and assuming ownership.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 3
+:DateUnix: 1495557452.0
+:DateShort: 2017-May-23
+:END:
+
+
+*** I'm a Ravenclaw for a reason :)
+:PROPERTIES:
+:Author: ABZB
+:Score: 0
+:DateUnix: 1495563387.0
+:DateShort: 2017-May-23
+:END:
+
+
+** "The headquarters of the Order of the Phoenix may be found at number twelve, Grimmauld Place, London."
+
+I just realized why the fidelius was broken in Deathly Hallows. It wasn't the headquarters of the Order of the Phoenix anymore because the order no longer existed. If they'd just kept it house it probably would have been a lot more tight and maybe even usable by Harry and co more.
+:PROPERTIES:
+:Author: ashez2ashes
+:Score: 5
+:DateUnix: 1495539685.0
+:DateShort: 2017-May-23
+:END:
+
+*** Was it even broken in Hollows, I can't remember that. I thought the secret keeper (everyone in on the secret[Hermione]) shared the secret accidentally so they just a abandoned the place.
+
+It's been a while since I read the books so be salty.
+:PROPERTIES:
+:Author: TheJadeLady
+:Score: 1
+:DateUnix: 1495582457.0
+:DateShort: 2017-May-24
+:END:
+
+**** The trio disapparated from the Ministry with Yaxley still attached. When they arrived at Grimmauld, Hermione kicked him loose and re-disapparated them to the Forest of Dean. Since Ron got splinched in the process, they had to fix him up and decided to set up a camp with a bunch of protective and concealment charms.
+
+Hermione's assumption was that Yaxley had been effectively 'told' the secret because Hermione brought him there. I think she's wrong, but I also think Yaxley might have been able to work around the Fidelius from the inside by using the Floo to call out for assistance. So long as they kept one of their guys in the house and he Floo-called out regularly, that access would remain open.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 2
+:DateUnix: 1495583820.0
+:DateShort: 2017-May-24
+:END:
+
+
+** Imperius random people who you think might know the secret (and are not the secret-keeper). Command them to accomplish whatever task you need to access said location for, or perform acts that will compromise Fidelius (destroy the location) or render it moot (carry the object or person desired out of the Fideliused area).
+
+Either they have been told the secret, and this works, or they do not. If desired, and the risk is low, also command them to Imperius others to do the same if they cannot do it themselves.
+:PROPERTIES:
+:Author: ABZB
+:Score: 5
+:DateUnix: 1495547278.0
+:DateShort: 2017-May-23
+:END:
+
+*** That's a good idea.
+
+It also makes me wonder: Can you imperius them and make them give you hints about the secret? Like, obviously they can't tell you the secret, but could they draw markings in the area using chalk? Could they play a game of hangman with you about the secret (they're not telling you the secret, you're figuring it out with guesses!).
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 3
+:DateUnix: 1495547642.0
+:DateShort: 2017-May-23
+:END:
+
+**** Use password-guessing tactics, and see what sequences of words they /can't/ say.
+
+Then, the secret is only as safe as it is unlikely to be guessed.
+:PROPERTIES:
+:Author: ABZB
+:Score: 2
+:DateUnix: 1495553575.0
+:DateShort: 2017-May-23
+:END:
+
+***** Nah- I don't see that working. Even if all the clues were right in front of you, the nature of magic is that one couldn't get their brain to come to the right conclusion.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 7
+:DateUnix: 1495557639.0
+:DateShort: 2017-May-23
+:END:
+
+****** It depends on how... 'sentient' magic is in whatever the universe is. Could go either way.
+:PROPERTIES:
+:Author: ABZB
+:Score: 1
+:DateUnix: 1495563357.0
+:DateShort: 2017-May-23
+:END:
+
+
+** It is a small mechanic, but worth thinking about. The fidelius charm must be used on a secret. The secret must have no one other than the casters know about it when it is cast. So when the Grimmauld Place Fidelius went up, people could know about the Order, but in order to cast it, Dumbledore and Sirius would have had to decide that they were going to make it the Headquarters without anyone else's knowledge.
+
+It is a bit of a nerf, but it makes sense. It means that you have to be choosy with your wording. You can't Fidelius the Ministry, because the secret is already out. But if no one knows that you are in the Ministry, then it works if you are casting the Fidelius on yourself.
+
+The other thing is that it must be a secret. A secret with one person knowing it, and another one being Secret Keeper. And if you are part of the secret, you can't hold it. So the Potter family couldn't use James as Secret Keeper, because he is part of the Potter Family.
+
+That is why Dumbledore was not the Potter secret keeper. Because if he was and then died, then everyone with the secret becomes secret keepers, and if they die, then the Fidelius breaks as it is no longer a secret between people.
+
+Another thing is that the magic which powers the Fidelius is used to keep a secret, absolutely. That is the point. You use it to shore up every other defense, and then place all your vulnerabilities on one person. So spray painting it won't work, it is practically in a different dimension, and everything is warped so it is the opposite of a black hole, in that it warps space so that nothing can get in, unless they have the secret.
+
+As far as coercion goes, it cannot be tortured out of you. Veritaserum will fail, you will not scream it under Cruciatus. What happens is that you must make a deliberate decision, in full mental capacity that you will give up the secret, with all the consequences which follow.
+
+As far as ways to manipulate how the secret is shared, I would argue that it must be shared. While you could get it by eavesdropping, any recording devices will fail, and photocopying a written secret will give a blank page, because you are not the Secret Keeper, and only the Secret Keeper can give out that information.
+:PROPERTIES:
+:Author: Dorgamund
+:Score: 3
+:DateUnix: 1495545172.0
+:DateShort: 2017-May-23
+:END:
+
+*** u/Deathcrow:
+#+begin_quote
+  It is a small mechanic, but worth thinking about. The fidelius charm must be used on a secret. The secret must have no one other than the casters know about it when it is cast. So when the Grimmauld Place Fidelius went up, people could know about the Order, but in order to cast it, Dumbledore and Sirius would have had to decide that they were going to make it the Headquarters without anyone else's knowledge.
+#+end_quote
+
+That's an interesting idea. Instead of creating a secret it hides a secret more. It wouldn't be able to hide the whole building at Grimmauld Place then though. Just no-one could conceive of the idea that the Order is hiding there (which would work just as well).
+
+#+begin_quote
+  As far as coercion goes, it cannot be tortured out of you. Veritaserum will fail, you will not scream it under Cruciatus. What happens is that you must make a deliberate decision, in full mental capacity that you will give up the secret, with all the consequences which follow.
+#+end_quote
+
+It's not really clear where the line is drawn here. An information given under duress can still be given deliberately, in full mental capacity. I think I have explained enough about how I see a conflict here with how Pettigrew was able to divulge the secret.
+
+Especially with magic in play I just see way too many way to terrible options to make someone more inclined to share information with you. But let's stay in muggle territory: What if I put a gun to the head of your child and ask you to tell me the secret? Will the Fidelius force you to sacrifice your own child or does that count as 'voluntarily'?
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 2
+:DateUnix: 1495546005.0
+:DateShort: 2017-May-23
+:END:
+
+**** As far as the Order Fidelius, I always saw it as the Headquarters (physical location) is located at this address. The Headquarters and the house become synonymous, and they are the secret, so you can't see them or detect them. However, the address stays the same, and that is why anyone can see that there is supposed to be a number 12, or it was skipped or something, but since the sign and house are missing, you simply get a blank space.
+
+TDLR; House is headquarters. House is hidden in address, which is not hidden.
+
+As far as coercion, it requires you to think and concentrate. Like doing a math problem in your head. Impossible under torture, but if you are being threatened hard enough, you can choose to divulge it. But it must be of your own free will, with your full knowledge of what will happen.
+:PROPERTIES:
+:Author: Dorgamund
+:Score: 1
+:DateUnix: 1495556799.0
+:DateShort: 2017-May-23
+:END:
+
+***** u/Deathcrow:
+#+begin_quote
+  As far as the Order Fidelius, I always saw it as the Headquarters (physical location) is located at this address. The Headquarters and the house become synonymous, and they are the secret, so you can't see them or detect them. However, the address stays the same, and that is why anyone can see that there is supposed to be a number 12, or it was skipped or something, but since the sign and house are missing, you simply get a blank space.
+#+end_quote
+
+I've asked this somewhere else in the thread, but this line of thinking seems to beg the question too: Can Narcissa and Bellatrix not visit the ancestral home of their family anymore (not the headquarter of the Order of the Phoenix, let's just say Bellatrix wants to have a talk with Walburga)?
+
+#+begin_quote
+  As far as coercion, it requires you to think and concentrate. Like doing a math problem in your head. Impossible under torture, but if you are being threatened hard enough, you can choose to divulge it. But it must be of your own free will, with your full knowledge of what will happen.
+#+end_quote
+
+Okay. Personally I think that's the best approach. It makes protecting the secret keeper that much more important.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 1
+:DateUnix: 1495557163.0
+:DateShort: 2017-May-23
+:END:
+
+****** I that case, I would assume that there would be a really wierd occurance, where Narcissa and Bella could enter the house, but would be incapable of seeing or interacting with anything that could give away the secret, including order members.
+:PROPERTIES:
+:Author: Dorgamund
+:Score: 1
+:DateUnix: 1495582058.0
+:DateShort: 2017-May-24
+:END:
+
+
+** u/InquisitorCOC:
+#+begin_quote
+  Coercion:
+#+end_quote
+
+How about the traditional carrot and stick approach:
+
+"Wormtail, if you do not spill the secret, I shall torture your beloved mum to death right in front of you. On the other hand, she shall enjoy my protection and you will have a job with fantastic payoff. Lord Voldemort knows to reward his followers. Think carefully."
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 2
+:DateUnix: 1495546979.0
+:DateShort: 2017-May-23
+:END:
+
+*** Yeah, I wrote a similar idea in another reply. It's really not clear to me where the Fidelius would draw a line (if anywhere) and how it would decide what is voluntary.
+
+New headcanon: The Fidelius doesn't protect against coercion at all, it's all just propaganda in the hopes that the likes of Voldemort won't test it. That's at least a worthwhile conspiracy, if I'd be a magical researcher/scholar I'd be willing to lie about it in my awesome magic tome.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 1
+:DateUnix: 1495547806.0
+:DateShort: 2017-May-23
+:END:
+
+
+** u/dspeyer:
+#+begin_quote
+  The information is hidden inside the chosen person, or Secret-Keeper, and is henceforth impossible to find -- unless, of course, the Secret-Keeper chooses to divulge it. As long as the Secret-Keeper refused to speak, You-Know-Who could search the village where Lily and James were staying for years and never find them, not even if he had his nose pressed against their sitting room window!
+#+end_quote
+
+-- Flitwick, PoA
+
+I've interpreted this to mean that the spell interferes at the point where a person learns the information. Voldemort could look in through the Godrics Hollow window, but still not learn anything interesting from what he saw.
+
+The description in OotP seems compatible with this:
+
+#+begin_quote
+  Harry thought, and no sooner had he reached the part about number twelve, Grimmauld Place, than a battered door emerged out of nowhere between numbers eleven and thirteen, followed swiftly by dirty walls and grimy windows. It was as though an extra house had inflated, pushing those on either side out of its way. Harry gaped at it. The stereo in number eleven thudded on. Apparently the Muggles inside hadn't felt anything.
+#+end_quote
+
+Nothing is physically moving. The building appears door-first, while the door is what Harry is most looking for. I interpret that he saw the building all along, but sort of glazed over it because he couldn't notice there was a house there.
+
+This interpretation assumes that there are two secrets: that the house exists and that the order is there, and that Dumbledore's note really revealed both. Which suggests you /can/ fidelius a secret some people already know, but maybe it gets harder the more people know, or something like that.
+
+If all this is correct, that allows for some exploits. A spy who knows the secret but is not the secret keeper could write it on a piece of paper, but no one would be able to read it. He could similarly type it into a computer -- the guidance system for a cruise missile perhaps. He might even be able to tell a vampire (because they have no souls).
+
+(This last suggests that Glorificus was concealed within Ben via a fidelius charm, if anyone's writing crossovers.)
+
+If the secret were only that the order were based there, it should be possible to use a two-person attack. Tell Alice "carry Bob to number 12 Grimmauld Place; don't ask why" and tell Bob "let Alice carry you to Order Headquarters, then kill everyone there, don't ask where it is." Alice won't be able to see what Bob's doing and Bob won't be able to read street signs on the way in, but together they can kill everybody.
+
+Making the entire house's existence secret permits other attacks. If you suspect they're somewhere in London, you could throw a bunch of satellite pictures at Mechanical Turk and have people count houses, measure house-width, measure street lengths, and look for discrepancies. This would only get you "there's something weird near numbers 11 and 13 Grimmauld Place", but that might be enough.
+:PROPERTIES:
+:Author: dspeyer
+:Score: 2
+:DateUnix: 1495570422.0
+:DateShort: 2017-May-24
+:END:
+
+
+** u/Satanniel:
+#+begin_quote
+  Edit: Fic recommendation for Fidelius mechanics: [[https://www.fanfiction.net/s/11574569/1/Dodging-Prison-and-Stealing-Witches-Revenge-is-Best-Served-Raw]]
+#+end_quote
+
+What? Fidelius is DPaSW is a completely different and much more boring spell. Why would you recommend it in regards to this?
+
+[[https://www.pottermore.com/writing-by-jk-rowling/secret-keeper][Also instead of reading wiki, check this Pottermore article. It answers many of your questions.]]
+:PROPERTIES:
+:Author: Satanniel
+:Score: 1
+:DateUnix: 1495532362.0
+:DateShort: 2017-May-23
+:END:
+
+*** u/Deathcrow:
+#+begin_quote
+  What? Fidelius is DPaSW is a completely different and much more boring spell. Why would you recommend it in regards to this?
+#+end_quote
+
+This is [[/r/hpfanfiction]] not [[/r/prayatthealtarsofhpcanon]], no?
+
+#+begin_quote
+  Also instead of reading wiki, check this Pottermore article. It answers many of your questions.
+#+end_quote
+
+How is that 2 paragraph "article" answering any questions? There's nothing new in there... even if there was, I'm more interested in discussing book-canon than Pottermore stuff.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: -2
+:DateUnix: 1495532849.0
+:DateShort: 2017-May-23
+:END:
+
+**** u/Satanniel:
+#+begin_quote
+  This is [[/r/hpfanfiction]] not [[/r/prayatthealtarsofhpcanon]], no?
+#+end_quote
+
+Quoting you:
+
+#+begin_quote
+  A lot of this will probably be based on speculation, but we should allow everything that doesn't directly contradict canon
+#+end_quote
+
+Also, as I said, the mechanics in DPaSW are boring and bad and the author should feel bad. They switched it from protecting secret to protecting space and eliminated all restrictions connected to it so it could be abused. Additionally, the rules of how the secret is protected were changed for the same reasons. Fidelus (and magic in general) in DPaSW is a great example "how to not write it".
+:PROPERTIES:
+:Author: Satanniel
+:Score: 5
+:DateUnix: 1495535938.0
+:DateShort: 2017-May-23
+:END:
+
+***** u/Deathcrow:
+#+begin_quote
+  They switched it from protecting secret to protecting space
+#+end_quote
+
+Except that's the only way it makes even a little bit of sense. If you could hide any kind of secret, I'll just hide "Human beings have to Eat and drink through their mouth" and everyone will starve.
+
+There's an interesting fic that explores the idea how broken the Fidelius is as a concept if you can hide anything you want:
+
+linkffn([[https://www.fanfiction.net/s/9901496/1/Honestly-Harry]])
+
+#+begin_quote
+  Additionally, the rules of how the secret is protected were changed for the same reasons. Fidelus (and magic in general) in DPaSW is a great example "how to not write it".
+#+end_quote
+
+Fanfics constantly change the rules, because the rules of the HP world only work for children's books that aren't questioned. I do not understand how you can enjoy any fanfic if your requirement is that the rules shall not be changed, because that's everywhere (not to mention that the rules in canon are often at best very unclear and at worst contradictory/inconsistent).
+
+DPaSW is amazing for what it does with such a flawed concept.
+
+Edit: By the way, I'm wondering now, why didn't Fumbledore cast a Fidelius on Harry then? "Harry Potter is the boy who lived" would have been really useful.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: -1
+:DateUnix: 1495537174.0
+:DateShort: 2017-May-23
+:END:
+
+****** u/Satanniel:
+#+begin_quote
+  Except that's the only way it makes even a little bit of sense. If you could hide any kind of secret, I'll just hide "Human beings have to Eat and drink through their mouth" and everyone will starve.
+#+end_quote
+
+It's not. Look.
+
+Potters choose Sirius to conceal their secret about where they live.
+
+Sirius chooses Dumbledore to protect his secret. That he let's the Order use his house as a headquarters.
+
+Muriel chose Bill to protect her secret, that she hides him and his family in the Shell Cottage.
+
+#+begin_quote
+  your requirement is that the rules shall not be changed, because that's everywhere
+#+end_quote
+
+The rules can be changed. For ones that are more interesting and make more sense. So the exact opposite of what DPaSW does with its Flammelage, and space limited runic enchanting etc.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 1
+:DateUnix: 1495553785.0
+:DateShort: 2017-May-23
+:END:
+
+******* u/Deathcrow:
+#+begin_quote
+  Potters choose Sirius to conceal their secret about where they live.
+
+  Sirius chooses Dumbledore to protect his secret. That he let's the Order use his house as a headquarters.
+
+  Muriel chose Bill to protect her secret, that she hides him and his family in the Shell Cottage.
+#+end_quote
+
+I understand that. What stops anyone from hiding more fundamental secrets? What stops anyone from hiding the secret "Avada Kedavra is the incantation for the killing curse"?
+
+Edit: Also, for someone who's obsessed with canon you're playing fast&lose with it. This...
+
+#+begin_quote
+  Sirius chooses Dumbledore to protect his secret. That he let's the Order use his house as a headquarters.
+#+end_quote
+
+... is a simplification of what happens in canon. The whole house disappears. The Death Eaters know the general location, patrolling the area, yet can't find it. Bellatrix or Narcissa surely remember the ancestral home of their family? So they're not just hiding "The headquarter of the phoenix is here", they're hiding the house from everyone.
+
+Anyway, it all sounds very much like hiding a location to me. Why again are you against that idea?
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 1
+:DateUnix: 1495554118.0
+:DateShort: 2017-May-23
+:END:
+
+******** u/Satanniel:
+#+begin_quote
+  What stops anyone from hiding the secret "Avada Kedavra is the incantation for the killing curse"?
+#+end_quote
+
+Because it's not their information?
+
+#+begin_quote
+  ... is a simplification of what happens in canon. The whole house disappears.
+#+end_quote
+
+The question is "would it disappear to someone who is looking for the particular house in completely different context". Of course the answer is "we don't know"
+
+#+begin_quote
+  The Death Eaters know the general location, patrolling the area, yet can't find it.
+#+end_quote
+
+Because they're looking for location of Order's headquarters?
+
+#+begin_quote
+  Bellatrix or Narcissa surely remember the ancestral home of their family?
+#+end_quote
+
+The moment they connect the information it falls under secret which they cannot get to know.
+
+#+begin_quote
+  Anyway, it all sounds very much like hiding a location to me. Why again are you against that idea?
+#+end_quote
+
+Because it's boring. Also
+
+#+begin_quote
+  As long as the Secret-Keeper refused to speak, You-Know-Who could search the village where Lily and James were staying for years and never find them, not even if he had his nose pressed against their sitting room window!
+#+end_quote
+
+From PoA, Voldemort could've see the building, but nothing that would indicate the fact that Potters live there.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 2
+:DateUnix: 1495659588.0
+:DateShort: 2017-May-25
+:END:
+
+
+**** I may have just clicked [[/r/prayatthealtarofhpcanon]] to see if it was a thing... >_>
+:PROPERTIES:
+:Author: SteamAngel
+:Score: 3
+:DateUnix: 1495536994.0
+:DateShort: 2017-May-23
+:END:
+
+***** I apologize! ;)
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 2
+:DateUnix: 1495537314.0
+:DateShort: 2017-May-23
+:END:
+
+
+** So while searching for other discussions on the fidelius charm, I found this: [[https://www.fanfiction.net/s/10893602/1/1001-Uses-for-the-Fidelius-Charm]]
+
+I'm only a couple of chapters in but it's already given me a good laugh. I'm hoping that it'll come up with some interesting ways around it, as well.
+:PROPERTIES:
+:Author: SteamAngel
+:Score: 1
+:DateUnix: 1495542227.0
+:DateShort: 2017-May-23
+:END:
+
+*** aaaaand it's incomplete. I should have really checked the tags first >_<
+:PROPERTIES:
+:Author: SteamAngel
+:Score: 1
+:DateUnix: 1495542890.0
+:DateShort: 2017-May-23
+:END:
+
+**** Or the rest of it is a secret.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 3
+:DateUnix: 1495563995.0
+:DateShort: 2017-May-23
+:END:
+
+
+** It's a pretty foolproof charm if your not a idiot when using it
+
+I recall a fanfic where harry puts the secret in a random muggle and lives in secret for years only being discovered because said muggle randomly got run over and died
+
+if it had featured a more heartless harry he could have petrified the muggle and dumped him in the ocean
+
+Edit I think it was [[https://www.fanfiction.net/s/8257400/1/Harry-Potter-and-the-Power-of-Paranoia]]
+:PROPERTIES:
+:Author: Otium20
+:Score: 1
+:DateUnix: 1495557609.0
+:DateShort: 2017-May-23
+:END:

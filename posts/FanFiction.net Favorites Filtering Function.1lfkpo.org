@@ -1,0 +1,61 @@
+#+TITLE: FanFiction.net Favorites Filtering Function
+
+* FanFiction.net Favorites Filtering Function
+:PROPERTIES:
+:Score: 15
+:DateUnix: 1377905622.0
+:DateShort: 2013-Aug-31
+:END:
+So I mainly get my fix of HP fanfiction through browsing Fanfiction.net. I'll find an author who's stuff I like and pick and choose from their favorites list to find other authors I enjoy. With so much material out there, I get picky about what I want and so my main issue is having to sifting all the stories for the ones that fit my criteria. I went searching and found a javascript that would sort out incomplete stories and what not but it wasn't quiet what I wanted. I ended up altering it to fit my needs and I just wanted to share it in case anyone else was interested.
+
+The script will allow you to filter the favorite stories of a fanfaction user based on each story's word count, number of reviews, status, and category. These stories can be further filtered based on last update and original publish date.
+
+You can get the script [[http://userscripts.org/scripts/show/176917][here]]
+
+To run it you will need an script running addon such as [[https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/][Greasemonkey]] for firefox (a quick Google turned up the equivalent [[https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en][Tampermonkey]] for chrome users)
+
+Let me know what you think or if you have any idea for things to change. I think the next thing to tackle would be to add an settings panel for users change variables in rather than forcing them to edit the source code.
+
+Edit: I made a sight change to the code so that completed stories that have not been updated since your set date do not get filtered out.
+
+
+** This is going to make my life easier. Thank you so much!
+:PROPERTIES:
+:Author: timetraveler1912
+:Score: 3
+:DateUnix: 1377972335.0
+:DateShort: 2013-Aug-31
+:END:
+
+
+** Thanks. I do the same thing, there was an extension on chrome that i used but it wasn't that good.
+:PROPERTIES:
+:Author: LokiSparda
+:Score: 2
+:DateUnix: 1377973489.0
+:DateShort: 2013-Aug-31
+:END:
+
+
+** Doesn't appear to work, in Tampermonkey at least.
+
+Edit: ReferenceError: unsafeWindow is not defined
+
+Fixed it by changing the references to unsafeWindow to window.
+:PROPERTIES:
+:Author: denarii
+:Score: 2
+:DateUnix: 1378001363.0
+:DateShort: 2013-Sep-01
+:END:
+
+*** +I looked online a bit, apparently Chrome does not like unsafeWindow. I tried switching out them out to just window and running it on Firefox with Greasemonkey but that breaks it. I'll be honest, this was my first time touching javascript so I don't have a quick fix to make it universally compatible.+
+
+ok changing to window does work, I must have missed one of the commands the first time when I was just editing it through Greasemonkey and not notepad++. updating code now.
+
+Thank you for discovering this and a solution for it. I'll keep my eye out for ways to improve it.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1378002588.0
+:DateShort: 2013-Sep-01
+:END:

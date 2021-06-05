@@ -1,0 +1,339 @@
+#+TITLE: It might seem like FFN admins are deleting infected profiles: NOT THE CASE. It's STILL hacked pages and you should NOT visit them.
+
+* It might seem like FFN admins are deleting infected profiles: NOT THE CASE. It's STILL hacked pages and you should NOT visit them.
+:PROPERTIES:
+:Author: zerkses
+:Score: 72
+:DateUnix: 1540231843.0
+:DateShort: 2018-Oct-22
+:END:
+I've checked: the actual deleted page code source is nothing like what's in currently "deleted" pages
+
+
+** I don't know what the problem is, but I assume it's not a problem to visit the profile with their app right?
+:PROPERTIES:
+:Author: meandyouandyouandme
+:Score: 16
+:DateUnix: 1540235127.0
+:DateShort: 2018-Oct-22
+:END:
+
+*** A hack of FFN when people visit their profile pages. I've not seen it affect mine after viewing my profile in the app. I doubt the app parses JavaScript so it should be good.
+
+Would still copy it somewhere safe just in case though...
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 16
+:DateUnix: 1540237141.0
+:DateShort: 2018-Oct-22
+:END:
+
+**** Yeah but how does it affect you if you're ‘infected'?
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1540253384.0
+:DateShort: 2018-Oct-23
+:END:
+
+
+**** Honest question: Have you been thinking about leaving FFN for good? Or perhaps until this "hack" goes away (if it ever does)? I'm trying to decide what to do since this whole issue began (and have logged out of my account on FFN).
+:PROPERTIES:
+:Author: emong757
+:Score: 4
+:DateUnix: 1540240374.0
+:DateShort: 2018-Oct-23
+:END:
+
+***** it doesn't affect me overly much. I will just log out and read as usual. Obviously I'd rather it was fixed soon but I simply have no alternative since I cant stand Ao3
+:PROPERTIES:
+:Author: zerkses
+:Score: 19
+:DateUnix: 1540242563.0
+:DateShort: 2018-Oct-23
+:END:
+
+****** May i ask why you hat a03? I like that i can find things easier there. Trolling through ffn gets hella annoying at times.
+:PROPERTIES:
+:Author: cardiff_3
+:Score: 0
+:DateUnix: 1540279183.0
+:DateShort: 2018-Oct-23
+:END:
+
+******* [deleted]
+:PROPERTIES:
+:Score: 7
+:DateUnix: 1540281771.0
+:DateShort: 2018-Oct-23
+:END:
+
+******** I have noticed if its an older fandom not a lot of good stuff is on ao3. Ffn will have it. The newer fandoms are easy on ao3 for me.
+:PROPERTIES:
+:Author: cardiff_3
+:Score: 0
+:DateUnix: 1540301490.0
+:DateShort: 2018-Oct-23
+:END:
+
+
+****** [deleted]
+:PROPERTIES:
+:Score: -9
+:DateUnix: 1540246024.0
+:DateShort: 2018-Oct-23
+:END:
+
+******* u/MindForgedManacle:
+#+begin_quote
+  I haven't seen a single fic there with good quality writing
+#+end_quote
+
+Not the best advertisement...
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 12
+:DateUnix: 1540255677.0
+:DateShort: 2018-Oct-23
+:END:
+
+******** Not wrong either. There's plenty of fun fics to read that are average-at-best quality writing.
+
+From what I can tell the majority of fanfiction is terribly written on any site.
+:PROPERTIES:
+:Author: ForumWarrior
+:Score: 2
+:DateUnix: 1540263706.0
+:DateShort: 2018-Oct-23
+:END:
+
+********* There's a difference between "quality is average" and "I haven't seen anything good there" though. :)
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 1
+:DateUnix: 1540319878.0
+:DateShort: 2018-Oct-23
+:END:
+
+
+******* I'm pretty sure I read a story from royalroad like years ago, I think it was called RE:Monster. Is it from there?
+:PROPERTIES:
+:Author: nauze18
+:Score: 1
+:DateUnix: 1540281216.0
+:DateShort: 2018-Oct-23
+:END:
+
+
+***** Since I already have an ao3 account, cross posting is the best avenue for me. You get the advantages of both sites. But it's just a sad fact that FFN gets way more traffic (and thus story views) on its worst days than ao3 does on its best.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 2
+:DateUnix: 1540255630.0
+:DateShort: 2018-Oct-23
+:END:
+
+****** I only have a FFN account (I got rid of my AO3 account a little over a year ago). I never thought something /this/ bad would happen and it's unfortunate that it did. I wonder if many writers will leap over to AO3, stick with FFN, or go to other sites.
+:PROPERTIES:
+:Author: emong757
+:Score: 5
+:DateUnix: 1540256465.0
+:DateShort: 2018-Oct-23
+:END:
+
+******* So long as readers mostly flock to FFN they'll stay there.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 5
+:DateUnix: 1540256584.0
+:DateShort: 2018-Oct-23
+:END:
+
+
+*** No idea about the app tbh as I don't know how it processes javascript and cookies. Certainly not safe to visit in browser on a desktop though.
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1540236310.0
+:DateShort: 2018-Oct-22
+:END:
+
+
+** How can you tell if you've been infected? I closed mine yesterday as soon as I heard. Just checked my profile on my phone without logging in, and nothing looked out of the ordinary. Closed it right after. Do we have an ETA when things will be fixed? I've been afraid to even go on the site to check updates.
+
+My husband told me how it works (he's a software engineer). Can I just say this is a super crummy move? Not cool.
+:PROPERTIES:
+:Author: silver_fire_lizard
+:Score: 15
+:DateUnix: 1540252549.0
+:DateShort: 2018-Oct-23
+:END:
+
+*** There's a thread with lots of info at [[/r/fanfiction][r/fanfiction]]
+:PROPERTIES:
+:Author: ScottPress
+:Score: 7
+:DateUnix: 1540253934.0
+:DateShort: 2018-Oct-23
+:END:
+
+**** Appreciate it, thanks!
+:PROPERTIES:
+:Author: silver_fire_lizard
+:Score: 1
+:DateUnix: 1540254635.0
+:DateShort: 2018-Oct-23
+:END:
+
+
+** I may be completely overreacting, but I'm not gonna fuck around with this. I purged everything possible from my FFN profile and I'm not touching that shit until there's a solid confirmation that the issue is fixed. I have backups of backups of my fanfic, so nothing of value was lost. I've been apathetic about FFN for a long time anyway.
+:PROPERTIES:
+:Author: ScottPress
+:Score: 22
+:DateUnix: 1540247589.0
+:DateShort: 2018-Oct-23
+:END:
+
+*** Well, if you upload somewhere else, let us know.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 18
+:DateUnix: 1540248469.0
+:DateShort: 2018-Oct-23
+:END:
+
+**** I did have an AO3 account but was getting zero traffic, so I deleted the account entirely. I might sign up again, but who knows. I did swing by Wattpad once and found it atrocious. Are there any other good archives still up? The more I think about this FFN bs the less likely it is I'll ever go back there except to download a copy if something I follow updates, but all but one fics I'm currently reading are available on DLP.
+:PROPERTIES:
+:Author: ScottPress
+:Score: 16
+:DateUnix: 1540250316.0
+:DateShort: 2018-Oct-23
+:END:
+
+***** Ah, I get it now. You're the hacker, and this has all been a con to get me to join DLP as the way to continue reading Ascended Vices.
+
+Well played.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 19
+:DateUnix: 1540256102.0
+:DateShort: 2018-Oct-23
+:END:
+
+****** Blast it! My deception is unearthed! Damn you, Mr. Blargle! But I have not said my last word, we shall meet again...
+:PROPERTIES:
+:Author: ScottPress
+:Score: 10
+:DateUnix: 1540256276.0
+:DateShort: 2018-Oct-23
+:END:
+
+
+***** The HPFT archives are great, along with their accompanying forums :) Just google hpfanfictalk.com or archives.hpfanfictalk.com to check them out. I'm BlackPixie on both.
+:PROPERTIES:
+:Author: blackpixie394
+:Score: 1
+:DateUnix: 1540266887.0
+:DateShort: 2018-Oct-23
+:END:
+
+
+** Wait, what's wrong with profiles?
+:PROPERTIES:
+:Author: glencoe2000
+:Score: 4
+:DateUnix: 1540250540.0
+:DateShort: 2018-Oct-23
+:END:
+
+*** Somebody figured out a way to put Javascript into them that infects the profiles of whoever reads them.
+:PROPERTIES:
+:Author: The_Truthkeeper
+:Score: 17
+:DateUnix: 1540250731.0
+:DateShort: 2018-Oct-23
+:END:
+
+**** What the hell. How does something like that even happen...
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1540254669.0
+:DateShort: 2018-Oct-23
+:END:
+
+***** FFN has been around for a long time, so a fair amount of the site is probably running on really old code. Their development team is small and therefore overworked at best, and nonexistent at worst. Combine these two together and you get a website that is likely to have security holes in it.
+:PROPERTIES:
+:Author: averysillyman
+:Score: 17
+:DateUnix: 1540262358.0
+:DateShort: 2018-Oct-23
+:END:
+
+****** Ahh that makes sense. That's sad to consider. FFN has been a huge part of my online life since I was in middle school. It sucks that there's such malicious people out there.
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1540263729.0
+:DateShort: 2018-Oct-23
+:END:
+
+
+** What about their app?
+
+How confident are we in its security?
+
+Also any official word? Anywhere? I learn about this shit from SV of all places.
+:PROPERTIES:
+:Author: 4porn_on_my_tablet
+:Score: 3
+:DateUnix: 1540308931.0
+:DateShort: 2018-Oct-23
+:END:
+
+
+** Whoa I was just on my own profile.... what the hell is this hack?? What happens? How does it affect my readers?! How did you even hear about it?
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1540253289.0
+:DateShort: 2018-Oct-23
+:END:
+
+*** it was initially posted there: [[https://www.reddit.com/r/FanFiction/comments/9q5gob/alert_do_not_check_any_user_profiles_on_ffn/?utm_content=title&utm_medium=hot&utm_source=reddit&utm_name=FanFiction]] which is where you can read full details
+:PROPERTIES:
+:Author: zerkses
+:Score: 5
+:DateUnix: 1540253577.0
+:DateShort: 2018-Oct-23
+:END:
+
+**** thank you! Thanks for the post as well!
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1540254420.0
+:DateShort: 2018-Oct-23
+:END:
+
+
+** So what would happen if I visited a hacked page? I'm a little confused
+:PROPERTIES:
+:Author: UnalteredCube
+:Score: 1
+:DateUnix: 1540259269.0
+:DateShort: 2018-Oct-23
+:END:
+
+*** If you visit the user profile of somebody who has been infected, and you're logged into your FFN account, there is a chance that your profile will get infected as well.
+
+Currently, all that getting infected does is screw with the contents of your profile, but there have been reports of the "virus" attempting to add a second email to your account, which would allow it to change your password and take over your account through FFN's password recovery system.
+:PROPERTIES:
+:Author: averysillyman
+:Score: 8
+:DateUnix: 1540262532.0
+:DateShort: 2018-Oct-23
+:END:
+
+**** As far as I know, the email hack doesn't work - atm! mind. The code seems to develop occasionally.
+:PROPERTIES:
+:Author: espionage_is_whatido
+:Score: 6
+:DateUnix: 1540274344.0
+:DateShort: 2018-Oct-23
+:END:

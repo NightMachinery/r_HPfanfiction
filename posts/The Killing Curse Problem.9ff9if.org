@@ -1,0 +1,746 @@
+#+TITLE: The Killing Curse Problem
+
+* The Killing Curse Problem
+:PROPERTIES:
+:Author: CapnTea
+:Score: 82
+:DateUnix: 1536815990.0
+:DateShort: 2018-Sep-13
+:FlairText: Discussion
+:END:
+Youtube recently recommended me [[https://www.youtube.com/watch?v=qqwc7Kgon1k][this]] video. There is a lot of interesting stuff in there, but currently what is bothering me is the Killing Curse problem.
+
+If you don't have time to watch the video, basically, Avada Kedavra is relatively easy to use (Crabbe in DH), it is very hard to block, and it doesn't really have any downsides, as long as you have the right mindset and are willing to kill your opponents. Which generally, most people in a war has (at the very least, all the Death Eaters).
+
+Other than being problematic for the actual story, it is incredibly constraining for the writer. There's very little logical reason for the bad guys to ever use anything other than the killing curse. As the video says, you can use the setting of the fight to make it interesting, but then you are still just conceding to the problem and working around it.
+
+Many fanfics have looked for solutions to this annoyance, to give justification to using other spells. Rationalist wank goes *logical extreme* and makes the killing curse pass through absolutely everything until it kills someone, making it ridiculously dangerous, and also unbelievably stupid. Stupid stories makes it cost a lot of +chakra+ +action points+ +mana+ magical core juice, which is even worse. Certain stories brave their way into philosophical theory with soul damage, while less imaginative authors go with the whole /"dark magic is basically radiation or something, idk, it fucks you up"/, which... doesn't feel very Potterlike, either.
+
+Is there a solution? Is there some fics that solve this in a thematic and appropriate manner, to allow Voldemort to also throw around flaming snakes and blood-boiling curses, instead of being a mean, green gatling machine?
+
+Note that I'm not looking for fic recommendations, but rather debate and dicussion on this topic.
+
+
+** Canonically, the solution is in the Voldemort v Dumbledore duel, at least so far as its deployment in high level duels is concerned. The solution is that, while the Killing Curse is unblockable, you do still have to hit your opponent with it. Dumbledore had physical barriers and apparition to avoid being hit, so the meat of the duel was Voldemort trying to corral Dumbledore into a position where he could not manoeuvre, essentially by using other magic to keep Dumbledore occupied. Only once Dumbledore was vulnerable would Voldemort cast a Killing Curse as a finishing or opportunistic move.
+
+So that is how you avoid Killing Curse spam in a high level duel. That does still leave you a problem for duels between less skilled parties who do not have the ability to manoeuvre so effectively.
+
+In fanfic, my preferred solution is simply to make the Killing Curse much more difficult to cast -- not in the "it tires you out" sense, but in the "you have to be powerful to cast it at all" sense. To be fair, this does have canon backing in the form of fake Moody saying it needs powerful magic behind it. The only outlier is Crabbe in DH, but IIRC we only heard him say the first half of the incantation, so for all we know he might have failed to cast it.
+
+Taking a step back and considering the question on a meta level, one might ask a similar question regarding the use of nuclear weapons. The answer to that one is "if you use it, the other side will use it too". Perhaps there is a similar strong social taboo against the Killing Curse in the HP universe, and it was only Voldemort and his followers who were insane enough to actually engage magical MAD.
+:PROPERTIES:
+:Author: Taure
+:Score: 117
+:DateUnix: 1536819294.0
+:DateShort: 2018-Sep-13
+:END:
+
+*** u/chiruochiba:
+#+begin_quote
+  Taking a step back and considering the question on a meta level, one might ask a similar question regarding the use of nuclear weapons. The answer to that one is "if you use it, the other side will use it too". Perhaps there is a similar strong social taboo against the Killing Curse in the HP universe, and it was only Voldemort and his followers who were insane enough to actually engage magical MAD.
+#+end_quote
+
+Regarding the social taboo idea:
+
+Many authors seem to engage in lazy thinking about the tactical viability of lethal spells. We tend to equate combat spells (Bombarda, Diffindo) to police using guns. But realistically speaking, the only reason police use guns is that there is no viable non-lethal alternative. Stun guns, tranquilizer guns, etc. only work under controlled conditions, not in open combat, so guns are an unfortunate necessity to incapacitate opponents.
+
+Wizards don't have that excuse. There are many viable, long range, long lasting, incapacitating spells, so killing/maiming an opponent is completely unnecessary 90% of the time. The Death Eaters may use those spells because they care more about spreading fear than winning cleanly, but the Order members should know better. I wish that fic authors would put more thought into the ethical ramifications for their characters before writing battle scenes.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 46
+:DateUnix: 1536821623.0
+:DateShort: 2018-Sep-13
+:END:
+
+**** Agreed completely. My point regarding the MAD comparison/social taboo was more the idea that even dark wizards would hesitate to use the Killing Curse, the taboo against it is so strong. It would be one of the reasons why Voldemort is so feared, and considered the most dangerous wizard of all time.
+:PROPERTIES:
+:Author: Taure
+:Score: 29
+:DateUnix: 1536822185.0
+:DateShort: 2018-Sep-13
+:END:
+
+***** I really love this concept. I think it might make for a great short story, to have two characters discussing voldemort and grindewald. A character from Europe argues that grindewald was worse because his reach was more greater, he affected larger amounts of people, things along that line of thinking.
+
+Then you have a British character who starts explaining the utter horror of a man willing to use the killing curse freely, who encouraged his followers to as well. The fear of leaving your house because at any moment a spell might fly your way with no chance of being blocked and you'd never know until it was over. You could show the reaction of the European (or American, I suppose would work as well) as they realize that the rumors of voldemort madness wasn't exaggerated, and he really did cast the killing curse as often as the stories say. He'd slowly grow more and more terrified, and eventually admit that although he may have affected only one country instead of all of Europe, voldemort clearly deserved his title of the darkest wizard to ever live. Because not even grindewald was that crazy, to throw the a killing Curse around freely and often.
+
+As a side note, I recently reread your 'treatise' on how hp magic works, and I love it. I had forgotten how good it was. And I forgot it wasn't finished 🙄 I got to the end and kept going 'where's the rest of it?!'
+
+Just wanted to say thanks for posting your thoughts, because it was enlightening and awesome to read.
+:PROPERTIES:
+:Author: bking4
+:Score: 11
+:DateUnix: 1536854763.0
+:DateShort: 2018-Sep-13
+:END:
+
+
+**** I feel a lot of what you're saying. The fact that almost everything imaginable is easily doable with Harry Potter magic can be really tricky to write with properly.
+
+The complimentary question to "Why do the bad guys use anything but AK?" is "Why do the good guys use anything but Stupefy?"
+
+Honestly, though, I think the whole "social taboo" idea is actually incredibly accurate. Wizards in general in HP are... kinda dumb. Or, more specifically, drastically lacking in imagination and innovation, and overly attached to tradition and convention. There are so, so many examples of this.
+
+There's the still ridiculously pervasive avoidance of Voldemort's name a decade after his defeat. Or the worship of Dumbledore by everyone in the society, to the point where the minister is constantly begging for his advice, all because he was the one dude most responsible for Grindewald's defeat decades ago. There's all the antiquated fashion and style (when compared to muggles) and the pervasive ignorance of muggle technology. There's the established dislike of muggleborn, and the complimentary muggleborn bafflement of the wizard establishment.
+
+When you really think, it paints a picture of a really interesting society. Magic is so versatile and accessible that almost everything is laughably easy. Whatever you might need, a flick of your wrist will solve your problem. So given this, nobody ever has a desire to innovate, because they face no adversity. Why come up with a better way to do something when everything is already so easy?
+
+The sad thing is that almost every wizard has the capacity to do so much more than what they think is possible, they just never realize it. Throughout wizarding history, so few people ever go above and beyond, that those who do are practically worshipped.
+
+The Founders are revered not as merely school founders, but legendary figures. To this day, someone claiming to be the Heir of Slytherin makes them worthy of a significant amount of respect (or fear,) way beyond what being the really great grandkid of an educator should earn them. Whatever Merlin did, he's still a household name, invoked in the same ways that a muggle might say "God" or "Jesus." Grindelwald and Dumbledore had /extremely/ uncommon (to the point of maniacal) ambition. Though we don't know the character motivation that prompted it, they both had plans to travel the world and learn of things beyond their society, to be able to better themselves, and ultimately those around them (the "greater good.") The Peverells invented a few very unique trinkets and as a result got written in to actual mythology and folklore.
+
+Then we get to Voldemort and Harry. Not only did they both have a muggle upbringing, they both faced a significant amount of anguish and /adversity/ in their formative years. They didn't grow up with the magical silver spoon in their mouths, they saw that shit can be really hard, and more importantly, that shit can actually get better if you actually stand up to *do something* about it.
+
+The really fantastic thing is that these characters aren't actually special. There is actual hope for the rest of the wizarding world. There's no magic power these individuals have that everyone else lacks. They're just what happens when you look beyond the system and try something more. But anyone else could actually do the things they do if they tried, and the D.A. actually proves it.
+
+Harry was particularly talented (for his age) at defense/combat magic, and the patronus. For no special reason other than the fact that he /had/ to get good at this stuff to survive, so he did. In particular, everyone thinks that a corporeal patronus is difficult for even the average adult wizard to conjure, a real rarity. But somehow, Harry teaches the entire fucking D.A. to do it. The dozens kids in the organization don't all have a rare or special power. Harry isn't an impossibly legendary teacher. The truth of the matter is that conjuring a patronus /isn't actually that hard/ if you look beyond the established consensus and instead believe that it actually can be done.
+
+Even Harry struggled with the patronus at first. He was told that it was mad hard and he probably wouldn't pull it off. He believed that, and so he never quite managed it. But then time travel, and Harry was presented with proof that he was actually capable of it. When he realizes he actually has a chance, he fucking nails it.
+
+So then he goes to teach it to the D.A. Not only does he show them that, yeah, a kid can pull it off, but the D.A. members all developed a disregard for the "rules" and limitations of their society. They were rebelling by joining the club. They were looking beyond the curriculum provided to them. And as a result, every one of them kicked ass at Defense.
+
+Wow, holy fucking shit did I ramble for longer than I thought I would when I started writing this comment. I hope you like my essay.
+
+In summary, magic and magical society has stifled innovation and imagination. From spamming the killing curse to performing crazy rare and "difficult" magic at 13, there is actually a hell of a lot more possible than almost every wizard realizes. They just haven't realized, because for most people, what they currently have is good enough. Power isn't a rarity in the wizarding world, true ambition is.
+:PROPERTIES:
+:Author: wiseguy149
+:Score: 61
+:DateUnix: 1536830577.0
+:DateShort: 2018-Sep-13
+:END:
+
+***** Thank you, you just completed a hole in my headcannon.
+
+Now how to fit that in my fic without changing too much of it... (mostly dialogues and minor characters but still...).
+:PROPERTIES:
+:Author: Lenrivk
+:Score: 9
+:DateUnix: 1536832659.0
+:DateShort: 2018-Sep-13
+:END:
+
+
+**** I think most incapacitating spells are only useful against a small number of opponents. For example, a stunner might win you a duel but in a combat situation you'd just need one guy in the back repeatedly /enervating/ his fallen mates to completely negotiate the (usefulness of the) spell. You'd have to take them all down together and in a reasonably small timeframe.
+:PROPERTIES:
+:Author: xDarkSadye
+:Score: 2
+:DateUnix: 1536876131.0
+:DateShort: 2018-Sep-14
+:END:
+
+***** One of my personal favorite solutions to that comes from [[/u/starfox5][u/starfox5]]. In his stories where Moody instructs someone in combat, they're taught to, after hitting an opponent with a stunner, hit them with a second, nonlethal but debilitating spell (like a bonebreaking hex to the wand arm) that will keep them down even if theyre woken up.
+:PROPERTIES:
+:Author: zbeezle
+:Score: 3
+:DateUnix: 1536944346.0
+:DateShort: 2018-Sep-14
+:END:
+
+
+*** Yeah, I think that your solution makes the most sense, at least when I try to write scenarios or battles.
+
+It's hard to actually hit someone with it if they know what they're doing, and then however you want to interpret the "fair bit of magic" comment from fake Moody.
+
+Perhaps you could have a scene in the story where some lesser death eater or Crabbe/Goyle/Malfoy attempts to cast the curse on Harry and it simply doesn't work. The magic sputters out. It's like how Wingardium Leviosa didn't work for Ron in book one, just scaled up.
+
+I also thought about making it a spell that Voldemort invented and never told anyone about for fear of it being used against him. But you'd have to do some rewriting and retconning for that, and it might be clunky to convey.
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1536820472.0
+:DateShort: 2018-Sep-13
+:END:
+
+**** u/seylerius:
+#+begin_quote
+  Avada Kedavra's a curse that needs a powerful bit of magic behind it --- you could all get your wands out and point them at me and say the words, and I doubt I'd get so much as a nosebleed.
+#+end_quote
+
+I'm with you on Crabbe likely failing had he finished casting.
+:PROPERTIES:
+:Author: seylerius
+:Score: 1
+:DateUnix: 1538140817.0
+:DateShort: 2018-Sep-28
+:END:
+
+
+*** Are we gonna have a scene where Victoria is nerding the fuck out on the killing curse?
+
+Y/Y
+:PROPERTIES:
+:Author: monkeyepoxy
+:Score: 6
+:DateUnix: 1536825090.0
+:DateShort: 2018-Sep-13
+:END:
+
+
+*** u/AutumnSouls:
+#+begin_quote
+  The only outlier is Crabbe in DH, but IIRC we only heard him say the first half of the incantation, so for all we know he might have failed to cast it.
+#+end_quote
+
+Nah, he casts it twice successfully. But I think you could argue that it wouldn't have actually done anything had it hit Ron or Hermione.
+:PROPERTIES:
+:Author: AutumnSouls
+:Score: 6
+:DateUnix: 1536856238.0
+:DateShort: 2018-Sep-13
+:END:
+
+
+*** See, I always saw magic as a system of intent. You need to truly want the spell to happen for it to happen. To use Avada Kedavra, you need to want that person dead. It isn't going to work if you have any amount of pity or hesitation for them. And because of this, the ability to cast certain spells tells people a lot about your character. I actually had this idea for a character in an Ilvermorny fic, where they are supposed to be this very talented healer who is completely unable to do even the simplest of a healing spell on the main character, and this tells everyone just how much this character must truly despise the MC, to be unable to muster the smallest desire for them to not die. To me, to cast Avada Kadavra would mean either care about someone so little you can kill them (Voldemort but with literally all people rather than just one), or you hate someone so much you truly wish them dead (Molly, though it never mentions what curse she used, I can see her having used it against Bellatrix.)
+:PROPERTIES:
+:Author: bubblegumpandabear
+:Score: 4
+:DateUnix: 1536859203.0
+:DateShort: 2018-Sep-13
+:END:
+
+
+*** u/kyle2143:
+#+begin_quote
+  Taking a step back and considering the question on a meta level, one might ask a similar question regarding the use of nuclear weapons. The answer to that one is "if you use it, the other side will use it too". Perhaps there is a similar strong social taboo against the Killing Curse in the HP universe, and it was only Voldemort and his followers who were insane enough to actually engage magical MAD.
+#+end_quote
+
+This is actually an interesting point. I think at the beginning, the wizarding world was supposed to be whimsical and jokey. Like Earth in the year 3000 from Futurama where because they live is such abundance from magic/technology people don't really take things very seriously at all. I never heard it mentioned specifically, but it could also mean that usually wizarding war isn't taken so seriously. That usually it would devolve into the leaders fighting and then everyone was mostly throwing out spells that didn't kill peopleor take them out of the game, just kept em out of the fight. And maybe Voldemort was an outlier in that he managed to convince hundreds of his followers to use the Killing Curse so that they could win the war, when the other side didn't take ir so seriously.
+
+Unfortunately I don't think that is the case considering how seriously everyone takes it in the last few books, but that could just be a sign of a period in wizarding hostory when wizards were more realists.
+:PROPERTIES:
+:Author: kyle2143
+:Score: 3
+:DateUnix: 1536824400.0
+:DateShort: 2018-Sep-13
+:END:
+
+
+*** I feel like it takes a bit of concentration to cast it and you have to summon hatred in yourself to use it. Im basing this off of moody saying avada kedavra wouldn't work for any of the 4th years and thepatronus charm requires you to focus on a happy memory to cast it. Maybe the killing curse is the similar in that you have to summon hatred in yourself to use it and you can't really spam the patronus.
+
+Another thought is that using the killing curse leaves you vulnerable to attacks from your opponent so it wouldn't necessarily be helpful in a high level duel. Because maybe it takes a few seconds to cast it.
+:PROPERTIES:
+:Author: pax1
+:Score: 2
+:DateUnix: 1536839320.0
+:DateShort: 2018-Sep-13
+:END:
+
+
+** There's an easy solution that comes in from the psychology of violence and warfare. Y'see, we know that intent matters in magic. You have to /mean it/.
+
+And that matters for the Killing Curse because /nearly every human being has an aversion to the use of lethal force/. It's the reason that so many murderers' first words of confession to the interviewing officer are some variation of the theme "I didn't mean to kill him." It's the reason that modern armies spend so much on trying to condition their recruits to actually aim /at/ the enemy rather than just in their general direction - it's quite well understood that historically, most ammunition was carefully aimed away from identifiably human targets and a lot of fighters couldn't even bring themselves to do that. Most of the actual killing was done by artillerymen and pilots who couldn't see their targets.
+
+It's one of the many evolved-in psychological imperatives that help ensure there's seven billion of us.
+
+And the killing curse leaves you no psychological wiggle-room about what you're doing. You can't 'shoot to wound', you can't just spray-and-pray it. You have to get over that bred-in reluctance to kill just to get the spell out of the end of your wand, and - it may be confidently assumed - casting it with the sincere hope that your target will dodge or block makes the spell fail.
+
+/That/ is what makes Barty Crouch jr. so confident he wouldn't be harmed by an entire class incanting the spell at him. Most of 'em couldn't even make it work in the heat of battle, the few that /could/ don't have their blood up enough to manage it in a classroom environment with no clear and present threat, and the chances of there being a precocious antisocial personality disorder present are too remote to worry about. Kids like Tom Riddle are thankfully rare.
+
+Whether Crabbe jr. was sufficiently possessed of intent to kill to get the spell off, we'll never know.
+:PROPERTIES:
+:Author: ConsiderableHat
+:Score: 36
+:DateUnix: 1536836313.0
+:DateShort: 2018-Sep-13
+:END:
+
+*** This totally makes sense to me, thanks
+:PROPERTIES:
+:Author: verianne
+:Score: 2
+:DateUnix: 1536842495.0
+:DateShort: 2018-Sep-13
+:END:
+
+
+*** If the man who pressed the button to drop the bomb on Hiroshima had been told to walk up to 70,000 people, one at a time, and cut each one's throat with a knife, he would give up and turn away long before he was done. We can presume that the emotional state required to use the Killing Curse has parallels; most people just can't sustain that level of vicious cruelty.
+:PROPERTIES:
+:Author: thrawnca
+:Score: 5
+:DateUnix: 1536884306.0
+:DateShort: 2018-Sep-14
+:END:
+
+
+*** This is canon for the cruciatus (I think it's Bellatrix that says you have to really want to hurt your victim for crucio to do any damage?), so it makes sense for the killing curse to be that way too.
+:PROPERTIES:
+:Author: panda-goddess
+:Score: 2
+:DateUnix: 1536963358.0
+:DateShort: 2018-Sep-15
+:END:
+
+
+** This was a problem I had in my long fic. I originally had a magical duel, but it didn't turn out well because I was like, "Person A just defends somehow while Person B throws Avada Kedavra all day erryday." It was set up as a fight to the death and it was very boring, so I turned it into a sword fight instead which still fit the context and worked out a lot better.
+
+The whole magic without limits world that JKR has set up can be tough to work with, especially in the context of grown up adult wizards, which is my preferred setting. With unlimited magic, where's the struggle? At least when you're dealing with students, there's at least the idea that they don't have access to the spell knowledge that an adult would, so it's reasonable that they might approach some challenges differently.
+
+It's definitely more interesting when a magical fight is more than two guys throwing Killing Curses at each other, but I haven't found a super effective way to do it myself. I'll have to keep trying.
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 23
+:DateUnix: 1536817285.0
+:DateShort: 2018-Sep-13
+:END:
+
+
+** The best solution I found was this.
+
+1. The killing curse is so heavily reliant on the precise intent of the spell that it cannot be cast without the full incantation and proper wand movement or the spell will not be formed properly and fail.
+
+2. The incantation of the killing is "Avada Kedavra" which is six syllables long. This gives a competent duelist ample time to either conjure a solid barrier (which this version of the curse cannot pass through) or prepare to dodge.
+
+3. The curse itself is fairly slow moving compared to other spells such as piercing curses or spells the simply cause an instaneous effect like charms instead of forming a projectile of colored energy. The speed of the curse gives the opponent ample time to react, but due to the highly dangerous nature of the spell forces the opponent to focus completely on dealing with it possibly leaving them open to attack.
+
+4. The curse itself is magically draining. Not in the sense that it takes 5 action points to cast instead 1, but rather it is not to be used if one is significantly fatigued from combat and, as Barty Crouch Jr. Said "needs a fair bit of magic behind it".
+
+5. Lastly is the intent. The curse requires that the caster bot only 'wish' that the target is dead, but be wholeheartedly willing to personally end tgeir opponents life, and do so without hesitation or immediate remorse. This is what gives it it's soul splintering property, as well as gives it sufficient magically imbued intent to defeat any magical barrier, as they cannot withstand the intensity that the curse brings.
+
+That is the best solution I have found to the killing curse problem, all in all it makes it a spell that can only be effectively used with proper precise timing in an active duel, and any other time a distraction play at best that can be easily countered by a competent opponent.
+:PROPERTIES:
+:Score: 40
+:DateUnix: 1536819612.0
+:DateShort: 2018-Sep-13
+:END:
+
+*** Not sure if this is intended to be canon-compatible, but if it is, then you have a few problems:
+
+1 & 2: We have seen the Killing Curse cast non-verbally.
+
+5A. We have seen Bellatrix use the Killing curse on a fox and fake Moody use it on a spider. I doubt they had a lot of deep personal hatred for those specific animals.
+
+5B. All killing fragments the soul, not just killing using the Killing Curse. Even killing via proxy fragments the soul: Tom Riddle killed Myrtle by ordering the basilisk to do so and this still split his soul to allow him to make the diary horcrux.
+:PROPERTIES:
+:Author: Taure
+:Score: 26
+:DateUnix: 1536820183.0
+:DateShort: 2018-Sep-13
+:END:
+
+**** In regards to your issues with the soultion, it is not meant to be entirely canon compliant as then it would just be the same OP curse. Rather it is designed to prevent the spell from being over powered while at the same time being reasonable and easily recognizable as the same spell. Specifically regarding your complaints about section 5, while the second part is valid, you missed the point of the first one. I did not say you had to have hatred for your opponent, rather a complete willingness to end the existence of another being without hesitation or remorse. This is in fact both very different from pure murderous intent, and much more scary (in my opinion) as it implies that the caster truly feels nothing about the death of their victim. Of course Barty Crouch Jr doesn't give a damn about the life of his spider, just as Voldemort is indifferent to the lives he ends, and the death eaters believe their victims to be beneath them. The spell's intent is not derived from hatred towards an opponent, but instead from a lack of empathy for another being's existense. This is why the spell is so hard, not because you have to be angry or hateful enough, a sufficient amount of booze could do that trick if that were the case. But because you have to truly have no remorse during the act. You may grow to regret your actions after you have already committed them, but if you do not hesitate in the act then the desired result will occur.
+:PROPERTIES:
+:Score: 13
+:DateUnix: 1536821187.0
+:DateShort: 2018-Sep-13
+:END:
+
+***** I'm not sure that hatred /or/ indifference/no empathy works, canonically speaking. Snape successfully cast the Killing Curse on Dumbledore, and he was certainly not indifferent to that act. I'd just stick with fake Moody's statement: it needs power behind it, power which most wizards lack.
+:PROPERTIES:
+:Author: Taure
+:Score: 8
+:DateUnix: 1536821394.0
+:DateShort: 2018-Sep-13
+:END:
+
+****** Perhaps, although if he used hatred instead then it likley did matter where it came from. Similar to the patronus, it doesn't matter what the memory is as long as it produces the desired feeling. The hatred shape felt could have been for Voldemort, or the death eaters, or even himself. It still would have brought about the desired emotion.
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1536821538.0
+:DateShort: 2018-Sep-13
+:END:
+
+******* I really fucking hate typos. "It likely /didn't/ matter"
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1536821611.0
+:DateShort: 2018-Sep-13
+:END:
+
+
+** Aside from Bellatrix casting a green spell at a fox in the opening of book 6, the Killing Curse is usually spoken out loud. It's an act of intimidation to use it, and I see it as more a 'finishing move' to use on victims caught unawares or so thoroughly outmaneuvered that they will fall to it.
+
+It's not suitable for battlefield use because missing your target can have very bad consequences for your side. This was demonstrated at the end of book 6 when one of the Death Eaters was casting it all over the place and ended up killing another Death Eater instead of the student or Auror enemies he was intending to kill.
+
+Whether it has a corrupting effect is a matter of theme for a particular story, but just from a logistical view, it seems to take a lot of time/effort to say and to cast. Only the Full body-bind (Petrificus Totalus=7 syllables in a nearly tongue-twisting cadence) is worse in terms of spell incantations to be used in a stressful situation like combat.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 7
+:DateUnix: 1536819682.0
+:DateShort: 2018-Sep-13
+:END:
+
+
+** I thought it was a metaphor for guns? Or maybe that's just how I interpret it, with consideration to how and where I grew up.
+
+Here's some thoughts about it that a friend and I talked about:
+
+-we're never shown how someone learns the spell. Anyone can know the incantation and recognize the color, but magic is finicky and specific if Wingardium Leviosa taught us anything. I'm sure that there's a whole part of Death Eater training that involves learning it, but, hear me out, I don't see Voldemort using an easy baby spell as his signature spell. He's all about big grandiose spell work. Which is why Harry using Expelliarmus is a great contrast for it.
+
+-also, apparently, wizards can't aim for shit? Like their whole deal is aiming their stick at things and firing, but way too often the spells don't hit unless they're point blank. At least in the movies, we've seen some spells that don't have linear casting. Some split off and go haywire. Maybe some spells have ballistic physics and sink as they go further.
+
+-wizards are both prideful and cowards. Especially the villains. We see it over and over again. So, even if a wizard has the power and knowledge to cast AK, they might not. They might cast flashier or more cruel spells. Or spells meant to capture and simply let their allies do the killing. Also, it seems stupidly easy to goad death eaters into 1v1 duels.
+
+-the killing curse is technically a charm, right? I've seen it classified as a medical charm. Some wizards are just better at other magic, like transfiguration or illusion.
+
+Even with consideration to your peeves, there's a lot of world building you can do to skirt around it.
+:PROPERTIES:
+:Author: filthyforsworn
+:Score: 5
+:DateUnix: 1536834798.0
+:DateShort: 2018-Sep-13
+:END:
+
+
+** That video was really interesting, I just want to address a few things, that came up:
+
+#+begin_quote
+  Dolohov
+#+end_quote
+
+I think he can be forgiven for not being able to cast the killing curse silently.
+
+#+begin_quote
+  Battle in the DoM is brilliant.
+#+end_quote
+
+Absolutely. Everything the guy in the video says about this I can agree with.
+
+#+begin_quote
+  "Dark Wizards don't have need for distractions, shielding, confinement, silencing or any kind of other spell, because they can just use the killing curse"
+#+end_quote
+
+I can't really follow that logic. If someone just casts the killing curse all the time it shows a lack of cleverness and imagination, just the same as when Harry just casts "Stupefy" at everything that moves.
+
+Any spell that augments your position to make a hit, protects you from being hit, hinders your opponent in hitting you or hinders your opponent's evasive abilities is useful, no matter whether you use Stupefy or Avada Kedavra. A lot of Dark Wizards and Witches are willing and able to use the killing curse, yet none are as terrifying and feared as Voldemort, so clearly there must be something more to it.
+
+I think the mistake Rowling made was not that she included the killing curse, but that she gave it such special significance without really explaining it. Fanfics have pointed out ad nauseum how many ways there are to kill someone without using the killing curse and arguably using something less noticeable and prominent than those well known words and green light might actually be an advantage in combat.
+
+What if someone managed to weaponize the kind of obliviation that Lockhart accidentally performs on himself? Wouldn't that be terrifying?
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 4
+:DateUnix: 1536835149.0
+:DateShort: 2018-Sep-13
+:END:
+
+
+** The most obvious thing that came to mind: make it so that the baddies don't want to kill during the duel. This is pretty well employed in the book series: death eaters are not allowed to kill Harry, they are only meant to capture. Even Voldemort wanted him alive at least part of the time during the books. Generally this is because of a reason like "Harry's blood is needed for the ritual" or "Harry needs to get the prophecy". But there could be tons of similar scenarios where someone needs to be kept alive, like maybe a magical link where if one side dies, so does the other or maybe the need to capture the opponent to force them to send a patronus saying everything is OK so nobody comes looking.
+
+The other thing I can think of: people don't always act rationally, especially Voldemort. The biggest example of this is the fact that he could have chosen more subtle items for his horcruxes, but literally went for the most flashy things because he highly valued Hogwarts/magical history and maybe also because he wanted to establish dominance over the four houses. We also see some of this with the basilisk, which is hardly the most efficient way to kill people but it held a lot of value to V because it was a slytherin secret. (I know young Riddle probably didn't have many options, but seriously, a giant snake? Come on...)
+
+So for that reason I could totally see V or any baddie going for spells that hold high sentimental value, for lack of a better term. Maybe it's an AU where V didn't know the killing curse when he killed his muggle family so he chose a signature curse. Maybe he grows to see the killing curse as too merciful or that it's thrown around too much. When you mentioned flaming snakes this is definitely the reason I could see for him doing this. Like maybe Salazar had some duel and used that spell and he managed to revive it or resurrect it similar to how he resurrected the basilisk.
+:PROPERTIES:
+:Author: perfectauthentic
+:Score: 2
+:DateUnix: 1536821183.0
+:DateShort: 2018-Sep-13
+:END:
+
+
+** Quick solution I just thought of when reading this post:
+
+Use something like the Taboo that detects the killing curse being cast. When cast this country-spanning magic instantly conjures a rock at the tip of the casters wand which is immediately impacted by the killing curse and causes a point blank explosion which also ruins the spell.
+
+Amusingly this also makes Avada Kedavra summon rocks when you fail to cast the spell or just say the words while holding a wand.
+:PROPERTIES:
+:Author: ForumWarrior
+:Score: 3
+:DateUnix: 1536822852.0
+:DateShort: 2018-Sep-13
+:END:
+
+*** On a similar crackish note: have Ollivander collaborate with WWW to enchant wands so that when you try to cast the Killing Curse, the wand spontaneously turns into a duck.
+:PROPERTIES:
+:Author: Taure
+:Score: 3
+:DateUnix: 1536823068.0
+:DateShort: 2018-Sep-13
+:END:
+
+**** I suspect wand makers would object to being asked to purposely cripple their product. This merely widens the market for illegally made or old wands.
+:PROPERTIES:
+:Author: ForumWarrior
+:Score: 2
+:DateUnix: 1536823208.0
+:DateShort: 2018-Sep-13
+:END:
+
+***** I /did/ say it was similarly crackish.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1536823275.0
+:DateShort: 2018-Sep-13
+:END:
+
+
+** My thought on the killing curse is that in order to successfully cast it, you need to not only want the person to die, you have to have the conviction that it is your /right/ to kill them. That they only exist at your pleasure, and you are /revoking/ that pleasure. Merely wanting to kill them, to stop them, isn't enough. You have to believe they are so far below you that they have the same right to life as a pig on a farm. (note: the spell still kills no matter who it hits, even if the caster couldn't cast it on the eventual victim. It's the casting of the spell that requires that mindset as it relates to the intended target, not the effect of the spell on who it eventually hits, in the case of self-sacrifice or accident)
+
+This makes it a quite interesting spell, because, okay, pureblood fanatics can avada kedavra muggleborns and muggles all day long because they honestly feel it is their right, that muggleborns are only allowed to continue breathing by pureblood grace alone.
+
+But if a muggleborn successfully defies them, if a muggleborn /beats/ them, they would have to be psychotic and self-deceiving in order to still think that specific muggleborn /only/ exists at their pleasure.
+
+And that's what shows Voldemort is bugfuck insane to anyone who cares to look. Harry successfully beat him time and time again, and he could /still/ muster up the mindset needed to cast the killing curse on him. That's someone who honestly believes the whole world revolves around them and that everyone else is just an actor in his little play. And no matter how important the actor is, the producer, voldemort, can always fire them.
+:PROPERTIES:
+:Author: Astramancer_
+:Score: 3
+:DateUnix: 1536842107.0
+:DateShort: 2018-Sep-13
+:END:
+
+
+** This solution isn't mine, I found it in a fanfic (HPMOR), but I think it works really well. Basically if you cast the killing curse you need to want to kill the person- not because it's right or your side will gain from it, no you actually have to want that person dead. the second killing curse cast at someone means you want to resurrect them and kill them again. By the 5th time, most people would get bored, adn won't actually want to kill them any more.
+
+​
+
+Minor spoilers for the fanfic, the point is tat there is a second level to the killing curse- indifference. If you do not care about the life of the person you're killing, you can kill them over and over again. This is why Voldemort and DE can cast so many- they don't care. But in any Harry vs Voldemort fight this wouldn't work, because Voldemort actually does want to kill Harry.
+
+​
+
+I'm not sure whether I agree with the second part but the first one seems to solve the problem.
+:PROPERTIES:
+:Author: FishOfTheStars
+:Score: 3
+:DateUnix: 1536820432.0
+:DateShort: 2018-Sep-13
+:END:
+
+
+** My preferred solutions (choosing any combination, although some are mutually exclusive) within the canon magic system are:
+
+- Like the Patronus charm, the degree of emotion needed can be difficult to summon and maintain.
+
+- AK actually somehow drains the emotion (the hatred is magically sacrificed, somehow) - that is to say, casting it has the effect of soothing the hatred felt. In order to keep casting it, one has to keep re-inducing the hatred, which is sufficiently focus-consuming for most so as to be a liability.
+
+- AK magically boosts the hatred felt, or induces one to become [irrationally] angry, so repeated castings tend to induce a berserker rage, which is not conducive to [non-pyrrhic] victory. Only wizards that do not care about that, or have sufficient self-control to avoid the problem can risk spamming it.
+
+- AK induces a sense of euphoria or similar, and is at least mildly addictive, but only when it connects, and most wizards are at least mildly concerned about becoming addicted to murder.
+:PROPERTIES:
+:Author: ABZB
+:Score: 3
+:DateUnix: 1536842657.0
+:DateShort: 2018-Sep-13
+:END:
+
+
+** Why not make it that how strong it is depends on the skill and power of the wizard who casts it themselves. The more powerful they are the more possible it is for the spell to kill. Say it is cast by a weak 10 yo, the worst it can do is leave some bruises
+:PROPERTIES:
+:Author: Mezilgad
+:Score: 1
+:DateUnix: 1536839552.0
+:DateShort: 2018-Sep-13
+:END:
+
+
+** I read an interesting fic that had harry travel back in time to kill Riddle when he went to Hogwarts. The really interesting bit was the fact that it was told from Tom's perspective, and how he is now suddenly trust into the 'big leagues' and how Hogwarts really is just a school in one contry and not all that important in the long run.
+
+The combat in the fic was really interesting. It had different levels of skill outlined quite clearly, with school students at the bottom and the different levels of abilities of aurors, teachers, and Grindelwalts enforcers. It showed how Avada Kedavra is a really effective curse in the lower to middle tier, but tapers off towards the higher end. The higher end consisting of Dumbledore, Grindelwalt and Harry in this case.
+
+In the end, it's just a laser beam that kills anything it hits, and can be blocked by physical objects. That makes it of only limited use. It is a one dimensional attack. Easy to dodge if you know its coming and are free to move, and relatively easy to block if you know what you're doing. Heck, Dumbledore used Fawks to block it at least once. And as the pheonix was just reborn, it didn't really matter all that much.
+
+The really dangerous spells were the ones that tore through everything and was omnidirectional. Shields of space bending and soul defenses/damage redirection was liberally used by Grindelwald, and Dumbledore was just too bloody fast for anyone to get the better of him.
+
+Harry, in turn, had some really good spells that no one had ever seen before (implied to have been created by Hermione) and was highly effective 9 times out of 10. Nigh-impervious animated minions, black hole-like effects that was impossible to block. He used animated rocks floating around him to defend himself and attack at the same time. He wasn't /quite/ at the level of Dumbledore and Grindelwat, but he was close enough to stand up to them.
+
+TL;DR: The solution was basically to just elevate the world's combat to a level where a death laser wasn't all that dangerous.
+
+It's a really interesting and fic. I recommend it.
+
+linkffn(12331839)
+:PROPERTIES:
+:Author: Caliburn0
+:Score: 1
+:DateUnix: 1536839620.0
+:DateShort: 2018-Sep-13
+:END:
+
+*** [[https://www.fanfiction.net/s/12331839/1/][*/Realignment/*]] by [[https://www.fanfiction.net/u/5057319/PuzzleSB][/PuzzleSB/]]
+
+#+begin_quote
+  The year is 1943. The Chamber lies unopened and Grindlewald roams unchecked. Neither Tom Riddle nor Albus Dumbledore is satisfied with the situation. Luckily when Hogwarts is attacked they'll both have other things to worry about.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{25} ^{*|*} ^{/Words/:} ^{67,230} ^{*|*} ^{/Reviews/:} ^{152} ^{*|*} ^{/Favs/:} ^{365} ^{*|*} ^{/Follows/:} ^{495} ^{*|*} ^{/Updated/:} ^{7/26} ^{*|*} ^{/Published/:} ^{1/21/2017} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{12331839} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Albus} ^{D.,} ^{Tom} ^{R.} ^{Jr.,} ^{Gellert} ^{G.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12331839&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12331839&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1536839635.0
+:DateShort: 2018-Sep-13
+:END:
+
+**** Good bot
+:PROPERTIES:
+:Author: LadyLachesis
+:Score: 1
+:DateUnix: 1536851718.0
+:DateShort: 2018-Sep-13
+:END:
+
+
+** The solution, to me, is to make the killing curse hard to cast. Harder than other dark curses which could also easily kill just as well. In terms of difficulty, I'm not talking about magical power and batteries or whatnot, but sheer will: the drive and passion to be willing to murder someone.
+
+Conversely, the killing curse also requires you to view the victim as less than human and internally absolve yourself of all guilt. Intent is extremely important--you not only need to kill, but be okay with the killing. This duality of contradictions is what makes the killing curse not widely used. You can't fake either state of mind; you need to truly believe both exist at the same time. It needs total and ultimate concentration, unlike other deadly curses and spells.
+
+In a pseudo-arithmantic equation, it'd be: ((The Desire to Kill) + Passion*Hatred)/(Dehumanization+Absolution).
+:PROPERTIES:
+:Author: Bob_Bobinson
+:Score: 1
+:DateUnix: 1536855416.0
+:DateShort: 2018-Sep-13
+:END:
+
+
+** According to the wiki, the spell can be blocked by physical objects. Theoretically, you should be able to block it with rubber ducks that Arthur is so enticed with.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1536860754.0
+:DateShort: 2018-Sep-13
+:END:
+
+
+** One obvious solution is to write a fic that isn't focused on combat.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1536893794.0
+:DateShort: 2018-Sep-14
+:END:
+
+
+** I tend to imagine a few problems with the KC. First, we never see it cast in canon without hearing the incantation, and it's a six-syllable incantation. If you were quick enough on the draw, you could interrupt the casting with something shorter. Second, assuming the opponents reaction time is good enough, they could just step to the side and dodge it. Third, it doesn't go through solid objects. During the Ministry duel, Dumbledore blocks it a couple times with bits of the Fountain of Magical Brethren.
+
+I personally would avoid it for those three reasons alone. A difficult-to-use curse that'll get me sent to prison for life even I use it in self-defense with ironclad evidence in my favor? I wouldn't even bother learning it.
+:PROPERTIES:
+:Author: gbakermatson
+:Score: 1
+:DateUnix: 1536894058.0
+:DateShort: 2018-Sep-14
+:END:
+
+
+** If all a dark wizard does is cast the killing curse over and over again, you could just keep blocking (with solid objects or transfiguration. I know magical shields don't work) or dodging. Using more creative spells makes you more deadly because there's more to keep track of. Sure, there's that deadly curse hurling right towards me, but on my right is a curse that'll shatter my kneecaps and on my left there's a severing charm that could slice my arm off.
+:PROPERTIES:
+:Author: ST_Jackson
+:Score: 1
+:DateUnix: 1536903440.0
+:DateShort: 2018-Sep-14
+:END:
+
+
+** As I understand, the Killing Curse requires a certain level of magical ability (Fake Moody saying that "you could all cast it at me and I'd be unlikely to suffer more than a nosebleed" or something), and can be blocked by physical barriers. It's also not great for fighting groups as it only kills what it hits directly.
+
+By using other curses, like fiendfyre (or other fire that's not liable to kill you if you get a bit distracted), blasting curses, and other area of effect spells, you're more likely to hit a target, and in the case of blasting curses, you create shrapnel if its blocked by a physical object that isnt strong enough to stand up to it.
+
+There is another issue. At no point does it show anyone, even Voldemort, casting the Killing Curse (or the Imperius Curse or Cruciatus Curse for that matter) non verbally or wandlessly. This might be for dramatic effect, but more likely is that the Unforgivables require a certain amount of intent and focus, making the incantation practically, if not entirely, necessary. Add to this that the incarmntation is a rather long on, 6 syllables, giving your opponent a lot of time to slip something in while you're casting.
+
+On the other hand, just about every other spell is shown to be able to be cast nonverbally. This gives you an advantage. If your opponent doesnt know what you're casting, countering it becomes much harder. I'm of the opinion that the shield charm, /Protego,/ isnt just a perfect counter to all non-unforgivables. It's a good general shield against a lot of lesser, common spells, but it likely has weaknesses, like not being able to hold up against darker or obscure curses. It also probably cant be held forever, meaning more powerful spells could just punch right through. In those cases, one would have to know how to counter the curse itself or know a modified shield charm suited to the type of curse, and if you dont know what the curse does, such as in a non verbal casting, you're at a significant disadvantage.
+
+But every wizard and their mother knows the killing curse, and knows that the proper reaction is to put shit between it and you, or get out the way. Thus, while the killing curse can be useful against opponants with lower reaction time or who are unable to fight back effectively for various reasons, anyone with enough skill to block it with a physical object or the ability to just dodge it becomes a much harder opponent.
+
+In that case a varied repertoire of combat spells allows you to overwhelm your opponents defenses, and possibly corner them by manipulating the environment (transfiguring walls to cordone off areas, conjuring acid, poison, or animals, using fire, etc), giving you a better chance of hitting them with something. Even if your first shot in isnt a 1 hit KO, many spells (like a bone breaking hex for instance, or even spells that arent explicitly aggressive like a tickling jinx) will increase your chances of getting another shot in, at least until your opponent is able to dispel or fix the effects of the first one, which would prevent them from being offensive during.
+:PROPERTIES:
+:Author: zbeezle
+:Score: 1
+:DateUnix: 1536943978.0
+:DateShort: 2018-Sep-14
+:END:
+
+
+** Well, you could always just choose to ignore the “relatively easy to cast” part from Canon and say in your story that, no, it's actually quite hard to use, or requires an amount of control or power that most people don't have; or atleast can't use in open combat, or that it takes too much concentration. Fanon doesn't nessasarily have to line up with Canon; when it isn't convenient for the story. As long as you don't pull changes from nowhere whenever you need them. If you actually set up the facts before a fight arises than it's fine, atleast in my opinion.
+:PROPERTIES:
+:Author: Sefera17
+:Score: 1
+:DateUnix: 1536949079.0
+:DateShort: 2018-Sep-14
+:END:
+
+
+** I think the whole social taboo idea is clever, but I don't quite like it because it makes wizard-kind a bit too bumbling for my taste. Canon is whimsical, and full of whimsical characters; but that kind of inherit silliness kind of kills any of the more concrete world-building most fics that address these kind of problems tend to do. I think it would be better to go with the 'dark magic hurts you' option because to me, it does feel sufficiently Potterlike, without relying too much on the old 'wizards are just strange and weird' trope.
+
+We know from canon that injuries inflicted by dark magic are impossible to heal (the severed ear). And we already know, from canon, that in the HP universe the very act of murder hurts the soul (which is why the horcrux ritual requires a murder; a cracked soul is easier to pull into pieces). So to me it follows naturally that a spell dedicated entirely to murder, with literally no other purpose at all, should have consequences.
+
+Make the AK a spell that does serious damage. Not something that gives you instant soul cancer, but maybe something like the wizarding equivalent of an even more risky CT scan; really useful, but you can only use it so many times before you do get soul cancer. The kind of spell the average wizard can only cast three, four, at most ten times in a life time, and at most once a day. This would balance the bad guys reasons for using the AK (instant kill, can't be blocked by shields), with reasons for them to hold back (if you miss, you've wasted ammunition you can't get back. This wouldn't break canon, because as far as I can remember the AK is usually used as a fight ending spell; the kind of thing you cast when you've either got a guarenteed hit, or you need that particular person dead so desperately that it's worth the risk of casting. I can't really remember anyone in canon spamming the AK, or even being shown to have cast it more than once in a day, except, of course, for Voldy.
+
+Make Voldy scary precisely because he can cast AK with impunity. Give all the pureblood wizards he intimidated into servitude more reasons to believe his claims of grand wizarding nobility; such raw magical power could never come from a halfblood. Make it so that the horcrux ritual split his soul, and also perhaps gave him some kind of resistance to the normal consequences of casting AK, so that he, and he alone, could use it whenever you like. Grindlewald was also a great wizard, but he needed the Elder Wand to truly become a Dark Lord. Make it so that Voldemort, even with all his talent, also waited until he had a true advantage to really start his crusade.
+
+In a world where everybody has three, maybe four "atomic bombs", Voldy alone has infinite nukes. A dueling advantage so large, it let him become a Dark Lord that nearly took over a country. It wasn't that all the Aurors were incompetent. It's just that they would have to deal with Voldy's shields, while he could just walk around one-shotting them like a hacker in the video game; it isn't that they have no skills, it's that Voldy didn't even let there skill be a factor, because he's basically cheating.
+
+And then he gets beaten by Harry Potter, a boy with so many damn cheat codes enabled that he can literally say "no u" to death itself.
+
+The ultimate karmic victory.
+
+​
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1537051725.0
+:DateShort: 2018-Sep-16
+:END:
+
+
+** There was a fic I read that dealt with this really really well.
+
+Basically, using the killing curse in a duel is almost insulting. It is a distinctive, bright green light. It takes longer to cast because even if it's non-verbal, it is a long incantation. If you think about it, it's better to dodge most curses anyway, especially if you don't recognize them, so being unable to block it with a magical shield isn't that big a deal. In the time you took to cast the AK, I transfigured the floor to sand and banished it at you. I dodge the AK, you get sand blasted because you were casting a curse, couldn't shield, and dodging a big wave of sand is stupid hard.
+
+Magical fights where you can infinitely cast any spell you want as long as you've practiced it enough turn into who has a bigger bag of tricks, and who has seen more tricks. If you have seen the sand trick before, you could cover your eyes with your cloak and apparate away. You can have a fighting style that's all apparating around and casting killing curses, but that makes you predictable, and predictability ends with you dead. Why use a killing curse when you could use magic like 1 syllable blasting curses. Or summon the opponents shoes.
+
+Bad guys that are stupid mooks are the ones that will just cast the killing curse. Congrats, you cast the killing curse at the illusion I sent to the center of the room, while I was disillusioned and silently knocked you out with a stupefy from behind. The killing curse is a potent tool for mooks, but any competent baddie would and should be more creative than that.
+:PROPERTIES:
+:Author: MastrWalkrOfSky
+:Score: 1
+:DateUnix: 1537139480.0
+:DateShort: 2018-Sep-17
+:END:
+
+
+** Making the killing curse tire you out to the point were casting anything else is a chore could solve it.
+:PROPERTIES:
+:Author: ilikesmokingmid
+:Score: -2
+:DateUnix: 1536816915.0
+:DateShort: 2018-Sep-13
+:END:
+
+*** But that doesn't fit with JKR's canon. There's no such thing as magical exhaustion. The whole idea of an inner magical well of power is completely fanon. This being fan fiction, you can certainly do what you want, but that's well outside of the somewhat wonky system JKR set up.
+
+Just tonight I was writing a scene that was going really well, shared a bit with my beta and she said, "What about magical thing X?" Goddammit, I didn't even think of that. Crap.
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 8
+:DateUnix: 1536819341.0
+:DateShort: 2018-Sep-13
+:END:
+
+**** If there is no concept of magical exhaustion, then logically, for any spell, all you need to know is the correct wand movement and/or incantation and any five year old could do it. But then, what about the Patronus charm or the act of apparition? Simply knowing the movement/incantation doesn't help - one has to actively focus their mind on a specific thing. And that has to become energy-draining at some point. So in such a scenario, are we becoming physically tired or magically tired - or is it both?
+
+And what about a scenario, when a wizard has to block multiple spells from multiple sources for an extended period of time? Surely, all he is doing is flick his hand a bit, and maybe not even that, if he is casting non-verbals? If we remove the element of physical stress, then theoretically, wizards and witches can duel uninterrupted for as much time as they want?
+:PROPERTIES:
+:Author: BarneySpeaksBlarney
+:Score: 1
+:DateUnix: 1536824021.0
+:DateShort: 2018-Sep-13
+:END:
+
+***** There are plenty of ways to make magic difficult without magical exhaustion. Indeed, magical exhaustion doesn't make magic difficult at all, it just limits the number of spells you can cast.
+
+Full coverage of the factors contributing to magical difficulty in canon (pages 5-30): [[https://drive.google.com/file/d/1gy6FOtx28w3JPDeDBOcch0fpuvTEnNwr/view?usp=sharing]]
+
+#+begin_quote
+  If we remove the element of physical stress, then theoretically, wizards and witches can duel uninterrupted for as much time as they want?
+#+end_quote
+
+Yes. Though I doubt a typical duel will last more than 10 seconds or so.
+:PROPERTIES:
+:Author: Taure
+:Score: 7
+:DateUnix: 1536826160.0
+:DateShort: 2018-Sep-13
+:END:
+
+****** Dayum! The last thing I was expecting was a thesis on the subject! Can't wait to check it out after work and get back to you with questions I'll surely have. Thanks!
+:PROPERTIES:
+:Author: BarneySpeaksBlarney
+:Score: 2
+:DateUnix: 1536826770.0
+:DateShort: 2018-Sep-13
+:END:
+
+
+** Av-a-da-ke-da-vra - incantation can't be rushed, can't be shortened, can't be done wordlessly or wandlessly. Other spells can. When trying to hit someone in a duel, fast-casting is an advantage. 'Spamming' AK would be about as effective as using a musket against a machine gunner. When the other guy can cast a dozen wordless stunners in the same time it takes to shout your one killing curse, that's a big tactical disadvantage.
+:PROPERTIES:
+:Author: Asviloka
+:Score: 0
+:DateUnix: 1536839561.0
+:DateShort: 2018-Sep-13
+:END:

@@ -1,0 +1,121 @@
+#+TITLE: I'm back! And I'm sharing an iOS Shortcut that can download multiple fics at once from any input. Check it out!
+
+* [[https://v.redd.it/yc1g7r5gjao11][I'm back! And I'm sharing an iOS Shortcut that can download multiple fics at once from any input. Check it out!]]
+:PROPERTIES:
+:Author: tusing
+:Score: 50
+:DateUnix: 1537840412.0
+:DateShort: 2018-Sep-25
+:FlairText: Meta
+:END:
+
+** Shortcut URL: [[https://www.icloud.com/shortcuts/6baf582dd0c14ce1a934e1c18842aa09]]
+
+Only works with fanfiction.net links.
+
+You can pass any content to the Shortcut. In the example above, I pass a bot comment to the shortcut. It extracts the links from the comment and lets the user select the fics they want to keep.
+
+In other words, you can pass emails, documents, clipboard, etc with links and this will extract the links and download the contained fics for you. It downloads the content to your iCloud =/Shortcuts/Fics= folder, but you can change that pretty easily in the shortcut itself (or even switch to Dropbox).
+
+Enjoy the shortcut. If you ever find any bugs or want additional features, let me know and I'll see if I can customize it and update.
+
+--------------
+
+(I have no clue what those fics are in the demo above, don't judge.)
+
+--------------
+
+None of the FanfictionBot or these shortcut downloads would work without [[http://ff2ebook.com/][FF2Ebook]]. You guys have often given me gold for FanfictionBot stuff but I would much rather you donate to FF2Ebook instead (donation link at their homepage).
+:PROPERTIES:
+:Author: tusing
+:Score: 6
+:DateUnix: 1537840757.0
+:DateShort: 2018-Sep-25
+:END:
+
+
+** Now I just need an iphone 😂. Great work.
+:PROPERTIES:
+:Author: Mac_cy
+:Score: 5
+:DateUnix: 1537840900.0
+:DateShort: 2018-Sep-25
+:END:
+
+
+** That's a really neat shortcut. I don't read fics on an iPhone but that sounds like a useful tool.
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 2
+:DateUnix: 1537889066.0
+:DateShort: 2018-Sep-25
+:END:
+
+
+** Oh my gosh. tusing, I love you. Thanks!!!!
+:PROPERTIES:
+:Author: the-phony-pony
+:Score: 2
+:DateUnix: 1537922676.0
+:DateShort: 2018-Sep-26
+:END:
+
+
+** Really looking forward to using this!
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 1
+:DateUnix: 1537903894.0
+:DateShort: 2018-Sep-25
+:END:
+
+
+** You genius. I already have a shortcut for opening way favourite searches in Safari, but this is fantastic.
+:PROPERTIES:
+:Author: costryme
+:Score: 1
+:DateUnix: 1537907258.0
+:DateShort: 2018-Sep-25
+:END:
+
+
+** Update : it's actually not working on the official iOS App (it looks like you're using Apollo
+
+[[https://imgur.com/a/q3xWl5X]]
+
+Edit : Obviously though it works if you click on a link and use the shortcut which is pretty great already, but just thought I'd share how it works on the official client.
+:PROPERTIES:
+:Author: costryme
+:Score: 1
+:DateUnix: 1537909062.0
+:DateShort: 2018-Sep-26
+:END:
+
+*** I think this is because the official app does not include the actual comment text in a share (it just shares the link).
+
+Nothing I can do about that. I could change the shortcut to scrape Reddit and grab the link but then it's not a generic “link extraction” shortcut, and that bothers me :)
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1537910722.0
+:DateShort: 2018-Sep-26
+:END:
+
+**** Fair enough, the ability to download immediately from Safari (and the Safari viewer in the Reddit app) is pretty damn great already.
+:PROPERTIES:
+:Author: costryme
+:Score: 1
+:DateUnix: 1537913260.0
+:DateShort: 2018-Sep-26
+:END:
+
+
+** Don't have a single Apple product, nor do I ever want one but this is neat.
+
+How long you back for?
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 3
+:DateUnix: 1537846005.0
+:DateShort: 2018-Sep-25
+:END:

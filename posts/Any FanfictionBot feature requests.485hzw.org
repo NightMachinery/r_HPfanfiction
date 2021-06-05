@@ -1,0 +1,229 @@
+#+TITLE: Any FanfictionBot feature requests?
+
+* Any FanfictionBot feature requests?
+:PROPERTIES:
+:Author: tusing
+:Score: 16
+:DateUnix: 1456692793.0
+:DateShort: 2016-Feb-29
+:FlairText: Meta
+:END:
+I've run out of ideas.
+
+All I can think of is PMing the bot to get recs for other fics, but that probably won't happen for some time (learning the requisite material).
+
+So - any ideas? I'd like to keep them fanfic-specific, don't want the bot to get bloated.
+
+
+** An easily spotted "complete" icon/indicator. At least for ffn - I don't know if other archives distinguish so clearly.
+:PROPERTIES:
+:Author: t1mepiece
+:Score: 31
+:DateUnix: 1456706307.0
+:DateShort: 2016-Feb-29
+:END:
+
+*** I second and third this, too.
+:PROPERTIES:
+:Author: Clegko
+:Score: 7
+:DateUnix: 1456708843.0
+:DateShort: 2016-Feb-29
+:END:
+
+**** And fourth and fifthing this.
+:PROPERTIES:
+:Author: blueocean43
+:Score: 8
+:DateUnix: 1456709183.0
+:DateShort: 2016-Feb-29
+:END:
+
+
+*** It does show the status:complete if it's complete, and nothing if it's not.
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1456714291.0
+:DateShort: 2016-Feb-29
+:END:
+
+**** Which is why I specified "easily spotted", because the Complete notation is not in the same location every time - it's simply in the middle of several lines of text. An icon, a color, bold - something to make it /easily spotted/ would be an improvement.
+
+Not to mention, if it could be standardized across several archives, it would be awesome for users.
+:PROPERTIES:
+:Author: t1mepiece
+:Score: 8
+:DateUnix: 1456767062.0
+:DateShort: 2016-Feb-29
+:END:
+
+
+** For portkey.org to be added to the list of supported sites.
+:PROPERTIES:
+:Author: MacsenWledig
+:Score: 18
+:DateUnix: 1456695332.0
+:DateShort: 2016-Feb-29
+:END:
+
+*** Also hpfanfiction
+:PROPERTIES:
+:Score: 12
+:DateUnix: 1456697248.0
+:DateShort: 2016-Feb-29
+:END:
+
+
+*** Seconded! This would be the first Portkey news in years that wasn't "Something broke and nobody is around to fix it."
+
+FictionAlley would be nice, too, if only because there are some ancient fics on there that never moved to FFN.
+:PROPERTIES:
+:Author: danfiction
+:Score: 3
+:DateUnix: 1456730468.0
+:DateShort: 2016-Feb-29
+:END:
+
+
+*** More generally, perhaps branch out into fanfic sites in general?
+
+In fact, since both the bot and FanFicFare use Python, and since FanFicFare knows how to fetch fic metadata from [[https://fanficfare.appspot.com/][a hundred or so sites]], I wonder how difficult would it be to write a shim that would allow FFBot to support any site that FanFicFare does...
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 2
+:DateUnix: 1457092272.0
+:DateShort: 2016-Mar-04
+:END:
+
+
+*** Agreed. In addition to portkey and hpff (as others have already mentioned) what about also ashwinder.sycophanthex.com, archive.skyehawke.com, and potionsandsnitches.org?
+:PROPERTIES:
+:Author: Dimplz
+:Score: 1
+:DateUnix: 1456760000.0
+:DateShort: 2016-Feb-29
+:END:
+
+
+** PDF download link (just like the EPUB or MOBI link)?
+:PROPERTIES:
+:Author: TheBlueMenace
+:Score: 8
+:DateUnix: 1456699210.0
+:DateShort: 2016-Feb-29
+:END:
+
+*** PDF links would be really nice.
+:PROPERTIES:
+:Author: ApteryxAustralis
+:Score: 4
+:DateUnix: 1456713279.0
+:DateShort: 2016-Feb-29
+:END:
+
+
+*** Yes! I read stuff on my desktop and PDFs are best way to read on it.
+:PROPERTIES:
+:Author: aspectq
+:Score: 1
+:DateUnix: 1456727836.0
+:DateShort: 2016-Feb-29
+:END:
+
+
+** There have been a lot of times people have recommended authors rather than a story. Could it be possible to be able to link author pages like we do stories?
+:PROPERTIES:
+:Author: 12th_companion
+:Score: 7
+:DateUnix: 1456773303.0
+:DateShort: 2016-Feb-29
+:END:
+
+*** I think this could be interesting, but what would it show from the author page? People have all sorts of crap on there in the profile section, and some authors have too many fics to list.
+
+For what it's worth, I'd personally probably want a link to (up to) 5 stories, prioritized by length but with another weight given towards finished stories. If they didn't have any stories of their own it could show some of their favourites?
+:PROPERTIES:
+:Author: waylandertheslayer
+:Score: 2
+:DateUnix: 1456806622.0
+:DateShort: 2016-Mar-01
+:END:
+
+**** u/deleted:
+#+begin_quote
+  prioritized by length
+#+end_quote
+
+I'd say reviews or favourites personally.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1456855216.0
+:DateShort: 2016-Mar-01
+:END:
+
+
+** ~~Make sure the response is in the same order as the links given in the comment. ~~
+
+Test below
+
+linkffn(4780695), linkffn(5010568)
+
+Never mind. Looks to be fixed.
+:PROPERTIES:
+:Author: lineagle
+:Score: 5
+:DateUnix: 1456717069.0
+:DateShort: 2016-Feb-29
+:END:
+
+*** [[http://www.fanfiction.net/s/4780695/1/][*/A Collection of Harmonious OneShots/*]] by [[https://www.fanfiction.net/u/1330896/Seel-vor][/Seel'vor/]]
+
+#+begin_quote
+  My contribution to the "Rampant Plot Bunny" files... H/Hr, rating for language
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 15 *|* /Words/: 93,272 *|* /Reviews/: 653 *|* /Favs/: 924 *|* /Follows/: 654 *|* /Updated/: 3/17/2010 *|* /Published/: 1/9/2009 *|* /id/: 4780695 *|* /Language/: English *|* /Genre/: Drama/Romance *|* /Characters/: Harry P., Hermione G. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=4780695&source=ff&filetype=epub][EPUB]] or [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=4780695&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/5010568/1/][*/In Too Deep/*]] by [[https://www.fanfiction.net/u/1309586/perverted-squirrel][/perverted-squirrel/]]
+
+#+begin_quote
+  Hermione is the Dark Lords' most prized death eater. But when he sends her on a mission to befriend Harry Potter, her sworn enemy, things don't go quite as planned. When she took the mission she never anticipated falling in love with her target. HHR
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 24 *|* /Words/: 117,045 *|* /Reviews/: 308 *|* /Favs/: 504 *|* /Follows/: 191 *|* /Updated/: 12/13/2009 *|* /Published/: 4/21/2009 *|* /Status/: Complete *|* /id/: 5010568 *|* /Language/: English *|* /Genre/: Drama/Romance *|* /Characters/: Harry P., Hermione G. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=5010568&source=ff&filetype=epub][EPUB]] or [[http://www.p0ody-files.com/ff_to_ebook/ffn-bot/index.php?id=5010568&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.3.7} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=%2Fu%2Ftusing][Contact]]]
+
+^{/New in this version: PM request support!/}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1456717088.0
+:DateShort: 2016-Feb-29
+:END:
+
+
+** Sorting. Have the stories listed in the same order they are in the original story. Make a stard order of the info (chapters, words, publish date, update date, etc) that is used regardless of source (although still dropping fields that are not available).
+
+Make completed or not clearer. Nicely format number of words for sources that dont (i.e i think ao3 has words: 123456, but would lke to see 123,456).
+:PROPERTIES:
+:Author: ryanvdb
+:Score: 1
+:DateUnix: 1456776202.0
+:DateShort: 2016-Feb-29
+:END:
+
+
+** Just thought of one. Have it have all the books in cleartext it can reference then when you want to reference a specific section of a book, type
+
+Bookbot(one sentence of excerpt: how many words in total)
+:PROPERTIES:
+:Author: viol8er
+:Score: 1
+:DateUnix: 1456981908.0
+:DateShort: 2016-Mar-03
+:END:

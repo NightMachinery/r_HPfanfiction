@@ -1,0 +1,58 @@
+#+TITLE: Does anyone else get this warning when they go to fanfiction.net? (Firefox)
+
+* Does anyone else get this warning when they go to fanfiction.net? (Firefox)
+:PROPERTIES:
+:Author: SoulxxBondz
+:Score: 2
+:DateUnix: 1397067602.0
+:DateShort: 2014-Apr-09
+:FlairText: Meta
+:END:
+I just got this message now.
+
+"This Connection is Untrusted
+
+You have asked Firefox to connect securely to [[http://www.fanfiction.net][www.fanfiction.net]], but we can't confirm that your connection is secure.
+
+Normally, when you try to connect securely, sites will present trusted identification to prove that you are going to the right place. However, this site's identity can't be verified.
+
+If you usually connect to this site without problems, this error could mean that someone is trying to impersonate the site, and you shouldn't continue."
+
+This isn't good, it won't let me on the site at all.
+
+
+** They are using SSL with a self-signed certificate. Or something like that. If you don't sign in, you will be fine.
+
+Unless you think someone's intercepting your internet traffic and you don't want them to know what your favorite slash pairing is.
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1397071559.0
+:DateShort: 2014-Apr-09
+:END:
+
+
+** Looks like they sorted out their Cert uncertainty somewhat succinctly.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 5
+:DateUnix: 1397073910.0
+:DateShort: 2014-Apr-10
+:END:
+
+
+** Yeah it is back up. Thank goodness. Scared me there.
+:PROPERTIES:
+:Author: SoulxxBondz
+:Score: 3
+:DateUnix: 1397074126.0
+:DateShort: 2014-Apr-10
+:END:
+
+
+** According to twitter, many others are getting this too... oh dear.
+:PROPERTIES:
+:Author: SoulxxBondz
+:Score: 3
+:DateUnix: 1397067787.0
+:DateShort: 2014-Apr-09
+:END:

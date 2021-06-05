@@ -1,0 +1,242 @@
+#+TITLE: Socrates: a discord bot that recommends fanfiction to read.
+
+* Socrates: a discord bot that recommends fanfiction to read.
+:PROPERTIES:
+:Author: zerkses
+:Score: 126
+:DateUnix: 1605097067.0
+:DateShort: 2020-Nov-11
+:FlairText: Self-Promotion
+:END:
+I've made a bot that reads favourites from your profile on fanfiction.net and recommends stuff for you to read.
+
+Features:
+
+- long recommendation lists scrollable with emoji
+- can read full profile while creating recommendations(past 500 favs limit)
+- can ignore fandoms and fics and hide them from stuff recommended to you
+- has a mode to show fresh recommendations instead of top ones
+- can roll random fics from recommendations for you to read
+- can limit wordcount of displayed fics, filter out dead fics and show only completed ones
+- can show recommendations from exact fandoms and crossovers you want
+
+You can check the bot in #botspam on [[https://discord.gg/dpAnunJ][my discord server]] or invite it to yours with this [[https://discord.com/api/oauth2/authorize?client_id=742050608235937916&permissions=337984&scope=bot][link]].
+
+To start the bot on your server:
+
+- issue !permit on the channel you want it to answer on (you need to be an owner or an admin),
+- issue !prefix new_prefix to set a prefix you want the bot to use. So for example if you want the bot to answer to commands starting with ~ instead of ! you will need to say /!prefix ~/
+
+The rest of the commands you can see with !help. (obviously with the chosen prefix instead of !)
+
+If you have problems with the bot, ping me on my discord server from the link above.
+
+
+** Nice bot :D\\
+I just tried it out and found a few good fanfics!\\
+The help "menu" is also really good explained, found everything really easy to understand.\\
+Thanks for the work!
+:PROPERTIES:
+:Author: Eladrien311
+:Score: 25
+:DateUnix: 1605101542.0
+:DateShort: 2020-Nov-11
+:END:
+
+*** Help menu is also scrollable with emoji btw. there's a lot of details and additional parameters explained there.
+:PROPERTIES:
+:Author: zerkses
+:Score: 7
+:DateUnix: 1605101761.0
+:DateShort: 2020-Nov-11
+:END:
+
+
+** Omg this is so amazing thanks so much for all your efforts!!!
+:PROPERTIES:
+:Author: valleyofpeace
+:Score: 10
+:DateUnix: 1605105364.0
+:DateShort: 2020-Nov-11
+:END:
+
+*** /Omg this is/
+
+/So amazing thanks so much/
+
+/For all your efforts!!!/
+
+- valleyofpeace
+
+--------------
+
+^{I detect haikus. And sometimes, successfully.} ^{[[https://www.reddit.com/r/haikusbot/][Learn more about me.]]}
+
+^{Opt out of replies: "haikusbot opt out" | Delete my comment: "haikusbot delete"}
+:PROPERTIES:
+:Author: haikusbot
+:Score: 14
+:DateUnix: 1605105379.0
+:DateShort: 2020-Nov-11
+:END:
+
+**** Oh good bot, very good bot
+:PROPERTIES:
+:Author: wyanmai
+:Score: 3
+:DateUnix: 1605106833.0
+:DateShort: 2020-Nov-11
+:END:
+
+
+**** Good bot
+:PROPERTIES:
+:Author: jmd_akbar
+:Score: 4
+:DateUnix: 1605149304.0
+:DateShort: 2020-Nov-12
+:END:
+
+
+** Well, it works. The first three were ones that I read, liked, but forgot to favorite!
+:PROPERTIES:
+:Author: 100beep
+:Score: 8
+:DateUnix: 1605112300.0
+:DateShort: 2020-Nov-11
+:END:
+
+*** If you favourite them now, remember to user !recs >refresh ID
+
+This will regenerate the recommendation list with more fics. The effect of refresh is bigger the smaller your favourites list is.
+:PROPERTIES:
+:Author: zerkses
+:Score: 5
+:DateUnix: 1605112429.0
+:DateShort: 2020-Nov-11
+:END:
+
+**** That's what I did. I used the !help command before anything else
+:PROPERTIES:
+:Author: 100beep
+:Score: 1
+:DateUnix: 1605112593.0
+:DateShort: 2020-Nov-11
+:END:
+
+***** !fresh isn't quite the same as >refresh :) see the command that the bot suggested to you above the list. !fresh just changes the sorting, it doesn't update recommendations
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1605112687.0
+:DateShort: 2020-Nov-11
+:END:
+
+
+** Just a heads up: to whoever used "!prefix new_prefix" literally, you're supposed to replace /new_prefix/ with something that you want to use instead of !. if you don't just say /new_prefix !/ and it will revert back to !.
+:PROPERTIES:
+:Author: zerkses
+:Score: 7
+:DateUnix: 1605103495.0
+:DateShort: 2020-Nov-11
+:END:
+
+
+** i just installed the bot, its really easy to use, especially for someone who's never used a bot before. Thanks for making it!
+:PROPERTIES:
+:Author: Rxddlxd
+:Score: 6
+:DateUnix: 1605112304.0
+:DateShort: 2020-Nov-11
+:END:
+
+*** Just wanted to add that it really works! It recommended some stories that I'm reading but haven't favourited yet, stories that I like. It's brilliant
+:PROPERTIES:
+:Author: Rxddlxd
+:Score: 3
+:DateUnix: 1605112550.0
+:DateShort: 2020-Nov-11
+:END:
+
+**** I'm glad you like it.
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1605114445.0
+:DateShort: 2020-Nov-11
+:END:
+
+
+** You are literally doing the lord's work
+:PROPERTIES:
+:Author: vengefulmanatee
+:Score: 3
+:DateUnix: 1605106443.0
+:DateShort: 2020-Nov-11
+:END:
+
+
+** Really easy to use, thanks a lot! Would it be possible to add a filter for a character?
+:PROPERTIES:
+:Author: Ekarine_
+:Score: 3
+:DateUnix: 1605118056.0
+:DateShort: 2020-Nov-11
+:END:
+
+*** Unfortunately my system doesn't deal with characters at all.
+:PROPERTIES:
+:Author: zerkses
+:Score: 3
+:DateUnix: 1605118480.0
+:DateShort: 2020-Nov-11
+:END:
+
+**** ah, it was worth a shot, thanks!
+:PROPERTIES:
+:Author: Ekarine_
+:Score: 2
+:DateUnix: 1605118963.0
+:DateShort: 2020-Nov-11
+:END:
+
+
+** Just tried this out and I have to say I'm impressed.
+
+OP hasn't just posted a list of fics which are considered good for the fandom you follow most. It actually recd me fics which I downloaded/read but never got around to marking as favorites.
+
+The menu is quite simple to use and OP is available if still there's any issues.
+
+all in all great place to search for fics instead of sifting through muck.
+:PROPERTIES:
+:Author: abhi9kuvu
+:Score: 3
+:DateUnix: 1605123797.0
+:DateShort: 2020-Nov-11
+:END:
+
+
+** Good work. Messed around with it a bit. Should probably add more favorite fics on ffn to mark things I like so I can get more recommendations, though :P
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 2
+:DateUnix: 1605157545.0
+:DateShort: 2020-Nov-12
+:END:
+
+
+** Sorry if this is a silly question but can I install the bot on my FanFiction.Net app on my phone, or should this be done on computer?
+:PROPERTIES:
+:Author: atthebarricades
+:Score: 1
+:DateUnix: 1605133650.0
+:DateShort: 2020-Nov-12
+:END:
+
+*** No, this is a /discord/ bot that recommends fanfics. You need to either join my discord server through the link in the OP to use it , or invite it to your own discord server.
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1605133852.0
+:DateShort: 2020-Nov-12
+:END:

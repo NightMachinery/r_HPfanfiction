@@ -1,0 +1,52 @@
+#+TITLE: How does the fanfiction bot work?
+
+* How does the fanfiction bot work?
+:PROPERTIES:
+:Author: Unown1224
+:Score: 13
+:DateUnix: 1606021832.0
+:DateShort: 2020-Nov-22
+:FlairText: Prompt
+:END:
+As a newcomer to this wonderful subreddit I'm curious as to how to use the fanfiction bot and how it works. Can somebody explain it to me please?
+
+
+** The sidebar is your friend.
+:PROPERTIES:
+:Author: satintomcat
+:Score: 5
+:DateUnix: 1606022271.0
+:DateShort: 2020-Nov-22
+:END:
+
+
+** In case you can't find it on the sidebar, the full guide is here.
+
+LINK - [[https://github.com/FanfictionBot/reddit-ffn-bot/wiki/Usage]]
+
+I believe if you're on the phone app, you go to 'about' in the top bar and scroll about three or four down to find the 'bot usage guide' there.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 6
+:DateUnix: 1606033777.0
+:DateShort: 2020-Nov-22
+:END:
+
+
+** If you don't want the fancy ways, this is an easy way.
+
+write
+
+Linkffn() With your link in the parentheses!
+
+Like this:
+
+Linkffn([[https://m.fanfiction.net/s/6243892/1/]])
+
+There are other ways to do it, but this is easy for me.
+:PROPERTIES:
+:Author: HarryPotterIsAmazing
+:Score: 2
+:DateUnix: 1606111051.0
+:DateShort: 2020-Nov-23
+:END:

@@ -1,0 +1,259 @@
+#+TITLE: How to browse ao3?
+
+* How to browse ao3?
+:PROPERTIES:
+:Author: solidmentalgrace
+:Score: 23
+:DateUnix: 1526447684.0
+:DateShort: 2018-May-16
+:FlairText: Discussion
+:END:
+so i sorted by kudos and entered the tags i wanted, and now for every 1 decent fic there are 10 "fics with 1000 tags", you know the ones. am i doing something wrong?
+
+
+** How do I browse ao3? With great difficulty.
+:PROPERTIES:
+:Author: LocalMadman
+:Score: 19
+:DateUnix: 1526480064.0
+:DateShort: 2018-May-16
+:END:
+
+*** Its not a tale dumbledore would tell you
+:PROPERTIES:
+:Author: flingerdinger
+:Score: 2
+:DateUnix: 1526685544.0
+:DateShort: 2018-May-19
+:END:
+
+**** Its a Death Eater Legend.
+:PROPERTIES:
+:Author: LocalMadman
+:Score: 1
+:DateUnix: 1526688184.0
+:DateShort: 2018-May-19
+:END:
+
+***** Have you ever heard the tale of Lord Voldemort the wise?
+:PROPERTIES:
+:Author: flingerdinger
+:Score: 2
+:DateUnix: 1526688255.0
+:DateShort: 2018-May-19
+:END:
+
+
+** I tend to click on a tag, then add the filters I need to pare it down to something usable.
+
+Pop [[https://archiveofourown.org/works?utf8=%E2%9C%93&commit=Sort+and+Filter&work_search%5Bsort_column%5D=kudos_count&work_search%5Bfandom_ids%5D%5B%5D=136512&work_search%5Bother_tag_names%5D=-%22TV%22%2C-%22TeenWolf%22%2C-%22Twilight%22%2C-m%2Fm%2C-%22Naruto%22&work_search%5Bquery%5D=&work_search%5Blanguage_id%5D=1&work_search%5Bcomplete%5D=0&tag_id=Harry+Potter+-+J*d*+K*d*+Rowling][this]] into your address bar and you'll get a sense of what I mean.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 13
+:DateUnix: 1526450034.0
+:DateShort: 2018-May-16
+:END:
+
+
+** One does not simply browse ao3. Its tags are guarded by more than just Drarry. There is evil there that does not sleep. The great trash pile is ever watchful. 'Tis a barren wasteland, riddled with flames and tears and abandoned fics. [[https://www.youtube.com/watch?v=r21CMDyPuGo]]
+:PROPERTIES:
+:Author: NouvelleVoix
+:Score: 11
+:DateUnix: 1526481554.0
+:DateShort: 2018-May-16
+:END:
+
+*** Oh! I found some scripts a while back that might help. You'll need something like Tampermonkey to use 'em:
+
+[[https://greasyfork.org/en/scripts/3579-ao3-savior]]
+
+[[https://greasyfork.org/en/scripts/3578-ao3-saved-filters]]
+:PROPERTIES:
+:Author: NouvelleVoix
+:Score: 1
+:DateUnix: 1526496821.0
+:DateShort: 2018-May-16
+:END:
+
+
+** The exclude function is the feature I use the most on that website. Usually my "Search within result" field looks like this:
+
+#+begin_quote
+  -"m/m" -Malfoy -Snape -Voldemort -Lupin -Weasley
+#+end_quote
+
+Unless I am looking for something with Ginny, then I'm manually excluding her brothers.
+
+That way, I won't stumble across the shitty Death Eater ships or the "Happy Weasley family". I know that this method leads to a lot of false positives due to the excessive tagging, but it's still better than scrolling past pages upon pages of slash and the +Nazis+ Death Eaters did nothing wrong.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 12
+:DateUnix: 1526452639.0
+:DateShort: 2018-May-16
+:END:
+
+*** You probably already know this, but for everyone else reading this: You can also exclude pairings the same way.
+
+Sometimes it really doesn't seem worth all the effort though.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 3
+:DateUnix: 1526500225.0
+:DateShort: 2018-May-17
+:END:
+
+**** Do you know if there's a way to exclude all crossovers without manually excluding them individually?
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 2
+:DateUnix: 1526559047.0
+:DateShort: 2018-May-17
+:END:
+
+***** Nope. Sorry.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 2
+:DateUnix: 1526559771.0
+:DateShort: 2018-May-17
+:END:
+
+
+** I usually just hope for the best or attempt to look at the reviews if they're any. Or ask around for recommendations. Otherwise, it's a gamble to look up fics on ao3 yourself because you would actually have to read a fic to tell if it is a decent fic that you would enjoy.
+
+Sorry if there's no better way to browse. If they're are any, I am at a complete lost when it comes to that.
+:PROPERTIES:
+:Author: FairyRave
+:Score: 5
+:DateUnix: 1526449221.0
+:DateShort: 2018-May-16
+:END:
+
+
+** [[/u/Annerbhp][u/Annerbhp]] (the author of The Changeling and The Armistice series, annerb on FFN and AO3) posted these filters about using AO3 for Harry/Ginny:
+
+-filter_ids:23931 -filter_ids:497930 -filter_ids:9159 -filter_ids:928562 -filter_ids:10760 -filter_ids:99 -filter_ids:1600 -filter_ids:2390 -filter_ids:18224 -filter_ids:12235 -filter_ids:107826 -filter_ids:9510 -filter_ids:20822
+
+All these filter ids go in Search Within Result tab and exclude Drarry, Snarry, and other ships that the Harry/Ginny tag is full of. Authors tend to tag most of these fics with Harry/Ginny and so this is a good way to remove those.
+
+Of course, if you are not looking for specific Harry/Ginny, that doesn't mean this isn't a useless method. The way she did this is by doing a basic search, then identifying what she didn't want and keeping track of those filter-ids, so you could potentially do the same for whatever you are looking for and tailor it to your preferences.
+:PROPERTIES:
+:Author: thorium_23
+:Score: 5
+:DateUnix: 1526454369.0
+:DateShort: 2018-May-16
+:END:
+
+*** Here's the actual filter codes if anyone wants them. You can pick and chose the ones you want to avoid, and put them in the Search Within Results box with this format: -filter_ids: The specific number you wish to not see in your search results goes after the colon. And if you want to find the filter ID of additional ships that are not here, all you do is click on the ship tag and then click the RSS feed button. If you look at the URL of the page you were redirected to, the number will be there. (For example, the URL for Harry/Ginny is [[https://archiveofourown.org/tags/3548/feed.atom]] So if you want to avoid Harry/Ginny, use the filter ID 3548 to filter out those stories.)
+
+Harry/Draco (99)
+
+Hermione/Draco (10760)
+
+Harry/Snape (1600)
+
+Hermione/Snape (2390)
+
+Harry/Voldermort (18224)
+
+Hermione/Sirius (12235)
+
+Harry/Salazar (107826)
+
+Harry/Hermione (9510)
+
+Harry/Tom Riddle (20822)
+
+Harry/Original Male Character (928562)
+
+Harry/Cho (9159)
+
+Harry/Lily Luna (497930)
+
+Scorpius/Harry (23931)
+
+Harry/original female character(s) (1148693)
+
+Ginny/Luna (6643)
+
+Harry/Hermione/Ron (5536)
+
+Harry/Ron (1241)
+
+Harry/Luna (12954)
+
+With all of these it would look like:
+
+-filter_ids:23931 -filter_ids:497930 -filter_ids:9159 -filter_ids:928562 -filter_ids:10760 -filter_ids:99 -filter_ids:1600 -filter_ids:2390 -filter_ids:18224 -filter_ids:12235 -filter_ids:107826 -filter_ids:9510 -filter_ids:20822 -filter_ids:1148693 -filter_ids:6643 -filter_ids:5536 -filter_ids:1241 -filter_ids:12954
+
+Seems onerous, I know, but you only have to construct your filter ID code once and it makes searching for fics by specific pairing so much easier. Happy AO3 reading!
+:PROPERTIES:
+:Author: Annerbhp
+:Score: 5
+:DateUnix: 1526480594.0
+:DateShort: 2018-May-16
+:END:
+
+**** Now I am really interested in learning how the ao3 tagging system works and how to use it. Is there a decent how-to manual or tutorial series available for it?
+
+Ed: and no, it's not sarcasm. I am genuinely curious here.
+:PROPERTIES:
+:Author: darklooshkin
+:Score: 2
+:DateUnix: 1526488708.0
+:DateShort: 2018-May-16
+:END:
+
+***** I think there probably is, but not one that I have ever looked at. I think one of my lingering annoyances is that there is no distinguishing between a ship tag and a 'former' ship tag. Like, the tag for Harry/Ginny and Past Ginny/Harry are the same ID tag. But very different fics depending on what you are looking for!
+:PROPERTIES:
+:Author: Annerbhp
+:Score: 2
+:DateUnix: 1526538791.0
+:DateShort: 2018-May-17
+:END:
+
+
+**** You deserve gold for this. If I had any I'd give it to you. Thank you for posting all these.
+:PROPERTIES:
+:Author: AspieUlia
+:Score: 1
+:DateUnix: 1526496558.0
+:DateShort: 2018-May-16
+:END:
+
+***** No problem! I live to enable people's fic habits.
+:PROPERTIES:
+:Author: Annerbhp
+:Score: 1
+:DateUnix: 1526538825.0
+:DateShort: 2018-May-17
+:END:
+
+
+** With Ao3 I tend to avoid the HP fandom, it is so big and there is just so much terrible stuff it is a lot easier to let other people do the sifting and rely on recommendations. The only way that I find manageable is to sort by specific pairings, there tend to be a lot more rare pairings on the site, just a shame there is so much garbage. If you really want to look yourself, you can use the searching function to remove specific terms/pairings or you can limit to a maximum/minimum word count.
+
+[[https://archiveofourown.org/admin_posts/329]] is the guide to searching in Ao3, best of luck, you will definitely need it, those stupid stories with more tags than words are unfortunately common in every fandom on the site.
+:PROPERTIES:
+:Author: smurph26
+:Score: 2
+:DateUnix: 1526467804.0
+:DateShort: 2018-May-16
+:END:
+
+
+** The only thing you're doing wrong is trying to use Ao3. It's a fuckin' nightmare.
+:PROPERTIES:
+:Author: Goodpie2
+:Score: 1
+:DateUnix: 1527318747.0
+:DateShort: 2018-May-26
+:END:
+
+
+** What I generally do for Harry Potter fics especially. First search for a character or ship Tag. Then click filters not edit your search just filters. Then depending on what I want I select tags. Like for example picking a relationship selecting the characters i want to see or types of stories. I dont use the exclude tag much if I select a romantic relationship unless said romantic relationship isnt popular. Then I exclude the more popular relationships so the relationship I picked isnt a side pairing. Or to filter out relationships I don't like. If I picked characters but not a relationship. And then filter through word count. I personally like longer fics and in my experience the longer ones are better written on average than shorter ones.
+:PROPERTIES:
+:Author: literaltrashgoblin
+:Score: 1
+:DateUnix: 1534827639.0
+:DateShort: 2018-Aug-21
+:END:

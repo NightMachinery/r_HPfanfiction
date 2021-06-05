@@ -1,0 +1,234 @@
+#+TITLE: How do you keep record of the fanfics you've read
+
+* How do you keep record of the fanfics you've read
+:PROPERTIES:
+:Author: ksense2016
+:Score: 12
+:DateUnix: 1529959160.0
+:DateShort: 2018-Jun-26
+:FlairText: Discussion
+:END:
+Like, I'm starting to get frusterated at the fanfics I open and realize I had already read but I have no way of knowing which ones are which. So, how do you do it and how do you recommend that I and others like myself do it?
+
+
+** I download every fic I've read in EPUB format, with the exception of those I hate.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 12
+:DateUnix: 1529963604.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+** Excel Spreadsheet. It makes organization easier.
+:PROPERTIES:
+:Author: XeshTrill
+:Score: 10
+:DateUnix: 1529965801.0
+:DateShort: 2018-Jun-26
+:END:
+
+*** Yeah I can't be bothered to actually update my spreadsheet each time I read a fic, so I favorite everything I read, then at a later date I scroll through my favorites by last updated and update or add their entries to the spreadsheet. Sorting by last updated tells me where to stop, I just go up until the last date modified of the spreadsheet.
+:PROPERTIES:
+:Author: Aoloach
+:Score: 9
+:DateUnix: 1529974291.0
+:DateShort: 2018-Jun-26
+:END:
+
+**** What if you see an older fic recced somewhere?
+:PROPERTIES:
+:Author: play_the_puck
+:Score: 2
+:DateUnix: 1529995612.0
+:DateShort: 2018-Jun-26
+:END:
+
+***** You can also sort by the date you added to favorites, but I find I don't read too many older fics these days lol. Sorting by last updated means I can just update the word counts of fics that have been added to since I last altered the spreadsheet. Maybe twice a year I'll go through the list by date added, and verify that everything I've favorited in the last six months is in the spreadsheet, but it's a long fucking list so I don't usually feel the need to do that as frequently as I update the sheet via the last updated sort.
+
+Really, the purpose of the spreadsheet isn't so much to help me remember what I've read before, but rather to let me estimate how much time I've spent reading. I read between 400 and 500 words per minute (the shittier the writing, the faster I read), so based on the total wordcount I can estimate the time I've spent. I'd tell you what I'm at rn but I haven't updated the file in a month or so, and I don't have a copy of it on my laptop,
+:PROPERTIES:
+:Author: Aoloach
+:Score: 1
+:DateUnix: 1529999016.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+*** Sounds smart and is probably the best option for me. Google spreadsheets is great and universal. Thank you for the idea. :)
+:PROPERTIES:
+:Author: ksense2016
+:Score: 2
+:DateUnix: 1530000897.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+** There's a ffnet story parser plug in for chrome, let's you mark a fic as read and then you can alter the settings so that it hides the fic when you're browsing for new stories, has some other cool features like hiding non-English stories automatically and whatnot
+:PROPERTIES:
+:Author: tectonictigress
+:Score: 8
+:DateUnix: 1529966808.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+** Bookmarks. I have different folders for currently reading, planning to read, up to date, completed or uncompleted etc.
+:PROPERTIES:
+:Author: Nishaven
+:Score: 7
+:DateUnix: 1529967015.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+** I usually remember their titles, or recognise them a few lines in, but the spreadsheet idea below is fascinating and could prove useful
+
+Edit to add: I also check for kudos I might have left on AO3
+:PROPERTIES:
+:Author: MonsieurParis
+:Score: 6
+:DateUnix: 1529969612.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+** i have got a pretty long list on my phone. since i only read fanfics and reddit on my phone it seems appropriate
+:PROPERTIES:
+:Author: natus92
+:Score: 4
+:DateUnix: 1529960582.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+** I usually write a review for every story I've read, mostly for each chapter I've read. A quick look into the review section is enough to see if I've read a story already.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1529961760.0
+:DateShort: 2018-Jun-26
+:END:
+
+*** You're a good person.
+:PROPERTIES:
+:Author: SlowOutput
+:Score: 8
+:DateUnix: 1529963583.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+** For FFN, the app makes it easy... well, for the ones you've read using the app anyway.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 3
+:DateUnix: 1529983883.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+** I use the FF.net app, it keeps track for me
+:PROPERTIES:
+:Author: mommaminer
+:Score: 3
+:DateUnix: 1529984863.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+** I keep a spreadsheet in google docs. I have sections for docs I liked and want to remember or reread, sections for docs I disliked and want to avoid in the future, and then a running list of docs I plan to read soon. It helps keep things neat and prevents me from having 36384737 bookmarks cluttering up my browser.
+:PROPERTIES:
+:Author: NeonicBeast
+:Score: 2
+:DateUnix: 1529967462.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+** for the most part: sort by date published
+
+i'll generally remember anything i've read the last year
+:PROPERTIES:
+:Author: ForumWarrior
+:Score: 2
+:DateUnix: 1529973794.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+** Calibre; [[https://calibre-ebook.com/]]
+
+It's a great ebook manager and there is a plugin you can dl through it's preferences called fanficfare. It let's you dl from your favorite sites in a format of your choice. It imports all the metadata, and title/author info as well as retains the link back to source. You can also save WIPs and hit update to check for new chapters. The other great thing is you can add your own columns and info on each book.
+
+For example all of my stories have my personal rating (1-5 stars); a drop column letting me know which I've read and which I haven't, as well as a summary I write for myself with little details to let me know which fic is which. Only I get to see this so I can write whatever I want. It's really awesome.
+
+If your reader doesn't let you go back to the website on the fly (I have an old kindle with no web browsing) then I do recommend you still pull up the original fic and write a review though. Remember not leaving reviews sinks ships and kills fandoms. So if you love something, let the writer know so they get positive feedback and keep writing. :)
+:PROPERTIES:
+:Author: Jora_Dyn
+:Score: 2
+:DateUnix: 1529986997.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+** I just favourite them on ff.net or whatever site I happen to be using. You can also use the follows page if you want to keep them private. This does lead to a high count of fics there though, I'm at something like 4k on ff.net alone.
+
+Usually if it was a good fix or one I read recently - say a year or so ago - I can recognize the title/summary, or by the first chapter. If I've totally forgotten it, then I look on that as kind of a good thing, I get to reread something I apparently enjoyed at least a bit in the past.
+
+Beyond that, the mobile FF.net favourites/follows page is infinite scroll, so you can use Find in Page really quickly to check as well.
+:PROPERTIES:
+:Author: sicarius0218
+:Score: 2
+:DateUnix: 1529994722.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+** I primarily read on my phone and the browser app I use has a bookmark folder feature, so I have a fanfic directory based on fandom, genre, pairing, stuff like that. If it's in the directory then I have probably read it. It's great for finding and re-reading fics too.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1530008478.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+** FFN follow function for unfinished fics I want to keep reading.
+
+Everything else - I'll either quickly recognise it, or will have forgotten it - so it might as well be unread.
+:PROPERTIES:
+:Author: aldonius
+:Score: 2
+:DateUnix: 1530028554.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+** If you are a member on ao3 and remember to be logged in while reading, then there is a history tab linked to your account that keeps track for you.
+
+Although if a fic gets deleted, there is not a way to figure out what that fic used to be.
+:PROPERTIES:
+:Author: apatheticSoldat
+:Score: 1
+:DateUnix: 1529977905.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+** I just favorite them on the ff.net site.
+:PROPERTIES:
+:Author: will1707
+:Score: 1
+:DateUnix: 1529987566.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+** I tag them in my app. It both helps me keep track of what I've read and makes sure I don't stumble upon them again.
+
+[[https://github.com/Zeks/flipper]]
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1530014894.0
+:DateShort: 2018-Jun-26
+:END:

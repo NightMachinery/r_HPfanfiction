@@ -1,0 +1,677 @@
+#+TITLE: Fanfic readers and writers - any requests or ideas for new fanfiction website/app?
+
+* Fanfic readers and writers - any requests or ideas for new fanfiction website/app?
+:PROPERTIES:
+:Author: core_queen
+:Score: 15
+:DateUnix: 1422742542.0
+:DateShort: 2015-Feb-01
+:FlairText: Discussion
+:END:
+Hi, I'm a member of a small group of people that decided to create new modern website and phone app for fan- and original fictional stories.
+
+All of us here are huge Harry Potter fans - with millions of read words thanks to all the wonderful writers out there. But that's it - we are avid readers, not writers. So, we would really love to hear any ideas or features that authors might want to see in a new website.
+
+Are you a reader too? Well, don't hesitate to share your thoughts either!
+
+You like tagging and search system of AO3, but hate how tags take up more space than summary? We too! Want to see design that is not a blast from the past? We'll do our best! Want to have all your stories from other websites, but don't want to spend time copy-pasting everything? We have a guy working on import system from all the major websites.
+
+--------------
+
+Some other features we are working on:
+
+- Powerful suggestion system
+- Stats tracking (read/written, views, followers, likes/dislikes, etc.)
+- Comments
+- Following and notifications
+- Easy to use editor for authors and betas with inline chat to discuss changes
+- $ - Tipping authors?
+
+
+** Something i really miss is a good search/selection system. Something that allows me to find every fanfic with X characters and without Y characters that is rated T or above with at least 50k words and that has the "Hello" in the title and was published in the last 5 years and is complete would be great. However sometimes you don't really want to have to go through all that to just find a random fic, so maybe have 2 diferent search systems? A simple one that is on by default, and then if you want to go for a more complicated one with way more options?
+
+Also, a way to keep track of which chapters have been read in which fics (color coding would be nice, Green for all read, Orange for New chapters since last read, Purple for unfinished, Red for unread)
+:PROPERTIES:
+:Author: poloport
+:Score: 7
+:DateUnix: 1422754225.0
+:DateShort: 2015-Feb-01
+:END:
+
+*** Search will be split in two parts - simple on an advanced one for more granular filtering. Sometimes when you're lying in bed you just want to check out what's out there and don't spend time picking tags.
+
+Color coding sounds awesome - on the features list.
+
+Thanks!
+:PROPERTIES:
+:Author: core_queen
+:Score: 2
+:DateUnix: 1422781075.0
+:DateShort: 2015-Feb-01
+:END:
+
+**** A good search system is definitely top of the list! Basically, I'd like AO3's Kudos system added to FFNet's search algorithm. As for the phone app, enabling some sort of download system like AO3 would be great, as it sucks to have to stop reading a good fic because you have no internet.
+:PROPERTIES:
+:Author: Beckthebeetle
+:Score: 1
+:DateUnix: 1422823060.0
+:DateShort: 2015-Feb-02
+:END:
+
+***** Kudos is basically likes, right? It will be present as is offile reading in the app.
+
+Thank you for the comment!
+:PROPERTIES:
+:Author: core_queen
+:Score: 1
+:DateUnix: 1422823344.0
+:DateShort: 2015-Feb-02
+:END:
+
+****** Yup! Whenever I want to quickly browse, I use AO3 instead of FFNet because you can just type in character name and then sort by kudos, which is much easier than any method on FFNet to rule out obviously bad fics. It does artificially favor older fics though, so if there was a way to search recent updates + most likes, and also limit to >10,000 words, that would be ideal.
+:PROPERTIES:
+:Author: Beckthebeetle
+:Score: 1
+:DateUnix: 1422845533.0
+:DateShort: 2015-Feb-02
+:END:
+
+******* I'll ask devs about search by update and likes - something I'd definitely want to see too.
+
+Thanks!
+:PROPERTIES:
+:Author: core_queen
+:Score: 1
+:DateUnix: 1422852880.0
+:DateShort: 2015-Feb-02
+:END:
+
+******** Thanks to you guys for trying to improve fanficcing : )
+:PROPERTIES:
+:Author: Beckthebeetle
+:Score: 1
+:DateUnix: 1422889975.0
+:DateShort: 2015-Feb-02
+:END:
+
+
+** Things I'd like to see, as a reader:
+
+- A way to track popularity in time, not just overall popularity. Faves / day, not just faves overall, that kind of thing. Some version of "trending."
+
+- A way to interact with other readers of the same story, even if it's an old one. There's so much stuff out there, and not all of it is currently updating. Right now, there are, let's say 5 people who are discovering /A Black Comedy/ for the first time and loving it. There should be some way for them to discover each other and comment on their reading experience, if they want to. Make it more interactive, even for a story that's long finished. Maybe some kind of tag you can set as a reader to notify people what you're currently reading, and then a temporary, flash message system? Something like that.
+
+As a writer:
+
+- A better editing system. If I notice a typo in one of my chapters, I have to make a new Word doc for it, upload it to FF.net, jiggle the formatting once it appears in the doc manager, then go in with a replace chapter command. That's just ungodly annoying. Like someone said below, it should be as easy as editing a Word doc - just go in, make changes, save.
+
+- A better way to interact with readers. The FF.net review system is kind of dry. Forum-style interactions with a back-and-forth dialogue is a better alternative, but there's probably something even more elegant out there.
+:PROPERTIES:
+:Author: Lane_Anasazi
+:Score: 4
+:DateUnix: 1422746725.0
+:DateShort: 2015-Feb-01
+:END:
+
+*** Thank you - very interesting points from both sides and all of it is totally going on todo list.
+
+Reader interaction is one of our main battlegrounds. So far we've been considering:
+
+- reviews (not the most favorite way)
+- simple comments with @mentions (like on twitter)
+- live comments (same as simple comments, but with live updates)
+- inline annotations (mentioned it in the other comment. Good example for annotations [[https://medium.com/five-hundred-words/apple-the-oil-company-5b5983aa81e2][here]])
+
+A bit about comments with mentions - whenever user is mentioned in the comment, he (or she) will get a notification and can reply right within the notification (kind of like here on reddit) or go to the comments page for the chapter and reply there.
+:PROPERTIES:
+:Author: core_queen
+:Score: 1
+:DateUnix: 1422747494.0
+:DateShort: 2015-Feb-01
+:END:
+
+**** One thing I'll clarify is that the interaction system should facilitate /meaningful/ conversation. The mentions, notifications, Twitter-style @ system that you're nodding towards here doesn't really do that. There might be a lot of noise, but most of it is just that - noise.
+
+Ideally, I'd like to see a system that was geared towards meaningful, fruitful, productive feedback about where a story's going, how it can be improved, what works, what doesn't, the nuts and bolts of the writing itself, etc. Once a story takes off, this kind of discussion takes on a life of its own and snowballs, to the point where the author can step back from taking a lead role in moving the conversation along and be more of a facilitator.
+:PROPERTIES:
+:Author: Lane_Anasazi
+:Score: 3
+:DateUnix: 1422747833.0
+:DateShort: 2015-Feb-01
+:END:
+
+***** I see. Thanks, you're right - it's good to have interaction.
+
+Off the top of my head:
+
+Besides simple comments each story can server as a forum/hub - people can create topics that are related strictly to that story to discuss anything in there.
+
+Comments are still a good thing to have - quick general discussion. And if readers want to have deep conversations they can go to the story forum and talk amongst themseves in there.
+:PROPERTIES:
+:Author: core_queen
+:Score: 2
+:DateUnix: 1422748874.0
+:DateShort: 2015-Feb-01
+:END:
+
+****** Yeah, that idea I like - the story serving as a central hub, and everything shooting off from there. It would be nice if I could just post my story in one place and have everything branch off from there.
+:PROPERTIES:
+:Author: Lane_Anasazi
+:Score: 2
+:DateUnix: 1422750303.0
+:DateShort: 2015-Feb-01
+:END:
+
+
+** Give authors a place to make comments about their stories or to their readers outside of the actual story. I know many authors include notes but unless it's pertinent to the story, it shouldn't be in there with it.
+
+It's annoying to read "Sorry I've been slow on updating" or the author's answers to reader's comments at the top or bottom of a webpage. (especially 3 or 4 years after the story is done)
+
+Provide a flagging system for stories that have the following words in their summaries "I suck at summaries" and give the author 2 weeks to change it or have their story deleted (I'm only semi joking)
+
+Maybe differentiate between reader reviews and reader comments. I can live without seeing 477 people comment on how much they love the story but I love a good review.
+:PROPERTIES:
+:Author: jaimystery
+:Score: 4
+:DateUnix: 1422764964.0
+:DateShort: 2015-Feb-01
+:END:
+
+*** Thanks.
+
+Agree about author's noted - we have couple of ideas about it. Maybe something like extra fields below/above actual chapter content so that it won't actually be shown in the same place as a text. About comments - since we are going to have comments and [[http://www.reddit.com/r/HPfanfiction/comments/2uchp7/fanfic_readers_and_writers_any_requests_or_ideas/co77ibu][per-story forum]] I believe it shouldn't be the problem.
+
+Flagging - that would likely be part of the general flagging system which we'll be handling later on. I'll note summary thing down.
+
+#+begin_quote
+  Maybe differentiate between reader reviews and reader comments. I can live without seeing 477 people comment on how much they love the story but I love a good review.
+#+end_quote
+
+Already mentioned, but we consider adding something like a [[http://www.reddit.com/r/HPfanfiction/comments/2uchp7/fanfic_readers_and_writers_any_requests_or_ideas/co77ibu][per-story forum]] where users can have deep and meaningful conversations on anything story-related. Chapter Comments/annotations are more of a general discussion for the story.
+
+Again, thanks. You have very good points.
+:PROPERTIES:
+:Author: core_queen
+:Score: 2
+:DateUnix: 1422778260.0
+:DateShort: 2015-Feb-01
+:END:
+
+
+** The number one thing keeping me from crossposting to ffn and AO3 is what a hassle it is to just post and edit chapters there. AO3's automatic formatting can get weird and buggy, and ffn requires going through too many pages just to edit (have to upload a file then manage stories then select which doc...). Posting should be as easy as click the chapter to edit, paste, post.
+
+Tags are great but should be limited, so they're used like they're supposed to be. Same with character selection and genre.
+
+Something interesting might be a review or author note system that can annotate throughout the chapter, kind of like how soundcloud works. It can be toggled on or off of course. I'm not looking for that in particular, but it might set youself apart from other sites.
+
+Oh! and maybe some sort of critique flag, so the author can mark how much feedback they want to receive. I'm always unsure of whether the author really wants critique or is just posting for fun.
+:PROPERTIES:
+:Author: someorangegirl
+:Score: 3
+:DateUnix: 1422744841.0
+:DateShort: 2015-Feb-01
+:END:
+
+*** Thanks, that thing about posting - completely agree. We've checked FFN posting workflow and that's just a nightmare. So, we've definitely going to make it absolutely as simple as possible without any unnecessary hassle.
+
+Tags - again, completely agree. There will be a limit to how many tags can be added, but it should be enough to allow for good filtering.
+
+Note system - is it something like annotations on medium.com? Check example [[https://medium.com/five-hundred-words/apple-the-oil-company-5b5983aa81e2][here]] at the end of the page where small comment bubbles are. If so, then I can't really say anything specific right now.
+:PROPERTIES:
+:Author: core_queen
+:Score: 2
+:DateUnix: 1422745494.0
+:DateShort: 2015-Feb-01
+:END:
+
+**** Yeah, like medium. It's a hard system to do well, I think, because it's easy to make a poor UI for it but I'd love to be able to review along a chapter that way. Someone just posted about reader interaction; I can see annotations being a cooler commenting system that would encourage more, shorter comments, and maybe comment threads?
+:PROPERTIES:
+:Author: someorangegirl
+:Score: 2
+:DateUnix: 1422747070.0
+:DateShort: 2015-Feb-01
+:END:
+
+***** Thanks for clarification. I'm going to have to talk to the developers and designer about it - how feasable it would be for long texts. Medium has an advantage in the general size of its posts - they don't have that many paragraphs, so text is not overrun by annotations. Anyway, that's a one way to do comment and we certainly consider it throughly.
+
+Comment threads - yes, one of the possible ways to handle conversations. Depends on how conversations usually go.
+:PROPERTIES:
+:Author: core_queen
+:Score: 1
+:DateUnix: 1422748253.0
+:DateShort: 2015-Feb-01
+:END:
+
+
+*** I think wattpad and medium got annotations for every paragraph, tho, not sure if it's really user friendly... especially if chapters quite long.
+
+For OP: Personally, I think most important things are -- reading experience and notifications for updates.
+:PROPERTIES:
+:Author: morning_in_shibuya
+:Score: 1
+:DateUnix: 1422745836.0
+:DateShort: 2015-Feb-01
+:END:
+
+
+** u/denarii:
+#+begin_quote
+  $ - Tipping authors?
+#+end_quote
+
+There might be legal issues with this.
+
+#+begin_quote
+  We have a guy working on import system from all the major websites.
+#+end_quote
+
+This is also problematic if you're scraping the content from other sites. It definitely violates FFN's TOS.
+
+Will this be open source like AO3? I'm a rails dev and might be willing to contribute.
+:PROPERTIES:
+:Author: denarii
+:Score: 3
+:DateUnix: 1422750156.0
+:DateShort: 2015-Feb-01
+:END:
+
+*** u/core_queen:
+#+begin_quote
+  There might be legal issues with this.
+#+end_quote
+
+Yes, most likely would be limited to original content only.
+
+#+begin_quote
+  This is also problematic if you're scraping the content from other sites. It definitely violates FFN's TOS.
+#+end_quote
+
+Will check, but if author does it to his own stories I don't really see how that would be a problem - it's hist stories after all.
+
+#+begin_quote
+  Will this be open source like AO3? I'm a rails dev and might be willing to contribute.
+#+end_quote
+
+Will talk to the team about that. Website is being built on PHP.
+
+*EDIT*: Passage from the TOS about scraping:
+
+#+begin_quote
+  E. You agree not to use or launch any automated system, including without limitation, "robots," "spiders," or "offline readers," that accesses the Website in a manner that sends more request messages to the FanFiction.Net servers in a given period of time than a human can reasonably produce in the same period by using a conventional on-line web browser.
+#+end_quote
+
+It seems if it's done in a considerate manner it wouldn't be a problem.
+:PROPERTIES:
+:Author: core_queen
+:Score: 2
+:DateUnix: 1422750592.0
+:DateShort: 2015-Feb-01
+:END:
+
+**** No, hold on...wouldn't it be cool if we tipped...to charities? That might be allowed. I'm sure JKR would be cool with it.
+:PROPERTIES:
+:Author: silver_fire_lizard
+:Score: 0
+:DateUnix: 1422775233.0
+:DateShort: 2015-Feb-01
+:END:
+
+***** I really don't know. That's something we will have to discover later :)
+:PROPERTIES:
+:Author: core_queen
+:Score: 1
+:DateUnix: 1422777730.0
+:DateShort: 2015-Feb-01
+:END:
+
+****** if you are serious about this get a lawyer
+:PROPERTIES:
+:Author: Notosk
+:Score: 1
+:DateUnix: 1422790831.0
+:DateShort: 2015-Feb-01
+:END:
+
+******* Eventually - this feature is not our top priority.
+:PROPERTIES:
+:Author: core_queen
+:Score: 1
+:DateUnix: 1422792128.0
+:DateShort: 2015-Feb-01
+:END:
+
+******** It should, and not because this feature
+:PROPERTIES:
+:Author: Notosk
+:Score: 1
+:DateUnix: 1422792674.0
+:DateShort: 2015-Feb-01
+:END:
+
+********* You mean it should be important?
+
+Right now we would really like to create overall great experience for authors and readers - that is the core of the project. Reason why anyone would use it.
+
+Or am I misunderstanding you?
+:PROPERTIES:
+:Author: core_queen
+:Score: 1
+:DateUnix: 1422793001.0
+:DateShort: 2015-Feb-01
+:END:
+
+********** I mean heaving a lawyer should be top priority
+
+Specially if you intend to monetize it
+:PROPERTIES:
+:Author: Notosk
+:Score: 1
+:DateUnix: 1422794597.0
+:DateShort: 2015-Feb-01
+:END:
+
+*********** We aren't exactly well funded company - just a group of friends that shares the same goal. I agree that having a lawyer is a good idea, but we will have to prioritize.
+
+Besides that monetization is by no means in our priority list and I doubt it'll even be available at launch. After main development is complete we'll carefully consider available options and at tha point might find a lawyer to help us understand what can be done and what is a 'no-no' thing.
+
+That way we can concentrate on the project at hand instead of some uncertain future.
+
+Thank you for your comment!
+:PROPERTIES:
+:Author: core_queen
+:Score: 1
+:DateUnix: 1422795854.0
+:DateShort: 2015-Feb-01
+:END:
+
+
+****** That would be a super cool idea. I had this idea a couple years ago, but didn't feel like doing anything with it. What if you had two popular authors do a write off? They could have a pre-written story ready, and as each chapter gets put up, everyone puts money toward their favorite...and at the end, all the money goes toward the winning author's charity. If you need more help, I'd love to join. I know how to get in touch with HPA people and such.
+:PROPERTIES:
+:Author: silver_fire_lizard
+:Score: 1
+:DateUnix: 1422830365.0
+:DateShort: 2015-Feb-02
+:END:
+
+******* Sounds awesome. I'll include your name and idea for the time when we'll start dealing with this part of the project.
+
+Thank you!
+:PROPERTIES:
+:Author: core_queen
+:Score: 1
+:DateUnix: 1422852789.0
+:DateShort: 2015-Feb-02
+:END:
+
+******** Thanks!
+:PROPERTIES:
+:Author: silver_fire_lizard
+:Score: 1
+:DateUnix: 1422856732.0
+:DateShort: 2015-Feb-02
+:END:
+
+
+** Have a good comments section. Take FimFiction.net for example, they have a fantastic comments section that's easy to navigate.
+
+Also, for cataloging and searching crossover. In Fanfiction.net, you can pick from a list of series that are crossedover with the main series you're looking at, and then you can select "See All Crossovers with [Main Series]". My problem with that is that, if I'm organizing by favorites/rating, I can't filter out which crossovers I want/don't want to see.
+
+Like Harry Potter's crossovers on Fanfiction. I go to "See All Crossovers with Harry Potter", sort by favorites, and the majority of the first few pages is a bunch of Naruto crossovers. I don't have a problem with Naruto, but I'm not looking for a HP/Naruto fic. So I think there should be an option of "Toggle [series]" somewhere in the search.
+:PROPERTIES:
+:Author: HighTreason25
+:Score: 2
+:DateUnix: 1422758533.0
+:DateShort: 2015-Feb-01
+:END:
+
+*** Thanks for your input.
+
+FimFiction.net has an awesome commenting section and all in all great website.
+
+Powerful search is one of our primary concerns and it'll definitely allow you to filter by what you want to see and what you don't want to see.
+:PROPERTIES:
+:Author: core_queen
+:Score: 2
+:DateUnix: 1422780145.0
+:DateShort: 2015-Feb-01
+:END:
+
+**** Awesome! I'm sure whatever you come up with will be great!
+:PROPERTIES:
+:Author: HighTreason25
+:Score: 1
+:DateUnix: 1422805657.0
+:DateShort: 2015-Feb-01
+:END:
+
+
+** Others have mentioned it but a good way to discuss fics. Like I love reading reviews but there's no way to interact with people who leave them.
+
+Personally I think a good way would be to set up a review system where you can leave Good Job! and technical nitpicks for the authors benefit and then a seperate discussion bit on each fic. Heck have it work something like this, you have a Thread (Fic Chapter) that people can comment in and then up/downvote and reply to.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1422755060.0
+:DateShort: 2015-Feb-01
+:END:
+
+*** Right you are. While commenting system is still in plans as we are nailing down reading experience we'll definitely consider what might be the best way to handle discussions with the author and reviews/niptics/etc so that they won't turn into the mess.
+:PROPERTIES:
+:Author: core_queen
+:Score: 1
+:DateUnix: 1422780405.0
+:DateShort: 2015-Feb-01
+:END:
+
+
+** - Comunity based taging system (like steam tags)\\
+- Recomendation system like myanimelist.com\\
+- favorite, read, dropped, reading, completed system like goodreads.com
+:PROPERTIES:
+:Author: Notosk
+:Score: 1
+:DateUnix: 1422785713.0
+:DateShort: 2015-Feb-01
+:END:
+
+*** Thank you!
+
+All are great points.
+
+- Recommendations are a wonderful thing, discovered so many great anime that way.
+
+- Community tags are totally a thing :)
+
+- Love goodreads and we do plan to have this separation of stories into different "bookshelves".
+:PROPERTIES:
+:Author: core_queen
+:Score: 1
+:DateUnix: 1422789648.0
+:DateShort: 2015-Feb-01
+:END:
+
+
+** A good example to follow would be SoFurry. Excellent tags, comment section, profiles and downloads of ficts. Shame they don't have a good mobile app or website. My only needs would be a good mobile app that more or less mirrors the main website. Everything else is just gravy. :)
+:PROPERTIES:
+:Author: tootiredtobother
+:Score: 1
+:DateUnix: 1422855050.0
+:DateShort: 2015-Feb-02
+:END:
+
+*** Awesome! Thanks for the example.
+:PROPERTIES:
+:Author: core_queen
+:Score: 1
+:DateUnix: 1422861819.0
+:DateShort: 2015-Feb-02
+:END:
+
+**** No problem. Good luck to you lot.
+:PROPERTIES:
+:Author: tootiredtobother
+:Score: 1
+:DateUnix: 1422862696.0
+:DateShort: 2015-Feb-02
+:END:
+
+
+** ah mobi/epub/PDF/txt export
+:PROPERTIES:
+:Author: Notosk
+:Score: 1
+:DateUnix: 1422895560.0
+:DateShort: 2015-Feb-02
+:END:
+
+
+** *1*
+
+Author and story blacklists for readers to use in search results, latest updates, and categorized listings.
+
+I don't want to have to see MrsMcSpammy and company's one hundred and thirteen vapid and poorly written one chapter tumblr fics cluttering the top of the new updates section every damn week. That's half the reason I don't read new stuff on FFN, just ancient things recomend from other people on this sub and elsewhere.
+
+Let me remove those +shitty+ unwanted author's works easily from the search results page with a click or two on their +odious+ unique pen names. Same for stories, too.
+
+#+begin_quote
+  /What if Draco was a half-vella dragonborn who went to a non-magical high school in the 1800s with-/
+#+end_quote
+
+Nope. Click. Gone, never to be seen again. I don't care if it eventually gets 86 chapters and spontaneously cures cancer in 50% of readers. I don't want to see it. Ever. Again.
+
+I want to be able to put /thousands/ of teenagers' first fanfics on blacklist. Anyone who writes unrepentant spammy garbage should never darken my web browser again, if I so choose.
+
+And checkboxes to not use or /only use/ the blacklists, in case I want to go dumpster diving for some reason.
+
+--------------
+
+*2*
+
+Oh, and everything as both positive and negative searches, like in AO3. But better, and on any built-in tags and filters. And saved searches that doesn't involve using my bookmarks, which is lame.
+
+--------------
+
+*3*
+
+As an author and a reader, an erotica section that works and allows you to actually sort and tag sexuality and sex acts correctly.
+
+Allow searches depending on, for example, whether or not one wants to read stories where dick /only/ goes into vagina, or ass, or both, or neither, and which genders everyone's parts belong to, even in multiple pairing fics where some people are queer and others aren't, and the physical and mental are representative of modern approaches to sexuality. AO3's "multiple" is not. Good.
+
+Example searches: M/M and M/F in two separate relationships with no (ahem) overlap; no M/F but at least one person has a dick /of some kind/; F/F/M with everyone identifying as female but having dicks, and two of them are magically created weredicks (perhaps not a single tag). In AO3, all would show up as "multiple".
+
+So better tags and searching options. Maybe a way to note when gender and sex change in canon characters, and exactly how the various bits will fit together in the "story".
+
+Something like:
+
+#+begin_quote
+  Tagged: F/M/M (single relationship, threesome), Hermione[sex:female and magically male; gender:dominate male; sexual preference:male sex, male gender submissive], Harry[sex:male; gender:male submissive; sexual preference: any sex, any dominant gender], Draco[sex:veela male, gender:veela male, sexual preference: all]
+#+end_quote
+
+You can see what that fic might be, possibly /vividly/, and how it could be hard to search for things like that. But it looks a bit of a mess. So just hide all that behind standard settings for authors to use (or not, if they don't like to). The author can fill in their own character lists as detailed as they want. Readers can likewise search as detailed as they want, without having to know the system inside and out, by using more common generic tags like "M/F" or "Hermione/Draco/Harry". You know, the common ones.
+
+--------------
+
+Wait, I can ask for anything here, right? Hell, forget tags, I want freaking PC gaming-style dropdown menus for all selections, /real AAA stuff/- or maybe Diablo 3 equip screen paperdolls for gentalia and toy locations, hit targeting for all acts, and /challenge ratings/ for everyone's sexuality, a-and a fully gamified comments system, and a laser, a /sex laser/, that can carve a /giant/-
+
+Whew. Okay. Got a little carried away there. I'm better now.
+
+--------------
+
+So yeah.
+
+*tl;dr* Blacklists for authors and stories for reader searches and browsing, negative searches on all built-in tags, and separate handling of detailed sexuality tags for erotica in addition to the standard relationship ones would be good. Thanks.
+:PROPERTIES:
+:Author: TimeLoopedPowerGamer
+:Score: 1
+:DateUnix: 1422787889.0
+:DateShort: 2015-Feb-01
+:END:
+
+*** 1. I agree that you have to sift through a lot of stories to find something you're interested in. Noted, added in todo list.
+
+2. Yes! We'll have both positivive and negative filtering for any tags and "filter presets".
+
+3. Interesting insight. Never knew there was so many details. It is a good proposal and certainly could help with search, but heavily depends on whether authors would actually spend time and "equip" all the slots for their characters.\\
+   Will note for developers to investigate it futher as I'm not really equipped to talk about such intricacies and the way to implement them.
+
+Thank you!
+:PROPERTIES:
+:Author: core_queen
+:Score: 2
+:DateUnix: 1422789064.0
+:DateShort: 2015-Feb-01
+:END:
+
+**** I just had an idea for dealing with the inaccurate tagging issue. Allow readers to vote on the tags on a given story. Upvote if you think the tag is accurately applied to the fic, downvote if you think it isn't. Then color code the tags according to their average accuracy score.
+:PROPERTIES:
+:Author: denarii
+:Score: 2
+:DateUnix: 1422812167.0
+:DateShort: 2015-Feb-01
+:END:
+
+***** That is one of the possibilities. Right now we are considering either imgur-like tagging or Steam-like tagging. Both allow users to add tags, both allow to upvote tags and in case of imgur downvote them and in case of steam flag them as incorrect. Similar systems with a different twist.
+
+I think final decision will be made after real life testing.
+
+Thank you for your input!
+:PROPERTIES:
+:Author: core_queen
+:Score: 2
+:DateUnix: 1422822036.0
+:DateShort: 2015-Feb-01
+:END:
+
+****** An API to retrieve story metadata would be cool too, but that's mostly cause I've been occasionally working on a fanfic review/metadata aggregation site.
+:PROPERTIES:
+:Author: denarii
+:Score: 2
+:DateUnix: 1422824134.0
+:DateShort: 2015-Feb-02
+:END:
+
+******* Will mark it for duscussion with the team - as is open sourcing.
+
+I personally think both things are possible, but only after the launch since these are not critical features.
+
+*EDIT:* If you have any specific requests for API then by all means list them. I'm hardly competent in that area, but dev guys would love to mark something for future reference.
+:PROPERTIES:
+:Author: core_queen
+:Score: 2
+:DateUnix: 1422825831.0
+:DateShort: 2015-Feb-02
+:END:
+
+
+***** That would be something like the current tagging system in Steam (a digital game publishing platform). Anyone can tag a title, but only the most common tags "pop" to the top and are displayed to people browsing.
+:PROPERTIES:
+:Author: TimeLoopedPowerGamer
+:Score: 1
+:DateUnix: 1422827019.0
+:DateShort: 2015-Feb-02
+:END:
+
+
+**** Cool. Looking forward to seeing the final results.
+:PROPERTIES:
+:Author: TimeLoopedPowerGamer
+:Score: 1
+:DateUnix: 1422827106.0
+:DateShort: 2015-Feb-02
+:END:
+
+
+*** The problem is that authors are generally fucking terrible at tagging their fics well, as demonstrated by AO3's tag system. It's impossible to search effectively because of people adding every tag they can think of. You'll get M/M tags because there was a gay couple mentioned once in chapter 11 and then never seen again.
+:PROPERTIES:
+:Author: denarii
+:Score: 2
+:DateUnix: 1422811884.0
+:DateShort: 2015-Feb-01
+:END:
+
+**** Too true. Which is why built-ins are needed, but AO3's built-ins don't work quite right. Not sure there is an easy solution.
+:PROPERTIES:
+:Author: TimeLoopedPowerGamer
+:Score: 1
+:DateUnix: 1422826925.0
+:DateShort: 2015-Feb-02
+:END:

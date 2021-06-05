@@ -1,0 +1,88 @@
+#+TITLE: How to download ~1600 fics...???
+
+* How to download ~1600 fics...???
+:PROPERTIES:
+:Author: mikexcao
+:Score: 9
+:DateUnix: 1453343639.0
+:DateShort: 2016-Jan-21
+:FlairText: Discussion
+:END:
+So I saw an old post on how to categorize fics, and I decided to switch from my bookmarking system to something more organized- storing them in folders on my computer. The problem is, I need to download all 1600 of the fics I have read and am going to read. I don't want to direct download them, as putting my computer into sleep will stop the download. How do I do this? (After this, I'll need to separate the hundreds I already read into like/dislike folders...)
+
+
+** Calibre's FanFicFare plugin can bulk-download fics from their FF.net (and other supported sites --- there are many) URLs. 1.6k fics might take a while, but it should be able to. You can also add tags to fics, so you can give them ratings.
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 7
+:DateUnix: 1453347678.0
+:DateShort: 2016-Jan-21
+:END:
+
+*** This is probably the best solution. Even if you turn off sleep mode, downloading 1600 fics by hand would be a nightmare. You could probably learn a programming language and make a script to do it for you in in that amount of time!
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1453356677.0
+:DateShort: 2016-Jan-21
+:END:
+
+**** A real programmer would take twice as long to automate it and be four times as proud. Something about the square-cube law I think.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1453362985.0
+:DateShort: 2016-Jan-21
+:END:
+
+***** As someone who has actually written a downloader for this reason very recently, can affirm
+:PROPERTIES:
+:Author: bkromhout
+:Score: 1
+:DateUnix: 1453486969.0
+:DateShort: 2016-Jan-22
+:END:
+
+
+**** I know Java and C++, but can't really be bothered to write a script when I know others already wrote them for me :) Might take it as a challenge though, make a better FFN downloader than everyone else's
+:PROPERTIES:
+:Author: mikexcao
+:Score: 1
+:DateUnix: 1453408655.0
+:DateShort: 2016-Jan-22
+:END:
+
+***** If you aren't looking for something as heavyweight as FanFicFare, your fics are from some more well-known sites, and you're fine with ePubs only, you could look at [[https://github.com/bkromhout/FictionDL][FictionDL]], which is something I wrote in my spare time for those exact purposes. It's fairly simple. I will warn you that it makes no attempts at rate limiting though, so be careful with how many FFN stories you feed it. And if you find a story which it just won't process properly, feel free to open a Github issue so I can look into it!
+:PROPERTIES:
+:Author: bkromhout
+:Score: 1
+:DateUnix: 1453487151.0
+:DateShort: 2016-Jan-22
+:END:
+
+
+** Note: FF apparently doesn't like it when people hit it hard for downloads like that, and can blacklist IP addresses. FanFicFare proceeds very slowly with them as a result, but you still need to be careful. I did 50 at a time, two or three groups a day, just to be safe, by using a Firefox plugin that copied all selected links on a page (from my favorites list - groups of 50).
+:PROPERTIES:
+:Author: philosophize
+:Score: 5
+:DateUnix: 1453380431.0
+:DateShort: 2016-Jan-21
+:END:
+
+*** Also, doing 50 at a time will help you sort out which ones failed easier than 1600 at once. Invariably a few fics out of that large number will fail to download properly. Second times the charm for most, unless the site isn't supported.
+
+(I've downloaded around 200 fics, and Had 2 or 3 fail for whatever reason. I'd assume connection issues as they were mostly longer fics, greater than 100,000 words)
+:PROPERTIES:
+:Author: MystycMoose
+:Score: 1
+:DateUnix: 1453434259.0
+:DateShort: 2016-Jan-22
+:END:
+
+
+** If you're using windows then go to power settings and turn off sleep mode. Problem solved
+:PROPERTIES:
+:Author: Frix
+:Score: 3
+:DateUnix: 1453354602.0
+:DateShort: 2016-Jan-21
+:END:

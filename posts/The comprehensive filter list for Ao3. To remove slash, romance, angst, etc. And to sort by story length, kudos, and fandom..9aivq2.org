@@ -1,0 +1,253 @@
+#+TITLE: The comprehensive filter list for Ao3. To remove slash, romance, angst, etc. And to sort by story length, kudos, and fandom.
+
+* The comprehensive filter list for Ao3. To remove slash, romance, angst, etc. And to sort by story length, kudos, and fandom.
+:PROPERTIES:
+:Author: Uniqueusername4621
+:Score: 34
+:DateUnix: 1535316638.0
+:DateShort: 2018-Aug-27
+:FlairText: Discussion
+:END:
+I've seen plenty of comments lately about how the tags system for Ao3 is the worst thing in the universe, so I figured I would link my own filters list here to help out.
+
+I'm obviously not the target demographic for Ao3, but I still love fanfiction. If you enjoy slash, then feel free to remove whichever filter you like - if you want some angst or hurt/comfort? Go ahead and rip that list apart.
+
+-"Bruce Banner/Tony Stark"\\
+-"Steve Rogers/Tony Stark"\\
+-"Tony Stark/Stephen Strange"\\
+-"Tony Stark/ T'Challa"\\
+-filter_ids:110293
+
+.
+
+-"Sirius Black/Remus Lupin"\\
+-"Draco Malfoy/Hermione Granger"\\
+-"Draco Malfoy/Harry Potter"\\
+-"Hermione Granger/Draco Malfoy"\\
+-"Hermione Granger/Severus Snape"\\
+-"Hermione Granger/Tom Riddle"\\
+-"Harry Potter/Severus Snape"\\
+-"Harry Potter/Voldemort"\\
+-"Harry Potter/Tom Riddle"\\
+-"Scorpius Malfoy/Albus Severus Potter"
+
+.
+
+-"Kylo Ren/Rey (Star Wars)"\\
+-"Kylo Ren/Rey"\\
+-"Poe Dameron/Finn"\\
+-"Poe Dameron/Finn/Rey"\\
+-"Hux/Kylo Ren"\\
+-"Obi-Wan Kenobi/Anakin Skywalker"\\
+-"Jango Fett/Obi-Wan Kenobi"
+
+.
+
+-"Castiel/Sam Winchester"\\
+-"Castiel/Dean Winchester"\\
+-"Castiel/Dean/Sam"\\
+-"Crowley/Dean"\\
+-"Dean Winchester/Sam Winchester"\\
+-"Gabriel/Sam Winchester"\\
+-"Gabriel/Dean Winchester"\\
+-"Jensen Ackles/Jared Padalecki"\\
+-"Lucifer/Sam Winchester"
+
+.
+
+-"Eren Yeager/Reader"\\
+-"Levi/Eren Yeager"\\
+-"Levi/Erwin Smith"\\
+-"Jean Kirstein/Eren Yeager"
+
+.
+
+-"/Original Male Character(s)"\\
+-"/Original Female Character(s)"\\
+-"/OFC"\\
+-"/OMC"\\
+-"/Reader"\\
+-"/You"
+
+.
+
+-"Alternate Universe - College/University"\\
+-"Alternate Universe - High School"\\
+-"Alternate Universe - Soulmates"\\
+-"Alpha/Beta/Omega Dynamics"\\
+-"Angst"\\
+-"BDSM"\\
+-"Blow Jobs"\\
+-"De-aging"\\
+-"Explicit Sexual Content"\\
+-"First Time"\\
+-"Fluff"\\
+-"High School AU"\\
+-"Hurt/comfort"\\
+-"Kid fic"\\
+-"Light Bondage"\\
+-"Light Dom/sub"\\
+-"M/M"\\
+-"Modern AU"\\
+-"Multi"\\
+-"Masturbation"\\
+-"Mpreg"\\
+-"Needs a hug"\\
+-"Omega Verse"\\
+-"Oral Sex"\\
+-"Orgy"\\
+-"Porn"\\
+-"Pregnancy"\\
+-"Public Sex"\\
+-"Rape/Non-Con"\\
+-"Sexual Content"\\
+-"Sick"\\
+-"Slash"\\
+-"Smut"\\
+-"Spanking"\\
+-"Whump"
+
+words>50000
+
+Everything listed here will be removed from the search results of Archive of Our Own. The "parenthesis" will make the results very specific so that nothing is removed by mistake.
+
+You'll have to separate the fandom specific filters to keep the list as small as possible. (Too many filters breaks ao3)
+
+If there are any flaws, unnecessary filters, or duplicates please let me know.
+
+(FYI -filter_ids:110293 is to remove Steve/Bucky stories. The normal filter doesn't work.)
+
+
+** Since they updated the search engine, you can now exclude stuff through the usual interface. It also allows you to exclude all crossovers, set a minimum word count, remove categories (m/m for example).
+
+Just set up a search once (blacklist every character, tag archive warning and relationship you don't want) and bookmark that search for future use.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 24
+:DateUnix: 1535317678.0
+:DateShort: 2018-Aug-27
+:END:
+
+*** I knew they updated the search engine, but had no idea you could save searches as bookmarks, this'll definitely save time in copy and pasting.
+
+But regarding the m/m filters, it's very unreliable. It's just such a normal genre of fanfiction that less than half of the members will tag it properly. With my Superior Filters™ it'll remove just about everything
+:PROPERTIES:
+:Author: Uniqueusername4621
+:Score: 9
+:DateUnix: 1535318459.0
+:DateShort: 2018-Aug-27
+:END:
+
+**** You can still use the context search on top of the improved engine.
+
+Since the search is done through the URL bar (forgot the technical term for that), you can simply save, bookmark or even share it. For example:
+
+[[https://archiveofourown.org/works?utf8=%E2%9C%93&work_search%5Bsort_column%5D=kudos_count&work_search%5Bother_tag_names%5D=&exclude_work_search%5Bcategory_ids%5D%5B%5D=23&exclude_work_search%5Bcharacter_ids%5D%5B%5D=3726&exclude_work_search%5Bcharacter_ids%5D%5B%5D=2157&exclude_work_search%5Bcharacter_ids%5D%5B%5D=966&exclude_work_search%5Bcharacter_ids%5D%5B%5D=1049&exclude_work_search%5Bcharacter_ids%5D%5B%5D=1589&work_search%5Bexcluded_tag_names%5D=&work_search%5Bcrossover%5D=F&work_search%5Bcomplete%5D=&work_search%5Bwords_from%5D=5000&work_search%5Bwords_to%5D=&work_search%5Bdate_from%5D=&work_search%5Bdate_to%5D=&work_search%5Bquery%5D=&work_search%5Blanguage_id%5D=1&commit=Sort+and+Filter&tag_id=Harry+Potter+-+J*d*+K*d*+Rowling]]
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 2
+:DateUnix: 1535318717.0
+:DateShort: 2018-Aug-27
+:END:
+
+***** The built in filters are definitely close. I spent nearly 10 minutes customizing it all and it was almost perfect, but there were a few results I wouldn't touch with a 10ft pole (e.x alpha/Omega, non/con, really creepy kidfics) The only way to remove them would be to add custom filters.. so I guess the best way to do it would be a combination of everything.
+:PROPERTIES:
+:Author: Uniqueusername4621
+:Score: 1
+:DateUnix: 1535321621.0
+:DateShort: 2018-Aug-27
+:END:
+
+****** Yeah, the one issue I know of is that blacklisting characters doesn't stop them from appearing in pairings whereas "-Malfoy" removes him both as a character and as a ship.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 2
+:DateUnix: 1535322165.0
+:DateShort: 2018-Aug-27
+:END:
+
+******* A lot of characters get added to the tags whether they're important or not. If you only want to remove Malfoy from relationships entirely then try -"/Draco Malfoy" or -"Draco Malfoy/" Or just add a name after the slash to remove that pairing only. I actually like the tag system because of how specific it can be
+:PROPERTIES:
+:Author: Uniqueusername4621
+:Score: 2
+:DateUnix: 1535322690.0
+:DateShort: 2018-Aug-27
+:END:
+
+******** The inverse of this, if you want to read a story that explores a minor background character, it's almost impossible to find because people will tag them even if they only show up once.
+:PROPERTIES:
+:Author: viper5delta
+:Score: 5
+:DateUnix: 1535333501.0
+:DateShort: 2018-Aug-27
+:END:
+
+
+** -"BDSM"\\
+-"Blow Jobs"\\
+-"De-aging"\\
+-"First Time"
+
+-"Light Bondage"\\
+-"Light Dom/sub"\\
+-"Masturbation"\\
+-"Oral Sex"\\
+-"Orgy"\\
+-"Porn"\\
+-"Pregnancy"\\
+-"Public Sex"\\
+-"Sick"\\
+-"Smut"\\
+-"Spanking"
+
+​
+
+This list takes the fun out of sex. Normally that's really hard to do.
+:PROPERTIES:
+:Author: Lodii
+:Score: 6
+:DateUnix: 1535357887.0
+:DateShort: 2018-Aug-27
+:END:
+
+*** But hey, change that list a bit and you've created a good filter of your own.
+:PROPERTIES:
+:Author: Uniqueusername4621
+:Score: 5
+:DateUnix: 1535360887.0
+:DateShort: 2018-Aug-27
+:END:
+
+
+** Is there an easy place to copy paste these? Or would I need to type them in manually?
+:PROPERTIES:
+:Author: VeelaBeGone
+:Score: 1
+:DateUnix: 1535336260.0
+:DateShort: 2018-Aug-27
+:END:
+
+*** I keep a bunch of separated lists in my notepad for each fandom and then copy/paste into Ao3. You can't put the whole filter into Ao3 because it's too large, so I remove the other fandoms I don't need.
+:PROPERTIES:
+:Author: Uniqueusername4621
+:Score: 1
+:DateUnix: 1535390991.0
+:DateShort: 2018-Aug-27
+:END:
+
+
+** Do I want to ask what "Whump" means in this context?
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 3
+:DateUnix: 1535360379.0
+:DateShort: 2018-Aug-27
+:END:
+
+*** It's an older term for when you make a character very sick/injured and someone has to take care of them. It always has an unbearable amount of angst
+:PROPERTIES:
+:Author: Uniqueusername4621
+:Score: 2
+:DateUnix: 1535361671.0
+:DateShort: 2018-Aug-27
+:END:

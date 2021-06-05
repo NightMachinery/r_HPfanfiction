@@ -1,0 +1,727 @@
+#+TITLE: What is a ward?
+
+* What is a ward?
+:PROPERTIES:
+:Author: IgnisNoctum
+:Score: 16
+:DateUnix: 1592294683.0
+:DateShort: 2020-Jun-16
+:FlairText: Discussion
+:END:
+In canon, the only real instances of wards are the protective enchantments around Hogwarts and the Harry's blood protection. Even then wards are so common in fanfics that it has now become a widely accepted headcanon for most readers.
+
+With that in mind, according to you, what is a ward, how is it cast and what are your headcanons about warding?
+
+
+** In the fanon, "ward" tends to mean "invisible magic walls with filters programmed into them".
+
+In canon, when a wizard protects a place they have a diverse stable of methods open to them. Replacing all of these interesting and varied effects with "invisible magic walls with filters programmed into them" is, in my opinion, a terrible downgrade from canon.
+
+The Shield Charm is basically the equivalent to the fanon "wards" (including its ability to block different things depending on what the caster wants it to do), which kinda says it all: what in canon is a single spell among a variety of choices, fanon turns into the only choice. In the canonical system, wizards might also:
+
+- Prevent you from finding the location in the first place.
+
+- Prevent you from entering the location by creating physical barriers with magical properties. Consider: instead of having a invisible magical wall, put up a stone wall (which you enchant to be unbreakable), and then add anti-flying and anti-apparition jinxes. This is how Hogwarts keeps people out in canon.
+
+- Allow you to enter the location, but curse you for doing so e.g. Egyptian tombs.
+
+- Allow you to enter the location, but have spells within the location to frustrate your objective e.g. some kind of Cretan labyrinth.
+
+- Place magical traps to harm you within the location e.g. Voldemort's curse on the Slytherin ring.
+
+- Have dangerous creatures/plants either at the entrance or inside the location to harm you.
+
+- Allow you to enter the location, but require certain acts of you to permit you to reach your objective.
+
+A rich variety of protections is, I think, objectively superior as a piece of worldbuilding to uniform deployment of invisible walls. And I think that protections that are rooted in a physical object like a wall will feel more authentically Harry Potter in tone than a dome of invisible magic.
+
+It's not that the dome of invisible magic is impossible (see DH camping spells) but rather that most locations we see that are magically protected in a permanent, long term way tend to integrate those protections into the physical architecture of the place itself (Hogwarts has walls, Egyptian tombs have traps, the HBP cave has a stone wall then a lake then the basin).
+
+One other notable aspect of many canonical protection spells is that they are not cast on a physical space but rather upon an /address/. The Fidelius being the best example here. You can have spells on a location without those spells forming any kind of "barrier effect" with a physical edge/perimeter - rather, the scope of the spell's effect is defined by the legal fiction of the property's boundary - perhaps you cast the spell on the property's deed, rather than on the physical space.
+:PROPERTIES:
+:Author: Taure
+:Score: 26
+:DateUnix: 1592303020.0
+:DateShort: 2020-Jun-16
+:END:
+
+*** Canon also relies a lot on the presence of powerful wizard to keep locations safe.
+
+Like Hogwarts wasn't safe from Voldemort because of some super powerful enchantments, but because its the place where Dumbledore lived and the Order relied on their members to protect the Hall of Prophecy, despite their almost certainly being magical protections in place.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 10
+:DateUnix: 1592304649.0
+:DateShort: 2020-Jun-16
+:END:
+
+
+*** All of these are also used as wards in fanfics, I've seen examples them all.
+
+People say wards because they related it to D&D and other media where there's stuff like Hearthstones/Wardstones that are used to "anchor" a protective magic to a place, depending on the fic they apply some other principles.
+
+Canon Enchantments and Spells may give readers a sense of non-permanence, like when people raise those jinxes during combat situations. Since there's no anchor the spell would need to be recast.
+
+So I think the big difference is that wards give a sense of permanence, since they refer to anchor methods too.
+:PROPERTIES:
+:Author: Kellar21
+:Score: 5
+:DateUnix: 1592339653.0
+:DateShort: 2020-Jun-17
+:END:
+
+
+*** What's to say that all of the protections you mentioned are simply made more permanent to become "wards"? For instance, I see all of the protections being cast as being temporary where the strength of the caster determines how long they last (kind of how Harry must return to Privet Drive every summer to renew those protections). Whereas those same protections become "wards" when they are "anchored" to something whether it is a "wardstone" or carved runes. Again, the strength of the wards are initially determined by the strength of the caster, but the longer the wards exist around magic the stronger they get.
+
+However, I don't see wards as being impenetrable rather the more they are attacked the weaker they can become. Basically think of the wardstones as very big batteries and the attacks drain power from them. Eventually the attacks drain more magic from the wards then can be replaced by ambient magic and the wards weaken until they shatter on the next attack. (Just like shield charms fail in canon).
+
+Most of the fics that i have read that use wards take this route ie., wards are not these permanent inpenetrable invisible shields.
+:PROPERTIES:
+:Author: reddog44mag
+:Score: 9
+:DateUnix: 1592315537.0
+:DateShort: 2020-Jun-16
+:END:
+
+
+** A ward is a charm that has been anchored to an area, so it will no longer expire after a duration. The most common types of ward anchors are runestones, but other types of anchors exist.
+
+An excerpt from one of my fics where Flitwick briefly explains warding.
+
+#+begin_quote
+  “But...” My mind is still reeling. “The statute still exists, right? I thought charms couldn't be permanent unless they were anchored by something...”
+
+  “Correct again, Mister Potter. The anchoring of charms is the basis of creating wards. Most wards are anchored to runestones, although there are a few that use other methods of anchoring. Have you ever heard of the Fidelius charm?" I shake my head, so he continues his explanation. "The Fidelius charm is a powerful piece of magic used to ward an area, or in rare cases, knowledge. It removes all knowledge of that thing from the minds of everyone in the world, except for a person who is designated as a 'secret keeper'. In this case, the secret keeper serves as the anchor for the charm, or more specifically, the secret keeper's ability to keep that information secret. From that point on, they are the only one who can reveal the existence of that secret to anyone else."
+
+  "So... the Statute of Secrecy is a giant Fidelius charm hiding the existence of magic?"
+
+  "Not quite. The Statute was based on the Fidelius charm, but it is different. After all, if it was a Fidelius, then there would only be a single secret keeper, and therefore, only one person in the whole world would be able to tell muggleborns and their parents about magic, which would be beyond impractical. No, instead, the Statute hides the existence of magic from everyone who does not believe in magic."
+
+  It finally clicks with me. "So, the anchor for the spell that hides the existence of magic from muggles... is muggles' refusal to believe in magic?"
+#+end_quote
+:PROPERTIES:
+:Author: Tenebris-Umbra
+:Score: 8
+:DateUnix: 1592318380.0
+:DateShort: 2020-Jun-16
+:END:
+
+*** Which fic?
+:PROPERTIES:
+:Author: Electric999999
+:Score: 1
+:DateUnix: 1592364570.0
+:DateShort: 2020-Jun-17
+:END:
+
+**** linkffn(Departure from the Diary)
+:PROPERTIES:
+:Author: Tenebris-Umbra
+:Score: 2
+:DateUnix: 1592370804.0
+:DateShort: 2020-Jun-17
+:END:
+
+***** [[https://www.fanfiction.net/s/13299443/1/][*/Departure from the Diary/*]] by [[https://www.fanfiction.net/u/3831521/TendraelUmbra][/TendraelUmbra/]]
+
+#+begin_quote
+  Harry is fully prepared to face the basilisk in the Chamber of Secrets to save Ginny. Unfortunately, he never gets a chance. Tamelyn Riddle realises that killing one student and draining the soul of another would leave too much evidence of her return. Luckily, there's another horcrux right in her reach that she can use to hitch a ride. A slowburn Harry/fem!Riddle fic.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{16} ^{*|*} ^{/Words/:} ^{109,130} ^{*|*} ^{/Reviews/:} ^{252} ^{*|*} ^{/Favs/:} ^{1,431} ^{*|*} ^{/Follows/:} ^{1,976} ^{*|*} ^{/Updated/:} ^{2/13} ^{*|*} ^{/Published/:} ^{5/30/2019} ^{*|*} ^{/id/:} ^{13299443} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Drama/Romance} ^{*|*} ^{/Characters/:} ^{<Harry} ^{P.,} ^{Tom} ^{R.} ^{Jr.>} ^{Voldemort,} ^{Bellatrix} ^{L.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13299443&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13299443&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1592370825.0
+:DateShort: 2020-Jun-17
+:END:
+
+
+** The word “ward” meaning something like protective enchantments is never used in whole heptalogy (just checked with search through all books; the word is used mostly as a section of hospital or the hospital ward at Hogwarts). Protective enchantments like that are around Hogwarts and 12 Grimmauld Place (I guess 4 Privet Drive is a bit /sui generis/ situation).
+
+The idea of wards everywhere is completely brought from some other fantasy universes (not sure, which ones).
+
+Concerning headcannons: I guess something like that has to exist. Heavily armed people living together (I always see the Wizarding Britain to be somehow similar to the Wild West ... everybody eleven years and older, male or female, is as heavily armed as anybody else) had to spent a lot of time and effort on protecting themselves. However, if you extend this idea too much, it kills any story you can develop, because life turns into an accounting exercise of who has them longer. So, I would tend to limit use of wards by the quality ones being extremely expensive (warding stones from one quarry in the Northern Norway jealously protected by the colony of Norwegian Ridgebacks, specific design for each place, etc.), so for example Weasleys cannot afford one on The Burrow.
+:PROPERTIES:
+:Author: ceplma
+:Score: 5
+:DateUnix: 1592305479.0
+:DateShort: 2020-Jun-16
+:END:
+
+*** I see it as a combination of age and quality (age for strength and quality for complexity) A curse breaker would pick apart the wards rather than hammer them down as their meant to be.
+:PROPERTIES:
+:Author: frissonaddict
+:Score: 1
+:DateUnix: 1592402396.0
+:DateShort: 2020-Jun-17
+:END:
+
+
+** Wards are separated rooms in a Hospital like St.-Mungo meant for specific types of patients.
+
+And thats as far as I am willing to get about the existence of wards in canon.
+
+Though warding is used in the way fanon understands it by Luna, when she talks of a plant warding off Gulping Plimpies.
+
+#+begin_quote
+  "No, I'm serious!" said Ron earnestly. "I can't remember enjoying commentary more! What is this, by the way?" he added, holding the onionlike object up to eye level.
+
+  "Oh, it's a Gurdyroot," she said, stuffing the cat litter and the toadstool back into her bag. "You can keep it if you like, I've got a few of them. *They're really excellent for warding off Gulping Plimpies.*" And she walked away, leaving Ron chortling, still clutching the Gurdyroot.
+#+end_quote
+
+So, don't worry, you're all just as sane as Luna.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 13
+:DateUnix: 1592301390.0
+:DateShort: 2020-Jun-16
+:END:
+
+*** Well, Lunas usage of warding is more the english language use of the term warding, as in guarding against, protecting from and scaring away, rather than a specific kind of magic or fanon idea of magical wards.
+:PROPERTIES:
+:Author: RayvenQ
+:Score: 5
+:DateUnix: 1592327572.0
+:DateShort: 2020-Jun-16
+:END:
+
+
+*** u/Tsorovar:
+#+begin_quote
+  Wards are separated rooms in a Hospital like St.-Mungo meant for specific types of patients.
+
+  And thats as far as I am willing to get about the existence of wards in canon.
+#+end_quote
+
+What about Harry? Harry is the Dursleys' ward
+:PROPERTIES:
+:Author: Tsorovar
+:Score: 1
+:DateUnix: 1592351862.0
+:DateShort: 2020-Jun-17
+:END:
+
+
+** In fanon terms, "Ward" most often means "semi-permanent nebulous forcefield that protects something". Usually the creation of a ward in this sense requires placement/inscription of runes, and almost never does it matter what actually happens when someone tries to grab the warded object or enter the warded location without first being "let in" by whomever has control over the ward.
+
+In a broader sense (and one that I personally prefer), the term "ward" is basically just a shorthand for any long-term magical protection. This definition includes things like the Age Line around the Goblet of Fire, the spells The Trio casts on their campsite during the Horcrux Hunt, the Fidelius Charm, and the movie-verse dome shield the teachers place around Hogwarts before the final battle.
+
+In my headcanon, at some point, "Wards" was a class at Hogwarts that was later divided between DADA and Charms, depending on whether the spell in question had potentially harmful effects or not. Since the semi-official classification of Charms, Jinxes, Hexes and Curses, it's considered archaic to refer to a spell as "Ward".
+:PROPERTIES:
+:Author: PsiGuy60
+:Score: 3
+:DateUnix: 1592329085.0
+:DateShort: 2020-Jun-16
+:END:
+
+
+** I've been trying to avoid using the word ward for awhile, but I guess my headcanon is essentially just using a word find/replace for protective enchantments, such as book 7 chapter 4. The whole thing ends up being a bit too Dresden-y regardless.
+
+“You'll be going to Tonks's parents. Once you're within the boundaries of the protective enchantments we've put on their house you'll be able to use a Portkey to the Burrow. Any questions?”
+:PROPERTIES:
+:Author: Lord_Anarchy
+:Score: 3
+:DateUnix: 1592330255.0
+:DateShort: 2020-Jun-16
+:END:
+
+
+** It's another word for "Permanent Magical Protections". I use them as - generally layered - defences on a static location, at times anchored by runes/wardstones. In practice, I use them as a series/web of spells, often interlinked. Curse-breakers deal with them and can disable them, but they are vulnerable while doing so - like defusing a bomb. It's not a forcefield, but can be one if such a spell is included. I also assume that electronics don't work inside wards, and that wards grow stronger with age.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 5
+:DateUnix: 1592298023.0
+:DateShort: 2020-Jun-16
+:END:
+
+
+** I headcannon it like a magical forcefield or web, which has varied effects depending on a runic array. Basically, a magical no no box.
+:PROPERTIES:
+:Author: kharmachaos
+:Score: 2
+:DateUnix: 1592297654.0
+:DateShort: 2020-Jun-16
+:END:
+
+
+** Actually, in canon wards are only mentioned in one of the games, as a class that is available in Harry Potter: Wizards Unite. If you do not consider the games to be canon, then there are no wards in canon.
+:PROPERTIES:
+:Author: JennaSayquah
+:Score: 2
+:DateUnix: 1592319638.0
+:DateShort: 2020-Jun-16
+:END:
+
+
+** In my view, it's the canon enchantments mention, except someone used other fandom terminology and it kicked off.
+:PROPERTIES:
+:Author: Luna-shovegood
+:Score: 2
+:DateUnix: 1592347486.0
+:DateShort: 2020-Jun-17
+:END:
+
+
+** If you've ever read The Santi's Harry Potter and the boy who lived, it has a good explanation that I accept whole heartedly.
+
+That said there are some tropes about warding I absolutely despise and any fic that has them better be a masterpiece in every other regard or I will drop it instantly.
+
+1. “You need runes to build a ward.” No you don't. Runes are just letters. You read them. They have no magical properties themselves.
+
+2. “You need to preform a ritual.” No. Rituals are something else entirely and are separate from wards.
+
+3. “Arithmancy is involved in a major way.” It most certainly is not. Arithmancy deals with the magical properties of certain numbers. It might explain to you why you need to stir a potion this or that many times or why seven is a lucky number but there is no mathematical formula that will automatically build you a ward.
+
+4. “You need a wardstone.” It's just spells. You don't need magic stones for any other spell. Harry and Hermione cast protective enchantments every time they set up camp in DH and they never once had to ‘anchor' their spells.
+
+I really like the idea that magic is something you have to learn through a lot of hard work and the idea that there is a quick and easy formula for a ward doesn't sit right with me. Magic is supposed to be about intent, knowledge and intuition. And wards, which are supposed to be high level magic (as in ‘probably not something you would even delve into deeply while you're at Hogwarts'), should require all that much more effort. A “runic array” cheapens that in my mind.
+:PROPERTIES:
+:Author: Redhawkluffy101
+:Score: 2
+:DateUnix: 1592299875.0
+:DateShort: 2020-Jun-16
+:END:
+
+*** Agree with this to an extent.
+
+I definitely don't think you "need" runes to set a ward, but it's possible that to make it more permanent, etching certain runes onto the physical object or area you want to protect could help.
+
+Arithmancy isn't needed to cast a ward, but it may help you work out what you need to do to create the exact ward you're looking for.
+
+Rituals - meh. The only thing we really see that is anything like a ritual is Voldemorts resurrection, so I don't even know if they're widely used. Potentially older wizarding families have protection rituals, which could be a kind of ward, but yeah I agree that the idea that warding is inherently ritualistic rather than just a protective spell doesn't fit with the magic JKR created.
+
+Ward stones are something I've always imagined exist in places that need warding permanently or where the wards will be updated and improved - like Hogwarts. The spells around the tent that they do in DH are meant to be dismantled when they leave so are working off their magic while they're in the location. But something like Hogwarts that's had, for example, Muggle repelling wards on it for all time, I think those wards are probably anchored to something so that they still protect the building even if the person who cast them is not at Hogwarts or they die or whatever.
+
+So yeah, I agree that in general a ward is just a protective spell, but I don't get put off by writers using runes, ward stones or anything because they can be explained away as making the wards more permanent or strengthening them.
+:PROPERTIES:
+:Author: Ermithecow
+:Score: 3
+:DateUnix: 1592315794.0
+:DateShort: 2020-Jun-16
+:END:
+
+
+*** All of what you said is using concepts that are an afterthought in canon, I don't think JKR ever intended for them to be that important.
+
+People just picked concepts from other franchises and incorporated them.
+
+1-Runestones(and that includes "magical" practices in the real world) can be used to anchor magic to a place in a more permanent manner. Runes were always associated with magic when mentioned(The Scandinavians believed Odin/Wotan used magicks through his knowledge of them), we also have lots, lots of franchises who use some kind of runic language as the programming language for magic, also, Tolkien.
+
+2-You could have a spell that requires a ritual to be cast, perhaps a blood ritual for a blood ward, what's the problem with that?
+
+3-This is something that I think fanon was more creative than canon, by a lot, JKR's Arithmancy is basically Numerology(but the name is associated with charlatans so she used another) which is a phony way of using numbers to predict or analyze stuff, fanon Arithmancy is using math and calculus to understand magic, stuff like Divine Geometry, Law of Equivalency, and things like that, MUCH more interesting, useful and difficult can also be used to spell creating(which is a very murky thing in canon). It also fits the name of Arithmancy.
+
+4-Again, this is a concept where you have to anchor a spell to something physical so it's permanent in an area, you can say Harry and Hermione's protections would linger for days instead of months/years.
+
+And canon magic is /very/ plot-oriented, how can it be intent oriented when Harry can cast Sectumsempra effectively while not having the foggiest idea of what it did or not having even tried it before? What is needed to create a spell? Is it the Latin-ish language? Similar to Eragon where the universe basically has a command line? What about other countries/cultures? Alohomora? Avada Kedavra? If not the words, then how did Snape assigned Sectumsempra to cut people up in such a way Harry could cast it on Draco without even knowing what it did? Did Snape use a method to "file" the spell on the universe's list?
+
+Honestly, unless you leave magic alone, or limit yourself, expanding and adding to magic in a story is essential, rituals, wardstones, arithmancy, all these can add to the complexity of spell crafting and casting, can open up avenues for new plots. All these JKR left pretty open in canon, and limiting people to follow her extremely plot-oriented view just hurts the story?
+
+Of course, people can screw that up and make it OP, but I think expanding and establishing a magic system is one of the first steps in making a good story where magic is used in important ways.
+:PROPERTIES:
+:Author: Kellar21
+:Score: 2
+:DateUnix: 1592343824.0
+:DateShort: 2020-Jun-17
+:END:
+
+**** Regardless of her intentions, this is the world she gave us. You're right that incorporating other magical systems isn't a bad thing. What gets me is that the original system is not explored with only in-universe mechanics and anytime someone comes to a road block they try to cram in a fix from another work that doesn't match the themes or context of the canon material.
+
+For instance, the concept of magical cores. There is never any mention of this in the books. Magic is not a finite resource in HP. This means your magic can only be affected by your emotions and how much you actually know about the spells you're casting. This is character building material. Say You're writing a story and Harry and Ron become enemies. What's more interesting: Harry can't cast a spell because it saps too much mana or he can't cast it because it's a dark spell that requires negative intent and he can't bring himself to use such a spell on someone he considered to be his best friend for a long time regardless of his betrayal?
+
+As for Arithmancy being used to understand magic, I think that doesn't fit the world of Harry Potter. HP magic is meant to be mysterious. If you can use numbers to deduce magical effects then they are no longer magical. That's now science. It takes the mystery out of the concept. No one is supposed to know where magic comes from and Arithmancy is the magical world's attempt to spot patterns in magic and to try to understand it. This is what makes HP magic so unique.
+
+Last note, you're right about sectumsempra. It makes absolutely no sense, but I always just thought it was a mistake used to move the plot forward.
+:PROPERTIES:
+:Author: Redhawkluffy101
+:Score: 1
+:DateUnix: 1592345008.0
+:DateShort: 2020-Jun-17
+:END:
+
+***** The problem is that, as any worldbuilding writing course or tips from authors will tell you. Your magic system needs to be well defined(or at least the limits), lest it hurts the plot.
+
+JKR got away with it because it was a children's book turned young adult and magic was always there to compliment the plot, not drive it.
+
+#+begin_quote
+  For instance, the concept of magical cores.
+#+end_quote
+
+Always disliked that one, and much prefer your interpretation, even if I do think people should get tired from casting too many spells or sustaining one for too long.
+
+​
+
+#+begin_quote
+  HP magic is meant to be mysterious.
+#+end_quote
+
+Nah, it's taught in a school, it has patterns and children can do it, it's just left unclear so it doesn't block the plot because JKR wasn't keen on writing herself into a corner because of something she wrote two books before. HP Magic is not defined enough. LOTR magic is mysterious. It's not a bad thing, but it makes keeping it consistent in fanfic with worldbuilding difficult, and you have to make stuff up.
+
+I doubt we can know how to create a spell from canon, or answers to things like, how do the Japanese cast Wingardium Leviosa? Do they have to pronounce it right? Or do they have their own version? Do they all use the same spells? Expelliarmus, a Latin expression, even in millenar Korea?
+
+Honestly the idea you need some math to do it, using it to discern what kind of words and movements you need to convey the intent, and when you practice it a lot you can cast it on intent and wand alone.
+
+​
+
+#+begin_quote
+  It makes absolutely no sense, but I always just thought it was a mistake used to move the plot forward.
+#+end_quote
+
+We call those plot holes, but in this case, it's a justifiable one. I don't think it repeats itself though, all other spells I remember have at least the purpose defined.
+
+Like Scourgify - This cleans stuff.
+
+Expelliarmus - Disarms people.
+
+But what defines their color and appearance?
+:PROPERTIES:
+:Author: Kellar21
+:Score: 2
+:DateUnix: 1592345989.0
+:DateShort: 2020-Jun-17
+:END:
+
+****** Not sure about the spell's look matters much. It's just how it is. As for incantations and wand movements, HBP and DH make it pretty clear that these things aren't really necessary. They're more training wheels than anything else.
+
+As for things needing to be defined, I don't know that that's entirely necessary. Like you said LOTOR doesn't have concrete laws. Same thing with the last air bender. These are soft magic systems where the rules are flexible. That said, HP does have fundemental laws like Gamp's laws of elemental transfiguration. There was also that one thing mentioned in HBP about how you choose the potions ingredients necessary for an antidote depending on the quantity and type of ingredients used for the poison. It has its own frame work that a writer can take from.
+
+You bring up a good point about the language of spell casting though. I'd like to see a fic that delves into other magical cultures of other countries that doesn't devolve into “these people don't have wands so they mastered wandless magic and now Harry has mastered it too.” Pretty sure the whole point of wands is that magic cast without them is wild and unreliable.
+:PROPERTIES:
+:Author: Redhawkluffy101
+:Score: 1
+:DateUnix: 1592363582.0
+:DateShort: 2020-Jun-17
+:END:
+
+******* LOTR has a soft magic system but it doesnt use magic to solve problems, Avatar has a middling but leaning towards hard magic system (only 1 element, requires movement, no cost except for the energy used to do the movement) as the magic of Avatar is used to solve the plot.
+
+Harry potter also uses magic to solve the plot and thus has a need to be defined, as according to Brandon Sanderson the effectiveness with which magic can be used to solve a problem is directly affected by the audiences understanding of said magic. So HP magic should not be mysterious. I suggest watching HelloFutureMe on youtube for a better explanation.
+:PROPERTIES:
+:Author: frissonaddict
+:Score: 1
+:DateUnix: 1592403093.0
+:DateShort: 2020-Jun-17
+:END:
+
+******** Alright, I'll check it out.
+:PROPERTIES:
+:Author: Redhawkluffy101
+:Score: 1
+:DateUnix: 1592418920.0
+:DateShort: 2020-Jun-17
+:END:
+
+
+*** None of those things are canon, and none of those things are incompatible with canon. We never saw how, for example, the founders protected Hogwarts. It's just as believable that they used runes, rituals, arithmancy and wardstones as that they didn't.
+:PROPERTIES:
+:Author: MTheLoud
+:Score: 4
+:DateUnix: 1592312400.0
+:DateShort: 2020-Jun-16
+:END:
+
+**** Runes are just a language in canon.
+
+Rituals aren't a thing in Canon.
+
+Arithmancy is just a way of predicting the future through the use of numbers.
+
+And we know wardstone aren't a thing in Canon and we obviously see Harry and Hermione create protective enchantments without something like that.
+
+Edit: I give up, clearly you guys have no idea what canon actually means and I dont have all day to refute every single fucking negative you claim.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 2
+:DateUnix: 1592313192.0
+:DateShort: 2020-Jun-16
+:END:
+
+***** We never see runes or arithmancy in use in canon. That gives us free rein to use them how we want. Where in canon does it say that runes are “just a language” or arithmancy is “just a way of predicting the future”?
+
+I'd call that whole “bone of the father, flesh of the servant...” thing a ritual. What else would you call it? Who knows what other rituals they could have?
+
+There could be multiple types of protective enchantments, with the longer-lasting ones requiring expensive materials like wardstones. Why not?
+:PROPERTIES:
+:Author: MTheLoud
+:Score: 6
+:DateUnix: 1592313615.0
+:DateShort: 2020-Jun-16
+:END:
+
+****** Arithmancy isn't something Rowling made up its a real word, describing the usage of numbers to predict the future. Rowling has also confirmed that its the same in her books.
+
+Also Hermione describe ancient rune class plenty of times l, the only thing they ever do is translating them.
+
+Also really? What Voldemort did at the Graveyard was a potion, how could you have possibly missed that?
+:PROPERTIES:
+:Author: aAlouda
+:Score: -2
+:DateUnix: 1592314056.0
+:DateShort: 2020-Jun-16
+:END:
+
+******* The Graveyard thing had elements of a ritual - like Wormtail speaking the words was a massive part of what was happening. A ritual is a formal ceremony of any kind in which things are done in a specific order, often at a specific location. The base of the potion already existed, but it seems that adding the final things (bone, flesh, blood) was a ritual to activate it, because it had a specific word form and so on, which potions don't normally have.
+
+In potions class, they don't stand there incanting "gunge of the flobberworm, squashedly removed, you will cure my boils" do they?
+:PROPERTIES:
+:Author: Ermithecow
+:Score: 8
+:DateUnix: 1592314982.0
+:DateShort: 2020-Jun-16
+:END:
+
+******** Voldemort literally described what happened as a potion he invented reviving him.
+
+Also clearly advanced potions are more complicated than what they make in class, similar to Polyjuice potion which requires a specific ingredient to be picked during the full moon and another be stewed for exactly 21 days.
+:PROPERTIES:
+:Author: aAlouda
+:Score: -1
+:DateUnix: 1592315597.0
+:DateShort: 2020-Jun-16
+:END:
+
+********* That's true, but there is no other potion we see that involves an incantation in this way and what Wormtail was doing was "ritualistic" in nature.
+
+It can be both. A potion that requires a ritual to activate it as you put the final ingredients in.
+:PROPERTIES:
+:Author: Ermithecow
+:Score: 4
+:DateUnix: 1592316008.0
+:DateShort: 2020-Jun-16
+:END:
+
+
+******* She didn't make up elves either, but her elves are significantly different from some traditional versions of elves. There's no reason arithmancy should be limited to its traditional definition either.
+
+I'm still waiting for you to provide evidence from canon that translation is all they do with runes.
+
+You're trying to impose your own personal headcanon on everyone. Stop. If you don't like it, don't read it, but these interpretations are perfectly compatible with canon.
+:PROPERTIES:
+:Author: MTheLoud
+:Score: 6
+:DateUnix: 1592315860.0
+:DateShort: 2020-Jun-16
+:END:
+
+******** u/aAlouda:
+#+begin_quote
+  She didn't make up elves either, but her elves are significantly different from some traditional versions of elves. There's no reason arithmancy should be limited to its traditional definition either.
+#+end_quote
+
+She made up House-Elves in particular, you know thats not the same. What youre saying is like a fic deciding to make Alchemy about ritual magic and claiming its canon consistent.
+
+#+begin_quote
+  I'm still waiting for you to provide evidence from canon that translation is all they do with runes.
+#+end_quote
+
+Have you not read the books? [[https://docs.google.com/document/d/1QSMQe66Y6pKum8sMn1C5ixsT8CpWfiCuOEBFD2GYMC8/edit][Here's a Google Doc]] listing every mention of Runes in the books, it clear that its just a language.
+
+#+begin_quote
+  You're trying to impose your own personal headcanon on everyone. Stop. If you don't like it, don't read it, but these interpretations are perfectly compatible with canon.
+#+end_quote
+
+This is fanfiction, if you want to make shit up because you like it more its fine, but dont claim its consistent with canon just because you want it to be true, when it clear its not.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 1
+:DateUnix: 1592316950.0
+:DateShort: 2020-Jun-16
+:END:
+
+********* A lot of work went into compiling that brief list of canon mentions of runes, but that still doesn't prove your headcanon. If you want to believe that the runes on Dumbledore's pensieve were just decoration, and had no magical power, go right ahead. It's just as valid an interpretation to say that the runes were what made it work. We never see a pensieve that works without runes.
+
+I don't see how the use of dictionaries means runes are just a language, with no magical power. Programming languages are languages, with their own vocabularies, and they have power to actually do things. Writing a computer program is essentially translating an idea into a programming language. Then the program does things.
+:PROPERTIES:
+:Author: MTheLoud
+:Score: 4
+:DateUnix: 1592317792.0
+:DateShort: 2020-Jun-16
+:END:
+
+********** u/aAlouda:
+#+begin_quote
+  A lot of work went into compiling that brief list of canon mentions of runes, but that still doesn't prove your headcanon. If you want to believe that the runes on Dumbledore's pensieve were just decoration, and had no magical power, go right ahead.
+#+end_quote
+
+[[https://www.wizardingworld.com/writing-by-jk-rowling/pensieve][The Pottermore Article]] Rowling wrote about Pensieves describes them as this.
+
+#+begin_quote
+  *A Pensieve is a wide and shallow dish made of metal or stone, often elaborately decorated or inlaid with precious stones,* and carrying powerful and complex enchantments. Pensieves are rare, because only the most advanced wizards ever use them, and because the majority of wizardkind is afraid of doing so.
+#+end_quote
+
+The Runes on the Hogwarts Pensieve are clearly its own particular decoration.
+
+#+begin_quote
+  I don't see how the use of dictionaries means runes are just a language, with no magical power.
+#+end_quote
+
+Because they're only used as language, when they go on the Horcrux Hunt Hermione doesn't say she'll need her dictionary in case they need to create a magical protection, she says she'll need it in case they need to translate runes.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 0
+:DateUnix: 1592318482.0
+:DateShort: 2020-Jun-16
+:END:
+
+*********** And you think that these powerful and complex enchantments don't involve runes because...?
+:PROPERTIES:
+:Author: MTheLoud
+:Score: 6
+:DateUnix: 1592318693.0
+:DateShort: 2020-Jun-16
+:END:
+
+************ Because see plenty of magical objects with powerful and complex enchantments without runes. And the only one we see with them, is the one object thats described as frequently being decorated.
+
+Come on, this is very simple.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 0
+:DateUnix: 1592318929.0
+:DateShort: 2020-Jun-16
+:END:
+
+************* We never see how complicated magical devices (like the pensieve, the mirror of Erised, or the Marauders' Map) are made in canon. Possibilities are completely open for how those things are made. Why wouldn't they involve runes, arithmancy, or whatever else?
+
+I can see practical reasons to inscribe and then hide runes, to make them harder to decipher and disable.
+
+Your headcanon is your headcanon. Don't mistake it for canon.
+:PROPERTIES:
+:Author: MTheLoud
+:Score: 3
+:DateUnix: 1592319129.0
+:DateShort: 2020-Jun-16
+:END:
+
+
+********* She didn't even make up house elves, she just took an already existing myth (brownies) and changed them up a little bit.
+:PROPERTIES:
+:Author: frissonaddict
+:Score: 1
+:DateUnix: 1592403322.0
+:DateShort: 2020-Jun-17
+:END:
+
+
+******* Charms is not a made up word either... Does this mean that they study charms in the context of whatever we mean by it?
+
+We are talking about a magical world with completely different rules than what we are used to. Just because we can deduce a meaning from the title of the subject doesn't mean we know everything about it.
+
+Also, it is completely possible that Hermione was more interested in the theory of the subjects than their applications. Maybe they do not cover the real world uses of these subjects until higher classes and she doesn't know about it in third year. Remember that Hermione is a 13 year old child when she talks about her courses, not a master of the subject.
+:PROPERTIES:
+:Author: VioletteFleur
+:Score: 2
+:DateUnix: 1592316334.0
+:DateShort: 2020-Jun-16
+:END:
+
+******** u/aAlouda:
+#+begin_quote
+  Charms is not a made up word either... Does this mean that they study charms in the context of whatever we mean by it?
+#+end_quote
+
+Yes, definitely, just look at the first Paragraph of the [[https://en.wikipedia.org/wiki/Magic_charm][Wikipedia article for charms]].
+
+#+begin_quote
+  An incantation, a spell, a *charm*, an enchantment or a bewitchery, is a [[https://en.wikipedia.org/wiki/Magical_formula][magical formula]] intended to trigger a [[https://en.wikipedia.org/wiki/Magic_(supernatural][magical]]) effect on a [[https://en.wikipedia.org/wiki/Person][person]] or objects. The formula can be spoken, sung or [[https://en.wikipedia.org/wiki/Chant][chanted]]. An incantation can also be performed during ceremonial [[https://en.wikipedia.org/wiki/Ritual][rituals]] or [[https://en.wikipedia.org/wiki/Prayer][prayers]]. In the world of magic, incantations are said to be performed by [[https://en.wikipedia.org/wiki/Magician_(fantasy][wizards]]), [[https://en.wikipedia.org/wiki/Witchcraft][witches]], and [[https://en.wikipedia.org/wiki/Fairy][fairies]].[[https://en.wikipedia.org/wiki/Incantation#cite_note-:0-1][[1]]]
+#+end_quote
+
+You can clearly see that this is broadly the same as in canon.
+
+#+begin_quote
+  We are talking about a magical world with completely different rules than what we are used to. Just because we can deduce a meaning from the title of the subject doesn't mean we know everything about it.
+#+end_quote
+
+We dont need to know everything about it, just knowing broadly what its about is enough to conclude that a way to predict the future, is not something that can create a permanent magical protection.
+
+#+begin_quote
+  Also, it is completely possible that Hermione was more interested in the theory of the subjects than their applications. Maybe they do not cover the real world uses of these subjects until higher classes and she doesn't know about it in third year. Remember that Hermione is a 13 year old child when she talks about her courses, not a master of the subject.
+#+end_quote
+
+They were literally still doing translations at Newt level, the only real life application ever mentioned was Hermione taking her dictionary along to the Horcrux hunt in case they need to translate Runes. The same Horcrux Hunt Hermione did actually create magical defences on to protect their camp.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 1
+:DateUnix: 1592317687.0
+:DateShort: 2020-Jun-16
+:END:
+
+********* Perhaps they didn't name it 'Magical Arithmancy and its applications' because the other words are redundant?
+
+#+begin_quote
+  They were literally still doing translations at Newt level, the only real life application ever mentioned was Hermione taking her dictionary along to the Horcrux hunt in case they need to translate Runes.
+#+end_quote
+
+I studied Biology for several years at school. Does this mean I know how to apply what I studied in the real world? No! You do not become a doctor by studying biology at school. You need to study several more years of medicine and do field work before you become a doctor. Why do you expect Hermione to know everything when she has barely been in the magical world for seven years?
+:PROPERTIES:
+:Author: VioletteFleur
+:Score: 2
+:DateUnix: 1592318593.0
+:DateShort: 2020-Jun-16
+:END:
+
+********** Because thats how all the classess at Hogwats work, you're supposed to be able to apply what you learn, otherwise you won't get a good grade on your OWL Exam and Hermione got Outstanding for Arithmancy.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 1
+:DateUnix: 1592318790.0
+:DateShort: 2020-Jun-16
+:END:
+
+*********** Even if your headcanon about this were correct, and all the healers at St. Mungo's have just seven years of schooling, it's still irrelevant to this conversation. Hermione and friends skipped their seventh year, so we have no idea what it was supposed to cover.
+:PROPERTIES:
+:Author: MTheLoud
+:Score: 2
+:DateUnix: 1592320230.0
+:DateShort: 2020-Jun-16
+:END:
+
+
+*********** And you know about these because....?
+
+Clearly, I didn't know that an ignorant muggle like me was speaking to a Hogwarts graduate. /s
+:PROPERTIES:
+:Author: VioletteFleur
+:Score: 1
+:DateUnix: 1592319110.0
+:DateShort: 2020-Jun-16
+:END:
+
+************ Because we see all the OWL Exams Harry took, are you seriously proposing that Arithmancy has to be the one specific exception.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 0
+:DateUnix: 1592319305.0
+:DateShort: 2020-Jun-16
+:END:
+
+************* Oh please! Have you never seen different kinds of subjects? On one hand we can study computer science where we can type small programs and see instant results. On the other side there is medicine or economics where we can study for years before we become competent enough to apply our knowledge.
+:PROPERTIES:
+:Author: VioletteFleur
+:Score: 2
+:DateUnix: 1592319852.0
+:DateShort: 2020-Jun-16
+:END:
+
+
+*** I would like to read a fic that explores Arithmancy in this canon, apparently boring incarnation and makes it interesting
+:PROPERTIES:
+:Author: Byrana
+:Score: 1
+:DateUnix: 1592310268.0
+:DateShort: 2020-Jun-16
+:END:
+
+
+** There's nothing called wards in canon, but they sort of exist, it's just a word for permanent magic defences, like the one that stops you just apparating into Hogwarts.
+:PROPERTIES:
+:Author: Electric999999
+:Score: 1
+:DateUnix: 1592364502.0
+:DateShort: 2020-Jun-17
+:END:

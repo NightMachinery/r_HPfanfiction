@@ -1,0 +1,211 @@
+#+TITLE: New CSS theme candidate: Collecting feedback!
+
+* New CSS theme candidate: Collecting feedback!
+:PROPERTIES:
+:Author: tusing
+:Score: 14
+:DateUnix: 1480090165.0
+:DateShort: 2016-Nov-25
+:FlairText: Meta
+:END:
+Hello, all,
+
++Given that the current theme is (still) a tad bit buggy and unfinished, I've been looking for elegant alternatives to our current theme. I've updated [[/r/fanfictionbot]] with a potential theme candidate.+
+
++### Please check out *[[/r/fanfictionbot]]* and tell us if if we should use its theme by submitting [[https://goo.gl/forms/0BsWGpFKN96GTwbC2][*this Google Form*]] (and perhaps leaving a comment)!+
+
+Edit: Due to very positive response from the poll we're going ahead and implementing this theme!
+
+
+** Doesn't look bad typography and layout-wise, but I can't read light-on-dark without getting a headache.
+:PROPERTIES:
+:Author: nothorse
+:Score: 9
+:DateUnix: 1480150699.0
+:DateShort: 2016-Nov-26
+:END:
+
+*** Same- I just disabled the subreddit style. Easy fix for me
+:PROPERTIES:
+:Author: boomberrybella
+:Score: 5
+:DateUnix: 1480191916.0
+:DateShort: 2016-Nov-26
+:END:
+
+**** How do you do that? I'm finding it very hard to read.
+:PROPERTIES:
+:Author: hippoparty
+:Score: 6
+:DateUnix: 1480195684.0
+:DateShort: 2016-Nov-27
+:END:
+
+***** You should download [[https://redditenhancementsuite.com/][Reddit Enhancement Suite]], and there are a whole lot of functions, one of such is disabling subreddit style per subreddit.
+
+You can also do this in your reddit preferences (but it disables subreddit styles for all subreddits).
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1480196322.0
+:DateShort: 2016-Nov-27
+:END:
+
+****** Hey! You're back!
+:PROPERTIES:
+:Author: boomberrybella
+:Score: 1
+:DateUnix: 1480204031.0
+:DateShort: 2016-Nov-27
+:END:
+
+******* yeah, I check back occasionally haha
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1481660104.0
+:DateShort: 2016-Dec-13
+:END:
+
+
+****** Haven't seen you here in a while.
+:PROPERTIES:
+:Author: Skeletickles
+:Score: 1
+:DateUnix: 1480211677.0
+:DateShort: 2016-Nov-27
+:END:
+
+
+****** Thanks for that.
+:PROPERTIES:
+:Author: Ch1pp
+:Score: 1
+:DateUnix: 1480249690.0
+:DateShort: 2016-Nov-27
+:END:
+
+
+**** Well the default style is ugly, but at least readable.
+
+Thanks for the tip.
+:PROPERTIES:
+:Author: nothorse
+:Score: 1
+:DateUnix: 1480250528.0
+:DateShort: 2016-Nov-27
+:END:
+
+
+*** Me too. I've been using it for 5 minutes and it's hurting my eyes.
+:PROPERTIES:
+:Author: maxxie10
+:Score: 2
+:DateUnix: 1480206346.0
+:DateShort: 2016-Nov-27
+:END:
+
+
+** Please change it back.
+:PROPERTIES:
+:Author: Ch1pp
+:Score: 6
+:DateUnix: 1480207913.0
+:DateShort: 2016-Nov-27
+:END:
+
+
+** i would like it if everything was like 1 or 2 sizes bigger
+:PROPERTIES:
+:Author: Swagmoes
+:Score: 5
+:DateUnix: 1480201615.0
+:DateShort: 2016-Nov-27
+:END:
+
+
+** The post tags don't really stand out at all :(
+:PROPERTIES:
+:Author: maxxie10
+:Score: 6
+:DateUnix: 1480206147.0
+:DateShort: 2016-Nov-27
+:END:
+
+
+** It's very pretty, but the white-text on a black background is killing my eyes.
+:PROPERTIES:
+:Author: Clegko
+:Score: 5
+:DateUnix: 1480207567.0
+:DateShort: 2016-Nov-27
+:END:
+
+
+** Sexy
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 3
+:DateUnix: 1480098492.0
+:DateShort: 2016-Nov-25
+:END:
+
+
+** Well it doesn't do that random capitalization thing so I'm already on board! Really pretty theme :)
+:PROPERTIES:
+:Author: capitolsara
+:Score: 2
+:DateUnix: 1480102869.0
+:DateShort: 2016-Nov-25
+:END:
+
+
+** Very sleek. And the darker theme is kinder on my eyeballs. I'm a fan.
+:PROPERTIES:
+:Author: mistermisstep
+:Score: 2
+:DateUnix: 1480113964.0
+:DateShort: 2016-Nov-26
+:END:
+
+
+** I can't see my username or control panel. (Using Safari on the iPad mini)
+:PROPERTIES:
+:Author: MagicMistoffelees
+:Score: 2
+:DateUnix: 1480191037.0
+:DateShort: 2016-Nov-26
+:END:
+
+
+** Much better, thanks!
+:PROPERTIES:
+:Author: stefvh
+:Score: 1
+:DateUnix: 1480193093.0
+:DateShort: 2016-Nov-27
+:END:
+
+
+** No more random capitalization is nice. Otherwise, there is no improvement, mechanically or visually, over the old interface.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1480210199.0
+:DateShort: 2016-Nov-27
+:END:
+
+
+** Seems to be missing the user panel quick-view thing that shows current Karma.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 1
+:DateUnix: 1480216635.0
+:DateShort: 2016-Nov-27
+:END:
+
+
+** Well, it is a bit late but I will give you this bit of feedback: the flair icons we have do not seem to look well on the new theme, due to the white (or whitish) outside pixels that were supposed to blend with the white of the theme but now don't.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 1
+:DateUnix: 1480273874.0
+:DateShort: 2016-Nov-27
+:END:

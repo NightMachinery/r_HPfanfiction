@@ -1,0 +1,893 @@
+#+TITLE: [Request] I'm probably asking for the impossible here, but...
+
+* [Request] I'm probably asking for the impossible here, but...
+:PROPERTIES:
+:Author: Dina-M
+:Score: 22
+:DateUnix: 1499354954.0
+:DateShort: 2017-Jul-06
+:FlairText: Request
+:END:
+...is there such a thing as a harem fic that isn't terrible? Or at least a fic that takes place in a world where harems and/or polygamy are common?
+
+Maybe it's because I've had this little fantasy of BEING a harem girl for years... I mean, I know very well that I wouldn't enjoy being one in real life, but as a fantasy it's kind of hot. And I've seen a lot of HP fics adversising themselves as "harem fics" and I'm always curious about them... and I start reading in the hope that perhaps THIS time it's going to be different... but it never is. Bad writing, bad characterisation, usually the entire thing is Superpowered!Harry who just gets all the girls Because He's That Cool And Special, but to me as a (female) reader he just comes comes across as annoying and overbearing and I have no idea why all these girls would agree to be with someone like that in the first place.
+
+The closest thing I've found to a harem fic that was actually good was the Firebird trilogy. And that turned out not to be very good at all... it started out as very interesting, but ended up as a terrible and borderline unreadable mess. But at least that fic tried to do something more with its harem set-up, even if it didn't quite work.
+
+So... ARE there any harem fics that aren't completely awful? Doesn't have to be Harry with the harem... in fact, it's a bonus if it ISN'T. Doesn't have to be anything like a perfect romance. I'm fine with just about any pairing, tone, setting or interpretation of the canon world. Just... a harem fic that doesn't totally suck.
+
+And isn't the Firebird Trilogy.
+
+Does that even exist?
+
+
+** I dislike harems for the two paths they tend to follow:
+
+1. *Harem girls are all the same.* In this option, each harem girl is, on a meta-level, substitutable with each other because their personalities are all the same. It makes things easy for the writer - no complex social dynamics needed - but it also makes things boring for us because the only relationships are =[Hary X GENERIC GIRL] * Harem_Size=.
+2. *Harem girls are unique characters.* In this option, the author treats each character /as/ a character, with a fully fleshed-out personality. But this way, for a harem of size N, including Harry, there are N-pick-2 relationships (=N!/((N-2)!*2!)=, which means for a harem of 4 girls plus Harry, there are 10 relationships to consider and each additional member radically increases that size. Either the plot utterly grinds to a halt as the author tries to give time to all these girls, or their relationship is utterly glossed over.
+
+Fundamentally, if you want plot, you get a crappy romance. If you want romance, you get a crappy plot. At the end of the day, it's a tyranny of numbers and time.
+:PROPERTIES:
+:Author: wille179
+:Score: 21
+:DateUnix: 1499378695.0
+:DateShort: 2017-Jul-07
+:END:
+
+*** This is also the reason why trios and duos are so common in fiction in general.
+
+For a duo the reader has a single relationship to follow, for a trio three.
+
+And if you want a quartet it's suddenly 3 + 2 + 1 = 6 relationships to keep track of.
+
+--------------
+
+Also, I think you are +wrong+ unnecessarily complex with your formula: If you have a harem consisting of n characters with f(n) relationships, the (n+1)th character would add n new relationships (one with each existing member), so f(n+1) = f(n) + n which is quite obvious and doesn't need faculties. :)
+
+See also: [[http://imgur.com/s0f9Y0r.jpg][This graphic I drew just for you]]
+
+Edit: In the image: f(5) = 10, obviously. Not being able to do 6+4 or count to 10 is emberassing.
+:PROPERTIES:
+:Author: fflai
+:Score: 8
+:DateUnix: 1499380946.0
+:DateShort: 2017-Jul-07
+:END:
+
+**** Yours is the recersive formula, while mine is the combination formula =C(N,K)= (a.k.a. N pick K) where K is the number of people in a combination (in my case, two). For all values N, =C(N,2)=N!/((N-2)!2!) = F(N) = N+F(N-1)=.
+
+Of course, since K is fixed, the combination formula can be simplified to =C(N,2)=N*(N-1)/2= --- that is, for each harem member, there are N-1 partners, then divided by 2 to prevent double-counting.
+
+ 
+
+... and I can't believe I'm debating the mathematics of harems. This day has been weird for me.
+:PROPERTIES:
+:Author: wille179
+:Score: 11
+:DateUnix: 1499385833.0
+:DateShort: 2017-Jul-07
+:END:
+
+***** I was too lazy yo actually work out the faculties. Why would you write it with them in the first place? :P
+
+I kinda recognized the formula for "take 2 out of n" but man, simplify before you pubish :P
+
+My math tutor would give 0 points fot it! (And he'd also give me 0 points fot not working it out in the first place)
+
+Anyways, I changed "wrong" to read "unnecessarily complex".
+:PROPERTIES:
+:Author: fflai
+:Score: 4
+:DateUnix: 1499386231.0
+:DateShort: 2017-Jul-07
+:END:
+
+
+**** u/healzsham:
+#+begin_quote
+  f(4)=g
+#+end_quote
+
+Interesting
+:PROPERTIES:
+:Author: healzsham
+:Score: 2
+:DateUnix: 1499383536.0
+:DateShort: 2017-Jul-07
+:END:
+
+
+*** u/ThrowawayYeahyuzz:
+#+begin_quote
+  Harem girls are unique characters. In this option, the author treats each character as a character, with a fully fleshed-out personality
+#+end_quote
+
+This is why linkffn(Dodging Prison and Stealing Witches) is so bloated and (at times) super slow. And even then, not everyone interacts with everyone else.
+
+It has a ton of issues, but it's the best harem fic imo simply due to the weight it gives the relationships between the girls.
+:PROPERTIES:
+:Author: ThrowawayYeahyuzz
+:Score: 8
+:DateUnix: 1499386737.0
+:DateShort: 2017-Jul-07
+:END:
+
+**** [[http://www.fanfiction.net/s/11574569/1/][*/Dodging Prison and Stealing Witches - Revenge is Best Served Raw/*]] by [[https://www.fanfiction.net/u/6791440/LeadVonE][/LeadVonE/]]
+
+#+begin_quote
+  Harry Potter has been banged up for ten years in the hellhole brig of Azkaban for a crime he didn't commit, and his traitorous brother, the not-really-boy-who-lived, has royally messed things up. After meeting Fate and Death, Harry is given a second chance to squash Voldemort, dodge a thousand years in prison, and snatch everything his hated brother holds dear. H/Hr/LL/DG/GW.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 35 *|* /Words/: 356,280 *|* /Reviews/: 4,736 *|* /Favs/: 8,758 *|* /Follows/: 11,190 *|* /Updated/: 4/5 *|* /Published/: 10/23/2015 *|* /id/: 11574569 *|* /Language/: English *|* /Genre/: Adventure/Romance *|* /Characters/: <Harry P., Hermione G., Daphne G., Ginny W.> *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11574569&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11574569&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1499386755.0
+:DateShort: 2017-Jul-07
+:END:
+
+
+*** Well, I'm not that picky. I just wanted a harem fic that didn't TOTALLY suck. It doesn't have to be the greatest story ever. :)
+:PROPERTIES:
+:Author: Dina-M
+:Score: 5
+:DateUnix: 1499383490.0
+:DateShort: 2017-Jul-07
+:END:
+
+**** I think that linkffn([[https://www.fanfiction.net/s/4753440/30/Harry-Potter-and-the-Four-Founders]]) has a good story, for a harem fic.
+:PROPERTIES:
+:Author: AugustinCauchy
+:Score: 1
+:DateUnix: 1499524464.0
+:DateShort: 2017-Jul-08
+:END:
+
+***** [[http://www.fanfiction.net/s/4753440/1/][*/Harry Potter and the Four Founders/*]] by [[https://www.fanfiction.net/u/1229909/Darth-Marrs][/Darth Marrs/]]
+
+#+begin_quote
+  In which Harry discovers there is more to being the Heir of the Four Founders than than just having really cool tattoos. Powerful Harry, Multi-Ship. Post OOTP. No Slash.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 30 *|* /Words/: 122,625 *|* /Reviews/: 2,050 *|* /Favs/: 5,577 *|* /Follows/: 2,384 *|* /Updated/: 9/19/2009 *|* /Published/: 12/29/2008 *|* /Status/: Complete *|* /id/: 4753440 *|* /Language/: English *|* /Genre/: Fantasy *|* /Characters/: Harry P. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=4753440&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=4753440&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1499524497.0
+:DateShort: 2017-Jul-08
+:END:
+
+
+*** Also known as the whoops-I-spend-300-pages-treating-harry-and-his-eight-girls-and-not-advancing-the-story-one-bit-and-now-its-abandoned category.
+
+Been there, read that.
+:PROPERTIES:
+:Author: AugustinCauchy
+:Score: 2
+:DateUnix: 1499524266.0
+:DateShort: 2017-Jul-08
+:END:
+
+
+*** You really have to ask yourself the question of /why/ in moments like that. Why do people want a story solely centred around the uninteresting characters of the interesting world? I can get Harry because he is famous, powerful, and we generally know quite a lot about him, but I honestly don't care about Hermione, Fleur, Tonks, Bellatrix, etc... pairing wise, I'd rather see interesting takes on Magic, different spells people come up with, etc...
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1499395910.0
+:DateShort: 2017-Jul-07
+:END:
+
+**** I'd be very happy with a harem story that WASN'T centered around Harry. :)
+
+But i think Harry is popular precisely because he is so bland. He's the reader-substitute character, the one that you experience the wizarding world through and the one you're meant to identify with. That's why you see so many "Harry becomes super-powerful" stories, and not all that many stories where Ron or Neville or Ernie Macmillan become super-powerful, even if all three of them are more interesting, personality-wise.
+
+As for Hermione, she's the main female character... and Fleur, Tonks and Bellatrix are hot, or at least the fanbase has decided that they're hot. ;)
+:PROPERTIES:
+:Author: Dina-M
+:Score: 4
+:DateUnix: 1499413184.0
+:DateShort: 2017-Jul-07
+:END:
+
+***** u/deleted:
+#+begin_quote
+  I'd be very happy with a harem story that WASN'T centered around Harry. :)
+#+end_quote
+
+It'd be just as shit.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1499449151.0
+:DateShort: 2017-Jul-07
+:END:
+
+****** Maybe, but I'm asking if there are any that AREN'T.
+:PROPERTIES:
+:Author: Dina-M
+:Score: 1
+:DateUnix: 1499449182.0
+:DateShort: 2017-Jul-07
+:END:
+
+******* The Red Knight.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1499450957.0
+:DateShort: 2017-Jul-07
+:END:
+
+
+***** Tonks is necessarily hot. You can't beat a shapeshifter when it comes to the looks. And Fleur is hot in canon.
+:PROPERTIES:
+:Author: AnIndividualist
+:Score: 1
+:DateUnix: 1499504024.0
+:DateShort: 2017-Jul-08
+:END:
+
+
+** The author of "Emperor" considered the harem option, but decided against it because things were complicated enough.
+
+If there's one fic that offers a more realistic setting for the harem, it's this one. It can still happen though, especially if the author decides to kill off Ellie.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 9
+:DateUnix: 1499356440.0
+:DateShort: 2017-Jul-06
+:END:
+
+*** Hmm... probably doesn't count, but I have a fondness for stories that are wildly AU, so I might check it out. Thanks!
+:PROPERTIES:
+:Author: Dina-M
+:Score: 1
+:DateUnix: 1499413253.0
+:DateShort: 2017-Jul-07
+:END:
+
+
+** linkffn([[https://www.fanfiction.net/s/6935533/1/Luna-s-Helping-Hand]])
+
+Well, there /is/ this story where Luna, out of the goodness and quirkiness of her heart, wanted to set up a harem for Harry. This story was never finished, but I think what's there might appeal to you. Uniquely, the focus here is on romance rather than sex - there might have been some sex later in the story, but again, it was never finished.
+:PROPERTIES:
+:Author: MolochDhalgren
+:Score: 4
+:DateUnix: 1499359022.0
+:DateShort: 2017-Jul-06
+:END:
+
+*** [[http://www.fanfiction.net/s/6935533/1/][*/Luna's Helping Hand/*]] by [[https://www.fanfiction.net/u/2662787/Rex-Tims][/Rex Tims/]]
+
+#+begin_quote
+  Luna Lovegood has only one person she considers a friend and will go to extreme lengths to help him, including helping him find love with as many women as he can and convincing him it's the right thing to do.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 6 *|* /Words/: 33,937 *|* /Reviews/: 470 *|* /Favs/: 1,317 *|* /Follows/: 1,659 *|* /Updated/: 6/8/2011 *|* /Published/: 4/24/2011 *|* /id/: 6935533 *|* /Language/: English *|* /Genre/: Romance/Humor *|* /Characters/: Harry P., Luna L. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=6935533&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=6935533&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1499359032.0
+:DateShort: 2017-Jul-06
+:END:
+
+
+*** Ooh, interesting! Don't worry about it not being finished... some of my favourite fics were never finished. A bit of a let-down, yes, but if what's up there is good, then that's more important.
+:PROPERTIES:
+:Author: Dina-M
+:Score: 1
+:DateUnix: 1499360373.0
+:DateShort: 2017-Jul-06
+:END:
+
+
+** Writting a harem is really hard. I tried once but I had to abandon it because it was really cringy. I'm trying to improve my writting style and then I will give it another try. I think the main reason why most harem are bad is because the person writting them probably never saw a real harem in their life.
+:PROPERTIES:
+:Author: Quoba
+:Score: 3
+:DateUnix: 1499356587.0
+:DateShort: 2017-Jul-06
+:END:
+
+*** That's probably true. Though, most people haven't seen magical schools either, so...
+
+I think it's a bigger problem that the person writing the harem fic doesn't bother thinking about what it would really be like, beyond "cool, I/Harry gets all the girls!"
+:PROPERTIES:
+:Author: Dina-M
+:Score: 6
+:DateUnix: 1499357346.0
+:DateShort: 2017-Jul-06
+:END:
+
+**** True. But writting about something totally fictional (magical school for example) is easier than writting something that already exist (A harem).
+:PROPERTIES:
+:Author: Quoba
+:Score: 3
+:DateUnix: 1499361888.0
+:DateShort: 2017-Jul-06
+:END:
+
+
+*** Actually, the few testimonies I've read from people who actually lived in it don't portray something very enjoyable to live in. Nobody seems happy living in it, from what I gather.\\
+There might be some that work well, but it doesn't strike me as a sane way to live your life.
+:PROPERTIES:
+:Author: AnIndividualist
+:Score: 5
+:DateUnix: 1499368725.0
+:DateShort: 2017-Jul-06
+:END:
+
+**** Oh, life in a harem isn't fun at all, in real life. That's why I prefer it to stay a fantasy. If you've read the book "Some Girls: My Life In a Harem" by Jillian Lauren, that's a pretty good look at what it's REALLY like to be a harem girl. And you're right, it's absolutely not enjoyable. It's not Hell on Earth, or at least her experience wasn't, but it's far from the fun fantasy either.
+
+So I think some breaks from reality are acceptable in a harem fic. Getting realistic about it pretty much ensures that it's a totally different kind of story. Could be an interesting once, certainly, but pretty far away from what I was thinking of when I looked for harem fics...
+:PROPERTIES:
+:Author: Dina-M
+:Score: 3
+:DateUnix: 1499381886.0
+:DateShort: 2017-Jul-07
+:END:
+
+***** u/AnIndividualist:
+#+begin_quote
+  Oh, life in a harem isn't fun at all, in real life. That's why I prefer it to stay a fantasy. If you've read the book "Some Girls: My Life In a Harem" by Jillian Lauren, that's a pretty good look at what it's REALLY like to be a harem girl. And you're right, it's absolutely not enjoyable. It's not Hell on Earth, or at least her experience wasn't, but it's far from the fun fantasy either.
+#+end_quote
+
+That's pretty much what I've heard, though from other sources. It doesn't seem to suit men much more though.
+
+#+begin_quote
+  So I think some breaks from reality are acceptable in a harem fic. Getting realistic about it pretty much ensures that it's a totally different kind of story. Could be an interesting once, certainly, but pretty far away from what I was thinking of when I looked for harem fics...
+#+end_quote
+
+Well, as long as it's interesting. Harems are too often wish fulfillment without much more besides, which is why I tend to stay clear of it, but I'm sure it can be done well. The realistic version or a more fantasist one.
+
+And now I wonder what a Disney Harem would look like... :)
+:PROPERTIES:
+:Author: AnIndividualist
+:Score: 2
+:DateUnix: 1499383139.0
+:DateShort: 2017-Jul-07
+:END:
+
+****** I don't know, but I suspect that a lot of catchy songs would be involved. :)
+:PROPERTIES:
+:Author: Dina-M
+:Score: 3
+:DateUnix: 1499413388.0
+:DateShort: 2017-Jul-07
+:END:
+
+
+***** Harem is definitely a relic from very patriarchal societies, where male's physical strength offers significant competitive advantages. It's definitely beneficial for producing lots of descendants from the dominant male, and I believe anthropoids such as chimpanzees and gorillas have similar social structures in their clans. Many apex predators, especially the lions, are living in harems too.
+
+In magical societies, where magical power overwhelmingly trumped physical strength, males no longer had significant advantages over females. Hogwarts were founded by both genders who were seemingly on equal footings. Female British Ministers of Magic appeared on stage in 1798, almost two centuries before the first Muggle woman was elected the PM in 1980. I have a hard time imagining harems in a society where both genders were almost equally powerful.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 1
+:DateUnix: 1499440260.0
+:DateShort: 2017-Jul-07
+:END:
+
+****** In the canon world, probably it wouldn't be. There'd need to be a different history, society and/or way that magic works for harems to be plausible. That's probably why so many harem fic make it all about how amazingly magically powerful Harry is, or use some weird "soul bond" excuse.
+
+I know perfectly well that harems have all sorts of stigmas tied to them, and are highly implausible for the canon world as-is. I'm also very well aware that most harem fics suck. That was kind of why I wanted to ask people if there were some that didn't; some that could actually take the concept and make it work on a story level if nothing else.
+:PROPERTIES:
+:Author: Dina-M
+:Score: 1
+:DateUnix: 1499448138.0
+:DateShort: 2017-Jul-07
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1499375111.0
+:DateShort: 2017-Jul-07
+:END:
+
+*** The Poker Game sounds vaguely familiar... Was is something about the girls playing poker and when they ran out of money started raising the stakes by offering themselves as harem girls? I think Luna was in it.
+:PROPERTIES:
+:Author: Dina-M
+:Score: 2
+:DateUnix: 1499412792.0
+:DateShort: 2017-Jul-07
+:END:
+
+
+** Linkffn(11669575). This is the only one I've found that I actually enjoyed.
+:PROPERTIES:
+:Author: c0smicmuffin
+:Score: 3
+:DateUnix: 1499384492.0
+:DateShort: 2017-Jul-07
+:END:
+
+*** [[http://www.fanfiction.net/s/11669575/1/][*/For Love of Magic/*]] by [[https://www.fanfiction.net/u/5241558/Noodlehammer][/Noodlehammer/]]
+
+#+begin_quote
+  A different upbringing leaves Harry Potter with an early knowledge of magic and a view towards the Wizarding World not as an escape from the Dursleys, but as an opportunity to learn more about it. Unfortunately, he quickly finds that there are many elements in this new world that are unwilling to leave the Boy-Who-Lived alone.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 40 *|* /Words/: 560,052 *|* /Reviews/: 6,766 *|* /Favs/: 6,633 *|* /Follows/: 7,561 *|* /Updated/: 11h *|* /Published/: 12/15/2015 *|* /id/: 11669575 *|* /Language/: English *|* /Characters/: Harry P. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11669575&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11669575&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1499384504.0
+:DateShort: 2017-Jul-07
+:END:
+
+
+** That's why every time I feel like reading a harem story I just watch Muhteşem Yüzyıl in netflix and remember they all are fucked up because nobody actually wants to share the big prize. Fuck it, I just want a harem where the girls start killing each other in order the be Harry's truv luv.
+:PROPERTIES:
+:Author: Anmothra
+:Score: 3
+:DateUnix: 1499400677.0
+:DateShort: 2017-Jul-07
+:END:
+
+*** Well, that would be original at least! I'd read it. :)
+:PROPERTIES:
+:Author: Dina-M
+:Score: 1
+:DateUnix: 1499412539.0
+:DateShort: 2017-Jul-07
+:END:
+
+
+** I haven't seen any stories that actually takes themselves seriously that are good and have a harem. It's always just wish fulfillment.
+
+But, there's some okay crack fics/parodies that are so over the top that they're more about the comedy than the smut, that are sort of ok. Linkffn(4045539) is an example of a ok crack fic that kind of has a harem (though I guess it depends on your definition of harem)
+:PROPERTIES:
+:Author: Lord_Anarchy
+:Score: 4
+:DateUnix: 1499355407.0
+:DateShort: 2017-Jul-06
+:END:
+
+*** [[http://www.fanfiction.net/s/4045539/1/][*/Crack'd Mirror/*]] by [[https://www.fanfiction.net/u/881050/cloneserpents][/cloneserpents/]]
+
+#+begin_quote
+  What happens when a botched ritual switches a Harry from an evil mirror universe with our hero? Will the world survive? Post OotP Parody/Erotic Comedy Evil!Harry/multiple partners/femmslash
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 16 *|* /Words/: 162,650 *|* /Reviews/: 437 *|* /Favs/: 1,512 *|* /Follows/: 1,235 *|* /Updated/: 6/9/2010 *|* /Published/: 1/31/2008 *|* /id/: 4045539 *|* /Language/: English *|* /Genre/: Parody/Humor *|* /Characters/: Harry P. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=4045539&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=4045539&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1499355473.0
+:DateShort: 2017-Jul-06
+:END:
+
+
+*** I sort of suspected it, but I thought I'd ask.... I'll take what I can get. Thanks! :)
+:PROPERTIES:
+:Author: Dina-M
+:Score: 1
+:DateUnix: 1499355800.0
+:DateShort: 2017-Jul-06
+:END:
+
+
+** I can't help but plug my own story, personally I think it is much better than most harems, but I'm completely biased:
+
+Linkffn(5790760)
+
+Be warned of RoMione at the beginning... one of two things I wish I'd done differently...
+:PROPERTIES:
+:Author: JustRuss79
+:Score: 5
+:DateUnix: 1499374236.0
+:DateShort: 2017-Jul-07
+:END:
+
+*** I like Ron/Hermione. I think they fit better than most others. Besides, I did say i didn't care about pairings, so no warnings necessary on that account! :)
+:PROPERTIES:
+:Author: Dina-M
+:Score: 3
+:DateUnix: 1499382194.0
+:DateShort: 2017-Jul-07
+:END:
+
+
+*** [[http://www.fanfiction.net/s/5790760/1/][*/Searching For The Power/*]] by [[https://www.fanfiction.net/u/1593459/GinnyMyLove][/GinnyMyLove/]]
+
+#+begin_quote
+  Hermione is told Love might be the Power-He-Knows-Not and vows to help Harry find it at any cost. Be Warned of some R/Hr until chpt 20 but skipping those chapters means missing out on H/Hr/G goodness. This is rated MATURE for ADULT CONTENT. Harry/Many
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 79 *|* /Words/: 573,420 *|* /Reviews/: 998 *|* /Favs/: 1,929 *|* /Follows/: 940 *|* /Updated/: 10/27/2010 *|* /Published/: 3/3/2010 *|* /Status/: Complete *|* /id/: 5790760 *|* /Language/: English *|* /Genre/: Humor/Romance *|* /Characters/: Harry P. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=5790760&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=5790760&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1499374249.0
+:DateShort: 2017-Jul-07
+:END:
+
+
+** Does it have to he harem? Can it just be polyamory? Both my current stories are polyamorous though darkness ascendant won't have it for a very long time.
+
+Edit: forgot, my stranger in a strange land will be a weird pseudopoly colonizing story potentially.
+:PROPERTIES:
+:Author: viol8er
+:Score: 2
+:DateUnix: 1499384993.0
+:DateShort: 2017-Jul-07
+:END:
+
+*** Polyamory's fine. I was trying to envoke a certain feel witrh the word "harem" but if the story is good I can be very flexible. :D
+:PROPERTIES:
+:Author: Dina-M
+:Score: 3
+:DateUnix: 1499412631.0
+:DateShort: 2017-Jul-07
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1499356274.0
+:DateShort: 2017-Jul-06
+:END:
+
+*** I like Dodging but it's a stretch to call it a harem story. It's more like harem-pending.
+:PROPERTIES:
+:Author: Huntrrz
+:Score: 6
+:DateUnix: 1499370485.0
+:DateShort: 2017-Jul-07
+:END:
+
+
+*** Thanks for the warning about Ilvermorny Champion... I've grown so sick of canon bashing that I tend to quit a fic the moment it begins indulging in that... I'll take it into account that it gets better. :)
+:PROPERTIES:
+:Author: Dina-M
+:Score: 2
+:DateUnix: 1499356892.0
+:DateShort: 2017-Jul-06
+:END:
+
+**** Dodging Prison is a collection of tropes and clichés that actually works very well. It has a very bad case of magical cores, though.
+:PROPERTIES:
+:Author: AnIndividualist
+:Score: 1
+:DateUnix: 1499368219.0
+:DateShort: 2017-Jul-06
+:END:
+
+***** You speak of them as if they're a disease. I just always think "magic core = the part of the soul that actually does shit" and get on with my life. Souls are mystic enough, right?
+:PROPERTIES:
+:Author: wille179
+:Score: 2
+:DateUnix: 1499377851.0
+:DateShort: 2017-Jul-07
+:END:
+
+****** It's just me joking about a magic system I find not that well thought out or interesting (I'm talking about magical cores, but it's really the system described in that fic I don't like), nothing more. The rest of the fic is great though. After all, I kept reading it despite that.
+:PROPERTIES:
+:Author: AnIndividualist
+:Score: 2
+:DateUnix: 1499378396.0
+:DateShort: 2017-Jul-07
+:END:
+
+******* I'm reading Dodging as well, despite its flaws. And yeah, I was /sort of/ joking too in the beginning of my reply as well.
+:PROPERTIES:
+:Author: wille179
+:Score: 2
+:DateUnix: 1499378894.0
+:DateShort: 2017-Jul-07
+:END:
+
+
+***** Magical cores are an annoyance to me, but not enough to make me drop a story. Thanks for the warning though!
+:PROPERTIES:
+:Author: Dina-M
+:Score: 1
+:DateUnix: 1499381983.0
+:DateShort: 2017-Jul-07
+:END:
+
+
+*** [[http://www.fanfiction.net/s/11574569/1/][*/Dodging Prison and Stealing Witches - Revenge is Best Served Raw/*]] by [[https://www.fanfiction.net/u/6791440/LeadVonE][/LeadVonE/]]
+
+#+begin_quote
+  Harry Potter has been banged up for ten years in the hellhole brig of Azkaban for a crime he didn't commit, and his traitorous brother, the not-really-boy-who-lived, has royally messed things up. After meeting Fate and Death, Harry is given a second chance to squash Voldemort, dodge a thousand years in prison, and snatch everything his hated brother holds dear. H/Hr/LL/DG/GW.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 35 *|* /Words/: 356,280 *|* /Reviews/: 4,736 *|* /Favs/: 8,758 *|* /Follows/: 11,190 *|* /Updated/: 4/5 *|* /Published/: 10/23/2015 *|* /id/: 11574569 *|* /Language/: English *|* /Genre/: Adventure/Romance *|* /Characters/: <Harry P., Hermione G., Daphne G., Ginny W.> *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11574569&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11574569&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/12048619/1/][*/The Ilvermorny Champion/*]] by [[https://www.fanfiction.net/u/670787/Vance-McGill][/Vance McGill/]]
+
+#+begin_quote
+  Instead of Durmstrang Academy, Ilvermorny School of Witchcraft and Wizardry was invited to take part in the 1994 Triwizard Tournament. When Ilvermorny arrives at Hogwarts, Albus Dumbledore is shocked to see the long-thought-dead Harry and Lily Potter appear, as well as the missing Sirius Black and Remus Lupin. Harry/Hermione/Daphne; Gabrielle/OFC; Alternate Universe
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 62 *|* /Words/: 380,672 *|* /Reviews/: 2,703 *|* /Favs/: 3,076 *|* /Follows/: 3,985 *|* /Updated/: 4/5 *|* /Published/: 7/13/2016 *|* /id/: 12048619 *|* /Language/: English *|* /Genre/: Romance/Adventure *|* /Characters/: <Harry P., Hermione G., Daphne G.> Lily Evans P. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12048619&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12048619&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1499356306.0
+:DateShort: 2017-Jul-06
+:END:
+
+
+** Do you want F/Multi fics?
+
+The romantic Trio is my favorite non-canon pairing.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 1
+:DateUnix: 1499385574.0
+:DateShort: 2017-Jul-07
+:END:
+
+*** Romantic Trio probably doesn't count... that's a threesome, not a harem. Not that it can't be fun, but it's not really what I was thinking of.
+:PROPERTIES:
+:Author: Dina-M
+:Score: 1
+:DateUnix: 1499412386.0
+:DateShort: 2017-Jul-07
+:END:
+
+
+** Dodging Prison and Stealing Witches is a pretty loose fit but I think it technically counts and it's one of the better fanfictions I've read in the past couple years.
+
+Firebird trilogy is solid and the harem aspect isn't the typical wish fulfillment nonsense though it's pretty AU
+
+linkffn([[https://www.fanfiction.net/s/11574569/1/Dodging-Prison-and-Stealing-Witches-Revenge-is-Best-Served-Raw]])
+
+linkffn([[https://www.fanfiction.net/s/8629685/36/Firebird-s-Son-Book-I-of-the-Firebird-Trilogy]])
+:PROPERTIES:
+:Author: cyclicalbeats
+:Score: 1
+:DateUnix: 1499385592.0
+:DateShort: 2017-Jul-07
+:END:
+
+*** You're the third person who recommends the Firebitd Trilogy, so I'm starting to wonder if I wasn't clear enough in my original post that I didn't want the Firebird Trilogy?
+
+I mean I thought I was making it pretty clear. I distinctly mentioned the Firebird Trilogy by name twice, and I thought I'd been very clear that I didn't like the Firebird Trilogy.
+
+And yet, people keep recommending the Firebird Trilogy.
+
+It's nice that they want to help, but I can't help but wonder what I'm doing wrong here?
+:PROPERTIES:
+:Author: Dina-M
+:Score: 2
+:DateUnix: 1499412211.0
+:DateShort: 2017-Jul-07
+:END:
+
+**** lol, you're absolutely right. To be honest, I just skimmed your post so that's on me. I didn't catch the part where you said that.
+:PROPERTIES:
+:Author: cyclicalbeats
+:Score: 1
+:DateUnix: 1499448818.0
+:DateShort: 2017-Jul-07
+:END:
+
+
+*** [[http://www.fanfiction.net/s/11574569/1/][*/Dodging Prison and Stealing Witches - Revenge is Best Served Raw/*]] by [[https://www.fanfiction.net/u/6791440/LeadVonE][/LeadVonE/]]
+
+#+begin_quote
+  Harry Potter has been banged up for ten years in the hellhole brig of Azkaban for a crime he didn't commit, and his traitorous brother, the not-really-boy-who-lived, has royally messed things up. After meeting Fate and Death, Harry is given a second chance to squash Voldemort, dodge a thousand years in prison, and snatch everything his hated brother holds dear. H/Hr/LL/DG/GW.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 35 *|* /Words/: 356,280 *|* /Reviews/: 4,736 *|* /Favs/: 8,758 *|* /Follows/: 11,190 *|* /Updated/: 4/5 *|* /Published/: 10/23/2015 *|* /id/: 11574569 *|* /Language/: English *|* /Genre/: Adventure/Romance *|* /Characters/: <Harry P., Hermione G., Daphne G., Ginny W.> *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11574569&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11574569&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/8629685/1/][*/Firebird's Son: Book I of the Firebird Trilogy/*]] by [[https://www.fanfiction.net/u/1229909/Darth-Marrs][/Darth Marrs/]]
+
+#+begin_quote
+  He stepped into a world he didn't understand, following footprints he could not see, toward a destiny he could never imagine. How can one boy make a world brighter when it is so very dark to begin with? A completely AU Harry Potter universe.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 40 *|* /Words/: 172,506 *|* /Reviews/: 3,768 *|* /Favs/: 4,263 *|* /Follows/: 3,352 *|* /Updated/: 8/24/2013 *|* /Published/: 10/21/2012 *|* /Status/: Complete *|* /id/: 8629685 *|* /Language/: English *|* /Genre/: Drama *|* /Characters/: Harry P., Luna L. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8629685&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8629685&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1499385624.0
+:DateShort: 2017-Jul-07
+:END:
+
+
+** Remus Lupin P.I. It is just Hermione and Parvati Patil though. A fun, light-hearted fic, with mild Dumbledore bashing, and a Harry gets rescued from the Dursley's trope.
+:PROPERTIES:
+:Author: Murky_Red
+:Score: 1
+:DateUnix: 1499432126.0
+:DateShort: 2017-Jul-07
+:END:
+
+
+** Neither fic is everyone's cup of tea but i find these two enjoyable
+
+linkffn(11574569)
+
+linkffn(11898648)
+:PROPERTIES:
+:Author: Leahsyn
+:Score: 1
+:DateUnix: 1499356522.0
+:DateShort: 2017-Jul-06
+:END:
+
+*** [[http://www.fanfiction.net/s/11574569/1/][*/Dodging Prison and Stealing Witches - Revenge is Best Served Raw/*]] by [[https://www.fanfiction.net/u/6791440/LeadVonE][/LeadVonE/]]
+
+#+begin_quote
+  Harry Potter has been banged up for ten years in the hellhole brig of Azkaban for a crime he didn't commit, and his traitorous brother, the not-really-boy-who-lived, has royally messed things up. After meeting Fate and Death, Harry is given a second chance to squash Voldemort, dodge a thousand years in prison, and snatch everything his hated brother holds dear. H/Hr/LL/DG/GW.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 35 *|* /Words/: 356,280 *|* /Reviews/: 4,736 *|* /Favs/: 8,758 *|* /Follows/: 11,190 *|* /Updated/: 4/5 *|* /Published/: 10/23/2015 *|* /id/: 11574569 *|* /Language/: English *|* /Genre/: Adventure/Romance *|* /Characters/: <Harry P., Hermione G., Daphne G., Ginny W.> *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11574569&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11574569&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/11898648/1/][*/Harry Potter and the Rune Stone Path/*]] by [[https://www.fanfiction.net/u/1057022/Temporal-Knight][/Temporal Knight/]]
+
+#+begin_quote
+  10 year old Harry finds a chest left by his mother with books on some of her favorite subjects. Discovering he has a talent for understanding and creating runes sets Harry onto a very different path than anyone had expected. Shortcuts, inventions, and a bit of support go a long way! Pairings: H/Hr/NT/FD/DG. Ron/Molly bashing and GreaterGood!Dumbledore.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 50 *|* /Words/: 517,752 *|* /Reviews/: 4,905 *|* /Favs/: 9,683 *|* /Follows/: 9,996 *|* /Updated/: 12/28/2016 *|* /Published/: 4/15/2016 *|* /Status/: Complete *|* /id/: 11898648 *|* /Language/: English *|* /Genre/: Fantasy/Adventure *|* /Characters/: <Harry P., Hermione G., Fleur D., N. Tonks> *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11898648&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11898648&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1499356537.0
+:DateShort: 2017-Jul-06
+:END:
+
+
+*** I'll check them out. Thanks!
+:PROPERTIES:
+:Author: Dina-M
+:Score: 1
+:DateUnix: 1499357629.0
+:DateShort: 2017-Jul-06
+:END:
+
+**** Rune Stone Path is very good, but be prepared for a lot family drama, and obviously evil characters trying to screw with Harry.
+
+*Obviously evil Non-Voldemort characters.
+:PROPERTIES:
+:Author: AshtonZero
+:Score: 2
+:DateUnix: 1499366103.0
+:DateShort: 2017-Jul-06
+:END:
+
+
+** linkffn(11898648) while it isn't what I would call good romance was not a shit fic and was certainly better than the Firebird trilogy if only for the presence of an actual plot and a parental figure who interacts with harry that does not revolve around everyone being complete and utter morons lobotomized and subject only to the whims of The Great and Noble Badass Literal Mother Fucker Harry Peverell-Gryffindor-Slytherin-Hufflepuff-Malfoy-Ravenclaw-Pendragon-Merlin-LeFay
+:PROPERTIES:
+:Author: ksense2016
+:Score: 0
+:DateUnix: 1499389164.0
+:DateShort: 2017-Jul-07
+:END:
+
+*** [[http://www.fanfiction.net/s/11898648/1/][*/Harry Potter and the Rune Stone Path/*]] by [[https://www.fanfiction.net/u/1057022/Temporal-Knight][/Temporal Knight/]]
+
+#+begin_quote
+  10 year old Harry finds a chest left by his mother with books on some of her favorite subjects. Discovering he has a talent for understanding and creating runes sets Harry onto a very different path than anyone had expected. Shortcuts, inventions, and a bit of support go a long way! Pairings: H/Hr/NT/FD/DG. Ron/Molly bashing and GreaterGood!Dumbledore.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 50 *|* /Words/: 517,752 *|* /Reviews/: 4,905 *|* /Favs/: 9,683 *|* /Follows/: 9,996 *|* /Updated/: 12/28/2016 *|* /Published/: 4/15/2016 *|* /Status/: Complete *|* /id/: 11898648 *|* /Language/: English *|* /Genre/: Fantasy/Adventure *|* /Characters/: <Harry P., Hermione G., Fleur D., N. Tonks> *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11898648&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11898648&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1499389186.0
+:DateShort: 2017-Jul-07
+:END:
+
+
+*** Sounds promising. :) It's quite okay that it's not a good romance!
+:PROPERTIES:
+:Author: Dina-M
+:Score: 1
+:DateUnix: 1499412458.0
+:DateShort: 2017-Jul-07
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: -5
+:DateUnix: 1499368160.0
+:DateShort: 2017-Jul-06
+:END:
+
+*** ...Did you even read my post? I literally said that I wanted harem fics that weren't terrible and that WEREN'T the Firebird trilogy....
+:PROPERTIES:
+:Author: Dina-M
+:Score: 3
+:DateUnix: 1499382337.0
+:DateShort: 2017-Jul-07
+:END:
+
+**** Aw, shit, no. I was drinking and missed that one; my bad.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1499390740.0
+:DateShort: 2017-Jul-07
+:END:
+
+
+*** [[http://www.fanfiction.net/s/8629685/1/][*/Firebird's Son: Book I of the Firebird Trilogy/*]] by [[https://www.fanfiction.net/u/1229909/Darth-Marrs][/Darth Marrs/]]
+
+#+begin_quote
+  He stepped into a world he didn't understand, following footprints he could not see, toward a destiny he could never imagine. How can one boy make a world brighter when it is so very dark to begin with? A completely AU Harry Potter universe.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 40 *|* /Words/: 172,506 *|* /Reviews/: 3,768 *|* /Favs/: 4,263 *|* /Follows/: 3,352 *|* /Updated/: 8/24/2013 *|* /Published/: 10/21/2012 *|* /Status/: Complete *|* /id/: 8629685 *|* /Language/: English *|* /Genre/: Drama *|* /Characters/: Harry P., Luna L. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8629685&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8629685&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1499368189.0
+:DateShort: 2017-Jul-06
+:END:

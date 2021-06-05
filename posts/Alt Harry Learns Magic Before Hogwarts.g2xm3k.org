@@ -1,0 +1,171 @@
+#+TITLE: Alt Harry Learns Magic Before Hogwarts
+
+* Alt Harry Learns Magic Before Hogwarts
+:PROPERTIES:
+:Author: RowanWinterlace
+:Score: 20
+:DateUnix: 1587110295.0
+:DateShort: 2020-Apr-17
+:FlairText: Prompt
+:END:
+Harry Potter was initially quite interested in DnD as a wee lad. However a few things got in the way of his enjoyment:
+
+▪︎ First: his aunt and uncles disposition towards anything related to magic and the supernatural. He couldn't risk being caught looking at it.
+
+▪︎Second: Nobody he knew was remotely interested in explaining it to him or playing with him. Particularly playing with HIM.
+
+And,
+
+▪︎Third: His cousin and his friends considered it a nerd activity, and Harry didn't need any further reason to have them target him.
+
+So he would quietly read what he could from the tattered guides and expansions he found in second-hand stores and the library. Until he wished he could cast Animate Object and successfully spruced up Aunt Petunia's garden without actually lifting a finger to use any of the equipment provided.
+
+Further experimentation lead to the realisation that he must be a Sorcerer or Wizard, and his Aunt and Uncle kept him from DnD (and magic in general) because they knew he could do it too.
+
+In retaliation, he immediately skipped to 9th Level magic and found it just as easy as the 1st-3rd spells he'd been experimenting with.
+
+What will the wizarding world do with a Harry Potter who (amongst other things) can cast Wish?
+
+What will Harry do with the magical world?
+
+
+** Okay... this sounds fun. I'll bite (and maybe work some of this into the fic I'm planning).
+
+I know 5E came out in 2014, but it's the one I'm most familiar with, so let's go with that, shall we? I'll change things up a bit, to better work with 5E and my understanding of it, hope you don't mind.
+
+Harry, as per your idea, decides on either Wizard or Sorcerer. I'm going to go with [[https://www.dndbeyond.com/classes/sorcerer][Sorcerer]] because I think Harry deciding he's /not/ a wizard is funnier. And it makes sense. Wizards have to study magic, learn how it works. Harry didn't do that, so his magic must be innate. Hence: Sorcerer.
+
+Next, Harry has to ask two questions: what race and what subclass is he? He'd probably settle on Human, as most of the others can be discarded just be a simple investigation. Now, subclass is where this gets fun. For me at least.
+
+I choose [[https://www.dndbeyond.com/classes/sorcerer#ShadowMagic][Shadow Magic]] for subclass, as this has some fun quirks, side effects, and features. (Although Divine Soul includes the option of your birth being part of a prophecy, and that's more on accurate to canon.)
+
+I say Harry chooses this because of his dark cupboard. He must be in there because he needs to be encased in shadows!
+
+A Shadow Sorcerer is encouraged to roll a d6, one that will define a Quirk for them, from the following.
+
+#+begin_quote
+  1 You are always icy cold to the touch.
+
+  2 When you are asleep, you don't appear to breathe (though you must still breathe to survive).
+
+  3 You barely bleed, even when badly injured.
+
+  4 Your heart beats once per minute. This event sometimes surprises you.
+
+  5 You have trouble remembering that living creatures and corpses should be treated differently.
+
+  6 You blinked. Once. Last week.
+#+end_quote
+
+Any of these sounds like they'd cause some fun reactions to people. Except 5, that's just weird.
+
+By 20th Level Shadow mages have 120 feet of Darkvision, can cast the [[https://www.dndbeyond.com/spells/darkness][Darkness]] spell (and have the option of using it differently because they're Shadow Sorcerers), can occasionally go to 1hp instead of 0hp, can summon a ghost dog, can teleport from shadow to shadow within 120 feet and line of sight, and can turn into a ghost.
+
+All cool stuff, yeah? Well, it gets a better, because that's only class features. Let's talk [[https://www.dndbeyond.com/spells/class/sorcerer?sort=level][/spells/]].
+
+Cantrips: Control Flames lets him control non-magic fire. Dancing Flames gives him four magic lights. Light lets him turn any item he wants into a lamp. Mending lets him fix up small damages. And Prestidigitation is just a whole lot of stuff.
+
+First Level: Comprehend Languages does what it says on the tin, useful if you're talking to Goblins who don't want you to know what they're saying. Detect Magic also does the same, but might just point out that his scar is a bit funny. Feather Fall stops him from breaking his body when he jumps/falls off things. Sleep knocks things out.
+
+Second Level: The Darkvision spell lets you give Darkvision to /other/ people, so now all your friends can see in the dark. [[https://www.dndbeyond.com/spells/detect-thoughts][Detect Thoughts]] is an interesting spell that is a bit too involved to explain in a list like this.
+
+Third Level: Tongues lets you /speak/ other languages, sort of. Water Breathing does what it says. Water Walk lets you pretend to be Jesus.
+
+Fourth Level: [[https://www.dndbeyond.com/spells/polymorph][Polymorph]] is a fun spell that lets you turn people into animals for an hour.
+
+Fifth Level: [[https://www.dndbeyond.com/spells/animate-objects][Animate Objects]] is not unlike the one you said in the OP, I guess they reworked it. Hold Monster stops monsters from moving. [[https://www.dndbeyond.com/spells/class/sorcerer?sort=level][Teleport Circle]] could work as an alternative to the Floo if Harry has a few years to set it all up (if we're sticking to the rules).
+
+Sixth Level: True Seeing allows you to, quote, "see things as they actually are", unquote.
+
+Seventh Level: [[https://www.dndbeyond.com/spells/teleport][Teleport]] is a bit like Apparation, but with some interesting things that could happen.
+
+Ninth Level: [[https://www.dndbeyond.com/spells/gate][Gate]] is yet /more/ teleportation stuff, now with portals. Mass Polymorph lets you turn up to ten people into animals for an hour. Time Stop /stops time/. And [[https://www.dndbeyond.com/spells/wish][Wish]] is... Wish.
+
+I'll stop here, as this is getting a bit long, but let me know if you want me to cover backstories, feats, and the like. They'd all add more to the "Character" of Harry Potter.
+
+I may return anyway, and talk about how a Harry that works like this goes at Hogwarts.
+:PROPERTIES:
+:Author: StarOfTheSouth
+:Score: 19
+:DateUnix: 1587124578.0
+:DateShort: 2020-Apr-17
+:END:
+
+*** If we're going off anachronistic systems, I'll point out that Pathfinder has a class called Arcanist, which is basically someone who was born with a Sorcerer's inborn magical ability... who then studied magic like a wizard would. They're basically Wizards, but with slightly /fewer/ spells per day (because they have to do independent research to get spells to work with their unique bloodline), but they get a bunch of bizarre abilities that they can fuel with their spells.
+:PROPERTIES:
+:Author: ForwardDiscussion
+:Score: 6
+:DateUnix: 1587139966.0
+:DateShort: 2020-Apr-17
+:END:
+
+**** Sounds good, a bit more appropriate to canon. Although, that wasn't my aim (also I don't know Pathfinder all that well). I openly admitted that Divine Soul Sorcerer would be more accurate due to flavor text.
+
+I was going on the assumption that this all works because Harry /thinks/ it works, after some accidental magic that he misidentifies as from DnD. If Harry's belief helps shape this then you have to consider what he /thinks/ he is, not what he /actually/ is.
+
+Sorcerer because his magic must be innate. But you could go for some flavours of Warlock, Priest, Druid, or even Bard if you really wanted to be different.
+
+Shadow Magic because of his dark cupboard, although you could go for Draconic Bloodline or Wild Magic.
+
+Human was the race of choice because nearly all the others can be discarded by checking his skin colour. Although that doesn't discount the possibility of being a Half-Elf, a really short Goliath, a Changeling, or any number of things under the effects of a spell such as True Polymorph.
+:PROPERTIES:
+:Author: StarOfTheSouth
+:Score: 2
+:DateUnix: 1587172588.0
+:DateShort: 2020-Apr-18
+:END:
+
+
+** The closest you'll get is linkffn(and the natural twenty), which is sadly a bit shit because it's a gary stu self insert type deal, and linkffn(and the hermetic arts) which is good in a sense, but sadly has a protagonist that self-describes as "sarcastic" and doesn't delve into the systems at all.
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 3
+:DateUnix: 1587128252.0
+:DateShort: 2020-Apr-17
+:END:
+
+*** u/StarOfTheSouth:
+#+begin_quote
+  doesn't delve into the systems at all.
+#+end_quote
+
+That's the annoying part of that fic, even when he teaches Hermione it basically amounts to "it just works".
+
+I have half a mind to do a similar fic based on DnD 5E (ignore that it came out in 2014, it's the one I know best) and actually try and reconcile the two conflicting magics.
+
+More realistically though: DnD elements will slip into the crossover I'm writing.
+:PROPERTIES:
+:Author: StarOfTheSouth
+:Score: 6
+:DateUnix: 1587130872.0
+:DateShort: 2020-Apr-17
+:END:
+
+
+*** [[https://www.fanfiction.net/s/8096183/1/][*/Harry Potter and the Natural 20/*]] by [[https://www.fanfiction.net/u/3989854/Sir-Poley][/Sir Poley/]]
+
+#+begin_quote
+  Milo, a genre-savvy D&D Wizard and Adventurer Extraordinaire is forced to attend Hogwarts, and soon finds himself plunged into a new adventure of magic, mad old Wizards, metagaming, misunderstandings, and munchkinry. Updates monthly.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{+} ^{Dungeons} ^{and} ^{Dragons} ^{Crossover} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{74} ^{*|*} ^{/Words/:} ^{314,214} ^{*|*} ^{/Reviews/:} ^{6,616} ^{*|*} ^{/Favs/:} ^{6,666} ^{*|*} ^{/Follows/:} ^{7,508} ^{*|*} ^{/Updated/:} ^{8/2/2018} ^{*|*} ^{/Published/:} ^{5/7/2012} ^{*|*} ^{/id/:} ^{8096183} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8096183&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8096183&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[https://www.fanfiction.net/s/13230151/1/][*/Harry Potter and the Hermetic Arts/*]] by [[https://www.fanfiction.net/u/12128575/HaikenEdge][/HaikenEdge/]]
+
+#+begin_quote
+  Harry Potter discovers the Player Handbook for Advanced Dungeons and Dragons, 2nd Edition after experiencing accidental magic and realizes he may have magic. Directed to a hobby shop, he develops his own style of magic based on tabletop RPGs and comics. Then, he gets his Hogwarts letter. Dark!Indie!Sarcastic!Paranoid!Pragmatic!Harry. Rated M for language and graphic violence.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{31} ^{*|*} ^{/Words/:} ^{121,781} ^{*|*} ^{/Reviews/:} ^{1,074} ^{*|*} ^{/Favs/:} ^{3,118} ^{*|*} ^{/Follows/:} ^{3,304} ^{*|*} ^{/Updated/:} ^{12/25/2019} ^{*|*} ^{/Published/:} ^{3/10/2019} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{13230151} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Humor/Adventure} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Hermione} ^{G.,} ^{Neville} ^{L.,} ^{Fay} ^{D.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13230151&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13230151&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1587128274.0
+:DateShort: 2020-Apr-17
+:END:

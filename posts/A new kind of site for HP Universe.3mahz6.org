@@ -1,0 +1,97 @@
+#+TITLE: A new kind of site for HP Universe?
+
+* A new kind of site for HP Universe?
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1443152558.0
+:DateShort: 2015-Sep-25
+:FlairText: Discussion
+:END:
+[deleted]
+
+
+** [[http://scryer.darklordpotter.net/]] combined with reviewing on DLP solves most of these, I think.
+
+Some thoughts -
+
+1) There are far too many fanfics for user-submitted tags to work out in any meaningful way. You might be better off combing or scraping data from forums and reviews and whatnot to automate the process of finding tags. Still, this is quite difficult to implement.
+
+2) DarkLordPotter and Scryer basically does all of this. Downloads can be done through po0dy-files, so those two parts are easier, you should just be able to create a wrapper for them. Again, user-submitted tags simply won't work out with 700k+ /Harry Potter fics alone/ on FFnet. Combing the internet for alternative review sites and trackers might be difficult, so that's where user-submitted links might work out.
+
+3) DarkLordPotter and this subreddit
+
+4) Check out Scryer
+
+5) Sounds like bookmarks to me!
+
+Either way if you want to make one of these I'm willing to help out here and there, and I'm sure others are too.
+:PROPERTIES:
+:Author: tusing
+:Score: 7
+:DateUnix: 1443161919.0
+:DateShort: 2015-Sep-25
+:END:
+
+
+** Hey, considering I suggested the first idea, I'd like to clarify. What I wanted was absolutely "Netflix style" than Pandora - you input your list of favorites, it gives you suggestions based on other people's lists whose favorites overlap with yours.
+:PROPERTIES:
+:Author: Imborednow
+:Score: 2
+:DateUnix: 1443186277.0
+:DateShort: 2015-Sep-25
+:END:
+
+*** Something like that exists and has been [[http://82.165.137.110/fanfictionsearch/ffsearch.php][linked]] before on this sub.
+:PROPERTIES:
+:Author: Riversz
+:Score: 2
+:DateUnix: 1443186918.0
+:DateShort: 2015-Sep-25
+:END:
+
+**** After going through that website quickly, it has a number of flaws: Most importantly that it doesn't give you a description of the fic directly on the page.
+
+An annoying, but not quite as awful flaw is that I can't filter out fics from other fandoms (half of the suggestions it gave me are Naruto fics, despite the fact that I've never read one.)
+:PROPERTIES:
+:Author: Imborednow
+:Score: 2
+:DateUnix: 1443196611.0
+:DateShort: 2015-Sep-25
+:END:
+
+***** Ow I agree on those flaws (and a few others), just thought it might be nice for you to know of.
+:PROPERTIES:
+:Author: Riversz
+:Score: 1
+:DateUnix: 1443197212.0
+:DateShort: 2015-Sep-25
+:END:
+
+
+** I like the user-submitted tags. searching for vamp!hermione and excluding BSDM (seriously, almost every vamp!hermione story I find ends up with that) for example would be useful.
+
+As for the pandora-like idea, if I like a story I tend to look at the author's page and there are often similarly themed stories in their favourites. That is, on ffn at least.
+:PROPERTIES:
+:Author: Riversz
+:Score: 2
+:DateUnix: 1443186616.0
+:DateShort: 2015-Sep-25
+:END:
+
+
+** I think that the last.fm model is more suited than that of Pandora, but I generally support this idea.
+:PROPERTIES:
+:Author: Almavet
+:Score: 1
+:DateUnix: 1443177942.0
+:DateShort: 2015-Sep-25
+:END:
+
+
+** I would love something like 1 and 3 combined. Each story has recommendedations like pandora, but also its own thread for dissuasion.
+:PROPERTIES:
+:Author: kyuubifire
+:Score: 1
+:DateUnix: 1443156998.0
+:DateShort: 2015-Sep-25
+:END:

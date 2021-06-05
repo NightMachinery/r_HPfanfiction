@@ -1,0 +1,1123 @@
+#+TITLE: House-elves and magical slavery
+
+* House-elves and magical slavery
+:PROPERTIES:
+:Author: Taure
+:Score: 24
+:DateUnix: 1530019157.0
+:DateShort: 2018-Jun-26
+:FlairText: Discussion
+:END:
+I've been considering house-elf slavery recently. In particular, two facts stand out to me:
+
+Firstly, in CoS, Dobby is able to visit Harry. He knows this is a betrayal of his master, but he is able to do it anyway. Crucially, he is not magically prevented from doing so, but he will punish himself for it afterwards.
+
+Secondly, in GoF, Winky is able to leave Barty Crouch Sr's tent, which is contrary to his explicit orders:
+
+#+begin_quote
+  “Winky has behaved tonight in a manner I would not have believed possible,” he said slowly. “I told her to remain in the tent. I told her to stay there while I went to sort out the trouble. And I find that she disobeyed me. This means clothes.”
+
+  “No!” shrieked Winky, prostrating herself at Mr. Crouch's feet. “No, master! Not clothes, not clothes!”
+#+end_quote
+
+Now, it is common in the fandom to represent house-elves as being magically enslaved, and magically bound to follow their master's commands. But these two examples, and especially the Winky example, directly contradict that.
+
+The inescapable conclusion, it seems to me, is that *there is no magic binding house-elves to their wizarding masters*. Rather, it is simply that House Elves have such a strong culture of obedience that house-elves self-enforce their own slavery. This culture is so strong that even house-elves who hate their masters, such as Dobby and Kreacher, will keep themselves in slavery and obedience, using loopholes to disobey rather than being directly disobedient. Winky's words in the stadium take on new light when you consider this:
+
+#+begin_quote
+  “Master - master wants me to save him a seat, Harry Potter. He is very busy,” said Winky, tilting her head toward the empty space beside her. “Winky is wishing she is back in master's tent, Harry Potter, but Winky does what she is told. Winky is a good house-elf.”
+#+end_quote
+
+This wording further indicates that Winky has a choice whether to obey or not, and that it is her desire to be a "good house-elf" which results in her obeying, not any kind of magical coercion. This jives well with Dobby's punishing himself in CoS: house-elves can disobey and act contrary to their master's will, but they consider themselves bad house-elves for doing so.
+
+Once you have this idea in mind, a few other things begin to make sense.
+
+For example, Hermione in GoF initially focuses her SPEW efforts on the house-elves themselves. If the house-elves were magically bound into service, then trying to convince them of the value of their freedom would be pointless. It would be the wizarding masters you would have to convince. But if the slavery of the house-elves is self-enforced, then of course convincing the house-elves themselves would be the most direct route to their freedom. They could just walk away from their masters.
+
+Another example is that it solves the "laundry dilemma". The laundry dilemma is this: handing house-elves clothes frees them. But then how do house-elves do the laundry? One potential solution was that it has to be the intentional handing of clothes to the house-elf, but this contradicts Lucius' accidental freeing of Dobby. But with the knowledge that house-elf slavery is self-enforced, we can see how flexibility enters the system. Dobby is free because he is exploiting a loophole to excuse that which he desired to do anyway. Regular house-elves are not freed by doing the laundry because they do not consider themselves as having been freed. Essentially it's down to the personal interpretation of the house-elf in question.
+
+There are a couple of counter-quotes that could be used to argue against this position and support the view that house-elves are magically enslaved. The two biggest are (a) Kreacher's obedience being used to test Harry's inheritance of Grimmauld Place, and (b) Kreacher not being able to bertray the Order's secrets even though he dearly wanted to.
+
+But I don't think these examples are sufficiently persuasive of the "magical binding" view. Both situations are adequately explained by house-elves being so heavily devoted to the culture of servitude that they consider themselves bound, despite the lack of external constraints.
+
+One important implication of house-elves not being magically bound is that it changes the nature of wizards' moral obligations from the anti-slavery perspective. The debate on house-elves is essentially around the question "is it morally required to free a slave who wishes to remain enslaved?". That is, should wizards force freedom on the house-elves, even though they don't want it and in fact find the very idea highly distressing?
+
+But wizards cannot actually force house-elves to be free, because it's actually the house-elves enslaving themselves. Wizards can offer house-elves freedom, but they cannot force a house-elf to consider itself free, nor prevent it from re-enslaving itself when given clothes. So the moral obligation on wizards, for those who believe that opposing slavery of non-human intelligent beings is a moral imperative, is not to free the house-elves but rather to help create the conditions in which house-elves will free themselves.
+
+
+** As heated as this thread is, I feel like I should weigh in here. You have done a good job explaining your reasoning, but I think compiling what is known and what is suspected is necessary.
+
+The known:
+
+1. House-elves are always shown in service to wizards/witches, and seem to prefer that (whether it is paid or unpaid), and would almost always prefer staying in the same "lineage" if possible.
+2. House-elves can choose to not do as their master(s) have ordered them, though they would rather not.
+3. House-elves can be compelled via magical contracts of some sort, regardless of their willingness (Kreacher).
+4. House-elves possess a magic that seemingly is not bound to the same "rules" that wizard-magic is.
+5. House-elves obey their masters, but only "have to" to the degree that is specified by their master (Kreacher and Dobby). But they do not always need to do so (Winky).
+
+The suspected (my take):
+
+1. House-elves can be bound, but how common this is remains finicky at best.
+2. Wizards do not possess a way to stop or resist house-elf magic, such that anti-appartion of the strongest caliber appears to be ineffective against them (ex. Hogwarts, the Cave).
+3. Contracts of sorts seem to be real, but how these work is not really clear at all. It appears that house-elves are not a party to these decisions though, or they can be ordered by their masters to take part.
+4. Most wizards/witches appear to either be completely unaware of how capable house-elves are, or simply believe the possibility of defiance is so unlikely it is not worth considering.
+5. Their is some benefit to house-elves of serving, whether this be psychological or more magical in origin.
+
+My thoughts:
+
+From everything in canon, the most logical conclusion I can draw is that house-elves /were/ bound or contracted in the past (or rather this was the norm). But overtime, either through breeding, manipulation, or mental alteration, or sheer foolishness on their part, wizards no longer felt it necessary to "bind" house-elves with magic, though the families still retained the ability to do so.
+
+Alternatively, it may be plausible that they are in fact "bound" to families or masters, but that they can ignore it because wizard-magic does not necessarily stop them from doing things (ex. apparating where they cannot). Dobby for instance may have a contract that simply states he must obey the family, but he can choose when to ignore it if he likes. Winky can be similarly explained. Magicals appear to not worry about loopholes like that, and seem generally inconsiderate of the idea that they could defy their masters (even Hermione thinks they cannot truly change their opinions on their own or think independently unless she makes them).
+
+The issue with house-elves appears to require an understanding of the origin of their service to wizard-kind. This, unfortunately, is not something is known in canon. Its possible they were created by wizards themselves; wizards possess the ability to create entire magical species (ex. acromantulas and basilisks) as well as to breed other magical species to form entirely new creatures (ex. skrewts). They could also be a species that was truly enslaved by wizards, whether through compulsion or coercion. Finally, its actually plausible that house-elves were a species that in fact always desired to serve other beings, possibly as a form of symbiosis. Whether they needed this to survive or not in the past is unknown, but does not seem to be the case by the canon time period.
+:PROPERTIES:
+:Author: XeshTrill
+:Score: 9
+:DateUnix: 1530028505.0
+:DateShort: 2018-Jun-26
+:END:
+
+*** Good take. I suspect they were not created by wizards, but simply enslaved in the past. There is some questionably canon content (written by JKR I believe, which suffices for me) which says there was talk of trying to force at least some goblins into house-elf-like servitude. Seems to suggest how the arrangement with elves came about if they could do it again.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 3
+:DateUnix: 1530030600.0
+:DateShort: 2018-Jun-26
+:END:
+
+**** At the end of the day, it appears to me that house-elves can be bound but this is not the norm.
+
+Whether they were enslaved in the past or wizards simply saw how house-elves were and offered them the deal of serving them is not known. Answering the question of their origin is sort of the crux of the matter: it determines whether it is a question of slavery, brainwashing, or magical symbiosis of sorts.
+
+It gets even more complicated if they were "created" or made anew by wizards. Setting aside the idea of patenting magical creatures or creations (which I will not even attempt since we cannot actually answer that in the muggle world), it begs the question of what is it if you own a moderately intelligent creature like that. Owls, for instance, appear to be somewhat magical and reasonably intelligent (they appear to understand and can communicate to a limited degree with humans), but they are considered pets. Ditto for something like Crookshanks (a half-kneazle).
+
+House-elves are "beings" according to the ministry, but what if they were created to be subservient, or even that they were always like that? Is it right to compel them to think differently, especially if they do in fact have a choice? And being given clothes for freedom makes it further problematic: clothes are not a reward but a punishment for house-elves, so it calls into question whether this is something house-elves believe about themselves or whether it is a magical aspect of their very existence.
+:PROPERTIES:
+:Author: XeshTrill
+:Score: 1
+:DateUnix: 1530031348.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+** [[/u/MindForgedManacle][u/MindForgedManacle]] [[/u/Starfox5]] [[/u/jenorama_CA][u/jenorama_CA]] [[/u/Alloud99][u/Alloud99]] [[/u/viper5delta][u/viper5delta]]
+
+Looks like I was wrong - Sesc has located the following quote from OotP:
+
+#+begin_quote
+  "Oh, yes," said Dumbledore. "You see, Kreacher was not able to betray us totally. He is not Secret Keeper for the Order, he could not give the Malfoy's our whereabouts, or tell them any of the Order's confidential plans that he had been forbidden to reveal. *He was bound by the enchantments of his kind, which is to say that he could not disobey a direct order from his master, Sirius*. But he gave Narcissa information of the sort that is very valuable to Voldemort, yet must have seemed much too trivial for Sirius to think of banning him from repeating it."
+#+end_quote
+
+So I think this is just going to have to be one of those areas of canon which is internally inconsistent. A house-elf disobeys an order in GoF but in OotP Dumbledore notes house-elves are magically bound to obey. Oh well. It does, at least, give fanfic writers more scope to do what they like with it.
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1530103136.0
+:DateShort: 2018-Jun-27
+:END:
+
+
+** u/MindForgedManacle:
+#+begin_quote
+  But I don't think these examples are sufficiently persuasive of the "magical binding" view. Both situations are adequately explained by house-elves being so heavily devoted to the culture of servitude that they consider themselves bound, despite the lack of external constraints.
+#+end_quote
+
+Well without an argument for how this is true I don't see how this isn't just dismissing counter evidence. It's clearly written that Kreacher was being made to do that. Kreacher wished to betray the Orrder to Narcissa and Bellatrix far more than he wanted to obey Sirius, evidenced by the fact that he immediately took an order that could be interpreted as being told to leave, even though it required him to disobey other orders (like not revealing their secrets).
+
+And further, one can argue that being made to harm oneself for disobedience doesn't negate being enslaved. Dobby refers to them as being enslaved, in any case.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 8
+:DateUnix: 1530020275.0
+:DateShort: 2018-Jun-26
+:END:
+
+*** My argument is that the "evidence" under-determines the outcome. Kreacher being "made" to do something can be equally explained by
+
+A) a self-enforced belief that he was bound to follow orders and
+
+B) a magical compulsion to do so.
+
+Your noting that Kreacher wished to betray the order but didn't do so isn't really a counter-argument. House-elves being forced to do things they don't like is canon and noted in my OP. The question is the source of that obligation. The fact that the source is effective in binding house-elves' behaviour does not necessitate a magical binding. A social obligation explains the behaviour just as well - as evidenced by real life slavery. House-elves just go a step further in having a culture where even disgruntled slaves continue to respect the institution of slavery, and seek freedom/disobedience from within the framework of that institution.
+
+It's not dismissing the evidence; it's noting that the evidence supports both conclusions equally. Since it doesn't favour one interpretation over the other, then it doesn't work as a counter-argument against the other, quite explicit evidence that house-elves can directly disobey their masters.
+
+#+begin_quote
+  And further, one can argue that being made to harm oneself for disobedience doesn't negate being enslaved. It's a bit like saying a slave on a plantation who technically could have run away, but didn't, isn't really a slave. Even if they like it (made to desire it, that is), it doesn't change what the thing is. Dobby refers to them as being enslaved, in any case.
+#+end_quote
+
+No one is saying that house-elves are not slaves. The argument is about whether they are /magical/ slaves or simply legally/culturally slaves.
+:PROPERTIES:
+:Author: Taure
+:Score: 12
+:DateUnix: 1530020724.0
+:DateShort: 2018-Jun-26
+:END:
+
+**** u/MindForgedManacle:
+#+begin_quote
+  The question is the source of that obligation.
+#+end_quote
+
+I'm arguing the source of that is magical. House elves are magically enslaved. Kreacher was made to follow orders magically. As Sirius says, they have to follow orders, not simply choose to. And even with Harry's correct reply, they can disobey orders but cannot stop themselves from self-harm afterwards. Kreacher wanted to disobey Sirius and harm the Order. He didn't simply feel obligated to do so because he had something like a moral compulsion to do so, he was constantly trying to find a loophole to stay consistent with the enchantment, meaning obedience was enforced not simply complied with. Dobby didn't want to harm himself when disobeying the Malfoys (notice he thanks Harry for stopping him from self-harm after being freed), but does it anyway. Whatever the "laws of house-elves" are, they appear to be magical in nature, not simply social or moral norms house-elves can simply desire to uphold.
+
+#+begin_quote
+  No one is saying that house-elves are not slaves. The argument is about whether they are magical slaves or simply legally/culturally slaves.
+#+end_quote
+
+I'm saying they're magical slaves.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 5
+:DateUnix: 1530023801.0
+:DateShort: 2018-Jun-26
+:END:
+
+***** This is a lot of assertion without any real argumentation. Why do you think the Kreacher situation can *only* be explained by a magical bond and not a cultural one? And how do you reconcile it with Winky directly disobeying an explicit order from her master in GoF?
+
+As I see it, we have one section of canon which is explicit that house-elves can disobey their masters if they choose, and then a collection of ambiguous quotes which can support either magical service or cultural service. So the balance of evidence is very much in favour of cultural service.
+:PROPERTIES:
+:Author: Taure
+:Score: 7
+:DateUnix: 1530024030.0
+:DateShort: 2018-Jun-26
+:END:
+
+****** u/MindForgedManacle:
+#+begin_quote
+  Why do you think the Kreacher situation can only be explained by a magical bond and not a cultural one?
+#+end_quote
+
+Because he was doing everything he could not to obey Harry including outright denial, but as Dumbledore said, he was compelled to do so anyway because he passed from Sirius to Harry. Can you show any cultural norm that works that way? Dumbledore wouldn't have been as concerned if Harry was Kreacher's true master or not if he wasn't magically compelled to obey.
+
+#+begin_quote
+  And how do you reconcile it with Winky directly disobeying an explicit order from her master in GoF?
+#+end_quote
+
+She disobeyed but had to harm. No one disputes that house elves can disobey (Dobby does it all of CoS), but they appear to have so make themselves suffer to do so. And this appears to be magically enforced in nature since, as with Dobby in GoF, he thanked Harry for stopping him. This means he never wanted to hurt himself and needed a third party to stop him from what made him do so. That's not a cultural norm.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 5
+:DateUnix: 1530024506.0
+:DateShort: 2018-Jun-26
+:END:
+
+******* u/Taure:
+#+begin_quote
+  Because he was doing everything he could not to obey Harry including outright denial, but as Dumbledore said, he was compelled to do so anyway because he passed from Sirius to Harry. Can you show any cultural norm that works that way? Dumbledore wouldn't have been as concerned if Harry was Kreacher's true master or not if he wasn't magically compelled to obey.
+#+end_quote
+
+But all this amounts to is noting that Kreacher was compelled. It still doesn't indicate the source of that compulsion. That Kreacher didn't want Harry to be his master but nonetheless obeys him doesn't really show a magical compulsion, just that the compulsion is powerful.
+
+I'm not familiar with any example of real world slaves who wanted to be free nonetheless choosing to remain slaves, not out of fear of the consequences of fleeing, but out of respect for the institution. I'm sure there were a few "Uncle Toms" out there but that's not quite the same, as they didn't want to be free. In any case, it doesn't mean that a fantasy culture cannot have those values, especially when it is a culture of another species.
+
+I suppose the closest real-life culture is the military chain of command, where soldiers will zealously obey orders that they disagree with. But again, it's not quite the same.
+
+#+begin_quote
+  She disobeyed but had to harm.
+#+end_quote
+
+Winky didn't punish herself for that incident. (Except with alcoholism).
+
+#+begin_quote
+  No one disputes that house elves can disobey, but they appear to have so make themselves suffer to do so. And this appears to be magically enforced in nature since, as with Dobby in GoF, he thanked Harry for stopping him. This means he never wanted to hurt himself and needed a third party to stop him from what made him do so. That's not a cultural norm.
+#+end_quote
+
+I think this is an overly narrow view of what determines behaviour. If I'm having a panic attack and someone helps me out of it, does that mean my panic attack was magically enforced? No, it just means that I was in the grip of my own psychological vulnerabilities.
+
+Punishment appears to be entirely self-enforced as well, as Dobby is the one who determines what actions do and don't constitute those worthy of punishment, as well as the form the punishment takes. Indeed, even if house-elf slavery is a magical bond, I don't think there's any reason to think that the self-punishment behaviour was part of that magical bond.
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1530025133.0
+:DateShort: 2018-Jun-26
+:END:
+
+******** u/MindForgedManacle:
+#+begin_quote
+  But all this amounts to is noting that Kreacher was compelled. It still doesn't indicate the source of that compulsion.
+#+end_quote
+
+[..]
+
+#+begin_quote
+  In any case, it doesn't mean that a fantasy culture cannot have those values, especially when it is a culture of another species.
+#+end_quote
+
+What I mean is that any Enforcement that works that way is not cultural. Cultural norms are enforced socially through peer pressure, community/familial shaming, laws and individual moral beliefs. Kreacher believed following loyal Blacks was correct (and "loyal" pure-bloods generally, presumably). However, he did not want to obey Sirius or Harry. No one who mattered to him would shame him for disobeying them. There were no known legal consequences for doing so (depending on what house elf laws are). And so on. It simply doesn't fit a cultural norm, he was compelled by an outside source, made clear, I think, by the description of him /resisting/ obeying Harry.
+
+#+begin_quote
+  Winky didn't punish herself for that incident.
+#+end_quote
+
+I think that was because she was stunned right afterward, and in any case, it seems to have been an instance where she had 2 conflicting orders: stay in the tent and don't allow anyone to learn about Crouch Jr.
+
+#+begin_quote
+  If I'm having a panic attack and someone helps me out of it, does that mean my panic attack was magically enforced? No, it just means that I was in the grip of my own psychological vulnerabilities.
+#+end_quote
+
+That's not a valid comparison, panic attacks aren't brought on by oneself. That elves seem to have a common reaction to disobedience suggests (unless we're going to say it's coincidental) it's the magic of their laws that make them do so.
+
+#+begin_quote
+  Dobby is the one who determines what actions do and don't constitute those worthy of punishment
+#+end_quote
+
+Hm? He and Kreacher seem to do exactly the same in this regard: Disobedience entails having to punish. The only real determination they do is if they can exploit commands that weren't made rigid enough to preclude creative interpretations.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 4
+:DateUnix: 1530026411.0
+:DateShort: 2018-Jun-26
+:END:
+
+********* u/Taure:
+#+begin_quote
+  What I mean is that any Enforcement that works that way is not cultural. Cultural norms are enforced socially through peer pressure, community/familial shaming, laws and *individual moral beliefs.* Kreacher believed following loyal Blacks was correct (and "loyal" pure-bloods generally, presumably). However, he did not want to obey Sirius or Harry. No one who mattered to him would shame him for disobeying them. There were no known legal consequences for doing so. And so on. It simply doesn't fit a cultural norm, he was compelled by an outside source, made clear, I think, by the description of him resisting obeying Harry.
+#+end_quote
+
+I highlighted individual moral beliefs as this is the way I am saying house-elves self-enforce their culture of servitude. You note that Kreacher did not want to obey Harry. This is not disputed. You also note that Kreacher preferred the other members of the Black family to Sirius. This is also not disputed.
+
+However, what I am saying is that Kreacher has another belief which trumps all of those: the belief that he must obey his master. It is this belief which explains his behaviour without any need for a magical compulsion.
+
+#+begin_quote
+  Hm? He and Kreacher seem to do exactly the same in this regard: Disobedience entails having to punish. The only real determination they do is if they can exploit commands that weren't made rigid enough to preclude creative interpretations.
+#+end_quote
+
+The issue is what counts as "disobedience". For example, Dobby considers speaking ill of his master as a punishable offence, but Kreacher clearly does not.
+:PROPERTIES:
+:Author: Taure
+:Score: 9
+:DateUnix: 1530026708.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+******** u/jenorama_CA:
+#+begin_quote
+  I'm not familiar with any example of real world slaves who wanted to be free nonetheless choosing to remain slaves
+#+end_quote
+
+This is a very interesting thread, but this in particular reminded me of some recent articles I've read about Sally Hemings who was Thomas Jefferson's slave. In addition to being his slave, she was the mother of several of his children, which I knew, and also his late wife's half-sister, something I did not know.
+
+Sally was with Jefferson in Paris and she /could/ have had her freedom as slavery was illegal there, but she chose to remain Jefferson's slave when he promised that their children would be freed upon reaching adulthood. That is one concrete case where someone who wanted to be free and could have been free chose to remain a slave.
+
+Jefferson's home, Monticello, has long been a historical site and is finally grappling with the paradox that is the man who said, "All men are created equal," yet kept his own wife's sister in bondage.
+
+[[https://www.nytimes.com/2018/06/16/us/sally-hemings-exhibit-monticello.html]]
+
+[[https://www.nytimes.com/2018/06/15/opinion/sally-hemings-monticello-thomas-jefferson.html]]
+
+[[https://www.nytimes.com/2018/06/16/us/jefferson-sally-hemings-descendants.html]]
+
+Edited to add:
+
+Also, on a recent trip to DC, I went to Mt Vernon, Washington's home and plantation. I knew that he owned slaves, but being faced with it was a whole other thing. Mt Vernon has an excellent, in-depth exhibit about Washington and slavery and his conflicted feelings and behavior. In the early days of the US, the capital was Philadelphia in Pennsylvania. Pennsylvania was founded by the Quakers and slavery was illegal there. If a slave was in Pennsylvania for more than 6 months, they were automatically freed. Washington of course knew this and purposely cycled his household slaves in and out of Pennsylvania when he was in Philadelphia so none of them were there the required 6 months. One of the household slaves, Martha Washington's lady's maid, took advantage of this and the confusion of the 6 month transition and walked away, remaining free the rest of her life.
+
+George Washington's own valet ran away but was recaptured and was at his master's bedside when he died and was one of the few slaves freed upon Washington's death. The rest of the slaves he personally owned (most of the slaves at Mt Vernon were Martha's dower slaves) were to be freed upon Martha's death. Feeling the burden of that, she freed them 2 years after Washington's passing. Her dower slaves were never freed.
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 2
+:DateUnix: 1530032312.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+** I think the problem in this is that Kreacher didn't seem to acknowledge Harry as his master but was forced to follow his orders, even though he insisted that Bellatrix is his mistress. Dumbledore says that if Kreacher passed into Harrys ownership, he would have to obey him. But nobody really was sure if Bellatrix or Harry owned Kreacher.
+
+#+begin_quote
+  “Kreacher,” finished Dumbledore.
+
+  “Kreacher won't, Kreacher won't, Kreacher won't!” croaked the house-elf, quite as loudly as Uncle Vernon, stamping his long, gnarled feet and pulling his ears. *“Kreacher belongs to Miss Bellatrix, oh yes, Kreacher belongs to the Blacks, Kreacher wants his new mistress, Kreacher won't go to the Potter brat, Kreacher won't, won't, won't ---”*
+
+  “As you can see, Harry,” said Dumbledore loudly, over Kreacher's continued croaks of “wont, won't, won't,” “Kreacher is showing a certain reluctance to pass into your ownership.”
+
+  “I don't care,” said Harry again, looking with disgust at the writhing, stamping house-elf. “I don't want him.”
+
+  “Won't, won't, won't, won't ---”
+
+  “You would prefer him to pass into the ownership of Bellatrix Lestrange? Bearing in mind that he has lived at the headquarters of the Order of the Phoenix for the past year?”
+
+  “Won't, won't, won't, won't ---”
+
+  Harry stared at Dumbledore. He knew that Kreacher could not be permitted to go and live with Bellatrix Lestrange, but the idea of owning him, of having responsibility for the creature that had betrayed Sirius, was repugnant.
+
+  “Give him an order,” said Dumbledore. “If he has passed into your ownership, he will have to obey. If not, then we shall have to think of some other means of keeping him from his rightful mistress.”
+
+  “Won't, won't, won't, WON'T!”
+
+  Kreacher's voice had risen to a scream. Harry could think of nothing to say, except,
+
+  “Kreacher, shut up!”
+
+  It looked for a moment as though Kreacher was going to choke. He grabbed his throat, his mouth still working furiously, his eyes bulging. After a few seconds of frantic gulping, he threw himself face forward onto the carpet (Aunt Petunia whimpered) and beat the floor with his hands and feet, giving himself over to a violent, but entirely silent, tantrum. “Well, that simplifies matters,” said Dumbledore cheerfully. “It means that Sirius knew what he was doing. You are the rightful owner of number twelve, Grimmauld Place and of Kreacher.”
+#+end_quote
+
+This would only make sense if Kreacher was magically informed who his owner is and was just in denial.
+:PROPERTIES:
+:Score: 7
+:DateUnix: 1530021623.0
+:DateShort: 2018-Jun-26
+:END:
+
+*** I'm not convinced that this is explained only by a magical enforcement. It seems to me that it is equally explained by Kreacher knowing that Harry is his master by the rules of inheritance, and deeply regretting this situation, but nonetheless continuing to respect the institution of house-elf slavery so that he considers himself bound to obey Harry. This is, after all, an elf whose main ambition in life is to be beheaded by his master.
+
+It's really not very different from the situation with Sirius, where Kreacher considered himself bound to obey a master he hated, but was willing to exploit any ambiguities to disobey. The same with Dobby and Lucius Malfoy.
+
+If it /is/ magical binding, then the result is simply that canon contradicts itself on this point, with house-elves both able and unable to directly disobey explicit orders. There's really no possible way to interpret the GoF situation with Crouch as anything other than a house-elf disobeying a direct order.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1530021956.0
+:DateShort: 2018-Jun-26
+:END:
+
+**** Your Goblet of Fire Crouch incident argument is flawed, because you're taking Crouch at his word for what he claims his order was. He /claims/ in front of others that he ordered Winky to remain in the tent. We don't see the dialog of his actual order, but it becomes clear at the end of the book that he was lying. His /actual/ order to Winky would likely have been something like "Keep Barty Jr safe." In order to fulfill that order Winky could have decided that Jr would be safer hiding in the woods. He goes to check the bushes where she was found because he knows that Winky /can not/ have disobeyed an order, so Jr must be somewhere nearby too.
+:PROPERTIES:
+:Author: ubercaek
+:Score: 7
+:DateUnix: 1530045269.0
+:DateShort: 2018-Jun-27
+:END:
+
+
+** I don't think it can be just cultural, there would be more dissenters if it were. I'd reckon very few human slaves were ever that fanatically willing to serve.
+
+Alternatively it is possible that the slavery thing isn't some sort of an active spell from the wizard, but rather due to house elf physiology. They are not humans, thus they do not necessarily think anything like a human would, and their motivations might be incomprehensible to us.
+
+Of course it is hard to believe that a mindset like that could come about naturally, but perhaps the house elves were created by wizards with those features in mind? Or perhaps wizards modified some existing species to be like that. We know that its wizards can breed new species.
+
+I don't think it's a spell or a contract, because from what we have seen of contracts in canon (GoF and DA list), they do not make you do something but rather punish you if you break the terms. And while Dobby did punish himself, Winky didn't and also Marietta was punished directly, she wasn't forced to do it herself.
+
+So basically what seems to me most likely that whatever forces the house elves to serve a master and worship working is something thats built into their very being and that it's an hereditary trait and a quirk of the species, that was probably engineered into them by an outside source. Likely wizards since they benefit
+:PROPERTIES:
+:Author: Triflez
+:Score: 3
+:DateUnix: 1530028634.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+** If there was no magical reason for Dobby to be free, why would Lucius treat it as 100% irreversible?
+
+Though, frankly, I don't care either way as long as they explain it and don't spout the drivel about house elves needing enslavement to keep their sanity intact...
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1530041356.0
+:DateShort: 2018-Jun-26
+:END:
+
+*** maybe the bond is something that a house-elf does to themselves. something completely internal to an elf.
+
+imagine for example a spell that forces you to maintain it once you've cast it on yourself. a self-imperious that makes you sustain it. if something like that is in play there is no bond to break but they are bound just the same.
+:PROPERTIES:
+:Author: ForumWarrior
+:Score: 2
+:DateUnix: 1530045217.0
+:DateShort: 2018-Jun-27
+:END:
+
+
+** You argue persuasively for the existence of a cultural impetus for house-elves to serve, serve well, and be loyal. I don't think your argument against a magical bond is quite as effective.
+
+#+begin_quote
+  Now, it is common in the fandom to represent house-elves as being magically enslaved, and magically bound to follow their master's commands. But these two examples, and especially the Winky example, directly contradict that.
+#+end_quote
+
+That shows that house-elves are not in general magically bound to obey every order on pain of death. They might be magically bound in less strict ways. Bound not to run away, bound not to hurt their master, bound in a way that causes them physical pain or forces them to punish themselves for disobedience. And the level of binding could be different for different house-elves.
+
+#+begin_quote
+  This wording further indicates that Winky has a choice whether to obey or not, and that it is her desire to be a "good house-elf" which results in her obeying, not any kind of magical coercion.
+#+end_quote
+
+Winky was lying the whole time. She wasn't saving anyone a seat; she was minding Barty Crouch Jr to ensure he didn't run away.
+
+If she had been ordered to ensure there was a seat for Barty Crouch Sr, she could have done that by dropping his coat there and leaving, or by putting up a sign, or by asking someone else to reserve the seat. That would have worked, but not as reliably. Or, if she were outright mutinous, she could have checked that there was a seat available at the moment Crouch Sr asked about it and then scarpered, since one interpretation of the command ("Make sure there's a seat available for me") was fulfilled. Kreacher would probably have done that.
+
+Winky, being a good house-elf, would have stayed there to ensure nobody could take the seat without dealing with a persistent house-elf.
+
+#+begin_quote
+  Secondly, in GoF, Winky is able to leave Barty Crouch Sr's tent, which is contrary to his explicit orders
+#+end_quote
+
+Barty Crouch Sr claimed that, certainly.
+
+#+begin_quote
+  Another example is that it solves the "laundry dilemma". The laundry dilemma is this: handing house-elves clothes frees them. But then how do house-elves do the laundry?
+#+end_quote
+
+The next sentence of that GoF quote:
+
+#+begin_quote
+  Harry knew that the only way to turn a house-elf free was to present it with proper garments.
+#+end_quote
+
+"Present". Dropping a sock on the floor and telling an elf to wash it is probably not presenting them with proper garments. Dobby, despite being mutinous, was unable to free himself simply by picking up a piece of clothing out of a wardrobe or off the floor. He had to be physically handed a sock to be free.
+
+Similarly, the house-elves in Order of the Phoenix found Hermione's plot of surprise freedom to be insulting. Not a threat to their service, just insulting. They weren't being presented with clothing.
+
+#+begin_quote
+  But I don't think these examples are sufficiently persuasive of the "magical binding" view. Both situations are adequately explained by house-elves being so heavily devoted to the culture of servitude that they consider themselves bound, despite the lack of external constraints.
+#+end_quote
+
+Kreacher considered himself to be the property of the Blacks. He considered Harry to be an interloper with no right to the Black inheritance. And still he obeyed. If it were merely culture, I don't think he would have been compelled to obey.
+
+It certainly feels like he was more thoroughly bound and less personally dedicated than Winky was.
+
+#+begin_quote
+  One important implication of house-elves not being magically bound is that it changes the nature of wizards' moral obligations from the anti-slavery perspective. The debate on house-elves is essentially around the question "is it morally required to free a slave who wishes to remain enslaved?"
+#+end_quote
+
+That would still be the case with a magical bond, as long as it were accompanied by a cultural impetus to serve.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1530039558.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+** u/SerCoat:
+#+begin_quote
+  Firstly, in CoS, Dobby is able to visit Harry. He knows this is a betrayal of his master, but he is able to do it anyway. Crucially, he is not magically prevented from doing so
+#+end_quote
+
+Arguably because none of the Malfoys said specifically to Dobby 'You cannot warn Harry Potter of our plan, you cannot prevent Harry Potter from attending Hogwarts, you cannot try and save Harry Potter's life'. Dobby is punishing himself because he knows he would be punished but he's going to continue doing what he does because he doesn't have a specific order telling him to stop.
+
+As for Winky, it's entirely possible that a previous order relating to Barty Junior was able to supersede her order to stay in the tent. Either magically or in the way that people find loopholes to get what they want (the various stories about exams where you could bring whatever notes fitted on a 2 x 5 card. One where a student created a 2 foot by 5 foot canvas because the teacher hadn't indicated inches and another where a student brought in an older or smarter student who stood on the 2 x 5 card to give answers).
+
+#+begin_quote
+  The laundry dilemma is this: handing house-elves clothes frees them. But then how do house-elves do the laundry?
+#+end_quote
+
+Have people never heard of washing baskets? Or the floor?
+
+"The family is careful not to /pass/ Dobby even a sock, sir, for then he would be free to leave their house for ever"
+
+Key word there is pass. That (to me, at least) implies handing a piece of clothing directly from human to elf hands. Not 'dumping your dirty clothes on the floor or in a basket from where the House Elves pick them up'.
+:PROPERTIES:
+:Author: SerCoat
+:Score: 2
+:DateUnix: 1530047987.0
+:DateShort: 2018-Jun-27
+:END:
+
+
+** Dobby can leave to bother Harry because he was never specifically told not to.
+
+Winky can leave the tent because she has conflicting orders. To protect and watch over Barty crouch JR and to stay in the tent. Since Barty was escaping it was obviously impossible to complete both orders.
+
+Kreacher wasn't bound to serve Harry.
+
+There is no instance of a house elf able to ignore a masters orders
+:PROPERTIES:
+:Author: smellinawin
+:Score: 2
+:DateUnix: 1530055355.0
+:DateShort: 2018-Jun-27
+:END:
+
+
+** Kreacher couldn't leave Harry's service and had to serve him. Dobby wanted to be free, and tried everything he could to sabotage Malfoy, but couldn't leave until he received clothes.
+
+I think the "they don't want to leave" argument is wrong. There's a magical compulsion.
+
+And yes, you should force freedom on Elves - they can still serve, but they can leave if they are abused. They do not lose anything but their chains. The moral obligation for any decent being is to abolish slavery. Not to mention that a culture that makes people want to be slaves is sick and evil, and needs to be changed.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 1
+:DateUnix: 1530022308.0
+:DateShort: 2018-Jun-26
+:END:
+
+*** u/Taure:
+#+begin_quote
+  Kreacher couldn't leave Harry's service and had to serve him. Dobby wanted to be free, and tried everything he could to sabotage Malfoy, but couldn't leave until he received clothes.
+#+end_quote
+
+You haven't really engaged with my arguments. I note both these situations in the OP.
+
+We don't know if Kreacher was forced to obey Harry magically, or if he simply considered himself bound to serve despite his personal opinion of Harry.
+
+We don't know if Dobby *couldn't* leave without clothes, or simply *wouldn't* leave without clothes. On that front, I note that even after he is freed, he doesn't advocate that other house-elves are freed, nor does he want "too much" pay or holiday. This is consistent with someone who considered himself bound to seek freedom in the manner accepted by his people, rather than breaking his culture's most deeply held beliefs and views.
+
+If you say that house-elves are magically bound to their masters, how do you explain Crouch Sr telling Winky to stay in the tent, and her then leaving it? We know that she did indeed choose to do so from Crouch Jr's explanation at the end of GoF. Unless you can explain that, the best you can argue is that canon is ambiguous. Certainly nowhere near enough evidence to assert things in such a spectacularly absolute fashion.
+:PROPERTIES:
+:Author: Taure
+:Score: 7
+:DateUnix: 1530022869.0
+:DateShort: 2018-Jun-26
+:END:
+
+**** It really doesn't matter anyway - if there is a cultural compulsion so strong that it forces elves to iron their hands to punish themselves, it's effectively functionally and morally the same as a magical compulsion - evil.
+
+If you raise a person to believe that they have to be a slave, it doesn't make slavery acceptable. And that doesn't change if you raise an entire population in the belief that they have to be slaves.
+
+It is still evil, and the only moral choice is to oppose it - violently if needed.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 4
+:DateUnix: 1530023141.0
+:DateShort: 2018-Jun-26
+:END:
+
+***** There is a legitimate debate to be had, which you are dismissing out of hand, regarding the line between acting morally in how you treat house-elves and acting morally in respecting house-elves' right to self-determination. If they wish to exercise that right to enslave themselves, then there /is/ a moral dilemma at play. It's not a simple matter as you present it.
+
+The key thing with the difference between a magical binding and a cultural one is this:
+
+In a world where house-elves are magically bound as slaves, wizards are morally bound to unilaterally free them, because there is an external constraint on house-elves such that they cannot be free even if they want to be. The above moral dilemma is not engaged, because the magical bonds prevent house-elves from having the right of self-determination.
+
+In a world where house-elves' own culture and decisions have them consider themselves bound to service, then the above dilemma does come into play, because wizards have to decide between respecting the house-elves' culture and right to determine their own customs vs. wizards' own moral obligations. I'm not sure that calling all house-elves evil and wiping out their culture is the answer.
+
+Further, in practical terms, if wizards were to force freedom on house-elves in the latter scenario, the only real way to do it is by arresting the lot of them, because house-elves will likely ignore wizarding laws on the matter and continue to consider themselves bound. You're essentially establishing a thought-crime of considering yourself a slave.
+:PROPERTIES:
+:Author: Taure
+:Score: 9
+:DateUnix: 1530023676.0
+:DateShort: 2018-Jun-26
+:END:
+
+****** A culture that teaches people to be slaves is wrong. This isn't about thought.-crimes or any other drivel slavery apologists might think of - this is about saving people from a life in slavery. Whether or not the slavery is morally or culturally enforced doesn't matter at all since its effects are the same. We see in canon that elves are forced against their will to obey orders, to obey their owners, and that is wrong.
+
+You're basically arguing that it's OK if Dobby has to iron his hands and Kreacher serve a Master he doesn't want as long as they are deluding themselves into thinking they have no choice, but it's not OK as long as it's a magical compulsion.
+
+And that's stupid sophistry.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 2
+:DateUnix: 1530024613.0
+:DateShort: 2018-Jun-26
+:END:
+
+******* u/Taure:
+#+begin_quote
+  You're basically arguing that it's OK if Dobby has to iron his hands and Kreacher serve a Master he doesn't want as long as they are deluding themselves into thinking they have no choice, but it's not OK as long as it's a magical compulsion.
+
+  And that's stupid sophistry.
+#+end_quote
+
+Respecting an individual's right to determine their own behaviour is not sophistry, it's the fundamental cornerstone of societies which value liberty.
+
+There is a similar argument in feminism which is a useful analogy: we note that there are not many female engineers. So we offer subsidies and various special programmes designed to get women into engineering. But the take-up of those programmes is low and they are operating below capacity. The problem is that women are /choosing/ not to go into engineering, because a lot of them don't want to be engineers. So then some people say: well, the problem is that all women are brainwashed into disliking engineering. But at some point you just have to respect the decisions that women are making about their own lives. To say that all women are brainwashed and that they can't make decisions for themselves is to rob women of agency.
+
+Similarly, with house-elves there does come a point where you just have to respect their own agency. If you consistently offer them freedom and they consistently deny it and continue to consider themselves slaves, you can't just say "oh they're brainwashed" and completely ignore their agency. That's treating them as slaves just as much as owning them is - you are robbing them of their ability to determine their own fate. It is a complex problem to which there is no obvious answer. I am not saying "house-elf slavery is okay". I am saying "house-elf slavery is complex and there's no obvious solution which is morally superior to all other options".
+:PROPERTIES:
+:Author: Taure
+:Score: 9
+:DateUnix: 1530025492.0
+:DateShort: 2018-Jun-26
+:END:
+
+******** "Respecting their right to determine their own behaviour" is meaningless drivel if the person chooses to abandon that right - which elves in your example do. If an elf doesn't want to decide their own fate, their fate gets decided for them - that's how it works for slaves.
+
+There is an obvious and easy solution: Give them the right to choose their master. In one sweep, they're not slaves any more since they can pick their "owner", and they do not lose anything.
+
+Not to mention that if they want to be slaves and obey their owner, then they have to obey their owner even if they don't like the order - like, say "I order you to pick a new owner if you don't want to be my house-elf any more".
+
+You can twist it like you want, there is no moral reason to keep the house-elves as slaves.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 1
+:DateUnix: 1530026067.0
+:DateShort: 2018-Jun-26
+:END:
+
+********* u/Taure:
+#+begin_quote
+  There is an obvious and easy solution: Give them the right to choose their master. In one sweep, they're not slaves any more since they can pick their "owner", and they do not lose anything.
+#+end_quote
+
+But I am saying that house-elves already have the capability to abandon their master - what is abandonment of a master other than consistently ignoring their orders? There is nothing that wizards are doing which stops them from doing so. Rather, it is house-elves themselves who refuse to leave the service of one master for another, because it is contrary to their beliefs. Even those house-elves who hate their master believe this so strongly that they refuse to leave.
+
+That is why the distinction between magical and cultural servitude has such a profound effect on wizards' moral obligations.
+:PROPERTIES:
+:Author: Taure
+:Score: 7
+:DateUnix: 1530026287.0
+:DateShort: 2018-Jun-26
+:END:
+
+********** No. Slavery is not OK just because the house-elves are deluded into thinking that they have to mutilate themselves if ordered so, instead of being magically compelled to do so. Whether or not there is a magical compulsion or a cultural one doesn't change the fact that a system where a house-elf can be forced to iron their hands and will do it is evil and wrong.
+
+I'll try to explain it one more time: Whether you magically compel someone to obey you or trick them into believing that they have to obey you doesn't matter at all as long as they are doing something they don't want to, but feel forced to.
+
+Dobby ironing his hands is wrong no matter whether he is delusional and thinks he has to do it, or is magically compelled to do so because from his point of view, he has no choice. Whether he thinks that this culture is OK or not also doesn't matter - if a culture thinks that all blonde children need to be killed, then that doesn't make murder OK. It makes the culture sick and evil, even - and especially - if the blonde children think it's ok to get killed themselves.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 3
+:DateUnix: 1530026549.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+******** u/SerCoat:
+#+begin_quote
+  Respecting an individual's right to determine their own behaviour is not sophistry, it's the fundamental cornerstone of societies which value liberty.
+#+end_quote
+
+Except generally we /intervene/ if an individual is seriously self harming. To the point of depriving them of liberty until they are no longer a danger to themselves.
+
+Of course we also provide people to try and get someone to understand why they're self harming and to try and get them to stop in as gentle a fashion as possible.
+:PROPERTIES:
+:Author: SerCoat
+:Score: 1
+:DateUnix: 1530048338.0
+:DateShort: 2018-Jun-27
+:END:
+
+
+***** [[/u/Taure]] 's argument isn't that house-elves aren't enslaved, but whether or not that enslavement is magically enforced or culturally instilled in elves.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 5
+:DateUnix: 1530026703.0
+:DateShort: 2018-Jun-26
+:END:
+
+****** And my argument is that it doesn't matter, as long as it results in Dobby being forced to iron his hands and Kreacher being forced to obey a master he loathes. How the compulsion came to be - through magic or indoctrination - doesn't matter if the effect is the same.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 1
+:DateUnix: 1530026900.0
+:DateShort: 2018-Jun-26
+:END:
+
+******* I don't believe anyone was arguing that slavery was OK, merely that how it's enforced effects how the system can be morally dismantled. On one side of the spectrum, if they're completely 100% magically coerced, you can just dismantle the enchantments and proceed to re-integrate them into society as best you can. On the other hand, if the slavery is completely 100% enforced from within via culture, you'll have to change the culture. That means either
+
+A) A focused and protracted (most likely multi generational) campaign to change, if not outright eradicate, current HE culture.
+
+Or B) If you want to "free" them quickly, the solution is arguably worse than the problem. You would quite literally need to establish HE re-education camps and all that entails. You would have to separate children so that their parents could not indoctrinate them into their servile culture. It would quite literally be cultural genocide, which no matter how appalling you find the culture, I think can be agreed is an extreme solution.
+
+In all likelihood the constraints are somewhere between the two ends of that spectrum, but which side it leans toward would effect how you could ethically "de-program" the HE.
+:PROPERTIES:
+:Author: viper5delta
+:Score: 9
+:DateUnix: 1530028230.0
+:DateShort: 2018-Jun-26
+:END:
+
+******** There's no doubt that the house-elf culture reinforces "slavery is normal and needed", as seen by how Dobby and Winky are treated by other elves. So, you have to re-educate them anyway, no matter if there's a cultural or also a magical compulsion.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 3
+:DateUnix: 1530029271.0
+:DateShort: 2018-Jun-26
+:END:
+
+********* ...Are you...advocating re-education camps and separating families?
+:PROPERTIES:
+:Author: viper5delta
+:Score: 3
+:DateUnix: 1530029845.0
+:DateShort: 2018-Jun-26
+:END:
+
+********** No, I'm advocating that you need to teach the elves that their "Slavery is good" ideal is wrong. You can do that without camps and other Nazi methods. Hell, if there's really such a strong cultural compulsion, you can have that work for you, and order them to teach their kids differently.
+
+Really, what's with this attempt at making abolishing slavery seem evil? What's next, re-educating the Hitler Youth was evil because it destroyed their culture?
+:PROPERTIES:
+:Author: Starfox5
+:Score: 2
+:DateUnix: 1530030102.0
+:DateShort: 2018-Jun-26
+:END:
+
+*********** I'm saying that changing a culture on such a fundamental level takes either a fuck load of time or a fuck load of brutality. (Or a moderate amount of both)
+:PROPERTIES:
+:Author: viper5delta
+:Score: 5
+:DateUnix: 1530030234.0
+:DateShort: 2018-Jun-26
+:END:
+
+************ It's fine to have a centuries-long project to change house-elf culture.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1530037089.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+************ So? Doesn't mean you shouldn't do it, or that it's wrong to do it. And no, it doesn't really take that much time - just look at how German culture changed since the WW2 ended. Or any other culture in the last 50 years. Women's lib, civil rights - cultures change. And a culture like "We need to be slaves" can change quickly since you don't need to change that much - just replace "We need to be slaves" with "working as servants is OK", and you're mostly done from a moral point of view.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 0
+:DateUnix: 1530030503.0
+:DateShort: 2018-Jun-26
+:END:
+
+************* That...doesn't really support your case? Womans' lib has been consistently going on in the US since at least the mid 1800's. Same with civil rights for minorities. And neither of those are even close to finished and that's with several huge fuck off wars helping the progress along. And if you're arguing what happened to the German civilian population during WWII wasn't brutal as all hell... And none of those clutures were so systematically entrenched as to enforce self harm if you deviated. By the examples you listed, you either need several hundred years or atrocities on par with the rape of Berlin or the Dresden fire bombings to fundamentally change a culture.
+:PROPERTIES:
+:Author: viper5delta
+:Score: 5
+:DateUnix: 1530030958.0
+:DateShort: 2018-Jun-26
+:END:
+
+************** u/jenorama_CA:
+#+begin_quote
+  That...doesn't really support your case? Womans' lib has been consistently going on in the US since at least the mid 1800's. Same with civil rights for minorities.
+#+end_quote
+
+And it's still not sunshine and daisies for either group. Women and minorities are still systematically denied equal wages and medical care.
+
+#+begin_quote
+  And if you're arguing what happened to the German civilian population during WWII wasn't brutal as all hell...
+#+end_quote
+
+That was a singular, catastrophic event that generated catastrophic change. It was change or die. House-Elves aren't in danger of extinction, so where is the drive to change?
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 2
+:DateUnix: 1530033311.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+************** Did you miss the "if they are so conditioned to obey, you can order them to raise their kids differently" line?
+:PROPERTIES:
+:Author: Starfox5
+:Score: 0
+:DateUnix: 1530034134.0
+:DateShort: 2018-Jun-26
+:END:
+
+*************** Which is completely brutal in it's own way, even if it works. If it works, you have parents forced to teach their children a moral system that they find so totally abhorrent and unethical it will invariably cause immense psychological harm. Imagine if someone systematically forced all parents in the world to teach their kids to...I don't know ritualistically sacrifice and eat every second child (maybe a tad extreme, but points still there) you will break them. Even if they do obey, the question comes into play of would they be able to competently raise a child in the manner prescribed. They could try, but they probably have lullabies, fairy tales, idiomatic sayings, all that stuff that comes with culture and is extremely hard to excise, enforcing their subservience. And if it doesn't work (ie, this sparks disobedience, which if anything is going to inspire it, the children are) all you'll have is significant portion of all adult HE self harming in various ways because the disobeyed their masters. Granted, this entire string of arguments hinges on HE subservience being almost entirely culturally enforced, which I find...unlikely. But I guess it's fine to argue hypotheticals.
+:PROPERTIES:
+:Author: viper5delta
+:Score: 3
+:DateUnix: 1530034778.0
+:DateShort: 2018-Jun-26
+:END:
+
+**************** Imagine if you forced all the KKK members to teach their kids that racism is wrong. Wow, so evil and brutal?
+
+Some things - like slavery - aren't worth protecting.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 0
+:DateUnix: 1530035338.0
+:DateShort: 2018-Jun-26
+:END:
+
+***************** The KKK was brutal and repressive and the African Americans were (the vast majority anyway) pushing for change and equality. Whereas wizarding Britain seems to be mainly apathetic, with the house elves themselves being the ones who perpetuate the system. If you want to use the KKK as an example, it's a non-violent KKK made up of former slaves who want to go back to the plantations without any coercion. It's sad and twisted in its own way. But again, it's something that will require subtlety and a long time to change, unless you want to go for the re-education camps and separated families route.
+:PROPERTIES:
+:Author: viper5delta
+:Score: 2
+:DateUnix: 1530039226.0
+:DateShort: 2018-Jun-26
+:END:
+
+****************** Slavery is one of the vilest institutions we know. It doesn't matter how that sick institution is supported - any culture that does so does not deserve any protection.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 1
+:DateUnix: 1530046048.0
+:DateShort: 2018-Jun-27
+:END:
+
+******************* Was I supporting it? No, I was merely saying it's a problem with no easy solution and trying to "solve" it quickly is arguably worse than leaving it as is.
+:PROPERTIES:
+:Author: viper5delta
+:Score: 4
+:DateUnix: 1530046530.0
+:DateShort: 2018-Jun-27
+:END:
+
+******************** Again, you can stop slavery by simply giving the elves the right (and duty, with an order) to pick a new master/employer if they are unhappy with their current one. That solves pretty much most of the abuse problem, and makes them not slaves any more, at least effectively.
+
+I really don't know why people keep prattling about how complicated it is to abolish slavery. It isn't.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 0
+:DateUnix: 1530052928.0
+:DateShort: 2018-Jun-27
+:END:
+
+********************* u/DrunkBystander:
+#+begin_quote
+  why people keep prattling about how complicated it is to abolish slavery.
+#+end_quote
+
+May be because they live in real world and not in their stories?
+
+How did formal declaration of democracy help to establish real democracy in post Soviet Union countries?
+:PROPERTIES:
+:Author: DrunkBystander
+:Score: 0
+:DateUnix: 1530075052.0
+:DateShort: 2018-Jun-27
+:END:
+
+********************** How did the formal abolition of slavery help the slaves in the USA?
+:PROPERTIES:
+:Author: Starfox5
+:Score: 1
+:DateUnix: 1530086146.0
+:DateShort: 2018-Jun-27
+:END:
+
+*********************** It was a formal *part* of the movement to end slavery.
+
+Itself it did nothing. There were slave rebellions, economic regression, Civil War. There were a lot of complex movements that led to the "Emancipation Proclamation".
+
+The rebellions shown that slaves wanted freedom. Can you say the same about House Elves?
+
+When you declare something, your declaration is just words, nothing more. In the same way you can name House Elves occupation as "Voluntary life-long service". It would be more exact definition, because in the books no one makes House Elves obeying with a threat of harm or death.
+:PROPERTIES:
+:Author: DrunkBystander
+:Score: 1
+:DateUnix: 1530088869.0
+:DateShort: 2018-Jun-27
+:END:
+
+************************ Well, I would assume that if slavery is made illegal, the new law would be enforced. You know, what's normal for laws. And that would be easy since there's a department in the Ministry covering house-elves, and enough muggleborns who know how evil slavery is to enforce it against the same kind of bigots who just tried to murder them all.
+
+When Britain abolished the slave trade, they had the RN enforce it. Against anyone.
+
+Also, calling slavery "voluntary life-long service" for lack of threats even though we know they cannot disobey? And we know that they are harmed by owners, forced to hurt themselves?
+
+What's next, calling murder "assisted suicide" if the victims cannot defend themselves?
+:PROPERTIES:
+:Author: Starfox5
+:Score: 1
+:DateUnix: 1530089882.0
+:DateShort: 2018-Jun-27
+:END:
+
+************************* How many muggleborns and muggle raised (Harry?) supported Hermione with her SPEW?
+
+The books contain a good example what happens to an average House Elf who was forced to be free against her own will -- Winky. The way you're suggesting would make the whole House Elves population to be alcoholic, which can lead to death. Sort of soft genocide like europeans did to some Native Americans.
+:PROPERTIES:
+:Author: DrunkBystander
+:Score: -1
+:DateUnix: 1530090614.0
+:DateShort: 2018-Jun-27
+:END:
+
+************************** Not really. Winky was forced out of her home. If you free the elves, but let them work for their families- those who want to - there won't be much of a problem. and as I said, giving them the right to choose their owner will solve most abuse issues and effectively free them, but allow them to delude themselves into thinking they're still slaves. And you can start working on eradicating the slave conditioning.
+
+It's really not as complicated as the slavery apologists make it out to be.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 0
+:DateUnix: 1530091107.0
+:DateShort: 2018-Jun-27
+:END:
+
+*************************** u/DrunkBystander:
+#+begin_quote
+  the slavery apologists.
+#+end_quote
+
+It seems for you everyone who finds your mistakes is evil.
+
+Grow up, dude. The world isn't black and white only.
+:PROPERTIES:
+:Author: DrunkBystander
+:Score: 1
+:DateUnix: 1530091756.0
+:DateShort: 2018-Jun-27
+:END:
+
+**************************** The world isn't black and white - but that doesn't mean that everything's grey and there's nothing you can do. Ultimately, all that drivel about "complicated" and "there's a moral difference if you're forced to stay a slave through cultural conditioning instead of magical bindings" all have one goal: Excusing a vile institution. Otherwise, the tone of the posts would be far clearer, and not soaked through with "but they want to be slaves" shit.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 0
+:DateUnix: 1530092159.0
+:DateShort: 2018-Jun-27
+:END:
+
+***************************** No one here excused slavery, it was your imagination.
+
+Unfortunately "they want to be slaves" isn't a shit, but a constant given in the books. You ignore it and suggest an approach that can easily lead to House Elves genocide. But you care about words only, not real consequences, don't you?
+
+Others here looked at it as a problem that required a complex and possibly long term approach.
+
+In US slavery was cancelled more than a hundred years ago and there're still problems with racism. Even if you close your eyes, those problems aren't disappearing.
+:PROPERTIES:
+:Author: DrunkBystander
+:Score: 1
+:DateUnix: 1530092995.0
+:DateShort: 2018-Jun-27
+:END:
+
+****************************** The point is that if we followed the kind of "it's complicated" thinking here, US slavery would still be a thing. Yeah, problems won't go completely away right away - but they won't go away at all if you don't do something.
+
+And yes, making up shit about how freeing elves leads to genocide is excusing slavery. Canon shows that no, elves don't die when freed. And even if they did, I showed how you can de-facto free them without disturbing their delusions.
+
+It's really not as complicated as the apologists claim.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 0
+:DateUnix: 1530093981.0
+:DateShort: 2018-Jun-27
+:END:
+
+******************************* u/DrunkBystander:
+#+begin_quote
+  they won't go away at all if you don't do something
+#+end_quote
+
+It's a vert big difference between "do something" and use simplest approach that surely leads to disaster.
+
+#+begin_quote
+  Canon shows that no, elves don't die when freed
+#+end_quote
+
+Winky became alcoholic. Alcoholism may lead to death. Also alcohol was a weapon against Native Americans and other nations without resistance to it.
+
+#+begin_quote
+  I showed how you can de-facto free them without disturbing their delusions
+#+end_quote
+
+It was your assumption with no basement.
+
+#+begin_quote
+  It's really not as complicated as the apologists claim.
+#+end_quote
+
+Start with teaching humanism to wizards. With your way of thinking it's easier, because they are already humans and you should just write a corresponding law about it.
+:PROPERTIES:
+:Author: DrunkBystander
+:Score: 1
+:DateUnix: 1530095480.0
+:DateShort: 2018-Jun-27
+:END:
+
+
+******* No I agree, and I'm pretty sure Taure does. The issue debated is how the enslavement works, basically.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 1
+:DateUnix: 1530028063.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+*** As always you seem to miss the point of the debate and instead of debating you start calling people nazi's or slavery apologists. Keep trying
+:PROPERTIES:
+:Author: Dutch-Destiny
+:Score: 1
+:DateUnix: 1530353486.0
+:DateShort: 2018-Jun-30
+:END:
+
+
+** Hmmm. How about this:
+
+Their biology and therefore minds are different from ours and when they feel guilt, they suffer from severe depression or something similar. Maybe even physical pain. So, when they disobey, to alleviate the guilt and those following bad feelings, they punish themselves. And by using loopholes, they sort of lie to themselves to not feel 'guilt'. Perhaps they are too honest so lying gives them discomfort. Or they are something like honor-bound to follow their promises lest they feel bad. Also maybe they have some kind of sensory organ that uses magic subconsciously to feel who is their owner or if the order came from their owner or not. They are magical beings after all.
+
+But this also means they can be kinda bound with magic enforcing it. The process of buying a house elf would be just making one of them swear to serve you. Or even some vague thing like your family etc. Thanks to their instinctive ability to feel if that order came from their owner or not, they would obey. That way, even if the old head of a family dies, the next one can still order the house elf around because the elf swore to serve their family not a specific person.
+
+For example, perhaps Kreacher swore that he would serve and obey the orders of the owner of the Grimmauld Place when he was first bought. (Or the head of the Black family?) So it's still kinda self-enslavement: He swore himself, not bound by some external magic, but because he swore, magic somehow enforces this. So when Harry orders him to do something, he 'feels' (for the lack of better word) the need to do it. Not like imperius or compulsion but he sort of 'feels' that if he disobeys, he will feel that 'guilt' I mentioned. It's up to him to actually disobey and feel bad or just obey.
+
+And perhaps once upon a time there were more house elves who felt less discomfort and could disobey more easily but wizards killed them or they couldn't breed somehow so over the course of the time they evolved and became more docile.
+:PROPERTIES:
+:Author: suername
+:Score: 1
+:DateUnix: 1530045153.0
+:DateShort: 2018-Jun-27
+:END:
+
+
+** I never even realized that people thought House elves were magically enslaved. Like they very very clearly have choices.
+:PROPERTIES:
+:Author: slytherinaballerina
+:Score: -1
+:DateUnix: 1530034924.0
+:DateShort: 2018-Jun-26
+:END:
+
+
+** I should have checked canon right away, and not trusted Taure to have done so. [[https://www.pottermore.com/features/to-spew-or-not-to-spew-hermione-granger-and-the-pitfalls-of-activism][Pottermore]] clearly states that elves are magically bound to serve, not just culturally conditioned.
+
+#+begin_quote
+  No matter how you slice it, house-elves are unpaid labourers, magically bound to serve, left at the mercy of their respective owners.
+
+  Contented as they seem, elves are forced into servitude by a combination of magic and a culture of indoctrination.
+#+end_quote
+
+With regards to the effects of freedom, the article cites Winky as an example of bad effects. However, it clearly seems to assume that being separated from their owners and unable to work for them is the issue, not freedom itself.
+
+#+begin_quote
+  Even with Dumbledore's support and Dobby's pep-talks, Winky is clearly depressed. She's even started hitting the bottle -- yes, it's only Butterbeer, but who knows the damage that'll do to an elf over time? Hermione cites the shame imposed on Winky by her culture as the sole reason for her unhappiness, but there may be more to it. Separation anxiety might also account for Winky's anguish and she doesn't seem to improve much over time.
+#+end_quote
+
+That's not "freeing elves dooms them", especially with Dobby as the counter-example.
+
+But the main point is that elves are magically compelled to serve according to canon.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 0
+:DateUnix: 1530101589.0
+:DateShort: 2018-Jun-27
+:END:
+
+*** u/Taure:
+#+begin_quote
+  I should have checked canon right away, and not trusted Taure to have done so. Pottermore clearly states that elves are magically bound to serve, not just culturally conditioned.
+#+end_quote
+
+That is not a "Written by JKR" page. I'm not sure if you're familiar with how Pottermore works, but most of it is made up of Buzzfeed style articles written by a staff of copywriters who use material from the books and movies along with their own interpretations. These third party writings are no more authoritative than me or you. The articles written by JKR are clearly marked as such.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1530101862.0
+:DateShort: 2018-Jun-27
+:END:
+
+**** It's certainly more authoritative than me or you since [[https://www.pottermore.com/news/j-k-rowling-welcome-message][JKR herself said]] that there's new information revealed there:
+
+#+begin_quote
+  This is my magical corner of the internet, a place where you can explore my writing, both familiar and new, and where you can read features, articles and news from the Pottermore Team.
+
+  New information will be revealed about the characters, places and magic you're familiar with, as well as introductions to a few new characters, places and notions.
+#+end_quote
+:PROPERTIES:
+:Author: Starfox5
+:Score: -1
+:DateUnix: 1530102172.0
+:DateShort: 2018-Jun-27
+:END:
+
+***** Yes, new information is revealed - in the articles written by JKR, such as those on the Potter family, Azkaban, etc. The idea that the commentary articles like [[https://www.pottermore.com/features/things-we-realised-about-harry-potter-when-we-became-older-and-wiser][this]] and [[https://www.pottermore.com/features/harry-potter-character-backstories-we-wish-we-could-have-seen][this]] are canon is kinda absurd. These articles by Pottermore staff are clearly held out as commentary, not word of god - as shown by the way they are using quotes from the books to support arguments.
+
+This is further emphasised by the fact that the "Written by JKR" articles are kept in a separate section.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1530102213.0
+:DateShort: 2018-Jun-27
+:END:
+
+****** She didn't state that. She certainly didn't distance herself from the "features, articles and news from the Pottermore Team".
+
+Misreading the intro as anything but her blessing to the information on the site seems rather biased.
+:PROPERTIES:
+:Author: Starfox5
+:Score: -1
+:DateUnix: 1530103301.0
+:DateShort: 2018-Jun-27
+:END:
+
+******* u/Taure:
+#+begin_quote
+  This is my magical corner of the internet, a place where you can explore my writing, both familiar and new, *and* where you can read features, articles and news from the Pottermore Team.
+#+end_quote
+
+JKR clearly separates out her own writing into a separate category to Pottermore Team "features, articles and news". The second paragraph simply says that new information will be revealed. It doesn't mean that every article can be considered new information. Most of the Pottermore material is simply "fact files" summarising information in the books.
+
+In any case, the nature of the Pottermore Team material as openly speculative and relying on the books as evidence is quite telling.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1530103581.0
+:DateShort: 2018-Jun-27
+:END:
+
+******** Not quite as telling as the fact that it's being revealed with the official blessing of JKR. That's more than a touch above fan musings - it's canon.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 0
+:DateUnix: 1530105431.0
+:DateShort: 2018-Jun-27
+:END:

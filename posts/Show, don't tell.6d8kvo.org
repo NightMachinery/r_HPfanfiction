@@ -1,0 +1,189 @@
+#+TITLE: Show, don't tell
+
+* Show, don't tell
+:PROPERTIES:
+:Author: Gigadweeb
+:Score: 40
+:DateUnix: 1495705036.0
+:DateShort: 2017-May-25
+:FlairText: Discussion
+:END:
+Seems like so many fics miss this idea. 90% of stories I've seen tend to dump all the major info towards the start of a scene where the rest of the conversation or action is empty as hell, and it's really stopped me from enjoying some unique concepts.
+
+
+** The thing with show versus tell is that a lot of authors think that you need a gigantic paragraph in order to show. This leads to details which aren't incredibly important to the plot weighing down the story with detail so an author can say they're "showing" everything. If Hermione is entering a scene angry, you can just say "Hermione was angry." Yet, it is a much more fulfilling reading experience if her actions throughout the scene /demonstrate/ that she is angry.
+
+If Harry is starting to lose himself under the weight of the prophecy then it is ineffective to write a line such as,
+
+#+begin_quote
+  "It was Tuesday. He awoke tired, after not sleeping. He went to breakfast. He drank some pumpkin juice. He was losing himself under the weight of the prophecy. The post came, the news was bad. It was time for lessons."
+#+end_quote
+
+That is the sort of telling that this 'rule' of writing is associated with. Instead it would be more appropriate to write a passage such as,
+
+#+begin_quote
+  Harry awoke slowly, pain behind his eyes. The last three weeks he had failed to have a night with an adequate amount of sleep. Dragging himself to the washroom he forced himself to take a shower. He gazed upon his reflection in the mirror. The bags under his eyes were becoming more noticeable.
+
+  Breakfast was once again a tired affair, as it had been for the past fortnight. The pumpkin juice was bland, as was the rest of the meal. He could hardly force a bite into his mouth, as each weighed in his stomach. The conversations around him lost all meaning. The words slamming around his head commanded his attention. With each cutting of a knife, and scraping of a fork the the creeping words of the prophecy echoed in his head.
+
+  The flurry that was the morning post arriving dragged him out of his mind and back to the present. Another student's parents had died. Their funeral was tomorrow. Or the day after. It didn't mean anything.
+
+  He had to go to class.
+#+end_quote
+
+Showing is much more than writing tons of adjectives, or detail. It's important to show the /mechanics/ behind the emotion. The point of showing, and not telling is that characters aren't [[https://www.youtube.com/watch?v=0ElbguULEO0][just going to walk into a scene and declare bankruptcy.]] You need to give a reason for the reader to believe that a character is feeling their emotions, otherwise you're reading an IKEA catalogue.
+:PROPERTIES:
+:Score: 18
+:DateUnix: 1495743076.0
+:DateShort: 2017-May-26
+:END:
+
+
+** My pet peeve is when authors "tell" with regard to characters' emotions, it just sounds so stilted and inorganic. However, I definitely get that most fanfic writers are developing their skills and it's pretty hard to get constructive feedback on stuff you write
+:PROPERTIES:
+:Author: sun____moon
+:Score: 12
+:DateUnix: 1495713704.0
+:DateShort: 2017-May-25
+:END:
+
+
+** On the other hand I heavily dislike authors who think they're GRRM. I couldn't get through LOTR and that was written by Tolkien. Get on with it, don't spend fifty trillion words describing Harry's new wand.
+:PROPERTIES:
+:Author: raddaya
+:Score: 17
+:DateUnix: 1495708378.0
+:DateShort: 2017-May-25
+:END:
+
+*** That's what I kind of mean - details should be part of a natural flow, instead of massive dumps. It shouldn't be a technical recount of a fic.
+:PROPERTIES:
+:Author: Gigadweeb
+:Score: 7
+:DateUnix: 1495708971.0
+:DateShort: 2017-May-25
+:END:
+
+
+*** Look, I don't think you are going to understand just how awesome it is if he doesn't describe how each one felt.
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 1
+:DateUnix: 1497446097.0
+:DateShort: 2017-Jun-14
+:END:
+
+
+** I would rather a writer finish /telling/ a story than get mired in exhaustive scenes of showing that might eventually get the job done in ten years, assuming the writer can keep focus for that long.
+
+Eventually the writer may realize that telling makes for a flat experience and start to drop in scenes which immerse the reader, but only when the visceral experience is relevant to the story.
+
+I don't need to know about the cold wind that blows through their knit sweater if being chilled isn't relevant to the plot or theme. I once read a lovely passage about the kind of chill one gets when stuck out in the rain, then the character went inside and we got another page of how homey and warm the inside was.
+
+Summary of plot relevant events: character felt cold, and had enough sense to go inside while waiting for someone to arrive.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 2
+:DateUnix: 1495726236.0
+:DateShort: 2017-May-25
+:END:
+
+*** I disagree; sometimes, subtle details (i.e. the cold wind the blows through their knit sweater) immerses the reader into the actual story itself, without the reader ever having the knowledge of it being done. Granted, most authors on FanFiction don't do this in a clever way (most likely, they are doing this to "up" their word count), but giving finite elements, like the weather or what a particular character is wearing, can be done well, and I've seen instances where it has been done well on FanFiction, though that is far and few in between what I normally read on that site.
+:PROPERTIES:
+:Author: emong757
+:Score: 3
+:DateUnix: 1495733190.0
+:DateShort: 2017-May-25
+:END:
+
+
+** I think the problem is not so much that authors should always "show" rather than "tell," but that authors spend /too much time/ telling and /not enough time/ showing.
+:PROPERTIES:
+:Author: NouvelleVoix
+:Score: 2
+:DateUnix: 1495743241.0
+:DateShort: 2017-May-26
+:END:
+
+
+** Meh. Showing and telling each have their places; it's up to the author to make it work.
+
+JKR begins her series with a big ol' wad of "tell."
+:PROPERTIES:
+:Author: __Pers
+:Score: 5
+:DateUnix: 1495719412.0
+:DateShort: 2017-May-25
+:END:
+
+*** I don't understand. JKR started with a funny account of Vernon's daily life, followed by a visual "show" of Dumbledore & Co. meeting at night. There was very little explanation given, to enhance the mystery. The next chapters show Harry's life (with very little "telling" of what's happening, but instead just conversation and action), until we get to Hagrid explaining a few things.
+
+In any case, I think the big difference that makes JKR's exposition readable is the moving set pieces. First we get Hagrid's story in a little hut on a rock. Then more on a magical train. Then more in a massive beautiful castle. Each step of the way has funny, interesting interactions and introductions. Additionally, the exposition comes in small chunks, across a conversation, with characters having time to react and behave like it's a true conversation instead of a monologue.
+:PROPERTIES:
+:Author: Ember_Rising
+:Score: 6
+:DateUnix: 1495727721.0
+:DateShort: 2017-May-25
+:END:
+
+**** JKR's initial three paragraphs prove my point:
+
+#+begin_quote
+  Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much. They were the last people you'd expect to be involved in anything strange or mysterious, because they just didn't hold with such nonsense.
+
+  Mr. Dursley was the director of a firm called Grunnings, which made drills. He was a big, beefy man with hardly any neck, although he did have a very large mustache. Mrs. Dursley was thin and blonde and had nearly twice the usual amount of neck, which came in very useful as she spent so much of her time craning over garden fences, spying on the neighbors. The Dursleys had a small son called Dudley and in their opinion there was no finer boy anywhere.
+
+  The Dursleys had everything they wanted, but they also had a secret, and their greatest fear was that somebody would discover it. They didn't think they could bear it if anyone found out about the Potters. Mrs. Potter was Mrs. Dursley's sister, but they hadn't met for several years; in fact, Mrs. Dursley pretended she didn't have a sister, because her sister and her good-for-nothing husband were as unDursleyish as it was possible to be. The Dursleys shuddered to think what the neighbors would say if the Potters arrived in the street. The Dursleys knew that the Potters had a small son, too, but they had never even seen him. This boy was another good reason for keeping the Potters away; they didn't want Dudley mixing with a child like that.
+#+end_quote
+
+This is three paragraphs of beautifully written "tell" text that nevertheless sets the stage for an enchanting story and hooks the reader. It's straight-up passive voice as well, breaking another "rule" of writing (that one should employ active voice where possible). This was quite deliberate on the author's part, meant to evoke "once upon a time" type story intros for young readers.
+
+A good writer uses all the tools available to her and doesn't get bogged down in "show don't tell" nonsense.
+:PROPERTIES:
+:Author: __Pers
+:Score: 11
+:DateUnix: 1495733085.0
+:DateShort: 2017-May-25
+:END:
+
+
+*** no doubt talent is the only thing that matters. writing rules are iffy at the best of times. great example with jkr: her "tell" in chapter one always struck me as kinda wes anderson -- you could picture it being the slightly weird but attention-grabbing intro to one of his films. there is an art to that.
+
+(it is also very similar to the beginning of the hobbit, stylistically.)
+
+regardless, 99.5 percent of fanfiction sucks and that will never change. not much point talking about it.
+:PROPERTIES:
+:Author: flagamuffin
+:Score: 1
+:DateUnix: 1495725296.0
+:DateShort: 2017-May-25
+:END:
+
+
+** This is the best and most succinct advice I have seen regarding "Show, don't tell".
+
+[[https://www.pinterest.com/pin/401383385528766195/]]
+:PROPERTIES:
+:Author: Judy-Lee
+:Score: 1
+:DateUnix: 1495707548.0
+:DateShort: 2017-May-25
+:END:
+
+
+** Please don't lynch me, but.... I've never really understood the show not tell thing. And I've had plenty of people give examples, but that doesn't seem to help. Could you by any chance link a fix that does too much telling?
+:PROPERTIES:
+:Author: jfinner1
+:Score: 1
+:DateUnix: 1495741724.0
+:DateShort: 2017-May-26
+:END:
+
+
+** This is something my English teacher used to mention. People sometimes have a hard time writing because they do it in a way where it comes off has plain statements like "It was windy outside and raining he stood there staring out the window" instead of "The wind howled with tremendous force accompanied by the constant splatter of rain drops hitting the window. He stood there staring outside with a tight lipped expression on his serious face." which let's the reader imagine what is going on as they read instead of just knowing what's happening. This is why first person writing is hard to write for some people.
+:PROPERTIES:
+:Author: xKingGilgameshx
+:Score: 1
+:DateUnix: 1495762476.0
+:DateShort: 2017-May-26
+:END:

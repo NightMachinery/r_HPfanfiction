@@ -1,0 +1,141 @@
+#+TITLE: Fic Writing software
+
+* Fic Writing software
+:PROPERTIES:
+:Author: george99gr
+:Score: 3
+:DateUnix: 1578400441.0
+:DateShort: 2020-Jan-07
+:FlairText: Meta
+:END:
+Hello! I'm thinking of writing a fanfic, but the thing is that I've never written one before. I was wondering, do other fanfic writers use a specialized program for writing, or they simply use ms word?
+
+Also, could you tell me where can I find some help on how to write a fanfic please?
+
+Thanks!
+
+
+** I think you'll find people using everything from Google Docs to code editors!
+
+Personally, I've been a fan of "[[https://hubpages.com/literature/Best-Apps-for-Distraction-Free-Writing][distraction free]]" writers ever since I found out about them. Also [[https://app.grammarly.com/][Grammarly]] browser extension for that final check. You could even write directly in the editor on FanFiction.net, but I can't recommend that because there's no undo and you can accidentally lose a chunk of text (totally not happened to me or anything).
+:PROPERTIES:
+:Author: calli3flower
+:Score: 4
+:DateUnix: 1578401292.0
+:DateShort: 2020-Jan-07
+:END:
+
+*** Thank you! I'm thinking of sticking to word for the time being.
+:PROPERTIES:
+:Author: george99gr
+:Score: 1
+:DateUnix: 1578402738.0
+:DateShort: 2020-Jan-07
+:END:
+
+
+*** I prefer Hemingway over Grammarly tbh. Grammarly has a lot of false flags and doesn't fix sentence structure etc, which is the biggest problem most people have. Hemingway actually makes your writing better.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1578456421.0
+:DateShort: 2020-Jan-08
+:END:
+
+
+** I'm a big fan of Scrivener, but didn't make the upgrade until I'd been writing consistently for a while because it's a paid software. I used Google docs before that. Of course Google is free and I like that it synchs across platforms. But I found when I got north of 50k words, it lagged and became glitchy, and I worried about a crash. Splitting the work into separate chapters drove me nuts.
+
+Scrivener's biggest downside is the price but then it offers easier compiling, writing insight, and can handle big texts. So I'm happy. And $75 on a hobby I enjoy is not the dumbest money I've ever spent...
+:PROPERTIES:
+:Author: darlingdaaaarling
+:Score: 3
+:DateUnix: 1578403399.0
+:DateShort: 2020-Jan-07
+:END:
+
+*** Would you recommend Scrivener over Word?
+:PROPERTIES:
+:Author: flingerdinger
+:Score: 1
+:DateUnix: 1578455963.0
+:DateShort: 2020-Jan-08
+:END:
+
+**** For me, definitely yes and it's not even close! It synchs across platforms so I write on my phone and computer. You can have WIPs in a folder like structure, so in one collection I have all my chapters then all my research and notes. If I want to compile, it's an easy button to do so. There are character name generators. And like the Hemingway editor, you can focus on a type of speech (adverb, say) and it'll highlight every place in the document. Also specific word search, so a potty mouth like me can see that I'm only using /that/ curse word /so/ many times and is it really all that bad...?
+
+Plus I associate word with my daytime job and I spend enough time staring at that, hah.
+:PROPERTIES:
+:Author: darlingdaaaarling
+:Score: 3
+:DateUnix: 1578457115.0
+:DateShort: 2020-Jan-08
+:END:
+
+
+** vim and writing in rST here (actually, neovim, but it really doesn't matter). Talking about “distraction free” ;).
+:PROPERTIES:
+:Author: ceplma
+:Score: 3
+:DateUnix: 1578404089.0
+:DateShort: 2020-Jan-07
+:END:
+
+
+** I use Google Docs and write on my phone.
+
+If you've never written before, think a bit about about the technical aspects of your story first:
+
+Do you want to write in present or past tense? Pick a tense and stick with it. (Most readers prefer past.)
+
+What narration style are you using? Third person limited? Third person omniscient? (Both very popular.) First person? (Seems more popular among writers than readers.)
+
+Once you've made those decisions, start writing.
+:PROPERTIES:
+:Author: MTheLoud
+:Score: 3
+:DateUnix: 1578453075.0
+:DateShort: 2020-Jan-08
+:END:
+
+
+** There's Focus Writer if you want something distraction-free. It's also a free program :)
+:PROPERTIES:
+:Author: alinehmartins
+:Score: 2
+:DateUnix: 1578404381.0
+:DateShort: 2020-Jan-07
+:END:
+
+
+** I use Evernote myself, which is just a different version of MSWord, basically. I only use it because it's the only writing app that still works on my OG Ipad. I'm looking into things like Grammarly and Hemingway to help out in editing after I've written, but currently it's just Evernote.
+
+If you want active help on writing a fanfic, I'd try sign up to DarkLordPotter for writing advice if you're confident enough to take slightly... forthrightly-phrased critiques or FFnet's beta function if you'd prefer someone likelier to be nicer about it. You could also try make a new post and ask for a beta here, too.
+
+In terms of writing advice, as trite as it is, just go and write is the best advice anyone can give. You're not going to be as good as published authors with your first fic, but you can at least write as badly as them. So, don't go in thinking you absolutely have to be Shakespeare and just have fun with writing. You'll learn how to write better as you write more, generally speaking, but it's real important that you remember this is supposed to be fun. :)
+
+There's not really any specific place I'd recommend as an ultimate guide to writing or anything, but I've found this ([[https://hobbylark.com/writing/How-To-Write-A-Good-Fanfic]]) and this ([[https://tvtropes.org/pmwiki/pmwiki.php/SoYouWantTo/WriteAFanfic]]) to be a good place to start. They give a lot of basic ideas and thought processes to run through while you're working out what you want to write. Do you have a character in mind, or a conflict you want to explore, or a particular plot bunny scenario to write about, etc, that kind of thing. Essentially, building the foundation of your story first. You don't have to plan out everything in minute detail if you don't want to, that's really down to whatever you feel comfortable with, but it's good to have an idea of where you want to go at the very least.
+
+Once you know that - what story you want to write, I mean - then it's just a matter of sitting down and writing. This ([[https://forums.darklordpotter.net/threads/writing-advice-thread.37586/]]) is a pretty good guide for that. Some people advocate editing as you go ("Oh, I don't think 'said' works there, I'll use... 'demanded' instead" kind of things), though I prefer just writing until I run out of things to write and editing afterward. Lets me get a better idea of how everything works together and flows through the narrative.
+
+I've tried to keep this as general as possible, but if you have any more specific questions, feel free to ask. I'm happy to help. I've not written for Harry Potter yet myself (though I am working on a couple ideas!), but I've been writing for another fandom for a few years now and running D&D games for over a decade, so I've picked up a few things here and there and I can try point you in the direction of other things that might help if I can't.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 2
+:DateUnix: 1578416963.0
+:DateShort: 2020-Jan-07
+:END:
+
+*** Thank you very much for your advise! You helped me a lot!
+:PROPERTIES:
+:Author: george99gr
+:Score: 1
+:DateUnix: 1578422282.0
+:DateShort: 2020-Jan-07
+:END:
+
+**** Sure. Happy to help. It's in all our best interests to make things as easy for new authors as possible - if you like it here, you'll stick around and write more stories for us to read. :)
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 2
+:DateUnix: 1578426415.0
+:DateShort: 2020-Jan-07
+:END:

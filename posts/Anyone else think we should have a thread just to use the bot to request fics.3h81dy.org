@@ -1,0 +1,241 @@
+#+TITLE: Anyone else think we should have a thread just to use the bot to request fics?
+
+* Anyone else think we should have a thread just to use the bot to request fics?
+:PROPERTIES:
+:Score: 18
+:DateUnix: 1439749365.0
+:DateShort: 2015-Aug-16
+:FlairText: Meta
+:END:
+For example I wanted to download an ePub copy just now and had to clutter an already existing thread to do so with the bot. Seems like a link in the sidebar to something like that would be handy.
+
+Also it'd be like a mega rec thread if you ever need something but don't want anything in particular.
+
+
+** The bot uses [[http://p0ody-files.com/ff_to_ebook/][p0ody-files]] to link downloads. It's the fastest, cleanest fanfiction download solution we could find.
+:PROPERTIES:
+:Author: tusing
+:Score: 9
+:DateUnix: 1439759683.0
+:DateShort: 2015-Aug-17
+:END:
+
+*** And it's a wonderful site to check if FFN goes down and the story hasn't been put anywhere else!
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 1
+:DateUnix: 1439776573.0
+:DateShort: 2015-Aug-17
+:END:
+
+
+*** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1439791669.0
+:DateShort: 2015-Aug-17
+:END:
+
+**** It actually does - it's all in the EPUB metadata, I believe, like it should be. I can see descriptions for every fic I've downloaded through p0ody in my EPUB viewers.
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1439793622.0
+:DateShort: 2015-Aug-17
+:END:
+
+
+*** Given how p0ody-files offers the option in the menu to switch between ePub and Mobi formats, could Mobi be added to the bot's replies?
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1439997108.0
+:DateShort: 2015-Aug-19
+:END:
+
+**** I believe so. Should be an easy fix. I'll look into it for the next release.
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1440013610.0
+:DateShort: 2015-Aug-20
+:END:
+
+
+** How do we summon the bot? How does it work?
+:PROPERTIES:
+:Author: queenweasley
+:Score: 5
+:DateUnix: 1439759024.0
+:DateShort: 2015-Aug-17
+:END:
+
+*** linkffn()
+
+In the brackets put the name of the fic you want. :)
+:PROPERTIES:
+:Score: 8
+:DateUnix: 1439759087.0
+:DateShort: 2015-Aug-17
+:END:
+
+**** [[http://www.fanfiction.net/s/11420845/1/][*/Kitten Ears and Lion Hugs/*]] by [[https://www.fanfiction.net/u/1827773/babyvfan][/babyvfan/]]
+
+#+begin_quote
+  It's Harry's fourth year and fate couldn't have picked worse timing. Mated to a possessive Draco? Check, Entered in the Triwizard tournament? Check, successfully became the schools most wanted boyfriend? Check. Oh this was going to be a fun year. HP/DM fluff. Warnings: fluffy spankings Not bdsm *Creature fic, dominant Draco, submissive Harry*
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 7 *|* /Words/: 24,632 *|* /Reviews/: 31 *|* /Favs/: 70 *|* /Follows/: 120 *|* /Updated/: 8/14 *|* /Published/: 8/1 *|* /id/: 11420845 *|* /Language/: English *|* /Genre/: Humor/Romance *|* /Characters/: Harry P., Draco M. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=11420845][EPUB]]}
+
+--------------
+
+*Bot v1.1.2 - 7/28/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* /Direct EPUB downloads for FFnet!/
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 15
+:DateUnix: 1439759118.0
+:DateShort: 2015-Aug-17
+:END:
+
+***** Hahahahahaha I have no idea why I was linked this. I genuinely can't think of a fic I want to read less though...
+:PROPERTIES:
+:Score: 27
+:DateUnix: 1439759180.0
+:DateShort: 2015-Aug-17
+:END:
+
+****** I have no clue either. The bot is probably growing sentient anyways.
+:PROPERTIES:
+:Author: tusing
+:Score: 13
+:DateUnix: 1439777032.0
+:DateShort: 2015-Aug-17
+:END:
+
+
+****** Don't worry, we're not judging.
+
+linkffn()
+:PROPERTIES:
+:Author: deirox
+:Score: 9
+:DateUnix: 1439759620.0
+:DateShort: 2015-Aug-17
+:END:
+
+
+****** Don't be ashamed, everybody has their guilty pleasures.
+:PROPERTIES:
+:Author: blandge
+:Score: 4
+:DateUnix: 1439774293.0
+:DateShort: 2015-Aug-17
+:END:
+
+
+**** linkffn(the last marauder)
+:PROPERTIES:
+:Author: Annabellasimone
+:Score: 1
+:DateUnix: 1441655783.0
+:DateShort: 2015-Sep-08
+:END:
+
+
+*** Read usage tips [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][here.]]
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1439777047.0
+:DateShort: 2015-Aug-17
+:END:
+
+
+** Yeah why not? Seems like a good idea to me.
+:PROPERTIES:
+:Author: HollowBetrayer
+:Score: 4
+:DateUnix: 1439750282.0
+:DateShort: 2015-Aug-16
+:END:
+
+
+** I'm cool with that, can it be this thread? linkffn(3470741)
+
+I tried to link this by name the other day and got the wrong story.
+:PROPERTIES:
+:Author: cavelioness
+:Score: 5
+:DateUnix: 1439769804.0
+:DateShort: 2015-Aug-17
+:END:
+
+*** [[http://www.fanfiction.net/s/3470741/1/][*/Resolution/*]] by [[https://www.fanfiction.net/u/562135/GreenGecko][/GreenGecko/]]
+
+#+begin_quote
+  Sequel to Resonance and Revolution. Harry enters his second year as an Auror Apprentice. Snape's wedding looms, and Harry's odd new powers mature, creating mayhem, perilous temptations, and opportunities to gain real wisdom.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 83 *|* /Words/: 787,823 *|* /Reviews/: 2,994 *|* /Favs/: 1,371 *|* /Follows/: 1,562 *|* /Updated/: 11/13/2012 *|* /Published/: 4/1/2007 *|* /id/: 3470741 *|* /Language/: English *|* /Genre/: Adventure/Drama *|* /Characters/: Harry P., Severus S. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=3470741][EPUB]]}
+
+--------------
+
+*Bot v1.1.2 - 7/28/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* /Direct EPUB downloads for FFnet!/
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1439769811.0
+:DateShort: 2015-Aug-17
+:END:
+
+
+** It'd also be a good place for people to see what other FICA people are reading, and discover new fics to read in the process
+:PROPERTIES:
+:Author: WizardBrownbeard
+:Score: 3
+:DateUnix: 1439821676.0
+:DateShort: 2015-Aug-17
+:END:
+
+
+** If you're wanting links to a fic mentioned in a particular thread, I think it's better to do it there. It's relevant there and other people may be interested as well.
+:PROPERTIES:
+:Author: denarii
+:Score: 3
+:DateUnix: 1439752889.0
+:DateShort: 2015-Aug-16
+:END:
+
+*** It's not really just that, there's times I just want a fic downloaded and the bots the easiest way I know how.
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1439753101.0
+:DateShort: 2015-Aug-16
+:END:
+
+**** Oh, hm. [[/u/tusing]] could it be modified to respond to PMs? That seems like a better solution than a dedicated thread if someone wants to use it like this.
+:PROPERTIES:
+:Author: denarii
+:Score: 9
+:DateUnix: 1439753760.0
+:DateShort: 2015-Aug-17
+:END:
+
+***** This is something that will probably happen in the next major update, which is some time away. For now, at least, a sticky rec thread might be better.
+:PROPERTIES:
+:Author: tusing
+:Score: 7
+:DateUnix: 1439760106.0
+:DateShort: 2015-Aug-17
+:END:
+
+
+***** I agree that would probably work best. I still like the idea of a constantly updating rec thread though.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1439759125.0
+:DateShort: 2015-Aug-17
+:END:

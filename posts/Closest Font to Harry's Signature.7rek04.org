@@ -1,0 +1,42 @@
+#+TITLE: Closest Font to Harry's Signature?
+
+* Closest Font to Harry's Signature?
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1516323249.0
+:DateShort: 2018-Jan-19
+:END:
+[deleted]
+
+
+** His actual signature is [[http://vignette2.wikia.nocookie.net/harrypotter/images/f/f0/Harry_Potter_sig.png/revision/latest?cb=20150826224906][this.]] (it's in the Fantastic Beasts book). You might be able to just insert this into your document in the right place? I don't think there's a widely available font that matches his signature.
+:PROPERTIES:
+:Author: OwlPostAgain
+:Score: 1
+:DateUnix: 1516323903.0
+:DateShort: 2018-Jan-19
+:END:
+
+*** I don't think it's even a font, but actually hand drawn. The two r's and t's are slightly different.
+:PROPERTIES:
+:Author: AutumnSouls
+:Score: 1
+:DateUnix: 1516327333.0
+:DateShort: 2018-Jan-19
+:END:
+
+**** I would agree. There are other doodles and notes in the margins, so I'd imagine that all of them were done by the same person (though obviously with one handwriting style for Ron and one for Harry).
+:PROPERTIES:
+:Author: OwlPostAgain
+:Score: 2
+:DateUnix: 1516328006.0
+:DateShort: 2018-Jan-19
+:END:
+
+
+**** If you /really/ want to, you could make a font do that, by copious application of ligatures. This is occasionally useful for [[https://github.com/tonsky/FiraCode][programming fonts]].
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1516331853.0
+:DateShort: 2018-Jan-19
+:END:

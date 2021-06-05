@@ -1,0 +1,88 @@
+#+TITLE: An easy and simple way of getting fanfiction on your eReader!
+
+* An easy and simple way of getting fanfiction on your eReader!
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1420798842.0
+:DateShort: 2015-Jan-09
+:FlairText: Suggestion
+:END:
+[deleted]
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1420811733.0
+:DateShort: 2015-Jan-09
+:END:
+
+
+** ficsave.com can mail it directly to your kindle
+:PROPERTIES:
+:Author: Notosk
+:Score: 2
+:DateUnix: 1420803384.0
+:DateShort: 2015-Jan-09
+:END:
+
+*** [deleted]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1420841072.0
+:DateShort: 2015-Jan-10
+:END:
+
+**** must be you the site works for me perfectly and the convertion is quite fast compared to, say, fanfictiondownloader.
+:PROPERTIES:
+:Author: Notosk
+:Score: 1
+:DateUnix: 1420893336.0
+:DateShort: 2015-Jan-10
+:END:
+
+
+*** ficsave -> download -> dump onto ereader.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1420884804.0
+:DateShort: 2015-Jan-10
+:END:
+
+**** I have a kindle so i only need to paste the link on ficsave and it gets delivered directly to my kindle without needing to connect it to the PC
+:PROPERTIES:
+:Author: Notosk
+:Score: 1
+:DateUnix: 1420893258.0
+:DateShort: 2015-Jan-10
+:END:
+
+
+** On your quick question, I'd suggest you do a search for similar stories to see how you're comparing to them.
+
+Like
+
+- Language = English\\
+- Words < 5000\\
+- With primary characters as you've tagged it\\
+- Rating = All
+- Sort by Publish date
+
+This last one should help in that you'll see the newest stories and be able to compare interest for readers using particular search parameters. The difference would be to check whether more successful stories are being posted by authors with other stories under their belt already. That way you won't feel bad since they've got a pre-existing audience boosting their numbers.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 1
+:DateUnix: 1420822550.0
+:DateShort: 2015-Jan-09
+:END:
+
+
+** Duly noted is the ffdownloader plugin for calibre. Works beautifully on all sites ;except for aff which is blocked and smaller archives. From Calibre you can convert and send your books to your kindle in the corrtect format. I use the OPDS server to wirelessly send it to my phone. Also a great way to sync up your library of books when wire connected so you can see what you have your device and match it to what you have in library-because sometimes I download directly from AO3 but forget to put it on my computer to archive.
+
+Side question: anything that works on linux for aff? I tried ficsave and the formatting was horrid- like whole missing chapters horrid. I could use my windows laptop but just checking to see what I have missed.
+:PROPERTIES:
+:Author: tootiredtobother
+:Score: 1
+:DateUnix: 1420883566.0
+:DateShort: 2015-Jan-10
+:END:

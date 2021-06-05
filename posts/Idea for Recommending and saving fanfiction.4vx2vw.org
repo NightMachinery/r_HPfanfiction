@@ -1,0 +1,109 @@
+#+TITLE: Idea for Recommending and saving fanfiction
+
+* Idea for Recommending and saving fanfiction
+:PROPERTIES:
+:Score: 10
+:DateUnix: 1470204622.0
+:DateShort: 2016-Aug-03
+:FlairText: Discussion
+:END:
+[deleted]
+
+
+** I like the idea somewhat but don't see how feasible it could be.
+
+Also, a lot of people hold on to copies of deleted fics because authors deliberately took them down. The authors chose to take them down for a reason. Sending out attachments through e-mail is one thing, I don't think publicly uploading them is a good idea.
+:PROPERTIES:
+:Author: susire
+:Score: 6
+:DateUnix: 1470205049.0
+:DateShort: 2016-Aug-03
+:END:
+
+*** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1470205349.0
+:DateShort: 2016-Aug-03
+:END:
+
+**** This is a dickish way to look at it. "CUZ I WANTS" isn't a good reason to have everything ever. If the author takes a story down, have the respect for the creator of the story you like so much and don't deliberately go against them. It's the same with "continuing" or "adopting" stories that are abandoned by authors for whatever reason. It's their prerogative to chuck it into the trash. It's something they did for free and gave away for free. If you don't have permission from the author, whether because they refused or can't be reached, swallow your sad feels and leave it be. Don't be an ass.
+:PROPERTIES:
+:Author: ScottPress
+:Score: 8
+:DateUnix: 1470227731.0
+:DateShort: 2016-Aug-03
+:END:
+
+
+**** Except when authors take them down because they've published real books. The least people could do is respect their wishes. If someone wants a deleted fic enough and they already can't find it on different archives they can ask around and maybe someone will be nice enough to share a copy. But I think deliberately uploading it to the public is taking it too far.
+:PROPERTIES:
+:Author: susire
+:Score: 3
+:DateUnix: 1470205800.0
+:DateShort: 2016-Aug-03
+:END:
+
+***** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1470206310.0
+:DateShort: 2016-Aug-03
+:END:
+
+****** It's sad that we lose the story but that's ultimately the author's decision, it doesn't belong to us, it belongs to the author. It's not up to us to preserve it on the nets against the author's consent and expressed wishes.
+
+Edit: I'm reacting to the 'once you upload it thats that' train of thought, not the situation where it was accidentally removed
+:PROPERTIES:
+:Author: 4give4get4sake
+:Score: 4
+:DateUnix: 1470207588.0
+:DateShort: 2016-Aug-03
+:END:
+
+******* [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1470208406.0
+:DateShort: 2016-Aug-03
+:END:
+
+******** Maybe but if the author says "I'm fine with people emailing copies to each other but I'm not fine with it being up on the web" then that's up to the author not us because it belongs to them.
+:PROPERTIES:
+:Author: 4give4get4sake
+:Score: 4
+:DateUnix: 1470208667.0
+:DateShort: 2016-Aug-03
+:END:
+
+
+**** u/spacehurps:
+#+begin_quote
+  My view on it is that if some one writes a free story and then uploads it online, that's that. Once it's out there, it's out there.
+#+end_quote
+
+You may be conflating gratis with libre. These stories carry no cost for the reader, but being gratis doesn't give readers free rein to do whatever they want with them, not unless they were released under the appropriate license, eg a CC license. Better to get permission before sharing.
+:PROPERTIES:
+:Author: spacehurps
+:Score: 3
+:DateUnix: 1470249817.0
+:DateShort: 2016-Aug-03
+:END:
+
+
+** The problem you'll have with dropbox is that anyone can delete anything. It doesn't really support folder by folder permissions. BTSync is a little bit better, but last I checked it doesn't support sharing files to those who don't have the app installed. The other problem you're going to have is that a lot of authors of fanfic will, strangely enough, actually send DMCA takedown requests that places like dropbox will honor. And it isn't even authors of deleted fics who do this; a lot of authors don't want fics mirrored anywhere but FFN. I can't understand feeling strongly enough about that to lawyer up over a fanfic, but at least two authors do. So for your web links you're going to need to find a web host in a country that doesn't take DMCA requests. I'm speaking here from personal experience; I used to be involved with an archive that mirrored fanfics in .txt format, to make it easier for blind folks to read with screen-readers, and it got lots of takedown requests. The archive eventually had to go private, and now you need to know the server owner and get a username/password to access it.
+:PROPERTIES:
+:Author: fastfinge
+:Score: 2
+:DateUnix: 1470239717.0
+:DateShort: 2016-Aug-03
+:END:
+
+
+** How about archive.org? and then compile the links in a dropbox file?
+:PROPERTIES:
+:Author: cinchCur
+:Score: 1
+:DateUnix: 1470216902.0
+:DateShort: 2016-Aug-03
+:END:

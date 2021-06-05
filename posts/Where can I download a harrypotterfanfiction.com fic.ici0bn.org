@@ -1,0 +1,35 @@
+#+TITLE: Where can I download a harrypotterfanfiction.com? fic?
+
+* Where can I download a harrypotterfanfiction.com? fic?
+:PROPERTIES:
+:Author: ncarbia
+:Score: 2
+:DateUnix: 1597816102.0
+:DateShort: 2020-Aug-19
+:END:
+ff2ebook doesn't seem to be working with this site anymore. Thanks for your help!
+
+
+** [[https://www.reddit.com/r/HPfanfiction/comments/icf5ov/a_replacement_for_fluff/g22x7lb/]]
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1597823681.0
+:DateShort: 2020-Aug-19
+:END:
+
+*** Fanficfare just failed for me on the first one I tried. :(
+:PROPERTIES:
+:Author: chlorinecrownt
+:Score: 1
+:DateUnix: 1597838066.0
+:DateShort: 2020-Aug-19
+:END:
+
+**** Yes, openSUSE-packaged one 3.21.0 broke over [[https://harrypotterfanfiction.com/viewstory.php?psid=260207]], but the last update from PyPI worked: = tmp@stitny$ python3 -mvenv fffare tmp@stitny$ cd fffare/ fffare@stitny$ source bin/activate (fffare) fffare@stitny$ pip3 install fanficfare Collecting fanficfare   Downloading FanFicFare-3.22.0.tar.gz (356 kB)      |████████████████████████████████| 356 kB 1.3 MB/s  Collecting beautifulsoup4   Downloading beautifulsoup4-4.9.1-py3-none-any.whl (115 kB)      |████████████████████████████████| 115 kB 2.0 MB/s  Collecting chardet   Using cached chardet-3.0.4-py2.py3-none-any.whl (133 kB) Collecting html5lib   Downloading html5lib-1.1-py2.py3-none-any.whl (112 kB)      |████████████████████████████████| 112 kB 2.1 MB/s  Collecting html2text   Downloading html2text-2020.1.16-py3-none-any.whl (32 kB) Collecting soupsieve>1.2   Downloading soupsieve-2.0.1-py3-none-any.whl (32 kB) Collecting webencodings   Using cached webencodings-0.5.1-py2.py3-none-any.whl (11 kB) Collecting six>=1.9   Using cached six-1.15.0-py2.py3-none-any.whl (10 kB) Using legacy setup.py install for fanficfare, since package 'wheel' is not installed. Installing collected packages: soupsieve, beautifulsoup4, chardet, webencodings, six, html5lib, html2text, fanficfare     Running setup.py install for fanficfare ... done Successfully installed beautifulsoup4-4.9.1 chardet-3.0.4 fanficfare-3.22.0 html2text-2020.1.16 html5lib-1.1 six-1.15.0 soupsieve-2.0.1 webencodings-0.5.1 WARNING: You are using pip version 20.1.1; however, version 20.2.2 is available. You should consider upgrading via the '/home/matej/Knihy/fanfiction/tmp/fffare/bin/python3 -m pip install --upgrade pip' command. (fffare) fffare@stitny$ bin/fanficfare 'https://harrypotterfanfiction.com/viewstory.php?psid=260207' ............................................................................(fffare) fffare@stitny$ = I will promptly upgrade the OpenSUSE package.
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1597842708.0
+:DateShort: 2020-Aug-19
+:END:

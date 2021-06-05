@@ -1,0 +1,539 @@
+#+TITLE: Transfiguration and Gamp's Law: What is "Good Food"?
+
+* Transfiguration and Gamp's Law: What is "Good Food"?
+:PROPERTIES:
+:Author: Taure
+:Score: 69
+:DateUnix: 1551044645.0
+:DateShort: 2019-Feb-25
+:FlairText: Discussion
+:END:
+The food exception to Gamp's Law (the "Exception") is well known and heavily discussed already. The settled understanding (and indeed, my own previous understanding) appears to be that the Exception states that you cannot create anything edible through either conjuration or transfiguration, except out of items which are already edible. To this we can add that Charms like Aguamenti appear to fall outside the scope of the rule.
+
+However, I think it's worth taking a closer look at the discussion that Harry, Ron and Hermione had, in particular looking closer at the context of the discussion rather than limiting ourselves to Hermione's statement of the Exception.
+
+#+begin_quote
+  Autumn rolled over the countryside as they moved through it. They were now pitching the tent on mulches of fallen leaves. Natural mists joined those cast by the dementors; wind and rain added to their troubles. The fact that Hermione was getting better at identifying edible fungi could not altogether compensate for their continuing isolation, the lack of other people's company, or their total ignorance of what was going on in the war against Voldemort.
+
+  “My mother,” said Ron on night, as they sat in the tent on a riverbank in Wales, “can make good food appear out of thin air.”
+
+  He prodded moodily at the lumps of charred gray fish on his plate. Harry glanced automatically at Ron's neck and saw, as he has expected, the golden chain of the Horcrux glinting there. He managed to fight down the impulse to swear at Ron, whose attitude would, he knew, improve slightly when the time came to take off the locket.
+
+  “Your mother can't produce food out of thin air,” said Hermione. “no one can. Food is the first of the five Principal Exceptions to Gamp's Law of Elemental Transfigura---”
+
+  “Oh, speak English, can't you?” Ron said, prising a fish out from between his teeth.
+
+  “It's impossible to make good food out of nothing! You can Summon it if you know where it is, you can transform it, you can increase the quantity if you've already got some---”
+
+  “Well, don't bother increasing this, it's disgusting,” said Ron.
+
+  “Harry caught the fish and I did my best with it! I notice I'm always the one who ends up sorting out the food, because I'm a girl, I suppose!”
+
+  “No, it's because you're supposed to be the best at magic!” shot back Ron.
+
+  Hermione jumped up and bits of roast pike slid off her tin plate onto the floor. “You can do the cooking tomorrow, Ron, you can find the ingredients and try and charm them into something worth eating, and I'll sit here and pull faces and moan and you can see you---”
+#+end_quote
+
+The context is this: our heroes already have plenty of edible ingredients (fish and mushrooms), the problem is that they don't like how it tastes because none of them know how to cook. Ron wishes for /good food/, not any food at all, and Hermione specifically states the Exception in terms of inability to create "good food" out of nothing.
+
+The use of the word "good" repeatedly seems to be a deliberate qualification by JKR. It's not something you would just accidentally include in there.
+
+It seems clear from these contextual considerations that the Exception prevents you from making food which is ready-to-eat. It does not necessarily prevent you from making things which could be turned into food, /if you know how to cook/ and presumably how to butcher an animal. This fits together with the rest of canon better than the "you can't make anything edible" interpretation, given that we see McGonagall turn a desk into a pig and Cedric turn a rock into a dog.
+
+I suspect that what JKR is trying to do here is *not* to limit wizards' ability to provide for themselves with magic, as people have previously suspected, but rather to close off the plot hole of "if you can conjure up a complete meal, why do we see wizards preparing food with Charms?". The purpose of the Exception appears to be to preserve the utility of magical cooking by preventing wizards from skipping directly to the finished product.
+
+One ambiguity remains, however. Why do they catch fish and forage for mushrooms? Why not transfigure a rock into a pig like McGonagall did and save themselves the time? But this can presumably be answered by the fact that transfiguration remains very difficult and none of them are yet fully qualified wizards. It may be that even Hermione is not fully confident of creating, say, a pig with transfiguration. After all, I don't think we see them transfigure anything larger than a turtle in class, and size is definitely a significant factor which contributes to the difficulty of transfiguration.
+
+
+** u/Threedom_isnt_3:
+#+begin_quote
+  the problem is that they don't like how it tastes because none of them know how to cook
+#+end_quote
+
+Wait a sec, I thought Harry was a Michelin-star chef because he flipped some slices of bacon as a kid!
+
+#+begin_quote
+  It seems clear from these contextual considerations that the Exception prevents you from making food which is ready-to-eat.
+#+end_quote
+
+In this case, is did magic develop exclusively from human beings (instead of it being an inherent quality of the earth or something)? The ready-to-eat concept seems to be so tied into what humans consider ready-to-eat. If wizarding society underwent some sort of change where they thought raw meat was a ready to eat meal, would they then be unable to conjure it?
+:PROPERTIES:
+:Author: Threedom_isnt_3
+:Score: 23
+:DateUnix: 1551060759.0
+:DateShort: 2019-Feb-25
+:END:
+
+*** u/Taure:
+#+begin_quote
+  In this case, is did magic develop exclusively from human beings (instead of it being an inherent quality of the earth or something)?
+#+end_quote
+
+There is a third possibility which seems more likely: the rules of magic are an inherent quality of the universe, but the universe is also inherently for humans. In many ways, an anthropocentric universe is an inevitable conclusion of the HP magic system - not only because of the way that things like "food", "secrets", "murder" etc. form part of magical law, but also because of even more fundamental things like the fact that humans have souls and (apparently) an afterlife.
+
+By the time the series ended, JKR was basically a short step away from revealing that god exists and he likes Harry better than Voldemort.
+:PROPERTIES:
+:Author: Taure
+:Score: 12
+:DateUnix: 1551079121.0
+:DateShort: 2019-Feb-25
+:END:
+
+**** u/4ecks:
+#+begin_quote
+  god exists and he likes Harry better than Voldemort.
+#+end_quote
+
+Did you just assume god's gender?!
+
+Seriously though, we all know the Potterverse's supreme omnipotent entity in charge of everything from fundamental laws to an individual's free will is JKR
+:PROPERTIES:
+:Author: 4ecks
+:Score: 3
+:DateUnix: 1551080117.0
+:DateShort: 2019-Feb-25
+:END:
+
+***** u/Taure:
+#+begin_quote
+  Did you just assume god's gender?!
+#+end_quote
+
+Of course if JKR had revealed god in DH, she would have written him as a bearded Zeus-like man and then 10 years later on Twitter revealed that she had always intended god to be read as a woman.
+:PROPERTIES:
+:Author: Taure
+:Score: 22
+:DateUnix: 1551080416.0
+:DateShort: 2019-Feb-25
+:END:
+
+
+** A lot of the shit JKR says is super ambiguous, and spending more than 2 seconds thinking about it makes you realize that it doesnt make sense on deeper inspection. Like the whole "increasing quantity", going by the letter of the law, is completely broken. Take 1 gram of bread and make it infinite? Or, if you think it has to be balanced, the balancing point is not having that a thing to begin with.
+
+To me, the fix is that you can make as much food as you want, but there's no increased calorie count. So you can turn a 6 inch piece of bread with 300 hundred calories into a 12 inch bread with 300 hundred calories. You can conjure a cupcake, have it taste amazing, will make you feel full, trick your body into thinking that, but doesn't actually provide any substance. Doing anything more than that kind of breaks the magic system, even it it would be arguably canon.
+:PROPERTIES:
+:Author: Lord_Anarchy
+:Score: 24
+:DateUnix: 1551051173.0
+:DateShort: 2019-Feb-25
+:END:
+
+*** Eating 8 slices of pizza while only having the calories of one would be amazing for anyone on a diet, though the downside is that they don't learn good eating habits that way.
+
+However, making food that is structurally identical to its transfigured/duplicated/enlarged original, and /not/ have any calories is impossible. It either is a slice of cake, with the same structure of starch and sugar on the inside, which breaks down into calories when consumed... or it's /not/ a slice of cake, but an illusion that provides the same sensory experience of eating one. Considering that Transfiguration class has shown that the changes are physical, I think it just begs more questions (and creates more system breaking) if the cake is a lie.
+
+And the, artificiality, for lack of a better word, of such a restriction further suggests that there's some kind of intelligent entity or Dungeon Master behind the scenes screeching, "No, you can't do this!".
+:PROPERTIES:
+:Author: 4ecks
+:Score: 17
+:DateUnix: 1551051835.0
+:DateShort: 2019-Feb-25
+:END:
+
+**** u/TheVoteMote:
+#+begin_quote
+  However, making food that is structurally identical to its transfigured/duplicated/enlarged original, and not have any calories is impossible.
+
+  #+begin_quote
+    impossible
+  #+end_quote
+#+end_quote
+
+One might even say that such a thing would require magic or something.
+:PROPERTIES:
+:Author: TheVoteMote
+:Score: 7
+:DateUnix: 1551068144.0
+:DateShort: 2019-Feb-25
+:END:
+
+***** It's just semantics, brah.
+
+Is a piece of bread still /bread/ if it looks and tastes like bread, but doesn't have any of bread's inherent physical and thermodynamic properties? Does it burn at the same rate of real bread? Can you toast it, crumble it, and feed it to your chickens and still expect them to produce eggs? Can you ferment it, feed it to microbes, and create beer from it?
+
+It comes down to what Transfiguration/Duplication really is. If a magically generated starch molecule, a carbohydrate, cannot be broken down to its individual glucose units (basically what gaining energy/nutrition from food is), then by the proper definition, it's not starch. It sounds like way too much rational science wanking, which is true, but the TLDR version is that magical bread is either bona fide bread, or it's an extremely sophisticated illusory facsimile of bread. The Leprechaun gold version of bread.
+:PROPERTIES:
+:Author: 4ecks
+:Score: 8
+:DateUnix: 1551069890.0
+:DateShort: 2019-Feb-25
+:END:
+
+****** No, there's a third option. It's /almost/ bonafide bread. It has /almost/ all of the properties. Look at it under a microscope, burn it, put it in a box for 100 years, do whatever you want and it will behave like bread. Except living beings can't sustain themselves on it. It doesn't work. You can't just rely on the physics, the molecular reactions. It simply, magically, does not work.
+
+I suppose you could say it has all of the physical properties, but not the magical ones. In this theoretical possibility, it wouldn't be a terrible stretch to say that duplicated food is inherently cursed to be nutritionally inhibited.
+:PROPERTIES:
+:Author: TheVoteMote
+:Score: 11
+:DateUnix: 1551071054.0
+:DateShort: 2019-Feb-25
+:END:
+
+******* I think you're kind of both right?
+
+It is Bread until it is /Not-Bread/, which in my mind, is when the chemical is no longer what it originally was. If the carbohydrate is being transformed into glucose, it's no longer a carbohydrate, and the magic fails.
+
+My headcanon is that anything conjured from nothing can only maintain an existence until it is destroyed. If you conjure food, you eat it, it tastes exactly like what it is supposed to be, but as your body digests it, it winks out of existence. Gone. Poof. A microscopic portion disappears bit by bit. It would technically /cost/ you calories because your body drums up its "oh boy here's some energy!" mechanisms only to receive nothing of use, kind of like eating celery or munching on ice.
+
+If you conjure something from nothing, it is only as "tough" as the caster's will, talent, magical expression, intelligence, "power" if that's your thing, etc. put into said conjuration. Conjuring monsters is as useful as your ability to control and maintain the magical construct in your mind's eye, so to speak. Some conjurations would fail to a simple /Finite Incatatem/ and others might survive if the caster thought to include protection from it in the conjuration spell.
+
+I will also hold that duplication are also temporary: once the duplicated object(s) is destroyed it ceases to exist. Permanence charms can be placed on them, but that is a really bad idea for food you want to eat. Any and all magic has a counterbalance of some form, anything can be beaten or countered or circumnavigated in some form, there's no perfectly unstoppable spell.
+
+This is why you can't just duplicate a shitload of lumber or gold or steel or whatever and just make bank selling it, because raw material is always transformed into something else, thus "destroying" the duplication -- but you /might/ be able to duplicate crafted objects, set permanency charms / runes on them and sell them, since they'll likely last longer than the end user will ever need them and they can hold up to some wear-and-tear, and crafted objects aren't commonly taken apart and put back together. You could conjure a car and it would act like a car, but the second you try to change a belt or take it apart, it fails to be a car. You could conjure the bolts and nuts and belts and screws and other materials to build a car, provided you don't destroy anything in the process, but that is hardly more efficient than industrialized manufacturing. You could take an existing car and transform it using magic, but that transformation only holds as long as the spell or spells.
+
+Currency is obviously protected from such as banks and institutions check currency regularly for such tricks, and once the magic is removed, said currency would just vanish.
+
+Chemical substances, or "matter" might be transfigured from existing material to form a new substance, but this is the route of Alchemy. My head canon is that the difficulty, will, knowledge, and precision of Alchemy-Transfiguration is directly proportional to your own knowledge of said substance and its scope: rearranging or even manipulating atoms requires incredibly rare skill and precision that is seen in maybe a single magic user in a generation, necessitates atomically-attuned equipment or runes, etc. I think White Squirrel's fics get close to how I see Alchemy, but I think make it a bit too easy for the protagonist. True Alchemy requires complete Transfiguration, no partiality or mistakes, or else the entire substance doesn't "exist" according to magic.
+
+I think the only area I'm really hard-pressed to figure out is stuff that deals with electromagnetism. It's just a force of nature; bring a ferromagnetic material close to something with the right charge, and bam! Electricity. But, can you conjure a working computer? Do you need to know /how/ a computer works, down to the atomically small switches, gates, and transistors? I don't know, I'd like to see a fanfic that tackles computer science and engineering in some fashion with magic.
+
+Sorry if that was rambling I'm tired :(
+:PROPERTIES:
+:Author: Poonchow
+:Score: 10
+:DateUnix: 1551088445.0
+:DateShort: 2019-Feb-25
+:END:
+
+******** u/ParanoidDrone:
+#+begin_quote
+  I don't know, I'd like to see a fanfic that tackles computer science and engineering in some fashion with magic.
+#+end_quote
+
+Don't a bunch of Avengers crossovers do this in some fashion? Tony Stark being who he is and all.
+:PROPERTIES:
+:Author: ParanoidDrone
+:Score: 2
+:DateUnix: 1551106846.0
+:DateShort: 2019-Feb-25
+:END:
+
+
+****** You're assuming that the chemical description of matter is correct in the HP universe which (given the ways we see matter behave in the magical world) seems unlikely. At best it's a partial description, at worst it's completely wrong.
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1551079345.0
+:DateShort: 2019-Feb-25
+:END:
+
+
+*** I don't think that's the only option. I tend to think that there's a limit to how much you can replicate any one piece of food, and replicating replications is no good.
+:PROPERTIES:
+:Author: TheVoteMote
+:Score: 2
+:DateUnix: 1551068061.0
+:DateShort: 2019-Feb-25
+:END:
+
+
+** (Gonna talk out of my ass now). I think the big issue here is what we don't really know what the theory behind transfiguration really is. It's implied that something is there, but we can only guess about it. Given that the whole class is devoted to transfiguring one object into the other, I would say that every type of transfiguration requires a separate spell: like rat into cup, gerbil into cup, mouse into cup would all be slightly different spells.
+
+But obviously you don't have to memorize them all. If you know the theory you can probably modify the spell you know to your purpose, using principles you learn at school or even make it from scratch. Some things are harder than others too, clearly.
+
+So in Hermione's case if she wanted to to transfigure a rock into potato she would break out her notes (or recall) the spell they learned in class, say to transfigure a rock into apple, change the spell a bit and get a potato. And fry it.
+
+Why doesn't she do it? Possible reasons: she doesn't recall enough/no notes, doesn't know pseudo latin word for potato, doesn't trust herself to get it right, fish and mushrooms are already there and easier, idk.
+
+Why can't anyone transfigure a rock into fried potato? Maybe because of the qualifier. Can you transfigure a rat into silver small cup? Or is the type of the cup decided without your conscious input? So you'd have to transfigure rat into any cup, then cup into silver cup, then shrink it (charm). Maybe raw to cooked is not fundamental enough change for transfiguration, just like small/big apparently isn't. Simply out of it's theoretical scope.
+:PROPERTIES:
+:Author: pdv190
+:Score: 6
+:DateUnix: 1551066246.0
+:DateShort: 2019-Feb-25
+:END:
+
+*** u/4ecks:
+#+begin_quote
+  Why doesn't she do it? Possible reasons: she doesn't recall enough/no notes, doesn't know pseudo latin word for potato
+#+end_quote
+
+Another reason: Potatoes are a New World vegetable, and ancient Romans had no idea what they were, so naturally there's no native Latin word for it. That's the reason why so many modern European languages call them "apples of the earth" or "dirt apples".
+
+Though, honestly, the whole tent sequence in DH was pure plot railroading, so that's why the characters forgot their common sense. It would have been way easier for them to buy a small bit of food and Engorgio it until they had enough to feed everyone.
+
+#+begin_quote
+  In the end they settled down for the night in a far-flung field belonging to a lonely farm, from which they had managed to obtain eggs and bread.
+
+  ‘It's not stealing, is it?' asked Hermione in a troubled voice, as they devoured scrambled eggs on toast. ‘Not if I left some money under the chicken coop?'
+
+  Ron rolled his eyes and said, with his cheeks bulging, ”Er-mynee, ‘oo worry ‘oo much. ‘Elax!'
+
+  And, indeed, it was much easier to relax when they were comfortably well fed: the argument about the Dementors was forgotten in laughter that night, and Harry felt cheerful, even hopeful, as he took the first of the three night watches. This was their first encounter with the fact that a full stomach meant good spirits; an empty one, bickering and gloom.
+#+end_quote
+:PROPERTIES:
+:Author: 4ecks
+:Score: 3
+:DateUnix: 1551067118.0
+:DateShort: 2019-Feb-25
+:END:
+
+**** Makes sense. Though it may not be necessary to name the things you transfigure in the incantation, maybe the spell is modified in some other way, mental or something. I was just trying for a joke there.
+
+My memories of DH are a bit fuzzy. They seemed to be very determined to stay in the woods and be seen by no one, not even muggles, there could be a magical reason for that, given that they are being looked for by some powerful wizards. Or maybe not, and it's just my wishful thinking.
+
+In any case, in this sort of world-building discussion, it's best to assume every word is there for a reason (unless it's a total contradiction) or it won't be fun. OP probably wants to talk about transfiguration, not plot holes.
+:PROPERTIES:
+:Author: pdv190
+:Score: 2
+:DateUnix: 1551069459.0
+:DateShort: 2019-Feb-25
+:END:
+
+
+** While what you said does make sense, that doesn't mean the Law is perfect. Hermione is able to conjure roses with her wand to lay on the Potters' tombstone, but she's apparently incapable of conjuring any sort of vegetable.
+:PROPERTIES:
+:Author: CryptidGrimnoir
+:Score: 7
+:DateUnix: 1551046107.0
+:DateShort: 2019-Feb-25
+:END:
+
+*** Well, the fact that you can apparently perform conjuration with both Charms and Transfiguration spells, and the difference between the two, is not touched upon by the above explanation. One assumes that Charms are subject to different rules.
+
+Regardless, JKR has stated that conjurations do not last (presumably this applies to both Charms and Transfiguration) so it would be pretty inadvisable to eat anything conjured.
+:PROPERTIES:
+:Author: Taure
+:Score: 14
+:DateUnix: 1551046656.0
+:DateShort: 2019-Feb-25
+:END:
+
+**** The rational part of my mind wants all magic to behave in a universal way: charms, transfigurations, runes, curses, hexes, jinxes, etc. are all just the same thing operating in different categories or forms. The same way Math is just an explanation of how the universe works, and all the various Sciences are just extrapolation and interpretation of fundamental Truths, so a Charm is only different from a Transfiguration because people said it was. They just assigned a category, but I know JKR didn't exactly build magic to be that way.
+:PROPERTIES:
+:Author: Poonchow
+:Score: 2
+:DateUnix: 1551089575.0
+:DateShort: 2019-Feb-25
+:END:
+
+
+** Thank you! There remains the question: why? I'm already mulling over possible explanations within /my/ view of the magic systems, as I'm sure anyone else in this sub with their own coherent model has done. How about you? How does this fit into your concept-based vision of the HP magic system? Because an intangible factor of "edibleness" that cannot be conjured out of nothing, and is separate from purely biochemical concerns, as was your previous speculation, did seem to fit naturally into that view of the magic system. But "you can make pigs, but not cured ham" sure doesn't.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 6
+:DateUnix: 1551045289.0
+:DateShort: 2019-Feb-25
+:END:
+
+*** Well, "food" is just as much a concept as "edibility". It's just a different, narrower concept which is the target of the exception. Under the conceptual view of magic, basically any category that can be expressed in language can be recognised by magic. They don't have to be "natural kinds". For example, Squibs and Muggles both have no magic whatsoever--they are the same "natural kind"--but we know that spells can target one but not the other (Muggle Repelling Charm on Hogwarts doesn't repel Filtch). So magic can distinguish between things which are the same natural kind but have different social associations.
+:PROPERTIES:
+:Author: Taure
+:Score: 10
+:DateUnix: 1551045461.0
+:DateShort: 2019-Feb-25
+:END:
+
+**** That still makes no sense when it comes to processed foods. Take canned Ravioli as an example. It's not a gourmet dinner, but it gets the job done. Yet I know countless people who wouldn't consider eating it because it has questionable meat or too much chemicals inside. So would those people be able to transfigure some because they don't consider it good food while I could not?
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 1
+:DateUnix: 1551093997.0
+:DateShort: 2019-Feb-25
+:END:
+
+
+*** Hmm perhaps there would be specific transfigurations for each stage of food. As far as I know there is no free transfiguration in canon? Everything is done by a proper spell that changes one substance into another.
+
+So maybe you have a turn rock in squash spell. But to turn a rock into a perfectly cut well fried, still warm version would take a completely different spell and probably be considerably more difficult. And you would need a different spell for every different iteration of each food item you might want.
+
+Perhaps since raw ingredients are vastly more usefull then specific recipes these are the spells people would actually put time and effort into?
+:PROPERTIES:
+:Author: smellinawin
+:Score: 1
+:DateUnix: 1551049523.0
+:DateShort: 2019-Feb-25
+:END:
+
+
+** I'm guessing that something that is transfigured still somehow 'remembers' it's original state since transfigurations generally can be undone and they are sometimes not permanent. So a rock transfigured into an apple would still 'remember' being a rock and turn back into a rock if you cast 'finite' on it, and it would probably be as unhealthy to eat as a rock.
+
+On the other hand, if you could take atoms from the source material and rearrange them into new molecules without magical residue on them you could probably create edible food, it'd just be ridiculously complicated because you'd have to know the molecular structure of each vitamin, amino acid, lipid, etc
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 2
+:DateUnix: 1551107274.0
+:DateShort: 2019-Feb-25
+:END:
+
+
+** What about the rules of magic prohibit ready-to-eat food? What defines ready to eat? People eat live octopi, even normal people eat fruit and vegetables raw.
+
+The only consistent explanation I could give for this is this: /you cannot create nutrition with magic/. The reason you can't make an animal and eat it would become /because it's not made of meat./ Transfigured objects, once they have lost their structural integrity, become what they were made from.
+
+However, it's been stated that you can make more food if you have some already. This... this makes no sense. The whole purpose of having Gamp's law narratively is so people (Harry Ron and Hermione) need to obtain food in order to have food. But if you have even a little good food, you can apparently just make more.
+:PROPERTIES:
+:Author: UbiquitousPanacea
+:Score: 2
+:DateUnix: 1551131105.0
+:DateShort: 2019-Feb-26
+:END:
+
+*** The whole point of their conversation is they have edible food- river fish and mushrooms- but it tastes like ass because they don't know how to cook/turn it into something that tastes good.
+
+So yeah they could conjure up a live octopus and chow down- and then promptly throw it back up since they don't like eating raw seafood. They could multiply the crappy fish Harry caught for days, but it doesn't address the actual issue that it tastes like dog chow. The argument started not because they were starving, but because Ron was homesick and wanted his mum's cooking.
+
+Now, you could certainly ask why they didn't have some good food- preserve some leftovers and keep duplicating/enlarging it- but I guess they were underprepared or didn't think of it in time. Or why not make some fruits/veggies? Maybe it's harder than you'd think, or they just didn't learn how. Not even Hermione knows every spell.
+:PROPERTIES:
+:Author: awfulrunner43434
+:Score: 2
+:DateUnix: 1551242223.0
+:DateShort: 2019-Feb-27
+:END:
+
+**** They robbed places and had a few good meals, they could have just made more that way.
+
+'Good food' is entirely subjective, why would that be a law?
+:PROPERTIES:
+:Author: UbiquitousPanacea
+:Score: 2
+:DateUnix: 1551293325.0
+:DateShort: 2019-Feb-27
+:END:
+
+***** They're using it as a metaphor for 'prepared' food. Or, at the most literal, good tasting. Go read the passage- it is, entirely, 100%, Ron bitching about Hermione's shit cooking, and Hermione rightfully getting on his case. Ron claims that his mother can create good (tasting) food out of thing air, but we know that's false, because we see her cooking. That's the crucial step, the exemption to Gamp's Law.
+
+One could create a pig through magical means- although Harry, Ron and Hermione can't, they aren't skilled enough.
+
+But one cannot create /bacon/. You have to make the pig, slaughter and butcher it, then cook it- all things which H, R and H can't or are unwilling to do. Although the butchering could be done with magic- cutting charms and the like. And that's to say nothing of spices and salts and whatnot.
+
+They have food. They aren't going to starve. They don't have /good tasting/ food- because none of them are cooks (whether with magical or non-magical means).
+
+Now, there's two issues- why couldn't they summon simple, tasty foods that can be eaten raw, or with minimal preparation? Fruits and veggies and the like. Who knows. Maybe they aren't skilled enough. Maybe fruits and veggies, being a byproduct (seed) of a plant, are weird, magically speaking. Or, what about cuts of raw meats, which are a thing, as you've said? Sure, one could do that- you still have to create and butcher the animal, which HHR can not, and then find it palatable, which HHR probably would not. At least not with their skills. They'd be more likely to give themselves food poisoning. I'll agree though, it does seem a stretch- especially since it came up again with the DA in the room of requirement, which probably would be a bit more talented, so to speak, than HHR.
+
+The other issue is why couldn't they just duplicate or enlarge the good-tasting food they did get, and preserve it? The trio were unprepared- they had to leave Grimmauld Place suddenly and thought it too risky to go into town, but still, I agree here. Seems more like Rowling just needed things a certain way and gave the trio the idiot ball to hold (for most of the book, honestly).
+
+Now why would such a law (well, exception to a law) be codified into reality? Because magic, in the HP universe, is anthropocentric, and weird. It can work on conceptual ideas, such as secrets (fidelius). It can grant animals self-awareness, then take it away (parseltongue). Souls exist, which is a whole can of worms. Gold has unique magical properties, distinct from its physical ones. So it really doesn't seem too much of a stretch to me that there would also be a distinction between 'pig' and 'bacon'.
+:PROPERTIES:
+:Author: awfulrunner43434
+:Score: 2
+:DateUnix: 1551295723.0
+:DateShort: 2019-Feb-27
+:END:
+
+****** Molly shoots sauce out of her wand...
+
+No part of creating food is beyond magical means. Transfiguration, cutting, heating... transfiguration into parts of an animal is even confirmed to be a thing, since Crouch was turned into a bone.
+:PROPERTIES:
+:Author: UbiquitousPanacea
+:Score: 1
+:DateUnix: 1551297604.0
+:DateShort: 2019-Feb-27
+:END:
+
+
+** You are multiplying entities to justify inconsistencies in the HP magic and Rowling's words. Like “Accio” is summoning things with the speed of light.
+
+Cedrig's dog is November of his 7th year. If Hermione is magical prodigy, as the most here assume, she could transfigure a dozen of rabbits (pig isn't the only edible animal) and resolve their problems with food completely.
+
+By the way, if Ron is complaining just about the taste of their food, it raises his bashing to a level not all Ron-bashing fics could reach.
+:PROPERTIES:
+:Author: DrunkBystander
+:Score: 4
+:DateUnix: 1551056902.0
+:DateShort: 2019-Feb-25
+:END:
+
+*** u/Taure:
+#+begin_quote
+  If Hermione is magical prodigy, as the most here assume,
+#+end_quote
+
+There's your problem. From HBP Chapter 11:
+
+#+begin_quote
+  As Hermione had predicted, the sixth years' free periods were not the hours of blissful relaxation Ron had anticipated, but times in which to attempt to keep up with the vast amount of homework they were being set. Not only were they studying as though they had exams every day, but the lessons themselves had become more demanding than ever before. Harry barely understood half of what Professor McGonagall said to them these days; even Hermione had had to ask her to repeat instructions once or twice.
+#+end_quote
+
+Hermione is very intelligent and works diligently. But it's not that all magic comes easily to her. Advanced transfiguration is something that even she has trouble with. She's more of a Percy Weasley than an Albus Dumbledore (or even Severus Snape).
+:PROPERTIES:
+:Author: Taure
+:Score: 8
+:DateUnix: 1551079464.0
+:DateShort: 2019-Feb-25
+:END:
+
+**** In that case she is behind not Dumbledore, but Cedric.
+
+But my point is that Rowling didn't hesitate to totally change her characters for the plot. Why do you think she didn't change magic rules for the same purpose? The only example with Fidelius demonstrates that the consistency is one of the last things she cared about.
+
+Edit: here is another example of Rowling changing rules of magic:
+
+DH:
+
+#+begin_quote
+  Within seconds Harry heard a weary, male voice.
+
+  ‘There ought to be a few salmon in here, or d'you reckon it's too early in the season? *Accio salmon!*'
+
+  There were several distinct splashes and then the slapping sounds of fish against flesh. Somebody grunted appreciatively.
+#+end_quote
+
+At the same time her FAQ at [[https://www.jkrowling.com/welcome-to-my-new-website/:]]
+
+#+begin_quote
+  Why couldn't Newt use ‘Accio' to retrieve all his beasts?
+
+  *‘Accio' only works on inanimate objects*. While people or creatures may be indirectly moved by ‘Accio-ing' objects that they are wearing or holding, this carries all kinds of risks because of the likelihood of injury to the person or beast attached to an object travelling at close to the speed of light.
+#+end_quote
+:PROPERTIES:
+:Author: DrunkBystander
+:Score: 3
+:DateUnix: 1551100062.0
+:DateShort: 2019-Feb-25
+:END:
+
+
+*** u/FerusGrim:
+#+begin_quote
+  Like “Accio” is summoning things with the speed of light.
+#+end_quote
+
+Of the examples in canon that we see of people using the Summoning Charm, which one gave you the impression that it summons things at the speed of light?
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 4
+:DateUnix: 1551066280.0
+:DateShort: 2019-Feb-25
+:END:
+
+**** FAQ at [[https://www.jkrowling.com/welcome-to-my-new-website/]]
+
+#+begin_quote
+
+  1. Why couldn't Newt use ‘Accio' to retrieve all his beasts? ‘Accio' only works on inanimate objects. While people or creatures may be indirectly moved by ‘Accio-ing' objects that they are wearing or holding, this carries all kinds of risks because of the likelihood of injury to the person or beast attached to an object travelling at *close to the speed of light*.
+#+end_quote
+:PROPERTIES:
+:Author: DrunkBystander
+:Score: 5
+:DateUnix: 1551066729.0
+:DateShort: 2019-Feb-25
+:END:
+
+***** JFC, Rowling at it again.
+
+#+begin_quote
+  "Accio Firebolt!" he shouted.
+
+  Harry waited, every fiber of him hoping, praying. . . . If it hadn't worked. . . if it wasn't coming. . . He seemed to be looking at everything around him through some sort of shimmering, transparent barrier, like a heat haze, which made the enclosure and the hundreds of faces around him swim strangely....
+
+  And then he heard it, speeding through the air behind him; he turned and saw his Firebolt hurtling toward him around the edge of the woods, soaring into the enclosure, and stopping dead in midair beside him, waiting for him to mount.
+#+end_quote
+
+Clearly not moving at 669,600,000 MPH.
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 10
+:DateUnix: 1551067183.0
+:DateShort: 2019-Feb-25
+:END:
+
+****** Exactly.
+
+Rowling didn't hesitate to totally change her characters in order to satisfy the plot (the 6th book), and they are the main and the biggest part of her story. The magic, while being a big part of the series, isn't the main part. I just don't understand why people think Rowling didn't change its rules for the plot purposes too (in fact, she did).
+:PROPERTIES:
+:Author: DrunkBystander
+:Score: 6
+:DateUnix: 1551067805.0
+:DateShort: 2019-Feb-25
+:END:

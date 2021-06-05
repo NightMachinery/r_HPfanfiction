@@ -1,0 +1,271 @@
+#+TITLE: What are your favorite nicknames for Harry and the gang?
+
+* What are your favorite nicknames for Harry and the gang?
+:PROPERTIES:
+:Author: Zerokun11
+:Score: 6
+:DateUnix: 1434545911.0
+:DateShort: 2015-Jun-17
+:FlairText: Discussion
+:END:
+Nearly every fanfiction I have ever read that has Harry and the gang (be it the trio, or a new one) become animagi while at school, gives them nicknames. So far, I have not found any I liked. My best example would be from Thanks to a Snake, where they named Harry Bay, Daphne as Snow, Blaise as Onyx, Susan as Chi Chi, Tracey as Cinnamon, Nevile as someone and Hermione was the only nice one which was latin for owl. So are there any good stories with nice nicknames for the animagi?
+
+
+** severus- 'the dark wizard formerly known as Prince'
+:PROPERTIES:
+:Author: zojgruhl
+:Score: 15
+:DateUnix: 1434560248.0
+:DateShort: 2015-Jun-17
+:END:
+
+
+** If I see 'Mione' one more time in a fic I'm gonna scream.
+:PROPERTIES:
+:Author: -Oc-
+:Score: 11
+:DateUnix: 1434568702.0
+:DateShort: 2015-Jun-17
+:END:
+
+*** I just don't see her as a nickname sort of girl, whether it's Mya, Mione, Mina, or any other form.
+:PROPERTIES:
+:Author: boomberrybella
+:Score: 5
+:DateUnix: 1434570512.0
+:DateShort: 2015-Jun-18
+:END:
+
+
+*** I'm actually using an extension on chrome to change 'Mione, Mione, and Mia to Hermione, as well as Dumbles to Dumbledore - I can get using it once or twice but definitely not all the time and absolutely not outside conversation.
+:PROPERTIES:
+:Author: asdreth
+:Score: 6
+:DateUnix: 1434574021.0
+:DateShort: 2015-Jun-18
+:END:
+
+**** Which of course now reads:
+
+#+begin_quote
+  I'm actually using an extension on chrome to change Hermione, Hermione, and Hermione to Hermione, as well as Dumbledore to Dumbledore
+#+end_quote
+:PROPERTIES:
+:Author: asdreth
+:Score: 4
+:DateUnix: 1434574133.0
+:DateShort: 2015-Jun-18
+:END:
+
+***** That's pretty funny and clever! Cutting down on those and the Pup, Prongslet, etc would definitely improve it-I'll have to try it out.
+:PROPERTIES:
+:Author: boomberrybella
+:Score: 2
+:DateUnix: 1434574782.0
+:DateShort: 2015-Jun-18
+:END:
+
+****** At some point I had also switched "the greater good" with "shits and giggles".
+
+Generally, whenever a fic overdoes it with something I like to mess around to keep it fresh...
+:PROPERTIES:
+:Author: asdreth
+:Score: 8
+:DateUnix: 1434574988.0
+:DateShort: 2015-Jun-18
+:END:
+
+******* How do you do this? Which extension do you use?
+:PROPERTIES:
+:Author: ClaraBlack
+:Score: 1
+:DateUnix: 1434580065.0
+:DateShort: 2015-Jun-18
+:END:
+
+******** [[https://chrome.google.com/webstore/detail/word-replacer/djakfbefalbkkdgnhkkdiihelkjdpbfh?hl=en-US][word replacer]]
+:PROPERTIES:
+:Author: asdreth
+:Score: 2
+:DateUnix: 1434580516.0
+:DateShort: 2015-Jun-18
+:END:
+
+
+****** I can tolerate pup, as in my mind I can associate that nickname to their inner animal being protective or what not.
+:PROPERTIES:
+:Author: redwings159753
+:Score: 1
+:DateUnix: 1434636839.0
+:DateShort: 2015-Jun-18
+:END:
+
+
+**** For anyone wondering, [[https://chrome.google.com/webstore/detail/word-replacer/djakfbefalbkkdgnhkkdiihelkjdpbfh?hl=en-US][here is a link to the extension]].
+
+Go into the options tab, click import, and then paste the following in:
+
+#+begin_example
+  {
+      "inputN": 4,
+      "values": [
+          {
+              "replaceWith": "Hermione",
+              "replaceWithinWords": false,
+              "toReplace": "Mione"
+          },
+          {
+              "replaceWith": "Hermione",
+              "replaceWithinWords": false,
+              "toReplace": "'Mione"
+          },
+          {
+              "replaceWith": "Hermione",
+              "replaceWithinWords": false,
+              "toReplace": "Mia"
+          },
+          {
+              "replaceWith": "Dumbledore",
+              "replaceWithinWords": false,
+              "toReplace": "Dumbles"
+          }
+      ]
+  }
+#+end_example
+
+If you change replaceWithinWords to true it will cause some issues like Hermione becoming HerHermione.
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 2
+:DateUnix: 1434605153.0
+:DateShort: 2015-Jun-18
+:END:
+
+
+*** Meh, I don't grok why people get so upset about Mione. Prongslet, cub and all the other cutesy names people have Sirius call Harry on the other hand... /twitch/.
+:PROPERTIES:
+:Author: denarii
+:Score: 5
+:DateUnix: 1434582765.0
+:DateShort: 2015-Jun-18
+:END:
+
+**** Hermione is such a beautiful and unique name that shortening it to 'Mione' makes it harsh and ugly in my opinion.
+:PROPERTIES:
+:Author: -Oc-
+:Score: 6
+:DateUnix: 1434583723.0
+:DateShort: 2015-Jun-18
+:END:
+
+
+**** 'Mione sounds like a mishmash of mean and grimy to me. Or just "my knee rhymes with whiny." I like "Hermione" and think it's pretty.
+
+I just don't think she's a nickname sort of girl. I can see her grumbling that if she was supposed to be called 'Mione then she would have been named that. But she wasn't, so it's Hermione.
+:PROPERTIES:
+:Author: boomberrybella
+:Score: 5
+:DateUnix: 1434585684.0
+:DateShort: 2015-Jun-18
+:END:
+
+
+**** In my mind "Prongslet" is an acceptable name for Harry, given Sirius' close relationship with the original Prongs. But all the others? No. There's no need for any of them.
+:PROPERTIES:
+:Author: Cersei_nemo
+:Score: 2
+:DateUnix: 1434640858.0
+:DateShort: 2015-Jun-18
+:END:
+
+
+** I personally have never found any, and that is mostly because I am under the assumption that it's not doable. Nicknames in fanfiction tend to feel forced. This might be because nicknaming people when I was in school wasn't really done. Also, only the Marauders seem to have nicknames based around the forms. So when Harry and them do it, it usually feels weird, and often in a fic where they are trying to become Marauders 2.0. Which just doesn't work, Harry is not a prankster, and neither are most of his friends.
+:PROPERTIES:
+:Author: Evilsbane
+:Score: 5
+:DateUnix: 1434550581.0
+:DateShort: 2015-Jun-17
+:END:
+
+
+** I've come across some, but for the most part, they are just sort of fun additions to the story. Like I don't know. Most of the time it doesn't feel natural. But when it's used jokingly or just as if it's not central to much, I enjoy them.
+
+Of course my favorite nickname for Malfoy and Crabbe and Goyle was "Malfoy and the Bookends"
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1434557601.0
+:DateShort: 2015-Jun-17
+:END:
+
+*** If we are including group names my favorite has to be the Order of Flamers instead of the Order of the Phoenix. It was perfect because the whole concept of the fic was each person was extremely flamboyant.... Sadly, I have not found it again nor do I remember the title..
+:PROPERTIES:
+:Author: Zerokun11
+:Score: 1
+:DateUnix: 1434565445.0
+:DateShort: 2015-Jun-17
+:END:
+
+
+** I'm not particularly attached to a given nickname, but there was a fic that had an interesting naming convention. I forget which fic, but it had Padfoot explain to Harry that no, he can't pick his name, the others make up weird nicknames and the first one he accidentally responds to sticks. I think he ended up being called Tufts?
+:PROPERTIES:
+:Author: Ruljinn
+:Score: 2
+:DateUnix: 1434556090.0
+:DateShort: 2015-Jun-17
+:END:
+
+*** I think that was [[https://www.fanfiction.net/s/6517567/1/Harry-Potter-and-the-Temporal-Beacon]["Harry Potter and the Temporal Beacon"]] Hermione also got the nickname of legs at one point in the time travel cycle I think
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1434557523.0
+:DateShort: 2015-Jun-17
+:END:
+
+
+** Harry: [[https://www.fanfiction.net/s/2827149/1/So-You-ve-Decided-to-Be-Evil][Merak Black]]
+
+Hermione: Hermoine (how probably half the younger fans pronounced the name before GoF)
+
+Ron: Ronald Bilius Weasley is just too good.
+:PROPERTIES:
+:Author: FreakingTea
+:Score: 1
+:DateUnix: 1434635360.0
+:DateShort: 2015-Jun-18
+:END:
+
+*** I'm pretty glad that my first time reading most of the books were the audio versions. I never had to wonder how to pronounce hermione
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1434675976.0
+:DateShort: 2015-Jun-19
+:END:
+
+
+** Harry: (black) Wolf (for his animagus)
+
+Ron: Redwing (animagus)
+
+Ginny: Lynx (animagus)
+
+Hermione: Neenie (babyname that stuck)
+
+Draco: Ray or (snow)fox (the last one for his animagus)
+
+Neville: Captain
+
+Luna: Starwing
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1435060973.0
+:DateShort: 2015-Jun-23
+:END:
+
+
+** Dumbles Lord of Lemon Drops, Order of the Fried Chicken, Mione, Hadrian, Drake, Nym, Ice Queen, Gred, Forge, Moldy-Shorts, Death Nibblers. Just kidding they are the worst. Nicknames in fanfiction are always going to sound forced as we, the reader, are not likely to be the same age as the characters making up the names thus we don't have the same perspective.
+:PROPERTIES:
+:Author: IHATEHERMIONESUE
+:Score: 0
+:DateUnix: 1434678132.0
+:DateShort: 2015-Jun-19
+:END:

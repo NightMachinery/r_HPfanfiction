@@ -1,0 +1,265 @@
+#+TITLE: [Discussion] Can someone explain to me the shield that was over the Tonks' house in the Seven Potters chapter in DH
+
+* [Discussion] Can someone explain to me the shield that was over the Tonks' house in the Seven Potters chapter in DH
+:PROPERTIES:
+:Author: afrose9797
+:Score: 8
+:DateUnix: 1534252690.0
+:DateShort: 2018-Aug-14
+:FlairText: Discussion
+:END:
+What kind of a shield is that and how did it allow Harry and Hagrid to enter but not Voldemort?
+
+How does it distinguish between the enemy and ally? If it's because of him being a Dark wizard, what characterizes a dark wizard as such?
+
+I want to somehow implement that in my fanfiction and would love to hear some ideas.
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 16
+:DateUnix: 1534254035.0
+:DateShort: 2018-Aug-14
+:END:
+
+*** But a shield that can recognise intent seems pretty unique. How would one go about casting it?
+:PROPERTIES:
+:Author: afrose9797
+:Score: 6
+:DateUnix: 1534256535.0
+:DateShort: 2018-Aug-14
+:END:
+
+**** u/Achille-Talon:
+#+begin_quote
+  But a shield that can recognise intent seems pretty unique.
+#+end_quote
+
+...not really. Etymologically, for instance, /Protego Horribilis/ seems to specifically protect against evil... stuff.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 9
+:DateUnix: 1534268530.0
+:DateShort: 2018-Aug-14
+:END:
+
+***** u/Taure:
+#+begin_quote
+  ...not really. Etymologically, for instance, Protego Horribilis seems to specifically protect against evil... stuff.
+#+end_quote
+
+Etymologically, it's a bit of a mess. "Horribilis" is an adjective, "protego" is a verb. So gramatically it doesn't mean much.
+
+One possible interpretation is "I protect against the horrible thing" (i.e. a shield that's particularly strong against Dark magic). But an alternative possibility is "I protect horribly" (i.e. a shield that harms those who attempt to cross it).
+
+For people who consider the movies to be persuasive, there's some evidence towards the latter interpretation, as the Snatchers who attempted to cross the Protego Horriblis around Hogwarts were disintegrated.
+:PROPERTIES:
+:Author: Taure
+:Score: 9
+:DateUnix: 1534269505.0
+:DateShort: 2018-Aug-14
+:END:
+
+****** Ah. I always took it to be, in an /almost/ literal translation, "I protect against the horrible". "Horriblis", as you say, is after all an adjective, nor an adverb. And a spell that says right in its name that it's going to harm you horribly sounds like darker magic than I think the spell symbolically /should/ be concerning its role.
+
+To your Snatchers example, we could oppose the Death Eaters' clearly-dark curses that splash against it, too, shortly before Volderalph goes /NYAAAAAAH/ and breaks the bubble.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 2
+:DateUnix: 1534269823.0
+:DateShort: 2018-Aug-14
+:END:
+
+******* I mean, the real literal translation is "I protect horrible". The two interpretations of "I protect against the horrible thing" and "I protect horribly" are equally incorrect translations: the former because there's no noun for the adjective to modify, nor anything indicating "against", the latter because it's an adjective not an adverb. So whatever interpretation you pick requires departing from the literal translation.
+:PROPERTIES:
+:Author: Taure
+:Score: 4
+:DateUnix: 1534285134.0
+:DateShort: 2018-Aug-15
+:END:
+
+******** True. ...Now that I think about, literally, the easiest meaning of /Protego Horribilis/ to construe is that it's a dark spell that protects horrible things in earnest --- possibly the sort of spell you'd put on a Horcrux to protect it.
+
+Still, my point stands that "I protect horribly" makes the spell sound more gruesome than inspiring and that's kind of unappealing, narratively.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 2
+:DateUnix: 1534286089.0
+:DateShort: 2018-Aug-15
+:END:
+
+
+**** Charm versus aggressive emotions. But There are as many plot holes in HP as pot holes in back country road. Also, couldn't Voldemorts as accomplished occlumens occluded his mind so that the charm does not feel his negative emotions.
+:PROPERTIES:
+:Author: omikel
+:Score: 2
+:DateUnix: 1534258264.0
+:DateShort: 2018-Aug-14
+:END:
+
+***** He was a master legilimens, Snape was the occlumens. I'm not sure if the books specifically mention him being capable of occlumensy as well.
+:PROPERTIES:
+:Author: TurdMcStuffins
+:Score: 2
+:DateUnix: 1534265256.0
+:DateShort: 2018-Aug-14
+:END:
+
+****** He is. In Half Blood Prince, Harry notices that he is rarely getting flashes of Voldemort's feelings anymore or even dreams and Dumbeldore at some point says that he believes after his failed attempt at possessing Harry at the end of Order of the Phoenix, he has taken to employing occlumency against Harry, or so I think I remember.
+:PROPERTIES:
+:Author: Emerald-Guardian
+:Score: 2
+:DateUnix: 1534275869.0
+:DateShort: 2018-Aug-15
+:END:
+
+
+****** "So tell me, Harry," said Dumbledore. "Your scar...has it been hurting at all?"\\
+Harry raised a hand unconsciously to his forehead and rubbed the lightning-shaped mark.\\
+"No," he said, "and I've been wondering about that. I thought it would be burning all the time now Voldemort's getting so powerful again."\\
+He glanced up at Dumbledore and saw that he was wearing a satisfied expression.\\
+"I, on the other hand, thought otherwise," said Dumbledore. "*Lord Voldemort has finally realised the dangerous access to his thoughts and feelings you have been enjoying.* It appears he is now employing Occlumency against you."\\
+/(Half-Blood Prince, Chapter 4, Horace Slughorn)/.
+:PROPERTIES:
+:Author: LittenInAScarf
+:Score: 1
+:DateUnix: 1534276983.0
+:DateShort: 2018-Aug-15
+:END:
+
+
+** I tend towards the idea that the shield charm operates on modal facts rather than intent. That is:
+
+"If X entered, it would cause harm."
+
+Not
+
+"X intends to cause harm."
+
+The problem with intent is that it's easily gameable via confundus.
+:PROPERTIES:
+:Author: Taure
+:Score: 14
+:DateUnix: 1534262195.0
+:DateShort: 2018-Aug-14
+:END:
+
+*** We also know that magic is able to see into the future or predict outcomes to some extent (see Felix and Divination), so magic having that ability isn't too far-fetched.
+:PROPERTIES:
+:Author: fflai
+:Score: 7
+:DateUnix: 1534262828.0
+:DateShort: 2018-Aug-14
+:END:
+
+**** Well, modality isn't really about the future as such. Consider "if I was in orbit of Jupiter, I would see a planet". It's not about the future because I'm not ever going to be in orbit of Jupiter. Nonetheless it is true. It's a true fact about a hypothetical state of affairs.
+
+The precise status of modal facts is the subject of much philosophical debate, but for me it's sufficient to note that a magic system which recognises job positions and secrets could no doubt recognise modal facts.
+:PROPERTIES:
+:Author: Taure
+:Score: 9
+:DateUnix: 1534269206.0
+:DateShort: 2018-Aug-14
+:END:
+
+***** You need at the very least a model of the world that allows you to make predictions about future states based on the current state.
+
+Otherwise magic can't make "decisions" such as "If I let this person enter, they will come to harm".
+
+That does not mean that the prediction is necessarily accurate, but such a prediction needs to be made in some form or another.
+
+This is also a current topic of AI-researches, as a model that can predict future state (even to an exteny) is a key component of AI.
+
+Some curre t technology like the new (I think IBM?) Dota-AI bots rely heavily on such a predictor, at least for training.
+:PROPERTIES:
+:Author: fflai
+:Score: 2
+:DateUnix: 1534282168.0
+:DateShort: 2018-Aug-15
+:END:
+
+****** There are lots of other analyses of modal facts than possible futures, and indeed possible future is a pretty poor explanation given that there are modal facts which are true and yet are impossible futures. (Silly example "If space was filled with water instead of a vacuum, the universe would be wet").
+
+I think you may have got the wrong end of the stick a bit, because the truth status of modal facts is not anything to do with what algorithms an intelligence might use to determine/discover those facts. They are objectively true facts about the universe, not a state of mind held by an intelligence. The truth of "if I was orbiting Jupiter, I would see a planet" no more depends on an intelligence making a prediction than does the truth of "if I drop this ball, it would fall" i.e. the existence of gravity. The universe can be characterised as a set of facts, and modal facts are a subset of those facts.
+
+One explanation proposed is that they are facts about parallel universes. That's particularly attractive for philosophers who are attached to the correspondence theory of truth.
+:PROPERTIES:
+:Author: Taure
+:Score: 3
+:DateUnix: 1534283974.0
+:DateShort: 2018-Aug-15
+:END:
+
+
+***** That explains it sufficiently. Thanks!
+:PROPERTIES:
+:Author: afrose9797
+:Score: 1
+:DateUnix: 1534276983.0
+:DateShort: 2018-Aug-15
+:END:
+
+
+** It was later said in DH (when the ministry came under Voldemort's control) that the Death Eaters now freely used illegal spells without fear of imprisonment under the guise of searching for Undesirable Number One. This means that those protections can be broken but they require the use of illegal spells. Those protections probably had Harry and Hagrid keyed in.
+
+When Voldemort attacked Harry and Hagrid, Scrimgeour was the minister. It would not take a lot of time for the Aurors to reach the location when Voldemort used those illegal spells to break the protection. Voldemort could easily have subdued all of them (Aurors) but by then Harry and Hagrid would have escaped thus negating the need for using those brutal spells in the first place.
+
+I think this was the reason why Voldemort didn't break those protections. It was not due to his incompetence but rather the fact that it was unmerited.
+:PROPERTIES:
+:Author: MoD_Peverell
+:Score: 5
+:DateUnix: 1534264004.0
+:DateShort: 2018-Aug-14
+:END:
+
+
+** Could it not have simply been keyed to only allow certain individuals?
+:PROPERTIES:
+:Author: PrincessApprentice
+:Score: 5
+:DateUnix: 1534269088.0
+:DateShort: 2018-Aug-14
+:END:
+
+*** If so, how would you go about doing that? What aspect of the certain individual makes them recognisable?
+:PROPERTIES:
+:Author: afrose9797
+:Score: 2
+:DateUnix: 1534277087.0
+:DateShort: 2018-Aug-15
+:END:
+
+**** By magical signature/blood/lineage/name most likely? Idk, I've been reading fics for so long where you can simply write names in a book that I hadn't even thought about what it would involve
+:PROPERTIES:
+:Author: PrincessApprentice
+:Score: 2
+:DateUnix: 1534296461.0
+:DateShort: 2018-Aug-15
+:END:
+
+
+** Fidelius likely.
+:PROPERTIES:
+:Author: Lakas1236547
+:Score: -1
+:DateUnix: 1534261437.0
+:DateShort: 2018-Aug-14
+:END:
+
+*** Harry was never officially clued in on a Fidelius Charm over the Tonks home. The Secret Keeper has to officially inform anyone verbally or in writing before they can get inside or even find the place; that was established in OotP ("The headquarters of the Order of the Phoenix may be found at number twelve, Grimmauld Place, London"). This never happened in DH, so it's highly unlikely that the Fidelius Charm was used.
+:PROPERTIES:
+:Author: just_a_hep7agon
+:Score: 3
+:DateUnix: 1534273928.0
+:DateShort: 2018-Aug-14
+:END:
+
+**** Good point.
+
+I forgot about that, although I do forget a lot of things about Deathly Hallows.
+:PROPERTIES:
+:Author: Lakas1236547
+:Score: 2
+:DateUnix: 1534280318.0
+:DateShort: 2018-Aug-15
+:END:

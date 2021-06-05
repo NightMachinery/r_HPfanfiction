@@ -1,0 +1,162 @@
+#+TITLE: HPCCS Crossover Harry Potter and the Return of the True Sorcerers by Magicalfoci has been deleted into oblivion. Anyone have a copy?
+
+* HPCCS Crossover Harry Potter and the Return of the True Sorcerers by Magicalfoci has been deleted into oblivion. Anyone have a copy?
+:PROPERTIES:
+:Author: ria1328
+:Score: 3
+:DateUnix: 1512356729.0
+:DateShort: 2017-Dec-04
+:FlairText: Fic Search
+:END:
+Pretty please with a cherry on top? It was an HP/Cardcaptor Sakura fic.
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1512365913.0
+:DateShort: 2017-Dec-04
+:END:
+
+*** 108gb worth of text? Damn, that's a shit ton of words.
+:PROPERTIES:
+:Author: Aureliony
+:Score: 2
+:DateUnix: 1512387628.0
+:DateShort: 2017-Dec-04
+:END:
+
+**** It's 108GB /compressed/. With typical text compression ratios this can be anywhere from 500GB to 1000GB uncompressed. Yea, it's pretty crazy.
+
+Edit: turns out it's only ~303GiB uncompressed. That's... surprisingly low? Maybe they chose a lower ratio for speed.
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 2
+:DateUnix: 1512389397.0
+:DateShort: 2017-Dec-04
+:END:
+
+
+*** I'll have the archive in about an hour, but extracting it is another matter...
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 2
+:DateUnix: 1512389418.0
+:DateShort: 2017-Dec-04
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1512391045.0
+:DateShort: 2017-Dec-04
+:END:
+
+***** Yea, I found it in the index. Trying to extract it now.
+
+#+begin_example
+  tar -xf Fanfiction.tar.gz "home/ben/Desktop/Ben's Stuff/Fanfiction/Card Captor Sakura/In-Progress/Card Captor Sakura - Magicalfoci - Harry Potter and the Return of the True Sorcerers.txt"
+#+end_example
+
+Too bad gzip can't really do multithreaded decompression. This box has more cores than single-thread performance.
+
+Edit: I have an ETA of ~50 mins if the file is at the end of the archive.
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 3
+:DateUnix: 1512395051.0
+:DateShort: 2017-Dec-04
+:END:
+
+****** Here we go!
+
+[[https://pubfiles.elusiveguy.com/dJfKRch30P5iMnL]]
+
+And another mirror, just in case:
+
+[[https://gist.github.com/anonymous/cf30e000407d6374510a4e5cbcb424c3]]
+
+[[/u/ria1328]] [[/u/Frystix]]
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 3
+:DateUnix: 1512400538.0
+:DateShort: 2017-Dec-04
+:END:
+
+******* OH MY GOD BLESS YOU SO MUCH FOR THIS!
+
+!REDDITSILVER
+:PROPERTIES:
+:Author: ria1328
+:Score: 2
+:DateUnix: 1512403500.0
+:DateShort: 2017-Dec-04
+:END:
+
+******** It was [[/u/Frystix]] who found it :)
+
+Also gotta thank this "ben" who decided to archive FFN.
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 2
+:DateUnix: 1512430767.0
+:DateShort: 2017-Dec-05
+:END:
+
+********* [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1512431460.0
+:DateShort: 2017-Dec-05
+:END:
+
+********** !redditsilver for your troubles ans lost bandwidth!
+
+Although now you've got me wondering what kind of guy downloads that much data worth of fanfiction.
+:PROPERTIES:
+:Author: ria1328
+:Score: 1
+:DateUnix: 1512434344.0
+:DateShort: 2017-Dec-05
+:END:
+
+*********** *** [[http://i.imgur.com/x0jw93q.png][Here's your Reddit Silver, for!]]
+    :PROPERTIES:
+    :CUSTOM_ID: heres-your-reddit-silver-for
+    :END:
+
+--------------
+
+[[/u/for]] has received silver 218 times. (given by [[/u/ria1328]]) *[[http://reddit.com/r/RedditSilverRobot][info]]*
+:PROPERTIES:
+:Author: RedditSilverRobot
+:Score: 2
+:DateUnix: 1512434363.0
+:DateShort: 2017-Dec-05
+:END:
+
+
+******** *** [[http://i.imgur.com/x0jw93q.png][Here's your Reddit Silver, ElusiveGuy!]]
+    :PROPERTIES:
+    :CUSTOM_ID: heres-your-reddit-silver-elusiveguy
+    :END:
+
+--------------
+
+[[/u/ElusiveGuy]] has received silver 1 time. (given by [[/u/ria1328]]) *[[http://reddit.com/r/RedditSilverRobot][info]]*
+:PROPERTIES:
+:Author: RedditSilverRobot
+:Score: 1
+:DateUnix: 1512403518.0
+:DateShort: 2017-Dec-04
+:END:
+
+
+*** Holy moly, that is a shit ton of stories.....
+:PROPERTIES:
+:Author: ria1328
+:Score: 2
+:DateUnix: 1512389734.0
+:DateShort: 2017-Dec-04
+:END:

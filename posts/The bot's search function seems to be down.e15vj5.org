@@ -1,0 +1,113 @@
+#+TITLE: The bot's search function seems to be down
+
+* The bot's search function seems to be down
+:PROPERTIES:
+:Author: machjacob51141
+:Score: 22
+:DateUnix: 1574634192.0
+:DateShort: 2019-Nov-25
+:FlairText: Meta
+:END:
+The bot doesn't seem to be linking anything when people use the name of a fic to link it. However it is working when people use the number. For the time being, use the number to link things.
+
+
+** Seems like after many years of running flawlessly Google has stopped the bot from searching Google.
+
+I'll check if it's just some sort of IP based ban or if it's an actual technical ban. If it's the latter, I will need to come up with a solution, which might take a long time, as my job does not leave me much time to work on the bot.
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1574761460.0
+:DateShort: 2019-Nov-26
+:END:
+
+*** Using the story id still works, doesn't it?
+:PROPERTIES:
+:Author: Starfox5
+:Score: 2
+:DateUnix: 1574776264.0
+:DateShort: 2019-Nov-26
+:END:
+
+
+*** Just tested it locally and it does not work, so I guess it is not an IP ban.
+
+If you want I can try to fix it and make a pull request if it works.
+:PROPERTIES:
+:Author: Leangeful
+:Score: 2
+:DateUnix: 1574782190.0
+:DateShort: 2019-Nov-26
+:END:
+
+
+*** No worries if it takes a while. Thanks for having a look at it.
+:PROPERTIES:
+:Author: machjacob51141
+:Score: 2
+:DateUnix: 1574788407.0
+:DateShort: 2019-Nov-26
+:END:
+
+
+** Ok I wanted to make a Pull Request but it's not even worth the effort. :P
+
+@ [[/u/tusing]] in google/__init__.py change line 84 to:
+
+#+begin_example
+  request.add_header('User-Agent', 
+                      'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0')
+#+end_example
+
+Google started to return some kind of mobile version of the search results.
+:PROPERTIES:
+:Author: Leangeful
+:Score: 4
+:DateUnix: 1574785841.0
+:DateShort: 2019-Nov-26
+:END:
+
+*** Awesome, thank you!
+
+Glad you could find this. I know it's an old project - my first - so the code isn't exactly clean and readable. Thanks.
+:PROPERTIES:
+:Author: tusing
+:Score: 3
+:DateUnix: 1574808680.0
+:DateShort: 2019-Nov-27
+:END:
+
+
+** That's a question for [[/u/tusing]]
+:PROPERTIES:
+:Author: dehue
+:Score: 3
+:DateUnix: 1574705262.0
+:DateShort: 2019-Nov-25
+:END:
+
+
+** AFAIK the bot just dumps whatever you give it into Google and grabs the first result.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 1
+:DateUnix: 1574675286.0
+:DateShort: 2019-Nov-25
+:END:
+
+*** I figured that myself but it wasn't working when I posted this, and probably still isn't.
+:PROPERTIES:
+:Author: machjacob51141
+:Score: 1
+:DateUnix: 1574701590.0
+:DateShort: 2019-Nov-25
+:END:
+
+
+*** So Google blocked it or it's using some outdated parameters for its search URL.
+:PROPERTIES:
+:Author: rek-lama
+:Score: 1
+:DateUnix: 1574711785.0
+:DateShort: 2019-Nov-25
+:END:

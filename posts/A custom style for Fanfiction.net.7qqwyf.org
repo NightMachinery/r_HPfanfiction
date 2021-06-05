@@ -1,0 +1,99 @@
+#+TITLE: A custom style for Fanfiction.net
+
+* A custom style for Fanfiction.net
+:PROPERTIES:
+:Author: eteitaxiv
+:Score: 25
+:DateUnix: 1516090647.0
+:DateShort: 2018-Jan-16
+:END:
+[[https://userstyles.org/styles/139807/fanfiction-better-typography]]
+
+I have designed a simple custom style for Fanfiction.net. Their typographic design is really bad, this fixes it.
+
+
+** Thanks, but I don't think FF.net is that bad honestly.
+:PROPERTIES:
+:Author: LocalMadman
+:Score: 17
+:DateUnix: 1516115283.0
+:DateShort: 2018-Jan-16
+:END:
+
+
+** Really bad? I've never had a problem with it.
+:PROPERTIES:
+:Author: AutumnSouls
+:Score: 19
+:DateUnix: 1516114702.0
+:DateShort: 2018-Jan-16
+:END:
+
+
+** Doesn't work with dark theme, i'll pass for now ty though.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1516127237.0
+:DateShort: 2018-Jan-16
+:END:
+
+
+** What does typography mean? Also, you made the letters bigger?! :) I love the bigger letters! Also the spaces! :) It looks more like QUOTEV. Yes it looks very CLEAN! :) I do not like how FF.net has so small text and it is so bunched together.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1516126225.0
+:DateShort: 2018-Jan-16
+:END:
+
+*** u/eteitaxiv:
+#+begin_quote
+  typography
+#+end_quote
+
+Traditionally, it means the art of printing. The design of a page, letters, spaces between them, how many letters are there in a line, space between lines, indents, hyphens, everything to do the with the printed (or rendered on a screen) text.
+:PROPERTIES:
+:Author: eteitaxiv
+:Score: 0
+:DateUnix: 1516140170.0
+:DateShort: 2018-Jan-17
+:END:
+
+**** Okay! :) Thank you.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1516140636.0
+:DateShort: 2018-Jan-17
+:END:
+
+
+**** Can I please also yes use your typography? :) It would make me want to use FF.net finally.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1516140655.0
+:DateShort: 2018-Jan-17
+:END:
+
+
+** Alternatively, Firefox users can use the reader mode (ctrl-alt-R). I find the sepia background and narrow columns to be much easier on the eyes.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1516183812.0
+:DateShort: 2018-Jan-17
+:END:
+
+
+** If you can make it compatible with [[https://userstyles.org/styles/17556/fanfiction-net-purple-black-gray-ad-removal][this theme]], I'll give it a shot. :) Unfortunately, on a darker theme, it's impossible to see the text.
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 1
+:DateUnix: 1516241897.0
+:DateShort: 2018-Jan-18
+:END:
+
+
+** Commenting for later review on the Reading, Downloading, Archiving wiki page.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1516139069.0
+:DateShort: 2018-Jan-17
+:END:

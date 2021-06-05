@@ -1,0 +1,322 @@
+#+TITLE: Your head cannon for why magic and electronics don't work together
+
+* Your head cannon for why magic and electronics don't work together
+:PROPERTIES:
+:Score: 16
+:DateUnix: 1579796159.0
+:DateShort: 2020-Jan-23
+:FlairText: Discussion
+:END:
+[deleted]
+
+
+** My theory is that electronics and magic work together just fine, but Hogwarts has enchantments on it to prevent lightning strikes by making the entire school an electric dead-zone. Muggleborns trying to take muggle radios and/or Walkman's into the school saw them instantly stop working and made the assumption/spread the rumors that magic breaks electronics.
+
+This, in my headcanon, causes a positive feedback loop where magic breaks electronics because everyone /knows/ that it does so.
+:PROPERTIES:
+:Author: Galuran
+:Score: 24
+:DateUnix: 1579797657.0
+:DateShort: 2020-Jan-23
+:END:
+
+*** u/ltouroumov:
+#+begin_quote
+  electric dead-zone
+#+end_quote
+
+At least outside of living things. Otherwise you're gonna have a lot of dead ... everything. How would a student with a pacemaker gare I wonder?
+
+Would wrapping an electronic device in an organic (and living) shell make them work. Could be pretty squicky ...
+:PROPERTIES:
+:Author: ltouroumov
+:Score: 6
+:DateUnix: 1579810634.0
+:DateShort: 2020-Jan-23
+:END:
+
+**** Skynet was taking notes when they developed the Terminator units.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 6
+:DateUnix: 1579811630.0
+:DateShort: 2020-Jan-24
+:END:
+
+
+**** The way I see it, the Pacemaker would no doubt fail, but electricity produced by the body would be completely unaffected, a sort of subconscious failsafe put into the enchantment by the enchanters.
+
+Admittedly, my idea falls apart under deeper scrutiny. If one fails, then all others should fail alongside, but Hogwarts wouldn't stay open long if everyone dropped dead the moment they entered the school and you'd be out a story.
+:PROPERTIES:
+:Author: Galuran
+:Score: 3
+:DateUnix: 1579817294.0
+:DateShort: 2020-Jan-24
+:END:
+
+
+** This isn't a headcanon of mine per se, but one explanation that I vaguely recall reading once and thinking "hey, that's kind of cool" is that magic essentially works by mucking around with probability and therefore plays all kinds of havoc on electricity. The smaller and more complex the technology (in other words, the more it matters whether or not things behave /exactly/ as expected), the greater the impact of magic.
+
+The probability thing comes into play because electricity is made of electrons, and electrons are one of those sufficiently weird particles where you can't really say where it is, just where it's /likely/ to be.
+:PROPERTIES:
+:Author: ParanoidDrone
+:Score: 15
+:DateUnix: 1579799683.0
+:DateShort: 2020-Jan-23
+:END:
+
+*** If I remember correctly, this was from the fic Partially Kissed Hero; Link : [[https://m.fanfiction.net/s/4240771/1/Partially-Kissed-Hero]]
+:PROPERTIES:
+:Author: pgarhwal
+:Score: 5
+:DateUnix: 1579802873.0
+:DateShort: 2020-Jan-23
+:END:
+
+
+*** For an individual electron it's all about the probability. For *electricity* however, which is what you get when stupendous numbers of electrons are involved, it doesn't matter much.
+
+*Modern* electronics would not work well under your theory, as the behaviour of very small numbers of electrons really matters in modern integrated circuits. However, I expect most consumer equipment from the 1990s when the books were set would work fine, except computers which would be glitchy as hell. Pocket calculators and the mobile phones of the era I'm not so sure about, but I expect they'd be fine, they tended to use much older, and hence bulkier and less quantummy, ICs.
+
+But in any case, counter-example: wizards' eyes work in the dark like normal peoples' do. This is canonical, there's plenty of sneaking about the castle at night under highly magical invisibility cloaks and the like. And human eyes can detect the effect of [[https://www.ncbi.nlm.nih.gov/pubmed/27434854?dopt=Abstract&holding=npg][a single photon]] in your retina.
+:PROPERTIES:
+:Author: HiddenAltAccount
+:Score: 3
+:DateUnix: 1579822039.0
+:DateShort: 2020-Jan-24
+:END:
+
+
+*** I really hope you remember cause this sounds awesome
+:PROPERTIES:
+:Author: roseworthh
+:Score: 1
+:DateUnix: 1579801943.0
+:DateShort: 2020-Jan-23
+:END:
+
+
+** I like the idea that they do work together but it's an essentially an urban legend circulated by blood supremacists
+:PROPERTIES:
+:Author: DescentUpwards
+:Score: 14
+:DateUnix: 1579805683.0
+:DateShort: 2020-Jan-23
+:END:
+
+
+** Various dimensional warping caused by magic (spacial warping mostly) as well as magic causing energy to behave in non-standard ways are not accounted for by muggles. This makes muggle tech extremely fragile in magic heavy environments.
+:PROPERTIES:
+:Author: 4wallsandawindow
+:Score: 9
+:DateUnix: 1579798418.0
+:DateShort: 2020-Jan-23
+:END:
+
+*** [deleted]
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1579798638.0
+:DateShort: 2020-Jan-23
+:END:
+
+**** My understanding of tech is very basic, but it has to do with either electrons traveling along a wire or energy traveling in waves - it is based on space/distance. Magical areas warp space by expanding it, hiding it, moving pockets of it around (magical tents, etc.) which mean energy waves can't enter or sometimes enter but do not leave, or enter in London and come out in Wales, or just enter and leave in unpredictable patterns. An example is radio signals near Diagon Alley - can they enter the pocketed space? And if radio signals can enter, does this mean the range of the signal is shorter than muggles expect because they cannot perceive the pocketed space?
+
+As for magic, does it have its own energy signature? How does it interact with other energies? Do magical plants absorb a different mix of wavelengths? The various invisibility magics - do they interfere with light waves? Color changing spells?
+:PROPERTIES:
+:Author: 4wallsandawindow
+:Score: 3
+:DateUnix: 1579820428.0
+:DateShort: 2020-Jan-24
+:END:
+
+***** I wanted to say prompts to an interesting explanation. I like the idea that the waves are being locked out or trapped by magic. That fits into my own theory that it simply may be that the magic sends out its own wave of energy that disrupts the usual muggle waves of energy. After all, dealing with interference from outside sources is actually a thing engineers have to be aware of dealing with both radio and electrical waves. So I don't see it out of the realm that magic emits enough energy to disrupt the normal waves of light, radio, and electrical.
+
+As for magic having its own energy signature, if it's possible for wands, magical equipment, to have its own signature that it can identify a brother wand. Then there must be some sort of signature that will allow for that. With invisibility, I see it in two ways, either the light waves are being redirected around the user by either being able to control the flow of the light waves or by making themselves such a dense gravitational power that forces the light to bend around them, like how black holes do it.
+:PROPERTIES:
+:Author: PhantomKeeperQazs
+:Score: 2
+:DateUnix: 1579828806.0
+:DateShort: 2020-Jan-24
+:END:
+
+
+** Mine is that they work together just fine. What will interfere with some electronics at Hogwarts is twofold:
+
+1. there are no powerline feeds nearby. It's batteries or bust, though an intrepid Muggleborn could probably knock together a solar station, up until the local pureblood bullies destroy it for offending them.
+
+2. Being Unplottable interferes with radio waves, so anything wireless would be unable to send or receive. The 'Wizarding Wireless' is a device that mimics a muggle radio, but probably uses Protean charms instead.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 23
+:DateUnix: 1579797343.0
+:DateShort: 2020-Jan-23
+:END:
+
+*** Yes, Ministry, St. Mungo's and Diagon Alley are all in London, and Platform 9 3/4 is squeezed into the busy train station, so I think it's safe to say that proximity to magic itself does not affect electronics.
+:PROPERTIES:
+:Author: neymovirne
+:Score: 15
+:DateUnix: 1579804000.0
+:DateShort: 2020-Jan-23
+:END:
+
+**** And Arthur weasely repairs an electric fireplace with magic. Magic works with electronics just fine outside of Hogwarts.
+:PROPERTIES:
+:Author: Chendii
+:Score: 2
+:DateUnix: 1579840170.0
+:DateShort: 2020-Jan-24
+:END:
+
+
+** When things interact with magic, the increasingly start to work by rules of stories and fairytales rather than physics, which results in stuff like animals starting to behave more like they do in fables with intelligence similar to humans and technology starts to behave in a dramatic rather than predictable way(the Weasley car for example randomly developed sentience)
+:PROPERTIES:
+:Author: aAlouda
+:Score: 6
+:DateUnix: 1579812807.0
+:DateShort: 2020-Jan-24
+:END:
+
+
+** Magic has the ability to create (or perhaps, call forth/remotely change) energy. Large-scale enchantments like the protections over Hogwarts or the family manors infuse the space they contain with the magic they use to do their work. Magic, which uses energy with no clear direction - it behaves more like an ebb and flow than a fixed circuit. As the enchantment then fluctuates over time, its dense spots pass through everything it contains, moving perhaps with purpose, perhaps not - In any case, this flickering, invisible field of magic constantly touches people, buildings, and technology.
+
+Older technology is relatively fine, the wires aren't as close together, there's little fragile circuitry; but in newer, more complex and micro-scale mechanisms, this fluctuating energy field causes spontaneous induction in the wires or solder, short-outs as poles are connected over an ion-bridge, overloading transistors which weren't built to handle any sort of real voltage, until the entire device begins sparking, smoking and then dies.
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 3
+:DateUnix: 1579821885.0
+:DateShort: 2020-Jan-24
+:END:
+
+
+** My headcanon is that magic causes slight variations in the laws of physics which messes with semiconductors.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 3
+:DateUnix: 1579802307.0
+:DateShort: 2020-Jan-23
+:END:
+
+
+** High levels of ambient magic can disrupt minut forms of mundane energy, such as the electrical currents in microchips, and as technology advances this issue becomes more and more severe.
+:PROPERTIES:
+:Author: Vivec_lore
+:Score: 2
+:DateUnix: 1579806242.0
+:DateShort: 2020-Jan-23
+:END:
+
+
+** Whatever magic is, it clearly has electromagnetic effects, otherwise spells wouldn't emit light as they travel from wand to target.
+
+Electronic devices are far more prone to electromagnetic interference than living creatures are (we do, of course, rely on the behaviour of electrons for things like our heart beat, nerve signals etc) simply because they have much better conductors in them that can have currents induced in them.
+:PROPERTIES:
+:Author: HiddenAltAccount
+:Score: 2
+:DateUnix: 1579821114.0
+:DateShort: 2020-Jan-24
+:END:
+
+
+** it's a curse created in fear of nuclear weapons and placed in magical places.
+:PROPERTIES:
+:Author: andrewwaiting
+:Score: 2
+:DateUnix: 1579923974.0
+:DateShort: 2020-Jan-25
+:END:
+
+
+** The use of magic just causes electrons to go on the fritz preventing electronics from working correctly. Personality I would try to find a way around this problem and then sell Muggle electronics and magic to electricity converters in diagon Ally
+:PROPERTIES:
+:Author: firebird_x2
+:Score: 1
+:DateUnix: 1579823116.0
+:DateShort: 2020-Jan-24
+:END:
+
+
+** Random question: is it canon or fanon that they don't work together? Because I always thought it was fanon that came from the Dresden Files lol.
+
+As far as my headcanon goes: it's similar to an EMP.
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 1
+:DateUnix: 1579827596.0
+:DateShort: 2020-Jan-24
+:END:
+
+*** All those substitutes for magic Muggles use -- electricity, and computers and radar, and all those things -- they all go haywire around Hogwarts, there's too much magic in the air.'
+
+It's in Goblet of Fire, so it's canon that electromagnetic doesn't work in place with high ambient magic
+:PROPERTIES:
+:Author: YareSekiro
+:Score: 1
+:DateUnix: 1579840548.0
+:DateShort: 2020-Jan-24
+:END:
+
+
+** I like the magic causes electromagnetic radiation, of which humans can only see the light blasts that come off the wands. Thus, that light that happens when you cast a spell is also infrared, and a mini EMP.
+
+This would disable unshielded electronics and really disrupt a lot of early electronics. it also means that anyone who made a serious effort to shield against magic could easily do so. It might also suggest that science, knowing the properties of eletromagnetic radiation, could end up with better magical shields than those who don't know.
+
+Lots of potential
+:PROPERTIES:
+:Author: StarDolph
+:Score: 1
+:DateUnix: 1579829598.0
+:DateShort: 2020-Jan-24
+:END:
+
+
+** My fanon is it works fine except for Purebloods not liking 'muggle stuff cluttering up everything.'
+
+So the Hogwarts board forced an enchantment or something that stops muggle stuff from working. Maybe an EMP that is attached to the Hogwarts train. Probably had the wizengamot pass something as well to cover the alley.
+
+Would be especially simple to have Diagon Alley entrances be covered in an EMP zone. Enter the Alley fry your electronics so obviously muggle stuff doesn't work around magic, best keep it out of here.
+
+It would be likely easy enough for the unspeakables to craft something like that. The do research esoteric magic, so why not EMP?
+:PROPERTIES:
+:Author: drsmilegood
+:Score: 1
+:DateUnix: 1579833808.0
+:DateShort: 2020-Jan-24
+:END:
+
+
+** There's no plugs in the wizarding world and it's the 90's - batteries were shit.
+:PROPERTIES:
+:Author: Uhhhmaybe2018
+:Score: 1
+:DateUnix: 1579834349.0
+:DateShort: 2020-Jan-24
+:END:
+
+
+** Magic is semi sentient and dislikes the perceived competition. Which might sound like a joke, but that's honestly always been my interpretation since I was a kid.
+:PROPERTIES:
+:Author: DeliSoupItExplodes
+:Score: 1
+:DateUnix: 1580310908.0
+:DateShort: 2020-Jan-29
+:END:
+
+
+** Hogwarts has wards that ruin electronics
+:PROPERTIES:
+:Author: CasualHearthstone
+:Score: 1
+:DateUnix: 1579808809.0
+:DateShort: 2020-Jan-23
+:END:
+
+
+** Magic performs overrides on the laws of physics, so the semiconductors that most electronics rely on don't behave as they should. This effect is normally negligible, although inside of a ward scheme, the interference becomes so heavy that they fail outright. As such, the buildings near diagon may have occasional tech issues, but it's nowhere near the complete failure that they would experience inside the alley proper
+:PROPERTIES:
+:Author: Tenebris-Umbra
+:Score: 1
+:DateUnix: 1579821235.0
+:DateShort: 2020-Jan-24
+:END:

@@ -1,0 +1,118 @@
+#+TITLE: How to write good HP x D&D crossover?
+
+* How to write good HP x D&D crossover?
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1514957462.0
+:DateShort: 2018-Jan-03
+:END:
+[deleted]
+
+
+** I'd recommend starting by familiarizing yourself with D&D magic rules. In D&D, wizards, witches, and sorcerers are all separate classes and use magic slightly differently. There's also the mechanics of divine vs. arcane magic and prepared vs. spontaneous spellcasters. Which class your character is will majorly affect how they interact with the Harry Potter world. You might also want to consider which edition of D&D your crossover character comes from. 3.5, Pathfinder, and 5th editions are the most popular, I believe, but the spell system in 4th edition may be the closest to Harry Potter. Pathfinder rules are available for free online with no downloads [[http://www.d20pfsrd.com][here.]] Getting a feel for how other authors describe magic in a D&D setting would also be helpful, even though you want to bring a D&D character into the Harry Potter universe. The magic works fundamentally differently in D&D, and different classes acquire magic in different ways. Finally, [[https://archiveofourown.org/works/10938297][here]] is a link to my WIP campaign novelization-style fic which involves Harry Potter characters playing through the Temple of Elemental Evil campaign. It's not quite what you are thinking of writing, but it might help you get some ideas for how to describe D&D magic.
+:PROPERTIES:
+:Author: emirywalrus
+:Score: 4
+:DateUnix: 1514995248.0
+:DateShort: 2018-Jan-03
+:END:
+
+
+** In writing linkao3(Harry Potter and the Girl in Red), I've found that the hardest part is mixing the mechanics of the two worlds. D&D is a lot of stats, numbers, and charts, which doesn't entirely apply to the real world.
+
+One of the biggest challenges, in my (primarily working with 3.5 and Pathfinder) opinion, is handling saves. Do characters in the Harry Potter Universe get saves against spells and abilities in D&D? Do D&D characters' saves apply to spells in the HPU?
+
+Then you've got attack bonuses, ability scores, all the mechanics that are always present in D&D, but HPU characters might not have them. In the HPU, you've got dementors, legilimency, the Marauder's Map, and other mechanics that need to be considered (do they count as mind-affecting, do HPU spells fall into D&D spell schools, etc).
+
+It's a lot of work, but I recommend trying to balance them out as closely as possible. Otherwise, you may end up with too much power on one side or another. Example, any of the fort-save-or-die spells in 3.5. If HPU characters don't have fort saves, then they're screwed, and you've got an OP character that can destabilize the plot and kill Voldemort by thinking about it (trust me, I know).
+
+In linkffn(Harry Potter and the Natural 20), Milo has the exact opposite problem of my OC, Rose. Milo finds himself outclassed by everyone around him, because they have no limits to their spellcasting, apart from maybe mental exhaustion. He then has to struggle to keep up, both in class and with his peers. While this makes for a more compelling character than my accidental Mary Sue, also bear in mind that many fanfiction readers may have issues with the plot centering around an OC that isn't named Harry Potter.
+
+Another issue to consider is resurrection. Death isn't that big a deal in D&D, but it is in the HPU. If your character can easily bring someone back to life, death loses its consequence. If you want to follow your character's progression long enough that they get resurrection abilities, then you'll need to handle that accordingly. Of course, there are plenty of other consequences that can be just as bad as death.
+
+There's no right way to handle balancing the mechanics, but make sure you think about it before diving in. Specifically, know how far you want to take it, so you can scale both sides appropriately. Also keep in mind that it's not like running a D&D character in the HPU; dice rolls don't often make for a dramatic story.
+:PROPERTIES:
+:Author: sKolar4
+:Score: 3
+:DateUnix: 1514997772.0
+:DateShort: 2018-Jan-03
+:END:
+
+*** They do in Natural 20 tho :P (that is to say, dice rolls make a dramatic story, although they are mostly in the background and no one can make saving throws so theres much less of it)
+
+Also I'd say that no one sane wouldn't like a well written story just because MC isn't HP. And I'm not a writer but I'd say no one should really care about the people who wouldn't read a story for a petty reason like that.
+:PROPERTIES:
+:Author: lightningowl15
+:Score: 2
+:DateUnix: 1514998646.0
+:DateShort: 2018-Jan-03
+:END:
+
+**** u/sKolar4:
+#+begin_quote
+  Also I'd say that no one sane wouldn't like a well written story just because MC isn't HP. And I'm not a writer but I'd say no one should really care about the people who wouldn't read a story for a petty reason like that.
+#+end_quote
+
+I agree, I'm just going by the most recent poll from [[/r/hpfanfiction]], in which a sizeable amount of people said they won't read something that isn't Harry-centric.
+:PROPERTIES:
+:Author: sKolar4
+:Score: 1
+:DateUnix: 1515000864.0
+:DateShort: 2018-Jan-03
+:END:
+
+
+*** [[http://archiveofourown.org/works/6835726][*/Harry Potter and the Girl in Red/*]] by [[http://www.archiveofourown.org/users/idX/pseuds/Id][/Id (idX)/]]
+
+#+begin_quote
+  Thrust into a world that makes no sense, Rose must earn the trust of the professors, keep her friends out of danger, and have fun doing it.
+#+end_quote
+
+^{/Site/: [[http://www.archiveofourown.org/][Archive of Our Own]] *|* /Fandoms/: Harry Potter - Fandom, Dungeons and Dragons - Fandom *|* /Published/: 2016-05-13 *|* /Completed/: 2016-10-29 *|* /Words/: 131395 *|* /Chapters/: 25/25 *|* /Comments/: 15 *|* /Kudos/: 54 *|* /Bookmarks/: 1 *|* /Hits/: 1208 *|* /ID/: 6835726 *|* /Download/: [[http://archiveofourown.org/downloads/Id/Id/6835726/Harry%20Potter%20and%20the%20Girl.epub?updated_at=1505703169][EPUB]] or [[http://archiveofourown.org/downloads/Id/Id/6835726/Harry%20Potter%20and%20the%20Girl.mobi?updated_at=1505703169][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/8096183/1/][*/Harry Potter and the Natural 20/*]] by [[https://www.fanfiction.net/u/3989854/Sir-Poley][/Sir Poley/]]
+
+#+begin_quote
+  Milo, a genre-savvy D&D Wizard and Adventurer Extraordinaire is forced to attend Hogwarts, and soon finds himself plunged into a new adventure of magic, mad old Wizards, metagaming, misunderstandings, and munchkinry. Updates Fridays.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter + Dungeons and Dragons Crossover *|* /Rated/: Fiction T *|* /Chapters/: 72 *|* /Words/: 306,355 *|* /Reviews/: 5,891 *|* /Favs/: 5,095 *|* /Follows/: 5,735 *|* /Updated/: 12/1 *|* /Published/: 5/7/2012 *|* /id/: 8096183 *|* /Language/: English *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8096183&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8096183&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1514997793.0
+:DateShort: 2018-Jan-03
+:END:
+
+
+*** So... how much of Harry Potter and the Girl in Red was inspired by The Arithmancer? It seems like theres a lot of similarities lol
+:PROPERTIES:
+:Author: lightningowl15
+:Score: 1
+:DateUnix: 1515006309.0
+:DateShort: 2018-Jan-03
+:END:
+
+**** I'll only admit to the content relating to Arithmancy until around 3rd year.
+:PROPERTIES:
+:Author: sKolar4
+:Score: 1
+:DateUnix: 1515030806.0
+:DateShort: 2018-Jan-04
+:END:
+
+***** Alright lol it just seemed like there were a lot of similarities (profs live in flats behind paintings, Hermione is attacked/harrassed by Malfoy when she is trying to map out Hogwarts, a few others i cant think of off the top of my head, all the Arithmancy stuff)
+:PROPERTIES:
+:Author: lightningowl15
+:Score: 1
+:DateUnix: 1515038254.0
+:DateShort: 2018-Jan-04
+:END:

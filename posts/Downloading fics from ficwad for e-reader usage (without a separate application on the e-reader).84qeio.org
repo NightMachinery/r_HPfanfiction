@@ -1,0 +1,55 @@
+#+TITLE: Downloading fics from ficwad for e-reader usage (without a separate application on the e-reader)?
+
+* Downloading fics from ficwad for e-reader usage (without a separate application on the e-reader)?
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1521151298.0
+:DateShort: 2018-Mar-16
+:FlairText: Question
+:END:
+[deleted]
+
+
+** The FanficFare plugin for Calibre will download andconvert from Ficwad and many, many other sources for you. Calibre is a freeware app that lives on your computer and serves as a desktop for your Kindle or other ereader. Wouldn't get by without this stuff, personally. Calibre: [[https://calibre-ebook.com/]] FanficFare plugin: [[https://www.mobileread.com/forums/showthread.php?t=259221]]
+:PROPERTIES:
+:Author: PeteNewell
+:Score: 3
+:DateUnix: 1521158411.0
+:DateShort: 2018-Mar-16
+:END:
+
+*** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1521167873.0
+:DateShort: 2018-Mar-16
+:END:
+
+**** You can use FanFicFare in your browser, though you'll need a Google account and it is quite slow (at least compared to ff2ebook.com or calibre)
+
+[[https://fanficfare.appspot.com]]
+:PROPERTIES:
+:Author: Michael_Pencil
+:Score: 2
+:DateUnix: 1521245813.0
+:DateShort: 2018-Mar-17
+:END:
+
+
+**** My bad for the misunderstanding.
+:PROPERTIES:
+:Author: PeteNewell
+:Score: 1
+:DateUnix: 1521235448.0
+:DateShort: 2018-Mar-17
+:END:
+
+
+** [[http://www.ff2ebook.com/][FF2EBOOK]] might add "ficwad.com" in their sources, in the future. It's on their to-do list, apparently.
+
+I've never used ficwad, so maybe it works now already and didn't update the homepage? Not likely, but you could get in touch with the developers of the webpage to learn about more.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1521193808.0
+:DateShort: 2018-Mar-16
+:END:

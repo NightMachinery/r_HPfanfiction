@@ -1,0 +1,30 @@
+#+TITLE: Finding fanfiction
+
+* Finding fanfiction
+:PROPERTIES:
+:Author: Adanor79
+:Score: 2
+:DateUnix: 1618431875.0
+:DateShort: 2021-Apr-15
+:FlairText: Discussion
+:END:
+Does anyone know a page, bot,etc that can check your favorites on ff.net and recommend other fics similar to them?
+
+
+** [[https://github.com/Zeks/flipper][Flipper]] ([[https://fanlore.org/wiki/Flipper_Fanfiction_Recommendation_Engine][Fanlore page]]) ([[https://www.reddit.com/r/FanFiction/comments/8z2um0/fanfic_recommendation_engine/][Reddit post]]) is this.
+
+Zekses also made a Discord bot, which can be read about [[https://www.reddit.com/r/HPfanfiction/comments/l43377/socrates_a_discord_bot_that_recommends_fanfiction/][here]].
+:PROPERTIES:
+:Author: BionicleKid
+:Score: 1
+:DateUnix: 1618437744.0
+:DateShort: 2021-Apr-15
+:END:
+
+*** Thank you.
+:PROPERTIES:
+:Author: Adanor79
+:Score: 1
+:DateUnix: 1618437823.0
+:DateShort: 2021-Apr-15
+:END:

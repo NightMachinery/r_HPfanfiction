@@ -1,0 +1,307 @@
+#+TITLE: Warning: Don't use parantheses or semicolons in fic titles!
+
+* Warning: Don't use parantheses or semicolons in fic titles!
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 17
+:DateUnix: 1563702493.0
+:DateShort: 2019-Jul-21
+:FlairText: Meta
+:END:
+Using ')' or ';' in your fic titles will cause the bot to mess up when someone tries to link it!
+
+Example: Linkffn(/Rise of the Dark Lady Hermione (adopted/) ; Lord Hermione?)
+
+This won't link the second fic because the bot stops parsing at the first closing paranthesis!
+
+
+** This seems like a rather easy burden for the recommender to deal with.
+
+The FFN Bot doesn't require an exact title - it performs a search and attempts to grab the most relevant result.
+
+In this case:
+
+linkffn(rise of the dark lady hermione adopted; lord hermione?)
+
+Should work just fine.
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 15
+:DateUnix: 1563714507.0
+:DateShort: 2019-Jul-21
+:END:
+
+*** [[https://www.fanfiction.net/s/11774986/1/][*/Rise of the Dark Lady Hermione (adopted)/*]] by [[https://www.fanfiction.net/u/2198557/dunuelos][/dunuelos/]]
+
+#+begin_quote
+  This is a mix of genres, first and foremost it is a 'Fix It' story. There are also hints of 'Muggles do it better', and more than a little crack, with the BDA being one of the most feared organizations on the planet, along with a bit of fun with Tom Riddle's 'You Know Who' pseudonym. Clell62619 started it. I'm adding to it. I've taken it as far as I can. Feel free to write a sequel
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{20} ^{*|*} ^{/Words/:} ^{49,636} ^{*|*} ^{/Reviews/:} ^{482} ^{*|*} ^{/Favs/:} ^{931} ^{*|*} ^{/Follows/:} ^{907} ^{*|*} ^{/Updated/:} ^{9/6/2016} ^{*|*} ^{/Published/:} ^{2/6/2016} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{11774986} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Humor/Parody} ^{*|*} ^{/Characters/:} ^{Hermione} ^{G.,} ^{Susan} ^{B.,} ^{Dr.} ^{Granger} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11774986&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11774986&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[https://www.fanfiction.net/s/12548804/1/][*/Lord Hermione?/*]] by [[https://www.fanfiction.net/u/8427977/ALRYM][/ALRYM/]]
+
+#+begin_quote
+  There was no troll in the girls bathroom in 1991. Hermione found no friends that night. Therefore the brightest witch of her age is on a perilous path. Because with magic it is so very true that knowledge is power. But is it also true that power corrupts? Will the only daughter of two dentists become the third Dark Lord that rises in Dumbledore's lifetime?
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{30} ^{*|*} ^{/Words/:} ^{114,547} ^{*|*} ^{/Reviews/:} ^{825} ^{*|*} ^{/Favs/:} ^{1,424} ^{*|*} ^{/Follows/:} ^{2,371} ^{*|*} ^{/Updated/:} ^{6/21} ^{*|*} ^{/Published/:} ^{6/27/2017} ^{*|*} ^{/id/:} ^{12548804} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Romance} ^{*|*} ^{/Characters/:} ^{<Harry} ^{P.,} ^{Hermione} ^{G.>} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12548804&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12548804&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1563714538.0
+:DateShort: 2019-Jul-21
+:END:
+
+
+*** True, I checked the source code and it seems like it just takes everything between the opening and the first closing paranthesis, splits it at all semicolons and throws the result into Google.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 0
+:DateUnix: 1563715797.0
+:DateShort: 2019-Jul-21
+:END:
+
+**** Which is a fine way of doing things (I wrote the bot for the discord). People often don't know exactly what they're recommending, make spelling mistakes, just remember the author, ...
+
+linkffn(What's hre name in hufelpuff) still works, for example - and it should. Google deals with everything, and I like that!
+:PROPERTIES:
+:Author: fflai
+:Score: 8
+:DateUnix: 1563728582.0
+:DateShort: 2019-Jul-21
+:END:
+
+***** [[https://www.fanfiction.net/s/13041698/1/][*/What's Her Name in Hufflepuff/*]] by [[https://www.fanfiction.net/u/12472/ashez2ashes][/ashez2ashes/]]
+
+#+begin_quote
+  There's still a lot to explore and experience in a world full of magic even if you never become a main character. In Hufflepuff house, you'll make friendships that will last a lifetime. Also, we have a table of infinite snacks. Gen/Friendship. First Year Complete.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{24} ^{*|*} ^{/Words/:} ^{142,914} ^{*|*} ^{/Reviews/:} ^{391} ^{*|*} ^{/Favs/:} ^{530} ^{*|*} ^{/Follows/:} ^{786} ^{*|*} ^{/Updated/:} ^{5/31} ^{*|*} ^{/Published/:} ^{8/20/2018} ^{*|*} ^{/id/:} ^{13041698} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Friendship/Humor} ^{*|*} ^{/Characters/:} ^{Susan} ^{B.,} ^{Hannah} ^{A.,} ^{OC,} ^{Eloise} ^{M.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13041698&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13041698&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1563728598.0
+:DateShort: 2019-Jul-21
+:END:
+
+
+** Your title could have been clearer. The urgent-sounding title made it sound like you found a bug on FanFiction.Net that messes up stories with those characters in their titles, which would be very important for authors to know. Finding you were only referring to links on this sub-Reddit having to be written differently makes your title feel like click-bait.
+:PROPERTIES:
+:Author: roryokane
+:Score: 11
+:DateUnix: 1563723717.0
+:DateShort: 2019-Jul-21
+:END:
+
+
+** [[https://www.fanfiction.net/s/11774986/1/][*/Rise of the Dark Lady Hermione (adopted)/*]] by [[https://www.fanfiction.net/u/2198557/dunuelos][/dunuelos/]]
+
+#+begin_quote
+  This is a mix of genres, first and foremost it is a 'Fix It' story. There are also hints of 'Muggles do it better', and more than a little crack, with the BDA being one of the most feared organizations on the planet, along with a bit of fun with Tom Riddle's 'You Know Who' pseudonym. Clell62619 started it. I'm adding to it. I've taken it as far as I can. Feel free to write a sequel
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{20} ^{*|*} ^{/Words/:} ^{49,636} ^{*|*} ^{/Reviews/:} ^{482} ^{*|*} ^{/Favs/:} ^{931} ^{*|*} ^{/Follows/:} ^{907} ^{*|*} ^{/Updated/:} ^{9/6/2016} ^{*|*} ^{/Published/:} ^{2/6/2016} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{11774986} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Humor/Parody} ^{*|*} ^{/Characters/:} ^{Hermione} ^{G.,} ^{Susan} ^{B.,} ^{Dr.} ^{Granger} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11774986&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11774986&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 3
+:DateUnix: 1563702523.0
+:DateShort: 2019-Jul-21
+:END:
+
+
+** IDK if the code is open source but it should be trivial to fix this. It's better to use the id anyway.
+
+linkffn(11774986;12548804)
+:PROPERTIES:
+:Author: RoyTellier
+:Score: 5
+:DateUnix: 1563704137.0
+:DateShort: 2019-Jul-21
+:END:
+
+*** Looking up the ID is a bit difficult on mobile though, it's much easier to remember the name.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 4
+:DateUnix: 1563704940.0
+:DateShort: 2019-Jul-21
+:END:
+
+**** You can just tap the URL bar of the fic and get the ID from there, no? I can, on my old Galaxy S5 Mini, and I can't imagine they took that functionality out of newer phones. URL bars are kinda necessary for internet use :p
+:PROPERTIES:
+:Author: Ignisami
+:Score: 3
+:DateUnix: 1563708056.0
+:DateShort: 2019-Jul-21
+:END:
+
+***** Doesn't work in the ffn app, you first need to share, copy, then paste the link somewhere, then copy the ID. Pasting the entire link is quicker but boats comment size. And if you have a comment where you link multiple fics and talk about each then the ID makes it more difficult to see which is which.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 2
+:DateUnix: 1563709282.0
+:DateShort: 2019-Jul-21
+:END:
+
+****** Ah. I don't use the app, all my mobile ffn use is via chrome. The app keeps crashing on me :p
+:PROPERTIES:
+:Author: Ignisami
+:Score: 4
+:DateUnix: 1563712414.0
+:DateShort: 2019-Jul-21
+:END:
+
+******* For me the app works fine and has dark mode.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 2
+:DateUnix: 1563712543.0
+:DateShort: 2019-Jul-21
+:END:
+
+******** So does mobile web. For all that I never use it, because I live in the light :p
+:PROPERTIES:
+:Author: Ignisami
+:Score: 2
+:DateUnix: 1563715839.0
+:DateShort: 2019-Jul-21
+:END:
+
+
+****** You don't have to use the ID. You can put the link directly in your post and then use another command.
+
+[[https://m.fanfiction.net/s/13286875/1/Here-They-Walk-in-This-Land-of-Heroes]]
+
+ffnbot!directlinks
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 1
+:DateUnix: 1563714190.0
+:DateShort: 2019-Jul-21
+:END:
+
+******* [[https://www.fanfiction.net/s/13286875/1/][*/(Here They Walk, in This) Land of Heroes/*]] by [[https://www.fanfiction.net/u/42364/Kneazle][/Kneazle/]]
+
+#+begin_quote
+  When Kingsley sent Hermione and George to the Millennium Tech Summit in Bern to suss out growing Muggle technologies and integrate them with 3W, Hermione thought the biggest challenge would be keeping George in line. Then she met Tony Stark, and everything she knew, changed.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{+} ^{Avengers} ^{Crossover} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{3} ^{*|*} ^{/Words/:} ^{36,367} ^{*|*} ^{/Reviews/:} ^{180} ^{*|*} ^{/Favs/:} ^{530} ^{*|*} ^{/Follows/:} ^{863} ^{*|*} ^{/Updated/:} ^{6/17} ^{*|*} ^{/Published/:} ^{5/15} ^{*|*} ^{/id/:} ^{13286875} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure/Romance} ^{*|*} ^{/Characters/:} ^{<Hermione} ^{G.,} ^{Iron} ^{Man/Tony} ^{S.>} ^{George} ^{W.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13286875&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13286875&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1563714201.0
+:DateShort: 2019-Jul-21
+:END:
+
+
+******* It's just much easier to remember a fic name and write it down than to open the app, go to the library, scroll down to the fic, open it, select share, copy the link, go back to reddit, etc
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 1
+:DateUnix: 1563714346.0
+:DateShort: 2019-Jul-21
+:END:
+
+******** That sounds like a defficiency with the FFN app if I've ever heard one.
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 4
+:DateUnix: 1563714422.0
+:DateShort: 2019-Jul-21
+:END:
+
+
+*** Idk if it's really trivial, after all if the fic title can include semicolons and closing parantheses then it'd be really difficult to tell where it ends and where the next fic title or the rest of the comment begins. Placing fic titles in quotation marks might work but wouldn't be backwards compatible.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 3
+:DateUnix: 1563709399.0
+:DateShort: 2019-Jul-21
+:END:
+
+
+*** [[https://github.com/tusing/reddit-ffn-bot]]
+:PROPERTIES:
+:Author: g4rretc
+:Score: 2
+:DateUnix: 1563704352.0
+:DateShort: 2019-Jul-21
+:END:
+
+
+*** I prefer to use titles (qualified by author so it's more unique) because it's easier to read in the comment paragraph. If I was talking about =linkff(someid)= being a great story because X and =linkff(otherid)= being great for Y, it's a pain to figure out which ID is which.
+
+Though I guess another way is to do titles in paragraphs and link after the main comment text. Or formatted links and then =ffbot!directlinks=.
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 1
+:DateUnix: 1563758777.0
+:DateShort: 2019-Jul-22
+:END:
+
+**** I just use the link commands with the direct link. If the bot doesn't work people can always just click on the direct links I leave behind.
+:PROPERTIES:
+:Author: hamoboy
+:Score: 1
+:DateUnix: 1563823050.0
+:DateShort: 2019-Jul-22
+:END:
+
+
+*** [[https://www.fanfiction.net/s/11774986/1/][*/Rise of the Dark Lady Hermione (adopted)/*]] by [[https://www.fanfiction.net/u/2198557/dunuelos][/dunuelos/]]
+
+#+begin_quote
+  This is a mix of genres, first and foremost it is a 'Fix It' story. There are also hints of 'Muggles do it better', and more than a little crack, with the BDA being one of the most feared organizations on the planet, along with a bit of fun with Tom Riddle's 'You Know Who' pseudonym. Clell62619 started it. I'm adding to it. I've taken it as far as I can. Feel free to write a sequel
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{20} ^{*|*} ^{/Words/:} ^{49,636} ^{*|*} ^{/Reviews/:} ^{482} ^{*|*} ^{/Favs/:} ^{931} ^{*|*} ^{/Follows/:} ^{907} ^{*|*} ^{/Updated/:} ^{9/6/2016} ^{*|*} ^{/Published/:} ^{2/6/2016} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{11774986} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Humor/Parody} ^{*|*} ^{/Characters/:} ^{Hermione} ^{G.,} ^{Susan} ^{B.,} ^{Dr.} ^{Granger} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11774986&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11774986&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[https://www.fanfiction.net/s/12548804/1/][*/Lord Hermione?/*]] by [[https://www.fanfiction.net/u/8427977/ALRYM][/ALRYM/]]
+
+#+begin_quote
+  There was no troll in the girls bathroom in 1991. Hermione found no friends that night. Therefore the brightest witch of her age is on a perilous path. Because with magic it is so very true that knowledge is power. But is it also true that power corrupts? Will the only daughter of two dentists become the third Dark Lord that rises in Dumbledore's lifetime?
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{30} ^{*|*} ^{/Words/:} ^{114,547} ^{*|*} ^{/Reviews/:} ^{825} ^{*|*} ^{/Favs/:} ^{1,424} ^{*|*} ^{/Follows/:} ^{2,371} ^{*|*} ^{/Updated/:} ^{6/21} ^{*|*} ^{/Published/:} ^{6/27/2017} ^{*|*} ^{/id/:} ^{12548804} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Romance} ^{*|*} ^{/Characters/:} ^{<Harry} ^{P.,} ^{Hermione} ^{G.>} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12548804&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12548804&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 0
+:DateUnix: 1563704147.0
+:DateShort: 2019-Jul-21
+:END:
+
+
+** And this is why you don't use the fic title. Not to mention how there could be more than one fic with the same title issue
+:PROPERTIES:
+:Author: TGotAReddit
+:Score: 2
+:DateUnix: 1563755400.0
+:DateShort: 2019-Jul-22
+:END:

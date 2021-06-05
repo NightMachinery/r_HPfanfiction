@@ -1,0 +1,80 @@
+#+TITLE: Started my first fic, looking for feedback on writing style, suspense, etc.
+
+* Started my first fic, looking for feedback on writing style, suspense, etc.
+:PROPERTIES:
+:Author: etmeca
+:Score: 5
+:DateUnix: 1442332862.0
+:DateShort: 2015-Sep-15
+:FlairText: Discussion
+:END:
+The piece is called (tentatively) "Two Steps into the Abyss" /July 14th 1995/
+
+At first glance the 23rd floor of the Flatiron in downtown Manhattan did not appear to be particularly interesting. Like every other floor, consisted of a long triangular hall with an elevator at the base. The offices consisted of the finest New York lawyers, politicians, and businessmen, marked by elaborate doors that seemed to attempt be in competition with one another. Walking down the long corridor one notices the eery silence that remains unbroken except for the clicking of expensive leather shoes and the distant ping of the elevator doors. On the far end of the hallway, on the left hand-side, there is a door, 23C, that appears to be no more remarkable than another in the hallway.
+
+The elevator dinged and the door opened. A man with an odd outfit hurried through the elevator doors the moment they opened. To the other well-to-do men and women, he provided an excellent distraction. Over breaks they commented on the strange material of his boots, his dress-like attire, and the strange piece of wood barely peeking out of his pocket that he did not take his hands off of. He moved swiftly down the silent empty hallway oblivious to his conspicuous appearance. He stopped at the door of 23C and paused for a moment. Glancing nervously over his shoulder he tapped the doorway with his stick and the door swung open. As he hurried inside the door slammed shut behind him, the click of several locks could be heard from the hallway.
+
+Walter Rogers sighed with relief as soon as the the locks clicked. He hung up his traveling cloak on the steel coat hanger in the hall and looked around at the expansive suite. He briefly chuckled at how oblivious people could be. The dimly lit entry way had two exits. One led straight ahead into to a normal looking office complete with secretaries answering phones, "No, Mr. Rogers isn't in right now, may I take a message?", and angry looking executives in large corner offices yelling into their phones. The other door, on the left, went unnoticed by most people in the building, even most people in the office. On a normal day the door would remain shut and only a few even spared it a glance. However, today was not a normal day and that was not a normal door. Today, Walter Rogers had not paused to discreetly transfigure his attire. Today, he had not proceeded immediately through the first door and then to the grandest office in the suite. Today, with a look of sad resignation on his face and a searing pain in his left arm he walked through the second door.
+
+The room was much larger on the inside but bar, except for two armchairs with a chess table in between them and a fireplace. The chair facing the fire was occupied by a tall, handsome, man with aristocratic features.
+
+"Welcome Walter. I am glad that you came." A cold clear voice came from the chair. The man didn't turn from the fire.
+
+After a moment of hesitation Walter sat in the empty chair. "I have done my best my lord. I knew it was inevitable that you would return." He paused, lightly rubbing his left arm.
+
+The voice sounded please. “Indeed out of all my followers, I know that I can rely on you in the the coming months.”
+
+Walter bowed his head. "My lord, you are too gracious." He paused unsure if he had leave to speak. He sat down in the empty chair.
+
+There was a moment of silence as Walter struggled to maintain a calm facade. He could only hope that his lord was pleased with his work over the last 14 years. His mind wandered with wonder as he contemplated the uses his contacts would have in his master's plan.
+
+Finally Lord Voldemort spoke. “Come with me Walter, we have much work to do.”
+
+
+** One thing jumped out from my quick scan: if you open a sentence with an adverb or adverbial phrase, you need to offset it with commas:
+
+#+begin_quote
+  At first glance the 23rd floor of the Flatiron in downtown Manhattan
+#+end_quote
+
+At first glance*,* the...
+
+#+begin_quote
+  Finally Lord Voldemort spoke.
+#+end_quote
+
+Finally*,* Lord Voldemort spoke.
+
+Also, you have 'consisted' used redundantly in the first paragraph. "...that seemed to attempt be in competition..." Missing a 'to' there. Also, 'seemed' and 'attempt' are each expressing a sense of uncommittedness. You should choose one or the other (or neither), not both. Avoid ever using the phrase, "there is," as it is intolerably passive. "My lord" should be "My Lord."
+:PROPERTIES:
+:Author: __Pers
+:Score: 2
+:DateUnix: 1442343339.0
+:DateShort: 2015-Sep-15
+:END:
+
+
+** You switched from present tense to past tense. I would keep it all in past tense, it flows off the tongue (mind?) better.
+
+Also spell fourteen, not 14. I forget the rule for that.
+:PROPERTIES:
+:Author: delmarria
+:Score: 2
+:DateUnix: 1442346456.0
+:DateShort: 2015-Sep-16
+:END:
+
+*** A lot of people use different rules. Some I've heard are:
+
+- Spell out anything ten and below.
+- Spell out anything below one hundred.
+- Use numbers for anything that takes more than three words. (two hundred twenty five)
+- Spell out anything below a thousand.
+
+It's all down to preference.
+:PROPERTIES:
+:Author: UsernamesR_Pointless
+:Score: 2
+:DateUnix: 1442354415.0
+:DateShort: 2015-Sep-16
+:END:

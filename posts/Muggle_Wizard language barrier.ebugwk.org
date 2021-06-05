@@ -1,0 +1,116 @@
+#+TITLE: Muggle/Wizard language barrier
+
+* Muggle/Wizard language barrier
+:PROPERTIES:
+:Score: 14
+:DateUnix: 1576580697.0
+:DateShort: 2019-Dec-17
+:END:
+[deleted]
+
+
+** I read somewhere that languages drift by about 9% per generation, with the most commonly used words changing the least. If we assume an average time per generation of about 20 years, since the creation of modern English in the late 11th century/beginning of the 12th, that's only 41 generations.
+
+.91^{41} = 2.09%
+
+Had they been totally isolated for that period of time, wizards and muggles wouldn't understand each other at all.
+
+But, if we assume that - and I'm pulling numbers out of my ass here - that muggleborns reintroduce about the same proportion of the language drift back into wizarding speech (that is, 91% of the 9% is synced back up), then we get a language drift of only:
+
+.9919^{41} = 71.64%
+
+Mind you, this includes things like relative frequency of word use, pronunciation, grammar, and other such things, and will often change the least-frequently used portions of a language first. Realistically, this means that, rather than speaking an entirely different language, wizards would at most have a different dialect or - more likely - a thick accent and odd word choice.
+:PROPERTIES:
+:Author: wille179
+:Score: 14
+:DateUnix: 1576598235.0
+:DateShort: 2019-Dec-17
+:END:
+
+*** But there would also be language drift on the wizarding side that's not (or is at much slower rate) reintroduced into muggle language.
+:PROPERTIES:
+:Author: Togop
+:Score: 2
+:DateUnix: 1576608301.0
+:DateShort: 2019-Dec-17
+:END:
+
+**** Population wise, you have to change the speech patterns of fewer people going muggle to wizard than the reverse. Plus, wizards live longer, so a given wizard has a longer time to influence the younger generations; for pure-blood wizards, this slows the process of linguistic drift (more time to teach/learn means less chance for deviation), while for muggleborn wizards, this gives them more time to introduce their own personal variation of the language (which is mostly solidified by age eleven) to younger wizards.
+
+In my (non-professional) opinion, this would probably reduce the discrepencies even further, making a "wizarding register" rather than a dialect. (A register is a mode of speaking that depends on context and formality; you wouldn't write "c u l8tr, m8" in a formal letter, nor would you write "Goodbye, Mr. Person. I will see you again soon," in a text to your best friend, even though they basically convey the same meaning.)
+:PROPERTIES:
+:Author: wille179
+:Score: 3
+:DateUnix: 1576609139.0
+:DateShort: 2019-Dec-17
+:END:
+
+
+*** I think this makes sense - I like the maths on it. My thought it that some of the more muggle-friendly wizards might copy 'cool' words from the muggle borns, but that the more fanatic purebloods might be particularly isolated. Between Hogwarts and ease of travel, I would imagine that even muggle borns tend to adopt a more word choice/accent/dialect.
+
+My memory might fault me, but with the inclusion of Pottermore knowledge, I'm not sure many/any British purebloods are described as having an accent, beyond some sounding posh.
+
+Given the predominance of wizarding households in the South West, if their accents matched locals you would expect a distinctive West Country accent, yet Harry never remarks on it nor does the reader hear any dialect.
+:PROPERTIES:
+:Author: Luna-shovegood
+:Score: 1
+:DateUnix: 1576622985.0
+:DateShort: 2019-Dec-18
+:END:
+
+
+*** u/Tintingocce:
+#+begin_quote
+  If we assume an average time per generation of about 20 years, since the creation of modern English in the late 11th century/beginning of the 12th, that's only 41 generations.
+#+end_quote
+
+Wouldn't it be less generations for wizard kind? I would assume they have a) longer generations, or b) slower change. A) because, well, wizards live much longer than muggles. B) because people from 5-6 different generations will communicate on a daily basis (I talk a bit differently when I talk to my grandparents, now imagine it were THEIR grandparents - I'll have to be able to talk and understand people from 100 years ago.) and I think that this will reintroduce/reinforce the older language.
+
+#+begin_quote
+  Had they been totally isolated for that period of time, wizards and muggles wouldn't understand each other at all.
+#+end_quote
+
+Based on what I said earlier, in that case I would believe there would be "asymmetric mutual intelligibility", which means that one side (the muggles) can understand the other side (wizards) better than the opposite way.
+
+I would disagree with you anyway, based again on asymmetric mutual intelligibility. It would probably be like Spanish and Italian. Or Swedish and Danish. Totally different languages? Yes. Don't understand each other at all? No. Also, they would have a very good mutual intelligibility in writing (unlike German and Yiddish, that have it spoken but not written). Although, in this scenario, the wizards should have an easier time understanding the muggles, because they have an influx of muggleborns ("familiarity" is one of the conditions), which will help them.
+:PROPERTIES:
+:Author: Tintingocce
+:Score: 1
+:DateUnix: 1576662364.0
+:DateShort: 2019-Dec-18
+:END:
+
+
+** I don't know about mutual intelligibility, but I would expect wizards to speak with systematically different accents, to the point where muggleborns and some halfbloods would be mocked for sounding "muggle".
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 8
+:DateUnix: 1576611484.0
+:DateShort: 2019-Dec-17
+:END:
+
+*** Unless Snape takes his accent entirely from his mother, I would imagine that he (and Lily) would have Brummie accents. It makes sense that he would have adjusted his accent at Hogwarts to fit with everyone else, to avoid being mocked in the circles he ran in.
+
+Similarly, there is no chance Voldemort kept the same accent from childhood to adulthood because we never hear a hint of cockney in him, yet we know the adults around him did.
+:PROPERTIES:
+:Author: Luna-shovegood
+:Score: 2
+:DateUnix: 1576623585.0
+:DateShort: 2019-Dec-18
+:END:
+
+**** OK, now I want to read a fic in which Voldemort speaks with Received Pronunciation most of the time, but slips into Cockney when he gets angry.
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 2
+:DateUnix: 1576813883.0
+:DateShort: 2019-Dec-20
+:END:
+
+
+** It's especially true for the Gaunts living in Little Hangleton.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1576602882.0
+:DateShort: 2019-Dec-17
+:END:

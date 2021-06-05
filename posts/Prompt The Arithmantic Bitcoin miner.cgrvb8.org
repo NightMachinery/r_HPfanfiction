@@ -1,0 +1,30 @@
+#+TITLE: Prompt: The Arithmantic Bitcoin miner
+
+* Prompt: The Arithmantic Bitcoin miner
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 0
+:DateUnix: 1563884262.0
+:DateShort: 2019-Jul-23
+:FlairText: Prompt
+:END:
+Arithmancy is a lot like maths, but numbers also have magical properties. Prime numbers have pure unique properties, 7 and 3 are the best known for power, other numbers have the properties of their prime factors.
+
+So wizards have magical methods that are VERY good at factoring huge numbers into primes. Which makes it easy to reverse sha256 and get rich with Bitcoin.
+
+
+** Hmm, well if sha256 is cracked, bitcoin actually becomes worthless.
+:PROPERTIES:
+:Author: UrTwiN
+:Score: 2
+:DateUnix: 1563888663.0
+:DateShort: 2019-Jul-23
+:END:
+
+*** It's only worthless if you spoil that you've cracked it. The key is to keep that shit secret.
+:PROPERTIES:
+:Author: Frix
+:Score: 6
+:DateUnix: 1563898250.0
+:DateShort: 2019-Jul-23
+:END:

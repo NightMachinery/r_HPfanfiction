@@ -1,0 +1,67 @@
+#+TITLE: Ffn error 503
+
+* Ffn error 503
+:PROPERTIES:
+:Author: patriottex
+:Score: 3
+:DateUnix: 1601213654.0
+:DateShort: 2020-Sep-27
+:FlairText: Misc
+:END:
+I can't even logout on ffn it just keeps saying "Error 503, alert the admins if this persists"
+
+
+** They posted this on their Twitter an hour ago:
+
+Service for web/app will be impacted while we fix networking issues. Down time expected to be ~15 minutes.
+:PROPERTIES:
+:Author: eqwe32
+:Score: 5
+:DateUnix: 1601214190.0
+:DateShort: 2020-Sep-27
+:END:
+
+
+** Yeah, error 503 just means the server is down or not able to respond to you for some reason. The reason is most likely basically what eqwe said.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 3
+:DateUnix: 1601217810.0
+:DateShort: 2020-Sep-27
+:END:
+
+
+** Ah, thanks for the heads up
+:PROPERTIES:
+:Author: patriottex
+:Score: 1
+:DateUnix: 1601214300.0
+:DateShort: 2020-Sep-27
+:END:
+
+
+** Any idea how long this normally lasts?
+:PROPERTIES:
+:Author: patriottex
+:Score: 1
+:DateUnix: 1601219887.0
+:DateShort: 2020-Sep-27
+:END:
+
+
+** On PS/4 I get the error in desktop mode. Mobile mode works but is unreadable for me on the PS/4.
+:PROPERTIES:
+:Author: Focusun
+:Score: 1
+:DateUnix: 1601220077.0
+:DateShort: 2020-Sep-27
+:END:
+
+
+** It seems to be fixed.
+:PROPERTIES:
+:Author: Focusun
+:Score: 1
+:DateUnix: 1601249820.0
+:DateShort: 2020-Sep-28
+:END:

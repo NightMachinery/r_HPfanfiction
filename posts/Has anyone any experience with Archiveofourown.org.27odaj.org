@@ -1,0 +1,180 @@
+#+TITLE: Has anyone any experience with Archiveofourown.org?
+
+* Has anyone any experience with Archiveofourown.org?
+:PROPERTIES:
+:Author: OutOfNiceUsernames
+:Score: 11
+:DateUnix: 1402292979.0
+:DateShort: 2014-Jun-09
+:FlairText: Discussion
+:END:
+Its features seem to encompass everything a meta-database should have:
+
+- meticulous tagging and searching systems,
+- permission for users to add new works,
+
+  - ability to import the stories from other platforms (e.g. FF.net) so that they'll be downloadable from this website later,
+
+- ability to rate and bookmark stories, as well as give them private tags
+- open source software platform
+
+And yet it almost never has been mentioned on this sub, and many of the generally popular stories that I know are not listed on /their/ website. Are there some hidden problems with it, or it's just obscure enough that not much people know about it yet?
+
+
+** Fanfiction.net has been around since forever, and has been around all throughout Harry Potters life cycle. Most Harry Potter fanfiction went up there first by default. AO3 only launched in 2009, 2 years after Deathly Hallows was released. The rate of new Harry Potter fics has dropped since the height of the book series popularity, and AO3 wasn't around to take advantage of the lull between books that provided the momentum for ff.nets collection to grow.
+
+For newer stuff, AO3 has a slightly closer ratio of fics compared to ff.net, for example ff has 5.6k Frozen fics to AO3s 1.3k, and 24.1k Once Upon A Time fics to 10.3 on AO3. So for more recent fandoms, AO3 is a bit closer in terms of numbers, but ff.nets longer history as the primary Harry Potter archive gives it a massive advantage at 684k to 56.6k on AO3.
+
+It's been said in other comments, but the tagging system can be as much a curse as it is a blessing. For example, ideally, searching for Remus Lupin would produce stories in which he plays a major role, at least, that's how I'd like tags to work, but in reality, you will often end up with a massive list of fics in which he has only a minor role, such as an appearance in one chapter. The ability to set unlimited tags results in over tagging, which can render them equally useless as not having them at all.
+:PROPERTIES:
+:Author: ravenwood7040
+:Score: 9
+:DateUnix: 1402318875.0
+:DateShort: 2014-Jun-09
+:END:
+
+*** u/thumbyyy:
+#+begin_quote
+  often end up with a massive list of fics in which he has only a minor role, such as an appearance in one chapter. The ability to set unlimited tags results in over tagging, which can render them equally useless as not having them at all.
+#+end_quote
+
+eeeexactly. super annoying.
+:PROPERTIES:
+:Author: thumbyyy
+:Score: 6
+:DateUnix: 1402325440.0
+:DateShort: 2014-Jun-09
+:END:
+
+
+** Problems with AO3:
+
+- Too much slash.
+- Too much smut for the sake of smut.
+- Lower amount of users causes a lot of uneven distribution of favorites/comments to quality.
+- Filtering is good, but lacks a "without" option (I want a story featuring Snape and Luna but unlike 99% of those on AO3, without Harry).
+- There is no division between minor character and major character in the DB. On FF.net, if I select a character, I know he'll appear prominently in the story. On AO3, you will get a thousand where that character doesn't even have dialogue (unless you select one of the following: Harry, Draco, Hermione). Loads of people will list every character that is even mentioned in the story, and that one will be weighted exactly like the main one.
+- UI/UX is less sleek.
+- Specifically for Harry Potter, there are /far/ fewer stories (FF.net has well over 10 times as much). Not nearly as bad for other fandoms though.
+
+Overall though, FF.net not only has more HP stories than all other fandoms combined, it has more HP stories than all other fandoms and all other HP sites combined, has a few killer features, and doesn't suffer from over-tagging induced confusion.
+:PROPERTIES:
+:Author: Teh_Warlus
+:Score: 13
+:DateUnix: 1402310941.0
+:DateShort: 2014-Jun-09
+:END:
+
+*** u/denarii:
+#+begin_quote
+  Too much smut for the sake of smut.
+#+end_quote
+
+I think this is only going to get worse as FFN has been cracking down on smut.
+
+#+begin_quote
+  Filtering is good, but lacks a "without" option (I want a story featuring Snape and Luna but unlike 99% of those on AO3, without Harry).
+#+end_quote
+
+I think the filtering is terrible, primarily because of the following points. They allow you to list as many characters as you want so people end up listing every character that appears in the story and half the fics in the database show up on every search.
+
+I've considered contributing to AO3, but their codebase is kind of a mess and it isn't easy to get it set up for development, at least last time I checked. I'm working on a fic review/rating aggregator instead.
+:PROPERTIES:
+:Author: denarii
+:Score: 8
+:DateUnix: 1402324203.0
+:DateShort: 2014-Jun-09
+:END:
+
+
+*** [deleted]
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1402327881.0
+:DateShort: 2014-Jun-09
+:END:
+
+**** The problem is that the "-Harry" part is for the word "Harry", rather than the character. Search for -Harry in all of Harry Potter stories, and logically, you are left with 0 search results, as all of them have the words "Harry Potter" in them (under the fandom listing).
+
+There is no equivalent to FF.net's "without" filtering.
+:PROPERTIES:
+:Author: Teh_Warlus
+:Score: 7
+:DateUnix: 1402329202.0
+:DateShort: 2014-Jun-09
+:END:
+
+***** [deleted]
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1402329413.0
+:DateShort: 2014-Jun-09
+:END:
+
+****** Agreed.
+:PROPERTIES:
+:Author: Teh_Warlus
+:Score: 2
+:DateUnix: 1402331720.0
+:DateShort: 2014-Jun-09
+:END:
+
+
+*** Excuse me, but why is "Too much slash" a problem exactly?
+:PROPERTIES:
+:Author: 360Saturn
+:Score: 0
+:DateUnix: 1405100668.0
+:DateShort: 2014-Jul-11
+:END:
+
+**** Because it's written by 14 year old girls who share the same insulting ideas about two guys being hot that 14 year old boys share about two girls. It's great in theory, but insulting to downright retarded in execution (/cough/MPREG/cough/). And it doesn't even have the advantage of positive sexual stimuli for me.
+:PROPERTIES:
+:Author: Teh_Warlus
+:Score: 2
+:DateUnix: 1405101428.0
+:DateShort: 2014-Jul-11
+:END:
+
+***** Mm, okay. Those are somewhat valid reasons.
+
+Too much BAD slash you meant.
+:PROPERTIES:
+:Author: 360Saturn
+:Score: 0
+:DateUnix: 1405184649.0
+:DateShort: 2014-Jul-12
+:END:
+
+
+** I think of AO3 as a smut option but I haven't found any good stories on it that couldn't be found on ff.net
+:PROPERTIES:
+:Author: commando678
+:Score: 3
+:DateUnix: 1402313527.0
+:DateShort: 2014-Jun-09
+:END:
+
+
+** AO3's probably my favorite fanfiction site since fandomination went under. It could use a lot of rehauling, but the fact that you can imbed pictures in stories and display the whole work at once (I don't have home internet so I use wifi to save chunks of stories to read later, so the ease of hitting "all chapters" then "select all" for copy pasting had been amazing) won me over.
+:PROPERTIES:
+:Author: _TheShrike_
+:Score: 2
+:DateUnix: 1403929182.0
+:DateShort: 2014-Jun-28
+:END:
+
+
+** I'm signed up for it because I think it could be something special, but it needs to veer itself away from the erotica side and tone the hell down with it's tagging system (seriously - allow a small summary and main characters but include a "show more" to view the rest -.-)
+
+I would love it if they had "competitions" or something whereby a prompt would be given (i.e. James Potter survives Voldemort survived but is a broken man raising Harry - which would include an untainted Sirius) - something like that would be a deal-maker for a lot of people, and as time goes on it would almost be a search function.
+
+EDIT: I'm looking through it now and one tag is "It's not the creepy kind of underage" you seriousssss?
+
+God I wish I had time to make my own fanfic site, perhaps in the next few years after I get my own place...
+:PROPERTIES:
+:Author: The_Vox
+:Score: 1
+:DateUnix: 1402317310.0
+:DateShort: 2014-Jun-09
+:END:

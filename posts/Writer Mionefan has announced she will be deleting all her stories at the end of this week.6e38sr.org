@@ -1,0 +1,337 @@
+#+TITLE: Writer Mionefan has announced she will be deleting all her stories at the end of this week
+
+* Writer Mionefan has announced she will be deleting all her stories at the end of this week
+:PROPERTIES:
+:Score: 30
+:DateUnix: 1496095713.0
+:DateShort: 2017-May-30
+:FlairText: Misc
+:END:
+[deleted]
+
+
+** Wow. How my tastes have changed. I had four Mionefan stories on my alerts list. This post made me go and check them out... and now I have none.
+:PROPERTIES:
+:Author: rpeh
+:Score: 9
+:DateUnix: 1496148085.0
+:DateShort: 2017-May-30
+:END:
+
+
+** Any recommendations on which ones to read?
+:PROPERTIES:
+:Author: StatusOnlineNow
+:Score: 7
+:DateUnix: 1496096095.0
+:DateShort: 2017-May-30
+:END:
+
+*** I like these quite a lot:
+
+linkffn(9644106; 4455612; 8288368)
+
+*Potter's Bones* is a nice Harry/Susan piece\\
+*Wizards In Winter* starts very slow with Hermione learning some special magic, gradually becoming a H/Hr romance\\
+*Harry Potter and The Magic of Music* is massively AU where Harry and Hermione are musical prodigies and much of the canon story is bypassed.
+
+Most of her fics are very fluffy with some good ideas and very light on bashing, where it does occur it's mostly Draco.
+:PROPERTIES:
+:Author: hovercraft_of_eels
+:Score: 3
+:DateUnix: 1496097342.0
+:DateShort: 2017-May-30
+:END:
+
+**** [[http://www.fanfiction.net/s/9644106/1/][*/Harry Potter and The Magic of Music ch/*]] by [[https://www.fanfiction.net/u/1452437/Mionefan][/Mionefan/]]
+
+#+begin_quote
+  Harry and Hermione are child musical prodigies and discover their talents before starting school. A close friendship develops before Hogwarts and the magical world will not be the same. A/U for the most part, with very little canon content. Friendships will be different but no character bashing. Well maybe Draco, but nothing untoward.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction K+ *|* /Chapters/: 9 *|* /Words/: 33,361 *|* /Reviews/: 234 *|* /Favs/: 457 *|* /Follows/: 599 *|* /Updated/: 12/20/2014 *|* /Published/: 8/30/2013 *|* /id/: 9644106 *|* /Language/: English *|* /Genre/: Friendship/Romance *|* /Characters/: Harry P. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9644106&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9644106&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/8288368/1/][*/Wizards In Winter/*]] by [[https://www.fanfiction.net/u/1452437/Mionefan][/Mionefan/]]
+
+#+begin_quote
+  Hermione vows to protect Harry and she inherits an old Grimoire left to her by her grandmother. Title is taken from an instrumental of the same name by The Trans Siberian Orchestra.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 8 *|* /Words/: 34,440 *|* /Reviews/: 222 *|* /Favs/: 364 *|* /Follows/: 611 *|* /Updated/: 1/8/2016 *|* /Published/: 7/5/2012 *|* /id/: 8288368 *|* /Language/: English *|* /Genre/: Romance/Drama *|* /Characters/: Hermione G., Harry P. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8288368&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8288368&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/4455612/1/][*/Potter's Bones/*]] by [[https://www.fanfiction.net/u/1452437/Mionefan][/Mionefan/]]
+
+#+begin_quote
+  Harry is depressed after the disaster in the Department of Mysteries and decides to remove himself from his friends to protect them. What happens when a pretty Hufflepuff finds him? What about his female best friend?
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 25 *|* /Words/: 61,871 *|* /Reviews/: 801 *|* /Favs/: 1,651 *|* /Follows/: 828 *|* /Updated/: 1/29/2009 *|* /Published/: 8/7/2008 *|* /Status/: Complete *|* /id/: 4455612 *|* /Language/: English *|* /Genre/: Romance/Drama *|* /Characters/: Harry P., Susan B. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=4455612&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=4455612&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1496097356.0
+:DateShort: 2017-May-30
+:END:
+
+
+** you can download the whole collection with =fanficfare= if you like:
+
+#+begin_example
+  sudo pip2 install FanFicFare
+  fanficfare --download-list=https://m.fanfiction.net/u/1452437/
+  fanficfare --download-list='https://m.fanfiction.net/u/1452437/?a=s&s=0&cid=0&p=2'
+#+end_example
+:PROPERTIES:
+:Author: tondwalkar
+:Score: 6
+:DateUnix: 1496124495.0
+:DateShort: 2017-May-30
+:END:
+
+*** u/ThellraAK:
+#+begin_quote
+  FanFicFare
+#+end_quote
+
+Thanks for showing me that!
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 1
+:DateUnix: 1496321616.0
+:DateShort: 2017-Jun-01
+:END:
+
+
+** No offense, but reading through the story descriptions but these all seem pretty cliché.
+
+#+begin_quote
+  Harry Potter and Hermione Granger disappear from the magical world when Harry breaks free of potions control. Bad, Dumbledore, Weasleys, McGonagall.
+#+end_quote
+
+Is this one of her worse ones, or something?
+:PROPERTIES:
+:Author: Gigadweeb
+:Score: 6
+:DateUnix: 1496140390.0
+:DateShort: 2017-May-30
+:END:
+
+*** Some of it is cliché, sure. I list three fics in an earlier comment I do like, and in general I think it's a shame if any fics disappear so I thought I'd warn everyone here.
+:PROPERTIES:
+:Author: hovercraft_of_eels
+:Score: 4
+:DateUnix: 1496142446.0
+:DateShort: 2017-May-30
+:END:
+
+
+*** Tons of bad stories. Lots of them read like outlines instead of something with a cohesive plot. I've tried a few in the past but I don't think I've ever finished one. But, to each their own, I guess, and most authors have their share of bad stories.
+:PROPERTIES:
+:Author: Lord_Anarchy
+:Score: 5
+:DateUnix: 1496149992.0
+:DateShort: 2017-May-30
+:END:
+
+
+** Shame. Potter's Bones is a good story.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1496099751.0
+:DateShort: 2017-May-30
+:END:
+
+
+** I don't understand why a writer would delete their stories. Its not costing anything to have them hosted. Simply post that you are no longer writing, and any stories unfinished will remain so, and if you are feeling generous, tell folks they are welcome to take some of the stories over and finish them.
+
+I get the idea that you don't want people bothering you about them, but there are ways to prevent that quite easily. Not checking the site... disabling responses.... changing email associated with the account to a spam email, or simply blocking things. Plus after posting that you are done, likely fewer would try and contact you.
+
+What is the point of deleting.
+:PROPERTIES:
+:Author: Noexit007
+:Score: 3
+:DateUnix: 1496170470.0
+:DateShort: 2017-May-30
+:END:
+
+*** As an author, I have deleted things in the past because they were super embarrassing. Poorly written, and they were rightly ignored or mocked and derided. I've also deleted stories that i realized I was never going to finish and didn't want constant alerts for with people begging they be updated.
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 2
+:DateUnix: 1496175889.0
+:DateShort: 2017-May-31
+:END:
+
+**** I get being embarrassed of something you wrote when you were 13 or whatever, but why not just turn the alerts off?
+:PROPERTIES:
+:Author: ashez2ashes
+:Score: 1
+:DateUnix: 1496248839.0
+:DateShort: 2017-May-31
+:END:
+
+***** Because I have other stories that I wanted to leave up and receive feedback on.
+:PROPERTIES:
+:Author: Full-Paragon
+:Score: 2
+:DateUnix: 1496265032.0
+:DateShort: 2017-Jun-01
+:END:
+
+
+** Serious question: why would you announce that you were going to remove your stories before doing so?
+
+If it was me, I'd delete first then explain on my profile. Seems to me that if you are giving everyone the chance to copy or download the work anyway, you might as well leave it where it is, so at least you still have a measure of ownership. Surely deleting means you don't want people to read it any more - or you need it gone because you are looking for traditional publication in some way? Or are there reasons I'm missing?
+:PROPERTIES:
+:Author: booksandpots
+:Score: 2
+:DateUnix: 1496142568.0
+:DateShort: 2017-May-30
+:END:
+
+*** From what I understand her health is not so good, and she doesn't want to deal with the stress of people demanding updates any longer. As someone who has unfinished fics himself, I'm well aware of how rude and obnoxious some people can get...
+
+Since I posted this she has indicated she may leave the completed stories up and only delete the unfinished ones.
+:PROPERTIES:
+:Author: hovercraft_of_eels
+:Score: 9
+:DateUnix: 1496143236.0
+:DateShort: 2017-May-30
+:END:
+
+**** I do understand wanting to take stories down, it's just announcing it beforehand I don't really get.
+:PROPERTIES:
+:Author: booksandpots
+:Score: 2
+:DateUnix: 1496143396.0
+:DateShort: 2017-May-30
+:END:
+
+***** It's giving anyone who cares a chance to download them before they're gone. If you just delete everything without warning, people won't be able to.
+:PROPERTIES:
+:Author: hovercraft_of_eels
+:Score: 6
+:DateUnix: 1496144330.0
+:DateShort: 2017-May-30
+:END:
+
+****** But that's my point. If you want people to still read your work, why delete it? And if you delete it from your account but someone has copied it and reposts it as their own work you have no way of proving it was yours in the first place. It's potentially much more complex than it seems.
+:PROPERTIES:
+:Author: booksandpots
+:Score: 1
+:DateUnix: 1496144699.0
+:DateShort: 2017-May-30
+:END:
+
+******* She is sick of people asking her (or demanding) to update her stories. She obviously doesn't want people to be unable to read her stories.
+:PROPERTIES:
+:Author: Starfox5
+:Score: 9
+:DateUnix: 1496146710.0
+:DateShort: 2017-May-30
+:END:
+
+******** It's anonymous on the internet. Ignore it. Hell you can even disable notifications. You literally never have to see a review or a PM if you don't want to.
+
+The previous poster brings up a rather valid point, there's no reason to tell people you're deleting your stories before deleting them if you want people to read it. If you're done, just turn off notifications and let your anonymous internet profile fade into the abyss.
+:PROPERTIES:
+:Author: TE7
+:Score: 6
+:DateUnix: 1496157448.0
+:DateShort: 2017-May-30
+:END:
+
+********* Or she just didn't think about it? Simple enough to overlook, getting way into something that you can just move on from.
+:PROPERTIES:
+:Author: DSB1998
+:Score: 2
+:DateUnix: 1496159179.0
+:DateShort: 2017-May-30
+:END:
+
+
+**** She just has to turn the notifications off...
+:PROPERTIES:
+:Author: ashez2ashes
+:Score: 1
+:DateUnix: 1496248740.0
+:DateShort: 2017-May-31
+:END:
+
+
+*** Reason: attention whores?
+:PROPERTIES:
+:Author: hereticjedi
+:Score: -4
+:DateUnix: 1496143105.0
+:DateShort: 2017-May-30
+:END:
+
+
+** good post. i've never heard of this author and so don't happen to care, but thanks for posting.
+:PROPERTIES:
+:Author: flagamuffin
+:Score: 2
+:DateUnix: 1496173909.0
+:DateShort: 2017-May-31
+:END:
+
+
+** Below is a full list of the fics still available on the authors profile. You can paste this list into a .txt file and load it into FanFictionDownloader for batch downloading. I can't speak to the quality of these stories but it never hurts to have archived copies.
+
+[[https://fanfictiondownloader.net/#/download]]
+
+#+begin_example
+  https://www.fanfiction.net/s/10783269/1/Breaking-Free
+  https://www.fanfiction.net/s/6083910/1/Harry-Potter-and-the-Loss-of-Innocence
+  https://www.fanfiction.net/s/8288368/1/Wizards-In-Winter
+  https://www.fanfiction.net/s/11197951/1/Stardust
+  https://www.fanfiction.net/s/9644106/1/Harry-Potter-and-The-Magic-of-Music-ch
+  https://www.fanfiction.net/s/10783295/1/Susan-s-Dilemma
+  https://www.fanfiction.net/s/8481766/1/Harry-Potter-Death-s-Revenge
+  https://www.fanfiction.net/s/10749453/1/Susan-and-Harry
+  https://www.fanfiction.net/s/7241534/1/Daphne-s-Surprise
+  https://www.fanfiction.net/s/7982536/1/The-Hufflepuff-Alternative
+  https://www.fanfiction.net/s/8197745/1/Padma-Patil-the-Goblet-of-Fire
+  https://www.fanfiction.net/s/9874123/1/Harry-Potter-and-The-Magic-of-Time
+  https://www.fanfiction.net/s/4889754/1/Harry-Potter-and-the-Enchanting-Boy
+  https://www.fanfiction.net/s/8077558/1/A-Life-Like-No-Other
+  https://www.fanfiction.net/s/6858747/1/Shared-Scars
+  https://www.fanfiction.net/s/6765623/1/The-Hand-Of-Fate
+  https://www.fanfiction.net/s/6450474/1/Harry-Potter-and-His-Destiny-repost-continued
+  https://www.fanfiction.net/s/6532251/1/Sabrina-extended
+  https://www.fanfiction.net/s/6326297/1/Harry-Potter-and-a-Very-Different-Goblet-of-Fire
+  https://www.fanfiction.net/s/6264339/1/HP-The-Lake-House
+  https://www.fanfiction.net/s/4914582/1/Hermione-Granger-Growing-Up-Weasley
+  https://www.fanfiction.net/s/5173652/1/Sleepless-In-Seattle-extended
+  https://www.fanfiction.net/s/4826338/1/Settling-For-Less
+  https://www.fanfiction.net/s/4448142/1/Harry-s-Bond-Part-3
+  https://www.fanfiction.net/s/4455612/1/Potter-s-Bones
+  https://www.fanfiction.net/s/4266901/1/Harry-s-Bond-Part-2
+  https://www.fanfiction.net/s/4242119/1/Harry-s-Bond-Part-1
+#+end_example
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 2
+:DateUnix: 1496185760.0
+:DateShort: 2017-May-31
+:END:
+
+
+** Why do that? I haven't written a fanfic in over a decade but it doesn't hurt for them to stay up. You can just turn alerts off.
+:PROPERTIES:
+:Author: ashez2ashes
+:Score: 1
+:DateUnix: 1496248677.0
+:DateShort: 2017-May-31
+:END:

@@ -1,0 +1,50 @@
+#+TITLE: What is the criteria for a fanfiction ending up under the "notable fanfics" section on fanlore?
+
+* What is the criteria for a fanfiction ending up under the "notable fanfics" section on fanlore?
+:PROPERTIES:
+:Author: Nuarshack
+:Score: 2
+:DateUnix: 1511882540.0
+:DateShort: 2017-Nov-28
+:FlairText: Discussion
+:END:
+Also, I am new to reading fanfictions. How do you find recommendation sites/pages for particular themes (For ex: Ashwinder is one that I know of for SS/HG fanfiction, and fanlore page being another).
+
+
+** In theory Archive of our Own (AO3) has a tag system that lets you search for pairings, themes and so on. It takes some practice to use, namely adding as many filters as you can and using "search within results" together with "-" to weed out what you don't like.
+
+For example, lets say you want a Harry/Hermione story that deals with mature themes but is not sexually explicit. You want no polyamorous or harem stories so your search within the Harry Potter category would look like this.
+
+#+begin_quote
+  Sort by: Kudos
+
+  Ratings: Mature
+
+  Categories: F/M
+
+  Characters: Harry Potter, Hermione Granger
+
+  Relationships: Harry Potter/Hermione Granger
+
+  Search within results: -multi -"m/m"
+
+  Language: English
+#+end_quote
+
+If you want to filter results further you can add whatever you want to search within results. Add Nymphadora Tonks? Sure, just add "Nymphadora Tonks" to your filter so that the "Seach within results" field looks like this:
+
+#+begin_quote
+  "Nymphadora Tonks" -multi -"m/m"
+#+end_quote
+
+The quotation marks are necessary whenever a tag is divided by something since blank spaces add as a separator.
+
+As for FFN, you could use the search settings to find what you want and sort by favorites so that you find popular stories first. Searching through groups can be tedious but rewarding.
+
+Of course, you always can use the reddit search bar and limit results to this sub.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 2
+:DateUnix: 1511891815.0
+:DateShort: 2017-Nov-28
+:END:

@@ -1,0 +1,68 @@
+#+TITLE: Testing title Becuase something Weird is Going On
+
+* Testing title Becuase something Weird is Going On
+:PROPERTIES:
+:Author: fruitless_search
+:Score: 4
+:DateUnix: 1473595098.0
+:DateShort: 2016-Sep-11
+:FlairText: Meta
+:END:
+in [[https://www.reddit.com/r/HPfanfiction/submit?selftext=true]] all words in the title are capitalized - it seems that it is misleading as after submitting not all are capitalized...
+
+
+** Yes, on writing post all words in the title are capitalized (no matter whatever shift was used or not) then it is displayed correctly.
+
+Is it fault of reddit or subreddit css?
+
+If it matters - I am using Tor browser 6.0.4 (based on Mozilla Firefox 45.3.0), running on Ubuntu 14.04.
+:PROPERTIES:
+:Author: fruitless_search
+:Score: 4
+:DateUnix: 1473595156.0
+:DateShort: 2016-Sep-11
+:END:
+
+
+** There's a text-transform property in the CSS for the title element that capitalizes the words. I'd bet the web developer intended the display to be all caps, too, but forgot to add the javascript property of .toUpperCase() to the form output. Personally, I'd just open the developer tools and uncheck the property on the title element to see how the output will look.
+:PROPERTIES:
+:Author: kjpotter
+:Score: 2
+:DateUnix: 1473605591.0
+:DateShort: 2016-Sep-11
+:END:
+
+*** I checked [[https://www.reddit.com/r/AskReddit/submit?selftext=true]] and there is no effect like that there.
+
+I guess that it means that this problem is introduced by css of this subreddit - and
+
+#+begin_quote
+  add the javascript property of .toUpperCase() to the form output
+#+end_quote
+
+is impossible as for obvious reasons Reddit is not allowing subreddit admins to modify js.
+:PROPERTIES:
+:Author: fruitless_search
+:Score: 1
+:DateUnix: 1473609083.0
+:DateShort: 2016-Sep-11
+:END:
+
+**** add the javascript property of .toUpperCase() to the form output is impossible as for obvious reasons Reddit is not allowing subreddit admins to modify js.
+
+Ah. Well, just as well. There's no reason for the text-transform anyway. If they just got rid of that line, the issue would be resolved.
+:PROPERTIES:
+:Author: kjpotter
+:Score: 1
+:DateUnix: 1473653145.0
+:DateShort: 2016-Sep-12
+:END:
+
+
+** You are choosing a dvd for tonight
+:PROPERTIES:
+:Author: boxerman81
+:Score: 2
+:DateUnix: 1473615297.0
+:DateShort: 2016-Sep-11
+:END:

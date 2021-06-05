@@ -1,0 +1,57 @@
+#+TITLE: Anyone know if there's an archive of restrictedsection.org
+
+* Anyone know if there's an archive of restrictedsection.org
+:PROPERTIES:
+:Author: silencesc
+:Score: 20
+:DateUnix: 1554427206.0
+:DateShort: 2019-Apr-05
+:END:
+Trying to find someone the weirder/funnier stuff to prove to my fiancee I wasn't making them up, but the site is defunct. Anyone who used to go there back in the day know if there's an archive of the stories posted there?
+
+
+** You might try asking over at [[/r/datahoarder][r/datahoarder]]. Someone there may have grabbed it or know where it's at.
+:PROPERTIES:
+:Author: wwbillyww
+:Score: 4
+:DateUnix: 1554447602.0
+:DateShort: 2019-Apr-05
+:END:
+
+
+** archive.org ?
+:PROPERTIES:
+:Author: altrarose
+:Score: 1
+:DateUnix: 1554432599.0
+:DateShort: 2019-Apr-05
+:END:
+
+*** Doesn't work :( or at least I haven't found a way to use the search function
+:PROPERTIES:
+:Author: silencesc
+:Score: 1
+:DateUnix: 1554435980.0
+:DateShort: 2019-Apr-05
+:END:
+
+**** Search won't work because of the way the site caches backups, it only takes a single snap of the site so searching isn't backed up for a lot of websites.
+
+The only thing I can recommend is using /httpp://[[http://www.restrictedsection.org/story.php][www.restrictedsection.org/story.php]]/ replacing "story" with the name of specific fic to see if there are any backups of it.
+
+That's all I have though :(
+:PROPERTIES:
+:Author: ItsRevan
+:Score: 2
+:DateUnix: 1554457430.0
+:DateShort: 2019-Apr-05
+:END:
+
+
+** It probably will show up eventually at AO3. They try to save fanfic archives. See [[https://fanlore.org/wiki/Open_Doors]] .
+:PROPERTIES:
+:Author: raveninthewind84
+:Score: 1
+:DateUnix: 1555058653.0
+:DateShort: 2019-Apr-12
+:END:

@@ -1,0 +1,90 @@
+#+TITLE: [META] An idea for the remindme bot replies
+
+* [META] An idea for the remindme bot replies
+:PROPERTIES:
+:Author: hamoboy
+:Score: 12
+:DateUnix: 1573860744.0
+:DateShort: 2019-Nov-16
+:FlairText: Meta
+:END:
+On [[/r/redditserials]], there is a bot that has a stickied reply to every fic update. The reply is just telling people that if they want to receive alerts whenever the author updates this series, they can just do XYZ and they'll receive them. Replies to this comment are just people carrying out the instructions.
+
+Could request threads get that? A stickied automod comment with instructions for Remindme bot and asking people to keep their remindme posts confined underneath that reply?
+
+Do you think it would be a feasible way to have remindme comments without littering the whole thread and making the OP think they're receiving recs when they're not?
+
+
+** Block the bot. No more reply notifications from it. If someone comments only to call the bot, flag as spam or ignore them too.
+
+Also - I browsed every request thread over the past 24 hours. The bot was called once. Why is this such a problem in your eyes?
+
+Edit: I hate hate automod. It's lazy. It takes humans out of subs. It stifles useful discussion. Anything that gives increased automod presence makes the sub worse.
+:PROPERTIES:
+:Author: Sturmundsterne
+:Score: 10
+:DateUnix: 1573871606.0
+:DateShort: 2019-Nov-16
+:END:
+
+*** The bot has been called in this sub roughly:
+
+- 29 times in the past week (average of 4.1 times per day; largest contributor was one redditor who called the bot 13 times, a few other people called the bot twice)
+
+- 136 times in the past month (average of 4.5 times per day; largest contributor was the same redditor who called the bot 19 times, a few other people called the bot between 4 and 2 times)
+
+- 579 times in the past year (average of 1.6 times per day)
+
+(These numbers come from using [[https://redditsearch.io/][redditsearch.io]] to look for the phrase "remindme" in comments on this sub then dividing by two to very roughly account for the bot's responses to each call.)
+
+So regarding your question of /"Why is this such a problem in your eyes?"/ the answer is that people (and one redditor in particular) have begun using the bot more frequently, and thus it's become more annoying.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 5
+:DateUnix: 1573873510.0
+:DateShort: 2019-Nov-16
+:END:
+
+**** Again. Block the bot, block the one redditor who calls it (in your eyes) too much, and is there still a problem? You're creating a “solution” where it already exists.
+:PROPERTIES:
+:Author: Sturmundsterne
+:Score: 1
+:DateUnix: 1573916489.0
+:DateShort: 2019-Nov-16
+:END:
+
+
+*** I don't mind people commenting once, but the downvotes and comments on other meta threads shows that people do mind.
+
+I'm just suggesting a solution that I think would help keep requests threads neat while still serving those who want a reminder. Nobody will have to lay down that first remindme comment manually.
+:PROPERTIES:
+:Author: hamoboy
+:Score: 3
+:DateUnix: 1573872490.0
+:DateShort: 2019-Nov-16
+:END:
+
+
+** The bot spawns by one commenter requesting to be reminded, and then it gives a link for others to use if others want to be reminded as well. It is not that big of an issue.
+:PROPERTIES:
+:Author: RedKorss
+:Score: 2
+:DateUnix: 1573876802.0
+:DateShort: 2019-Nov-16
+:END:
+
+
+** Just block the bot, delete comments that call it. If people really want to watch a thread they can just save it.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1573876272.0
+:DateShort: 2019-Nov-16
+:END:
+
+
+** That is such a good idea Hammy yes I love bottys they are so cute and helpful! :)
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1573872637.0
+:DateShort: 2019-Nov-16
+:END:

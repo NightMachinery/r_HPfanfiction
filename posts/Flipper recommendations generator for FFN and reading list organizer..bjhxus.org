@@ -1,0 +1,257 @@
+#+TITLE: Flipper: recommendations generator for FFN and reading list organizer.
+
+* Flipper: recommendations generator for FFN and reading list organizer.
+:PROPERTIES:
+:Author: zerkses
+:Score: 31
+:DateUnix: 1556722154.0
+:DateShort: 2019-May-01
+:FlairText: Self-Promotion
+:END:
+Flipper is a windows/linux/mac application that generates recommendations of what you might want to read on [[https://www.fanfiction.net]] based your profile's favourites.
+
+It can be downloaded here: [[https://github.com/Zeks/flipper/releases/download/1.0.0.0/flipper_client_1.0.0.7z]]
+
+ 
+
+Current version of Flipper looks like this: [[http://i.imgur.com/8KSEgtr.jpg]]
+
+ 
+
+It works as a search engine, reading tracker and reading list organizer. Ideally - the longer you use it, the more useful it becomes. As you tag fics and ignore fandoms your recommendations get better and better, fics you've seen again and again but were never interested in on FFN vanish to never reappear and bringing up stuff you've liked or want to read for other people becomes a few clicks operation. In short: Flipper aims to add as much convenience features over searching on FFN as possible.
+
+ 
+
+Highlights of Flipper's features:
+
+- Somewhat smart~ish recommendations algorithm
+
+- Ability to create multiple recommendation lists based on what type of fics you are interested in. You can feed the recs algo a bunch of romance and get a list of suggested romance fics. A bunch of comedy, drama etc...
+
+- Intelligent slash filter
+
+- Assignable tags and ratings for fics for easy categorization and filtering. Flipper allows you to have much more separation between fics than just Favourite and Follow. Whatever guilty pleasures you've been ashamed to put on your FFN favourites you can just assign to a custom tag here.
+
+- Fav Rate sort order that brings up the hottest recent fics
+
+- Genre detection on more popular fics, to display more accurate info than Romance/Humor
+
+- Fic ignore
+
+- Fandom ignore (for crossovers)
+
+- Quickly creating recommendations for other people
+
+- More filters and sort orders than FFN allows
+
+- Adding custom notes to fics to better remember where you've stopped last time
+
+- Snoozing fics to make them disappear from searches until next chapter happens
+
+- Better visual presentation of fic's metainformation than FFN does
+
+- Ability to immediately see if a fic is from the author you've liked already
+
+- Random walk mode over recommendation lists to more easily stumble onto buried gems
+
+ 
+
+Like I said before: a ton of features that generally improve your fic finding life. Describing them all in this post is counterproductive but you can read about them them in the manual: [[https://docs.google.com/document/d/1rEXQBQnDbFljBTAea_Ljbq731OGUDjHoew2s9jmj2tk/edit?usp=sharing]]
+
+There's also a TLDR version of what a basic usage scenario looks like here: [[https://forums.spacebattles.com/threads/fanfic-recommendation-engine-for-ffn.663016/page-3#post-56104063]]
+
+Notable changes since the last post on this sub:
+
+- Lots of bugfixes.
+- Ability to set the chapter you're reading at.
+- Exact crossover searches.
+- Assigning notes to fics.
+- Ratings for fics that you can filter on.
+- Fic snoozing.
+- More quick taggers.
+- Magnet quick tagger for user defined tags.
+- Ratio indicator that is "recommendations score to favourites on a fic"
+
+P.S. My Patreon can be found here: [[https://www.patreon.com/zekses]]
+
+And support discord for Flipper is located here: [[https://discord.gg/AdDvX5H]]
+
+Note that patreon is purely on a voluntary basis. It won't affect service availability.
+
+
+** Looks nice, could it be turned into a mobile app? I'm mostly reading fanfic on my phone and it'd be much more convenient to have this on there as well.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 3
+:DateUnix: 1556732743.0
+:DateShort: 2019-May-01
+:END:
+
+*** Short answer: possibly.
+
+Long answer: It depends on how succesful I am at switching the database to postgres. Currently all data is kept on user side and I don't want to go mobile until I can have actual synchronized user accounts. And this requires actual writes to server side DB, which currently never happens.
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1556733131.0
+:DateShort: 2019-May-01
+:END:
+
+**** 👍
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 1
+:DateUnix: 1556733334.0
+:DateShort: 2019-May-01
+:END:
+
+***** Meanwhile you can do what I do and hover over "copy" icon on the desktop to bring up QR codes and open a bunch of found fics on your mobile browser so you don't run out
+:PROPERTIES:
+:Author: zerkses
+:Score: 3
+:DateUnix: 1556733404.0
+:DateShort: 2019-May-01
+:END:
+
+
+** Hey could you explain what the stem button does? I mean, is it just a snooze or does it influence recs?
+
+Also why does it pull lots of recs from fandoms that never appear in my favourites while there are no recs at all for some of the fandom I do have?
+
+Nice program btw.
+:PROPERTIES:
+:Author: Aet2991
+:Score: 2
+:DateUnix: 1556752430.0
+:DateShort: 2019-May-02
+:END:
+
+*** The whole row before the mini break are quick taggers for easy categorization and using any of these buttons excludes fics from searches unless you are searching on this specific tag.
+
+Search for "excluding fics from searches" here for an explanation: [[https://docs.google.com/document/d/1rEXQBQnDbFljBTAea_Ljbq731OGUDjHoew2s9jmj2tk/edit#heading=h.l0l1ojluzqiv]]
+
+You can then go to the "Tags" tab, select corresponding tags and press "Search" to bring up just the fics with those tag(s). Personally I am using "stem" to mark unfinished fics I am highly interested in. Coupled with star ratings and "your score" sort order this is used to prioritize the fics you've queued for reading.
+
+The only things that influence recommendations are your favourites/source urls and a bit of settings in the "Advanced Mode"
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1556752900.0
+:DateShort: 2019-May-02
+:END:
+
+
+*** Regarding new fandoms: those fics are pulled from favourite lists of ppl that like the same stuff you do. It's either a suggestion you might like those fandoms or a signal that you should start using "Ignored Fandoms" feature.
+
+Personally, I find this stream of new fandoms one of the best features of Flipper. It gives you new stuff to potentially be intersted in or fics from fandoms you are already interested in but wouldn't have visited specifically since they are too small. Also you can always suppress stuff you're 100% sure you won't read. My own ignored fandoms section for example has 564 records :)
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1556753799.0
+:DateShort: 2019-May-02
+:END:
+
+
+** I would love to see a youtube video on this, like more in-depth on how it works and the story behind it
+:PROPERTIES:
+:Author: JacksFilmsJacksFilms
+:Score: 2
+:DateUnix: 1556810196.0
+:DateShort: 2019-May-02
+:END:
+
+*** I guess I could do another tutorial video, the problem with those is that they tend to get outdated and re-editing the documentation is massively easier than recasting the video.
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1556814584.0
+:DateShort: 2019-May-02
+:END:
+
+
+*** [[https://www.youtube.com/watch?v=OjhhFmWfBHc]] I am honestly not very satisfied with this video but it's at least something
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1557184311.0
+:DateShort: 2019-May-07
+:END:
+
+
+** I'll have to check this out when I get home\\
+Thank you for posting this
+:PROPERTIES:
+:Author: minty_teacup
+:Score: 1
+:DateUnix: 1556731784.0
+:DateShort: 2019-May-01
+:END:
+
+
+** I mostly follow things rather than favorite them, is it possible to add an option to look at that list instead?
+:PROPERTIES:
+:Author: wacct3
+:Score: 1
+:DateUnix: 1556751144.0
+:DateShort: 2019-May-02
+:END:
+
+*** follows aren't public so I can't. But you can feed any amount of custom urls instead of favourites as a source via Advanced Mode
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1556751322.0
+:DateShort: 2019-May-02
+:END:
+
+
+** This looks amazing. I have looked into making a recommendations program myself, but couldn't find a ff.net API and I didn't want to write a custom crawler. I'll play around with this program some when I get home on Sunday.
+:PROPERTIES:
+:Author: therkleon
+:Score: 1
+:DateUnix: 1556798058.0
+:DateShort: 2019-May-02
+:END:
+
+*** This app is a testament to just how sick I was of re-reading the same summaries over and over on FFN. At that point even writing a custom crawler couldn't deter me.
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1556800395.0
+:DateShort: 2019-May-02
+:END:
+
+
+** Does this interact in any way with ffnet's favoriting capability? In other words, does it know what fics I've favorited on ffnet?
+
+Now that they have this stupid bug that means I can only see 500 of my favs I'm looking for a better way to interact with the stories I've fav'd. I know I can do this under my account or on mobile but that's a pita.
+:PROPERTIES:
+:Author: drmdub
+:Score: 1
+:DateUnix: 1556936471.0
+:DateShort: 2019-May-04
+:END:
+
+*** Rn, it can only see 500 faves ffn displays. If that isn't fixed in the next two months I am doing a mobile pages parser to circumvent.
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1556936689.0
+:DateShort: 2019-May-04
+:END:
+
+**** Yeah they seem to be taking their time fixing that bug.
+:PROPERTIES:
+:Author: drmdub
+:Score: 1
+:DateUnix: 1556936940.0
+:DateShort: 2019-May-04
+:END:
+
+***** tbh I am not even sure they are bothering to do it at all
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1556937070.0
+:DateShort: 2019-May-04
+:END:

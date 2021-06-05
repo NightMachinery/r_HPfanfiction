@@ -1,0 +1,190 @@
+#+TITLE: On the difference between charm, hex, curse, and other classification of magic in HP?
+
+* On the difference between charm, hex, curse, and other classification of magic in HP?
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1499257752.0
+:DateShort: 2017-Jul-05
+:END:
+To be honest, I don't see the need for it to be classified instead of generalized as spell. Can anyone explain to me what each of them means, why it needs to be classified, how many classifications are there, etc?
+
+
+** You're in luck. JKR explicitly talked about this on her old website.
+
+#+begin_quote
+  Spell Definitions
+
+  Every now and then somebody asks me for the difference between a spell, a charm and a hex. Within the Potter world, the boundaries are flexible, and I imagine that wizards may have their own ideas. Hermione-ish, however, I've always had a working theory:
+
+  Spell:
+
+  The generic term for a piece of magic.
+
+  Charm:
+
+  Does not fundamentally alter the properties of the subject of the spell, but adds, or changes, properties. Turning a teacup into a rat would be a spell, whereas making a teacup dance would be a charm. The grey area comes with things like 'Stunning Spells', which on balance I think are Charms, but which I call spells for alliterative effect.
+
+  Hexes:
+
+  Has a connotation of dark magic, as do jinxes, but of a minor sort. I see 'hex' as slightly worse. I usually use 'jinx' for spells whose effects are irritating but amusing.
+
+  Curses:
+
+  Reserved for the worst kinds of dark magic.
+#+end_quote
+
+[[https://web.archive.org/web/20090421142847/http://www.jkrowling.com:80/textonly/en/extrastuff_view.cfm?id=24]]
+:PROPERTIES:
+:Author: Taure
+:Score: 10
+:DateUnix: 1499262056.0
+:DateShort: 2017-Jul-05
+:END:
+
+*** u/AnIndividualist:
+#+begin_quote
+  The grey area comes with things like 'Stunning Spells', which on balance I think are Charms, but which I call spells for alliterative effect.
+#+end_quote
+
+So wizards abusively call some charms spells. It seems realistic.
+:PROPERTIES:
+:Author: AnIndividualist
+:Score: 3
+:DateUnix: 1499282272.0
+:DateShort: 2017-Jul-05
+:END:
+
+
+*** Note that that text does not actually make any sense. She first says "spell" is "a generic term for a piece of magic", but then says that charms don't alter the properties of the object "as opposed to spells", as if charms (ostentatiously bits of magic) were /not/ a type of spell.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 1
+:DateUnix: 1499269707.0
+:DateShort: 2017-Jul-05
+:END:
+
+**** I think within the context of contrasting a Charm to a specific Transfiguration spell (rat into teacup) it is clear what the difference is. She obviously means to contrast Charms with other types of non-Charm spells when she says "would be a spell" (as opposed to specifically a Charm).
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1499270145.0
+:DateShort: 2017-Jul-05
+:END:
+
+
+** On why it needs to be classified the answer is probably the same as why do books need to be classified by genres. It makes it easier to search for particular spells, since pretty sure it has been hinted that theres a spell for every minor thing, even if those spells arent really shown in use.
+
+I think they are classified by the effects they have like curses being spells to ruin someones day by for example injuring them. Jinxes staying active for a long time causing issues, charms being utility spells, transfigurations are obvious. Can't really say how many there are or what their all for, since rowling hasnt to my knowledge explained them all that much
+:PROPERTIES:
+:Author: Triflez
+:Score: 3
+:DateUnix: 1499258291.0
+:DateShort: 2017-Jul-05
+:END:
+
+*** For what it's worth, Rowling has said that she considers the boundaries to be somewhat flexible, and that's necessary if we exclusively discriminate by effect.
+
+Charms and Transfiguration comprise the broadest classifications due to the whole "form vs function" dynamic, but then you have ambiguous feats like Extension Charms and Engorgement Charms. I've always been uncertain regarding the nature of "animating" objects, too.
+
+On that note, the Dark Arts are pretty interdisciplinary. You have spells like the Antler-Growing Hex and the Pumpkin Head Jinx which exhibit Transfiguration properties, while the Impediment Jinx and Leg-Locker Curse behave more like Charms. The Bat-Bogey Hex sounds like it could incorporate both.
+:PROPERTIES:
+:Author: Ihateseatbelts
+:Score: 1
+:DateUnix: 1499268937.0
+:DateShort: 2017-Jul-05
+:END:
+
+**** u/Taure:
+#+begin_quote
+  I've always been uncertain regarding the nature of "animating" objects, too.
+#+end_quote
+
+It seems that there are two separate forms of animation.
+
+We see making a pineapple dance across a table examined in first year Charms. We also see various other Charms that make objects perform specific movements. It seems that animation in Charms is all about performance of specific actions under the continuous direction of the caster.
+
+On the other hand, animation of the chess set in PS is considered an act of transfiguration as it is McGonagall's challenge. These chess pieces act with a mind of their own (though still subject to the will of the caster, in that they play chess as designed to do, rather than run off doing whatever) and seem to remain animated for a long time.
+
+So Charms animation is getting objects to move under your direction, Transfiguration animation is about granting objects the power to move under their own direction, within limits. This matches up fairly well with what we understand about Charms and Transfiguration more generally (i.e. Transfiguration fundamentally altering objects, Charms changing properties but not changing the object's essential nature).
+:PROPERTIES:
+:Author: Taure
+:Score: 7
+:DateUnix: 1499269942.0
+:DateShort: 2017-Jul-05
+:END:
+
+***** u/GlimmervoidG:
+#+begin_quote
+  It seems that there are two separate forms of animation.
+#+end_quote
+
+This seems unsurprising to me.
+
+Going by the definition JKR gave, the key difference between charms and not-charm-spells is not one of end result, but rather of process.
+
+You could have two spells, which produce superficially identical results, but if one achieved that result by adding a temporary magical effect and the other by changing that object's nature, only one would be a charm.
+
+Consider a (hypothetical) colour changing charm and a colour changing spell.
+
+The spell is transfiguration. It takes the object, changes the pigments in the surface layer and now your cup really is green.
+
+A colour changing charm, on the other hand, would add a metaphorical coat of paint that will go away when the spell is removed.
+
+From an on looker's prospective, same result, but magically very different.
+:PROPERTIES:
+:Author: GlimmervoidG
+:Score: 1
+:DateUnix: 1499335625.0
+:DateShort: 2017-Jul-06
+:END:
+
+
+** In my headcanon, words like "spells" and "jinxes" are vernacular words, and pedantic wizards keep arguing /in-universe/ about what should be considered what. The more sane system, however, that I would personally subscribe to, is:
+
+*Enchantment:* Usually one-of-a-kind, long-lasting spell put on a structure. Some enchantments, such as Hogwarts' protecting ones (the ones fanon refers to as wards), have been known to last centuries or even millenia. Artifacts such as the Resurrection Stone are created by layering (usually custom-created) enchantments onto an object.
+
+*Spell:* General term for all magic done by a wizard in real time, usually through a wand.
+
+*Charm:* "Temporary" magic that, if it affects an outside object at all, adds or suppresses properties of an object through a constant feed of magic; wears off after a time. Note that this is unrelated to the school subject "Charms", which covers spells in general and magical theory, and was named before the modern, scientific definiton of charms was coined.
+
+*Curse:* Spell (or, less properly, enchantment) of an offensive nature, whose main apparent purpose is to bring harm.
+
+*Jinx, Hex:* Vernacular term for a weak, easily disspelled curse. Most are Charms.
+
+*Dark Curse:* Offensive spell developped with unmistakably malicious intent (ex: the Stunning Spell is a curse, but can be used humanely in battle to subdue an opponent without harming them; Sectumsempra is a Dark Curse /designed/ to inflict grievous injury and nothing else). Some of the "Darker" Dark Curses also take /malicious intent/ to cast and not only to develop, such as the Killing Curse and Cruciatus Curse.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 1
+:DateUnix: 1499270166.0
+:DateShort: 2017-Jul-05
+:END:
+
+
+** Jinx: Charmlike Effects that are mainly used in order to annoy the opponent or slow them down.
+
+Hexes: Transfigurationlike Effects that are mainly used in order to slowdown or incapacitate the opponent.
+
+Curses: Very Powerful Spells used with the main intent to cause misfortune or mortal damage to your opponent. Curses encompass a variety of Magics.
+
+/I view those three as being generally easier to cast due to being fueled by 'Dark Magic'/
+
+Charms: Pure Magic done for a variety of things. There are a variety of things Charms can do, but there aren't many things Charms can't do. One of those things is changing the spell after it has already left the wand. For Example, Incendio, a incendiary charm that creates fire in a localised area, the area of which is determined by how you visualise it. You can also make it more powerful and larger depending on how much power you put into it, but you cannot do any of this after it has already left your wand.
+
+Transfiguration: The use of Magic in order to Manipulate/Create/Vanish/etc... Matter itself for a variety of effects. There are only 4 Transfiguration Spells: Transmutató (Transmutation/Transfigure), Conjurus (Create), Evanesco (Disappear), Animaté (Animate).
+
+Physical Magic: Telekinesis Spells, Levitation, Pyrokinesis, Hydrokinesis, etc...
+
+Elemental Magic: Pyromancy ( the difference between this and Pyrokinesis is that you can use Magical Flame with the field of Elemental Magic but attempting to impose your will on Magical Flame with simple Pyrokinesis is nigh-impossible and exceedingly dangerous), Hydromancy, Phosphromancy, etc...
+
+Battle-Magic/Martial Magic: Magic done for the purpose of defeating another Wizard through offensive means. Sometimes considered the real Dark Magic, these spells are incredibly dangerous but also incredibly advanced.
+
+Abjuration/Defensive Magic: Shields/Magical Chains/Anti-Magic, this is Magic done to defend yourself against dangers that you need time to think your way through. The parallel to Battle-Magic, this Magic is, in turn, more widely consumed and more widely practised.
+
+Enchanting: Used to add Properties to Objects. This can range from giving a sword the ability to hold flame without its steel melting or it can be a Dark Enchantment and make whoever touches the sword turn into a Donkey.
+
+These are the main fields of Magic you see in Canon, and I have a whole Google Drive of further thoughts but I would reach the character limit.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1499314999.0
+:DateShort: 2017-Jul-06
+:END:

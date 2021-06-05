@@ -1,0 +1,553 @@
+#+TITLE: Discussion: Population of Magical Britain
+
+* Discussion: Population of Magical Britain
+:PROPERTIES:
+:Score: 9
+:DateUnix: 1520093046.0
+:DateShort: 2018-Mar-03
+:FlairText: Discussion
+:END:
+[deleted]
+
+
+** I'm not a fan of methods which reference Muggle population and determine wizards as a proportion of it. This is because wizards live much longer than Muggles so will have non-comparable demographics. Average Muggle life span at the time of the books is, what, 72? Meanwhile for wizards it's probably in the region of 130-140, and that's on the conservative side.
+
+Instead I think it's better to simply calculate how many people are born a year and multiply that by the number of years people will live (i.e. average life expectancy).
+
+If we go by the symmetrical 40 students/year and a life expectancy of 140 then that's a population of 5,600.
+
+Personally I prefer to go with a higher figure of students per year - in PoA we're told that there's 200 Slytherins in the crowd at a Quidditch match:
+
+#+begin_quote
+  Behind the Slytherin goal posts, however, two hundred people were wearing green; the silver serpent of Slytherin glittered on their flags, and Professor Snape sat in the very front row, wearing green like everyone else, and a very grim smile.
+#+end_quote
+
+That's the only in-book direct reference to student numbers, so I use that as my starting point. It would result in a student body of 800, assuming equal House distribution, or 114 students per year. Unfortunately that's a bit on the high side to work, given the fact that there's just one teacher per subject (you can't handwave extra, unnamed teachers, because the DADA job only having one teacher is a plot point). So I fudge the numbers downward to what I consider the highest possible number of students that could be taught by a staff consisting of one teacher per subject (albeit a magically efficient staff), which I put at around 60 students per year (which gives an average class size of 30).
+
+At 60 students per year, the wizarding population would be 8,400. To that I add some extra fudge: students who don't go to Hogwarts, werewolves, vampires, hags, and other magical humans who aren't fully wizards. So I put the overall British magical human population at a nice round 10,000. Plus non-human creatures like goblins, centaurs, etc, to be, let's say, 20,000 beings in the British magical community all told.
+
+There's significant room to fudge the numbers higher, however, in the "students who don't go to Hogwarts" area. We know that homeschooling is the global norm for wizards, and that public schools of magic are rare. So you could dramatically increase the wizarding population in Britain by having a large part of British wizards home school, like the rest of the world. The problem there is that Hogwarts is free and invites every witch and wizard in Britain, so it raises the question of what incentive there is to /decline/ a place.
+
+Incidentally, I don't particularly buy the idea that Harry's year is significantly smaller than previous generations. Most wars do not significantly impact population in that way, and Voldemort's war was a relatively contained war - more like a series of murders, plus a few skirmishes, than a full-on war.
+
+As to the question "why is the castle so big?" - I suggest you visit a castle. They're 70% wall. Interior space is significantly less than you would expect. The idea that Hogwarts is full of empty rooms and abandoned areas is pretty much entirely fanon.
+:PROPERTIES:
+:Author: Taure
+:Score: 15
+:DateUnix: 1520096479.0
+:DateShort: 2018-Mar-03
+:END:
+
+*** u/yarglethatblargle:
+#+begin_quote
+  It would result in a student body of 600
+#+end_quote
+
+Wouldn't equal House distribution with a total of 200 students in Slytherin equal a student body of 800?
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 5
+:DateUnix: 1520096996.0
+:DateShort: 2018-Mar-03
+:END:
+
+**** Cough.
+
+Insert "I'm a lawyer not an accountant" joke here.
+
+[[/u/FloreatCastellum][u/FloreatCastellum]] Something to add to our Legal500 entry? "Struggles to multiply 200 by 4".
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1520097086.0
+:DateShort: 2018-Mar-03
+:END:
+
+***** u/yarglethatblargle:
+#+begin_quote
+  Dammit yarglethatblargle, I'm a lawyer not an accountant
+#+end_quote
+
+If you're into the Star Trek reference.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 6
+:DateUnix: 1520097181.0
+:DateShort: 2018-Mar-03
+:END:
+
+
+***** LMAO I actually dreamed about legal500 last night, kill me.
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 4
+:DateUnix: 1520162944.0
+:DateShort: 2018-Mar-04
+:END:
+
+
+*** It's funny, you say you don't like OP's methods, but your calculations land you right back to the same figure or thereabouts, 10.000...
+
+And I guess incentive not to go to Hogwarts might be people who don't want to go to a boarding school. As a day pupil from a family of same, 11-year-old-me would have thought the idea of going to a boarding school utterly terrifying.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 3
+:DateUnix: 1520100314.0
+:DateShort: 2018-Mar-03
+:END:
+
+**** Well, the similar result is mostly coincidence. There's a large range of "average year size" numbers you could pick between 40 and 114, and many of them would give very different results.
+:PROPERTIES:
+:Author: Taure
+:Score: 3
+:DateUnix: 1520100508.0
+:DateShort: 2018-Mar-03
+:END:
+
+
+*** In GoF, there's this quote:
+
+#+begin_quote
+  Seats a hundred thousand... Ministry task force of five hundred have been working on it all year.
+#+end_quote
+
+While the size of the task force may make sense in respect to a population size of 10k (5% in the task force, with 15%+ total working for the ministry), is 10k really a realistic number given the size of the stadium? If we assume 10% of the British Wizarding World (because tickets are expensive) is at the Quidditch World Cup (1k) and set it against the UK's population of about 50M, we get 0.00002:1. Take that ratio and multiply it against the entirety of Europe's population, and we get 15k people. If we throw the entire population of the world against that ratio, we get 150k people. And that's really unrealistic, to assume that 10% of the world population, especially those in far off places who will need to pay for portkeys too, will come to the Quidditch World Cup. I think more realisticly, the population would have to be increased by a fair amount, if those hundred thousand seats are to be filled.
+:PROPERTIES:
+:Author: SnowingSilently
+:Score: 2
+:DateUnix: 1520102324.0
+:DateShort: 2018-Mar-03
+:END:
+
+**** These seems to be largely based on what your intuition is regarding what is and isn't realistic, rather than any hard impossibility.
+
+Personally, I would consider it realistic for, say, 50% of the British wizarding population to attend the Quidditch world cup final. What's stopping them, exactly, other than having to buy a ticket? Certainly not the inconvenience of travel, given that it's a) free, arranged by the government and b) instantaneous. And 50% means lots of people still miss out and so are jealous of those who got to attend.
+
+For reference, the Christmas 1986 episode of Eastenders was watched by over 50% of the British population at the time. So entertainment can and does attract those kind of population figures. In a world where transportation is instantaneous and free I don't see why you couldn't achieve similar figures for an extremely popular event.
+
+With respect to international attendance, I'm not sure that we have any reason to believe that international portkeys are in any sense harder to come by than domestic ones, and again, they were arranged by the government. So I don't think the international element is any particular barrier to attendance either (except for Americans, who are less interested in Quidditch).
+:PROPERTIES:
+:Author: Taure
+:Score: 8
+:DateUnix: 1520102852.0
+:DateShort: 2018-Mar-03
+:END:
+
+
+*** I think this is my favourite.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1520098312.0
+:DateShort: 2018-Mar-03
+:END:
+
+
+*** Is it cannon that hogwarts is free? I guess I always thought that it was paid, but I haven't been keeping up with cannon.
+:PROPERTIES:
+:Author: quickpocket
+:Score: 1
+:DateUnix: 1520098565.0
+:DateShort: 2018-Mar-03
+:END:
+
+**** u/yarglethatblargle:
+#+begin_quote
+  Is it cannon that hogwarts is free
+#+end_quote
+
+No, but it is canon.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 7
+:DateUnix: 1520100091.0
+:DateShort: 2018-Mar-03
+:END:
+
+
+**** J.K. Rowling clarified that it was free in 2015: [[https://twitter.com/jk_rowling/status/622118373061709824]]
+
+Even before that, though, given that the Weasleys are described as very poor and managed to send 7 children there, it's heavily implied that it's free.
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1520099009.0
+:DateShort: 2018-Mar-03
+:END:
+
+***** Or it implies that the cost of feeding, clothing, and sending seven children to boarding school is the reason they're very poor.
+:PROPERTIES:
+:Author: Kodiak_Marmoset
+:Score: 4
+:DateUnix: 1520123110.0
+:DateShort: 2018-Mar-04
+:END:
+
+****** True, off that fact alone this is an alternate possibility. However, Lucius Malfoy comments in CoS that Arthur Weasley is low paid, and when he gets a promotion in HBP they talk about how the pay is much better, so taken together with those facts I think it rules out the possibility that they have a decent income but spend it all on tuition.
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1520164119.0
+:DateShort: 2018-Mar-04
+:END:
+
+
+*** Jumping into the conversation since its a slow day at work:
+
+The only issue I see is is the wording of your first quote: it says people, not students, and appears to include at least 1 professor in that number. Considering these seem to be the equivalent of a college sports game based on the fact that students move from school level to national league level, it wouldn't be unreasonable for some of those 200 to be parents, former students, fans, or other teachers. That said, we know of at least one instance when a student serving detention was forbidden from attending a game, so it wouldn't be too crazy to also assume there's students not attending either by choice or by consequence. Everything else sounds sound though, I'd just be careful using a vague and open to interpretation quote as your only hard number source.
+
+As to your last statement, I don't argue that castles are actually quite small internally, but, and I hate to use this excuse, but magic. The only reason I say this is because we have a direct comparable example: the Burrow. I'm using the imagery of the movie here because I don't have the books on me to look up lines, but assuming the description fits the visuals, the Burrow should not stand. It'd be easy to compare whatever magic makes that possible to keeping a castle standing with less support than a stone structure of its size would require. I still agree that the idea of Hogwarts having many unused rooms being a bit over the top, but it's not unreasonable to assume there's at least some empty hallways, seeing as in the first year there was a hallway out of the way enough to keep a giant ceberus without anyone being effected from an entire corridor being off limits.
+:PROPERTIES:
+:Author: BMXLore
+:Score: 1
+:DateUnix: 1520106263.0
+:DateShort: 2018-Mar-03
+:END:
+
+
+** ≥ 2
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 6
+:DateUnix: 1520097076.0
+:DateShort: 2018-Mar-03
+:END:
+
+*** A conservative estimate.
+:PROPERTIES:
+:Author: Taure
+:Score: 7
+:DateUnix: 1520099296.0
+:DateShort: 2018-Mar-03
+:END:
+
+**** Maybe a tad bit too conservative. I think I'll go with ≥130 which, as far as I can tell, is every named in the original 7 books British witch or wizard we can be certain is alive when Harry got his Hogwarts letter in /PS/ including younger Muggleborns and werewolves while excluding Ghosts, wraiths, portraits and non-humans.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 6
+:DateUnix: 1520100051.0
+:DateShort: 2018-Mar-03
+:END:
+
+***** They could all be one metamorphmagus with a philosopher's stone and a time turner, though. All we really know is that the world contains at least two people: Harry, and the time-travelling immortal metamorphmagus.
+:PROPERTIES:
+:Author: Taure
+:Score: 8
+:DateUnix: 1520101855.0
+:DateShort: 2018-Mar-03
+:END:
+
+****** What if /Harry/ is the time-travelling immortal metamorphmagus?
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 6
+:DateUnix: 1520107572.0
+:DateShort: 2018-Mar-03
+:END:
+
+******* Then your estimate is insufficiently conservative.
+:PROPERTIES:
+:Author: Taure
+:Score: 8
+:DateUnix: 1520107708.0
+:DateShort: 2018-Mar-03
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 11
+:DateUnix: 1520093790.0
+:DateShort: 2018-Mar-03
+:END:
+
+*** I really think 280 for Hogwarts is too low, so I adjusted it. It's a huge castle - why would the founders build it so large when the population CA 1000 is much lower than now? There'd only be 40~ students in that time.
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1520094023.0
+:DateShort: 2018-Mar-03
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1520094554.0
+:DateShort: 2018-Mar-03
+:END:
+
+***** My reasoning is that Harry's year was the second smallest, the smallest being Ginny's year, since the war had been particularly bad by that point, before a population boom starting nine months after that Halloween. Remember, Ron is flabbergasted at the number of first years being sorted in OotP, and can be inferred to be preoccupied and not take notice the previous two years, given the Dementors and Peeves/Hermione beginning her House Elf Crusade.
+:PROPERTIES:
+:Author: Jahoan
+:Score: 9
+:DateUnix: 1520097250.0
+:DateShort: 2018-Mar-03
+:END:
+
+
+***** I still stand by my founder's argument.
+:PROPERTIES:
+:Score: -2
+:DateUnix: 1520095062.0
+:DateShort: 2018-Mar-03
+:END:
+
+****** Times change. Assuming there were plenty of people back then, does us no good. They could have lived in a time of constant peace for all we know. Harry's time was full of war, Grindelwald, Voldemort(Twice) being the most notable figures. Either way, castles could have been made to make the Founders feel more special. Or it could have been a war fortress and it's just a coincidence people are studying there.
+:PROPERTIES:
+:Author: Lakas1236547
+:Score: 5
+:DateUnix: 1520097826.0
+:DateShort: 2018-Mar-03
+:END:
+
+
+****** isnt there smth on pottermore that says it wasnt built to be a school it was a regular castle first?
+:PROPERTIES:
+:Author: Ace-Is-Gay
+:Score: 1
+:DateUnix: 1520188060.0
+:DateShort: 2018-Mar-04
+:END:
+
+
+** u/Satanniel:
+#+begin_quote
+  Ottery St. Catchpole around 700
+#+end_quote
+
+Nope.
+
+#+begin_quote
+  Must be nearly time,' said Mr Weasley quickly, pulling out his watch again. ‘Do you know whether we're waiting for any more, Amos?'
+
+  ‘No, the Lovegoods have been there for a week already and the Fawcetts couldn't get tickets,' said Mr Diggory. ‘There aren't any more of us in this area, are there?'
+
+  ‘Not that I know of,' said Mr Weasley. ‘Yes, it's a minute off ... we'd better get ready ...
+#+end_quote
+:PROPERTIES:
+:Author: Satanniel
+:Score: 4
+:DateUnix: 1520127163.0
+:DateShort: 2018-Mar-04
+:END:
+
+
+** Jkr has stated the population is 1:1000 i believe. I usually use 1:777 with the hogwarts population artificially decreased due to people who could leaving in the seventies.
+:PROPERTIES:
+:Author: viol8er
+:Score: 3
+:DateUnix: 1520099347.0
+:DateShort: 2018-Mar-03
+:END:
+
+
+** Given that wizards have had a very high standard of living for a very long time, and that they don't tend to die too often before a fairly old age, even if wizards don't have children as frequently as Muggles, their population growth should still be pretty high, so I don't see how populations can be anywhere smaller than that of a small city without having massive casualties from the recent wars.
+:PROPERTIES:
+:Author: SnowingSilently
+:Score: 3
+:DateUnix: 1520102723.0
+:DateShort: 2018-Mar-03
+:END:
+
+*** I don't see the logic here. High quality of life and security are associated with low birth rates, not high ones. One would expect wizarding birth rates to be similar to the Muggle developed world, i.e. at or around the replacement rate of 2.1 (in some countries like Germany, significantly below that rate). It's easy to see how the population can have been stable and small for centuries.
+:PROPERTIES:
+:Author: Taure
+:Score: 3
+:DateUnix: 1520103709.0
+:DateShort: 2018-Mar-03
+:END:
+
+
+** Personally, I go with a population around 200000 for my stories and my headcanon. It definitely has to be larger than 20k for people like Lockhart to make a living by selling books. Otherwise, having three broomstick companies would never work out, nor would many others businesses. As I see it, Hogwarts is an elite institution, where you don't get accepted unless you show a certain magical talent (the Muggleborns do surprisingly well, all things considered) or make a generous donation. Otherwise, there are public institutions which teach until OWL level (don't need a potion NEWT to be a clerk), which would explain why there's a special Ministry department for education together with several positions centered around OWL exams. There have to be other schools, it wouldn't make much sense for the whole commission around Marchbanks to exist.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 5
+:DateUnix: 1520097814.0
+:DateShort: 2018-Mar-03
+:END:
+
+*** There aren't other magical schools in Britain. In fact there are only 11 magical schools in the entire world, with most wizards being home schooled:
+
+[[https://www.pottermore.com/collection-episodic/wizarding-schools]]
+
+(Click "read more" under the "Wizarding Schools" tab)
+
+Also, Hogwarts invites all witches and wizards in the UK and Ireland ([[http://www.accio-quote.org/articles/2000/0700-swns-alfie.htm):]]
+
+[[https://www.pottermore.com/writing-by-jk-rowling/the-quill-of-acceptance-and-the-book-of-admittance]]
+
+And
+
+[[https://web.archive.org/web/20090130102853/http://www.jkrowling.com:80/textonly/en/faq_view.cfm?id=91]]
+
+On the topic of economy, I don't think you are correct. The magical economy will not be like small Muggle economy. It will have significantly different dynamics.
+
+Some of those economic differences:
+
+- The wizarding economy is small in absolute terms due to the low population.
+
+- The wizarding economy does not have a banking sector in the sense of banks which create money as Muggle banks do, nor a central bank which prints money. It's true that you can get loans (see: Bagman) but given the nature of wizarding banking as essentially deposit boxes, it is likely that these loans do not expand the money supply because they probably are a literal transfer of cash rather than the crediting of an account with money that did not exist before (as in the Muggle world). It seems that the only way money is created is by the discovery of treasure (and, I suppose, mining). The money supply is therefore extremely stable, meaning there will not be a trend of inflation as in the Muggle world.
+
+- The wizarding economy appears to still be on the gold standard.
+
+- The wizarding economy does not have mass production and is not inclined towards it, given that you cannot automate the enchantment of objects. Innovation is common, but tends to stay on the scale of an individual craftsperson rather than becoming standardised (with a couple of notable exceptions, namely brooms and beauty products).
+
+All these add up to a very stable economy with almost zero inflation and low growth, and a moderately fixed money supply, as well as no "wealth creators" of the kind who in the Muggle world create billions worth of economic value where before there was nothing.
+
+In short, the wizarding economy does not have the capacity for billionaires. What extremely wealthy individuals it does possess will likely have their wealth tied up in illiquid assets like land.
+
+On the other hand, wizards can use magic to satisfy many of their basic needs for themselves. They have no gas or electric bills, no internet or phone bills, potentially no water bills. Many of them inherit homes so they would have no rent or need to buy a house. Those who do need to rent/buy are not forced to buy in an expensive area, due to instantaneous magical transport, so can buy a cheap patch of land in the middle of nowhere.
+
+In short the main expense on necessities for most wizards would be food and clothing, and rent for those who do not have a multi-generational home. Most everything else is a relative luxury. That means the majority of their wages will constitute disposable income. This allows wages to be quite low, relative to the Muggle world, while still allowing wizards a high standard of living. It also allows prices for most products to be quite high relative to incomes, because they are luxury goods rather than common necessities.
+:PROPERTIES:
+:Author: Taure
+:Score: 12
+:DateUnix: 1520098666.0
+:DateShort: 2018-Mar-03
+:END:
+
+**** I never bothered with Pottermore or Fantastical Beasts, just canon (and occasionally the wiki to look up tidbits which came up in fanfiction). Instead I make up my own head canon based on what I think are logical conclusions from the seven books.
+
+Frankly, half of what I've seen mentioned for the rest of the world makes little sense, especially stuff like wizards following Muggle borders when they can simply apparate across Europe. Do you really think that someone like Malfoy or any Black would accept that they suddenly lived in a different country because some Muggles lost a war?
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 2
+:DateUnix: 1520100581.0
+:DateShort: 2018-Mar-03
+:END:
+
+***** I come at the issue of borders from a different direction: given that wizards can ignore borders, why would they particularly care about what the borders are?
+
+All signs are that the international magical world is highly integrated, somewhat like the EU only deeper (given that the ICW interferes in national government, something which the European Commission does not do) and taken to a global scale. Given this, if a border moves one day, it doesn't really impact the way wizards live at all. Intra-EU borders have come to mean very little - essentially just a sign by the side of the road - and I see wizards having a similar mentality.
+
+Wizards see themselves as wizards first and belonging to a particularly nationality second. It's not a significant part of their identity (see also Pottermore, the country vs kind debate: [[https://www.pottermore.com/writing-by-jk-rowling/macusa]]).
+
+Regarding Pottermore, I understand disliking canon and doing something different for fanfiction. But pretending that canon says something other than it does seems to me to be a kind of delusion - the idea that you can pick the way the world is based on preference, rather than having to take it as it is.
+:PROPERTIES:
+:Author: Taure
+:Score: 4
+:DateUnix: 1520100950.0
+:DateShort: 2018-Mar-03
+:END:
+
+****** It matters a lot for administration. How else do you determine where which law is in effect? There has been a magical government since 1707, a time where countries like Prussia, the Polish-Lithuanian Commonwealth, the Ottoman Empire and the Holy Roman Empire still existed. Meanwhile Bulgaria, for example, was merely a province of the Ottomans. If the ICW was already around back then (and it was according to the wiki), Bulgaria should not exist unless you want to argue that they were a member since the Second Bulgarian Empire before the year 1396. Admitting Bulgaria would be an affront to the Ottomans, similar to the two China question.
+
+What would a wizard from Silesia, for example, accept as his nationality? Who would rule him? Silesia? Bohemia since the Bohemians ruled that area after 1292? The Habsburgs/Austria/Holy Roman Empire, since the Habsburgs inherited Silesia in 1526? Prussia, since Frederik the Great conquered it in 1742? Poland since the Potsdam Conference decided that it is now part of socialist Poland?
+
+The solution of saying "the ICW settles international matters" becomes lacking once you realise what a clusterfuck European politics were before 1945. How do you determine which magical government rules a certain area? Britain is easy, considering the Act of Union in 1707, but it really doesn't work on the mainland. Especially considering the Holy Roman Empire, since it is not an equivalent to modern day Germany (it included a lot more territory) while the individual members were rather independent. And how do the Free Cities fit in there?
+
+And it is not even just administration. What about Quidditch teams? Is Prussia still fielding a team? The German Empire? East and West Germany? Where do you draw the line and say "this territorial division is now used by magical governments". What about Muggleborns who learn that they are a magical citizen of a foreign country? They might not know the language, or, looking at the Balkans, not accept that they are ruled by their arch enemy.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 2
+:DateUnix: 1520104103.0
+:DateShort: 2018-Mar-03
+:END:
+
+******* I feel like you're talking past me somewhat. Raising the complexities of Muggle territorial changes doesn't seem to address my point of "they just ignore it". For example, Transylvania is a country for wizards (they have a national Quidditch team which knocked Britain out of the 1994 Quidditch World Cup) despite not being a country in the Muggle world (and indeed, it never was).
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1520104429.0
+:DateShort: 2018-Mar-03
+:END:
+
+******** My question is rather, where do you draw the line and say "this is the state we use for magical administration, Quidditch and so on"? 1707? 1690? 1444? And if they use any date before 1806, how is the HRE handled? What was it like during the cold war, especially for Muggleborns? Post-Napoleonic Europe and the collapse of the great Empires? How do you think a Muggleborn in Montenegro would react if someone told him that his country doesn't exist in the magical world and that he has to pay his taxes to the Serbian Ministry, whose Muggle counterpart is busy with a racial cleansings and war?
+
+Instead of answering these questions, we got Cursed Child and a web blog with more adventures of horribly named children. To get back to the original topic, I am not saying that Pottermore sucks, I have just glanced at it a couple times, and it didn't answer the questions I had. Guess I am not the target audience then. Which is the reason why I am making my headcanon up and focus on international relations and try to figure out a way their economy works beyond "magic" instead of who ended up with which Weasley.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 4
+:DateUnix: 1520106143.0
+:DateShort: 2018-Mar-03
+:END:
+
+********* I'm not sure that there needs to be a universal date. Presumably, like most of history, it would be rather more organic and based on contingent circumstance, and subject to possible revision later on. I doubt that there's some logically consistent set of rules which determines borders like a mathematical formula.
+
+One imagines, however, that 1689 (statute of secrecy) would be the date at which Muggle and wizarding borders began to diverge, since we know that prior to that date, wizards fought in "Muggle" conflicts such as the Norman conquest of England.
+:PROPERTIES:
+:Author: Taure
+:Score: 4
+:DateUnix: 1520106394.0
+:DateShort: 2018-Mar-03
+:END:
+
+
+********* Someone shouldn't have skipped history lessons...
+:PROPERTIES:
+:Author: __haunted__
+:Score: 1
+:DateUnix: 1532338940.0
+:DateShort: 2018-Jul-23
+:END:
+
+
+** That's pretty much the same as my headcanon, though my reasoning behind it might not always be the same. Just one thing: they wouldn't live in "other magical British communities", to me, but simply live hidden in muggle villages. We know that Hogsmeade is the only all-wizards community; there are a few other magical neighborhoods (like Diagon Alley), but the bulk of wizards just live in muggle areas. Examples: the Gaunt Shack, Grimmauld Place.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 2
+:DateUnix: 1520100181.0
+:DateShort: 2018-Mar-03
+:END:
+
+*** Well, we know that Hogsmeade is the only all-magical settlement, but we also know that there certain places where wizards cluster in higher than normal concentrations - Godric's Hollow and Ottery St. Catchpole being two examples. It appears that they tend to live in fairly rural areas, which goes well with what JKR says about wizarding schools all being located in sparsely populated areas of the world. It seems that wizards have a preference for rural living (and with instantaneous transport, why not?).
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1520100425.0
+:DateShort: 2018-Mar-03
+:END:
+
+**** You may be right. Still, unless memory fails me, I don't think "clusters" necessarily needs to be something like 700. I only thought of Ottery St. Catchpole as being home to, what, a dozen wizarding families who all get along well together.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 2
+:DateUnix: 1520100571.0
+:DateShort: 2018-Mar-03
+:END:
+
+***** Yes, 700 seems far too high. I'd put it more around 50-100.
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1520101205.0
+:DateShort: 2018-Mar-03
+:END:
+
+
+** I think that hogwarts itself may have actually Led to a drop in the number of witchs and wizards.
+
+Before hogwarts most wizards and witchs lived with and probably married muggles which would mean that even if each magical person only had two children that lived to adulthood they would have been slowly doubling the magical population with each generation.
+
+But after the founding of hogwarts wizard and witchs would have been more likely to marry another magical meaning that a magical family would have had to have at least three children to keep the magical population growing.
+:PROPERTIES:
+:Author: Call0013
+:Score: 2
+:DateUnix: 1520105938.0
+:DateShort: 2018-Mar-03
+:END:
+
+
+** JK sucks at numbers LA-DI-DA-DI-DAAAAAA
+:PROPERTIES:
+:Author: maxxie10
+:Score: 2
+:DateUnix: 1520165126.0
+:DateShort: 2018-Mar-04
+:END:
+
+*** DI-DA-DI-DAY-OOOOH
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1520166479.0
+:DateShort: 2018-Mar-04
+:END:
+
+
+** Logically, there can't be more than a few thousand wizards in Britain. However, this creates some problems in the world that have already been outlined in this thread.
+
+I prefer the way population is handled in linkffn (Unlike a Sister by MADharmony). It is stated that there are around 1,000,000 wizards in Britain, and the author acknowledges that this is a direct contradiction to any logical attempt to guess the population of Britain, but it allows for a more interesting world.
+:PROPERTIES:
+:Author: BobaFett007
+:Score: 1
+:DateUnix: 1520189536.0
+:DateShort: 2018-Mar-04
+:END:

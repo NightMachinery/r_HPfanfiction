@@ -1,0 +1,589 @@
+#+TITLE: Authors: Looking for feedback?
+
+* Authors: Looking for feedback?
+:PROPERTIES:
+:Author: denarii
+:Score: 20
+:DateUnix: 1396123839.0
+:DateShort: 2014-Mar-30
+:FlairText: Discussion
+:END:
+Following up on a suggestion we've received I'm going to be maintaining a thread for authors to post links to their fics if they'd like feedback. A link to this thread will be added to the sidebar. I'll likely create a fresh thread every month or two, unless it doesn't generate much interest.
+
+I'd like to see honest, but not mean-spirited, feedback here. Constructive criticism is welcome, demeaning people is not.
+
+
+** Yes please. Any type of feedback is welcome. Reviews on ff.net doubly so. I'll give feedback on anyone's story who gives me feedback.
+
+[[https://www.fanfiction.net/s/10025337/1/Albus-Severus-Potter-and-the-Snakeskin-of-Incendio]]
+:PROPERTIES:
+:Author: flame7926
+:Score: 4
+:DateUnix: 1396131104.0
+:DateShort: 2014-Mar-30
+:END:
+
+*** So I'm going to be reading this and providing a bit of feedback while I go, as I haven't noticed any really glaring errors that detract from reading it.
+
+*Chapter 1*
+
+The first thing that struck me was that this is told from Albus' view point, but he's calling Hermione and Harry, well, Hermione and Harry. Hermione is okay, I think that he would call her Aunt Hermione or something like that, but Hermione might not spring for that. Harry though, it just feels oddly disconnected from his father.
+
+You've already said that you don't have a beta, and there are a few awkward phrases here, like:
+
+#+begin_quote
+  ...spraying particles of food all over the table.
+#+end_quote
+
+But it's generally pretty okay.
+
+I liked this part:
+
+#+begin_quote
+  A bemused smile broke through; sometimes he cracked himself up.
+#+end_quote
+
+Because it makes me think that Albus is a really socially-awkward nerd, who laughs at his own jokes and doesn't have very many friends among his popular cousins. The vocabulary of his internal monologue really supports that, and if that's what you're going for, great.
+
+Though, I wouldn't use the word bemused there.
+
+There're some pretty awkward viewpoint issues. I thought that you were doing third-person limited up until the game, wherein you seemed to justify every single action with unique veiwpoints, like:
+
+#+begin_quote
+  "What is it?" James asked pointedly, annoyed at yet another interruption.
+#+end_quote
+
+The game scene could be cleaned up a lot. You have all these people doing all these actions at once, and it makes it hard to keep track. I really had issues imagining the room and the occupants therein.
+
+--------------
+
+*Chapter 2*
+
+You used his dad here, which is good. Two paragraphs later it's Harry Potter again. Maybe Harry would work, but Harry Potter is really awkward.
+
+The other awkward thing is that you dictated every action in using the floo. Turn, grab, throw, speak. You could shorten this a lot.
+
+Similarly, you don't need to narrate every turn.
+
+I liked Albus's monologue, up until it got to the part where he was reflecting on his wand. Albus would probably not be reflecting on the state of wandmakers, and this feels like exposition for the sake of change from canon.
+
+Little thing, it's fervor, not furor. I laughed because I read it as führer, and I was just picturing Hitler under the Sorting Hat.
+
+Your dialogue is crowded. It's been an issue up until now, but this sealed it:
+
+#+begin_quote
+  "You're my family," Albus said, trying to regain control of his emotions.
+#+end_quote
+
+They're usually pertinent, and make sense, but you could cut or replace well over half of them. They really just bog down the dialogue, which you need to let speak for itself.
+
+Oh god, I just realized they're in a car. I wasn't paying attention before, but the comment about Lily being in between showed me.
+
+Okay, this dialogue, while not bad, is too, too, closed? They're in a car, with five people, and it's the two of them having a conversation. You could improve this greatly by peppering in little things like Harry or Ginny telling James to stop teasing, or Lily talking or whining, things that make it feel like, you know, a car trip.
+
+It's void, until the end. There, Ginny just snaps, with nothing beforehand, no warnings, and Lily is pulling on his ear. It just feels sudden.
+
+#+begin_quote
+  ...people in various get-ups, burdened by a variety of menageries.
+#+end_quote
+
+This really took me out, a menagerie is a bunch of animals kept in a collection, like a zoo or a store.
+
+#+begin_quote
+  "But Houses are really more tradition and family than anything," Albus argued. "Or at least for established Wizarding families."
+#+end_quote
+
+Albus's dialogue here really doesn't sound right. This is [[http://tvtropes.org/pmwiki/pmwiki.php/Main/AsYouKnow][As You Know, Bob]] dialogue. The "Or at least for established Wizarding families," does not sound natural.
+
+Continuing, Ron butts into their dialogue. This surprised me more than anything, and you probably want to add something to make this seem less sudden. It is really sudden for their conversation, and Albus probably didn't notice him, but you jump from one dialogue to the other that it's jarring.
+
+#+begin_quote
+  "Just kidding guys. But seriously, don't go to Slytherin."
+#+end_quote
+
+This doesn't sound like something Ron would say. You use guys twice now, first with Ginny now with Ron, and both times it breaks from their voice.
+
+#+begin_quote
+  When Hermione didn't respond this time, he turned and saw what everyone else was already looking at.
+#+end_quote
+
+I'm getting really confused at this point. Who is he?
+
+#+begin_quote
+  "He hasn't changed at all," Harry whispered softly to Ron.
+#+end_quote
+
+I am getting lost. You go from Rose and Albus, to Ron talking to Rose, to someone turning, to Harry whispering to Ron so quickly I am losing track. The next sentence at least helps me orient myself, but without it I would have no idea what was going on.
+
+#+begin_quote
+  The father of the family looked stern, in a tight black collared suit, while the mother seemed to have come out of a nineteenth century novel. Gloves, hat, and dress that were immaculate, so white they probably were sullied by being in the very presence of commoners.
+#+end_quote
+
+A nineteenth century novel tells me absolutely nothing. I understand what you're trying to say here, but I have no ready image for a nineteenth century woman in a novel.
+
+The train was generally okay, but the Slytherin prefect's dialogue was very... odd. For one, how could he have never met a Weasley or a Potter? James is already in school, and seems kind of infamous, while there have been a bunch of Weasley's so far. You even listed them.
+
+The second thing, I agree with Rose, who talks like that? He sounded like someone trying to emulate a proper voice, rather than speaking it. If that's your intention, great, nailed it. Otherwise, it's awkward and could be rewritten.
+
+#+begin_quote
+  And then their planning all was for naught, because of one insufferable, yet awesome boy.
+#+end_quote
+
+Insufferable, yet awesome boy? I'm not going to sugarcoat it, I hated this sentence. It felt like some kind of precognition on the part of Albus, and you're making a very big promise that you will have to follow through with.
+
+It's like saying: "Badasses galore in X, by Michael Bay!" You aren't inclined to believe it, and instead look for counter examples, rather than just letting the character speak for itself.
+
+--------------
+
+*Chapter 3*
+
+The pacing is really messed up. Within not fifteen lines of dialogue Rose says that she's Matthews friend. She doesn't even know him.
+
+#+begin_quote
+  "Well Rose---" Cecelia turned towards the other girl, "---thought the stuff in the Defense textbook on the ethics of the Unforgivable curses was interesting. What did you think?"
+#+end_quote
+
+I don't know if I wasn't paying attention, but I just think Rose introduced herself. How on Earth is Cecelia talking about Rose's opinion on Unforgivable curse ethics when they haven't exchanged more than two words? It feels like she just read Rose's mind.
+
+Cecelia feels like, and dare I say is, a Mary Sue. BI'm not trying to be mean, but she goes from a tag-along to instantly fixing all the awkwardness in the cabin, with no difficulty. She's described with the "brightest green eyes," and a smile that lights up the cabin. You're trying to set her up as a manipulator, but at eleven this is stretching suspension of disbelief.
+
+If she is in fact a psychological-mind-reading demon that forces people to be friends with her, carry on, that's great. At the moment though, she's a too-perfect female love interest, which is something no eleven year old should be.
+
++"John" listing the flaws of the Houses seems bigoted. Valuing Courage, Ambition, Hard Work, Intelligence, these are all fine, but calling them things like foolhardy and blind is where the Houses start seeming restrictive.+
+
+Rose points out the above, which I like.
+
+You used the lion-gazelle metaphor again, and it's honestly cliche. At best, it'll mean eyed him hungrily, at worst, nothing at all.
+
+There's a small plot hole here. You say they hadn't learned Matthews name, but Rose had previously said that the three of them were close in an alphabetical listing.
+
+#+begin_quote
+  He caught Rose's eye, and they shared a smile. Not one of melancholy, but one of hope, of new beginnings.
+#+end_quote
+
+This seems a little pretentious, and I'd suggest rewording it, but it's okay.
+
+--------------
+
+*Summary*
+
+This is generally pretty okay, as I'd said before, but it needs work. Like you said, a beta would help, as you occasionally use words incorrectly. The grammar is very good though, as is spelling.
+
+The plot hasn't really gone anywhere, and so I can't really comment on it, but it seems fine so far.
+
+Your biggest issues though are that you dump a /lot/ of exposition, things that Albus probably wouldn't care to comment on. Your dialogue needs work, and is very crowded. Point of View is also a problem here, it bounces around a lot.
+
+Also, Cecelia needs a lot of work.
+
+I hope this helps, and good luck.
+:PROPERTIES:
+:Score: 7
+:DateUnix: 1396149206.0
+:DateShort: 2014-Mar-30
+:END:
+
+**** Thanks a bunch, I'll take a look at the small things in detail.
+
+For the overall things, for exposition, do you mean things like the wand talk and other stuff like that, or is it his thoughts? I thought most of the stuff that wasn't dialogue or action was his thinking about how afraid he was, but maybe I'm wrong. I'll look back through and see if I can find what you're talking about though. I mostly didn't want it to be too centered on dialogue.
+
+For the dialogue, is it the abundance of things I attach to the dialogue? Is that what you mean by crowded? I maybe got a bit too eager to use dialogue tags, because I used to use basically none. I'll look back through and try to make some of the things said more in character. Also try to keep the point of view more stuck on Albus. The scene at the train station is scrambled partially because I was integrating it with the Epilogue of DH. It turned out pretty messily. I'll work on that.
+
+I'll work on Cecelia. It's because I have this plan for her character in the future, which bled over into her present character in my head a little too much I think.
+
+The first chapter the scenes with so many characters I got lost in. I don't blame you if you did, given that I was having a hard time keeping track of everybody and making sure everybody participated or at least was noticeably present. Hell, I had to draw a map of the seating at the table. Calling him Harry instead of his dad was just something that started when I thought having "his dad" over and over was awkward. I can change it back though.
+
+I'll expand (?) on the car trip. It wasn't meant to be a scene originally, but just happened as I was writing.
+
+Is the use of "you guys", which you commented on in Ron and Ginny's dialogue more of an American thing or something? I can imagine all my aunts and uncles saying it.
+
+On the train, the prefect was meant to be talking ridiculously pompously. Like an extra affected thing to impress them or something like that. I changed that last line of the second chapter a little, but you still might not like it.
+
+I'll look at the pacing. I feel, when I'm writing, that my conversations can go on forever, but maybe I'm imagining things. Cecelia's physical traits are being hyped up in his head by Albus. Her manipulative aspect I'll tone down some. I didn't mean for Matthew when Rose says their names are close to us. She's talking about Scorpius and Cecelia. I'll have her say she doesn't know Matthew's name or something like that.
+
+Thanks for all your feedback. If you need anything reviewed I'd be happy to take a look at it.
+:PROPERTIES:
+:Author: flame7926
+:Score: 2
+:DateUnix: 1396153379.0
+:DateShort: 2014-Mar-30
+:END:
+
+***** *For the overall things, for exposition, do you mean things like the wand talk and other stuff like that, or is it his thoughts?*
+
+I meant the wand talks and things like that. You talk about mundane things, like how the public views Albus as a Squib, the wands, family traditions, luggage appearing on the express, things like that, and while it isn't everywhere, it is there enough that it is noticeable. It's commonplace for Albus, and should really only be noted when something differs or is new.
+
+It isn't that big of an issue though, just odd when it crops up.
+
+I actually found the whole speculation on Albus being a squib interesting. It just would have been far more interesting if you had hidden it in the little things, like whispers of confusion when he's getting sorted, or a Daily Prophet paper speculating on it that's mentioned in passing.
+
+*For the dialogue, is it the abundance of things I attach to the dialogue?*
+
+For the dialogue, it is the abundance of things. It was incredibly prominent in the game scene, with everyone doing all these different little actions, but it crops up here and there. The train ride, for example, has things like:
+
+#+begin_quote
+  "...,"Scorpius imposed himself, coming to Rose's defense,"..."
+#+end_quote
+
+and
+
+#+begin_quote
+  Now it was Rose's turn to protect Albus. "..."
+#+end_quote
+
+and
+
+#+begin_quote
+  "...," she said apologetically, tone much calmer than before.
+#+end_quote
+
+Like I said, it's pertinent, and it isn't out of place, it's just that the dialogue stands perfectly fine without it.
+
+For banter, like in the train and in the gathering, less is always more. You're breaking it up with all these little actions very frequently, and I sometimes lost track of what was said prior because there were 2+ paragraphs of thought in between lines of text.
+
+*I also try to keep the point of view more stuck on Albus.*
+
+The train scene in terms of PoV wasn't the only place. I think the issue is you sometimes say things in absolutes, like "James was annoyed." There's a lot of little clues for this, and you usually show them, but then you sometimes flat out say how they're feeling, and it sometimes feels like a PoV change.
+
+*Is the use of "you guys", which you commented on in Ron and Ginny's dialogue more of an American thing or something?*
+
+"You guys," might be more of an American thing. I usually imagine them saying "You all," or "You lot," because that's the way JKR writes it, but "You guys" isn't wrong, just your own writing style.
+
+#+begin_quote
+  "Can't you guys keep it together for an hour in the car?"
+#+end_quote
+
+It just sounds more British as:
+
+#+begin_quote
+  "Can't you lot keep it together for an hour in the car?"
+#+end_quote
+
+*Calling him Harry instead of his dad was just something that started when I thought having "his dad" over and over was awkward.*
+
+His dad over and over is awkward, yes, but since it's limited PoV, you can just call him Dad. Harry always refers to Vernon and Petunia as Uncle Vernon and Aunt Petunia, and that usually feels fairly natural.
+
+*I mostly didn't want it to be too centered on dialogue.*
+
+You did very well on this, and there was a nice mix, just not in the first chapter. The first chapter was him monologuing for a while, and the dialogue was sparse. The first chapter was, honestly, a little boring. Most of the conflict is internal, and it didn't really hook me.
+
+Perhaps starting in media res?
+
+*It's because I have this plan for [Cecelia] in the future, which bled over into her present character in my head a little too much I think.*
+
+That's always an issue. I like writing little summaries for each character, detailing how they change over the course of the story, and contrasting the start and end.
+
+*I didn't mean for Matthew when Rose says their names are close to us.*
+
+Looking back it was a dumb nitpick. Saying she doesn't know Matthew's name just feels like trying to fill in a plot hole, rather than acknowledging people make mistakes.
+
+*I changed that last line of the second chapter a little, but you still might not like it.*
+
+Honestly, I'd strongly advise just cutting it. It's a really big break in viewpoint, and "She smiled back at him, and sat back in her seat." works fine as an ending line.
+
+You don't need to have a buildup for the next chapter. When the work's taken as a whole rather than sequentially it just feels odd, like a sort of /Next time, on Pokemon!/ thing.
+
+*On the train, the prefect was meant to be talking ridiculously pompously.*
+
+Then this is more funny than anything, and I like it a lot.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1396157279.0
+:DateShort: 2014-Mar-30
+:END:
+
+****** Thanks for the clarifications.
+
+Just wanted to say one more thing, about the starting with a chapter mostly full of boring exposition and even more normal things happening than my other two chapters: I always do this, and it's a problem. I don't think I've ever started a story that manages to start in the middle of something and not have a large bout of exposition close to the beginning. I also have a penchant for showing exceedingly normal life in a first chapter. This has happened in many things that I've started. In the previous thing I wrote, I just ended up cutting out the first chapter and merged it with the second, and still ended up with 5k boring words, but it was better than 10. Here, I have no fucking clue what I'll do, or if I'll do anything. W/e, it's fanfiction, wish fulfillment, for fun.
+:PROPERTIES:
+:Author: flame7926
+:Score: 2
+:DateUnix: 1396158338.0
+:DateShort: 2014-Mar-30
+:END:
+
+******* Since the major conflict revolves around his sorting for the first three chapters, why not just start him smack in the middle of his sorting, whispers around him, and then he puts the hat on? That's a hook, a bit cliche in fanfic mind, but it all depends on how well it's done.
+
+After that, then cut to the day before.
+
+Or, just cut the start and start at the party. There's a lot of room to expand on the dinner conversation, maybe talking about the adult's gripes, the kid's at the kid table, things like that. The prank, while important contextually, could be revealed so much more elegantly.
+
+One thing I forgot to mention in the original post is that you said Harry and Hermione always mentioned that Slytherin wasn't bad. But the epilogue kind of left me feeling like this was the first time Albus learned of his namesake, and it is definitely a much more touching moment if its the first time he learns of it.
+
+I don't know though.
+
+The only advice pertaining to the first chapter I could give is try a bunch of things and find what works for your story.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1396159108.0
+:DateShort: 2014-Mar-30
+:END:
+
+******** I hated that dinner table. I felt claustrophobic just writing about it. I don't know why, since I have real family dinners with that many people. Maybe because I'm one of the older ones while Albus is pretty young and isolated, I don't know. I had a really hard time handling that many characters at the table, so I'd rather not attempt to mess with that. I'll try a few different things though.
+
+Now about the epilogue. It seems many people interpret it as the first time Albus learns about his name, the first time the cousins actually learn their famous, but I don't like them not knowing anything about their past because I think it's extremely unrealistic. So that's mostly just a different interpretation of that scene, based on what I think would happen if it was real life.
+:PROPERTIES:
+:Author: flame7926
+:Score: 1
+:DateUnix: 1396159704.0
+:DateShort: 2014-Mar-30
+:END:
+
+********* Changing it up, that's good.
+
+I didn't really like the epilogue, personally, and I agree that that's unrealistic. Mainly it's because I hate the names. James, Lily, Albus Severus? Fred? I liked Rose, but Hugo Weasley?
+
+It always felt to me like Harry was internalizing some kind of trauma, to name all of his children after the dead.
+
+I'm torn on whether the kids would be /that/ famous. Harry of course is, but for his children? It's like most celebrity children, they have a few minutes of fame with baby names and stuff, but past that they're only noticeable when they're with their parents.
+
+Though, the wizarding world is extremely small. Maybe it would be different.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1396160409.0
+:DateShort: 2014-Mar-30
+:END:
+
+********** Most of what they've experienced previously is with their parents. Their classmates get used to them after a little, like with Harry, but especially for the rest of the first years, its a big deal in the beginning. Harry, Ron, and Hermione are pretty much more famous than the president in the wizarding world.
+:PROPERTIES:
+:Author: flame7926
+:Score: 1
+:DateUnix: 1396160696.0
+:DateShort: 2014-Mar-30
+:END:
+
+
+*** I won't go through and point out all of the small grammar and wordy stuff. Just know that a beta is immensely useful. The couple things I would focus on is crunching down a lot of the wordier sentences and considering your POV and dialogue.
+
+It is easy to get caught up in the poetry of writing. We all do it. When you're in a heavy exposition, it's better to get rid of all the flowery stuff in order to convey the important plot points. It's a matter of style how much you want to dress up the prose, but less is more as my beta constantly reminds me.
+
+The other thing I would keep in mind is to watch how Albus describes things. He is still an 11 year old boy and seeing as how this is written in limited POV, there are general passages and verbiage that he would simply not use. Same goes for the dialogue. It's hard to try and dumb it down sometimes, but these kids aren't going to use some of the phrases you've written so far. I have always found this to be the most difficult part of writing kids this age (and have subsequently avoided it!)
+
+But congratulations on starting your first story. You have a good base and a natural talent for character development. Don't forget the plot along the way!
+:PROPERTIES:
+:Author: KwanLi
+:Score: 3
+:DateUnix: 1396184091.0
+:DateShort: 2014-Mar-30
+:END:
+
+**** Thanks for your review. I'll try to limit the vocabulary used in dialogue and descriptions. It's hard to not make kids sound stupid while also not expanding their vocabularies too much. I'll take another look through though and keep that in mind for the future. Part of the use in descriptions is that I think of scenery descriptions as more impersonal, less what he's seeing and more what's seen. So that makes them different than they otherwise would be.
+
+And Hogwarts Battle School is one of my favorite stories, thank you for writing it. As well as for this feedback of course.
+:PROPERTIES:
+:Author: flame7926
+:Score: 1
+:DateUnix: 1396193460.0
+:DateShort: 2014-Mar-30
+:END:
+
+***** No problem and thank you for the kind words. I'll keep an eye out for your story.
+:PROPERTIES:
+:Author: KwanLi
+:Score: 2
+:DateUnix: 1396196549.0
+:DateShort: 2014-Mar-30
+:END:
+
+
+** I'd love some reviews/feedback on my series [[https://www.fanfiction.net/s/9681858/1/As-It-Began][As it Began]]. It would be helpful if you could do so on ff.net though, because for the next three weeks I will only be able to check reddit on sundays. Feel free to either leave a review or PM me. Thanks!
+:PROPERTIES:
+:Author: Madtheswine
+:Score: 2
+:DateUnix: 1396196311.0
+:DateShort: 2014-Mar-30
+:END:
+
+*** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1399140849.0
+:DateShort: 2014-May-03
+:END:
+
+**** The Dursleys are a very, very minor point in the story, I really hope that doesn't stop you from reading the rest. And the Chapter 1 is simply because I thought it needed a title... Often times when I read on that site, I forget what chapter I'm on. Maybe that's just me.
+:PROPERTIES:
+:Author: Madtheswine
+:Score: 1
+:DateUnix: 1399217653.0
+:DateShort: 2014-May-04
+:END:
+
+
+** New short Harry Potter fanfiction. This one is all about Neville. There's a new Headmaster in Hogwarts, a very loved one who apparently have a new flammable pet! Read about the lovable Neville as he embraces his new position.... [[http://www.secretdraft.com/fanfiction/neville/][Neville]]
+:PROPERTIES:
+:Author: SashaPoleg
+:Score: 2
+:DateUnix: 1396468825.0
+:DateShort: 2014-Apr-03
+:END:
+
+*** Okay, I'm going to be covering this one. Overall, it was a sweet piece that I enjoyed, and grammatically there was little to pick on.
+
+However, while technically fine, there are a lot of awkward sentences that could be cut or reworded to make it even better.
+
+#+begin_quote
+  +Well, this day couldn't get any worse.+ Neville Longbottom stood over the charred remains of his office, his fists on his hips.
+#+end_quote
+
+I'd cut the first line here, because it really is just showing instead of telling, and the second line works much better as an opening line. In fact, the second line is a very good opening.
+
+#+begin_quote
+  When he heard someone open the door to the room, gasp, followed by the sound of the door smashing to the ground, he cringed.
+#+end_quote
+
+Here, the first part is awkward. Framing this through Neville's senses isn't important, Neville is the PoV, we know it's going to be his senses. Just say:
+
+#+begin_quote
+  The door below slowly squealed and scraped open, then fell with a crash. Someone gasped.
+#+end_quote
+
+Now, that's a couple of quick and dirty sentence, but you get my point. Just describe the sound of the door opening, describe someone gasping, describe the door falling, and you get a much less awkward sentence and a much clearer image.
+
+#+begin_quote
+  “Neville? Are you okay?” Neville closed his eyes tightly and cursed under his breath.
+#+end_quote
+
+Little thing, you need a line after the quote. Like this, it seems like Neville is asking Neville if he's okay. Just a nitpick.
+
+#+begin_quote
+  Without looking, he could already imagine her face and the absolute disdain she'd be sporting.
+#+end_quote
+
+This would be stronger as: "...her face of absolute disdain." You're separating the sentence with an and when it doesn't need to be, and it breaks up the flow.
+
+#+begin_quote
+  “Are you okay?” she repeated+,+ when she reached the top. He turned around+,+ and grimaced. He said, “Yes?”
+#+end_quote
+
+The two commas there are unnecessary, but the big thing is that you want the "He said" on a separate line. Never have two dialogues in the same paragraph, if you didn't already know.
+
+Also, putting "He said," in front of the dialogue sounded awkward to me, but that may be personal preference. I think it would work better as "'Yes?' he asked."
+
+#+begin_quote
+  "Mr. Longbottom, you are either sure that you are okay, or you are sure that you are not okay. Either way, you are not allowed to be unsure whether or not you are okay."
+#+end_quote
+
+Just wanted to say I loved this bit of dialogue. It's deliciously IC for Minerva.
+
+Though -- and I figured this was intentional -- it's a bit odd having the teacher's call each other by Mr. Longbottom and Prof. McGonagall.
+
+#+begin_quote
+  Minerva was now tapping her foot on the floor, her arms crossed over her chest.
+#+end_quote
+
+The was now makes this somewhere strangely between past and present tense, and makes it oddly disconnected. Reword this.
+
+#+begin_quote
+  “I am going to murder that man, even if it gets me fired!” her shrill voice echoed through the shell of the office, making Neville shrink with caution.
+#+end_quote
+
+First, "her shrill voice" should be capsed to "Her shrill voice."
+
+Second, this doesn't feel like something McGonagall would say. I am going to murder that man? Probably more, "That... that man! I am going to do something about him, even if it gets me fired!" I just couldn't see her say she's going to murder Hagrid.
+
+Thirdly, "making Neville shrink with caution." is beginning to drag the sentence. You should make it it's own sentence, and don't say "with caution." You always shrink "with caution." It's redundant.
+
+#+begin_quote
+  “Well, Mr. Longbottom, +it's safe to say, I think,+ /I think it's safe to say/ that you're doing a bang up job of that. In any case, it's more important for you to realize that you're not Headmaster Dumbledore, nor do we want you to be.”
+#+end_quote
+
+I loved this, but you should reword the first sentence a bit. It suffers from too many commas, and that made me pause as I read it.
+
+#+begin_quote
+  “He was his own person, but beyond that, I think it's important for Hogwarts to finally get a chance to enjoy a Headmaster who has no political ambition, or solid case for insanity. I'll take a burnt office over a war any day. Or that pink lady, the one with all the rules---dear God.”
+#+end_quote
+
+Maybe this is an AU oneshot, and if it is fine, but otherwise this is something McGonagall would *never* say. McGonagall was the woman who said something along the lines of, "If Professor Dumbledore believes him than that should be good enough for everyone else."
+
+This woman was fanatically loyal to him, and while she could criticize him, she certainly wasn't of the opinion that he started wars or was insane. Nor did she think that Umbridge was hired by Dumbledore specifically -- she knew the toad was forced in by the Ministry.
+
+Don't let fanon slip into your IU work.
+
+#+begin_quote
+  Neville smiled at the thought of them getting drunk because he tried to hatch a phoenix in his office.
+#+end_quote
+
+This was just downright unnatural. A simple "Neville smiled." maybe joined with the next sentence, would work just as well. This just feels like a summary, the reader knows everything in this sentence besides Neville smiling.
+
+#+begin_quote
+  He followed her, nodding as she reassured him that she wouldn't, after all, murder Hagrid. Just as he was about to commend her for her restraint, she followed with plans to duct tape his hut closed and threaten him with toe amputation if he supplied the Headmaster with any more animals, especially ones that involved fire.
+#+end_quote
+
+Again, McGonagall seems a bit too violent.
+
+#+begin_quote
+  “Imagine, it Mr. Longbottom---a nice, safe, plant. Wouldn't that just be peachy? And nothing like a mandrake---we do not need that kind of stress. Perhaps just your average fern. How does that sound?”
+#+end_quote
+
+Loved this.
+
+--------------
+
+Overall, I thought this was good. It could use a bit of editing though, especially in your descriptions. Dialogue is quite clearly your strongest area, as is characterization. You captured McGonagall's essence strongly here, besides a few bits and pieces.
+
+Neville was also strong in this, and I actually loved his character.
+
+Have fun.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1396707594.0
+:DateShort: 2014-Apr-05
+:END:
+
+**** Thank you so so much for all your good advice. Really appreciate the time an effort you've put into this <3
+:PROPERTIES:
+:Author: SashaPoleg
+:Score: 2
+:DateUnix: 1396709552.0
+:DateShort: 2014-Apr-05
+:END:
+
+
+** I've recently started a fanfic that's been kicking around in my head for a few months now. If anyone wants to have a read, it's called [[https://www.fanfiction.net/s/10217206/1/][An Unlikely Trio]]. It has very few HP characters, by the way, as it's set 40 years or so after Voldemort's fall.
+:PROPERTIES:
+:Author: Akitcougar
+:Score: 1
+:DateUnix: 1396212010.0
+:DateShort: 2014-Mar-31
+:END:
+
+
+** I have a few stories up, but I would especially like feedback on this one: [[https://www.fanfiction.net/s/6087977/1/Joint-Custody][Joint Custody]]
+
+It does have a sequel as well but I'm aware that there's a lot to read. [[https://www.fanfiction.net/s/7210757/1/The-Fine-Print][The Fine Print]]
+
+I'm interested in writing a third to help bring things to a conclusion but find myself wanting to know if I shouldn't be editing and/or keeping things in mind before I do so.
+
+I can also help with reviews if needed!
+:PROPERTIES:
+:Author: remingtonrand
+:Score: 1
+:DateUnix: 1397804300.0
+:DateShort: 2014-Apr-18
+:END:
+
+
+** I've got two stories set in the Harry Potter continuity right now, both of which are crossovers.
+
+[[https://www.fanfiction.net/s/7325453/1/Nanoha-Takamachi-and-the-Horrors-of-Ineptitude][Nanoha Takamachi and the Horrors of Ineptitude]] is my primary story at the moment and features Nanoha and Fate (from Magical Girl Lyrical Nanoha) enrolling in Hogwarts during OOTP.
+
+[[https://www.fanfiction.net/s/10365494/1/Revenge-is-a-Dish-Best-Served-at-Body-Temperature][Revenge is a Dish Best Served at Body Temperature]] is a HP/Hellsing story I just started posting which revolves around post-DH Hermione becoming a vampire. Note: Rated M for mature situations and impending graphic violence.
+
+Any feedback would be welcomed.
+:PROPERTIES:
+:Author: fic7i0n41
+:Score: 1
+:DateUnix: 1400704924.0
+:DateShort: 2014-May-22
+:END:
+
+
+** Hello everyone. I was wondering if anybody would be willing to give this a read, and maybe tell me what you think of it?
+
+[[https://www.fanfiction.net/s/9056807/1/Transcendent-Equinox]]
+:PROPERTIES:
+:Author: snickerslv100
+:Score: 1
+:DateUnix: 1407219211.0
+:DateShort: 2014-Aug-05
+:END:

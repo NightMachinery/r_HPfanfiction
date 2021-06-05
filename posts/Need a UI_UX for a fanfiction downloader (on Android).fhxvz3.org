@@ -1,0 +1,67 @@
+#+TITLE: Need a UI/UX for a fanfiction downloader (on Android)
+
+* Need a UI/UX for a fanfiction downloader (on Android)
+:PROPERTIES:
+:Author: calypso78
+:Score: 2
+:DateUnix: 1584097382.0
+:DateShort: 2020-Mar-13
+:FlairText: Misc
+:END:
+Hey there !
+
+I'm making an app, and it's already working pretty well. It can download a fanfiction ([[https://fanfiction.net][fanfiction.net]] only at the moment), and create a pdf or epub, and then you open the file in whatever reader you want.
+
+​
+
+Is there a UI designer around here willing to help me in finishing the app ?
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1584099646.0
+:DateShort: 2020-Mar-13
+:END:
+
+*** I'm not thinking on putting ads there. Just like there aren't any ads on the website : ffnet.fr
+:PROPERTIES:
+:Author: calypso78
+:Score: 2
+:DateUnix: 1584100186.0
+:DateShort: 2020-Mar-13
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1584100364.0
+:DateShort: 2020-Mar-13
+:END:
+
+***** It's not a reader. You basically use the app to download the file. Then you're on your own for choosing what reader you use.
+:PROPERTIES:
+:Author: calypso78
+:Score: 1
+:DateUnix: 1584100463.0
+:DateShort: 2020-Mar-13
+:END:
+
+****** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1584100591.0
+:DateShort: 2020-Mar-13
+:END:
+
+******* They can't deny it. The user copies the link, pastes it on the app, you get the epub file, and it's done.
+
+I've been developing and maintaining the website for close to 10 years now (different versions of it). I have already had the argument multiple times on the fanfiction.net forums (French forums). You can't take all the opinions, it's not even technically feasible for the author to forbid the app to download their stories, other than FanFiction.net making some changes.
+
+So... The app is just like the website. You go there you get your file, you quit the app. Done.
+:PROPERTIES:
+:Author: calypso78
+:Score: 1
+:DateUnix: 1584100926.0
+:DateShort: 2020-Mar-13
+:END:

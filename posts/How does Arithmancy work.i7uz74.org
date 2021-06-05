@@ -1,0 +1,217 @@
+#+TITLE: How does Arithmancy work?
+
+* How does Arithmancy work?
+:PROPERTIES:
+:Author: The-Apprentice-Autho
+:Score: 4
+:DateUnix: 1597163654.0
+:DateShort: 2020-Aug-11
+:FlairText: Discussion
+:END:
+Through canon and Pottermore we know that Rowling described it as basically Divination with numbers...but this is the same woman who made ancient times out to be a language course, Dumbledore as gay, Hermione as a black girl, and so many other little "facts" that just seem like a troll's work. So what's the best in depth fanon explanation you've come across for this subject combining magic and numbers?
+
+
+** I mean, gay Dumbledore and black Hermione are objectionable because she said so on Twitter ten years on and tried to get brownie points without having gone through the trouble of actually including such representation in the actual books. But I don't think they're inherently bad/trollish ideas. A queer Dumbledore certainly makes the whole Grindelwald thing more interesting and resonant, and more tragic --- though having it as the only major queer relationship in the Potterverse is in itself a problem, of course.
+
+Also, dammit, I /like/ Ancient Runes as the language in which grimoires are written, rather than an enchanting class. Magically-charged Runes are a fine thing to build a magic system on, but the /HP/ magic system isn't /like/ that, and that's okay.
+
+...But in any event: the iconic fanon take on Arithmancy is that it's the scientific part of spellcrafting, analyzing the actual physical force of "magic" as equations and vectors and spellfire-patterns. Through Arithmancy you'll calculate the optimal widtha and shape of of wand motions, the length and cadence needed for the incantation, etc. --- and /then/ you build upon that framework by adding a bit of human intent to the casting, and matching words that have a bit of meaning to the abstract cadence. Note that the latter idea helps make sense of the "bad Latin" of a lot of spell names: the reason it's "Wingardium LeviOsA", which not only isn't proper Latin, but isn't /pronounced/ with a proper Latin accent either, is that the Arithmancy calls for an incantation that goes "o-A-o o-O-A", and whoever invented the charm scrambled to find words in any language that would fit that pattern while having a meaning that more or less corresponded to what the spell was supposed to do.
+
+A completely unrelated idea, to hew closer to what we are told in canon (namely that it's math-based Divination), is that Arithmancy is in fact... maths. It's /nominally/ maths that you can use to predict the future via numerology, but that's as much bogus as any other kind of Divination that isn't Prophecy, and everyone at Hogwarts knows it: introducing Arithmancy classes was a way for Dumbledore to sneak a non-magical scientific education past the Ministry overseers, and nothing more. The reason Hermione likes it even though she hates Divination is that she's in on the joke.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 11
+:DateUnix: 1597164329.0
+:DateShort: 2020-Aug-11
+:END:
+
+*** Yeah. I tend to use it as a foundational course for the analytics of spellcrafting.
+:PROPERTIES:
+:Author: datcatburd
+:Score: 2
+:DateUnix: 1597195010.0
+:DateShort: 2020-Aug-12
+:END:
+
+
+** Okay, so perhaps Arithmancy isn't exactly about mathematics, so much as the meaning of numbers.
+
+Qabbalistic numerology ascribes certain qualities to each numeral. I've built up a headcanon about it somehow addressing how certain magic interacts with other magic. Rather than be saddled with the arbitrary meaning of letters in names = factors, I figured that magical arithmancy was about typifying spells and substances to better understand how they interact.
+
+It would have grown out of the intuitive understanding discovered in potion-making over the centuries, but might not have gotten a regimented treatment until the 1800's, when scientific method began to help weed out inconsequential aspects of magic ('while standing in a wooden pail filled with fishtails, during a waxing moon...') that the truly meaningful patterns began to emerge.
+
+Sorcerers always knew that hair made for the best source in Polyjuice, and that you can conjure water much more readily than milk, but arithmancy began to explain why.
+
+[[http://www.astrology-numerology.com/numerology.html#numerology_introduction]]
+
+Numerology reference 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 a | b | c | d | e | f | g | h | i j | k | l | m | n | o | p | q | r s | t | u | v | w | x | y | z | _
+
+#+begin_example
+  1 - pioneer, invention, leadership, independence, will, courage | aggression, ego, pride
+  2 - consideration, partnership, mediator, modest, spiritual | shy, timid, fearful
+  3 - expressive, artsy, insightfulness, optimism, fun | incompletion, lack of discipline
+  4 - order, values, growth, practical, cultivation, organization | serious, detail-locked, unimaginative
+  5 - freedom, quick thinking, action | discontent, impatience, restlessness
+  6 - nurturing, balance, community, domesticity, service | stubborn, meddling, subject to flattery
+  7 - seeker of knowledge, perfection | suspicious, reserved, isolated
+  8 - judgement, decision-making, achievement | workaholic repressive, inhumane, materialistic
+  9 - friendly, congenial, humanitarian | possessive, attention-seeking
+  11 - double 2 - exaggerated spirituality and fear
+  22 - double 4 - architecting (but humourless)
+#+end_example
+
+In the reference, you take each letter of a person's full name, translate the letters into values, add them up in various ways until you boil them down to a few archetypal traits.
+
+My problem with much of the 'real-world' numerology is how arbitrary some of the qualities seem, even moreso when applied to the naming of children; would prospective Jewish parents approach the scholar about best names for encouraging certain traits, or was their attempt to 'game the system' likely to create a monster?
+
+So I went back to the numbers themselves- ignore history, ignore pure mathematics. What do these numbers mean?
+
+[Intro to Arithmancy with Professor Carlisle]
+
+"So, when we speak of arithmantic meaning, we are speaking of the whole of human spiritual culture, distilled into nigh-on universal meanings. These meanings vary with culture and you can see bias in the spirits of east Asia in comparison to those, say, of the deep Amazon, but their meanings are our meanings, often derived from more... mathematical truths.
+
+"One. It is the smallest, the sole object. Alone yet complete. It's geometric representation is a dot."
+
+"Not a sphere?"
+
+"A dot. Zoom in on the dot and you will discover it is still a dot, because One has no subcomponents.
+
+"Two. The essence of communication. From here to there. Two is represented by a circle- the center and orbit. It is also the symbol for pain and loss and fear, for only by cleaving one into two did everything start to hurt.
+
+"Three. It takes the simple binary of two and adds a dimension, multiplying meaning, creating both dissention and dynamism. It is therefore also the number for creativity... and lies
+
+"Four. the first multiple. Symbol is -- "
+
+"A square."
+
+"No, it's a three-sided pyramid. Four is a family, sustainable procreation. It is also stability and truth, for only by having two opposing sides sharing equal voice is there something to match against. It is also the first possible solid object- more than a shadow.
+
+"Five. The hand, artifice, the incomplete array, the broken star- it also represents humanity in our lost-our-tails aspect and unrestrained power.
+
+"Six. Armies. Two triangles arrayed at cross purposes. Also, a strong model for division and unification. Six also represents society and culture.
+
+"Seven is the soul, and location. It establishes existence. The geometric representation of seven is a double pyramid. One point at the center, one length out, forward and back, to left and to right, up and down. All connected, they form the double pyramid, a reflection of life in death. Perfection, but also isolation.
+
+"Eight. the cube, structure, architecting - also the compass, to chart a vector; plans and destinations
+
+"Nine. squares of trios, or the spiral - the unfinished grouping - community - the compass with a center, to represent the ship."
+
+[note] - The Qabbalistic meanings for Eleven and Twenty-two were made up, as far as this fanon is concerned. There's too much culture behind it and not enough prehistorical symbolism. It's like they miscalculated the factors on two and four, then tried to shoehorn in a second meaning to flatter someone or cover their error. Or maybe I'm too decimal-minded to find a meaning outside of my culture.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 9
+:DateUnix: 1597164490.0
+:DateShort: 2020-Aug-11
+:END:
+
+
+** I always liked the thought of it being a bit like the math of magic, like how physics can be poorly described as the math of the physical world.
+
+Think of it like engineering. You don't need much math beyond "is this piece long enough?" to 'engineer' a table out of wood. However, if you actually know the properties of the materials and expected use case, you can make a table out of a lot less material that's as strong, if not stronger, than the crude table you slapped together.
+
+So "anyone" can make and modify spells, but arithmancy is how you do it /properly/ to be safer and have more predictable results, as well as reducing the amount of effort it takes to cast the final result.
+:PROPERTIES:
+:Author: Astramancer_
+:Score: 5
+:DateUnix: 1597164747.0
+:DateShort: 2020-Aug-11
+:END:
+
+*** While I like this idea, the problem is that the course would be called Numerology, not Arithmancy. I've yet to find any reference to arithmancy outside of Harry Potter that does not refer to the fact that it is a /branch/ or /instantiation/ of numerology, not a synonym for it. Generally I'm inclined to consider this an example of laziness of Mrs. Rowling's part, since I can't think why a form of divination would be required for Curse-Breakers though.
+
+Yes, this comment contradicts itself. So do the books in this instance ;-)
+:PROPERTIES:
+:Author: lschierer
+:Score: 1
+:DateUnix: 1597166129.0
+:DateShort: 2020-Aug-11
+:END:
+
+**** u/Astramancer_:
+#+begin_quote
+  since I can't think why a form of divination would be required for Curse-Breakers though.
+#+end_quote
+
+Imagine, if you will, that you are on the bomb squad. You're sitting in front of a bomb that's going to go off in an hour and you need to disarm it. You open the control panel... there's a blue wire and a red wire.
+
+So you pull out your abacus of divination, do some quick maths, and lookit that: you have a /very/ short future if you cut the red wire.
+
+Snippy snippy goes the blue and a hero is you.
+
+Divination is probably one of the most important parts of a curse breaking job! Don't step there, step there instead. This won't set off a trap, this will.
+:PROPERTIES:
+:Author: Astramancer_
+:Score: 3
+:DateUnix: 1597166594.0
+:DateShort: 2020-Aug-11
+:END:
+
+
+** I always thought it was about magical properties of numbers, like, why you have to stir this potion 7 times and this 12 times, or why 7 and 3 are so powerful, and things like that.
+
+I prefer this explanation over the divination with numbers, which sounds kind of boring.
+:PROPERTIES:
+:Author: Keira901
+:Score: 4
+:DateUnix: 1597164217.0
+:DateShort: 2020-Aug-11
+:END:
+
+
+** Necromancy is death magic.\\
+Arithmancy is number magic.
+
+The arithmancy class is a secondary math class, in which the math subjects get beyond what is easy/fast to do on parchment. Spells are used to solve difficult expressions, similar to how we use calculators/computers.
+
+Applications of mathematics in magic are incompletely addressed up to Owl levels. One can use arithmancy to perform complex mathematical tasks, such as exponentiation and graphing, These skills will be foundational to successful account and business management, or for understanding what accomplished arithmancers are saying.
+
+For Newt studies, the underpinnings of math in magic is studied, and students learn about high level math in spellcrafting (and enchanting, and potion brewing).
+:PROPERTIES:
+:Author: dratnon
+:Score: 2
+:DateUnix: 1597174344.0
+:DateShort: 2020-Aug-12
+:END:
+
+
+** My fanon it is the applied version of quantum probability and other quantum mathematics.
+
+Instead of having basic understanding of that [[https://youtu.be/rYLzxcU6ROM][photons do whatever the fuck they want as light is super weird on a quantum level.]]
+
+They instead have used the ability to /wield/ magic to stumble into a backdoor on applied quantum mathematics.
+
+Which is what I think of magic as. Sure it might be alive, to varying degrees depending on the HP world, but it is still a force of the universe.
+
+All forces can be made sense of through math, if they don't, we are doing the math wrong.
+
+So magic acts like a quantum force of probability, literally nothing is impossible. It is just so small it is considered a "non-zero" number.
+
+Right now you, the reader of this comment, have a "non-zero" chance of randomly turning into a gigantic magical world devouring space dragon. Perhaps instead you somehow get the ability to make purple farts at will, there is a "non-zero" chance of it happening.
+
+Normally we would just say, yeah nope, that's impossible. For the most part you're right, but on a quantum level you are wrong.
+
+So magic, or at least the ability to /wield/ magic, let's you totally say fuck you to reality and crank that "non-zero" probability up to a "yeah, that just happened" level.
+
+So arthimancy is the math of determining those mathematics, of refining not magic itself, but the witch or wizards ability to /wield/ magic.
+
+At least that's my theory on it.
+:PROPERTIES:
+:Author: Michal_Riley
+:Score: 2
+:DateUnix: 1597169297.0
+:DateShort: 2020-Aug-11
+:END:
+
+
+** u/Ich_bin_du88:
+#+begin_quote
+  Arithmancy is a form of divination based on assigning numerical value to a word or phrase.
+#+end_quote
+
+Historically speaking Arithmancy has been always used as a mere divination system, akin to Astrology, Rune reading, etc, I prefer the approach many OPs take however, on the subject, Arithmancy not only as a divination system but also as a complex form of ritual Magic based on mathematics and geometry.
+:PROPERTIES:
+:Author: Ich_bin_du88
+:Score: 1
+:DateUnix: 1597199703.0
+:DateShort: 2020-Aug-12
+:END:

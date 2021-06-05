@@ -1,0 +1,49 @@
+#+TITLE: Anyone else having issues reaching fanfiction.net ?
+
+* Anyone else having issues reaching fanfiction.net ?
+:PROPERTIES:
+:Author: IcedA
+:Score: 6
+:DateUnix: 1476407129.0
+:DateShort: 2016-Oct-14
+:END:
+i'm having an issue with fanfiction, on chrome and safari it says that there isn't a secure connection. Is anyone else experiencing this ?
+
+
+** I am having this issue! I can load it on my phone, but not my computer (same wifi connection on both). I've tried different browsers and fiddled with network settings, but no luck so far.
+:PROPERTIES:
+:Author: kblesmis
+:Score: 5
+:DateUnix: 1476408834.0
+:DateShort: 2016-Oct-14
+:END:
+
+
+** I can load both the mobile and desktop site in Firefox and Chrome.
+
+Try a different DNS server perhaps?
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 1
+:DateUnix: 1476414006.0
+:DateShort: 2016-Oct-14
+:END:
+
+*** I tried adding 8.8.8.8 and 8.8.4.4 in network settings but no go. It seems to be a Mac issue as I can load the site from my boyfriend's desktop.
+
+*Edit. I downloaded Firefox and it loads just fine. Still nothing in Chrome or Safari.
+:PROPERTIES:
+:Author: kblesmis
+:Score: 1
+:DateUnix: 1476416065.0
+:DateShort: 2016-Oct-14
+:END:
+
+
+** I have the iPhone app and says attempting to log in at the top and it never loads more than like 5%
+:PROPERTIES:
+:Author: Amanda-rae
+:Score: 1
+:DateUnix: 1476463848.0
+:DateShort: 2016-Oct-14
+:END:

@@ -1,0 +1,322 @@
+#+TITLE: What and how to read on AO3
+
+* What and how to read on AO3
+:PROPERTIES:
+:Author: ThePuddlestomper
+:Score: 4
+:DateUnix: 1571519584.0
+:DateShort: 2019-Oct-20
+:FlairText: Request
+:END:
+I've stuck to reading only on FanFiction.Net so far, simply because of the fact that the app exists. Now I feel like I have read most of the top tier fics on there so I have decided to see what AO3 has to offer. My two questions are:
+
+1. What is the best way to read from AO3 on iOS? Is there an app or should I just use the browser? (And does it have a dark mode?) Any tips on how to search for stories would also be appreciated.
+2. What stories should I start with? Give me the best of the best that I have been missing out on.
+
+I appreciate any help. Thanks!
+
+
+** There's no official AO3 app, and I've never bothered to look into unofficial ones, as the site's quite functional through a browser.
+
+The biggest difference between reading of FFN and AO3 is that there are extensive filter options on AO3. In addition to the rating, language, and character options on FFN, AO3 also lets you filter by major warnings, category (ie, het, gen, slash, femslash), ships, and addition tags. And you can also chose to /exclude/ fics that have any of those tags.
+
+The additional tags section is, I think, where people are most likely to get overwhelmed, because there are a lot of them. The most common additional tags are genre ones, like "Romance," "Angst," and "Fluff," but as you get into narrower subsections of fic, you'll find much more specific ones - "Ron Weasley is a Good Friend," "Professor Harry Potter," etc. It might seem like a lot at first, but they really do make it easier to search through fics.
+
+Without knowing your tastes in fanfic I'm not really sure what to rec, but I did really enjoy [[https://archiveofourown.org/works/6701647][Harry Potter and the Conspiracy of Blood]] linkao3(6701647), which is a canon-compliant, trio-centric fic set several decades after the epilogue.
+:PROPERTIES:
+:Author: siderumincaelo
+:Score: 11
+:DateUnix: 1571524087.0
+:DateShort: 2019-Oct-20
+:END:
+
+*** [[https://archiveofourown.org/works/6701647][*/Harry Potter and the Conspiracy of Blood/*]] by [[https://www.archiveofourown.org/users/cambangst/pseuds/cambangst][/cambangst/]]
+
+#+begin_quote
+  Amazing banner by Carnal Spiral at TDA
+
+  Many years after the Battle of Hogwarts, follow Harry, Ron and Hermione as they lead four generations of the Potter and Weasley family in a battle for survival against a shadowy puppet master who threatens to destroy the world they worked so hard to build.
+#+end_quote
+
+^{/Site/:} ^{Archive} ^{of} ^{Our} ^{Own} ^{*|*} ^{/Fandom/:} ^{Harry} ^{Potter} ^{-} ^{J.} ^{K.} ^{Rowling} ^{*|*} ^{/Published/:} ^{2016-04-30} ^{*|*} ^{/Completed/:} ^{2016-06-20} ^{*|*} ^{/Words/:} ^{253992} ^{*|*} ^{/Chapters/:} ^{41/41} ^{*|*} ^{/Comments/:} ^{35} ^{*|*} ^{/Kudos/:} ^{98} ^{*|*} ^{/Bookmarks/:} ^{29} ^{*|*} ^{/Hits/:} ^{7596} ^{*|*} ^{/ID/:} ^{6701647} ^{*|*} ^{/Download/:} ^{[[https://archiveofourown.org/downloads/6701647/Harry%20Potter%20and%20the.epub?updated_at=1569783998][EPUB]]} ^{or} ^{[[https://archiveofourown.org/downloads/6701647/Harry%20Potter%20and%20the.mobi?updated_at=1569783998][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1571524108.0
+:DateShort: 2019-Oct-20
+:END:
+
+
+** Set yourself up a personal filter and bookmark it. [[https://archiveofourown.org/works?utf8=%E2%9C%93&work_search%5Bsort_column%5D=revised_at&work_search%5Bother_tag_names%5D=&exclude_work_search%5Barchive_warning_ids%5D%5B%5D=18&exclude_work_search%5Barchive_warning_ids%5D%5B%5D=19&exclude_work_search%5Bcategory_ids%5D%5B%5D=23&exclude_work_search%5Bfandom_ids%5D%5B%5D=2140433&exclude_work_search%5Bfandom_ids%5D%5B%5D=7625681&exclude_work_search%5Bfandom_ids%5D%5B%5D=11055523&exclude_work_search%5Bfandom_ids%5D%5B%5D=26348036&exclude_work_search%5Bcharacter_ids%5D%5B%5D=966&exclude_work_search%5Bcharacter_ids%5D%5B%5D=1049&exclude_work_search%5Bcharacter_ids%5D%5B%5D=1589&exclude_work_search%5Bcharacter_ids%5D%5B%5D=2157&exclude_work_search%5Brelationship_ids%5D%5B%5D=12235&exclude_work_search%5Brelationship_ids%5D%5B%5D=99&exclude_work_search%5Brelationship_ids%5D%5B%5D=1110&exclude_work_search%5Brelationship_ids%5D%5B%5D=1600&exclude_work_search%5Brelationship_ids%5D%5B%5D=2390&exclude_work_search%5Brelationship_ids%5D%5B%5D=3458&exclude_work_search%5Brelationship_ids%5D%5B%5D=5536&exclude_work_search%5Brelationship_ids%5D%5B%5D=8905&exclude_work_search%5Brelationship_ids%5D%5B%5D=9096&exclude_work_search%5Brelationship_ids%5D%5B%5D=10760&exclude_work_search%5Brelationship_ids%5D%5B%5D=11506&exclude_work_search%5Brelationship_ids%5D%5B%5D=18209&exclude_work_search%5Brelationship_ids%5D%5B%5D=20822&exclude_work_search%5Brelationship_ids%5D%5B%5D=30706&exclude_work_search%5Brelationship_ids%5D%5B%5D=36704&exclude_work_search%5Brelationship_ids%5D%5B%5D=107187&exclude_work_search%5Brelationship_ids%5D%5B%5D=965881&exclude_work_search%5Brelationship_ids%5D%5B%5D=965997&exclude_work_search%5Brelationship_ids%5D%5B%5D=966049&exclude_work_search%5Bfreeform_ids%5D%5B%5D=176&work_search%5Bexcluded_tag_names%5D=&work_search%5Bcrossover%5D=F&work_search%5Bcomplete%5D=&work_search%5Bwords_from%5D=1000&work_search%5Bwords_to%5D=&work_search%5Bdate_from%5D=&work_search%5Bdate_to%5D=&work_search%5Bquery%5D=&work_search%5Blanguage_id%5D=en&commit=Sort+and+Filter&tag_id=Harry+Potter+-+J*d*+K*d*+Rowling][It might look like this]].
+
+That way, you save yourself a lot of time whenever you want to browse Archive.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 6
+:DateUnix: 1571528286.0
+:DateShort: 2019-Oct-20
+:END:
+
+
+** linkao3(Slytherin Career Day) short but one of my all time favorite fics
+:PROPERTIES:
+:Author: -ariose-
+:Score: 5
+:DateUnix: 1571532678.0
+:DateShort: 2019-Oct-20
+:END:
+
+*** [[https://archiveofourown.org/works/7079665][*/Slytherin Career Day/*]] by [[https://www.archiveofourown.org/users/cambangst/pseuds/cambangst][/cambangst/]]
+
+#+begin_quote
+  The student of Slytherin House were born with everything: wealth, prestige and pure wizarding blood. Now it's Severus Snape's job to help them find the one thing they don't have: careers.
+#+end_quote
+
+^{/Site/:} ^{Archive} ^{of} ^{Our} ^{Own} ^{*|*} ^{/Fandom/:} ^{Harry} ^{Potter} ^{-} ^{J.} ^{K.} ^{Rowling} ^{*|*} ^{/Published/:} ^{2016-06-03} ^{*|*} ^{/Words/:} ^{4290} ^{*|*} ^{/Chapters/:} ^{1/1} ^{*|*} ^{/Comments/:} ^{5} ^{*|*} ^{/Kudos/:} ^{271} ^{*|*} ^{/Bookmarks/:} ^{52} ^{*|*} ^{/Hits/:} ^{4088} ^{*|*} ^{/ID/:} ^{7079665} ^{*|*} ^{/Download/:} ^{[[https://archiveofourown.org/downloads/7079665/Slytherin%20Career%20Day.epub?updated_at=1464986444][EPUB]]} ^{or} ^{[[https://archiveofourown.org/downloads/7079665/Slytherin%20Career%20Day.mobi?updated_at=1464986444][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 3
+:DateUnix: 1571532703.0
+:DateShort: 2019-Oct-20
+:END:
+
+
+*** That was amazing! Thank you
+:PROPERTIES:
+:Author: ThePuddlestomper
+:Score: 1
+:DateUnix: 1571602844.0
+:DateShort: 2019-Oct-20
+:END:
+
+
+** When you search, it defaults to most recently updated, so the top results will probably only have 1 chapter or be poorly written. You should click on "filter" then change the "sort by" to kudos or bookmarks. It won't necessarily show the /best/, and you'll still have to do some digging, but it's better and at least it's more than a chapter.
+
+I've read ao3 on a browser instead of an app. I don't think there's an app for ao3. For dark mode, I think there's skins? But I haven't used them and don't know how to. You might also need to create an account (which takes a few weeks to get approved) to use the skins, but I'm not sure. But anyway, I think the easiest way to read in dark mode is if your browser has dark mode. Kiwi browser has night mode and is very similar to chrome, if it's on ios. Otherwise I imagine there'll probably be some browser on ios that has dark mode.
+
+I don't really use ao3 much for harry potter fanfic, so I don't know many fics on there. But two of the fics I've liked and seen exclusively on ao3 are The Very Secret Diary (which technically is a repost from another site because the original was deleted for some reason) and The Two Body Problem.
+
+linkao3([[https://archiveofourown.org/works/2345300?view_full_work=true]]; [[https://archiveofourown.org/works/3459731/chapters/7591550]])
+:PROPERTIES:
+:Author: rexvhbkjnhiugk
+:Score: 3
+:DateUnix: 1571542614.0
+:DateShort: 2019-Oct-20
+:END:
+
+*** u/chiruochiba:
+#+begin_quote
+  You should click on "filter" then change the "sort by" to kudos or bookmarks.
+#+end_quote
+
+You should only sort by kudos if you want to read kink or smut fics, otherwise it's better to sort by bookmarks.
+
+In practice, people on Ao3 use kudos like a quick 'thumbs up' button to show the author that they enjoyed reading a fic but not enough to want to read it again. Bookmarks, on the other hand, show that the reader liked the fic so much that they want to add it to a personal list that they can come back to later. For whatever reason, kink fics tend to accumulate a large number of kudos whereas actual high quality fics tend to pull ahead in number of bookmarks.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 2
+:DateUnix: 1571566108.0
+:DateShort: 2019-Oct-20
+:END:
+
+**** oh really? That makes sense though. I usually sort by bookmarks, so I've never really noticed, but I thought they would be they would be sort of similar except that chaptered fics might get more bookmarks. In fact, I thought they would only be some amount better than sorting by hits. It would be cool if we had a way of sorting by percentage of bookmarks over hits for fics with at least 1000 hits or something.
+:PROPERTIES:
+:Author: rexvhbkjnhiugk
+:Score: 2
+:DateUnix: 1571567678.0
+:DateShort: 2019-Oct-20
+:END:
+
+
+*** [[https://archiveofourown.org/works/2345300][*/The Very Secret Diary - By Arabella/*]] by [[https://www.archiveofourown.org/users/Bohrmuschel/pseuds/Bohrmuschel][/Bohrmuschel/]]
+
+#+begin_quote
+  'His d-diary' Ginny sobbed. 'I've b-been writing in it, and he's been w-writing back all year -' | Ginny's first year in Hogwarts, written in diary entries. | Upload from the SugarQuill because it was deleted
+#+end_quote
+
+^{/Site/:} ^{Archive} ^{of} ^{Our} ^{Own} ^{*|*} ^{/Fandom/:} ^{Harry} ^{Potter} ^{-} ^{J.} ^{K.} ^{Rowling} ^{*|*} ^{/Published/:} ^{2014-09-22} ^{*|*} ^{/Completed/:} ^{2014-09-24} ^{*|*} ^{/Words/:} ^{69378} ^{*|*} ^{/Chapters/:} ^{98/98} ^{*|*} ^{/Comments/:} ^{43} ^{*|*} ^{/Kudos/:} ^{594} ^{*|*} ^{/Bookmarks/:} ^{162} ^{*|*} ^{/Hits/:} ^{28798} ^{*|*} ^{/ID/:} ^{2345300} ^{*|*} ^{/Download/:} ^{[[https://archiveofourown.org/downloads/2345300/The%20Very%20Secret%20Diary%20-.epub?updated_at=1551457230][EPUB]]} ^{or} ^{[[https://archiveofourown.org/downloads/2345300/The%20Very%20Secret%20Diary%20-.mobi?updated_at=1551457230][MOBI]]}
+
+--------------
+
+[[https://archiveofourown.org/works/3459731][*/The Two Body Problem/*]] by [[https://www.archiveofourown.org/users/Tozette/pseuds/Tozette][/Tozette/]]
+
+#+begin_quote
+  Ginny made a thin, distressed sound. “I ... Look, I promised Tom I wouldn't let him be handed in,” she said in a small voice.“Well, if he's going to go around petrifying people, I don't see much reason why people ought to keep their promises to him,” said Hermione crossly. [Hermione gets the diary. Things go differently from there. AU.]
+#+end_quote
+
+^{/Site/:} ^{Archive} ^{of} ^{Our} ^{Own} ^{*|*} ^{/Fandom/:} ^{Harry} ^{Potter} ^{-} ^{J.} ^{K.} ^{Rowling} ^{*|*} ^{/Published/:} ^{2015-03-01} ^{*|*} ^{/Completed/:} ^{2015-05-01} ^{*|*} ^{/Words/:} ^{25502} ^{*|*} ^{/Chapters/:} ^{8/8} ^{*|*} ^{/Comments/:} ^{219} ^{*|*} ^{/Kudos/:} ^{1799} ^{*|*} ^{/Bookmarks/:} ^{505} ^{*|*} ^{/Hits/:} ^{18344} ^{*|*} ^{/ID/:} ^{3459731} ^{*|*} ^{/Download/:} ^{[[https://archiveofourown.org/downloads/3459731/The%20Two%20Body%20Problem.epub?updated_at=1566621464][EPUB]]} ^{or} ^{[[https://archiveofourown.org/downloads/3459731/The%20Two%20Body%20Problem.mobi?updated_at=1566621464][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1571542636.0
+:DateShort: 2019-Oct-20
+:END:
+
+
+** Fanfic Pocket Archive Library is the name of the IOS app.
+:PROPERTIES:
+:Author: singlelegtj
+:Score: 2
+:DateUnix: 1571545052.0
+:DateShort: 2019-Oct-20
+:END:
+
+
+** Get a good ereader and download books off of the site. You have a download option from which you can get fics in Epub, mobi, pdf, HTML and azw3 formats. That's what I do.
+:PROPERTIES:
+:Author: i_atent_ded
+:Score: 2
+:DateUnix: 1571558008.0
+:DateShort: 2019-Oct-20
+:END:
+
+
+** I don't have any fic recs right now, but the browser version is much better than the app.
+:PROPERTIES:
+:Author: ihavebeengruntled
+:Score: 1
+:DateUnix: 1571523439.0
+:DateShort: 2019-Oct-20
+:END:
+
+
+** AO3 is so great because not only can you tailor your search by tags to include, you can also add tags to exclude.
+
+So I've always got my filter on to exclude fem!Harry, Harry/Voldemort, etc.
+:PROPERTIES:
+:Author: FallenAngelII
+:Score: 1
+:DateUnix: 1571625212.0
+:DateShort: 2019-Oct-21
+:END:
+
+
+** That just means it's time to explore other fandoms tbh. And then SV/SB or RR, I've never really gotten into AO3, despite reading a few fics there. The site just felt so impersonal to me, everything felt like one big list, and I found it hard to separate fics by what I wanted, or explore it properly.
+:PROPERTIES:
+:Author: CorruptedFlame
+:Score: 0
+:DateUnix: 1571581524.0
+:DateShort: 2019-Oct-20
+:END:
+
+
+** Here's the cream of the crop, if you don't read them you're a homophone.
+
+linkao3(12133914;11971230;14755667;6955051;3848911)
+:PROPERTIES:
+:Author: ciuckis587
+:Score: -11
+:DateUnix: 1571522169.0
+:DateShort: 2019-Oct-20
+:END:
+
+*** Or, considering everything on that list is a Drarry ABO story, it could just be that I don't like either Drarry or ABO.
+:PROPERTIES:
+:Author: bonsly24
+:Score: 7
+:DateUnix: 1571526762.0
+:DateShort: 2019-Oct-20
+:END:
+
+
+*** ho·mo·phone/ˈhäməˌfōn,ˈhōməˌfōn
+
+1. each of two or more words having the same pronunciation but different meanings, origins, or spelling.
+
+I think you mean homophobe.
+:PROPERTIES:
+:Author: FredoLives
+:Score: 5
+:DateUnix: 1571523792.0
+:DateShort: 2019-Oct-20
+:END:
+
+**** It would be hilarious (in this situation) if Homophone /was/ a homophone of homophobe.
+:PROPERTIES:
+:Author: bonsly24
+:Score: 1
+:DateUnix: 1571540081.0
+:DateShort: 2019-Oct-20
+:END:
+
+
+*** [[https://archiveofourown.org/works/12133914][*/Embers/*]] by [[https://www.archiveofourown.org/users/shiftylinguini/pseuds/shiftylinguini][/shiftylinguini/]]
+
+#+begin_quote
+  Werewolf Alphas aren't meant to be alone, or to suppress their ruts indefinitely like Draco has been since he was bitten eight years ago. He needs company, companionship, to knot ― he needs an Omega Heat Companion. At least, that's what the Healers say, and even Draco can admit contacting the person they've referred him to might be nice.Of course it turns out to be bloody Potter.
+#+end_quote
+
+^{/Site/:} ^{Archive} ^{of} ^{Our} ^{Own} ^{*|*} ^{/Fandom/:} ^{Harry} ^{Potter} ^{-} ^{J.} ^{K.} ^{Rowling} ^{*|*} ^{/Published/:} ^{2017-10-04} ^{*|*} ^{/Completed/:} ^{2017-10-04} ^{*|*} ^{/Words/:} ^{41216} ^{*|*} ^{/Chapters/:} ^{3/3} ^{*|*} ^{/Comments/:} ^{589} ^{*|*} ^{/Kudos/:} ^{7833} ^{*|*} ^{/Bookmarks/:} ^{1806} ^{*|*} ^{/Hits/:} ^{103008} ^{*|*} ^{/ID/:} ^{12133914} ^{*|*} ^{/Download/:} ^{[[https://archiveofourown.org/downloads/12133914/Embers.epub?updated_at=1546156545][EPUB]]} ^{or} ^{[[https://archiveofourown.org/downloads/12133914/Embers.mobi?updated_at=1546156545][MOBI]]}
+
+--------------
+
+[[https://archiveofourown.org/works/11971230][*/Dissident/*]] by [[https://www.archiveofourown.org/users/Constance1/pseuds/Constance1][/Constance1/]]
+
+#+begin_quote
+  In a world of Alphas and Omegas, Harry is surprised to discover that he is a rare male Omega. He assumes his pull towards Draco Malfoy is because the Slytherin is an Alpha, but there is more at play here than even Harry knows. My own twist on the Alpha/Omega-verse.
+#+end_quote
+
+^{/Site/:} ^{Archive} ^{of} ^{Our} ^{Own} ^{*|*} ^{/Fandom/:} ^{Harry} ^{Potter} ^{-} ^{J.} ^{K.} ^{Rowling} ^{*|*} ^{/Published/:} ^{2017-09-01} ^{*|*} ^{/Completed/:} ^{2019-01-06} ^{*|*} ^{/Words/:} ^{184063} ^{*|*} ^{/Chapters/:} ^{24/24} ^{*|*} ^{/Comments/:} ^{435} ^{*|*} ^{/Kudos/:} ^{4133} ^{*|*} ^{/Bookmarks/:} ^{1101} ^{*|*} ^{/Hits/:} ^{84417} ^{*|*} ^{/ID/:} ^{11971230} ^{*|*} ^{/Download/:} ^{[[https://archiveofourown.org/downloads/11971230/Dissident.epub?updated_at=1555970834][EPUB]]} ^{or} ^{[[https://archiveofourown.org/downloads/11971230/Dissident.mobi?updated_at=1555970834][MOBI]]}
+
+--------------
+
+[[https://archiveofourown.org/works/14755667][*/Scent and Sensibility/*]] by [[https://www.archiveofourown.org/users/aidaninkling/pseuds/aidaninkling][/aidaninkling/]]
+
+#+begin_quote
+  “I don't care if Potter likes me,” Draco sniffed, coming to terms with his mother's betrayal, both of his hand in marriage -- or mating -- and her trust in his likeability. Old lady was obviously losing it. He was adorable. Alternatively: Draco's always known he'd be married off as a trophy omega, but suddenly his mother's trying to make him king by promising him to some stupidly good-looking alpha and she just won't stop smiling at him. Does fate's cruelty know no end?! Smut | ABO | Completely Self-Indulgent Trash
+#+end_quote
+
+^{/Site/:} ^{Archive} ^{of} ^{Our} ^{Own} ^{*|*} ^{/Fandom/:} ^{Harry} ^{Potter} ^{-} ^{J.} ^{K.} ^{Rowling} ^{*|*} ^{/Published/:} ^{2018-05-26} ^{*|*} ^{/Words/:} ^{7503} ^{*|*} ^{/Chapters/:} ^{1/1} ^{*|*} ^{/Comments/:} ^{55} ^{*|*} ^{/Kudos/:} ^{3934} ^{*|*} ^{/Bookmarks/:} ^{594} ^{*|*} ^{/Hits/:} ^{46938} ^{*|*} ^{/ID/:} ^{14755667} ^{*|*} ^{/Download/:} ^{[[https://archiveofourown.org/downloads/14755667/Scent%20and%20Sensibility.epub?updated_at=1562017161][EPUB]]} ^{or} ^{[[https://archiveofourown.org/downloads/14755667/Scent%20and%20Sensibility.mobi?updated_at=1562017161][MOBI]]}
+
+--------------
+
+[[https://archiveofourown.org/works/6955051][*/Stuck/*]] by [[https://www.archiveofourown.org/users/aidaninkling/pseuds/aidaninkling][/aidaninkling/]]
+
+#+begin_quote
+  Draco Malfoy lives a simple life. Go to college, throw some snark at resident golden boy Harry Potter and his homophobic posse, judge the remainder of the living population with Pansy, go home, jack off to aforementioned golden boy in the shower, crawl into bed with a book and a cup of tea. Rinse and repeat.Until he and Potter get stuck in a closet together, and things get a whole lot less simple.Really quickly.
+#+end_quote
+
+^{/Site/:} ^{Archive} ^{of} ^{Our} ^{Own} ^{*|*} ^{/Fandom/:} ^{Harry} ^{Potter} ^{-} ^{J.} ^{K.} ^{Rowling} ^{*|*} ^{/Published/:} ^{2016-05-24} ^{*|*} ^{/Updated/:} ^{2018-06-02} ^{*|*} ^{/Words/:} ^{25125} ^{*|*} ^{/Chapters/:} ^{15/21} ^{*|*} ^{/Comments/:} ^{601} ^{*|*} ^{/Kudos/:} ^{3331} ^{*|*} ^{/Bookmarks/:} ^{670} ^{*|*} ^{/Hits/:} ^{60094} ^{*|*} ^{/ID/:} ^{6955051} ^{*|*} ^{/Download/:} ^{[[https://archiveofourown.org/downloads/6955051/Stuck.epub?updated_at=1556704662][EPUB]]} ^{or} ^{[[https://archiveofourown.org/downloads/6955051/Stuck.mobi?updated_at=1556704662][MOBI]]}
+
+--------------
+
+[[https://archiveofourown.org/works/3848911][*/Tease/*]] by [[https://www.archiveofourown.org/users/penpenhooray/pseuds/penpenhooray][/penpenhooray/]]
+
+#+begin_quote
+  Alpha Harry Potter is Lord of the House of Black and Savior of the Wizarding World. Few things make him lose control.His intended's constant flirtations with other alphas was one.Draco loves it when his alpha loses control.
+#+end_quote
+
+^{/Site/:} ^{Archive} ^{of} ^{Our} ^{Own} ^{*|*} ^{/Fandom/:} ^{Harry} ^{Potter} ^{-} ^{J.} ^{K.} ^{Rowling} ^{*|*} ^{/Published/:} ^{2015-04-30} ^{*|*} ^{/Words/:} ^{1875} ^{*|*} ^{/Chapters/:} ^{1/1} ^{*|*} ^{/Comments/:} ^{34} ^{*|*} ^{/Kudos/:} ^{4022} ^{*|*} ^{/Bookmarks/:} ^{504} ^{*|*} ^{/Hits/:} ^{72268} ^{*|*} ^{/ID/:} ^{3848911} ^{*|*} ^{/Download/:} ^{[[https://archiveofourown.org/downloads/3848911/Tease.epub?updated_at=1542779015][EPUB]]} ^{or} ^{[[https://archiveofourown.org/downloads/3848911/Tease.mobi?updated_at=1542779015][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1571522203.0
+:DateShort: 2019-Oct-20
+:END:
+
+
+*** Y'know, one could just as easily make an argument that "if you like drarry then you're a racist." Since, y'know, Malfoy spends the first five books as a vocal supremacist, never actually renounces these beliefs in the series itself, and willingly* joins the magical equivalent to the fucking KKK.
+
+* yes, he had no real choice but in the matter, but he didn't know that, and the fact that he didn't realise it was a false choice means that his doing so is no less revealing for it
+:PROPERTIES:
+:Author: DeliSoupItExplodes
+:Score: 1
+:DateUnix: 1571579090.0
+:DateShort: 2019-Oct-20
+:END:

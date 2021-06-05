@@ -1,0 +1,137 @@
+#+TITLE: This guy applied pagerank and graph analysis on Harry Potter fandom for quite interesting results
+
+* [[http://colah.github.io/posts/2014-07-FFN-Graphs-Vis/][This guy applied pagerank and graph analysis on Harry Potter fandom for quite interesting results]]
+:PROPERTIES:
+:Author: zerkses
+:Score: 65
+:DateUnix: 1520943245.0
+:DateShort: 2018-Mar-13
+:END:
+
+** That's definitely an interesting post, but please note it's dated July 6, 2014 so won't have anything new on there. Nightmare of Futures Past is the 2nd most favourite story, for instance, and while it's good, I don't think it'd be that highly rated if this were to be done again today.
+
+If I can find the time I might give recreating this a go. Looks interesting.
+:PROPERTIES:
+:Author: rpeh
+:Score: 21
+:DateUnix: 1520955346.0
+:DateShort: 2018-Mar-13
+:END:
+
+*** NoFP is still the highest rated Potter story on ffn though. I kinda want to recreate too (which is why I started googling for this stuff in the first place) but atm I am in the process of establishing which criterions I want to influence edge weight and optimising their calculation
+:PROPERTIES:
+:Author: zerkses
+:Score: 5
+:DateUnix: 1520957027.0
+:DateShort: 2018-Mar-13
+:END:
+
+
+** As a side note: I am also doing something along these lines atm and my own findings indicate that slash colored part of the graph is too conservative. There is a whole lot more slash fics that don't indicate slash pairings in either summary or characters(with square brackets).
+:PROPERTIES:
+:Author: zerkses
+:Score: 8
+:DateUnix: 1520943648.0
+:DateShort: 2018-Mar-13
+:END:
+
+*** I'd like to see a version of this where you could just tell it to look at a specific fandom and it'd generate the graphs from there. Like Bleach, for example.
+:PROPERTIES:
+:Author: lord_geryon
+:Score: 3
+:DateUnix: 1520948674.0
+:DateShort: 2018-Mar-13
+:END:
+
+
+*** By that logic though everything would be "too" conservative. There are plenty of fics that do a poor job of communicating via the summary, character listings, and tags what they are or will be regardless of pairing.
+:PROPERTIES:
+:Author: Noexit007
+:Score: 2
+:DateUnix: 1521009304.0
+:DateShort: 2018-Mar-14
+:END:
+
+**** quite probbaly, it's just that I can say for sure about slash, everythign else, I haven't yet analyzed
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1521015973.0
+:DateShort: 2018-Mar-14
+:END:
+
+
+*** Huh, what criteria are you using to identify those missed fics that the original author didn't? Not criticizing, just curious :)
+:PROPERTIES:
+:Author: bgottfried91
+:Score: 1
+:DateUnix: 1520960570.0
+:DateShort: 2018-Mar-13
+:END:
+
+**** I use iterative approach. First I detect userlists with high amount of slash content detected purely on keywords. For every non 100% slash fic in those I detect those which are consistently on lists that do NOT contain slash content and remove those from consideration. The rest is what is very likely to be slash depending on how popular the fic is and how much slash the list already contains.
+
+From my experience this algorithm works fairly well in general and exceptionally well for Harry Potter (since I have a lot of keywords inserted for this and thus more accurately detect thsoe initial lists)
+:PROPERTIES:
+:Author: zerkses
+:Score: 4
+:DateUnix: 1520961064.0
+:DateShort: 2018-Mar-13
+:END:
+
+
+**** Just one example of detected stuff(there's loads more): [[https://imgur.com/a/lvsES]]
+
+The text below the blue box is a screnshot of what I found in the first chapter when I checked if that really is slash or not.
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1520961317.0
+:DateShort: 2018-Mar-13
+:END:
+
+***** ^{Hi, I'm a bot for linking direct images of albums with only 1 image}
+
+*[[https://i.imgur.com/4aUi7vo.png]]*
+
+^{^{[[https://github.com/AUTplayed/imguralbumbot][Source]]}} ^{^{|}} ^{^{[[https://github.com/AUTplayed/imguralbumbot/blob/master/README.md][Why?]]}} ^{^{|}} ^{^{[[https://np.reddit.com/user/AUTplayed/][Creator]]}} ^{^{|}} ^{^{[[https://np.reddit.com/message/compose/?to=imguralbumbot&subject=ignoreme&message=ignoreme][ignoreme]]}} ^{^{|}} ^{^{[[https://np.reddit.com/message/compose/?to=imguralbumbot&subject=delet%20this&message=delet%20this%20dvmzf35][deletthis]]}}
+:PROPERTIES:
+:Author: imguralbumbot
+:Score: 1
+:DateUnix: 1520961331.0
+:DateShort: 2018-Mar-13
+:END:
+
+
+** The french really like their slash it seems.
+:PROPERTIES:
+:Author: James_Locke
+:Score: 1
+:DateUnix: 1520979162.0
+:DateShort: 2018-Mar-14
+:END:
+
+*** If he was pulling user lists like I did, it is highly likely he only slightly touched the french sector and this by list of someone who likes slash. If that happened, recursive reparses had a chance to favor french slash lists quite heavily.
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1520979283.0
+:DateShort: 2018-Mar-14
+:END:
+
+
+** A bit of useless stats: of ~ 14k lists I have that have at least 20% Harry Potter in their favourites:
+
+5k lists with 0% slash
+
+8k lists with <10% slash
+
+10k lists with <30% slash
+
+3k lists with >30% slash
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1520979841.0
+:DateShort: 2018-Mar-14
+:END:

@@ -1,0 +1,298 @@
+#+TITLE: Harry Potter: RPG
+
+* Harry Potter: RPG
+:PROPERTIES:
+:Author: HaltCPM
+:Score: 53
+:DateUnix: 1509369875.0
+:DateShort: 2017-Oct-30
+:END:
+Discord Channel Invite - for anyone interested in discussion or suggestions: [[https://discord.gg/fB9rkVd]]
+
+The following is a fan-made, not for profit system I created out of a desire to eventually run an RPG set in J. K. Rowling's world. It's currently a Work-In-Progress. With permission from Psantium_, I'm posting here for feedback.
+
+[[https://docs.google.com/document/d/1uTBU_a5T-yQeMLT0xgjLZgt2LDwc4qkMpm2MZD8o_uA/edit#]]
+
+Part 1: Attributes
+
+These represent your innate capabilities and are very difficult to change. The number of points you can spend on an Attribute is usually determined by your Lifepath choices.
+
+(A quick note on Difficulty here to help explain the system. It's based on the Cypher System's Difficulty, where a Bonus reduces Difficulty i.e. the number you need to roll in order to succeed and a Penalty increases Difficulty - as opposed to being a plus to your initial roll as in DnD. The dice used is a 1d20.)
+
+[ 1 ] - You are hopeless. A Penalty to Difficulty +4 for all rolls related to the Attribute.
+
+[ 2 ] - Still below average, but no longer disastrous. A Penalty to Difficulty +2.
+
+[ 3 ] - Your run-of-the-mill wizard. A Bonus to Difficulty 0
+
+[ 4 ] - You are above average. A Bonus to Difficulty -1
+
+[ 5 ] - The upper limit of most wizards. A Bonus to Difficulty -2
+
+[ 6 ] - You are a credit to your species. A Bonus to Difficulty -3. Generally impossible to achieve without racial bonuses, a genius trait. Requires Game Master (GM) approval.
+
+[ 7 ] - You are at the apex. A Bonus to Difficulty -4
+
+Brawn - Represents your physical strength, stamina and resilience. Determines your health alongside Willpower. Affects muggle fighting, for the barbarians who enjoy that sort of thing.
+
+[ 1 ] - A flobberworm hits harder than you [First year Neville]
+
+[ 2 ] - More comfortable indoors than adventuring [Lavander, Parvati]
+
+[ 3 ] - You can take a few punches [Draco, Baseline Wizard]
+
+[ 4 ] - You've been in a few fistfights [Ron, Harry]
+
+[ 5 ] - More muscle than brain, aint'cha? [Crabbe, Goyle]
+
+[ 6 ] - You sure you're not part giant? [Hagrid]
+
+[ 7 ] - Are you a giant or a dragon? [Grawp]
+
+Social - Represents all kinds of social interaction, from convincing Fudge Voldemort is real to “Of course I'm not sleeping with your wife, Bill.”
+
+[ 1 ] - You barely make sense when you talk [Grawp]
+
+[ 2 ] - It's not that you can't talk, you just prefer not to. [First year Neville]
+
+[ 3 ] - You're okay, I guess? [Fudge, Baseline Wizard]
+
+[ 4 ] - Your opinion is valued. [Mad Eye Moody]
+
+[ 5 ] - When you talk, people listen. [Lucius Malfoy, Fleur]
+
+[ 6 ] - You have fans. [Albus Dumbledore]
+
+[ 7 ] - You can start your own death cult. [Headboy Tom Riddle]
+
+Dexterity - How coordinated you are. Affects wand motion, speed and physical reaction time (including quickness of thinking).
+
+[ 1 ] - Walking is a challenge for you [Kid in a wheelchair]
+
+[ 2 ] - Dancing with you is a torture we inflict on enemies.
+
+[ 3 ] - You can manage just fine. [Baseline Wizard]
+
+[ 4 ] - Definitely some talent there. [Ron] (+1 action)
+
+[ 5 ] - You could be a Professional Quidditch Player or Dueler. [Harry, Dumbledore]
+
+[ 6 ] - You make falling look good. [Ballet Dancer] (+1 action)
+
+[ 7 ] - You're either half cat or into some really fucked up rituals. [McGonagall, Voldemort]
+
+Perception - Covers the acuteness of your physical senses. Affects aiming, navigation and exploration, and initiative in combat.
+
+[ 1 ] - Other people travel. You walk randomly hoping you arrive where you're going eventually.
+
+[ 2 ] - You're not blind...technically.
+
+[ 3 ] - Your senses are working fine. [Baseline Wizard]
+
+[ 4 ] - You're good with directions. [Harry]
+
+[ 5 ] - You can spot a Snitch in a Haystack.
+
+[ 6 ] - You never get lost.
+
+[ 7 ] - Your sense of smell must be supernatural. [Werewolf]
+
+Intelligence - Covers book smarts, magical theory, deduction, logic and memorization
+
+[ 1 ] - “What's an Africa?” [Crabbe, Goyle]
+
+[ 2 ] - You're lucky you're pretty.
+
+[ 3 ] - You are the definition of mediocre. [Baseline Wizard]
+
+[ 4 ] - You get good grades. [Ron, Harry]
+
+[ 5 ] - You're top of the class. [Hermione]
+
+[ 6 ] - You are wasted on school.
+
+[ 7 ] - You're a genius. [Dumbledore, Voldemort]
+
+Wisdom - Covers judgment, insight, common sense, intuition and decision making.
+
+[ 1 ] - Poor life choices is your middle name. [Sirius]
+
+[ 2 ] - You should probably get a second opinion before you do anything.
+
+[ 3 ] - You've made some bad choices. [Voldemort]
+
+[ 4 ] - You're the one friends go to for advice. [Harry]
+
+[ 5 ] - You rarely make mistakes. [Grindelwald]
+
+[ 6 ] - The world would be a better place with you in charge [Dumbledore]
+
+[ 7 ] - You must be a saint.
+
+Willpower - Covers mental strength, ability to deal with pressure, conviction and perseverance.
+
+[ 1 ] - You give up before you begin.
+
+[ 2 ] - The slightest inconvenience deters you.
+
+[ 3 ] - You'll only go so far for what you believe in.
+
+[ 4 ] - It'll take torture to break you.
+
+[ 5 ] - When you commit, you commit. [Dumbledore]
+
+[ 6 ] - Nothing changes your mind.
+
+[ 7 ] - Society better change for you, or else. [Voldemort, Harry]
+
+Quick Play Rules
+
+#+begin_example
+  This rule only applies for Pureblood, Halfblood and Muggleborn Characters who are at an age where one expects them to have finished their formal magical education. You have Eighteen (18) points to spend on your Attributes. 
+#+end_example
+
+
+** I am also a hobbyist RPG designer (also on [[/r/RPGdesign]]) so I will give you some input.
+
+- What is the reason to create a whole system and not mod an existing system. In this way, you won't need to worry about dice mechanics etc. Systems like FATE work pretty well.
+- I don't know what your dice mechanic is.
+- Make sure everything is as useful at everything else. E.g. Art will feel a little bit useless in many campaigns. Maybe merge it with something.
+- In many cases, you describe all options. Explicitly leave stuff open for other options.
+- I love the idea of choosing a wand to be a special part of character creation. However, it doesn't give me any guidelines how I should choose the wand stats. Maybe giving bonuses and penalties for all materials and cores. Maybe giving it a few advantages and disadvantages that the player can choose. I don't know.
+- Maybe grouping all nonhuman races as one category. This reduces the feeling that it is necessary to pick a nonhuman race.
+
+I really hope you can make the RPG system you want. It looks very interesting but far from finished. Finally, I would go and test it out. There is no reason writing a system of 300 pages and then finding out your magic system isn't fun. Good luck.
+:PROPERTIES:
+:Author: wokste1024
+:Score: 11
+:DateUnix: 1509391788.0
+:DateShort: 2017-Oct-30
+:END:
+
+*** Hello, thanks for the feedback :)
+
+1) Currently, no existing system works exactly as I want it to to capture the HP feel of magic, which is where the majority of my development and focus has gone into. I am liberally stealing/copying things from other systems though, like Aspects/High Concept/Troubles from FATE, Difficulty from Cypher, and Lifepaths/Beliefs/Instincts from Burning Wheel. It's all a bit cobbled together right now, and after a few playtests some things will probably be removed, simplified, or merged into other things.
+
+2) My dice mechanic is a 1d10 for every task. The target number to succeed depends on that task's difficulty number (0 being everyone can do this all the time, 20 is an Impossible task). A bonus decreases the difficulty (as opposed to adding to your dice score) while a penalty increases difficulty. I should probably make this clear earlier on in my document.
+
+3) Yes, Balance is actually one my ten guiding principles in developing this. While Art may feel useless, it's mostly because I haven't finished fleshing out the advantages to each bit. Art allows you to do magical art, such as painting moving photographs that are sapient as spies, sculpting works that can fight for you or tank, poetry/literature would be sort of like inspiration from DnD's bard class or create traps that -when read, places a curse on someone, and music/dance/performance is just a general buff to helping allies succeed at rolls. No skill, hopefully, is truly useless, although not all of them would have a function in combat.
+
+4) Could you point out where that's the case? I'm not sure I follow entirely.
+
+5) The Wand creation bit is still very much a Work In Progress (I only finished making up most of it less than 13 hours ago) and still has a lot to be improve on, I admit. As for the wand stats, there's another link within the doc entitled "Compiled Reference Sheet" where I break down each wand core and wood into specific attributes. While by no means finalized and balanced, it's a good starting point.
+
+6) Thank you, I am definitely planning to test it out before declaring it a complete system :) I'm already recruiting players in a smaller community for a one-shot campaign to alpha test it, set sometime early next year with any luck.
+:PROPERTIES:
+:Author: HaltCPM
+:Score: 3
+:DateUnix: 1509392581.0
+:DateShort: 2017-Oct-30
+:END:
+
+**** Hey man. Have you ever played World of Darkness games? Their d10 system is non-linear and very open ended. Every attribute, skill, and power is 1-5. 1 dot in athletics would be someone who runs on a treadmill once a week, whereas 5 dots would be Usain Bolt/Brock Lesnar levels of athleticism. Untrained doesn't mean you can't run, it just means you haven't spent any time being athletic.
+
+Mage[WoD] handles magic pretty well (which is ALWAYS where system development comes to a screeching halt for me), and is quite flexible with spell creation. For magic, there are nine Spheres [ex. Forces, Matter, Time, Life, Death, etc.] Depending upon how many dots you have in which Spheres allows you to cast a wider variety of spells, and directly influences the power behind them as well.
+
+I'd lean toward the newer editions of Mage since it's a bit more rigid as far as spells go. (1st-3rd edition is largely limited to your own imagination, and takes a /very/ good GM to run.) But you can just rename the Spheres to your liking, and roll from there.
+
+If you have any questions about it, I'd be glad to chit-chat.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1510473749.0
+:DateShort: 2017-Nov-12
+:END:
+
+***** I've played Vampire using the 20th Anniversary rules and some of my ideas were from there. Never playes the other games though. Interestingly enough, how you described the system of Mage is roughly parallel to the system I came up with for spells, with the exception thay attributes and skill level reduces difficulty on rolls and all rolls are simplified to a 1d20 instead of basing number of dice on attribute + skill. In our current game, I find that its always the dice rolls that bog down the game because we're constantly having to look for where the stats are and adding/subtracring because of health or disciplines and then xalcilating difficulty on top of that.
+:PROPERTIES:
+:Author: HaltCPM
+:Score: 1
+:DateUnix: 1510481254.0
+:DateShort: 2017-Nov-12
+:END:
+
+
+** If you haven't already, consider posting for feedback over at the main table top gaming subs and dnd subs as well. They love giving feedback on things over there and might be able to give more focused critique on mechanics than the average HP fanfic reader can.
+
+I'll have to give a more in depth review of the system later, but I can say that the point system presented in the post itself seems reasonable!
+:PROPERTIES:
+:Author: NeonicBeast
+:Score: 9
+:DateUnix: 1509377844.0
+:DateShort: 2017-Oct-30
+:END:
+
+*** Thanks! I'll definitely look into cross posting in those sites.
+:PROPERTIES:
+:Author: HaltCPM
+:Score: 1
+:DateUnix: 1509389881.0
+:DateShort: 2017-Oct-30
+:END:
+
+
+** Why do an attribute of 4 and an attribute of 5 have the same bonus?
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1509418414.0
+:DateShort: 2017-Oct-31
+:END:
+
+*** That's a Typo. 4 should have a bonus of 1. Good catch :)
+:PROPERTIES:
+:Author: HaltCPM
+:Score: 2
+:DateUnix: 1509419749.0
+:DateShort: 2017-Oct-31
+:END:
+
+**** Ah. So bonuses increment by 1 and penalties increment by 2?
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1509420291.0
+:DateShort: 2017-Oct-31
+:END:
+
+***** Yup
+:PROPERTIES:
+:Author: HaltCPM
+:Score: 1
+:DateUnix: 1509421488.0
+:DateShort: 2017-Oct-31
+:END:
+
+
+** There's quite a bit of prior art that would be worth looking at, in particular [[https://web.archive.org/web/20160818115732/http://www.sabledrake.com/2002/0205_harry_potter1.shtml][this]] and several threads in the [[http://forums.sjgames.com/][SJ Games forums]]
+:PROPERTIES:
+:Author: HiddenAltAccount
+:Score: 2
+:DateUnix: 1509402621.0
+:DateShort: 2017-Oct-31
+:END:
+
+
+** This looks REALLY interesting!
+:PROPERTIES:
+:Author: Dina-M
+:Score: 1
+:DateUnix: 1509405607.0
+:DateShort: 2017-Oct-31
+:END:
+
+
+** This looks really fun! I'm totally going to bookmark this Google doc, so /pleeeease/ put a message or something at the top if you move it!
+
+You should create a Discord guild to better store feedback and rally support. :)
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 1
+:DateUnix: 1509686639.0
+:DateShort: 2017-Nov-03
+:END:
+
+*** Here you go :) [[https://discord.gg/fB9rkVd]]
+:PROPERTIES:
+:Author: HaltCPM
+:Score: 1
+:DateUnix: 1509690937.0
+:DateShort: 2017-Nov-03
+:END:

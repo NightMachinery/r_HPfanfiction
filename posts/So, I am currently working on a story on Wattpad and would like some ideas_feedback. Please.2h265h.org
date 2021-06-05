@@ -1,0 +1,204 @@
+#+TITLE: So, I am currently working on a story on Wattpad and would like some ideas/feedback. Please?
+
+* So, I am currently working on a story on Wattpad and would like some ideas/feedback. Please?
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1411329240.0
+:DateShort: 2014-Sep-21
+:FlairText: Misc
+:END:
+[deleted]
+
+
+** Okay. I gave it a read. Glad you're writing. Here are some things you might want to look after.
+
+I think the early paragraph shows everything I want to point out right now:
+
+#+begin_quote
+  Hearing a commation in the living room, speaking of which, arrived Harry and Ginny. Both working in the same line of work as I do in the order. Having them around was nice, and having them both work by my side was even nicer. Ron, well... He was too good for us anymore and we have all severed ties with him at this point.
+#+end_quote
+
+--------------
+
+#+begin_quote
+  Hearing a *commation* in the living room
+#+end_quote
+
+Spellcheck. Things happen, but in this day and age it should almost always be homonyms, odd typos, and mistaken word choice that slips though.
+
+Just use LibreOffice or something. Even Google Chrome with spellcheck on should catch this. Run it once though a word processor, copy and paste into the destination, quick and easy.
+
+--------------
+
+#+begin_quote
+  Hearing a commation in the living room*, speaking of which, arrived Harry and Ginny*.
+#+end_quote
+
+This sentence could be much more clearly constructed. As is, it is not correctly put together.
+
+With this previous sentence:
+
+#+begin_quote
+  Luckily I still have Harry and Ginny around to keep me sane.
+#+end_quote
+
+Maybe you could do something like:
+
+#+begin_quote
+  Luckily I still have Harry and Ginny around to keep me sane. *Speaking of which, I hear a commotion in the living room.*
+#+end_quote
+
+--------------
+
+#+begin_quote
+  Both *working* in the same line of *work* as I do in the order.
+#+end_quote
+
+Redundant words hurt readers. It causes them to stumble and breaks the flow of a story. It also looks like two sentences got confused and mashed together. Perhaps something like:
+
+#+begin_quote
+  *We're all* in the same line of work in the *O*rder.
+#+end_quote
+
+--------------
+
+#+begin_quote
+  Ron, well... He was too good for us anymore and we have all severed ties with him at this point.
+#+end_quote
+
+Maybe this belongs on another paragraph? It doesn't seem directly related and would be emphasized by doing so.
+
+--------------
+
+So we end up with something like (this includes the previous paragraph):
+
+#+begin_quote
+  Since I am up, I might as well get ready for work. *Interally* I cringe *everytime* I say work, or even think it. I've seen so many deaths doing what I do. Luckily I still have Harry and Ginny around to keep me sane. Speaking of which, I hear a commotion in the living room.
+
+  We're all in the same line of work in the Order. Having them around was nice, and having them both work by my side was even nicer.
+
+  Ron, well... He was too good for us anymore and we have all severed ties with him at this point.
+#+end_quote
+
+A few more spelling issues, fixed. Now to rearrange sentences to make stronger paragraphs. One good style is to keep the subject of each the same. In this case, avoiding work, thinking about friends, then work again, then the environment of the main character. Like this:
+
+#+begin_quote
+  Since I am up, I might as well get ready for work. Internally I cringe every time I say work, or even think it. I've seen so many deaths doing what I do.
+
+  Luckily I still have Harry and Ginny around to keep me sane. Ron, well... He was too good for us anymore and we have all severed ties with him at this point.
+
+  We're all in the same line of work in the Order. Having them around was nice, and having them both work by my side was even nicer.
+
+  Speaking of which, I hear a commotion in the living room.
+
+  "Ginny, Harry! 'Morning to you both. Tea?"
+#+end_quote
+
+This actually puts the Ron paragraph back together, but in a way that makes sense. I've also moved the arrival scene setting sentence to the end, where it shows the progress of time and that things are continuing to happen without getting in the way of setting the background of the character. Included is the paragraph after that, for context.
+
+This is the kind of workflow I use. Your style and workflow may differ. One BIG thing that helps is to read it out loud. If it sounds awkward, it most likely is.
+
+No, I mean it. Read it out like you're auditing for a play. It'll help. Keep writing and make sure to watch out for the little things that make it hard for a reader. Craft those sentences and paragraphs to slide them from one to the next.
+
+I wish you good writing.
+:PROPERTIES:
+:Author: TimeLoopedPowerGamer
+:Score: 2
+:DateUnix: 1411351901.0
+:DateShort: 2014-Sep-22
+:END:
+
+
+** u/deleted:
+#+begin_quote
+  "Filthy Mudblood!" The tears, the hurt, it was still like a fresh wound. It's been neatly ten years and it still got to me... Ugh.
+
+  Since I am up, I might as well get ready for work.
+#+end_quote
+
+Wait, what? I'm disoriented already. Is someone talking to this character in her sleep? When did she wake up?
+
+#+begin_quote
+  "Johnathan Barris.' Ginny smoothly replied.
+#+end_quote
+
+Inconsistent quotes.
+
+You have a full stop there. That means there are two things happening in succession. The first is someone saying "Johnathan Barris." (Perhaps the person means "Jonathan" rather than "Johnathan"?) The second thing that happens, after someone says "Johnathan Barris", is Ginny replying. How did she reply? What did she say? We may never know.
+
+#+begin_quote
+  "It is odd to think, he was talented. Very dissapointing."
+#+end_quote
+
+Awkward wording. I want to read it as "Thinking is odd, and he was talented." Not to mention spelling error.
+
+It's like with music, the talent of a musician is in how well they play their instruments and compose, not in whether they can rent a recording studio and hire a good sound technician. But you're much more likely to listen to someone who recorded their music with good equipment. Similarly, someone might have excellent word choice and characterization and plotting and worldbuilding, and not many people will realize what's great about their writing because they have atrocious spelling.
+
+#+begin_quote
+  Taking the last drink of tea from my cup, I looked at Ginny and Harry thinking of how perfect they are for one another.
+#+end_quote
+
+Awkward wording. "While doing X, I did Y while doing Z."
+
+Was she thinking "They are perfect for each other" and nothing else? It seems rather unmotivated. Were they arranging breakfast as a mutual job, executing their individual tasks smoothly and working around each other in a graceful and efficient manner like a choreographed dance? Were they staring longingly into each others' eyes? Do they have complementary coloration? Or did she just happen to see them together and think of other times during which they showed they make a good couple?
+
+#+begin_quote
+  "Every last fuckin' one of ya'! I swear it! Kill'em all!"
+#+end_quote
+
+Who is he talking to?
+
+#+begin_quote
+  I casted a silent spell to make him stiffen and not able to move.
+#+end_quote
+
+The past tense of "cast" is "cast".
+
+Name the spell. If you need to, go into the objectives behind the spell rather than the direct effects. It is /much/ more natural. By analogy, you would say something like "I tasered him to keep him down" rather than "I used a device on him to cause his muscles to seize up and make him disoriented."
+
+#+begin_quote
+  A curse that barely missed and hit the floor right in front of me destroyed the floor and sent me crashing down and hit my head.
+#+end_quote
+
+Where the hell was he aiming? He's in a dining room. Unless he's got a sizable manor, it can hold probably a dozen people, maybe twenty. If you're aiming a spell at someone, you are probably going to aim at their torso or head. His aim was off by about forty degrees. Is he dead drunk?
+
+#+begin_quote
+  I awoke to moniotors beeping,and an IV in my arm and a healer chanting to help mend broken bones in less time than it normally would.
+#+end_quote
+
+Hva faen er dette? Wizards do not use EKGs or IVs. And Poppy Pomphrey can mend bones with one spell. Two seconds and you're done. That or Skele-Gro. Is this the wizarding equivalent of homeopathy?
+
+#+begin_quote
+  "Hello dearay! You are at St. Mungos! You had a nasty accident ya did. Quite the bump on yer head, and a few broken bones. Ya should be fine to go by tomorrow! I'll ready the discharge papers fer ya and let yer friends on in to see ya! Mighty worried about ya, they are!"
+#+end_quote
+
+Spelling out accents is almost always horrible. Also, tons of shouting.
+
+#+begin_quote
+  "O ya
+#+end_quote
+
+Have you /listened/ to Bonnie Wright? She's practically using Received Pronunciation. Not quite, but close enough. Why do you have her in some strange accent, sufficient that you have to write it differently?
+
+And Ottery St Catchpole is in the south. A light Cornish accent might be appropriate, but that isn't terribly noticeable.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1411416194.0
+:DateShort: 2014-Sep-22
+:END:
+
+
+** I can read it if you want but I don't ship SS Prudence and Potions so I will probably end up with a negative view.
+:PROPERTIES:
+:Score: -2
+:DateUnix: 1411339941.0
+:DateShort: 2014-Sep-22
+:END:
+
+*** I like it and ship it.
+:PROPERTIES:
+:Author: BeautifullyMe
+:Score: 2
+:DateUnix: 1411342295.0
+:DateShort: 2014-Sep-22
+:END:

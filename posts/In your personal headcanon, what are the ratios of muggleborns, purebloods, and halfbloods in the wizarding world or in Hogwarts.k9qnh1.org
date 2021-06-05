@@ -1,0 +1,468 @@
+#+TITLE: In your personal headcanon, what are the ratios of muggleborns, purebloods, and halfbloods in the wizarding world or in Hogwarts?
+
+* In your personal headcanon, what are the ratios of muggleborns, purebloods, and halfbloods in the wizarding world or in Hogwarts?
+:PROPERTIES:
+:Author: 360Saturn
+:Score: 49
+:DateUnix: 1607515280.0
+:DateShort: 2020-Dec-09
+:FlairText: Discussion
+:END:
+For me, because muggleborn students always have attention drawn to them in-text, it's always been my headcanon that they were pretty rare. Say, 1 in 20 or even less perhaps.
+
+Although attention is drawn particularly to bigoted purebloods, I've also heacanoned that they made up the majority of all students. This would explain why they generally feel so assured of their own ways and are averse to the idea of interlopers or mixing, and also accounts for why the wizarding world, despite being essentially a sub-society of the modern world, seems so completely self-isolated and hasn't adopted magic-technology hybrids for e.g. tv or telephones.
+
+That leaves halfbloods, who I see as probably an uncommon, but more common than muggleborn, group. I got the sense that society never knew quite how to act around halfbloods, which gave me the impression that they couldn't be a dominant or particularly influential political group.
+
+So in my mind the ratios go something like 15:4:1 for purebloods to halfbloods to muggleborns.
+
+How about you folks?
+
+
+** From what I've gathered on this sub, the definitions aren't quite as 'biologically distinct' as you might think. Purebloods are just anyone with purely magical grandparents (or who gives enough of a shit about blood purity to claim they only have magical grandparents, anyway) and Muggleborns are anyone with purely non-magical grandparents. Pretty much everyone else counts as a Halfblood. So, just by the sheer exclusionary nature of the definitions, there are going to be fewer Purebloods and Muggleborns.
+
+At the time of the books, I always saw Halfbloods as the most common - like Ron says, most wizards are and they'd have to be to avoid dying out. Purebloods would probably be a higher number than Muggleborns, if only because I imagine a significant amount of Muggleborns probably returned to the Muggle World after they graduated or died in the war (plus, any children they had would be halfbloods, so adding to that population again).
+
+I also read a fic that argued that the wizarding side of Grindelwald's war would probably have killed a lot of Purebloods, so their already declining numbers probably dropped off massively in that war. I also like the slight irony of the Death Eaters killing more Purebloods than Halfbloods, so I imagine that probably caused a drop in their numbers too.
+
+Not sure of specific ratios, but I'd definitely say Halfblood-Pureblood-Muggleborn in the wizarding world. Probably more Muggleborns than the average in Hogwarts, since the need to stay due to not having graduated yet, but otherwise I'd say Hogwarts is broadly similar.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 22
+:DateUnix: 1607519259.0
+:DateShort: 2020-Dec-09
+:END:
+
+*** Now that's my headcanon.
+:PROPERTIES:
+:Author: XenoLoreLover10
+:Score: 1
+:DateUnix: 1607532093.0
+:DateShort: 2020-Dec-09
+:END:
+
+
+** 18% Muggle-born
+
+45% Half-blood
+
+37% pure-blood
+
+[[https://www.reddit.com/r/AskScienceFiction/comments/97pi1g/harry_potter_with_the_explosion_of_the_muggle/e4ai3rs/][This]] is pretty much my headcanon.
+:PROPERTIES:
+:Author: YOB1997
+:Score: 33
+:DateUnix: 1607517734.0
+:DateShort: 2020-Dec-09
+:END:
+
+*** I agree with this but I also think that magic kinda compensates for population when needed. So if one generation had lost alot of wizards say due to a war and couldn't have enough babies the following generation to compensate then alot more muggleborns start popping up in areas magic is dwindling. If on the other hand there are alot of wizards around already purebloods who have kids are more like likely to have squibs. Nature/Magic likes to keep a particular balance. And Nature/Magic doesn't differentiate between muggleborn and pureblood. But wizards do. So even if muggleborns are still the minority more bigoted pure blood wizards will feel threatened by their population increasing significantly which in this theory it would after WW2 and again after the first war with Voldemort.
+:PROPERTIES:
+:Author: charls-lamen
+:Score: 13
+:DateUnix: 1607525795.0
+:DateShort: 2020-Dec-09
+:END:
+
+**** Check out the Returning Soldier Effect. When men die in war, babies of returning soldiers had more male babies born than females, which is weird.
+:PROPERTIES:
+:Author: DynMaxBlaze
+:Score: 7
+:DateUnix: 1607535692.0
+:DateShort: 2020-Dec-09
+:END:
+
+***** Had not heard of that its pretty interesting though. Nature is strange sometimes. So ya pretty much the same idea at least on the surface level not sure how the science of it works.
+
+But I mean if wizards are just a off shoot of humans then the world pretty much just decided to create a magical human one day. So if you go back through any pure blood bloodline for long enough at the start of it you're going to find a muggleborn. Or possibly a magical creature who had babies with a muggle. Don't think the purebloods would appreciate either of those concepts very much lol
+:PROPERTIES:
+:Author: charls-lamen
+:Score: 3
+:DateUnix: 1607538352.0
+:DateShort: 2020-Dec-09
+:END:
+
+
+** I think 2:12:6 (10%:60%:30%) for pure-bloods to half-bloods to muggleborns (before muggleborns killings and emigrations).
+
+There were 3 muggleborns in Harry's class of 40 students (a disputed number, but the best we have) -- that's 7.5% in a class where muggleborns were targeted in the first Voldemort war, so I think the natural muggleborn number is at least that.
+
+There aren't that many pure-bloods. In OotP, Sirius mentioned that "...there are hardly any of us [pure-bloods] left." And the Pure-Blood Directory, written in the 1930s, only found 28 families that were still pure-blood.
+
+If you introduce a certain number of muggleborns into a completely pure-blood society, then keep introducing them each generation, and let people marry randomly, you can calculate what percentage will remain pure-blood:
+
+#+begin_example
+  1% M -> 6% H, 93% P
+  2.5% M -> 14% H, 84% P
+  5% M -> 25% H, 70% P
+  7.5% M -> 34% H, 58% P
+  10% M -> 42% H, 48% P
+  15% M -> 53% H, 32% P
+  20% M -> 59% H, 21% P
+  25% M -> 62% H, 13% P
+  30% M -> 62% H, 8% P
+#+end_example
+
+The number of muggleborns can have such a great effect on the number of pure-bloods because of the strict rules: no muggles /or muggleborns/ for parents or grandparents. So if muggleborns are "first-generation" wizards, then you have "second-generation" half-bloods and "third-generation" half-bloods before you get to pure-bloods. Thus each muggleborn can "taint" up to four grandchildren (assuming constant population). The child chart looks like this (it's harder for pure-bloods to stay pure-blood, but easier to remain/reset to second-generation, though also weighted by demographics):
+
+#+begin_example
+  – M 2 3 P
+  M 2 2 2 2
+  2 2 3 3 3
+  3 2 3 P P
+  P 2 3 P P
+#+end_example
+
+It's even worse for the pure-blood families who only marry other pure-bloods, rather than being willing to marry third-generation half-bloods whose children will be pure-bloods.
+
+Now consider that in the UK muggles went through a population explosion in the last couple centuries: from about 10 million in 1801 to over 50 million in the 1990s. If the number of muggleborns corresponds to the number of muggles, then the number of muggleborns entering could have quadrupled or quintupled while the wizarding population stayed the same. If muggleborns started at 5% (one or two muggleborns per year) and went to 25%, the pure-blood population would have plummeted from 70% to 13% -- and pure-bloods might start panicking.
+:PROPERTIES:
+:Author: munin295
+:Score: 12
+:DateUnix: 1607520633.0
+:DateShort: 2020-Dec-09
+:END:
+
+*** u/TheLetterJ0:
+#+begin_quote
+  And the Pure-Blood Directory, written in the 1930s, only found 28 families that were still pure-blood.
+#+end_quote
+
+And by the end of the books, quite a few of those are gone. The Gaunts are extinct, the Blacks have been absorbed into other families, the Crouches are extinct, the Lestranges are almost certainly extinct, the Ollivanders have married muggleborns, and at least one Weasley has married a muggleborn.
+
+Furthermore, unless there are extra siblings, cousins, children, or other relatives sharing the name that we don't know about, then the Carrows (Flora and Hestia aren't canon, and they would probably take their husbands' names anyway) and Slughorns likely are or will be extinct, and the Prewetts, Abbotts (Rowling once said Hannah was a half-blood anyway), Greengrasses, and Parkinsons likely have been or will be absorbed into other families.
+
+So that's six to twelve of the Sacred Twenty-Eight that probably wouldn't qualify for the list anymore. And sure, some other families might have become pure enough or immigrated to Britain since that list was made, but I think it still clearly shows that pureblood lines are dying out or becoming less pure as time goes on.
+:PROPERTIES:
+:Author: TheLetterJ0
+:Score: 4
+:DateUnix: 1607531019.0
+:DateShort: 2020-Dec-09
+:END:
+
+**** also the Sacred Twenty-Eight was only for Britain
+
+it didn't include other countries purebloods
+:PROPERTIES:
+:Author: CommanderL3
+:Score: 1
+:DateUnix: 1607556868.0
+:DateShort: 2020-Dec-10
+:END:
+
+
+** Going by the definition of "pure-blood = grandparents are all magical", then:
+
+- 80% pure-blood
+
+- 15% half-blood
+
+- 5% Muggleborn
+
+Reasoning: pure-blood is the equilibrium position towards which all families will trend.
+
+Take the Potter family. A wizarding family into which a Muggleborn marries. Her child (Harry) is a half-blood. Harry marries Ginny, a witch from a wizarding family. Their children are pure-bloods (grandparents: Lily, James, Arthur, Molly, all of whom are magical).
+
+So within 2 generations of Muggle blood entering a wizarding family, that family has reverted to being pure-blood.
+
+This will hold so long as wizard-wizard marriage remains predominant, with marriage to Muggles and Muggleborns a minority. The "Muggle blood" introduced to wizarding family will always be "bred out". The only way pure-blood families will reduce permanently is if wizards start marrying Muggles in much greater numbers.
+:PROPERTIES:
+:Author: Taure
+:Score: 15
+:DateUnix: 1607522138.0
+:DateShort: 2020-Dec-09
+:END:
+
+*** Except people who actually care about blood purity won't consider Harry's children to be pure-blood because to them a Muggle-born is just as much of a Mudblood as a Muggle. Harry's grandchildren could potentially be pure-bloods, but they wouldn't be considered as pure-bloods themselves.
+:PROPERTIES:
+:Author: SnobbishWizard
+:Score: 2
+:DateUnix: 1607527658.0
+:DateShort: 2020-Dec-09
+:END:
+
+**** u/Taure:
+#+begin_quote
+  Except people who actually care about blood purity won't consider Harry's children to be pure-blood because to them a Muggle-born is just as much of a Mudblood as a Muggle. Harry's grandchildren could potentially be pure-bloods, but they wouldn't be considered as pure-bloods themselves.
+#+end_quote
+
+As I say:
+
+#+begin_quote
+  Going by the definition of "pure-blood = grandparents are all magical", then:
+#+end_quote
+
+There are two definitions of the term "pure-blood", both of which JKR has endorsed.
+
+There's the "biological" definition, using the grandparents requirement, which seems to be the "standard" definition to the extent that there is one. JKR took this directly from the Nazis.
+
+But then on top of that, there's the more complex political definition, the one used by e.g. Bellatrix, where any connection to Muggles is enough to taint your blood. This is essentially not about ancestry at all, but rather about commitment to pure-blood supremacist ideology, because all wizards have some connection to Muggles at some point. The only way to have no connection to Muggles and thereby qualify as a pure-blood by this definition is to /pretend/ that your connections to Muggles don't exist. And the only requirement to engage in that collective delusion is willingness to do so.
+
+So long as you're politically aligned with the Death Eaters, they're happy to pretend that your ancestry is whatever you claim it to be - see Umbridge's pretending to be connected to the Selwyn family in DH, or Hagrid's reference to Voldemort wanting to recruit Lily to the Death Eaters in PS. At first blush that seems absurd - a Muggleborn Death Eater - but that's not how it would go down. Rather, had Lily been willing to join up, no doubt someone would have "discovered" a long-lost connection to a pure-blood magical family for her - just like Umbridge's Selwyn connection - and she would have been embraced as a half-blood.
+:PROPERTIES:
+:Author: Taure
+:Score: 11
+:DateUnix: 1607529448.0
+:DateShort: 2020-Dec-09
+:END:
+
+
+** 60% Pureblood
+
+30% Half-Blood
+
+10% Muggleborn
+
+(This is a global statistic)
+
+Of course, this is just a headcanon, but this population statistic ties in how I see/would like to see the rest of the world. Something that bothers me in fics that I constantly see, is that authors tend to think pure blood = nobility, and demographically that kinda takes me out of the immersion in the world
+:PROPERTIES:
+:Author: raapster
+:Score: 6
+:DateUnix: 1607533691.0
+:DateShort: 2020-Dec-09
+:END:
+
+
+** To me, half-bloods are around 70-75% of the population with pure-bloods following at around 15-20% and Muggle-borns being the smallest group of the population. Muggle-borns *have* to be the smallest percentage of the population because you can only be born randomly as a Muggle-born but you can marry yourself for your children to be pure-blood and this only requires a couple of generation to do so (3 or so) for anyone.
+:PROPERTIES:
+:Author: SnobbishWizard
+:Score: 4
+:DateUnix: 1607528527.0
+:DateShort: 2020-Dec-09
+:END:
+
+
+** Mine has always been most of the half bloods then muggle borns and finally purebloods making up the smallest group.
+
+The reason for this is that (dont know if this is canon, or fandom, or headcanon) that purebloods dont seem to have many children so their numbers wouldbt grow that much. Every muggle born whoe entered the wizarding world would produce half blood children whether they married other muggle borns, purebloods, or muggles. And if the muggleborns were small numbered they wouldnt be able to influence the world that much pretty much taking away the reason to hate them.
+
+Muggleborns enter as kids, all their money from the muggle world has to be transferred over to the wizarding world so any family money could easily be cut down drastically by limits to the amount of money able to be exchanged in a year or any other law preventing them from using muggle money to get power in the wizarding world. This makes it so they are essentially starting off poor and having to grow their influence from scratch. While the pure blood wizards have generations to accumulate wealth and power.
+
+So muggleborns if they were in small numbers would go to school at 11 be raised with the majority of their classmates being wizards raised on wizarding values, most of their teachers raised on wizarding values, most likely any future spouse raised on wizarding values. The chance of them keeping thoughs values would be small.
+
+If it was in a wizarding world where if both your grand parents were wizard you would be considered a pure blood than I would think each group would be about even at 33% of the population. Any more strictly defining pure bloods I would say that half bloods would grow in number. And if it had pureblood being determined as both parent being wizards (obviously not canon) pureblood would be most prevalent with halfbloods being extremely rare (unless you changed society to increase the amount of wizard that would have children with muggles)
+
+TLDR muggle borns 33% no matter what and depending on how society defines purebloods what the half blood vs pureblood ratio would be.
+:PROPERTIES:
+:Author: sue7698
+:Score: 5
+:DateUnix: 1607519104.0
+:DateShort: 2020-Dec-09
+:END:
+
+*** ??
+
+You don't need that big of a minority population to hate them.
+
+Real world example: Do you think 33% of the uk is Black or Asian? Does it stop idiots from being racists?
+:PROPERTIES:
+:Author: MiddleDoughnut
+:Score: 0
+:DateUnix: 1607563366.0
+:DateShort: 2020-Dec-10
+:END:
+
+**** No but the reason they hate them (or the reason I always thought) was that they change everything about the wizarding world (the traditions such as Yule vs Christmas) if they were a small portion (a portion that comes in at eleven and spends the majority of the year surrounded by the wizarding world culture). The would not keep the muggle culture or be able to influence the culture if theh were an extremely small group. They could still hate them sure but it wouldnt be for changing the wizarding world with muggle views.
+:PROPERTIES:
+:Author: sue7698
+:Score: 1
+:DateUnix: 1607565352.0
+:DateShort: 2020-Dec-10
+:END:
+
+
+** In my Headcannon: Pureblood=No known muggle ancestors Muggleborn=No known magical ancestors Halfblood=Everthing else that is not a Pureblood or a muggleborn.
+
+Demographics wise: 50% Halfbloods 35%Purebloods 15%Muggleborns.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1607536463.0
+:DateShort: 2020-Dec-09
+:END:
+
+
+** I'm my heavily fanfic influenced headcanon true muggleborns are very rare and most of the supposed muggleborns are squip related or wizard rape obliviate related
+:PROPERTIES:
+:Author: AntisocialNyx
+:Score: 1
+:DateUnix: 1607528109.0
+:DateShort: 2020-Dec-09
+:END:
+
+
+** I agree with someone below. Muggleborns are Squibborns in my personal head cannon. that being said I see it as 30/50/20 squib/half/pure
+:PROPERTIES:
+:Author: Gilrand
+:Score: 1
+:DateUnix: 1607529360.0
+:DateShort: 2020-Dec-09
+:END:
+
+*** Would a child of a Squib and a Muggle be a Muggleborn or a half-blood? And what about a Squib and a pureblood? Would they be a pureblood (depending on if the Squib came from a pureblood family) or a half-blood?
+:PROPERTIES:
+:Author: CyberWolfWrites
+:Score: 1
+:DateUnix: 1607698546.0
+:DateShort: 2020-Dec-11
+:END:
+
+
+** I figured it would be 25% pureblood 50% half and 25% muggleborn, but numbers are off in present gen due to recent wars
+:PROPERTIES:
+:Author: mekareami
+:Score: 1
+:DateUnix: 1607531908.0
+:DateShort: 2020-Dec-09
+:END:
+
+
+** On the Harry Potter Wiki, there are 18 pages of Muggle-borns, 47 pages of Half-bloods, and 178 pages of Pure-bloods, however, the data is completely distorted by our knowledge of the Black family tree.
+
+A much better metric would be the students in Harry's year:
+
+- Muggle-borns: 2 (Hermione and Justin)
+- Half-bloods: 14
+- Pure-bloods: 10
+- Half- or Pure-bloods (uncertain): 10
+- Unknown: 18
+
+So this the leaves approximate ratios of 6:55:39.
+:PROPERTIES:
+:Author: krmarci
+:Score: 1
+:DateUnix: 1607533866.0
+:DateShort: 2020-Dec-09
+:END:
+
+*** Taking into consideration the "Original 40" JK Rowling drew up for her classmates, you could narrow it down a bit more and some of the estimates are off.
+
+Hanna Abbot, Susan Bones, Lavender Brown, Stephen Cornfoot, Vincent Crabbe, Gregory Goyle, Daphne Greengrass, Neville Longbottom, Ernest Macmillan, Draco Malfoy, Theodore Nott, Pansy Parkinson, Padma and Parvati Patil, Zacharias Smith, Ronald Weasley, and Blaise Zabini are all purebloods. That's 17.
+
+Mandy Brocklehurst, Millicent Bulstrode, Michael Corner, Tracey Davis, Seamus Finnigan, Anthony Goldstein, Wayne Hopkins, Megan Jones, Su Li, Morag MacDougal, Harry Potter, and Dean Thomas are all half-bloods. That's 12.
+
+Kevin Entwhistle, Justin Finch-Fletchley, and Hermione Granger are all Muggleborns. That's 3.
+
+Terry Boot, Roger Malone, Lily Moon, Sally-Anne Perks, Oliver Rivers, A. Runcorn, Sophie Rober, and Lisa Turpin are all unknowns. That's 8.
+
+Terry Boot, as he was at the Hogwarts during his seventh year, was most likely a half-blood or a pureblood as no Muggleborns were allowed at the time.
+
+Lily Moon is at least a half-blood as there are at least two other mentions of people with the last name Moon in Harry Potter.
+
+Sally-Anne Perks may be a half-blood or a pureblood as there is a character with the last name Perks in the /Fantastic Beasts: Cases from the Wizarding World/ game.
+
+A. Runcorn is most likely a pureblood as her relative Albert Runcorn worked at the Ministry which very much supported prejudice against Muggles and Muggleborns Voldemort's reign.
+
+Many people also tend to agree that Oliver Rivers and Sophie Rober are Muggleborns and that Lisa Turpin, Lily Moon, and Terry Boot are Halfbloods. Roger Malone could easily be any of the three blood types, but I'd just make him a half-blood.
+
+That would make the final count (if you take in the suggestions and beliefs of others):
+
+18 for purebloods
+
+16 for half-bloods
+
+5 for Muggleborns
+:PROPERTIES:
+:Author: CyberWolfWrites
+:Score: 3
+:DateUnix: 1607698332.0
+:DateShort: 2020-Dec-11
+:END:
+
+
+** In scientific terms; little bit of muggleborn, just a tad pureblood and whole lot of halfblood.
+:PROPERTIES:
+:Author: carelesslazy
+:Score: 1
+:DateUnix: 1607534277.0
+:DateShort: 2020-Dec-09
+:END:
+
+
+** 5% actually muggleborns, 10% muggleborns that are the decentdents of squibs&magcials haveing one night stands with muggles(in other words half bloods that think they are muggle borns),50%halfbood and 35%pureblood.
+
+I guess it also depends on if the amount of muggleborns have gone up with the muggles massive population boom of the last few centuries.
+:PROPERTIES:
+:Author: Call0013
+:Score: 1
+:DateUnix: 1607534405.0
+:DateShort: 2020-Dec-09
+:END:
+
+*** I added a percentage for Squibs, late-bloomers, and Vampires to mine. It's just 1%, though.
+:PROPERTIES:
+:Author: CyberWolfWrites
+:Score: 2
+:DateUnix: 1607695490.0
+:DateShort: 2020-Dec-11
+:END:
+
+
+** I always go for the ratio Rowlings Original 40 showed (or at least the part that is known). That would be (rounded) 20% Muggelborn, 30% Pureblood, 50% Halfblood.
+:PROPERTIES:
+:Author: Serena_Sers
+:Score: 1
+:DateUnix: 1607540925.0
+:DateShort: 2020-Dec-09
+:END:
+
+
+** I don't have a number, but I can definitely see the number of muggleborn staying in magical society after education being effectively nil as of the late 90's.
+
+Mundane society has progressed too far to effectively straddle the line.
+:PROPERTIES:
+:Author: datcatburd
+:Score: 1
+:DateUnix: 1607571607.0
+:DateShort: 2020-Dec-10
+:END:
+
+
+** For the wizarding world population in Britain, I'd say that the /old/ purebloods with families going back centuries are like 4%, recent purebloods ranging from first-generation (meaning they have a Muggleborn or Muggle great-grandparent) to having witch/wizard parents going back to around a hundred and fifty to two hundred years ago as around 20%, then the half-bloods are around 65%, the Muggleborn being 10%, with the leftover 1% being for Squibs, late-bloomers, and vampires. Werewolves would count in the first four categories.
+
+Now, say that there are around 15,000 witches and wizards in Britain in the twentieth century. That means that there are 600 old purebloods, 3,000 newer purebloods, 9,750 half-bloods, 1,500 Muggleborn, and 150 Squibs.
+
+Edit: I'd actually say, that in 1991, that there are probably at least 9,000-10,000 witches and wizards in the UK due to the war. JK Rowling said that she estimated there to be around 600-700 students in Hogwarts in when Harry joined. Doing some quick math, that would mean that there are 28 purebloods, 140 newer purebloods (making it 168 purebloods in total), 455 half-bloods, and 70 Muggleborns.
+:PROPERTIES:
+:Author: CyberWolfWrites
+:Score: 1
+:DateUnix: 1607588041.0
+:DateShort: 2020-Dec-10
+:END:
+
+
+** I have always stubbornly ignored the canon numbers and JK's statements about the population of Magical Britain and the Magical world in general. I headcanon that there are close to one million wizards in the British Isles alone, and that there are tens of thousands (if not even more) of Pureblood families. The Sacred 28 are simply really old families that were actually of noble status before the Statute of Secrecy. I never really thought about ratios, though.
+
+There has long been this scene floating in my head where Hermione is absolutely stunned when she learns the Weasleys are actually part of the 28 and Ron gets really annoyed over her reaction, thinking it's because they are poor and lead a simple life. And she just tries to fix it saying there are thousands of Pureblood families, and she simply never looked into it.
+:PROPERTIES:
+:Author: TheSerpentLord
+:Score: 1
+:DateUnix: 1607531729.0
+:DateShort: 2020-Dec-09
+:END:
+
+*** It wouldn't make sense if there were a million wizards in the British Isles, though. Hogwarts only has at least a hundred students and at most seven hundred and it's the only school in the UK.
+:PROPERTIES:
+:Author: CyberWolfWrites
+:Score: 2
+:DateUnix: 1607698476.0
+:DateShort: 2020-Dec-11
+:END:
+
+**** I also diligently ignore the canon on Hogwarts being the only school in UK. I headcanon that there are a lot more, but Hogwarts is by far the best and oldest, and everyone that will become anyone in their society attends it.
+
+I just can't bring myself to have any sort of investment in a story about a civilization that can't even fill up a skyscraper.
+:PROPERTIES:
+:Author: TheSerpentLord
+:Score: 1
+:DateUnix: 1607698801.0
+:DateShort: 2020-Dec-11
+:END:
+
+***** I agree with that. I once read something where someone's headcanon was that the only reason that the Weasleys were so poor was because they wanted to send all of their children to the best school possible; Hogwarts. That Hogwarts is basically an Ivy League school that most people with considerable money go to and that has a high tuition. A fanfiction I read mentioned guilds and trade schools where they taught the basics of varying subjects and different trades like rune-carving, broom-making, and some-such. It puts things into perspective, doesn't it? Imagine how different you'd view the Weasleys after learning that they spent most of their fortune to give their children the best schooling possible and then look at Ron, who put barely any effort into his schooling.
+:PROPERTIES:
+:Author: CyberWolfWrites
+:Score: 3
+:DateUnix: 1607713091.0
+:DateShort: 2020-Dec-11
+:END:

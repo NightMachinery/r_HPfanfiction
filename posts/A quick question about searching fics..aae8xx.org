@@ -1,0 +1,73 @@
+#+TITLE: A quick question about searching fics.
+
+* A quick question about searching fics.
+:PROPERTIES:
+:Author: barcastaff
+:Score: 7
+:DateUnix: 1546030536.0
+:DateShort: 2018-Dec-29
+:FlairText: Discussion
+:END:
+I used to be on ffn all the time, and their filter is relatively easy to use and precise for the most part. However I really struggle in ao3 and Hpff, as ao3's filter is pretty complicated and it's really hard to find good fics(sort by kudos or bookmarks doesn't help, some great fics only have tens of kudos), and Hpff's filter is wayyy too simple. Any tips for me to find fics in places other than ffn?
+
+PS. Wattpad is even harder. The tag system doesn't even make sense to me.
+
+
+** I don't think you're ever going to find a filter that can sort on something as subjective as quality. For AO3, I suggest making extensive use of their "exclude" option to get rid of characters/pairings/additional tags you don't care for, and then slogging through what's left. Additionally, if you find an author you like, take a look at their bookmarks - that's how I've found a lot of lesser-known stuff.
+:PROPERTIES:
+:Author: siderumincaelo
+:Score: 8
+:DateUnix: 1546032729.0
+:DateShort: 2018-Dec-29
+:END:
+
+*** You are absolutely right about checking out bookmarks by authors. That's how I find out some of my favourite fics. But I'm not sure if I'm patient enough to go over fics in ao3 that way tho :(
+:PROPERTIES:
+:Author: barcastaff
+:Score: 2
+:DateUnix: 1546033389.0
+:DateShort: 2018-Dec-29
+:END:
+
+
+*** I second going through author's bookmarks! I frequently check to see what my favourite authors are reading; if you like someone's fics, chances are they read stories with similar pairings/themes :)
+:PROPERTIES:
+:Author: simonjpg
+:Score: 1
+:DateUnix: 1546044435.0
+:DateShort: 2018-Dec-29
+:END:
+
+
+** You can set up a search once and then get back to it by simply bookmarking it. For example, here's roughly what I would use for a general fic search:
+
+[[https://archiveofourown.org/works?utf8=%E2%9C%93&commit=Sort+and+Filter&work_search%5Bsort_column%5D=kudos_count&work_search%5Bother_tag_names%5D=&exclude_work_search%5Bwarning_ids%5D%5B%5D=18&exclude_work_search%5Bwarning_ids%5D%5B%5D=19&exclude_work_search%5Bcategory_ids%5D%5B%5D=23&exclude_work_search%5Bfandom_ids%5D%5B%5D=5909696&exclude_work_search%5Bfandom_ids%5D%5B%5D=7625681&exclude_work_search%5Bfandom_ids%5D%5B%5D=11055523&exclude_work_search%5Bcharacter_ids%5D%5B%5D=966&exclude_work_search%5Bcharacter_ids%5D%5B%5D=1049&exclude_work_search%5Bcharacter_ids%5D%5B%5D=1589&exclude_work_search%5Brelationship_ids%5D%5B%5D=2390&exclude_work_search%5Brelationship_ids%5D%5B%5D=3458&exclude_work_search%5Brelationship_ids%5D%5B%5D=5536&exclude_work_search%5Brelationship_ids%5D%5B%5D=8905&exclude_work_search%5Brelationship_ids%5D%5B%5D=10760&exclude_work_search%5Brelationship_ids%5D%5B%5D=30706&exclude_work_search%5Brelationship_ids%5D%5B%5D=36704&exclude_work_search%5Brelationship_ids%5D%5B%5D=107187&exclude_work_search%5Brelationship_ids%5D%5B%5D=965881&exclude_work_search%5Bfreeform_ids%5D%5B%5D=176&exclude_work_search%5Bfreeform_ids%5D%5B%5D=1469&work_search%5Bexcluded_tag_names%5D=&work_search%5Bcrossover%5D=F&work_search%5Bcomplete%5D=&work_search%5Bwords_from%5D=1000&work_search%5Bwords_to%5D=&work_search%5Bdate_from%5D=&work_search%5Bdate_to%5D=&work_search%5Bquery%5D=&work_search%5Blanguage_id%5D=1&tag_id=Harry+Potter+-+J*d*+K*d*+Rowling][Link]] (that link has 1468 characters unshortened)
+
+You can, obviously, change it to whatever you want or make your own. Maybe you don't mind CC or Ron/Hermione, or anything really. It is not a guarantee for quality, but by purging anything you hate, you are left with things you generally enjoy. Just set it up once and enjoy quicker browsing in the future.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 3
+:DateUnix: 1546036187.0
+:DateShort: 2018-Dec-29
+:END:
+
+
+** If you think you've drained all that there is on FFN, think again with this thing :)
+
+[[https://github.com/Zeks/flipper/releases/download/client_0.9.6.1/flipper_client_0.9.6.1.7z]]
+
+[[https://docs.google.com/document/d/1rEXQBQnDbFljBTAea_Ljbq731OGUDjHoew2s9jmj2tk/edit]]
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1546031515.0
+:DateShort: 2018-Dec-29
+:END:
+
+*** Thanks I'll check it out once I get hold of my PC. I do have a funny feeling about anything from GitHub tho
+:PROPERTIES:
+:Author: barcastaff
+:Score: 1
+:DateUnix: 1546033543.0
+:DateShort: 2018-Dec-29
+:END:

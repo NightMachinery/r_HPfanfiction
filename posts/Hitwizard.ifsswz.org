@@ -1,0 +1,124 @@
+#+TITLE: Hitwizard
+
+* Hitwizard
+:PROPERTIES:
+:Author: Aniki356
+:Score: 3
+:DateUnix: 1598288040.0
+:DateShort: 2020-Aug-24
+:FlairText: Discussion
+:END:
+Where did that term come from in canon? I see it all the time in fics but indont recall it innthe books. At most I remember was harry being told Aurors were elites and that regular magical law enforcement would arrest the guy setting up the exploding toilets. But often in fics I see Aurors treated as bog standard magical police and hitwizards as the elite forces. Sometimes hitwizards as the equivalent of department of mysteries wet work agents. Anyone know where the term originated or is it just a fanon creation like the notice me not spell?
+
+
+** Fudge mentions sending hitwizards after Sirius IIRC. This was before Aurors were properly introduced so hitwizards was likely a early name for them
+:PROPERTIES:
+:Author: Bleepbloopbotz2
+:Score: 11
+:DateUnix: 1598288406.0
+:DateShort: 2020-Aug-24
+:END:
+
+*** That makes sense. I really need to reread the actual books cause I keep blending canon and fanon
+:PROPERTIES:
+:Author: Aniki356
+:Score: 2
+:DateUnix: 1598288538.0
+:DateShort: 2020-Aug-24
+:END:
+
+
+*** Hmm, could you give me the chapter and verse, please? I cannot find the word “hitwizard” mentioned anywhere in JKR book (including the Cursed Child).
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1598290954.0
+:DateShort: 2020-Aug-24
+:END:
+
+**** Ah, my mistake, it is “hit wizard”: ``` Knihy@stitny$ epubgrep -i 'hit wizard' *.epub harry_potter_3_harry_potter_and_the_prisoner_of_az.epub 9. The Marauder's Map:
+
+<p class="MsoNormal2"><span class="sgc4">“You don't know what you're talking about, Hagrid,” said Fudge sharply. “Nobody but trained Hit Wizards from the Magical Law Enforcement Squad would have stood a chance against Black once he was cornered. I was Junior Minister in the Department of Magical Catastrophes at the time, and I was one of the first on the scene after Black murdered all those people. I --- I will never forget it. I still dream about it sometimes. A crater in the middle of the street, so deep it had cracked the sewer below. Bodies everywhere. Muggles screaming. And Black standing there laughing, with what was left of Pettigrew in front of him ... a heap of bloodstained robes and a few --- a few fragments ---”</span></p> Knihy@stitny$ ```
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1598291255.0
+:DateShort: 2020-Aug-24
+:END:
+
+***** Based on this and what mr weasley said in ootp I'd say that hit wizard a step below auror. Hit wizards for dangerous criminals Aurors for dangerous criminals that have a tendency towards darker magics.
+:PROPERTIES:
+:Author: Aniki356
+:Score: 3
+:DateUnix: 1598293470.0
+:DateShort: 2020-Aug-24
+:END:
+
+****** I always took Hitwizards to be akin to SWAT, combat specialist. With Aurors being more like FBI, hunting dark wizards, but being just as able to throw down once they find them. Then there's presumably regular wizard cops we never see in canon.
+:PROPERTIES:
+:Author: streakermaximus
+:Score: 4
+:DateUnix: 1598343953.0
+:DateShort: 2020-Aug-25
+:END:
+
+******* You would be happy to know that Wizard Cops made it to the musical at least :D
+
+[[https://64.media.tumblr.com/3697b86c44c4c2ec244ff607d7180417/tumblr_mrdjkiWLib1sx6s58o1_400.gifv][Very HP Musical]]
+:PROPERTIES:
+:Author: MoDthestralHostler
+:Score: 1
+:DateUnix: 1598357409.0
+:DateShort: 2020-Aug-25
+:END:
+
+
+****** I wouldn't say “step below”. [[https://image.cnbcfm.com/api/v1/image/101416719-469273677.jpg?v=1532564535&w=740&h=416][These guys]] are step below from [[https://britishtvdetectives.blogspot.com/2016/07/dalgliesh-tv-series-review.html][this guy]], they are just different job. I think Aurors are closer to Scotland Yard (or perhaps in combination with MI5), whereas Hit Wizards are more SAS or guys you want for pure force, and a lot of it.
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1598297218.0
+:DateShort: 2020-Aug-24
+:END:
+
+******* I'd say its the other way around. They always say the Aurors are elite. Not much on hit wizards but moody went up against the inner circle and according to mcg the Aurors hadn't accepted a new cadet in years as of ootp
+:PROPERTIES:
+:Author: Aniki356
+:Score: 2
+:DateUnix: 1598297371.0
+:DateShort: 2020-Aug-24
+:END:
+
+******** I don't think we are in the conflict. There are certainly less Adam Dalglishes in the world than the riot policemen, but I would be hesitant to the one is better than the other, they just do two different tasks. And yes, certainly Aurors (because of small number of wizards/witches in the world they have to combine more roles in one department) like for example Mad-Eye Moody was not just brains.
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1598302056.0
+:DateShort: 2020-Aug-25
+:END:
+
+
+***** What distro do you use?
+:PROPERTIES:
+:Author: copenhagen_bram
+:Score: 1
+:DateUnix: 1598323507.0
+:DateShort: 2020-Aug-25
+:END:
+
+****** openSUSE/Tumbleweed (I work for SUSE). But this is [[https://gitlab.com/mcepl/epubgrep.git][my own script]].
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1598337586.0
+:DateShort: 2020-Aug-25
+:END:
+
+
+** I always imagined aurors as doing investigation, detectivework, figuring out who was behind a crime and finally tracking down the dark wizards while hit wizards being more specialized towards combat doing bodyguard duty and war fighting.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 1
+:DateUnix: 1598488884.0
+:DateShort: 2020-Aug-27
+:END:

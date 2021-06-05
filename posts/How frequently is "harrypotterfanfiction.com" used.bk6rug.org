@@ -1,0 +1,177 @@
+#+TITLE: How frequently is "harrypotterfanfiction.com" used?
+
+* How frequently is "harrypotterfanfiction.com" used?
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1556878378.0
+:DateShort: 2019-May-03
+:FlairText: Discussion
+:END:
+The only platform I've posted my stories on is [[https://fanfiction.net][fanfiction.net]] but I'm contemplating sharing the same stories on different platforms. I rarely see anyone mentioning [[https://harrypotterfanfiction.com][harrypotterfanfiction.com]], so I was wondering if anyone could tell me if it's worth using it as a platform.
+
+
+** Go for AO3 instead, more people use it
+:PROPERTIES:
+:Author: LiriStorm
+:Score: 19
+:DateUnix: 1556880529.0
+:DateShort: 2019-May-03
+:END:
+
+*** I'll see if I can figure out how AO3 works
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1556881415.0
+:DateShort: 2019-May-03
+:END:
+
+**** If you need help with it, feel free to ask me! As someone who prefers reading on AO3 over basically every other platform, I'd love to help people figure it out. ♥
+:PROPERTIES:
+:Author: RebelMage
+:Score: 4
+:DateUnix: 1556882455.0
+:DateShort: 2019-May-03
+:END:
+
+***** If anybody knows about something like [[https://github.com/melinath/ao3-poster]] which would allow post to AO3 from the command line, I would be all the ears.
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1556884721.0
+:DateShort: 2019-May-03
+:END:
+
+****** What about that is not satisfactory? If there is enough interest, I could try to write it myself, or branch from that code.
+:PROPERTIES:
+:Author: RebelMage
+:Score: 1
+:DateUnix: 1556884936.0
+:DateShort: 2019-May-03
+:END:
+
+******* Well, it is not what I would like most:
+
+#+begin_example
+  $ ao3-poster story.rst
+#+end_example
+
+(credentials stored in some config file). That would be the ideal, I can settle of course for the file being HTML (or MarkDown, or even DOC, if anybody cares), but something in this style (again, the ideal would be the metadata picked up from the [[http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html#bibliographic-fields][docinfo]] part of the document, but I can settle for something else). Writing a text of a long story to one field in a spreadsheet seems a bit crazy to me.
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1556885444.0
+:DateShort: 2019-May-03
+:END:
+
+******** Hm, maybe I'll have a look at it this weekend. Because Sunday is Liberation Day here, my normal plans have been cancelled, I do have a free day... But this kind of thing isn't my area of expertise as a programmer, so it might not go anywhere.
+
+Do you use Windows, btw? If you're an a different OS, I don't know if whatever I can make would work for you.
+:PROPERTIES:
+:Author: RebelMage
+:Score: 1
+:DateUnix: 1556886026.0
+:DateShort: 2019-May-03
+:END:
+
+********* I work for SUSE as a Python packager (that's a Linux distribution). I would probably be able to write it myself, if having some time for it and if there is some description of something resembling API somewhere. Probably documenting the way how to make the website work would be the most time consuming part of the operation.
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1556898713.0
+:DateShort: 2019-May-03
+:END:
+
+
+***** Ohhh thank you so very much for that. I just uploaded one of my stories from [[https://ff.net][ff.net]] to AO3 to test it out. I also use CypressWand as my username on both platforms. If you want to take a look and tell me if there's anything I need to add (or remove), that would be great!
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1556882614.0
+:DateShort: 2019-May-03
+:END:
+
+****** Hm, I suppose I have three notes:
+
+1. You don't need to add A/N in front of the notes, since they're already listed under notes.
+2. Using something like " ...o0o..." for scene changes isn't wrong, of course, but I find my preference is for people to use line dividers. This is done by adding <hr> to the html formatting. (See [[https://archiveofourown.org/works/5191202?view_full_work=true][this work]] for more on HTML formatting.)
+3. Although there is the option not to use archive warnings, there may be some people who avoid stories like that. Don't actually know if there are, of course, but it doesn't take much longer to add them. (Unless you choose not to use them for a particular reason.)
+
+Other than that, it looks good! And none of these things are dealbreakers.
+:PROPERTIES:
+:Author: RebelMage
+:Score: 6
+:DateUnix: 1556883334.0
+:DateShort: 2019-May-03
+:END:
+
+******* Thank you for that. I erased the A/N and I changed the warning sign. I'll figure out how to use the HTML thing later (I'm a bit digitally impaired).
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1556883623.0
+:DateShort: 2019-May-03
+:END:
+
+******** There may be other ways to add it, but I haven't posted any fanfic in a long while. Anyway, as I said, not a necessity; I personally just find it looks a bit neater/more modern.
+:PROPERTIES:
+:Author: RebelMage
+:Score: 2
+:DateUnix: 1556883819.0
+:DateShort: 2019-May-03
+:END:
+
+
+******** There is also a button to add the scene divider in ao3 -- if you click on the "Rich Text" editor instead of the HTML one, there is a horizontal line icon between the block quote and bullet point icons.
+:PROPERTIES:
+:Author: Flye_Autumne
+:Score: 2
+:DateUnix: 1556895887.0
+:DateShort: 2019-May-03
+:END:
+
+
+** I use FFN and Ao3 myself. I've sometimes chosen to check out other fanfiction sites, to see if there's any interesting fics I haven't seen anywhere else, but whenever I search for things, all I see are reposts of fics I've seen on FFN or Ao3. So I just don't bother with other sites.
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 2
+:DateUnix: 1556979315.0
+:DateShort: 2019-May-04
+:END:
+
+*** Fair point. I started posting my stories from FFN on AO3 as of yesterday, but of course, they are the exact same stories. I'm going to stick with these two platforms from now on.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1556979577.0
+:DateShort: 2019-May-04
+:END:
+
+
+** Thanks everyone for the thoughts and feedback on [[https://Harrypotterfanfiction.com][Harrypotterfanfiction.com]]!
+
+-Ronnie\\
+Co-Founder of HPFF
+:PROPERTIES:
+:Author: FanfictionRecs
+:Score: 2
+:DateUnix: 1560011766.0
+:DateShort: 2019-Jun-08
+:END:
+
+*** Hi there! How is your website currently faring? Are there still a lot of frequent users?
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1560028164.0
+:DateShort: 2019-Jun-09
+:END:
+
+**** Hi there,
+
+This is Ronnie from HPFF/FFR - the site is still very much alive with upwards to eighty thousand users per month.
+
+Thanks for asking :].
+
+-Ronnie
+:PROPERTIES:
+:Author: FanfictionRecs
+:Score: 2
+:DateUnix: 1560052708.0
+:DateShort: 2019-Jun-09
+:END:

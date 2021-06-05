@@ -1,0 +1,193 @@
+#+TITLE: Are there spells to perform a detailed materials analysis of an object or substance?
+
+* Are there spells to perform a detailed materials analysis of an object or substance?
+:PROPERTIES:
+:Author: seylerius
+:Score: 8
+:DateUnix: 1479687064.0
+:DateShort: 2016-Nov-21
+:FlairText: Discussion
+:END:
+Are there spells to provide the following types of detailed information about an object or substance?
+
+- Ingredient breakdown of a potion (for example, "Bubotuber pus, Monkshood, etc.")
+- Chemical breakdown of a metal ("88% Copper, 12% Tin")
+- Exploded view of a mechanism
+- Interior view of a device
+- Breakdown of magics in use, by identifiable details about them ("sensors, relays, evocations, etc")
+- Any other special analysis spells that you think might be interesting
+
+I'll accept some from fandom as long as they make a /lot/ of sense. Thanks!
+
+
+** The only one from canon which comes to mind is the one that Slughorn mentioned in the antidotes class in HBP. It's called "Scarpin's Revelaspell" and it allows you to discover the ingredients in a potion. The spell works by physically separating a potion back into its ingredients:
+
+#+begin_quote
+  "She was now decanting the mysteriously separated ingredients of her poison into ten different crystal phials."
+#+end_quote
+
+The incantation may be "Specialis Revelio" as that's what Ernie Macmillan used in the same class, but it's possible Ernie was winging it with a different spell. In fact it's more than possible, as we've seen the spell "Specialis revelio" used in other contexts that have nothing to do with potions, such as when Hermione cast it on the Half-Blood Prince's book to check it for hidden curses etc. So that would be another example of such a "diagnostic" spell.
+:PROPERTIES:
+:Author: Taure
+:Score: 12
+:DateUnix: 1479688916.0
+:DateShort: 2016-Nov-21
+:END:
+
+
+** Remember that Harry Potter spells never give /direct/ information. Even Scarpin's Revealaspell works by just separating the ingredients physically. The Caster is the one who has to identify the ingredients.
+
+You can choose to ignore this of course, but it is something to keep in mind while making spells.
+:PROPERTIES:
+:Author: Conneron
+:Score: 3
+:DateUnix: 1479733644.0
+:DateShort: 2016-Nov-21
+:END:
+
+*** Yeah, I like this. I'm all for making my SI's life complicated, because /being SI is suffering/, as always. What do you think of the synesthesic material revealer idea described above?
+:PROPERTIES:
+:Author: seylerius
+:Score: 1
+:DateUnix: 1479743848.0
+:DateShort: 2016-Nov-21
+:END:
+
+**** I don't like the glowing letters.
+
+If you do want to do it, then I'd suggest something like a magical object instead of a spell. Have the user put a small vial of the potion into the machine. The machine whirrs, bops, puffs a puff of smoke and dinkydinks, before it blurts out a strip of paper from a little slot containing all the materials and chemical breakdown of the potion.
+
+Its upto you, but I kinda like to avoid glowing letters or direct information spells, since they don't really fit with the charming, kinda old timey aesthetic of the universe.
+:PROPERTIES:
+:Author: Conneron
+:Score: 2
+:DateUnix: 1479745567.0
+:DateShort: 2016-Nov-21
+:END:
+
+***** Nah, not the half-assed thing I mentioned in the OP, but the synesthesic seeming one in the comments. Colored blob, tastes, smells, sounds, etc.
+:PROPERTIES:
+:Author: seylerius
+:Score: 1
+:DateUnix: 1479746083.0
+:DateShort: 2016-Nov-21
+:END:
+
+****** It sounds cool.
+:PROPERTIES:
+:Author: Conneron
+:Score: 2
+:DateUnix: 1479746969.0
+:DateShort: 2016-Nov-21
+:END:
+
+
+***** Tkannelid came up with the idea, iirc.
+:PROPERTIES:
+:Author: seylerius
+:Score: 1
+:DateUnix: 1479746150.0
+:DateShort: 2016-Nov-21
+:END:
+
+
+** Depends. If you want canon spells, there isn't any, but if you want fanfiction ones there are plenty to choose from.
+:PROPERTIES:
+:Author: Skeletickles
+:Score: 4
+:DateUnix: 1479688018.0
+:DateShort: 2016-Nov-21
+:END:
+
+*** It seems like the kind of thing that would /have/ to exist, so I almost feel justified in making a few up.
+:PROPERTIES:
+:Author: seylerius
+:Score: 1
+:DateUnix: 1479688535.0
+:DateShort: 2016-Nov-21
+:END:
+
+
+** I could have sworn "Specialis Revelio" was canon. It does exactly what the first on your list describes.
+
+Edit: My Google-Fu tells me it is canon. Used in Half-Blood Prince (unsuccessfully).
+
+[[http://wiki.unknowableroom.org/Specialis_Revelio]]
+:PROPERTIES:
+:Author: SoulxxBondz
+:Score: 4
+:DateUnix: 1479688722.0
+:DateShort: 2016-Nov-21
+:END:
+
+
+** If you create your own, you might consider doing something more interesting and arcane than glowing words in the air saying "88% Copper, 12% Tin".
+
+For instance, you perform the spell. A colored blob of light appears. The shape and color of the blob give you information about the material. Additionally, for transition metals, the spell emits a "whoop whoop" sound; for halogens, it buzzes; for lanthanides, you taste salt; if it's alkaline, your teeth vibrate. There are books full of tables describing effects and what they mean.
+
+I know magic is typically convenient, but I like it on the idiosyncratic side.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1479702974.0
+:DateShort: 2016-Nov-21
+:END:
+
+*** Oooh. I like this one. Synaesthetic material revealer.
+:PROPERTIES:
+:Author: seylerius
+:Score: 1
+:DateUnix: 1479703447.0
+:DateShort: 2016-Nov-21
+:END:
+
+
+** u/MacsenWledig:
+#+begin_quote
+  Ingredient breakdown of a potion (for example, "Bubotuber pus, Monkshood, etc.")
+#+end_quote
+
+The second half of Chapter Seven from [[https://www.fanfiction.net/s/8101469/7/Hermione-Granger-is-Stupid][Hermione Granger is Stupid]] has Harry use a [[https://www.hp-lexicon.org/magic/scarpins-revelaspell/][canon spell]] in Potions class to identify ingredients in a poison. I think it's a remarkable scene from an author who only glanced through HBP.
+
+linkffn(8101469)
+
+As far as your other requests, there's nothing in canon as JKR doesn't know anything about science. The only hard and fast rule is that a spell can do whatever the author wants it to do.
+:PROPERTIES:
+:Author: MacsenWledig
+:Score: 0
+:DateUnix: 1479694239.0
+:DateShort: 2016-Nov-21
+:END:
+
+*** [[http://www.fanfiction.net/s/8101469/1/][*/Hermione Granger is Stupid/*]] by [[https://www.fanfiction.net/u/971034/Ruinus][/Ruinus/]]
+
+#+begin_quote
+  Set during 6th year, Hermione gets help from two people she least expected and realizes she's in love with the wrong guy.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 19 *|* /Words/: 154,211 *|* /Reviews/: 599 *|* /Favs/: 1,399 *|* /Follows/: 860 *|* /Updated/: 12/19/2012 *|* /Published/: 5/9/2012 *|* /Status/: Complete *|* /id/: 8101469 *|* /Language/: English *|* /Genre/: Romance *|* /Characters/: <Harry P., Hermione G.> *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8101469&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8101469&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1479694253.0
+:DateShort: 2016-Nov-21
+:END:
+
+
+*** u/Skeletickles:
+#+begin_quote
+  Hermione Granger is Stupid
+#+end_quote
+
+I died laughing.
+:PROPERTIES:
+:Author: Skeletickles
+:Score: 0
+:DateUnix: 1479735651.0
+:DateShort: 2016-Nov-21
+:END:

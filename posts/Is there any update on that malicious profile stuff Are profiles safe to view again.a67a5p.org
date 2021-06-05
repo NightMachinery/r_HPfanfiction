@@ -1,0 +1,35 @@
+#+TITLE: Is there any update on that malicious profile stuff? Are profiles safe to view again?
+
+* Is there any update on that malicious profile stuff? Are profiles safe to view again?
+:PROPERTIES:
+:Author: AndromedaMarine
+:Score: 2
+:DateUnix: 1544811095.0
+:DateShort: 2018-Dec-14
+:END:
+
+** All seems to have died down.
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 8
+:DateUnix: 1544811411.0
+:DateShort: 2018-Dec-14
+:END:
+
+
+** It has been fixed a few weeks ago and they supposedly made a big security review afterwards.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 3
+:DateUnix: 1544813340.0
+:DateShort: 2018-Dec-14
+:END:
+
+
+** [[https://twitter.com/FictionPress/status/1055293042092109827][It was fixed.]]
+:PROPERTIES:
+:Author: Hellrespawn
+:Score: 2
+:DateUnix: 1544830164.0
+:DateShort: 2018-Dec-15
+:END:

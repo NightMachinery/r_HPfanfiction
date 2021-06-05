@@ -1,0 +1,337 @@
+#+TITLE: Bot is partially down
+
+* Bot is partially down
+:PROPERTIES:
+:Author: tusing
+:Score: 203
+:DateUnix: 1608474055.0
+:DateShort: 2020-Dec-20
+:FlairText: Discussion
+:END:
+*Update: we should be back in service!*
+
+--------------
+
+Hi folks, the bot is partially down as ffnet has added protections to to prevent bots.
+
+AO3 and other sites should still work for now.
+
+We are brainstorming solutions but the timeline for a fix is unclear.
+
+
+** We seem to be back in service!:
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1608495835.0
+:DateShort: 2020-Dec-20
+:END:
+
+*** [[https://www.fanfiction.net/s/8303194/1/][*/Magicks of the Arcane/*]] by [[https://www.fanfiction.net/u/2552465/Eilyfe][/Eilyfe/]]
+
+#+begin_quote
+  Sometimes, all it takes to rise to greatness is a helping hand and the incentive to survive. Thrust between giants Harry has no choice but become one himself if he wants to keep on breathing. He might've found a way, but life's never that easy. Clock's ticking, Harry. Learn fast now.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{M} ^{*|*} ^{/Chapters/:} ^{40} ^{*|*} ^{/Words/:} ^{285,866} ^{*|*} ^{/Reviews/:} ^{2,191} ^{*|*} ^{/Favs/:} ^{6,864} ^{*|*} ^{/Follows/:} ^{5,649} ^{*|*} ^{/Updated/:} ^{1/28/2016} ^{*|*} ^{/Published/:} ^{7/9/2012} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{8303194} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Albus} ^{D.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8303194&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8303194&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+[[https://www.fanfiction.net/s/7613196/1/][*/The Pureblood Pretense/*]] by [[https://www.fanfiction.net/u/3489773/murkybluematter][/murkybluematter/]]
+
+#+begin_quote
+  Harriett Potter dreams of going to Hogwarts, but in an AU where the school only accepts purebloods, the only way to reach her goal is to switch places with her pureblood cousin---the only problem? Her cousin is a boy. Alanna the Lioness take on HP.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{22} ^{*|*} ^{/Words/:} ^{229,389} ^{*|*} ^{/Reviews/:} ^{1,122} ^{*|*} ^{/Favs/:} ^{2,959} ^{*|*} ^{/Follows/:} ^{1,228} ^{*|*} ^{/Updated/:} ^{6/20/2012} ^{*|*} ^{/Published/:} ^{12/5/2011} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{7613196} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure/Friendship} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Draco} ^{M.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=7613196&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=7613196&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/FanfictionBot/reddit-ffn-bot/wiki/Usage][Usage]] | [[https://www.reddit.com/message/compose?to=tusing][Contact]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 3
+:DateUnix: 1608495869.0
+:DateShort: 2020-Dec-20
+:END:
+
+
+** I love you [[/u/tusing][u/tusing]]
+:PROPERTIES:
+:Author: UndergroundNerd
+:Score: 13
+:DateUnix: 1608488155.0
+:DateShort: 2020-Dec-20
+:END:
+
+
+** AO3 hasn't worked for a long time in my experience. Whenever I linkao3() it just doesn't work. Unless it was recently fixed?
+
+EDIT: This was the last attempt I made: [[https://np.reddit.com/r/HPfanfiction/comments/kceai8/looking_for_recs_young_snape_stories_please/gfpue0i/?context=3]]
+
+I later removed the linkao3() later since it clearly didn't work, but what I typed was "linkao3(The Hogwarts Potions Professor)".
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 11
+:DateUnix: 1608492390.0
+:DateShort: 2020-Dec-20
+:END:
+
+*** I can get a link by putting the entire url in the brackets, but not the story number or the title.
+:PROPERTIES:
+:Author: SMTRodent
+:Score: 7
+:DateUnix: 1608492477.0
+:DateShort: 2020-Dec-20
+:END:
+
+
+** Man, this just makes me glad I downloaded all of my favourites the other day. After pornhub nothing is safe anymore...
+
+Still, people can always spend the two seconds it takes to copy the actual link from FFN.
+:PROPERTIES:
+:Author: u-useless
+:Score: 31
+:DateUnix: 1608476244.0
+:DateShort: 2020-Dec-20
+:END:
+
+*** Well, would also have to copy/paste all the other info about the fic, and format it into a readable text. The main advantage of the bot is not providing links.
+
+Lets hope they figure out a solution.
+:PROPERTIES:
+:Author: Blubberinoo
+:Score: 29
+:DateUnix: 1608477484.0
+:DateShort: 2020-Dec-20
+:END:
+
+
+*** What do you mean 'after pornhub'?
+:PROPERTIES:
+:Author: DarthGhengis
+:Score: 11
+:DateUnix: 1608497243.0
+:DateShort: 2020-Dec-21
+:END:
+
+**** Apparently pornhub deleted 3/4s of their videos
+:PROPERTIES:
+:Author: redpxtato
+:Score: 12
+:DateUnix: 1608497342.0
+:DateShort: 2020-Dec-21
+:END:
+
+***** Fucking hell, that's insane.. the internet is becoming a bit too regulated these days. Thanks for the info.
+:PROPERTIES:
+:Author: DarthGhengis
+:Score: -3
+:DateUnix: 1608497514.0
+:DateShort: 2020-Dec-21
+:END:
+
+****** Pornhub brought it upon themselves though, they didn't give a flying fuck about revenge porn for /years/.
+:PROPERTIES:
+:Author: mschuster91
+:Score: 35
+:DateUnix: 1608498690.0
+:DateShort: 2020-Dec-21
+:END:
+
+******* ..I just thought it was some server cleaning thing? Oh well, don't really care that much about a porn site going down, more about anything content-wise disappearing from the internet.
+:PROPERTIES:
+:Author: DarthGhengis
+:Score: 8
+:DateUnix: 1608498897.0
+:DateShort: 2020-Dec-21
+:END:
+
+
+****** They were hosting rapes and child porn...
+:PROPERTIES:
+:Author: Ironworkshop
+:Score: 13
+:DateUnix: 1608499686.0
+:DateShort: 2020-Dec-21
+:END:
+
+******* Id rather they beefed up the moderation team and then acted more upon reports like youtube. Facebook and twitter for example apparently host more of that vile stuff.
+
+Problem is that people will just move on from pornhub to less friendly sites. The content will not go away, and there is a ton of sites out there
+:PROPERTIES:
+:Author: textposts_only
+:Score: 8
+:DateUnix: 1608501705.0
+:DateShort: 2020-Dec-21
+:END:
+
+
+**** A "journalist" posted an article on New York Times about child pornography on Pornhub. Apparently, less than 200 videos were uploaded over a time of 3 years. This caused Visa and Mastercard to stop accepting payments to Pornhub. This caused Pornhub to delete ~80% of all videos without even a notice. Meanwhile, 11 million photos and videos with CP were deleted from Facebook over a period of 6 months.
+
+[[https://www.nytimes.com/2020/12/04/opinion/sunday/pornhub-rape-trafficking.html]]
+
+[[https://www.forbes.com/sites/mnunez/2019/11/13/facebook-instagram-child-porn-removal-mark-zuckerberg-ook-and-instagram-was-wider-than-believed/]]
+:PROPERTIES:
+:Author: u-useless
+:Score: 18
+:DateUnix: 1608499118.0
+:DateShort: 2020-Dec-21
+:END:
+
+
+** Yup, I manage [[https://ffnet.fr][ffnet.fr]] / [[http://ffnet-downloader.fr/][ffnet-downloader.fr]], it's down right now, and I have no idea how to fix it. Same for [[https://ficsave.xyz][ficsave.xyz]]
+
+You can see the attempts at solving the issue / bypassing this [[https://github.com/waylaidwanderer/FicSave/issues/245][here]]
+:PROPERTIES:
+:Author: calypso78
+:Score: 5
+:DateUnix: 1608495961.0
+:DateShort: 2020-Dec-20
+:END:
+
+
+** See also [[https://github.com/JimmXinu/FanFicFare/issues/614]] which may be related.
+:PROPERTIES:
+:Author: ceplma
+:Score: 10
+:DateUnix: 1608477746.0
+:DateShort: 2020-Dec-20
+:END:
+
+
+** Yes they are upping the protections after the DDOS attack on their servers. They are migrating to new servers and are upping the protections against automatic queries.
+:PROPERTIES:
+:Author: sebo1715
+:Score: 4
+:DateUnix: 1608491985.0
+:DateShort: 2020-Dec-20
+:END:
+
+
+** This explains why the app I use stopped working yesterday.
+:PROPERTIES:
+:Author: Sumehlop
+:Score: 3
+:DateUnix: 1608492484.0
+:DateShort: 2020-Dec-20
+:END:
+
+
+** Is this why it hasn't been letting me download stories for the last couple weeks? Thought it was my phone acting hinky.
+:PROPERTIES:
+:Author: amethyst_lover
+:Score: 3
+:DateUnix: 1608492637.0
+:DateShort: 2020-Dec-20
+:END:
+
+*** Nah, that's a separate issue - FF2Ebook had an endpoint for the bot download links but that endpoint isn't working anymore.
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1608566386.0
+:DateShort: 2020-Dec-21
+:END:
+
+
+** Yup, Causes FanFicFare plugin for Calibre to fail too, reporting 403.
+
+I'm not sure if FFF uses the API, or if it's working off of the user-agent, but the only workaround I've found for now is using the archive functionality of ff2ebook, which is good for the function of adding new stories, but of updating them.
+:PROPERTIES:
+:Author: Amuhn
+:Score: 3
+:DateUnix: 1608493567.0
+:DateShort: 2020-Dec-20
+:END:
+
+*** Does FFN even have an API that's made available to the public?
+:PROPERTIES:
+:Author: SnowingSilently
+:Score: 1
+:DateUnix: 1608524064.0
+:DateShort: 2020-Dec-21
+:END:
+
+
+** Even bots take vacations. They just are usually back in an hour rather than a week.
+:PROPERTIES:
+:Author: Sefera17
+:Score: 2
+:DateUnix: 1608503750.0
+:DateShort: 2020-Dec-21
+:END:
+
+
+** Thank you very much !
+
+.
+
+I've got a question, when you say "we", do you mean that you are a team or are you using the royal We ?
+:PROPERTIES:
+:Author: Lenrivk
+:Score: 2
+:DateUnix: 1608565721.0
+:DateShort: 2020-Dec-21
+:END:
+
+*** "We" was referring to the Discord group of FF programmers. While I'm the only one still working on this bot, there are other FF websites, downloaders, and bots that were also hurt by the block.
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1608566133.0
+:DateShort: 2020-Dec-21
+:END:
+
+**** Ah, I see thanks.
+
+Though you could argue that given how the bot is useful here and on other subs, if there was royalty in the fandom(s) you'd be part of it.
+:PROPERTIES:
+:Author: Lenrivk
+:Score: 3
+:DateUnix: 1608567058.0
+:DateShort: 2020-Dec-21
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1608495424.0
+:DateShort: 2020-Dec-20
+:END:
+
+
+** Fanficfare on calibre isnt working so...
+:PROPERTIES:
+:Author: Snoo14122
+:Score: 1
+:DateUnix: 1608496502.0
+:DateShort: 2020-Dec-21
+:END:
+
+
+** ^{As someone who listened to stories as audiobooks, I realized you can print the chapters as PDF in chrome and open them on Moon Reader Pro. Messy, but needs must. Dropping this here in case it's helpful to anyone.}
+:PROPERTIES:
+:Author: chatty92
+:Score: 1
+:DateUnix: 1608573461.0
+:DateShort: 2020-Dec-21
+:END:
+
+
+** Fanfiction administrators are proposing to develop an API for curated bots that assist to find and follow interesting stories. See their Twitter.
+:PROPERTIES:
+:Author: sebo1715
+:Score: 1
+:DateUnix: 1608581267.0
+:DateShort: 2020-Dec-21
+:END:
+
+*** yup, I've been in emails with them
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1608589692.0
+:DateShort: 2020-Dec-22
+:END:

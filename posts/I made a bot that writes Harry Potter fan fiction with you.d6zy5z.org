@@ -1,0 +1,828 @@
+#+TITLE: I made a bot that writes Harry Potter fan fiction with you
+
+* I made a bot that writes Harry Potter fan fiction with you
+:PROPERTIES:
+:Author: jshek
+:Score: 72
+:DateUnix: 1569008116.0
+:DateShort: 2019-Sep-21
+:FlairText: Self-Promotion
+:END:
+[[https://writeup.ai/hp][Harry Potter Bot]]
+
+It's free, the code running is also open-sourced. I posted this to [[/r/FanFiction][r/FanFiction]] a few days ago and a few people combined HP with Game of Thrones ala choose your own text adventure. Hope you like it!
+
+PS - I could use any feedback to improve UX. Thank you!!
+
+
+** Harry Potter and the Recursion of the Great Hall:
+
+Voldemort was near. “We're in the middle of the Great Hall!” he yelled, pointing his wand at the Gryffindor table. “Get out of the way!”
+
+Harry and Ron both jumped. “Harry, we're in the middle of the Great Hall!” Hermione yelled. “We've got to get out of here!”
+
+“We're in the middle of the Hall,” said Ron, who was still shouting. “Get out of the way!”
+
+“We're in the middle of the Hall,” said Harry, still pointing at the Gryffind or table. “We've got to get out of there!”
+
+“We're in the middle of the Hall,” said Ron. “We've got to get out of here!”
+
+“We're in the middle of the Hall,” said Hermione, looking bewildered. “We've got to get out of there!”
+
+“We're in the middle of the Hall,” said Harry. “We've got to get out of there!”
+
+“We're in the middle of the Hall,” said Hermione, looking even more bewildered. We've got to get out of there!”
+
+“Yeah, yeah, yeah, we're in the middle of the Hall,” said Ron, still pointing at the Gryffindor table.
+
+"I'm Hermione Granger, and you're Harry Potter!” “We're in the middle of the Hall,” said Harry. “We've got to get out of there!
+
+He and Hermione looked at one another. “We're in the middle of the Hall,” he repeated.
+
+“We're in the middle of the Hall,” she repeated. “We've got to get out of there!” They looked at one another, and then, with a sudden realization, “We're in the middle of the lake,” said Harry. He and Hermione both looked at the Slytherin table.
+
+“We've got to get out of there,” said Ron. “We've got to get out of here!” He and Hermione both looked at the Hufflepuff table.
+
+“We've got to get out of there,” said Ginny. “We've got to get out of here!” She and Luna both looked at the Ravenclaw table.
+
+And, well, it just continues like that. I was personally shocked by the revelation that they're in the lake
+:PROPERTIES:
+:Author: TheCuddlyCanons
+:Score: 48
+:DateUnix: 1569017011.0
+:DateShort: 2019-Sep-21
+:END:
+
+*** WTF
+
+press f to pay respects
+:PROPERTIES:
+:Score: 19
+:DateUnix: 1569019703.0
+:DateShort: 2019-Sep-21
+:END:
+
+
+*** There's something almost Lovecraft-ian Horror about this...
+:PROPERTIES:
+:Author: MCMIVC
+:Score: 14
+:DateUnix: 1569024191.0
+:DateShort: 2019-Sep-21
+:END:
+
+
+** Played around for a bit this is what I got:
+
+Harry kneeled down before the campfire. “I thought you were dead,” he said softly. “I thought I saw ---”
+
+“I wasn't dead!”
+
+“I know that,” said Harry, “but it still ---” He looked at the fire. The flames had gone out. The light in the hollow was now flickering slowly, and the pale moon was slowly rising over the sea of stars.
+
+"You heard what Dumbledore said,” said Sirius. “The stone was too strong. It was too strong for you.”
+
+“I saw it,” said Harry. “I saw what you were doing.� Sirius looked at him. “You saw what you were doing was wrong?”
+
+“It was my fault,” said Harry. “I didn't know. I didn't care. I just wanted to get out of there. I just wanted to go back to the Leaky Cauldron.”
+
+“You're going to have to go back to the Leaky Cauldron,” said Sirius. � You know what they're doing there, don't you? They're making you fight the other prisoners. You're not supposed to talk to them, you know.”
+
+“I don� t want to fight,” said Harry. “I don't want to fight. I don't want to see them torturing the other prisoners.”
+
+“You don't understand, Harry,” said Sirius. “You are the only one who can help us. You can talk to them.”
+
+“How can I help?” said Harry. “I'm your father, Sirius, and I'm your father's best friend.”
+
+“You're too late,” said Sirius, staring at Harry. “You were already helping us. You've found the Philosopher's Stone.”
+
+“But what's the point of helping if we don't use it?” said Harry. “You said I'd have to fight, and I didn't.” Sirius looked at him as though he'd expected it. “You're going to have to fight,” he said quietly, “because we don't want you to. We're the only ones who can get you out of this place.”
+
+“But I can't!” said Harry.
+
+“We'll make sure of that,� said Lupin. “I'll go and meet them in the Pensieve.” Harry and Lupin left the room. Harry looked at the door. It was locked. He tried the handle. It was jammed.
+
+Edit: thx for my first silver kind redditor
+:PROPERTIES:
+:Author: Lulawright123
+:Score: 26
+:DateUnix: 1569015917.0
+:DateShort: 2019-Sep-21
+:END:
+
+*** u/jshek:
+#+begin_quote
+  “I'm your father, Sirius, and I'm your father's best friend.”
+#+end_quote
+
+hahahaha - that'd be the great plot twist.
+:PROPERTIES:
+:Author: jshek
+:Score: 20
+:DateUnix: 1569026002.0
+:DateShort: 2019-Sep-21
+:END:
+
+
+*** Hol up, I wanna read the rest of this story actually
+:PROPERTIES:
+:Author: RisingEarth
+:Score: 8
+:DateUnix: 1569025327.0
+:DateShort: 2019-Sep-21
+:END:
+
+**** mhh a secret prison under the Leaky Cauldron where they make prisoners fight, Harry has the Philosopher's stone because Dumbledore said something; and somehow is Sirius' father and said father's best friend.
+:PROPERTIES:
+:Author: Lulawright123
+:Score: 4
+:DateUnix: 1569054045.0
+:DateShort: 2019-Sep-21
+:END:
+
+
+** Indy!Harry fic #4,045
+
+Dumbledore gave a malicious smirk, a twinkle in his eye.“You are not to tell me what to do,” he said, and for a moment there was a terrible pause, and then he said, “I am to decide where you go and when, and Dumbledore will show you how to do it.”
+
+Harry felt his face burning. He had been told that he would have to go to the hospital wing, and that he would have to stay there all year. He had been told that he would have to stay at Hogwarts for the rest of his life. He felt sick to his stomach. He had never been offered such a dangerous decision in his life. He looked around at the other two and felt a terrible sense of betrayal.
+
+“ Dumbledore's going to decide where I go and when!” he said angrily. “He'll decide who I marry!”
+
+“Harry,” said Hermione, “he's got very little choice.”
+
+“But how can I marry someone who's going to live here all year?”
+
+“You know what, Harry?” said Hermione, and for the first time, Harry saw her eyes twinkle. “I think you ought to learn Occlumency.”
+
+“But ---” he looked at her, terrified, “I don't want to be stuck here all year.”
+
+“You don't want to be stuck here?” said Hermione, astonished. “You want to be able to leave at any time?”
+
+“I don't want to be stuck here!” said Harry, even more astonished. “I'm going to help Sirius escape!”
+
+“You don't want to be stuck here all year?” said Hermione, her heart beating very fast. “Harry, you're going to be stuck here because you don't want to be here!”
+
+"But ---” said Harry. “I don't want to be here! I'm going to find Sirius, I'm going to get him!”
+
+“You don't understand!” said Hermione, tears in her eyes. “Harry, you' re going to be in so much danger!”
+
+“I know,” said Harry. “I'll be back. I'll find Sirius.” He looked around at the other two, and they were all looking at him too. He was going to have to fight them all at once. “I'll find Sirius.”
+
+“You don't have to, Harry.” said Hermione, preparing her wand. Ron quickly followed. They left the Great Hall, down a narrow passageway, and into the entrance hall.
+
+“Ready?” said the headmaster, raising a tall, dark wizard's hat. Ron and Hermione were both holding the horn to the door. Harry could feel his heart beating very fast. He could hear the teachers coming in. ... He had to find Sirius. ... He had to find him now.
+
+“Ready?” said the headmaster again. “Ready?” The teachers came in slowly. Harry could see the look of panic on their faces. He looked around at the door, and the teachers were there too. They were all wearing the same thing: a very tight, tight-fitting, very dangerous-looking cloak.
+
+“Ready?” said the headmaster. “Ready?”
+
+“Ready,” came the deep, gruff voice of Professor McGonagall.
+:PROPERTIES:
+:Score: 19
+:DateUnix: 1569024343.0
+:DateShort: 2019-Sep-21
+:END:
+
+*** Still reads more coherently than most Indy!Harry fics.
+:PROPERTIES:
+:Author: TheHeadlessScholar
+:Score: 7
+:DateUnix: 1569041695.0
+:DateShort: 2019-Sep-21
+:END:
+
+
+** Trying to fill the woeful gap of Katie Bell/Snape fanfic out there. I am extremely pleased. Thanks for writing this!
+
+Katie Bell looked lovingly at Snape. “I'm going to have to ask you to leave, Severus, but I think I know what you need. I've been thinking about it for a while. And I think I can give it to you.I think I can persuade you to come back.”
+
+“I don't want to come back!” said Snape, his eyes twinkling. “I'm sorry, I don't want to come back!”
+
+“You do want to come back, Severus,” said Bell, “but it's not your fault. It's not your fault that Dumbledore left you a job.”
+
+“Look, Bell, I don't deserve it!” said Snape, looking more furious than ever. “You know what I've been doing all this time? I've been working for you!"
+
+“This is a matter of principle,” said Bell, “not principle in principle!”
+
+“It's not principle!” repeated Snape, and Bell looked even more confused. “You thought you could get me to do anything, you little pervert!”
+
+“It's not you, it's me, Bell,” said Bell, and she looked even more shocked than Snape.
+
+(And so ends their torrid & extremely confusing relationship.)
+:PROPERTIES:
+:Author: TychoTyrannosaurus
+:Score: 17
+:DateUnix: 1569025827.0
+:DateShort: 2019-Sep-21
+:END:
+
+*** ... what
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1569094458.0
+:DateShort: 2019-Sep-21
+:END:
+
+
+** u/Redhotlipstik:
+#+begin_quote
+  Harry felt a strange kind of gratitude for the only woman he ever loved, his Aunt Petunia.
+#+end_quote
+
+The sample sentence I wrote was “I love you, Fleur”
+:PROPERTIES:
+:Author: Redhotlipstik
+:Score: 10
+:DateUnix: 1569026545.0
+:DateShort: 2019-Sep-21
+:END:
+
+*** The only woman he /loved,/ past tense. Apparently /now/ he loves Fleur, and he's strangely grateful to his aunt... for somehow helping get him to this place?
+:PROPERTIES:
+:Author: Evan_Th
+:Score: 7
+:DateUnix: 1569033239.0
+:DateShort: 2019-Sep-21
+:END:
+
+
+** This is either a great character study of Harry's horcrux or Tomarry slash.
+
+--------------
+
+Voldemort was near. “I'm sorry,” he said, and his eyes glittered.
+
+“You're not sorry,” said Harry.
+
+“I'm not sorry!” said Voldemort, and for the first time, his eyes were glittering.
+
+“I've been thinking about you, and I'm glad I did. You're a great wizard, Harry --- what more could I want ?”
+
+“We're the same,” said Harry.
+
+“We're both a little slow, a bit rough around the edges, but we've got loads to teach the Ministry, they 've never been taught anything ---”
+
+“We are not the Ministry of Magic,” said Voldemort, and his eyes were gleaming again. “You see, Minister Scrimgeour, the Dark Mark had its origins in the Ministry of Magic. The Dark Lord himself was once a Ministry employee, and he was the one who first recognized the power of the Dark Arts.”
+
+“The Dark Lord?” asked Harry.
+
+“ I don't think so,” said Voldemort. “He was never one to shy away from the light, was he?”
+
+“No,” said Harry, “he was never one to shy away from the light.”
+
+“But you are,” said Voldemort. “You were the one who saw the power of the Dark Arts in the Ministry of Magic. You were the one who saw the potential of the boy.” He looked at Harry with a penetrating eye. “You saw the potential to do great and terrible things together. ... You became a teacher at an early age, you were given the responsibility of protecting the wizarding world from the Dark Arts, and you did it ... until you were forced to retire at sixteen. ...”
+
+“You did it,” said Harry again. “You stopped the Dark Arts from going off the deep end. You stopped dementors and the like. You even saved my life once.”
+
+“You saved my life once,” said Voldemort, his voice rising ominously. “ You saved my life. You saved my life, even when I was a young man, when I was in danger of being killed by you. You saved my life, even when you were determined to make the death of a Muggle-born a crime worthy of your kind. You saved my life.”
+
+“But you were too young then,” said Harry.
+
+“Too young,” said Voldemort, and his voice became a low cackle. “ I was ten at the time. I was not yet ready, not yet brave enough. And so it was that I was taken from you, and sent to live with my father. And I was the youngest of the four. I was the only one who was not protected.”
+
+“You saved my life,” said Harry again, “and my father's too.”
+
+Voldemort's voice became a roar of laughter.
+:PROPERTIES:
+:Author: Bob_Bobinson
+:Score: 7
+:DateUnix: 1569039257.0
+:DateShort: 2019-Sep-21
+:END:
+
+
+** So, out of curiousity, if I just chose every first option without looking would the result be similar to Harry Potter and what looked to be the Portrait of a Large Pile of Ash.
+:PROPERTIES:
+:Author: KvotheTheUndying
+:Score: 6
+:DateUnix: 1569014862.0
+:DateShort: 2019-Sep-21
+:END:
+
+
+** This is actually fantastic.
+
+Harry entered the classroom , and he was astonished to see that all the class were staring at him. “What's the matter?” asked Harry, who was still wearing his school robes.
+
+“I'm fine,” said Ron, who was sitting in the back row. “I'm still trying to get used to the idea that I'm not supposed to be here.”
+
+“You're not supposed to be here! You're not even supposed to be in the classroom!” said Lavender. “You're supposed to be in the hospital wing with the rest of the first years --- with the Death Eaters!”
+
+“I don't think I'm with the Death Eaters anymore,” said Ron. “I think I might've joined the Order of the Phoenix a while back, but I� ve never mentioned it to them.”
+
+“So you never joined the Order,” said Lavender. “You just thought you were.”
+
+“No,” said Harry. “I was with you that night, and I saw what you were doing. I saw what you were trying to do. And I saw what you were trying to do with the rest of the Order of the Phoenix.”
+
+“We never heard what you were trying to do with the rest of the Order of the Phoenix,” said Ron. “We thought you were trying to do what Dumbledore had done, and kill your parents.”
+:PROPERTIES:
+:Author: TheHeadlessScholar
+:Score: 4
+:DateUnix: 1569041556.0
+:DateShort: 2019-Sep-21
+:END:
+
+*** This is very dark lol ....
+:PROPERTIES:
+:Author: jshek
+:Score: 2
+:DateUnix: 1569139201.0
+:DateShort: 2019-Sep-22
+:END:
+
+
+** *HARRY POTTER & THE THING HE WANTED TO TELL HEDWIG*
+
+Hedwig flew into the air and landed on the floor.\\
+“I've been wanting to tell you something,” said Harry, and he looked up at her.\\
+“What?” she said, and immediately she looked startled. “What are you talking about?”\\
+“I don't think I can tell you,” said Harry.\\
+“You can?”\\
+“No,”\\
+Hedwig scoffed and flew back down, and Harry saw her fly back up again, and he was so angry he wanted to hit her with a large, heavy fist.\\
+But Hedwig didn't seem to mind. She was staring at Harry with such a mixture of pleasure and stun that it was as though he was a master of the deadly art of flattery. Harry felt as though he'd won an important prize. He could tell that Hedwig had been thinking the same way.\\
+Suddenly, Harry's anger seemed to vanish. He had won.”I don't care what you've done,” he said, and Hedwig gave a tiny, piteous sigh.\\
+Ron was grinning at Harry.“You're the best, Harry.”\\
+“Yeah, I am,” said Harry, “but I don't think I've ever been more grateful that the rest of the tournament's taking place.”\\
+Harry, Ron, and Hermione walked down the stone steps into the chilly evening air. The Quidditch World Cup was starting, and the tournament was about to get much weirder, because the champions of the four Quidditch teams were now facing each other.\\
+“What're we playing?” said Hermione, looking around for a good idea.\\
+“Quidditch,” said Ron\\
+The match started in earnest at the end of the last Quidditch match of the tournament, and the match ended at the end of the last game of the tournament, because that was the only thing that mattered.\\
+A bludger killed a hundred and twenty-two people, so nobody really died. But the death of a hundred and twenty-two people was still terrible, because it meant that the tournament was going to end in a draw. Harry and Ron were now the only ones left, and they had just one thing on their minds; they were going to steal the golden Snitch from the giantess, and steal it now. They were going to steal it now. 'We're going to steal it now!' Harry was saying to Ron, and Ron was muttering the same thing.\\
+The giantess was sobbing into her hands, and she was crying so hard that the tears were splattering on the floor.\\
+'I'm so sorry,' she said, wiping her face on her hand, and she threw the Snitch to Harry. 'I'm so sorry, I didn't mean to -'\\
+'It's okay,' said Harry, and he held up the Snitch in triumph.\\
+Later that night, the giantess was lying on her bed, weeping over the Snitch. Harry was sitting beside her, and he was so angry at her that he could hardly speak. He wanted to hit her, he wanted to kick her, he wanted to tell her to get back to where she came from. No, that wouldn't be enough. He had to kill her. He had to kill her now. He had to kill her, and he had to do it now. He had to. A great wave of cold rage swept over him. He had waited so long. He had to kill her. He had to. He had to. He had to. He had to kill her, and he had to. He had to.\\
+He raised the Snitch high in the air, and his voice echoed through the empty castle. 'I have to kill her, no one else can. I have to. I have to.'\\
+He had to. He had to.\\
+He raised the Snitch again, and his voice echoed through the ruined walls. 'No one else can. I have to. I have to. I have to.'\\
+He had to. He had to. He had to.\\
+He raised the Snitch again, and the voice echoed through the castle. 'No one else can. I have to. I have to. I have to.'\\
+He had to. He had to. He had to.\\
+He raised the Snitch again, and the voice echoed through the castle. 'No one else can. It ends now.'\\
+He pulled out his wand and pointed it at the giantess. 'Avada Kedavra.' said Harry, and the giantess' head exploded, scattering the castle. Harry, Ron & Hermione all stared, their mouths open, at the explosion.\\
+'It's over!' Harry said loudly, and finally turned to Hedwig.\\
+“I've been wanting to tell you something,”, he said. “I've been wanting to tell you for ages, but I can't do it, I'm too afraid. I've got to tell you something.”\\
+“It was a good thing that you came along,” said the owl in a hushed voice. 'We wouldn't have been able to hear you.”\\
+Hedwig, who had been pecking her head excitedly, was now staring at the giantess with narrowed eyes. Harry, Ron and Hermione also looked at her.\\
+“She's my sister,” said Harry. “She's my best friend.”
+:PROPERTIES:
+:Author: MCMIVC
+:Score: 7
+:DateUnix: 1569023655.0
+:DateShort: 2019-Sep-21
+:END:
+
+
+** So I tried this with very minimal input and it was pretty...ah...dark. Maybe I should turn it into something.
+
+#+begin_quote
+  Ron and Luna were sitting together on the floor, their heads together, their eyes closed, their noses pressed against the side of their heads. Their breathing was shallow and shallow.
+
+  “You know, Luna,” said Harry, “I think I'd better go and get my wand.”
+
+  Luna nodded, still staring into the corner, her eyes half-closed.
+
+  “I think you'll be okay,” said Harry.\ nHe pulled the Invisibility Cloak from his bag, put it over his head, and hurried out of the room, leaving Luna and Ron alone.
+
+  xxxxxxxxxxxxxxxxxxxxxxxx
+
+  The sun was sinking lower and lower over the horizon as they walked, and the sky outside the window was a deep, deep, dark blue. Harry could feel the cold, hard rain pounding his face as he walked, and he had a horrible feeling that he was going to get wet. At last, he reached the end of the garden and turned to look at the sky.
+
+  “I'm really going to have to go outside,” he said. “I don't think I can stand it much longer.”
+
+  He was right. The sky outside the window was completely dark, and the rain was pouring down on him from every direction. He could hear the voices of the other schoolchildren outside, but they were all yelling and screaming at the same time. He was so wet he was starting to feel sick. He had never felt so alone. He walked quickly toward the window, but the rain was still falling on him, and he couldn't see anything through the glass. He turned the glass around, and it was gone.
+
+  “I can't stand it anymore,” he said, wiping his mouth on the back of his hand. “I can't stand it anymore.”
+
+  He stood up and stretched. The rain was falling harder than ever on his face, but he was still very pale. He wanted to cry, but he didn't dare. He didn't want to be seen crying. He was afraid of the man in the mirror, of what he would say. He was a coward, he knew it. He had no one to blame but himself. He sat down on the edge of his bed, and as the rain fell harder and harder. Suddenly, he broke down in tears. “I'm so sorry,” he said, wiping his face on the back of his hand. “I'm so sorry, I'm so sorry!”
+
+  xxxxxxxxxxxxxxxxxxxxxxxx
+
+  Meanwhile, Luna and Ron were sitting together on the edge of the bed, tears still dripping from their faces.
+
+  “What did you say to her, before?” asked Ron.
+
+  Luna winced. "I told her to get out of the way,” she said. “I'll be honest with you, I was worried she'd come back. ... She was acting all weird. ...” She wiped her eyes again. �
+
+  It's all my fault,” she added defensively. “It's my fault she's dead. I'm so sorry.”
+
+  Ron looked into Luna's tearstained eyes and felt a great surge of sympathy for her. It was hard to imagine how Luna could have been so stupid, but somehow he knew that Luna had no chance of proving him wrong. “I'm sorry,” he said, � "for bringing it up. It wasn't your fault, Luna."
+
+  "Tell that to Harry," she whispered, more tears leaking out of her eyes.
+
+  "Tell me what?" asked Harry, standing in the doorway soaking wet with a tear stained face. "What did you do to Luna?” "I --- I didn't know what to do," Luna cried. "I didn't know what to do.”
+
+  "Exactly," Harry said. "It's no more your fault than it is mine, or Ron's. We didn't know."
+
+  "But we didn't know what to do!" said Luna. “We were stupid! We were cruel! We were terrible people, we deserve it, we deserve it, we're going to suffer-"
+
+  "It's no more your fault than it is mine," said Harry again, and with another loud crack he fell to the floor.
+
+  “Luna,” he said, wiping his face on his hands, “Ron... You guys...you made a terrible mistake, you know that's all.”
+
+  Finally, Ron met Harry's eyes. "Mate.."
+
+  "I know, me too."
+
+  The three stood together in a circle, silent tears streaking down their faces, and hugged.
+
+  "What happens now?" Luna whispered.
+
+  "Everything changes," Ron told her.
+
+  "Yes," agreed Harry. "But we stick together. Until the end."
+#+end_quote
+:PROPERTIES:
+:Author: ProblemPixie
+:Score: 5
+:DateUnix: 1569042808.0
+:DateShort: 2019-Sep-21
+:END:
+
+
+** THIS IS AMAZING. Had a fantastic evening with friends, a bit of liquor and a lot of good ole dramatic readings!! Severely impressed by how well the fragments all fit together.
+:PROPERTIES:
+:Author: NillaEnthusiast
+:Score: 2
+:DateUnix: 1569032186.0
+:DateShort: 2019-Sep-21
+:END:
+
+
+** The seed was:
+
+#+begin_quote
+  And here we have the Ron Weasley in his natural habitat...."
+#+end_quote
+
+"He's not a natural habitat," said Harry.
+
+"He's a wizard's habitat," said Hermione. "He's not a human's habitat."
+
+"Well, he's a lot harder to control than a dragon," said Harry, "so it's not as if you can just lock him away and hope he doesn't outgrow it. But he's still got a lot of natural enemies. You'd think he'd be more afraid of snakes than humans, but he's still got a lot of natural enemies."
+
+"But he's still got a lot of natural enemies," said Hermione. "He's still got a lot of natural enemies."
+
+"Exactly," said Harry. "I mean, he's got to have natural enemies if he's going to be a wizard."
+
+"But he's not!" said Hermione, her voice rising, "he's not going to be a wizard if he doesn't have any natural enemies at all!" She looked at him. "He's not going to be a wizard if he can't even get a bit of food on the table for his family!" She looked at the frying pan, and the firelight, and the frying pan, and the fire, and the frying pan, and the fire. "He's not going to be a wizard if he can't even eat, and sleep, and breathe, and ---"
+
+"I know it's hard," said Harry, "but it's what we have to do."
+
+"I know it's hard, too," said Hermione, and she looked as though she was saying something very serious. "
+:PROPERTIES:
+:Author: bonsly24
+:Score: 2
+:DateUnix: 1569051504.0
+:DateShort: 2019-Sep-21
+:END:
+
+
+** Draco leaned closer, his face so close to Harry's Harry could have sworn he was breathing through his nostrils. “I'm sorry,” he said, his voice close to a whisper. “I should have told you. I'm not very good at telling people when they're wrong.” “Well, I don't think you should have to,” said Harry. “Well, that' s true, but I'm not going to tell you how to stop it, not now, not when you're so young!” “I don't want to hear about it!” said Harry. “I want to know what you're up to!” “I don't want to hear about it, either,” repeated Ron. “It's not important. I 'm not going to take any more chances. I'm not stupid. I know what you're up to.” “You're not going to tell me what you're up to, then?” said Harry. “I've got to know!” “You're about to join a cult,” said Ron. “A bunch of nutters who've got a few hundred followers ---” “You're in Gryffindor, not a bunch of nutters, and you're my friend, so stop being a dick.” “I don' t know what you think you know, Harry,” said Ron, looking a little disappointed. “You're not a wizard yet, and I'm not trying to teach you.” “I' m not trying to teach you anything,” said Harry. “I'm just wondering ---” “What are you trying to teach me?” said Ron, looking slightly alarmed. “You're an owl.” “I'm not an owl,” said Harry. “I've got a lot of teeth.” “You're not supposed to have any,”
+:PROPERTIES:
+:Author: strange_lesbian
+:Score: 2
+:DateUnix: 1569061759.0
+:DateShort: 2019-Sep-21
+:END:
+
+
+** Harry Potter and the Death Eater: (1212 words)\\
+"And behold, for I had heard that the Death Eaters were coming, and that they were making their way to the castle, and that it was my job to stop them, and that I would have to kill you, and the other Death Eaters, and Snape, and all those who were with you, and I would not be blamed, and I would be rewarded for my part in the plan!”\\
+Harry looked at her. “You thought I'd do it?"\\
+“I certainly did,” said Hermione. “I thought I knew what you were planning, and I was right to have suspicions, and I was right to think you might try to do something stupid, and I was right to think you might be trying to ---”\\
+“You're not trying to do anything stupid,” said Harry. “You just think you might have been the one who tipped off Voldemort.”\\
+Hermione looked horrified. “I thought he might have been the one who did it,” she said, “that he might have been the one who knew how to make the Killing Curse.”\\
+“He didn't know how to make it,” said Harry. “He was only a year older than you were, I took the wand from you one night before you died. He was trying to make a new wand.”\\
+"You tried to make a new wand,” said Hermione, “how did you know?”\\
+“I saw you make a new wand,” said Harry. “I was the one who found the old one and put it in a box.”\\
+“What old wand?”\\
+“The one that was the one who killed you.”\\
+“And what did you put in a box with it?"\\
+“The Killing Curse.”\\
+“What d'you mean, you've got the Killing Curse in a box?”\\
+“I've been keeping it there for ages.” He showed her the box, and Hermione stared at it.\\
+“The Killing Curse,” she said, “is the key to all our problems. It's how we killed you. The only key to your demise.”\\
+“But ---” Harry was staring at her, “we didn't kill you, we made you do it.”\\
+She shook her head. “We didn't do it.” She looked at him seriously. “I don't think it was a good idea to kill you, Harry.”\\
+“But it was our ---” Harry looked at the Death Eater. “It was our fault, we didn't do anything. We were stupid. We were stupid enough to trust Muggles. We were stupid enough to trust them with our lives.”\\
+“But you were right,” said the Death Eater, and Harry felt a twinge of anger. “You were right. We're all stupid."\\
+“Yeah, but we're not all Muggles,” said Harry. “I'm not stupid. I'm not stupid. I know I was stupid.” He looked at the other two. The Death Eater's tone was one of respect. Harry wondered whether he understood the horror of what he had said. “You're not stupid,” he repeated.\\
+“I know I was stupid.”\\
+“You weren't talking about me, Harry,” said Hermione. “You were talking about the Ministry of Magic.”\\
+“Yeah, but the Ministry of Magic didn't do anything, it was a matter of time before Weasleys came back and we were attacked, and they didn't care, because they knew they were protected by the protections of the office and the protection of the wizarding world,” said Harry.\\
+“So it was them against the world.”\\
+“Well, it was the world,” said Hermione, “but the world's a very dangerous place, Harry.”\\
+“Yeah, and it is,” said Harry. “I mean, we're not going to fight about who did it, are we?”\\
+“No,” said Ron, who was watching Harry with a kind of strained amusement, “we're not. We don't want to take sides.”\\
+“We're not taking sides either,” said Hermione, “we're just saying who did it.”\\
+“You're being a bit paranoid,” said Ron. “It was a car-to-car attack. It was only the Dursleys who were hurt.”\\
+“It wasn't a car-to-car attack,” said Hermione, “it was a van-to-van attack. Harry, we' re not going to fight you, we can't.”\\
+“But ---” Harry glanced at the others. They all looked horrified.\\
+“But what?” said Ron. “You don 't want to fight, do you?”\\
+“Yeah, but we've got to take the Dursleys' word for it,” said Hermione, “that's what we 're trying to do.”\\
+“But it was a car-to-car attack!” said Ron. “We've got to believe it was the Dementors who attacked, it's the only way we're going to get the truth.”\\
+“It's not about the truth,” said Hermione. “It's about stopping dementors getting into the Dursleys' s home.”\\
+“But how are we going to do that?” said Ron. “We don't have the wits. We've never been in a car before.”\\
+“No one can teach you how to drive,” said Hermione. “You've got to learn how to read the signs.”\\
+“But Harry's never read a book before!” said Ron. “He's never been to a bookshop!”\\
+“He's got a copy of How to Improvise a Possession Detonator in his bag,” said the Death Eater. “That's the kind of person who uses a wand.”\\
+“But what if we're caught?” said Ron. “What if we get caught?”\\
+“You'll be in Azkaban,” said the Death Eater. “The Ministry will take you away, but they'll leave you a chance. You'll never be able to hurt a human again.”\\
+“But what if we're wrong?” said Ron.\\
+“What if we're right?” The Death Eater looked at Hermione. “You don't believe in curses, do you?” he said. “You don't believe in magic? But you're dead.”\\
+“I don't believe in death,” said Hermione, her voice quivering. “I'm with you on that one, Death Eater.” She looked at Harry. “You're going to kill me, aren't you?”\\
+“ I ---”\\
+“I'm going to kill you,” said Harry. “I'll show you what real death looks like.”\\
+He pulled the Killing Curse from the pouch on his belt and aimed it at the top of the Death Eater's head. The Killing Curse bounced off the Death Eater's head and hit the ground, splattering blood all over the floor. The Death Eater fell over backward, his face in his hands, and Harry pulled the Killing Curse out of his body. The Killing Curse hit the Death Eater in the chest, the force of which made him scream. Harry pulled the Killing Curse out of his body and aimed it at the Death Eater 's right ear. The Killing Curse flew through the air and hit the Death Eater's head. The Killing Curse hit the Death Eater's body, and the Killing Curse exploded, sending a cloud of dust and dirt all the way back up to the ceiling.\\
+“You did it!” said Harry, pointing the Killing Curse at the Death Eater's head. “You killed him!”\\
+The Death Eater's body fell limp. Harry looked over his shoulder. The Death Eater's body fell limp. Harry looked over his shoulder again. The Death Eater's body fell limp again. ... He had to do it. ... He had to save everyone. ...\\
+“And you'll understand why very soon.”\\
+“You can't kill me,” said the Death Eater, and Harry saw the fear in his eyes. “You can't"\\
+“I didn't kill him,” Harry whispered. “I've just seen you kill another one. ...”\\
+“You have to see this, Harry,” said Hermione, “it's the only way.”\\
+“You're going to kill me too,” Harry repeated, and he felt a surge of terrible rage that he had never felt before. “You've got to go and save everyone.”\\
+“But I can't,” said the Death Eater, and Harry saw the desperation in his eyes. “I've got to protect Ron.”\\
+“I can't let you do it.”
+:PROPERTIES:
+:Author: Ryxlwyx
+:Score: 2
+:DateUnix: 1569063364.0
+:DateShort: 2019-Sep-21
+:END:
+
+
+** Legal writing style.
+
+*The Harry Potter Defense*
+
+Harry Potter, however, is a different case. In Harry Potter, the defendant was not charged with a crime in connection with the crimes of which he was convicted, and the government did not attempt to prove that the defendant's crimes were part of a common scheme or plan. See United States v. Smith, 624 F.3d 725, 731 (4th Cir. 2010) (“[T]he government need not prove a ‘common scheme or plan to convict a defendant of a § 846 offense.”). In Harry Potter, however, the government did attempt to prove that the defendant's crimes were part of a common scheme or plan, and the defendant did not object to the government's evidence. See id. at 731-32.
+:PROPERTIES:
+:Author: Leangeful
+:Score: 2
+:DateUnix: 1569080048.0
+:DateShort: 2019-Sep-21
+:END:
+
+
+** “A bathrobe?” said Hermione, looking astonished. “But I thought you were supposed to be a woman!”
+
+“Well, I can't be both, can I?” said Harry. “I'm a boy.”
+
+Hermione stared at him, then said, “But you're a wizard!”
+
+“I'm a normal boy,” said Harry. “I've only ever been a girl once, and that was when I was transformed into a baby basilisk.” He looked at Hermione. “Why do you think you're the only one who can't get rid of me?”
+
+“ Because you don't exist,” said Hermione. “You don't exist at all.” She stared at him, and her eyes seemed to burn. “You don't exist in the body you 've been dressing as me, Harry, and you don't exist in any of the bodies you've been pretending to be.”
+
+“But how could I be you if I've never been, or pretended to be, anything?” said Harry. “How could I be you if I never had a name?” He looked at Hermione, and she smiled.
+
+“I've been pretending to be you all my life,” she said. “I've had your face, your voice, your eyes. I've pretended to be you all over the place.” She took a deep breath. “I'm you, Harry Potter.”
+
+“But I'm you, too, Hermione,” said Harry. “I've been pretending to be you ever since I was a little boy.”
+
+“We're not pretending anymore, Harry,” said Hermione. “You've got to be honest with yourself, Harry. You can't pretend anymore. You're real.”
+
+But Harry wasn't listening. He was suddenly angry at Hermione too. “I'm not real, she's not real, we're not pretending anymore,” he said loudly.
+
+“We can't stop pretending, Harry,” she said, looking suddenly as though she was trying to decide whether or not to continue crying. “We're the only ones who are.”
+
+He looked away, trying to ignore the look of horror on the faces around him. “You can't stop pretending, Hermione,” he repeated. “You've got to be honest with yourself. You can't pretend you don't exist, because then you'll be admitting you're real.”
+
+She looked at him strangely. “Harry, I'm right, you're not real.”
+
+He looked at the empty chair in front of him. It was empty. He looked around, and there was no sign of life in the room.
+
+“What's the matter?” said Ron, who was sitting next to Harry, staring at the empty chair.
+
+“I thought I was dead,” said Harry.
+
+“But I'm not dead, are you ?” said Ron, his eyes widening.
+
+“No,” said Harry, “I just realized it. I've been thinking about it a lot lately, and I think I've realized it. I've figured it out.” He looked at Ron, who looked even more bewildered.
+
+“Harry, you're not real, you can't be real, you're a figment of my mind, you can't be me, you're just a figment of my imagination, you can't be me, you're just a figment of my imagination, you're a figment of my imagination, you can't be me, you're just a figment of my imagination, you can't be me, you're just a figment of my imagination, you' re just a figment of my imagination, you're just a figment of my imagination, you can't be me, you're just a figment of my imagination, you're just a figment of my imagination, you're just a figment of my imagination, you're just a figment of my imagination, you're just a figment of my imagination, you're just a....“
+:PROPERTIES:
+:Author: rek-lama
+:Score: 2
+:DateUnix: 1569098049.0
+:DateShort: 2019-Sep-22
+:END:
+
+*** The bot is confused who it should be when it grows up ...
+:PROPERTIES:
+:Author: jshek
+:Score: 1
+:DateUnix: 1569098158.0
+:DateShort: 2019-Sep-22
+:END:
+
+
+** *I'm Sorry, Harry*
+
+“I'm going to kill you,” said Harry.
+
+“I'm going to kill you, too,” said Crookshanks. “I've got a plan.”
+
+“What plan?”
+
+“I've got a plan,” said Crookshanks, and he raised his fist. “I'll show you my real body---”
+
+“You don't have to do anything.”
+
+Crookshanks raised his hand and pointed at his belly. Harry saw the blackened, scabbed hand disappear into his intestines; Crookshanks raised his own fist and threw it, too, into his guts. Harry saw his body disappear, too, and felt a surge of rage that he had never felt before. He had never been violent before, but he had never felt so angry before. He ran at Crookshanks, arms outstretched, fists clenched, and the two of them were fighting so fiercely that the sound of their voices was drowned by the roar of the crowd.
+
+Harry saw a hand smash a window and saw a small, bloodstained owl fall through the gap between the tables onto the floor, then a second window smashed, and a third, and a fourth, and a fifth, and a sixth, and a seventh, and a seventh, and a seventh, and Hermione was screaming, “Owls! Owls! Owls everywhere, owls everywhere!”
+
+Harry was too busy trying to break open the owl's beak to hear what was going on around him. He was so frightened that he didn't notice that Malfoy was standing on his own head, trying to eat it. Harry looked around at the people who were still there, and saw that they were all staring at him. He saw Hermione's eyes widen, and Ron's, and Ginny's, and Seamus's, and Dean's, and Neville's, and Ginny's, and Seamus's mother. Harry didn't know what to do. He had never seen his mother so scared.
+
+He turned back to the door, and with a loud bang, the door flew open and the rest of the school burst into flames.
+:PROPERTIES:
+:Author: calli3flower
+:Score: 2
+:DateUnix: 1569098554.0
+:DateShort: 2019-Sep-22
+:END:
+
+
+** u/Choice_Caterpillar:
+#+begin_quote
+  "Ron, stop!" Said Hermione sharply. "I don't want to talk to you about that. We'll go somewhere else and get some sleep." "But you're not going to tell me what to do!" said Ron, who was rubbing his
+#+end_quote
+
+Uh oh...
+:PROPERTIES:
+:Author: Choice_Caterpillar
+:Score: 2
+:DateUnix: 1569104236.0
+:DateShort: 2019-Sep-22
+:END:
+
+
+** Death->Alt Dimension fic
+
+Voldemort was near. Harry felt the cold metal of the Cruciatus Curse press down on his insides, and the pain in his scar was growing worse. The pain that was making him feel the pain in the world, the pain that was making him kill. Harry knew he had to do it. He had to do it. He had to kill the man who had made him feel the pain in the world. He had to kill him. He had to kill him. He had to kill...
+
+“HARRY!” Harry felt a jolt of terrible strength in his scar. He was going to do it. “I'm going to kill you!” The pain in his scar was growing worse and worse. He could feel the blood coursing through his body, could feel it pulsing in his chest. He was going to kill himself.
+
+He had to kill... “You're dead,” said the voice behind him, and it was the very last thing Harry expected. He fell to the ground, his hands over his face.
+
+He opened his eyes. He was lying in a bed in a hospital wing. His eyes were open. He was wearing the glasses. He was holding a glass of water. He was holding it in his other hand. He was holding the wand.
+
+He was breathing. He was alive. He was Harry James Potter. “I'm sorry,” he said. “I didn't mean to kill you.” “I didn't kill you,” said the voice again. “I'm sorry, Harry.” “What d'you mean?” said the other, standing up. “What did you say?”
+
+The other Harry was very tall. He was wearing glasses. He was carrying something. He was holding a wand. He was holding the wand. “The wand,” said the other Harry, “that's what I was going to use to kill you.” “And what did you take?” said the other, still standing. “A bottle.” “The bottle,” said the other Harry, “I took the wand.” “Oh, really!” said the other Harry. “And what did you do with it?” “I --- I ---” the other Harry looked bewildered. “I don't know. I don't know.” “Then you'll have to try harder than usual,” said the caretaker, who was now glaring at the other Harry. “I expect you'll have to try harder than usual in the coming weeks.” “I don't know what you're talking about,” said the other Harry quickly. “I'm sorry.” “Don't be sorry!” growled the caretaker. “Harry Potter is not going to be asked to do anything stupid like this again.” The other Harry looked even more bewildered. “So you're going to have to try harder than usual, too?” he said. “I like being told how to do things!” The caretaker glared at him. “You do like it, don't you, Harry Potter..."
+:PROPERTIES:
+:Author: UnidimensionalBolo
+:Score: 2
+:DateUnix: 1573216924.0
+:DateShort: 2019-Nov-08
+:END:
+
+*** This is very good lol!
+
+I can tell you definitely cleaned up some of the buggy areas too when the bot gets confused :)
+:PROPERTIES:
+:Author: jshek
+:Score: 1
+:DateUnix: 1573286713.0
+:DateShort: 2019-Nov-09
+:END:
+
+**** actually, I changed next to nothing! I just didn't select phrases that kept on repeating.
+:PROPERTIES:
+:Author: UnidimensionalBolo
+:Score: 1
+:DateUnix: 1573296568.0
+:DateShort: 2019-Nov-09
+:END:
+
+
+** By any chance did Andrew Ng play an important role in your ML Knowledge base. My CS friends swear by Andrew Ng for ML self-study. I think he has a course up on Coursera , right?
+
+Good work though!
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1569079166.0
+:DateShort: 2019-Sep-21
+:END:
+
+*** I sort of used it, I ended up listening to a lot of ML podcasts to get up to speed. Even now, I don't really feel that good at my skill level in ML (it's a pretty hard field where tutorials are pretty rough around the edges).
+
+A lot of people also swear by fast.ai!
+:PROPERTIES:
+:Author: jshek
+:Score: 1
+:DateUnix: 1569118324.0
+:DateShort: 2019-Sep-22
+:END:
+
+**** I get what you mean, wanted to take ML as my CS minor elective, instead ended up taking networks because of just how hard this is.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1569119379.0
+:DateShort: 2019-Sep-22
+:END:
+
+***** If I had to recommend, CS as your major obv. means you're going to have plenty of job offers when you graduate, but I'd take as many things that make you program in Python at the moment. I don't know electives truly fit that lol. I'd also recommend spaced repetition for early software engineers, but I've written too much about that already.
+
+I'm betting (and this is a bit of a bet on myself too) is that software engineers that can implement ML solutions (aka applied AI, which is what writeup.ai really is) are going to be the next big wave. Right now it's mostly academics writing ML code -- which is frequently a spaghetti monster and doesn't scale well. So if you can get really good at structuring code, managing large codebases, unit tests, etc. you'll be well-suited to learn ML much faster. I look at most ML codebases and I'm just shocked they run. You can tell there was a lot of unnecessary frustration in their debugging attempts that could have been avoided.
+
+For example, when I made this app, the hard part in ML realistically took about 1-2 weeks (and that was prob because I sucked at PyTorch). The hard part was making it scale, automated deployments, handling race conditions -- all software engineering problems.
+
+Hope this is helpful! Caution: I'm obviously biased because I don't come from academia and have more of a self-taught software engineering background.
+:PROPERTIES:
+:Author: jshek
+:Score: 2
+:DateUnix: 1569139064.0
+:DateShort: 2019-Sep-22
+:END:
+
+****** u/deleted:
+#+begin_quote
+  Right now it's mostly academics writing ML code
+#+end_quote
+
+I'm aware of this and yes when I did think of my CS minors, it wasn't even with job in mind.I wanted to concentrate on my majors so ML being tough for someone from outside CS especially, made my decision. However, I checked out fast.io, a pretty cool site especially for someone really passionate about ML. If I do end up taking ML in future, I'll take your suggestions, thanks!
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1569167593.0
+:DateShort: 2019-Sep-22
+:END:
+
+
+** Harry Potter and the Monster Within; or the one where no one knows what it means
+
+His scar began to sense the chill of death. “I'm dead,” he said, and he walked away, out of sight. “The whole of Gryffindor House is in mourning,” said Dumbledore. “I don't know how you can say it, Harry, but I feel as though you have been poisoned. ...” “I've been poisoned,” said Harry, his mouth dry. “I was there. I saw what happened. I know what it means.” “But you don't know what it means,” said Dumbledore. “You haven't been there. You have no idea what it means. You don't know what it means at all.” “I know what it means,” said Harry, his voice shaking. “I know what it means, because I've been hurt by it.” Dumbledore looked down at his own hand, then at Harry. “You have been hurt,” he said, “and you must be punished.” “I' ve been hurt,” Harry repeated. “I've hurt people. I've hurt people.” “You've hurt more people than you know, Harry,” said Dumbledore. “You've killed more people than you know.” Dumbledore lifted his wand. “I will punish you, Harry, as you punish me,” said Dumbledore. “I will give you a choice. You can continue to suffer and suffer and suffer and suffer until you give up, or you can give up now and I will punish you.” “I'll give up,” said Harry, his fists still clenched. “I'll give up.” Dumbledore raised his wand again. “You will kill me, Harry. I will return to this place and time and space and kill you.” “I'll do it,” said Harry. “I'll do it.” “Good,” said Dumbledore. “Now, I want you to imagine what it would be like for me to be standing here in this office, and you'll be the only wizard alive, and I'll have a sword in my hand, and you'll be able to talk to me like you'd talked to me in the Chamber of Secrets. And I'll tell you, Harry, that you're not very smart. You can try and defend yourself against me, but you won't be able to.” Harry looked up. He could hear the distant thud of the door closing. He was going to be murdered. His heart was beating very fast. He wanted to run. He wanted to scream, but he didn't dare. He didn't want to appear weak. He didn't want to appear stupid. And then the door opened again. This time it was Snape, and he was holding the sword in his hand. Harry stood there, dumbstruck, stunned, and then --- Snape was holding the sword in his hand. He was laughing. He was very pleased with himself. He was showing Harry the very worst thing that could happen to him. He was going to show him exactly what he was afraid of and then laugh as he killed him.... He was going to show Harry exactly what he was afraid of. ... Snape was going to kill him. ... Snape was going to kill him. ... Snape was going to kill him. ... “I'm going to kill you, Potter!” he said, and he made the most horrible, almost sickening noise that Harry had ever heard. ... He was going to kill him. ... Harry stood there, dumbstruck, stunned, and he knew at last the monster that had been inside him was going to be killed. ... He stood there, and as the words that had just escaped his mouth floated to the surface of his mind, he realized that he was standing in the place where Voldemort had died, and Voldemort had killed him. ... He stood there, and he saw Voldemort's face, and he was going to kill him. ... “You're going to kill me, Potter!” he said, and he held out his hand. Harry took it. “I'm sorry,” he said, and he held out his own. “We'll die together.”
+:PROPERTIES:
+:Author: darklordheidi
+:Score: 1
+:DateUnix: 1569084232.0
+:DateShort: 2019-Sep-21
+:END:
+
+
+** Yeet, I am a Gryffindor, and I am not a bad Boy-Who-Lived. I am, however, a little nervous, because I have never been on a broomstick before, and I am not sure I am up to it. And I am not the only one who is nervous. I am afraid I am the only one who can do it, because I am not very good with the wand. I am afraid I will not be able to do the simplest of tasks properly.” “You can do the simplest of tasks properly?” repeated Harry. “Yes, I can,” said Hermione. “You just have to ask nicely.” “Ask me what?� Harry muttered. “I'm not asking you to do anything, I'm asking you how you're going to do it.” “I'm not doing it, I' m sorry, I'm not ---” “You're not doing it, Harry!” said Hermione in a shrill voice. “You are not doing the Dursleys's new broom, you don't know how, you don't have the brains, you don't have the ---” “I don't have ---” began Harry, but Hermione seized his arm and pulled him away from her. “I don't want to talk about it, I don't want to hear it from you, and I'm sure you're right, I don't want to hear it either.” “But I don't want to hear it from you either!” said Hermione, eyes blazing. “I want to hear it from you, Harry! I want to hear it from you that you don't want to talk to me!” She seized his wrist again. “You're not going to let me talk to you, are you?” she said, her eyes blazing. “You're not going to let me?” Harry looked at her. “I'm going to be all right, Hermione, I'm going to be all right.” “You're going to be dead, aren't you?” said Hermione, her voice shaking.
+
+Better than expected
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1569094651.0
+:DateShort: 2019-Sep-21
+:END:
+
+
+** The Prompt: Harry Potter wanted to his change his appearance and name and escape the country.
+
+(I changed some tenses to make it somewhat coherent)
+
+--------------
+
+He needed to find a new name, a new identity. He needed a place to stay, a new name. He thought that if he could just get a new wand, he could find a safe place to call home.
+
+--------------
+
+Harry had never been able to find a wand that was as good as the one his mother had given him. He had never found a wand that would help him. He had never found a wand that would help him so badly. But now... He had a wand, and it would save him so many times. He would never be able to get rid of it, and he would never want to get rid of it. He was sure that he would never be able to get rid of it, that it would always be there, waiting to be used. It had been there, waiting for him. And now, at last, it was his.
+
+“I've found the wand that will protect me,” said Harry, his voice shaking as he spoke. “It'll help me. It's mine.”
+
+He raised his wand, and the wand that had been waiting for him, the wand that had been waiting for him all along, the wand that he had been trying to get away from, but had failed to do all along, the wand that he had been so sure would never be able to help him at all, the wand that he had been so afraid of...
+
+And he felt the wand touch his forehead, and his heart was lifted, and his scar hurtled through his fingers, and he felt the wand leave him... And he was free, and everything was right again... but he was not free, he was not right, he was not... he had been wrong, he had been stupid, he had been a coward... He had been a coward, he had been a coward who had been stupid...
+
+“Harry,” Hermione said, her voice very high and very cold, “you'd better get a grip on yourself.”
+
+“I don't think I can,” said Harry.
+
+He rubbed his forehead, his scar was starting to burn again, and he looked around at the others, and he said, “We're supposed to be the ones who break the rules, not the other way around.”
+
+“That's exactly what we thought,” said Ron, “You're the one who needs a break, Harry. We're supposed to be the ones breaking the rules.”
+
+Harry and Ron looked at each other.
+
+“I'm sorry,” said Harry, “but I think I'm going to have to go and see Professor McGonagall about this.” He turned to go.
+
+Ron looked at Hermione. “What about Harry?” said Ron. “I'm sure he's fine,” said Hermione, “He's just been really stressed out.”
+
+They were both right. Harry had been really stressed out. He had been talking to Ron and Hermione in a very high-pitched voice; they had both been listening intently. He had been trying to explain to them what had happened, and how he and Voldemort had come to blows. He had been trying to make them understand that he was not going to lay the blame for his own defeat at the door of Voldemort's wand, but that he and Voldemort had both made some mistakes that day, and that he would have to learn from them. He had been trying to make them understand that he needed them more than ever, and that Voldemort had been the one who had called him to this.
+
+--------------
+
+“And now, I think, I think we ought to make a deal,” said Dumbledore. “You must promise to return to Hogwarts after your term's end, and to tell me the truth about Voldemort. Tell me everything you know about the Dark Lord. “I'll do that,” said Harry, and after a pause, “but I don't want to tell you everything. I don't think I can.” “You can,” said Dumbledore. “You can tell me everything you know about the Dark Lord, and Voldemort will never be able to hurt you again.” “I don't want to tell you everything,” said Harry. “I don't think I can do it. I don't think I can live like this. I'm not like you. I don't deserve to be like you." “You're not like him,” said Dumbledore. “You're different. You're brave, you're smart, and you're clever. You're not like him.” “I don't think I'm like him,” said Harry. “I'm different. I'm smarter, stronger, and more noble than he is.” “You're not like him,” said Dumbledore again. “You think you're better than him. You think you can beat him.” Harry looked up at Dumbledore. �
+:PROPERTIES:
+:Author: Termsndconditions
+:Score: 1
+:DateUnix: 1569135128.0
+:DateShort: 2019-Sep-22
+:END:
+
+
+** What have you unleashed upon this world....?
+:PROPERTIES:
+:Author: VeelaBeGone
+:Score: 1
+:DateUnix: 1569188854.0
+:DateShort: 2019-Sep-23
+:END:

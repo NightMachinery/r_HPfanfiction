@@ -1,0 +1,69 @@
+#+TITLE: (misc) a fan fiction downloader I had made for me.
+
+* (misc) a fan fiction downloader I had made for me.
+:PROPERTIES:
+:Author: bradley22
+:Score: 31
+:DateUnix: 1530928742.0
+:DateShort: 2018-Jul-07
+:FlairText: Misc
+:END:
+Hello.
+
+I'm completely blind. I was talking to a guy called Frederik and he asked me how he could help blind people. I told him about fanfiction.net and how I enjoyed fan fiction.
+
+He said it was completely find to give the link to who ever I'd like so here it is: [[https://github.com/woafu/FanfictionDownloader]]
+
+No, you don't have to be blind to use this program.
+
+It can only make plain text files for now, (it's easier to read with a screen reader) but if you add requests, he should get to them when he has time.
+
+It's a very simple program, you download it, put it where you want the file/folder to appear, find the fanfiction.net link you want to download, open the program, paste the link and press enter.
+
+
+** Wow. This is amazing, thank you for sharing!
+:PROPERTIES:
+:Author: patil-triplet
+:Score: 5
+:DateUnix: 1530935328.0
+:DateShort: 2018-Jul-07
+:END:
+
+*** I'm glad you enjoy it.
+:PROPERTIES:
+:Author: bradley22
+:Score: 5
+:DateUnix: 1530939560.0
+:DateShort: 2018-Jul-07
+:END:
+
+
+** [[http://ff2ebook.com/]]
+
+[[http://www.omnibuser.com/]]
+
+I don't think you need any special software, normal screenreaders for blind people should be able to read any of those webs, and most ereaders this days come with TTS.
+
+Also, fanfiction.net has an android app with download support and TTS.
+:PROPERTIES:
+:Author: Edocsiru
+:Score: 4
+:DateUnix: 1530969331.0
+:DateShort: 2018-Jul-07
+:END:
+
+*** Thanks. I use a screen reader called NVDA on my laptop. The reason I have the fan fiction downloader is so that I can download fan fiction for reading when the internet is down or I feel like reading offline.
+:PROPERTIES:
+:Author: bradley22
+:Score: 1
+:DateUnix: 1530976326.0
+:DateShort: 2018-Jul-07
+:END:
+
+**** I prefer the downloader Frederik made for me. It downloads everything I want but thanks again for the links.
+:PROPERTIES:
+:Author: bradley22
+:Score: 1
+:DateUnix: 1530976708.0
+:DateShort: 2018-Jul-07
+:END:

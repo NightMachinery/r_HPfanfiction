@@ -1,0 +1,44 @@
+#+TITLE: [Misc] Can't access HPfanficarchive
+
+* [Misc] Can't access HPfanficarchive
+:PROPERTIES:
+:Author: JwalksWithU
+:Score: 2
+:DateUnix: 1521060617.0
+:DateShort: 2018-Mar-15
+:END:
+Hi, I'm having issues getting onto HPfanficarchive. When I click on a link to the site I get a 403 forbidden message. Does anyone know why I would be receiving this message and how I would fix it?
+
+
+** People from certain countries or using certain ISPs have problems getting to that site, that's not the first time someone has this problem. Try something like anonymouse, if you can get in via that or something similar then that's what's happening for you.
+:PROPERTIES:
+:Author: Kazeto
+:Score: 3
+:DateUnix: 1521154311.0
+:DateShort: 2018-Mar-16
+:END:
+
+
+** It's working for me now, so it might be on your end or it was just temporarily down.
+:PROPERTIES:
+:Author: AraelStannis
+:Score: 1
+:DateUnix: 1521072792.0
+:DateShort: 2018-Mar-15
+:END:
+
+*** It has to be on my end. Like I was saying I get a 403 forbidden message saying "You don't have permission to access /stories/ on this server.". I have no idea why I would be getting this message (I've had to use vpns to get around it in the past).
+:PROPERTIES:
+:Author: JwalksWithU
+:Score: 1
+:DateUnix: 1521074673.0
+:DateShort: 2018-Mar-15
+:END:
+
+**** Maybe they banned certain IPs.
+:PROPERTIES:
+:Author: Tobata
+:Score: 1
+:DateUnix: 1521107597.0
+:DateShort: 2018-Mar-15
+:END:

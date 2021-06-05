@@ -1,0 +1,38 @@
+#+TITLE: Oddball request...
+
+* Oddball request...
+:PROPERTIES:
+:Author: cheesercorby
+:Score: 3
+:DateUnix: 1534731327.0
+:DateShort: 2018-Aug-20
+:FlairText: Request
+:END:
+I was wondering if anyone has come up with a way to take a list of ffnet stories (either links, or title/author type list) and auto search AO3 to see if those stories exist on the other site and provide links?
+
+
+** I'm pretty sure ffnbot could do it.
+
+For example, let's try linkao3(Seventh Horcrux by Emerald Ashes). If it exists, it should show up.
+:PROPERTIES:
+:Author: A2i9
+:Score: 3
+:DateUnix: 1534753592.0
+:DateShort: 2018-Aug-20
+:END:
+
+*** looking for something more along the lines of a batch operation, as I literally have hundreds, if not more, that I want to check
+:PROPERTIES:
+:Author: cheesercorby
+:Score: 2
+:DateUnix: 1534766248.0
+:DateShort: 2018-Aug-20
+:END:
+
+**** I believe anyone who's indexed the various sites could do it, but some of the stories get uploaded under different names. You should be able to use Google as well?
+:PROPERTIES:
+:Author: Duck_Giblets
+:Score: 4
+:DateUnix: 1534789613.0
+:DateShort: 2018-Aug-20
+:END:

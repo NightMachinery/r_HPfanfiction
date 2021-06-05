@@ -1,0 +1,446 @@
+#+TITLE: Big Bot Updates!
+
+* Big Bot Updates!
+:PROPERTIES:
+:Author: tusing
+:Score: 143
+:DateUnix: 1522651616.0
+:DateShort: 2018-Apr-02
+:END:
+I decided to put some more work into the bot this recently, polishing out some features and implementing other commonly requested ones.
+
+Noticeable front-end (user-facing) improvements:
+
+- Replies are finally *in order*! The bot will reply in the same order that you list your stories! This was one of the most commonly requested features and the most frustrating aspect of the bot as reported by many users.
+
+- The story limit per user has been lifted from 30 fics per day to 60.
+
+- =linksub= actually works now. Use this feature to recommend /all fics from a thread/ (with v2.0.0+ bot comments). Take a look: *linksub([[https://www.reddit.com/r/HPfanfiction/comments/88rq4j/unique_well_done_fics/]])*. You can recommend multiple threads like this, separated by semicolons. You can also use hyperlinks or just the sub ID =88rq4j= in the parentheses when using this, instead of the full URL.
+
+- Context markers like ffnbot!slim, ffnbot!refresh also work better now.
+
+- Replies will be much faster!
+
+- Links should look better on the official iOS app. I'd still recommend you switch to [[https://itunes.apple.com/app/id979274575][Apollo]] if you're using Reddit on iOS!
+
+Remember to take a look at the sidebar for advanced usage instructions!
+
+--------------
+
+Back-end improvements:
+
+- Refactor: Code is /much/ cleaner.
+
+- Less state: Bot does not need to know which comments it has replied to anymore. (Before this update, the bot was keeping track of 387,804 comments and submissions. Now it keeps track of 1.)
+
+- Streams: Comments on the subreddit are immediately pushed to the bot now.
+
+- OAuth: More secure and less rate limiting by Reddit.
+
+- PRAW 5.4.0: Not using an outdated API anymore.
+
+- Config file support: You don't need to edit the bot's python scripts to customize it.
+
+--------------
+
+Anyways, bugs are likely. I've not tested the bot much. If there's a severe bug we might have to switch back for a bit, but hopefully not. Remember to PM me if you come across any bugs!
+
+
+** You are a god damn hero. Thank you.
+:PROPERTIES:
+:Author: Wirenfeldt
+:Score: 41
+:DateUnix: 1522658161.0
+:DateShort: 2018-Apr-02
+:END:
+
+
+** Thanks for the work you put in to make this sub better.
+:PROPERTIES:
+:Author: ScottPress
+:Score: 23
+:DateUnix: 1522658348.0
+:DateShort: 2018-Apr-02
+:END:
+
+
+** [[https://www.fanfiction.net/s/5150093/1/][*/The Skitterleap/*]] by [[https://www.fanfiction.net/u/980211/enembee][/enembee/]] (65,165 words; /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=5150093&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=5150093&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  Fifty years ago, Grindelwald won the duel that shaped the world. In a land overwhelmed by darkness, a hero emerges: a young wizard with the power, influence and opportunity to restore the light. Harry Potter, caught up in a deadly game of cat and mouse, must decide what he truly believes. Does this world deserve redemption? Or, more importantly, does he?
+#+end_quote
+
+[[https://www.fanfiction.net/s/7287278/1/][*/Harry Potter and the Forests of Valbonë/*]] by [[https://www.fanfiction.net/u/980211/enembee][/enembee/]] (115,748 words; /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=7287278&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=7287278&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  Long ago the Forests of Valbonë were closed to wizards and all were forbidden to set foot within them. So when, at the end of his second year, Harry becomes disenchanted with his life at Hogwarts, where else could he and his unlikely band of cohorts want to go? Join Harry on a trip into the unknown, where the only certainty is that he has absolutely no idea what he's doing.
+#+end_quote
+
+[[https://www.fanfiction.net/s/3766574/1/][*/Prince of the Dark Kingdom/*]] by [[https://www.fanfiction.net/u/1355498/Mizuni-sama][/Mizuni-sama/]] (1,253,480 words; /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=3766574&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=3766574&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  Ten years ago, Voldemort created his kingdom. Now a confused young wizard stumbles into it, and carves out a destiny. AU. Nondark Harry. MentorVoldemort. VII Ch.8 In which someone is dead, wounded, or kidnapped in every scene.
+#+end_quote
+
+[[https://www.fanfiction.net/s/8197451/1/][*/Fantastic Elves and Where to Find Them/*]] by [[https://www.fanfiction.net/u/651163/evansentranced][/evansentranced/]] (38,289 words; /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8197451&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=8197451&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  After the Dursleys abandon six year old Harry in a park in Kent, Harry comes to the realization that he is an elf. Not a house elf, though. A forest elf. Never mind wizards vs muggles; Harry has his own thing going on. Character study, pre-Hogwarts, NOT a creature!fic, slightly cracky.
+#+end_quote
+
+[[https://www.fanfiction.net/s/3473224/1/][*/The Denarian Renegade/*]] by [[https://www.fanfiction.net/u/524094/Shezza][/Shezza/]] (234,997 words; /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=3473224&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=3473224&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  By the age of seven, Harry Potter hated his home, his relatives and his life. However, an ancient demonic artefact has granted him the powers of a Fallen and now he will let nothing stop him in his quest for power. AU: Slight Xover with Dresden Files
+#+end_quote
+
+[[https://www.fanfiction.net/s/6919395/1/][*/The Changeling/*]] by [[https://www.fanfiction.net/u/763509/Annerb][/Annerb/]] (189,186 words; /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=6919395&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=6919395&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  Ginny is sorted into Slytherin. It takes her seven years to figure out why.
+#+end_quote
+
+[[https://www.fanfiction.net/s/12304702/1/][*/Red Right Hand/*]] by [[https://www.fanfiction.net/u/1876812/Nautical-Paramour][/Nautical Paramour/]] (156,878 words; /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12304702&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12304702&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  The war didn't end when Harry and Voldemort fell. Hermione refuses to feel helpless any longer, and goes back in time to remove the scar that an unloved Tom Riddle left on the wizarding world. Tangled in the pureblood sphere, will Hermione just become another cog in Tom Riddle's plans? Final pairing is a secret! But not a Tomione. Lestrange OC. Parent!Hermione Child!Tom. COMPLETE!
+#+end_quote
+
+[[https://www.fanfiction.net/s/9911469/1/][*/Lily and the Art of Being Sisyphus/*]] by [[https://www.fanfiction.net/u/1318815/The-Carnivorous-Muffin][/The Carnivorous Muffin/]] (310,043 words; /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9911469&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=9911469&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  As the unwitting personification of Death, reality exists to Lily through the veil of a backstage curtain, a transient stage show performed by actors who take their roles only too seriously. But as the Girl-Who-Lived, Lily's role to play is the most important of all, and come hell or high water play it she will, regardless of how awful Wizard Lenin seems to think she is at her job.
+#+end_quote
+
+[[https://www.fanfiction.net/s/2006636/1/][*/Catechism/*]] by [[https://www.fanfiction.net/u/584081/Dreamfall][/Dreamfall/]] (113,569 words; /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=2006636&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=2006636&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  AU The Dursleys taught Harry to fear and hate magic and all things magical including himself. Now how long will it take the wizarding world see the damage done? And can they ever hope to fix it? Disturbing. WIP
+#+end_quote
+
+[[https://www.fanfiction.net/s/4563439/1/][*/Ectomancer/*]] by [[https://www.fanfiction.net/u/1548491/RustyRed][/RustyRed/]] (103,911 words; /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=4563439&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=4563439&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  Falling through puddles and magic gone haywire are just a few of Harry's newest problems. With the Ministry falling apart and Voldemort unearthing ancient secrets, will Harry uncover the truth in time? Post-OotP.
+#+end_quote
+
+[[https://www.fanfiction.net/s/12132374/1/][*/Six Pomegranate Seeds/*]] by [[https://www.fanfiction.net/u/981377/Seselt][/Seselt/]] (165,268 words; /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12132374&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12132374&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  At the end, something happened. Hermione clutches at one fraying thread, uncertain whether she is Arachne or Persephone. What she does know is that she will keep fighting to protect her friends even if she must walk a dark path. *time travel*
+#+end_quote
+
+[[https://www.fanfiction.net/s/12410115/1/][*/Harry the Blood Demon/*]] by [[https://www.fanfiction.net/u/5192205/wille179][/wille179/]] (29,720 words; /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12410115&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12410115&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  There is a lot more to magic than simply waving a wand and saying a spell, something Harry Potter knows all too well. After all, when a mere mouth full of someone else's blood can drastically alter your life, learning magic's secrets is a must. (Amoral!Monstrous!Ravenclaw!Harry. No bashing, no romance.)
+#+end_quote
+
+[[https://www.fanfiction.net/s/7816829/1/][*/Friends/*]] by [[https://www.fanfiction.net/u/3164869/glue-and-tar][/glue and tar/]] (21,698 words; /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=7816829&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=7816829&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  Instead of making new friends on the Hogwarts Express in 1995, Luna loses the only one she has. In the lonely year that follows, she discovers just how well the name 'Loony Lovegood' fits her. Insane!Luna. Very dark.
+#+end_quote
+
+[[https://www.fanfiction.net/s/3994212/1/][*/Harry Potter and the Sword of the Hero/*]] by [[https://www.fanfiction.net/u/557425/joe6991][/joe6991/]] (338,022 words; /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=3994212&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=3994212&source=ff&filetype=mobi][MOBI]])
+
+#+begin_quote
+  The Hero Trilogy, Part One. After the tragedy of his fifth-year, Harry Potter returns to Hogwarts and to a war that will shake the Wizarding and Muggle worlds to their very core. Peace rests on the edge of a sword, and on the courage of Harry alone.
+#+end_quote
+
+[[https://archiveofourown.org/works/3111215][*/these little powerless bones/*]] by [[https://www.archiveofourown.org/users/dirgewithoutmusic/pseuds/dirgewithoutmusic/users/Shmaylor/pseuds/Shmaylor][/dirgewithoutmusicShmaylor/]] (841 words; /Download/: [[https://archiveofourown.org/downloads/di/dirgewithoutmusic/3111215/these%20little%20powerless%20bones.epub?updated_at=1420354800][EPUB]] or [[https://archiveofourown.org/downloads/di/dirgewithoutmusic/3111215/these%20little%20powerless%20bones.mobi?updated_at=1420354800][MOBI]])
+
+#+begin_quote
+  'well,' says the hat, 'better be slytherin then'
+#+end_quote
+
+--------------
+
+/slim!FanfictionBot/^{2.0.0-beta} Note that some story data has been sourced from older threads, and may be out of date.
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 8
+:DateUnix: 1522651636.0
+:DateShort: 2018-Apr-02
+:END:
+
+*** i notice that these don't say if they're complete. Was that always the case for slim bot?
+:PROPERTIES:
+:Author: Togop
+:Score: 3
+:DateUnix: 1522750634.0
+:DateShort: 2018-Apr-03
+:END:
+
+
+** Thanks for making the updates. Is there a way to make the bot links click-able from the Reddit app on iOS? Currently I have to reopen threads in Safari if I want to click on a bot link.
+:PROPERTIES:
+:Author: Whapples
+:Score: 8
+:DateUnix: 1522677092.0
+:DateShort: 2018-Apr-02
+:END:
+
+*** Could you PM me a picture of the issue? From what I understand the iOS app incorrectly parses Markdown, making bot links not really work properly.
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1522677488.0
+:DateShort: 2018-Apr-02
+:END:
+
+**** This might help: [[https://imgur.com/a/ADT0R]]
+:PROPERTIES:
+:Author: aldonius
+:Score: 2
+:DateUnix: 1522678094.0
+:DateShort: 2018-Apr-02
+:END:
+
+***** I suspect it might be the backslashes before the periods in the URLs of the fic link and the author link. Testing by manual removal:
+
+[[http://www.fanfiction.net/s/7287278/1/][*/Harry Potter and the Forests of Valbonë/*]] by [[https://www.fanfiction.net/u/980211/enembee][/enembee/]] (115,748 words; /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=7287278&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=7287278&source=ff&filetype=mobi][MOBI]])
+:PROPERTIES:
+:Author: aldonius
+:Score: 2
+:DateUnix: 1522678207.0
+:DateShort: 2018-Apr-02
+:END:
+
+****** Good catch. Pushed an update.
+
+Does it work for you guys now, [[/u/aldonius]] and [[/u/Whapples]]?
+
+linkffn(Forests of Valbone)
+:PROPERTIES:
+:Author: tusing
+:Score: 5
+:DateUnix: 1522684195.0
+:DateShort: 2018-Apr-02
+:END:
+
+******* Yes, beautiful! Thank you so much!!
+:PROPERTIES:
+:Author: Whapples
+:Score: 5
+:DateUnix: 1522684861.0
+:DateShort: 2018-Apr-02
+:END:
+
+******** Awesome. Are the footer-style links still broken? Could you post a screenshot by any chance?
+:PROPERTIES:
+:Author: tusing
+:Score: 3
+:DateUnix: 1522684894.0
+:DateShort: 2018-Apr-02
+:END:
+
+********* oh my god you saint
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1522686134.0
+:DateShort: 2018-Apr-02
+:END:
+
+
+********* My god you are a hero. I can actually use links from the bot now in the official app. No more googling fic titles! Awesome!
+:PROPERTIES:
+:Author: thezachalope
+:Score: 4
+:DateUnix: 1522803167.0
+:DateShort: 2018-Apr-04
+:END:
+
+
+********* Here you go:
+
+[[https://imgur.com/gallery/jYZan]]
+:PROPERTIES:
+:Author: Whapples
+:Score: 1
+:DateUnix: 1522685764.0
+:DateShort: 2018-Apr-02
+:END:
+
+********** Confirming that it looks the same for me in the official app.
+:PROPERTIES:
+:Author: aldonius
+:Score: 1
+:DateUnix: 1522689441.0
+:DateShort: 2018-Apr-02
+:END:
+
+
+******* [[https://www.fanfiction.net/s/7287278/1/][*/Harry Potter and the Forests of Valbonë/*]] by [[https://www.fanfiction.net/u/980211/enembee][/enembee/]]
+
+#+begin_quote
+  Long ago the Forests of Valbonë were closed to wizards and all were forbidden to set foot within them. So when, at the end of his second year, Harry becomes disenchanted with his life at Hogwarts, where else could he and his unlikely band of cohorts want to go? Join Harry on a trip into the unknown, where the only certainty is that he has absolutely no idea what he's doing.
+#+end_quote
+
+^{/Site/: [[https://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 49 *|* /Words/: 115,748 *|* /Reviews/: 2,145 *|* /Favs/: 2,550 *|* /Follows/: 2,582 *|* /Updated/: 6/29/2013 *|* /Published/: 8/14/2011 *|* /id/: 7287278 *|* /Language/: English *|* /Genre/: Adventure/Humor *|* /Characters/: Harry P., Sorting Hat *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=7287278&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=7287278&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1522684211.0
+:DateShort: 2018-Apr-02
+:END:
+
+
+******* Thank you! I've always wanted this!
+:PROPERTIES:
+:Author: aexime
+:Score: 1
+:DateUnix: 1522696083.0
+:DateShort: 2018-Apr-02
+:END:
+
+
+****** Yes, this works for me, too!
+:PROPERTIES:
+:Author: Whapples
+:Score: 2
+:DateUnix: 1522678484.0
+:DateShort: 2018-Apr-02
+:END:
+
+
+****** The official Reddit iOS app markdown processor also doesn't handle the footnote-style links properly, but it does at least display those as URLs, which I guess is a sort of progressive degradation.
+
+Meanwhile, Apollo handles it all perfectly. That was actually a big reason I switched! [[/r/apolloapp]]
+:PROPERTIES:
+:Author: aldonius
+:Score: 2
+:DateUnix: 1522679517.0
+:DateShort: 2018-Apr-02
+:END:
+
+
+****** Yep, those first two links work for me in the mobile app now.
+
+paging [[/u/tusing]] for a testing suggestion
+:PROPERTIES:
+:Author: aldonius
+:Score: 1
+:DateUnix: 1522678310.0
+:DateShort: 2018-Apr-02
+:END:
+
+
+***** ^{Hi, I'm a bot for linking direct images of albums with only 1 image}
+
+*[[https://i.imgur.com/mT4ET2a.png]]*
+
+^{^{[[https://github.com/AUTplayed/imguralbumbot][Source]]}} ^{^{|}} ^{^{[[https://github.com/AUTplayed/imguralbumbot/blob/master/README.md][Why?]]}} ^{^{|}} ^{^{[[https://np.reddit.com/user/AUTplayed/][Creator]]}} ^{^{|}} ^{^{[[https://np.reddit.com/message/compose/?to=imguralbumbot&subject=ignoreme&message=ignoreme][ignoreme]]}} ^{^{|}} ^{^{[[https://np.reddit.com/message/compose/?to=imguralbumbot&subject=delet%20this&message=delet%20this%20dwo9x29][deletthis]]}}
+:PROPERTIES:
+:Author: imguralbumbot
+:Score: 1
+:DateUnix: 1522678100.0
+:DateShort: 2018-Apr-02
+:END:
+
+
+*** This please!!!! I'm almost exclusively on mobile and I'd love if the links actually worked for me!
+:PROPERTIES:
+:Author: PsychoCelloChica
+:Score: 1
+:DateUnix: 1522678106.0
+:DateShort: 2018-Apr-02
+:END:
+
+**** Fixed! But you should consider switching to [[https://itunes.apple.com/app/id979274575][Apollo]], Reddit's official app is pretty unpolished. The issue with links is actually due to Reddit incorrectly parsing comment text rather than any issue on the bot's side.
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1522685448.0
+:DateShort: 2018-Apr-02
+:END:
+
+***** I'll look into it, but I've had terrible luck with 3rd party reddit apps over the years. As soon as I get attached to one it seems to shut down or stop being updated.
+:PROPERTIES:
+:Author: PsychoCelloChica
+:Score: 1
+:DateUnix: 1522690033.0
+:DateShort: 2018-Apr-02
+:END:
+
+
+** Thanks a lot for your work!\\
+Do you need any help running the bot? I'm sure a lot of us would be willing to chip a dollar or two in
+:PROPERTIES:
+:Author: Michael_Pencil
+:Score: 3
+:DateUnix: 1522666294.0
+:DateShort: 2018-Apr-02
+:END:
+
+*** Thanks, but nope!
+:PROPERTIES:
+:Author: tusing
+:Score: 3
+:DateUnix: 1522677776.0
+:DateShort: 2018-Apr-02
+:END:
+
+
+** Thanks for some awesome updates!
+:PROPERTIES:
+:Author: xoxo_gossipwhirl
+:Score: 1
+:DateUnix: 1522691222.0
+:DateShort: 2018-Apr-02
+:END:
+
+
+** That's awesome. Thanks for your hard work!
+
+Edit: Have you considered turning the bot into a recommendation engine? It could learn that two stories are similar if they are linked in the same thread (each time this happens increment the score). Then you could ask it for similar stories to a given fic and it lists the top 5... Would be a bit of work though ;)
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 1
+:DateUnix: 1522707942.0
+:DateShort: 2018-Apr-03
+:END:
+
+
+** I'm a bit late, but I'm incredibly happy to have clickable bot links on the official app now.
+
+I've been meaning to get Apollo, but I'm being lazy about it.
+:PROPERTIES:
+:Author: sicarius0218
+:Score: 1
+:DateUnix: 1522801041.0
+:DateShort: 2018-Apr-04
+:END:
+
+*** Thanks. Glad it works for you now :)
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1522801352.0
+:DateShort: 2018-Apr-04
+:END:
+
+
+** Unequivocally among the best bots on Reddit. The sub is so much better because of it.
+
+Any ways others like me could contribute to its development?
+
+Thanks for the great work!
+:PROPERTIES:
+:Author: error007
+:Score: 1
+:DateUnix: 1522987186.0
+:DateShort: 2018-Apr-06
+:END:
+
+*** Sure! If you are capable of programming in Python, check out the [[https://github.com/tusing/reddit-ffn-bot/issues][issues/feature requests on GitHub]] and try implementing one. Then just submit a PR!
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1523009364.0
+:DateShort: 2018-Apr-06
+:END:

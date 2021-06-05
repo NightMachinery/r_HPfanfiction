@@ -1,0 +1,89 @@
+#+TITLE: Making EPUB from fanfic links
+
+* Making EPUB from fanfic links
+:PROPERTIES:
+:Author: r-Sam
+:Score: 30
+:DateUnix: 1604411799.0
+:DateShort: 2020-Nov-03
+:FlairText: Misc
+:END:
+Just in case someone wasn't aware... you can use this page to drop fanfic links and get an ebook. I assumed everyone was using it, but I didn't see any specific posts about it. And it is really the best thing since sliced bread for someone who reads on a tablet.
+
+[[http://www.ff2ebook.com/]]
+
+The other big fanfic sites have download links. This thing is a lifesaver for me.
+
+
+** You can also use the fanficfare function on Calibre, if you're into the book management lyfe. :)
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 16
+:DateUnix: 1604417014.0
+:DateShort: 2020-Nov-03
+:END:
+
+
+** Many of us use [[https://github.com/JimmXinu/FanFicFare]] either as a command line application or the plugin for Calibre.
+:PROPERTIES:
+:Author: ceplma
+:Score: 7
+:DateUnix: 1604416986.0
+:DateShort: 2020-Nov-03
+:END:
+
+
+** Wow this is perfect timing. I just got my remarkable yesterday and wanted to read from there but didn't know how. Thanks!!
+:PROPERTIES:
+:Author: Flemseltje
+:Score: 2
+:DateUnix: 1604418669.0
+:DateShort: 2020-Nov-03
+:END:
+
+
+** Another thing is this sote keeps an archive of fics that were downloaded by it; great place to find lost or deleted fics.
+:PROPERTIES:
+:Author: DarthGhengis
+:Score: 2
+:DateUnix: 1604419485.0
+:DateShort: 2020-Nov-03
+:END:
+
+
+** I've been using this for a while lol
+
+Might I recommend combining this with Calibre?
+:PROPERTIES:
+:Author: Oh_Hi_There_Spider
+:Score: 1
+:DateUnix: 1604450550.0
+:DateShort: 2020-Nov-04
+:END:
+
+*** I have been doing it, actually.
+:PROPERTIES:
+:Author: RowanSkie
+:Score: 1
+:DateUnix: 1604465611.0
+:DateShort: 2020-Nov-04
+:END:
+
+
+** Thanks!
+
+I was actually dowbloading whole sites or throwing text in word, this might be better actually
+:PROPERTIES:
+:Author: MisterJeffa
+:Score: 1
+:DateUnix: 1604515338.0
+:DateShort: 2020-Nov-04
+:END:
+
+
+** SAMMY I use FANFICTION DOWNLOADER program!!! :) It's super easy and tiny, you just copy and paste a link and click download and it goes into any folder you want to as a EPUB or a MOBI or a PDF even. :) :)
+:PROPERTIES:
+:Score: -1
+:DateUnix: 1604418389.0
+:DateShort: 2020-Nov-03
+:END:

@@ -1,0 +1,185 @@
+#+TITLE: Dialogue flow
+
+* Dialogue flow
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1615399450.0
+:DateShort: 2021-Mar-10
+:FlairText: Request
+:END:
+[deleted]
+
+
+** Dialogue is the hardest part about writing, IMO - it's extremely difficult to make engaging, realistic dialogue that flows well. So don't despair!
+
+There are some decent resources out there about writing dialogue that might be worth searching out for ideas, as well as reading some dialogue in your favorite books/authors for examples - but one that I always mention for everything is to just read it out loud. That is my best method for catching things that are just /wrong/ - and to try to then re-word in a way that works out.
+
+For instance, let's take your first paragraph with someone speaking:
+
+#+begin_quote
+  Both Draco and Maggie were quite excited for next year as they would begin their very first term at Hogwarts then. Maggie, especially eager, said, " I'm so glad my fringe has become as long as the rest of my hair. It was very embarrassing when I was younger. It has been a long and sticky road, with loads of hair slides." Narcissa agreed and they both settled on never trying out a new cut.
+#+end_quote
+
+In my opinion, this seems like a decent first pass over it. You've basically written out the /what/ is there, which is a great start - but now you need to connect it a bit more. Sometimes that's simple - switching from "Maggie, especially eager, said..." to "Maggie, looking especially eager, said/spoke up first..." can make it flow a little better IMO, but that's minor and easy to add in if you read it out loud.
+
+Likewise, the speaking is very much "this is what the characters are thinking", with little fluff around it. That fluff is what oils the wheels, though - and makes it flow better. Eg, you want Maggie to talk about how she's glad that she's decided on a hair style. How would you phrase it to a friend? Would you say it as matter of factly as written there? In my case, maybe I'd phrase it something like "I'm so glad I've finally managed to grow my hair out properly! Remember how I used to look last year? It would have been so embarrassing to go to Hogwarts with all those hair slides!" to use your basic premise.
+
+Adding in some movements/physical descriptions to the scene is also important in setting the stage. For instance, there we don't know where they are, why they're talking about her hair, or too much about Maggie's personality. But adding in little descriptions about what characters do or the way they're speaking can add a lot, though you shouldn't overdo it.
+
+Maybe I (and I'm by no means a great writer) would refine that paragraph a bit more like this. Though it could be done a ton of ways, and mine is probably quite eh.
+
+#+begin_quote
+  Both Draco and Maggie were quite excited for next year - their very first term at Hogwarts! Maggie, looking especially eager, spoke up while they were preparing to go to Diagon Alley, looking intently into the mirror as she brushed her hair. "I'm so glad I've finally managed to grow my hair out properly! Remember how it used to look last year?" She grimaced at the thought. "It would have been so embarrassing to go to Hogwarts with all those hair slides!" Narcissa smiled in agreement
+#+end_quote
+
+Notably though, as TE7 says you're missing out on a lot of dialogue simply by not writing it in. That is, you've got one character speaking, and then the scene ends with a comment on how they keep talking/arguing. A perfect example is this paragraph:
+
+#+begin_quote
+  Draco was nervous the entire dinner, but now that the important meetings are beginning, he wished that Maggie and I were allowed in. They tried listening in though someone must have put the Silencio cham because they can't hear a thing. Dobby quickly ushered them upstairs when he saw that they were trying to listen. They went to Draco's room and spoke about the meeting and the dark lord. Maggie exclaimed, “ I wonder why he didn't come in human form.” They both argued on this but just settled on the fact that he was too busy. After a good 2 hours, it was already 10:30 and time for bed. Maggie was walking out when she told Draco that everyone left. Draco walked out with her and saw Father and Mother. Their faces were white like a sheet and their father looked quite shaken. When they inquired they were told to get to bed and do not pester them.
+#+end_quote
+
+This could easily be written into a whole scene, with a back and forth between Draco and Maggie. Instead, it's reduced down to the sequence of major events, like an outline - again an excellent first step, but it should be more fleshed out from there to feel immersive. It's also an excellent opportunity to showcase the differences in character between Draco and Maggie - do they react the same? How do they argue? Etc.
+:PROPERTIES:
+:Author: matgopack
+:Score: 6
+:DateUnix: 1615402173.0
+:DateShort: 2021-Mar-10
+:END:
+
+
+** What dialogue?
+
+That shouldn't be my first response. Dialogue should, in almost every instance, start a paragraph. I shouldn't be able to scroll through the entirety of your story and see only one instance of where that occurs.
+
+That instance is also punctuated wrong. The comma, which given you have a character exclaim should probably be an exclamation point....should be within the quotation mark.
+
+Any changing of speaker should also start a new paragraph.
+
+"You're flow problems," Said TheEndless7 while pondering how [[/u/rpeh]] will make a wisecrack about that. "Likely stem from formatting errors. If you correct the formatting it should improve the flow."
+
+"Sort of like plumbing," Rpeh added. "If the pipes are all corrected right the flow works out better and I can get the syrup directly onto my waffles while I cheer on Manchester United in the morning."
+
+"You know I hate you, right?" TheEndless7 sighed in exasperation.
+
+Fix the punctuation and formatting and then focus more on a dichotomy between dialogue and action and it will likely work itself out. Having dialogue occur mid paragraph s almost never correct, or wise.
+
+I'd also suggest thinking about how people actually talk. You have sort of a children's book style conversation occurring in chapter two with a whole conversation happening in one Paragraph that should be changed to be more like.
+
+"We are so thrilled for our engagement," Bellatrix exclaimed.
+
+"When will it be?" Narcissa asked.
+
+"It will be on Valentines day at our house!"
+
+This comes off very "Is this your cat?" "No this is not my cat it's too green." "Is this your cat?" "No this is not my cat is is too orange." "Is this your cat?" "No that's not my cat its an angry Scotsman trying to eviscerate you for implying he likes Manchester United."
+
+The flow there is nothing like how people communicate. For one, you're already talking about parties of the like so there should be some sort of assumed knowledge. Half the chapter is about invitations but Narcissa has no idea when her sister's party is?" And the vocabulary seems off, it's like they're referring to a wedding as an engagement. Which is technically correct, but again not how people talk. While I normally scoff at people who say 'I'd do it like" well, I'd do it like:
+
+"I'm so excited form my wedding!" Bellatrix exclaimed.
+
+"You're doing it on Valentines day, right?" Narcissa asked.
+
+"Yes, we're hoping to keep it low-key to avoid ministry interference," Bellatrix affirmed.
+
+Half of what you say in the prose should just be put into the dialogue and removed from the prose. Otherwise you get choppy dialogue that accomplishes nothing other than bloating paragraphs.
+:PROPERTIES:
+:Author: TE7
+:Score: 6
+:DateUnix: 1615400698.0
+:DateShort: 2021-Mar-10
+:END:
+
+*** I'm going to eviscerate the next thing you send me. You know that, right?
+:PROPERTIES:
+:Author: rpeh
+:Score: 1
+:DateUnix: 1615415376.0
+:DateShort: 2021-Mar-11
+:END:
+
+**** We've discussed this.
+
+It is improper to give negative reviews or any form of criticism on fanfiction because then I will be less likely to ever write fanfiction again.
+
+Do you want to be to blame when I never publish my Harry/Fleur/Daphne/Gabrielle/Shoe fic?
+:PROPERTIES:
+:Author: TE7
+:Score: 2
+:DateUnix: 1615415529.0
+:DateShort: 2021-Mar-11
+:END:
+
+***** Don't forget about [[https://www.reddit.com/r/HPfanfiction/comments/84ndia/promotion_taming_the_dragon_by_urpeh_and_ute7/][Taming the Dragon]], the Charlie Weasley/Hermione Granger story that was proposed two years ago.
+:PROPERTIES:
+:Author: emong757
+:Score: 1
+:DateUnix: 1615417119.0
+:DateShort: 2021-Mar-11
+:END:
+
+****** Too late, already did.
+:PROPERTIES:
+:Author: TE7
+:Score: 1
+:DateUnix: 1615417156.0
+:DateShort: 2021-Mar-11
+:END:
+
+******* That's okay...I kind of got off of the Charlie Weasley/Hermione Granger train for the time being.
+:PROPERTIES:
+:Author: emong757
+:Score: 1
+:DateUnix: 1615417397.0
+:DateShort: 2021-Mar-11
+:END:
+
+
+** I wrote a little lesson on dialogue you might find helpful! It includes some exercises you can practice. [[https://florencecastlewritings.tumblr.com/post/621843148569722881/writing-dialogue]]
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 3
+:DateUnix: 1615405753.0
+:DateShort: 2021-Mar-10
+:END:
+
+*** wow it's incredible
+:PROPERTIES:
+:Author: GracielaGarcia
+:Score: 3
+:DateUnix: 1615406033.0
+:DateShort: 2021-Mar-10
+:END:
+
+**** That's kind, thank you! Hope it helps, good luck with your story!
+:PROPERTIES:
+:Author: FloreatCastellum
+:Score: 3
+:DateUnix: 1615406303.0
+:DateShort: 2021-Mar-10
+:END:
+
+
+*** ok great
+:PROPERTIES:
+:Author: GracielaGarcia
+:Score: 1
+:DateUnix: 1615405811.0
+:DateShort: 2021-Mar-10
+:END:
+
+
+** Have you seen [[https://youtu.be/aAVLaSxFyIc][this video]] that chapter is just one amazing dialogue sequence which helps think differently at dialogue
+:PROPERTIES:
+:Author: Jon_Riptide
+:Score: 1
+:DateUnix: 1615400668.0
+:DateShort: 2021-Mar-10
+:END:
+
+*** ok thanks
+:PROPERTIES:
+:Author: GracielaGarcia
+:Score: 3
+:DateUnix: 1615400852.0
+:DateShort: 2021-Mar-10
+:END:

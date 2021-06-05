@@ -1,0 +1,223 @@
+#+TITLE: Why are apparition points a thing?
+
+* Why are apparition points a thing?
+:PROPERTIES:
+:Score: 13
+:DateUnix: 1611604525.0
+:DateShort: 2021-Jan-25
+:FlairText: Discussion
+:END:
+[deleted]
+
+
+** I think it's because a lot of locations would benefit from a permanent anti-disapparition jinx but having one would be inefficient for daily life (such as Diagon alley, which would be chaos if people could apparate around between shops etc) so a apparation point would be a specific location that the jinx doesn't cover allowing transit.
+:PROPERTIES:
+:Author: Samurai_Bul
+:Score: 36
+:DateUnix: 1611606047.0
+:DateShort: 2021-Jan-25
+:END:
+
+
+** And if everyone apparates to wherever they want when going to somewhere like Diagon Alley, there will be people telefragging pedestrians. I think it's safe to assume that the magic will somehow adjust destinations slightly to avoid this sort of problem.
+:PROPERTIES:
+:Author: TheLetterJ0
+:Score: 35
+:DateUnix: 1611606680.0
+:DateShort: 2021-Jan-26
+:END:
+
+*** Then what prevents telefragging in the apparition points?
+:PROPERTIES:
+:Author: MrMrRubic
+:Score: 4
+:DateUnix: 1611607044.0
+:DateShort: 2021-Jan-26
+:END:
+
+**** People rapidly leaving said point and enchantments to adjust incoming traffic.
+:PROPERTIES:
+:Author: TrailingOffMidSente
+:Score: 16
+:DateUnix: 1611607117.0
+:DateShort: 2021-Jan-26
+:END:
+
+***** Maybe idk just seem like a lot of telefragging would happen, but I guess your right, magic!
+:PROPERTIES:
+:Author: AVortexV
+:Score: 3
+:DateUnix: 1611608061.0
+:DateShort: 2021-Jan-26
+:END:
+
+****** I'd imagine a magical equivalent to an airport control tower.
+
+Let's expand on it a bit. There are two types of apparition: free and guided. Most places are warded against free apparition, but specially enchanted objects (let's call them guiders, for lack of a whimsical name) can create a path through those wards, as well as provide some measure of medical help for splinched passengers. Free apparition is simply apparating without the assistance of an outbound or inbound guider - most can apparate safely with a guider on one end, but doing it freely is rarer.
+
+Hogwarts begins apparition lessons with specially designed guiders - the hoops. Eventually, the teachers wean students off of both guiders to only an inbound, then an outbound.
+
+Portkeys are a temporary charm that loosely mimics the effect of a guider to a specific point. An "emergency portkey" isn't actually a portkey at all. It's actually a much smaller guider combined with a specialty ward slicer to open a temporary exception in the guider wards.
+:PROPERTIES:
+:Author: TrailingOffMidSente
+:Score: 11
+:DateUnix: 1611609359.0
+:DateShort: 2021-Jan-26
+:END:
+
+
+**** The same thing, presumably. My point is that apparition points aren't dangerous, so their only downside is a bit of inconvenience walking to where you're going. But that is outweighed by the benefits, including increased security and not having people appear in front of you as you're walking.
+:PROPERTIES:
+:Author: TheLetterJ0
+:Score: 3
+:DateUnix: 1611608182.0
+:DateShort: 2021-Jan-26
+:END:
+
+
+*** You are thinking like a muggle dude, obviously the magic appears them at a point where there is no chance of "telefragging" i.e. shifts you a little bit to the right or left to avoid colliding with another person.
+:PROPERTIES:
+:Author: JudgeBigFudge
+:Score: 3
+:DateUnix: 1611615018.0
+:DateShort: 2021-Jan-26
+:END:
+
+**** That is literally what I said.
+:PROPERTIES:
+:Author: TheLetterJ0
+:Score: 7
+:DateUnix: 1611616915.0
+:DateShort: 2021-Jan-26
+:END:
+
+
+** One of the obvious reasons is security.
+
+Okay, yes you can appariate to whatever locale you want, but what happens when you do so and land right on top of a group of people? Charlie Weasley managed to do that, except it was only one person, while testing for his licence. The fact you're not going to a point you know is going to be in use actually means there's more chance doing so will have the point occupied by someone not in the know and if you manage to arrive inside someone it's the same result free apparition as guided.
+
+Actually going 'randomly' is also potentially going to get you in trouble in other ways. A static point you know and it's not likely to be messed with by the government without warnings going out, but free apparition to say Birmingham New Street, not even the station, just the road... even if it's a dead day like it's probably been comparatively this year due to Covid, it's still got a number of people around and there's no real telling whether it'll have road works active or shops messing with their frontages or street traders having had to move their stalls from their usual spots for whatever reason, which are all likely to cause issues if you're not aware of them.
+
+The other issue is control. People mentioned below about free apparition and having to have everywhere set to lock it down individually in certain areas ala Hogsmeade, Diagon and Knocturn so it makes more sense to have one general barrier over the whole and then allow people through at a specific point.
+
+Doing things this way allows for both a 'guider' as someone else mentioned, enabling some sort of traffic control to ensure people have time to clear the area before the next group arrives and ensure that a group is away before another one leaves.
+
+It also allows you to have more security.
+
+Think about it, like an airport or seaport you're going to have a lot of people through that point in one day, but you can set up say half a dozen Aurors on a shift for that spot and keep a check on people coming and going, ensuring that criminals and such are limited in what they can do there or what they can get through that point. Try doing that when you have to cover the entirety of Diagon Alley and everyone is popping every which way. Even if you've got fifty Aurors on shift, it's a lot of ground to cover and a lot of issues to track, having a single or a few assigned points allows you to keep track more efficiently.
+:PROPERTIES:
+:Author: Ghrathryn
+:Score: 6
+:DateUnix: 1611610580.0
+:DateShort: 2021-Jan-26
+:END:
+
+
+** Basic politeness.
+:PROPERTIES:
+:Author: Krististrasza
+:Score: 3
+:DateUnix: 1611620794.0
+:DateShort: 2021-Jan-26
+:END:
+
+
+** Muggle avoidance. Set certain, Muggle-Repelling areas for wizards to apparate to.
+:PROPERTIES:
+:Author: Rp0605
+:Score: 3
+:DateUnix: 1611619423.0
+:DateShort: 2021-Jan-26
+:END:
+
+
+** Is there anything canon about this?
+
+In any case, I think you've established why you'd need things like the Knight Bus, portkeys and floo powder.
+:PROPERTIES:
+:Author: FrameworkisDigimon
+:Score: 2
+:DateUnix: 1611611609.0
+:DateShort: 2021-Jan-26
+:END:
+
+*** No, apparition in Canon is pretty much like teleportation.
+:PROPERTIES:
+:Author: HQMorganstern
+:Score: 2
+:DateUnix: 1611615489.0
+:DateShort: 2021-Jan-26
+:END:
+
+
+*** Idk honestly the books never made magic seem that intricate like everyone else is saying, and I dont even remember if apparition points are cannon.
+:PROPERTIES:
+:Author: AVortexV
+:Score: 1
+:DateUnix: 1611615312.0
+:DateShort: 2021-Jan-26
+:END:
+
+
+*** Come to think of it, are "anti apparation" wards/jinxes canon?
+
+I know you definitely can't do it at Hogwarts, but I can't recall it ever being mentioned about anywhere else.
+:PROPERTIES:
+:Author: minerat27
+:Score: 1
+:DateUnix: 1611621076.0
+:DateShort: 2021-Jan-26
+:END:
+
+**** You can't apparate in Hogwarts (except during Apparition training, that is) so yeah, they're canon.
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 5
+:DateUnix: 1611625210.0
+:DateShort: 2021-Jan-26
+:END:
+
+***** I know you can't at Hogwarts, but I don't recall "anti-apparation" being mentioned, it was always "you can't apparate in Hogwarts", which makes me wonder if it's just something special about the school.
+
+Is there literally any other location you can't apparate from/to?
+:PROPERTIES:
+:Author: minerat27
+:Score: 1
+:DateUnix: 1611664485.0
+:DateShort: 2021-Jan-26
+:END:
+
+****** While the HP fandom wiki should be taken with a grain of salt, I think quotes ought to always be accurate there. [[https://harrypotter.fandom.com/wiki/Anti-Disapparition_Jinx]] has an exerpt from OotP mentioning it.
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 2
+:DateUnix: 1611664594.0
+:DateShort: 2021-Jan-26
+:END:
+
+
+** As far as I know apparition points are fanon, but I always imagined them as the opposite of what you're thinking: They are places where you /can't/ apparate on top of each other. Be it through automatically shifting incoming apparitions subtly around (like another commenter mentioned) or maybe delaying incoming apparitions until the point is clear.
+:PROPERTIES:
+:Author: hiddendoorstepadept
+:Score: 2
+:DateUnix: 1611654717.0
+:DateShort: 2021-Jan-26
+:END:
+
+
+** Because if you don't want people teleporting into the middle of a busy street and blocking up traffic or getting people hurt you ward against it; but if you still want people to be able to visit said street you set up a spot that the common understanding is the get the heck out of as soon as you appear.
+:PROPERTIES:
+:Author: Sefera17
+:Score: 1
+:DateUnix: 1611634139.0
+:DateShort: 2021-Jan-26
+:END:
+
+
+** There's definitely anti apparition jinxes covering wizard hotspots such as diagonal alley, the ministry and st mungos. Mainly for security reasons but it would just be a clusterfuck of people teleporting everywhere otherwise
+:PROPERTIES:
+:Author: RoyalAct4
+:Score: 1
+:DateUnix: 1611652292.0
+:DateShort: 2021-Jan-26
+:END:

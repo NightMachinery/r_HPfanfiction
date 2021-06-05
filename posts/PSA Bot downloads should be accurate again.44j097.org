@@ -1,0 +1,54 @@
+#+TITLE: PSA: Bot downloads should be accurate again
+
+* PSA: Bot downloads should be accurate again
+:PROPERTIES:
+:Author: tusing
+:Score: 23
+:DateUnix: 1454804659.0
+:DateShort: 2016-Feb-07
+:FlairText: Meta
+:END:
+We had a bug there where bot downloads were outdated, in some cases. That should be fixed - all downloads should be up-to-date with the story, now.
+
+
+** \o/ Yay updates :P
+:PROPERTIES:
+:Author: bluspacecow
+:Score: 2
+:DateUnix: 1454817541.0
+:DateShort: 2016-Feb-07
+:END:
+
+
+** I prefer [[http://www.fanfictiondownloader.net]], since I don't have to rely on anything but my computer. I prefer PDFs over epub/mobi.
+:PROPERTIES:
+:Author: aspectq
+:Score: 1
+:DateUnix: 1454832414.0
+:DateShort: 2016-Feb-07
+:END:
+
+*** Just curious - why do you prefer PDFs over epub/mobi? For mobile devices, at least, I've found PDFs to be atrocious.
+:PROPERTIES:
+:Author: tusing
+:Score: 5
+:DateUnix: 1454835634.0
+:DateShort: 2016-Feb-07
+:END:
+
+**** I don't have a Kindle, and mobile screen feels too small to read anything. Compared to that, I can read PDFs much more easily on my desktop (Windows). I guess it's a habit from college when I used to read PDFs of textbook.
+:PROPERTIES:
+:Author: aspectq
+:Score: 1
+:DateUnix: 1454839785.0
+:DateShort: 2016-Feb-07
+:END:
+
+
+*** [[http://www.fanfictiondownloader.net/]] only has an online version for kindles tho. The bot has direct download links so can be more convenient for people who aren't on their home computer when downloading fanfictions.
+:PROPERTIES:
+:Author: bluspacecow
+:Score: 1
+:DateUnix: 1454838358.0
+:DateShort: 2016-Feb-07
+:END:

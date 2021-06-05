@@ -1,0 +1,856 @@
+#+TITLE: What questions would you ask JKR about canon if you were interviewing her?
+
+* What questions would you ask JKR about canon if you were interviewing her?
+:PROPERTIES:
+:Author: viol8er
+:Score: 52
+:DateUnix: 1556353975.0
+:DateShort: 2019-Apr-27
+:FlairText: Discussion
+:END:
+
+** I will assume we're talking about a hypothetical JKR who is willing to engage on the level of detail that I'm interested in, rather than the real JKR (who I would be afraid of asking these questions to due to the risk of an off-the-cuff response that wasn't fully thought out).
+
+Population
+
+- Number of wizards in the world.
+
+- Number of wizards in Britain.
+
+- Number of wizarding children born a year in Britain.
+
+- Percentage of those children who attend Hogwarts.
+
+- Size of the goblin, vampire etc. populations.
+
+International wizarding politics
+
+- What happens to the wizarding governments when a Muggle nation conquers another one?
+
+- What is the level of acceptance of Muggleborns globally?
+
+- Are "great powers" in the magical world, and if so, which countries constitute that club?
+
+- If there are great powers, what is it that gives those countries an advantage?
+
+- What formal legal powers does the ICW have over national magical governments? Is the ICW more like the UN (diplomatic only) or the EU (has genuine authority over its members)?
+
+- The identities of the remaining unknown magical schools.
+
+- What happened during the colonial era in the magical world? Did European magicals rule the Americas/Africa/India/South-East Asia? Did Native American wizards die in similar proportions to their Muggle counterparts?
+
+Magic
+
+- Confirmation that wizards cannot run out of magic.
+
+- The identities of the other principal exceptions to Gamp's law.
+
+- Further clarification on the nature of the food exemption. Does it prevent the creation of anything edible, or merely the creation of "food" in the normal sense used in everyday conversation (i.e. ready-to-eat food).
+
+- Clarification on what is meant by "principal" in "principal exceptions". Does it mean there are other, non-principal exceptions? If so, what is the difference between them and the principal exceptions?
+
+- Other than the creation of the philosopher's stone, what is it that alchemy can do that transfiguration cannot (if anything)?
+
+- Clarification on the range of magic as well as its maximum scale (e.g. the largest object that can be transfigured).
+
+- Clarification on the ways magical authorities track magic and individuals, other than the Trace.
+
+- The properties of dark magic, other than resistance to healing.
+:PROPERTIES:
+:Author: Taure
+:Score: 108
+:DateUnix: 1556355062.0
+:DateShort: 2019-Apr-27
+:END:
+
+*** This is why I wish she actually wrote that encyclopedia she was talking about. Fans could send her all kinds of questions and she could think it through and actually publish a coherent and logical description of the HP world
+:PROPERTIES:
+:Author: _awesaum_
+:Score: 21
+:DateUnix: 1556378249.0
+:DateShort: 2019-Apr-27
+:END:
+
+
+*** I mostly agree, but I think we know a little bit more about dark magic than its resistance to healing.
+
+This is how Snape describes the Dark Arts.
+
+#+begin_quote
+  “The Dark Arts,” said Snape, “are many, varied, ever-changing,
+
+  and eternal. Fighting them is like fighting a many-headed monster,
+
+  which, each time a neck is severed, sprouts a head even fiercer and
+
+  cleverer than before. You are fighting that which is unfixed, mutating, indestructible.”
+#+end_quote
+
+So in addition to their resistance to healing, we know that dark magic has a tendency to change and adapt, I think we something like this happening when happening when George and Harry both hit Crabbe with two different curses and he ends up growing tentacles on his face.
+
+#+begin_quote
+  "Interesting effect," said George, looking down at Crabbe. "Who used the Furnunculus Curse?" 471 "Me," said Harry. "Odd," said George lightly. "I used Jelly-Legs. Looks as though those two shouldn't be mixed. He seems to have sprouted little tentacles all over his face. Well, let's not leave them here, they don't add much to the decor."
+#+end_quote
+
+I think other cases would be situations with the indirect gaze of the basilisk, where even if you dont look it directly into its eyes the dark magic will still take you out, the bite of the werewolf where the magic not only doesn't wear out over time like magic normally would, it also spread itself to others even if they themselves are not magical, and of course curses like fiendfyre of protego diabolica fit the Snapes description of dark magic extremely well.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 25
+:DateUnix: 1556358201.0
+:DateShort: 2019-Apr-27
+:END:
+
+**** I'm not sure if I interpret Snape's comments the same way. I see him more as describing an arms race where dark wizards will invent new dark magic as soon as the counters to known dark magic are discovered. Stuff like spells interacting in unpredictable ways or acting in an intelligent manner would not be limited to dark magic.
+:PROPERTIES:
+:Author: Taure
+:Score: 41
+:DateUnix: 1556364148.0
+:DateShort: 2019-Apr-27
+:END:
+
+***** I suppose it could be read that way, but I think it doesn't really fit in with the way the the dark arts were portrayed in the books. The only example I can think of is Voldemort using Harry's blood to bypass the sacrificial protection. But this could also just be Snapes own views biased by his love for dark magic.
+
+I also dont think spells acting this way would be fully limited to dark magic, but it seems to be more common to it.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 1
+:DateUnix: 1556391540.0
+:DateShort: 2019-Apr-27
+:END:
+
+****** u/Taure:
+#+begin_quote
+  I think it doesn't really fit in with the way the the dark arts were portrayed in the books
+#+end_quote
+
+I think it fits perfectly well. We know from Lupin in HBP that spells go in and out of fashion. We see how potentially very harmful dark spells like the /Petrificus Totalus/ become mostly harmless if you know how to counter them easily. We see how Sectumsempra is a very dangerous curse mostly by virtue of the fact that no one other than Snape yet knows the counter to it (George's lost ear is permanent, but Snape was able to reverse the spell's effects on Malfoy in a moment).
+
+And we see the arms race most fully in relation to the Killing curse.
+
+Round One: Dark Arts has the unblockable killing curse.
+
+Round Two: Lily Potter counters it with sacrificial protection.
+
+Round Three: Voldemort counters sacrificial protection with blood magic of his own.
+
+Round Four: Harry uses Voldemort's blood magic to tether himself to life.
+
+It's a constant back and forth. Contrary to common fanon, magic is not in some fixed, stagnant state. Wizards are constantly developing new methods to get around each other's spells, and /we see this being taught at Hogwarts/:
+
+#+begin_quote
+  “Less than zero,” said Harry glumly, tipping lamb chops on to his plate and starting to eat. “Better try, though, hadn't I? I'll offer to do two more detentions or something, I dunno...” He swallowed a mouthful of potato and added, “I hope she doesn't keep me too long this evening. You realize we've got to write three essays, practice Vanishing Spells for McGonagall, *work out a counter-charm for Flitwick*, finish the Bowtruckle drawing and start that stupid dream diary for Trelawney?”
+#+end_quote
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1556447997.0
+:DateShort: 2019-Apr-28
+:END:
+
+
+****** The comparison with a Hydra sounds a lot like new Dark spells being created and not the combination of spells having unpredictable results. Especially when we consider that Snape himself created a Dark spell, so he would know what he's talking about. And the example for unpredictable effects you give is decidedly not Dark.
+:PROPERTIES:
+:Author: how_to_choose_a_name
+:Score: 5
+:DateUnix: 1556400077.0
+:DateShort: 2019-Apr-28
+:END:
+
+******* u/aAlouda:
+#+begin_quote
+  The comparison with a Hydra sounds a lot like new Dark spells being created and not the combination of spells having unpredictable results. Especially when we consider that Snape himself created a Dark spell, so he would know what he's talking about.
+#+end_quote
+
+I already acknowledged that as possible interpretation in the comment you just replied to, so I dont get what you are trying to say.
+
+#+begin_quote
+  And the example for unpredictable effects you give is decidedly not Dark.
+#+end_quote
+
+The example I gave in the comment you replied to wasnt about unpredictable effects but dark wizards adapting their methods. Voldemort created a dark potion out of Unicorn blood and Naginis venom and added Harrys blood to bypass the enchantment that defeated him twice.
+
+If you mean the ones in my other comments, all of them are definetly dark. The first examples are about two curses(and like all curses they are dark magic), the gaze of the basilisk and the bite of a werewolf are both from dark creatures, and protego diabolica and fiendfyre are both clearly dark magic.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 1
+:DateUnix: 1556400533.0
+:DateShort: 2019-Apr-28
+:END:
+
+
+*** u/EpicDaNoob:
+#+begin_quote
+  an off-the-cuff response that wasn't fully thought out
+#+end_quote
+
+I think she'd be /very/ happy to give you /far/ more of those than you ever wanted.
+:PROPERTIES:
+:Author: EpicDaNoob
+:Score: 9
+:DateUnix: 1556377454.0
+:DateShort: 2019-Apr-27
+:END:
+
+**** No one would know all those questions off the top of their head. You'd have to give them to her with plenty of time beforehand. Personally, if I was her I wouldn't want to cement things like population numbers down. Finding a viable number would be really freakin hard, like, hire an economist and sociologist hard.
+:PROPERTIES:
+:Author: ashez2ashes
+:Score: 9
+:DateUnix: 1556381250.0
+:DateShort: 2019-Apr-27
+:END:
+
+
+*** Yes, all of this
+:PROPERTIES:
+:Author: LiriStorm
+:Score: 2
+:DateUnix: 1556384923.0
+:DateShort: 2019-Apr-27
+:END:
+
+
+** To finally reveal the full process of creating a Horcrux.
+
+Also, I think I'd like to read the cut subplot of Florean Fortescue and the Elder Wand (even though this is not strictly a question "about canon").
+:PROPERTIES:
+:Author: Rerarom
+:Score: 25
+:DateUnix: 1556375775.0
+:DateShort: 2019-Apr-27
+:END:
+
+*** u/ceplma:
+#+begin_quote
+  Florean Fortescue and the Elder Wand
+#+end_quote
+
+??? What's that? I have never heard about this one.
+:PROPERTIES:
+:Author: ceplma
+:Score: 4
+:DateUnix: 1556397289.0
+:DateShort: 2019-Apr-28
+:END:
+
+
+** Assuming she actually has an answer and doesn't just make it up on the spot. I'd ask her all about the Australian and New Zealand wizarding world. We have almost no information and I'd like to learn about my side of the world. If not just out of curiosity but because it opens up a lot of new opportunities for fanfiction.
+:PROPERTIES:
+:Score: 25
+:DateUnix: 1556370753.0
+:DateShort: 2019-Apr-27
+:END:
+
+*** My curiosity about is countered by the knowledge of what JKR did to the American wizarding world.
+
+For every interesting tidbit about Dropbears being magical creatures, there'll be something weird and borderline ignorant about Dreamtime myths.
+
+The last time JKR wrote about Native American mythological creatures, [[https://www.hypable.com/ilvermorny-houses-new-artwork/][the Pottermore page plagiarized the designs]] from someone's personal website.
+:PROPERTIES:
+:Author: 4ecks
+:Score: 29
+:DateUnix: 1556371570.0
+:DateShort: 2019-Apr-27
+:END:
+
+**** Yeah. You're right. She would likely butcher Aboriginal and Maori mythology... Maybe she needs to hand off control of the lore to someone else.
+:PROPERTIES:
+:Score: 7
+:DateUnix: 1556371880.0
+:DateShort: 2019-Apr-27
+:END:
+
+***** As if she would do that... the fanbase starting to turn on her only happened because she couldn't let the series rest after she finished it, adding stuff on for years and years until we ended up with Cursed Child.
+:PROPERTIES:
+:Author: 4ecks
+:Score: 10
+:DateUnix: 1556372529.0
+:DateShort: 2019-Apr-27
+:END:
+
+****** People didn't care about the extra bits for years until she started being active on Twitter and the news media started to carry her every tweet as if it was vital news. And then people started to freak out as if Dumbledore being gay was new news and more and more people started to jump on the band wagon until it became this run away snowball. And yeah, the terribleness of Cursed Child then fanned the flames.
+
+The things I'd like to tell her are things you can really only tell someone if you're good friends with them. I think she needs some outright frank people in her corner to give some constructive advice (like needing a more aggressive editor for the last movie).
+:PROPERTIES:
+:Author: ashez2ashes
+:Score: 3
+:DateUnix: 1556382253.0
+:DateShort: 2019-Apr-27
+:END:
+
+******* Well, point of the last two films was mostly they wanted (and I am not sure I would blame JKR personally, I think it could be more a WB thing) to have two films and sell twice much tickets. And yes, there are some serious problems even with this limitation (The Last Duel between Harry & Tom outside of everybody else, WTF? the last scene on the bridge with breaking of the Elder Wand).
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1556398459.0
+:DateShort: 2019-Apr-28
+:END:
+
+
+*** Headcanon: There were no magicals sent to Australia as prisoners since magical criminals are sent to Azkaban. As a result, Australia has a basically nonexistent magical population of European ancestry but a very isolated community of aboriginal wizards. Since the Australian wizards are isolated aboriginals they don't particularly care about what's going on in Britain, making Australia a good place to hide some vulnerable muggle parents from the Death Eaters.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 22
+:DateUnix: 1556372287.0
+:DateShort: 2019-Apr-27
+:END:
+
+**** We ikely would have had a huge surge of magical refugees around WW2 from all over the world including Europe. Your headcanon could be partially correct. Though we likely would have a very diverse if small magical community with wizards and witches from all over the world. A reflection of non-magical Australia and New Zealand.
+
+Edit: And Australia is probably a good place to hide anything or anyone. Including parents. Can't see a death eater coming all the way down here. They likey wouldn't want to go anywhere they can't apparate to. And travelling from Europe to Australia seems a little inconvenient by flying carriage.
+:PROPERTIES:
+:Score: 13
+:DateUnix: 1556372723.0
+:DateShort: 2019-Apr-27
+:END:
+
+***** there could also have been an exodus for political reasons
+
+or wizards thinking that due to the lack of established stuff it will be easy to set up
+
+like a wand maker, who figures going to australia would be easier then trying to compete against the olivanders
+:PROPERTIES:
+:Author: CommanderL3
+:Score: 5
+:DateUnix: 1556377539.0
+:DateShort: 2019-Apr-27
+:END:
+
+****** Yeah, it would be a perfect refuge for anyone looking for a new life.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1556377782.0
+:DateShort: 2019-Apr-27
+:END:
+
+******* a new world to explore, new magical creatures to learn about and document new magical plants and stuff
+
+hell the whole secrecy thing could mean some wizards had to go to make sure it was upheld and that there was no native wizards who would tear down the statute
+:PROPERTIES:
+:Author: CommanderL3
+:Score: 3
+:DateUnix: 1556377950.0
+:DateShort: 2019-Apr-27
+:END:
+
+
+**** Not all migrants to Australia were convicts. There's a massive scope for descendants of European/Asian wizarding folk given our multicultural make-up and the genocide of Aboriginal folk. Not to mention how many Muggle-borns there would be even without any wizarding immigrants.
+
+I don't want to ask JKR about it tho - it would mess up my headcannon! :P
+:PROPERTIES:
+:Author: HGKezzabear
+:Score: 5
+:DateUnix: 1556380617.0
+:DateShort: 2019-Apr-27
+:END:
+
+***** In linkffn(Harry Potter and the Lady Thief) magical Australia is basically ruled by aboriginal wizards that don't like foreigners (understandable considering the fate of nonmagical aboriginals), traveling there is basically a death sentence for wizards and australian muggleborns are all deported to New Zealand and live there. Dumbledore travels to Australia and uses it to convincingly fake his death to surprise Voldemort.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 6
+:DateUnix: 1556384668.0
+:DateShort: 2019-Apr-27
+:END:
+
+****** [[https://www.fanfiction.net/s/12592097/1/][*/Harry Potter and the Lady Thief/*]] by [[https://www.fanfiction.net/u/2548648/Starfox5][/Starfox5/]]
+
+#+begin_quote
+  AU. Framed as a thief and expelled from Hogwarts in her second year, her family ruined by debts, many thought they had seen the last of her. But someone saw her potential, as well as a chance for redemption - and Hermione Granger was all too willing to become a lady thief if it meant she could get her revenge.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{67} ^{*|*} ^{/Words/:} ^{625,619} ^{*|*} ^{/Reviews/:} ^{1,222} ^{*|*} ^{/Favs/:} ^{1,098} ^{*|*} ^{/Follows/:} ^{1,358} ^{*|*} ^{/Updated/:} ^{11/3/2018} ^{*|*} ^{/Published/:} ^{7/29/2017} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{12592097} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Adventure} ^{*|*} ^{/Characters/:} ^{<Harry} ^{P.,} ^{Hermione} ^{G.>} ^{Sirius} ^{B.,} ^{Mundungus} ^{F.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12592097&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12592097&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1556384682.0
+:DateShort: 2019-Apr-27
+:END:
+
+
+**** There is still the problems of Muggleborn though. By the time of the story, colonisation of Australia was what, 200 years old? It seems to be enough time for at least a handfull of Muggleborn wizards to be born there, but if there is not existing structure for them (except the Aboriginal), what happen to them? They grow up and spend their whole life wondering what are the strange thing happening to them?
+:PROPERTIES:
+:Author: PlusMortgage
+:Score: 3
+:DateUnix: 1556391283.0
+:DateShort: 2019-Apr-27
+:END:
+
+
+**** So what your saying is that adelaide
+
+being founded by free people, is full of wizards who moved to the country to get away from the ministry
+:PROPERTIES:
+:Author: CommanderL3
+:Score: 2
+:DateUnix: 1556377485.0
+:DateShort: 2019-Apr-27
+:END:
+
+
+** I'd really just like a list of confirmed houses, wands and patronuses so I can know how close I was.
+:PROPERTIES:
+:Author: Macallion
+:Score: 7
+:DateUnix: 1556365838.0
+:DateShort: 2019-Apr-27
+:END:
+
+
+** None at all. I'm afraid she would give us vital new information on the level of her wizard poop revelation.
+:PROPERTIES:
+:Author: wurdel
+:Score: 7
+:DateUnix: 1556378837.0
+:DateShort: 2019-Apr-27
+:END:
+
+
+** Creation of a Horcrux, what aberforth did with goats
+:PROPERTIES:
+:Author: pablofuckingescobar
+:Score: 6
+:DateUnix: 1556379159.0
+:DateShort: 2019-Apr-27
+:END:
+
+*** You mean [[https://matej.ceplovi.cz/cizi/aberforth_and_goats.html]] (it is not my story, I just saved it from one of the dumps somewhere)?
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1556399039.0
+:DateShort: 2019-Apr-28
+:END:
+
+
+** Nothing. Every time someone asks her about cannon, she gets messy and says something dumb. I'm good. I'd rather fanfic authors imagine what the cannon is than have her messy ass tell me that now dobby is gay or some shit.
+:PROPERTIES:
+:Author: dsarma
+:Score: 40
+:DateUnix: 1556357616.0
+:DateShort: 2019-Apr-27
+:END:
+
+*** Hence the hypothetical J.K Rowling.
+:PROPERTIES:
+:Author: Snaximon
+:Score: 13
+:DateUnix: 1556368306.0
+:DateShort: 2019-Apr-27
+:END:
+
+
+*** Gay and black. Don't forget that. Maybe he's also an helicopter Apache
+:PROPERTIES:
+:Author: MoleOfWar
+:Score: -2
+:DateUnix: 1556357916.0
+:DateShort: 2019-Apr-27
+:END:
+
+**** She's literally just said two characters are gay who were once in love with each other. There were even hints about it in the original books...
+:PROPERTIES:
+:Author: ashez2ashes
+:Score: 14
+:DateUnix: 1556381552.0
+:DateShort: 2019-Apr-27
+:END:
+
+***** Everything that's “coming out now,” is just the Rita Skeeter version of what she's said back in 2007. It's all exaggerations and slightly wrong.
+
+What what do people want her to do about casting, a part that she's /never/ had a voice in? Say, “Sorry, but Hermione can't be played black because she's /white?/” That opens her up to being called racist. As long as an actress can accurately portray Hermione, what's the big deal about her skin color?
+:PROPERTIES:
+:Author: Not_Steve
+:Score: 11
+:DateUnix: 1556386330.0
+:DateShort: 2019-Apr-27
+:END:
+
+****** I don't care if they cast someone with another skin colour. It's not the problem to me. What's more annoying is JKR trying to make us think that it was her intention all along and that she didn't specify anything in the books; which is wrong.
+
+[[https://twitter.com/jk_rowling/status/678888094339366914?lang=en][Her tweet]]
+
+Specification that Hermione, after returning from vacation, was "very brown" denoting a difference from her usual look. (HP3, chap 4)
+
+HP3, chap 21
+
+#+begin_quote
+  "Hermione's white face was sticking out from behind a tree."
+#+end_quote
+
+The time where Hermione got a black eye from one of the twins experiment and where it was said she looked like "a half panda" (HP5, chap 5)
+
+[[https://lexicon-media.storage.googleapis.com/legacy/images/jkr/duel.jpg][JKR drawing]] where we can see the difference between Dean and Hermione
+
+The fact that she actually specifies physical traits of the black characters in her books.
+
+So yeah I don't care about the casting and I think a lot of people are the same (unfortunately we hear of the loud minority, as always) but her tweets and inconsistent information makes her unreliable. What bothers people the most are those inconsistencies between what she says/write and what she already wrote.
+
+Other example which has nothing to do with sexuality or ethnicity. JKR is said to have written Fantastic Beasts 2 but we can see a Minerva McGonagall (as credited in the cast) already a teacher in 1927. Previous information given with much details on Pottermore (before being removed) said McGo was born in 1935. In HP5 which happens in 1995-96 McGo answered to Umbridge that she'd been teaching at Hogwarts for 39 years.
+
+JKR can't own her mistakes apparently and tries to sweep it under the carpet which in the age of information is quite pointless.
+
+Finally let's not talk about the inconsistencies in the Cursed Child that, while not written by her, was approved by her.
+
+I know no one is perfect and she can't remember every little details but at this point it's more than just not remembering some details. More so as she wrote it.
+:PROPERTIES:
+:Author: MoleOfWar
+:Score: 7
+:DateUnix: 1556388609.0
+:DateShort: 2019-Apr-27
+:END:
+
+******* I would not include the picture as part of the argument. You can be black and lightskinned, or biracial and identify as black.
+
+I say this a lot on here, but the biggest issue with black hermione is that JKR wrote a white girl's experiences encountering bigotry for the first time and thinks that a black girl would react the same way. That's not how this works. It's appallingly ignorant.
+:PROPERTIES:
+:Author: poondi
+:Score: 2
+:DateUnix: 1556405611.0
+:DateShort: 2019-Apr-28
+:END:
+
+******** I don't talk about what you identify as. I talk about what she looks like. First I think strange that you could identify as black if you're white but that's */not/* the matter at hand. Hell Ron could identify as a purple parrot but he would still be white skinned with red-haired so please let's not bring the identification thing in the discussion.
+
+My point is what she looks like and what JKR made her look like at first. It is clear it was not a black girl. That they cast one isn't a problem because it's not what's in the book as long as portrayal and acting is good (well portrayal is wrong anyway but that's the Cursed Child problem, not the actress). The problem is that JKR says things that are contrary to what she set up before.
+
+I don't know enough about your second point but I think it's a legitimate point of view.
+:PROPERTIES:
+:Author: MoleOfWar
+:Score: 4
+:DateUnix: 1556443111.0
+:DateShort: 2019-Apr-28
+:END:
+
+
+** What are the names of Hermione's parents?! Why do they not get names?! Were Wendell and Monica their names or were those fakes?!
+:PROPERTIES:
+:Author: SoulxxBondz
+:Score: 8
+:DateUnix: 1556378824.0
+:DateShort: 2019-Apr-27
+:END:
+
+
+** I'd say my questions would largely be about magical creatures, I think. To be precise:\\
+"Why are all the magical creatures folded into the Statute of Secrecy as well as witches and wizards? Were they also under threat from magic-fearing muggles?"\\
+"How did house-elves come to be slaves in general? Are there elven cultures that aren't willing slaves to wizards? Are elves/house-elves a naturally evolved species, or are they artificially created, or do they spontaneously manifest in houses, or...?"\\
+"If Beings are defined as those creatures that are sufficiently intelligent to understand the laws of the magical community, and have a part in shaping those laws, why doesn't there seem to be any non-humans represented in the Wizengamot? And why are non-humans legally prohibited from using wands?"
+
+(I know the Doylist answer to the first one, it's because Harry Potter is supposed to be set in 'our world' and it wouldn't fit to have muggles know about various magical creatures. But it does seem a bit strange in-universe to have every other sapient being and magical creature hidden away, in addition to witches and wizards.)
+:PROPERTIES:
+:Author: Avaday_Daydream
+:Score: 11
+:DateUnix: 1556365054.0
+:DateShort: 2019-Apr-27
+:END:
+
+*** u/aAlouda:
+#+begin_quote
+  "Why are all the magical creatures folded into the Statute of Secrecy as well as witches and wizards? Were they also under threat from magic-fearing muggles?"
+#+end_quote
+
+The statute of secrecy wasn't about muggles being a threat, it was about muggles being annoying. We are explicitly told in the books that magical were only rarely caught and if they were they would usually escape unharmed because of magic. The reason the books give us about the statute of secrecy is because muggles wanting magical solution to all their problems. And if your goal is to hide the existence of magic, then hiding magical creatures and plants is also required.
+
+#+begin_quote
+  "If Beings are defined as those creatures that are sufficiently intelligent to understand the laws of the magical community, and have a part in shaping those laws, why doesn't there seem to be any non-humans represented in the Wizengamot? And why are non-humans legally prohibited from using wands?"
+#+end_quote
+
+The Wizengamot is a successor of the Wizards' Council a organisation for wizardkind, non humans have their own political system and representation in the ministry through their liaison offices. Even Centaur have a liaison office even though they are classified as beasts(on their own decision) they just choose not to use it and have in general prefer not to have contact with wizards at all. The reason for the wand ban is obvious, wands are the biggest advantage Wizards have over other beings and through them they enjoy being the ones in a higher position, sharing the wands would just put them at a disadvantage, especially considering how other beings like Goblins or Centaurs refuse to share their own magic.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 3
+:DateUnix: 1556392376.0
+:DateShort: 2019-Apr-27
+:END:
+
+
+*** Most of these questions are addressed in Fantastic Beasts and Where to Find Them (the book, not the movie).
+:PROPERTIES:
+:Author: Taure
+:Score: 3
+:DateUnix: 1556610473.0
+:DateShort: 2019-Apr-30
+:END:
+
+
+** I'd ask her if Harry supported a Northern Irish backstop agreement. She'd probably answer that one.
+:PROPERTIES:
+:Author: Ch1pp
+:Score: 9
+:DateUnix: 1556370671.0
+:DateShort: 2019-Apr-27
+:END:
+
+*** Still not enough used fun fact: The Battle of Hogwarts was twenty two days after The Good Friday Agreement. Coincidence? I don't think so.
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1556398756.0
+:DateShort: 2019-Apr-28
+:END:
+
+
+*** Harry: Seamus get the fertilizer.
+:PROPERTIES:
+:Author: Scarlet_maximoff
+:Score: 1
+:DateUnix: 1556492857.0
+:DateShort: 2019-Apr-29
+:END:
+
+
+** If Dumbledore is Gay why haven't you written anything in Pottermore about it? or you know ANY canonical work.
+
+(also why did you go out of your way to straightwash their relationship by writing in the blood pact in the Crimes of Grindelwald so that dumbledore's reasons for not attacking Grindelwald is not because of love, but because of the bloodpact. Also, this allows you to write lines like "we were closer than brothers", and people now have an excuse to say, that's not referring to them being gay, that's referring to them being blood brothers.)
+
+MAKE IT CANON OR STOP QUEERBAITING US.
+:PROPERTIES:
+:Author: Alchemist1330
+:Score: 10
+:DateUnix: 1556385681.0
+:DateShort: 2019-Apr-27
+:END:
+
+*** [[/u/Galathielatheral]] has pointed out all the canon bits of Dumbledore's homosexuality [[https://reddit.com/r/HPfanfiction/comments/b823b0/_/ejvy01m/?context=1][here.]]
+
+I'm pretty sure that Jo has very little to do with Pottermore. If she did, the articles wouldn't use words like “may have,” “could have”, “possibly”, you know, uncertin speculative words. There was a piece on James Potter written on his birthday in defence of grey characters that wrote him in terrible light and focused on Snape's Worst Memory. The author wondered what happened to James that made him change from a grade A prat to some one who fought for the Order. It was pretty awful. Imagine if some one took the one day you crossed a line and did something idiotic in your teenage years and based your character about it.
+
+I also feel like thw Weasley Family Tree would have had at least /one/ fact about everybody in the second generation rather than what was written on page.
+:PROPERTIES:
+:Author: Not_Steve
+:Score: 3
+:DateUnix: 1556387484.0
+:DateShort: 2019-Apr-27
+:END:
+
+**** Also not a single one of those canonical bits ever say he is gay. they are all like 20 layers deep of subtext. None of that counts.
+:PROPERTIES:
+:Author: Alchemist1330
+:Score: 3
+:DateUnix: 1556387820.0
+:DateShort: 2019-Apr-27
+:END:
+
+
+**** She does have control over Pottermore and has written plenty of pages on it. Trying to insinuate that she can't make a single reference on dumbledore's page is a bit ridiculous. Like are you saying that J.K. is not allowed to have any influence at all... like i'm so confused what you are even trying to say here.
+:PROPERTIES:
+:Author: Alchemist1330
+:Score: 2
+:DateUnix: 1556387701.0
+:DateShort: 2019-Apr-27
+:END:
+
+***** I'm trying to say that, yes, JK Rowling /does/ write for Pottermore, she doesn't do it often. Pottermore, it seems to me, is left to its editors and in-house writers who know just as much as we do and fill the site with fluff and nonsense pieces.
+:PROPERTIES:
+:Author: Not_Steve
+:Score: 1
+:DateUnix: 1556388006.0
+:DateShort: 2019-Apr-27
+:END:
+
+****** Yes, Pottermore makes a clear distinction between content written by JKR and its Buzzfeed-style listicle content written by copywriters.
+:PROPERTIES:
+:Author: Taure
+:Score: 1
+:DateUnix: 1556610412.0
+:DateShort: 2019-Apr-30
+:END:
+
+
+** Since Voldemort was so afraid of dying did he come back as a ghost?
+:PROPERTIES:
+:Author: Lanksalott
+:Score: 3
+:DateUnix: 1556376263.0
+:DateShort: 2019-Apr-27
+:END:
+
+*** thats been answered
+
+Due to horcrux's voldemorts soul was too mangled to come back as anything
+:PROPERTIES:
+:Author: CommanderL3
+:Score: 5
+:DateUnix: 1556377594.0
+:DateShort: 2019-Apr-27
+:END:
+
+**** Thanks commander
+:PROPERTIES:
+:Author: Lanksalott
+:Score: 3
+:DateUnix: 1556377613.0
+:DateShort: 2019-Apr-27
+:END:
+
+***** its what I do
+:PROPERTIES:
+:Author: CommanderL3
+:Score: 3
+:DateUnix: 1556377787.0
+:DateShort: 2019-Apr-27
+:END:
+
+
+** I'd love to know if the Wizarding has anything resemblant of a religion
+:PROPERTIES:
+:Author: Loquatorious
+:Score: 3
+:DateUnix: 1556391796.0
+:DateShort: 2019-Apr-27
+:END:
+
+*** Rowling already answered that, wizards can have pretty much every religion except for wiccans. British wizards seem to be mostly christian but we know that some Hogwarts students have other religions.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 4
+:DateUnix: 1556403892.0
+:DateShort: 2019-Apr-28
+:END:
+
+**** I'm not sure how I feel about that. Surely a people who have the ability to perform acts akin to biblical miracles (eg, they can literally turn water into wine if they want to) would be more sceptical of common religious scripture.
+:PROPERTIES:
+:Author: Loquatorious
+:Score: 2
+:DateUnix: 1556409373.0
+:DateShort: 2019-Apr-28
+:END:
+
+***** Sure some miracles would seem like something a wizard would be able to do, but only the least impressive ones. They still would be greatly impressed by things like ressurecting the dead, curing the blind or things like spliting the ocean in two. Not to mention that wizards know for a fact that there is an afterlife, but dont actually know the details. So they would still crave answers and religon would be able to give it to them.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 2
+:DateUnix: 1556436101.0
+:DateShort: 2019-Apr-28
+:END:
+
+****** My question sort of was referring to the idea of what the insular magical community would come up with for their religious perspective. What does God look like to a wizard? Do they reject Christianity because of such things like the Salem trials? Do they see religion as a muggle thing or is it a common factor in their society as well, like meals and banking? We don't see many pureblood children who practise anything comparable to a religion, but the phrase "Merlin's beard" is common enough that it's the magical equivalent of "Oh my God." Did they worship Merlin? Is that why purebloods are so ingrained to keep the bloodlines pure, they believe it makes them holier?
+
+I have a lot of questions.
+:PROPERTIES:
+:Author: Loquatorious
+:Score: 1
+:DateUnix: 1556676947.0
+:DateShort: 2019-May-01
+:END:
+
+******* u/aAlouda:
+#+begin_quote
+  My question sort of was referring to the idea of what the insular magical community would come up with for their religious perspective.
+#+end_quote
+
+They only fully diverged from muggles a couple hundred yours ago, while changes on the outlook on Religon would happen, it wouldn't be by a strong degree.
+
+#+begin_quote
+  What does God look like to a wizard?
+#+end_quote
+
+Probably the same like muggles would see God, they still have our religions after all.
+
+#+begin_quote
+  Do they reject Christianity because of such things like the Salem trials?
+#+end_quote
+
+Definitely not, their culture is undeniably Christian and wizards make enough references to god that we can easily assume that they are Christians. Also the books explicitly mention that witch hunts were no threat to wizardkind. They only caught real ones very rarely and even those would usually escape.
+
+#+begin_quote
+  We don't see many pureblood children who practise anything comparable to a religion, but the phrase "Merlin's beard" is common enough that it's the magical equivalent of "Oh my God." Did they worship Merlin?
+#+end_quote
+
+That is not true. Wizards mention phrases like thank God, my God, for Gods sake or good lord much more often than they mention Merlins beard, or even Merlin at all. Even pure-bloods, Draco for example never mentions Merlin, but he mentions god multiple times. Even Ron mentions God more often than Merlin. And Sirius at one point even sings "God Rest Ye, Merry Hippogriffs" .
+
+​
+
+Its only in fanon where characters have replace the usage of God in the language with Merlin
+
+#+begin_quote
+  I have a lot of questions.
+#+end_quote
+
+You should reread the books, the society we see is clearly Christian, but they are also British so they dont talk about religion.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 1
+:DateUnix: 1556695237.0
+:DateShort: 2019-May-01
+:END:
+
+
+****** I laufhed so hard at religion *giving* answers. Religion is faith, not truth.
+:PROPERTIES:
+:Author: viol8er
+:Score: 0
+:DateUnix: 1556581531.0
+:DateShort: 2019-Apr-30
+:END:
+
+******* Religion is a reflection upon faith and upon the nature of the world itself. Any religious preacher worth their title will tell you to question your faith continuously, to come up with your own conclusions on matters. A lot of religious scripture is comparable to philosophy, it's merely framed around the presupposed existence of a deity or deities.
+:PROPERTIES:
+:Author: Loquatorious
+:Score: 1
+:DateUnix: 1556676352.0
+:DateShort: 2019-May-01
+:END:
+
+
+******* Giving answers, doesent mean the answers are true. A wrong answer is still an answer.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 0
+:DateUnix: 1556598742.0
+:DateShort: 2019-Apr-30
+:END:
+
+
+** None if I want nonsense I'll read the worst of the twilight fanfiction
+:PROPERTIES:
+:Author: annasfanfic
+:Score: 6
+:DateUnix: 1556372764.0
+:DateShort: 2019-Apr-27
+:END:
+
+
+** Ok, I know this is a bit ridiculous, but I always DIED to know whether that "don't get too friendly with him, though Rosie. Granddad Weasley would never forgive you if you married a pure-blood" line was a real hint from her about a future romantic relationship between Scorpius Malfoy and Rose Weasley. I dunno, I've always thought those two have a great potential to become a "Romeo and Juliet" and kind of epic couple.
+
+​
+
+So, now letting aside the corny stuff, I would also ask her about her views on Latin American wizardry. There's something about Benedita Dourado (see Pottermore's entry about Castelobruxo in case you don't know who she is) that always caught my attention and I've actually been wanting to write a whole story about her in her youth, as if she was like a "Brazilian Dumbledore". But adult life kinda sucks and doesn't let you so much free time, so... maybe in a few years?
+
+​
+
+I'd also love to know more about Herpo the Foul. I dunno, he just seems quite an interesting figure for me. I bet the guy has a great background, and who knows? Maybe there's an epic story just as Harry's and Voldemort's behind him. In fact, I would ask her about other powerful dark wizards and their counterparts.
+
+​
+
+I would also like to know what the hell is that horrible thing you gotta do to create an horrocrux (besides the killing stuff, of course).
+
+​
+
+And well, those are the first questions that came to my mind, but actually I feel like the Potterverse has a great historic potential. Like wizards in Africa, during the French Revolution, during WWI and WWII, the Rennaissance. I would seriously love to know about History of Magic. Which doesn't mean I wouldn't get bored with Binns lol. Think I'd prefer to go on my own and read books about it in the library.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1556598298.0
+:DateShort: 2019-Apr-30
+:END:
+
+
+** Why ? Just why ?
+:PROPERTIES:
+:Author: CommanderL3
+:Score: 4
+:DateUnix: 1556377359.0
+:DateShort: 2019-Apr-27
+:END:
+
+
+** How big is the cock of each dragon species.
+:PROPERTIES:
+:Author: DioDieu
+:Score: 3
+:DateUnix: 1556382580.0
+:DateShort: 2019-Apr-27
+:END:

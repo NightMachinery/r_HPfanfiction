@@ -1,0 +1,106 @@
+#+TITLE: Is there actual canon information on Wizengamot other than the fact it acts like a court?
+
+* Is there actual canon information on Wizengamot other than the fact it acts like a court?
+:PROPERTIES:
+:Author: I_love_DPs
+:Score: 6
+:DateUnix: 1605503840.0
+:DateShort: 2020-Nov-16
+:FlairText: Discussion
+:END:
+Is the fact it's also the legislative body canon or fanon? Or the fact that the pureblood families receive a seat by default?
+
+
+** *The Minister for Magic*
+
+We know from Pottermore that the Minister for Magic is elected once every 7 years (unless they resign earlier):
+
+#+begin_quote
+  The Minister for Magic is democratically elected, although there have been times of crisis in which the post has simply been offered to an individual without a public vote (Albus Dumbledore was made such an offer, and turned it down repeatedly). There is no fixed limit to a Minister's term of office, but he or she is obliged to hold regular elections at a maximum interval of seven years.
+#+end_quote
+
+Even if Pottermore hadn't told us this, the books consistently portray Fudge as extremely concerned about public opinion, something which would only really make sense if he is elected.
+
+The exact election process is unclear. It may be a Presidential style vote, or alternatively it may be a more indirect form like the Parliamentary system.
+
+In terms of powers, we see that the Minister has day to day control of the Ministry. He also has the power to remove the Chief Warlock of the Wizengamot, though it is not clear if this is a unilateral decision or if the Wizengamot must also be involved.
+
+*The Wizengamot*
+
+In the books we only see the Wizengamot act as a court. However, there are hints in the books that it holds more than judicial power:
+
+HBP Chapter 1:
+
+#+begin_quote
+  ‘My dear Prime Minister, you can't honestly think I'm still Minister for Magic after all this? I was sacked three days ago! The whole wizarding community has been screaming for my resignation for a fortnight. I've never known them so united in my whole term of office!' said Fudge, with a brave attempt at a smile.
+#+end_quote
+
+Fudge was sacked before his term was up (i.e. properly sacked, not just failing to be re-elected). For him to be sacked means there must be a body with the power to sack him. The Wizengamot is the only body we know of which could fit the bill (other than perhaps the International Confederation of Wizards).
+
+Further, the name "Wizengamot", as a play on the old witenagemot, suggests a role beyond the judicial.
+
+Pottermore conveniently confirms that the Wizengamot acts as wizarding Britain's legislature:
+
+#+begin_quote
+  The Order of Merlin (sometimes abbreviated to O.M.) is awarded by the Wizengamot, an organisation that predates the Ministry of Magic and nowadays functions as a combination of court and parliament.
+#+end_quote
+
+The composition of the Wizengamot is unknown. However, if the Minister is elected via a Parliamentary system rather than Presidential, then presumably the people elect the members of the Wizengamot who then select the Minister for Magic (probably from their own membership).
+:PROPERTIES:
+:Author: Taure
+:Score: 19
+:DateUnix: 1605513889.0
+:DateShort: 2020-Nov-16
+:END:
+
+*** Thank you for your informative response.
+:PROPERTIES:
+:Author: I_love_DPs
+:Score: 3
+:DateUnix: 1605514118.0
+:DateShort: 2020-Nov-16
+:END:
+
+
+** The Wizengamot is both the judicial and the legislative body. We don't know how they select their members, but it is never shown to be hereditary.
+:PROPERTIES:
+:Author: Why634
+:Score: 3
+:DateUnix: 1605505392.0
+:DateShort: 2020-Nov-16
+:END:
+
+*** The wiki says so but is it actually canon or a fanon thing? In the books it's only talked about in OotP when it tries Harry. In all other instances is mentioned in passing but I don't recall ever specifically saying that they vote the laws. Maybe it was on Pottermore?
+:PROPERTIES:
+:Author: I_love_DPs
+:Score: 2
+:DateUnix: 1605505856.0
+:DateShort: 2020-Nov-16
+:END:
+
+**** JK Rowling said it was a mix of a court and parliament [[https://www.wizardingworld.com/writing-by-jk-rowling/order-of-merlin][in this article]].
+:PROPERTIES:
+:Author: Why634
+:Score: 7
+:DateUnix: 1605506356.0
+:DateShort: 2020-Nov-16
+:END:
+
+***** I see. Thanks!
+:PROPERTIES:
+:Author: I_love_DPs
+:Score: 3
+:DateUnix: 1605507465.0
+:DateShort: 2020-Nov-16
+:END:
+
+
+** On the thesis compedium : Harry Potter and the Law published by Carolina Academic Press. There is an chapter that explain the Anglo-Saxon gathering of wisest is the origin of the Wizengamot .
+
+Bots and Gemots: Anglo-Saxon Legal References in Harry Potter by Susan P. Liemer
+:PROPERTIES:
+:Author: sebo1715
+:Score: 2
+:DateUnix: 1605894029.0
+:DateShort: 2020-Nov-20
+:END:

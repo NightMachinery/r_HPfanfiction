@@ -1,0 +1,130 @@
+#+TITLE: We need a bot relaunch.
+
+* We need a bot relaunch.
+:PROPERTIES:
+:Author: varno2
+:Score: 64
+:DateUnix: 1508871732.0
+:DateShort: 2017-Oct-24
+:END:
+The bot has crashed again. Can we get it relaunched?
+
+
+** paging [[/u/tusing]]
+:PROPERTIES:
+:Author: Averant
+:Score: 13
+:DateUnix: 1508879923.0
+:DateShort: 2017-Oct-25
+:END:
+
+*** Working on this. This fix might take a bit longer than usual. Looks like the Reddit API has changed.
+
+Edit: Yeah, the bot will be down for a bit.
+
+Edit 2: It's back up!
+:PROPERTIES:
+:Author: tusing
+:Score: 62
+:DateUnix: 1508888194.0
+:DateShort: 2017-Oct-25
+:END:
+
+**** supreme overlord tusing have you ever made a fanfic just wondering
+:PROPERTIES:
+:Author: one_cheesy_boi
+:Score: 16
+:DateUnix: 1508889961.0
+:DateShort: 2017-Oct-25
+:END:
+
+
+**** Thanks for your hard work, mate.
+:PROPERTIES:
+:Author: Averant
+:Score: 9
+:DateUnix: 1508889122.0
+:DateShort: 2017-Oct-25
+:END:
+
+
+**** Sorry if it's been discussed before but is there a reason why the mobile app doesn't work well with the bot?
+:PROPERTIES:
+:Author: riddlewriting
+:Score: 8
+:DateUnix: 1508892739.0
+:DateShort: 2017-Oct-25
+:END:
+
+***** The official mobile app doesn't render all markdown correctly, if that's what you're asking.
+:PROPERTIES:
+:Author: aldonius
+:Score: 13
+:DateUnix: 1508902253.0
+:DateShort: 2017-Oct-25
+:END:
+
+
+**** Thanks for the work
+:PROPERTIES:
+:Author: varno2
+:Score: 6
+:DateUnix: 1508897295.0
+:DateShort: 2017-Oct-25
+:END:
+
+
+**** Appreciate all your work, man!
+:PROPERTIES:
+:Author: UsernamesR_Pointless
+:Score: 5
+:DateUnix: 1508901932.0
+:DateShort: 2017-Oct-25
+:END:
+
+
+**** Stellar work there.. Top job ^{^}
+:PROPERTIES:
+:Author: Wirenfeldt
+:Score: 3
+:DateUnix: 1508905381.0
+:DateShort: 2017-Oct-25
+:END:
+
+
+**** Test to see if it's working? linkffn(11136995)
+:PROPERTIES:
+:Author: Avaday_Daydream
+:Score: 2
+:DateUnix: 1508888810.0
+:DateShort: 2017-Oct-25
+:END:
+
+***** [[http://www.fanfiction.net/s/11136995/1/][*/Potter Ever After/*]] by [[https://www.fanfiction.net/u/279988/Kevin3][/Kevin3/]]
+
+#+begin_quote
+  Between marriage contracts, soul bonds, angry fathers, wandering eyes, backstabbing women, and defiant house elves, Harry has a feeling that 'True Love' isn't in the cards for him in this story. Which is just fine by him, as it turns out. A depressing walkthrough of the current state of HP Fanfiction.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 5 *|* /Words/: 19,696 *|* /Reviews/: 151 *|* /Favs/: 327 *|* /Follows/: 163 *|* /Updated/: 8/4/2015 *|* /Published/: 3/24/2015 *|* /Status/: Complete *|* /id/: 11136995 *|* /Language/: English *|* /Genre/: Humor/Parody *|* /Characters/: Harry P., Hermione G., Ginny W., Susan B. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11136995&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11136995&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 3
+:DateUnix: 1508889206.0
+:DateShort: 2017-Oct-25
+:END:
+
+
+**** Thank you for your hard work!
+:PROPERTIES:
+:Author: Chicknomancer
+:Score: 1
+:DateUnix: 1508957434.0
+:DateShort: 2017-Oct-25
+:END:

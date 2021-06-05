@@ -1,0 +1,108 @@
+#+TITLE: Ff2ebook and Ficsave not working!!
+
+* Ff2ebook and Ficsave not working!!
+:PROPERTIES:
+:Author: undercover487
+:Score: 3
+:DateUnix: 1606899097.0
+:DateShort: 2020-Dec-02
+:FlairText: Request
+:END:
+I've been trying to download fics using ff2ebook.com but for some reason it's stuck in a that *Collecting Info* Stage.
+
+Having used this site for years without issues, I've tried my best to troubleshoot the problem using different browsers even switching to the incognito tab but still. No response.
+
+Is some one else Having the same problem? Or know the solution? If I wait long enough this happens, [[https://i.imgur.com/hqpyseA.jpg][saying that the it failed to get fic info.]]
+
+[[https://i.imgur.com/NCvVohq.jpg][Ff2ebook initial response.]]
+
+I've tried using [[https://ficsave.xyz/][Ficsave]] but run into the same problem. Which is why I feel the issue is on my end. Two sites just don't stop working simultaneously.
+
+Id really appreciate any help, thanks a lot.
+
+I've used the following links for the test.
+
+[1, Copied using the share button onthe FFn app ](Story: The Game [[https://www.fanfiction.net/s/13757138/3/14]])
+
+And
+
+[[https://m.fanfiction.net/s/13757138/3/14][2, Same fic but used a browser]]
+
+BTW - I checked the rules out and there was nothing banning queries and questions.
+
+
+** I mean, my first thought is to ask if is there a problem with FFNet itself? Could be a difficulty with FFNet, if both sites are doing it with the same fic. I'm pretty sure they're probably both accessing the one site to get all that metadata, after all. Do you use Calibre and Fanficfare at all? It might help to try download the fic through there as well - if that program can't access it, then it probably is a FFNet issue.
+
+Second, the link you've copied here is to chapter three of the story. Have you tried doing the FF2Ebook or Ficsave things with the link set to chapter one? Not sure if it'd make a difference, but weirder things have happened on the internet. :D
+
+Third, have you tried purging your cookie cache? (A traditional fix for a lot of weird website behaviour). Or any fixes suggested for slow or stopped loading screens? If it is on your end, there might be something running in the background that's taking up loads of processing power or actually blocking the loading of the screen entirely. I don't know enough to diagnose that myself over the internet, but there are guides and troubleshooting manuals all over if you google things specifically on your computer.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 2
+:DateUnix: 1606903563.0
+:DateShort: 2020-Dec-02
+:END:
+
+*** Yup, I tried using a new browser - Firefox and it still did not work.
+
+Right now I'm using [[https://beta.ficsave.xyz/][this]] and its been working well..
+
+Thank for the reply, I'm on site so can't use my computer/laptop. Will be stuck here till the weekend, so I really need ff2ebook to work. I'll check if the desktop version works, when I get home.
+
+I have not use Calibre on my mobile, I'm pretty sure it's desktop based I might be wrong.
+
+Yup I tried doing both, using multiple different fics to try to download including some well known. So the mave the archive was on site, but it still did not work.
+
+Either way thanks a lot mate.
+:PROPERTIES:
+:Author: undercover487
+:Score: 1
+:DateUnix: 1606911047.0
+:DateShort: 2020-Dec-02
+:END:
+
+**** Cool. Happy to help - just sorry it didn't work. :(
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 2
+:DateUnix: 1606934285.0
+:DateShort: 2020-Dec-02
+:END:
+
+
+** Use [[https://github.com/JimmXinu/FanFicFare][FanFicFare]] ... your book is at [[https://da.gd/G0opk]]
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1606904492.0
+:DateShort: 2020-Dec-02
+:END:
+
+*** Thanks a lot. I'll try it on my computer, I've been trying to find tools to download fics from space battle. This might just work. Cheers mate.
+
+Appreciate it.
+
+Right now I'm using this *[[https://beta.ficsave.xyz/][Site]]*
+:PROPERTIES:
+:Author: undercover487
+:Score: 1
+:DateUnix: 1606911257.0
+:DateShort: 2020-Dec-02
+:END:
+
+
+** Neither are working for me either so it's probably ffnet.
+:PROPERTIES:
+:Author: eschewyn
+:Score: 2
+:DateUnix: 1606909066.0
+:DateShort: 2020-Dec-02
+:END:
+
+*** Thanks it's probably it.
+:PROPERTIES:
+:Author: undercover487
+:Score: 1
+:DateUnix: 1606911279.0
+:DateShort: 2020-Dec-02
+:END:

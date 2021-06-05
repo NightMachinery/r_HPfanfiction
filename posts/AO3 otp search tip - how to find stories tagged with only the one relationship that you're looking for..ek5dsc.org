@@ -1,0 +1,178 @@
+#+TITLE: AO3 otp search tip - how to find stories tagged with only the one relationship that you're looking for.
+
+* AO3 otp search tip - how to find stories tagged with only the one relationship that you're looking for.
+:PROPERTIES:
+:Author: FutureDetective
+:Score: 200
+:DateUnix: 1578185105.0
+:DateShort: 2020-Jan-05
+:FlairText: Misc
+:END:
+I came across this tip on tumblr the other day and thought it was possible some folks here might not know about it.
+
+Searching for a pairing on AO3 is a pain sometimes because authors often tag stories with every. single. pairing. in the story, even if your pairing is barely involved in the main plot. If you're interested in finding stories with only the one pairing tag, you can do so by clicking on the pairing tag, then typing "otp:true" in the "Search within Results" filter.
+
+For example, Harmony has 2936 works [[https://archiveofourown.org/tags/Hermione%20Granger*s*Harry%20Potter/works][at this link]]. If I run that search, that list is filtered down to just the 1439 works with only Harmony tagged [[https://archiveofourown.org/works?utf8=%E2%9C%93&commit=Sort+and+Filter&work_search%5Bsort_column%5D=revised_at&work_search%5Bother_tag_names%5D=&work_search%5Bexcluded_tag_names%5D=&work_search%5Bcrossover%5D=&work_search%5Bcomplete%5D=&work_search%5Bwords_from%5D=&work_search%5Bwords_to%5D=&work_search%5Bdate_from%5D=&work_search%5Bdate_to%5D=&work_search%5Bquery%5D=otp%3Atrue&work_search%5Blanguage_id%5D=&tag_id=Hermione+Granger*s*Harry+Potter][at this link]].
+
+Now obviously there may be other stories within those excluded where Harmony is still the main ship, just not the only ship, but I still thought this was worth sharing. There are [[https://archiveofourown.org/admin_posts/10851?show_comments=true][other hidden search operators on the AO3 admin blog here]] for those interested.
+
+Shout out to [[https://annerbhp.tumblr.com/post/189595248421/yall-know-about-the-ao3-search-hack-for-only][annerbhp on tumblr]] for the original tip.
+
+Happy searching!
+
+
+** I've never searched by ship, but still a neat tip for those who invest in it that much. I just wish there was an easier way to find stories that are actually completed without spoiling plot points for myself.
+
+And yes, I know there's a tag for it, but I hate getting to the "end" of a story and it's just the end of Harry's first year or something, and the sequel has 4 chapters only, last updated in 2015. Small gripe, but persistent.
+:PROPERTIES:
+:Author: mikekearn
+:Score: 56
+:DateUnix: 1578196730.0
+:DateShort: 2020-Jan-05
+:END:
+
+*** Agreed - nothing like finding a story thats says completed to only find out that 3 of the 7 sequels have been written, and the writter has disappeared from the face of the earth. I appreciate that its fanfiction and nobody is paid to do it... but its very frustrating putting time into reading it to never find out how it ends.
+:PROPERTIES:
+:Author: seanbz93
+:Score: 16
+:DateUnix: 1578218641.0
+:DateShort: 2020-Jan-05
+:END:
+
+
+*** In line with this, I wish there was a way to show only the first in series and those not in a series at all when searching. There's very little point in giving me part 2, 3, 4, 5 etc when I haven't read 1, but all those will clog up the results.
+:PROPERTIES:
+:Author: TheBlueMenace
+:Score: 13
+:DateUnix: 1578222571.0
+:DateShort: 2020-Jan-05
+:END:
+
+
+** Well, this will help filter out the harem fics at the very least. Thanks for the tip!
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 32
+:DateUnix: 1578197864.0
+:DateShort: 2020-Jan-05
+:END:
+
+*** Or goddamn drabble collections for every pairing possible...
+:PROPERTIES:
+:Author: Sharedo
+:Score: 20
+:DateUnix: 1578222918.0
+:DateShort: 2020-Jan-05
+:END:
+
+**** That take almost the whole day to scroll through!!! Harry Potter is by far the worst fandom for filtering through those!
+:PROPERTIES:
+:Author: Jynifer
+:Score: 5
+:DateUnix: 1578248841.0
+:DateShort: 2020-Jan-05
+:END:
+
+
+** Great find - at least i can now find fics that dont require me to read 25 minutes of relationship tags where Harry sleeps with every female in existence.
+:PROPERTIES:
+:Author: seanbz93
+:Score: 13
+:DateUnix: 1578218397.0
+:DateShort: 2020-Jan-05
+:END:
+
+
+** 1. Select fandom, exclude crossovers, word count above 1k, language of your choice.
+
+2. Set the pairing and the characters. Exclude multi. Exclude warnings you don't like (eg rape, character death).
+
+3. Exclude all rival pairings. For example, while looking for Harry/Hermione, exclude R/Hr, Dramione, Snamione and so on.
+
+4. Scroll through your 15 results and Cry because half of those are just tagged background ships which appear briefly in chapter 36.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 26
+:DateUnix: 1578237540.0
+:DateShort: 2020-Jan-05
+:END:
+
+*** Step 4 is too real
+:PROPERTIES:
+:Author: SurbhitSrivastava
+:Score: 8
+:DateUnix: 1578270686.0
+:DateShort: 2020-Jan-06
+:END:
+
+
+** Thank you! Nice tip. I normally just exclude pairings I'm not interested in and crossovers in the search filter options. Clears out the tag of most of the clutter, but this could come in handy, too.
+
+I hope AO3 gets around to expanding the search options to include "primary/secondary" pairings, fandoms, etc. It'll make life a lot easier for all of us.
+:PROPERTIES:
+:Author: InfinityTuna
+:Score: 6
+:DateUnix: 1578231584.0
+:DateShort: 2020-Jan-05
+:END:
+
+
+** This isn't really /that/ useful in practice (although the rest of the shortcuts are) because ao3 writers tend to tag everything. Let's say you want to read an Albus/Scorpius fic. Almost every writer who writes that will tag Ginny/Harry & Astoria/Draco or other parent related ships even if they're minor characters because more relationship tags = more hits.
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1578248243.0
+:DateShort: 2020-Jan-05
+:END:
+
+*** Yeah I mentioned that drawback above. Just thought it might be helpful for some 🤷🏻‍♀️
+:PROPERTIES:
+:Author: FutureDetective
+:Score: 6
+:DateUnix: 1578248702.0
+:DateShort: 2020-Jan-05
+:END:
+
+
+** Thank you FutureDetective!!! :) You are very smart and helpful!
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1578201633.0
+:DateShort: 2020-Jan-05
+:END:
+
+
+** Nice
+:PROPERTIES:
+:Author: Aiyania
+:Score: 2
+:DateUnix: 1578211235.0
+:DateShort: 2020-Jan-05
+:END:
+
+
+** Thanks!
+:PROPERTIES:
+:Author: DemeRain
+:Score: 1
+:DateUnix: 1578231605.0
+:DateShort: 2020-Jan-05
+:END:
+
+
+** Huh, I had no idea this was a thing. Thanks!
+
+But I'm not sure how truly useful it is. I usually get a good mileage out of recognizing the tags I don't care for that are the most common when searching. For example, if I look for Severitus, filter out Snarry (which I really don't care for, and isn't even Severitus) and Snily (because I'd rather read one or the other, not both which often has needless angst I don't care about).
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 1
+:DateUnix: 1578263797.0
+:DateShort: 2020-Jan-06
+:END:
+
+*** I'm currently reading a fic with two parts. The first part is the Snevans setup and the second part is the Severitus. The first part ties into the next and the Severitus part is much more interesting. I totally agree with filtering out Snarry - that's completely opposite of Severitus
+:PROPERTIES:
+:Author: TheEmeraldDoe
+:Score: 1
+:DateUnix: 1578371026.0
+:DateShort: 2020-Jan-07
+:END:

@@ -1,0 +1,172 @@
+#+TITLE: IDK if this was asked before but what exactly the spell Reparo is and how it should work ?
+
+* IDK if this was asked before but what exactly the spell Reparo is and how it should work ?
+:PROPERTIES:
+:Author: nauze18
+:Score: 6
+:DateUnix: 1519547823.0
+:DateShort: 2018-Feb-25
+:END:
+Is it a charm that corrects something by turning back in time to its best state (if anyone read HP and the Fifth Element may remember the spell "A priori") ? If so, how does it know that its complete, if for instance the magic could say (if it is sentient) that a pencil's complete state would be a tree.
+
+Or is it a derivative of a transfiguration spell that conjures the tiny parts that are missing and re-attaches them seamlessly, as if it was mercury ?
+
+
+** I think it just charms the object fixed according to the perception of “fixed” the spell caster envisions.
+:PROPERTIES:
+:Author: Jeffery95
+:Score: 5
+:DateUnix: 1519548016.0
+:DateShort: 2018-Feb-25
+:END:
+
+*** I didn't see this comment and wrote a long ass reply basically saying the same thing using like a gazillion words or so. -_-"
+:PROPERTIES:
+:Author: bedant2604
+:Score: 4
+:DateUnix: 1519563704.0
+:DateShort: 2018-Feb-25
+:END:
+
+**** lol
+:PROPERTIES:
+:Author: Jeffery95
+:Score: 1
+:DateUnix: 1519581478.0
+:DateShort: 2018-Feb-25
+:END:
+
+
+** It does not return an object to its previous state, because in HBP Harry uses it to switch the covers of two potions books. He severs the covers, switches them, then uses "reparo" to fix the break, attaching the new covers. In doing so he creates new objects rather than returning them to their past state.
+
+So it's not analogous to Untransfiguration.
+
+My take on it is that magical theory will have definitions for what an object is and what it means when something is broken. The reparo spell will essentially remove the property "broken" from an object. This fits nicely with the fact that it is a Charm, not a Transfiguration. Charms are all about adding, removing, and altering properties, whereas Transfiguration is about changing a thing's fundamental (physical) nature.
+
+I think of it almost as a tagging system. Each object will have "tags" associated with it - its properties. E.g. "green", "hot", "forbidden", "broken", "old", etc. Charms change the tags associated with an object, but "beneath" the magic the object is fundamentally the same. Transfiguration changes the object itself. Of course, where the tags relate to physical properties, the result may appear the same. But the process is different, as is how it may interact with other magic.
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1519554732.0
+:DateShort: 2018-Feb-25
+:END:
+
+*** Wouldn't it be simpler to explain it by channeling the intent of the caster? That the caster considers it 'broken' and how it should be if it is 'fixed' and Magic just resolves that desire?
+
+Giving Magic such a high degree of sentience is just weird to me. "Broken" and "forbidden" are so very different tags than "green" or "hot", they are mindbogglingly complex.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 2
+:DateUnix: 1519562600.0
+:DateShort: 2018-Feb-25
+:END:
+
+**** It's not sentience, it's simply that human concepts are part of the objective world. This is a fairly standard part of pre-modern understanding of the universe (consider Platonic dialogues which attempt to establish the "true" meaning of a concept like justice, which is considered to be an existing but intangible ideal). Indeed this type of thinking still survives in certain areas, such as how most scientists consider mathematics. Consider numbers - they are a second-order abstraction created by humans. By second order I mean that the numbers themselves do not exist. You will never find the number 1 in the world, floating out behind Jupiter. Rather it is an abstract structural concept which we have created to describe things. Nonetheless many (maybe even most) people consider numbers to be real.
+
+In short, the idea that the real is not limited to the physical is not something which is only relates to magic. It's also a fairly common way of thinking about things in real life. This does not require that the universe itself has sentience/a mind.
+
+The problem with using intent is that the HP magic system frequently goes against this idea. If you mispronounce an incantation, you get the wrong effect regardless of your intent. Harry cast Sectumsempra in HBP successfully without knowing what it did. The vast majority of spells seem to require no mental performance at the time of casting. More fundamentally, the idea that intent is an important part of magic flies in the face of the whole system of Hogwarts, which is all about study of magic as an objective system that exists in the world, and where the students who understand that system best (Dumbledore, Tom Riddle, to a lesser degree Hermione, etc) are also the best at using magic in practice. An intent-based system would be far more subjective and undermines the need for study and knowledge which is constantly emphasised in canon.
+:PROPERTIES:
+:Author: Taure
+:Score: 4
+:DateUnix: 1519563277.0
+:DateShort: 2018-Feb-25
+:END:
+
+***** u/Deathcrow:
+#+begin_quote
+  It's not sentience, it's simply that human concepts are part of the objective world.
+#+end_quote
+
+The debate about numbers is an interesting point to bring up, but I think it would take way too much time to discuss it in full. Suffice it to say I don't believe that it is a complex concept or that it is a "human concept".
+
+Whether something is "broken" or not simply has no - even tangentially - objective basis. It's entirely dependent on context and purpose. The same object can be "broken" in one situation while being the perfect tool for the job in another. If I rip a piece of paper in half because I need two pieces of paper, it is not broken. If I do it by accident it may be broken... I may also realize that the two pieces are more useful to me (happy accident) and suddenly it's fine again. Maybe this is a too simple example, but I leave it to you as an exercise to come up with more. Is a piece of tape broken after I rip it off the tape-roll? Or is it only broken if I accidentally ripped off too much or at a bad angle? After deleting Windows and installing Gentoo Linux on my Laptop it is now broken (of no use) for the vast majority of people, but much more useful to me. In fact, I'd consider it broken if it suddenly booted up to Windows.
+
+I can't imagine (yeah, argument from ignorance) any way in which the property of "brokenness" could be determined without sentience and even omniscience. You'd have to look into people's heads to know what they want... and sometimes they won't even know what's best: [I know reparo doesn't apply to medicine [[why?]]; I can't come up with a better example though] A medieval man might cast reparo at 'fever' not realizing that it is actually helpful to the body.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 2
+:DateUnix: 1519564028.0
+:DateShort: 2018-Feb-25
+:END:
+
+****** u/Taure:
+#+begin_quote
+  I can't imagine (yeah, argument from ignorance) any way in which the property of "brokenness" could be determined without sentience and even omniscience
+#+end_quote
+
+Now we cross over from philosophy of mathematics into philosophy of biology. Again, this is not a problem unique the magic.
+
+There are numerous analyses of the status of "function" and accordingly "malfunction" (analogous to "broken"). We want to be able to say that the function of the heart is to pump blood, and a heart which does not pump blood is malfunctioning. However it is difficult to find an epistemological basis for these ideas with reference solely to the natural world and not to human perspective. Difficult, but not impossible.
+
+One example is systems analysis. The heart is part of a system and the function is what it contributes to the system. This still struggles with a few things, such as what defined the correct functioning of the system as a whole? Reference to the human normal? That doesn't seem right, because if some virus created heart problems in over half of the human population, then the malfunction would become "normal" and therefore, according to this analysis, would in fact be the function of the system. That's not very satisfactory. Nonetheless it's one approach.
+
+Another example is evolutionary analysis. The function is the evolutionary advantage which the thing bestows on the organism. That also has problems, however, because evolution is not a linear narrative towards a goal. Frequently a mutation will be co-opted for a different "purpose", such as feathers initially evolving due to their providing insulation but later enabling flight. We want to say the (or a) purpose of feathers is to help birds fly, because that is their present purpose - what they contribute to the system - but it is not what they evolved to do. So again, not very satisfactory.
+
+The important thing here is that our failure to provide a satisfactory analysis does not displace our strong intuition that it is correct and valuable to say that the function of the heart is to pump blood, and that this is true independent of human understanding of biology.
+
+Anyway, moving away from that tangent, the point I am trying to make here is that even in the Muggle world there is some sense to be had of the idea of "malfunction" being a true fact of the world, independent of thinkers who define the function according to their subjective intent.
+
+In the magical world, where things like secrets and job positions are real objects upon which magic can be cast, surely this holds all the more strongly.
+
+Magic does not need a mind to register that an object can have a function/purpose, or numerous functions, or a "correct" form. Accordingly neither does it need a mind to recognize that a thing is failing in its function.
+
+A further solution to this problem is that of Platonic ideals, which is less credible IRL these days but I think fits quite well with the HP magic system. Each type of object essentially has a correct form which exists abstractly, and all objects in the real world of that object type are merely (flawed) derivations of the ideal. the reparo spell therefore moves an object closer to what is its magically recognised ideal form. A book with a cover loosely attached is not the ideal book, so the reparo spell attaches the cover to the book to move it closer to the ideal of a book.
+
+This is my preferred analysis of Transfiguration, so I like it less for the Reparo Charm since that is supposed to be a Charm not Transfiguration.
+
+Anyway, just because a concept has its origin in a mind, or a group of minds (i.e. a societal convention such as "a job"), it does not mean that magic itself needs a mind in turn to treat that concept as real. Nor does it mean that literally every thought you have will "make it" as a magical concept. If that were true then you could use Reparo as a "turn any object into any other object" spell simply by changing your intent with respect to what object you think it /should/ be. No, the spell must have objective limits which have been explored by wizards and written down in the form of magical theory. My suggestion is that those limits take the form of a definition of what an object is and a definition of "broken".
+
+To be honest, I feel like your problem is less with the HP magic system and more with all non-physicalist understandings of the world and what is "real".
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1519565650.0
+:DateShort: 2018-Feb-25
+:END:
+
+
+***** I think you're going a bit off here. I don't much care about how scientists consider mathematics, I care about what mathematicians say about maths. What you describe mathematics as is roughly nominalism, which is only one view about the nature of numbers and other mathematical objects. Funnily, it's slightly less popular a view than mathematical Platonism, in which mathematical objects are not mere abstractions, they are bona fide objects, abstract ones yes but not merely a way to describe things. So I don't think your analogy holds up.
+
+Intent doesn't make it subjective. Intent merely means how one wants it to work will have an influence on how the magic works. As an extreme example, we are outright told by Bellatrix that Unforgivables require specifically ill intent ("you have to mean it Potter!"), and that the Killing Curse in particular needs one to have strong enough magic to put into the curse. In other words, intent could arguably play a significant role in allowing, say, the wand to grasp how you want the spell to be used, since they're somewhat sentient.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 1
+:DateUnix: 1519604135.0
+:DateShort: 2018-Feb-26
+:END:
+
+
+** My personal theory although it would seem weird is that it depends on the casters view of what the broken item should be. For e.g. in the fanfic, I still haven't found what I'm looking for, harry gives ashoka some parts for her to create a light saber and then realises what ashoka basically did was a reparo charm in slow motion and I know this isn't canon but In my opinion the reparo charm should world in the way that the end result is what caster believes the final product would be. For example and this is quite overly simplifies I'm given a broken pencil and then I imagine the size aka how it should look once it's repaired, so when I use the reparo charm I get that pencil but when another person comes looks at the same two broken pieces but imagines the end product to be slightly longer and then casts the reparo charm, his is a bit longer than mine. So going by that I would think that the reparo 'charm' could use a bit more magical usage as the one who visions the broken pencil pieces as longer when fixed than the first person will have to use a bit more magic for him to succeed as he is in theory basically conjuring little pieces of wood/lead. Or it could also be engorging it which would also require more a bit more magic as it's not simply repairing the pieces to be in their original but in the state the caster believes the original should be.
+:PROPERTIES:
+:Author: bedant2604
+:Score: 2
+:DateUnix: 1519563117.0
+:DateShort: 2018-Feb-25
+:END:
+
+*** AGAIN I REPEAT THIS ISNT CANON AND I AM MERELY STATING THAR I WOULD LIKE FOR THE CHARM TO WORK THIS WAY AS IT DOES MAKE SENSE TO ME----------------for example let's take a 5 year old who can somehow use a wand and cast reparo so then I take perhaps a toy the 5 year old hasn't seen before break it cast the charm hence it repairs itself but when I give the same broken pieces to the child he casts the same charm and again remember he doesn't know what the end product is so when he is casting the charm his eyes fall on two pieces which coincidentally fit together(however not how they should fit) and thus when he casts the charm those two pieces more or less make up something new.
+:PROPERTIES:
+:Author: bedant2604
+:Score: 1
+:DateUnix: 1519563605.0
+:DateShort: 2018-Feb-25
+:END:
+
+
+** Entropy reversal charm
+:PROPERTIES:
+:Author: viol8er
+:Score: 1
+:DateUnix: 1519588517.0
+:DateShort: 2018-Feb-25
+:END:
+
+
+** A convenient plot device.
+:PROPERTIES:
+:Author: fgarim
+:Score: 1
+:DateUnix: 1519629211.0
+:DateShort: 2018-Feb-26
+:END:

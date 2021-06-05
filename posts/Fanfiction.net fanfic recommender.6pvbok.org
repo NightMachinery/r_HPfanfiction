@@ -1,0 +1,443 @@
+#+TITLE: Fanfiction.net fanfic recommender
+
+* Fanfiction.net fanfic recommender
+:PROPERTIES:
+:Author: deltashad
+:Score: 88
+:DateUnix: 1501155184.0
+:DateShort: 2017-Jul-27
+:FlairText: Meta
+:END:
+*TL;DR:* [[http://www.locusofcontrol.click/recommender][fanfic recommender]]
+
+Have you ever spent couple of weeks trying to find a fic to taste? Well, me too. That's why I have come up with [[http://www.locusofcontrol.click/recommender][fanfic recommender]] which enables us to get some fanfic recommendations based on list of stories you like (on fanfiction.net). It can (and will) give you recommendations in all fandoms and crossovers between them.
+
+The minor caveat is that fanfic recommender takes into account only somewhat popular fanfics (in HP fandom that mean about 400 favorites), so if you want to find something like fanfic with 10k words and couple dozens of favs, then you out of luck. That said most of worthwhile fics are well above the threthold, so it should be plenty useful anyway.
+
+I have finished building and configuring everything in a rush only couple hours ago, so don't hesitate to drop me a line in case something doesn't work.
+
+
+** Hey, I have once built the exact same thing and have taken even all fics into account. Sadly the results are poor imo. You can try it here: [[https://ffrec.fflai.net/][ffrec.fflai.net]]
+
+How do you rec fics, specifically: Which algos do you use?
+
+Edit: I personally use a weighted k-nearest-neighbor algorithm, with the distance between the a pair of the stories A, B being:
+
+#+begin_example
+  sharedFavorites(A, B) / ( favorites(A) * favorites(B))
+#+end_example
+
+I also tried a few other metrics, but they all had problems. Either they were too conservative (this one is) and recommends only big stories or they didn't recommend good stories at all. It's a bit annoying.
+
+Edit 2: Testing it, your algorithm also seems to be rather conservative and stick to the bigger stories. And there is also an indication that the recommendation isn't that good, for example it often doesn't predict sequels (when it obviously should!)
+
+For example: [[http://i.imgur.com/HcFpZR9.png][my rec]], [[http://i.imgur.com/V1UzW3x.png][your rec]] [[https://www.fanfiction.net/s/11829846][story]]
+:PROPERTIES:
+:Author: fflai
+:Score: 17
+:DateUnix: 1501156031.0
+:DateShort: 2017-Jul-27
+:END:
+
+*** [[http://yifanhu.net/PUB/cf.pdf][Collaborative filtering for implicit data sets]] + injection of simple story properties into matrix (such as fandom, rating and characters)
+
+Even if results would be subpar, we would see a lot less requests like "Harry + Luna best fics" in this reddit, which is win in my book.
+:PROPERTIES:
+:Author: deltashad
+:Score: 8
+:DateUnix: 1501156893.0
+:DateShort: 2017-Jul-27
+:END:
+
+**** Collaborative Filtering is pretty much exactly what I've been doing (forgot the term).
+
+Oh, one thing I do: I only save the 100 stories with the highest s_ij for each story, to reduce the data needed. This makes a lot of the quadratic stuff linear, and allows me to work on all stories.
+
+If you want I can also give you access to my crawled database of FFN, which might make things easier.
+:PROPERTIES:
+:Author: fflai
+:Score: 3
+:DateUnix: 1501157324.0
+:DateShort: 2017-Jul-27
+:END:
+
+***** u/wokste1024:
+#+begin_quote
+  If you want I can also give you access to my crawled database of FFN
+#+end_quote
+
+I would love that as well. Another question: is your project open source? I have a few ideas to improve recommendations with finding weight factors using a neural network and I would love to experiment with it.
+
+Short description planned experiment: I want to estimate favourites on things like release date, update date, chapters, words, and other values that shouldn't change the quality of the story. The higher this estimate favourite value, the more chance a story is favoured so favours of users count less.
+:PROPERTIES:
+:Author: wokste1024
+:Score: 6
+:DateUnix: 1501164338.0
+:DateShort: 2017-Jul-27
+:END:
+
+
+***** u/deltashad:
+#+begin_quote
+  Collaborative Filtering is pretty much exactly what I've been doing
+#+end_quote
+
+No, weighted k-nearest-neighbor and Collaborative filtering are different things, and CF is performing statistically better then KNN (unfortunately I can't find link to the paper).
+
+#+begin_quote
+  Testing it, your algorithm also seems to be rather conservative and stick to the bigger stories
+#+end_quote
+
+Well, tendency to recommend well liked stories isn't bad as long as well liked stories are relevant.
+
+#+begin_quote
+  there is also an indication that the recommendation isn't that good, for example it often doesn't predict sequels
+#+end_quote
+
+Hmm, you are right about predicting sequels, but I am unsure about how much it's fault of algo, how much of metrics and how much of data. I'll investigate this later. Edit: it doesn't work because sequel has <400 favs.
+
+#+begin_quote
+  If you want I can also give you access to my crawled database of FFN
+#+end_quote
+
+That would be great.
+
+Can you also give me link to your recommender?
+:PROPERTIES:
+:Author: deltashad
+:Score: 2
+:DateUnix: 1501159131.0
+:DateShort: 2017-Jul-27
+:END:
+
+****** I linked the recommender in my first post. I'm not at home anymore, I'll send you the stuff when I get home this evening.
+:PROPERTIES:
+:Author: fflai
+:Score: 1
+:DateUnix: 1501159570.0
+:DateShort: 2017-Jul-27
+:END:
+
+
+** It would be really really handy if each fanfic listed the summary of the fic as well, because titles don't offer a lot to go by when choosing a fic.
+:PROPERTIES:
+:Author: SaberToothedRock
+:Score: 8
+:DateUnix: 1501166610.0
+:DateShort: 2017-Jul-27
+:END:
+
+*** Fair enough. When [[https://www.reddit.com/user/fflai][fflai]] deliver on his/her promise to give me access to gathered database of fics, I'll implement it.
+:PROPERTIES:
+:Author: deltashad
+:Score: 3
+:DateUnix: 1501176731.0
+:DateShort: 2017-Jul-27
+:END:
+
+
+** Finding fics based on popularity is a false metric. Popularity is not an indicator of quality. Like, it's never going to recommend Resurrexit despite it being one of most well-written and interesting stories in the fandom.
+
+Also, does the 400 threshold mean its never going to pop up with new fics?
+:PROPERTIES:
+:Author: Lord_Anarchy
+:Score: 7
+:DateUnix: 1501156777.0
+:DateShort: 2017-Jul-27
+:END:
+
+*** u/deltashad:
+#+begin_quote
+  Finding fics based on popularity is a false metric
+#+end_quote
+
+It doesn't find fics based on popularity, it finds fics based on people who has favorited stories you like.
+
+#+begin_quote
+  Also, does the 400 threshold mean its never going to pop up with new fics?
+#+end_quote
+
+It would pop up with new fics if I update database. For now I have plan to update it monthly but we'll see how things go.
+:PROPERTIES:
+:Author: deltashad
+:Score: 4
+:DateUnix: 1501157560.0
+:DateShort: 2017-Jul-27
+:END:
+
+**** u/Lord_Anarchy:
+#+begin_quote
+  The minor caveat is that fanfic recommender takes into account only somewhat popular fanfics (in HP fandom that mean about 400 favorites),
+#+end_quote
+
+???
+:PROPERTIES:
+:Author: Lord_Anarchy
+:Score: 1
+:DateUnix: 1501157696.0
+:DateShort: 2017-Jul-27
+:END:
+
+***** It /cant/ recommend completely unpopular fics, but other than that popularity is /secondary/ to number people with the same taste who all favorited some story.
+
+As an example I have tested it on several HP fics, and not even once it suggested me to read Harry Crow (because none of fics I tested it on has super!rich!handsome!...!harry).
+:PROPERTIES:
+:Author: deltashad
+:Score: 5
+:DateUnix: 1501158461.0
+:DateShort: 2017-Jul-27
+:END:
+
+****** I personally don't mind a requirement of a number of favourites. After all, any good fic should have been able to get 400 favourites. In addition, this will limit the computation to reasonable amounts and reduce the effect of noise. This in turn will improve speed and can improve the recommendation.
+:PROPERTIES:
+:Author: wokste1024
+:Score: 2
+:DateUnix: 1501163826.0
+:DateShort: 2017-Jul-27
+:END:
+
+
+** It puts "\" before " ' " in output (and I'm guessing other signs that need escape character).
+
+Also giving your user id so it can jus take your favourites would be pretty useful.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 3
+:DateUnix: 1501162664.0
+:DateShort: 2017-Jul-27
+:END:
+
+*** u/deltashad:
+#+begin_quote
+  It puts "\" before " ' " in output (and I'm guessing other signs that need escape character).
+#+end_quote
+
+Thanks. When I have couple of free hours I'll do something about it.
+
+#+begin_quote
+  Also giving your user id so it can jus take your favourites would be pretty useful
+#+end_quote
+
+Implemented
+:PROPERTIES:
+:Author: deltashad
+:Score: 1
+:DateUnix: 1501177272.0
+:DateShort: 2017-Jul-27
+:END:
+
+
+** Neat, i plopped a few of my favorites in and it recommended all my other favorites... I read too much fanfiction.
+:PROPERTIES:
+:Author: KayanRider
+:Score: 3
+:DateUnix: 1501174452.0
+:DateShort: 2017-Jul-27
+:END:
+
+
+** Wow, very cool. Thanks for spending the time to develop the tool and sharing it with us! Great work!
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1501201507.0
+:DateShort: 2017-Jul-28
+:END:
+
+
+** Wow, fantastic!
+:PROPERTIES:
+:Author: Stjernepus
+:Score: 1
+:DateUnix: 1501170463.0
+:DateShort: 2017-Jul-27
+:END:
+
+
+** Dope. Thanks for this!
+:PROPERTIES:
+:Author: toujours_pur_
+:Score: 1
+:DateUnix: 1501199316.0
+:DateShort: 2017-Jul-28
+:END:
+
+
+** God send. Funny enough. Input fav = output most of my other favs + some new (ones I haven read)
+:PROPERTIES:
+:Author: AceTriton
+:Score: 1
+:DateUnix: 1501220761.0
+:DateShort: 2017-Jul-28
+:END:
+
+
+** Can it be tagged complete when a fic is complete?
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1501243058.0
+:DateShort: 2017-Jul-28
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1501279493.0
+:DateShort: 2017-Jul-29
+:END:
+
+*** u/deltashad:
+#+begin_quote
+  What factors are considered when creating recommendations?
+#+end_quote
+
+Favorite lists of other users with similar tasted and properties of fanfic (for now only fandom, genre, rating and characters)
+
+#+begin_quote
+  Also, would it be possible for you to allow users to add a url to their favorites list, and create recommendations based on that?
+#+end_quote
+
+Implemented
+:PROPERTIES:
+:Author: deltashad
+:Score: 1
+:DateUnix: 1501329891.0
+:DateShort: 2017-Jul-29
+:END:
+
+
+** I'd like to suggest a feature. If I could enter my username and your engine could automagically fetch all my favourites from my user on fanfiction.net and create recommendations based on those instead of me having to fetch the id of every single of my favourites and copy paste myself manually.
+:PROPERTIES:
+:Author: gnarlin
+:Score: 1
+:DateUnix: 1501286779.0
+:DateShort: 2017-Jul-29
+:END:
+
+*** Implemented
+:PROPERTIES:
+:Author: deltashad
+:Score: 2
+:DateUnix: 1501329739.0
+:DateShort: 2017-Jul-29
+:END:
+
+**** Bug report: It's not working. I add my user id and click the button. All the story id's are populated. I then scroll down and click the recommend button but nothing happens. I noticed that the first field is left empty. Might that be the cause? By the way, shouldn't that middle step just happen automatically? I.e. You add your userid, click the button and automagically it shows your recommendations?
+
+EDIT: I spoke too soon. Nothing happens even if I just post one story ID and click the recommend button.
+:PROPERTIES:
+:Author: gnarlin
+:Score: 1
+:DateUnix: 1501338059.0
+:DateShort: 2017-Jul-29
+:END:
+
+***** Thanks for feedback.
+
+I have investigated and found out that it run out of memory trying to answer too many request at once. After reloading it seems to work just fine.
+
+Please let me know if you encounter that behavior again.
+:PROPERTIES:
+:Author: deltashad
+:Score: 1
+:DateUnix: 1501348002.0
+:DateShort: 2017-Jul-29
+:END:
+
+****** Thank you so much for this. This is exellent. It's a wonder why fanfiction.net doesn't provide something like this. In fact now that I think about it fanfiction.net hasn't really developed any new features in a long time. It's really rather stagnant. It's just that most stories are there.
+
+I would like to request one more feature. That more meta data on the stories be displayed next to them in the results.
+:PROPERTIES:
+:Author: gnarlin
+:Score: 1
+:DateUnix: 1501348543.0
+:DateShort: 2017-Jul-29
+:END:
+
+
+** Suppose I enter a user or a list of favs that is 100 stories long. How many stories will this use to help me find recs from other people's fav lists? 1? 5? Some dynamically generated cutoff?
+
+Really interesting tool and thanks for that link to the collaborative filtering paper.
+
+I think these tools would be really helped if we could figure out some way to standardize these rating metrics (reviews/follows/etc). If FFnet gave out view metrics (over time) for each story, that would make things so much more interesting. Aside from the fact that it would be an immensely fascinating dataset in its own right, it could really help with these rec engines too.
+:PROPERTIES:
+:Author: finebalance
+:Score: 1
+:DateUnix: 1501405464.0
+:DateShort: 2017-Jul-30
+:END:
+
+*** u/deltashad:
+#+begin_quote
+  How many stories will this use to help me find recs from other people's fav lists?
+#+end_quote
+
+All of them. And that's kind of problem because a lot of users have schizophrenic tastes (i.e. favorite both light-hearted one shots and angsty 500K words stories). That's why just dumping in it your user profile produce so-so results, while entrering two or three stories which has something in common (i.e. ruthless protagonists or self insert or a lot of angst etc) produce order of magnitude better results.
+
+#+begin_quote
+  If FFnet gave out view metrics (over time) for each story, that would make things so much more interesting. Aside from the fact that it would be an immensely fascinating dataset in its own right, it could really help with these rec engines too.
+#+end_quote
+
+I don't think that this dataset could really help with generating recommendations. The most sought after property of recommender system is that it can generate /personalized/ recommendations which imply analyze of similarities between stories (or users). The dataset would do nothing for such analyze, therefore it wouldn't really improve recommender system all that much.
+:PROPERTIES:
+:Author: deltashad
+:Score: 1
+:DateUnix: 1501410965.0
+:DateShort: 2017-Jul-30
+:END:
+
+**** I would argue that it is algorithm's fault. My engine works much better for larger sample data sets even when fics aren't exactly related.
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1505933346.0
+:DateShort: 2017-Sep-20
+:END:
+
+
+** Heh, is that the season of building FFN recommendation engines? Cause I am doing one too XD Though mine is not a website yet, I've made an app first which I am currently refactoring to become something web based. Its algorithm is extremely naive (none of the math mumbo jumbo) but it works fairly well.
+
+Of note: for anyone even bothering with recommendations the engine from OP post will just likely repeat their favourites. 100 is way too low. can't even say how differnt out results are since top 100 will most likely repeat
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1505870799.0
+:DateShort: 2017-Sep-20
+:END:
+
+
+** How did you decide on the user favourites to use as a dataset? In my engine I just used a recursive parse of approximately 30k pages and the results are adequate. Is your dataset the whole of fnn user profiles?
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1505933593.0
+:DateShort: 2017-Sep-20
+:END:
+
+
+** Guess I'll be reccing this more often then linkffn(Realignment)
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1509322328.0
+:DateShort: 2017-Oct-30
+:END:
+
+*** [[http://www.fanfiction.net/s/12331839/1/][*/Realignment/*]] by [[https://www.fanfiction.net/u/5057319/PuzzleSB][/PuzzleSB/]]
+
+#+begin_quote
+  The year is 1943. The Chamber lies unopened and Grindlewald roams unchecked. Neither Tom Riddle nor Albus Dumbledore is satisfied with the situation. Luckily when Hogwarts is attacked they'll both have other things to worry about.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 23 *|* /Words/: 63,275 *|* /Reviews/: 103 *|* /Favs/: 218 *|* /Follows/: 331 *|* /Updated/: 9/4 *|* /Published/: 1/21 *|* /id/: 12331839 *|* /Language/: English *|* /Genre/: Adventure *|* /Characters/: Harry P., Albus D., Tom R. Jr., Gellert G. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12331839&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=12331839&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1509322351.0
+:DateShort: 2017-Oct-30
+:END:

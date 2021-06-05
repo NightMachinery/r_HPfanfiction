@@ -1,0 +1,173 @@
+#+TITLE: Animal - Object Transfiguration Question
+
+* Animal - Object Transfiguration Question
+:PROPERTIES:
+:Author: Treacle-Jam
+:Score: 5
+:DateUnix: 1610705004.0
+:DateShort: 2021-Jan-15
+:FlairText: Discussion
+:END:
+This has been bugging me for a while... when an animal is transfigured into an object, does it...
+
+- Freeze in time so it doesn't need to eat / doesn't feel pain (i.e. cat to caldron, then if the caldron is used, the cat part isn't hurt?)
+
+- Age? So if it was a cup for 20 years then transfigured back, would it be 20 years older or the same age?
+
+- Die? So if it was an object for 1000 years, would the animal die of old age (or sooner of dehydration/starvation?)
+
+- And if the object was broken, would the animal die?
+
+And if the animal did freeze in time and didn't get hurt... would it be immortal? Could a person live forever as an object then leave instructions to be turned back into themselves 10000 years later?
+
+What are your thoughts?
+
+
+** I would say the Freeze in Time thing, personally. Once a thing is transfigured into another thing, it is, for all intents and purposes, the second thing. So, if you did change a cat to a cauldron, for purposes of entropy and aging and decomposition and whatever other natural process would affect it, it is a Cauldron. Unless you turned it into a Cauldron made out of Cat, it'd act in the same way a Cauldron made out of whatever metal would.
+
+I think it'd be hard to untransfigure the living thing though, since you have to change it back and living things are quite a bit more complex than cauldrons are. You put an organ in the wrong place and mister tibbles ain't gonna last long after you change him back.
+
+Personally, I also think this can cause some issues and possibly explains overreliance on magic. One canonical thing I remember is that 'magic overwrites mundane reality'. So, when you transfigure something, magic keeps it in the second form (hence why you need to untransfigure it) and thus that magic will overpower any mundane reactions applied to it (you transfigure something into wood, you can't use a match to set it on fire because magic will keep it as the wood you transfigured - you'd have to use magical fire to burn it. Same with the no-food thing - they can't digest something transfigured into food).
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 5
+:DateUnix: 1610711884.0
+:DateShort: 2021-Jan-15
+:END:
+
+*** A very good answer, thankyou!
+:PROPERTIES:
+:Author: Treacle-Jam
+:Score: 2
+:DateUnix: 1610712573.0
+:DateShort: 2021-Jan-15
+:END:
+
+
+*** I think that “magic overwrites mundanity” thing is fanon. “Magic can't create good food” but we're never given an explanation.
+:PROPERTIES:
+:Author: callmesalticidae
+:Score: 2
+:DateUnix: 1610730951.0
+:DateShort: 2021-Jan-15
+:END:
+
+**** It's a paraphrase from something Rowling said on her website. Magic is more powerful than nature. It's the whole 'why wizards don't get muggle diseases' thing.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 2
+:DateUnix: 1610732410.0
+:DateShort: 2021-Jan-15
+:END:
+
+***** That's entirely different. "Wizards can use magic to cure non-magical diseases" doesn't mean that transfigured objects are impossible to damage by non-magical means.
+:PROPERTIES:
+:Author: callmesalticidae
+:Score: 2
+:DateUnix: 1610732547.0
+:DateShort: 2021-Jan-15
+:END:
+
+****** Oh, sure, that bit is just my extrapolation from something she said. She just said the 'magic overwrites mundane reality' bit. The rest of it is my 'headcanon' conclusions drawn from that sentence. Apologies if I gave the idea I was trying to claim that was canon - I really don't know enough to claim anything as canon or not. And that was the actual sentence she used, she didn't specify diseases only. Just that:
+
+#+begin_quote
+  'I decided that, broadly speaking, wizards would have the power to correct or override ‘mundane' nature, but not ‘magical' nature.'
+#+end_quote
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 2
+:DateUnix: 1610733013.0
+:DateShort: 2021-Jan-15
+:END:
+
+******* The [[https://www.wizardingworld.com/writing-by-jk-rowling/illness-and-disability][full thing]] reads:
+
+#+begin_quote
+  I decided that, broadly speaking, wizards would have the power to correct or override ‘mundane' nature, but not ‘magical' nature. Therefore, a wizard could catch anything a Muggle might catch, but he could cure all of it; he would also comfortably survive a scorpion sting that might kill a Muggle, whereas he might die if bitten by a Venomous Tentacula. Similarly, bones broken in non-magical accidents such as falls or fist fights can be mended by magic, but the consequences of curses or backfiring magic could be serious, permanent or life-threatening.
+#+end_quote
+:PROPERTIES:
+:Author: callmesalticidae
+:Score: 2
+:DateUnix: 1610945666.0
+:DateShort: 2021-Jan-18
+:END:
+
+******** Sure, but then you extrapolate outwards like she did. That paragraph is a proposition (Magic can overwrite mundane nature) and then conclusions based on that proposition (therefore, magicals can cure all muggle diseases and survive extra things). I'm just extrapolating that original proposition in a different direction. For example, we know that Magic can overpower gravity with levitation spells, and that it seems to be able to create fire with no fuel, and can conjure water from nowhere, etc. (There's probably a dozen more I don't know about.) Thus, we can extrapolate from the proposition and the examples that magic has the potential to override mundane nature in all regards, rather than just medically. Which I then pull together with the food thing to get my initial idea about transfiguration from the first post.
+
+Also, I reread one of your previous comments and wanted to clarify - the idea is not that transfigured items can't be damaged by non-magical means, only that they can't be changed by them. You can't digest transfigured food into energy, because that's changing the food into another form, and you can't burn a transfigured house to ashes, because that's changing the form. However, you could throw a rock through the window, because then the item is still a house and that's the conceptual-form the magic is keeping it in.
+
+There are definitely flaws in the idea, don't get me wrong (eg. is conjuration even like transfiguration?), but it's just an opinion that I feel explains some things in an interesting way. I'm not trying to claim my extrapolations as canon or as better than any other.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 2
+:DateUnix: 1610994740.0
+:DateShort: 2021-Jan-18
+:END:
+
+
+** Oh man, years ago I wrote a blog post on this, going into some of the issues inherent with turning living things into nonliving things:
+
+#+begin_quote
+  In Harry Potter, live things are transformed into non-alive things, and vice-versa, on a regular basis. Desk into pig and back into desk. Hedgehog into pincushion. Rat into teacup. etc.
+
+  What's up with that?
+
+  First of all, are the living things still /aware/ while transfigured? Likely not, since there's no sensory organs on say, a pincushion. But in HP, a transfigured hedgehog is said to ‘curl up in fear' when it's approached by a pin, so it's possible that some awareness remains.
+
+  “But animals aren't aware in the HP-verse anyway!” you might say. Well, I somewhat doubt that HP's world is one of Descartean automaton animals. Crookshanks is a cat, yet is quite aware of what Sirius needs and his situation. Hedwig is an owl, yet Harry bonds to her, and her states are described as 'affectionate,' 'bored,' etc. The owls in general seem to have personality and awareness. Also, snakes have their own language. It's clear that HP animals have mental states, and I'm not even getting into magical animals!
+
+  SO, if you transform a sentient animal into an inanimate object, is that the same as killing it? If you change it back, does it have its old memories and self? Whereas, if you transform an inanimate object into an animal, is that animal just born? Would a desk, turned into a pig, result in a pig with fully developed mental faculties? How about a dog? A monkey? Many social animals have to be raised with others to be well-adjusted. Does the wizard choose the personality of the animal they create through transfiguration?
+
+  Can human beings be transfigured this way? Could a wizard change a grandfather clock into their grandfather? Would he have a 'soul?' or would they end up with a soul-less shell?
+
+  Can sentient nonhumans be transfigured this way? Goblins? Elves? Centaurs? Do they have souls? Could a wizard re-create Dobby out of a footstool, if they wanted?
+
+  Furthermore, if you were a wizard, could you transfigure someone, or an animal, into a chair made out of wood? McGonnagall's desk was presumably wood.
+
+  Wood was once part of a living thing. If this is true, then you can transfigure a living thing into once-living matter.
+
+  Could you transfigure, say, a pig into bacon? Then back?
+
+  Could you transfigure a /human/ into a /corpse/? Then /back/?
+
+  Disturbing implications all around.
+#+end_quote
+:PROPERTIES:
+:Author: shadow-wasser
+:Score: 5
+:DateUnix: 1610810289.0
+:DateShort: 2021-Jan-16
+:END:
+
+*** Ahhh so many implications!!! Thanks for this reply, lots to think about!
+:PROPERTIES:
+:Author: Treacle-Jam
+:Score: 3
+:DateUnix: 1610817129.0
+:DateShort: 2021-Jan-16
+:END:
+
+
+** Don't they cover this in the Chamber of Secrets?
+:PROPERTIES:
+:Author: RoyalAct4
+:Score: 1
+:DateUnix: 1610713356.0
+:DateShort: 2021-Jan-15
+:END:
+
+*** We don't know if the Basilisk petrification is the same as transfiguration to stone. Could be two completely different things. Probably are, considering that they couldn't revive the victims through transfig.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 1
+:DateUnix: 1610737311.0
+:DateShort: 2021-Jan-15
+:END:
+
+**** No I meant in that transfiguration class when they changed the crows into the goblets
+:PROPERTIES:
+:Author: RoyalAct4
+:Score: 1
+:DateUnix: 1610747824.0
+:DateShort: 2021-Jan-16
+:END:

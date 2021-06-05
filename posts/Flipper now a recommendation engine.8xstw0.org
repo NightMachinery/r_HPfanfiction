@@ -1,0 +1,301 @@
+#+TITLE: Flipper: now a recommendation engine
+
+* Flipper: now a recommendation engine
+:PROPERTIES:
+:Author: zerkses
+:Score: 17
+:DateUnix: 1531253499.0
+:DateShort: 2018-Jul-11
+:FlairText: Self-Promotion
+:END:
+*UPD: the client link has been updated with a fixed version (and again on 11.07)*
+
+A couple months back I've posted about an app I created to search on FFN in a better way than FFN allows.
+
+[[https://www.reddit.com/r/HPfanfiction/comments/7w063m/promotion_ive_written_an_app_that_makes_finding/]]
+
+One thing that I had working, which did not make it into the release, was recommendation lists. I simply couldn't allow each user to download the necessary amount of data for this to work.
+
+                 
+
+Well, I am happy to say that I've worked around that problem. Meet *Flipper:Client .* The client actually can make recommendation lists based on FFN url lists and user profle urls. Just feed it your url and it will make a a lis tof stuff you may want to read. Or feed it a bunch of fics related by a common genre and it will likely find more for you.
+
+[[https://github.com/Zeks/flipper/releases/latest]]
+
+/You will need MSVC 2015 redistributable for this to work and you can get it there/ [[https://www.microsoft.com/en-us/download/details.aspx?id=48145][/https://www.microsoft.com/en-us/download/details.aspx?id=48145/]] /but if you are gaming on your PC it's highly likely you already have it./
+
+                 
+
+The link to very basic (and, thus, very simple) version of the manual can be found below. It's enough to show how recommendation lists are created and you can expect a proper manual sometime soon.
+
+[[https://docs.google.com/document/d/1Dj4OEwFkZ5AG5yFkongL0TZbTgexTZrN_bW8jdtNBns/edit?usp=sharing]]
+
+Mostly though, the client operates just as original Flipper did, so that one is also still somewhat relevant.
+
+[[https://docs.google.com/document/d/1fJ1P3y3UBY4OjEHosBCo3OtlIC2sycfrL3aC2yqNiP8/edit?usp=sharing]]
+
+                 
+
+*/The client's support is available through Discord/*: [[https://discord.gg/nWwh5Fx]]
+
+Direct all your questions, problems and suggestions to that server. Note that I marked the client as 0.9.0, not 1.0.0 because I */expect/* problems :) We will have to see if I over(or under)estimated the clusterfuck this whole thing is going to be. I am very new to this whole "publically available server" thing, so I fully expect the server to die the moment it begins to be actively used. Hopefully I will be able to iron out these problems quickly enough.
+
+                 
+
+Now about the thing itself and why should you use it ;) You may have seen other websites for recommendation lists creation in the past, but they are all dead (at least I failed to find one that's alive) and neither of them ever gave you the degree of control Flipper:Client does. Flipper is, at its core, a search engine, not a recommendation engine. As such, whatever a search engine does, you can do with recommendations you receive. With Flipper you can:
+
+                 
+
+Exclude whole fandoms, genres, words, etc... from lists you receive.
+
+Search for recommendations only in a specific fandom.
+
+Permanently exclude fics from recommendations results.
+
+And all the other stuff that filters of Flipper generally allowed you to do.
+
+                 
+
+And, perhaps most importantly, Flipper doesn't cut the list at the first XXX fics it finds for you. You can switch result pages without limits. It might sound like the tail of the list is unlikely to be relevant, but it's totally not a thing. I've been personally using the Flipper's recs for close to a year and some of the best stuff I have found has been at the very bottom of the list.
+
+*Keep in mind that this is a 64 bit Windows release. 32 bit will come later. It's a bit finicky atm.*
+
+Also keep in mind: this is not Flipper 2 and it doesn't even have all of the features the original Flipper had.
+
+Most importantly: this currently works off of a static snapshot of 2 million something fics on FFN. For recommendation list purposes though, it's more than enough (for the time being)
+
+     
+
+P.P.S. if you are already using Flipper v1, you can import your tags exported from it into the client.
+
+Sorta tutorials:
+
+[[https://www.youtube.com/watch?v=3n-jidG5d8M]] general usage in basics scenario
+
+[[https://www.youtube.com/watch?v=dUs_-t_nEh8]] making lists with story urls instead of a profile url
+
+[[https://www.youtube.com/watch?v=ho2egf1l9Dg&feature=youtu.be][https://www.youtube.com/watch?v=ho2egf1l9Dg]] cleaning up the list by tagging
+
+
+** can you maybe upload a video of an example of it being used? it sounds like it'd be a neat tool
+:PROPERTIES:
+:Author: mufasaLIVES
+:Score: 3
+:DateUnix: 1531261987.0
+:DateShort: 2018-Jul-11
+:END:
+
+*** I have updated the original post with youtube links
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1531264121.0
+:DateShort: 2018-Jul-11
+:END:
+
+
+** Great work, as always. UI is great and the tool adds a lot of utility without being too feature bloated.
+
+Just a heads up though, Avast flagged the exe as potentially harmful, which I don't remember happening with the 1.0 version? Though I might not have had it installed at that point. Regardless, not sure if there's anything you can provide to them/other AV vendors to legitimize it or if you just have to wait for it to get into their systems, but in the meantime you might want to alert people that it might be flagged by AV software so they don't freak out
+:PROPERTIES:
+:Author: bgottfried91
+:Score: 2
+:DateUnix: 1531428911.0
+:DateShort: 2018-Jul-13
+:END:
+
+*** Yes, Norton also doesn't like the new version overly much, but it just says "we don't have enough information about this file... yada yada". I suspect it has to do with the whole "tries to access the internet to work" thing. As I understand - once the app is used enough they flag it as safe and AV software stops panicking. But with the new version having been downloaded just ~30 times so far ...
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1531430497.0
+:DateShort: 2018-Jul-13
+:END:
+
+
+** untrue shared linguistics and attraction to similar sexual organs.
+
+This product burned my retinas. I demand a refund.
+:PROPERTIES:
+:Author: TrueSneakyDevil
+:Score: 1
+:DateUnix: 1531257638.0
+:DateShort: 2018-Jul-11
+:END:
+
+
+** Bug report? The tags always add doubly for me.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 1
+:DateUnix: 1531264479.0
+:DateShort: 2018-Jul-11
+:END:
+
+*** can you be a little more specific? what exactly do you press?
+
+You report can be interpreted in quite a lot of ways :)
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1531264547.0
+:DateShort: 2018-Jul-11
+:END:
+
+**** I expand the possible tag list, click the tag to add. Ends up looking like that - [[https://i.imgur.com/6BbJ4rz.png]]
+
+Another thing - the Discord Invite is dead.
+
+And one more thing the application jumps to the other part of recommendation list instead of opening fic when I try to open to open [[https://www.fanfiction.net/s/5971274/1/Conlaodh-s-Song]] or [[https://www.fanfiction.net/s/11160991/1/0800-Rent-A-Hero]] I suspected the special signs being at work, but the Prisoner's Cipher opened for example. The upvoting/downvoting fics also ends up in jump through the list.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 1
+:DateUnix: 1531265214.0
+:DateShort: 2018-Jul-11
+:END:
+
+***** To illustrate a problematic case. So I want downvote the Red Knight, as I've read it and due to its cliche-ridden nature only consider it a guilty pleasure.
+
+[[https://i.imgur.com/1AXlEjE.png]]
+
+Click and I get that [[https://i.imgur.com/xJxvFod.png]]
+
+Scroll down to the Red Knight. It's still the same: [[https://i.imgur.com/Kxm4J0P.png]]
+
+Trying to add the tags ends the same way. For some fic I just needed to click the second time, for some like the Red Knight, it's a neverending loop.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 2
+:DateUnix: 1531265707.0
+:DateShort: 2018-Jul-11
+:END:
+
+****** [[https://github.com/Zeks/flipper/releases/tag/client_0.9.1]] please check if this helps. I think it should
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1531266895.0
+:DateShort: 2018-Jul-11
+:END:
+
+******* No double tags anymore, but the fics that can be tagged or voted on are still here.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 2
+:DateUnix: 1531333490.0
+:DateShort: 2018-Jul-11
+:END:
+
+******** oh.... iiiiiinteresting. the problem seems to be with QML not recognizing some specific fics under the cursor. it's always the Red Knight at least so at least I have a test case. Thanks for finding this out.
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1531334727.0
+:DateShort: 2018-Jul-11
+:END:
+
+
+******** I have found what caused it. Expect 0.9.2 on github in a couple minutes
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1531336982.0
+:DateShort: 2018-Jul-11
+:END:
+
+
+******** Can you give me the url that you are making the source list with? Seems to be a problem with very specific settings because I can't reproduce it here
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1531333906.0
+:DateShort: 2018-Jul-11
+:END:
+
+
+******** or if you modify the list manually, the exact contents of the source fics editor
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1531334290.0
+:DateShort: 2018-Jul-11
+:END:
+
+
+***** Correction. Upvoting/downvoting only jumps me up sometimes, and then i have vote again for it to stick.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 1
+:DateUnix: 1531265355.0
+:DateShort: 2018-Jul-11
+:END:
+
+
+** Hey, you can always link to the latest version instead of always updating the tags like [[https://github.com/Zeks/flipper/releases/latest][this]]. Just a headsup! :)
+:PROPERTIES:
+:Author: ShaddyDC
+:Score: 1
+:DateUnix: 1531401702.0
+:DateShort: 2018-Jul-12
+:END:
+
+*** oh, yeah. thanks, lol. I should do that. I should probably rewrite the whole post anyway. I really dislike the wall of text it ended up as.
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1531401983.0
+:DateShort: 2018-Jul-12
+:END:
+
+
+** * Step by step guide to implement simple Recommendation Engine using Google Optimize
+  :PROPERTIES:
+  :CUSTOM_ID: step-by-step-guide-to-implement-simple-recommendation-engine-using-google-optimize
+  :END:
+[[/r/http][r/http]]://bit.ly/2ODEFLt
+:PROPERTIES:
+:Author: emneha
+:Score: 1
+:DateUnix: 1533204898.0
+:DateShort: 2018-Aug-02
+:END:
+
+*** what?
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1533212361.0
+:DateShort: 2018-Aug-02
+:END:
+
+**** Just a little procedure to let people know how to build a recommendation engine, I thought people maybe curious here.. but did I got the wrong idea about the topic here?
+:PROPERTIES:
+:Author: emneha
+:Score: 1
+:DateUnix: 1533275797.0
+:DateShort: 2018-Aug-03
+:END:
+
+***** Not exactly wrong, but the way the post was worded was suspicious as hell :) Anyway, the article is interesting, and something I was going to peruse myself, but only after all the infrastructure is set up. Till then, my trivial algo is more than enough
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1533300412.0
+:DateShort: 2018-Aug-03
+:END:
+
+****** You made me flinch!!! I like the way you posted your idea.... Hope to see more from you soon... Hwaiting.
+:PROPERTIES:
+:Author: emneha
+:Score: 1
+:DateUnix: 1533489058.0
+:DateShort: 2018-Aug-05
+:END:
+
+
+** Flipper! :) That is like the whale!
+:PROPERTIES:
+:Score: -1
+:DateUnix: 1531272246.0
+:DateShort: 2018-Jul-11
+:END:

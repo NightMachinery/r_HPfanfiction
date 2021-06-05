@@ -1,0 +1,522 @@
+#+TITLE: The trace
+
+* The trace
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 16
+:DateUnix: 1477178401.0
+:DateShort: 2016-Oct-23
+:FlairText: Discussion
+:END:
+Most of us agree there was location based tracking, especially on homes of underage Muggleborns.
+
+There is also a second form of trace, and there are disagreements about whether it was on the person or on the wands.
+
+My interpretation is on the wands, and here is the proof:
+
+/“So Voldemort stole Morfin's wand and used it?” said Harry, sitting up straight./
+
+/“That's right,” said Dumbledore. “We have no memories to show us this, but I think we can be fairly sure what happened. Voldemort Stupefied his uncle, took his wand, and proceeded across the valley to ‘the big house over the way.' There he murdered the Muggle man who had abandoned his witch mother, and, for good measure, his Muggle grandparents, thus obliterating the last of the unworthy Riddle line and revenging himself upon the father who never wanted him. Then he returned to the Gaunt hovel, performed the complex bit of magic that would implant a false memory in his uncle's mind, laid Morfin's wand beside its unconscious owner, pocketed the ancient ring he wore, and departed.”/
+
+.....
+
+/“But how come the Ministry didn't realize that Voldemort had done all that to Morfin?” Harry asked angrily. “He was underage at the time, wasn't he? I thought they could detect underage magic!”/
+
+/“You are quite right --- they can detect magic, but not the perpetrator: You will remember that you were blamed by the Ministry for the Hover Charm that was, in fact, cast by ---”/
+
+/“Dobby,” growled Harry; this injustice still rankled. “So if you're underage and you do magic inside an adult witch or wizard's house, the Ministry won't know?”/
+
+/“They will certainly be unable to tell who performed the magic,” said Dumbledore, smiling slightly at the look of great indignation on Harry's face. “They rely on witch and wizard parents to enforce their offspring's obedience while within their walls.”/
+
+Excerpt From: J.K. Rowling. “Harry Potter and the Half-Blood Prince.” iBooks. [[https://itun.es/us/h6L09.l]]
+
+--------------
+
+I think the above excerpt explains pretty well. Voldemort first cast spells using his own wand in a wizard home, bypassing location based tracking. Then he used another person's (adult) wand, went to his father's house, a Muggle home, and casted three AKs undetected.
+
+
+** u/Taure:
+#+begin_quote
+  “Second problem: You're underage, which means you've still got the Trace on you.”
+
+  “I don't --“
+
+  “The Trace, the Trace!” said Mad-Eye impatiently. “The charm that detects magical activity around under-seventeens, the way the Ministry finds out about underage magic! If you, or anyone around you, casts a spell to get you out of here, Thicknesse is going to know about it, and so will the Death Eaters.”
+#+end_quote
+
+DH Chapter 4
+
+#+begin_quote
+  “Well, you can't do anything about the” -- Ron mouthed the word Horcruxes -- “till you're seventeen. You've still got the Trace on you.
+#+end_quote
+
+DH Chapter 6
+
+#+begin_quote
+  “You -- you don't think you've still got your Trace on you, do you, Harry?”
+
+  “He can't have,” said Ron. “The Trace breaks at seventeen, that's Wizarding law, you can't put it on an adult.”
+#+end_quote
+
+DH Chapter 9
+
+The Trace is a piece of magic which attaches to a person, and can tell what spells are cast around that person, but not by whom. It breaks automatically when the wizard turns 17. That much we are explicitly told in DH so must be true. This also fits with the case of Dobby in CoS and the case of Muggleborn vs Pureblood unequal application of the law.
+
+The only problem is the Tom Riddle situation. Either it's a plot hole, or there's some other factor at play that we are unaware of. Either way, it doesn't displace what we know to be the case, it just poses a problem for it.
+:PROPERTIES:
+:Author: Taure
+:Score: 15
+:DateUnix: 1477183764.0
+:DateShort: 2016-Oct-23
+:END:
+
+*** u/yarglethatblargle:
+#+begin_quote
+  The only problem is the Tom Riddle situation. Either it's a plot hole, or there's some other factor at play that we are unaware of. Either way, it doesn't displace what we know to be the case, it just poses a problem for it.
+#+end_quote
+
+I had always thought that the Ministry assumed that Unforgivables use was outside the skillset of underage wizards and witches, plus with Morfin living nearby (who had a previous issue of magic use on one of the deceased muggles) meant that Morfin was the prime suspect, and that when he confessed the Ministry didn't bother trying to find the underage magical who was present. Which is a pretty typical course of action for virtually any level of government.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 9
+:DateUnix: 1477184101.0
+:DateShort: 2016-Oct-23
+:END:
+
+**** Well, that is one route out of it: that the Ministry can't even tell whose Trace has fed them the information. All they get is a list of spells and locations where they have been cast, fed to them by all the Traces in the country. This is what Dumbledore's HBP explanation would appear to imply when he said they can't identify the perpetrator.
+
+However, that raises the question of how it is they can send owls to people to inform them of underage magic offences if they don't know whose Trace it has come from. I suppose it would even further strengthen the Muggleborn/pureblood distinction as the only time they could ever be sure that the magic has been cast by an underage wizard is if it had been cast in an area known to only house a single wizard, who is underage.
+:PROPERTIES:
+:Author: Taure
+:Score: 9
+:DateUnix: 1477184372.0
+:DateShort: 2016-Oct-23
+:END:
+
+***** u/yarglethatblargle:
+#+begin_quote
+  However, that raises the question of how it is they can send owls to people to inform them of underage magic offences if they don't know whose Trace it has come from.
+#+end_quote
+
+That is where it gets tricky. I guess the question ultimately comes down to: Why does the Reasonable Restriction of Underage Magic exist in the first place? The only answer that I can come up with that seems feasible would relate to the International Statute of Wizarding Secrecy. Underage wizards/witches on the whole are not going to be the most responsible bunch, and are the most likely to use magic in front of Muggles when they shouldn't. This would mean that underage magic use by purebloods (who in this era seem to have virtually no contact with muggles whatsoever) is not as big a priority as underage magic use by muggleborn/muggle-raised.
+
+That makes it particularly easy in the Harry situation, being the only wizard (underage or otherwise, most likely) in Little Whinging, they /knew/ who used the Hovering Charm. In cases where there are mutliple Traces present, there's probably investigation from Department of Magical Law Enforcement wizards/witches to determine the caster.
+
+As a sidenote, the only muggleborns we know of in canon who have magical siblings are the Creevey Brothers. Sadly, this isn't enough of a data set to determine whether muggleborns with siblings are likely to have magical siblings, because the only other muggleborn with a sibling that we /cough cough/ I /cough cough/ know of is Lily, so that kinda balances it out.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 5
+:DateUnix: 1477184919.0
+:DateShort: 2016-Oct-23
+:END:
+
+
+**** u/verysleepy8:
+#+begin_quote
+  The only problem is the Tom Riddle situation. Either it's a plot hole, or there's some other factor at play that we are unaware of. Either way, it doesn't displace what we know to be the case, it just poses a problem for it.
+#+end_quote
+
+Or maybe J.K. Rowling is constantly inconsistent in her rules for how magic works in her universe, and there is no single correct answer to most such questions?
+:PROPERTIES:
+:Author: verysleepy8
+:Score: 0
+:DateUnix: 1477187848.0
+:DateShort: 2016-Oct-23
+:END:
+
+***** We're in a forum for /Harry Potter FanFiction/. We are too far down the rabbit-hole to apply that kind of logic to this situation.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 12
+:DateUnix: 1477187985.0
+:DateShort: 2016-Oct-23
+:END:
+
+****** I find accepting that her world makes no sense really liberating. It is why fanfic works so well for Harry Potter. The weird features of her plots and world building give you enormous room to try different things.
+
+The great thing about Harry Potter is JKR's writing is wonderful, thus making us all really love characters and the canon, but her plots and world are so full of holes that you can rebuild the whole thing any way you like while still keeping the same general shape.
+
+Worlds that are very well engineered make that harder. Plots that are really tightly engineered make it harder to change things up as well. You have to break huge things almost immediately.
+
+I don't worry about her plot holes and the holes in her world, I revel in them.
+:PROPERTIES:
+:Author: verysleepy8
+:Score: 2
+:DateUnix: 1477189150.0
+:DateShort: 2016-Oct-23
+:END:
+
+
+*** u/deleted:
+#+begin_quote
+  The only problem is the Tom Riddle situation. Either it's a plot hole, or there's some other factor at play that we are unaware of. Either way, it doesn't displace what we know to be the case, it just poses a problem for it.
+#+end_quote
+
+It could be that The Trace during Riddle's time was different. It could have been placed on the wand at the time. It'd fit more with the punishment for being booted from Hogwarts, and just the general focus of wands them wizarding world seems to have.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1477187224.0
+:DateShort: 2016-Oct-23
+:END:
+
+
+*** That basically means JKR didn't really care about consistencies in her story. Everything must be subject to the plot! CC is just another continuation of that tradition.
+
+In case of fanfics, I'm fine with both interpretations of the Trace situation. If it was on the wand, buy an illegal one. But if it was a charm, then break it.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 3
+:DateUnix: 1477184830.0
+:DateShort: 2016-Oct-23
+:END:
+
+**** This. There's no rhyme or reason to magic half the time in her world. Every rule is subject to being undermined the next time she needs some constraint changed for her bizarrely complicated plots.
+
+Take, for example, the fact that we know can turn a desk into a pig, but you can't create food (because it would be inconvenient to the plot when this rule first appears in book 7) even though you could presumably eat a pig. You can create a flight of birds but you somehow can't eat those either.
+
+(And I'm sure by piling on additional rules one could rationalize most of her plot holes, but lets not pretend it isn't rationalization).
+
+We love JKR's books because of the great writing and characterization, but consistent world building isn't her strong point. In fact, I'd argue that if it was, fan fiction for her world would be much less interesting.
+:PROPERTIES:
+:Author: verysleepy8
+:Score: 2
+:DateUnix: 1477188175.0
+:DateShort: 2016-Oct-23
+:END:
+
+***** If you see take the idea that transfiguration either isn't permanent or doesn't somehow change what the thing truly is made from then the food one makes some twisted sense. As in if you transfigured the desk into a pig and cooked it then regardless of taste etc, the nutrition comes from a desk and I imagine that cannot be good for your digestion. Conjured food equally so if you imagine all the food you eating reverting to air. You can eat it just not live off it.
+:PROPERTIES:
+:Author: herO_wraith
+:Score: 1
+:DateUnix: 1477243425.0
+:DateShort: 2016-Oct-23
+:END:
+
+****** Or maybe JKR needed Harry, Hermione and Ron to suffer in the woods and so she created the idea ad hoc so they couldn't get food easily.
+
+Even so, even if we believe the whole "you can't make food" thing, I never got why they didn't just apparate once a week into a Waitrose or even a Tesco at 3am when the place was closed and grab everything they needed. Sure, it's stealing, but they were in a bad way and it wasn't like the fate of the world didn't depend on them remaining healthy.
+
+(For that matter, I kept wondering why they couldn't summon Kreacher to help them out, since he belonged to Harry. Also, I get staying in a tent for a couple of nights, but after months, surely they could have found or put together some other place to live. Magic is a powerful resource.)
+
+But anyway, I get that it's fun to come up with in-universe reasons for particular rules. I play that game myself all the time. Just so long as one doesn't believe there's really some consistent underlying mechanism behind all this beyond "JKR needed that rule so a plot point would work out or to add color to some scene."
+:PROPERTIES:
+:Author: verysleepy8
+:Score: 2
+:DateUnix: 1477245018.0
+:DateShort: 2016-Oct-23
+:END:
+
+
+** /Dear Mr. Potter, We have received intelligence that a Hover Charm was used at your place of residence this evening at twelve minutes past nine./
+
+/As you know, underage wizards are not permitted to perform spells outside school, and further spellwork on your part may lead to expulsion from said school (Decree for the Reasonable Restriction of Underage Sorcery, 1875, Paragraph C). We would also ask you to remember that any magical activity that risks notice by members of the non-magical community (Muggles) is a serious offense under section 13 of the International Confederation of Warlocks' Statute of Secrecy./
+
+/Enjoy your holidays!/
+
+/Yours sincerely, Mafalda Hopkirk improper use of magic office Ministry of Magic/
+
+Basically the contradiction between book 2 and 6 is largely irreconcilable. The rules set out in books 2 and 5 have the ministry know what spells have been cast and where, but not by whom.
+
+Tom using his uncles wand is for the /Priori Incantatum/ and thus framing Morthin, rather than to avoid the trace.
+
+Either way there seems to be one set of rules for Harry, and one rules for Tom.
+:PROPERTIES:
+:Author: Faeriniel
+:Score: 5
+:DateUnix: 1477182352.0
+:DateShort: 2016-Oct-23
+:END:
+
+*** u/yarglethatblargle:
+#+begin_quote
+  Either way there seems to be one set of rules for Harry, and one rules for Tom
+#+end_quote
+
+Or the rules had changed over the decades between the two events. This happens in real life all the time. For example:
+
+When my father went to college, the legal age to buy alcohol in Wisconsin was 18, and he was the only one on his floor of the dorm with a minifridge, and was over 18, so people would store their beer in his fridge, and he wouldn't get in trouble for having alcohol. When I went to college somewhere around 30 years later, the underage drinking law in the state containing my school AND Wisconsin's was at 21 because of Federal blackmail.
+
+TL;DR? Laws can change over time, yo.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 8
+:DateUnix: 1477183278.0
+:DateShort: 2016-Oct-23
+:END:
+
+
+*** rules change, example will be
+
+"Knew!" shrieked Aunt Petunia suddenly. "Knew! Of course we knew! How could you not be, my dratted sister being what she was? Oh, she got a letter just like that and disappeared off to that - that school- and came home every vacation with her pockets full of frog spawn, turning teacups into rats. I was the only one who saw her for what she was - a freak! But for my mother and father, oh no, it was Lily this and Lily that, they were proud of having a witch in the family!"
+
+conspiracy might say that rules got changed especially for harry potter because they knew he isnt in the wizard world.
+:PROPERTIES:
+:Author: Archimand
+:Score: 3
+:DateUnix: 1477183942.0
+:DateShort: 2016-Oct-23
+:END:
+
+**** Plus we know the Evans' lived near the Snapes, one of whom was a fully qualified witch. Ministry might have assumed that Eileen Snape was the one who cast the spells to help Lily demonstrate to her parents (who have been let in on the secret of magic, and thus isn't a violation of the Statute of Secrecy) what Lily had learned to do so far.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 6
+:DateUnix: 1477184251.0
+:DateShort: 2016-Oct-23
+:END:
+
+
+*** u/deleted:
+#+begin_quote
+  Basically the contradiction between book 2 and 6 is largely irreconcilable.
+#+end_quote
+
+Nothing's irreconcilable with enough mental contortions!
+
+Let's try this: mages living among muggles use accidental magic. There's nobody around to reverse it, and it doesn't involve wands. So muggleborns and orphans get a special place-of-residence detection charm. Madam Hopkirk received the notice from that and issued the warning. Tom Riddle had a similar charm around the orphanage.
+
+Meanwhile, /all/ underage mages have a similar charm applied to their wands, except it isn't active when they're in the presence of an adult mage, because the Malfoys and Blacks can supervise their own children, thank you very much.
+
+So Tom was able to leave his orphanage, head over to Little Hangleton, cast spells on his uncle, and use his uncle's wand to kill his father's family, all without drawing the ire of the Ministry. He only used his own wand in the presence of an adult wizard. He didn't do magic near the orphanage. He used magic away from an adult wizard, but it wasn't using a wand with the Trace on it.
+
+Meanwhile, on Many Harrys Day, they couldn't just go in, transfigure Harry into a handkerchief, and walk out, pretending he had mysteriously vanished, because that would involve doing magic at Harry's place of residence, where all magic would be tracked.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1477183859.0
+:DateShort: 2016-Oct-23
+:END:
+
+**** u/verysleepy8:
+#+begin_quote
+  Nothing's irreconcilable with enough mental contortions!
+#+end_quote
+
+And that is, sadly, the only way to rationalize a lot of the world building in the series. :(
+:PROPERTIES:
+:Author: verysleepy8
+:Score: 1
+:DateUnix: 1477188309.0
+:DateShort: 2016-Oct-23
+:END:
+
+
+** (I'm assuming you want to return to the discussion started in a different thread, so I'm reposting my original point).
+
+What we're told is that Dumbledore /believes/ that Tom Riddle killed his family and then Confunded his Uncle to take the blame for it. When I re-read this section, I became more frustrated than before, because Dumbledore's explanation is contradictory. He'd just finished saying that Tom had to cast in the Gaunt shack for his spellwork to be ignored by the Ministry, then Albus goes off encouraging Harry to believe that Riddle did the murders and then implanted his own memory of them into Morfin's mind.
+
+An equally likely scenario that doesn't break the Trace but still fulfills the circumstances as Dumbledore related them: Tom used the Imperius on Morfin while still in the Gaunt's shack, where the Trace wouldn't cite him since the Gaunts were regular spell-users; Morfin went up the hill and killed the muggles, then returned to the shack; Riddle Obliviated Morfin of his own involvement and relied on Morfin's accurate memory of murdering the muggles to implicate him.
+
+What that says to me is that the Trace is on the child, probably from the moment they get a wand, but various locations around the country are 'safe zones' since any underage spell use is assumed to be monitored and managed by responsible adults in the area.
+
+This is also borne out by Dobby using magic at the Dursleys to get Harry in trouble- Dobby's spell would activate Harry's Trace even though Harry's wand was never used.
+
+The third example is when the Dementors attacked Harry and Dudley at the beginning of the fifth book. They were several blocks away from the Dursley's house, so any alleged magic use sensors there wouldn't have been triggered. Harry was using his own wand, so that supports the Trace on him or his wand, but not specific to an area (the usual argument for Dobby's trick).
+
+The last part worth mentioning is when the Order shows up to bring Harry to Grimmauld. All sorts of spells are cast while they visit, including Tonks' 'Pack', Disillusionment charms, a reparo for the plate Tonks broke. This suggests that the Trace on the underaged is somehow nullified in the presence of an adult wizard. If so, that might explain how Harry being transported to the graveyard in Little Hangleton was not cited for all sorts of spells, not the least of which was the Killing Curse. His own wand cast the Disarming charm and a Summoning charm.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 3
+:DateUnix: 1477182200.0
+:DateShort: 2016-Oct-23
+:END:
+
+
+** We know that priori incantatem can be used to see the last spell used on a wand (beginning of GoF at the Quidditch World Cup after everything goes bonkers). I had always assumed /this/ was why Tom stole Morfin's wand, so that his own was clean of the Killing Curse. None of the other spells he used (Stunning Curse/Spell, Memory Removal/Replacement) were/are illegal.
+
+The real oversight was ignoring whatever methodology would detect underage magic use in the Riddle Manor (unless it /is/ close enough to the Gaunt Shack for it to still be considered adult magic use, in which case no plot hole) for their detection system for multiple use of Unforgivables.
+
+Of course, this assumes that the Ministry can have a way to detect use of certain spells (Unforgivables) even with no underage wizard/witch in the area, which I don't believe to be true due to the difficulties at the end of the first Voldemort Conflict™ in determining who was actually under the Imperious Curse, plus the rampant use of all three during Voldemort's Resurrection.
+
+Therefore, what I guess happened is the following sequence of events:
+
+1. Tom confronts Morfin, stuns him and steals Morfin's wand so Tom's own will be clean of illegal spells (priori incantatem is shown only for the last used spell, but may be possible for older spells).
+
+2. Tom goes and kills his Father and Grandparents with the Killing Curse.
+
+3. He returns to Morfin, return's Morfin's wand and modifies Morfin's memories with his (Tom's) own wand so the Killing Curse use isn't cleaned from Morfin's Wand. Tom steals the Gaunt Ring/Resurrection Stone.
+
+4. Concurrently with 3: Whatever Trace spell detection device/system the Ministry has records multiple uses of the Killing Curse in the presence of an underage witch/wizard in Riddle Manor. Due to the fact that there is a wizard who has previously assaulted Tom Riddle Sr. with magic, and the multiple use of Unforgivables (which both Barty-Moody in GoF and Bellatrix in OoTP state/imply to be difficult or beyond the average underage magic user) makes the Ministries first priority confronting Morfin.
+
+5. Ministry Aurors confront Morfin, and he admits to killing the Riddles. Since an admission of guilt is generally a good sign of guilt, and Morfin's wand was the one used for the Killing Curses, the Aurors don't bother trying to find the underage magical (which could have just been someone outside the building, presumably). Or they assume the underage witch/wizard fled because honestly, the hell wants to be near a wizard willing to use the Killing Curse?
+
+6. Morfin gets tried in front of the Wizengamot, and because of his confession gets sentenced to life in Azkaban.
+
+7. Concurrent to 6: Tom Riddle Jr gets away with patricide and what I'm going to call grandpatricide and grandmatricide. Depending on how the timeline works with killing Myrtle, may make the Ring into a Horcrux.
+
+This is really the only way I can envision the Riddle's murder going down that fits in with what we know of the Trace from Chamber of Secrets, HalfBlood Prince and Deathly Hallows.
+
+EDIT: This sequence of events assumed that Tom actually performed the murders (which I believe to be the case, because he would have wanted vengeance upon them for what his life in the orphanage was like, and for being filthy muggles who ruined his bloodline). It is possible he could have subdued Morfin, used the Imperious Curse on him using Morfin's wand, and had Morfin murder the shit out of the Riddles. Though, didn't Dumbledore break through the Memory Charms on Morfin, and thus would have known that Morfin didn't actually commit the murders (controlled or not?). Because, well, I certainly recall Dumbledore having a Pensieve memory of Tom Jr meeting with Morfin, and I highly doubt Voldemort would have given it to Dumbledore. Another possibility, assuming Trace is automatically ignored in the presence of an of-age wizard (which would require that the Ministry can somehow track of-age wizards or their magic use which we know not to be the case because of Deathly Hallows) by bringing Morfin's unconscious/stunned body with him to the Manor. However, I think my previously mentioned course of events is the most likely.
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 5
+:DateUnix: 1477183009.0
+:DateShort: 2016-Oct-23
+:END:
+
+
+** But they did find the dead muggles; the trace might have been the thing that alerted them of the dead muggles in the first place.
+
+Also, Tom Riddle was a very gifted wizard. For all we know, he could have successfully removed the Trace on himself.
+
+The ministry probably receive a large number of trace readings from magical households every day, so it could have been one among many, and simply lost in the system.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1477208664.0
+:DateShort: 2016-Oct-23
+:END:
+
+
+** The Trace is one of the things I actually hate about HP, right up there with ghosts and magical portraits. The portraits especially.
+
+Inconsistencies with the Trace come from probably two things: it didn't exist from the start of the series and the shift from children's literature to YA halfway through the series.
+
+That said, I don't believe the Trace is on the wand. It's the one thing about that abomination that I'm pretty sure of. My evidence for it is the Hover Charm and that's what I'm sticking to, because I need /something/ semi-consistent about the Trace to keep my fanfic internally consistent.
+:PROPERTIES:
+:Author: ScottPress
+:Score: 1
+:DateUnix: 1477231041.0
+:DateShort: 2016-Oct-23
+:END:
+
+*** How would you break the Trace in your stories?
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 1
+:DateUnix: 1477234515.0
+:DateShort: 2016-Oct-23
+:END:
+
+**** By turning seventeen.
+:PROPERTIES:
+:Author: ScottPress
+:Score: 1
+:DateUnix: 1477287231.0
+:DateShort: 2016-Oct-24
+:END:
+
+***** More specifically- do you think the Trace breaks on the declared subject's 17th birthday, as calculated by the expected alignment of stars at that time, or do you see it as counting down the seconds lived by that body since application of the Trace?
+
+In the first case, there's nothing to be done except to bear through until the day arrives. For the second, a Time Turner may be able to bend the rule, but that depends on whether the body truly picks up the mileage.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 1
+:DateUnix: 1477322773.0
+:DateShort: 2016-Oct-24
+:END:
+
+****** Since HP magic is conceptual and age/time shenanigans seem too much like hacks to me, I'd say the concept of turning seventeen matters. Extrapolating from that, peggysuing an of-age wizard into an under seventeen body wouldn't reapply the Trace because the person inhabiting that body already turned seventeen.
+:PROPERTIES:
+:Author: ScottPress
+:Score: 1
+:DateUnix: 1477325011.0
+:DateShort: 2016-Oct-24
+:END:
+
+
+*** Going on a tangent from the main topic; what do you find wrong about ghosts and portraits?
+:PROPERTIES:
+:Author: mikefromcanmore
+:Score: 1
+:DateUnix: 1477270051.0
+:DateShort: 2016-Oct-24
+:END:
+
+**** Ghosts remember their lives, we know that. Or at least the sample size we see in canon does. It seems to me like ghosts should be a bigger deal or ignored entirely. Just a personal dislike.
+
+Portraits are... what, exactly? Are they a canvass-based copy of the person, recorded at the time of the portrait's creation (or enchantment)? Are they static, unchanging? But Walburga's portrait clearly has the capability to learn and retain new information after her death, so is it actually the person, just without a body? Personality and knowledge wise, the portraitee never dies?
+
+It's dumb, poorly thought out, only the for environment ambience. Have environment ambience, but keep it in mind if it's reality-breaking stuff.
+:PROPERTIES:
+:Author: ScottPress
+:Score: 2
+:DateUnix: 1477287710.0
+:DateShort: 2016-Oct-24
+:END:
+
+
+** Actually, the only reason Voldemort used Morfin's wand was because of Priori Incantatem would expose him as the true murderer if he used his own wand.
+
+Since Priori Incantatem replays the last spells used by a wand, all Voldemort had to do was kill his father and grandparents with the Killing Curse while in the presence of an adult wizard (Morfin) using said adult wizard's wand (again, Morfin) and then Voldemort would never be a suspect.
+
+The Ministry would show up and use Priori Incantatem and see that three Killing Curses were cast from Morfin's wand and that would be enough to get Voldemort off the hook. The fact that the Ministry already know Morfin to be a muggle-hater and pureblood supremacist would only make it easier for Voldemort to get away with the murders.
+
+So the Trace was never on the wands, it was always on the wizards themselves. Voldemort using Morfin's wand was done simply to make it look as if Morfin had murdered those people. The fact that the Ministry thought Dobby's Hover Charm was done by Harry in CoS reinforces the fact that the Trace, however inconsistent it may be, was never on the wand.
+
+The entire reason that Harry gets screwed by the Trace is that he is the only wizard living in Privet Drive. Meaning that ANY magic done in Privet Drive will be attributed to him and him alone. If an adult wizard was with Harry (e.g. Sirius, Molly, etc) and the Ministry knew that said adult wizard was with Harry, then the Ministry would just assume that it was them who did magic instead of Harry. In a scenario where both James and Lily were alive, Harry doing underage magic at home would be attributed to James and Lily.
+
+For instance, any magic done in Malfoy Manor by Draco would just be attributed to Lucius or Narcissa. Since it only detects magic done in the presence of an underage wizard, and it only hinders Harry because no other adult wizards lived around him. It has nothing to do with any favouritism towards purebloods. After all, Harry and Ginny's children would be able to cast magic all they wanted at home and any magic done by James/Albus/Lily would just be attributed to Harry and/or Ginny. Same goes with Ron and Hermione's children since any magic done by Rose or Hugo would be attribute to Ron or Hermione.
+
+If anything, the Trace *protects muggleborns and muggles* since if a muggleborn did underage magic intentionally, and they didn't know how to reverse it, then it could endanger the Statute of Secrecy. Imagine how screwed a muggleborn would be if they tried transfiguring their dog into a bird and ended up with a failed transfiguration hybrid (as we see in McGonagall's classes at times)? What about jinxes/hexes/curses that the underage wizard isn't able to undo? A muggleborn/muggle-raised child who used a strong jinx/hex/curse on a muggle sibling or parent might not be able to fix the problem. Meanwhile, a wizard with at least one wizarding parent would be able to have any mistakes reversed by their parent(s) or the parent(s) could find some other wizard to undo it by going to Diagon Alley/Leaky Cauldron to find a willing helper.
+:PROPERTIES:
+:Author: lunanight
+:Score: 1
+:DateUnix: 1477236295.0
+:DateShort: 2016-Oct-23
+:END:
+
+
+** My headcanon is that the Trace is absolutely location-based only, and furthermore it's only on the houses of muggleborn students.
+
+The Tom Riddle situation has nothing to do with the Trace. Tom used Morfin's wand purely to frame Morfin when the Ministry did a priori incantatum spell.
+
+Ron's view is suspect because he's a kid still in Hogwarts. If you ask me, the Trace is kinda like Santa Claus- something wizard parents threaten in order to get their offspring to obey the "no magic away from Hogwarts" rule. In reality, there is no trace on Wizarding houses because it would be going off all the time when adults did magic.
+
+There is no Trace attached to the person or the wand- if there was, the Ministry wouldn't need a location-based spell. It makes no sense to have both.
+:PROPERTIES:
+:Author: cavelioness
+:Score: 1
+:DateUnix: 1477309031.0
+:DateShort: 2016-Oct-24
+:END:
+
+
+** Lets not forget that in addition to all the ad hoc contortions in the books that keep changing the rules about how it works, The Trace itself clearly exists only as an ad hoc explanation for why Harry could continue to be mistreated by his relatives after Book 1 even though he now knew how to use magic. Indeed, at the start of Book 1, Hermione claims to have tried some spells at home, a clear plot inconsistency --- I suspect JKR hadn't yet invented The Trace at that point and forgot to clean that up.
+
+I'm sure one could rationalize other in-world explanations for The Trace, but it certainly feels like, as with loads of other ad hoc rules that appear throughout the books, JKR came up with it on the fly to handle a short term plot issue to her satisfaction but didn't think about how it might fit long term in to the big picture.
+:PROPERTIES:
+:Author: verysleepy8
+:Score: 1
+:DateUnix: 1477188856.0
+:DateShort: 2016-Oct-23
+:END:
+
+*** Hermione practised the spells at home, before first year. We don't know when the Trace is put on underage wizards. It could be placed after they get to Hogwarts, making it plausible for Hermione to be able to practise spells before going there.
+
+#+begin_quote
+  I'm sure one could rationalize other in-world explanations for The Trace, but it certainly feels like, as with loads of other ad hoc rules that appear throughout the books, JKR came up with it on the fly to handle a short term plot issue to her satisfaction but didn't think about how it might fit long term in to the big picture.
+#+end_quote
+
+In the time between sending chapters to an agency and coming up with the idea J.K. Rowling spent five years planning the series.
+
+I think it's terrible when people say the J.K. didn't know what she was doing. There are plot holes, yes, but she is only human, could have missed something. I sincerely doubt that she hadn't thought of trace by writing book one.
+:PROPERTIES:
+:Author: HateIsExhausting
+:Score: 2
+:DateUnix: 1477203020.0
+:DateShort: 2016-Oct-23
+:END:
+
+**** u/verysleepy8:
+#+begin_quote
+  In the time between sending chapters to an agency and coming up with the idea J.K. Rowling spent five years planning the series.
+
+  I think it's terrible when people say the J.K. didn't know what she was doing.
+#+end_quote
+
+Why is it terrible? JKR really didn't know what she was doing on plot and world building and I'll stand by that. She's a vastly better writer than I'll ever be, and her success is more than warranted, but the books are carried on writing skill and characterization.
+
+Her world is internally inconsistent and there are plot holes in Harry Potter large enough to drive a 200 car freight train through. She might have planned like hell, but even very trivial stuff like the population of the Wizarding World makes no sense at all. (Even the simplest back of the envelope calculations show very, very different numbers from what the level of specialization in her world implies.) The economy of the Wizarding world makes no sense. The plots of several of the books are utterly ridiculous (one of literally dozens of examples: Crouch-as-Moody could have stunned Harry, portkeyed out with him and handed him over to Voldemort at any time over a course of hundreds of days without the ridiculous complexity of having to get him to win the Triwizard Tournament just so he could touch the cup --- I mean, he was alone with Harry more than often enough.)
+
+None the less, /I still love her work/. She's one of the richest writers of all time /for a very good reason/. Her wealth is not some accident that happened to a hack writer, /she deserves it/. Her books are fabulous! She's amazing at putting together scenes that yank at your heart strings and keep you reading and reading.
+
+But that doesn't mean that she has any idea how to put together a coherent plot. The fact that she can sell the books even though the plots are crap and the world makes no sense is a tribute to just what a genius she is at the part that matters, which is the writing.
+
+But the plot is still awful and the world she built really makes no sense. And I'll defend that with dozens and dozens of examples if needed.
+
+So, yah, it is fun to try to figure out how The Trace "really" works only there is no way it really works. "Harry Potter" is work of fiction, and The Trace was a plot device, and when fanfic authors are writing stories in her world, they get to pay attention to as much or as little of the canon explanations as they care to.
+:PROPERTIES:
+:Author: verysleepy8
+:Score: 2
+:DateUnix: 1477228408.0
+:DateShort: 2016-Oct-23
+:END:

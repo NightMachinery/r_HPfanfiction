@@ -1,0 +1,244 @@
+#+TITLE: Goodreads for HP fan fiction? Any interest? [Suggestion thread]
+
+* Goodreads for HP fan fiction? Any interest? [Suggestion thread]
+:PROPERTIES:
+:Score: 7
+:DateUnix: 1397871261.0
+:DateShort: 2014-Apr-19
+:FlairText: Discussion
+:END:
+*Question 1*: Is there a Goodreads-esque site for Harry Potter fanfiction?
+
+*Question 2*: If not, what features would you guys want on such a site?
+
+I've been pretty frustrated with fanfiction.net's ranking system and have looked around for a suitable alternative. Unfortunately, I haven't found one yet.
+
+So... if the good people of [[/r/HPfanfiction][r/HPfanfiction]] deem it a worthy project, I'd like to build a simple directory and review system for Harry Potter fan fiction.
+
+Which leads me to my two other questions...
+
+*Question 3*: What features do you guys want? Anything that goes above and beyond Goodreads/fanfiction.net? Anything specific to Harry Potter fan fiction?
+
+*Question 4*: Is anyone interested in helping out? Back-end will be written in Flask, front-end be written in a Backbone framework, and I'll be open sourcing the entire project on Github. I would love to have a few more developers chipping in some of their time to help out, or a Photoshop guru to come up with a kick-ass design.
+
+Also, I've only been in the world of Harry Potter fan fiction for a month. If you can think of any [[http://instantdomainsearch.com][clever domains]], PM me or post 'em so I can buy them on NameCheap.
+
+
+** Dude have you ever searched tumblr for hp fanfiction? To say it's dying is absolutely false.
+:PROPERTIES:
+:Author: speedheart
+:Score: 6
+:DateUnix: 1397874593.0
+:DateShort: 2014-Apr-19
+:END:
+
+*** I have, but I'm going to be honest, I don't know the first thing about Tumblr. Every time I try and search through tumblr, I don't find rec lists at all.
+:PROPERTIES:
+:Author: Servalpur
+:Score: 10
+:DateUnix: 1397874985.0
+:DateShort: 2014-Apr-19
+:END:
+
+**** seriously, it's so confusing.
+:PROPERTIES:
+:Author: thumbyyy
+:Score: 10
+:DateUnix: 1397880473.0
+:DateShort: 2014-Apr-19
+:END:
+
+
+*** I agree. I follow [[http://dramioneficlists.tumblr.com/][Dramioneficlists]] and [[http://snamioneficrecs.tumblr.com/][Snamioneficrecs]] on Tumblr and they are both updated with new fics everyday. I always see posts for different Fanfic challenges/fests as well.
+:PROPERTIES:
+:Author: Dimplz
+:Score: 2
+:DateUnix: 1397918053.0
+:DateShort: 2014-Apr-19
+:END:
+
+
+*** [deleted]
+:PROPERTIES:
+:Score: 0
+:DateUnix: 1397938209.0
+:DateShort: 2014-Apr-20
+:END:
+
+**** all of your statements can't be true at the same time. Obviously T/M het fics aren't dying, since I follow several fic lists which update every single day, weird ships that "no one can get their head around" included. I honestly want to say outside romione or harmony dramione is the biggest and most popular het otp. Can no one really wrap their head around narcissa/Lucius? I don't know, this post seems really personally upset/offended by something more than anything.
+:PROPERTIES:
+:Author: speedheart
+:Score: 2
+:DateUnix: 1397987924.0
+:DateShort: 2014-Apr-20
+:END:
+
+
+** u/Servalpur:
+#+begin_quote
+  Question 1: Is there a Goodreads-esque site for Harry Potter fanfiction?
+#+end_quote
+
+No.
+
+#+begin_quote
+  Question 2: If not, what features would you guys want on such a site?
+#+end_quote
+
+Going down the list of features that would actually get my attention:
+
+- A quality 5 star rating system.
+- A comment and review system
+- Recommendation system based on what others have read and reviewed, similiar to myanimelist.
+- A search system that includes everything on [[http://scryer.darklordpotter.net/][Scryer]], as well as the ability to custom tag stories and then search them.
+
+#+begin_quote
+  Question 4: Is anyone interested in helping out? Back-end will be written in Flask, front-end be written in a Backbone framework, and I'll be open sourcing the entire project on Github. I would love to have a few more developers chipping in some of their time to help out, or a Photoshop guru to come up with a kick-ass design.
+
+  Also, I've only been in the world of Harry Potter fan fiction for a month. If you can think of any clever domains, PM me or post 'em so I can buy them on NameCheap.
+#+end_quote
+
+Unfortunately, I haven't worked in web development for 10+ years, and wouldn't know the first thing about helping on the backend. I'd be willing to help fill out the content that would actually be searched. Link, review, and rate fics for instance.
+
+Something else to keep in mind: You might look into whether it would be possible to either automatically, or manually bring in data from the DLP forums. They have a massive backlog of high(er) quality fics, all with a 5 star rating system and a consistent listing format in the posts.
+
+Last thing I have to bring up, because it's time to be a debby downer. This idea would have been amazing 7 years ago. Today? I honestly don't think there's enough of a population left in the HPfanfiction world to actually sustain it. DLP is all but dead realistically, so is mugglenet and all the old livejournal communities. I've been told Tumbler has kind of picked up the LJ stuff, but I haven't been able to find them. Even this subreddit only has 2k subs on it, and it's probably the most active HP fanfiction site I can think of.
+
+It's a cool idea, and I'd be happy to help out if I could. I just don't think it's sustainable.
+:PROPERTIES:
+:Author: Servalpur
+:Score: 3
+:DateUnix: 1397872060.0
+:DateShort: 2014-Apr-19
+:END:
+
+*** Yes to the 5-star reviews, yes to comments, yes to recommendations, and yes to Scryer-esque search system. Solid suggestions and thank you for the offer for help.
+
+Maybe to DLP... I'll look into how easy/helpful it would be to scrape their data.
+
+As per the issue of sustainability, you're right about the timing... it's certainly not ideal. Not many active readers compared to the golden days, and even fewer active writers.
+
+What's going to make or break this site is the number of people who rate/review each fan fiction entry. I don't think there's enough of a community to support every entry on fanfiction.net, livejournal, etc... but we could probably get by on focusing our attention on 150 - 350 of the most well-known fan fics. If each of the entries in the catalog got at least 3 written reviews and 50 star reviews, I would consider the site a success.
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1397874725.0
+:DateShort: 2014-Apr-19
+:END:
+
+**** The community will probably spike a little again with those /Beasts.../ movies coming out. And honestly... Rowling is doing the screenplays for those, and just released those "articles" by Ginny on Pottermore. I will be surprised as hell if Rowling doesn't do at least one more book after she clears her desk of current work a little.
+:PROPERTIES:
+:Author: cuchlann
+:Score: 2
+:DateUnix: 1397885586.0
+:DateShort: 2014-Apr-19
+:END:
+
+
+**** If this has existed 5 or 10 years ago I think it would have been wildly popular.
+
+Most people now who HAVE read everything worth reading, don't remember it all and wouldn't re-read it to rate it properly.
+
+Though you could probably use ficwad as a starting point.
+:PROPERTIES:
+:Author: JustRuss79
+:Score: 1
+:DateUnix: 1397938450.0
+:DateShort: 2014-Apr-20
+:END:
+
+
+** I'd love a site that had ratings based on reader's actual ratings of the story's quality, instead of just sorting by favorites on fanfiction.net, which is influenced by how popular the author is and becomes something of a popularity contest.
+
+If you haven't yet, you should check out Archive of Our Own, which is much better in some ways than fanfiction.net. They have a tagging system that might help as inspiration.
+
+Also, I think this sounds like a great idea! I don't really see the HP fandom dying anytime soon. The readers might change, but the fanfiction will still be there.
+
+Plus, with that Fantastic Beasts movie coming out, a whole new influx of people will probably start wanting to write Newt Scamander fanfiction. :)
+:PROPERTIES:
+:Author: someryn
+:Score: 3
+:DateUnix: 1397882285.0
+:DateShort: 2014-Apr-19
+:END:
+
+
+** I've actually been planning on building this kind of thing, it's just finding the time to work on it that's a problem. I just started a new job a few weeks ago and I have a long commute.
+
+I'm planning on using Rails and Angular, though.
+:PROPERTIES:
+:Author: denarii
+:Score: 3
+:DateUnix: 1397921156.0
+:DateShort: 2014-Apr-19
+:END:
+
+
+** I sincerely wish owl.tauri.org was still around it was my favorite site for Hp fanfiction.
+:PROPERTIES:
+:Author: Ariel0926
+:Score: 1
+:DateUnix: 1397885944.0
+:DateShort: 2014-Apr-19
+:END:
+
+
+** I'd love that kind of site, and use the hell out of it too! I can't help with creating it but would sure help fill it.
+:PROPERTIES:
+:Author: LeLapinBlanc
+:Score: 1
+:DateUnix: 1397889731.0
+:DateShort: 2014-Apr-19
+:END:
+
+
+** u/OutOfNiceUsernames:
+#+begin_quote
+  what features would you guys want on such a site?
+#+end_quote
+
+- 10-point rating system,
+- a parser function for various websites to import story metadata,
+- [[http://imgur.com/yLZNng0][Goodreads-like metadata]] with (preferably) additional subcategories for both HP-specific themes and TVTropes,
+
+  - ability to search by these data.
+
+- Goodreads-like bookshelves,
+- ability to add an archived backup of the story, so it can be either downloaded directly from the website, or automatically uploaded to a 3rd party hosting (g.Docs, Dropbox, etc account, but in possession of the server and not the user).
+- multiple-criteria search and sorting system---for instance so that sorting by both rating and word count, short stories that have very good ratings will not be displayed on the first page.
+:PROPERTIES:
+:Author: OutOfNiceUsernames
+:Score: 1
+:DateUnix: 1397899531.0
+:DateShort: 2014-Apr-19
+:END:
+
+*** u/denarii:
+#+begin_quote
+  ability to add an archived backup of the story, so it can be either downloaded directly from the website, or automatically uploaded to a 3rd party hosting (g.Docs, Dropbox, etc account, but in possession of the server and not the user).
+#+end_quote
+
+While ideal, this might be problematic in terms of legality.
+:PROPERTIES:
+:Author: denarii
+:Score: 1
+:DateUnix: 1397926040.0
+:DateShort: 2014-Apr-19
+:END:
+
+**** Aren't fanfics themselves problematic in this context? I remember meeting a similar discussion somewhere else here, and it eventually boiled down to the conclusion that people don't redistribute fanfics because they simply want to honour the wishes of their authors, not because of “copyrights”.
+:PROPERTIES:
+:Author: OutOfNiceUsernames
+:Score: 2
+:DateUnix: 1397927530.0
+:DateShort: 2014-Apr-19
+:END:
+
+***** Apparently it's complicated. Due to its non-commercial nature fanfic could be deemed fair use, especially parody/satirical fics. I don't know what the copyright status of a fair use derivative work is.
+
+Also, some sites like FFN make it against their terms of use for third parties to copy content and have taken steps to prevent it.
+:PROPERTIES:
+:Author: denarii
+:Score: 2
+:DateUnix: 1397928230.0
+:DateShort: 2014-Apr-19
+:END:

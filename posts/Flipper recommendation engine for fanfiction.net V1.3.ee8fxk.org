@@ -1,0 +1,95 @@
+#+TITLE: Flipper: recommendation engine for fanfiction.net V1.3
+
+* Flipper: recommendation engine for fanfiction.net V1.3
+:PROPERTIES:
+:Author: zerkses
+:Score: 44
+:DateUnix: 1577039976.0
+:DateShort: 2019-Dec-22
+:FlairText: Self-Promotion
+:END:
+Flipper is a desktop application that automates the process of searching through other people's favourite lists on fanfiction.net by automagically finding favourite lists similar to yours and creating a merged stream of recommended fanfics from these lists. It further lets you filter, exclude fics and fandoms to further narrow down the recommendations and track your reading.
+
+Current version: [[https://github.com/Zeks/flipper/releases/latest]]
+
+Manual: [[https://docs.google.com/document/d/1RAquRcfpKMQQGEBKUeszk9o9_czIPQ7sysgqXtwcnkI/edit?usp=sharing]]
+
+it looks like this: [[https://imgur.com/Tgyl10H]]
+
+Updates since last version posted on the sub:
+
+1.  Flipper can now read your whole favourites instead of just 500 displayed by FFN.
+2.  Flipper now displays how up to date its fic database is on the bottom left. When the date there changes - it's time to regenerate recommendations.
+3.  Finetuned recommendations a bit to better narrow down to user preferences.
+4.  Introduced the initial setup window so that user enters the main window with recommendation already displayed.
+5.  Tooltips everywhere. And I mean /everywhere/. Added back/forward navigation between searches that also restores filtering states.
+6.  A bunch of bugfixes everywhere but mostly on rarely used paths.
+7.  Flipper wil now periodically backup your database to AppData/Roaming/Flipper. If it gets broken somehow you will be asked to restore.
+8.  A new "spoiler" quick tag.
+9.  Rec Count sorting mode is now called Metascore.
+10. (arguably) better new recommendation list creation UI
+
+There's a fair bit more but it's too long for this post so you can find it in changelogs folder. In general though: more or less everything has tooltips now. Just hover the mouse over the elements to see what stuff does.
+
+*[!ATTENTION!]* This version introduces incompatible protocol changes so the older clients will no longer work. If you want to use Flipper you have to download this version.
+
+Feedback should be directed to Flipper's discord server: [[https://discord.gg/wX68gBW]]
+
+
+** It sounds really interesting! Are you planning on creating a version for MacBooks?
+:PROPERTIES:
+:Author: Emma9919
+:Score: 2
+:DateUnix: 1577050156.0
+:DateShort: 2019-Dec-23
+:END:
+
+*** It should be fairly trivial since the code is cross platform but I don't have a macbook to compile on. So the version will materialize as soon as someone appears to compile it for a Mac.Meanwhile people have been using it through WINE, but I have conflicting reports of whether it actually works there
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1577050827.0
+:DateShort: 2019-Dec-23
+:END:
+
+**** Thanks! I will try using it through wine :)
+:PROPERTIES:
+:Author: Emma9919
+:Score: 1
+:DateUnix: 1577051098.0
+:DateShort: 2019-Dec-23
+:END:
+
+
+**** I can try to get it compiled for macos when I get some free time, no promises though. I've barely done anything with qt so if I run into a problem it's not likely I'll be able to work through it quickly
+:PROPERTIES:
+:Author: colorandtimbre
+:Score: 1
+:DateUnix: 1577077414.0
+:DateShort: 2019-Dec-23
+:END:
+
+***** ping me on discord when you attempt it, I will direct you about prerequisites
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1577097244.0
+:DateShort: 2019-Dec-23
+:END:
+
+
+** Is there a guide for how to actually launch it? I download it and extract the zip and there are just a bunch of files and I don't know what to do. I'm sorry if this is a really dumb question
+:PROPERTIES:
+:Author: Jakyland
+:Score: 1
+:DateUnix: 1578112627.0
+:DateShort: 2020-Jan-04
+:END:
+
+*** on windows you launch with flipper.exe
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1578153429.0
+:DateShort: 2020-Jan-04
+:END:

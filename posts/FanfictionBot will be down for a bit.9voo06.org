@@ -1,0 +1,330 @@
+#+TITLE: FanfictionBot will be down for a bit
+
+* FanfictionBot will be down for a bit
+:PROPERTIES:
+:Author: tusing
+:Score: 146
+:DateUnix: 1541800273.0
+:DateShort: 2018-Nov-10
+:FlairText: Meta
+:END:
+Looks like the bot got banned from fanfiction.net. They seem to think our bot is some sort of robot. Ridiculous, right!?
+
+It seems to be an IP ban of some sort. It'll take me some time to reprovision the IP. If I had infinite time, I would make it so the bot uses a VPN/proxy and rotated through using all of the VPN/proxy servers throughout the day, but I don't have infinite time. (Feel free to add something like that/submit a PR!)
+
+
+** Did you try to get in contact with them to maybe approve the bot? I'd be better than to go behind there backs and use VPNs. There's nothing harmful about the bot.
+:PROPERTIES:
+:Author: meandyouandyouandme
+:Score: 90
+:DateUnix: 1541802558.0
+:DateShort: 2018-Nov-10
+:END:
+
+*** Unlikely to be successful considering their history with Flagfic.
+
+[[https://web.archive.org/web/20131118020252/https://www.flagfic.com/nomoreffnet]]
+:PROPERTIES:
+:Author: Krististrasza
+:Score: 10
+:DateUnix: 1541879357.0
+:DateShort: 2018-Nov-10
+:END:
+
+**** u/meandyouandyouandme:
+#+begin_quote
+  Email received from ffnet support, 2013-10-22 04:34 UTC: Steve, Unfortunately we currently do not allow any exemptions in the site policy The policy applies to everyone even if there is some value added service provided by the automated bots. If our policy changes or if a formal API is released, we will let you know. Regards, James Please help us spread the word. James
+#+end_quote
+
+Uff that sounds bad.
+:PROPERTIES:
+:Author: meandyouandyouandme
+:Score: 10
+:DateUnix: 1541883354.0
+:DateShort: 2018-Nov-11
+:END:
+
+***** Heck, they even disabled cut-n-paste. That should tell you all you need to know about their stance.
+:PROPERTIES:
+:Author: Krististrasza
+:Score: 8
+:DateUnix: 1541885213.0
+:DateShort: 2018-Nov-11
+:END:
+
+
+*** 100% This. Not sure how responsive the admins over there will be, however.
+
+Another simpler workaround could be to make it serverless? I am not sure how many requests it actually handles every day and whether it would be costlier or cheaper?
+:PROPERTIES:
+:Author: darthShadow
+:Score: 12
+:DateUnix: 1541860191.0
+:DateShort: 2018-Nov-10
+:END:
+
+
+** I don't get it, how can someone or somebot be banned from viewing fanfiction.net? Isn't the bot based here, doing searches based on names and IDs and putting up the top result?
+:PROPERTIES:
+:Author: Avaday_Daydream
+:Score: 37
+:DateUnix: 1541803395.0
+:DateShort: 2018-Nov-10
+:END:
+
+*** /Probably/ it's just some software on the ffn servers that detected the bot as a bot and then banned the IP address of the bot from accessing the ffn website , and it will be sorted out soon.
+:PROPERTIES:
+:Author: how_to_choose_a_name
+:Score: 12
+:DateUnix: 1541815880.0
+:DateShort: 2018-Nov-10
+:END:
+
+
+*** The bot isn't banned from ffn/ao3/... but from reddit which could mean that the bot might not even be able to see that it is summoned, depending on the type of ban.
+:PROPERTIES:
+:Author: Lenrivk
+:Score: -3
+:DateUnix: 1541813343.0
+:DateShort: 2018-Nov-10
+:END:
+
+**** The post says it's banned from fanfiction.net, not from reddit.
+:PROPERTIES:
+:Author: how_to_choose_a_name
+:Score: 33
+:DateUnix: 1541815707.0
+:DateShort: 2018-Nov-10
+:END:
+
+***** Oh yeah sorry, didn't read that well.
+:PROPERTIES:
+:Author: Lenrivk
+:Score: 4
+:DateUnix: 1541816127.0
+:DateShort: 2018-Nov-10
+:END:
+
+
+** Thanks for your continued hard work!
+:PROPERTIES:
+:Author: lurkielurker
+:Score: 21
+:DateUnix: 1541804184.0
+:DateShort: 2018-Nov-10
+:END:
+
+
+** Just wanted to thank you for putting so much time and effort into the bot!
+:PROPERTIES:
+:Author: Thoriel
+:Score: 16
+:DateUnix: 1541811814.0
+:DateShort: 2018-Nov-10
+:END:
+
+
+** Poor bot :(
+:PROPERTIES:
+:Author: CastoBlasto
+:Score: 29
+:DateUnix: 1541805088.0
+:DateShort: 2018-Nov-10
+:END:
+
+*** Botty no!!! :( :( :( :(
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1541817934.0
+:DateShort: 2018-Nov-10
+:END:
+
+
+** I use the python command line fanficfare to download text and that doesn't seem to be working either. I'll try on a different machine as well. Not sure what's up.
+:PROPERTIES:
+:Author: 1SoulShallNotBeLost
+:Score: 11
+:DateUnix: 1541804322.0
+:DateShort: 2018-Nov-10
+:END:
+
+
+** Hey now, it seems that the bot's queries for description and stats are being blocked, but the downloading site it uses, ff2ebook, is still working fine. What does ff2ebook do differently from our ffnbot when it can download a whole story without being blocked while ffnbot gets banned from fetching this comparatively small amount of data?
+:PROPERTIES:
+:Author: EpicDaNoob
+:Score: 6
+:DateUnix: 1541827295.0
+:DateShort: 2018-Nov-10
+:END:
+
+*** FF2Ebook utilizes caching heavily. Otherwise not sure how they do it. The bans seem pretty random.
+:PROPERTIES:
+:Author: tusing
+:Score: 6
+:DateUnix: 1541881824.0
+:DateShort: 2018-Nov-11
+:END:
+
+
+** I run openvpn on my vps in Seattle, I can make you an auto login profile tonight if you want.
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 6
+:DateUnix: 1541814295.0
+:DateShort: 2018-Nov-10
+:END:
+
+*** Already have a bunch of VPN profiles, but thanks :) the issue is rotating them automatically throughout the day
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1541881884.0
+:DateShort: 2018-Nov-11
+:END:
+
+**** What do you run the bot on, does it need non-vpn outbound access for anything?
+
+I could probably write you a python script that switches vpn profiles around on a time frame.
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 1
+:DateUnix: 1542270135.0
+:DateShort: 2018-Nov-15
+:END:
+
+***** Nope, only inbound (HTTP GET's)!
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1542334548.0
+:DateShort: 2018-Nov-16
+:END:
+
+
+** I know that you've been inundated with messages already, but if you have $5/m to spare, you could create a DigitalOcean account and simply host the bot from there. If you ever get IP banned again, just make another droplet, delete the old one, and presto - new IP address.
+
+You can even save the image of the server directly after installation of the necessary dependencies for the bot so that the process doesn't demand you to constantly be setting up the new machine(s).
+
+If $5/m just doesn't work in your budget (hey, man, shit happens), you could probably pull in /at least/ that much with some kind of Patreon page for it which would cover the monthly costs and, maybe, even a cup of coffee every so often.
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 7
+:DateUnix: 1541855004.0
+:DateShort: 2018-Nov-10
+:END:
+
+*** Thanks! I use GCE from Google, which is similar.
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1541881741.0
+:DateShort: 2018-Nov-10
+:END:
+
+
+** Hardly surprising. Weren't they doing some kind of security audit because of the recent issues? They were probably paying much more attention to unusual behaviour...
+
+You should try to get in contact with them in order to get the bot approved. I'm quite sure that they are totally in favor of something like this that almost exclusively promotes their website.
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 4
+:DateUnix: 1541842927.0
+:DateShort: 2018-Nov-10
+:END:
+
+*** u/Clegko:
+#+begin_quote
+  I'm quite sure that they are totally in favor of something like this that almost exclusively promotes their website.
+#+end_quote
+
+Using the bot removes ad-revenue while still taking up bandwidth. I doubt they'll allow it, to be honest.
+:PROPERTIES:
+:Author: Clegko
+:Score: 1
+:DateUnix: 1541870351.0
+:DateShort: 2018-Nov-10
+:END:
+
+**** How does it remove ad revenue? The bot is sending more traffic to their site to view ads. It also improves google page rankings for FFN by creating more external links that point to their site.
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 1
+:DateUnix: 1541872165.0
+:DateShort: 2018-Nov-10
+:END:
+
+***** Because the bot allows epub downloads directly from Reddit.
+
+(Unless I'm wrong, then please let me know)
+:PROPERTIES:
+:Author: Clegko
+:Score: 1
+:DateUnix: 1541874268.0
+:DateShort: 2018-Nov-10
+:END:
+
+****** the bot has to go to the site and each chapter page in order to create the epub which should hit the ad counter on each page as it does so
+:PROPERTIES:
+:Author: LuluViBritania
+:Score: 1
+:DateUnix: 1542013915.0
+:DateShort: 2018-Nov-12
+:END:
+
+
+** Just as someone who didn't ever think about the creation of the fanfiction bot-- thank you so much! Sorry you weren't already in my thoughts!
+:PROPERTIES:
+:Author: soulofmind
+:Score: 5
+:DateUnix: 1541836167.0
+:DateShort: 2018-Nov-10
+:END:
+
+
+** You're responsible for the ffn bot? You're a godsent, thankyou for all the hard work!
+:PROPERTIES:
+:Author: Sefera17
+:Score: 3
+:DateUnix: 1541855933.0
+:DateShort: 2018-Nov-10
+:END:
+
+
+** Yes! Now I can recommend things that are against the rules, and it won't be as obvious that the bot isn't linking then!
+:PROPERTIES:
+:Author: Xero030
+:Score: 3
+:DateUnix: 1541812864.0
+:DateShort: 2018-Nov-10
+:END:
+
+
+** I haven't been able to link Ao3 fics for a. while now, any reason why?
+:PROPERTIES:
+:Author: mychllr
+:Score: 1
+:DateUnix: 1541814014.0
+:DateShort: 2018-Nov-10
+:END:
+
+
+** maybe I found it in your comment - for the first time searching on the internet - the reason why I can't enter the site these days (it's been 4 days +/-)
+
+I hope it come back soon ♥♥
+
+BUT: app is working!!
+:PROPERTIES:
+:Author: Around_ao_redor
+:Score: 1
+:DateUnix: 1541871097.0
+:DateShort: 2018-Nov-10
+:END:
+
+
+** FFN admins are among the dumbest people I've ever seen in IT and that's saying something
+:PROPERTIES:
+:Author: Kaeling
+:Score: 1
+:DateUnix: 1541903778.0
+:DateShort: 2018-Nov-11
+:END:

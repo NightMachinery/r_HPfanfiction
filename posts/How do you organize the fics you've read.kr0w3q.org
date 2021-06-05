@@ -1,0 +1,134 @@
+#+TITLE: How do you organize the fics you've read?
+
+* How do you organize the fics you've read?
+:PROPERTIES:
+:Author: r-Sam
+:Score: 7
+:DateUnix: 1609861622.0
+:DateShort: 2021-Jan-05
+:FlairText: Discussion
+:END:
+Now that I've got ~100 of these fics in my library I'm starting to wonder how people keep track of the fics they've read. This is especially concerning when someone asks for a fic recommendation, and I KNOW I've read several good ones that fit, but I have no idea which fic they are. I have to kind of scroll, guess, and skim read a bit. Super frustrating. Also when I look at a list of fics in a post I'm not certain I've read them or not. Throw in the handful of in progress fics... MINDSPLODE!
+
+I'm on the verge of making a spreadsheet for myself. Title, Author, Ships, Summary? What does everyone do to keep track? Read less, or better memory? My occlumency is for shit. :(
+
+
+** I keep a Word doc where I paste in the Title/Author/Summary/Stats info from the site, the date I read it, and then write a few remarks (or a summary of my own, if I have the energy). I can search for keywords in the doc to find a fic.
+:PROPERTIES:
+:Author: BridgetCarle
+:Score: 6
+:DateUnix: 1609862737.0
+:DateShort: 2021-Jan-05
+:END:
+
+
+** I have four top-level folders: 'Currently Reading', 'Awaiting New Chapters', 'Read', and 'Archived'.
+
+Currently Reading has two subfolders - new, and rereading.
+
+Awaiting New Chapters is just one folder with a long list of fics bookmarked to the last chapter I've read. Things stay in there until they're complete, then I delete 'em.
+
+Read has five subfolders - To-Calibre (when I've decided I like a fic enough to bother bookmarking it, a bookmark of the first chapter goes in here and I fanficfare it, even if I'm not done reading it yet), Non-Calibre (anything from a site that Fanficfare doesn't recognise or in a format that doesn't download), Lists for Later (any time I find a good thread, search parameter, or post on something with a list of fics I might wanna revisit, I bookmark it here), Non-working Links to find other copies of (does what it says on the tin), and Finished (where I put the bookmarks once I've calibre'ed 'em).
+
+When they're in Finished, they get put into a folder with a short code to represent the fandom (Harry Potter is HP, Life is Strange is LiS, Pitch Perfect is PP, etc) and a tiny snippet definition to sort them by. That snippet is what I regard as the primary 'thing' for that collection of fics - eg. I have 'cowboy Harry', 'Harry/Fleur with Sap', 'Harry/Fleur with Drama', 'Specialist Misanthropic Harry with a Cause', 'Harry is an angsty crankypants', etc. I have a hundred or so of those. Some have two fics in, others have more.
+
+Archived is just a big list of bookmarks from my old collection that I haven't gotten around to resorting yet. They're all calibre'ed, I just can't remember what the hell any of them are, so I'm slowly working my way through 'til I can get 'em all sorted.
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 4
+:DateUnix: 1609874858.0
+:DateShort: 2021-Jan-05
+:END:
+
+
+** I live that spreadsheet life! Columns for title, author, ship, what I liked, what I didn't like, rating out of 10, and would I recommend it to others
+:PROPERTIES:
+:Author: TerrifyingTurnip
+:Score: 3
+:DateUnix: 1609864630.0
+:DateShort: 2021-Jan-05
+:END:
+
+
+** i only read on ffn with very few exceptions and since i use the app all my fics are automatically in the apps recently read part :)
+:PROPERTIES:
+:Author: Sylvezar2
+:Score: 2
+:DateUnix: 1609862303.0
+:DateShort: 2021-Jan-05
+:END:
+
+
+** I download all the fics I am interested in into a fic download folder. If they are complete the filename is just the fic name and once I've read them they get moved to a fic complete folder. If the fic is a WIP then the filename includes the number of chapters and the date the fic was last updated. Once read the fic goes to one of two folders. If it has been more than 2 years since the last update the fic gets moved to a Partial Abandoned folder. If the Fic has been updated within the last two years it gets moved to the Partial Updateable folder.
+
+Abandoned fics get checked for an update once a year (during the height of Covid-19 I did an additional check and had 5 fics that got updated). The Updateable fics get checked for updates roughly every 2 months (sometimes more frequently).
+
+I use the app Docsearch+ to index and search all the fics. It works pretty well if you have some good search terms based on a scene that stands out. E.g "time travel" returns 374 fics. "Time travel harry teddy"~20 (those 4 words within 20 words of each other) returns 4 fics with one of them being a recommendation for a fic (for a search i did for a harry/teddy time travel post)).
+:PROPERTIES:
+:Author: reddog44mag
+:Score: 2
+:DateUnix: 1609864731.0
+:DateShort: 2021-Jan-05
+:END:
+
+
+** If I love a fic, I read it 3-4 times at least (over span of year/s) so I mostly remember them. That's why my suggestions are mostly consistent 😁.
+:PROPERTIES:
+:Author: Grouchy_Baby
+:Score: 2
+:DateUnix: 1609887146.0
+:DateShort: 2021-Jan-06
+:END:
+
+
+** I open them in tabs and then close the tab when i'm done lol 😅
+:PROPERTIES:
+:Author: buy_gold_bye
+:Score: 2
+:DateUnix: 1609893468.0
+:DateShort: 2021-Jan-06
+:END:
+
+
+** 1192 files, this is my directory structure (some of them are temporary, some of them are known bad idea, but not resolved yet): ``` fanfiction@stitny$ tree -d . . ├── americans ├── ballerinaroy ├── before_hogwarts ├── bennybear ├── blacks ├── budeč ├── dramione ├── dursleys │   └── boy_with_a_scar ├── elsewhere_at_hogwarts │   └── floreat ├── fantastic_beasts ├── femHarry ├── fremione ├── grindewald ├── gryffindor_tie ├── harmony ├── hinny │   └── wallpaper ├── historical ├── humour ├── huna ├── marauders ├── _meta ├── moje ├── muggles ├── next-generation │   └── holly ├── non-Hogwarts │   └── weasley_family_picnic ├── non-HP ├── northumbrian ├── post-war │   └── irnan ├── reading_the_books ├── religious ├── remus ├── retelling │   ├── dangerverse │   ├── child_protection │   ├── sorcerers_muse │   └── while_hunting_horcruxes ├── severitus ├── slytherin ├── soul-bond ├── space_wizards └── tmp
+
+47 directories fanfiction@stitny$ ``= Certainly it seems that ship is one good category how to sort files, others are not so hot. Also, incoming EPubs go to=tmp/=first, where I read them and sort them to particular folder after that.=elsewhere_at_hogwarts/=is for stories like “The Friar's Confessions by Stephen Ratliff” linkffn(11924442), which are just outside of the main canonical story, or=non-Hogwarts/` for stories like “Interwoven: The Seamstress and the Lovable Stray by Katinka31” which are not even at Hogwarts.
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1609944496.0
+:DateShort: 2021-Jan-06
+:END:
+
+*** [[https://np.reddit.com/r/backtickbot/comments/krp92h/httpsnpredditcomrhpfanfictioncommentskr0w3qhow_do/][Fixed formatting.]]
+
+Hello, ceplma: code blocks using triple backticks (```) don't work on all versions of Reddit!
+
+Some users see [[https://stalas.alm.lt/backformat/gib2k0t.png][this]] / [[https://stalas.alm.lt/backformat/gib2k0t.html][this]] instead.
+
+To fix this, *indent every line with 4 spaces* instead.
+
+[[https://www.reddit.com/r/backtickbot/wiki/index][FAQ]]
+
+^{You can opt out by replying with backtickopt6 to this comment.}
+:PROPERTIES:
+:Author: backtickbot
+:Score: 1
+:DateUnix: 1609944513.0
+:DateShort: 2021-Jan-06
+:END:
+
+
+** I have a very large spreadsheet, currently with over 4300 records. I keep in it both stories I have read and stories that I intend to read.
+
+Each record includes columns for story name, author name, link, whether the story is complete or not, post date and last update, number of chapters, number of chapters I've read, days since last update, average days between updates, genre (I don't read just HP), cross (if any), my subjective rating, and description/comments.
+
+The average days between updates and days since last update are calculated fields that give me an idea whether an unfinished story is still updating. I've been considering adding fields for how many times I've read a story, and the date I last read a story.
+
+The stories I've downloaded aren't organized that much. Basically, they're in directories by genre. I'm starting to move them into Calibre, but I've just started that.
+:PROPERTIES:
+:Author: steve_wheeler
+:Score: 1
+:DateUnix: 1609996314.0
+:DateShort: 2021-Jan-07
+:END:

@@ -1,0 +1,51 @@
+#+TITLE: Is it possible to download fanfiction from siye.co.uk? If so, how is it done?
+
+* Is it possible to download fanfiction from siye.co.uk? If so, how is it done?
+:PROPERTIES:
+:Author: glisteningsunlight
+:Score: 1
+:DateUnix: 1574455868.0
+:DateShort: 2019-Nov-23
+:END:
+
+** [[https://webmshare.com/oj1oL]]
+
+Where it says "In Datei drucken" should be "print to file" or "print to pdf" in english.
+
+Should be about the same with other browsers.
+
+​
+
+Edit: I picked some random story so don't take it as endorsement should that be something weird. :P
+:PROPERTIES:
+:Author: Leangeful
+:Score: 2
+:DateUnix: 1574464018.0
+:DateShort: 2019-Nov-23
+:END:
+
+
+** I tried a random fic with the Calibre addon Fanficfare and it had no problems creating an epub of the story.
+
+[[https://calibre-ebook.com/][Calibre Ebook Management]] - Once installed (or you plopped the portable version somewhere) go to Preferences (down arrow) > Get plugins to enhance calibre. Install Fanficfare.
+
+To download a fic, copy the url of the story (it doesn't really matter where it is: ao3, ffn, dlp, whatever) and find the icon for the plugin at the top. Click the more arrow > download from url. The address should already be present. Hit okay.
+
+To update an in-progress fic with new chapters, highlight the story and click the plugin button. It'll check the original url (which is saved in the metadata), and will add any missing chapters.
+
+With a kindle paperwhite and the kindle app on my phone, I can use the email function in calibre to send a fic to my Amazon docs. It'll then sync my progress between my devices, which is pretty handy for longer stories. I download 5-10 stories at a time, email them to my amazon account and I'll always have something to read: I can download any story from the cloud storage on my phone or ebook reader.
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 2
+:DateUnix: 1574476401.0
+:DateShort: 2019-Nov-23
+:END:
+
+
+** [[https://github.com/JimmXinu/FanFicFare]] perfectly supports SIYE (and other [[https://github.com/JimmXinu/FanFicFare/wiki/SupportedSites][more than 150 sites]]), and can download to ePUB, HTML, or plain text files. If you don't feel like running commands on the command line, then there is a web version on [[http://fanficfare.appspot.com/]] and it can be also downloaded as a plugin to Calibre.
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1574464207.0
+:DateShort: 2019-Nov-23
+:END:

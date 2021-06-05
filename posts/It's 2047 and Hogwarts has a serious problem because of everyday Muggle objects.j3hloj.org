@@ -1,0 +1,392 @@
+#+TITLE: It's 2047 and Hogwarts has a serious problem because of everyday Muggle objects
+
+* It's 2047 and Hogwarts has a serious problem because of everyday Muggle objects
+:PROPERTIES:
+:Author: Mckernan
+:Score: 317
+:DateUnix: 1601587293.0
+:DateShort: 2020-Oct-02
+:FlairText: Prompt
+:END:
+Little has changed in the wizarding world over the last 50 years. People still write with quills and use candles for light. But Muggleborns and some half bloods have been slowly sneaking Muggle devices into Hogwarts and using them in place of magic to cheat. Pocket sized language AIs to read their books and write their essays, personal shields that make them invincible in the dueling club and remote controlled nano-bots to easily pass their transfiguration NEWTs are just some of the easily purchased Muggle products that their teachers are ill prepared to confront.
+
+Purebloods still can't pronounce electricity much less comprehend what a satellite based world wide teleportation network is or how it's been letting Muggleborns casually bypass the school's apparition wards for the last 5 years.
+
+As Arthur C. Clarke might have warned them a century ago, to wizards /Muggle technology has become more magical than magic itself/.
+
+
+** "Hello and welcome back to another episode of 'coding magic', a show by muggle born for muggle born. Remember, if you or your family happen to know someone who is muggle born that hasn't been added in yet, tell them to subscribe to mugVPN and select 'Hogwarts' as their network. It's completely free, no ads, just a few old school websites you can browse and shop through if you really want to help out the guys over at mugVPN but don't want to just Patron sponsor them for whatever reason.
+
+Today, we are going to continue our series on Arithmancy. Now you're all familiar with it by now, it's basically math without the math, where you run some basic algebraic equations, convert the results into a new set of integers using a rather non-intuitive values table and then run some other equations. Pretty boring, frustrating and non-sensical to the point where a cheap psychosocial assistant AI mistakes arithmantic inputs for early onset schizophrenia as seen in our 'machines react to magic' series.
+
+But, after me and Boris, my digital brother, did some digging following last week's episode where we dissected the behaviour of the symbols used to calculate arithmantic equations and tested the results by coding a basic calculator that can use them, we came across some rather interesting information about the reference tables. Namely, that they get updated every fifty years or so.
+
+Now you may ask why this is such a big deal and you'd be right to. It's very simple-arithmancy is all about tables. It's basically a spreadsheet app where the cell you end up hopping onto from running your equation does not follow any internally consistent logic known to mathematics-or logic itself for that matter. It's a confusing set of 3d geometrical outputs substituted for with integrals that only make sense as long as the table set you're working with agrees that yes, that number does in fact represent the geometric shape you derived it from in broad terms.
+
+So why update them at all? Well that's because they stop working after a period of time. There are tables that were designed to work over millenia, but those are so huge they equate to a medium-sized big data set someone copied off into a gigantic Lexikon. It is estimated that the arithmantic reference manual used to enchant Hogwarts makes up about 20% of the total space of the Hogwarts library and will still be able to be used for another 15,000 or so years, give or take a millennium here or there.
+
+The student set is set to last for about 100 years or so, pending Ministry review every 25 years to make sure that is the case. Incidentally, the review will be up in 2050, so start budgeting for a new one if you're in third year. So less bang for your buck, but at least you don't need a Granger pattern spacebag (check the link in the description for Teddy Lupin's 'let's enchant' video on how to make one) to carry it around.
+
+So, size seems to correlate to longevity, but why does obsolescence occur? We asked the Department for Arithmantic studies for help and got back two very interesting pieces of information-one, that it had 'something to do with space' according to the clerk and two, an equation that determines whether or not the tablesets need to be revised or not.
+
+The thing is, that equation is a purely mathematical one /and/ there's a very similar one in the public domain on the muggle internet!
+
+Take a guess as to which one it is.
+
+...
+
+Well, if you answered 'solar cycle', congratulations! You're wrong. No, this equation is a very, very long version of the one the various private SETI clusters use to track Earth's position relative to the centre of the galaxy! And it's been in use for at least, /at least/ six hundred years!
+
+... The magical world will never stop surprising me, I swear.
+
+So if this is the main variable through which tables are judged to be good enough for magical work, it's time to start asking 'hey, we've got the vastly more elegant and conveniently pre-coded algorithm the muggles use to do the same thing, can we actually use those to generate our own working tables... Or even replace said tables altogether?'
+
+Those are the questions me and Boris set out to answer in this episode of 'coding magic'!
+
+And spoilers-yes. Yes you can."
+
+TL;DR: The muggle born and their AI set out to make 'how to' videos to help each other and the wider muggle born population with their magic lessons. Things get out of hand and they end up starting a magical Renaissance in the process.
+:PROPERTIES:
+:Author: darklooshkin
+:Score: 91
+:DateUnix: 1601614064.0
+:DateShort: 2020-Oct-02
+:END:
+
+
+** u/Impossible-Poetry:
+#+begin_quote
+  “Now, I must warn you that the most stringent Anti-Cheating Charms have been applied to your examination papers. Auto-Answer Quills are banned from the examination hall, as are Remembralls, Detachable Cribbing Cuffs, and Self-Correcting Ink.
+#+end_quote
+
+It seems like they already have a pocket sized language AI and measures to prevent cheating. Like the Anti-Cheating Charms.
+
+Also, no way muggles have that by 2047.
+:PROPERTIES:
+:Author: Impossible-Poetry
+:Score: 108
+:DateUnix: 1601595799.0
+:DateShort: 2020-Oct-02
+:END:
+
+*** u/glencoe2000:
+#+begin_quote
+  No way muggles have that by 2047
+#+end_quote
+
+Why not? All it would take is a smaller version of whatever GPT is present in 2047, plus maybe another DL AI to guide the transformer. This is already doable in rough forms with GPT-3 alone, let alone a dedicated module 27 years in the future.
+
+The harder part would be fitting it on a pocket sized device, but considering we went from the Pentium 4 to the Ryzen 9 series in only around 20 years, whatever hardware they invent in the future will likely be capable of more than enough proccessing to run a local version of GPT.
+:PROPERTIES:
+:Author: glencoe2000
+:Score: 49
+:DateUnix: 1601596601.0
+:DateShort: 2020-Oct-02
+:END:
+
+**** Nope. Murphys law is about to become irrelevant.
+:PROPERTIES:
+:Author: JudgeBigFudge
+:Score: 2
+:DateUnix: 1601627682.0
+:DateShort: 2020-Oct-02
+:END:
+
+***** I think you mean Moore's law
+:PROPERTIES:
+:Author: A5hnil
+:Score: 16
+:DateUnix: 1601630970.0
+:DateShort: 2020-Oct-02
+:END:
+
+****** Yup. Replied half asleep lol
+:PROPERTIES:
+:Author: JudgeBigFudge
+:Score: 5
+:DateUnix: 1601664465.0
+:DateShort: 2020-Oct-02
+:END:
+
+******* Thats the fuckin worst
+:PROPERTIES:
+:Author: A5hnil
+:Score: 1
+:DateUnix: 1601665235.0
+:DateShort: 2020-Oct-02
+:END:
+
+
+***** a) You mean Moore's Law.
+
+b) No, it isn't. This is a common myth, and has been disproved multiple times by people much smarter than I am.
+:PROPERTIES:
+:Author: glencoe2000
+:Score: 9
+:DateUnix: 1601637837.0
+:DateShort: 2020-Oct-02
+:END:
+
+
+** We won't have nanobots (at least not the way you're describing) by 2047, but we'll definitely have AI-enhanced passthrough AR goggles (meaning they aren't see-through and use external cameras to display the real world on screens) that double as VR goggles.
+
+VR/AR will be like the internet or cellphones. Most people will constantly be wearing their goggles for AR the way most people currently carry around their cellphone, and will switch over to VR at home at least some of the time on most days. Some people will spend 90% of their waking hours in VR the way some people currently spend their whole day on their PC.
+
+Will Muggleborns even /want/ to go to Hogwarts? Will they all feel like they've been forced against their will into this Luddite society and all get themselves expelled as quickly as possible so they can go back to the vastly superior Matrix/Metaverse they've grown up in? Some people already feel naked without their cellphone, and for some it's even more extreme than that.
+
+#+begin_quote
+  At the core of the current debate is the notion that today's digital devices are becoming so thoroughly integrated in our lives, that, for better or for worse, they start taking over basic human functions.
+
+  The current generation of technology is fundamentally different from earlier innovations in the sense that it is mobile and provides continuous access to limitless networks of knowledge and social contacts [10]. The assumption is that because of these qualities, our devices - and through them the Internet - are becoming a primary form of external memory, taking over this task from the brain [11, 12].
+
+  For instance, when people expect to have future access to information, they have lower rates of recall of the information itself and enhanced recall for where to access it instead [10]. Similarly, Barr et al. [1] found that we rely on our smartphone to 'offload' cognitively demanding tasks, such as analytical reasoning.
+#+end_quote
+
+Kids being taken away to Hogwarts and not having access to their AR goggles will feel like they've had a prosthetic limb ripped off of them. There'd be culture shock on top of it, going from having their entire education up to that point happen in VR while they're in their bedrooms and instantly being home when lessons are over to all of a sudden being in a physical building that's not their home and sleeping in a room with a bunch of other kids.
+
+But I think the extreme disconnect between the Muggle and Wizarding worlds would start to break down much sooner than that. Every adult wizard who drops their kid off at Platform Nine and Three Quarters in 2035 is going to have a hard time not recognizing that more than half of the Muggles are wearing goggles with cameras on the eyecups and gesturing around in the air like they're manipulating invisible objects. And adult wizards who retrieve the Muggleborn kids are going to be having personal conversations with the kids and their families while the whole family is wearing their AR goggles; presumably the wizard would wonder what that's all about and ask them about it.
+:PROPERTIES:
+:Author: Stolen_Embers
+:Score: 50
+:DateUnix: 1601598275.0
+:DateShort: 2020-Oct-02
+:END:
+
+*** Wizards already have VR - see Fred and George's patented day dream charm.
+:PROPERTIES:
+:Author: Taure
+:Score: 11
+:DateUnix: 1601618067.0
+:DateShort: 2020-Oct-02
+:END:
+
+**** Even a "top-quality, highly realistic" daydream still takes place in the mind's eye. Even if it's so realistic that it has a slight ghost of some sort of light physical sensation, the VR headsets we've had available to us for the past 5 years are, visually speaking, practically indistinguishable from reality. It looks CG like a video game, and you can see the pixels (though headsets released this year are a much higher resolution than the first headsets from 2016), and there's empty blackness in your peripherals. But it still looks more "solid" and "real" than even the most vivid lucid dream, let alone a daydream. Even the most vivid daydream you've ever had. The mind's eye just isn't capable of replicating that level of "solidity."
+
+And we're talking about VR that's had 30 years more development beyond what's available today.
+
+I'd say a Pensieve is closer to being like VR than a daydream charm, but that's still limited by needing to be based on a real memory.
+:PROPERTIES:
+:Author: Stolen_Embers
+:Score: 3
+:DateUnix: 1601650405.0
+:DateShort: 2020-Oct-02
+:END:
+
+
+*** I kinda want some source to that quote
+:PROPERTIES:
+:Author: Gaussverteilung
+:Score: 5
+:DateUnix: 1601610683.0
+:DateShort: 2020-Oct-02
+:END:
+
+**** [[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202188]]
+
+The idea has been widely discussed for years, that's just all I could find on google. All the search terms I'd use to find discussion would lead to completely unrelated topics. It's generally accepted that we're offloading our memory onto the internet, we don't need to remember specific information the way we used to so now we remember where to find the information instead.
+:PROPERTIES:
+:Author: Stolen_Embers
+:Score: 8
+:DateUnix: 1601611182.0
+:DateShort: 2020-Oct-02
+:END:
+
+
+** Muggle parents would certainly demand more knowledge on the curriculum with modern technology children started learning to code in kindergarten. A magical education might set their child back from career advancement or possible opportunities after all everyone can teleport nowadays.
+:PROPERTIES:
+:Author: pygmypuffonacid
+:Score: 25
+:DateUnix: 1601598388.0
+:DateShort: 2020-Oct-02
+:END:
+
+
+** I think this is wildly optimistic for 27 years from now
+:PROPERTIES:
+:Author: Tsorovar
+:Score: 14
+:DateUnix: 1601619394.0
+:DateShort: 2020-Oct-02
+:END:
+
+
+** Magical development proceeds the same way. Any sufficiently advanced magic is indistinguishable from technology ;).
+:PROPERTIES:
+:Author: gwa_is_amazing
+:Score: 7
+:DateUnix: 1601598579.0
+:DateShort: 2020-Oct-02
+:END:
+
+
+** I'm way too long out of writing myself but I have come across a fanfiction that ... comes awfully close to your premise. linkffn(13001252)
+:PROPERTIES:
+:Author: mschuster91
+:Score: 3
+:DateUnix: 1601630719.0
+:DateShort: 2020-Oct-02
+:END:
+
+*** [[https://www.fanfiction.net/s/13001252/1/][*/Annals of Arithmancy/*]] by [[https://www.fanfiction.net/u/5339762/White-Squirrel][/White Squirrel/]]
+
+#+begin_quote
+  Part 3 of The Arithmancer Series. Hermione won the war, but her career as the world's greatest arithmancer is just beginning. Now, she has places to go, spells to invent, and a family to start. Oh, and a whole lot of dementors to kill.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{24} ^{*|*} ^{/Words/:} ^{154,813} ^{*|*} ^{/Reviews/:} ^{1,073} ^{*|*} ^{/Favs/:} ^{1,440} ^{*|*} ^{/Follows/:} ^{1,499} ^{*|*} ^{/Updated/:} ^{3/23/2019} ^{*|*} ^{/Published/:} ^{7/14/2018} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{13001252} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Characters/:} ^{Hermione} ^{G.,} ^{George} ^{W.} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13001252&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=13001252&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/FanfictionBot/reddit-ffn-bot/wiki/Usage][Usage]] | [[https://www.reddit.com/message/compose?to=tusing][Contact]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 4
+:DateUnix: 1601630737.0
+:DateShort: 2020-Oct-02
+:END:
+
+
+** "Wizards rule, Muggles drool!" --Wizardwankers
+:PROPERTIES:
+:Author: YOB1997
+:Score: 3
+:DateUnix: 1601642477.0
+:DateShort: 2020-Oct-02
+:END:
+
+
+** Eew, Muggle-wank.
+:PROPERTIES:
+:Author: SnobbishWizard
+:Score: -21
+:DateUnix: 1601595361.0
+:DateShort: 2020-Oct-02
+:END:
+
+*** Eew, a comment that dismisses the prompt categorically without even providing a reason to do so. Username checks out.
+
+Seriously, if you want to have a discussion about Muggle-wank, I'm down, but I don't understand comments like this.
+:PROPERTIES:
+:Author: Locked_Key
+:Score: 26
+:DateUnix: 1601600547.0
+:DateShort: 2020-Oct-02
+:END:
+
+**** I was gonna write a comment defending what was potentially a joke, but looking at their comment history they /do/ kinda seem snobbish.
+
+Any good muggle-wank recommendations?
+:PROPERTIES:
+:Author: SoundsFunny
+:Score: 8
+:DateUnix: 1601604618.0
+:DateShort: 2020-Oct-02
+:END:
+
+***** I don't, sorry. I'm not a fan of Muggle-wank in particular, it just annoys me when people leave a comment insulting the tastes of the OP and don't at least give a reason for it. If it's meant as a joke, it's not very funny and it doesn't really come across that way. Plus it's common enough on this sub for people to hate on what others like rather than have a real conversation about it (or just...y'know, /ignore/ the post about a trope they dislike instead of going out of their way) that I take most seriously.
+
+Also...
+
+#+begin_quote
+  what was potentially a joke
+
+  SoundsFunny
+#+end_quote
+
+...username checks out again...?
+:PROPERTIES:
+:Author: Locked_Key
+:Score: 8
+:DateUnix: 1601607899.0
+:DateShort: 2020-Oct-02
+:END:
+
+
+**** If you want to know my reasons behind this comment, here they are:
+
+The whole prompt reeks of Muggle-wank and the idiotic belief that technology will advance this far in only twenty-seven year as one can find in every past era (the Victorians though we would walk on water by being held up by personal hot balloons, people in the 80s thought we would have actual flying hoverboards). I am willing to pay actual money in a bet that nano-bots, satellite-based teleportation and AIs such as portrayed in the post won't exist during our lifetime - certainly not in twenty-seven years.
+
+OP also seems to conveniently forget that /magic overrules physics/. If a wizard puts spells on a place so that one can teleport there, no one will. With magic or otherwise. OP seems also to forget that no technology would work inside Hogwarts because it all goes haywire and does not function inside its halls or on its grounds. A Muggle personal shield would also be laughed at before being broken, vanished or put out of the student's hand.
+
+I simply thought the crowd wouldn't need for me to write such a long comment explaining my reasoning since it was repeated so many times that magic beats anything Muggles could possibly come up with. Apparently, I overestimated it.
+:PROPERTIES:
+:Author: SnobbishWizard
+:Score: 10
+:DateUnix: 1601609826.0
+:DateShort: 2020-Oct-02
+:END:
+
+***** I get that, and I agree that by canon standards and real world logic, the prompt doesn't make sense. But this is fanfic. What's wrong with playing with the rules for the fun of the idea? And if that's not your thing, then don't discuss it alongside people who do enjoy it.
+
+EDIT: also, sorry for basically calling you a snob. That was a bit rude and inaccurate.
+:PROPERTIES:
+:Author: Locked_Key
+:Score: 9
+:DateUnix: 1601612004.0
+:DateShort: 2020-Oct-02
+:END:
+
+****** u/TheBlueSully:
+#+begin_quote
+  EDIT: also, sorry for basically calling you a snob
+#+end_quote
+
+They seem comfortable enough with the identifier to make it their name. I wouldn't worry about it.
+:PROPERTIES:
+:Author: TheBlueSully
+:Score: 6
+:DateUnix: 1601627358.0
+:DateShort: 2020-Oct-02
+:END:
+
+
+***** In Canon, it's been shown a lot of times how there are multiple types of teleportation, e.g. house elves being able to apparate where wizards can't. Who's to say that Muggle teleportation would not introduce a wholly new way of teleporting that none of the Wizard wards would guard against?
+
+Then again, I would be inclined to agree with you that 2047 (less then 30 years into the future) is far too early for such advancements.
+:PROPERTIES:
+:Author: vanfalkenburg
+:Score: 6
+:DateUnix: 1601616457.0
+:DateShort: 2020-Oct-02
+:END:
+
+
+***** Even in a fictional world with fictional physics, by definition magic /must/ operate within the laws of physics. Physics is all there is, there is nothing above it. If we ever got to the point of having sci-fi level nanobots and sci-fi level AI, we could probably rewrite reality on a level deeper than atoms, deeper even than quarks, and it's fair to believe that magic would no longer work around technology rather than it being the other way around. Magic is basically manipulating the fabric of reality. If science gets to the level where we can manipulate the fabric of reality with nanobots, controlled by interfacing through AR and AI and something like +neurolink+ Neuralink, we'd basically have a much more targeted and precise form of magic while wizards were stuck using an outdated interface.
+
+I'd actually like to see a fic explore a future world set in like 2222 where the Wizarding world tries to deal with the fact that Muggles have created their own version of magic... But there probably wouldn't be much of a plot or story there, just worldbuilding.
+:PROPERTIES:
+:Author: Stolen_Embers
+:Score: 7
+:DateUnix: 1601612715.0
+:DateShort: 2020-Oct-02
+:END:
+
+****** Harry Potter: Geth - linkffn(10784770)
+
+HP/Mass Effect crossover. IIRC, Magic and Biotics was just dark matter manipulation. Magic "died" when the energy "updated" and forced an OS update for the users. Harry gets dumped into the future and plot happens to keep that "update" from happening.
+
+IIRC, Harry uses both magic and biotics.
+:PROPERTIES:
+:Author: Nyanmaru_San
+:Score: 3
+:DateUnix: 1601619394.0
+:DateShort: 2020-Oct-02
+:END:
+
+******* [[https://www.fanfiction.net/s/10784770/1/][*/Harry Potter: Geth/*]] by [[https://www.fanfiction.net/u/1282867/mjimeyg][/mjimeyg/]]
+
+#+begin_quote
+  During the final battle Harry is hit with a luck spell... but who exactly got lucky? Harry finds himself in the future fighting a new war when all he wants to do is have a nice and easy life. So he decides to have fun instead.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{+} ^{Mass} ^{Effect} ^{Crossover} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{43} ^{*|*} ^{/Words/:} ^{276,717} ^{*|*} ^{/Reviews/:} ^{2,704} ^{*|*} ^{/Favs/:} ^{7,221} ^{*|*} ^{/Follows/:} ^{3,861} ^{*|*} ^{/Updated/:} ^{11/19/2014} ^{*|*} ^{/Published/:} ^{10/27/2014} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{10784770} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Genre/:} ^{Humor/Adventure} ^{*|*} ^{/Characters/:} ^{<Tali'Zorah,} ^{Harry} ^{P.>} ^{<Shepard,} ^{Ashley} ^{W.>} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10784770&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10784770&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/FanfictionBot/reddit-ffn-bot/wiki/Usage][Usage]] | [[https://www.reddit.com/message/compose?to=tusing][Contact]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1601619412.0
+:DateShort: 2020-Oct-02
+:END:

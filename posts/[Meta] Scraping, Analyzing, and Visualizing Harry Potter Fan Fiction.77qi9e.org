@@ -1,0 +1,182 @@
+#+TITLE: [Meta] Scraping, Analyzing, and Visualizing Harry Potter Fan Fiction
+
+* [Meta] Scraping, Analyzing, and Visualizing Harry Potter Fan Fiction
+:PROPERTIES:
+:Author: rexquefuturus
+:Score: 49
+:DateUnix: 1508548490.0
+:DateShort: 2017-Oct-21
+:FlairText: Misc
+:END:
+Hi everyone!
+
+A few months ago I decided I wanted to learn how to make data visualizations. I knew I needed a topic I wouldn't get tired of, so I chose Harry Potter fan fiction. I'd love to get any feedback or thoughts on the visualizations. I made seven, of course, and they're all more or less interactive so take your time exploring them. I did this purely for fun and would be happy to share the data- the code is all online already :)
+
+Here's a link to a medium article I wrote about the process and some of my results: [[https://medium.com/@rexquefuturus/scraping-analyzing-and-visualizing-harry-potter-fan-fiction-fa910da22673]]
+
+Here's the link to my write up and the graphs: [[https://allisonking.github.io/fanfic-analysis/]]
+
+The medium article is much more mobile friendly than the site itself, unfortunately, since it only has screenshots of the graphs rather than the whole interactive graph. Hope you enjoy though!
+
+
+** This is really beautiful! Kudos to you for having put this effort in :)
+
+Just one little quibble: for one of the major announcement "lightning bolts", you put "J.K. Rowling says that Ron and Hermione should not have ended up together", which was not what she said in the actual interview in Wonderland Magazine, but was widely misrepresented by the mainstream media as that being what she said. Something more accurate would probably be something like "J.K. Rowling admits to having second thoughts on Ron/Hermione".
+
+Other than that, it's simply excellent.
+:PROPERTIES:
+:Author: stefvh
+:Score: 5
+:DateUnix: 1508579350.0
+:DateShort: 2017-Oct-21
+:END:
+
+*** Ah, yes that's probably a better way to put it. I just changed it to your wording :)
+:PROPERTIES:
+:Author: rexquefuturus
+:Score: 2
+:DateUnix: 1508810106.0
+:DateShort: 2017-Oct-24
+:END:
+
+
+** That's excellent work!
+
+I have one suggestion though: Can you weigh your results based on popularity? On FFN.net, I define popularity as number of Favorites. I choose Favorites because Reviews are often negative and Follows biases fics with many chapters. On AO3, Kudos should be considered the best measure for popularity.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 12
+:DateUnix: 1508550304.0
+:DateShort: 2017-Oct-21
+:END:
+
+*** Unless other people are like me and only fav a fic if it's completed. Until then I only follow.
+:PROPERTIES:
+:Author: RedKorss
+:Score: 6
+:DateUnix: 1508598748.0
+:DateShort: 2017-Oct-21
+:END:
+
+**** Yeah, but using follows would completely shut out one-shots, so favorites is the better choice.
+:PROPERTIES:
+:Author: t1mepiece
+:Score: 3
+:DateUnix: 1508599036.0
+:DateShort: 2017-Oct-21
+:END:
+
+***** Or you could just use multiple measures of popularity that take into account Favorites, Follows, and Reviews. It doesn't have to be only one.
+:PROPERTIES:
+:Author: Aoloach
+:Score: 5
+:DateUnix: 1508602638.0
+:DateShort: 2017-Oct-21
+:END:
+
+
+*** Thanks for suggesting that and for the feedback! Was there any particular graph you think having weighted reviews would be helpful for? Maybe for the bar chart on character popularity? Trying to think about how that could be factored in visually
+:PROPERTIES:
+:Author: rexquefuturus
+:Score: 5
+:DateUnix: 1508811129.0
+:DateShort: 2017-Oct-24
+:END:
+
+**** For example, Daphne Greengrass and Fleur Delacour don't rank very high on that Fanfiction Popularity Graph, but my experience shows that fics with Harry/Daphne and Harry/Fleur have generally high number of Favorites. So it could be interesting to analyze the average number of Favorites of certain pairings (Harry/Ginny, Harry/Hermione...) and generate a new graph.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 3
+:DateUnix: 1508811665.0
+:DateShort: 2017-Oct-24
+:END:
+
+
+** This is really neat. You should crosspost to [[/r/dataisbeautiful]] if you haven't already. They'd probably eat this up.
+:PROPERTIES:
+:Author: mikekearn
+:Score: 5
+:DateUnix: 1508565646.0
+:DateShort: 2017-Oct-21
+:END:
+
+*** Thanks for the suggestion! I haven't tried there yet but you've given me the confidence to give it a go!
+:PROPERTIES:
+:Author: rexquefuturus
+:Score: 2
+:DateUnix: 1508810715.0
+:DateShort: 2017-Oct-24
+:END:
+
+
+** I am honestly surprised by the popularity of next-gen characters, especially considering how low the general opinion of the epilogue and cursed child seems to be (judging by the amount of complaints and bad reviews you see online) and then again by who is popular. Rose Weasley and Scorpius Malfoy above Harry's daughter?
+
+But the biggest surprise was Daphne Greengrass on place 49. I tend to see a lot more Daphne than Andromeda Tonks or Katie Bell.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 3
+:DateUnix: 1508609017.0
+:DateShort: 2017-Oct-21
+:END:
+
+*** I guess it's because the ratio of popular fictions featuring Daphne is a lot more than those fictions featuring Katie/Andromeda
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1508609466.0
+:DateShort: 2017-Oct-21
+:END:
+
+**** Even if you search under new Daphne feels a lot more popular.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 3
+:DateUnix: 1508610612.0
+:DateShort: 2017-Oct-21
+:END:
+
+
+*** Yeah, that is rather surprising. I think there is something to be said about having just enough structure to work off of- Cursed Child gave Rose/Scorpius some personality/plot, and even that little bit in the epilogue with Ron warning Rose off Scorpius was a good amount to get the imagination going. For Harry's daughter, there's less to work off of- I haven't read the epilogue in a while, but I think she only comments that Teddy is over often which doesn't lend much to thinking about her relationships.
+
+I would argue the same for Andromeda vs Daphne. Andromeda, despite how infrequently she is mentioned in the books, has a ton of underlying structure and ready-to-go conflict to write about just by being blasted off from the Black family tree. Not having read Daphne fan fiction, I'm not sure what plot points those would center on, whereas for Katie and Andromeda I could see pretty easily what would make them enticing to write about. Just my two cents!
+:PROPERTIES:
+:Author: rexquefuturus
+:Score: 2
+:DateUnix: 1508811703.0
+:DateShort: 2017-Oct-24
+:END:
+
+
+*** I think those who hate the Epilogue are a vocal minority. I think a poll on the main [[/r/harrypotter]] sub showed that only a third dislike the Epilogue.
+
+Many Dramione shippers migrated to Scorose after JKR sank their main ship.
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 1
+:DateUnix: 1508815260.0
+:DateShort: 2017-Oct-24
+:END:
+
+**** If a third of your customers is not satisfied with your product (the epilogue in this case), then that's a shitty quota and not a source of relief. If a hotel has 66% satisfied customers you bet that a lot of people would avoid it.
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 1
+:DateUnix: 1508838208.0
+:DateShort: 2017-Oct-24
+:END:
+
+
+** Very interesting. I just started looking through it, but I noticed that you made a small mistake with the Harry Potter and the Order of the Phoenix book publication in the first graph? The icon for the book is a film icon.
+:PROPERTIES:
+:Author: kyella14
+:Score: 2
+:DateUnix: 1508556928.0
+:DateShort: 2017-Oct-21
+:END:
+
+*** Thanks for catching that! It should be fixed now :)
+:PROPERTIES:
+:Author: rexquefuturus
+:Score: 2
+:DateUnix: 1508810744.0
+:DateShort: 2017-Oct-24
+:END:

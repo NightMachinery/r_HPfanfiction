@@ -1,0 +1,170 @@
+#+TITLE: Writing with tabletop RPG elements (similar to D&D)
+
+* Writing with tabletop RPG elements (similar to D&D)
+:PROPERTIES:
+:Author: IamProudofthefish
+:Score: 7
+:DateUnix: 1562097999.0
+:DateShort: 2019-Jul-03
+:FlairText: Misc
+:END:
+Hello all, I was musing over some plot bunnies. The truth is I haven't written fanfic in probably almost a decade at this point, but what I have done is run various genres of tabletop RPG games so writing like that (even if I control all characters) makes sense to me. Additionally, one of the reasons I love HP is the sandbox available for world building. If you are not familiar with how tabletop games work, essentially characters have skills they can use to perform actions, and all attempted actions have a "difficulty" or number to beat. You roll a die (in this case 20 sided). The number you roll is how well you perform a task. Your attributes and skills give you a bonus that you can add to the number and then you compare it to the difficulty. If you meet or beat the number, you succeed at your task if you do not you fail. Here is a thought for discussion. How could you turn some element(s) of the HP world into an RPG mechanic? For example,
+
+1. Could you, using a basic interface, create stats for Harry, Ron, and Hermione?
+2. Assuming a D20 system could you have a magic system controlled by dice rolls that you did not have to prepare in advance as you do with D&D Maybe it is more based on class or "fighting" style.
+3. Maybe if your character passed certain NEWTs than they have a particular base set of skills.
+
+Any other ideas? The math behind game mechanics isn't my strong suit, but I would like to open a discussion.
+
+Edited to Add:
+
+To clarify I don't think I need to stat them to D&D but I know that is the rpg people are more familiar with. If we had the basic stats and assumed that magic is not strictly int based what could a system look like? For example, might characters with different stat strengths be better at different types of magic? or things like that.
+
+
+** Realistically, HP would require its own system because it doesn't lend itself well to the traditional class paradigm of more tactical RPGs. Theoretically, a wizard or witch can cast almost any spell provided they have the skill and willingness to do so. There are no martial fighters or half-casters, everyone is a full on magic-user. And there's a complete cheese spell that can one-shot almost any human character. You could probably look into the more storytelling heavy games like Mage: The Ascension for inspiration, but I've never played it before, so I can't say for certain it's what you're looking for.
+
+Critical Role did a decent enough interpretation of Hogwarts (and the Breakfast Club) [[https://www.youtube.com/watch?v=2MKE78FweGA][through D&D lenses]], but combat is still definitely D&D rather than HP. Case in point: the Eldritch Knight spends most of the episode whacking things with his beater's bat instead of using his wand. But if we sort of use this as a base of thinking, you can sort of think up of some classes and stats for the trio:
+
+Of the trio, Hermione has the most traditionally "wizard-like" disposition, being as studious, serious, and socially awkward as she is. She'd likely have high intelligence and decent wisdom, but low charisma, her physical stats would probably be average for a girl of her age, making her a prime wizard or cleric.
+
+Harry is kind of a troublemaker when you think about it: he likes to range out at night alone under an invisibility cloak with his map that shows people patrolling the halls; he's always investigating mysteries; and, most importantly, he's always in places he shouldn't be. If that doesn't scream rogue to you, I don't know what does. If you were to write him with tabletop elements, I'd write him as an Arcane Trickster type. The only issue is the IIRC Arcane Tricksters are Int-Casters, and Harry doesn't seem that much smarter than the average teen. I'd think of him as a Charisma-caster instead (maybe a hexblade without the patron stuff?), since he always seems to shine when the chips are down, which suggests to me that he uses sheer force of will to master magic instead of raw intelligence.
+
+Ron's tough. My initial instinct is to say Bard, but JKR doesn't write Ron as the smouldering, seductive, oozing-charisma types we come to expect from bards. Honestly, the way Ginny is written is probably closer to a traditional dnd bard than Ron. I'm really not sure how to categorize him, tbh. He does come up with solutions when Hermione gets too noodley and Harry gets too mopey, so maybe he's a high-wis, low-int character?
+:PROPERTIES:
+:Author: Zeitgeist84
+:Score: 3
+:DateUnix: 1562104299.0
+:DateShort: 2019-Jul-03
+:END:
+
+*** You're are absolutely spot on, I think. As I add to my original post I was using D&D as an example of a system rather than strict rules. What about if you weren't limited to strictly magical classes for Ron?
+:PROPERTIES:
+:Author: IamProudofthefish
+:Score: 1
+:DateUnix: 1562111348.0
+:DateShort: 2019-Jul-03
+:END:
+
+**** If we're including the semi-fanon portrayal of Ron being a tactical genius, probably Battlemaster Fighter/Warlord.
+:PROPERTIES:
+:Author: Zeitgeist84
+:Score: 1
+:DateUnix: 1562111496.0
+:DateShort: 2019-Jul-03
+:END:
+
+
+** When thinking of gaming the Wizarding World, I found GURPS to be a better representation of the skill building dynamic. Each spell is mastered individually, but some spells must be mastered before learning the more complicated ones in the sphere. Brilliant (high-INT) characters like Hermione, Dumbledore, Snape, Voldemort, and Lily find mastering many spells (skill to 15) relatively easy, whereas most folks try and get competent with the ones they'll need.
+:PROPERTIES:
+:Author: wordhammer
+:Score: 2
+:DateUnix: 1562121257.0
+:DateShort: 2019-Jul-03
+:END:
+
+*** I'll take a look. Currently, I am assigning spell types (Transfigurations, Charms, etc.) to a certain attribute to make it more balanced. The problem, of course, is that spell casting is ranged and so theoretically uses Dex for combat and strength is nerfed is so that it is only used for physical skills assuming there are little to no physical attacks with magic. This system doesn't /really/ have to be balanced I suppose since I'm not making a game, but I am trying to be through
+:PROPERTIES:
+:Author: IamProudofthefish
+:Score: 1
+:DateUnix: 1562160809.0
+:DateShort: 2019-Jul-03
+:END:
+
+
+** A system like this would actually be a really interesting way to write out fight sequences. Just keep rolling until there's a defined winner then flesh out everything that happens, and *poof* instant seemingly-random and somewhat-realistic fight in terms of progression and events.
+
+Of course, then plot would be really hard. Perhaps as a one shot? ...
+:PROPERTIES:
+:Author: Erebus1999
+:Score: 2
+:DateUnix: 1562129112.0
+:DateShort: 2019-Jul-03
+:END:
+
+*** I've tried writing that way before. Its best to have an idea of where the scene is starting and where you want it to end. The traditional idea of DM not leading the story strongly has to be thrown out of the window though. Of course we need to lead everything or a computer might as well write stories better than us. What's that famous one? (Harry Potter and a large pile of ash?)
+:PROPERTIES:
+:Author: SurbhitSrivastava
+:Score: 1
+:DateUnix: 1562150846.0
+:DateShort: 2019-Jul-03
+:END:
+
+**** All true. And since one person is doing all the rolling, there is more control because you won't have your PCs throw you for a loop. The one action scene I wrote I knew the PCs would win it was just a question of how and the dice helped decide that. The dice helped me be creative as it were. Also most of the games I have played all really focus on RP outside of combat, so I don't find that art quite as hard.
+:PROPERTIES:
+:Author: IamProudofthefish
+:Score: 2
+:DateUnix: 1562161068.0
+:DateShort: 2019-Jul-03
+:END:
+
+***** Every roll of the dice creates like a mini-prompt or mini-challenge. That dodge roll against the killing curse was a success but only barely so.... The re-roll with the promise of greater consequences was a critical fail... What will you write?
+:PROPERTIES:
+:Author: SurbhitSrivastava
+:Score: 1
+:DateUnix: 1562225692.0
+:DateShort: 2019-Jul-04
+:END:
+
+****** Yeah this is why I'm going to write this way. I usually write introspective one shots so the action/reaction/consequence is not as important. I tend to be too linear and nothing is a surprise when I write. This forces me to add more unexpected things.
+:PROPERTIES:
+:Author: IamProudofthefish
+:Score: 2
+:DateUnix: 1562242172.0
+:DateShort: 2019-Jul-04
+:END:
+
+
+** They're basically Sorcerers, right? Other than that, you could do FATE pretty easily.
+
+If you're into Pathfinder, I feel like you could make a case for an Occultist or possibly a Warlock Vigilante.
+:PROPERTIES:
+:Author: ForwardDiscussion
+:Score: 1
+:DateUnix: 1562107055.0
+:DateShort: 2019-Jul-03
+:END:
+
+*** I was thinking more of assume magic is used by all classes somehow. How might you stat their personality differences?
+:PROPERTIES:
+:Author: IamProudofthefish
+:Score: 1
+:DateUnix: 1562111409.0
+:DateShort: 2019-Jul-03
+:END:
+
+
+** If you were to create Harry, Ron, and Hermione as D&D characters Hermione has stats like the typical wizard in D&D high intelligence above average wisdom average or slightly below average everything else. Ron is more well rounded average but would probably look more like a cleric or paladin in terms of statline but weirdly dex based rather than strength, IDK Ron would be a weird class but wisdom or charisma would be his primary stat. Harry is similar to Ron, highest stat charisma next highest probably dex, but he also probably has most of his stats above average.
+
+Class wise HP wizards are some weird hybrid between D&D wizards and sorcerers, they inherit the ability to use magic and don't prepare spells like sorcerers, but they have to study to learn spells like a wizard and int is probably their casting stat. But then again spells like the patronous use emotions to cast so sometimes charisma is needed in addition to intelligence, and there might be a will power/determination component as well, which might be wisdom, so...I don't know. Also spells like the stunning spell or avada kedavra don't really have a save component (unless used on a giant or dragon or whatever) but all spells can fail to be cast at all, or be less effective than they should be or more effective or sometimes have seemingly random effects. So, HP wizard as a class would not really fit in D&D very well, and would probably need their own system all together, as another person in this thread already said.
+:PROPERTIES:
+:Author: TheCowofAllTime
+:Score: 1
+:DateUnix: 1562108751.0
+:DateShort: 2019-Jul-03
+:END:
+
+*** This was actually more of what I was thinking of, I was just using D&D as an example of an rpg because that is what people have heard of. Sorry I wasn't clear in the original post.
+:PROPERTIES:
+:Author: IamProudofthefish
+:Score: 1
+:DateUnix: 1562111560.0
+:DateShort: 2019-Jul-03
+:END:
+
+
+** There's actually a few different Harry Potter ttrpg systems out there.\\
+They're probably a bit better than a DnD style game where everyone has at will instant death ranged touch attacks.
+:PROPERTIES:
+:Author: Electric999999
+:Score: 1
+:DateUnix: 1562205113.0
+:DateShort: 2019-Jul-04
+:END:
+
+*** Could you link to some? My searches only came up with the CCG and a unreleased RPG video game.
+:PROPERTIES:
+:Author: IamProudofthefish
+:Score: 1
+:DateUnix: 1562207896.0
+:DateShort: 2019-Jul-04
+:END:

@@ -1,0 +1,55 @@
+#+TITLE: [Meta] Flair your posts correctly
+
+* [Meta] Flair your posts correctly
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 7
+:DateUnix: 1443176798.0
+:DateShort: 2015-Sep-25
+:FlairText: Meta
+:END:
+Please, flair your posts. I always hate it if a submission is flaired wrong.
+
+- /Suggestion/ --- Request feedback for your story.
+- /Promotion/ --- Use this flair to promote a story you find awesome.
+- /Request/ --- Request a story
+- /Discussion/ --- Discussion about certain topics in the fandom.
+- /Meta/ --- Discussion about tthe subreddit itself.
+- /Misc/ --- Anything else
+
+
+** I thought the mods did the flair here? Am I missing an option to correctly flair one?
+:PROPERTIES:
+:Author: redwings159753
+:Score: 2
+:DateUnix: 1443189843.0
+:DateShort: 2015-Sep-25
+:END:
+
+*** When you have created a post, there will be an option labelled 'flair', next to the options for deletion, marking nsfw et al.
+
+Additionally, titling your post with a category tag like [this] also works with AutoModerator, which is especially useful for mobile users.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1443201733.0
+:DateShort: 2015-Sep-25
+:END:
+
+**** Thanks. I'll try to do this from now on.
+:PROPERTIES:
+:Author: redwings159753
+:Score: 2
+:DateUnix: 1443202807.0
+:DateShort: 2015-Sep-25
+:END:
+
+
+*** Short answer: They do Long answer: They're humans, too. Don't make them work more than they have to.
+
+You can add a [/Flairname/] at the beginning of the title to let the post be flaired by a bot.
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 2
+:DateUnix: 1443210016.0
+:DateShort: 2015-Sep-25
+:END:

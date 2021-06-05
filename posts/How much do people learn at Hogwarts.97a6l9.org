@@ -1,0 +1,336 @@
+#+TITLE: How much do people learn at Hogwarts?
+
+* How much do people learn at Hogwarts?
+:PROPERTIES:
+:Author: ummmdash
+:Score: 4
+:DateUnix: 1534266653.0
+:DateShort: 2018-Aug-14
+:FlairText: Discussion
+:END:
+From the books (and maybe this is just because HArry isn't a great student/has other things on his mind) it doesn't seem that students learn a ton of magic at Hogwarts. I haven't gone through and made an exact count, but it seems that the following estimation is the best I can come up with. Each week students learn: 1 potion, 1 charm, 1-2 spells in DADA, 1 new transfiguration technique, 1 plant in Herbology, 1 new creature in Care of Magical Creatures, etc. Are students expected to learn other spells on their own like as part of homework? Where do they learn household spells or healing spells?
+
+Does this estimate seem accurate to others?
+
+If it is accurate, do you think students should be learning more? I kind of feel like there must be so much more magic to learn that it seems silly to study so little, but maybe there's a good reason for it.
+
+
+** I think you're focusing too much on the case studies students use to practice and missing the fact that these are transferable skills. When students learn to transfigure a teapot into a turtle, that's not all they're learning. They're learning to transfigure objects into animals in general, and the turtle transformation is just practice.
+
+This pedagogy is explicitly recognised with respect to Vanishing, where McGonagall has them start in invertebrates at the start of fifth year:
+
+#+begin_quote
+  “Yes, you too, Longbottom,” said Professor McGonagall. “There's nothing wrong with your work except lack of confidence. So... today we are starting Vanishing Spells. These are easier than Conjuring Spells, which you would not usually attempt until NEWT level, but they are still among the most difficult magic you will be tested on in your OWL.”
+
+  She was quite right; Harry found the Vanishing Spells horribly difficult. By the end of a double period neither he nor Ron had managed to vanish the snails on which they were practicing (OotP Chapter 13)
+#+end_quote
+
+They then advance to vertebrates later in the year:
+
+#+begin_quote
+  “As I was saying: the Vanishing Spell becomes more difficult with the complexity of the animal to be Vanished. The snail, as an invertebrate, does not present much of a challenge; the mouse, as a mammal, offers a much greater one” (OotP Chapter 15)
+#+end_quote
+
+So being able to vanish one invertebrate is considered good practice for vanishing invertebrates in general, and the same for the more complex vertebrates.
+
+To answer your question with the above in mind, what do students learn in Transfiguration over the course of Hogwarts?
+
+The curriculum is as follows:
+
+- Turning inanimate objects into other inanimate objects in first year (match into needle in PS Chapter 8),
+
+- Turning animals into objects from the end of first year (mouse into a snuff box in PS Chapter 16), continuing in second year (beetle into button in CoS Chapter 6);
+
+- Turning objects into animals in third year (teapot into a tortoise in PoA Chapter 16);
+
+- Turning animals into other animals in fourth year (guinea fowl into guinea pigs in GoF Chapter 22), as well as switching spells (GoF Chapter 20);
+
+- Learning Vanishing in fifth year, as above;
+
+- Learning Human Transfiguration in sixth year (HBP Chapter 15);
+
+- Learning Conjuration in seventh year (from the fact that McGonagall refers to Conjuration as N.E.W.T. level in OotP Chapter 13, combined with the fact that we know it is not in sixth year).
+
+So students pretty much learn how to turn anything into anything else (in theory; in practice must students suck at Transfiguration because it's so hard).
+
+There are however a few items which are either not covered, or are covered but we haven't seen:
+
+- Untransfiguration
+
+- Triggered transfigurations (e.g. Fred and George's fake wands)
+
+- Transfiguration fields (e.g Dumbledore's age line which put a transfiguration over an area)
+
+- Transfiguration animation (as opposed to animation in Charms, which is covered)
+
+I imagine a similar situation holds in Charms: they practice just a small number of Charms, but the principles transfer, meaning that they are able to pick up new Charms quickly on the basis of what they have already learnt. Charms however is a much broader field so I imagine it's less transferable than Transfiguration.
+
+Interestingly, this shows why Hermione was right about the HBP potion book: Harry was learning how to make specific potions well, but because he didn't understand what he was doing, he wasn't actually increasing his ability with potions.
+
+All this and much more in my headcanon doc: [[https://drive.google.com/file/d/1gy6FOtx28w3JPDeDBOcch0fpuvTEnNwr/view?usp=sharing]]
+:PROPERTIES:
+:Author: Taure
+:Score: 15
+:DateUnix: 1534286295.0
+:DateShort: 2018-Aug-15
+:END:
+
+*** Okay, so wait. Can you Vanish a /live/ human person? From what I understand, once something is Vanished, there's no getting it back. Is that correct? If you /can/ Vanish a person, that's just a whole new level of horror I never even considered.
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 2
+:DateUnix: 1534287250.0
+:DateShort: 2018-Aug-15
+:END:
+
+**** It's likely that vanished things can be retrieved. From the linked doc:
+
+--------------
+
+McGonagall contrasts Vanishing with Conjuration, implying that they are opposites:
+
+#+begin_quote
+  “Yes, you too, Longbottom,” said Professor McGonagall. “There's nothing wrong with your work except lack of confidence. So... today we are starting Vanishing Spells. These are easier than Conjuring Spells, which you would not usually attempt until NEWT level, but they are still among the most difficult magic you will be tested on in your OWL.” (OotP Chapter 13)
+#+end_quote
+
+If Conjuration is the opposite process to Vanishing, then it is the process of taking objects out of non-being into being. The fact that Conjuration is the reverse of Vanishing is supported by the fact that you can retrieve objects that have been Vanished back out of non-being:
+
+#+begin_quote
+  A third twitch of the wand, and a dusty bottle and five glasses appeared in midair. The bottle tipped and poured a generous measure of honey-colored liquid into each of the glasses, which then floated to each person in the room.
+
+  “Madam Rosmerta's finest oak-matured mead,” said Dumbledore, raising his glass to Harry, who caught hold of his own and sipped. (HBP Chapter 3)
+#+end_quote
+
+This is branded mead, meaning that it is not Dumbledore's creation. Rather he must have Vanished it earlier and is now re-conjuring it in a different location (which fits nicely with Vanished objects being “everything”). The only alternative is that Dumbledore is so skilled with the Summoning Charm that he can summon objects via Apparition. While not impossible, that would go against all other uses of the Summoning Charm which we have seen, and would further raise all sorts of questions about the ease of magical theft.
+
+--------------
+
+To this I would add the fact that Montague was (eventually) successfully unvanished after being shoved into the broken vanishing cabinet by Fred and George.
+
+So yes. it's definitely possible to vanish people, especially with enchanted objects. However I don't think it's something that many wizards would be able to just do on a whim. Most wizards do not seem capable of vanishing objects with a single spell but rather need to try it multiple times, each time vanishing a little more of the object.
+
+Further, it gets more difficult as complexity increases, with an iguana being the OWL exam we saw. Given the relative difficulty of human transfiguration to animal transfiguration (even Hermione was said to be struggling to understand human transfiguration in HBP), it seems likely that human vanishing is correspondingly more difficult.
+:PROPERTIES:
+:Author: Taure
+:Score: 9
+:DateUnix: 1534287796.0
+:DateShort: 2018-Aug-15
+:END:
+
+***** Okay, I've been under the impression that once something was Vanished, it was gone gone gone, but it seems I was wrong. I find that strangely reassuring.
+
+Now, since it does seem that it's possible to Vanish humans ... what sort of state are they in while Vanished? Is it a state of suspended animation? This is very like the old fairy mound legends: Imagine if Fred were to Vanish George as a prank and for reasons, doesn't un-Vanish him for ten years. What state is George in? Is he still the same age, say 15, as he was when he was Vanished? Has he aged? If time did pass for him, was he conscious? If he was conscious, what about his body functions? Food, drink, waste elimination?
+
+This is part of what I find a bit frustrating about writing in the HP world. There's so many things that can be resolved by "a wizard did it". Why is Wizarding society not completely off the rails? You can pretty much steal anything at will, kill anyone who sees you and hide the body, modify memories (the ultimate in gaslighting) and on and on. You don't need Voldemort--all you need is a bored teenager on Saturday night.
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 2
+:DateUnix: 1534288872.0
+:DateShort: 2018-Aug-15
+:END:
+
+****** I would imagine the same state that they were in prior to birth. Non-being. Since spells are centered around the idea, one could likely conjure or retrieve a vanished human through the idea of the person.
+
+As to why its not off the rails...who said it wasn't? These are the people who pinned all there hopes on an adolescent with foresight issues, an old man who has got to have just been done with this shit, and apparently a man in a bowler hat (the worst offender).
+:PROPERTIES:
+:Author: XeshTrill
+:Score: 2
+:DateUnix: 1534292381.0
+:DateShort: 2018-Aug-15
+:END:
+
+******* u/jenorama_CA:
+#+begin_quote
+  an old man who has got to have just been done with this shit
+#+end_quote
+
+He was so close to retirement!
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 3
+:DateUnix: 1534295228.0
+:DateShort: 2018-Aug-15
+:END:
+
+******** Well, his predecessor lived into his mid-300s, so I honestly doubt that.
+:PROPERTIES:
+:Author: XeshTrill
+:Score: 2
+:DateUnix: 1534295337.0
+:DateShort: 2018-Aug-15
+:END:
+
+********* So I'm guessing you've never seen Lethal Weapon?
+:PROPERTIES:
+:Author: jenorama_CA
+:Score: 1
+:DateUnix: 1534307083.0
+:DateShort: 2018-Aug-15
+:END:
+
+********** Not in like fifteen years at least.
+:PROPERTIES:
+:Author: XeshTrill
+:Score: 1
+:DateUnix: 1534325786.0
+:DateShort: 2018-Aug-15
+:END:
+
+
+****** My headcanon is that the "reality" of something that's been vanished slowly starts to spread out/break apart. So someone could be vanished and conjured (with much difficulty), but the longer that something has been vanished, the tougher it can be to conjure it, and this is made exponentially more difficult if it's something living. At some point, a living thing that's been vanished reaches a state of non-being that's so metaphysically "spread out" that it can't be conjured.
+:PROPERTIES:
+:Author: AnimaLepton
+:Score: 1
+:DateUnix: 1534305643.0
+:DateShort: 2018-Aug-15
+:END:
+
+
+***** About Dumbledore conjuring vanished stuff rather than summoning non-vanished objects.
+
+#+begin_quote
+  “We do not want to be encumbered by these just now,” he said, pulling out his wand again. “I shall send them to the Burrow to await us there. However, I would like you to bring your Invisibility Cloak . . . just in case.” Harry extracted his Cloak from his trunk with some difficulty, trying not to show Dumbledore the mess within. When he had stuffed it into an inside pocket of his jacket, Dumbledore waved his wand and the trunk, cage, and Hedwig vanished. Dumbledore then waved his wand again, and the front door opened onto cool, misty darkness.
+#+end_quote
+
+The fact that Harrys stuff was supposed to be already waiting at the Weasleys after Dumbledore made it go poof, implies that it was sent somewhere via apparition.
+
+#+begin_quote
+  Professor McGonagall raised her wand again and pointed it at Snape's desk. A large plate of sandwiches, two silver goblets, and a jug of iced pumpkin juice appeared with a pop.
+#+end_quote
+
+McG summoned stuff and it appears to have been teleported to her.
+
+Also the food for meals is teleported from the kitchens.
+
+As to the security issue, I would imagine that there are anti-summoning spells. In books there are a few enchanted objects that are said to have anti-jinxes so it's definitely possible to counter a certain spell. Perhaps not for every object but in an area. Also normal summoning is probably almost as easy for stealing as teleport summoning, considering that objects can be summoned from decent distances.
+:PROPERTIES:
+:Author: Triflez
+:Score: 1
+:DateUnix: 1534328611.0
+:DateShort: 2018-Aug-15
+:END:
+
+
+** Well if you are in any way correct, then they learn a lot of stuff in 7 years if they have competent teachers.
+:PROPERTIES:
+:Author: Lakas1236547
+:Score: 3
+:DateUnix: 1534266840.0
+:DateShort: 2018-Aug-14
+:END:
+
+*** Idk. I can't imagine feeling like I learned enough in school if I learned one new concept in each class each week.
+:PROPERTIES:
+:Author: ummmdash
+:Score: 2
+:DateUnix: 1534267389.0
+:DateShort: 2018-Aug-14
+:END:
+
+**** Yes, but they learn Magic.
+
+Also, they learn things generally.
+
+What I mean is, that they learn a bit of defense, a few household charms, a bit of this, a bit of that. Everything else, if they want they learn in between classes, or when they graduate.
+:PROPERTIES:
+:Author: Lakas1236547
+:Score: 6
+:DateUnix: 1534268006.0
+:DateShort: 2018-Aug-14
+:END:
+
+
+*** If there's about forty academic weeks, then yes, they do learn a lot.
+
+What pisses me off is not seeing Harry proficient in anything but Defense. I mean, we know he got E's in all the important subjects, but he could show us that he knew some spells too. It always seemed like only Hermione knew anything at all.
+:PROPERTIES:
+:Author: afrose9797
+:Score: 1
+:DateUnix: 1534272472.0
+:DateShort: 2018-Aug-14
+:END:
+
+**** He had to be dumbed down to appear like a normal kid that defeated Voldemort.
+
+Everybody can be the hero is the moral of the story. Supposedly.
+:PROPERTIES:
+:Author: Lakas1236547
+:Score: 3
+:DateUnix: 1534280563.0
+:DateShort: 2018-Aug-15
+:END:
+
+
+**** Actually, I think that's due to the movies. Harry is actually quite good and catches on quickly
+:PROPERTIES:
+:Author: NyGiLu
+:Score: 5
+:DateUnix: 1534284588.0
+:DateShort: 2018-Aug-15
+:END:
+
+***** I mean the books, not the movies. Harry is good enough, but we rarely see him use a good spell on his own. This includes Ron too. It always seems like only Hermione knows anything. I know we're supposed to assume that Harry and Ron are good too, but it would've been nice if they had demonstrated their abilities without Hermione's aid.
+:PROPERTIES:
+:Author: afrose9797
+:Score: 3
+:DateUnix: 1534316404.0
+:DateShort: 2018-Aug-15
+:END:
+
+
+** That seems a bit much, although it might be accurate for later schooling (I can see NEWT student learning one a week). It's plausible that a lot of the spells/potions they learn at Hogwarts are sufficient for everyday life/jobs, with supplementary learning done by themselves.
+
+There is likely many books that can be bought on household spells and healing spells. I believe Molly referred to one.
+:PROPERTIES:
+:Author: elizabnthe
+:Score: 3
+:DateUnix: 1534277895.0
+:DateShort: 2018-Aug-15
+:END:
+
+
+** I think of it as an analog to real life- you never really explicitly learn personal finance in school, but you do learn the basic arithmetic and algebraic skills needed for it. And simple specific topics (i.e. the geometry of triangles in real life) can easily take up to a month of study, so there must be more that they learn about spells than just their magic and applications. Taure already spoke to this, but it's mentioned that there are entire books written on single spells, so there's likely some form of general magical theory that students are learning in addition to the active practice that they do in class. Moreover, you learn stuff in school that isn't intended to be useful in the long-term, but is more important for training you to think and communicate in a certain manner, hence all the essays we see in canon.
+
+More broadly, the main point of school is to give you a baseline from which you can develop further skills. It also functions to providing structure and acting as an agent of socialization, teaching you about cultural norms and how to interact with people. Hogwarts doesn't need to add Spell Creation or whatever to make the curriculum more difficult.
+
+The amount of time they're in school may also a factor. In boarding schools especially, a big part of the learning goals deal with how students adjust to life outside the classroom and giving them the freedom+additional time to pursue their own interests.
+
+It's also not clear what additional material exists for study, beyond accumulate life experiences - Grindelwald is mentioned to have traveled the world on a journey for powerful magic, Voldemort presumably did the same after his brief stint at Borgin and Burke's after being rejected (but considering that he did apply for the Defense position straight out of Hogwarts, it clearly wasn't completely unexpected for a talented student to almost immediately transition to such a role), and Dumbledore either trained under or worked with Nicolas Flamel at some point. OTOH Snape manages to become the Potions Professor just a few years out of school, presumably with little to no extra training beyond what he studied at Hogwarts.
+:PROPERTIES:
+:Author: AnimaLepton
+:Score: 3
+:DateUnix: 1534305321.0
+:DateShort: 2018-Aug-15
+:END:
+
+
+** Defense involves both spellwork and creatures, so it's not going to be a spell every class session.
+
+I'd do it as: you start out with only a few spells learned in the first year, because you're getting used to using magic and you're still learning the base concepts. By the end of fifth year, you can learn a spell in a minute from a written description. At NEWT level, you get a spell list at the beginning of the year, and you're expected to know it all by the end. Classes at that level are divided between theory and open practice, where you can get help with whatever spells you're having trouble with.
+
+For household charms, you just grab a copy of /Mrs Fitzmilton's Practical Guide for the Modern Homeowner/. Minor healing charms are probably part of Defense, while more complex stuff is in post-Hogwarts studies.
+
+Herbology is very hands-on. I'd expect students to care for a number of plants, tending all of them each class session.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1534280826.0
+:DateShort: 2018-Aug-15
+:END:
+
+
+** I'm pretty sure you learn less than one thing each weak in school. Usually you need a few weeks to cover one thema. If your school managed to make you learn something new each time you went to class, it's already a lot.
+:PROPERTIES:
+:Author: Quoba
+:Score: 4
+:DateUnix: 1534277551.0
+:DateShort: 2018-Aug-15
+:END:
+
+
+** I don't really think it's all that accurate. After all, Jo doesn't exactly cover in detail what goes on in a day to day class. It's all kind of glossed over because it's not exactly relevant to the main story.
+:PROPERTIES:
+:Author: ST_Jackson
+:Score: 1
+:DateUnix: 1534309317.0
+:DateShort: 2018-Aug-15
+:END:

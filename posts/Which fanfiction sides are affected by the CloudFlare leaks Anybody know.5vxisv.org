@@ -1,0 +1,245 @@
+#+TITLE: Which fanfiction sides are affected by the CloudFlare leaks? Anybody know?
+
+* Which fanfiction sides are affected by the CloudFlare leaks? Anybody know?
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 13
+:DateUnix: 1487944074.0
+:DateShort: 2017-Feb-24
+:FlairText: Misc
+:END:
+
+** [[https://arstechnica.com/security/2017/02/serious-cloudflare-bug-exposed-a-potpourri-of-secret-customer-data/][Link]] for those who aren't sure what OP is referring to
+:PROPERTIES:
+:Score: 8
+:DateUnix: 1487945601.0
+:DateShort: 2017-Feb-24
+:END:
+
+
+** Most of them probably are. Its best to change your password just in case.
+:PROPERTIES:
+:Author: Conneron
+:Score: 3
+:DateUnix: 1487964265.0
+:DateShort: 2017-Feb-24
+:END:
+
+
+** [[https://github.com/pirate/sites-using-cloudflare/blob/master/README.md][List of sites affected.]]
+:PROPERTIES:
+:Author: jeffala
+:Score: 2
+:DateUnix: 1487960192.0
+:DateShort: 2017-Feb-24
+:END:
+
+*** It's a superset of affected sites.
+
+A site can use cloudflare for DNS but not as a caching proxy, or for both DNS and as a caching proxy. In both cases, the site will appear on the list, but it's only the proxy usage that caused this problem.
+
+Regardless, now is a good time to change any passwords you may have.
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1487961101.0
+:DateShort: 2017-Feb-24
+:END:
+
+
+*** [[https://www.dropbox.com/s/ln90marbl0qaviq/Untitled.png?dl=0][This shows that Fanfiction.net uses Cloudflare in some way.]] It /could/ be unaffected. Change passwords if this concerns you.
+:PROPERTIES:
+:Author: jeffala
+:Score: 1
+:DateUnix: 1487961273.0
+:DateShort: 2017-Feb-24
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1487989558.0
+:DateShort: 2017-Feb-25
+:END:
+
+***** Whats the difference isn't that still the same websitem.
+:PROPERTIES:
+:Author: ItsSpicee
+:Score: 1
+:DateUnix: 1488003916.0
+:DateShort: 2017-Feb-25
+:END:
+
+****** [deleted]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1488005321.0
+:DateShort: 2017-Feb-25
+:END:
+
+******* Oh okay I didn't know that. Guess thats a pretty big distinction to make. Thanks for letting everyone know.
+:PROPERTIES:
+:Author: ItsSpicee
+:Score: 2
+:DateUnix: 1488007874.0
+:DateShort: 2017-Feb-25
+:END:
+
+
+** I know Reddit & Discord were affected but I didn't know fanfiction sites were too.
+:PROPERTIES:
+:Author: Lautael
+:Score: 1
+:DateUnix: 1487946034.0
+:DateShort: 2017-Feb-24
+:END:
+
+*** Reddit is not affected
+:PROPERTIES:
+:Author: Wirenfeldt
+:Score: 3
+:DateUnix: 1487950586.0
+:DateShort: 2017-Feb-24
+:END:
+
+**** Are you sure? I've been hearing about Discord /and/ Reddit getting effected.
+:PROPERTIES:
+:Author: Skeletickles
+:Score: 1
+:DateUnix: 1487964743.0
+:DateShort: 2017-Feb-24
+:END:
+
+***** Reddit /did/ use cloudflare but have not in a while and is therefore not affected, or so i was told
+:PROPERTIES:
+:Author: Wirenfeldt
+:Score: 1
+:DateUnix: 1487973709.0
+:DateShort: 2017-Feb-25
+:END:
+
+
+*** I'm not sure, that's why I ask.
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 1
+:DateUnix: 1487946123.0
+:DateShort: 2017-Feb-24
+:END:
+
+
+*** From what I've read so far (which is, admittedly, not much) is that Reddit used to be on Cloudflare but switched shortly before the bug appeared -- so that might be where that info is coming from. (Could change with more info in the future, though.)
+
+[[https://www.reddit.com/r/sysadmin/comments/5vu3yn/cloudbleed_seceurity_bug_cloudflare_reverse/de5g8n8/][Relevant post/thread here]]
+
+It's good policy to change up passwords every once in a while anyway, though, so if anyone feels the need, I wouldn't blame them.
+:PROPERTIES:
+:Author: mistermisstep
+:Score: 1
+:DateUnix: 1487969769.0
+:DateShort: 2017-Feb-25
+:END:
+
+
+** SufficientVelocity, SpaceBattles.
+:PROPERTIES:
+:Author: richardwhereat
+:Score: 1
+:DateUnix: 1487946652.0
+:DateShort: 2017-Feb-24
+:END:
+
+*** I forget which is which, but one is affected and the other isn't
+:PROPERTIES:
+:Author: sephirothrr
+:Score: 1
+:DateUnix: 1487952332.0
+:DateShort: 2017-Feb-24
+:END:
+
+**** SufficientVelocity is. SpaceBattles isn't.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1487961028.0
+:DateShort: 2017-Feb-24
+:END:
+
+
+** Even if there were leaks on fanfiction sites.. It matters... Why?
+:PROPERTIES:
+:Score: -4
+:DateUnix: 1487954768.0
+:DateShort: 2017-Feb-24
+:END:
+
+*** Because they could have your account information and do some fuckery with it.
+
+It wouldn't be actually damaging, but if one simple change of passwords could solve the problem... why not do it?
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 6
+:DateUnix: 1487955462.0
+:DateShort: 2017-Feb-24
+:END:
+
+**** Yes, because hackers want my ffnet account which will make them no money whatsoever.
+:PROPERTIES:
+:Score: -2
+:DateUnix: 1487955859.0
+:DateShort: 2017-Feb-24
+:END:
+
+***** but, if password data was in the leak (sources disagree on whether or not this is the case) and you used the same passwords on other sites, then those other potentially more important sites might be at risk
+:PROPERTIES:
+:Author: sephirothrr
+:Score: 13
+:DateUnix: 1487958304.0
+:DateShort: 2017-Feb-24
+:END:
+
+
+***** Just because we as writers aren't ethically willing to profit off of fanfics doesn't mean that someone else who is scummy enough can't find a way.
+
+Its all the more easy in your case, since your stories have tens of thousands of people regularly reading. All they have to do is put a link to a money donating website with a good enough sob story at the end of each of your chapters, and they'd make more than enough with little to no effort.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1487962744.0
+:DateShort: 2017-Feb-24
+:END:
+
+****** They're unlikely to do something like that.
+
+Instead they're going to use your e-mail and password to try to log into things like say, Amazon, or major banks or other websites with a purchase component to get credit card information or the like.
+
+As an above poster says, a lot of people only use one e-mail and password for everything. They can do something as simple as see what the e-mail/password are on fanfiction.net and then try to say, log into the e-mail with the same password and look for information there. Or try to log into say, netflix, and pull credit card information and address information from there.
+:PROPERTIES:
+:Author: TE7
+:Score: 6
+:DateUnix: 1487963903.0
+:DateShort: 2017-Feb-24
+:END:
+
+
+****** Baseless fearmongering
+:PROPERTIES:
+:Score: -1
+:DateUnix: 1487968076.0
+:DateShort: 2017-Feb-24
+:END:
+
+******* You say that, but I look at the dozens of writers who use Patreon and Gofundme links at the end of their stories to illegaly get a couple of hundred bucks off of people who read their stuff and I can't help but think what would happen if someone hacked in and changed those links or added one. Hackers have hacked shit for /way/ less than a 100 bucks before.
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1487985938.0
+:DateShort: 2017-Feb-25
+:END:
+
+
+*** Do you use the same password on FF.net as you do elsewhere?
+
+If so, then yes, it matters. If not, good for you.
+:PROPERTIES:
+:Author: tloyc2015
+:Score: 3
+:DateUnix: 1487974974.0
+:DateShort: 2017-Feb-25
+:END:

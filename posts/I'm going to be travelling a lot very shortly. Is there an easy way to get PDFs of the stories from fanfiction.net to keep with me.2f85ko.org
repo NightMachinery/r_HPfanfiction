@@ -1,0 +1,192 @@
+#+TITLE: I'm going to be travelling a lot very shortly. Is there an easy way to get PDFs of the stories from fanfiction.net to keep with me?
+
+* I'm going to be travelling a lot very shortly. Is there an easy way to get PDFs of the stories from fanfiction.net to keep with me?
+:PROPERTIES:
+:Author: GrinningJest3r
+:Score: 9
+:DateUnix: 1409627519.0
+:DateShort: 2014-Sep-02
+:FlairText: Misc
+:END:
+
+** [[http://fanfictiondownloader.net/][FanfictionDownloader]] is a program written specifically with your desire in mind.
+:PROPERTIES:
+:Author: shAdOwArt
+:Score: 9
+:DateUnix: 1409657469.0
+:DateShort: 2014-Sep-02
+:END:
+
+*** Does this give you any viruses? Just wondering because while this would be awesome I don't want to accidentally download a virus.
+:PROPERTIES:
+:Author: BadWolf100
+:Score: 2
+:DateUnix: 1409713424.0
+:DateShort: 2014-Sep-03
+:END:
+
+**** I've been using it for years with no issues.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1409904353.0
+:DateShort: 2014-Sep-05
+:END:
+
+
+**** I've been using it for ages and scanned the program with my Kaspersky anti-virus multiple times. It's seems completely safe.
+:PROPERTIES:
+:Author: Ch1pp
+:Score: 2
+:DateUnix: 1410096471.0
+:DateShort: 2014-Sep-07
+:END:
+
+***** Thanks!
+:PROPERTIES:
+:Author: BadWolf100
+:Score: 1
+:DateUnix: 1410102228.0
+:DateShort: 2014-Sep-07
+:END:
+
+
+*** HAAALELLUJIA!! don't download that it looks really shady guys!
+:PROPERTIES:
+:Author: bassabassa
+:Score: 1
+:DateUnix: 1410443213.0
+:DateShort: 2014-Sep-11
+:END:
+
+
+*** Wait, dude. I just clicked on that, it might be the sketchiest thing I have ever seen. seriously no one download that.
+:PROPERTIES:
+:Author: bassabassa
+:Score: 1
+:DateUnix: 1410443329.0
+:DateShort: 2014-Sep-11
+:END:
+
+
+** You can use [[http://calibre-ebook.com][calibre]] with the fanfictiondownloader plugin to accomplish this. It downloads in epub or mobi, and calibre can convert to pdf if you like.
+:PROPERTIES:
+:Author: duriel
+:Score: 7
+:DateUnix: 1409630324.0
+:DateShort: 2014-Sep-02
+:END:
+
+*** Awesome! I've got nearly 100 different stories in a bookmarks folder labeled as "To Read" so hopefully that should hold me over until I get back to the land of the internet.
+:PROPERTIES:
+:Author: GrinningJest3r
+:Score: 2
+:DateUnix: 1409630403.0
+:DateShort: 2014-Sep-02
+:END:
+
+**** I use it to grab stories for transfer to my kindle; it works like a champ. Have fun traveling!
+:PROPERTIES:
+:Author: duriel
+:Score: 2
+:DateUnix: 1409630801.0
+:DateShort: 2014-Sep-02
+:END:
+
+
+*** Does that actually work in any reasonable amount of time for you? I tried it, but it took about a minute per chapter for me. If I want to update, say, /Prince of the Dark Kingdom/, it takes me so long it's not worth bothering with. In that time, I could pretty much download it manually and massage it into an epub by hand.
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1409694954.0
+:DateShort: 2014-Sep-03
+:END:
+
+**** The plugin just scans all chapters and archives them into a single file for me. Takes a few minutes for very large fanfics, but not very long at all. Are you having to enter these chapter by chapter?
+:PROPERTIES:
+:Author: duriel
+:Score: 2
+:DateUnix: 1409697802.0
+:DateShort: 2014-Sep-03
+:END:
+
+
+** I usually use [[http://ficsave.com][ficsave]]
+
+edit: +Ah, the PDF generation's been temporarily disabled due to memory problems, still good for ePub and MOBI though.+
+
+It's back :)
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1409690322.0
+:DateShort: 2014-Sep-03
+:END:
+
+
+** A simpler method from what has been suggested: Open the mobile version of each story, copy/paste into your word processing program of choice, then print with CutePDF, or equivalent program.
+:PROPERTIES:
+:Author: d3jake
+:Score: 1
+:DateUnix: 1409660717.0
+:DateShort: 2014-Sep-02
+:END:
+
+*** The only trouble is that fanfiction.net disabled copy/paste functionality on its stories a while back. You'd need to do a bit more work to get around the limitation.
+:PROPERTIES:
+:Author: duriel
+:Score: 1
+:DateUnix: 1409688457.0
+:DateShort: 2014-Sep-03
+:END:
+
+**** u/deleted:
+#+begin_quote
+  Mobile version of each stories
+#+end_quote
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1409718426.0
+:DateShort: 2014-Sep-03
+:END:
+
+***** Ah, my apologies. Nevertheless, I think that an automated process like that available in calibre would be more useful for the OP's situation with a fair number of stories.
+:PROPERTIES:
+:Author: duriel
+:Score: 1
+:DateUnix: 1409718522.0
+:DateShort: 2014-Sep-03
+:END:
+
+
+**** If you open the mobile version of the story, then you can copy it.
+:PROPERTIES:
+:Author: d3jake
+:Score: 1
+:DateUnix: 1409746666.0
+:DateShort: 2014-Sep-03
+:END:
+
+
+**** It's very easy to get around that with a browser plugin.
+:PROPERTIES:
+:Author: Imborednow
+:Score: 1
+:DateUnix: 1409864773.0
+:DateShort: 2014-Sep-05
+:END:
+
+
+** For mobile devices (Android anyways, not sure about other platforms), I use an app called ReadUp. Lets you download the stories for offline reading and keeps track of your progress in each story. Also lets you check for updates for all your stories at the same time. I'm a little choked with the developers since they kind of screwed over anyone who bought their old app, but its still a wicked program.
+:PROPERTIES:
+:Author: uzi88
+:Score: 1
+:DateUnix: 1409678241.0
+:DateShort: 2014-Sep-02
+:END:
+
+
+** I use an app called fanfiction reader.
+:PROPERTIES:
+:Author: Feldew
+:Score: 1
+:DateUnix: 1410153266.0
+:DateShort: 2014-Sep-08
+:END:

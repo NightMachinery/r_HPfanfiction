@@ -1,0 +1,274 @@
+#+TITLE: HPFanfiction Recommender - Tool / Website
+
+* HPFanfiction Recommender - Tool / Website
+:PROPERTIES:
+:Author: dJones176
+:Score: 170
+:DateUnix: 1562602141.0
+:DateShort: 2019-Jul-08
+:FlairText: Misc
+:END:
+Hey guys,
+
+I just made this [[https://hpffrec.hackesta.org/]]
+
+A website which has a record of over 70k+ fanfic recommendations done in this subreddit.
+
+As of now, it has the following categories:
+
+- Latest (1000 recommendations)
+- Stories
+
+  - This Week (TOP 100)
+  - This Month (TOP 100 )
+  - This Year (TOP 100 )
+  - All Time (TOP 100 )
+
+- Authors
+
+  - This Week (TOP 100)
+  - This Month (TOP 100 )
+  - This Year (TOP 100 )
+  - All Time (TOP 100 )
+
+​
+
+Metadata such as fic length, genre, status etc isn't available right now, but I am planning on adding them soon. (I am still deciding on the best way to get that)
+
+​
+
+I am hoping to get a script running on a server within a few days that will update this site once a day.
+
+​
+
+I know it's missing a lot of desirable stuff but you should suggest more anyways.
+
+​
+
+Is there any other subreddit that I should cross-post this to?
+
+*Edit 10/7/2019* I have added metadata for most of the stories. It will get refreshed on every site update. The data is from [[/u/FanfictionBot][u/FanfictionBot]] comments, so a story will only get refreshed if it's linked. The front-end needs some work on design, especially on mobile, but it should work
+
+I am planning on adding some sort of filter mechanism next.
+
+*Edit 11/7/2019* I have added some basic filters (words, genre, rating and status). Also, to accommodate the reduced number of stories due to filtering and requests by some users, I have also increased the number of stories from 100 to 1000. Also, there is a new update section which will list all new stuff (a formalish version of my edits on this post)
+
+P.S: Should I make a new post to inform everyone of the new stuff? Can I do that? MODS??
+
+Keep supporting and sharing, thanks
+
+
+** If you can make it mobile friendly that'd be great
+:PROPERTIES:
+:Author: MijitaBonita
+:Score: 30
+:DateUnix: 1562607294.0
+:DateShort: 2019-Jul-08
+:END:
+
+*** Yeah definitely
+:PROPERTIES:
+:Author: dJones176
+:Score: 13
+:DateUnix: 1562607596.0
+:DateShort: 2019-Jul-08
+:END:
+
+
+** I'm higher than Joe and Taure in the list of all time recc'd authors. I can die happy.
+:PROPERTIES:
+:Author: enembee
+:Score: 24
+:DateUnix: 1562609857.0
+:DateShort: 2019-Jul-08
+:END:
+
+*** That's awesome!! What was it that you wrote?
+:PROPERTIES:
+:Author: Skeletickles
+:Score: 4
+:DateUnix: 1562632253.0
+:DateShort: 2019-Jul-09
+:END:
+
+**** Harry Potter and the Forests of Valbone I think is the one.
+:PROPERTIES:
+:Author: SilverSlothmaster
+:Score: 1
+:DateUnix: 1562779838.0
+:DateShort: 2019-Jul-10
+:END:
+
+
+** Very nice! I see there is a public github repo for the site but no license. Are you planning to opensource the project?
+:PROPERTIES:
+:Author: itwarrior
+:Score: 9
+:DateUnix: 1562608488.0
+:DateShort: 2019-Jul-08
+:END:
+
+*** The GitHub repo is just the front-end. I have a script that does the real job that I haven't uploaded yet. I might upload it completely, or write about how it works in a blog post
+:PROPERTIES:
+:Author: dJones176
+:Score: 6
+:DateUnix: 1562608976.0
+:DateShort: 2019-Jul-08
+:END:
+
+
+** Wow, thanks! This is very useful, indeed.
+:PROPERTIES:
+:Author: turtle-ducky
+:Score: 9
+:DateUnix: 1562602701.0
+:DateShort: 2019-Jul-08
+:END:
+
+
+** This is great! Just one note, do you think you can increase the size of the list that shows on each page?
+:PROPERTIES:
+:Author: ChampionOfChaos
+:Score: 3
+:DateUnix: 1562610332.0
+:DateShort: 2019-Jul-08
+:END:
+
+*** Sure, I will add an option somewhere
+:PROPERTIES:
+:Author: dJones176
+:Score: 1
+:DateUnix: 1562628423.0
+:DateShort: 2019-Jul-09
+:END:
+
+
+*** I have added a few options below the table
+:PROPERTIES:
+:Author: dJones176
+:Score: 1
+:DateUnix: 1562661521.0
+:DateShort: 2019-Jul-09
+:END:
+
+
+** Congratulations [[/u/Starfox5][u/Starfox5]], you fully deserved #1! Not everyone can write over a dozen high quality fics!
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 12
+:DateUnix: 1562602503.0
+:DateShort: 2019-Jul-08
+:END:
+
+
+** I think I'm in love. This is amazing.
+:PROPERTIES:
+:Author: funstm
+:Score: 1
+:DateUnix: 1562610955.0
+:DateShort: 2019-Jul-08
+:END:
+
+
+** This is amazing!
+:PROPERTIES:
+:Author: StoneTheLoner
+:Score: 1
+:DateUnix: 1562617019.0
+:DateShort: 2019-Jul-09
+:END:
+
+
+** So many fics to read... I'm salivating.
+:PROPERTIES:
+:Author: TheFeistyRogue
+:Score: 1
+:DateUnix: 1562620337.0
+:DateShort: 2019-Jul-09
+:END:
+
+
+** Awesome! Thank you!
+:PROPERTIES:
+:Author: thefrankiedeee
+:Score: 1
+:DateUnix: 1562634435.0
+:DateShort: 2019-Jul-09
+:END:
+
+
+** 1. This should be pinned
+2. Add genre metadata because I gotta find more crackfics
+3. HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+:PROPERTIES:
+:Author: ThePurityofChaos
+:Score: 1
+:DateUnix: 1562651113.0
+:DateShort: 2019-Jul-09
+:END:
+
+*** 1. Yes Please
+
+2. I am currently working on auto refreshing it atleast once a day, but I am going to be working on more data soon
+
+3. HHHHHHHHHHHHHHH
+:PROPERTIES:
+:Author: dJones176
+:Score: 1
+:DateUnix: 1562655329.0
+:DateShort: 2019-Jul-09
+:END:
+
+
+*** I have added the metadata. It's not available for every story, only for around 56%.
+:PROPERTIES:
+:Author: dJones176
+:Score: 1
+:DateUnix: 1562776493.0
+:DateShort: 2019-Jul-10
+:END:
+
+
+** This is pretty cool. It's interesting to scroll through some of the top 100 listings and realize: "hey I haven't seen that one recommended in awhile." or "WTF is this?! I've never even heard of it!" because it used to be popular to rec but not anymore.
+
+Thanks [[/u/dJones176][u/dJones176]] :) !
+:PROPERTIES:
+:Author: Efficient_Assistant
+:Score: 1
+:DateUnix: 1562727381.0
+:DateShort: 2019-Jul-10
+:END:
+
+*** Your welcome
+:PROPERTIES:
+:Author: dJones176
+:Score: 1
+:DateUnix: 1562730985.0
+:DateShort: 2019-Jul-10
+:END:
+
+
+** I love this site, but could you increase the number of results from 100, especially for the top of all time?
+:PROPERTIES:
+:Author: mikaellee
+:Score: 1
+:DateUnix: 1562820345.0
+:DateShort: 2019-Jul-11
+:END:
+
+*** Sure, I was already planning to do it. :)
+:PROPERTIES:
+:Author: dJones176
+:Score: 1
+:DateUnix: 1562831304.0
+:DateShort: 2019-Jul-11
+:END:
+
+
+*** It's done. Check the website, and the edits for details
+:PROPERTIES:
+:Author: dJones176
+:Score: 1
+:DateUnix: 1562862970.0
+:DateShort: 2019-Jul-11
+:END:

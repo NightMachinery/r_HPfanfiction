@@ -1,0 +1,355 @@
+#+TITLE: Creating new magic in the HP world and working with canon magic in new ways...
+
+* Creating new magic in the HP world and working with canon magic in new ways...
+:PROPERTIES:
+:Author: Sigyn99
+:Score: 12
+:DateUnix: 1521176855.0
+:DateShort: 2018-Mar-16
+:FlairText: Discussion
+:END:
+Pretty much just what the title says. I wanna start a discussion about creating new magic and methods - spells, potions, etc. - and expanding on, working with, and working against magic that exists in canon, (the Dark Mark, for example). I'm especially interested in other authors' thoughts and experiences. How much detail would you go into to plan things? Do you tend to just use canon stuff and if so, do you research it and try to break it down to understand how it works?
+
+Personally, I will always discuss new ‘inventions' with my editor and we often spend days just going through it with a fine-toothed comb, as they say, and nutting it out so we both understand how everything works. This becomes an especially lengthy process if it's something one of my characters is going to talk about with another character. We also do this to some extent with wands, be it in the process of creating a character or giving a character a second wand - for potion making, duelling, transfiguration, etc. I also tend to avoid using complex canon stuff like the platform 9 3/4 portal magic simply because I want to understand what I use.
+
+So.. yeah... discuss!
+
+Edit: This has stemmed from someone asking to borrow my plot and completely massacring it and my OCs with what appears to be ill-considered, random bits of magic and just general weirdness..
+
+
+** I don't use any particular method to come up with magic. Indeed, I feel like using a method would result in magic that was too formulaic. However, when a potential new piece of magic into my mind (whether a magical law, or a piece of theory, or a spell) there are certain factors I will judge it against to decide as to whether it will make the cut:
+
+*The negative factors*
+
+1. Would this addition make canon events difficult to explain? If so, discard it.
+
+2. Would this addition give Muggles/technology an ability to overcome, circumvent, nullify, or acquire magic? If so, discard it.
+
+3. Does this addition treat magic as energy, or otherwise some kind of depletable "fuel"? If so, discard it.
+
+4. Does this addition use or otherwise call upon (including by analogy or similarity) mathematical or scientific concepts, such as mathematical formulae, units of measurement, or the modern understanding of chemical elements? If so, discard it.
+
+5. Does this addition treat Transfiguration as a tactile illusion with the original object "underneath", or otherwise temporary? If so, discard it.
+
+6. Would this addition make it difficult to establish conflict later in the story, because it would raise the question "why don't they just use X?" If so, discard it.
+
+7. Does this addition significantly reduce the importance of wands? If so, discard it.
+
+8. Does this addition have a large area of effect? If so, seriously reconsider its inclusion.
+
+9. If a spell, is the incantation longer than two words? If so, come up with a better incantation.
+
+*The positive factors*
+
+1. Does this addition treat abstract and human-created concepts as real? If so, a point in its favour.
+
+2. Does this addition act through an indirect medium rather than producing a direct result? (E.g. conjuring fire vs heating charm) If so, a point in its favour.
+
+3. Does this addition contribute to the feeling that magic is difficult and complex, requiring study and intellect to understand, without calling on scientific concepts? If so, a point in its favour.
+
+4. Does this addition, if intended to be an item of "deep magic", contribute to the feeling that magic is arcane/mysical rather than mechanical in nature? If so, a point in its favour.
+
+5. If a spell, is the incantation a single word? If so, a point in its favour.
+
+6. Does this addition incorporate some element of real world folklore? If so, a point in its favour.
+:PROPERTIES:
+:Author: Taure
+:Score: 14
+:DateUnix: 1521189435.0
+:DateShort: 2018-Mar-16
+:END:
+
+*** A lot of these are good, but some are baffling. For one, in canon magic is formulaic. To put things in a curriculum, they kind of have to be such.
+
+But more than that, # 4 in your negatives list is contrary to canon. Unless I'm much mistaken, there are mathematical formulae used in Transfiguration. The variables include things like "wand power", which dovetails nicely with my next bit.
+
+#3 is both very understandable in one way and silly in another way. Magical cores are a dumb idea, but that's aside, even in canon magic is some kind of energy, and it's even measurable. When they go to find the Locket Horcrux, we are told one of Voldemort's defenses involves a boat which requires a high level of Magical power for the boat to register the occupant and move. This means that on some level, magical power can be measured. And even earlier this is hinted at with the Killing Curse, where Crouch says that 4th year students lack sufficient magical power do perform the curse. Magic can be measured in some ways without that implying it's depletable.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 5
+:DateUnix: 1521206409.0
+:DateShort: 2018-Mar-16
+:END:
+
+**** u/Taure:
+#+begin_quote
+  For one, in canon magic is formulaic. To put things in a curriculum, they kind of have to be such.
+#+end_quote
+
+No they don't. Is literature formulaic? Is art? Is philosophy? All a curriculum requires is knowledge, not formulaic knowledge.
+
+For clarity, definition of "formulaic" - produced in accordance with a mechanically followed rule or style.
+
+#+begin_quote
+  But more than that, # 4 in your negatives list is contrary to canon. Unless I'm much mistaken, there are mathematical formulae used in Transfiguration. The variables include things like "wand power", which dovetails nicely with my next bit.
+#+end_quote
+
+You are much mistaken. There is not a single mathematical formula in the books - neither shown nor even mentioned by reference.
+
+#+begin_quote
+  Magical cores are a dumb idea, but that's aside, even in canon magic is some kind of energy, and it's even measurable. When they go to find the Locket Horcrux, we are told one of Voldemort's defenses involves a boat which requires a high level of Magical power for the boat to register the occupant and move. This means that on some level, magical power can be measured. And even earlier this is hinted at with the Killing Curse, where Crouch says that 4th year students lack sufficient magical power do perform the curse. Magic can be measured in some ways without that implying it's depletable.
+#+end_quote
+
+This is two points, so far as I can see:
+
+1. The argument that in canon, magic is measurable.
+
+2. The argument that if magic is measurable, it must be some kind of energy.
+
+You put forward two arguments in support of the former (HBP cave and GoF statement regarding the Killing Curse) and, so far as I can see, no arguments in favour of the latter. I will therefore ignore number 2 and address number 1.
+
+*The Cave*
+
+This is a well trodden path - we have discussed the matter in this sub quite a few times. Nonetheless I shall summarise the position for you.
+
+The rebuttal has two parts:
+
+Firstly, that you're fundamentally misreading the scene in question - in fact the only thing the boat measures is whether or not it has more than one adult in it, which Dumbledore just so happened to express as "amount of magic".
+
+Secondly, that even if the boat did look at "magical power", this does not mean that this is a singular measurable property (and indeed, the rest of canon would indicate that it is not).
+
+So, to part one. Here's the HBP quote in question:
+
+#+begin_quote
+  Dumbledore chuckled. “Voldemort will not have cared about the weight, but about the *amount of magical power* that crossed his lake. I rather think an enchantment will have been placed upon this boat *so that only one wizard at a time* will be able to sail in it.”
+
+  “But then ---?”
+
+  “*I do not think you will count, Harry: You are underage and unqualified.* Voldemort would never have expected a sixteen-year-old to reach this place: I think it unlikely that your powers will register compared to mine.”
+#+end_quote
+
+So, yes, Dumbledore refers to "amount of magical power", but he immediately explains that all it does is measure the number of wizards in the boat and only allows one to pass. Upon Harry's objection, he then explains that it will only measure adult wizards. This is not the only example of a child's magic being fundamentally different from an adult's in nature - we know that the Trace breaks automatically when you reach the age of 17, without having to be removed. Magic itself recognizes the age of 17 as adulthood. Also see below re: Killing Curse.
+
+That alone is enough to refute the point, but I will briefly expand on part two of the rebuttal, because it touches upon broader themes about HP magic.
+
+It is without a doubt that magical power is a thing in HP canon. It is also without a doubt that certain people can be described as more powerful than others. However, this does not require magical power to be a simple, monopolar predicate. Indeed such a thing would be odd, in the face of the rest of the magic system.
+
+It is difficult to summarise this point, given that the [[https://docs.google.com/document/d/1VOF1eu_B7qpTeTUykW5ZGK2HJmVAG5WouY71a5AiRPo/edit?usp=sharing][full argument]] runs to over 6000 words. I will nonetheless try.
+
+In answering the question "what is magical power", it is worth classifying the expression of a magic into two components: active and passive. Active components are those which you perform at the time of casting the spell: the incantation (verbal or not), the wand movements (though these can apparently be dispensed with by advanced users), and for some spells, a particular mental performance (happy thought, sadistic pleasure). The passive element is what we might describe as magical power: the long-term characteristics of a person which "backs up" the success and strength of their spellcasting, without them having to actually actively engage with those characteristics during the spellcasting.
+
+From canon, we can identify certain passive elements i.e. the components of magical power. The most obvious are (a) understanding of how magic works (all the most powerful wizards are noted for their academic brilliance, and Hermione is able to learn spells quickly and cast more advanced spells because she has studied them) (b) strength of will/focus (c) emotional state (d) practice - overlaps with understanding (e) everything else!
+
+The catch-all "everything else" is there because it seems that one's entire character impacts one's magic. We know, for example, that certain people have certain predispositions towards certain areas of magic. We know this because wands are matched to people, and wands have predispositions. We also see it in practice: Lockhart is very good at Memory Charms and not much else, Neville is much better at Charms than Transfiguration, Harry is particularly talented at Defence, and so on. But we also know these are not fixed, innate predispositions - Neville goes from being terrible at Defence to being rather good at it. So what is determining these predispositions? Presumably the same complex interplay of innate and environmental factors which determines talents in real life.
+
+The "everything else" is also intended to catch the indefinable sense in which some people are simply more magical than others - in their instincts, their mindset, their world view. Some characters like Tom Riddle and Lily Potter learn to use magic all on their own, simply through instinct.
+
+So we should be able to see quite clearly from this that, just because we can say "Dumbledore is more powerful than Neville", it does not mean that magical power is measurable. This is because:
+
+1. Magical power is a complex interplay of many factors and potentially spans a person's entire character. You can no more measure magical power than you could measure a person's personality.
+
+2. Magical power varies by context. In a contest of casting Memory Charms, you'd think Lockhart was an extremely powerful wizard. But he's useless at everything else. So magical power is multi-polar, not a simple predicate. This is perhaps why wizards so frequently describe themselves as having "powers" rather than "power".
+
+3. Magical power varies by time. Though the passive elements of spellcasting are indeed long-term factors, they are not immutable. We see characters become stronger in power - Neville is the prime example, but so is Merope Gaunt after she gets out from her family. We also see wizards go in the opposite direction - in HBP, Tonks loses her transformation powers due to her emotional state (depression).
+
+The closest thing to a measurement of magical power we see in canon is not the boat in HBP, but rather the Goblet of Fire, which judges a person in their entirety and decides upon their capability in general.
+
+*Moody on the Killing Curse*
+
+Again, the rebuttal to this has two parts. They're quite similar.
+
+The first and primary rebuttal is as above, which I won't repeat - that the existence of magical power does not entail the ability to measure it.
+
+The second (but unnecessary) rebuttal is that in any case, what Moody is talking about here is again being an adult. This is a fairly simple piece of logic as follows:
+
+In DH, Vincent Crabbe successfully casts the Killing Curse.
+
+Vincent Crabbe is not a particularly powerful wizard.
+
+The Defence class in GoF contains a number of individuals whose magical power, as of DH, most definitely exceeds that of Vincent Crabbe (including Harry, Ron and Hermione).
+
+Nonetheless, Moody is convinced that no one in the class would be able to successfully cast the curse, regardless of individual power variations.
+
+Therefore a common trait which the Defence class all had was an overwhelming factor in their lack of power which justified ignoring individual power variation and declare the entire class as incapable, which included people who definitely had the power to cast it later in life.
+
+The only plausible common characteristic is the characters' age - the fact that they are teenagers, not adult wizards. This ties in again with the above point about the magic of children being different to that of adults.
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1521228507.0
+:DateShort: 2018-Mar-16
+:END:
+
+***** Your response was rather long and thorough, so I tried to respond in kind (sorry for the length).
+
+#+begin_quote
+  No they don't. Is literature formulaic? Is art? Is philosophy? All a curriculum requires is knowledge, not formulaic knowledge.
+
+  For clarity, definition of "formulaic" - produced in accordance with a mechanically followed rule or style.
+#+end_quote
+
+The definition is fine. You do rather learn to follow certain styles and rules in art. There's an odd misconception that art is, to put it one one, the expression of unbounded, novel creativity. But that's not really how artists (I'll just lump literature in with this point to save space) go about it because it tends to stall work even longer than usual. Artists have rules and styles they follow, both from what they were taught and from what they've grown accustomed to from prior experience. In many ways, that's exactly why people who have the requisite training can tell when some piece of art is (likely to be) a genuine example of a particular artist's work. Heck, recently A.I. has managed to produce a painting that [[https://www.npr.org/sections/alltechconsidered/2016/04/06/473265273/a-new-rembrandt-from-the-frontiers-of-ai-and-not-the-artists-atelier][looked like a genuine Rembrandt painting]], and I would posit that alone shows that art can be, and often is, formulaic. Chomsky had a good bit on this as well, but I can't recall the video at the moment.
+
+Philosophy isn't any different here (I have studied a decent amount of it, though I tend to study and read philosophy of mathematics and philosophy of logic, just to out my biases out there). Philosophy students are most often taught the received views on what certain prominent philosophers believed and what they argued, and the way their interlocutors went about responding to those arguments. And the work they produce (even by professional philosophers) can be rather formulaic. Philosopher X will make an argument, Philosopher Y will respond in some way to rebut them (usually by calling on a counter-example to show the flaws in X's view) and thereby the process repeats in this back and forth, predictable way. I mean, it's so predictable (read: mechanical) that I know of [[https://www.routledge.com/Pseudo-Problems-How-Analytic-Philosophy-Gets-Done/Sorensen/p/book/9780203048689][at least one book]] written by a professional philosopher on the issues with the discipline on this basis. Again, I think that shows that philosophy is often formulaic as well, even if you ignore purely formal disciplines like mathematical logic.
+
+#+begin_quote
+  You are much mistaken. There is not a single mathematical formula in the books - neither shown nor even mentioned by reference.
+#+end_quote
+
+Apologies, this was in the PS film (although there's a quote from JKR on Accio Quote which specifically says that Transfiguration is "more scientific" (not direct evidence, I grant).
+
+#+begin_quote
+  You put forward two arguments in support of the former (HBP cave and GoF statement regarding the Killing Curse) and, so far as I can see, no arguments in favour of the latter. I will therefore ignore number 2 and address number 1.
+#+end_quote
+
+Well, doing work requires having energy. Ergo, given magic does work, it must be a form of energy.
+
+#+begin_quote
+  Secondly, that even if the boat did look at "magical power", this does not mean that this is a singular measurable property (and indeed, the rest of canon would indicate that it is not).
+#+end_quote
+
+Well it's a good thing I didn't argue that, now isn't it? I said that magical power is "on some level is measurable", not that it was one particular property, just that it can be measured in some way that allows characters to refer to it as coming in amounts.
+
+But this next bit is somewhat confusing:
+
+#+begin_quote
+  but he immediately explains that all it does is measure the number of wizards in the boat and only allows one to pass. Upon Harry's objection, he then explains that it will only measure adult wizards [..] That alone is enough to refute the point,
+#+end_quote
+
+This is wrong, just look at what you quoted. Dumbledore said that Voldemort would not have considered looking at the magical power of underaged wizards, but rather to look at how powerful the single (and presumably) /adult/ wizard was. Nothing about that quote even comes close to refuting this issue. The fact that it is referred to as being an "amount" means (by definition) that it is something that can be assigned a number to indicate it's size.
+
+#+begin_quote
+  However, this does not require magical power to be a simple, monopolar predicate. Indeed such a thing would be odd, in the face of the rest of the magic system.
+#+end_quote
+
+I did not say this. I said that, per Dumbledore and Crouch, magic (or magic power anyway) is measurable, not that there is a single property "magical power". It might be determined by a number of other properties in some manner, for all I know.
+
+#+begin_quote
+  Magical power varies by context. In a contest of casting Memory Charms, you'd think Lockhart was an extremely powerful wizard. But he's useless at everything else. So magical power is multi-polar, not a simple predicate.
+#+end_quote
+
+Again, not what I said (I agree with your point 1, basically). But the Lockhart example seems besides the point. Lockhart has practiced the Memory Charm quite a lot, so it's no mystery why he can manage them better than other spells (where he's hopeless).
+
+#+begin_quote
+  Magical power varies by time
+#+end_quote
+
+I don't see how this supports your point anymore than mine. This seems as self-defeating as saying "Bone density weakens with age entails bone density is not measurable". If magical power varies by time... how does that work in favor of your view?
+
+#+begin_quote
+  that the existence of magical power does not entail the ability to measure it.
+#+end_quote
+
+It does. To say something is measurable (or as Dumbledore said, to refer to it as coming in "amounts") entails that there is (for want of a better term) a size to magical power. Things with size are definitionally numeric, even if one were talking about infinite sizes.
+
+#+begin_quote
+  In DH, Vincent Crabbe successfully casts the Killing Curse. Vincent Crabbe is not a particularly powerful wizard. The Defence class in GoF contains a number of individuals whose magical power, as of DH
+#+end_quote
+
+I don't know what you were trying to say here. I agree that Crabbe was not particularly powerful, but as you note he wasn't confirmed to be capable of it until DH... when he was an adult. The Crouch point was in GoF, where Crouch says they all lack sufficient magic power, meaning that power increases over time. In fact, this works against your point twice over. You already agreed that magical power varies by age, it's not fixed (I agreed with this). And to increase requires there to be an amount of something whose size grows beyond what is what before, to have a higher cardinality. Crouch says that no one in the class has a high enough "powerful bit of magic" to perform it. So this seems to entail that magical power is variable over time (and salient to the Crouch case) increases to the point that even Crabbe could perform the Killing Curse by adulthood. Therefore magical power is measurable, in whatever form that may be. I never hung my hat on the idea that it was a singular, immutable property that wizards have. That's straightforwardly false (as per Crouch) and it doesn't seem to favor my view over yours, nor vice versa.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 3
+:DateUnix: 1521239407.0
+:DateShort: 2018-Mar-17
+:END:
+
+
+*** This is thorough and interesting, but why are you so consistently against any treatment of magic as energy? I write it as such, but /not/ depletable, and I have a coherent system and all that fits with canon. It's possible, for all that your concept-based headcanon works. Also:
+
+#+begin_quote
+  If a spell, is the incantation longer than two words? If so, come up with a better incantation.
+#+end_quote
+
+Again, this hinges on how your magic system works, but in mine and a few other stories I've read's, long incantations do exist, they're just impractical and looked down upon. One or two-words incantations are the golden standard that professional-grade spellcrafters try to reach, but a short number of syllables and wand motion rythm require a lot of designwork to get an effect --- the more complex the effect, the harder reducing it to two words get. So when a gifted-but-beginner like Hermione tries her hand at spellcrafting, for anything more complicated than the really basic /Point Me/ of canon, I'd have her struggle to keep her incantation under ten words with a lot of complicated wand-twirls, whereas if Dumbledore or Snape had a day or two to design a new hex, they could do a neat little incantation like /Sectumsempra/ for even a relatively complex effect.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 3
+:DateUnix: 1521201673.0
+:DateShort: 2018-Mar-16
+:END:
+
+**** u/Taure:
+#+begin_quote
+  This is thorough and interesting, but why are you so consistently against any treatment of magic as energy? I write it as such, but not depletable, and I have a coherent system and all that fits with canon. It's possible, for all that your concept-based headcanon works
+#+end_quote
+
+I think we both know that, for all that you maintain that your system of magic is canonical, it is absolutely not the way JKR intends HP magic to be seen nor thinks about magic.
+
+For the sake of avoiding tangential arguments, I will stipulate (without admission) that your magical system avoids factual contradiction with canonical events. However, even in that situation, I think you would have to be delusional to believe that the quasi-scientific, numerically consistent and mechanical system you promote is anything near in keeping with the themes and tone of the canonical system, or how JKR views it.
+:PROPERTIES:
+:Author: Taure
+:Score: 4
+:DateUnix: 1521229554.0
+:DateShort: 2018-Mar-16
+:END:
+
+***** That mine may not quite be Rowling's is one thing; but I'm still unconvinced yours is quite there too. Inasmuch as she has a coherent idea, I feel like her idea of magic must be somewhere in-between. Magic in canon is clearly not just cause and effect --- wizards rewriting reality --- as your interpretation seems to be. Spells go wrong, magic has a physical presence when cast as these flying bolts, it's an energy that is /there/. Magic isn't just an action, it's a /thing/.
+
+Also, to clarify, my idea of magic is thus: a sort of Force-like field of energy (of unknown, possibly divine source) that reacts to wizards' souls. If a wizard wants something badly enough and focuses on it, the flows of magic will spontaneously respond to his will, hence things like accidental magic; spells and wand-movements and potions, meanwhile, try to force out a particular magical effect from this energy, reducing the human element as much as possible (but don't succeed on the most complex spells, such that intent is still required). The result is that intent can make up for imprecision of wand movement and motion and vice-versa. Direct interactions between souls that is rooted in a very strong, passionate, universal human intent (like the Killing Curse or Patronus Charm) will be almost all intent with only very cursory artificial magic-shaping, whereas things that produce a dumb mechanical effect like a light source or a cutting force (like /Lumos/) can be cast with virtually no intent at all. In short, magic seems to respond to meanings because the way human spirits shape magic echoes the human soul.
+:PROPERTIES:
+:Author: Achille-Talon
+:Score: 3
+:DateUnix: 1521231856.0
+:DateShort: 2018-Mar-16
+:END:
+
+
+** I spend way too much time on magic (and worldbuilding in general), which will probably be my fic's undoing. There is not a week where I don't buy some new book on occult, myths, legend, religion or philosophy because I had some idea to implement some stuff in the setting.
+
+As can be guessable from the previous paragraph, my project is very much AU, but it is still canon-inspired in terms of magic even if crazily expanded (that was also the planning process, I started with divergence fic, but then ended up changing things I didn't like and throwing new ideas at it).
+
+Still, going back to magic. I heavily use real life occult and esoteric works as an inspiration with a key one being The Three Books on Occult Philosophy. Its author, Cornelius Agrippa (he has a chocolate card, he knows his stuff), a Florentine Platonist who syncretised a lot of renaissance esotericism into one system and presented it in a single work. (I'm also very interested in Giordano Bruno, who further merges Agrippa work with different takes on esoterics, but his system is spread around many works).
+
+I would say that a Three Books on Occult Philosophy is a very good work to read for anyone who wants to add a deeper layer to magical theory, from transfiguration to arithmancy. Generally, works rooted in Neoplatonism and Florentine Platonism present a lot of ideas that can fit in(and probably often directly or indirectly inspired) HP magic. Modern occult, with its Mesmeric roots, fits much less here, though I incorporate elements of it, especially from Theosophy.
+
+ 
+
+But enough on old books, let's go to what I think is a key to building an interesting magic:
+
+- Magic rooted in concepts and ideas - this one is obvious as we see that presented in canon. But it can be taken to further extremes and applied to many ideas which are popular in fanon but are done in less interesting ways (family magic, runes, etc).
+
+- Multiple ways of achieving the same goal - again something we already see in canon (TWT especially has rather direct examples of it). Unfortunately scarce in fanfiction, despite providing an easy way to show characters' individuality.
+
+- Elasticity of spells - Again something that was seen in canon (mostly with Shield Charm) to a certain degree, but can be extended more. Spell's effects can be altered to some degree.
+
+- Impact of magic on society - And that's what in canon was pretty limited. Understandable to a certain degree, as Rowling largely focused on relatability of the setting. Still, fanfics can go further with it, especially as they are usually aimed at older readers than the books (especially early ones) were. Personally, I think that focusing on "otherness" of wizarding world is much more interesting than making it familiar.
+
+- Worldwide wizardry - Again, something that's not really AU, but which is lacking in canon. Most of the things we see were created in Britain or the rest of Europe, and that's despite the Wizarding World being more interconnected from the beginning. Likewise, despite all that was said on Pottermore about immigrant magical American population interacting with native one, we don't really see any impact of that in Fantastic Beasts. It all looks like shaped by those who came from Europe. There is a lot of potential in having differing magical traditions across the world, and there is a lot of potential in having elements of those spreading to the other nations other than wands and Quidditch coming from Europe to everywhere.
+
+- Magic isn't a singular "thing" - Unfortunately, canon writings imply that it is, and it's also a case with almost all fanfiction. But I prefer to see magic as a separate layer of reality, or rather as I'm going very much overboard with this - "layers". The physical layer governed by the rules of physics? That's a top of an iceberg.
+
+- Narrative-ruled reality - This is going full into crazy AU theritory, even if it is largely inspired by aspects of canon. Magical thinking makes absolute sense when you deal with magic. Wizards shape reality through ideas and in turn their reality is shaped by ideas too arranging their life into stories.
+
+- Multiple-interpretation magic - Speaking of concepts. Many things are interpreted differently in different cultures, or by different people. Many cultures used fire-earth-air-water-aether/void/etc system of elements, but China has its Wu Xing. Winter solstice can be seen as the ultimate victory of darkness over light - the longest night. But it can also be seen as a victory of light - nights no longer lengthen. Concepts are up to interpretation and thus can be invoked in seemingly contradictory manner. This is sort-of present in canon as it seems that similarities in names help in transfiguration.
+
+What can partially be seen in my points, but what is important to mention separately is that in magical world magic should shape other aspects of the story. It dictates the rest of the setting, it largely influences character's outlook on the world, it can be used to show their individuality. It should be more than just a dressing to the story.
+
+Well, I went on to make rambling wall of text. What can I say, I like worldbuilding.
+:PROPERTIES:
+:Author: Satanniel
+:Score: 2
+:DateUnix: 1521315620.0
+:DateShort: 2018-Mar-17
+:END:
+
+*** I want to give you like 500 trillion karma right now.
+
+A lot of my additions have some connection to Greco-Persian history - it's something I studied during my senior years of high school and I love expanding on it. I'm not quite as ambitious(?) as you in making and implementing new magic; I just have bits and pieces here and there. To be honest, I was just commenting on the fact that so many fanfiction authors seem to throw things in without much thought and, to me, it looks messy.
+
+Aaaaanywayyyy... thank you for your awesome response!
+:PROPERTIES:
+:Author: Sigyn99
+:Score: 1
+:DateUnix: 1521321542.0
+:DateShort: 2018-Mar-18
+:END:
+
+
+** Taure pretty much aces it. If you're creating magic, it should feel like magic. Making a furmulaic, mechanical kind of magic, while not completely non-canon, takes a lot off the novelty. Perhaps that's why Rowling never went in depth into her own magic. Like it is meant to stay somewhat unreasonable.
+
+That said, I actually endeavoured to create a piece of magic in my own fic, Old Blood, so I'll give that as example and try to explain my thought process.
+
+First, I did not create it per see, as I took Alchemy and gave it another spin, making it different from the canon one (which we don't know much of in the first place). The premise of this magic is simple: make solid potions that can work on an area basis. I'll be the first to point out that this in indeed very powerful magic; the effects of Amortentia, for example, can be devastating that way. I countered the same way Rowling did with Legilimency: in that Alchemy is not widely available. One, it's past-NEWT magic, very advanced. Two, it's difficult to do, requiring a lot of time and effort. And three: it's not all powerful, it's possible to fight it.
+
+Second, the process of that Alchemy is not entirely mechanical. For example, and taking a page out of Taure's book, the ritual to create an Alchemical Stone can involve all sorts of crazy things, from doing it in the first day of Spring to sacrifices of life as offering. As of the last chapter, there's a snippet of a ritual in which two characters make a stone, and I tried to picture how these concepts work in that scene.
+
+And last, I didn't create it just to be different. There's a reason for that; a plot reason. The existence of this magic is important for the story I'm trying to tell.
+
+So that's mostly it. I thought of something that could be interesting, but not overly disruptive of canon magic; that tries to embody the craziness of Rowling's rules for magic; and that serves a purpose for the plot.
+:PROPERTIES:
+:Author: OilOnCanvasFF
+:Score: 4
+:DateUnix: 1521212055.0
+:DateShort: 2018-Mar-16
+:END:

@@ -1,0 +1,101 @@
+#+TITLE: The role of Roman Numerals in Arithmancy
+
+* The role of Roman Numerals in Arithmancy
+:PROPERTIES:
+:Author: Madam_Hook
+:Score: 11
+:DateUnix: 1611783889.0
+:DateShort: 2021-Jan-28
+:FlairText: Discussion
+:END:
+I was reading about the use and history of Roman numerals (as one does), and it turns out that the Hindu-Arabic numerals we use today were first introduced to Europe (or at least written in a document that survives today) in 970 in Spain. Which means the founders of Hogwarts almost certainly used Roman numerals. Additionally, Hindu-Arabic numerals were slow to catch on, and even slower in academic situations. John Crossley, author of “Old-fashioned versus newfangled: Reading and writing numbers, 1200-1500”, said:
+
+#+begin_quote
+  There was also a clear distinction in the domains in which the two kinds of numerals were used. Roman numerals were used in academia where universities taught about abstract properties: square numbers, triangular numbers, etc. Hindu-Arabic numerals were used for the practical world of commerce.
+#+end_quote
+
+The use of Hindu-Arabic numerals didn't really become ubiquitous until the 1500s, after the printing press made information spread simpler. With the longer lifetimes of wizards, the International Statute of Secrecy being put into place in the late 1600s could reasonably be in the same lifetime, but definitely within two.
+
+It seems reasonable to me that when the Statute was implemented, wizards could very likely have still been using primarily if not exclusively Roman numerals. How would this have affected things? What if the wizards are still using Roman numerals as a distinguishing factor from the muggles? How would Arithmancy work with Roman numerals? Depending on the percentages of the different backgrounds in the Wizarding world (muggle-raised vs. wizard-raised vs. both), this could be part of the reason Arithmancy has a reputation for being a difficult class--switching to a completely different number system from the one you were raised with is surprisingly difficult.
+
+
+** With seven being such an important number, maybe they used some wizard-made numeric system that is based 7.
+:PROPERTIES:
+:Author: DariusA92
+:Score: 4
+:DateUnix: 1611800473.0
+:DateShort: 2021-Jan-28
+:END:
+
+
+** Just for giggles, my new headcanon is arithmancy uses cuniaform base 60.
+:PROPERTIES:
+:Author: Astramancer_
+:Score: 7
+:DateUnix: 1611788624.0
+:DateShort: 2021-Jan-28
+:END:
+
+*** This actually makes a lot of sense. As our sense of time is in base 60, and since Arithmancy is essentially Divination by Numbers, it could be argued that Divination is a loose branch of time magic. Anything with time turners will be base 60 too.
+:PROPERTIES:
+:Author: Duvkav1
+:Score: 5
+:DateUnix: 1611802034.0
+:DateShort: 2021-Jan-28
+:END:
+
+**** Don't forget that a lot of geometry is still based on the cuniaform legacy - the whole 360° thing. Angles and geometric figures are incredibly important to what is generally considered to be the more thinky preparation kinds of magic.
+:PROPERTIES:
+:Author: Astramancer_
+:Score: 3
+:DateUnix: 1611803383.0
+:DateShort: 2021-Jan-28
+:END:
+
+
+*** Haha, that would be amazing!
+:PROPERTIES:
+:Author: Madam_Hook
+:Score: 3
+:DateUnix: 1611788724.0
+:DateShort: 2021-Jan-28
+:END:
+
+
+** Roman numerals might have a significance based on the shapes of the digit, and wizards might interpret them like the I Ching. I, V, X , and all of their combinations would work particularly well for this. On the other hand, communication between East Asian and European countries only really became a thing after mercantilism, so it would be hard to come up with a plausible explanation. Maybe have wizards interpret Roman numerals based on their resemblance to Viking runes, instead- that's more historical.
+:PROPERTIES:
+:Author: Mythopoeist
+:Score: 3
+:DateUnix: 1611801216.0
+:DateShort: 2021-Jan-28
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1611784999.0
+:DateShort: 2021-Jan-28
+:END:
+
+*** Whilst we don't explicitly know how mathematics was expressed in Britain by non Latin systems, we do know some things about their numbers. The Celtic Languages are traditionally numbered in base 20 or vigesimal. 20, 21, 42 and 63 are fichead, fichead ‘s a h-aon, dà fhichead ‘s a dhà, and trì fichead ‘s a trì respectively in Scots Gaelic for example. Yan Tan Tethera is ancient Cumbric sheep counting of similar form.
+
+Anglo-Saxon/ Germanic counting is originally in base 12 hence eleven and twelve, not oneteen and twoteen.
+
+By the time of the Founders, Pictish had largely been subsumed by Old Gaelic and would go extinct within the next century.
+
+It is likely there would be a more oral, rhyming component over written numerals. The Celtic writing systems were only used sparingly for stuff like very important inscriptions.
+:PROPERTIES:
+:Author: Duvkav1
+:Score: 2
+:DateUnix: 1611803518.0
+:DateShort: 2021-Jan-28
+:END:
+
+**** Point is. Arithmancy is likely not taught with Arabic-Hindu numerals.
+:PROPERTIES:
+:Author: DeDe_at_it_again
+:Score: 1
+:DateUnix: 1611838373.0
+:DateShort: 2021-Jan-28
+:END:

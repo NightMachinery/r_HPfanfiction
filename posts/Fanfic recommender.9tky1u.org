@@ -1,0 +1,80 @@
+#+TITLE: Fanfic recommender
+
+* Fanfic recommender
+:PROPERTIES:
+:Author: zerkses
+:Score: 41
+:DateUnix: 1541171493.0
+:DateShort: 2018-Nov-02
+:END:
+I haven't been writing about my rec engine for a while and since then it's got a bunch of new cool features.  
+
+[[https://github.com/Zeks/flipper/releases/download/client_0.9.5.1/flipper_client_0.9.5.1.7z]]
+
+ 
+
+What it can do now:
+
+ 
+
+Find fics for you to read based on your FFN profile for HP only or for all fandoms on FFN in the same list.
+
+Exclude fics/fandoms from recommendations to quench the usual noise inherent in such engines
+
+Find fics similar to others
+
+Show/hide slash fics. (And it's somewhat intelligent about what to consider slash)
+
+Automatically detect and display the detected genres for more popular fics and search on those
+
+Do comlplex searches on recommendation lists to further narrow down the recommendations
+
+Show fics from the authors that you've liked previously
+
+Or it can just be used as a better layer over FFN search
+
+  The database has ~4.8m fics and ~250k users to draw upon. It's not whole of FFN, but it's a pretty solid chunk.
+
+ 
+
+The recommender will work both on Windows (natively) and Linux/Mac (via WINE)
+
+ 
+
+You will need MSVC 2015 redistributable for this to work and you can get it there [[https://www.microsoft.com/en-us/download/details.aspx?id=48145]]
+
+but if you are gaming on your PC it's highly likely you already have it.
+
+ 
+
+The manual that explains most use cases can be found here:
+
+[[https://docs.google.com/document/d/1rEXQBQnDbFljBTAea_Ljbq731OGUDjHoew2s9jmj2tk/edit#]]
+
+I highly recommend even old users read it as it contains a lot of useful non obvious stuff
+
+ 
+
+Support is available through Discord: [[https://discord.gg/nWwh5Fx]] Direct all your questions, problems and suggestions to that server.
+
+
+** u/bgottfried91:
+#+begin_quote
+  The recommender will work both on Windows (natively) and I haven't been writing about my rec engine for a while and since then it's got a bunch of new cool features.
+#+end_quote
+
+I'm assuming the second part of the statement was supposed to be another OS (MacOS maybe?)
+:PROPERTIES:
+:Author: bgottfried91
+:Score: 3
+:DateUnix: 1541181249.0
+:DateShort: 2018-Nov-02
+:END:
+
+*** yes, somehow the sentence got broken, thx, I will fix it
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1541181762.0
+:DateShort: 2018-Nov-02
+:END:

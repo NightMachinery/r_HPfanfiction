@@ -1,0 +1,34 @@
+#+TITLE: Why do some newly posted fics not show up on the FFnet app?
+
+* Why do some newly posted fics not show up on the FFnet app?
+:PROPERTIES:
+:Author: MagicHeadset
+:Score: 1
+:DateUnix: 1525101227.0
+:DateShort: 2018-Apr-30
+:END:
+Sometimes when I'm scrolling through the new Harry Potter submissions on the FFnet app, I'll look at the desktop website and notice that the app is cutting out a lot of new stories.
+
+As far as I know, my filters are the same on the app and desktop. I've adjusted the app settings so I can see M-rated stories, so I'm seeing K through M stories on both the app and desktop.
+
+Anyone know why this is, and if there's a fix for it?
+
+
+** That, I assume, is a server synchronicity issue, not something you can correct on your end.
+
+Edit: Actually, I'm not sure if this is an issue. I checked again and I'm seeing the two showing the same stories. If anything, the app picked up the newest stories first.
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 6
+:DateUnix: 1525106637.0
+:DateShort: 2018-Apr-30
+:END:
+
+
+** The website has the same problem.
+:PROPERTIES:
+:Author: Mestrehunter
+:Score: 1
+:DateUnix: 1525115374.0
+:DateShort: 2018-Apr-30
+:END:

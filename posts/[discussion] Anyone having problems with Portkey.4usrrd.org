@@ -1,0 +1,86 @@
+#+TITLE: [discussion] Anyone having problems with Portkey?
+
+* [discussion] Anyone having problems with Portkey?
+:PROPERTIES:
+:Author: rolo133
+:Score: 5
+:DateUnix: 1469592207.0
+:DateShort: 2016-Jul-27
+:FlairText: Discussion
+:END:
+Hi there!
+
+Is anyone else experiencing issues with Portkey.org? I was rereading a fic there a couple weeks ago, and as soon as I was finished the site stopped working properly.
+
+Whenever I enter the portkey.org URL, I'm redirected to a messed up version of the fanfiction homepage ([[http://fanfiction.portkey.org/fanfiction]]). Here's a [[https://cl.ly/2b1i2Q032W3Q][screenshot]] of what I get. As you can see there are some formatting hiccups: the white header line is visible above the image of Harry/Hermione, the image file above the photos is no longer displaying, and the whole fanfiction list is highlighted blue, as if it was all selected. Also, the list hasn't updated in a while, you can see the date on the first fic.
+
+Anyways, anyone know what's up? Or is this just me??
+
+Thanks!
+
+
+** No problems on my end. I'm reading [[http://fanfiction.portkey.org/story/6088][Muggle Summer]] in a different browser tab and haven't noticed any problems. The images for the emoticons at the bottom of the page are messed up, but honestly that's about par for the course with portkey.
+:PROPERTIES:
+:Author: MacsenWledig
+:Score: 2
+:DateUnix: 1469595090.0
+:DateShort: 2016-Jul-27
+:END:
+
+*** Thanks for your reply, I'll mess around with it some more. I clicked your link and the site is working on mobile at least.
+
+How is Muggle Summer btw?
+:PROPERTIES:
+:Author: rolo133
+:Score: 1
+:DateUnix: 1469652422.0
+:DateShort: 2016-Jul-28
+:END:
+
+**** I think it's a pretty niche story. It has a fair amount of Muggle!wank, which a lot of people don't like.
+
+It was written ten years ago, though, so it's interesting to see what authors thought of the HP universe before DH was published.
+:PROPERTIES:
+:Author: MacsenWledig
+:Score: 2
+:DateUnix: 1469653428.0
+:DateShort: 2016-Jul-28
+:END:
+
+
+** Do you have Adblock enabled. Adblock can do that to photos it thinks are ads
+:PROPERTIES:
+:Author: UndergroundNerd
+:Score: 2
+:DateUnix: 1469595601.0
+:DateShort: 2016-Jul-27
+:END:
+
+*** I do but I am skeptical that is my problem. As you can see it's more than just a broken image file, but content issues as well (aka site not updating).
+
+Since it's just me I'll play around with browsers, and clearing my cache, etc.
+
+Thanks for your reply.
+:PROPERTIES:
+:Author: rolo133
+:Score: 1
+:DateUnix: 1469652336.0
+:DateShort: 2016-Jul-28
+:END:
+
+**** Trying clicking Adblock if you are just playing around and disabling it for that domain
+:PROPERTIES:
+:Author: UndergroundNerd
+:Score: 1
+:DateUnix: 1469653521.0
+:DateShort: 2016-Jul-28
+:END:
+
+
+** I can't seem to access my account apart from warped emojis. Error shows up every time i try opening control panel.
+:PROPERTIES:
+:Author: slytherinight
+:Score: 1
+:DateUnix: 1469900174.0
+:DateShort: 2016-Jul-30
+:END:

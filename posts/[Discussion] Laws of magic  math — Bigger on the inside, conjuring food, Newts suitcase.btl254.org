@@ -1,0 +1,85 @@
+#+TITLE: [Discussion] Laws of magic & math — Bigger on the inside, conjuring food, Newts suitcase
+
+* [Discussion] Laws of magic & math — Bigger on the inside, conjuring food, Newts suitcase
+:PROPERTIES:
+:Author: MachaiArcanum
+:Score: 3
+:DateUnix: 1558957549.0
+:DateShort: 2019-May-27
+:FlairText: Discussion
+:END:
+Ok, so apparently Gamp's law is a thing. Food cannot be conjured, it just can't. But animals can, even if they disappear eventually (I think, could someone tell me?). And things can be transfigured into food or animals (again, do they disappear?). So something needs to be done about that. I have no idea how to fix it, but this is a good segue to my second thought.
+
+In my headcanon, when a mage expands the interior of an object without affecting the outside, the largest they can go in any axis (x, y, or z) is 1.99... times larger, but never quite 2x (similar to never being able to quite reach the speed of light). Eg. A cupboard with a width & length of 3 feet, and a depth of 1 foot, can be expanded to /almost/ 6 feet and 2 feet. (This was unknown until an arithmancer recently discovered it, prior to that people didn't know why it could only be doubled)
+
+So what about Newt's suitcase, or those giant trunks/bags? Well, as a reason as to why these are so rare, introducing the Akehurst principle: Creating space is not possible, but space can be cloned once and only once (second paragraph) and space cannot be expanded in the middle of nowhere, there must be a boundary of some type.
+
+Space /can/ be compressed, but there is a limit known as the Cleland limit (named for James Cleland, a real person)... which is, maybe, (xroot(x!)) / sqrt(x)Which seems to work well. So a 100 foot suitcase when shrunk as much as possible would give a suitcase about 3.8 feet. A bit big, but it's an example, and I cannot he bothered reverse engineering a factorial sum.
+
+Anyone else know of any interesting headcanon laws of magic?
+
+
+** I think the best explanation for food and animals is that to transfigure or conjure something you need to know every relevant detail, but you can make up for inaccuracies with magic. So unless you are really really good at biology and know the DNA and cellular structure of the animal you want to create by heart, you can't make a real animal - you can only make something that looks and behaves like the animal, but needs magic to function, like an animated statue.
+
+Because of that, eating anything transfigured would be a terrible idea as the contents would be different from real food.
+
+If you knew the molecular structure of carbohydrates, fats, amini acids and all vitamins, you might be able to make something edible, but It probably wouldn't taste good.
+
+Making more food if you already have some on the other hand is relatively easy since you're taking existing molecules as templates, so you can copy them without having to spend years studying nutrition science, chemistry and molecular biology.
+
+That theory also explains why conjured animals don't really behave like real ones, as they are constructs running on magic, so unless the caster knows neurology they're unlikely to have real brains that could function without magic.
+
+Animagi probably require a lot of magic to keep their animal bodies running and sane, since there are probably a ton of details off even after studying their animals for years.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 3
+:DateUnix: 1558960655.0
+:DateShort: 2019-May-27
+:END:
+
+*** This is a really good explanation! I'm glad I know about it now, but why don't other people question why Gamps law is a thing?
+:PROPERTIES:
+:Author: MachaiArcanum
+:Score: 2
+:DateUnix: 1558961611.0
+:DateShort: 2019-May-27
+:END:
+
+**** Gamps law describes how something can be transfigured, food is one of the exemptions to it since it's too complicated to properly do.
+
+Linkffn(The Arithmancer) has a bit more on transfiguration theory, including the discovery of the sixth exemption (radioactive materials) and later on the seventh (antimatter). There's also a bit on spells to rearrange molecules without residual magic, for example charcoal to diamond.
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 2
+:DateUnix: 1558962261.0
+:DateShort: 2019-May-27
+:END:
+
+***** [[https://www.fanfiction.net/s/10070079/1/][*/The Arithmancer/*]] by [[https://www.fanfiction.net/u/5339762/White-Squirrel][/White Squirrel/]]
+
+#+begin_quote
+  Hermione grows up as a maths whiz instead of a bookworm and tests into Arithmancy in her first year. With the help of her friends and Professor Vector, she puts her superhuman spellcrafting skills to good use in the fight against Voldemort. Years 1-4. Sequel posted.
+#+end_quote
+
+^{/Site/:} ^{fanfiction.net} ^{*|*} ^{/Category/:} ^{Harry} ^{Potter} ^{*|*} ^{/Rated/:} ^{Fiction} ^{T} ^{*|*} ^{/Chapters/:} ^{84} ^{*|*} ^{/Words/:} ^{529,133} ^{*|*} ^{/Reviews/:} ^{4,444} ^{*|*} ^{/Favs/:} ^{5,278} ^{*|*} ^{/Follows/:} ^{3,743} ^{*|*} ^{/Updated/:} ^{8/22/2015} ^{*|*} ^{/Published/:} ^{1/31/2014} ^{*|*} ^{/Status/:} ^{Complete} ^{*|*} ^{/id/:} ^{10070079} ^{*|*} ^{/Language/:} ^{English} ^{*|*} ^{/Characters/:} ^{Harry} ^{P.,} ^{Ron} ^{W.,} ^{Hermione} ^{G.,} ^{S.} ^{Vector} ^{*|*} ^{/Download/:} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10070079&source=ff&filetype=epub][EPUB]]} ^{or} ^{[[http://www.ff2ebook.com/old/ffn-bot/index.php?id=10070079&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{2.0.0-beta} | [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1558962270.0
+:DateShort: 2019-May-27
+:END:
+
+
+** It's one of the reasons I like to think Dumbledore studied physics after the Grindelwald, age 17, stuff. To understand what his magic was actually doing.
+
+Maybe Gamp knew Einstein or Bohr when he was making his laws.
+:PROPERTIES:
+:Author: microwavedpeep1
+:Score: 0
+:DateUnix: 1558966415.0
+:DateShort: 2019-May-27
+:END:

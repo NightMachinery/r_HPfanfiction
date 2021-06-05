@@ -1,0 +1,422 @@
+#+TITLE: A lot of people liked the Fic Recommender I posted last week but wanted more fics in the database. Well, I'm super excited to share the new and improved Fic Recommender with over 25,000 fics! And web interface! Huge props to /u/ElusiveGuy for making the website.
+
+* A lot of people liked the Fic Recommender I posted last week but wanted more fics in the database. Well, I'm super excited to share the new and improved Fic Recommender with over 25,000 fics! And web interface! Huge props to /u/ElusiveGuy for making the website.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 236
+:DateUnix: 1540057812.0
+:DateShort: 2018-Oct-20
+:FlairText: Misc
+:END:
+Here's the link: [[https://ficrecs.elusiveguy.com/]]
+
+Just type in the ID of a fic from FanFiction.net (e.g. 4152700) and get 200 recommendations for similar fics! They're sorted by similarity, so the top results are the closest matches to your fic. Click the "View" button to read a recommendation on FFN and the "Similar" button to redo the search with the recommendation's ID.
+
+Again, a huge thanks to [[/u/ElusiveGuy]] for taking my crappy excel file and turning it into an awesome website.
+
+If you'd like to know how it works, check out the post from last week: [[https://www.reddit.com/r/HPfanfiction/comments/9nc0cw/ever_thought_i_wish_i_could_find_more_fics_like_x/]]
+
+
+** This is awesome! Thank you both for putting in the effort!
+:PROPERTIES:
+:Author: Shimbot42
+:Score: 19
+:DateUnix: 1540062331.0
+:DateShort: 2018-Oct-20
+:END:
+
+
+** FYI : [[https://docs.google.com/document/d/1rEXQBQnDbFljBTAea_Ljbq731OGUDjHoew2s9jmj2tk/edit#]]
+
+[[https://github.com/Zeks/flipper/releases/download/client_0.9.6.1/flipper_client_0.9.6.1.7z]]
+
+It's not web based but it works on both Windows and linux/mac (via wine)
+:PROPERTIES:
+:Author: zerkses
+:Score: 10
+:DateUnix: 1540062639.0
+:DateShort: 2018-Oct-20
+:END:
+
+*** Nice! It looks like you went further and did some actual collaborative filtering. How do you rank your recommendations?
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 8
+:DateUnix: 1540064865.0
+:DateShort: 2018-Oct-20
+:END:
+
+**** actually no... my algos are very /very/ simple and not even science based.
+
+For the recommendations it just matches a ton of lists to your favourites and outputs a sum of appearances in those for each fic.
+
+Slash/het was a bit more complex but still rule-of-thumby "Find lists with lots of slash and exclude everything from them that isn't on lists withotu slash"
+
+Genres again, not science based: I calculated genre presense in each of userlists and decide on the fics genre based on which type of list it appears more often.
+
+I've been meaning to write a proper recommendation algo, but got sidetracked actually reading stuff the last month :) Also, a large scrape of 500k userlists is currently in progress. When it's done I'll probbaly do some more nifty stuff for the app.
+:PROPERTIES:
+:Author: zerkses
+:Score: 7
+:DateUnix: 1540065307.0
+:DateShort: 2018-Oct-20
+:END:
+
+***** u/vir_innominatus:
+#+begin_quote
+  For the recommendations it just matches a ton of lists to your favourites and outputs a sum of appearances in those for each fic.
+#+end_quote
+
+Overall I think that's somewhat similar. At the very least we started from the same data: users' lists of favorites.
+
+#+begin_quote
+  Also, a large scrape of 500k userlists is currently in progress.
+#+end_quote
+
+That's awesome. My database is only ~65,000 users.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 4
+:DateUnix: 1540066058.0
+:DateShort: 2018-Oct-20
+:END:
+
+****** u/zerkses:
+#+begin_quote
+  That's awesome. My database is only ~65,000 users.
+#+end_quote
+
+From what I've seen so far (current progress is 190k lists) the results for my particular recommendations didn't change much between 80k and 190k lists. I am mostly doing it to make my slash and genre detector smarter rn because those really can use every list they can get.
+:PROPERTIES:
+:Author: zerkses
+:Score: 3
+:DateUnix: 1540066575.0
+:DateShort: 2018-Oct-20
+:END:
+
+
+****** u/zerkses:
+#+begin_quote
+  Overall I think that's somewhat similar.
+#+end_quote
+
+I think the most radical difference between our approaches is that I don't have to keep relations in memory and thus can feed lists of any size into clients local database.
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1540066716.0
+:DateShort: 2018-Oct-20
+:END:
+
+
+**** It's rather amusing how similar our results are for similar fics btw given drastically different approaches.
+:PROPERTIES:
+:Author: zerkses
+:Score: 3
+:DateUnix: 1540065416.0
+:DateShort: 2018-Oct-20
+:END:
+
+
+*** Cool, that looks much more advanced than what we have here! :)
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 1
+:DateUnix: 1540080294.0
+:DateShort: 2018-Oct-21
+:END:
+
+
+** This is awesome! I've been hoping that ff.net would do something like this for years! It's be cool to be able to filter the results somewhat, like by status.
+:PROPERTIES:
+:Author: altrarose
+:Score: 8
+:DateUnix: 1540076502.0
+:DateShort: 2018-Oct-21
+:END:
+
+
+** Wow that's quite some work. Thanks for sharing.
+
+As for HP fanfics site there is [[https://www.ultimatehpfanfiction.com/][Ultimate HP Fanfiction]] where fics are sorted by pairing.
+:PROPERTIES:
+:Author: MoleOfWar
+:Score: 2
+:DateUnix: 1540118276.0
+:DateShort: 2018-Oct-21
+:END:
+
+
+** u/DrunkBystander:
+#+begin_quote
+  No story matching id 10496512 was found
+#+end_quote
+
+:-(
+:PROPERTIES:
+:Author: DrunkBystander
+:Score: 1
+:DateUnix: 1540092449.0
+:DateShort: 2018-Oct-21
+:END:
+
+*** Try again. The site was just updated
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1540259639.0
+:DateShort: 2018-Oct-23
+:END:
+
+
+** Wow! This is awesome!
+:PROPERTIES:
+:Author: _awesaum_
+:Score: 1
+:DateUnix: 1540128969.0
+:DateShort: 2018-Oct-21
+:END:
+
+
+** tried 3 random fic IDs and it says no matching ID found
+:PROPERTIES:
+:Author: lolz_69
+:Score: 1
+:DateUnix: 1540156298.0
+:DateShort: 2018-Oct-22
+:END:
+
+*** try the app from my earlier comment, it seems you need a bigger database for your searches and it has that
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1540157061.0
+:DateShort: 2018-Oct-22
+:END:
+
+
+*** The database right now has about 29,000 fics. If a fic is missing, its either too new, which is a problem which will be fixed very soon, or it has too few favorites.
+
+I will probably expand the database to include fics with fewer favorites, but I can't include EVERY fic. The accuracy of the recommendations requires that a fic has a decent number of favorites.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1540165607.0
+:DateShort: 2018-Oct-22
+:END:
+
+**** Just for my purposes of knowing which fics not to bother trying in this database, what is a "decent number of favorites"? Thank you so much for making this! It's amazing.
+:PROPERTIES:
+:Author: FitzDizzyspells
+:Score: 1
+:DateUnix: 1540603944.0
+:DateShort: 2018-Oct-27
+:END:
+
+***** The current database has ~32,000 fics. The smallest number of favorites is 185, so if you enter a fic with >185 favorites, it should be in there.
+
+There are plans to expand the database even more, though. Not sure when it'll be finished.
+
+From a theoretical standpoint, I think this process could probably give decent recommendations for most fics. Maybe for anything more than 20ish favorites? I'm not sure.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 2
+:DateUnix: 1540606474.0
+:DateShort: 2018-Oct-27
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1540208345.0
+:DateShort: 2018-Oct-22
+:END:
+
+*** u/vir_innominatus:
+#+begin_quote
+  Do you use the formula from the site you posted last time?
+#+end_quote
+
+Yeah I used the formula from [[http://colah.github.io/posts/2014-07-FFN-Graphs-Vis/]].
+
+I put my Matlab code on Github if you want to take a look [[https://github.com/vir-innominatus/FFN-Fic-Recommender]]. It's very slow as well, but I split up the job between a couple computers to speed it up. For me, the slowest part is calculating the similarity. I'm sure the algorithm could be improved, but I haven't tried much.
+
+#+begin_quote
+  more importantly so many users?
+#+end_quote
+
+I made a huge matrix that is 30,000 by 65,000 boolean values (number of fics by number of users). The value in the matrix is true if a particular user favorites a particular fic. This could probably be improved by saving just the nonzero elements since the matrix is very sparse. Anyway, the matrix is split up into several smaller files and saved locally as .mat files (a binary format). I sequentially read in the files when calculating the similarity so I don't have to have the entire matrix loaded into memory.
+
+You're right that it's a hard problem. I don't even want to think about how companies like Netflix make recommendations.
+
+#+begin_quote
+  Also, the fic 'The Mind Arts', 12740667, which is about the 500th most favorited fic, is not in your dataset
+#+end_quote
+
+Yeah there's no fics written since Mar 2017 currently in the database. I have a new database, though, and it should be uploaded by tomorrow.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1540231218.0
+:DateShort: 2018-Oct-22
+:END:
+
+**** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1540237315.0
+:DateShort: 2018-Oct-22
+:END:
+
+***** So storing only the nonzero values turns out to be the way to go for me, but I'm using Matlab which supports sparse matrices. I really wished I had tried this earlier.
+
+Specifically, I tried out Matlab's built-in [[https://www.mathworks.com/help/stats/pdist.html][pdist]] function, and it managed to calculate all 500 million values for pairwise distances in <1 minute. I was absolutely blown away. It does use a lot of memory though. The array is about 5 GB when loaded.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1540250728.0
+:DateShort: 2018-Oct-23
+:END:
+
+****** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1540327744.0
+:DateShort: 2018-Oct-24
+:END:
+
+******* Awesome. I'm pinging [[/u/ElusiveGuy]] since (if you're both willing) you should send that database to him once it's done.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1540330655.0
+:DateShort: 2018-Oct-24
+:END:
+
+******** I'm always happy to import more, though I can't really merge multiple independent datasets (especially if they calculate similarity differently).
+
+I'll also need to look at optimising the importer, maybe do a chunked import. Unfortunately, especially with fkey restrictions, these larger DBs take quite a while (and eat a lot of RAM).
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 1
+:DateUnix: 1540339033.0
+:DateShort: 2018-Oct-24
+:END:
+
+********* [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1540559777.0
+:DateShort: 2018-Oct-26
+:END:
+
+********** Hm. You could probably compress it down pretty heavily but I don't think the server I'm hosting this on has enough space for a 100 GB database.
+
+Pruning sounds like the way to go.
+
+My current format takes, for each fic, a list of similar fics and their similarity scores. If your final format can provide those scores, that'd be great. If not, I can make up some dummy values for sorting.
+
+I can adjust the importer to parse pretty much any format.
+
+If you're willing to do this, I can provide SCP/SFTP details for direct upload. Or HTTP upload to a Nextcloud instance. Or you can upload it elsewhere and I can download it.
+
+Thanks!
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 1
+:DateUnix: 1540566795.0
+:DateShort: 2018-Oct-26
+:END:
+
+*********** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1540569112.0
+:DateShort: 2018-Oct-26
+:END:
+
+************ That could work. The current format I'm parsing from [[/u/vir_innominatus]] is two separate tables:
+
+#+begin_example
+  <story_a>: <story_b1_id> <story_b2_id> ...
+#+end_example
+
+And
+
+#+begin_example
+  <story_a>: <story_b1_score> <story_b2_score> ...
+#+end_example
+
+This could be shortened to:
+
+#+begin_example
+  <story_a>: <b1_id>,<b1_score> <b2_id>,<b2_score>
+#+end_example
+
+The matrix format you propose wouldn't be much different (it's actually closer to my database format, which stores rows of a, b and score).
+
+Whichever is easier for you is fine.
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 1
+:DateUnix: 1540607647.0
+:DateShort: 2018-Oct-27
+:END:
+
+
+** You're a genius. I've been reading HP fanfics obsessively for over 15 years now, and the first result I got from your website is a fic that I have never seen recommended here and have never heard of, and after starting it, it seems like it fits my taste perfectly. Thank you!
+:PROPERTIES:
+:Author: cpatchj
+:Score: 1
+:DateUnix: 1540231977.0
+:DateShort: 2018-Oct-22
+:END:
+
+
+** RemindMe! 12 Hours
+:PROPERTIES:
+:Author: burak329
+:Score: 1
+:DateUnix: 1541166179.0
+:DateShort: 2018-Nov-02
+:END:
+
+*** I will be messaging you on [[http://www.wolframalpha.com/input/?i=2018-11-03%2001:43:21%20UTC%20To%20Local%20Time][*2018-11-03 01:43:21 UTC*]] to remind you of [[https://www.reddit.com/r/HPfanfiction/comments/9pw53f/a_lot_of_people_liked_the_fic_recommender_i/][*this link.*]]
+
+[[http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps://www.reddit.com/r/HPfanfiction/comments/9pw53f/a_lot_of_people_liked_the_fic_recommender_i/%5D%0A%0ARemindMe!%20%2012%20Hours][*CLICK THIS LINK*]] to send a PM to also be reminded and to reduce spam.
+
+^{Parent commenter can} [[http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete!%20e8wtlso][^{delete this message to hide from others.}]]
+
+--------------
+
+[[http://np.reddit.com/r/RemindMeBot/comments/24duzp/remindmebot_info/][^{FAQs}]]
+
+[[http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLINK%20INSIDE%20SQUARE%20BRACKETS%20else%20default%20to%20FAQs%5D%0A%0ANOTE:%20Don't%20forget%20to%20add%20the%20time%20options%20after%20the%20command.%0A%0ARemindMe!][^{Custom}]]
+[[http://np.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders!][^{Your Reminders}]]
+[[http://np.reddit.com/message/compose/?to=RemindMeBotWrangler&subject=Feedback][^{Feedback}]]
+[[https://github.com/SIlver--/remindmebot-reddit][^{Code}]]
+[[https://np.reddit.com/r/RemindMeBot/comments/4kldad/remindmebot_extensions/][^{Browser Extensions}]]
+:PROPERTIES:
+:Author: RemindMeBot
+:Score: 1
+:DateUnix: 1541166205.0
+:DateShort: 2018-Nov-02
+:END:
+
+
+** Coming back here to say, thank you! This has helped me find and read fics I never would have stumbled across otherwise, a significant number of which I really liked or found interesting. Well done!
+:PROPERTIES:
+:Author: figsareflowers
+:Score: 1
+:DateUnix: 1541748211.0
+:DateShort: 2018-Nov-09
+:END:
+
+*** You're welcome! I'm so glad people like it.
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1541827555.0
+:DateShort: 2018-Nov-10
+:END:

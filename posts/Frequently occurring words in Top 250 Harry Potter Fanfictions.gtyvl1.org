@@ -1,0 +1,224 @@
+#+TITLE: Frequently occurring words in Top 250 Harry Potter Fanfictions
+
+* Frequently occurring words in Top 250 Harry Potter Fanfictions
+:PROPERTIES:
+:Author: dJones176
+:Score: 91
+:DateUnix: 1590930938.0
+:DateShort: 2020-May-31
+:FlairText: Misc
+:END:
+Hi
+
+I made a HPFanfiction related visualisation for [[/r/dataisbeautiful][r/dataisbeautiful]] and thought you people would like it as well.
+
+[[https://www.reddit.com/r/dataisbeautiful/comments/gtxzx8/oc_frequently_occurring_words_in_top_250_harry/][Here's the link to the post]]
+
+I scraped 250 stories from [[https://fanfiction.net][fanfiction.net]] sorted by Favorites and Filtered them with > 100k length. After that, I removed some common stopwords, pronouns etc and counted the frequency of every word.
+
+I used wordcloud Python Package to generate the image.
+
+Statistics:
+
+Raw Data: 350MB (250 files/stories)\\
+Final Data (Dictionary of word-frequency): 2MB
+
+Unique Words (After filtering): 148864\\
+Total Words (after filtering): 35412274
+
+
+** It's strange to me how large Daphne is in this. She's a non-entity in the books, and exists only to pad the numbers of Slytherin house. But she's somehow super popular in fanfiction.
+:PROPERTIES:
+:Author: MoreGeckosPlease
+:Score: 70
+:DateUnix: 1590932517.0
+:DateShort: 2020-May-31
+:END:
+
+*** People who want a good Slytherin, but despise Draco, I suppose.
+:PROPERTIES:
+:Author: Vercalos
+:Score: 44
+:DateUnix: 1590932912.0
+:DateShort: 2020-May-31
+:END:
+
+**** Shes pretty much a blank slate and helps to avoid people like me who dont like to read harry/oc fics.
+:PROPERTIES:
+:Author: Aniki356
+:Score: 48
+:DateUnix: 1590933511.0
+:DateShort: 2020-May-31
+:END:
+
+
+*** She's an easy option for people that want to write an OC but don't want the stigma that goes with it...
+:PROPERTIES:
+:Author: IreneC29
+:Score: 18
+:DateUnix: 1590940834.0
+:DateShort: 2020-May-31
+:END:
+
+**** She's already so typecast that she's barely an OC.
+:PROPERTIES:
+:Author: SirYabas
+:Score: 16
+:DateUnix: 1590947756.0
+:DateShort: 2020-May-31
+:END:
+
+***** Yeah, I think some people still manage to make her their own OC by adding little bits of quirks or whatever.\\
+I don't really know bc I absolutely stay away from fics with Daphne as the main character.
+:PROPERTIES:
+:Author: IreneC29
+:Score: 3
+:DateUnix: 1590955243.0
+:DateShort: 2020-Jun-01
+:END:
+
+****** I really love to cast her as a minor antagonist just to fuck with people. Ah, there's Daphne... Wait, why is she helping Voldemort/attacking Harry?
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 4
+:DateUnix: 1590958776.0
+:DateShort: 2020-Jun-01
+:END:
+
+******* I mean she literally is often described as looking like Eva Braun
+:PROPERTIES:
+:Author: Brilliant_Sea
+:Score: 1
+:DateUnix: 1590979076.0
+:DateShort: 2020-Jun-01
+:END:
+
+
+*** It makes sense, a lot of the most faved fics are independant!Harry fics and she's the most popular pairing there.
+:PROPERTIES:
+:Author: Myreque_BTW
+:Score: 4
+:DateUnix: 1590941497.0
+:DateShort: 2020-May-31
+:END:
+
+
+*** u/heff17:
+#+begin_quote
+  She's a non-entity in the books
+#+end_quote
+
+You answered you own question. She's a name to attach to an OC so it can't be called out as being such.
+:PROPERTIES:
+:Author: heff17
+:Score: 3
+:DateUnix: 1590983822.0
+:DateShort: 2020-Jun-01
+:END:
+
+**** That I get. But there's a dozen of those in Harry's year.
+
+Daphne, Tracey Davis, Sally-Ann Perks, Lisa Turpin, Mandy Brocklehurst, Megan Jones, Isobel MacDougal, Lily Moon, Sophie Roper, Sally Smith, and Su Li are all complete non entities. Hannah Abbot, Susan Bones, and Padma Patil get mentioned more, but don't have much character fleshed out in canon. And those are only Harry's year, and only counting the mostly blank slates.
+
+I'm just wondering how Daphne emerged out of all of those possibilities as the main non Ginny or Hermione choice at Hogwarts.
+:PROPERTIES:
+:Author: MoreGeckosPlease
+:Score: 2
+:DateUnix: 1591004500.0
+:DateShort: 2020-Jun-01
+:END:
+
+
+*** Mostly in lemons. I would know.
+:PROPERTIES:
+:Author: poseidons_seaweed
+:Score: 0
+:DateUnix: 1590942578.0
+:DateShort: 2020-May-31
+:END:
+
+
+** Would be interesting to see a version with more "normal" words stripped out (e.g. "would") so it's purely HP-specific terms like characters, places, spells etc.
+:PROPERTIES:
+:Author: Taure
+:Score: 45
+:DateUnix: 1590936828.0
+:DateShort: 2020-May-31
+:END:
+
+*** Hi,\\
+I made a better version of this, along with some other related visualisations.
+
+Read about it here:
+
+[[https://blog.haideralipunjabi.com/posts/harry-potter-books-fanfiction-an-analysis-of-words/]]
+:PROPERTIES:
+:Author: dJones176
+:Score: 1
+:DateUnix: 1591028689.0
+:DateShort: 2020-Jun-01
+:END:
+
+
+** This is cool - thanks for this! I'd love to see more analysis like this about fanfic. I wonder, for example, how the top words in canon differ from fanfics, or what language differences between the two exist in general.
+
+One language quirk that's different, for example, is that Snape in canon speaks in very clipped, short sentences. He uses pretty straightforward language even when expressing complex ideas. In most fanfics on the other hand, Snape's language suddenly becomes more elongated, with long sentences and thesaurus words.
+
+Thanks again :) really interesting and it took a bit of time to do, I see. This is valuable fan content.
+:PROPERTIES:
+:Author: Bumblerina
+:Score: 15
+:DateUnix: 1590935345.0
+:DateShort: 2020-May-31
+:END:
+
+*** Hi,\\
+I made a better version of this, along with some other related visualisations (including a comparison of words between canon and fanfiction).
+
+Read about it here:
+
+[[https://blog.haideralipunjabi.com/posts/harry-potter-books-fanfiction-an-analysis-of-words/]]
+:PROPERTIES:
+:Author: dJones176
+:Score: 1
+:DateUnix: 1591028722.0
+:DateShort: 2020-Jun-01
+:END:
+
+
+** I'm really sad about the size difference between Harry/Hermione and Ron.
+
+Look at how they massacred my boy. :(
+:PROPERTIES:
+:Author: IntenseGenius
+:Score: 27
+:DateUnix: 1590935757.0
+:DateShort: 2020-May-31
+:END:
+
+*** I think that it must be very difficult to write Ron as a character - precious few fics that I enjoy manage to treat him like a real character.
+
+He is either left out of the story because they author doesn't know what to do with him, or they bash his character so they can justify pushing him aside. The way that JKR shows his flaws while also having him be funny, brave, and loyal to his friends is one of the best parts of the books.
+:PROPERTIES:
+:Author: benetgladwin
+:Score: 18
+:DateUnix: 1590943669.0
+:DateShort: 2020-May-31
+:END:
+
+**** Ron is so fascinating a character to me because he has such a chip on his shoulder but its completely logical and realistic and he's still good, brave, heroic, and he gradually works out his issues. I think that it makes sense that Indy! Harry writers hate him hes a nuanced, loveable flawed character who's poor and doesn't become rich, who works for and slowly improves and grows whereas they love to instantly over power Harry, make riches and status fall onto him with no effort and avoid nuance and complexity in their story wherever they can. Ron is the antithesis of that
+:PROPERTIES:
+:Author: Brilliant_Sea
+:Score: 7
+:DateUnix: 1590979352.0
+:DateShort: 2020-Jun-01
+:END:
+
+
+** Very cool! Have you considered doing something similar for AO3? It would be interesting to compare.
+:PROPERTIES:
+:Author: ClimateMom
+:Score: 6
+:DateUnix: 1590959817.0
+:DateShort: 2020-Jun-01
+:END:

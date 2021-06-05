@@ -1,0 +1,137 @@
+#+TITLE: What things can Occlumency defend against?
+
+* What things can Occlumency defend against?
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 16
+:DateUnix: 1585742501.0
+:DateShort: 2020-Apr-01
+:FlairText: Discussion
+:END:
+In canon, the only example we get is Legilimency, but that's only a small part of mental magic.
+
+Can it be used to block Obliviation? I suppose it would depend on if the spell accesses your memories psychologically (from the inside) or physiologically (from the outside). I doubt it can prevent influence on the structure of your brain, but we don't know enough about how i works. Occlumency works through misdirection, not prevention, so perhaps the spell could be redirected into the empty mind, or another, less important memory?
+
+Can it be used to block Veritaserum? This is a bit more tricky. It's a potion, which means it has some effect on the body. But the effect is entirely mental. Then again, it places you into a trance of truth, and perhaps this trance can be blocked or diluted. It could also be that using it while under the influence may just make you ignore any questions, but not prevent any of the other effects.
+
+Can it be used to block the Imperius curse? The curse seems to be able to be blocked by willpower alone, but it requires tremendous strength. Still, as the dispelling of the curse is entirely mental, and Occlumency is also mental, it seems likely that it may be able to be used against it. Still, like with Veritaserum, it might not break the curse, but remove the mind it acts upon. Occlumency is misdirection, not shields or barriers, after all.
+
+Can it be used to block a Boggart? The boggart must in some way access your mind to find your deepest fear, or perhaps it assumes a form that then is interpreted as your deepest fear by your mind, no accessing required. Still, Occlumency might work against this - if the boggart or its influence tries to find a form to assume, there would be nothing. What does nothing fear?
+
+Can it be used to block a Dementor? They sense emotions, and possess the power of empathokinesis, or the manipulation of emotion. Perhaps Occlumency might make you invisible to them, if you clear your mind of all emotion. However, their other effects don't seem to be active mind magic, namely their aura of dread and frost.
+
+Can it be used to block a Veela Allure? We don't know if it actually is a real magical thing they can use, but it seems very likely. When dancing, the effect is all but confirmend by the books. It seems like a passive sort of magic, an aura like the dementors, that redirects your interest onto them. Perhaps an empty mind would mean it doesn't have anything to redirect?
+
+Can it be used to block attention-redirection charms? We don't know if there are any geared on wizards, but it seems likely. Based on how they work, it might work against them, it might not.
+
+thoughts?
+
+
+** I mean, my first thought is that it really depends on what school of Occlumency-fanon you ascribe to.
+
+- If it's just a forcefield around your mind, then probably all of them. (I know you said not that, OP, but I'm adding it in so people who do see it like that might be able to get something from this comment).
+
+- If it's just relating to memory and nothing else (ie. blocking someone from accessing your memories or redirecting them from memories they want), then I would say yes to Obliviation (perhaps you can redirect the memory-wipe, or perhaps you simply know there's a gap where there shouldn't be one) and Imperius (but only if asked to provide information/knowledge) and Veritaserum (telling the truth about something relies on being able to access the memory of that thing, so you might be able to redirect your own mind to another memory and be able to give an answer reliant on that instead of what the person is asking for), but no to things like the attention-redirection stuff (attention and memory storage/recall are two very different processes reliant on different parts of the brain).
+
+- If it's emotional control a la Meditation, then yes to Allure, Dementors, Boggarts, and probably the Imperius (emotions being a strong motivator of willpower - see anecdotes of super-strength moments when people's loved ones are in danger).
+
+Like real life psychology, I imagine it as being a bit of everything. There probably are multiple fields of study in Occlumency, each of which believing they have the right answer and interpretation of the 'rules and functionality' that explains why everything that's possible can be done.
+
+- Some probably believe it's all just a forcefield about your mind, which you maintain with concentration or willpower to fend off incoming inputs, and perhaps pair with legilimency to defeat those inputs like a weird game of mental Space Invaders (where the invaders are the incoming thoughts and the cannon is your legilimency).
+
+  - Some probably believe it's about memory manipulation and control, or misdirection as you say, and they believe the ability to control emotions arises from distancing yourself from the memories and breaking off the emotional associations into separate bits, or fooling veritaserum and imperius-questioning is all about modifying the connections between your memories, etc.
+
+- Some probably believe it's all about controlling your emotions and that allows each effect. Perhaps controlling your emotions provides a stronger will to counter Imperius and Allure, gives the Dementors nothing to grab onto, or plays with the emotional-sensory associations we make with memories and that plays havok with obliviations and allows schemata-connection shenanigans when taking veritaserum (or allows you to change your emotional state so you believe that whatever you're saying is the truth when it isn't).
+
+- Hells, perhaps it's just conceptual-magical neurosurgery and you can basically edit your own mental pathways at will.
+
+I find it fun to mix in a bit of outdated, pop, or laymans-interpretation psychology - magic should work differently from physical sciences and I think that extends to mind magics as well.
+
+To give a little more detail on a personal headcanon regarding Veritaserum, I always imagined Occlumency just gave you more control over your mind. Like, Veritaserum essentially removes your inhibitions in regard to telling the truth ("I can't say that, they'll hate me/kill me") and gives you that kind of drunk fog where you don't think too much about the outcomes of what you're saying. Occlumency, in my mind (heh), would give you more ability to think while under the potion - still can't lie, but you can misdirect better and actually consider what you're saying a bit more (which would be how you'd tell if someone was using it, them taking longer to think about their answers rather than just immediately answering).
+
+eg. If you were asked your name, an un-occluded person would just immediately tell them without conscious thinking, if you were occluded, you could actually think about it and say "You can call me Simon." Even if your name wasn't Simon, you're not lying (the person asking the question can indeed call you Simon if they want to) and you're still providing an answer (a name to call you by).
+
+I'm not sure if any of that makes much sense - I didn't sleep well yesterday, so I'm a lil' fuzzy-brain atm - but feel free to ask any questions and I'll do my best to answer. :)
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 11
+:DateUnix: 1585744093.0
+:DateShort: 2020-Apr-01
+:END:
+
+
+** This is how Snape describes it.
+
+#+begin_quote
+  Snape's sneer became more pronounced. “Occlumency, Potter. The magical defense of the mind against external penetration. An obscure branch of magic, but a highly useful one.
+#+end_quote
+
+Rowling also confirmed that it works against Veritaserum.
+
+#+begin_quote
+  Q - Why isn't Veritaserum used in interrogations?\\
+  A - It is, but skilled wizards can avoid its effects by using antidotes and charms. A gifted Occlumens could also resist Veritaserum (JKR).
+#+end_quote
+
+We also know that it works to block the connection between a horcux and a master soul, since both Voldemort and Harry use it to protect their minds from each other.
+
+This is the confirmation of Voldemort's use
+
+#+begin_quote
+  "So tell me, Harry," said Dumbledore. "Your scar... has it been hurting at all?"
+
+  Harry raised a hand unconsciously to his forehead and rubbed i he lightning-shaped mark.
+
+  "No," he said, "and I've been wondering about that. I thought it would be burning all the time now Voldemort's getting so powerful again."
+
+  He glanced up at Dumbledore and saw that he was wearing a satisfied expression.
+
+  "I, on the other hand, thought otherwise," said Dumbledore. "Lord Voldemort has finally realized the dangerous access to his thoughts and feelings you have been enjoying. It appears that he is now employing Occlumency against you."
+#+end_quote
+
+and this is Harry's use
+
+#+begin_quote
+  His scar burned, but he was master of the pain; he felt it, yet was apart from it. He had learned control at last, learned to shut his mind to Voldemort, the very thing Dumbledore had wanted him to learn from Snape.
+#+end_quote
+
+Overall I think it can pretty much protect the mind of the user against any magic which targets it, but the more powerful the mind affecting magic is, the harder it would be for the Occlumens. For example I believe the Imperius would be extremly hard to resist through occlumency alone, since we see several powerful wizards affected by the Imperius despite their position making it likely that they are able to use occlumency, for example Moody, both Crouchs and the Auror Thickness.
+:PROPERTIES:
+:Author: aAlouda
+:Score: 9
+:DateUnix: 1585745924.0
+:DateShort: 2020-Apr-01
+:END:
+
+
+** I guess maybe Dementors, but I haven't much to add tbh to your thoughts
+:PROPERTIES:
+:Author: inside_a_mind
+:Score: 1
+:DateUnix: 1585746852.0
+:DateShort: 2020-Apr-01
+:END:
+
+
+** According to HP Lexicon, occlumency and fighting the Imperius are similar. [[https://www.hp-lexicon.org/thing/occlumency/]]
+
+I like to think it can help against boggarts, dementia, and Veelas.
+
+I look forward to see what other people say.
+:PROPERTIES:
+:Author: GitPuk
+:Score: 1
+:DateUnix: 1585790016.0
+:DateShort: 2020-Apr-02
+:END:
+
+
+** Canonically, it can defend against legilimency, JKR confirmed that it can be used to circumvent veritaserum (I think), and even Sirius used a rudimentary form of it to resist the dementors (it also stands to reason that this is the defense Snape taught his DADA class).
+
+All of this reaffirms that it requires control of emotions and that emotions and memories are linked (which is accurate according to muggle psychology/neuroscience), and also that with enough practice, you will believe what you need to believe, enough so that you'll be able to resist Veritaserum, which suggests that occlumency is also a sort of voluntary doublethink.
+:PROPERTIES:
+:Author: pet_genius
+:Score: 0
+:DateUnix: 1585827154.0
+:DateShort: 2020-Apr-02
+:END:

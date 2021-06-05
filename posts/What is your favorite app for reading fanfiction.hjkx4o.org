@@ -1,0 +1,128 @@
+#+TITLE: What is your favorite app for reading fanfiction?
+
+* What is your favorite app for reading fanfiction?
+:PROPERTIES:
+:Author: Vercalos
+:Score: 2
+:DateUnix: 1593643349.0
+:DateShort: 2020-Jul-02
+:FlairText: Discussion
+:END:
+To be clear: I have only tried apps relating to FFN. I've not tried apps linked to other fanfiction sites, such as ao3. Ironically enough, my /least/ favorite is the official FFN app. With how often it loses my progress on a given fic, or just how long it takes the app to load on my iPad, I'm often better off just using the web-browser, because while I'll lose my progress in a given chapter, I won't open up the app and find the fanfic back at the home screen or chapter one and realize I forgot to bookmark where I left off, and have to figure out which chapter I was on.
+
+My favorite, just for reading, is PocketFiction for iOS, but unfortunately that one lacks a lot of customization features, and it lacks cross platform compatibility. The one thing it does do is it keeps your place very well, and rather than scrolling down through chapters, it displays the fanfic in a similar manner to the iBooks app, in pages where you swipe across to go to the next page. I've never had the app lose my place and start me from chapter 1, like FFN's app has done repeatedly. Another thing I like about it is that it lets me select text so I can look up a word(some random Swahili thrown into the middle of a Harry Potter story, etc.) or a song I've never heard of(because the fanfic author says it inspired that chapter)
+
+
+** None. Download stories as EPub ([[https://github.com/JimmXinu/FanFicFare]]) and read with any EPub reader (CoolReader on Android, Foliate on Linux).
+:PROPERTIES:
+:Author: ceplma
+:Score: 3
+:DateUnix: 1593646529.0
+:DateShort: 2020-Jul-02
+:END:
+
+*** My problem with that is that it's not so great for incomplete fanfics, as the apps have the benefit of notifications for updates.
+:PROPERTIES:
+:Author: Vercalos
+:Score: 2
+:DateUnix: 1593650260.0
+:DateShort: 2020-Jul-02
+:END:
+
+**** If you want updates then the official Fanfiction.Net app is the only decent choice. Otherwise I find downloading as ePubs to be the best way.
+:PROPERTIES:
+:Author: SurbhitSrivastava
+:Score: 2
+:DateUnix: 1593670998.0
+:DateShort: 2020-Jul-02
+:END:
+
+***** Honestly, I prefer the one I mentioned in my initial post, PocketFiction. The only reason I /don't/ use it is the lack of cross-platform support between iOS and Android(I have an iPad and an Android phone.
+:PROPERTIES:
+:Author: Vercalos
+:Score: 1
+:DateUnix: 1593671337.0
+:DateShort: 2020-Jul-02
+:END:
+
+****** Well I wouldn't even know where to start with what's available on iOS. I would say that for cross-platform using standard files like epub is even better most of the time. I have my whole library synced between windows and android with Fbreader. Maybe it has an iOS app too. Sorry I couldn't be more help.
+:PROPERTIES:
+:Author: SurbhitSrivastava
+:Score: 1
+:DateUnix: 1593671854.0
+:DateShort: 2020-Jul-02
+:END:
+
+
+**** =FanFicFare= can check whether the story has new chapters and download them. I have even this script to check all my books (only those changed in the last three months to make run faster): ```sh
+
+* !/bin/sh
+  :PROPERTIES:
+  :CUSTOM_ID: binsh
+  :END:
+export DAYS=${1:-91}
+
+find ~/Knihy/fanfiction/ -name *.epub -mtime -${DAYS} -print0 | \ xargs -t -L 50 -0 fanficfare -o slow_down_sleep_time=6 -u \ >/tmp/knih_update.log 2>&1 ```
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1593672066.0
+:DateShort: 2020-Jul-02
+:END:
+
+
+** I go for @Voice Aloud Reader. Lets me read while I work.
+:PROPERTIES:
+:Author: Siggimondo
+:Score: 2
+:DateUnix: 1593643960.0
+:DateShort: 2020-Jul-02
+:END:
+
+
+** Ai Reader. It's a regular ebook reader app, but I always download fics and read them with it.
+:PROPERTIES:
+:Author: ToValhallaHUN
+:Score: 1
+:DateUnix: 1593643737.0
+:DateShort: 2020-Jul-02
+:END:
+
+
+** Maybe it's because it's my phone, but the official FFN app loses my place within a chapter some, but almost never within a fic if I download it. Not sure if it's the mobile v tablet or downloading the fic though.
+:PROPERTIES:
+:Author: kdbvols
+:Score: 1
+:DateUnix: 1593649297.0
+:DateShort: 2020-Jul-02
+:END:
+
+*** Well, on the iPad it sometimes takes a very long time or just fails to load fanfics for no apparent reason. Like "I have the whole thing downloaded, why hasn't it loaded in the twenty minutes I've been sitting here?" sort of thing. Don't have the same issue with the android phone version of the app, but both versions have the issue of losing my place on occasion and opening a story back to Chapter 1.
+:PROPERTIES:
+:Author: Vercalos
+:Score: 1
+:DateUnix: 1593674086.0
+:DateShort: 2020-Jul-02
+:END:
+
+
+** I use an Ipad application book reader called "marvin" which read can only epubs. I download the story from ffn using [[http://www.ff2ebook.com/index.php][ff2ebook]], read the epub using "Calibre". And finally load them to the ipad and "marvin" using dropbox. Simple huh?
+
+I usually load about 25 stories at a time that I collect over several weeks reading recommendations I find here on reddit.
+:PROPERTIES:
+:Author: lensman3a
+:Score: 1
+:DateUnix: 1593656041.0
+:DateShort: 2020-Jul-02
+:END:
+
+
+** I used to have trouble with the official FFN app losing my place, but not recently, that seems to have been fixed at least for me. Are you running the latest version?
+
+I've looked at a few other apps and none of them struck me as being any good, which is unfortunate as that makes it far harder than it should be to read AO3 in particular, where I know that there's some good content, it's just far harder to read on a mobile device than it should be. Shame they don't have an official app.
+:PROPERTIES:
+:Author: HiddenAltAccount
+:Score: 1
+:DateUnix: 1593687483.0
+:DateShort: 2020-Jul-02
+:END:

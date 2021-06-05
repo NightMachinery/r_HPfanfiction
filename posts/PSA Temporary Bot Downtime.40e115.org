@@ -1,0 +1,110 @@
+#+TITLE: PSA: Temporary Bot Downtime
+
+* PSA: Temporary Bot Downtime
+:PROPERTIES:
+:Author: tusing
+:Score: 17
+:DateUnix: 1452470521.0
+:DateShort: 2016-Jan-11
+:FlairText: Meta
+:END:
+The bot might be down for a bit as I test out and merge the changes [[/u/stuxcrystal]] has implemented!
+
+*Edit 1:* Bot should be back up now. Let's hope it doesn't kill us all. Here is the [[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][changelog]]:
+
+***** Guide
+      :PROPERTIES:
+      :CUSTOM_ID: guide
+      :END:
+
+- *(+)* - New feature
+- *(C)* - Feature change
+- *(F)* - Fix or minor improvements
+- *(B)* - Backend improvement
+
+** v1.4.0 - Sun, 10th January 2016
+   :PROPERTIES:
+   :CUSTOM_ID: v1.4.0---sun-10th-january-2016
+   :END:
+
+- *(+)* Adult FanFiction is now supported (/direct link support only/). (=linkaff(subdomain:ID)= will also work).
+- *(C)* To prevent abuse, people can only delete calls to the bot they made.
+- *(F)* AO3 Author Notes formatting fixed.
+- *(B)* A basic logging system has been added.
+- *(B)* Scrapers for other search engines added.
+- *(B)* Much of the code has been refactored.
+
+*Edit 2:* Down again. !parent seems to be broken.\\
+*Edit 3:* Fixed. We should be back up again!
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1452472594.0
+:DateShort: 2016-Jan-11
+:END:
+
+*** Just updated the [[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][changelog]]:
+
+***** Guide
+      :PROPERTIES:
+      :CUSTOM_ID: guide
+      :END:
+
+- *(+)* - New feature
+- *(C)* - Feature change
+- *(F)* - Fix or minor improvements
+- *(B)* - Backend improvement
+
+** v1.4.0 - Sun, 10th January 2016
+   :PROPERTIES:
+   :CUSTOM_ID: v1.4.0---sun-10th-january-2016
+   :END:
+
+- *(+)* Adult FanFiction is now supported (/direct link support only/). (=linkaff(subdomain:ID)= will also work).
+- *(C)* To prevent abuse, people can only delete calls to the bot they made.
+- *(F)* AO3 Author Notes formatting fixed.
+- *(B)* A basic logging system has been added.
+- *(B)* Scrapers for other search engines added.
+- *(B)* Much of the code has been refactored.
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1452479521.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+** Oh cool, thanks for the update. I'm totally sending the bot a virtual valentines card this year. Don't tell it.
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 3
+:DateUnix: 1452484409.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+** Thanks for your hard work and for continuing to improve the bot. (:
+:PROPERTIES:
+:Author: lurkielurker
+:Score: 3
+:DateUnix: 1452488754.0
+:DateShort: 2016-Jan-11
+:END:
+
+*** Thanks! But all the credit for hard work for this update was done by [[/u/stuxcrystal]], I just fixed a few minor bugs and threw it on the server!
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1452489615.0
+:DateShort: 2016-Jan-11
+:END:
+
+
+** [deleted]
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1452481063.0
+:DateShort: 2016-Jan-11
+:END:

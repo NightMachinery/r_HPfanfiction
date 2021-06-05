@@ -1,0 +1,96 @@
+#+TITLE: [Request] Temporary beta needed – please help
+
+* [Request] Temporary beta needed – please help
+:PROPERTIES:
+:Author: hippoparty
+:Score: 6
+:DateUnix: 1444477540.0
+:DateShort: 2015-Oct-10
+:FlairText: Request
+:END:
+So, I've failed spectacularly in finding a beta reader and I now have a completed chapter to post. I would normally just get this uploaded, but favourites/followers have grown a lot since the last chapter, and my many mistakes are now getting noticed more frequently. If anyone can spare some time to check one chapter for me, that would be brilliant. I'm not worried about finding a permanent beta, a temporarily one to get this chapter up will do for now. I would love to be able to swap beta services, but my spare time is non existent, so I'll pay back in reviews.
+
+The story is 'Bound by Souls'. It's a Harry Potter and Tom Riddle story set in first year and is currently 10 chapters in. It's very loosely crossed with 'His Dark Materials' by Philip Pullman. Chapter 11 is the chapter I need checking over.
+
+Any harsh criticism is welcome, although it's mainly going to be grammar that will need correcting. Please pm me on ffn if you're interested and I'll shoot it your way.
+
+Cheers.
+
+linkffn(11031294)
+
+
+** This requires quite a lot of work.
+
+To begin with, you avoid "said" like the plague - which is a phase all new writers go through, but all good ones eventually learn to stop doing. "said" is your best friend, it should be the most used word to indicate actual speech as opposed to stated, interrupted and whatever else is there (with exception of asked).
+
+"But said is so plebian!"/"But said doesn't feel sophisticated enough for a story!"
+
+It. Doesn't. Matter. Using said makes it easier for your reader to read, and people overlook it naturally, making the dialogue flow smoother. Using those other verbs to indicate speech should only be for emphasis - and if you emphasize everything, you emphasize nothing.
+
+The same rule goes for adverbs. You have one for every sentence which is wrong, wrong, wrong! Cut out 90-95% of it. Adverbs are for emphasis only. You should be using the dialogue itself (the words and punctuation), to add life into the lines, so to speak. Speaking of punctuation, your story needs a lot of work on that end too. Lots of missing commas.
+
+Group together dialogue by the same character if no one else has a line to speak, instead of starting a new line. Combining all of this, we get:
+
+"Yes, yes, of course." Mrs. Gordon's smile faltered, if only for a second. "Many of Harry's teachers have..."
+
+See how much better that reads?
+
+Not a fan of the italicized sentences for Tom either. Seeing as he's a main character and therefore should have plenty of lines, it should be in normal font (because repeated italics makes it hard to read). I don't care how cool you think it is, or for whatever distinction you think it makes. It's poor form.
+
+Now, I personally think you have too much dialogue in your story - which is rare, because my usual complaint is that there isn't enough. In this case though, you have nothing but dialogue. More actions from the characters are needed to give them life. As it is, its like watching two actors recite a script without moving on the stage at all.
+:PROPERTIES:
+:Author: HaltCPM
+:Score: 6
+:DateUnix: 1444487970.0
+:DateShort: 2015-Oct-10
+:END:
+
+*** Okay, I can certainly try and implement the above. In all honesty, I hadn't realised I was avoiding the word said, so this should be easy enough to do. Again, too much dialogue, not enough action, I'll have a go at re-writing things.
+
+I'd forgotten that Tom was in italics for the first chapter. It doesn't continue throughout the story and I wouldn't do it again.
+
+Thanks for the pointers, they've been a big help. On to draft B!
+:PROPERTIES:
+:Author: hippoparty
+:Score: 1
+:DateUnix: 1444492511.0
+:DateShort: 2015-Oct-10
+:END:
+
+
+** Fic is literally nothing but dialog. Might want to look into that.
+:PROPERTIES:
+:Author: howtopleaseme
+:Score: 3
+:DateUnix: 1444484748.0
+:DateShort: 2015-Oct-10
+:END:
+
+*** Will do, thanks!
+:PROPERTIES:
+:Author: hippoparty
+:Score: 1
+:DateUnix: 1444492536.0
+:DateShort: 2015-Oct-10
+:END:
+
+
+** [[http://www.fanfiction.net/s/11031294/1/][*/Bound by Souls/*]] by [[https://www.fanfiction.net/u/5579774/HippoParty][/HippoParty/]]
+
+#+begin_quote
+  When Harry goes to Hogwarts, he finally understands that having a dæmon is normal. Only, the wizarding world never anticipated that Harry's dæmon would be an 11 year old Tom Riddle. AU Philosophers Stone. Harry Potter inspired by His Dark Materials.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 10 *|* /Words/: 47,955 *|* /Reviews/: 212 *|* /Favs/: 391 *|* /Follows/: 583 *|* /Updated/: 7/26 *|* /Published/: 2/8 *|* /id/: 11031294 *|* /Language/: English *|* /Genre/: Friendship/Adventure *|* /Characters/: Harry P., Tom R. Jr. *|* /Download/: [[http://www.p0ody-files.com/ff_to_ebook/mobile/makeEpub.php?id=11031294][EPUB]]}
+
+--------------
+
+*Bot v1.3.0 - 9/7/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* Use /ffnbot!delete/ to delete a comment! Use /ffnbot!refresh/ to refresh bot replies!
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1444477569.0
+:DateShort: 2015-Oct-10
+:END:

@@ -1,0 +1,82 @@
+#+TITLE: How to save your favorite fanfic
+
+* [[http://www.flagfic.com/][How to save your favorite fanfic]]
+:PROPERTIES:
+:Author: eviltwinskippy
+:Score: 18
+:DateUnix: 1327986137.0
+:DateShort: 2012-Jan-31
+:END:
+
+** Good find.
+
+I've used FanFictionDownloader so far: [[http://fanfictiondownloader.net/index.php]]
+
+Calibre is great for conversion between formats: [[http://calibre-ebook.com/]]
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1328028374.0
+:DateShort: 2012-Jan-31
+:END:
+
+
+** The other day, I heard a rumor that one of my favorite fanfic authors might quit the game. I started to get worried she'd go so far as to delete her fanfic from fanfiction.net, so I began to ask around for the best way to save fics. Someone pointed me toward [[http://www.flagfic.com/][flagfic]], and I have to say, it's working really well so far. It supports many major fanfiction sites, and will convert stories into PDF or into Nook and Kindle-friendly formats. I thought the denizens of [[/r/fanfiction][r/fanfiction]] could make good use of it.
+:PROPERTIES:
+:Author: eviltwinskippy
+:Score: 3
+:DateUnix: 1327986437.0
+:DateShort: 2012-Jan-31
+:END:
+
+*** Super late reply, I know... But may I ask who this favorite author is?
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1336004205.0
+:DateShort: 2012-May-03
+:END:
+
+
+** This is great. It's a shame they don't cover more fanfic sites. Off to request!
+:PROPERTIES:
+:Author: crayonbox
+:Score: 3
+:DateUnix: 1328036048.0
+:DateShort: 2012-Jan-31
+:END:
+
+
+** Wish I knew about this a long time ago! I've been doing the ol' copy and paste to a document and convert to .mobi format for my Kindle.
+
+Thanks for bringing to my attention :) It's so much nicer having a great fanfic at hand to read wherever you want.
+:PROPERTIES:
+:Author: magic_is_might
+:Score: 2
+:DateUnix: 1329252608.0
+:DateShort: 2012-Feb-15
+:END:
+
+
+** I LOVE THIS SITE!
+:PROPERTIES:
+:Author: sitman
+:Score: 2
+:DateUnix: 1334335352.0
+:DateShort: 2012-Apr-13
+:END:
+
+
+** Thank you, thank you, thank you!
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1336004181.0
+:DateShort: 2012-May-03
+:END:
+
+
+** This bookmarklet is even better: javascript:void(location.href='[[http://fanfictionloader.appspot.com/fdown?format=epub&login=ffdl&password=sp4rkl3s&url='+location.href]])
+:PROPERTIES:
+:Author: Sunjamin
+:Score: 1
+:DateUnix: 1328288443.0
+:DateShort: 2012-Feb-03
+:END:
