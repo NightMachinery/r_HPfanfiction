@@ -1,0 +1,20 @@
+:PROPERTIES:
+:Author: Thatgirl318
+:Score: 2
+:DateUnix: 1580437647.0
+:DateShort: 2020-Jan-31
+:END:
+
+Fair warning: I'm not a computer engineer so my knowledge of circuitry is slightly incomplete.
+
+Okay, so first off Canon Harry Potter magic isn't well defined which makes it infinitely more difficult to discuss because we don't know what we're working with.
+
+The first difficulty is that electronics work by there being two states: high voltage and low voltage (or in cases of memory magnetized and unmagnetized). I don't know if Magic could be designed to work in such a way.
+
+In my head, I've thought of using runes like a programming language. If each rune had its own meaning you could string them together to make a spell, give it a name like Wingardum Leviosa (so no one would ever accidentally use the spell), have some way of turning it into a spell (like by burning the paper with a different spell), which then creates the spell that everyone can use.
+
+Or course magic just does whatever it wants so there a chance you could cause the apocalypse by casting a new spell. Or far more likely it does nothing because it got confused half way through and gave up (which computers do all. the. time.)
+
+Of course there becomes the issue that what if two people name a spell the same thing, what would the magic do? Do you have a spell that performs two different ways depending on which spell creation you are closer too? If one spell is performed more often does it get precedence?
+
+Back to the question at the end: at first I thought about creating a runic table that could act like a holographic interface (which is infinitely more easier to do since magic can manipulate light and thus create holograms), but I realized if you could inscribe runes on the table, you could make into a spell which is way cooler.

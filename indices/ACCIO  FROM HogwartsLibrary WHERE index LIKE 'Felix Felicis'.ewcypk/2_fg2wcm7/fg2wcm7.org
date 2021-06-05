@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 4
+:DateUnix: 1580458748.0
+:DateShort: 2020-Jan-31
+:END:
+
+Whoever made this table's =index= column a =varchar= data type needs a good dressing down.
+
+=ACCIO * FROM libraries WHERE library=Hogwarts AND (title LIKE '%Felix Felicis%' OR topic LIKE '%Felix Felicis%')=
