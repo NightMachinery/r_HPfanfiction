@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Adaire_
+:Score: 2
+:DateUnix: 1573811332.0
+:DateShort: 2019-Nov-15
+:END:
+
+As someone who does research in fields related to this, I'm curious: what did you use to generate this? Was it just a time-homogeneous finite state Markov chain trained on fanfiction, or something more fancy that considers n-grams and such?
