@@ -1,0 +1,22 @@
+:PROPERTIES:
+:Author: Erska
+:Score: 3
+:DateUnix: 1575982862.0
+:DateShort: 2019-Dec-10
+:END:
+
+in fanfiction.net and Ao3 the number is in the address of the fic.
+
+- [[https://www.fanfiction.net/s/13220537/1/A-Wand-for-Skitter][fanfiction.net/s/*13220537*/1/A-Wand-for-Skitter]]
+
+and
+
+- [[https://archiveofourown.org/works/17947397/chapters/42385007][archiveofourown.org/works/*17947397*/chapters/42385007]]
+
+fanfiction-net also has the number in the description under =id: 13220537=
+
+insert those numbers into =linkffn()= and =linkao3()= to have the bot then pick them up. I myself like using:
+
+ffnbot!directlinks ^{this makes the bot go through all links in your post, and posting those fics}
+
+and having the links actually be links in my post as well as having the bot link them (=[link name](address)=)

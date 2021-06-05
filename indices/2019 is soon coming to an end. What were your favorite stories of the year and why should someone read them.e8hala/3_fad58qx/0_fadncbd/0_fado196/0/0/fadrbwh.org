@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 3
+:DateUnix: 1575983989.0
+:DateShort: 2019-Dec-10
+:END:
+
+#+begin_quote
+  Because I have the app, I can't even use my browser to get to the web page without it defaulting to the app.
+#+end_quote
+
+If you search for the fic on google (or use a hyperlink on any other browser page) hold your finger on the link until a box pops up giving you the option to copy it. You can then paste the full URL into your comment and reduce it down to just the fic id#, or with the full URL you can just save some time by calling the bot with ffnbot!directlinks.

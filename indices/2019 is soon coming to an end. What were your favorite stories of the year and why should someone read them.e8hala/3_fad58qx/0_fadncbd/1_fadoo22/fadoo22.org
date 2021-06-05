@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 4
+:DateUnix: 1575981446.0
+:DateShort: 2019-Dec-10
+:END:
+
+The id# is also in the url for fics on Ao3. For example:
+
+[[https://archiveofourown.org/works/16904064/chapters/39712053]]
+
+The id# is 16904064. It's always the first long number between slashes.

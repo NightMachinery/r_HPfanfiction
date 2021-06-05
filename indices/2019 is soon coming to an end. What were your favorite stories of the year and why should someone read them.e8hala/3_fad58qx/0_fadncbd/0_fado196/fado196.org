@@ -1,0 +1,36 @@
+:PROPERTIES:
+:Author: EpicDaNoob
+:Score: 10
+:DateUnix: 1575980773.0
+:DateShort: 2019-Dec-10
+:END:
+
+TLDR at end, step-by-step instructions follow.
+
+Go to the story URL. I picked up some random one from this thread.
+
+#+begin_quote
+  [[https://www.fanfiction.net/s/13407891/1/]]
+#+end_quote
+
+You can ignore this entire part:
+
+#+begin_quote
+  [[https://www.fanfiction.net/s/]]
+#+end_quote
+
+Up to /s/. That leaves
+
+#+begin_quote
+  13407891/1/
+#+end_quote
+
+Then you can ignore the part at the end, /1/, as it's the chapter number. If you change it to 2 and hit enter, you go to the second chapter. This might be missing in oneshots, that doesn't matter.
+
+So what you're left with is
+
+#+begin_quote
+  13407891
+#+end_quote
+
+*TLDR: the long number close to the end of the URL.*
