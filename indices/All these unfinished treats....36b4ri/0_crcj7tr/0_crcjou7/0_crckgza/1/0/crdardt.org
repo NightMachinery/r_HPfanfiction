@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 1
+:DateUnix: 1431980556.0
+:DateShort: 2015-May-19
+:END:
+
+[[/u/dahlesreb]] made a great comment about a year ago.
+
+#+begin_quote
+  [[http://benalman.com/code/test/jquery-run-code-bookmarklet/?name=FF.net+Copyfix&ver=1.3.2&code=%24%28%22div.storytext%22%29.removeClass%28%22nocopy%22%29%3B][Here you go.]] Works in all browsers, just drag the green button into your bookmarks. Click it when you're on a ff.net site and copy/paste to your heart's content. Edit: probably won't work on mobile browsers due to how they implement bookmarks, sorry mobile readers.
+#+end_quote
+
+For fanfiction downloader apps and my personal scripts, they don't implement Javascript when saving the files and ff.net still gives you the raw story, they just use a bit of JS to disable highlighting.

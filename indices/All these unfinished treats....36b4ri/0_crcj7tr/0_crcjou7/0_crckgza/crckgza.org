@@ -1,0 +1,20 @@
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 2
+:DateUnix: 1431917433.0
+:DateShort: 2015-May-18
+:END:
+
+Most of the stuff I read is on fanfiction.net so I just use [[http://www.fanfictiondownloader.net/download.php][FanFictionDownloader]].
+
+[[http://www.fanfictiondownloader.net/archives.php][Here]] is the list of sites it supports.
+
+I haven't used fictionhunt.com before but I just did a really simple 1 line script.
+
+#+begin_example
+  curl -O http://fictionhunt.com/read/7316864/[1-16]
+#+end_example
+
+It basically spits 16 files that have chapter number for the file name. I manually create a folder with the proper title and drop them all in.
+
+If you use fictionhunt.com a lot, let me know. I can probably make a script that would automate more of it.
