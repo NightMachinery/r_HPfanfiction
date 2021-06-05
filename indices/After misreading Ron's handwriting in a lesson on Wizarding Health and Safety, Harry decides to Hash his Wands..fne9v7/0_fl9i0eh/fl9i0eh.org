@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: raza_is_gay
+:Score: 37
+:DateUnix: 1584956647.0
+:DateShort: 2020-Mar-23
+:END:
+
+"Aha, I've done it," said Harry triumphantly. "Thanks for giving me the advice to hash my wand, Ron. Now Voldemort can never hack into it!"
+
+Ron said nothing as he was too busy coughing into his food like the sanitary wizard he was.
+
+"It's still 1995," Hermione said, peering over Harry's shoulders at his work. "SHA-256 hasn't been invented yet. Also you can't encrypt a wand. Also, imagine not using a bloody salt with your hashing function. Does the writer of this comment even care about these plot holes or is he too busy trying to flex his computer science knowledge?"
+
+Harry said nothing as the writer realized that his Jupyter Notebook has finally finished running his cell.
