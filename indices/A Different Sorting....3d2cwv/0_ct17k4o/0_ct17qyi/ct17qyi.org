@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 6
+:DateUnix: 1436748874.0
+:DateShort: 2015-Jul-13
+:END:
+
+[[http://www.fanfiction.net/s/11106651/1/][*/Trial By Troll/*]] by [[https://www.fanfiction.net/u/2496525/P4lindrome][/P4lindrome/]]
+
+#+begin_quote
+  The boy from the train was right. In order to be Sorted, they really did have to fight a troll.
+
+  ^{Harry Potter *|* /Rated:/ Fiction T - English - Adventure/Suspense - Harry P. *|* /Words:/ 2,956 *|* /Reviews:/ 26 *|* /Favs:/ 114 *|* /Follows:/ 118 *|* /Published:/ 3/11 *|* /Status:/ Complete *|* /id:/ 11106651}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}
