@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 26
+:DateUnix: 1586258355.0
+:DateShort: 2020-Apr-07
+:END:
+
+aha, but the cupkey triggers the scripted event of Voldemort's resurrection. Even if you manage to break free of the binds, both Wormtail and Voldemort are just an animated setpiece without collisions until he's reanimated. The flash of light from the cauldron actually marks the transition from the animated model into two NPCs, and that's the earliest you can defeat him.
+
+And even then, you can't truly kill him even if you exploit the restoration loop to get a wand with +2784573483864% to destruction magic to get around his invulnerability keyword. He doesn't drop anything, and he's not dead forever, as the game actually has multiple instances of the Voldemort character that is activated at different points.
+
+You can save Cedric, though. There's actually a cut conversation between him and his father that gets activated at that point, but it only happens if you grab him and clip through the headstone. The physics projectile of the AK hits the stone instead of him, and he lives.
+
+For fifth year, you can trap Umbridge in her office the entire time by pickpocketing her key and wand and then locking her inside. This way, you can run the halls by bunnyhopping without being forced into dialogue with her inquisitorial squad, and she never discovers the RoR. The ministry map is easily the most exploitable, you can just take the first chair you find and then propglitch through the wall, fall into the cell's water level and then swim into the Department of Mysteries. However, you can also swim to the northeast from the central room and find the secluded setpiece chamber where the vision with Sirius in it happens, and all the NPCs are actually there. If you use your resto-boosted wand against the death eaters there you can actually rescue him and end up with two versions of Sirius. It's wack.
+
+If you exploit the petrificus totalus and the mobilocorpus spell. You can paralyze all the death eaters and fling them through the arch of death, which is an instant kill for anything, regardless of level or health.
+
+Sixth and seventh year are the worst. In sixth, you just need to glitch through dumbledore's office door after he sends you out, and that triggers the next memory scene. However, the horcrux hunt is actually just a series of levels. There's nothing you can do but skip through the dialogue and then boost people to the position the next script fires using Flipendo. Then you do the quicktime events using your macro and destroy all the horcruxes.
