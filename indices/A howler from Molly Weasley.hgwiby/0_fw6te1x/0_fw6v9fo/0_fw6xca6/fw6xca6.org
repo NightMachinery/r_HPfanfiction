@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: PsiGuy60
+:Score: 6
+:DateUnix: 1593284529.0
+:DateShort: 2020-Jun-27
+:END:
+
+Basically exactly the way you just saw. The bot-command is "RemindMe! amount-of-time (in this case, 1 month)". The bot will send you a private message to remind you of the post.
+
+If someone else has already created a reminder, you can click the link in RemindMeBot's response to also get notified.
