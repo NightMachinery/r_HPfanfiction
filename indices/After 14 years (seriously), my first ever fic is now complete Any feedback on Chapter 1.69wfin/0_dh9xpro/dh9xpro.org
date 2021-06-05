@@ -1,0 +1,30 @@
+:PROPERTIES:
+:Author: WizardOffArts
+:Score: 7
+:DateUnix: 1494227804.0
+:DateShort: 2017-May-08
+:END:
+
+Technically well written, but confusing. It feels distant, dream-like. Time references are ambiguous.
+
+#+begin_quote
+  Nearly a quarter of a century had passed
+#+end_quote
+
+How many years is that? The use of "century" exaggerates the time span, which is probably what you aimed for. I'd have used "decades". Still a long time period, but more believable.
+
+#+begin_quote
+  "Don't lose your temper," he put in abruptly as the words popped into his head. "Be polite and stick to the facts."
+
+  The part of Sirius's mind that was responsible for mature thinking commended him for this very reasonable advice, even as he pushed aside the reality that he had never once taken heed of it himself.
+
+  "Brilliant! Really excellent. I knew you'd do fine." Sirius beamed at Harry, shaking his hand buoyantly.
+#+end_quote
+
+Is this the same scene, or was there supposed to be a scene break in there?
+
+#+begin_quote
+  Figuring he ought to make a minimal effort to look for Kreacher, Sirius crossed the pantry and yanked open the small door that led to the house-elf's den.
+#+end_quote
+
+A minimal effort is to call him. You're using it as an excuse to find the bird cage, but it feels contrived.
