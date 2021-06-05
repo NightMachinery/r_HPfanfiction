@@ -1,0 +1,21 @@
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1471830666.0
+:DateShort: 2016-Aug-22
+:END:
+
+I often find myself writing better in the first person. Go for it.
+
+Make sure the perspective stays with that character. By going for first person, you are constraining yourself to that person's viewpoint, their knowledge, their biases. You are furthermore constraining them to what they knew in the moment. You can ease this restriction by adding a frame to the story and referencing that frame. Or if you're writing in the past tense, you might be able to use an implicit frame, sort of. It works out like:
+
+#+begin_quote
+  "What's going on?" I asked Bella.
+
+  She wouldn't meet my eyes. "Nothing. Just -- Sirius, don't talk to me. Stay on your Gryffindor side and forget I exist."
+
+  I thought she was just embarrassed to be seen with her kid cousin. Later, I realized it was the last time she spoke to me as Bellatrix Black, my cousin, and just before she put the Death Eater mask over her soul.
+#+end_quote
+
+An explicit reference /(later, I realized)/ to an implicit frame (I didn't start out with "It was the summer of 1995, and I was sitting down to talk to Harry about the rest of the family" or anything like that). It's clear that Sirius is retelling this story from a later perspective and including some of that information.
+
+Consistency is good -- if you have an conceit that the story is someone's diary, you can include inline retrospectives the person would have realized before writing that diary entry, for instance, but not stuff they wouldn't have realized for years.
