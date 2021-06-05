@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: pycus
+:Score: 3
+:DateUnix: 1620427887.0
+:DateShort: 2021-May-08
+:END:
+
+OK, listen up. Having been involved with electronics since the 90's and having dealt with 80s, 90s, and 00s tech I can tell you that electronics from those eras were incredibly poor quality in design reliability compared to their modern counterparts.
+
+Most of the issues came from two sources. First one being the internal clocks on the boards that could easily get damaged or develop some sort of issue, resulting in errors and problems galore.
+
+Two the power supplies were notoriously bad, which on top of faults in manufacturing of individual parts and the designs themselves being not very robust coupled with not many protections against fluctuations in the electric current often resulted in high failure rate.
+
+What many take for granted these days is the standardization and certification both of manufacture and design that ensure good compatibility between components and protections against issues with the current, overheating, electrostatic et cetera ad nauseam.
+
+All those micro chips and switches and injectors and spinning discs and lasers and sensors are designed to work in very precisely conditioned environments and any deviation in the amount of static in the air, like let's say skin contact with a wand or a magical object and touching an electronic device would result in frying of said device. The already overheating capacitors, power lines, and whateverthefuckwasgoing on with the power supplies of the 90's just would have no chance in contact with magic. I mean I'm sure you remember getting a shock from an electronic device at least once in your childhood, so if you were to multiply it by 10 or more you could definitely imagine electronics frying themselves.
+
+Sorry for chaotic muggle answer but it's getting late and it's the best that I've got.

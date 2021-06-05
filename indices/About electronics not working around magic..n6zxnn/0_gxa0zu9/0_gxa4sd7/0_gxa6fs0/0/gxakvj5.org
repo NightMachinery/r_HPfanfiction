@@ -1,0 +1,20 @@
+:PROPERTIES:
+:Author: QueerBallOfFluff
+:Score: 6
+:DateUnix: 1620406864.0
+:DateShort: 2021-May-07
+:END:
+
+You mean EMC/EMI or ESD not EMP. And you're wrong anyway.
+
+EMP is "electromagnetic pulse" which works by causing EMI and ESD, but isn't a thing any consumer electronics is going to experience.
+
+Modern electronics are actually far less susceptible to EMI than vintage electronics. Vacuum tubes for example, are incredibly sensitive to phonic and electromagnetic interference.
+
+Modern ICs are rated to a higher level of ESD and EMI protection.
+
+Metal casings on boards, used for shielding from all the EMI around us in the form of microwaves for communication, are designed specifically to protect from interference.
+
+The issue probably comes down to macro or microelectronics rather than age. Or whether it is actually electrical mains and not an electronic device.
+
+Source: I have a postgraduate degree in electronic engineering and work on electronics installations which contain unshielded solenoids (basically mini EMI generators).

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: Astramancer_
+:Score: 7
+:DateUnix: 1620418273.0
+:DateShort: 2021-May-08
+:END:
+
+Considering the location of Diagon Ally, the ministry, and St Mungos, hell, even Grimmauld Place, it's safe to say that the mere presence of magic even in fairly high concentration does not impede electronics. Otherwise muggles could easily find wizards just by trying to figure out those weird electrical deadzones.
+
+The best theory I've read about it is that part of the standard suite of spells for magical locations, especially open-air ones, is something to prevent lightning strikes. Depending on how broadly "lightning" is defined by the spell, that could easily stop electronics from working.
+
+And since it's a deliberate spell instead of some weird side effect of magical concentration, of course it would have sharply delineated edges and not spill into the muggle world.
+
+And sure, wizards could change the boundaries of the spell or even cast a nullifying spell on the piece of tech in question in order to make electronics work... but why? There's probably not going to be much overlap between "People who have active knowledge of the spell," "People who know that the spell stops electronics from working" and "People who want to use electronics in a magical area."
+
+There's also the issue that modern electronics, at least, have practically molecular level precision required in some of their components in order to function (modern high end processors have transistors a mere 70 atoms wide!). Any sort of distortion /at all/ will cause them to fail. So shrinking? Transfiguring? Maybe even shoving them into a portable hole (hermoine's beaded bag)? Who knows if they come out *exactly* the same. Sure, for most things a shift of 10 atoms left or right won't matter, but electronics? Broken.
