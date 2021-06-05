@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 4
+:DateUnix: 1499069276.0
+:DateShort: 2017-Jul-03
+:END:
+
+FFN uses Unix time for their time stamps, which is the number of seconds since 1 Jan 1970. That fic probably has a time stamp of 0.
