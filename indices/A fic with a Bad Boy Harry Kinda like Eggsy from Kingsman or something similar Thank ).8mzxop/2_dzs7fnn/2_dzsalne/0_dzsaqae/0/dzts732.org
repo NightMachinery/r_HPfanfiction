@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: GrinningJest3r
+:Score: 2
+:DateUnix: 1527694812.0
+:DateShort: 2018-May-30
+:END:
+
+Also, editing a comment won't bring the bot back around. You'll either need to reply to your own comment with ffnbot!refresh or do a new post (either new top level or reply to your own) with the correctly formatted linkffn.
