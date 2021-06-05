@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: Vercalos
+:Score: 2
+:DateUnix: 1592140164.0
+:DateShort: 2020-Jun-14
+:END:
+
+Huh? No. I was replying to the user triggering the “remind me” bot. I mean TOMT has a bot that automatically changes a Flair to solved once the OP declares it, and ALSO can notify subscribers when a given piece of media is found.
+
+Basically the process goes like this
+
+1. TOMT post made looking for something.
+2. Bot replies to post with a post with a link that lets someone subscribe to the post(they think the subject is interesting but don't know it either).
+3. People try to help find subject. Eventually, the correct answer is found.
+4. OP replies to the post with the correct answer with the keyword to close the search and mark the correct response.
+5. Bot changes the flair to reflect the “Solved” status, and notifies anyone who subscribed to the topic that the correct answer has been found.
