@@ -1,0 +1,39 @@
+:PROPERTIES:
+:Author: nothorse
+:Score: 2
+:DateUnix: 1480657758.0
+:DateShort: 2016-Dec-02
+:END:
+
+The other way is to get a user-css browser extension like /Stylish/ or /UserCSS/ and use the following stylesheet. It keeeps most of the layout, but reverses the colors. It's a quick hack, but servicable.
+
+#+begin_example
+      .modtools-page>div.content, .res.res-commentBoxes body>.content, body>.content, .link .usertext-body .md, .side, .link .md :not(pre)>code, .link .md pre, .md code, .md pre, .new-comment .md :not(pre)>code, .new-comment .md pre, .usertext.border .md :not(pre)>code, .usertext.border .md pre,
+      .hover-bubble.multi-selector .create-multi input[type=text], input#url, input[type=text], textarea {
+       background: #eee!important;
+       color: #333!important;
+      }
+
+      .md, blockquote, .menuarea, .panestack-title, h1, h2, h3, h4, h5, h6,
+      #searchexpando a, .res #srList a, a, body .generic-table {
+        color: #333!important;
+      }
+
+      body span.score {
+       color: #3b963b!important;
+      }
+
+      .entry .buttons li a, .entry .buttons li a.nonbutton, .link .entry .tagline, .link .redditSingleClick, .tagline a, .md a, .dropdown.lightdrop .selected {
+        color: #555!important;
+      }
+
+      .search-result-header>a, .thing a.title.may-blank.logged-in {
+        color: #ff8914!important;
+      }
+
+      lcTagged.RES-keyNav-activeElement {
+       background: #efe!important;
+       color: #343!important;
+
+      }
+#+end_example
