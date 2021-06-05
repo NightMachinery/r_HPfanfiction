@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: bluspacecow
+:Score: 0
+:DateUnix: 1540181241.0
+:DateShort: 2018-Oct-22
+:END:
+
+PDF My URL should in theory work as it's using their servers to go to the profile page to create a PDF. Which doesn't allow you to log into [[https://fanfiction.net][fanfiction.net]] at all just feeding it a [[https://fanfiction.net][fanfiction.net]] profile URL. Nor does it allow javascript code to run to check for cursor positions. No login cookie. No javascript. Nothing for the hack to work with.

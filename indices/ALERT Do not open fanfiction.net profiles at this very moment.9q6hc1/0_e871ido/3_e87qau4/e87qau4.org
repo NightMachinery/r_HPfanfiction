@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: StarDolph
+:Score: 2
+:DateUnix: 1540175708.0
+:DateShort: 2018-Oct-22
+:END:
+
+Ok so: Code (computer instructions) is simply text like you would be reading on the internet. However, code that your computer is willing to execute is generally much more tightly secured than arbitrary text on the internet. For example, profiles/fics can be created by just about anyone, but the code to actually display the website is relatively hard to change.
+
+When you can getting a computer to execute that are generally supposed to be considered payload (like text for a website) as instructions is generally called an injection attack. Why would people do it? Well, if they trick your computer into thinking the instructions come from a more trusted source, they have all the permissions that the more trusted source has. You can do some nasty things with javascript if you want: Keyloggers (to record passwords), rendering ads or malsites into the page when it loads, or whathave you.
+
+Or even worse, javascript can then use other exploits to try to download worse bugs to your computer. If they could use javascript to convince your computer it is running native code instead of website code, well then you can do pretty much anything you want with that PC. Add it to a botnet, install ransomware, etc.
+
+'course, usually when these exploits are discovered, they are used for some petty trolling activity, and quickly get patched. At least the ones you hear about. The ones you don't hear about can end up saved in some database somewhere for strategic use by criminals/government agencies/others who want to break into other peoples stuff.
+
+NOTE: The fact that a profile page can have arbitrary javascript doesn't really make it any less safe than any other untrusted website on the web (you know, all those sites google says 'you really don't want to visit these'). If you are patched and up to date, it is probably pretty unlikely they will break into more than just rendering a bad page to your screen. Not that it makes comparing a website that (I assume) most of us trust with the scummy infected sites you avoid on the web is not something the owners of ff.net want

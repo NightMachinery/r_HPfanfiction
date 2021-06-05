@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 18
+:DateUnix: 1540162711.0
+:DateShort: 2018-Oct-22
+:END:
+
+Damn. I don't understand how they run their site. Not only do they practically never update the design and add features, they don't even handle XSS hacks with some haste? Man.

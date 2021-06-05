@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 6
+:DateUnix: 1540171144.0
+:DateShort: 2018-Oct-22
+:END:
+
+I took a look at the script and it /seems to be/ only XHRing to FFN, though it does dump cookie data into reviews (?!).
+
+What's odder is I can't seem to figure out how this /spreads/, if it even does so. Oh, it definitely overwrites your bio, posts reviews, etc. -- but I'm not seeing where it embeds the script into other bios.
+
+Not sure if the script has changed since initial reports or if it's just people getting confused between the spam/bio-edit and an actual self-spreading script (read: virus). I'm also not bored enough to go through the trouble of creating a new account just to test it.

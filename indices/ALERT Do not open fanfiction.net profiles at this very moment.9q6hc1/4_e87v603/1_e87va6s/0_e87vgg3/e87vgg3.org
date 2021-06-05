@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: bluspacecow
+:Score: 1
+:DateUnix: 1540181467.0
+:DateShort: 2018-Oct-22
+:END:
+
+Just tested this - it'll give you the profile page in a logged out state (aka you are not logged in). But it won't allow you access any of the authors tabs for Favourite Stories / Favourite Authors

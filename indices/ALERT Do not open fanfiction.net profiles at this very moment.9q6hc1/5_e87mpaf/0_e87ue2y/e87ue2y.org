@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: bluspacecow
+:Score: 9
+:DateUnix: 1540180127.0
+:DateShort: 2018-Oct-22
+:END:
+
+From [[/u/mandemon90]] 's analysis [[https://www.reddit.com/r/FanFiction/comments/9q5gob/alert_do_not_check_any_user_profiles_on_ffn/e87itez][here]] sounds like it only affects you if your actually logged into the site. The exploit works by using the login cookie for [[https://fanfiction.net][fanfiction.net]] so if that cookies not there the "hack" shouldn't work. To be safe clear ALL [[https://fanfiction.net][fanfiction.net]] related cookies , quit your browser THEN bring it back up and visit profiles again. If your really paranoid pump the URL for the profile page through [[https://www.pdfmyurl.com][www.pdfmyurl.com]] to get a PDF with clickable URL links.

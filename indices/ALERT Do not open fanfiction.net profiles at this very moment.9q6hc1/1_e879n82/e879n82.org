@@ -1,0 +1,9 @@
+:PROPERTIES:
+:Score: 40
+:DateUnix: 1540159191.0
+:DateShort: 2018-Oct-22
+:END:
+
+Software developer here. From what I could see in the picture it looks like it's sending a bunch of data out anytime a user makes an action (click on alerts, profile, etc.) I'm not 100% sure what data exactly it's sending but I would bet is login information.
+
+TL;DR If this happened to you, change your password if you haven't already.

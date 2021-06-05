@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: PhiloftheFuture2014
+:Score: 2
+:DateUnix: 1540212401.0
+:DateShort: 2018-Oct-22
+:END:
+
+Not a dumb question. Wondering the same thing. It would probably depend on how the code for the app is written and how it's integrated with their systems. My guess is we're safe but I wouldn't put money on that. The attack is spreading through cookies which are primarily used in browsers but again, since we don't know the back end architecture of the app, we don't know how everything is connected.

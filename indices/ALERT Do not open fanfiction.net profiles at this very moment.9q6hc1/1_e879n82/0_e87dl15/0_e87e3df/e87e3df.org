@@ -1,0 +1,9 @@
+:PROPERTIES:
+:Score: 8
+:DateUnix: 1540163447.0
+:DateShort: 2018-Oct-22
+:END:
+
+Honestly, I don't know. I would lean on "It's fine on the app" but it just a guess based on what little I've seen in the picture so it's definitely not certain.
+
+It depends on the method they used to do this. If they managed to get into the servers then both the page and app would be compromised. If this is something they do fully on the browser then the app is fine.

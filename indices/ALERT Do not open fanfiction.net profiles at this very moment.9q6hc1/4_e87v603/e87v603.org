@@ -1,0 +1,20 @@
+:PROPERTIES:
+:Author: bluspacecow
+:Score: 9
+:DateUnix: 1540181092.0
+:DateShort: 2018-Oct-22
+:END:
+
+*Updates from the original* [[https://www.reddit.com/r/FanFiction/comments/9q5gob/alert_do_not_check_any_user_profiles_on_ffn/e87itez][thread]]
+
+#1 It's spreading via inserting the code into your profile page using your login cookie as a vector
+
+#2 It's editing people's profile pages to say "I support Critic's United" (yes probably [[https://fanlore.org/wiki/Critics_United][these]] [[https://encyclopediadramatica.rs/Critics_United][idiots]])
+
+#3 Since it needs a valid login cookie to work clearing all [[https://fanfiction.net][fanfiction.net]] cookies THEN quitting your browser should protect you against it.
+
+#4 If this is making you more paranoid then Mad Eye Mooney on a bender with Snape then use [[https://pdfmyurl.com/]]
+
+This website will make a PDF of the profile page with clickable links that should defeat the hack (in theory)
+
+​
