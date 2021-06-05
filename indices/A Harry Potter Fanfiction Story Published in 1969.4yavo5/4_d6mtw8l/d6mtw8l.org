@@ -1,0 +1,9 @@
+:PROPERTIES:
+:Score: 5
+:DateUnix: 1471540155.0
+:DateShort: 2016-Aug-18
+:END:
+
+For most computers, time is measured in seconds or milliseconds since 1 January 1970 at midnight in UTC. Factor in a time zone of America/Los Angeles and that becomes 4pm on 31 December 1969.
+
+Between ffn and fictionpress, you've got like ten million stories from across eighteen years. It's unsurprising that a few stories have had their data corrupted and their first publication date lost.
