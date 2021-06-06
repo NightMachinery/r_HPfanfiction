@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: deltashad
+:Score: 3
+:DateUnix: 1527458940.0
+:DateShort: 2018-May-28
+:END:
+
+I think the most helpful thing to measure would be quality of prose of the story. Off the top of my head there are two metrics which can serve as initial approximation of it - size of author vocabulary and logarithm of probability of the sequence of the words. [[https://statistics.stanford.edu/sites/default/files/BIO%2009.pdf][This paper]] contains algorithms for estimation the size of vocabulary.
+
+Logarithm of probability of the sequence of the words can measure awkward turn of the phase and incorrect wordings. To calculate it I suggest first measure frequency of the pairs consequent words in some text dataset, then treat frequencies as probabilities of words pair and sum logarithms of all pairs of words in story chapter/s.

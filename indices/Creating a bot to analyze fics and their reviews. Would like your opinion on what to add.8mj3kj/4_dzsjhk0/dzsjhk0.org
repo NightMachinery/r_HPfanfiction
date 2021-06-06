@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: ITSINTHESHIP
+:Score: 1
+:DateUnix: 1527636259.0
+:DateShort: 2018-May-30
+:END:
+
+I think different stats become important depending on the length of the fic. All else being equal, one-chapter fics that have always been marked complete won't get follows, and may also get fewer reviews and favorites compared with a completed multi-chapter fic that got updated in installments. For stories that were posted all at once, it could be that one metric (reviews vs favorites) is better than the other, or that a sum or ratio would work better.
+
+Meanwhile, the longer in time a multi-chapter fic has been ongoing, the more follows and reviews it will get, compared with a fic of the same word-length that was completed more quickly or in fewer chapters. So, for stories that weren't posted all at once, maybe a ratio of reviews/favorites/follows to the difference between the posting date and the date of the last update would be most informative.
+
+Then, on top of that, there's the fact that for any fic, the number of reviews/favorites/follows will generally increase with time anyway. So it probably wouldn't be fair to compare a 500k-word fic that was completed five years ago to a 500k-word fic that was completed yesterday on the basis of reviews or favorites alone. The ratio of reviews to total time online would probably be more useful.
+
+But it seems like you're trying to make something a bit more interesting--a bot that can tell you how good a fic is likely to be, or what it's likely to be about, based on text information? If you're focusing on reviews, I think you should start by just scraping a huge number of reviews from across fandoms and analyzing the content of those, maybe by clustering them according to relatedness? For example, (ideally) reviews containing phrases like "great work" and "brilliant" and "love this" will tend to cluster together separately from reviews containing phrases like "could use improvement" and "needs work." You might be able to identify new words and phrases that are more prevalent in certain types of reviews (praise vs constructive vs insulting vs etc). Then, when you are looking through reviews for a given fic, you can compare each review to your test set (or just look for keywords) and report something like "x% good reviews" for that fic.

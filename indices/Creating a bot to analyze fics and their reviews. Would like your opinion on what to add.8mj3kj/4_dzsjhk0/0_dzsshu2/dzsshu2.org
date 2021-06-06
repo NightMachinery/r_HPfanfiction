@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: ethanbrecke
+:Score: 1
+:DateUnix: 1527645554.0
+:DateShort: 2018-May-30
+:END:
+
+That's sort of the plan. Im trying to figure out how to output the [[https://en.wikipedia.org/wiki/Readability][readability]] first, and then focus on scraping the reviews, and analyze them, to help understand how the story stacks up.

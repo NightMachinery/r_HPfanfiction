@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: deltashad
+:Score: 1
+:DateUnix: 1527453851.0
+:DateShort: 2018-May-28
+:END:
+
+That's great but all these metrics by themselves are either not very interesting or already available on the story page.
+
+> constructive reviews that are 10+ words
+
+The number of the 10+ words reviews is strongly correlated with the number of reviews in total and reflect only popularity and age of the story which can be estimated by other metrics such as Favs/Follows and publish date. Which is why I suggest doing more in depth analysis of available information and providing other metrics.

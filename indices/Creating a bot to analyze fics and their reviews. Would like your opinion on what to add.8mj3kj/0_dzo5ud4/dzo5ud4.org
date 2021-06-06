@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: deltashad
+:Score: 6
+:DateUnix: 1527448583.0
+:DateShort: 2018-May-27
+:END:
+
+I would love to have tool for extracting information from reviews, but I don't think that plain word frequency can tell anything useful about story.
+
+I have just sampled 30 reviews from random story - and 28 of them are either 'great story, plz continue' kind of reviews or inane ramblings about everything and nothing. So any useful information from the 2/30 meaningful reviews would be drowned in the statistics from the 28/30 dumb ones.
+
+To summarize: I want some metrics which can cope with abundance of idiotic reviews.

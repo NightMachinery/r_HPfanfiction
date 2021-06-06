@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: ethanbrecke
+:Score: 1
+:DateUnix: 1527444388.0
+:DateShort: 2018-May-27
+:END:
+
+Eventually it will analyze and rate the fics, based on reviews, and other things like favs, and follows. Maybe if i can work with [[/u/tusing]], and get some connection between his bot, and the amount of requests a story gets, and i can add more data to show you, so you can get a general idea of what the fic is, before reading it.
