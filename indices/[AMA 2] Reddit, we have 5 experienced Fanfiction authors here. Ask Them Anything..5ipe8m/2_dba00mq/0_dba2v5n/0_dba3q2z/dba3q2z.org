@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: aLabracadabrador
+:Score: 4
+:DateUnix: 1481916274.0
+:DateShort: 2016-Dec-16
+:END:
+
+Ah okay, make sense I suppose. Also, you don't have to use some decorative text. Just use the line code from HTML. It makes a thin, even line, and its less jarring of a page break than crafting your own.
