@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: matgopack
+:Score: 4
+:DateUnix: 1612284143.0
+:DateShort: 2021-Feb-02
+:END:
+
+So, tagging minor pairings is not something that I think is /bad/ in a vacuum - but it's that there's no way to tag them as minor pairings, or to show as such in a search.
+
+The tagging system is something that's a positive for sure, but as it currently stands it does make searches harder when you're looking for something in particular as the focus of a story (whereas it's much better for excluding stuff - though still not perfect).
+
+Coding wise, it doesn't strike me as impossible to add in essentially a secondary tagging system with a limited quantity of tags per fic allowed. The larger difficulty at this point would be all the old fics having tagging issues because of that, but improving features shouldn't be limited just by that. This is a flaw with Ao3's tagging system that is fairly often brought up and for good reason.
