@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: rpeh
+:Score: 2
+:DateUnix: 1593594535.0
+:DateShort: 2020-Jul-01
+:END:
+
+It's great for me on Android. Open a story and go to the first chapter. You should see a pair of headphones in the top row of icons. If you don't see that row, scroll up and down a bit and it should reappear.
+
+Once you see the headphone icon, tap and the app should start playing. You can change playback speed, voice type and so on in the settings - I usually have it speak at about 125% pace.
+
+Sometimes the headphone icon is greyed out for no obvious reason. I find force-quitting the app and reloading fixes that most of the time.
+
+I find the app is very prone to being swapped out when memory gets low, so don't try to run too many things at once while using it because it's *very* annoying.
