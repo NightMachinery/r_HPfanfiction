@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 2
+:DateUnix: 1540606474.0
+:DateShort: 2018-Oct-27
+:END:
+
+The current database has ~32,000 fics. The smallest number of favorites is 185, so if you enter a fic with >185 favorites, it should be in there.
+
+There are plans to expand the database even more, though. Not sure when it'll be finished.
+
+From a theoretical standpoint, I think this process could probably give decent recommendations for most fics. Maybe for anything more than 20ish favorites? I'm not sure.

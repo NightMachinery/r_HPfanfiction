@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: zerkses
+:Score: 3
+:DateUnix: 1540066575.0
+:DateShort: 2018-Oct-20
+:END:
+
+#+begin_quote
+  That's awesome. My database is only ~65,000 users.
+#+end_quote
+
+From what I've seen so far (current progress is 190k lists) the results for my particular recommendations didn't change much between 80k and 190k lists. I am mostly doing it to make my slash and genre detector smarter rn because those really can use every list they can get.

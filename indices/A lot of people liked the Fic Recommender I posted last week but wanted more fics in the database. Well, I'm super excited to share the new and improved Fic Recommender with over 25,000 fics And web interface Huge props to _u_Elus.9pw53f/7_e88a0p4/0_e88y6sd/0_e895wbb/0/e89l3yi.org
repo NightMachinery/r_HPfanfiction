@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1540250728.0
+:DateShort: 2018-Oct-23
+:END:
+
+So storing only the nonzero values turns out to be the way to go for me, but I'm using Matlab which supports sparse matrices. I really wished I had tried this earlier.
+
+Specifically, I tried out Matlab's built-in [[https://www.mathworks.com/help/stats/pdist.html][pdist]] function, and it managed to calculate all 500 million values for pairwise distances in <1 minute. I was absolutely blown away. It does use a lot of memory though. The array is about 5 GB when loaded.

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1540066716.0
+:DateShort: 2018-Oct-20
+:END:
+
+#+begin_quote
+  Overall I think that's somewhat similar.
+#+end_quote
+
+I think the most radical difference between our approaches is that I don't have to keep relations in memory and thus can feed lists of any size into clients local database.

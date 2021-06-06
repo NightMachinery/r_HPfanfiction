@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: zerkses
+:Score: 7
+:DateUnix: 1540065307.0
+:DateShort: 2018-Oct-20
+:END:
+
+actually no... my algos are very /very/ simple and not even science based.
+
+For the recommendations it just matches a ton of lists to your favourites and outputs a sum of appearances in those for each fic.
+
+Slash/het was a bit more complex but still rule-of-thumby "Find lists with lots of slash and exclude everything from them that isn't on lists withotu slash"
+
+Genres again, not science based: I calculated genre presense in each of userlists and decide on the fics genre based on which type of list it appears more often.
+
+I've been meaning to write a proper recommendation algo, but got sidetracked actually reading stuff the last month :) Also, a large scrape of 500k userlists is currently in progress. When it's done I'll probbaly do some more nifty stuff for the app.

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 8
+:DateUnix: 1540064865.0
+:DateShort: 2018-Oct-20
+:END:
+
+Nice! It looks like you went further and did some actual collaborative filtering. How do you rank your recommendations?

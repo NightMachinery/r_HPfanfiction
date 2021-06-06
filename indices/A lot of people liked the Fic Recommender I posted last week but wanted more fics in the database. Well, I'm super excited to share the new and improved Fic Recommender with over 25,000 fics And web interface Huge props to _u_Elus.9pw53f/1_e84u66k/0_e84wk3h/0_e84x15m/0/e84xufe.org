@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 4
+:DateUnix: 1540066058.0
+:DateShort: 2018-Oct-20
+:END:
+
+#+begin_quote
+  For the recommendations it just matches a ton of lists to your favourites and outputs a sum of appearances in those for each fic.
+#+end_quote
+
+Overall I think that's somewhat similar. At the very least we started from the same data: users' lists of favorites.
+
+#+begin_quote
+  Also, a large scrape of 500k userlists is currently in progress.
+#+end_quote
+
+That's awesome. My database is only ~65,000 users.

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: zerkses
+:Score: 10
+:DateUnix: 1540062639.0
+:DateShort: 2018-Oct-20
+:END:
+
+FYI : [[https://docs.google.com/document/d/1rEXQBQnDbFljBTAea_Ljbq731OGUDjHoew2s9jmj2tk/edit#]]
+
+[[https://github.com/Zeks/flipper/releases/download/client_0.9.6.1/flipper_client_0.9.6.1.7z]]
+
+It's not web based but it works on both Windows and linux/mac (via wine)

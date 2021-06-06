@@ -1,0 +1,28 @@
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1540231218.0
+:DateShort: 2018-Oct-22
+:END:
+
+#+begin_quote
+  Do you use the formula from the site you posted last time?
+#+end_quote
+
+Yeah I used the formula from [[http://colah.github.io/posts/2014-07-FFN-Graphs-Vis/]].
+
+I put my Matlab code on Github if you want to take a look [[https://github.com/vir-innominatus/FFN-Fic-Recommender]]. It's very slow as well, but I split up the job between a couple computers to speed it up. For me, the slowest part is calculating the similarity. I'm sure the algorithm could be improved, but I haven't tried much.
+
+#+begin_quote
+  more importantly so many users?
+#+end_quote
+
+I made a huge matrix that is 30,000 by 65,000 boolean values (number of fics by number of users). The value in the matrix is true if a particular user favorites a particular fic. This could probably be improved by saving just the nonzero elements since the matrix is very sparse. Anyway, the matrix is split up into several smaller files and saved locally as .mat files (a binary format). I sequentially read in the files when calculating the similarity so I don't have to have the entire matrix loaded into memory.
+
+You're right that it's a hard problem. I don't even want to think about how companies like Netflix make recommendations.
+
+#+begin_quote
+  Also, the fic 'The Mind Arts', 12740667, which is about the 500th most favorited fic, is not in your dataset
+#+end_quote
+
+Yeah there's no fics written since Mar 2017 currently in the database. I have a new database, though, and it should be uploaded by tomorrow.

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1540165607.0
+:DateShort: 2018-Oct-22
+:END:
+
+The database right now has about 29,000 fics. If a fic is missing, its either too new, which is a problem which will be fixed very soon, or it has too few favorites.
+
+I will probably expand the database to include fics with fewer favorites, but I can't include EVERY fic. The accuracy of the recommendations requires that a fic has a decent number of favorites.

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 1
+:DateUnix: 1540339033.0
+:DateShort: 2018-Oct-24
+:END:
+
+I'm always happy to import more, though I can't really merge multiple independent datasets (especially if they calculate similarity differently).
+
+I'll also need to look at optimising the importer, maybe do a chunked import. Unfortunately, especially with fkey restrictions, these larger DBs take quite a while (and eat a lot of RAM).

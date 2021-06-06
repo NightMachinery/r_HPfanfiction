@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 1
+:DateUnix: 1540566795.0
+:DateShort: 2018-Oct-26
+:END:
+
+Hm. You could probably compress it down pretty heavily but I don't think the server I'm hosting this on has enough space for a 100 GB database.
+
+Pruning sounds like the way to go.
+
+My current format takes, for each fic, a list of similar fics and their similarity scores. If your final format can provide those scores, that'd be great. If not, I can make up some dummy values for sorting.
+
+I can adjust the importer to parse pretty much any format.
+
+If you're willing to do this, I can provide SCP/SFTP details for direct upload. Or HTTP upload to a Nextcloud instance. Or you can upload it elsewhere and I can download it.
+
+Thanks!

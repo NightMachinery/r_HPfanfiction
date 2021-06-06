@@ -1,0 +1,28 @@
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 1
+:DateUnix: 1540607647.0
+:DateShort: 2018-Oct-27
+:END:
+
+That could work. The current format I'm parsing from [[/u/vir_innominatus]] is two separate tables:
+
+#+begin_example
+  <story_a>: <story_b1_id> <story_b2_id> ...
+#+end_example
+
+And
+
+#+begin_example
+  <story_a>: <story_b1_score> <story_b2_score> ...
+#+end_example
+
+This could be shortened to:
+
+#+begin_example
+  <story_a>: <b1_id>,<b1_score> <b2_id>,<b2_score>
+#+end_example
+
+The matrix format you propose wouldn't be much different (it's actually closer to my database format, which stores rows of a, b and score).
+
+Whichever is easier for you is fine.
