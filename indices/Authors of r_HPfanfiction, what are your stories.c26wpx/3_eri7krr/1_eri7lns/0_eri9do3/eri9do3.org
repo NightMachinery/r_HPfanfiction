@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 8
+:DateUnix: 1560892320.0
+:DateShort: 2019-Jun-19
+:END:
+
+Not sure why the bot is listing this as:
+
+#+begin_quote
+  Chapters: 17 | Words: 103,115
+#+end_quote
+
+It should read:
+
+#+begin_quote
+  Chapters: 18 | Words: 112,888
+#+end_quote
