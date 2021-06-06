@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Hofferic
+:Score: 1
+:DateUnix: 1387476755.0
+:DateShort: 2013-Dec-19
+:END:
+
+FFN switched to https recently, but whether or not you use it in your links makes no difference, the server will redirect you accordingly. And on mobile devices the www subdomain redirects to m. The only thing NOT handled automatically is a missing subdomain (www or m) which leads to eternally loading blank pages ;)
