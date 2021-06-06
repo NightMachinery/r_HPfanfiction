@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1617704550.0
+:DateShort: 2021-Apr-06
+:END:
+
+BTW, your SSL certificate is invalid. Couldn't you install Letsencrypt, at least?

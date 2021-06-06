@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1617745234.0
+:DateShort: 2021-Apr-07
+:END:
+
+yeah, and I shouldn't say anything as I am not volunteering myself :( For somebody who knows their way around Apache (which is what's running on the site) and has access, it should be matter of an hour or so. CORRECTION: Your hosting provider offers [[https://www.namecheap.com/support/knowledgebase/article.aspx/9927/2218/free-cpanel-positivessl-certificate-offer/][SSL certificates for free]]. No idea, how to switch it on though.
