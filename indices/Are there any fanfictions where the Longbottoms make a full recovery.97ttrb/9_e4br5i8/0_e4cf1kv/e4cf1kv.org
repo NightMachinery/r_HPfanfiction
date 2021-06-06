@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: herO_wraith
+:Score: 2
+:DateUnix: 1534499458.0
+:DateShort: 2018-Aug-17
+:END:
+
+[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage]]
+
+The most common way is to use the number of a ffnet story. For example, the one you linked, after the /s/ is 12813755. Since its from ffnet you'd choose linkFFN. So it would be linkffn(12813755)
+
+The easier way is just to put the title in and hope but with the millions of fanfiction stories written some titles have been used across multiple fandoms, I think ties that bind I've seen about seven of.
