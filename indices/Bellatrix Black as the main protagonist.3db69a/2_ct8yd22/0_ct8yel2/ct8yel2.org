@@ -1,0 +1,30 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1437338642.0
+:DateShort: 2015-Jul-20
+:END:
+
+[[http://www.fanfiction.net/s/9632356/1/][*/The Taste Of Your Magic/*]] by [[https://www.fanfiction.net/u/4724017/Annoy-mouse][/Annoy mouse/]]
+
+#+begin_quote
+  [HIATUS!]Deliciously Dark. Evil too. Bellatrix finds baby Harry left with the muggles & discovers his unusual accidental magical trait, one that she finds... Very Appealing. She decides to keep and groom him to be their next Dark Lord, and enlists the aid of Narcissa. Harry/Bellatrix, quasi-harem for a reason but H/B/N overall. M for a reason. THESE CHARACTERS ARE EVIL
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 15 *|* /Words/: 50,674 *|* /Reviews/: 1,059 *|* /Favs/: 2,625 *|* /Follows/: 2,995 *|* /Updated/: 5/1/2014 *|* /Published/: 8/26/2013 *|* /id/: 9632356 *|* /Language/: English *|* /Characters/: [Bellatrix L., Harry P., Narcissa M.] *|* /Download/: [[http://ficsave.com/?story_url=https://www.fanfiction.net/s/9632356&format=epub&auto_download=yes][EPUB]]}
+
+--------------
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+Supporting fanfiction.net (/linkffn/), AO3 (fixed!) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+^{*New Features 7/19/15:* Download EPUB links for FFNet, FP, and AO3! ffnbot!parent call added!}
+
+^{Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{/Add the following tags to any comment:/}
+
+^{- /ffnbot!parent/: create a reply for all links in a parent comment}
+
+^{- /ffnbot!directlinks/: auto parse fanfiction site links without having to call the bot}
