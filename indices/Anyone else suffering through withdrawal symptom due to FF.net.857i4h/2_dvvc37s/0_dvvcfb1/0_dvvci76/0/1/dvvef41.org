@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: jeffala
+:Score: 2
+:DateUnix: 1521334344.0
+:DateShort: 2018-Mar-18
+:END:
+
+Settings>WiFi>Configure DNS>Manual and enter custom IP addresses. But it's generally better to do it on your router so it affects the entire home network.
+
+I don't know that it's possible to use custom DNS when using cellular data.
