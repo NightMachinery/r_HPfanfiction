@@ -1,0 +1,26 @@
+:PROPERTIES:
+:Author: TheLetterJ0
+:Score: 7
+:DateUnix: 1610576581.0
+:DateShort: 2021-Jan-14
+:END:
+
+Because everything we see in canon says that squibs are very uncommon. In fact, magic seems to stick in families so well that having even one magical parent gives you a a very good chance to have magic. There is no reason to think that the child of a magical and a muggle is likely to be a squib, unless you want to argue that the racist Death Eater propaganda was right.
+
+I am sure that a few squibs will pop up every generation, but I worked under the assumption that the number of muggleborns popping up every generation would counteract that. And the numbers are all rough enough that you would have to have a ridiculous percentage of kids being squibs or muggleborns to throw the estimates off by more than a few generations.
+
+But if you're interested, the actual math looked like this:
+
+1) Ignore everything Rowling has said about numbers, because she is very bad at math.
+
+2) Assume that the population of magical Britain is somewhere around 10,000 to 15,000. That matches with most of the reasonable estimates I've seen, though it might be a bit on the high side.
+
+3) According to the numbers I found, about 20% of Britain is under 18. If the ratios are the same in the magical world, that's about 2000 to 3000 kids who are almost definitely not married yet. There are also going to be plenty of older people who are not married yet, and plenty of people who choose not to marry at all, though the culture we see in magical Britain seems likely to encourage people to marry and have kids. Altogether, I estimated that the first generation following the marriage law would be about 4000 people.
+
+4) Assume a birth rate of about 2. Britain's current birth rate is about 1.7, but I figure that an active repopulation effort would encourage people to have more kids. And it gives us a nice, round number to work with. Note that this number accounts for people who choose not to get married or to not have kids.
+
+5) Math happens. That's 4000 muggles marrying magicals in the first generation, who have 8000 kids, who marry 8000 more muggles, and so on. [[https://www.wolframalpha.com/input/?i=4000*2%5E%28x-1%29+%3D+.3*56000000][This hits my rough estimate of the current marriable population of Britain in just over 13 generations]]. [[https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/files/documents/2020/Jan/un_2002_world_population_to_2300.pdf][And current projections say the population of the UK is probably going to stay pretty flat through 2300]], so that number is still a good target.
+
+6) Other people look at my math and tell me why I'm wrong, because I'm probably not great at statistics.
+
+I'll also note here that obviously the law would have to be repealed before it reached the point where every muggle in Britain was marrying a magical. Honestly, it could be repealed after two or three generations. But I'm hoping that people would just get used to it and forget that things weren't always that way before they remember to repeal it. I'm also not sure at what point the Statute of Secrecy becomes obsolete. My numbers are just how many muggles are marrying magicals each generation. Realistically, their immediate family members would probably become aware of magic, which boosts the numbers. And surely there is some critical mass at which it becomes all but impossible to hide magic.
