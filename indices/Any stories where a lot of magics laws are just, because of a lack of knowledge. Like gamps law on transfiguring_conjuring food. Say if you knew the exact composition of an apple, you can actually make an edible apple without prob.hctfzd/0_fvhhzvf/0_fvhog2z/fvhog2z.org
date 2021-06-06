@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: DearDeathDay
+:Score: 4
+:DateUnix: 1592698533.0
+:DateShort: 2020-Jun-21
+:END:
+
+For the bot just do
+
+linkao3([[https://archiveofourown.org/works/14281440/chapters/32942874]])
+
+Put the (‘name of the fic' by ‘author of the fic') or the (‘id') or the (‘link') in parenthesis. You can also do ‘linkffn()' and a few other websites as well.
+
+Edit: It... seems an empty link also summons the bot. Strange.
