@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Morgaine_B
+:Score: 2
+:DateUnix: 1590403599.0
+:DateShort: 2020-May-25
+:END:
+
+Now we have the bot-recommendation creator it /does/ matter through- the more we recommend, the better it will become. If we stifle the number of request threads, we limit the ability for the bot to do it's job.
