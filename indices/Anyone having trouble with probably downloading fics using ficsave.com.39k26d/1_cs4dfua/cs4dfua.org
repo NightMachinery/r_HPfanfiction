@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: fxf
+:Score: 2
+:DateUnix: 1434127164.0
+:DateShort: 2015-Jun-12
+:END:
+
+I've had this happen before. I think it happens if the http request for that chapter times out. I'm pretty sure ficsave.com waits in between chapter retrieval so that it doesn't overload ff.net, so if it can't get the chapter then it gives a blank one and moves to the next chapter.
+
+However, I'm just guessing about it. You can also try to use [[http://p0ody-files.com/ff_to_ebook/]] to download the fic, but it isn't as good at preserving formatting of the fic.
