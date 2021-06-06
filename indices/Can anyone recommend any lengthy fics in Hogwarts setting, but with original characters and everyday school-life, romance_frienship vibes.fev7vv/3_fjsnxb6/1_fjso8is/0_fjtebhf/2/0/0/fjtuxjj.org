@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1583611146.0
+:DateShort: 2020-Mar-07
+:END:
+
+I thought =!parent= “will call ffnbot!directlinks and ffnbot!submissionlink on the parent comment.” (according to [[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][the documentation]]).
