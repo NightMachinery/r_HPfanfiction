@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: UbiquitousPanacea
+:Score: 4
+:DateUnix: 1570634633.0
+:DateShort: 2019-Oct-09
+:END:
+
+It's an enchantment bound to the child and not the wand. It detects magic nearby, and if there's no adult wizard present, it's assumed to be the child.
