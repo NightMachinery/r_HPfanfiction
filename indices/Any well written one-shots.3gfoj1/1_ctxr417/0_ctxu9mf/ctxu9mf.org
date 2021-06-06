@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 5
+:DateUnix: 1439205601.0
+:DateShort: 2015-Aug-10
+:END:
+
+Probably too many fics! But we can try again to make sure:
+
+ffnbot!parent
+
+Edit: It worked! But some recs seem off. This happens when more popular fics with the same (or very similar) fics exist. The solution to this involves 1) adding the author name to the bot request, 2) using fic links, or 3) using the fic IDs.
