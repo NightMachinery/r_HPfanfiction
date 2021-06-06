@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: Unkox
+:Score: 9
+:DateUnix: 1440062492.0
+:DateShort: 2015-Aug-20
+:END:
+
+A few questions...
+
+How will you manage to support this site if you're going to keep it ad-free? Servers aren't free and fanfic won't pay to get their work "published".
+
+What is the difference between your platform and any of the existing sites?
+
+Why would an author publish to your site instead of ff.net, dlp, ao3?
+
+How will you manage to get users without the content?
+
+p.s. You definitely should compress and squash your css/js files. Even with CDN:s browsers handle multiple small files badly
