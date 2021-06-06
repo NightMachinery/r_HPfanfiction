@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: the-phony-pony
+:Score: 5
+:DateUnix: 1593618024.0
+:DateShort: 2020-Jul-01
+:END:
+
+You can link a fic from FFN in 3 ways:
+
+linkffn(Harry Potter Becomes a Communist by Hardcore Commie)
+
+linkffn([[https://www.fanfiction.net/s/9655837/1/Harry-Potter-Becomes-A-Communist]])
+
+linkfnn(9655837)
+
+The first acts like a google search, but sometimes it can return the wrong thing if you just do a title and not the full author name, too. The second uses the full url of the fic, and the third just uses the ID number of the fic.
+
+EDIT: See? idk how a random fic from Katekyo Hitman Reborn! got added in here!
