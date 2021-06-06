@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: SilverCookieDust
+:Score: 1
+:DateUnix: 1470850624.0
+:DateShort: 2016-Aug-10
+:END:
+
+I get the same problem. I don't know if it's a false positive or not and can't find any information about it.
+
+If you want to take the chance and browse it anyway, you can add
+
+#+begin_example
+   thepotionsmaster.net/*
+#+end_example
+
+to your Avast exclusions (Settings > General > Exclusions) and it'll ignore it.
