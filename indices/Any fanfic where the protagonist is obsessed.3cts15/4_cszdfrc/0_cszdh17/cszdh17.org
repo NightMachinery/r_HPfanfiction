@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1436584704.0
+:DateShort: 2015-Jul-11
+:END:
+
+[[http://www.fanfiction.net/s/2973799/1/][*/Equal and Opposite/*]] by [[https://www.fanfiction.net/u/968386/Amerision][/Amerision/]]
+
+#+begin_quote
+  Left bitter and angry when his female self leaves him, Harry decides he will do anything for revenge. Nobody will stand in his way. Because desperation and anger can turn even the most noblest of hearts into darkness... HarryFemHarry COMPLETE
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Horror/Drama - Harry P. *|* /Chapters:/ 11 *|* /Words:/ 47,974 *|* /Reviews:/ 477 *|* /Favs:/ 1,306 *|* /Follows:/ 680 *|* /Updated:/ 5/3/2009 *|* /Published:/ 6/4/2006 *|* /Status:/ Complete *|* /id:/ 2973799}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}
