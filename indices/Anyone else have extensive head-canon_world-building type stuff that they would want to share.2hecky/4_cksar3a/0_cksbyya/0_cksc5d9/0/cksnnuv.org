@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: TimeLoopedPowerGamer
+:Score: 1
+:DateUnix: 1411690461.0
+:DateShort: 2014-Sep-26
+:END:
+
+Sorry to hear about the HDD. If you have access to another computer with USB, just get one of these (or any other compatible 2.5" laptop HDD dock):
+
+[[http://www.newegg.com/Product/Product.aspx?Item=N82E16817153066][Thermaltake BlacX N0028USU External Hard Drive SATA Enclosure Docking Station 2.5" & 3.5" USB 2.0]]
+
+Look for an online instruction set for how to remove the HDD from your laptop, gently plug it into the dock (which hooks up via USB to a working computer), and it should just register as an external USB drive.
+
+You can do this on a borrowed system or a library computer (if USB connections are allowed). Find and copy off your files to another USB drive or an internal HDD and use a free cloud service to store the files if at all possible.
+
+I use [[https://www.amazon.com/clouddrive][Amazon Cloud]] and [[https://drive.google.com/][Google Drive]]. These need some setup, and need to be installed on the computer in question, but they can be run from a friend's computer to upload, then simply logged out of and uninstalled afterward while preserving the online copies. You can then clean up your friend's computer without risking losing your data. There are also really cheap USB stick drives in the low GB range you can buy or borrow from a friend.
+
+I've done this all before and it is really, really easy. If the HDD still works, this will work. It takes a few hours to "get" cloud storage, but it is free and there are tutorials to walk you through it. And it means never losing files again to computer failures.
+
+It doesn't get you your computer back, but it does retrieve those files for less than $50. And if it doesn't work, for some reason, you haven't damaged anything and can just put the laptop HDD back in.
+
+If you show a friend how this works, they might even buy the device for themselves and let you use it in exchange for the lesson in data retrieval and backup.
+
+Good luck.
