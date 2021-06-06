@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: 4ecks
+:Score: 6
+:DateUnix: 1573798063.0
+:DateShort: 2019-Nov-15
+:END:
+
+You can copy-paste the text or upload a word doc, but each chapter has to be uploaded into the system individually, and it's a hassle to go through the edit-reformat-reupload when you're fixing typos on existing published chapters. The copy-paste process destroys formatting (line breaks, quotes, lists) if you wrote in Gdocs or Word, and they automatically censor certain words, characters, and phrases.
+
+Eg, they delete anything that looks like a link. So if you write "Thanks for reviewing, user John.Doe.1990" in your author notes, FFN will automatically reformat it as "JohnDoe1990".
+
+Super annoying and unintuitive as fuck.
