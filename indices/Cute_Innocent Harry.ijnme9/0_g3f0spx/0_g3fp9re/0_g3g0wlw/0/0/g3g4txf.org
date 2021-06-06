@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: PsiGuy60
+:Score: 2
+:DateUnix: 1598863429.0
+:DateShort: 2020-Aug-31
+:END:
+
+Well, that makes you one of today's lucky 10.000 people. Learn something new every day :-)
+
+It's the most reliable way to get the right fic out of the bot, tied with plugging the full URL into the command. Whatever number comes after /s/ (for fanfiction.net links) or /works/ (for ArchiveOfOurOwn links) is the story ID, plug that into the bot command and it'll pretty much always find it unless the bot is just broken.
