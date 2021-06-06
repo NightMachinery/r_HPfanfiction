@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: Frystix
+:Score: 37
+:DateUnix: 1513406615.0
+:DateShort: 2017-Dec-16
+:END:
+
+I think you and the guy who responded to you misunderstood how this works. Some programmers fed the entire Harry Potter series to some program that was able to analyze writing, then using that analysis of the HP series it would try to predict how Rowling would write from some input.
+
+Basically if you give a sentence like "Harry caught the golden " it would try and figure out how Rowling would write the next word, and would probably guess snitch among other things.
+
+Then a bunch of people used it to write a chapter by cherry-picking the funniest responses it came up with. The whole thing is public, here's the [[http://botnik.org/apps/writer/?source=4210c86ded39e6380ad0e17cecd767f6][dialogue version]] and the [[http://botnik.org/apps/writer/?source=d08198a9a936f791b7ffe144a2e9b1e3,0e155979285771266d520c44607722a1][narration version]].
