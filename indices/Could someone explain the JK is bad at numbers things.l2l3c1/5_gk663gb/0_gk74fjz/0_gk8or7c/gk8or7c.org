@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: Bwunt
+:Score: 14
+:DateUnix: 1611350345.0
+:DateShort: 2021-Jan-23
+:END:
+
+I am not sure, but it never falls on Friday or Saturday, as that would mean that the standard timeline Train - Feast - Sleep - Class would require a day or two between sleep and class.
+
+It works for 1991 (Sunday), 1992 (Tuesday), 1993 (Wednesday), 1994 (Thursday) but fails for 1995 (Order of phoenix) as 1st is on Friday which means that classes should start on 4th (Monday) with two days in between.
