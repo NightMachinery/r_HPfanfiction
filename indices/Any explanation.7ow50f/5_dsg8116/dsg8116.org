@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: cyberjellyfish
+:Score: 2
+:DateUnix: 1515552910.0
+:DateShort: 2018-Jan-10
+:END:
+
+Default value for that field is zero in the database. O it's midnight, 12/31/1969 for a UNIX timestamp.
