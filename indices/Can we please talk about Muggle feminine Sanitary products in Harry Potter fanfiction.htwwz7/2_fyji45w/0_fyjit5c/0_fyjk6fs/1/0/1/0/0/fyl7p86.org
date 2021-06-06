@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: BrilliantShard
+:Score: 1
+:DateUnix: 1595188763.0
+:DateShort: 2020-Jul-20
+:END:
+
+Ah, right, so what I meant by single threaded was the second category there. My understanding (or implementation) is that once most spells are cast, they don't require sustained magical concentration, and you're free to cast another. Some spells like the Patronus might differ, and wouldn't allow you to cast another spell until you stop the patronus.
+
+The multiple wands instance is a good counter example, as far as canon goes. It seems an extreme outlier, though, and if it didn't have some kind of significant drawback I think you'd see wizards dual-weilding all the time, instead of never.
+
+The Dumbledore instance could be interpreted many different ways. I always thought of it in a similar fashion to the duel between McGonagall and Snape with the rapid fire free transfiguration. After a certain degree of skill and experience it appears that you transcend individual spells and bend reality directly.
+
+My main line of thought on this subject is thinking about tactics in combat. Tempo is huge in combat, whether in martial arts, swordplay, MtG, chess, whatever, so determining the rate at which someone can effectively cast spells is fundamental.
