@@ -1,0 +1,22 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 7
+:DateUnix: 1443161919.0
+:DateShort: 2015-Sep-25
+:END:
+
+[[http://scryer.darklordpotter.net/]] combined with reviewing on DLP solves most of these, I think.
+
+Some thoughts -
+
+1) There are far too many fanfics for user-submitted tags to work out in any meaningful way. You might be better off combing or scraping data from forums and reviews and whatnot to automate the process of finding tags. Still, this is quite difficult to implement.
+
+2) DarkLordPotter and Scryer basically does all of this. Downloads can be done through po0dy-files, so those two parts are easier, you should just be able to create a wrapper for them. Again, user-submitted tags simply won't work out with 700k+ /Harry Potter fics alone/ on FFnet. Combing the internet for alternative review sites and trackers might be difficult, so that's where user-submitted links might work out.
+
+3) DarkLordPotter and this subreddit
+
+4) Check out Scryer
+
+5) Sounds like bookmarks to me!
+
+Either way if you want to make one of these I'm willing to help out here and there, and I'm sure others are too.
