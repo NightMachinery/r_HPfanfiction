@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: tootiredtobother
+:Score: 1
+:DateUnix: 1420883566.0
+:DateShort: 2015-Jan-10
+:END:
+
+Duly noted is the ffdownloader plugin for calibre. Works beautifully on all sites ;except for aff which is blocked and smaller archives. From Calibre you can convert and send your books to your kindle in the corrtect format. I use the OPDS server to wirelessly send it to my phone. Also a great way to sync up your library of books when wire connected so you can see what you have your device and match it to what you have in library-because sometimes I download directly from AO3 but forget to put it on my computer to archive.
+
+Side question: anything that works on linux for aff? I tried ficsave and the formatting was horrid- like whole missing chapters horrid. I could use my windows laptop but just checking to see what I have missed.
