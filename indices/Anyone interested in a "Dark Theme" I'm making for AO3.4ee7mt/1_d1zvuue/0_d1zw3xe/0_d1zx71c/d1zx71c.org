@@ -1,0 +1,30 @@
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1460476407.0
+:DateShort: 2016-Apr-12
+:END:
+
+Ok, so I added another few more selectors to fix a few bugs I noticed:
+
+#+begin_example
+  fieldset,
+  fieldset label,
+  fieldset a:link,
+  fieldset a:visited,
+  div.notice {
+    color: #262626;
+  }
+
+  .works-index a.tag,
+  .fandoms a.tag,
+  .warnings a.tag,
+  .relationships a.tag,
+  .characters a.tag,
+  .freeforms a.tag {
+    background-color: #262626;
+    color: #f2f2f2;
+    background: #262626;
+  }
+#+end_example
+
+EDIT: Found another one, dammit.

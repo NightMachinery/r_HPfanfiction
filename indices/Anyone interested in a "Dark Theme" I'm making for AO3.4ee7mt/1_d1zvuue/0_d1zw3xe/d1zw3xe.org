@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1460474980.0
+:DateShort: 2016-Apr-12
+:END:
+
+And there we are, fixed the fandom tags page with:
+
+#+begin_example
+  a.tag,
+  .tags li,
+  .fandom li,
+  .fandom li a:link {
+    color: #262626;
+  }
+#+end_example
+
+EDIT: added more selectors

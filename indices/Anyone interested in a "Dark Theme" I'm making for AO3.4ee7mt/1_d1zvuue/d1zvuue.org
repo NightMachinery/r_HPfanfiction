@@ -1,0 +1,15 @@
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1460474642.0
+:DateShort: 2016-Apr-12
+:END:
+
+I fixed the sidebar text by adding this:
+
+#+begin_example
+  .actions,
+  #dashboard a,
+  #dashboard span {
+    color: #f2f2f2;
+  }
+#+end_example
