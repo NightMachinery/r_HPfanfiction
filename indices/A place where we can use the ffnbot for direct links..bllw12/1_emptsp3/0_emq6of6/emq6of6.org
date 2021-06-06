@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Edocsiru
+:Score: 1
+:DateUnix: 1557225500.0
+:DateShort: 2019-May-07
+:END:
+
+The bot doesn't work like that either, those two options work with links, meaning urls. For names you need to use the basic commands for each website.
