@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: schumi23
+:Score: 1
+:DateUnix: 1408572857.0
+:DateShort: 2014-Aug-21
+:END:
+
+Easy solution to that: On Firefox (Similar is available on all browsers): Right click, Web Developper, CSS, Edit CSS and add this: body{ background-color: white; }
+
+You can replace with other colors too.
