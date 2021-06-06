@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1437175901.0
+:DateShort: 2015-Jul-18
+:END:
+
+[[http://www.fanfiction.net/s/10610076/1/][*/Time to Put Your Galleons Where Your Mouth Is/*]] by [[https://www.fanfiction.net/u/2221413/Tsume-Yuki][/Tsume Yuki/]]
+
+#+begin_quote
+  Harry had never been able to comprehend a sibling relationship before, but he always thought he'd be great at it. Until, as Master of Death, he's reborn one Turais Rigel Black, older brother to Sirius and Regulus. (Rebirth/time travel and Master of Death Harry)
+
+  ^{Harry Potter *|* /Rated:/ Fiction T - English - Family/Adventure - Harry P., Sirius B., Regulus B., Walburga B. *|* /Chapters:/ 21 *|* /Words:/ 46,303 *|* /Reviews:/ 2,050 *|* /Favs:/ 7,084 *|* /Follows:/ 2,964 *|* /Updated:/ 1/14 *|* /Published:/ 8/11/2014 *|* /Status:/ Complete *|* /id:/ 10610076}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}

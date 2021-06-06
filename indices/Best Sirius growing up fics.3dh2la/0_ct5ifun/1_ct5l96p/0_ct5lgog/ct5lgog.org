@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1437069221.0
+:DateShort: 2015-Jul-16
+:END:
+
+[[http://www.fanfiction.net/s/2454211/1/][*/A Feast in Azkaban/*]] by [[https://www.fanfiction.net/u/125508/Nyx-Fixx][/Nyx Fixx/]]
+
+#+begin_quote
+  How did Sirius Black Spend twelve years in Azkaban and come out relatively sane, when others in his situation went mad or died of despair in a matter of weeks? Complete, now in chapters, mature material, SBRL slash, but mostly gen
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Drama - Sirius B. *|* /Chapters:/ 17 *|* /Words:/ 61,650 *|* /Reviews:/ 87 *|* /Favs:/ 120 *|* /Follows:/ 13 *|* /Published:/ 6/25/2005 *|* /Status:/ Complete *|* /id:/ 2454211}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}
