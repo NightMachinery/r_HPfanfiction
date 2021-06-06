@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 1
+:DateUnix: 1581406177.0
+:DateShort: 2020-Feb-11
+:END:
+
+That person made a mistake by putting the wrong fic ID in their comment. They later edited their comment to remove the bad ID, but they didn't use the command to make the bot overwrite its reply. Thus, the bot looks like it linked something that wasn't requested, but it's actually functioning correctly.
