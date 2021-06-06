@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: TheLeftIncarnate
+:Score: 1
+:DateUnix: 1444862791.0
+:DateShort: 2015-Oct-15
+:END:
+
+I'm sorry for not explaining this well. I haven't slept in two days. I'm also on my phone now please excuse typos.
+
+The text says that the book will slam shut when not enough magic is detected, and opens again given some dramatic expression of magic. Further, as I understand it (I have no idea how I got here) a squib is a person that isn't capable of magic at all, so that only residual paternal magic causes the quill to twitch. By contrast, wizards are capable of expressing magic but like the case of Neil Longbottom shows may not necessarily do so in a dramatic fashion.
+
+The book and quill partition the set of children of wizards and witches, yes, but this works out as follows:
+
+Someone is either a squib (p), or not a squid (not p); the book quill either writes down a name (q), or doesn't. It looks as though this were as you say, but we need to recognise that p is a hidden variable to the book and quill. It can not detect squirrels directly, but instead has to make use of the correlated variable of dramatic expressions of magic (m).
+
+Thus, m implies q, and not m implies not q. But how does m relate to p? Well, p (squib) implies not m, and not not m (m) implies not p (not squib), but neither does not p imply m, nor does not m imply p. Substitute and the only true interpretation is that it never write down the name of a squid
+
+This is provable
