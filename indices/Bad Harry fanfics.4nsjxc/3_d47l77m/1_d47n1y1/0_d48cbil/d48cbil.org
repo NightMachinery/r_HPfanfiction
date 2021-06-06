@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1465877956.0
+:DateShort: 2016-Jun-14
+:END:
+
+In the sidebar: if the bot makes a mistake, edit your comment with the fic ID or link inside the linkffn call. Then, reply to your comment with ffnbot!refresh. The bot will delete its old reply and parse your updated comment.
