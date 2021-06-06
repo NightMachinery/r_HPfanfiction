@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 7
+:DateUnix: 1526789303.0
+:DateShort: 2018-May-20
+:END:
+
+Let me start at the beginning, then. :)
+
+If you have 5 galleons in your pocket and travel to 10 minutes in the past, presumably you'd still have those 5 galleons in your pocket. So, now, you have 5 galleons which have been, essentially, duplicated, existing at once.
+
+This premise is typical in a time travel story but with several years of time travel rather than 10 minutes.
+
+When we're talking about serial numbers, we're referring to the identification numbers which appear on the Galleon (similar to money in the real world). In canon, it's said that each Galleon has a serial number which refers to the Goblin which created it.
+
+So say we have a number which identifies that Goblin: 123
+
+Now, if the serial numbers are "static" then they /only/ contain the information which traces it back to the Goblin which created it "123". In this case, there'd be no way to identify duplicates because all you'd know is that Goblin 123 created it.
+
+But if serial numbers are /enumerated/, you'd presumably have numbers that look like this: 123001, where the Goblin is 123 and this is the first Galleon he ever made "001". The second Galleon he ever made would be: 123002
+
+So on and so forth.
+
+In this situation, detecting duplicates would be relatively easy (assuming you have an instantaneous and easily searchable database of Galleons which, on second thought, may not be the case, unless Goblins are constantly logging the serial numbers for each Galleon that enters the bank - some kind of magic?).

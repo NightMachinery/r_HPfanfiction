@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 2
+:DateUnix: 1526825694.0
+:DateShort: 2018-May-20
+:END:
+
+Yes, obviously. No one is going through the coins and hand checking every serial number. But in a world of magic it doesn't seem out of place for the Goblins to keep a record of all of them in the bank. Imagine a simple SQL script:
+
+INSERT INTO coins (serial) VALUES (?)
+
+If a record already exists, that would throw an error. And boy howdy, is that an error for the ages.
+
+The obvious counter argument would be to never put your time-travelled currency back into the bank. But eventually you're going to have to buy something with the money, presumably, and then that money would go into the bank.
+
+Oh, a duplicate record...? Well, let's see...
+
+SELECT FROM coins WHERE serial = ?
+
+Hmm... seems there's a duplicate of money existing in the Potter vaults!
+
+This kind of data entry literally already exists - even in 1991. I imagine magic would just streamline this process.
+
+It's worth noting that this kind of problem only arises because so far as we can tell, Gringotts is the central location for you to store your valuables. This obviously doesn't happen in real life because there are thousands and thousands of banks.
