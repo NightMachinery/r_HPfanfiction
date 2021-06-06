@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: denarii
+:Score: 4
+:DateUnix: 1500651545.0
+:DateShort: 2017-Jul-21
+:END:
+
+Your spoiler is broken because you have a curly bracket at the end instead of a closing parenthesis.
