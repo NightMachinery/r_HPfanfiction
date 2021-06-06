@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: tidux
+:Score: 1
+:DateUnix: 1376356498.0
+:DateShort: 2013-Aug-13
+:END:
+
+Get some sort of PC, Mac, or unix system running Python, and use FanficDownloader (the one on Google Code) to download the stories to epub format, then read with FBReader.
