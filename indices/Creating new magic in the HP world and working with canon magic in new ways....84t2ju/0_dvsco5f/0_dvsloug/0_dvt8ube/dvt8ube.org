@@ -1,0 +1,98 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1521228507.0
+:DateShort: 2018-Mar-16
+:END:
+
+#+begin_quote
+  For one, in canon magic is formulaic. To put things in a curriculum, they kind of have to be such.
+#+end_quote
+
+No they don't. Is literature formulaic? Is art? Is philosophy? All a curriculum requires is knowledge, not formulaic knowledge.
+
+For clarity, definition of "formulaic" - produced in accordance with a mechanically followed rule or style.
+
+#+begin_quote
+  But more than that, # 4 in your negatives list is contrary to canon. Unless I'm much mistaken, there are mathematical formulae used in Transfiguration. The variables include things like "wand power", which dovetails nicely with my next bit.
+#+end_quote
+
+You are much mistaken. There is not a single mathematical formula in the books - neither shown nor even mentioned by reference.
+
+#+begin_quote
+  Magical cores are a dumb idea, but that's aside, even in canon magic is some kind of energy, and it's even measurable. When they go to find the Locket Horcrux, we are told one of Voldemort's defenses involves a boat which requires a high level of Magical power for the boat to register the occupant and move. This means that on some level, magical power can be measured. And even earlier this is hinted at with the Killing Curse, where Crouch says that 4th year students lack sufficient magical power do perform the curse. Magic can be measured in some ways without that implying it's depletable.
+#+end_quote
+
+This is two points, so far as I can see:
+
+1. The argument that in canon, magic is measurable.
+
+2. The argument that if magic is measurable, it must be some kind of energy.
+
+You put forward two arguments in support of the former (HBP cave and GoF statement regarding the Killing Curse) and, so far as I can see, no arguments in favour of the latter. I will therefore ignore number 2 and address number 1.
+
+*The Cave*
+
+This is a well trodden path - we have discussed the matter in this sub quite a few times. Nonetheless I shall summarise the position for you.
+
+The rebuttal has two parts:
+
+Firstly, that you're fundamentally misreading the scene in question - in fact the only thing the boat measures is whether or not it has more than one adult in it, which Dumbledore just so happened to express as "amount of magic".
+
+Secondly, that even if the boat did look at "magical power", this does not mean that this is a singular measurable property (and indeed, the rest of canon would indicate that it is not).
+
+So, to part one. Here's the HBP quote in question:
+
+#+begin_quote
+  Dumbledore chuckled. “Voldemort will not have cared about the weight, but about the *amount of magical power* that crossed his lake. I rather think an enchantment will have been placed upon this boat *so that only one wizard at a time* will be able to sail in it.”
+
+  “But then ---?”
+
+  “*I do not think you will count, Harry: You are underage and unqualified.* Voldemort would never have expected a sixteen-year-old to reach this place: I think it unlikely that your powers will register compared to mine.”
+#+end_quote
+
+So, yes, Dumbledore refers to "amount of magical power", but he immediately explains that all it does is measure the number of wizards in the boat and only allows one to pass. Upon Harry's objection, he then explains that it will only measure adult wizards. This is not the only example of a child's magic being fundamentally different from an adult's in nature - we know that the Trace breaks automatically when you reach the age of 17, without having to be removed. Magic itself recognizes the age of 17 as adulthood. Also see below re: Killing Curse.
+
+That alone is enough to refute the point, but I will briefly expand on part two of the rebuttal, because it touches upon broader themes about HP magic.
+
+It is without a doubt that magical power is a thing in HP canon. It is also without a doubt that certain people can be described as more powerful than others. However, this does not require magical power to be a simple, monopolar predicate. Indeed such a thing would be odd, in the face of the rest of the magic system.
+
+It is difficult to summarise this point, given that the [[https://docs.google.com/document/d/1VOF1eu_B7qpTeTUykW5ZGK2HJmVAG5WouY71a5AiRPo/edit?usp=sharing][full argument]] runs to over 6000 words. I will nonetheless try.
+
+In answering the question "what is magical power", it is worth classifying the expression of a magic into two components: active and passive. Active components are those which you perform at the time of casting the spell: the incantation (verbal or not), the wand movements (though these can apparently be dispensed with by advanced users), and for some spells, a particular mental performance (happy thought, sadistic pleasure). The passive element is what we might describe as magical power: the long-term characteristics of a person which "backs up" the success and strength of their spellcasting, without them having to actually actively engage with those characteristics during the spellcasting.
+
+From canon, we can identify certain passive elements i.e. the components of magical power. The most obvious are (a) understanding of how magic works (all the most powerful wizards are noted for their academic brilliance, and Hermione is able to learn spells quickly and cast more advanced spells because she has studied them) (b) strength of will/focus (c) emotional state (d) practice - overlaps with understanding (e) everything else!
+
+The catch-all "everything else" is there because it seems that one's entire character impacts one's magic. We know, for example, that certain people have certain predispositions towards certain areas of magic. We know this because wands are matched to people, and wands have predispositions. We also see it in practice: Lockhart is very good at Memory Charms and not much else, Neville is much better at Charms than Transfiguration, Harry is particularly talented at Defence, and so on. But we also know these are not fixed, innate predispositions - Neville goes from being terrible at Defence to being rather good at it. So what is determining these predispositions? Presumably the same complex interplay of innate and environmental factors which determines talents in real life.
+
+The "everything else" is also intended to catch the indefinable sense in which some people are simply more magical than others - in their instincts, their mindset, their world view. Some characters like Tom Riddle and Lily Potter learn to use magic all on their own, simply through instinct.
+
+So we should be able to see quite clearly from this that, just because we can say "Dumbledore is more powerful than Neville", it does not mean that magical power is measurable. This is because:
+
+1. Magical power is a complex interplay of many factors and potentially spans a person's entire character. You can no more measure magical power than you could measure a person's personality.
+
+2. Magical power varies by context. In a contest of casting Memory Charms, you'd think Lockhart was an extremely powerful wizard. But he's useless at everything else. So magical power is multi-polar, not a simple predicate. This is perhaps why wizards so frequently describe themselves as having "powers" rather than "power".
+
+3. Magical power varies by time. Though the passive elements of spellcasting are indeed long-term factors, they are not immutable. We see characters become stronger in power - Neville is the prime example, but so is Merope Gaunt after she gets out from her family. We also see wizards go in the opposite direction - in HBP, Tonks loses her transformation powers due to her emotional state (depression).
+
+The closest thing to a measurement of magical power we see in canon is not the boat in HBP, but rather the Goblet of Fire, which judges a person in their entirety and decides upon their capability in general.
+
+*Moody on the Killing Curse*
+
+Again, the rebuttal to this has two parts. They're quite similar.
+
+The first and primary rebuttal is as above, which I won't repeat - that the existence of magical power does not entail the ability to measure it.
+
+The second (but unnecessary) rebuttal is that in any case, what Moody is talking about here is again being an adult. This is a fairly simple piece of logic as follows:
+
+In DH, Vincent Crabbe successfully casts the Killing Curse.
+
+Vincent Crabbe is not a particularly powerful wizard.
+
+The Defence class in GoF contains a number of individuals whose magical power, as of DH, most definitely exceeds that of Vincent Crabbe (including Harry, Ron and Hermione).
+
+Nonetheless, Moody is convinced that no one in the class would be able to successfully cast the curse, regardless of individual power variations.
+
+Therefore a common trait which the Defence class all had was an overwhelming factor in their lack of power which justified ignoring individual power variation and declare the entire class as incapable, which included people who definitely had the power to cast it later in life.
+
+The only plausible common characteristic is the characters' age - the fact that they are teenagers, not adult wizards. This ties in again with the above point about the magic of children being different to that of adults.

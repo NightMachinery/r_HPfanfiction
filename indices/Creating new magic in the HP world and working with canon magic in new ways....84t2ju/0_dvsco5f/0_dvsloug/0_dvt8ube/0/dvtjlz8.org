@@ -1,0 +1,74 @@
+:PROPERTIES:
+:Author: MindForgedManacle
+:Score: 3
+:DateUnix: 1521239407.0
+:DateShort: 2018-Mar-17
+:END:
+
+Your response was rather long and thorough, so I tried to respond in kind (sorry for the length).
+
+#+begin_quote
+  No they don't. Is literature formulaic? Is art? Is philosophy? All a curriculum requires is knowledge, not formulaic knowledge.
+
+  For clarity, definition of "formulaic" - produced in accordance with a mechanically followed rule or style.
+#+end_quote
+
+The definition is fine. You do rather learn to follow certain styles and rules in art. There's an odd misconception that art is, to put it one one, the expression of unbounded, novel creativity. But that's not really how artists (I'll just lump literature in with this point to save space) go about it because it tends to stall work even longer than usual. Artists have rules and styles they follow, both from what they were taught and from what they've grown accustomed to from prior experience. In many ways, that's exactly why people who have the requisite training can tell when some piece of art is (likely to be) a genuine example of a particular artist's work. Heck, recently A.I. has managed to produce a painting that [[https://www.npr.org/sections/alltechconsidered/2016/04/06/473265273/a-new-rembrandt-from-the-frontiers-of-ai-and-not-the-artists-atelier][looked like a genuine Rembrandt painting]], and I would posit that alone shows that art can be, and often is, formulaic. Chomsky had a good bit on this as well, but I can't recall the video at the moment.
+
+Philosophy isn't any different here (I have studied a decent amount of it, though I tend to study and read philosophy of mathematics and philosophy of logic, just to out my biases out there). Philosophy students are most often taught the received views on what certain prominent philosophers believed and what they argued, and the way their interlocutors went about responding to those arguments. And the work they produce (even by professional philosophers) can be rather formulaic. Philosopher X will make an argument, Philosopher Y will respond in some way to rebut them (usually by calling on a counter-example to show the flaws in X's view) and thereby the process repeats in this back and forth, predictable way. I mean, it's so predictable (read: mechanical) that I know of [[https://www.routledge.com/Pseudo-Problems-How-Analytic-Philosophy-Gets-Done/Sorensen/p/book/9780203048689][at least one book]] written by a professional philosopher on the issues with the discipline on this basis. Again, I think that shows that philosophy is often formulaic as well, even if you ignore purely formal disciplines like mathematical logic.
+
+#+begin_quote
+  You are much mistaken. There is not a single mathematical formula in the books - neither shown nor even mentioned by reference.
+#+end_quote
+
+Apologies, this was in the PS film (although there's a quote from JKR on Accio Quote which specifically says that Transfiguration is "more scientific" (not direct evidence, I grant).
+
+#+begin_quote
+  You put forward two arguments in support of the former (HBP cave and GoF statement regarding the Killing Curse) and, so far as I can see, no arguments in favour of the latter. I will therefore ignore number 2 and address number 1.
+#+end_quote
+
+Well, doing work requires having energy. Ergo, given magic does work, it must be a form of energy.
+
+#+begin_quote
+  Secondly, that even if the boat did look at "magical power", this does not mean that this is a singular measurable property (and indeed, the rest of canon would indicate that it is not).
+#+end_quote
+
+Well it's a good thing I didn't argue that, now isn't it? I said that magical power is "on some level is measurable", not that it was one particular property, just that it can be measured in some way that allows characters to refer to it as coming in amounts.
+
+But this next bit is somewhat confusing:
+
+#+begin_quote
+  but he immediately explains that all it does is measure the number of wizards in the boat and only allows one to pass. Upon Harry's objection, he then explains that it will only measure adult wizards [..] That alone is enough to refute the point,
+#+end_quote
+
+This is wrong, just look at what you quoted. Dumbledore said that Voldemort would not have considered looking at the magical power of underaged wizards, but rather to look at how powerful the single (and presumably) /adult/ wizard was. Nothing about that quote even comes close to refuting this issue. The fact that it is referred to as being an "amount" means (by definition) that it is something that can be assigned a number to indicate it's size.
+
+#+begin_quote
+  However, this does not require magical power to be a simple, monopolar predicate. Indeed such a thing would be odd, in the face of the rest of the magic system.
+#+end_quote
+
+I did not say this. I said that, per Dumbledore and Crouch, magic (or magic power anyway) is measurable, not that there is a single property "magical power". It might be determined by a number of other properties in some manner, for all I know.
+
+#+begin_quote
+  Magical power varies by context. In a contest of casting Memory Charms, you'd think Lockhart was an extremely powerful wizard. But he's useless at everything else. So magical power is multi-polar, not a simple predicate.
+#+end_quote
+
+Again, not what I said (I agree with your point 1, basically). But the Lockhart example seems besides the point. Lockhart has practiced the Memory Charm quite a lot, so it's no mystery why he can manage them better than other spells (where he's hopeless).
+
+#+begin_quote
+  Magical power varies by time
+#+end_quote
+
+I don't see how this supports your point anymore than mine. This seems as self-defeating as saying "Bone density weakens with age entails bone density is not measurable". If magical power varies by time... how does that work in favor of your view?
+
+#+begin_quote
+  that the existence of magical power does not entail the ability to measure it.
+#+end_quote
+
+It does. To say something is measurable (or as Dumbledore said, to refer to it as coming in "amounts") entails that there is (for want of a better term) a size to magical power. Things with size are definitionally numeric, even if one were talking about infinite sizes.
+
+#+begin_quote
+  In DH, Vincent Crabbe successfully casts the Killing Curse. Vincent Crabbe is not a particularly powerful wizard. The Defence class in GoF contains a number of individuals whose magical power, as of DH
+#+end_quote
+
+I don't know what you were trying to say here. I agree that Crabbe was not particularly powerful, but as you note he wasn't confirmed to be capable of it until DH... when he was an adult. The Crouch point was in GoF, where Crouch says they all lack sufficient magic power, meaning that power increases over time. In fact, this works against your point twice over. You already agreed that magical power varies by age, it's not fixed (I agreed with this). And to increase requires there to be an amount of something whose size grows beyond what is what before, to have a higher cardinality. Crouch says that no one in the class has a high enough "powerful bit of magic" to perform it. So this seems to entail that magical power is variable over time (and salient to the Crouch case) increases to the point that even Crabbe could perform the Killing Curse by adulthood. Therefore magical power is measurable, in whatever form that may be. I never hung my hat on the idea that it was a singular, immutable property that wizards have. That's straightforwardly false (as per Crouch) and it doesn't seem to favor my view over yours, nor vice versa.
