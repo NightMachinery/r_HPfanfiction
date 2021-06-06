@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: -shacklebolt-
+:Score: 2
+:DateUnix: 1477439827.0
+:DateShort: 2016-Oct-26
+:END:
+
+#+begin_quote
+  the lack of formatting settings on Ao3 is off-putting for me who's visually impaired and suffer from albinism, but nobody ever consider that, do they?
+#+end_quote
+
+You can set whatever custom skin you want, use browser zoom or font settings, use browser reading plugins (like high contrast, chromevox, readability, etc), access the site with screen reading and screen magnifying software, and you can download the files in several formats that makes them easy to port to accessible ebook readers. There's logical heading level navigation both throughout the browsing and search pages and on each fic.
+
+On the other hand, FFN tries to block downloading fics, which some users (like me) want for accessibility reasons, has some elements that are inaccessible to me with NVDA (like the "mobile edition," "fontastic panel," and "language," buttons), has no apparent useful heading navigation, and the filter function has issues on the non-mobile site.
+
+I do not think that it is a fair criticism of ao3's accessibility that they do not offer something like the fontastic panel (but instead enable users to fully customize the experience to their actual needs and offer a pretty accessible base site.) If you give the site a try you will find that it can be used by anyone ranging from low vision to completely blind.
