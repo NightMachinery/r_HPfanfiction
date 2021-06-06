@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: thrawnca
+:Score: 5
+:DateUnix: 1571432770.0
+:DateShort: 2019-Oct-19
+:END:
+
+That's a curious bot invocation you have there. You don't need to make it monospaced or include the chapter number; just the story ID is enough.
