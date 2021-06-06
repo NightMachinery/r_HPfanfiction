@@ -1,0 +1,27 @@
+:PROPERTIES:
+:Author: fflai
+:Score: 13
+:DateUnix: 1484164613.0
+:DateShort: 2017-Jan-11
+:END:
+
+Yeah. I have a few scripts I can paste in the chrome-console to fix stuff like this. Here are my most used ones:
+
+Remove crossovers in any listing (for examples communities)
+
+#+begin_example
+  $(".z-list").filter((a, b) => $(b).text().indexOf('Crossover - ') !== -1).map((a, b) => $(b).remove());
+#+end_example
+
+Replace a word
+
+#+begin_example
+  var searchFor = "MacGonagle", replaceWith = "McGonagall";
+  $(".storytext p").find(":not(iframe)").addBack().contents().filter((i, e) => e.nodeType == 3).map((a, b) => { b.textContent = b.textContent.replace(new RegExp(searchFor, 'g'), replaceWith) });
+#+end_example
+
+Just open the developer console with F12, go to the console-tab and paste it there. Of course, to replace a word make sure to actually replace MacGonagle and McGonagall with the right stuff.
+
+Usually the fics aren't worth dealing with it, but I had a good one, and just couldn't bear it after a few minutes. Note that this only works on ffn
+
+I also have one to deal with annoying separators that I can dig out if you want.
