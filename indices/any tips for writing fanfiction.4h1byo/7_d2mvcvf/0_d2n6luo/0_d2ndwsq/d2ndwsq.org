@@ -1,0 +1,20 @@
+:PROPERTIES:
+:Author: Bob_Bobinson
+:Score: 1
+:DateUnix: 1462030558.0
+:DateShort: 2016-Apr-30
+:END:
+
+Don't do this:
+
+"Blah blah blah." He said.
+
+Or
+
+"Blah blah blah," he said angrily.
+
+Or
+
+"Blah blah blah." he said.
+
+Use double quotes, not single ones.
