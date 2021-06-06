@@ -1,0 +1,7 @@
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1585583168.0
+:DateShort: 2020-Mar-30
+:END:
+
+just do linkffn() and put the link or the fanfiction number (in this case, 9963013), in the brackets. If it's from ao3, use linkao3()
