@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1450135789.0
+:DateShort: 2015-Dec-15
+:END:
+
+[[http://archiveofourown.org/works/5340935][*/This Stone at My Back/*]] by [[http://archiveofourown.org/users/Lomonaaeren/pseuds/Lomonaaeren][/Lomonaaeren/]]
+
+#+begin_quote
+  A tour around Ginny and Luna's shared home, built amid the roots of both tree and stone.
+
+  #+begin_example
+      Written for thady's prompt: Ginny/Luna, winter holidays, building a home\. Not too much angst\.
+  #+end_example
+#+end_quote
+
+^{/Site/: [[http://www.archiveofourown.org/][Archive of Our Own]] *|* /Fandom/: Harry Potter - J. K. Rowling *|* /Published/: 2015-12-03 *|* /Words/: 3595 *|* /Chapters/: 1/1 *|* /Comments/: 2 *|* /Kudos/: 20 *|* /Bookmarks/: 2 *|* /Hits/: 239 *|* /ID/: 5340935 *|* /Download/: [[http://archiveofourown.org/][EPUB]]}
+
+--------------
+
+*Bot v1.3.0 - 9/7/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* Use /ffnbot!delete/ to delete a comment! Use /ffnbot!refresh/ to refresh bot replies!
