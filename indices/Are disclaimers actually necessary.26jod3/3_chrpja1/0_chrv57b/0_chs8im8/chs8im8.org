@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: wordhammer
+:Score: 1
+:DateUnix: 1401201565.0
+:DateShort: 2014-May-27
+:END:
+
+That, and I have a habit of working in .rtf files, and they get weird about spacing. By having a base template (including disclaimer) I start new chapter files with the preferred line spacing. Also, this helps distinguish between the actual chapter file and the snippet files for that chapter. Not always, but sometimes.
