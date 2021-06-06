@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 2
+:DateUnix: 1445031801.0
+:DateShort: 2015-Oct-17
+:END:
+
+Put a backslash between the number and the ., like
+
+22. There is no Way 22.
