@@ -1,0 +1,9 @@
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1516019440.0
+:DateShort: 2018-Jan-15
+:END:
+
+Enter "-m/m" in the 'search within results' field (ex quotes), which should get rid of most of it. The slash remaining is cos authors haven't tagged things correctly. I know it's possible to do boolean searches in AO3, so you could try something like (Gen OR M/F) AND NOT M/M to avoid untagged fics.
+
+Honestly though, I dislike het fics even more than slash. In that case, the filter "-relationship_ids:*" is a lifesaver. (As a bonus, it returns very few 'overtagged' fics. In fact, it returns very few fics at all.)
