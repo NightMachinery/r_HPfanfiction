@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Lightwavers
+:Score: 2
+:DateUnix: 1605175834.0
+:DateShort: 2020-Nov-12
+:END:
+
+Yes! It's called GPT-2 and you can prompt it [[https://bellard.org/textsynth/][here]]. The quality of the output depends /heavily/ on how the prompt is worded, so if you get something that makes no sense, try rewording it.
