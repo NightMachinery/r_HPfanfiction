@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: tribblite
+:Score: 7
+:DateUnix: 1598894414.0
+:DateShort: 2020-Aug-31
+:END:
+
+So I found out why some people use dashes instead of double quotes. It turns out that some languages use dashes (though not exactly like double quotes) for dialog.
+
+For instance: [[https://en.wikipedia.org/wiki/Quotation_mark#Polish]]
