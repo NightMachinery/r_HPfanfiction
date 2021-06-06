@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 3
+:DateUnix: 1436906780.0
+:DateShort: 2015-Jul-15
+:END:
+
+[[http://www.fanfiction.net/s/4062601/1/][*/The Wise One: Book One: Becoming/*]] by [[https://www.fanfiction.net/u/1194522/FarenMaddox][/FarenMaddox/]]
+
+#+begin_quote
+  When Sirius Black escapes Azkaban and 8-year-old Harry Potter disappears, the world is thrown into upheaval. What will Britain and Harry be without each other, and who will face the Dark? You only THINK you've read this before. I guarantee you haven't.
+
+  ^{Harry Potter *|* /Rated:/ Fiction T - English - Adventure/Drama - Harry P., Sirius B. *|* /Chapters:/ 25 *|* /Words:/ 99,300 *|* /Reviews:/ 1,324 *|* /Favs:/ 2,177 *|* /Follows:/ 1,006 *|* /Updated:/ 6/28/2008 *|* /Published:/ 2/9/2008 *|* /Status:/ Complete *|* /id:/ 4062601}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}
