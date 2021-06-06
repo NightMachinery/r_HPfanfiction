@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1436845169.0
+:DateShort: 2015-Jul-14
+:END:
+
+[[http://www.fanfiction.net/s/11153639/1/][*/A Through Z/*]] by [[https://www.fanfiction.net/u/4989753/Gelana][/Gelana/]]
+
+#+begin_quote
+  Alphabetically prompted snippets of 155 words in length. Waxing poetic with the Bateses. Enjoy.
+
+  ^{Downton Abbey *|* /Rated:/ Fiction T - English - J. Bates, Anna S. *|* /Chapters:/ 14 *|* /Words:/ 2,170 *|* /Reviews:/ 66 *|* /Favs:/ 4 *|* /Follows:/ 7 *|* /Updated:/ 7/10 *|* /Published:/ 3/31 *|* /id:/ 11153639}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}
