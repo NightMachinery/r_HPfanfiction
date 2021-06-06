@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: someorangegirl
+:Score: 2
+:DateUnix: 1443656828.0
+:DateShort: 2015-Oct-01
+:END:
+
+Part of HPFF's design issues is its codebase. They would very much like to update the site, but they don't have the resources or a real dev. I volunteered and mocked up UI improvements, but actually implementing it takes more time than I have. Not difficult--tedious. It's a rat's nest.
+
+If there were enough experienced volunteers to refactor the site, it could be improved immensely--namely because all of the features they want to add would be much easier to add. I'd love to do all the UI improvements and search enhancements, but I don't have the time to do all that AND refactor. It stings because if the code were properly written, I'd be able to do some major UI changes for relatively little work.
+
+They are taking donations to maintain the site, and ideally, hire a dev part time. It would be nice if enough devs here were invested in HPFF to improve the site collaboratively.
