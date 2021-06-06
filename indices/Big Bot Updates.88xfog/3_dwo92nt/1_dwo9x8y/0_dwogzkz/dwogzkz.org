@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1522685448.0
+:DateShort: 2018-Apr-02
+:END:
+
+Fixed! But you should consider switching to [[https://itunes.apple.com/app/id979274575][Apollo]], Reddit's official app is pretty unpolished. The issue with links is actually due to Reddit incorrectly parsing comment text rather than any issue on the bot's side.

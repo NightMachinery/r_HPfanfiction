@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1523009364.0
+:DateShort: 2018-Apr-06
+:END:
+
+Sure! If you are capable of programming in Python, check out the [[https://github.com/tusing/reddit-ffn-bot/issues][issues/feature requests on GitHub]] and try implementing one. Then just submit a PR!

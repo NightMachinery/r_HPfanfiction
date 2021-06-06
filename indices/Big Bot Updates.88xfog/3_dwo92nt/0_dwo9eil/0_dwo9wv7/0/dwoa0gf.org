@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: aldonius
+:Score: 2
+:DateUnix: 1522678207.0
+:DateShort: 2018-Apr-02
+:END:
+
+I suspect it might be the backslashes before the periods in the URLs of the fic link and the author link. Testing by manual removal:
+
+[[http://www.fanfiction.net/s/7287278/1/][*/Harry Potter and the Forests of Valbonë/*]] by [[https://www.fanfiction.net/u/980211/enembee][/enembee/]] (115,748 words; /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=7287278&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=7287278&source=ff&filetype=mobi][MOBI]])

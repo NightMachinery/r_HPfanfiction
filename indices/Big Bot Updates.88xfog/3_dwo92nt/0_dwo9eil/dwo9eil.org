@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1522677488.0
+:DateShort: 2018-Apr-02
+:END:
+
+Could you PM me a picture of the issue? From what I understand the iOS app incorrectly parses Markdown, making bot links not really work properly.

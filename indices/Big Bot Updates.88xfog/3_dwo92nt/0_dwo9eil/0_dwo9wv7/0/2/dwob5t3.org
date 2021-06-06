@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: aldonius
+:Score: 2
+:DateUnix: 1522679517.0
+:DateShort: 2018-Apr-02
+:END:
+
+The official Reddit iOS app markdown processor also doesn't handle the footnote-style links properly, but it does at least display those as URLs, which I guess is a sort of progressive degradation.
+
+Meanwhile, Apollo handles it all perfectly. That was actually a big reason I switched! [[/r/apolloapp]]

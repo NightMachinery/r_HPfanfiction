@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 1
+:DateUnix: 1522707942.0
+:DateShort: 2018-Apr-03
+:END:
+
+That's awesome. Thanks for your hard work!
+
+Edit: Have you considered turning the bot into a recommendation engine? It could learn that two stories are similar if they are linked in the same thread (each time this happens increment the score). Then you could ask it for similar stories to a given fic and it lists the top 5... Would be a bit of work though ;)
