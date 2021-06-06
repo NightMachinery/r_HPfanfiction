@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: OutOfNiceUsernames
+:Score: 9
+:DateUnix: 1422217264.0
+:DateShort: 2015-Jan-25
+:END:
+
+I think there already are way too many fanfic-hosting websites. You'd either have to make something exceptionally good to draw the already accustomed users to your new project or you'd only increase the number of overall websites.
+
+My suggestion would be to try focusing on a servicing application instead. This could be a browser script, similar to reddit enhancement suite, a set of browser expansions or a set of smartphone apps. This way you'd manage to make /all/ the already existing websites “yours”, in a way. By going one step further, you could even provide your own backend-only server for archiving and data mining purposes.
