@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: ItsRevan
+:Score: 2
+:DateUnix: 1554457430.0
+:DateShort: 2019-Apr-05
+:END:
+
+Search won't work because of the way the site caches backups, it only takes a single snap of the site so searching isn't backed up for a lot of websites.
+
+The only thing I can recommend is using /httpp://[[http://www.restrictedsection.org/story.php][www.restrictedsection.org/story.php]]/ replacing "story" with the name of specific fic to see if there are any backups of it.
+
+That's all I have though :(
