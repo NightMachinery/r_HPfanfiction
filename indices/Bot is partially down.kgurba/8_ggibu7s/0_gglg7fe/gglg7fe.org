@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1608566386.0
+:DateShort: 2020-Dec-21
+:END:
+
+Nah, that's a separate issue - FF2Ebook had an endpoint for the bot download links but that endpoint isn't working anymore.
