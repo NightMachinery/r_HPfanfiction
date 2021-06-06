@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: Sigyn99
+:Score: 9
+:DateUnix: 1546107259.0
+:DateShort: 2018-Dec-29
+:END:
+
+If you're using an apple iPhone (and I'm not sure if this applies to Mac as well) you can go into Settings > Screen Time > Downtime, and set yourself a curfew with an optional passcode (you could get your mum or another family member to set the passcode) you can set it to allow certain apps (like calls, iMessage, calendar, settings, clock, that sort of stuff) and it will give you a 5 minute warning, then lock all non-essential, non-allowed apps until a set time in the morning. You can bypass this if you're genuinely using the app for study or something by asking for 15 minutes, an hour, or unlocking it for that night. The reason I suggested getting someone else to set the passcode and not tell you is because I know the passcode for mine and if I'm really into what I'm reading, I'll just unlock the app and keep going.
+
+Also in Settings > Screen Time, you can set limits for individual apps ( > App Limits). These are also password protected, but I haven't used that feature before so I'm not entirely sure how it works. A quick read of the note at the top of the section, however, leads me to believe that you set a daily limit on how many hours you can spend on X app. This resets at midnight though, so I would still suggest using Downtime so you don't just start reading at midnight each night when you've used up your app time.
+
+Finally, Settings > Screen Time also has ‘Always Allowed' which I mentioned in the first paragraph, and ‘Content and Privacy Restrictions'. There is also an option to share the Screen Time Settings across all devices that are logged into the same iTunes account, which I would presume includes iPads, MacBooks and any other devices using iCloud.
+
+Apologies for the formatting; I'm on mobile.
