@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: fastfinge
+:Score: 2
+:DateUnix: 1428108561.0
+:DateShort: 2015-Apr-04
+:END:
+
+Yeah, but they'll ban any IP that makes X number of requests consecutively over Y days. And X and Y are highly variable; I think they just have thresholds and then a human comes and takes a look at your traffic. So making a spider and limiting it to X requests per second isn't going to help. I guess if you have a large pool of IP addresses, you could probably mirror the entire site eventually, but that's likely to be beyond OPs resources.

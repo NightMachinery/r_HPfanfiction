@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 5
+:DateUnix: 1428112121.0
+:DateShort: 2015-Apr-04
+:END:
+
+Er, so remote into that machine, install a linux distro on the machine you do have access to, or install Cygwin and run wget through that, I believe its included.

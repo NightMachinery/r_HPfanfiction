@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: OutOfNiceUsernames
+:Score: 2
+:DateUnix: 1427962723.0
+:DateShort: 2015-Apr-02
+:END:
+
+Never heard of one, but you can try using programs like [[https://www.gnu.org/software/wget/][wget]] on your own. You can make it to only download the story pages, internally link the downloaded pages together so they will cease to be linking to fanfiction.net addresses, put limitations on download speed and number of simultaneous connections ([[http://stackoverflow.com/questions/798695/proper-etiquette-for-a-web-crawler-http-requests][which I would recommend),]] and so on.

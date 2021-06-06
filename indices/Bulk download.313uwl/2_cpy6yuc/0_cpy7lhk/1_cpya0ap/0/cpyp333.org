@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: OutOfNiceUsernames
+:Score: 3
+:DateUnix: 1427962097.0
+:DateShort: 2015-Apr-02
+:END:
+
+You don't have to do that at super-high speeds. Usually website crawlers have options for self-imposed limits (both on the speed and number of connections). Also^{1} I doubt that admins of an on-line resource that managed to survive from 1998 didn't put some restrictions of their own too, of blocking those IPs that go way over the estimated traffic usage marks.
+
+^{1} --- see: difference between DoS and DDoS --- [[http://www.security-faqs.com/dos-vs-ddos-what-is-the-difference.html][1]], [[http://www.crime-research.org/articles/network-security-dos-ddos-attacks/][2]]
