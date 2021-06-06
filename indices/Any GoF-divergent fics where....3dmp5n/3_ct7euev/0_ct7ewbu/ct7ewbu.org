@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1437195125.0
+:DateShort: 2015-Jul-18
+:END:
+
+[[http://www.fanfiction.net/s/7222456/1/][*/The Fourth Champion/*]] by [[https://www.fanfiction.net/u/649126/James-Spookie][/James Spookie/]]
+
+#+begin_quote
+  Harry, believed to have died that fateful night along with his parents, is called out of oblivion to compete in the Tri-Wizard Tournament. Meanwhile, Sirius, Remus and Dumbledore have to solve the riddle of who could have possibly known Harry was alive.
+
+  ^{Harry Potter *|* /Rated:/ Fiction T - English - Adventure/Friendship - Harry P. *|* /Chapters:/ 21 *|* /Words:/ 156,503 *|* /Reviews:/ 1,200 *|* /Favs:/ 2,348 *|* /Follows:/ 1,308 *|* /Updated:/ 9/14/2011 *|* /Published:/ 7/26/2011 *|* /Status:/ Complete *|* /id:/ 7222456}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}

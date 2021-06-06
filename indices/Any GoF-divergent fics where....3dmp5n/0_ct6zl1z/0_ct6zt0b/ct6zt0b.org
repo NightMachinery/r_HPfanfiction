@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1437166117.0
+:DateShort: 2015-Jul-18
+:END:
+
+[[http://www.fanfiction.net/s/8730465/1/][*/C'est La Vie/*]] by [[https://www.fanfiction.net/u/4019839/cywscross][/cywscross/]]
+
+#+begin_quote
+  A year after the war ends, Fate takes the opportunity to toss her favourite hero into a different dimension to repay her debt. A new life in exchange for having fulfilled her prophecy. Harry just wants to know why he has no say in the matter. And why Fate thinks that his hero complex won't eventually kick in. Then again, that might be exactly why Fate dumped him there.
+
+  ^{Harry Potter *|* /Rated:/ Fiction T - English - Adventure/Friendship - Harry P. *|* /Chapters:/ 9 *|* /Words:/ 107,884 *|* /Reviews:/ 4,112 *|* /Favs:/ 8,936 *|* /Follows:/ 9,309 *|* /Updated:/ 5/9/2013 *|* /Published:/ 11/23/2012 *|* /id:/ 8730465}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}

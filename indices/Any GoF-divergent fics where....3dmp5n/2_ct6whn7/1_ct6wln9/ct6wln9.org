@@ -1,0 +1,32 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1437161136.0
+:DateShort: 2015-Jul-17
+:END:
+
+[[http://www.fanfiction.net/s/11080542/1/][*/Patron/*]] by [[https://www.fanfiction.net/u/2548648/Starfox5][/Starfox5/]]
+
+#+begin_quote
+  In an Alternate Universe where muggleborns are a tiny minority and stuck as third-class citizens, formally aligning herself with her best friend, the famous boy-who-lived, seemed a good idea. It did a lot to help Hermione's status in the exotic society of a fantastic world so very different from her own. Unfortunately, it also painted a very big target on her back.
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Drama/Romance - [Harry P., Hermione G.] *|* /Chapters:/ 20 *|* /Words:/ 188,503 *|* /Reviews:/ 353 *|* /Favs:/ 391 *|* /Follows:/ 655 *|* /Updated:/ 7/11 *|* /Published:/ 2/28 *|* /id:/ 11080542}
+#+end_quote
+
+[[http://www.fanfiction.net/s/8379655/1/][*/Hogwarts Battle School/*]] by [[https://www.fanfiction.net/u/1023780/Kwan-Li][/Kwan Li/]]
+
+#+begin_quote
+  AU. Voldemort kills Dumbledore but is defeated by a child. In the aftermath, Snape becomes the Headmaster and radically changes Hogwarts. Harry Potter of House Slytherin begins his Third Year at Hogwarts Battle School and realizes that friend and foe are too similar for his liking. Competing with allies and enemies, Harry finds there is a cost to winning.
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Adventure/Romance - Harry P., Hermione G., Severus S. *|* /Chapters:/ 47 *|* /Words:/ 328,069 *|* /Reviews:/ 1,788 *|* /Favs:/ 2,075 *|* /Follows:/ 2,461 *|* /Updated:/ 5/26 *|* /Published:/ 7/31/2012 *|* /id:/ 8379655}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}
