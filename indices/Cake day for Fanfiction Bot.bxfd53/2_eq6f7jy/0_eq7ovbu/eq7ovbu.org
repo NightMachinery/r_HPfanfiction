@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 13
+:DateUnix: 1559850626.0
+:DateShort: 2019-Jun-07
+:END:
+
+While I have a closed-source fork it is actually no different from the current open-source version! The bot is stable enough that I haven't had to change any code.

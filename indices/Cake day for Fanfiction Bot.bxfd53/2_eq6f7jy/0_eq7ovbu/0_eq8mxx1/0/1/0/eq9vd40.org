@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: rpeh
+:Score: 11
+:DateUnix: 1559918790.0
+:DateShort: 2019-Jun-07
+:END:
+
+Imagine a programmer, let's call them J, has been paid to work on a particular problem. J solves the problem and The Company uses that solution to get a big advantage in their sector.
+
+One evening, J comes across an open source project that would benefit from the same solution and adds something similar to it. The Company just lost its advantage.
+
+Now in the real world, that's hardly ever going to happen. But if you're in a sector where innovation is key, you don't want your employees spreading their knowledge around too far.
+
+I was once contracting for one company that tried to change our contracts such that any code I wrote, anywhere, was immediately the company's property. Needless to say, I refused to sign it. Others might not have had that choice though.
