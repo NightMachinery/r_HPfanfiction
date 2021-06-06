@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: Avigorus
+:Score: 3
+:DateUnix: 1620337261.0
+:DateShort: 2021-May-07
+:END:
+
+#+begin_quote
+  [[https://www.fanfiction.net/s/6254783/1/Rise-of-the-Wizards][Rise of the Wizards by Teufel1987]]
+#+end_quote
+
+I like to just use the URL button for this (the loop rings thing), but the bot can sometimes get it with the exact title (albeit if there are multiple fics with the same title you need to specify the "by author" or you might get the wrong one) or you can use the number that's part of the URL, in this case I believe Linkffn(6254783) should work

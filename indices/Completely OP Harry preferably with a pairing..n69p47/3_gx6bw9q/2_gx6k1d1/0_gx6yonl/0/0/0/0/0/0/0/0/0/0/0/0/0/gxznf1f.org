@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: Lightwavers
+:Score: 1
+:DateUnix: 1620920886.0
+:DateShort: 2021-May-13
+:END:
+
+There's a flaw in your comparison. Do you see it? I'll give you a hint, it has to do with this part here:
+
+#+begin_quote
+  where all the *artists* are amateurs
+#+end_quote
+
+Yeah, there's the rub. We're not talking to the writers here. The discussion on this subforum is for the /readers/.
