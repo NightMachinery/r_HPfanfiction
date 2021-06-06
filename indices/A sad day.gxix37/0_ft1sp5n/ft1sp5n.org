@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: 420SwagBro
+:Score: 1
+:DateUnix: 1591412397.0
+:DateShort: 2020-Jun-06
+:END:
+
+You might be able to recover your tabs. In firefox, I've accidentally lost my tabs, with the normal 'restore previous session' button not working, and was able to recover them by going into the sessionstore folder and finding a file that had them. Don't know if there's an equivilent method for Chrome, but it's worth researching it on google to see if it's possible.
