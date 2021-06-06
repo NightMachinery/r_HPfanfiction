@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 1
+:DateUnix: 1547806864.0
+:DateShort: 2019-Jan-18
+:END:
+
+Sure, the versioning support isn't really what I meant, though. To be completely honest, it's literally never been useful for me.
+
+I was more talking about being able to see what changes your Betas have made without accidentally slipping formatting changes they use to /show you/ the changes they've made into the final version, or being able to comment on every change individually, and other features like that.
+
+To be fair, though, those are entirely up to the wrappers for Git, like GitHub or GitLab or something. But for writers.
+
+I've just perfectly described Google Docs, haven't I? Whoops. =/

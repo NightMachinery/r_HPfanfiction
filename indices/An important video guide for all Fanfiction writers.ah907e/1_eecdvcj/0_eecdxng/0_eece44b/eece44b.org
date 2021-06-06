@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 2
+:DateUnix: 1547806687.0
+:DateShort: 2019-Jan-18
+:END:
+
+Sure, literally anything will work. You don't really need the versioning support of Git, but I guess it won't hurt.
