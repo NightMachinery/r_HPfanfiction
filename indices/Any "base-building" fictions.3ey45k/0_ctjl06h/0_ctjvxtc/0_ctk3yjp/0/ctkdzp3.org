@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1438186000.0
+:DateShort: 2015-Jul-29
+:END:
+
+Usually this happens:
+
+= INFO:root:Parsing new submissions.= = INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: api.reddit.com= = INFO:root:Parsing new comments.=
+
+I'll have more time to discuss this in git/chat later, as I'm not exactly able to work on the bot at the moment.

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 2
+:DateUnix: 1438166779.0
+:DateShort: 2015-Jul-29
+:END:
+
+With so much info I can do so little.
+
+Where do your HTTP Connections reset and more importantly, why you think they cause the bot to fail?
