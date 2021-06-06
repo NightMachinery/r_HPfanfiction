@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 3
+:DateUnix: 1586222823.0
+:DateShort: 2020-Apr-07
+:END:
+
+If you can't end up finding it, but have the ebook version, you can make it yourself. A bit of a boring process, but really easy to do.
+
+Download and install [[https://calibre-ebook.com/][Calibre]] and add the ebooks to the Calibre library.
+
+Right click the book, and click *Edit*. This will open a new window with a bunch of icons along the top. Find the one for *Reports* - it'll have a magnifying glass and graph-like columns. Wait for it to load.
+
+The *Words* tab is likely auto-selected, if not choose that. Then click *Save* - this will create a CSV file of every single word in the book and its frequency. Then you'll just need to delete the rows that aren't a name: you can open a CSV in Excel.
+
+... Repeat for the next book.
