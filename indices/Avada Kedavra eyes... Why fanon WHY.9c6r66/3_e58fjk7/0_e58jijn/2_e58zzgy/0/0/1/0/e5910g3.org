@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: LordNihrain
+:Score: 2
+:DateUnix: 1535860752.0
+:DateShort: 2018-Sep-02
+:END:
+
+I know your code works, just by looking at it, just disagreeing on the using hex values for color is the same thing as using an rgb( tag.

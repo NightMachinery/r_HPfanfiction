@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 4
+:DateUnix: 1535863275.0
+:DateShort: 2018-Sep-02
+:END:
+
+#+begin_quote
+  rgb( 255, 255, 255), rather than background-color: #000000
+#+end_quote
+
+Oh god, that hurt.
+
+I think you meant =#FFF=.
+
+=rgb( 255, 255, 255 )= would be white and =#000= would be black.

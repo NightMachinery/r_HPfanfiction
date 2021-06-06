@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 2
+:DateUnix: 1535955370.0
+:DateShort: 2018-Sep-03
+:END:
+
+While we're being pedantic... they're still RGB values, just a [[https://en.wikipedia.org/wiki/RGB_color_model#Numeric_representations][different representation]]. The [[https://www.w3.org/TR/css-color-3/#rgb-color][CSS spec]] agrees. The whole =rgb()= thing is /functional notation/ while =#= is /hexadecimal notation/ but they're both still RGB. Contrast HSL.

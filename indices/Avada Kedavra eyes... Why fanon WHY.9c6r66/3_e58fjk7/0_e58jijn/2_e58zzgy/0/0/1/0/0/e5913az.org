@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: NiceUsernameBro
+:Score: 2
+:DateUnix: 1535860856.0
+:DateShort: 2018-Sep-02
+:END:
+
+It's a preference thing.
+
+My preference for hex values when using color stems from the HTML bgcolor attribute which existed before CSS was invented. It used to only be hex.

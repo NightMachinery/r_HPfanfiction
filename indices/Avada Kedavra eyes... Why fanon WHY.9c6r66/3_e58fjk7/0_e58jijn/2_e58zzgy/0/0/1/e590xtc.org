@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: NiceUsernameBro
+:Score: 2
+:DateUnix: 1535860655.0
+:DateShort: 2018-Sep-02
+:END:
+
+Go over the jsfiddle and run my code. Tell me if it works.
+
+Even the W3Schools website uses hex for background-color in one of their examples.
+
+[[https://www.w3schools.com/cssref/pr_background-color.asp]]

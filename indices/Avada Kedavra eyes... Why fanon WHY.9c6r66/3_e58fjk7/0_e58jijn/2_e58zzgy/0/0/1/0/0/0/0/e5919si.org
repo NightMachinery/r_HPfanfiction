@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: NiceUsernameBro
+:Score: 1
+:DateUnix: 1535861091.0
+:DateShort: 2018-Sep-02
+:END:
+
+I tend not to include an alpha value unless I'm using overlapping elements whose backgrounds I want to mix. When I use alpha I use the rgba() format.

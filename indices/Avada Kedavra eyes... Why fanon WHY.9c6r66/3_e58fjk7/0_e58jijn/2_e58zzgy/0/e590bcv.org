@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: NiceUsernameBro
+:Score: 7
+:DateUnix: 1535859848.0
+:DateShort: 2018-Sep-02
+:END:
+
+I'm familiar with RGB being hex values through my usage of html and css.
+
+This CSS code for example would make a webpage have an emerald background:
+
+#+begin_example
+  body {
+    background-color: #50C878;
+  }
+#+end_example
+
+You can also specify RGB values as hex when using Adobe Photoshop and presumably other graphics editing software as well. Pixlr is similar enough to photoshop, open [[https://pixlr.com/editor/]] and check out the color palette to see that it will accept hex values and also tell you the hex value of your current color.

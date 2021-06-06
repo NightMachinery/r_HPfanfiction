@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: LordNihrain
+:Score: 5
+:DateUnix: 1535860467.0
+:DateShort: 2018-Sep-02
+:END:
+
+I realize that one can specify rgb values on the screen as hex, but if we're talking about css here, the syntax to specify rgb values in an rgb format is would be background-color: rgb( 255, 255, 255), rather than background-color: #000000, which uses hex values to address rgb pixels, rather than rgb values to address rgb pixels. Coming back to the eyes though, it would probably make the most sense to use an rgba tag, since they allegedly glow in many fics that use the term emerald orbs.
