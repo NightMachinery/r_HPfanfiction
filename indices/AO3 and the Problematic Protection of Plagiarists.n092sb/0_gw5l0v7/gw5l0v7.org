@@ -1,0 +1,28 @@
+:PROPERTIES:
+:Author: SteelbadgerMk2
+:Score: 62
+:DateUnix: 1619603450.0
+:DateShort: 2021-Apr-28
+:END:
+
+I'll move past the fairly pointless arguments that /reposting with credit, but without consent/ does not technically constitute plagiarism as defined by the AO3 TOS because it is also explicitly disallowed as copyright and trademark infringement:
+
+#+begin_quote
+  Reproductions of entire copyrighted works---whether songs, poems, transcripts, or other material---are not allowed without the consent of the copyright owner.
+#+end_quote
+
+Similarly, representatives of AO3 have stated in the past that exactly this kind of activity should not be performed without explicit consent: [[https://www.reddit.com/r/AO3/comments/bgvbqa/am_i_allowed_to_post_someone_elses_work/elntbtr?utm_source=share&utm_medium=web2x&context=3]]
+
+The issue here is that it appears to only be enforceable by the copyright holder themselves:
+
+#+begin_quote
+  If you believe that your content has been reproduced in whole or in part, without transformative use (transformative use is defined by the OTW as adding something new, with a further purpose or different character, altering the source with new expression, meaning, or message), please follow our procedures for reporting copyright infringement.
+
+  The report must clearly and specifically indicate the exact location (URL), nature, and extent of each instance of allegedly infringing content, as well as the exact copyrighted material that is being infringed, as well as full and complete contact information for the copyright holder and/or an authorized agent.
+#+end_quote
+
+Thus, if the author is dead, or simply no longer active, it seems that it's open season on their works.
+
+This is similar to the broader problem of orphan works. In most places use of copyrighted orphan works (where the rights holder is either unknown or unreachable) is still illegal, it's just entirely without enforcement as only the rights holder can enforce their ownership of a work.
+
+Thus it seems AO3 is entirely in step with most international copyright law. Copying shit without permission isn't allowed, but attempting to police it is too much work, and so it falls to the rights holders to do so. If those rights holders are unaware of the infringement, then it simply gets overlooked.
