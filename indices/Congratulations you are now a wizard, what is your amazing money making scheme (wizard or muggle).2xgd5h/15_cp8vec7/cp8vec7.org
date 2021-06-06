@@ -1,0 +1,42 @@
+:PROPERTIES:
+:Author: countef42
+:Score: 1
+:DateUnix: 1425878813.0
+:DateShort: 2015-Mar-09
+:END:
+
+Along the stock line.... If you're discounting time turners (which considering they are highly regulated is easy) You could still have Harry do the standard Wall Street method: Options contracts. This could be augmented by divination, which is never explicitly refuted.
+
+The way Options contracts work:
+
+When a stock will go up:
+
+Pay a premium (usually some fraction like $.25-$5 per share)
+
+You control the contract for 100 shares which costs that fraction * 100(i.e. stock XYZ costs $18. You buy the Strike Price contract of $20 where you pay $1 premium=100*1=$100). This contract says you have the option of buying the stocks at $20 before the expiration date regardless of the actual market price.
+
+If that stock goes up (i.e. XYZ goes to $25) you sell your contract for the difference to someone who wants it, and then pocket the difference (25-20=$5 *100 stocks=$500) Your % gain is $500-$100=$400 divided by what you spent ($100)=400% profit.
+
+The caveat is that if the stock goes down, you are out $100 (i.e. 100% loss)
+
+When a stock will go down
+
+You pay a premium to someone.
+
+You own a contract that controls 100 shares which costs the premium/100 (i.e. stock XYZ costs $20 you buy the strike price of $20 where you pay $1 preimum =100/$1=$100) This contract says you have the option of selling 100 shares of stock XYZ for $20 per share and the buyer (who you paid $100 to) is obligated to buy the stock at that price.
+
+If the stock goes down (i.e. XYZ goes to $15) you buy 100 shares of the stock for $15, and sell them for $20 and pocket the difference ($20-$15=$5*100stocks=$500) Your % gain is $500-$100=$400 divided by what you spent ($100)=400% profit.
+
+The caveat is that this assumes you have enough money to buy 100 shares (i.e. $15*100=1500) and if the stock goes up you are out $100 (100% loss)
+
+These figures are slightly inflated, but not unrealistic. It is more likely that the % profit is going to be in the realm of 50%-200%
+
+Assuming Harry has access to his canon "fortune," of say, 1,000,000 GBP, and he trades with 10%, he is trading with upwards of 100,000 GBP. If does 5-10 trades of 2% risk (2% of 100,000=2,000GBP) and makes a profit on the majority of them say...80% with an average of 100% gain, then he makes 600% profit per month (i.e. 600%*2,000GPB=12,000GBP/month).
+
+The percent gain on his total trading money would be %12 per month.
+
+These figures are not unreasonable for a trader in real life (Some exceptional traders make 20%<), and if Harry were augmenting his trades with divination (not necessarily visions or reading stars, but some of the many various forms that Hermione refers to as "wooly"*/) then this figure can be raised to as much as 30-60% per month. If Harry did this every month he could grow his fortune by as much as 72% in a year (10% of fortune/60%/month*12months=72%). That means in one year he makes 720,000GPB per year, which is some serious capitol as an individual.
+
+If you're talking about make in the millions/billions per year, the only way to do that is by making a business. In that case, there are many many other ideas.
+
+** Hermione may hold skepticism for these branches of Divination (as Trelawny was basically a fraud), but I think they would hold more credibility if used to predict things like the collective psychology of a stock market, vs whether someone is going to break a tea cup in the next hour.
