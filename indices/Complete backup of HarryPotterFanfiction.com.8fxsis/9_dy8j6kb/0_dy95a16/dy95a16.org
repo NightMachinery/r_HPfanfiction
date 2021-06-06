@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Sirius-lyNoKids
+:Score: 1
+:DateUnix: 1525151456.0
+:DateShort: 2018-May-01
+:END:
+
+I'm not the OP, but I made a backup using HTTrack. For future reference, since it won't help now, I tried with HTTRACK twice, and got error messages both times, before I realized what was wrong - I needed to change the 'browser' that it was using. I put it on other instead of the firefox that was default, and it finally downloaded the whole thing. Took the better part of a day. I haven't cleaned anything up like the OP has though.

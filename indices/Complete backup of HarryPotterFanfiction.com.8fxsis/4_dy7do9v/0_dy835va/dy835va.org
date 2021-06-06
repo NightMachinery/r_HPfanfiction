@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: ModernPotatoDoctor
+:Score: 4
+:DateUnix: 1525111950.0
+:DateShort: 2018-Apr-30
+:END:
+
+php as a scripting language + cronjob for automated downloads.
+
+I know, strange, but it is not only a language I knew intimately, but also well suited for my purposes five years ago. Back then I started working on a local story archive of online content (fiction) from various sources. It was primarily designed to keep better track of what I read to help me find it again, but also to store the contents in a local archive so I wouldn't have to follow dead links again. Soon I added functionality to automatically download new chapters/updates and be alerted in a central location. Hosted on my NAS at the time, a web interface was both required and simple to create. php was the natural choice.
+
+Over the years I've built on top of that (cURL + regex = win) and while I haven't gotten around to adding these stories from HPFF.com to my database, it was a relatively simple thing to use the existing code logic and export the contents to the file system instead.
+
+Sadly I never got around to polishing the tool enough to be worth publishing. [[https://i.imgur.com/oonOi1N.png][This]] is how it has looked for the past five years, ie nothing much has changed except for maintenance to keep it working ;)
+
+Then there's also the many story download tools both web- and client-based to consider, many of which are just so much better and versatile for general public use. The requirement to self-host on a web-server would limit the interest to only a handful of people. It's the same principle of using cloud services: out of 1,000 people maybe one or two are interested in self-hosting while the vast majority would rather use a commercial service.
+
+Personally I'm a big fan of Calibre and the [[https://github.com/JimmXinu/FanFicFare/wiki][FanFicFare]] plugin. I use both to download and convert fanworks to my Kindle.
