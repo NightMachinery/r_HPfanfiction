@@ -1,0 +1,28 @@
+:PROPERTIES:
+:Author: ABZB
+:Score: 4
+:DateUnix: 1583332206.0
+:DateShort: 2020-Mar-04
+:END:
+
+Indeed.
+
+- There is at least one fic where there is a love-based Horcrux ritual.
+- Hermione being Hermione, I would imagine she might come up with a better method, my favorite hypothetical less-evil alternate methods for Horcrux /creation/ are:
+
+1. Use Time-Turners to induce stable time loops, where the Trio travels back in time, one at a time, after creating their Horcruxes so that their past selves can murder them to create their Horcruxes (e.g. Harry murders future-Ron to make his Horcrux, does the Ritual to bring Ron back, then Harry takes his (Harry's) Horcrux back in time so that Hermione can murder him to make her Horcrux, etc.)
+2. Determine the minimal aliveness of target needed to be murdered by experiment - perhaps murdering a less sapient animal is sufficient.
+3. Use the less competent Death Eaters or Sufficiently Evil targets (e.g. those who commit certain crimes against children) for the murders.
+4. If one has the time, they each make two (regular IRL or Hollywood-science) clones of themselves. They each murder one to make the other into a living Horcrux. Use the Horcrux bond to imprint the clone with their own minds, widen it so that it is functionally a hive mind if possible. When the clone is old enough, repeat for the clone. This way, none of your bodies ever has less than half a soul, and you always have one body in your hive mind that has a complete soul, which hopefully offsets the insanity. If possible, make the graph of your horcruxes a complete graph, so each body is every other body's Horcrux, and if you order who makes who a Horcrux correctly, each body has a total of one soul in it.
+
+In particular, if you have n bodies total numbered 1 to n, body 1 has 1/2^(n-1) of its original soul, plus 1/2 of body 2's soul, plus 1/4 of body 3's soul, up until 1/2^(n-1) of body n's soul.
+
+The latter finite series sums up to [2^(n-1) - 1]/[2^(n-1)], and when you add the soul fragment of body 1, you have exactly 1 total soul.
+
+Similarly, body two has the same sum, just with the terms rearranged.
+
+This is achieved by the following algorithm:
+
+1. The nth clone-batch (counting the 1rst clone batch as the original body being born) has (n-1) + (n-1) +1 = 2*n - 1 clones in it.
+2. The first n-1 clones are killed by the pre-existing n-1 bodies to make the new Horcrux clone their respective horcruxes.
+3. The latter n-1 clones are killed by the new Horcrux clone to make the previous n-1 Horcrux clones their Horcrux, starting from the newest clone (the (n-2)th clone gets 1/2, the (n-3)th clone gets 1/4, and so on).
