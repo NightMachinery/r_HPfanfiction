@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Choice_Caterpillar
+:Score: 3
+:DateUnix: 1584206916.0
+:DateShort: 2020-Mar-14
+:END:
+
+Aye, I tried a thing or two with BeautifulSoup on ffnet but that old tired mess of a site isn't very bot-friendly ^^. It would be interesting to do text-analysis stuff with fanfictions. The biggest problem I ran into is the non-uniform styling and syntax among writers, trying to make an universal tokenizer thingy for such a diverse corpus is an absolute nightmare. Just thinking about the separators people use between scenes (like "_-_-_-_-_ *° HPGitGud °* _-_-_-_-_-") chills my soul, and getting rid of A/Ns automatically is also a challenge I'll let other people deal with xD (I don't consider them part of the text since authors often use a different tone to write them and I'm more interested in the actual storytelling kind of stuff).

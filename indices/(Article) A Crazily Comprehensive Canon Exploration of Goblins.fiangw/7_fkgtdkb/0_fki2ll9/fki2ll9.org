@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: Choice_Caterpillar
+:Score: 3
+:DateUnix: 1584210701.0
+:DateShort: 2020-Mar-14
+:END:
+
+I had the books in epubs, extracted the xhtmls, used a bash script to fire html2txt at everything that moved, did a little manual sanity check and removed chapter headers with sed, then made a python script to tokenize every paragraph and of every chapter of every book (mainly cleaning punctuation and splitting by "\n\n"), I put them into tuples and then sent all the juice to a sqlite database with an FTS4 table organized like that: book(int), chapter(int), paragraph(int), body(text).
+
+Now I can use a DB browser to send queries and search the thing (I could do it with python, but a GUIed pre-existing program that does exactly what you want is a terrible thing to waste).
+
+For wordcounts, I did something similar but formated to CSV, then I just cleaned-up with LibreOffice calc, added the Totals column and saved to a nice ods file for perusing (again, I could use python but why ^^).
