@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: iridescent_beacon
+:Score: 1
+:DateUnix: 1617101199.0
+:DateShort: 2021-Mar-30
+:END:
+
+Indeed. FicHub currently uses Calibre to generate pdfs which is unfortunately incredibly slow and resource intensive, so only a single pdf export across all users is allowed at any one time. FicHub has already moved to a better server once, but it's simply not viable to keep throwing money at the problem and will take some time to properly address.
+
+In general EPUB is a much better format and I'd suggest you and [[/u/bukgu]] only resort to pdf as a last resort. As a bonus, EPUB export is generally extremely quick :)
