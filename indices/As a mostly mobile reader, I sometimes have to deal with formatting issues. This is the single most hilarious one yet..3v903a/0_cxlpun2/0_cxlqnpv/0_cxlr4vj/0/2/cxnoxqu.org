@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: SearchAtlantis
+:Score: 3
+:DateUnix: 1449284063.0
+:DateShort: 2015-Dec-05
+:END:
+
+I feel like some kind of conditional would work better... Extended upper bound due to slower magical aging. ⨯ is the cross product e.g. A ⨯ {B,C} = {AB, AC}.
+
+Pairing = HP ⨯ {F|16 ≤ age ≤ 65}
