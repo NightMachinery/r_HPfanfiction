@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: adgnatum
+:Score: 1
+:DateUnix: 1573438167.0
+:DateShort: 2019-Nov-11
+:END:
+
+You need to remove the first one and then reply to yourself with =ffnbot!refresh= for it to do what you mean. ^{ffnbot!ignore}
