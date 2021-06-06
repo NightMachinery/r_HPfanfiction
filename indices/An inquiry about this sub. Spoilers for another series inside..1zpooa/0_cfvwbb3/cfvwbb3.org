@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: truncation_error
+:Score: 3
+:DateUnix: 1394121715.0
+:DateShort: 2014-Mar-06
+:END:
+
+Spoilers can be done as follows:
+
+[spoiler warning text](/s "text of the spoiler")
+
+which makes: [[/s][spoiler warning text]]. Hover your mouse over the spoiler warning text and the spoiler will appear.
