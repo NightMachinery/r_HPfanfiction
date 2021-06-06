@@ -1,0 +1,29 @@
+:PROPERTIES:
+:Author: ceplma
+:Score: 15
+:DateUnix: 1605552147.0
+:DateShort: 2020-Nov-16
+:END:
+
+I know it is mentioned quite often, but can you quote one ... damn I have searched through my archive and see what I found:
+
+#+begin_example
+  fanfiction@stitny$ epubgrep -c 'emerald.{,10}orb' **/*.epub
+  01:/home/matej/Knihy/fanfiction/soul-bond/Darkness Rising-siye_128268.epub
+  01:/home/matej/Knihy/fanfiction/retelling/Three little words-ao3_16472705.epub
+  01:/home/matej/Knihy/fanfiction/muggles/Ten More Minutes-ffnet_9566537.epub
+  01:/home/matej/Knihy/fanfiction/harmony/Fundamental Compatibility-ffnet_12584228.epub
+  04:/home/matej/Knihy/fanfiction/severitus/Salvation-ao3_803122.epub
+  01:/home/matej/Knihy/fanfiction/harmony/A Switched Chance-ffnet_6685668.epub
+  01:/home/matej/Knihy/fanfiction/elsewhere_at_hogwarts/Twenty-one days-ao3_13040619.epub
+  01:/home/matej/Knihy/fanfiction/retelling/Sky-ffnet_9355381.epub
+  01:/home/matej/Knihy/fanfiction/post-war/These Cuts I Have-phs_6458.epub
+  01:/home/matej/Knihy/fanfiction/hinny/Harry Potter_ To Love Is To Live-ffnet_3480843.epub
+  01:/home/matej/Knihy/fanfiction/hinny/Taking Control-siye_11709.epub
+  01:/home/matej/Knihy/fanfiction/hinny/Saving the Saviour-ffnet_11833745.epub
+  01:/home/matej/Knihy/fanfiction/dursleys/Trust Is A Relative Thing-ffnet_6611208.epub
+  01:/home/matej/Knihy/fanfiction/post-war/Novocaine-ffnet_13022013.epub
+  fanfiction@stitny$ 
+#+end_example
+
+Damn, and I have fourteen of them myself. :(

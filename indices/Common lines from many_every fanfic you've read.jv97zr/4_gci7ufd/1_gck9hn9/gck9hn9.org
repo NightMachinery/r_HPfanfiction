@@ -1,0 +1,20 @@
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 14
+:DateUnix: 1605575269.0
+:DateShort: 2020-Nov-17
+:END:
+
+#+begin_example
+  hpotter@hogwarts:~$ sudo apt remove magutil
+  Reading package lists... Done.
+  The following packages will be REMOVED:
+  arithmancomat autocast magisim magutil wiznet-core
+  WARNING: The following essential packages will be removed.
+  This should NOT be done unless you know exactly what you are doing!
+  magutil
+  You are about to do something potentially harmful.
+  To continue type in the phrase 'so mote it be!'
+#+end_example
+
+?]

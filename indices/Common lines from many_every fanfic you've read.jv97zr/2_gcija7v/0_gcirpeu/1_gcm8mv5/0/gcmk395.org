@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1605632559.0
+:DateShort: 2020-Nov-17
+:END:
+
+I don't think it is well organized, just a random mess without much logic, but if you want the complete list of those files is on [[https://mcepl.fedorapeople.org/tmp/fanfiction-list.txt]] . Whole archive is 204MB (compressed EPubs), so I don't feel like sharing it anywhere (moreover, I am not certain about legality of such action). Recreating it should be just a simple exercise with scripting and [[https://github.com/JimmXinu/FanFicFare][fanficfare]]. If you cannot find some individual books, let me know.
