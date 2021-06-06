@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 10
+:DateUnix: 1453250699.0
+:DateShort: 2016-Jan-20
+:END:
+
+Right now, probably not. While the bot is capable of multiple subs, I think introducing multiple subs would add too much time overhead to every reply.
+
+Bot v1.4.0 which we tried to deploy a couple of days ago would work fine, I think, but that's quite buggy right now! Combine that with the fact that [[/r/fanfiction]] has half the activity of our sub and fewer users, it might be best to wait until the bot updates to handle that.
