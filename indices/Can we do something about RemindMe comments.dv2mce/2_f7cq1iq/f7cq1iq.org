@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 1
+:DateUnix: 1573597559.0
+:DateShort: 2019-Nov-13
+:END:
+
+I wonder if we could have automod do a thing.
+
+The remindme not gives links that just send a message to it to make another reminder.
+
+Could have automod make respond with a link for 1, 3 and 7 days

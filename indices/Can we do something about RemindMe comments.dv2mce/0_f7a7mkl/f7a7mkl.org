@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Lord-Potter-Black
+:Score: 14
+:DateUnix: 1573522472.0
+:DateShort: 2019-Nov-12
+:END:
+
+Someone made a post about this a few months ago. The best option would be to allow one remindme! comment per post and the automod can delete all subsequent remindme! comments. Because you can click the link provided by the bot to either get the same reminder as the parent comment, or set your own time, there is no need for multiple remindme! comments.
