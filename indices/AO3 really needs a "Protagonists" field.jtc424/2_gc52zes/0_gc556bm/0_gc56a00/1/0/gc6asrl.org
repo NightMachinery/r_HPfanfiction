@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Bumblebeeji
+:Score: 7
+:DateUnix: 1605291406.0
+:DateShort: 2020-Nov-13
+:END:
+
+Pairings in additional tags don't show up if you filter on an actual relationship tag. They do show up if you just do a text search, of course.

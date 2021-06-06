@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 3
+:DateUnix: 1605335658.0
+:DateShort: 2020-Nov-14
+:END:
+
+Add &otp=true as URL identifier. It will force the filters to only pick those where your ship tag of choice is the only one.
