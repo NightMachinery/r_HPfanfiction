@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: fastfinge
+:Score: 2
+:DateUnix: 1498169158.0
+:DateShort: 2017-Jun-23
+:END:
+
+Totally disagreed. If we want to ban things, I think I could make a better argument for banning "no slash", "no het", and other discriminatory restrictions in requests. You wouldn't request a fic, and put "no women!" "no disabled characters!" or "no jews!" in your request. Or if you did, nobody would respond well. So I'm not quite sure why similar restrictions seem to be perfectly fine. However, this sub is so small, and nobody is bothered by these types of requests, so I am not convinced we want to ban things. Also, it could well be that I'm missing something, and my comparison is totally off the mark. When I'm the only person who cares about a thing, that's almost always the case. Also, the slippery slope of what exclusions are discrimination and what aren't isn't one we want to go down.
+
+What would be nice, though, is a way to have the bot post a predefined list of fics on command. So if someone asks, once again, for godmode Harry+Hermione fics, someone can just post a one-word comment and the usual suspects will get recced. This would encourage anyone else who posts to try and come up with unique fics, because the karma boost for recommending the usuals would be basically gone. Maybe create a bunch of lists for common requests on the wiki, and have the bot pull from that, by syntax like linklist(listname) causing the bot to check the sub it's posting in for a wiki page named listname to pull recs from.
