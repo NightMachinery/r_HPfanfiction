@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1436662431.0
+:DateShort: 2015-Jul-12
+:END:
+
+[[http://www.fanfiction.net/s/3688693/1/][*/What Lies Beneath/*]] by [[https://www.fanfiction.net/u/471812/Master-Slytherin][/Master Slytherin/]]
+
+#+begin_quote
+  COMPLETE. H/Tracey. The diary left more than battle wounds. Voldemort's ingenuity planned for more than Harry initially assumed. The time has come when he must pierce the shades of grey that colour the Wizarding World. A fast-paced, psychological thriller
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Mystery/Suspense - Harry P., OC *|* /Chapters:/ 20 *|* /Words:/ 101,420 *|* /Reviews:/ 383 *|* /Favs:/ 589 *|* /Follows:/ 226 *|* /Updated:/ 2/11/2008 *|* /Published:/ 7/29/2007 *|* /Status:/ Complete *|* /id:/ 3688693}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}
