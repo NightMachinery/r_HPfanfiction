@@ -1,0 +1,159 @@
+:PROPERTIES:
+:Score: 7
+:DateUnix: 1396149206.0
+:DateShort: 2014-Mar-30
+:END:
+
+So I'm going to be reading this and providing a bit of feedback while I go, as I haven't noticed any really glaring errors that detract from reading it.
+
+*Chapter 1*
+
+The first thing that struck me was that this is told from Albus' view point, but he's calling Hermione and Harry, well, Hermione and Harry. Hermione is okay, I think that he would call her Aunt Hermione or something like that, but Hermione might not spring for that. Harry though, it just feels oddly disconnected from his father.
+
+You've already said that you don't have a beta, and there are a few awkward phrases here, like:
+
+#+begin_quote
+  ...spraying particles of food all over the table.
+#+end_quote
+
+But it's generally pretty okay.
+
+I liked this part:
+
+#+begin_quote
+  A bemused smile broke through; sometimes he cracked himself up.
+#+end_quote
+
+Because it makes me think that Albus is a really socially-awkward nerd, who laughs at his own jokes and doesn't have very many friends among his popular cousins. The vocabulary of his internal monologue really supports that, and if that's what you're going for, great.
+
+Though, I wouldn't use the word bemused there.
+
+There're some pretty awkward viewpoint issues. I thought that you were doing third-person limited up until the game, wherein you seemed to justify every single action with unique veiwpoints, like:
+
+#+begin_quote
+  "What is it?" James asked pointedly, annoyed at yet another interruption.
+#+end_quote
+
+The game scene could be cleaned up a lot. You have all these people doing all these actions at once, and it makes it hard to keep track. I really had issues imagining the room and the occupants therein.
+
+--------------
+
+*Chapter 2*
+
+You used his dad here, which is good. Two paragraphs later it's Harry Potter again. Maybe Harry would work, but Harry Potter is really awkward.
+
+The other awkward thing is that you dictated every action in using the floo. Turn, grab, throw, speak. You could shorten this a lot.
+
+Similarly, you don't need to narrate every turn.
+
+I liked Albus's monologue, up until it got to the part where he was reflecting on his wand. Albus would probably not be reflecting on the state of wandmakers, and this feels like exposition for the sake of change from canon.
+
+Little thing, it's fervor, not furor. I laughed because I read it as führer, and I was just picturing Hitler under the Sorting Hat.
+
+Your dialogue is crowded. It's been an issue up until now, but this sealed it:
+
+#+begin_quote
+  "You're my family," Albus said, trying to regain control of his emotions.
+#+end_quote
+
+They're usually pertinent, and make sense, but you could cut or replace well over half of them. They really just bog down the dialogue, which you need to let speak for itself.
+
+Oh god, I just realized they're in a car. I wasn't paying attention before, but the comment about Lily being in between showed me.
+
+Okay, this dialogue, while not bad, is too, too, closed? They're in a car, with five people, and it's the two of them having a conversation. You could improve this greatly by peppering in little things like Harry or Ginny telling James to stop teasing, or Lily talking or whining, things that make it feel like, you know, a car trip.
+
+It's void, until the end. There, Ginny just snaps, with nothing beforehand, no warnings, and Lily is pulling on his ear. It just feels sudden.
+
+#+begin_quote
+  ...people in various get-ups, burdened by a variety of menageries.
+#+end_quote
+
+This really took me out, a menagerie is a bunch of animals kept in a collection, like a zoo or a store.
+
+#+begin_quote
+  "But Houses are really more tradition and family than anything," Albus argued. "Or at least for established Wizarding families."
+#+end_quote
+
+Albus's dialogue here really doesn't sound right. This is [[http://tvtropes.org/pmwiki/pmwiki.php/Main/AsYouKnow][As You Know, Bob]] dialogue. The "Or at least for established Wizarding families," does not sound natural.
+
+Continuing, Ron butts into their dialogue. This surprised me more than anything, and you probably want to add something to make this seem less sudden. It is really sudden for their conversation, and Albus probably didn't notice him, but you jump from one dialogue to the other that it's jarring.
+
+#+begin_quote
+  "Just kidding guys. But seriously, don't go to Slytherin."
+#+end_quote
+
+This doesn't sound like something Ron would say. You use guys twice now, first with Ginny now with Ron, and both times it breaks from their voice.
+
+#+begin_quote
+  When Hermione didn't respond this time, he turned and saw what everyone else was already looking at.
+#+end_quote
+
+I'm getting really confused at this point. Who is he?
+
+#+begin_quote
+  "He hasn't changed at all," Harry whispered softly to Ron.
+#+end_quote
+
+I am getting lost. You go from Rose and Albus, to Ron talking to Rose, to someone turning, to Harry whispering to Ron so quickly I am losing track. The next sentence at least helps me orient myself, but without it I would have no idea what was going on.
+
+#+begin_quote
+  The father of the family looked stern, in a tight black collared suit, while the mother seemed to have come out of a nineteenth century novel. Gloves, hat, and dress that were immaculate, so white they probably were sullied by being in the very presence of commoners.
+#+end_quote
+
+A nineteenth century novel tells me absolutely nothing. I understand what you're trying to say here, but I have no ready image for a nineteenth century woman in a novel.
+
+The train was generally okay, but the Slytherin prefect's dialogue was very... odd. For one, how could he have never met a Weasley or a Potter? James is already in school, and seems kind of infamous, while there have been a bunch of Weasley's so far. You even listed them.
+
+The second thing, I agree with Rose, who talks like that? He sounded like someone trying to emulate a proper voice, rather than speaking it. If that's your intention, great, nailed it. Otherwise, it's awkward and could be rewritten.
+
+#+begin_quote
+  And then their planning all was for naught, because of one insufferable, yet awesome boy.
+#+end_quote
+
+Insufferable, yet awesome boy? I'm not going to sugarcoat it, I hated this sentence. It felt like some kind of precognition on the part of Albus, and you're making a very big promise that you will have to follow through with.
+
+It's like saying: "Badasses galore in X, by Michael Bay!" You aren't inclined to believe it, and instead look for counter examples, rather than just letting the character speak for itself.
+
+--------------
+
+*Chapter 3*
+
+The pacing is really messed up. Within not fifteen lines of dialogue Rose says that she's Matthews friend. She doesn't even know him.
+
+#+begin_quote
+  "Well Rose---" Cecelia turned towards the other girl, "---thought the stuff in the Defense textbook on the ethics of the Unforgivable curses was interesting. What did you think?"
+#+end_quote
+
+I don't know if I wasn't paying attention, but I just think Rose introduced herself. How on Earth is Cecelia talking about Rose's opinion on Unforgivable curse ethics when they haven't exchanged more than two words? It feels like she just read Rose's mind.
+
+Cecelia feels like, and dare I say is, a Mary Sue. BI'm not trying to be mean, but she goes from a tag-along to instantly fixing all the awkwardness in the cabin, with no difficulty. She's described with the "brightest green eyes," and a smile that lights up the cabin. You're trying to set her up as a manipulator, but at eleven this is stretching suspension of disbelief.
+
+If she is in fact a psychological-mind-reading demon that forces people to be friends with her, carry on, that's great. At the moment though, she's a too-perfect female love interest, which is something no eleven year old should be.
+
++"John" listing the flaws of the Houses seems bigoted. Valuing Courage, Ambition, Hard Work, Intelligence, these are all fine, but calling them things like foolhardy and blind is where the Houses start seeming restrictive.+
+
+Rose points out the above, which I like.
+
+You used the lion-gazelle metaphor again, and it's honestly cliche. At best, it'll mean eyed him hungrily, at worst, nothing at all.
+
+There's a small plot hole here. You say they hadn't learned Matthews name, but Rose had previously said that the three of them were close in an alphabetical listing.
+
+#+begin_quote
+  He caught Rose's eye, and they shared a smile. Not one of melancholy, but one of hope, of new beginnings.
+#+end_quote
+
+This seems a little pretentious, and I'd suggest rewording it, but it's okay.
+
+--------------
+
+*Summary*
+
+This is generally pretty okay, as I'd said before, but it needs work. Like you said, a beta would help, as you occasionally use words incorrectly. The grammar is very good though, as is spelling.
+
+The plot hasn't really gone anywhere, and so I can't really comment on it, but it seems fine so far.
+
+Your biggest issues though are that you dump a /lot/ of exposition, things that Albus probably wouldn't care to comment on. Your dialogue needs work, and is very crowded. Point of View is also a problem here, it bounces around a lot.
+
+Also, Cecelia needs a lot of work.
+
+I hope this helps, and good luck.

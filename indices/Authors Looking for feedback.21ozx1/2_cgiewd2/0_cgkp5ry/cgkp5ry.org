@@ -1,0 +1,113 @@
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1396707594.0
+:DateShort: 2014-Apr-05
+:END:
+
+Okay, I'm going to be covering this one. Overall, it was a sweet piece that I enjoyed, and grammatically there was little to pick on.
+
+However, while technically fine, there are a lot of awkward sentences that could be cut or reworded to make it even better.
+
+#+begin_quote
+  +Well, this day couldn't get any worse.+ Neville Longbottom stood over the charred remains of his office, his fists on his hips.
+#+end_quote
+
+I'd cut the first line here, because it really is just showing instead of telling, and the second line works much better as an opening line. In fact, the second line is a very good opening.
+
+#+begin_quote
+  When he heard someone open the door to the room, gasp, followed by the sound of the door smashing to the ground, he cringed.
+#+end_quote
+
+Here, the first part is awkward. Framing this through Neville's senses isn't important, Neville is the PoV, we know it's going to be his senses. Just say:
+
+#+begin_quote
+  The door below slowly squealed and scraped open, then fell with a crash. Someone gasped.
+#+end_quote
+
+Now, that's a couple of quick and dirty sentence, but you get my point. Just describe the sound of the door opening, describe someone gasping, describe the door falling, and you get a much less awkward sentence and a much clearer image.
+
+#+begin_quote
+  “Neville? Are you okay?” Neville closed his eyes tightly and cursed under his breath.
+#+end_quote
+
+Little thing, you need a line after the quote. Like this, it seems like Neville is asking Neville if he's okay. Just a nitpick.
+
+#+begin_quote
+  Without looking, he could already imagine her face and the absolute disdain she'd be sporting.
+#+end_quote
+
+This would be stronger as: "...her face of absolute disdain." You're separating the sentence with an and when it doesn't need to be, and it breaks up the flow.
+
+#+begin_quote
+  “Are you okay?” she repeated+,+ when she reached the top. He turned around+,+ and grimaced. He said, “Yes?”
+#+end_quote
+
+The two commas there are unnecessary, but the big thing is that you want the "He said" on a separate line. Never have two dialogues in the same paragraph, if you didn't already know.
+
+Also, putting "He said," in front of the dialogue sounded awkward to me, but that may be personal preference. I think it would work better as "'Yes?' he asked."
+
+#+begin_quote
+  "Mr. Longbottom, you are either sure that you are okay, or you are sure that you are not okay. Either way, you are not allowed to be unsure whether or not you are okay."
+#+end_quote
+
+Just wanted to say I loved this bit of dialogue. It's deliciously IC for Minerva.
+
+Though -- and I figured this was intentional -- it's a bit odd having the teacher's call each other by Mr. Longbottom and Prof. McGonagall.
+
+#+begin_quote
+  Minerva was now tapping her foot on the floor, her arms crossed over her chest.
+#+end_quote
+
+The was now makes this somewhere strangely between past and present tense, and makes it oddly disconnected. Reword this.
+
+#+begin_quote
+  “I am going to murder that man, even if it gets me fired!” her shrill voice echoed through the shell of the office, making Neville shrink with caution.
+#+end_quote
+
+First, "her shrill voice" should be capsed to "Her shrill voice."
+
+Second, this doesn't feel like something McGonagall would say. I am going to murder that man? Probably more, "That... that man! I am going to do something about him, even if it gets me fired!" I just couldn't see her say she's going to murder Hagrid.
+
+Thirdly, "making Neville shrink with caution." is beginning to drag the sentence. You should make it it's own sentence, and don't say "with caution." You always shrink "with caution." It's redundant.
+
+#+begin_quote
+  “Well, Mr. Longbottom, +it's safe to say, I think,+ /I think it's safe to say/ that you're doing a bang up job of that. In any case, it's more important for you to realize that you're not Headmaster Dumbledore, nor do we want you to be.”
+#+end_quote
+
+I loved this, but you should reword the first sentence a bit. It suffers from too many commas, and that made me pause as I read it.
+
+#+begin_quote
+  “He was his own person, but beyond that, I think it's important for Hogwarts to finally get a chance to enjoy a Headmaster who has no political ambition, or solid case for insanity. I'll take a burnt office over a war any day. Or that pink lady, the one with all the rules---dear God.”
+#+end_quote
+
+Maybe this is an AU oneshot, and if it is fine, but otherwise this is something McGonagall would *never* say. McGonagall was the woman who said something along the lines of, "If Professor Dumbledore believes him than that should be good enough for everyone else."
+
+This woman was fanatically loyal to him, and while she could criticize him, she certainly wasn't of the opinion that he started wars or was insane. Nor did she think that Umbridge was hired by Dumbledore specifically -- she knew the toad was forced in by the Ministry.
+
+Don't let fanon slip into your IU work.
+
+#+begin_quote
+  Neville smiled at the thought of them getting drunk because he tried to hatch a phoenix in his office.
+#+end_quote
+
+This was just downright unnatural. A simple "Neville smiled." maybe joined with the next sentence, would work just as well. This just feels like a summary, the reader knows everything in this sentence besides Neville smiling.
+
+#+begin_quote
+  He followed her, nodding as she reassured him that she wouldn't, after all, murder Hagrid. Just as he was about to commend her for her restraint, she followed with plans to duct tape his hut closed and threaten him with toe amputation if he supplied the Headmaster with any more animals, especially ones that involved fire.
+#+end_quote
+
+Again, McGonagall seems a bit too violent.
+
+#+begin_quote
+  “Imagine, it Mr. Longbottom---a nice, safe, plant. Wouldn't that just be peachy? And nothing like a mandrake---we do not need that kind of stress. Perhaps just your average fern. How does that sound?”
+#+end_quote
+
+Loved this.
+
+--------------
+
+Overall, I thought this was good. It could use a bit of editing though, especially in your descriptions. Dialogue is quite clearly your strongest area, as is characterization. You captured McGonagall's essence strongly here, besides a few bits and pieces.
+
+Neville was also strong in this, and I actually loved his character.
+
+Have fun.
