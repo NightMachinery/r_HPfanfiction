@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: Nehphi
+:Score: 2
+:DateUnix: 1445221401.0
+:DateShort: 2015-Oct-19
+:END:
+
+\ is a command in reddits syntax(which removes formatting), so to get \ you need to write \\
+
+Or typing ¯\\_(ツ)//¯ results in ¯\/(ツ)_/¯
