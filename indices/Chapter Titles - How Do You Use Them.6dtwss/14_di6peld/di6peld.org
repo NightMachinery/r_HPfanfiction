@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: wille179
+:Score: 2
+:DateUnix: 1496068766.0
+:DateShort: 2017-May-29
+:END:
+
+Since I work on a bunch of different things at the same time, I use a rather complex naming scheme:
+
+#+begin_example
+  [Story Title Acronym][Arc Number].[Chapter Number] - [Specific Title]
+#+end_example
+
+For example, the latest chapter I was working on was =SVSL01.07 - Burning Sunshine=. Or, when not condensed: "Stealing Victory at the Speed of Lightning, Arc 1, Chapter 7: Burning Sunshine."
+
+The specific titles I use also tend to follow a pattern. Usually they're one or two word descriptive phrases, but SVSL uses =[Verb ending in -ing] [Weather Phenomenon]= as its titles.
