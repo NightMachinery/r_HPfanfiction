@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: Erska
+:Score: 2
+:DateUnix: 1578639296.0
+:DateShort: 2020-Jan-10
+:END:
+
+#+begin_quote
+  Do I need to use the number?
+#+end_quote
+
+I don't think so; you added an extra =!=.
+
+it's =linkffn()=
