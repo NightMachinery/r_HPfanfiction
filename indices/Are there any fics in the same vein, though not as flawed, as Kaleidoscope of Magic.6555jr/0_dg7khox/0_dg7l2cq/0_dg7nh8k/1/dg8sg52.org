@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: BobVosh
+:Score: 1
+:DateUnix: 1492146203.0
+:DateShort: 2017-Apr-14
+:END:
+
+If you click source you can look at it.
+
+#+begin_example
+  [like this](/spoiler)
+#+end_example
+
+Translates to: [[/spoiler][like this]]
