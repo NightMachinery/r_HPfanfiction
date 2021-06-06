@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1437234436.0
+:DateShort: 2015-Jul-18
+:END:
+
+[[http://www.fanfiction.net/s/7062230/1/][*/Concentric Wavelengths/*]] by [[https://www.fanfiction.net/u/1508866/Voice-of-the-Nephilim][/Voice of the Nephilim/]]
+
+#+begin_quote
+  Trapped within the depths of the Department of Mysteries, Harry is entangled in a desperate, violent battle against both the Death Eaters and a horrifying creation of the Unspeakables, with time itself left as his only weapon.
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Horror - Harry P. *|* /Words:/ 16,195 *|* /Reviews:/ 74 *|* /Favs:/ 368 *|* /Follows:/ 91 *|* /Published:/ 6/8/2011 *|* /Status:/ Complete *|* /id:/ 7062230}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}
