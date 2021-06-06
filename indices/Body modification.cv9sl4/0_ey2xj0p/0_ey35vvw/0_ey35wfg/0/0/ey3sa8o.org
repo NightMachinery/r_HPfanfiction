@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 2
+:DateUnix: 1566772402.0
+:DateShort: 2019-Aug-26
+:END:
+
+It's just linkffn or linkao3 (for fanfiction.net or archiveofourown.org) followed by the title, id or title by author. The bot really just throws whatever you put in the parantheses into Google with site:fanfiction.net or site:archiveofourown.org and returns the first result.
