@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: bonsly24
+:Score: 2
+:DateUnix: 1572628551.0
+:DateShort: 2019-Nov-01
+:END:
+
+And it is a shame too. The bot has so many cool features that mostly go unused. Having a "Here is how to use the ffnbot" pin is actually a great idea in my opinion. For example my way of linking fics (and of hiding my commands from the post to keep it clean looking) is right there in the documentation, but I see so many people posting both a link and a linkffn command when just adding ffnbot!directlinks would work.
+
+#+begin_example
+  To hide a tag, you can add a bunch of ^ to superscript the tag away. So you could do ^^^^^^^^^^^^^^^^^ffnbot!directlinks to use that tag and have it not appear in your comment!
+#+end_example
