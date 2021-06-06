@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: ceplma
+:Score: 3
+:DateUnix: 1619534190.0
+:DateShort: 2021-Apr-27
+:END:
+
+See “Bot Usage” in the right column. "The story ID" is the unique numerical identifier in URL of the story, e.g., for [[https://archiveofourown.org/works/1085412]] it is 1085412, for [[https://www.fanfiction.net/s/13132217/1/]] it is 13132217, and thus you can link with linkao3(1085412) or linkffn(13132217). The advantage of using that is that the number is unique, so the result is always what you want, not a mistake: how many stories with "Emerald Eyes" there are on fanfiction.net? The answer is apparently 1,389.
