@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: minerat27
+:Score: 1
+:DateUnix: 1593739551.0
+:DateShort: 2020-Jul-03
+:END:
+
+I know you can do ffnbot.refresh to make it recheck your comment if you edit the link, but idk if it checks the website for updates as well.
