@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: ABZB
+:Score: 1
+:DateUnix: 1500582152.0
+:DateShort: 2017-Jul-21
+:END:
+
+Either summons or teleports nearby water into a stream. Power requirement increases as a function of the distance to the water. If source is not liquid (only nearby water that is not part of something (e.g. you)), pulls water vapor out of air, (water must be condensed) or from ice and snow (which needs to be melted) - which takes more energy.
+
+Spell fails if you can't supply enough energy to get water (like if you cast it deep in space).
+
+I prefer this formulation because I prefer to understand Transfiguration as being inherently impermanent (Transfiguration consumes the magic used up to perform it, reverts when it runs out).
+
+And IIRC there is at least one point in canon where someone drinks Aguamenti-water.
+
+I then interpret Gamp's Laws as being "Don't do this" instead of "This is physically impossible" (the wording in canon is "can't", which lends to either interpretation. (So you don't transfigure wood into food, as random molecules in your body turning to wood will kill you).
