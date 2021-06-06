@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: kblesmis
+:Score: 1
+:DateUnix: 1476416065.0
+:DateShort: 2016-Oct-14
+:END:
+
+I tried adding 8.8.8.8 and 8.8.4.4 in network settings but no go. It seems to be a Mac issue as I can load the site from my boyfriend's desktop.
+
+*Edit. I downloaded Firefox and it loads just fine. Still nothing in Chrome or Safari.

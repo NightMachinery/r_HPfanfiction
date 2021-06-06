@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 1
+:DateUnix: 1476414006.0
+:DateShort: 2016-Oct-14
+:END:
+
+I can load both the mobile and desktop site in Firefox and Chrome.
+
+Try a different DNS server perhaps?
