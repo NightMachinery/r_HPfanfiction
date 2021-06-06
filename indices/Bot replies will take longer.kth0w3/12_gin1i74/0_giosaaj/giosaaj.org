@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: thrawnca
+:Score: 1
+:DateUnix: 1610223253.0
+:DateShort: 2021-Jan-09
+:END:
+
+It's meant to protect against automated attacks meant to overwhelm the site. However, they didn't test, or didn't care, whether ffnbot would still work.

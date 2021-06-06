@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: midasgoldentouch
+:Score: 14
+:DateUnix: 1610179110.0
+:DateShort: 2021-Jan-09
+:END:
+
+Not all. The bot has to be deployed somewhere. It's simple enough for them to create some type of token to include in the request. That token is then only specified in an environment variable stored on the server the bot runs on, and the code includes loading the variable and inserting the token into the request. Then the site checks to see if the token is included and matches what they provided. If either of those conditions is false, it's a random bot they can ignore; but if they're both true, it's authorized and can proceed.
