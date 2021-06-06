@@ -1,0 +1,32 @@
+:PROPERTIES:
+:Author: autowikibot
+:Score: 2
+:DateUnix: 1422050377.0
+:DateShort: 2015-Jan-24
+:END:
+
+***** 
+      :PROPERTIES:
+      :CUSTOM_ID: section
+      :END:
+****** 
+       :PROPERTIES:
+       :CUSTOM_ID: section-1
+       :END:
+**** 
+     :PROPERTIES:
+     :CUSTOM_ID: section-2
+     :END:
+[[https://en.wikipedia.org/wiki/Absolute%20construction][*Absolute construction*]]: [[#sfw][]]
+
+--------------
+
+#+begin_quote
+  In linguistics, an *absolute construction* is a [[https://en.wikipedia.org/wiki/Grammatical_construction][grammatical construction]] standing apart from a normal or usual syntactical relation with other words or sentence elements. It can be a [[https://en.wikipedia.org/wiki/Non-finite_clause][non-finite clause]] that is [[https://en.wikipedia.org/wiki/Dependent_clause][subordinate]] in form and modifies an entire sentence, an adjective or possessive pronoun standing alone without a modified [[https://en.wikipedia.org/wiki/Substantive][substantive]], or a [[https://en.wikipedia.org/wiki/Transitive_verb][transitive verb]] when its object is implied but not stated. The term /absolute/ derives from Latin /absolūtum/, meaning "loosened from" or "separated".
+#+end_quote
+
+--------------
+
+^{Interesting:} [[https://en.wikipedia.org/wiki/Participle][^{Participle}]] ^{|} [[https://en.wikipedia.org/wiki/Accusative_absolute][^{Accusative} ^{absolute}]] ^{|} [[https://en.wikipedia.org/wiki/Genitive_absolute][^{Genitive} ^{absolute}]]
+
+^{Parent} ^{commenter} ^{can} [[/message/compose?to=autowikibot&subject=AutoWikibot%20NSFW%20toggle&message=%2Btoggle-nsfw+cnyr224][^{toggle} ^{NSFW}]] ^{or[[#or][]]} [[/message/compose?to=autowikibot&subject=AutoWikibot%20Deletion&message=%2Bdelete+cnyr224][^{delete}]]^{.} ^{Will} ^{also} ^{delete} ^{on} ^{comment} ^{score} ^{of} ^{-1} ^{or} ^{less.} ^{|} [[http://www.np.reddit.com/r/autowikibot/wiki/index][^{FAQs}]] ^{|} [[http://www.np.reddit.com/r/autowikibot/comments/1x013o/for_moderators_switches_commands_and_css/][^{Mods}]] ^{|} [[http://www.np.reddit.com/r/autowikibot/comments/1ux484/ask_wikibot/][^{Magic} ^{Words}]]
