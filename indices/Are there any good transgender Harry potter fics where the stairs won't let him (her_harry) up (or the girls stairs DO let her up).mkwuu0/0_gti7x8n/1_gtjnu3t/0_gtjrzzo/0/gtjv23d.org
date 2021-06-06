@@ -1,0 +1,9 @@
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1617701243.0
+:DateShort: 2021-Apr-06
+:END:
+
+1. You know, that the ID is just the number after =/s/= in the URL, right?
+2. it should work on full URL as well
