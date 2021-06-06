@@ -1,0 +1,30 @@
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 2
+:DateUnix: 1573065120.0
+:DateShort: 2019-Nov-06
+:END:
+
+How to solve P=NP and revolutionize computer science and mathematics using a time turner:
+
+You should have received a note from your future self. Don't open it yet, as long as you have not observed it you can freely choose what to send to your past self.
+
+Let p be the product of two unknown primes.
+
+If the note you received turns out to be empty, write 1*1 on a new note and send it back.
+
+If the note contains two primes whose product equals p, you solved the problem. Copy the exact message and send it back.
+
+If the note contains two numbers that don't result in p and the first number is less than p, increment the first number by one and send that back.
+
+If the first number has reached p, reset it to 1 and increment the second number.
+
+Each possibility except for the correct solution should cause a change in history, looping through all possibilities simultaneously until you reach the stable state of having the correct prime factors.
+
+Got it?
+
+Let's open the note and see if it works!
+
+*DO NOT MESS WITH TIME*
+
+Linkffn(Harry Potter and the Methods of Rationality)
