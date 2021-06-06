@@ -1,0 +1,22 @@
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 5
+:DateUnix: 1507844604.0
+:DateShort: 2017-Oct-13
+:END:
+
+Your prose flows pretty well, but the typography and "writing-tone" (for lack of a better term) doesn't seem at all like a action packed fight scene. Same as the cinematography in film, the typography when writing should also reflect what's going on. The way you have written this sounds more like some kind of objective, calculated analysis..., but it seems to be written from Harry's POV who is not at all in a calmly measured state of mind during the events. It lacks any sense of urgency and needs a much more rapid pace.
+
+In any case, a scene where 2-3 people die really shouldn't look like [[https://i.imgur.com/651XseD.png][this]] - irrespective of the actual words.
+
+I'm not a brilliant writer, but here's my attempt at editing one of these long paragraphs:
+
+#+begin_quote
+  "Harry, please! Run!" his father begged. /[It's almost funny how you back-doored all the information on how James defended himself into the part of the sentence where you describe from where he begs... if James defense is important it deserves it's own sentence/action somewhere else]/
+
+  Suddenly the stone wall exploded, showering the three defenders with sharp shards, leaving nicks and cuts. Sasori dove to the side while a bright white spell carved through the wall behind him as if it was butter. /[how is he even aware in which manner the spell carves through the wall behind him? Not to mention that a heated battle is hardly the time to document these things. You can make it much more visceral, by him hearing a loud explosion behind him or getting hit by debris, from the wall being destroyed or heavily damaged]/
+
+  His muscles now screamed with a sharp pain each time he moved. Through sheer force of will he managed to stand up, just in time to see his mother hitting Voldemort's robes with something, sending him to the ground.
+
+  Sasori took a breath and dragged over the doll he'd been working on, the sharp glass embedded into its fingers shredding at Voldemort's prone form until it was crushed with a sweep of that damn wand /[I can't fix this, this sentence is too complicated and it's not 100% clear what's going on physically]/. Again he made to dodge as the wand was leveled at him, but his legs suddenly seized and spasmed. He fell to his knees with an involuntary cry of pain. /[get rid of all the redundancies, the reader can probably infer that Harry is trying to move here, no need to explain that dodging a spell involves movement]/
+#+end_quote
