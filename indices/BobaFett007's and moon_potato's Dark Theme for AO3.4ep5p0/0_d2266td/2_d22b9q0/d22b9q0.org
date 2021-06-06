@@ -1,0 +1,15 @@
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1460618136.0
+:DateShort: 2016-Apr-14
+:END:
+
+Thanks, fixed by adding
+
+#+begin_example
+  .work .tags a.tag {
+    color: #f2f2f2;
+  }
+#+end_example
+
+Don't hesitate to point out any more faults.
