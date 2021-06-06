@@ -1,0 +1,11 @@
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1482128695.0
+:DateShort: 2016-Dec-19
+:END:
+
+Looks fine on my end(24in 1920x1200, 14in 1920x1080, 5.5in 1080x1920), Fireshot-taken pictures tend to be a bit blurry when combined with Windows's DPI scaling, but I've used it for a long time to take screencap of long pages, and you're the first one that's said anything about it having readability issues.
+
+Actually, come to think of it, viewing it on low resolution screen may be the problem, since full zoom will get you like 4 words per line and it'll look like crap zoomed out because of interpolation.
+
+linkffn(934022) - Chapter 2, about half way down.
