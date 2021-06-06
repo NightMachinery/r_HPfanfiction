@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: Deathcrow
+:Score: 3
+:DateUnix: 1534430675.0
+:DateShort: 2018-Aug-16
+:END:
+
+#+begin_quote
+  EDIT: Ugh! I tried to put in a spoiler and it just showed up as a hyperlink with the words I was trying to hide. Does anyone know the format for a black bar spoiler? Does it show up differently for me since I am the author?
+#+end_quote
+
+It depends on which spoiler format you were trying to use and how you view Reddit. AFAIK some spoilers like the formatting in the side bar depend on the subreddit CSS.
+
+It should look like this: =[hidden text](/spoiler)=
+
+[[/spoiler][hidden text]] (sometimes doesn't work for me either)
+
+But without the CSS it won't show up correctly as you said.
+
+The newest Reddit side-wide spoiler tag looks like this: =>!Spoiler here!<=and appears this way:
+
+Spoiler here
+
+This method should be most compatible.
