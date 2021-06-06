@@ -1,0 +1,9 @@
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1441022883.0
+:DateShort: 2015-Aug-31
+:END:
+
+Just a tip, put the text you want to display in the square brackets, and the actual link in the round ones.
+
+So [Applied Cultural Anthropology, or]([[https://www.fanfiction.net/s/9238861/1/Applied-Cultural-Anthropology-or]]) turn into this: [[https://www.fanfiction.net/s/9238861/1/Applied-Cultural-Anthropology-or][Applied Cultural Anthropology, or]]
