@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: zacker150
+:Score: 0
+:DateUnix: 1602702278.0
+:DateShort: 2020-Oct-14
+:END:
+
+Let's say that you have captured a villain whose weapon will destroy the world unless its fed an override password to stop it. Since the password is 10 digits long, brute forcing the password is impossible. Would it be moral to torture the villain for the password?
