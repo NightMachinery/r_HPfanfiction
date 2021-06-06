@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: carelesslazy
+:Score: 1
+:DateUnix: 1585232430.0
+:DateShort: 2020-Mar-26
+:END:
+
+AO3 Savior has two scripts ([[https://greasyfork.org/en/scripts/3579-ao3-savior][AO3 Savior]] and [[https://greasyfork.org/en/scripts/28782-ao3-savior-config][AO3 Savior Config]]) you have to install them both. If you install tampermonkey and AO3 savior scripts correctly and tampermonkey is enabled, when you visit AO3 you should (probably) see tampermonkey extension icon has little number two attached to its bottom right with a red square background.
+
+If all the installations are done correctly, you'll have to click on the tampermonkey icon then go to dashboard and then click on AO3 savior config and modify that script according to your wishes (add some authors, tags to blacklist).
