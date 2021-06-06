@@ -1,0 +1,27 @@
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1400708621.0
+:DateShort: 2014-May-22
+:END:
+
+I'm not talking about punctuation. I am talking about capitalization. A corrected version of the example I used would be:
+
+#+begin_quote
+  "Die, Potter!" he screamed.
+#+end_quote
+
+The quoted sentence is embedded in an outer sentence. The quoted sentence ends with a punctuation mark -- exclamation point or question mark as normal, full stop converted to comma. After the quoted sentence, the outer sentence continues without capitalization (unless required as part of a proper name) because "he" is not the first word in the outer sentence.
+
+You seem to think I was suggesting the correction would be:
+
+#+begin_quote
+  *"Die, Potter" He screamed.
+#+end_quote
+
+or
+
+#+begin_quote
+  *"Die, Potter" he screamed.
+#+end_quote
+
+Neither of those are correct.

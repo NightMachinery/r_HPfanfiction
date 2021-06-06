@@ -1,0 +1,19 @@
+:PROPERTIES:
+:Score: 9
+:DateUnix: 1400080535.0
+:DateShort: 2014-May-14
+:END:
+
+Unpopular opinion: smirking must die. I think people try to treat it as a more flavorful version of smiling. You can smirk cruelly or with private amusement, but that's about it.
+
+Crucial feature: quotation tags with correct capitalization.
+
+#+begin_quote
+  "Die, Potter!" He screamed.
+#+end_quote
+
+My mind interprets this as:
+
+#+begin_quote
+  "Die, Potter!" he said calmly, then started screaming.
+#+end_quote
