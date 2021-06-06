@@ -1,0 +1,44 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 4
+:DateUnix: 1437356748.0
+:DateShort: 2015-Jul-20
+:END:
+
+[[http://archiveofourown.org/works/3412346][*/D.S.S. Requirement/*]] by [[http://archiveofourown.org/users/esama/pseuds/esama][/esama/]]
+
+#+begin_quote
+  The Dumbledore's Army use the Room of the Requirement to get themselves a spaceship.(Knowledge about Stargate is not necessary to read this story)
+
+  #+begin_example
+      Proofread by DarleneDisclaimer on all science\. I don't science\. Science will probably be wrong\. Please ignore all science\.
+  #+end_example
+#+end_quote
+
+^{/Site/: [[http://www.archiveofourown.org/][Archive of Our Own]] *|* /Fandoms/: Harry Potter - J. K. Rowling, Stargate - All Series *|* /Published/: 2015-02-22 *|* /Completed/: 2015-02-27 *|* /Words/: 30914 *|* /Chapters/: 10/10 *|* /Comments/: 218 *|* /Kudos/: 826 *|* /Bookmarks/: 194 *|* /Hits/: 13124 *|* /ID/: 3412346 *|* /Download/: [[http://archiveofourown.org//downloads/es/esama/3412346/DSS%20Requirement.epub?updated_at=1434751148][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/2857962/1/][*/Browncoat, Green Eyes/*]] by [[https://www.fanfiction.net/u/649528/nonjon][/nonjon/]]
+
+#+begin_quote
+  COMPLETE. Firefly: :Harry Potter crossover Post Serenity. Two years have passed since the secret of the planet Miranda got broadcast across the whole 'verse in 2518. The crew of Serenity finally hires a new pilot, but he's a bit peculiar.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter + Firefly Crossover *|* /Rated/: Fiction M *|* /Chapters/: 39 *|* /Words/: 298,538 *|* /Reviews/: 4,179 *|* /Favs/: 6,072 *|* /Follows/: 1,634 *|* /Updated/: 11/12/2006 *|* /Published/: 3/23/2006 *|* /Status/: Complete *|* /id/: 2857962 *|* /Language/: English *|* /Genre/: Adventure *|* /Characters/: Harry P., River *|* /Download/: [[http://ficsave.com/?story_url=https://www.fanfiction.net/s/2857962&format=epub&auto_download=yes][EPUB]]}
+
+--------------
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+Supporting fanfiction.net (/linkffn/), AO3 (fixed!) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+^{*New Features 7/19/15:* Download EPUB links for FFNet, FP, and AO3! ffnbot!parent call added!}
+
+^{Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{/Add the following tags to any comment:/}
+
+^{- /ffnbot!parent/: create a reply for all links in a parent comment}
+
+^{- /ffnbot!directlinks/: auto parse fanfiction site links without having to call the bot}
