@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: AaronAegeus
+:Score: 10
+:DateUnix: 1619452494.0
+:DateShort: 2021-Apr-26
+:END:
+
+#+begin_quote
+  There is some pattern recognition, I won't deny that. But do you know how many possible combinations can be? No one can memorize them all.
+#+end_quote
+
+As I said in the post, I am vastly oversimplifying, because not everyone plays chess, or knows the rules of chess. Of course, most of the time you're not recognizing patterns but calculating moves, but the candidate moved you consider and calculate, and the possibilities of tactics you see are all pattern recognition.
+
+As for how many possible combinations - there are only a finite number of tactical patterns in chess. Forks, pins and skewers, the Greek gift, zugzwang, desperados, attacks on f2/f7, interference, to name a few. Of course you can't memorize every possible tactic, but you can memorize every possible tactical pattern. And as you solve puzzles and play games, you recognize them better.
+
+I disagree with you on chess improving intuition (non-chess intuition, that is). Special reasoning is known to be related to chess though, so I agree with you there.
