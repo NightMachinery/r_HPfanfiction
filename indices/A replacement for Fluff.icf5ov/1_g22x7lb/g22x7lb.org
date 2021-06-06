@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1597823629.0
+:DateShort: 2020-Aug-19
+:END:
+
+“the site isn't really mobile friendly” ???? Really. It worked for me in Firefox (with the Reader option on) way better than FFnet.
+
+Anyway, [[https://github.com/JimmXinu/FanFicFare]] (either as the stand-alone command line application or as the Calibre plugin) is really great in pulling down EPubs from all fanfic sites, and EPubs in turn can be read on mobile by many independent applications.
