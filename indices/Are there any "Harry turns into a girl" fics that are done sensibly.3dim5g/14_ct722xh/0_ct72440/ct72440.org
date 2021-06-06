@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1437169908.0
+:DateShort: 2015-Jul-18
+:END:
+
+[[http://www.fanfiction.net/s/9928419/1/][*/Season of Change/*]] by [[https://www.fanfiction.net/u/4507917/Branchwraith][/Branchwraith/]]
+
+#+begin_quote
+  There were only a few things in Harry Potter's life that were absolutes. He was the son of Lily and James Potter and that he was born male. What happens when he discovers the truth. AU Strong/Independent, Gender-Switch, Fem!Harry, Fem!Slash Mature Themes
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Romance/Drama - Harry P., Fleur D., Luna L., N. Tonks *|* /Chapters:/ 34 *|* /Words:/ 111,108 *|* /Reviews:/ 967 *|* /Favs:/ 2,124 *|* /Follows:/ 2,777 *|* /Updated:/ 5/31 *|* /Published:/ 12/15/2013 *|* /id:/ 9928419}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}

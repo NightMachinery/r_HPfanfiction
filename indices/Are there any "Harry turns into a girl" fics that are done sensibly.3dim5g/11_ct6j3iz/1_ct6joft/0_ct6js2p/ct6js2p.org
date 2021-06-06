@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1437141873.0
+:DateShort: 2015-Jul-17
+:END:
+
+[[http://www.fanfiction.net/s/11159872/1/][*/After Effects/*]] by [[https://www.fanfiction.net/u/6385514/Beach50][/Beach50/]]
+
+#+begin_quote
+  Instead of leaving town like they originally planned, Jace got arrested in a faulty drug deal. She stays in town to wait for him to be released. Five years later, he is finally a free man, and he is going back home to Clary. Now after so many year, even though they saw each other once a week, they have to relearn how to be around one another.
+
+  ^{Mortal Instruments *|* /Rated:/ Fiction T - English - Romance/Drama - Clary F., Jace W. *|* /Chapters:/ 10 *|* /Words:/ 13,519 *|* /Reviews:/ 91 *|* /Favs:/ 44 *|* /Follows:/ 55 *|* /Updated:/ 4/19 *|* /Published:/ 4/3 *|* /Status:/ Complete *|* /id:/ 11159872}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}

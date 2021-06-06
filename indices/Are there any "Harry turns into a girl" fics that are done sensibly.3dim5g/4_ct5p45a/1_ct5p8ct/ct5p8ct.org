@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1437074604.0
+:DateShort: 2015-Jul-16
+:END:
+
+[[http://www.fanfiction.net/s/5794659/1/][*/Tis Femina/*]] by [[https://www.fanfiction.net/u/745277/Sythe][/Sythe/]]
+
+#+begin_quote
+  Naruto had gone to his last battle with Madara fully prepared to die with his enemy. He did not think he'd be manipulated by old toad sages and thrown to the far past. He did not expect to wake up in the Senju clan compound either.
+
+  ^{Naruto *|* /Rated:/ Fiction M - English - Adventure/Fantasy - Naruto U., Hashirama S., Madara U., Tobirama S. *|* /Chapters:/ 13 *|* /Words:/ 177,817 *|* /Reviews:/ 1,568 *|* /Favs:/ 2,689 *|* /Follows:/ 2,570 *|* /Updated:/ 11/18/2014 *|* /Published:/ 3/5/2010 *|* /id:/ 5794659}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}

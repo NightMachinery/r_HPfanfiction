@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 3
+:DateUnix: 1437071601.0
+:DateShort: 2015-Jul-16
+:END:
+
+[[http://www.fanfiction.net/s/10969324/1/][*/This Isn't Even My Final Form/*]] by [[https://www.fanfiction.net/u/3195987/Hi-Pot-And-News][/Hi Pot And News/]]
+
+#+begin_quote
+  AU from 3rd book on. Fem!Harry. It was an accident! A tumble with an unknown potion grants Harry consequences no one could have expected. Dealing as well as she can, Harry re-acquaints herself with the person behind the image of the Boy Who Lived.
+
+  ^{Harry Potter *|* /Rated:/ Fiction T - English - Friendship - Harry P. *|* /Chapters:/ 3 *|* /Words:/ 11,533 *|* /Reviews:/ 136 *|* /Favs:/ 322 *|* /Follows:/ 399 *|* /Updated:/ 5/1 *|* /Published:/ 1/13 *|* /id:/ 10969324}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}
