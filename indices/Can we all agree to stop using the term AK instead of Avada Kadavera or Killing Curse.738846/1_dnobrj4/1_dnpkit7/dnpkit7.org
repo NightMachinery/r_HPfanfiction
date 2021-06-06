@@ -1,0 +1,26 @@
+:PROPERTIES:
+:Author: cavelioness
+:Score: 15
+:DateUnix: 1506760313.0
+:DateShort: 2017-Sep-30
+:END:
+
+Can I just say how much it bothers me to read a story where a comma isn't used with a name every time in speech? Like you get this one:
+
+#+begin_quote
+  "Jerry, treat that curse..."
+#+end_quote
+
+but completely miss these two:
+
+#+begin_quote
+  "what the hell are you talking about Jerry "\\
+  "Avada Kedavra Harry"
+#+end_quote
+
+which should be:
+
+#+begin_quote
+  "What the hell are you talking about, Jerry?"\\
+  "Avada Kedavra, Harry."
+#+end_quote
