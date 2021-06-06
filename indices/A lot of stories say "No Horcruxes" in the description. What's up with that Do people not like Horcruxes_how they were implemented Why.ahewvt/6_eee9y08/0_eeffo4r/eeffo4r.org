@@ -1,0 +1,56 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 11
+:DateUnix: 1547892684.0
+:DateShort: 2019-Jan-19
+:END:
+
+Sometimes there are plot holes. And sometimes people just haven't read the books properly.
+
+Horcruxes 101:
+
+1. You can't directly affect a horcrux. *That's the point of a horcrux*. You can't kill a horcrux with a killing curse, a Dementor can't suck a horcrux out of its receptacle, and certainly there aren't any medical procedures that can extract it. Even when you do something to destroy the horcrux, like stabbing one of Voldemort's horcruxes with a basilisk fang, you're not directly affecting the soul piece. The basilisk venom doesn't kill the soul, it destroys the physical object, after which the soul must move on. *The only way to destroy a horcrux is to physically destroy the receptacle*. This is such a basic point that so many people fail to understand.
+
+2. Horcruxes don't have default invulnerability. Something being a horcrux does not in itself grant that object any special invulnerability to damage. The Dark wizard creating the horcrux must enchant the receptacle to resist damage separately from the process of making it a horcrux.
+
+3. There isn't a default set of horcrux-protecting enchantments that all horcruxes possess. The wizard creating the horcrux puts the protections on the receptacle, and what things that wizard chooses to protect against depends on the wizard's choices and capabilities. *Different horcruxes will therefore be protected against different things*. This is what it means to put a horcrux beyond magical repair (and thus destroy it): *you put the horcrux beyond that horcrux's specific ability to magically repair*, not beyond some abstract concept of magical repair in general. Basilisk venom for example, does not necessarily put something beyond magical repair: if you have phoenix tears, you can repair the damage of basilisk venom. So the horcrux in Harry wasn't destroyed by basilisk venom, because he wasn't put beyond magical repair by it, but it does destroy the others because Voldemort didn't protect them against basilisk venom. It's specifically stated, however, that had Voldemort had access to phoenix tears, he would have been able to protect his horcruxes against basilisk venom. *Basilisk venom is not some set-in-stone horcrux-destroyer, it destroys horcruxes simply because the ingredient necessary to resist it is so rare*.
+
+All of this was explained explicitly in Deathly Hallows chapter 6.
+
+Horcrux being tied innately to its physical container:
+
+#+begin_quote
+  “But even if we wreck the thing it lives in,” said Ron, “why can't the bit of soul in it just go and live in something else?”
+
+  “Because a Horcrux is the complete opposite of a human being.” Seeing that Harry and Ron looked thoroughly confused, Hermione hurried on. “Look, if I picked up a sword right now, Ron, and ran you through with it, I wouldn't damage your soul at all.”
+
+  ”Which would be a real comfort to me, I'm sure,” said Ron. Harry laughed.
+
+  “It should be, actually! But my point is that whatever happens to your body, your soul will survive, untouched,” said Hermione. “But it's the other way round with a Horcrux. *The fragment of soul inside it depends on its container, its enchanted body, for survival*. It can't exist without it.”
+#+end_quote
+
+Protections on a horcrux are put there separately by the Dark wizard making it:
+
+#+begin_quote
+  “No,” said Ron, before Harry could answer. “So does it say how to destroy Horcruxes in that book?”
+
+  “Yes,” said Hermione, now turning the fragile pages as if examining rotting entrails, “because *it warns Dark wizards how strong they have to make the enchantments on them*.
+#+end_quote
+
+Efficacy of basilisk fangs in destroying horcruxes depends on horcruxes not being protected against it, due to the rarity of its single counteracting force:
+
+#+begin_quote
+  "From all that I've read, what Harry did to Riddle's diary was one of the few really foolproof ways of destroying a Horcrux.”
+
+  “What, stabbing it with a basilisk fang?” asked Harry.
+
+  “Oh well, lucky we've got such a large supply of basilisk fangs, then,” said Ron. “I was wondering what we were going to do with them.”
+
+  “It doesn't have to be a basilisk fang,” said Hermione patiently. “It has to be *something so destructive that the Horcrux can't repair itself. Basilisk venom only has one antidote, and it's incredibly rare* --“
+
+  “-- phoenix tears,” said Harry, nodding.
+
+  “Exactly,” said Hermione.
+#+end_quote
+
+Another misconception is that Voldemort and his horcruxes are in some sense equal in terms of their claims to being Voldemort. But Voldemort is specifically referred to by JKR as the "master soul". Even if he wasn't, however, I think it would be strongly implied. The fact that the horcruxes act as anchors for Voldemort but do not anchor each other, and the fact that Voldemort's soul does not anchor the soul fragments in the horcruxes, demonstrates that the relationship between the horcrux and Voldemort is very much a subservient one.
