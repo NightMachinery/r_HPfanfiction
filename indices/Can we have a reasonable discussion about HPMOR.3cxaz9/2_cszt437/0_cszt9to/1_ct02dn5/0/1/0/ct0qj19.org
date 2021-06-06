@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 3
+:DateUnix: 1436716410.0
+:DateShort: 2015-Jul-12
+:END:
+
+[[http://www.fanfiction.net/s/5490079/1/][*/The Little Veela that Could/*]] by [[https://www.fanfiction.net/u/1933697/Darth-Drafter][/Darth Drafter/]]
+
+#+begin_quote
+  During the Second Task of the Tri-Wizard Tournament, Headmaster Dumbledore watches his plan for the Greater Good crumble and die. A Veela girl receives the gift of life through the blood and sacrifice of the last Potter. Gabby/Harry w/ a twist.
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Adventure/Friendship - Gabrielle D., Harry P. *|* /Chapters:/ 32 *|* /Words:/ 350,784 *|* /Reviews:/ 1,906 *|* /Favs:/ 2,672 *|* /Follows:/ 2,312 *|* /Updated:/ 6/28/2012 *|* /Published:/ 11/4/2009 *|* /Status:/ Complete *|* /id:/ 5490079}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}
