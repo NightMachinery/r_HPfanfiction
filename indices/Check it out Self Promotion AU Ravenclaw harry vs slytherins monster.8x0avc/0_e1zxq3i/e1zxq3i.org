@@ -1,0 +1,52 @@
+:PROPERTIES:
+:Author: kyella14
+:Score: 4
+:DateUnix: 1531048945.0
+:DateShort: 2018-Jul-08
+:END:
+
+From a brief skim, I can tell that you need to fix up your punctuation /a lot./ Using commas in dialogue, for example:
+
+#+begin_quote
+  "/Open/" he hissed.
+#+end_quote
+
+This should be:
+
+#+begin_quote
+  "/Open/," he hissed.
+#+end_quote
+
+And this:
+
+#+begin_quote
+  He hastily ran down to her and dropped to the floor to his knees "Ginny?" he said "Ginny?"
+#+end_quote
+
+Should be:
+
+#+begin_quote
+  He hastily ran down to her and dropped to the floor to his knees. "Ginny?" he said. "Ginny?"
+#+end_quote
+
+Using apostrophes in contracted words: 'wont' -> 'won't'.
+
+Using apostrophes in possessive forms: 'slytherins' -> 'Slytherin's'.
+
+Capitalising names: 'Tom riddle' -> 'Tom Riddle'.
+
+And:
+
+#+begin_quote
+  "No stop what is this." the basilisk cried.
+#+end_quote
+
+Should be:
+
+#+begin_quote
+  "No, stop! What is this?" the basilisk cried.
+#+end_quote
+
+Improving your punctuation will go a long way to making your fic more readable. As it is, I'm not inclined to do more than a brief skim, so I can't comment in any depth on your plot and characters. Punctuation is also, imo, one of the easiest things to improve on, because with punctuation, there are definitive rights and wrongs. It isn't subjective like flow and description, and therefore, it's something you can study, instead of have to feel your way through.
+
+And as mentioned by others, do change your title and summary. It's not appealing at all to read: 'This is my first fanfic but I've got lots of ideas', and rambling about your job. The summary is supposed to be what your story is about, not explaining your fic and why you wrote it. People come to read the story, and the majority don't particularly care about the author's life story.
