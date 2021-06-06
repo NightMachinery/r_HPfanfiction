@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: denarii
+:Score: 2
+:DateUnix: 1421273819.0
+:DateShort: 2015-Jan-15
+:END:
+
+Yeah, you need a double newline for it to be preserved.
