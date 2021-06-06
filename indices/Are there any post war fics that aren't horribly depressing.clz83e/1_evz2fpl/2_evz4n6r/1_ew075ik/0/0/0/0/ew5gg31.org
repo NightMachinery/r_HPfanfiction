@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: BernotAndJakob
+:Score: 2
+:DateUnix: 1565135667.0
+:DateShort: 2019-Aug-07
+:END:
+
+Keeps track of how many times you've upvoted certain users (among many other things)
