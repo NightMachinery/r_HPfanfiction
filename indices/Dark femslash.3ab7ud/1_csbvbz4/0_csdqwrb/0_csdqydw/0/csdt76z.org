@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 2
+:DateUnix: 1434897422.0
+:DateShort: 2015-Jun-21
+:END:
+
+If I would be the maintainer (or even contributor), I would just delete this fucking reformatting code for the metadata. It just fails. Spectaculary.

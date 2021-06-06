@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1435492666.0
+:DateShort: 2015-Jun-28
+:END:
+
+The IRL commitments that caused me to pause development were completely unexpected. Optimally, I would have fixed this all within a day of knowing about the bug. Since I'm still learning RegEx, it's a bit difficult to find a simple and concise way to fix it (hardcoding a solution right now).
