@@ -1,0 +1,11 @@
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1461516697.0
+:DateShort: 2016-Apr-24
+:END:
+
+It's quite easy. For fanfiction.net stories, just write linkffn(...) and in the brackets either the ID of the fic, or the title and the author. A full help is in the sidebar.
+
+So in case of the fic you just linked, just type
+
+linkffn(Lost Along the Way by January Lily)
