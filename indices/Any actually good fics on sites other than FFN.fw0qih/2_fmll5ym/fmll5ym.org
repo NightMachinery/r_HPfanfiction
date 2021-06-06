@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 2
+:DateUnix: 1586188555.0
+:DateShort: 2020-Apr-06
+:END:
+
+From the FanFicFare wiki, [[https://github.com/JimmXinu/FanFicFare/wiki/Supportedsites][here is a list of supported sites]]. And if you're unfamiliar with it, FanFicFare is a plugin for Calibre (an ebook management system) that will download fics for you, as well as update in-progress ones with the click of a button.
+
+As a bonus, if you use the Kindle app Calibre can be configured to email stories to your personal documents, putting them in the cloud for you. Which means that your ereader at home and your phone at work will always be on the same page via whispersync :D

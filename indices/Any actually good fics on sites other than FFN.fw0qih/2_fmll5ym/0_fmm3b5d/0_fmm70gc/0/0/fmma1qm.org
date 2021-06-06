@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 1
+:DateUnix: 1586201555.0
+:DateShort: 2020-Apr-07
+:END:
+
+Yeah you can, though I avoid PDFs like the plague as - at least with my admittedly very old kindle - they're a nightmare to read. No zooming, just one whole page at a time :(
+
+Kindles take the .mobi format rather than epub, so you'd need to convert them if all you have is epub. Again - Calibre is great, will do that for you with a couple clicks and will prompt you for it when you try to move a book to an amazon device. If you must have epub support, pick up a Barnes and Noble e-reader (a Nook) instead.
+
+And as a reminder? They can be used to read library books too!
