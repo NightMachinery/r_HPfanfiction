@@ -1,0 +1,23 @@
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1483981048.0
+:DateShort: 2017-Jan-09
+:END:
+
+That's really cool.
+
+I have similar goals to you for remote editing and the like. Having no experience with LaTeX but being a Redditor, I ended up settling on using Markdown (and storing my works in a Git repo).
+
+Conveniently, there are WYSIWYG editors for Markdown and easy ways to export to HTML for distribution. I'm currently following the development of [[http://abricotine.brrd.fr/][Abricotine]] quite closely. My other like of Markdown is the way its syntax seems fairly intuitive to read plain
+
+An example from one of my drafts:
+
+#+begin_example
+  # Chapter 8(?)
+  ## The Hall of Records
+
+  The door was plain and black, just like everything else on the Ministry’s
+  lowest level. A small black plaque sat in its centre, reading simply *Hall of
+  Records*. Harry straightened his robes slightly and rearranged the files
+  under his arm, before pushing open the door and stepping inside.
+#+end_example

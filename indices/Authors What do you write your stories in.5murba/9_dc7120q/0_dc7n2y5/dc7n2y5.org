@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: SilverCookieDust
+:Score: 2
+:DateUnix: 1483994423.0
+:DateShort: 2017-Jan-10
+:END:
+
+#+begin_quote
+  I just have to remember to save very very very regularly.
+#+end_quote
+
+I'd recommend Atlantis Word Processor on that. It has a backup option where you can tell it to save every ## minutes -- you can set it anywhere between 1-120. It literally creates an entire new save every time ("Doc Name date-stamp time-stamp") rather than a single back up that just gets overwritten every ## minutes, which is good if you delete something and change your mind about it later. You can just find the relevant save and find the text you want. (Only downside of course is that those backups pile up and take space on your HD so you should clear them out every so often, but unless you've got docs full of pictures or thousands of pages worth of text then they're not that large, and obviously there won't be so many if you set it to a longer time between back ups.)
+
+Honestly, I prefer Atlantis over Word so much. The styles are much easier to customise (I could never get my changes to stick in Word) and there isn't a ridiculous number of preset styles so you can just have as many as you need. Also it uses a kind of tab function so you can have multiple docs open and only one window, and it has a save to webpage or ebook options (inc. batch convert). It even has an install to portable drive option and, perhaps most importantly, it's a lot cheaper than Word.
+
+That sounds kind of like a sales pitch, oops. But seriously, it's a really good word processor.

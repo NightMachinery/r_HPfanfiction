@@ -1,0 +1,30 @@
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1483938751.0
+:DateShort: 2017-Jan-09
+:END:
+
+Waaaay back in the day, I used Microsoft Publisher.
+
+When I started writing again, I tried using Google Docs. Far too slow. I had a document that was maybe twenty pages, and opening it was painful.
+
+I switched from that to LibreOffice. Problem was, I wanted to be able to edit my documents from wherever. That means either web-based or text-based, because with plain text, I can edit with vim over ssh.
+
+I switched to LaTeX, which was nice in that it prevents me from making certain types of mistakes. LaTeX is way too complex to use for this. Trying to convert its output to an ebook that actually renders correctly on a wide variety of devices is painful. Trying to upload its output to any fic sites results in a loss of formatting.
+
+I ended up writing a kind of variant subset of LaTeX that I call [[https://github.com/dhasenan/subtex][SubTex]].
+
+An excerpt from a subtex document:
+
+#+begin_example
+  \chapter{Awakening}
+
+  % Day 1: June 18, 2011
+
+  Hermione woke slowly, head pounding. It felt like she'd just had an elephant lying on top of her,
+  sore all over and barely able to move. Hunger and dehydration added their unforgettable \emph{je ne
+  se quoi}, and that was before she opened her eyes. Something chimed nearby.
+
+  \e{Ms Granger?} someone asked softly in the unmistakable tones of a medical professional.
+  \e{Can you hear me?}
+#+end_example
