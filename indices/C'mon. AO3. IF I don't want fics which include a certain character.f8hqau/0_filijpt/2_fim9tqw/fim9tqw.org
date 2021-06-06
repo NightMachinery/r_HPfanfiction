@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: vlaaivlaai
+:Score: 8
+:DateUnix: 1582522465.0
+:DateShort: 2020-Feb-24
+:END:
+
+No, that's solving the problem at the wrong place.
+
+If a character is part of a pairing of the story, they obviously are also a part of the story.
+
+Consequently a search for a character should include/exclude it properly. Everything else makes it needlessly complicated for the user (both author and reader).

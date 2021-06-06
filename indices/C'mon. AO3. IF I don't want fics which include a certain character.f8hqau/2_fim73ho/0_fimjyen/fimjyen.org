@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: carelesslazy
+:Score: 5
+:DateUnix: 1582533619.0
+:DateShort: 2020-Feb-24
+:END:
+
+You can do so by installing Tampermonkey extension to your browser, then installing [[https://greasyfork.org/en/scripts/25670-fanfictionnavigator][FanFictionNavigator]] script. The script works on both AO3 and [[https://FF.net][FF.net]], it adds clickable text such as 'Like' 'Dislike' 'Mark' 'In Library' underneath every story. If you set the script option to 'Hide Disliked', when you click on the 'Dislike' on a story you don't wish to see, it will make it disappear like magic. Script has other options such as, liking or disliking author which is the same as liking or disliking every single story written by that author one by one, but obviously much more practical.

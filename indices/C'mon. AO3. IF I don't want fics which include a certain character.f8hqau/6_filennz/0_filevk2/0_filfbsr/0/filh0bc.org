@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 9
+:DateUnix: 1582501384.0
+:DateShort: 2020-Feb-24
+:END:
+
+For some reason it works if you type his name in the exclusion box in lowercase, i.e. "draco malfoy". That will remove any fic that mentions his name in tags, pairings, fic summary, etc. However, using lowercase words in your exclusion filter is often unreliable. That method tends to mistakenly remove quite a few fics that would have been ok for your preferences.
