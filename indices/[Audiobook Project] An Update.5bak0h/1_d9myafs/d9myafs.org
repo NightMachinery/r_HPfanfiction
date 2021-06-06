@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: -SmartMod-
+:Score: 1
+:DateUnix: 1478361414.0
+:DateShort: 2016-Nov-05
+:END:
+
+It looks like you're trying to mention another user, which only works if it's done in the comments, like this:
+
+- [[/u/FloreatCastellum]]
+
+/I am a bot, and this action was performed automatically. For all questions/concerns, please visit [[/r/smartmodbot]]./

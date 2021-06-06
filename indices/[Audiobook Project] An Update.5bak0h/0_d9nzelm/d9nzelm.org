@@ -1,0 +1,11 @@
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1478425277.0
+:DateShort: 2016-Nov-06
+:END:
+
+Audacity most certainly /can/ import and export M4A files. It does, however, require installing the FFmpeg plugin.
+
+On Windows, the download should be linked on Audacity's website. On *nix, it should be available through your package manager of choice.
+
+Edit: wtf, autocorrect?
