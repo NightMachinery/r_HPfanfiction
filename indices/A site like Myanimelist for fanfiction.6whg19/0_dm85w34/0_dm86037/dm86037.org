@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: ethanbrecke
+:Score: 1
+:DateUnix: 1503906601.0
+:DateShort: 2017-Aug-28
+:END:
+
+Yeah, i was thinking of building it off of the fic bot, as it can get the data. We would just need to write a script to get the data and plug it into whatever php or mysql database we have, then create sort of user that you connect to all your different accounts. An extension to monitor your web browsing, so that if you went onto one of the few fanfic websites, it would connect it back to your account, and check the lists of stuff, and add it or update it based on the lists. We would need to update the database every few days to make sure we got all the new or updated fic information. There is probably stuff im missing, but it seems like a good starting place.
