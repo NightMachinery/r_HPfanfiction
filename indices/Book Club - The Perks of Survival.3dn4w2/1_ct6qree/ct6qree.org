@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 6
+:DateUnix: 1437152556.0
+:DateShort: 2015-Jul-17
+:END:
+
+[[http://www.fanfiction.net/s/4367121/1/][*/The First Day/*]] by [[https://www.fanfiction.net/u/1443437/little0bird][/little0bird/]]
+
+#+begin_quote
+  The first year after the battle.
+
+  ^{Harry Potter *|* /Rated:/ Fiction T - English - Hurt/Comfort/Romance - Harry P., Ginny W. *|* /Chapters:/ 55 *|* /Words:/ 251,033 *|* /Reviews:/ 3,380 *|* /Favs:/ 2,314 *|* /Follows:/ 1,202 *|* /Updated:/ 8/11/2010 *|* /Published:/ 7/2/2008 *|* /Status:/ Complete *|* /id:/ 4367121}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}
