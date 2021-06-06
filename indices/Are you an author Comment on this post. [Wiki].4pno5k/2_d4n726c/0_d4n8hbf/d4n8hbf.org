@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1466832723.0
+:DateShort: 2016-Jun-25
+:END:
+
+You actually don't need the > and < for markdown formatting. In fact, on mobile, I can't even see the links. If you removed them it'd probably worm.
