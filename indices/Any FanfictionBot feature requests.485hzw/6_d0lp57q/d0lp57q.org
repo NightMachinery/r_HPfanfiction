@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: viol8er
+:Score: 1
+:DateUnix: 1456981908.0
+:DateShort: 2016-Mar-03
+:END:
+
+Just thought of one. Have it have all the books in cleartext it can reference then when you want to reference a specific section of a book, type
+
+Bookbot(one sentence of excerpt: how many words in total)

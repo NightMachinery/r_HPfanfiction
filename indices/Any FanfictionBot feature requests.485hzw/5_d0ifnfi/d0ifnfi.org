@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: ryanvdb
+:Score: 1
+:DateUnix: 1456776202.0
+:DateShort: 2016-Feb-29
+:END:
+
+Sorting. Have the stories listed in the same order they are in the original story. Make a stard order of the info (chapters, words, publish date, update date, etc) that is used regardless of source (although still dropping fields that are not available).
+
+Make completed or not clearer. Nicely format number of words for sources that dont (i.e i think ao3 has words: 123456, but would lke to see 123,456).

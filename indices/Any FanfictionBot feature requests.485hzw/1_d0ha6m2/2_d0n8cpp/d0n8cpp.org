@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 2
+:DateUnix: 1457092272.0
+:DateShort: 2016-Mar-04
+:END:
+
+More generally, perhaps branch out into fanfic sites in general?
+
+In fact, since both the bot and FanFicFare use Python, and since FanFicFare knows how to fetch fic metadata from [[https://fanficfare.appspot.com/][a hundred or so sites]], I wonder how difficult would it be to write a shim that would allow FFBot to support any site that FanFicFare does...
