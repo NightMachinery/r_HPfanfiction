@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: thrawnca
+:Score: 3
+:DateUnix: 1569300970.0
+:DateShort: 2019-Sep-24
+:END:
+
+Looks like something went wrong with your bot invocation, maybe because of the capital L, maybe the formatted links instead of plain URLs.
+
+ffnbot!refresh
