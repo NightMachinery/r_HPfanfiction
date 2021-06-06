@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: someorangegirl
+:Score: 1
+:DateUnix: 1357932568.0
+:DateShort: 2013-Jan-11
+:END:
+
+I suggested the same before, too! I think it comes up pretty often. I'm supposing they don't save monthly hits, and reads all go in one data field. I suggested sort by read count a long way back too, but they said something about it'd be too much of a load to constantly recalculate, and I guessed that might actually be the reason the never fixed the read count 'bug', where the total # of read counts on a story don't update until you make changes to a chapter, because that means less updates to the database.
+
+*[[http://www.hpfanfictionforums.com/index.php?showtopic=77807][2012 Winners]]
