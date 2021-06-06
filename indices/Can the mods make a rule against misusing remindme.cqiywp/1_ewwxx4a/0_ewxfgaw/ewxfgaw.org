@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: g4rretc
+:Score: 14
+:DateUnix: 1565855380.0
+:DateShort: 2019-Aug-15
+:END:
+
+the bot has a link, it normally looks like this:
+
+#+begin_quote
+  [[https://www.youtube.com/watch?v=dQw4w9WgXcQ][*CLICK THIS LINK*]] to send a PM to also be reminded and to reduce spam.
+#+end_quote

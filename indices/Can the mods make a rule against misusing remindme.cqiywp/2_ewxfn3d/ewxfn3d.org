@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: g4rretc
+:Score: 8
+:DateUnix: 1565855579.0
+:DateShort: 2019-Aug-15
+:END:
+
+there should be a bot that removes any new !RemindMe's once there's one there
