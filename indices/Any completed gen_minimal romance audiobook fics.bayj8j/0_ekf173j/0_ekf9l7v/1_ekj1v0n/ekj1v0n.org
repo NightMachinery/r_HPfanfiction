@@ -1,0 +1,17 @@
+:PROPERTIES:
+:Author: Erska
+:Score: 2
+:DateUnix: 1554874552.0
+:DateShort: 2019-Apr-10
+:END:
+
+You might want to look into using [[http://cross-plus-a.com/bconsole.htm][Balabolka]] and a voice you find somewhere else (I myself use IVONA Brian).
+
+=-c -w "e:\readContent.wav" -s 0 -n brian=
+
+is the command line arguments I use... after this I use Foobar2000 with lame to convert to mp3... which I send over to my (old, nonsmart) phone for playing.
+
+=-c= clipboard (ctrl+c the text you want to have read)\\
+=-w <filename>= read into this file\\
+=-s 0= read at normal speed (some voices sound "better" sped up/slowed down)\\
+=-n <voice>= I got IVONA Brian installed, and it's recognized as =brian=
