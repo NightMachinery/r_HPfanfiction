@@ -1,0 +1,55 @@
+:PROPERTIES:
+:Author: OwlPostAgain
+:Score: 1
+:DateUnix: 1470713793.0
+:DateShort: 2016-Aug-09
+:END:
+
+Realistically, you would need ~1500 teachers to teach a population like that. Hogwarts would be bigger than most colleges. You would need to work backwards and explain where the other 400+ Gryffindor boys have been hiding all of this time.
+
+Here's the math:
+
+| Statistic                                                  | Venti   | Grande | Tall |
+|------------------------------------------------------------+---------+--------+------|
+| Total Population                                           | 400,000 | 20,000 | 4100 |
+| Population under 18 (assuming about 18% of the population) | 70,000  | 3,500  | 740  |
+| Hogwarts Age Population (38% of the under 18 population)   | 25,000  | 1300   | 280  |
+| Students in Gryffindor                                     | 6250    | 340    | 70   |
+| Male Gryffindors in Harry's Year                           | 446     | 48     | 5    |
+| Teachers Required (assuming a 15:1 ratio)                  | 1700    | 87     | 19   |
+
+But if we move the decimal on your original number and cut that number in half, then we have a population of 20k. This gives us 1.3k students at Hogwarts, with 48 students per year/house/gender. If we take Harry's year as the norm, then Hogwarts has about 280 students, with 5 students per year/house/gender. This number is obviously even more managable, though might be too small for your needs.
+
+If we assume that all class schedules are doubled up (which they're not) then the canon schedule just /barely/ works (though the teachers would be incredibly overworked).
+
+The best way I've found to make it work is:
+
+1. Assume all classes are doubled up (even though we know they're not)
+
+2. Assume 7 class periods per day, with 35 in a given week.
+
+3. Assume that years 1-2 have each of their 7 core classes 4x a week each. Two of these are stand-alone lessons, the other is a double-length lesson. This gives them 28 classes and 7 free periods per week.
+
+4. Assume that years 3-5 have each of their 7 core classes 4x a week each, plus ~2 electives 3x a week each. This gives them 34 classes per week.
+
+5. Assume that years 6-7 attend their chosen classes 4x a week with all other students in the year taking the same subject, regardless of house. A student taking 7 N.E.W.T.s would have 28 classes per week, while a student taking 3 N.E.W.T.s would only have 12.
+
+For reference, classes start at nine and end shortly before 5, and include a morning break. A schedule might look something like:
+
+9:00-9:50 1st class
+
+10:00-10:50 2nd class
+
+10:50-11:10 Morning Break
+
+11:20-12:10 3rd class
+
+12:20-1:10 4th class
+
+1:10-2:00 Lunch
+
+2:00-2:50 5th class
+
+3:00-3:50 6th class
+
+4:00-4:50 7th class

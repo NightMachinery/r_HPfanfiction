@@ -1,0 +1,27 @@
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1470702372.0
+:DateShort: 2016-Aug-09
+:END:
+
+To estimate the number of wizards & witches in student age, take a look at the UK population pyramid for 1991 ([[https://populationpyramid.net/united-kingdom/1991/][link]]).
+
+According to this, in 1991, 5.9% of the UK population was in the 10-14 age bracket, while 6.5% was in the 15-19 age bracket. Given that the typical Hogwarts student attends from ages 11-17, break this into 11-14 and 15-17 groups and take a proportional share.
+
+- 11-14 = 4/5 * 10-14 value = .80 * 5.9% = 4.72%
+
+- 15-17 = 3/5 * 15-19 value = .60 * 6.5% = 3.90%
+
+So, we can guesstimate that in 1991, 8.62% (4.72+3.90) of the UK's population was in the 11-17 age range. The UK wizarding population is largely drawn from the UK non-magical population, so the percent of all wizards in the 11-17 age range should track the non-magical value /but/ because wizards have a longer lifespan and (anecdotally) seem to have a lower birthrate, the value for wizards should be lower than that of non-magical people. As a guesstimate, I will say that the value for wizards will be 3/4 that of the normal rate, or 6.465% in the 11-17 age range.
+
+I have no clue how to adjust the population pyramid to account for the effects of the first Voldemort war, so I will leave as is with the 6.465% figure.
+
+For a population of 400,000 this suggests 25,860 students in the 11-17 age range.
+
+Based on the estimates I've frequently seen of roughly 40 students per year, 280 students total, a wizarding population of 400k would imply a student body 92 times as large as what canon Hogwarts appears to include.
+
+So, either you'll need to account for several other schools in wizarding Britain to account for this size increase, or you'll need a Hogwarts with 92 times the space, 92 times the faculty, 92 times the staff, 92 times the resources, etc. plus likely 92 times the space on the Hogwarts Express.
+
+That's one hell of a lot of OCs, or one hell of a lot of unnamed and unmentioned characters.
+
+IRL there are lots of universities that have 25k or more students, but they're all massive in terms of space, buildings, faculty, staff, and general resources. I don't think many of them even have close to all of their students living on campus.
