@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: RedKorss
+:Score: 4
+:DateUnix: 1552752782.0
+:DateShort: 2019-Mar-16
+:END:
+
+That's the error of a low sample size, here we quite literally have a sample size of 1. We can't actually try and extract any workable data from it.
+
+Though as you say:
+
+#+begin_quote
+  Just as unrealistic as there being 40 students split evenly by house and gender
+#+end_quote
+
+That has a plethora of other theories surrounding it that I just know about in passing.
