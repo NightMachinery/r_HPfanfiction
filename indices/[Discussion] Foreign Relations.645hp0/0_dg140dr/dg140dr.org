@@ -1,0 +1,76 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 7
+:DateUnix: 1491739352.0
+:DateShort: 2017-Apr-09
+:END:
+
+RE: Muggles, I think you're overestimating the relationship. It seems to be the Prime Minister alone who knows, though you can perhaps speculatively extend that to the Queen as well. The Statute of Secrecy is still a thing - I highly doubt there's any cooperation of note between the two governments.
+
+I think you're also overestimating the reciprocity of the relationship. From what we can see, the magical government dictates terms to the Muggle one - Scrimgeour inserted Kingsley into the Prime Minister's office without permission or anyone noticing. Similarly, Fudge rearranged the Prime Minister's scheduled telephone call with a foreign president (likely the US president, given that "president" without national qualification generally means US). It would appear that the magical government knows what is going on at the highest levels of Muggle government and is able to interfere at will, but that the Muggle government is virtually clueless about the magical world.
+
+RE: relationships between magical governments of different nations. I think in the magical world the nation-state is significantly less important than in the Muggle world. The reason for this is the International Statute of Secrecy. Most wizards seem to have loyalty to their kind first, and nation second. They view themselves as part of an international community that spreads across national borders.
+
+We see this exhibited in a variety of ways.
+
+The most significant is that magical governments are literally forbidden by the ICW from going to war with each other. See the following:
+
+#+begin_quote
+  Evangeline Orpington
+
+  1849 - 1855
+
+  A good friend of Queen Victoria's, who never realised she was a witch, let alone Minister for Magic. Orpington is believed to have intervened magically (and illegally) in the Crimean War.
+#+end_quote
+
+Illegal to interfere in wars.
+
+#+begin_quote
+  Archer Evermonde
+
+  1912 - 1923
+
+  In post during the Muggle First World War, Evermonde passed emergency legislation forbidding witches and wizards to get involved, lest they risk mass infractions of the International Statute of Secrecy. Thousands defied him, aiding Muggles where they could.
+#+end_quote
+
+Wizards getting involved in the first world war would have been against the statute of secrecy (though it was not fully effective).
+
+See also the following:
+
+#+begin_quote
+  It was in Washington that President Elizabeth McGilliguddy presided over the infamous ‘Country or Kind?' debate of 1777. Thousands of witches and wizards from all over America descended upon MACUSA to attend this extraordinary meeting, for which the Great Meeting Chamber had to be magically enlarged. The issue for discussion was: did the magical community owe their highest allegiance to the country in which they had made their homes, or to the global underground wizarding community? Were they morally obliged to join American No-Majs in their fight for liberation from the British Muggles? Or was this, simply put, not their fight?
+
+  The arguments for and against intervention were protracted and the fight became vicious. Pro-interventionists argued that they might be able to save lives; anti-interventionists that wizards risked their own security by revealing themselves in battle. Messengers were sent to the Ministry of Magic in London to ask whether they intended to fight. A four-word message returned: ‘Sitting this one out.' McGilliguddy's famous response was even shorter: ‘Mind you do.' While officially the American witches and wizards did not engage in battle, unofficially there were many instances of intervention to protect No-Maj neighbours and the wizarding community celebrated Independence Day along with the rest of American society -- although not necessarily alongside them.
+#+end_quote
+
+The running theme seems to be this: secrecy trumps nation, interference in wars between Muggle states is contrary to the Statute of Secrecy, but breaches occur. Nonetheless, these breaches do not affect the official stances of the magical governments, and they remain duty bound to prosecute those who are caught breaking the Statute.
+
+It's also worth noting that the ICW seems to have the power to either remove heads of magical government or at the very least lean very heavily on nations to have a head of government removed:
+
+#+begin_quote
+  Damocles Rowle
+
+  1718 - 1726
+
+  Rowle was elected on a platform of being 'tough on Muggles'. Censured by the International Confederation of Wizards, he was eventually forced to step down.
+#+end_quote
+
+With all of this in mind, the vision of the ICW as a magical UN (as commonly portrayed in fanon) seems misplaced. It has far more authority than the UN. The international wizarding world is less like a splintered group of magical nations, and much more like a global conspiracy (think Illuminati) with regional chapters.
+
+This vision of magical government is further enhanced when you contemplate the realities of the size of small wizarding populations. Sophisticated government is unnecessary. There's no need for powerful constitutional checks and balances or separation of powers when everyone knows everyone else. Civil servants like Arthur write legislation, pass it, and then enforce it. The relative informality of the use of political power in the wizarding world makes sense in light of the fact that the population of magical Britain is like that of a small town.
+
+In such a world, a much greater emphasis ends up on significant individuals. It's internationally respected and feared powerful wizards like Dumbledore, Voldemort and Grindelwald who are the juggernaughts of the magical world, not the nation-state. This also works well with the view of the ICW we got in Fantastic Beasts: again, a relatively informal gathering of what appeared to be influential /individuals/ who decided matters on common consensus rather than any strict voting procedure or constitutional process. There were nowhere near enough people there to represent every country in the world.
+
+It is significant that the Wizengamot is named as it is. It mirrors the Anglo-Saxon witenagemot, which was an informal gathering of influential people (landowners and clergy) called on an ad hoc basis. It had no set membership, no rules or procedure, no regularly scheduled meetings. It seems like decision making in the magical world follows a similar pattern.
+
+As a final note, it might be worth speculating as to the number of highly influential Dumbledore-like individuals in the magical world at any given time. It strikes me that a good comparison (in order to create the right dynamic) might be that of billionaires in the Muggle world. What happens if we make the ratio of Dumbledore-esque wizards to population the same as that of billionaires to population?
+
+Assumptions:
+
+Wizarding Britain population: 10,000
+
+Assuming Britain has a proportionate share of global wizards, that will mean 107 global wizards for every British wizard, and therefore a global magical population of around 1,000,000.
+
+Now, there's around 1800 billionaires in the world (pop 7 billion). But the dynamic we're wanting is not the number of billionaires relative to global population, but more the dynamic of billionaires relative to population within a developed western nation.
+
+There are 120 billionaires in Britain (pop 65,000,000). That's a ratio of 1.8 x 10^{-6.} If we use that ratio as the ratio of Dumbledore-esque wizards to wizarding population, then at any one time there's around 1.8 Dumbledore-esque wizards in the world. Let's round that up to 2. If that's true, then Dumbledore and Voldemort both being British kinda means that in the latter 20th century, Britain had both of the world's top-level wizards. It certainly explains why there was not much of an international response to Voldemort.
