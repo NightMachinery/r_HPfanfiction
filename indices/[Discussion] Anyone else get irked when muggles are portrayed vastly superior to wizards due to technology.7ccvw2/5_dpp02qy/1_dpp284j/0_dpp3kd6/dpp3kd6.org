@@ -1,0 +1,28 @@
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 3
+:DateUnix: 1510463621.0
+:DateShort: 2017-Nov-12
+:END:
+
+#+begin_quote
+  Conjuring something out of nothing? Isn't there some scientific law about how matter cannot be created from nothing?
+#+end_quote
+
+Check out [[https://en.wikipedia.org/wiki/Zero-point_energy][Zero Point Energy]]. It's very interesting, and there is this quote:
+
+#+begin_quote
+  Given the equivalence of mass and energy expressed by Einstein's E = mc2, any point in space that contains energy can be thought of as having mass to create particles. Virtual particles spontaneously flash into existence at every point in space due to the energy of quantum fluctuations caused by the uncertainty principle.
+#+end_quote
+
+Furthermore, there is [[https://en.wikipedia.org/wiki/Virtual_particle][Virtual Particle]], and its difference to 'real' particle is basically their lifetime:
+
+#+begin_quote
+  As a consequence of quantum mechanical uncertainty, any object or process that exists for a limited time or in a limited volume cannot have a precisely defined energy or momentum. This is the reason that virtual particles -- which exist only temporarily as they are exchanged between ordinary particles -- do not necessarily obey the mass-shell relation. However, the longer a virtual particle exists, the more closely it adheres to the mass-shell relation, so a "virtual" particle that exists for an arbitrarily long time is simply an ordinary or "real" particle. In that sense, electromagnetic waves consist of real photons rather than virtual ones. For example, a typical 700 W microwave oven emits photons with wavelength roughly λ = 3 cm, and produces about 10+26 real photons every second.
+
+  However, all particles were created at some point and will eventually be destroyed in some processes. Since all particles have a finite lifetime, there is no absolute distinction between "real" and "virtual" particles. In practice, in particle physics processes, the lifetime of real particles is vastly longer than the lifetime of the virtual particles and as such the distinction is useful to make.
+#+end_quote
+
+Conjured objects in HPverse do not last very long either, compared to 'real' objects (such as protons that live longer than 10^{31} years), but far longer than natural occurring virtual objects that generally exist for less than 10^{-20} seconds.
+
+Nevertheless, this ability alone shows how insanely powerful Wizards are in the HPverse.

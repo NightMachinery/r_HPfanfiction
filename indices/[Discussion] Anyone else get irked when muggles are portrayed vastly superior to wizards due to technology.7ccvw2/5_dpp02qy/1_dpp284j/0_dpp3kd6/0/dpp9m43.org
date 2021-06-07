@@ -1,0 +1,11 @@
+:PROPERTIES:
+:Score: 14
+:DateUnix: 1510476659.0
+:DateShort: 2017-Nov-12
+:END:
+
+That's just not how it works. Most notably, magic violates conservation of energy. When conjuring objects, you also get problems with conservation of baryon and lepton number, which implies that conjuring an object would also generate antimatter.
+
+Regarding zero-point energy, it's impossible to extract that energy because the energy at the ground state of a system is already the lowest amount of energy a system can possess. That's not to be confused with the idea of generating energy using the Casimir effect, which is caused by fluctuations resulting from the uncertainty principle.
+
+Sorry that I can't go more into detail, I know the basics of quantum mechanics, but I'm by no means an expert on quantum field theory.
