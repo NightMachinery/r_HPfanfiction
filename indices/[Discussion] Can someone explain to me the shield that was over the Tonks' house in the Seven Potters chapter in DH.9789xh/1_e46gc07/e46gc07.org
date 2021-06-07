@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 14
+:DateUnix: 1534262195.0
+:DateShort: 2018-Aug-14
+:END:
+
+I tend towards the idea that the shield charm operates on modal facts rather than intent. That is:
+
+"If X entered, it would cause harm."
+
+Not
+
+"X intends to cause harm."
+
+The problem with intent is that it's easily gameable via confundus.

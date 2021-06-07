@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: fflai
+:Score: 2
+:DateUnix: 1534282168.0
+:DateShort: 2018-Aug-15
+:END:
+
+You need at the very least a model of the world that allows you to make predictions about future states based on the current state.
+
+Otherwise magic can't make "decisions" such as "If I let this person enter, they will come to harm".
+
+That does not mean that the prediction is necessarily accurate, but such a prediction needs to be made in some form or another.
+
+This is also a current topic of AI-researches, as a model that can predict future state (even to an exteny) is a key component of AI.
+
+Some curre t technology like the new (I think IBM?) Dota-AI bots rely heavily on such a predictor, at least for training.
