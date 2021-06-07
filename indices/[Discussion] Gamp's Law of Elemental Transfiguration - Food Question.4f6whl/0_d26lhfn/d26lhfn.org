@@ -1,0 +1,40 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 25
+:DateUnix: 1460919938.0
+:DateShort: 2016-Apr-17
+:END:
+
+First off, it's important remember that this is Gamp's Law of Elemental /Transfiguration/. It may not apply to other areas of magic like Charms. If it does extend to Charms, then it doesn't seem to cover liquids as we know of water-creation and wine-creation Charms (and have seen characters drink the water so it's definitely potable).
+
+Now, as for the interpretation of that quote, the "it" there refers to food (or more precisely "good food"), so what she's saying is that if you already have food, you can transfigure it into other food. But you can't transfigure non-food into food (you can't make good food out of nothing).
+
+There's a few more detail to add to the mix to get to the comprehensive solution:
+
+*Firstly*, already covered, you can't make good food out of nothing with transfiguration but you can transfigure food into other food (Hermione's quote above).
+
+*Secondly*, we know that transfiguration can be used to create animals (McGonagall's pig, Cedric's dog).
+
+*Thirdly*, the things created by transfiguration have the actual physical structure of those objects, it's not some kind of tactile illusion. We know this from two JKR quotes:
+
+#+begin_quote
+  “With a charm you add properties to something. With a transfiguration you change its nature completely; the molecular structure alters.”
+#+end_quote
+
+/The Herald, 1998/
+
+#+begin_quote
+  Charm: Does not fundamentally alter the properties of the subject of the spell, but adds, or changes, properties. Turning a teacup into a rat would be a spell, whereas making a teacup dance would be a charm.
+#+end_quote
+
+That one is from the old jkrowling.com. Since a charm is contrasted with the idea of fundamentally altering the properties of an object, and a transfiguration is used as an example of the difference, we can conclude that a transfiguration does fundamentally alter the properties of an object.
+
+*Fourthly*, transfiguration is permanent unless actively reversed. We know this from quintapeds and the hamster Fudge made for the Prime Minister. But it's also the logical conclusion from the third point, as physical things do not spontaneously turn into other physical things without the interference of magic and transfigured objects have identical physical structure to naturally occurring tokens of the same object type.
+
+From two, three and four, we seem to have all the ingredients for transfiguration being able to create good food: you can create what is essentially meat, that meat is physically identical to real meat, and does not spontaneously change into something else.
+
+And yet we have Hermione's quote telling us that a) you can't make good food out of nothing and b) you can make food out of other food.
+
+This all points to one solution: there exists a magical property that all objects in the universe possess. The property says whether something is "good food" or not i.e. whether it is capable of nutrition. Even if an object has the physical structure of food such that it is able to go through the human digestion process, if it lacks this property the human body will not be able to derive energy from it.
+
+This property is immutable so when you use transfiguration to turn non-food into apparent food, it is not capable of nutrition because it lacks the nutritive magical property, despite being physically identical to good food. Conversely, when you transfigure good food into other food it is capable of nutrition because it has the property. This also explains how you can increase the quantity of food: since the property is binary, it doesn't change or get "thinned out" by increase in amount.
