@@ -1,0 +1,90 @@
+:PROPERTIES:
+:Author: blandge
+:Score: 23
+:DateUnix: 1521786935.0
+:DateShort: 2018-Mar-23
+:END:
+
+You're going to have to expand on this. Otherwise I am going to assume you are being sarcastic.
+
+Edit: I take it back. Having reviewed your post history, I discovered this evidence: [[https://www.reddit.com/r/HPfanfiction/comments/811jcz/bestwritten_stories_youve_ever_read/dv05l5p/]]
+
+I apologize for doubting you.
+
+That said, please do explain why you think it's the best fanfic ever written. You have you know you're going to get pushback on this. Good to list reasons ahead of time.
+
+Edit 2: I've taken the liberty in including your argument from the previous [[https://www.reddit.com/r/HPfanfiction/comments/811jcz/bestwritten_stories_youve_ever_read/dv31z7x/][thread]]:
+
+Every regard.
+
+Seriously.
+
+Now, this isn't anywhere close to a perfect metric, or even a mostly reliable metric, but a statistician named Ben Blatt wrote a book called Nabokov's Favorite Word Is Mauve wherein he used statistical analysis to see if there were any patterns that could be detected that were correlated with good writing.
+
+[[https://www.npr.org/sections/monkeysee/2017/03/31/521836700/nabokovs-favorite-word-is-mauve-crunches-the-literary-numbers]]
+
+[[https://www.smithsonianmag.com/arts-culture/one-writer-used-statistics-reveal-secrets-what-makes-great-writing-180962515/]]
+
+Stephen King famously admonishes excessive use of adverbs. It turns out that he uses about 105 of them per 10,000 words. Ernest Hemingway and Mark Twain used about 80 per 10,000, JK Rowling uses about 140, and EL James (the 50 Shades author) uses about 155.
+
+#+begin_quote
+  When Blatt combined several lists of the "Great Books" of the 20th century, he came up with 37 which were generally considered great. When comparing these to the same authors' other novels, the "Great Books" used significantly fewer adverbs. Of these authors' books that kept to a strict adverb rate (less than 50 per 10,000 words) 67% were considered "Great," whereas only 16% of their adverb-loaded books (containing more than 150 per 10,000 words) were ever considered "Great."
+#+end_quote
+
+and
+
+#+begin_quote
+  In fact, there is a trend that authors like Hemingway, Morrison and Steinbeck, their best books, the ones that are held up and have the most attention on them now, are the books with the fewest amount of --ly adverbs. Also, if you compare amateur fiction writing and online writing that's unedited with bestsellers and Pulitzer Prize winners of recent times, there is a discrepancy, where less --ly adverbs are used by the published authors. I am not so one-sided that I think you can just take out the --ly adverbs from an okay book and it becomes a great book. That's obviously not how it works. But there is something to the fact that writers who are writing in a very direct manner do produce books that overall live the longest.
+#+end_quote
+
+Like I said, this one particular metric isn't definitive, but there's definitely a correlation.
+
+HPMOR turns out to be on the upper end of that scale, at somewhere between 165 and 175 adverbs per 10,000 words (idk if Blatt included "only" and "really" and if not then that drops it significantly, down into the 150s).
+
+Limpieza de Sangre, by [[/u/TE7][u/TE7]], who so adamantly insists HPMOR is poorly written, has about 260 adverbs per 10,000 words (though that drops down a bit to 235/10,000 if you remove "only" and "really").
+
+The Unforgiving Minute, on this subreddit's "must reads" list in the wiki, is at 190/10,000 (176 if no "only" or "really").
+
+Cauterize, widely and wildly recommended on this sub, is at 249/10,000, or 212/10,000 if no "only" or "really."
+
+Back to [[/u/TE7][u/TE7]], they said "It is not clear from reading it if the author is even aware of such things as fragments or run-ons or has any real understanding of tense and agreement." Limpieza de Sangre's first chapter is positively littered with exactly the types of errors they falsely accuse HPMOR of.
+
+#+begin_quote
+  "I would prefer to not look like a rat," her tone was completely impassive.
+
+  "She used nonverbal magic for every spell she'd used so far."
+#+end_quote
+
+And tons of fragments.
+
+It's hard to quantify exactly what makes something "well-written," but you can certainly point to a long list of things that make something not "well-written." Summaries instead of scenes, dialogue that doesn't move the plot forward, excessive detail and description that doesn't move the plot forward and isn't particularly relevant to anything, scenes (or summaries if it's one of those) that don't move the plot forward, bad grasp of causality --
+
+Like
+
+#+begin_quote
+  He arched his back and cried for mercy as electricity shot through his chip, running up and down his spine.
+#+end_quote
+
+Instead of
+
+#+begin_quote
+  Electricity shot through his chip, running up and down his spine. He arched his back and cried for mercy.
+#+end_quote
+
+-- using dialogue tags to tell emotions instead of actions/expressions to show emotions, excessive and unnecessary action where every character furrows their brow or twiddles their fingers every line, filtering (Bo felt a sinking feeling instead of Bo's stomach sank, or Bo saw the dragon flying instead of The dragon flew), repetitive sentence structure, word repetition, weak action --
+
+Like
+
+#+begin_quote
+  Scrambling for higher ground, Bo grasped his gun.
+#+end_quote
+
+Instead of
+
+#+begin_quote
+  Bo scrambled for higher ground and grasped his gun.
+#+end_quote
+
+Almost every fic recommended by almost every person who denigrates the writing quality of HPMOR is guilty of making several of the errors listed here, whereas HPMOR is not. The most well-grounded criticisms are of the pacing (even though the author specifically points out in the author's notes that the pacing is purposefully written as being more like a serial of some sort, like a TV show) and of the didactic nature of some of the dialogue and prose (even though it isn't as substantial as some detractors make it out to be, and even though that's more a matter of taste than it is a technical/mechanical error).
+
+So, in what regard is it not well-written? What technical/mechanical mistakes does it make? I can't show you an example of it not having run-on sentences or not having misalignment in verb tense agreement because it isn't possible to prove a negative, so if you want to claim that HPMOR isn't well-written because it makes technical/mechanical mistakes then the burden is on you to provide (legitimate) examples of those mistakes/errors.
