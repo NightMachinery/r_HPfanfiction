@@ -1,0 +1,26 @@
+:PROPERTIES:
+:Author: wordhammer
+:Score: 3
+:DateUnix: 1502830706.0
+:DateShort: 2017-Aug-16
+:END:
+
+For your point #1, I'm not clear on why you thought I was talking about a preventative measure; I was suggesting that the Trace detects magic when cast, then does a check on wizards and muggles who may be present, before deciding if a report back to the Ministry should be made. Otherwise all the magic done at 4 Privet Drive by Arthur, Tonks, Remus, et al would have been reported back to the Ministry.
+
+Also, while the message sent by owl seems to have a standard layout, it is being sent by Mafalda Hopkirk, and the first one we ever see arrived within a few minutes of Dobby's spell.
+
+#+begin_quote
+  Dear Mr Potter,
+
+  We have received intelligence that a Hover Charm was used at your place of residence this evening at twelve minutes past nine.
+#+end_quote
+
+What's more, it seems that the Minstry /does/ know who was around when a Traced spell is detected.
+
+#+begin_quote
+  Dear Mr Potter,
+
+  We have received intelligence that you performed the Patronus Charm at twenty-three minutes past nine this evening in a Muggle-inhabited area and in the presence of a Muggle.
+#+end_quote
+
+Funny thing- it makes no mention of the Lumos that Harry cast.
