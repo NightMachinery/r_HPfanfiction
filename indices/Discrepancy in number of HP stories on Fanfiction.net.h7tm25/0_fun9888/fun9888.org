@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: tribblite
+:Score: 9
+:DateUnix: 1592000331.0
+:DateShort: 2020-Jun-13
+:END:
+
+Some websites don't properly update information when they delete stories. It could be that the discrepency is due to deleted stories (there was a big NC-17 purge a long time ago).
+
+Moreover, this count can be inconsistent in different places, since most code has inconsistencies.
+
+For instance, some places might count how many stories were ever created (a fairly quick thing to do); whereas, other places might actually do a search and then filter out deleted stories (much more expensive to do).
