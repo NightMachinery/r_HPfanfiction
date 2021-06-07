@@ -1,0 +1,23 @@
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1467235221.0
+:DateShort: 2016-Jun-30
+:END:
+
+To be specific, you'd be thrown at a speed of roughly forty meters per second, or ninety miles an hour, if you Apparated between Aberdeen and London.
+
+If your orientation doesn't change, then you'll be tossed to the east when you travel north, or west when you travel south. So we know that the spell is doing something about your momentum that's more intelligent than preserving it relative to the Earth as a whole.
+
+But it's a matter of frame of reference, isn't it? Like if the spell locates the nearest object massing at least 1000kg at the source, records your velocity relative to it, then restores that velocity relative to the nearest object of at least 1000kg at your destination.
+
+You're standing on the ground in Aberdeen, so it records your velocity relative to the ground beneath your feet in Aberdeen -- you were walking at 1m/s. Then it transports you to London. It finds you're on a plot of ground, so it sets your velocity relative to /that/ bit of ground, and everything works naturally for you.
+
+But then you decide to sky-dive. You jump out of the plane (which weighs over 1000kg) and get scared out of your mind. So you Apparate back into the plane, but you already fell for a bit and you're going 20m/s in some arbitrary direction (since you're inside the object that the spell found).
+
+Or you Apparate to the surface of Black Lake on Hogwarts grounds. The nearest heavy object is the lake. You were falling away from the plane, so you get thrown up away from the lake.
+
+You Apparate from riding a broom in Aberdeen to the ground in London. The spell matched the ground in each respective city since your broom is too light, so you get a nice dose of road rash.
+
+I think this would be a way to make it work intuitively in common cases but interestingly absurd in uncommon cases.
+
+Alternatively, you could make it teleport you /and/ set your velocity however you want. That would be weaponizable, I'm sure.
