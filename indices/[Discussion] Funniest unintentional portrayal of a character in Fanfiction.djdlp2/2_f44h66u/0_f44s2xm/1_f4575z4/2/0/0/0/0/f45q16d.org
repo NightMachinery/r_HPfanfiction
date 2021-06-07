@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: blast_ended_sqrt
+:Score: 4
+:DateUnix: 1571389468.0
+:DateShort: 2019-Oct-18
+:END:
+
+I mean I get that, it's just a non-sequitur most of the time for the bot. It looks like it just pattern-matches any post against "I'm (.*?)."
