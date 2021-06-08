@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: bkromhout
+:Score: 1
+:DateUnix: 1451577771.0
+:DateShort: 2015-Dec-31
+:END:
+
+Same! Moon+ /does/ actually have tags and "favorites" (which are basically a different kind of tag, tbh). And, if you keep a library locally, you can even have a folder structure to organize, and view specific folders in your library ("My Shelf") as well.
+
+Sadly, there are a few quirks Moon+ has that have bit me a few times, and each time I've emailed the dev his replies (while prompt) have been rather... disappointing, but I've kinda worked out a how to avoid most of them, I think. (One of which is losing the tags and favorite category for a file if it gets reimported...once it reimported my whole library >_>)
+
+I've got a pretty good background in Android app development, so I've thought about creating my own app at some point, it's just a large project get started on (more complicated the more I thought about it)

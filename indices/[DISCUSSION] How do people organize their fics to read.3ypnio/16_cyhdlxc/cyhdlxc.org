@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: bkromhout
+:Score: 2
+:DateUnix: 1451578428.0
+:DateShort: 2015-Dec-31
+:END:
+
+I've written a Java app in my spare time to download fics from various sites and turn them into ePubs, I won't claim it's amazing, but I don't have a ton of sites that I read from, and I know exactly how it works and can fix corner cases if I need to. Plus, I like programming anyway, so it's fun for me. (If you want, you can look at it [[https://github.com/bkromhout/FictionDL][here]], I only recently made it public though, so some of the docs aren't finished.)
+
+I'm an Android user, so I use a great app called FolderSync to keep a folder on my Google Drive with all of my books completely in sync with one on my devices, then I have Moon+ reader set up to auto-import from that folder. (Moon+ has some quirks though, so I've entertained the thought of also writing my own reader app, but it would be a big project to begin, so I haven't gotten around to it...I may just make it be a library organizer app at first, and let apps like Moon+ do the reading)
+
+(I know about Calibre and FanFicFare, but Calibre is overkill for me and doesn't have a satisfactory way of keeping everything it tracks (as in, /all/ files in my library plus /all/ of their Calibre metadata) synced between all of my devices, plus FanFicFare point blank refuses to work for me at all, I've tried everything.)

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 2
+:DateUnix: 1451541711.0
+:DateShort: 2015-Dec-31
+:END:
+
+For fics on supported websites, I use Calibre's FanFicFare plugin, which automatically imports and updates fanfics I am following and pushes them to the e-reader when they update. Once imported, a fic is just another ePub in the Calibre library. It also imports the available tagging information: genres, characters, 'ships, completeness, etc..
+
+The big downside of this approach is that, as a result, I am very bad about leaving reviews, since I am reading a fic off an e-reader, not in a browser, and I often don't get around to coming back, browsing to the fic, and leaving the review.
