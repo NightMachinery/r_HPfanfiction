@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Lexicon_Steve
+:Score: 4
+:DateUnix: 1498490400.0
+:DateShort: 2017-Jun-26
+:END:
+
+Everything from the old site is now on the new site, with the exception of the calendars (huge tables don't translate easily, we're still working on it), the atlas (my project this week), and the timeline. That last is proving to be trickier than we thought. We have every event entered in the database but it's surprisingly difficult to chronologically organize events which don't always have set dates or the same level of precision. Where exactly do you place a set of events which might have 1) only a year given or 2) events that take place "in the spring" or 3) others for which we can determine to be in, say, the first couple of weeks of December, etc. We have a system now that we think will work, but it's still a work in progress.
