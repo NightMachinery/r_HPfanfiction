@@ -1,0 +1,30 @@
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 14
+:DateUnix: 1489148727.0
+:DateShort: 2017-Mar-10
+:END:
+
+There are a few ways to improve Quidditch and most of those surround the Seeker. In the books it was a glorified position, so that Harry could be the game winner. However, if you'd want to make Quidditch a "better" (apostrophes, since that is not entirely objective) game, you'd have to change the Seeker. At least that was the core starting point from our exercise in our gamedesign courses at university.
+
+The seeker could be changed in a few ways, depending on how you want his position to impact the game. Note that for all options the assumption is made that seekers may interact with all other balls and players, as distractions and even additional Chaser, if so needed or wanted.
+
+- Easiest option: Nerf the points.
+
+The simplest option is to take the ridiculous point-gain, a simple method to portray Harry as the gamechanger in the books and, according to the Wiki, a purely traditional value, away from the seeker. Team games are always fun if each member of the team makes an equal amount of impact on its outcome. Some position can carry others, but the best teams out there will, in general, have an equally strong lineup. Therefore the points of the seeker, who would score 15 goals at 1 catch, would be reduced to, say, 5 goals - 50 points.
+
+- Strategic Position only
+
+This option takes away all earnable points from the seeker. His position becomes an entirely strategic one as he /ends the game/, which in itself is a huge impact on a game. That also means that the normal game of a seeker would entail as much prevention of a catch as catching it themselves, depending on the current status of the game. Are you in a lead? Catch it! Are you behind? Prevent a catch. Are you steamrolling over the other team? Don't catch it and let the Chasers up the points for a greater lead in the league.
+
+- Seekers don't end the game
+
+You could also make Seekers the big scorers of the team. Instead of one, huge burst of points before the end of the game, a snitch-catch could be worth less points, but repeatable. Quidditch would get a time-limit, like it probably had before the introduction of the Snidget /Snitch, and the seeker would be a more open position. Depending on the flow of the game, this option would open up the chances for quick changes to Chaser powerplays or a stronger defense. An effective 4 Chaser lineup should be able to out-play a Seeker if the Snitch is particularly hard to cacth that day, or he's not skilled enough to make rapid catches, one after another.
+
+What you describe is what we dubbed the "Comeback Seeker", in which the position highly depend on how good or bad your team is. I'm not sure what you mean by "kinetic" and "static" score. That may be because of a language-problem as I speak German, but I haven't heard of those distinctions. Anyway, the percentage gained by the Seeker would have to be substantial and, as you stated, depending on the enemies team. I liked this for the need it creates for the Chasers to balance a lead on the fly. However, and that is why I think it isn't ideal, it would also create the possibility of stalling a game if the right variables come together. Equally skilled Chaser trios would eventually stop attacking as they couldn't possibly produce a big enough lead to buffer the score of the seeker.
+
+- Team-points
+
+Basically your idea but using your own teams points as a calculation base for the percentage gained.
+
+To find out what would actually work one would have to playtest a lot. But I don'T own a broom, and I couldn't fly on it anyway, so that's out.

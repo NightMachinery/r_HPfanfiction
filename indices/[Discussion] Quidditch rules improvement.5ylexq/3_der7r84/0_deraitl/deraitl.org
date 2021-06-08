@@ -1,0 +1,19 @@
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1489162931.0
+:DateShort: 2017-Mar-10
+:END:
+
+#+begin_quote
+  A snitch is the equivalent to a 15 goal difference, this seems huge but if matches last hours then how big is this gap?
+#+end_quote
+
+Let's say one team is 5% better than the other in all ways, and each team lines up 20 goals an hour (an average of 40 scoring attempts per hour, or one every 90 seconds).
+
+This is an average of a one-goal spread per hour at most.
+
+If the game is less than fifteen hours long, the snitch will decide the game, and (with a 5% skill difference across the team) we expect the better team to win 52.5% of the time.
+
+At Hogwarts, we don't see games long enough that people stop for food, so they're probably no more than three hours. The rest of the team has to be better by leaps and bounds to reliably win without the snitch -- five goals better per hour at least.
+
+This simply doesn't allow anyone but the Seeker to have a meaningful role.
