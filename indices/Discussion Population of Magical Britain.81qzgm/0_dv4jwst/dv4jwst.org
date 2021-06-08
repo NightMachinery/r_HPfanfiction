@@ -1,0 +1,28 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 15
+:DateUnix: 1520096479.0
+:DateShort: 2018-Mar-03
+:END:
+
+I'm not a fan of methods which reference Muggle population and determine wizards as a proportion of it. This is because wizards live much longer than Muggles so will have non-comparable demographics. Average Muggle life span at the time of the books is, what, 72? Meanwhile for wizards it's probably in the region of 130-140, and that's on the conservative side.
+
+Instead I think it's better to simply calculate how many people are born a year and multiply that by the number of years people will live (i.e. average life expectancy).
+
+If we go by the symmetrical 40 students/year and a life expectancy of 140 then that's a population of 5,600.
+
+Personally I prefer to go with a higher figure of students per year - in PoA we're told that there's 200 Slytherins in the crowd at a Quidditch match:
+
+#+begin_quote
+  Behind the Slytherin goal posts, however, two hundred people were wearing green; the silver serpent of Slytherin glittered on their flags, and Professor Snape sat in the very front row, wearing green like everyone else, and a very grim smile.
+#+end_quote
+
+That's the only in-book direct reference to student numbers, so I use that as my starting point. It would result in a student body of 800, assuming equal House distribution, or 114 students per year. Unfortunately that's a bit on the high side to work, given the fact that there's just one teacher per subject (you can't handwave extra, unnamed teachers, because the DADA job only having one teacher is a plot point). So I fudge the numbers downward to what I consider the highest possible number of students that could be taught by a staff consisting of one teacher per subject (albeit a magically efficient staff), which I put at around 60 students per year (which gives an average class size of 30).
+
+At 60 students per year, the wizarding population would be 8,400. To that I add some extra fudge: students who don't go to Hogwarts, werewolves, vampires, hags, and other magical humans who aren't fully wizards. So I put the overall British magical human population at a nice round 10,000. Plus non-human creatures like goblins, centaurs, etc, to be, let's say, 20,000 beings in the British magical community all told.
+
+There's significant room to fudge the numbers higher, however, in the "students who don't go to Hogwarts" area. We know that homeschooling is the global norm for wizards, and that public schools of magic are rare. So you could dramatically increase the wizarding population in Britain by having a large part of British wizards home school, like the rest of the world. The problem there is that Hogwarts is free and invites every witch and wizard in Britain, so it raises the question of what incentive there is to /decline/ a place.
+
+Incidentally, I don't particularly buy the idea that Harry's year is significantly smaller than previous generations. Most wars do not significantly impact population in that way, and Voldemort's war was a relatively contained war - more like a series of murders, plus a few skirmishes, than a full-on war.
+
+As to the question "why is the castle so big?" - I suggest you visit a castle. They're 70% wall. Interior space is significantly less than you would expect. The idea that Hogwarts is full of empty rooms and abandoned areas is pretty much entirely fanon.
