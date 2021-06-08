@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1462099917.0
+:DateShort: 2016-May-01
+:END:
+
+It's entirely possible. The issue is causation: did Draco cause Dumbledore's death?
+
+The law splits this into two categories: factual causation and legal causation.
+
+The issue of factual causation is definitely fulfilled in this case. It follows the "but for" test: but for Draco's actions, would Dumbledore have died? If the answer is "no" then Draco factually caused Dumbledore's death. And in this case the answer is no.
+
+The issue of legal causation places limits so that factual causes that are too remote from the result do not result in legal culpability. For something to be a legal cause it must be a significant contribution to the result, or an operating and substantial cause. In this case Draco Malfoy's lawyers would argue "novus actus interveniens" - that the death was caused by an intervening third party i.e. Snape. This third party act breaks the chain of causation from Draco's actions to Dumbledore's death. However, there's an exception to the novus actus interveniens argument: where the third party's act was foreseeable, it does not break the chain of causation. Draco Malfoy knew that Snape had sworn an unbreakable vow to complete his mission. He also knew that there were plenty of Death Eaters in the castle to finish the job for him. So it was entirely foreseeable that his actions would allow one of them, including Snape, to complete the course of events he initiated.
+
+The other issue is that of intent: did Draco Malfoy intend to kill Dumbledore? The meaning of intent here is not synonymous with motive but rather with deliberate action. It's not about whether Draco wanted Dumbledore to die, it's about whether he deliberately took acts to cause Dumbledore's death. Arguably he had intent at the start of the course of events, when he let the Death Eaters into the castle, but lost his intent before Dumbledore died. The law has something to say about this in the doctrine of /continuing intent/ - where having intent to kill at one point in a course of events covers that entire course of events as a single transaction. It is not strictly necessary for the intent to kill and the death to coincide in time if they're part of the same course of events.
