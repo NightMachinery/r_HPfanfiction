@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: ABZB
+:Score: 2
+:DateUnix: 1495553575.0
+:DateShort: 2017-May-23
+:END:
+
+Use password-guessing tactics, and see what sequences of words they /can't/ say.
+
+Then, the secret is only as safe as it is unlikely to be guessed.

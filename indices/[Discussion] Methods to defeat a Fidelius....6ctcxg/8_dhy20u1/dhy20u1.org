@@ -1,0 +1,32 @@
+:PROPERTIES:
+:Author: dspeyer
+:Score: 2
+:DateUnix: 1495570422.0
+:DateShort: 2017-May-24
+:END:
+
+#+begin_quote
+  The information is hidden inside the chosen person, or Secret-Keeper, and is henceforth impossible to find -- unless, of course, the Secret-Keeper chooses to divulge it. As long as the Secret-Keeper refused to speak, You-Know-Who could search the village where Lily and James were staying for years and never find them, not even if he had his nose pressed against their sitting room window!
+#+end_quote
+
+-- Flitwick, PoA
+
+I've interpreted this to mean that the spell interferes at the point where a person learns the information. Voldemort could look in through the Godrics Hollow window, but still not learn anything interesting from what he saw.
+
+The description in OotP seems compatible with this:
+
+#+begin_quote
+  Harry thought, and no sooner had he reached the part about number twelve, Grimmauld Place, than a battered door emerged out of nowhere between numbers eleven and thirteen, followed swiftly by dirty walls and grimy windows. It was as though an extra house had inflated, pushing those on either side out of its way. Harry gaped at it. The stereo in number eleven thudded on. Apparently the Muggles inside hadn't felt anything.
+#+end_quote
+
+Nothing is physically moving. The building appears door-first, while the door is what Harry is most looking for. I interpret that he saw the building all along, but sort of glazed over it because he couldn't notice there was a house there.
+
+This interpretation assumes that there are two secrets: that the house exists and that the order is there, and that Dumbledore's note really revealed both. Which suggests you /can/ fidelius a secret some people already know, but maybe it gets harder the more people know, or something like that.
+
+If all this is correct, that allows for some exploits. A spy who knows the secret but is not the secret keeper could write it on a piece of paper, but no one would be able to read it. He could similarly type it into a computer -- the guidance system for a cruise missile perhaps. He might even be able to tell a vampire (because they have no souls).
+
+(This last suggests that Glorificus was concealed within Ben via a fidelius charm, if anyone's writing crossovers.)
+
+If the secret were only that the order were based there, it should be possible to use a two-person attack. Tell Alice "carry Bob to number 12 Grimmauld Place; don't ask why" and tell Bob "let Alice carry you to Order Headquarters, then kill everyone there, don't ask where it is." Alice won't be able to see what Bob's doing and Bob won't be able to read street signs on the way in, but together they can kill everybody.
+
+Making the entire house's existence secret permits other attacks. If you suspect they're somewhere in London, you could throw a bunch of satellite pictures at Mechanical Turk and have people count houses, measure house-width, measure street lengths, and look for discrepancies. This would only get you "there's something weird near numbers 11 and 13 Grimmauld Place", but that might be enough.
