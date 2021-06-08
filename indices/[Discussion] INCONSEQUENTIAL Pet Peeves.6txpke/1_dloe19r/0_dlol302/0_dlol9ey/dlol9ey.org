@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 11
+:DateUnix: 1502847518.0
+:DateShort: 2017-Aug-16
+:END:
+
+The British/UK standard for dialogue is:
+
+#+begin_quote
+  'Dialogue'
+#+end_quote
+
+The standard I'm used to is:
+
+#+begin_quote
+  "Dialogue"
+#+end_quote
