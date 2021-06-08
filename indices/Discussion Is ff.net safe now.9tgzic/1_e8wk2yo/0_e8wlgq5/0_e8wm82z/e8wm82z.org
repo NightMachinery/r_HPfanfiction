@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: fflai
+:Score: 11
+:DateUnix: 1541157480.0
+:DateShort: 2018-Nov-02
+:END:
+
+Basicslly three bad things could have happened:
+
+- Account taken over
+- Cryptominers
+- Bad Ads on profile-pages
+
+It's not really that big - it was an XSS (albeit a persistent XSS) on a non-critical website, there are way worse things to happen in security.

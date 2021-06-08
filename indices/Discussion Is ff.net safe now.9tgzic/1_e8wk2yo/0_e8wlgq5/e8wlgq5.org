@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Fredrik1994
+:Score: 24
+:DateUnix: 1541156207.0
+:DateShort: 2018-Nov-02
+:END:
+
+A security issue like the one that was around is /not safe/. Just because the way it was used was harmless from a security point of view didn't stop anyone from using more malicious code.
