@@ -1,0 +1,28 @@
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 2
+:DateUnix: 1557226988.0
+:DateShort: 2019-May-07
+:END:
+
+That /Harry Potter/ game has a broken karma mechanic.
+
+​
+
+You can basically coast through the game by choosing Gryffindor, charging every bad guy you encountered head on, refusing to make temporary alliances, rushing to the rescue of every damsel that got distressed, refusing to kill enemies trying to kill you and yours, and avoiding learning any iffy magic like the Dark Arts or Legilimency. Do stuff like train up an army, and then just let it go free. And then you win.
+
+The reason that works is that Karma translates to Luck---too much of it---and Luck due to Karma is not expended when used, so the very same mechanic will keep you alive while you act like a reckless idiot. The formula for effect of Karma on Luck is basically
+
+#+begin_quote
+  Luck Bonus to A vs. B = Constant × ((A's Karma) - (B's Karma))​^{2}
+#+end_quote
+
+where A is the character with the higher Karma and B is the character with the lower Karma.
+
+Now, Voldemort has the lowest Karma in the game, and this is a /quadratic/ effect, so by the end of the game, you'll be basically one Heroic Sacrifice away from establishing such a enormous Luck Bonus against Voldemort that every time he points his wand at you, he might as well be pointing it at himself. (The really clever bit there is that the bonus kicks in /before/ you actually die, so if you can make sure that Voldemort is the one to reduce you to 0 HP, he actually kills himself, while you get to keep the Karma and the bonus.)
+
+​
+
+That said, you have to have some out-of-game luck to win this way, especially early on. For example, if your first NPC sidekick doesn't socially crit another character and then, a bit later, doesn't crit a Mountain Troll while you are Karma-griding, you don't get your second NPC sidekick. Without that NPC, you have to do your own research and, more importantly, do your own dirty work, so it's practically impossible to accumulate enough Karma in time.
+
+So, while I am not saying that Rowling's famous playthrough relied on save scumming, it's awfully suspicious.
