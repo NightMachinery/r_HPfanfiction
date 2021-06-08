@@ -1,0 +1,34 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 16
+:DateUnix: 1589833885.0
+:DateShort: 2020-May-19
+:END:
+
+#+begin_quote
+  Since none of the options work together, I think, area effect detection spell on the underage witch or wizard hits the most checks for canon and something must be changed about the story with Tom.
+#+end_quote
+
+Nothing has to be changed about the story with Tom, it works perfectly fine.
+
+- The Trace is on all wizards under 17 years old.
+
+- The Trace detects magic cast in its vicinity and feeds that information to the Ministry.
+
+- Trace tells the Ministry what spell was cast and where.
+
+- The Trace does *not* tell the Ministry who cast the spell or even whose Trace it was that detected it.
+
+That's how the Trace works from the magical standpoint. Separately, you also have the issue of how the Ministry chooses to act on the information they receive.
+
+The Ministry have a set of presumptions which determine how they act:
+
+- If the magic is cast in a magical area, they assume it was cast by an adult and do nothing.
+
+- If the magic is cast in a non-magical area, they cross-reference the location data against the magical individuals known to live in the vicinity. If there is an under-aged wizard living in that area with no adult wizards known to be present (i.e. a Muggleborn, Dean or Harry) then it is assumed that the magic was cast by the under-aged wizard and enforcement proceedings are brought against them.
+
+- If the magic occurs before the under-aged wizard begins Hogwarts, the Ministry appears to assume it is accidental magic and do nothing.
+
+- It appears that magic cast by Ministry officials does not set off the Trace.
+
+This is all perfectly fine in terms of it not contradicting itself or lacking clarity. It doesn't make sense in the systems design sense - no one would ever choose to design a system that operates in such a way - but that simply suggests that there are either magical or political limitations which prevent a simpler system from being implemented.
