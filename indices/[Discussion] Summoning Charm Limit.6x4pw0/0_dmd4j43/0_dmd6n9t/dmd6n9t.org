@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: Amazements
+:Score: 15
+:DateUnix: 1504161728.0
+:DateShort: 2017-Aug-31
+:END:
+
+I'm sorry, this isn't relevant to the discussion outside of what should be considered canon, but this really bothered me:
+
+#+begin_quote
+  they travel at close to the speed of light
+#+end_quote
+
+This is why I can't take JKR afterthoughts seriously. Disregarding the fact that this isn't even close to the described behavior of summoned objects in the books (demonstrated by Harry having to wait a perceptible amount of time for his summoned Firebolt). Why would anyone need any sort of destructive curse when you could generate cataclysmic levels of energy by summoning (or banishing, presumably) any mundane object.
+
+Let's assume you summon a chocolate frog that weighs 50 grams, and that "near light speed" is a conservative 0.5c. If we ignore the effects of something [[https://what-if.xkcd.com/1/][moving at relativistic speeds in atmosphere]], your chocolate frog would, when it stops abruptly in your hand, release energy on the order of [[https://www.wolframalpha.com/input/?i=kinetic+energy+of+a+.05kg+mass+moving+at+.5c][166 /kilotons of TNT/]], about 10x the energy of the bomb dropped on Hiroshima.
+
+This rant may have gotten out of hand.
