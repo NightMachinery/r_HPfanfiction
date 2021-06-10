@@ -1,0 +1,42 @@
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 7
+:DateUnix: 1615421626.0
+:DateShort: 2021-Mar-11
+:END:
+
+I usually structure it like this:
+
+- Academic texts or dialogue = more detailed or clinical name, i.e.
+
+#+begin_quote
+  "The Torture Curse"
+
+  "A Modified Cutting Charm".
+#+end_quote
+
+- Descriptive dialogue by inexperienced wizards = "a" + Incantation.
+
+#+begin_quote
+  "He used a crucio on her"
+
+  "She cast a sectumsempra in retaliation".
+#+end_quote
+
+- Descriptive dialogue by experienced wizards = colloquial name if one exists, incantation or descriptive name if one doesn't.
+
+#+begin_quote
+  "He's showing signs of exposure to the Cruciatus"
+
+  "They were all using Snape's modifed cutting curse, Sectumsempra."
+#+end_quote
+
+- Active dialogue by anyone = either a pause with narrator description or the incantation in cursive.
+
+#+begin_quote
+  /"And now... I will have my revenge."/ he hissed, and the tell-tale red of the Cruciatus curse left his wand, striking the enemy.
+
+  "You'll pay for that!" he shouted. "Let's see you counter this one! /Sectumsempra!"/
+#+end_quote
+
+- Narration depends on the speaker, but I never choose the inexperienced wizards option. It sounds too unprofessional for narration.
