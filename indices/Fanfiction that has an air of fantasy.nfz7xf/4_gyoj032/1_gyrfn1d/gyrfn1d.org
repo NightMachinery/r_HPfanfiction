@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: thrawnca
+:Score: 2
+:DateUnix: 1621468630.0
+:DateShort: 2021-May-20
+:END:
+
+FYI You can separate them with semicolons, instead of separate calls, eg linkao3 (The Art of Self-Fashioning; Shadow Magic by Lomonaaeren; Easy as Falling by Lomonaaere)
+
+(Deliberately added a space before the bracket so it wouldn't actually call the bot)
