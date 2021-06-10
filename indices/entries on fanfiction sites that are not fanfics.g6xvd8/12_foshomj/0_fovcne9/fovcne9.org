@@ -1,0 +1,20 @@
+:PROPERTIES:
+:Author: Seiridis
+:Score: 1
+:DateUnix: 1588099091.0
+:DateShort: 2020-Apr-28
+:END:
+
+I will not exactly recommend to you the solution I use, because, you know - on one's own risk, but I will tell you that I find it very, very useful.
+
+[[https://greasyfork.org/en/scripts/by-site/archiveofourown.org?filter_locale=0][Scripts]] ^{and sometimes browser addons, but} *^{that}* ^{is rare.}
+
+In case you're interested - you first need to install an userscript manager, e.g. Tapermonkey is compatible with Chrome, Firefox and its derivatives, Edge, etc. The userscript manager that's best for your browser also depends on the version of your browser.
+
+After the installation of userscript manager (mind you, it's best to install it through the official browser shop imho), scripts can be installed. Many scripts that are meant for customization are often customized /inside/ the script code, so if you decide to give it a go and don't know what to do - please check out the code, there are usually descriptions there what and where to do. Alternatively, check out script description from the page you found it on.
+
+Scripts can be dangerous, especially if they come from some weird, shady sources, but e.g. scripts on GreasyFork have ratings, feedbacks and total installs count so I'd say it's a good measure of whether a script is shady or not. I personally use 16-17 scripts at the moment, out of which most are for AO3, 3 are for FFN and then there are some random ones.
+
+*It's your own risk*, but /I/ find this solution /very/ useful. :P
+
+My rant is rather for those instances that cannot be helped by either active or background filtering. :P
