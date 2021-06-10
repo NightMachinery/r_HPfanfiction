@@ -1,0 +1,7 @@
+:PROPERTIES:
+:Score: 22
+:DateUnix: 1568155194.0
+:DateShort: 2019-Sep-11
+:END:
+
+It happens because every time that an author makes a change in a chapter and save that change, the app send a notification that it has been updated. The only reliable way that I know that a fic has been updated is if I have an email at the same time
