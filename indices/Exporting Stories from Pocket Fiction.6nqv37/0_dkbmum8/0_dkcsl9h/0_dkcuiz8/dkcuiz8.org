@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Imborednow
+:Score: 1
+:DateUnix: 1500334286.0
+:DateShort: 2017-Jul-18
+:END:
+
+<br> is already an HTML tag. Try opening it in a browser. To do that, type the path into the URL bar, or right click "open with" on the file and click whatever your browser is.

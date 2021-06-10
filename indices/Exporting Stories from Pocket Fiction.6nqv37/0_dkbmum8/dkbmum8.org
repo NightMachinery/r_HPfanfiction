@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: Imborednow
+:Score: 1
+:DateUnix: 1500271912.0
+:DateShort: 2017-Jul-17
+:END:
+
+#+begin_quote
+  in raw text with markup notation
+#+end_quote
+
+Not sure what you mean by that. It might be possible (with a script) to convert the most important markup (like newlines) to HTML.
