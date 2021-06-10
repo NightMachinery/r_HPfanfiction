@@ -1,0 +1,80 @@
+:PROPERTIES:
+:Author: TimeLoopedPowerGamer
+:Score: 2
+:DateUnix: 1411724032.0
+:DateShort: 2014-Sep-26
+:END:
+
+Use a summary. 90% of my fanfic reading choices are based on recs, but the rest are based on the summary. Unless this is literally just a shipfic, it needs one. Think of this as a dustjacket blurb, and make me want to read it. Maybe think about the target audience, and speak specifically to them.
+
+Also, even if it /is/ just a shipfic, consider using the relationship tags for FFN. That will put a "[]" around the romantic relationships and makes it look more "modern" and professional. This will also allow you to add other major characters without making it look like a harem fic or some such.
+
+--------------
+
+As for content, I haven't taken the time to do a thorough reading (this isn't my ship and I don't usually read post-Hogwarts stories) but some things stand out.
+
+You only use the default dialog tag "said" once in the first chapter, and it is not typographically correct:
+
+#+begin_quote
+  "Headmistress says you're to go to her office before you go in the lake*."* Filch said as he locked the gate.
+#+end_quote
+
+Always use a comma before quote when using dialog tags.
+
+#+begin_quote
+  the lake*,"* Filch said
+#+end_quote
+
+--------------
+
+There is this, also first chapter:
+
+#+begin_quote
+  "I was briefed" emphasis on the 'brief,' he thought, "on the squid's protected status, but I wasn't given much more than that. Is there any idea as to what started it off?"
+#+end_quote
+
+Missing comma before the first ending quote, and some awkward internal and external dialog mixing. This is where pure style comes into play, but parentheses indicate a reduced prominence, so I might do it like this:
+
+#+begin_quote
+  "I was briefed*,*" *(*emphasis on the 'brief,' he thought*)*, "on the squid's protected status...
+#+end_quote
+
+--------------
+
+Same comma issue here, just before the quotes this time (chapter two):
+
+#+begin_quote
+  Gregory dropped his shoes in front of her and slowly said "Yes, Granger."
+#+end_quote
+
+Should be:
+
+#+begin_quote
+  Gregory dropped his shoes in front of her and slowly said*,* "Yes, Granger."
+#+end_quote
+
+--------------
+
+Last, quotes over paragraph breaks. Always have to have starting quote marks:
+
+#+begin_quote
+  "[...]She didn't have the Mark, and I think she had been estranged from her husband for a few years at that point.
+
+  They found his dad a few days later, in a car park in, um, Blackpool, I think?[...]"
+#+end_quote
+
+Should be:
+
+#+begin_quote
+  "[...]She didn't have the Mark, and I think she had been estranged from her husband for a few years at that point.
+
+  "They found his dad a few days later, in a car park in, um, Blackpool, I think?[...]"
+#+end_quote
+
+--------------
+
+Overall, seems well written. I'm not sure about the dialog-tagless style, but that is a personal choice. Just watch for those typos and make sure every dialog sentence is strongly anchored (or works with the alternating flow), and you should be fine.
+
+I'd also remove the author's notes after you finish the complete story -- but again, that's just a personal preference. It makes sense when newly updated, but not after more chapters have been posted. It's fine to talk to the readers and show them what's happening with updates and the story in general, but the final work should stand on its own -- in my opinion.
+
+Good luck and keep writing.
