@@ -1,0 +1,20 @@
+:PROPERTIES:
+:Author: Murphy540
+:Score: 1
+:DateUnix: 1555201772.0
+:DateShort: 2019-Apr-14
+:END:
+
+You don't have a full stop or comma at all in quite a few of them, and for being 'Australian English' you sure don't use single quotes for dialogue.
+
+/these/ quotes:
+
+#+begin_quote
+  "I'm Olivia".
+
+  "Nice to meet you Olivia".
+#+end_quote
+
+/(ch2, last two lines of scene 2)/
+
+...should have the full stops on the inside. It's Australian English proper to have the full stop on the inside of the quote when what's inside the quote is a complete sentence.
