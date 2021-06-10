@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: MachaiArcanum
+:Score: 3
+:DateUnix: 1559203476.0
+:DateShort: 2019-May-30
+:END:
+
+Sorry yes, I should have clarified: AK passes through magic shields as if they don't exist, but stops when it hits a solid object, although the object will be either cracked or shattered depending on its size and material.
