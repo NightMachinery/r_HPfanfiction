@@ -1,0 +1,11 @@
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1442980020.0
+:DateShort: 2015-Sep-23
+:END:
+
+#+begin_example
+   [Spoiler text works](/spoiler)
+#+end_example
+
+[[/spoiler][Better like this]]
