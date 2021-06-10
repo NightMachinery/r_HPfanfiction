@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: Pudpop
+:Score: 1
+:DateUnix: 1530886706.0
+:DateShort: 2018-Jul-06
+:END:
+
+Well one thing I've been thinking about would be what I call the 'probabilistic approach to potion making', which is my take on how probability theory and statistics could be applied to magical effects.
+
+The basis of it is that we assume magical effects to be random, meaning that we can use probability models to guess at what could happen. The most useful canon application of this would be trying to find the correct combination of clockwise/anticlockwise stirs in a potion (because, seriously, how exactly do they do that canonically?) Using stochastic processes.
+
+The other main thing I've thought about is whether or not Arithmancy follows the muggle mathematical notion of logical deduction or if magic nullifies the importance of logic in mathematics. I think a system like that would suit HP pretty well.
