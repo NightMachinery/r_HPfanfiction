@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: dJones176
+:Score: 3
+:DateUnix: 1563007377.0
+:DateShort: 2019-Jul-13
+:END:
+
+Thanks for informing me. I fixed it. At first I thought nmy scraping code had some issues, although it shouldn't. After checking, the issue was due to the bot using < , > to enclose pairings. HTML treated it as a tag instead of text and made it disappear
