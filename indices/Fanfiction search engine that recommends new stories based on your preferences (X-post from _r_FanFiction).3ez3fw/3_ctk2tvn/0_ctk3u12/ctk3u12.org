@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: Riversz
+:Score: 2
+:DateUnix: 1438166325.0
+:DateShort: 2015-Jul-29
+:END:
+
+I second this, sorting by favs would be a nice edition too.
+
+In addition to this, it would really help if you added some basic styling. I put some bottom margin for the list elements in stylish (just 0.5 em) and it makes it a lot easier on the eyes. It doesn't have to be elaborate or anything, even little bits help.

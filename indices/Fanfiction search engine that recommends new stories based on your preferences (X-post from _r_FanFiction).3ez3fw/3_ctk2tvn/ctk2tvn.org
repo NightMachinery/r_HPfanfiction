@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Sitethief
+:Score: 4
+:DateUnix: 1438162379.0
+:DateShort: 2015-Jul-29
+:END:
+
+This is really great! Is there a way to simply implement a completed/not completed flag? I don't know if you search live or have a database you use, either way it wouldn't be that much work to parse the complete tag as well. Although I don't know how expensive the search will be this way. (ever looked at [[http://scryer.darklordpotter.net/]] ?)
