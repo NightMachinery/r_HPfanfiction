@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 0
+:DateUnix: 1549268119.0
+:DateShort: 2019-Feb-04
+:END:
+
+Well that's a different issue -- the issue of deterioration:
+
+#+begin_quote
+  If Kreacher could escape a lake full of Inferi, Harry was confident that the capture of Mundungus would take a few hours at most, and he prowled the house all morning in a state of high anticipation. However, Kreacher did not return that morning or even that afternoon. By nightfall, Harry felt discouraged and anxious, and a supper composed largely of moldy bread, upon which Hermione had tried a variety of unsuccessful Transfigurations, did nothing to help.
+#+end_quote
+
+It seems clear that you can't use magic to turn rotten food fresh. So you can't take an item of fresh food and duplicate it forever, because the duplicates will only be as fresh as the original. Which means all the duplicates will expire in the same period of time as the original would have.
