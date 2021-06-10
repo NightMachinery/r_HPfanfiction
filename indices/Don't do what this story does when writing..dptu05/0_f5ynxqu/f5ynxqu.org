@@ -1,0 +1,20 @@
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 24
+:DateUnix: 1572559110.0
+:DateShort: 2019-Nov-01
+:END:
+
+#+begin_quote
+  The Authors note should have just been its own chapter
+#+end_quote
+
+That's actually not allowed according to [[https://www.fanfiction.net/guidelines/][FFN's official rules]]:
+
+#+begin_quote
+  The chapter system is not to be used as placeholder for non-story content such as author notes. You can add short author notes to the beginning or at the end of stories but never as individual chapters.
+#+end_quote
+
+In cases like this I think you should blame FFN's outdated ruleset and the site's lack of basic functionality that would enable author's to effectively communicate with their readers.
+
+Ao3 doesn't have this problem of authors' notes swallowing chapters, because it lets authors post their own comments to reply directly to comments on the fic, has formatting to separate authors notes from the body of the chapter, and allows authors to post separate works purely for discussing or explaining their fic if they want to.
