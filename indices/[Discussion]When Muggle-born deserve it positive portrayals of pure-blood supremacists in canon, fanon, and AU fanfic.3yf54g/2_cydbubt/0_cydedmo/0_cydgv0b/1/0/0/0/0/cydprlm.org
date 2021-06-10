@@ -1,0 +1,22 @@
+:PROPERTIES:
+:Author: traverseda
+:Score: 2
+:DateUnix: 1451303462.0
+:DateShort: 2015-Dec-28
+:END:
+
+This is general advice, and not super specific to your style, because to be honest I'm not sure /specifically/ what's going on with it, but I do have some general techniques that work.
+
+You want to lead from one point to another, what you wrote was a bit... disjointed. If you're countering a particular point someone else made, you should include it in quotes or try to point back to it somehow.
+
+Try to refer to things directly. For example, in
+
+#+begin_quote
+  Sometimes the fact that a certain phenomenon occurs is taken as
+#+end_quote
+
+you say "[...] a certain phenomenon". You want to refer to whatever that phenomenon is. People can only hold so many indirect reference's, words like "it, they, object in question, the point, etc" in their head at once.
+
+When you can, try to tie your points into reality directly. Give examples if you can, or ways to "test" if your point it true.
+
+That's about all I've got I think. Good luck!
