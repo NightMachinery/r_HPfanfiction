@@ -1,0 +1,22 @@
+:PROPERTIES:
+:Author: -shacklebolt-
+:Score: 3
+:DateUnix: 1468321585.0
+:DateShort: 2016-Jul-12
+:END:
+
+So this isn't specific to reading HP fanfiction, but your friend should hopefully know that there are many free or cheap screen reading tools that aren't awful these days.
+
+- I suggest downloading your books using a fanfiction downloader as opposed to reading from FFN in your browser. The formatting from ff2ebook is way better to read in most situations because you can wrap it in the accessible ebook reader of your choice and not deal with their site. AO3 is fine in browser or with their included downloading links.
+
+Without resorting to piracy, which is a thing you shouldn't do, here are some great options for actually reading the text:
+
+- On Windows, [[http://www.nvaccess.org/][NVDA]] (a complete screenreader that competes with or exceeds the very expensive commercial products in features) is 100% free. The default speech engine included isn't great sounding, but better than nothing. You can [[http://codefactoryglobal.com/app-store/voices-for-nvda/][buy]] Eloquence (the same voice for JAWS screenreader) and Vocalizer TTS engine as an addon for about $65. This will give you much better speech.
+
+- Window Eyes, a commercial Windows screenreader, is [[http://www.windoweyesforoffice.com/][free]] to users who have a licensed copy of Microsoft Office 2010 or newer. It includes the good voices already.
+
+- On Apple computers and I-devices, voiceover screenreader is included on every device for free and excellent. The included voices are good. You can readily use either of these to read ebooks. The [[http://www.voicedream.com/]["voicedream"]] app on ios seems to be a well-reviewed ebook reader for voiceover users and is $15.
+
+- On Android phones, Talkback screen reader is alright and included free. It isn't as well designed as the iphone's (iphones are just more accessible in general) but it will work just fine for reading books. You can buy high-quality voices anywhere from a few dollars to $20. I personally splurged $20 for the Eloquence TTS engine from code factory, but a lot of people like the cheaper voices (like the ivona voices) or the free Google voices better anyways. The included "google play books" app is accessible and free, and you can upload books you didn't buy from google (like downloaded fanfics) to it. I like the "moon+ reader pro" app for ebooks a little better. It's $5. The buttons are unlabeled (so you manually need to label them in Talkback before using the app the first time) but aside from that I really like it.
+
+None of this means that she won't also enjoy human-read stories of course, but being able to access literally any story you'd like is a whole different thing. Hopefully you already know about these options, but just in case you didn't I thought I'd share.
