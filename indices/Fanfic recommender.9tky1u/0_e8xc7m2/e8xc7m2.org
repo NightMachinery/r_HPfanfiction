@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: bgottfried91
+:Score: 3
+:DateUnix: 1541181249.0
+:DateShort: 2018-Nov-02
+:END:
+
+#+begin_quote
+  The recommender will work both on Windows (natively) and I haven't been writing about my rec engine for a while and since then it's got a bunch of new cool features.
+#+end_quote
+
+I'm assuming the second part of the statement was supposed to be another OS (MacOS maybe?)
