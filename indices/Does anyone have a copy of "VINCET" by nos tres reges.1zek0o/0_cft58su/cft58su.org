@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: Hofferic
+:Score: 7
+:DateUnix: 1393846367.0
+:DateShort: 2014-Mar-03
+:END:
+
+And once again I am glad that I started compiling local copies of my favourite stories when I got my kindle. Since this is the public part of my dropbox I can't guarantee how long it will be up, but my copy of VINCET and the sequel VULTUS SERPENTIS may be found here:
+
+[[https://dl.dropboxusercontent.com/u/93394/VINCET%20%28788%29.zip][Vincet - Vultus Serpentis]]
+
+#+begin_quote
+  VINCET 1: Some people, when crushed underfoot, simply buckle and lie dead still. Some find inner strength and fight back. Yet some others pawn their Aunt's wedding ring and hex their relatives. Shades of grey, argues Harry. No Slash VINCET 2: Every so often, a momentous individual makes their way through the world, making ripples in their path. Dumbledore and Voldemort were two such men, sending waves crashing, obliterating all else, and Harry grows sick of wearing a life preserver.
+#+end_quote
+
+I put both epub and mobi/kf8 (azw3 container, for kindle) in there, but you can easily convert the epub file to any other format (including plaintext) using some software like [[http://calibre-ebook.com/][Calibre]] or its commad-line toolset.
