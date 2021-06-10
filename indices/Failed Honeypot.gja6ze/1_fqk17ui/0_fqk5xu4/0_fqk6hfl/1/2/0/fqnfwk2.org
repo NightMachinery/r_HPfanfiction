@@ -1,0 +1,20 @@
+:PROPERTIES:
+:Author: Vercalos
+:Score: 1
+:DateUnix: 1589494130.0
+:DateShort: 2020-May-15
+:END:
+
+I prefer it over the
+
+#+begin_example
+  link***(fanfic title/ID/author).  
+#+end_example
+
+I think it just looks nicer, for one. Lets insert the link into the body of the text without having obvious code.
+
+I got it from this sub's wiki, actually.
+
+#+begin_quote
+  To hide a tag, you can add a bunch of ^ to superscript the tag away. So you could do ^^^^^^^^^^^^^^^^^ffnbot!directlinks to use that tag and have it not appear in your comment! Useful for aesthetics.
+#+end_quote
