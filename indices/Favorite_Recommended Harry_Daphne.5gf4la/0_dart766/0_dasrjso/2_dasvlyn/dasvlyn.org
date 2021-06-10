@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Averant
+:Score: 1
+:DateUnix: 1480913289.0
+:DateShort: 2016-Dec-05
+:END:
+
+part of it might be because we get H/D threads repeatedly, so people just fire and forget for the fifth time.
