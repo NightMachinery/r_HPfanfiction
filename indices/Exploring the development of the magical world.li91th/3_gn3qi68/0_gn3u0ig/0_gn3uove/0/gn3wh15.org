@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 0
+:DateUnix: 1613167864.0
+:DateShort: 2021-Feb-13
+:END:
+
+It's the math for a classical newtonian rocket with efficiency = infinity. Not even that complicated really.
+
+Now, for interstellar distances, that's where to gets more interesting because I'd have to open my special relativity textbook and calculate in a Minkowski space. Interestingly, it'd only take a few decades to reach Andromeda, without any handwavium except for the infinite efficiency and the protection against running into micrometeorites at 99%c, both easily doable with canon level magic. Although if the traveler turned around, they'd return to Earth 5 million years in the future.
+
+Another interesting thing I learned studying relativistic physics, if there was any magical method of communicating or traveling faster than light, it'd be almost trivially easy to turn it into time travel. Basic Lorentz transformation. This is actually almost exactly the same as a scenario Einstein himself mentioned in /Zur Elektrodynamik bewegter Körper/ about the relativity of simultaneousness.
+
+So here I am wondering, if Harry destroys the final Horcrux, when exactly does Voldemort turn mortal? Simultaneousness isn't an absolute thing. If the Horcrux destroyed sends a signal at the speed of light that turns Voldemort mortal as soon as it reaches him, all is good and logically consistent. If Voldemort turns mortal before a speed of light signal from the Horcrux destruction can reach him, then Voldemort would turn mortal before the Horcrux was destroyed, at least from a certain point of view. Of course this timing difference would be an indetectable fraction of a second if both are in the same country, but if they're on spaceships astronomical distances (~8 lightminutes) apart it's a different story.
