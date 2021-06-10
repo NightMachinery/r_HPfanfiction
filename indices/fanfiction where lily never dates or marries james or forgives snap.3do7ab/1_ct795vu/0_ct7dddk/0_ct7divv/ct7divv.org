@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1437192006.0
+:DateShort: 2015-Jul-18
+:END:
+
+[[http://www.fanfiction.net/s/6892925/1/][*/Stages of Hope/*]] by [[https://www.fanfiction.net/u/291348/kayly-silverstorm][/kayly silverstorm/]]
+
+#+begin_quote
+  Professor Sirius Black, Head of Slytherin house, is confused. Who are these two strangers found at Hogwarts, and why does one of them claim to be the son of Lily Lupin and that git James Potter? Dimension travel AU, no pairings so far. Dark humour.
+
+  ^{Harry Potter *|* /Rated:/ Fiction T - English - Adventure/Drama - Harry P., Hermione G. *|* /Chapters:/ 32 *|* /Words:/ 94,563 *|* /Reviews:/ 3,268 *|* /Favs:/ 4,038 *|* /Follows:/ 2,280 *|* /Updated:/ 9/3/2012 *|* /Published:/ 4/10/2011 *|* /Status:/ Complete *|* /id:/ 6892925}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}
