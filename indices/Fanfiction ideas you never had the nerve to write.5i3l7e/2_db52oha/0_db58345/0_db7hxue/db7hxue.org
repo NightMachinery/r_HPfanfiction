@@ -1,0 +1,32 @@
+:PROPERTIES:
+:Author: sephirothrr
+:Score: 2
+:DateUnix: 1481761674.0
+:DateShort: 2016-Dec-15
+:END:
+
+TL;DR:
+
+#+begin_quote
+  Imagine
+
+  #+begin_quote
+    Imagine
+
+    #+begin_quote
+      Imagine
+
+      #+begin_quote
+        Imagine
+
+        #+begin_quote
+          Imagine
+
+          #+begin_quote
+            Imagine^{Imagine^{Imagine^{Imagine^{Imagine^{Imagine^{Imagine^{Imagine^{Imagine^{Imagine}}}}}}}}}
+          #+end_quote
+        #+end_quote
+      #+end_quote
+    #+end_quote
+  #+end_quote
+#+end_quote
