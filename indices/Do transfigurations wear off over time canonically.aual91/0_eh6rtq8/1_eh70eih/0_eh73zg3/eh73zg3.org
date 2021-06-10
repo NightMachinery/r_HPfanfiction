@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 3
+:DateUnix: 1551040427.0
+:DateShort: 2019-Feb-25
+:END:
+
+Size is the easier one to answer. In GoF Hermione says this:
+
+#+begin_quote
+  “Well, there are Switching Spells... but what's the point of Switching it? Unless you swapped its fangs for wine-gums or something that would make it less dangerous... The trouble is, like that book said, not much is going to get through a dragon's hide... *I'd say Transfigure it, but something that big, you really haven't got a hope, I doubt even Professor McGonagall...* unless you're supposed to put the spell on yourself? Maybe to give yourself extra powers? But they're not simple spells, I mean, we haven't done any of those in class, I only know about them because I've been doing O.W.L. practice papers...”
+#+end_quote
+
+Hermione expresses doubt that McGonagall could transfigure something dragon-sized, but she's not completely sure that she wouldn't be able to. So that would seem to establish dragon-size as around the upper limit that a master of the art can transfigure, though perhaps Dumbledore/Voldemort et al could go bigger.
+
+You may say "But maybe the reason McGonagall couldn't do it was because it's a dragon". But Hermione specifically states the dragon's size as the reason for her doubt, and specifically introduces transfiguration to the discussion as a response to the consideration of the impenetrability of a dragon's hide. Which is itself interesting, and underlines the power of transfiguration--it seems that it can bypass the magical resistance that some creatures possess. I suppose a transfiguration spell is not trying to /pierce/ the dragon's hide per se, but rather is changing the hide into something else.
+
+With regards to mechanical things, that requires a lot more speculation. The only canon item we really have to go on is the fact that in GoF, Arthur Weasley uses the Repair Charm to repair the Dursley's electrical fire. Charms are of course not transfiguration, and the two branches of magic seem to obey quite different rules, so you have to caveat this pretty heavily, but it seems to me that it indicates that there is no particular difficulty with magic creating/transforming mechanical/electrical objects. So long as you're not in a highly magical environment like Hogwarts, at least.

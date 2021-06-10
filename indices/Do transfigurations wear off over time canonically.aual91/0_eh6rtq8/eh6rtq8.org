@@ -1,0 +1,58 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 59
+:DateUnix: 1551031938.0
+:DateShort: 2019-Feb-24
+:END:
+
+No, all signs indicate that transfiguration in canon is permanent unless actively reversed by a further magical intervention.
+
+Transfiguration is defined as the branch of magic concerned with altering a thing's physical composition and structure - what JK Rowling refers to as an object's “fundamental nature”:
+
+#+begin_quote
+  “Every now and then somebody asks me for the difference between a spell, a charm and a hex. Within the Potter world, the boundaries are flexible, and I imagine that wizards may have their own ideas. Hermione-ish, however, I've always had a working theory:
+
+  Spell: The generic term for a piece of magic.
+
+  Charm: Does not fundamentally alter the properties of the subject of the spell, but adds, or changes, properties. Turning a teacup into a rat would be a spell, whereas making a teacup dance would be a charm. The grey area comes with things like 'Stunning Spells', which on balance I think are Charms, but which I call spells for alliterative effect.” (JK Rowling's Old Website: Spell Definitions)
+#+end_quote
+
+Although JK Rowling phrases this as the difference between “Charms” and “Spells”, from the example of “turning a teacup into a rat” she's clearly talking about Transfiguration. A Charm, unlike a Transfiguration, is stated to “not fundamentally alter the properties of the subject”, which means that the reverse holds: Transfiguration does fundamentally alter the properties of the subject.
+
+JK Rowling has been consistent on this. As early as 1998 she stated:
+
+#+begin_quote
+  “With a charm you add properties to something. With a transfiguration you change its nature completely; the molecular structure alters.” (The Herald, 7 December 1998)
+#+end_quote
+
+Accordingly, the change that Transfiguration makes is a permanent one. We know this from two sources. The first is the pig's tail that Hagrid gave Dudley, which did not go away on its own and had to be surgically removed:
+
+#+begin_quote
+  Dudley had emerged from his last encounter with a fully grown wizard with a curly pig's tail poking out of the seat of his trousers, and Aunt Petunia and Uncle Vernon had had to pay for its removal at a private hospital in London. (GoF Chapter 4)
+#+end_quote
+
+The second is from the legend of Quintapeds in the companion book Fantastic Beasts and Where to Find Them:
+
+#+begin_quote
+  In retaliation, so the story has it, a gang of McCliverts surrounded the MacBoon dwellings one night and Transfigured each and every MacBoon into a monstrous five-legged creature. [...] The Quintapeds cannot talk and have strenuously resisted every attempt by the Department for the Regulation and Control of magical Creatures to capture a specimen and try to untransfigure it... (Fantastic Beasts and Where To Find Them: Quintaped)
+#+end_quote
+
+Now, no one knows if the legend of the Quintapeds' origin is true or not. But the key part is that wizards, including the Department for the Regulation and Control of Magical Creatures, consider the story credible enough that they have attempted Untransfiguration. That means that the story -- including the permanence of the Transfiguration performed -- is within the realm of Transfiguration possibility.
+
+So Transfiguration is not some kind of tactile illusion. It is not that the original object lurks “beneath” a layer of Transfiguration magic. Rather, the object is fundamentally, physically changed into a different object.
+
+The permanence of Transfiguration also makes sense. Since Transfiguration is a physical change, there's no reason for the object to revert to its previous state. Physical objects do not spontaneously turn into other objects in the absence of magic. You would need some new magical intervention to make a further change.
+
+However, Transfiguration can be reversed with Untransfiguration:
+
+#+begin_quote
+  “I would also advise Transfiguration, because Aurors frequently need to Transfigure or Untransfigure in their work. And I ought to tell you now, Potter, that I do not accept students into my NEWT classes unless they have achieved ‘Exceeds Expectations' or higher at Ordinary Wizarding Level.” (OotP Chapter 29)
+#+end_quote
+
+But the possibility of Untransfiguration does not mean that the original object is still there, “underneath”. We know from Dumbledore that magic always leaves traces:
+
+#+begin_quote
+  “How did you know that was there?” Harry asked in astonishment. “Magic always leaves traces,” said Dumbledore, as the boat hit the bank with a gentle bump, “sometimes very distinctive traces. I taught Tom Riddle. I know his style.” (HBP Chapter 26)
+#+end_quote
+
+So from what we know about the nature of Transfiguration as a fundamental change, Untransfiguration would appear to be a reversal of that change, not a removal of it. The fact that magic leaves traces explains how this is possible, even though nothing physical of the original object remains.
