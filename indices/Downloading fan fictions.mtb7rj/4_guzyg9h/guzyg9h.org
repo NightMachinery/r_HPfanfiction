@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: carelesslazy
+:Score: 1
+:DateUnix: 1618773127.0
+:DateShort: 2021-Apr-18
+:END:
+
+Calibre with FanFicFare plugin is best for long term but for short term ( you're unsure about a fic but like to download and check it out) [[https://fanfictiondownloader.net/#/download][FanFictionDownloader]] is better. It's much faster than FFF.
+
+By the way, FFDL requires Calibre for conversion (to epub for example), so if you're on Windows and don't have Calibre installed then download the following version. It has everything necessary.
+
+#+begin_quote
+  FFDL (Zip, All-In-One): [[https://fanfictiondownloader.net/ffdl-win-port.zip][0.9.4]]
+#+end_quote
