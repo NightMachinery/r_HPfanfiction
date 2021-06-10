@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Vardso
+:Score: 2
+:DateUnix: 1461652221.0
+:DateShort: 2016-Apr-26
+:END:
+
+As far as I know, there isn't an easy online tool that does it for this site, but [[http://calibre-ebook.com/][Calibre]] can compile multiple html pages into an ebook. ( I haven't ever used it by the way...)
