@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: kalespr
+:Score: 4
+:DateUnix: 1585067627.0
+:DateShort: 2020-Mar-24
+:END:
+
+I use the fanficfare, use calibre's ebook-converter to convert from epub to azw3 and then transfer over usb, all in command line.
+
+Fanficdownloader supports mobi/azw3 directly, and has a gui, from what I recall. Also, as an alternative to using usb, amazon also gives you a special email, that you can email files to, to transfer to your kindle.
