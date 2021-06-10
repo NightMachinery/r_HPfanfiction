@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: OutOfNiceUsernames
+:Score: 3
+:DateUnix: 1404795969.0
+:DateShort: 2014-Jul-08
+:END:
+
+Useful article, reminded me of [[https://dhs.stanford.edu/social-media-literacy/tvtropes-pt-1-the-weird-geometry-of-the-internet/][this other one for TVTropes]].
+
+[[http://imgur.com/4GgWHbI][The very first graph]] representing connections between stories seems to be off though---there shouldn't be so many isolated nodes. In [[http://www.yworks.com/en/products_yed_about.html][YED]], I was prone to getting similar results when I was importing the data incorrectly.
+
+Also, a [[/r/dataisbeautiful]] plug is somewhat relevant ITT.
