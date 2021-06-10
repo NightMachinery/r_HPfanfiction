@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: raketenemo
+:Score: 1
+:DateUnix: 1458050521.0
+:DateShort: 2016-Mar-15
+:END:
+
+I have added a format option for html files in a zip archive.
