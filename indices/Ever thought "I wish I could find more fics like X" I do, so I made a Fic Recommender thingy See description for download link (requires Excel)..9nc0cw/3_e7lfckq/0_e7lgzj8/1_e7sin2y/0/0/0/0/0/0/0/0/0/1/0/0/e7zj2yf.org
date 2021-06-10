@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 1
+:DateUnix: 1539847551.0
+:DateShort: 2018-Oct-18
+:END:
+
+Ok, pagination added and I think I'll consider this more or less done for now.
+
+I'll hold off on importing the 20-fics-per dataset until you finish the bigger one, I suppose. Thanks!
+
+Ugly homepage at [[https://ficrecs.elusiveguy.com/]]

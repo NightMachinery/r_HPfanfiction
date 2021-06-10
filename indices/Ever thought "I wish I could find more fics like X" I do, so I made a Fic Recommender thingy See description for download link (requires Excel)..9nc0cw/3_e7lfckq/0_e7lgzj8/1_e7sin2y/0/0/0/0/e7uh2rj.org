@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 1
+:DateUnix: 1539655313.0
+:DateShort: 2018-Oct-16
+:END:
+
+Thanks, I'll tackle that after I've finished with the first set.
+
+Incidentally, the matrix (of the first one) is ... interesting. There's a literal =#NUM!= at EV43, and a few other places where rows/cols of 0s intersect.

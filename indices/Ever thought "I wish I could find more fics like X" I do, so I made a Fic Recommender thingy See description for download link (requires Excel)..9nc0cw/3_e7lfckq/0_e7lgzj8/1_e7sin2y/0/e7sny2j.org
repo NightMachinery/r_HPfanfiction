@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1539589066.0
+:DateShort: 2018-Oct-15
+:END:
+
+Hmm. Probably not. I don't know anything about what that would entail.
+
+I'm finishing up an expanded version of this (30,000 fics) but I might want to stop at this point. I don't know how "maintainable" this database is.
+
+For example, the "Fic Info" page was from a scrape of FFN that I did over a year and a half ago, so it's already old.
+
+The weights were calculated from a scrape of info from 65,000 FFN users, so that's another database that might need to be updated. It's also only a tiny fraction of FFN users.
+
+Lastly, for my expanded version I'm conserving space by only saving the nearest neighbors to each fic. It's nice, but I don't really know how to easily add new fics to this since you might have to recalculate ALL the weights. There's probably algorithms out there but I don't have the time to find out.
+
+That being said, I'm happy to make my code and data available.

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: DoubleFried
+:Score: 2
+:DateUnix: 1539292678.0
+:DateShort: 2018-Oct-12
+:END:
+
+I've brainstormed a bit about this method for finding new fics in the past so it's really nice to see you implement it succesfully and im excited to try it out.
+
+EDIT: After playing with it a bit this is a really sweet tool but I am feeling some of the limitations. What are the chances of a beefier version that looks at a good amount more fics? I'd also be interested in one that included HP crossovers. I'd also be interested in not just grabbing the top X favorites but having newer fics weighted a bit more heavily so that lets say a 1k favs fic published last year is more impressive than a 3k favs fic published in 2007.

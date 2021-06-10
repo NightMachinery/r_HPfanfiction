@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1539681761.0
+:DateShort: 2018-Oct-16
+:END:
+
+Yeah, I just put it on Github: [[https://github.com/vir-innominatus/FFN-Fic-Recommender]]
+
+Fair warning, I used Matlab for most of it.
+
+You'll unfortunately have to re-calculate the weights if you want >20. It takes a long time to run but will probably go much faster in a different language.

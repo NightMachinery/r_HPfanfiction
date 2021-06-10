@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 1
+:DateUnix: 1539672670.0
+:DateShort: 2018-Oct-16
+:END:
+
+Yea, I'm just ignoring those.
+
+The first set's imported and sitting happy (at 133 MB in DB, bigger than I expected... I blame the indexes!). Searches seem to be working fine at 300ms for an uncached search or 25ms for a cached one. (edit: 10-20ms all around now. I flubbed an index earlier.) I'll create the world's worst-looking website tomorrow :P
+
+Before I go importing the second set - would it be much trouble for you to share the source data or code? The full 30000^{2} is far too large, but going from 20 to maybe 100 or even 1000 of the top ones should be doable and would offer many more suggestions. Though I suppose it's also possible to just click through the graph.

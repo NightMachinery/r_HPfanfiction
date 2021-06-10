@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1539658450.0
+:DateShort: 2018-Oct-16
+:END:
+
+Yeah that row and column should just be removed. It's Vox Corporis, a popular H/Hr fic that was taken down from FFN.
+
+The matrix is symmetric, so A(i,j) = A(j,i). There should technically be 1s along the diagonal, (since every fic is most closely related to itself), but I put 0s so the requested fic won't also be returned in the results. I'm guessing the #NUM! values are all along the diagonal for fics that have been removed from FFN.
