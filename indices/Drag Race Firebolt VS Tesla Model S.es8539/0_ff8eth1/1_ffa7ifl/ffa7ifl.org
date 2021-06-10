@@ -1,0 +1,28 @@
+:PROPERTIES:
+:Author: VenditatioDelendaEst
+:Score: 1
+:DateUnix: 1579729391.0
+:DateShort: 2020-Jan-23
+:END:
+
+Tesla:
+
+#+begin_quote
+  [[https://insideevs.com/news/370553/tesla-model-s-record-drag-video/][The new 1/4-mile world record time for the Model S stands at 10.41 seconds at 125 MPH.]]
+#+end_quote
+
+And [[https://www.youtube.com/watch?v=2Jc-N0_Iwe4][this video]] reports 0-155 mph in 24 seconds.
+
+Firebolt:
+
+#+begin_quote
+  [[https://harrypotter.fandom.com/wiki/Firebolt][The firebolt has an acceleration of 150 miles an hour in ten seconds]]
+#+end_quote
+
+At first glance that seems definitive in favor of the Firebolt, but car acceleration is traction or torque limited at low speed, and becomes power limited at high speed. Broomsticks... who knows, but they might be constant-thrust or even constant-acceleration (unaffected by air drag). In that case, the Tesla would be quicker off the line. But I have a hunch the Firebolt would still win the 1/4 mile.
+
+Or brooms might be chunky-salsa-rule limited at low speed and power-limited at high speed, in which case they're UFOs and the Tesla is utterly annihilated.
+
+If we knew what the Firebolt's top speed was, we could work out the power-to-drag-coefficient ratio for the constant-thrust case.
+
+Wizards > muggles, all is right in the world.
