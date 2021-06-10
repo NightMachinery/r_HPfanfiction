@@ -1,0 +1,61 @@
+:PROPERTIES:
+:Author: eteitaxiv
+:Score: 1
+:DateUnix: 1488928454.0
+:DateShort: 2017-Mar-08
+:END:
+
+This is what I used in CSS:
+
+#+begin_example
+  DIV#content_wrapper_inner {
+    background-color: #FDFDFD;
+  }
+
+  DIV#content_wrapper_inner span {
+    margin-top: 0.5em;
+  }
+
+  .storytext {
+    background-color: #FDFDFD;
+  }
+
+  .storytext p {
+    font-family: Palatino;
+    font-size: 1em;
+    font-feature-settings: "kern" 1, "liga" 1, "swsh" 1;
+    background-color: #FDFDFD;
+    line-height: 1.5em;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 20%;
+    margin-left: 20%;
+    text-indent: 1.5em;
+    text-align: justify;
+    text-justify: auto;
+    text-rendering: geometricPrecision;
+    hyphens: auto;
+      -webkit-hyphens: auto;
+      -moz-hyphens: auto;
+      -ms-hyphens: auto;
+    user-select: auto !Important;
+      -webkit-touch-callout: auto !Important;
+      -webkit-user-select: auto !Important;
+      -khtml-user-select: auto !Important;
+      -moz-user-select: auto !Important;
+      -ms-user-select: auto !Important;
+  }
+
+  .storytext p:first-child {
+    font-variant: small-caps;
+    margin-top: 3%;
+  }
+
+  .lc {
+    background-color: #FDFDFD; 
+  }
+
+  .lc-left {
+    background-color: #FDFDFD;
+  }
+#+end_example
