@@ -1,0 +1,32 @@
+:PROPERTIES:
+:Author: core_queen
+:Score: 2
+:DateUnix: 1422750592.0
+:DateShort: 2015-Feb-01
+:END:
+
+#+begin_quote
+  There might be legal issues with this.
+#+end_quote
+
+Yes, most likely would be limited to original content only.
+
+#+begin_quote
+  This is also problematic if you're scraping the content from other sites. It definitely violates FFN's TOS.
+#+end_quote
+
+Will check, but if author does it to his own stories I don't really see how that would be a problem - it's hist stories after all.
+
+#+begin_quote
+  Will this be open source like AO3? I'm a rails dev and might be willing to contribute.
+#+end_quote
+
+Will talk to the team about that. Website is being built on PHP.
+
+*EDIT*: Passage from the TOS about scraping:
+
+#+begin_quote
+  E. You agree not to use or launch any automated system, including without limitation, "robots," "spiders," or "offline readers," that accesses the Website in a manner that sends more request messages to the FanFiction.Net servers in a given period of time than a human can reasonably produce in the same period by using a conventional on-line web browser.
+#+end_quote
+
+It seems if it's done in a considerate manner it wouldn't be a problem.

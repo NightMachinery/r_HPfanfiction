@@ -1,0 +1,15 @@
+:PROPERTIES:
+:Author: core_queen
+:Score: 2
+:DateUnix: 1422789064.0
+:DateShort: 2015-Feb-01
+:END:
+
+1. I agree that you have to sift through a lot of stories to find something you're interested in. Noted, added in todo list.
+
+2. Yes! We'll have both positivive and negative filtering for any tags and "filter presets".
+
+3. Interesting insight. Never knew there was so many details. It is a good proposal and certainly could help with search, but heavily depends on whether authors would actually spend time and "equip" all the slots for their characters.\\
+   Will note for developers to investigate it futher as I'm not really equipped to talk about such intricacies and the way to implement them.
+
+Thank you!

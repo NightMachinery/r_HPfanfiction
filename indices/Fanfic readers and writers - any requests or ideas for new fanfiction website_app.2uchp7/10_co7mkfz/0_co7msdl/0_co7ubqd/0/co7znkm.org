@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: core_queen
+:Score: 2
+:DateUnix: 1422822036.0
+:DateShort: 2015-Feb-01
+:END:
+
+That is one of the possibilities. Right now we are considering either imgur-like tagging or Steam-like tagging. Both allow users to add tags, both allow to upvote tags and in case of imgur downvote them and in case of steam flag them as incorrect. Similar systems with a different twist.
+
+I think final decision will be made after real life testing.
+
+Thank you for your input!

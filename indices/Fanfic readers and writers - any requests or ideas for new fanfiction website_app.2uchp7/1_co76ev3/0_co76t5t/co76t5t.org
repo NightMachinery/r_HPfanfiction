@@ -1,0 +1,17 @@
+:PROPERTIES:
+:Author: core_queen
+:Score: 1
+:DateUnix: 1422747494.0
+:DateShort: 2015-Feb-01
+:END:
+
+Thank you - very interesting points from both sides and all of it is totally going on todo list.
+
+Reader interaction is one of our main battlegrounds. So far we've been considering:
+
+- reviews (not the most favorite way)
+- simple comments with @mentions (like on twitter)
+- live comments (same as simple comments, but with live updates)
+- inline annotations (mentioned it in the other comment. Good example for annotations [[https://medium.com/five-hundred-words/apple-the-oil-company-5b5983aa81e2][here]])
+
+A bit about comments with mentions - whenever user is mentioned in the comment, he (or she) will get a notification and can reply right within the notification (kind of like here on reddit) or go to the comments page for the chapter and reply there.
