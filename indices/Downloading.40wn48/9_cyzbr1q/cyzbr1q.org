@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: t1mepiece
+:Score: 1
+:DateUnix: 1452875392.0
+:DateShort: 2016-Jan-15
+:END:
+
+I guess you mean Fanfiction.net, since you you mention the bot? There are other fanfiction sites that provide ebook formats themselves ([[http://archiveofourown.org/][Ao3]] is the big one). Many people have already mentioned bots that will automatically create an ebook for you from various archives.
+
+If all those others mentioned fail you, you can also try the [[http://grabmybooks.com/][GrabMyBooks]] extension for Firefox and Chrome. It's good for archives that aren't big enough for the automated grabbers to bother programming for, for sites that aren't fanfic-specific (and therefore don't have standard formatting, like individual blogs), and /especially/ for sites that are password-protected, because it saves what's displayed on-screen.

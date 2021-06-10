@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: gekko15
+:Score: 10
+:DateUnix: 1452763410.0
+:DateShort: 2016-Jan-14
+:END:
+
+1. Download Calibre [[http://calibre-ebook.com/download]]
+2. (I'm on OSX so you might have to dig a bit to do the same on Windows) Select Preferences --> Advanced --> Get new plugins
+3. Filter for the plugin *FanFicFare*
+4. Click install and choose the option to place the icon on the toolbar
+5. Restart the program
+6. After the program starts select "Download from URLs" from the dropdown next to the *FanFicFare* icon
+7. Paste the URL of the fic you want to download in the box and press ok
+
+I hope this is enough to get you started!
