@@ -1,0 +1,49 @@
+:PROPERTIES:
+:Author: 4ecks
+:Score: 37
+:DateUnix: 1571065599.0
+:DateShort: 2019-Oct-14
+:END:
+
+And some dialogue-specific writing features that bug me out.
+
+- Same-y dialogue, identical voices. Without the "said John Doe" dialogue tag, there is no way to distinguish one character from another. Somewhat synonymous with the "Fanon Draco" voice, which I have never seen as frequently as I have in fanfiction. Typical characteristics: smirky and dry sarcasm, constant raising of a single eyebrow (and EVERYONE does that, not just one person), Hollywood-style quippy dialogue with pop-culture references, like Marvel bander or Chandler from "Friends".
+
+- Low-effort dialogue. No attempt to make the character's dialogue match up with their personality, age, time period, or setting.
+
+#+begin_quote
+
+  #+begin_quote
+    "I didn't mean to yeet our sister!" said Albus, wringing his hands in agitation.
+
+    Aberforth lifted an eyebrow. "Cool story, bro."
+  #+end_quote
+#+end_quote
+
+- This slips into Americanisms in dialogue.
+
+#+begin_quote
+
+  #+begin_quote
+    Fred dropped a stack of brightly-colored boxes into Harry's arms. "We won't charge you a dime."
+
+    Ron held up a pygmy puff. "What about me? I'm your brother!"
+
+    Fred smirked and lifted an eyebrow. "That'll be twenty bucks, thanks."
+
+    Ron scowled and tossed the pygmy puff back into the pile. "I'm telling mom!"
+  #+end_quote
+#+end_quote
+
+- Accents. Sometimes it's Hagrid, sometimes it's Fleur or Viktor. If you're unlucky, you get a character written with an accent when they never had one in canon (McGonagall, Cho). If you're super-duper-unlucky, you get an author who thinks a unique accent counts as a personality trait.
+
+#+begin_quote
+
+  #+begin_quote
+    "Well, you're back t' th'silk,” she says innocently. “Mayhap th' tykes need a reminder tha' they didn' hallucinate anythin' yesterday.”
+
+    “But Harry tol' me it's th' house o' th' Brothers, not jus' that Ignotus fellow. Stuck w'another house, Sev.”
+  #+end_quote
+#+end_quote
+
+From Swung By Serafim, when an attempt in being "quirky" resulted in unreadability.
