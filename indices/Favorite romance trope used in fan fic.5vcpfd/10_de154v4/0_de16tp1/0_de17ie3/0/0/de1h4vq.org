@@ -1,0 +1,7 @@
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1487716694.0
+:DateShort: 2017-Feb-22
+:END:
+
+The bot doesn't pay attention to edits. (Maybe if you're /super/ fast and lucky.) You can use =ffnbot!refresh= to remind it.
