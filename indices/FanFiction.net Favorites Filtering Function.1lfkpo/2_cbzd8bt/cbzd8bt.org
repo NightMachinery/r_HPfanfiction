@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: denarii
+:Score: 2
+:DateUnix: 1378001363.0
+:DateShort: 2013-Sep-01
+:END:
+
+Doesn't appear to work, in Tampermonkey at least.
+
+Edit: ReferenceError: unsafeWindow is not defined
+
+Fixed it by changing the references to unsafeWindow to window.

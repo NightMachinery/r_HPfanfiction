@@ -1,0 +1,11 @@
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1378002588.0
+:DateShort: 2013-Sep-01
+:END:
+
++I looked online a bit, apparently Chrome does not like unsafeWindow. I tried switching out them out to just window and running it on Firefox with Greasemonkey but that breaks it. I'll be honest, this was my first time touching javascript so I don't have a quick fix to make it universally compatible.+
+
+ok changing to window does work, I must have missed one of the commands the first time when I was just editing it through Greasemonkey and not notepad++. updating code now.
+
+Thank you for discovering this and a solution for it. I'll keep my eye out for ways to improve it.
