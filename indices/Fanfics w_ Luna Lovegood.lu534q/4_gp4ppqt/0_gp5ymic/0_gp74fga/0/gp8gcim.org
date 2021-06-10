@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: XenoZohar
+:Score: 3
+:DateUnix: 1614550224.0
+:DateShort: 2021-Mar-01
+:END:
+
+You should probably keep in mind that the FF bot doesn't only serve the HPfanfiction subreddit, but several others as well and there's likely rate limits imposed by FFnet on how many requests per hour the bot is allowed to make.
