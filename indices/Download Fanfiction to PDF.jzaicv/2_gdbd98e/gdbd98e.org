@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: pm-me-your-nenen
+:Score: 1
+:DateUnix: 1606121235.0
+:DateShort: 2020-Nov-23
+:END:
+
+Why don't just install an epub reader on your tablet? On Android I can throw any format to [[https://play.google.com/store/apps/details?id=com.obreey.reader][PocketBook]], if this is an old tablet or no support for Playstore, you can sideload [[https://www.apkmirror.com/uploads/?q=aldiko-book-reader][old version of Aldiko]]. If it's an iOS, Apple Books supports [[https://support.apple.com/en-us/HT201478][adding your own ePub]] or you can just use [[https://apps.apple.com/us/app/pocketbook-reader/id805488884][PocketBook]] that doesn't involve jumping through hoops.
+
+I noticed you mention "or text", I just tried [[https://ficsave.xyz/][FicSave]] and [[https://fanfictionloader.appspot.com/][FanFictionDownLoader]] to download the text version from a short FF.net fic with 6 chapters, both work well (though FicSave is way faster). Keep in mind FanFictionDownLoader will definitely die soon due to GAE billing changes.
+
+You can also use one of those online epub to PDF converters, though I really implore you to use epub instead, pinching to change font size directly, using custom fonts, any background and text colors, etc, they're far better than PDF.
