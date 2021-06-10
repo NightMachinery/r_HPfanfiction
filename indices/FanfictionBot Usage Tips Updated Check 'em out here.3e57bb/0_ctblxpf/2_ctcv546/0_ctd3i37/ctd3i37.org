@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 2
+:DateUnix: 1437632885.0
+:DateShort: 2015-Jul-23
+:END:
+
+We will consider your request.
+
+However, as the current implementation works, it's unlikely we'll implement it ourselves.
+
+--------------
+
+If you really want your proposal to be added, please, add an [[http://github.com/tusing/reddit-ffn-bot/issues/][issue]] or better, make a [[http://github.com/tusing/reddit-ffn-bot/pulls/][pull request]], so we will have a more permanent reminder on this issue.

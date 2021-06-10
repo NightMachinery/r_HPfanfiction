@@ -1,0 +1,26 @@
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1437750537.0
+:DateShort: 2015-Jul-24
+:END:
+
+Another suggestion:
+
+What about adding a way to take an author's name and have the bot reply with their profile/other names?
+
+I don't know how hard this will be to implement, but I was thinking about this:
+
+--------------
+
+#+begin_example
+      authorffn(Kwan Li)   
+#+end_example
+
+Kwan Li has written 6 stories for Harry Potter:
+
+- [[https://www.fanfiction.net/s/8379655/1/Hogwarts-Battle-School][Hogwarts Battle School]]\\
+- [[https://www.fanfiction.net/s/4985330/1/The-Other-Boy-Who-Lived][The Other Boy Who Lived]]\\
+- [[https://www.fanfiction.net/s/8098609/1/The-Dark-of-Night][The Dark of Night]]\\
+- [[https://www.fanfiction.net/s/8033348/1/The-Boy-Who-Killed][The Boy Who Killed]]\\
+- [[https://www.fanfictio.%20net/s/6326753/1/Wedding-Dress][Wedding Dress]]\\
+- [[https://www.fanfiction.t/s/3877185/1/My-Name-is-Harry-Potter][My Name is Harry Potter]]\\

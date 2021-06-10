@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 1
+:DateUnix: 1437762267.0
+:DateShort: 2015-Jul-24
+:END:
+
+Congratulations, by implementing his suggestion you broke your own feature! linkffn(11399578)
+
+So please, test your new solution and think about what might break when implementing things.

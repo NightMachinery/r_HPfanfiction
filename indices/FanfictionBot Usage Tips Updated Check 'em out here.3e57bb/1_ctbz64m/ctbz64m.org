@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 2
+:DateUnix: 1437563683.0
+:DateShort: 2015-Jul-22
+:END:
+
+Some more notes that are not mentioned here
+
+The tags are comma-separated. Doing =ffnbot!parent,directlinks= is a shorthand for =ffnbot!parent ffnbot!directlinks=
