@@ -1,0 +1,9 @@
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1397071559.0
+:DateShort: 2014-Apr-09
+:END:
+
+They are using SSL with a self-signed certificate. Or something like that. If you don't sign in, you will be fine.
+
+Unless you think someone's intercepting your internet traffic and you don't want them to know what your favorite slash pairing is.
