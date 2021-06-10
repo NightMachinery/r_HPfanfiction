@@ -1,0 +1,19 @@
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1604991577.0
+:DateShort: 2020-Nov-10
+:END:
+
+This can be done much more easily with [[https://github.com/JimmXinu/FanFicFare][FanFicFare]]. I have a script which goes through my fics and updates them:
+
+#+begin_example
+  #!/bin/sh
+  export DAYS=${1:-91}
+
+  cat /dev/null >/tmp/knih_update.log
+
+  find ~/Knihy/fanfiction/ -name \*.epub -mtime -${DAYS} -print0 | \
+      xargs -t -L 50 -0 fanficfare -o slow_down_sleep_time=6 -u \
+          >>/tmp/knih_update.log 2>&1
+#+end_example

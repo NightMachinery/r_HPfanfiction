@@ -1,0 +1,22 @@
+:PROPERTIES:
+:Author: backtickbot
+:Score: 1
+:DateUnix: 1604991590.0
+:DateShort: 2020-Nov-10
+:END:
+
+[[https://reddit.com/r/backtickbot/comments/jrgcnn/httpsredditcomrhpfanfictioncommentsjrevd5do_you/][Correctly formatted]]
+
+Hello, ceplma. Just a quick heads up!
+
+It seems that you have attempted to use triple backticks (```) for your codeblock/monospace text block.
+
+*This isn't universally supported on reddit*, for some users your comment will look not as intended.
+
+You can avoid this by *indenting every line with 4 spaces instead*.
+
+There are also other methods that offer a bit better compatability like [[https://stalas.alm.lt/files/new-reddit-codeblock.png][the "codeblock" format feature on new Reddit]].
+
+Have a good day, ceplma.
+
+^{You can opt out by replying with "backtickopt6" to this comment. Configure to send allerts to PMs instead by replying with "backtickbbotdm5". Exit PMMode by sending "dmmode_end".}
