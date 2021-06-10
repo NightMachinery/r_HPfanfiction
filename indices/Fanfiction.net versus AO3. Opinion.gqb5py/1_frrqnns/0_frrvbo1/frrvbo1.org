@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: deirox
+:Score: 7
+:DateUnix: 1590419385.0
+:DateShort: 2020-May-25
+:END:
+
+#+begin_quote
+  turns line breaks into double line breaks
+#+end_quote
+
+After trying various approaches I now copy from my text editor into Fanfiction.net Doc Manager, save, then copy from Doc Manager into AO3 Rich Text editor. This results in paragraphs properly wrapped in <p> tags and breaks nothing as far as I can see.

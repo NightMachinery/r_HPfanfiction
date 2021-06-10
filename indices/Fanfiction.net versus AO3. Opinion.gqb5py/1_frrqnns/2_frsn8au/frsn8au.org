@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: Starfox5
+:Score: 3
+:DateUnix: 1590433934.0
+:DateShort: 2020-May-25
+:END:
+
+#+begin_quote
+  Fic uploader is a real chore and in particular does very weird things to italics followed by punctuation marks, which requires extensive manual correction. Also turns line breaks into double line breaks which also requires manual correction. It takes about 20 mins to upload a chapter to AO3 and even then I continue to see errors in it when I happen to be browsing my story conten
+#+end_quote
+
+I copy the chapter from Docs to Word, find/replace double paragraphs with single paragraphs, and then copy it to AO3, rich text tab - formating is perfectly preserved that way. Far less hassle than replacing section breaks in FFNet.

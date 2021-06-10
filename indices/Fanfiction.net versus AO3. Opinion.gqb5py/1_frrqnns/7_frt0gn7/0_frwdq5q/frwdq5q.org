@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: colorandtimbre
+:Score: 1
+:DateUnix: 1590519648.0
+:DateShort: 2020-May-26
+:END:
+
+#+begin_quote
+  On mobile I like to customize my fonts and sizes and night mode.
+#+end_quote
+
+You can do this on ao3! “site skins” are what you're looking for. if you make a theme that only takes effect when the page width is below a certain amount, you can also make it mobile-only.

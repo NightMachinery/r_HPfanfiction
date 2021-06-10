@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: vichan
+:Score: 3
+:DateUnix: 1590432772.0
+:DateShort: 2020-May-25
+:END:
+
+#+begin_quote
+  Fic uploader is a real chore and in particular does very weird things to italics followed by punctuation marks, which requires extensive manual correction. Also turns line breaks into double line breaks which also requires manual correction. It takes about 20 mins to upload a chapter to AO3 and even then I continue to see errors in it when I happen to be browsing my story content.
+#+end_quote
+
+Allow me to recommend the Docs to Markdown Google extension. Then instead of using the text editor, use the HTML editor to upload your fic. It gets everything exactly how I want it formatted in no time.
+
+Edit: also, I 200% disagree on your assessment of Ao3's search function. I always find what I'm looking for, whereas on FFnet I never do. I find FFnet's search function unusable, haha.
