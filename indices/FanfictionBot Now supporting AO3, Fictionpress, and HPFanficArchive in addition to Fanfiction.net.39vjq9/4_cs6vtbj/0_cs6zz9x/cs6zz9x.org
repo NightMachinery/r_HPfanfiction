@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 1
+:DateUnix: 1434353970.0
+:DateShort: 2015-Jun-15
+:END:
+
+It should - just make sure you tell the bot via command-line which subreddits should be processed
