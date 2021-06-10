@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 12
+:DateUnix: 1465588939.0
+:DateShort: 2016-Jun-11
+:END:
+
+Okay, just implemented it. It'll only work for some sites, though, mainly fanfiction.net:
+
+linkffn(Emperor; Alexandra Quick and the Thorn Circle) ffnbot!slim
