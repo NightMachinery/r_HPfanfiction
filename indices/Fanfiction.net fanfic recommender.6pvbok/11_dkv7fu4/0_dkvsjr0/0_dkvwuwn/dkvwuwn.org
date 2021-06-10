@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: gnarlin
+:Score: 1
+:DateUnix: 1501338059.0
+:DateShort: 2017-Jul-29
+:END:
+
+Bug report: It's not working. I add my user id and click the button. All the story id's are populated. I then scroll down and click the recommend button but nothing happens. I noticed that the first field is left empty. Might that be the cause? By the way, shouldn't that middle step just happen automatically? I.e. You add your userid, click the button and automagically it shows your recommendations?
+
+EDIT: I spoke too soon. Nothing happens even if I just post one story ID and click the recommend button.

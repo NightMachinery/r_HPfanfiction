@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: wokste1024
+:Score: 2
+:DateUnix: 1501163826.0
+:DateShort: 2017-Jul-27
+:END:
+
+I personally don't mind a requirement of a number of favourites. After all, any good fic should have been able to get 400 favourites. In addition, this will limit the computation to reasonable amounts and reduce the effect of noise. This in turn will improve speed and can improve the recommendation.

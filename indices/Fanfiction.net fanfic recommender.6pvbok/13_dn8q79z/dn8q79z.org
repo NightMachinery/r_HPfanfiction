@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1505870799.0
+:DateShort: 2017-Sep-20
+:END:
+
+Heh, is that the season of building FFN recommendation engines? Cause I am doing one too XD Though mine is not a website yet, I've made an app first which I am currently refactoring to become something web based. Its algorithm is extremely naive (none of the math mumbo jumbo) but it works fairly well.
+
+Of note: for anyone even bothering with recommendations the engine from OP post will just likely repeat their favourites. 100 is way too low. can't even say how differnt out results are since top 100 will most likely repeat

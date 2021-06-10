@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: deltashad
+:Score: 4
+:DateUnix: 1501157560.0
+:DateShort: 2017-Jul-27
+:END:
+
+#+begin_quote
+  Finding fics based on popularity is a false metric
+#+end_quote
+
+It doesn't find fics based on popularity, it finds fics based on people who has favorited stories you like.
+
+#+begin_quote
+  Also, does the 400 threshold mean its never going to pop up with new fics?
+#+end_quote
+
+It would pop up with new fics if I update database. For now I have plan to update it monthly but we'll see how things go.

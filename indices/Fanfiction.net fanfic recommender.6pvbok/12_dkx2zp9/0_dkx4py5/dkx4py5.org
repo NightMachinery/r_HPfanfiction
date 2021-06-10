@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: deltashad
+:Score: 1
+:DateUnix: 1501410965.0
+:DateShort: 2017-Jul-30
+:END:
+
+#+begin_quote
+  How many stories will this use to help me find recs from other people's fav lists?
+#+end_quote
+
+All of them. And that's kind of problem because a lot of users have schizophrenic tastes (i.e. favorite both light-hearted one shots and angsty 500K words stories). That's why just dumping in it your user profile produce so-so results, while entrering two or three stories which has something in common (i.e. ruthless protagonists or self insert or a lot of angst etc) produce order of magnitude better results.
+
+#+begin_quote
+  If FFnet gave out view metrics (over time) for each story, that would make things so much more interesting. Aside from the fact that it would be an immensely fascinating dataset in its own right, it could really help with these rec engines too.
+#+end_quote
+
+I don't think that this dataset could really help with generating recommendations. The most sought after property of recommender system is that it can generate /personalized/ recommendations which imply analyze of similarities between stories (or users). The dataset would do nothing for such analyze, therefore it wouldn't really improve recommender system all that much.

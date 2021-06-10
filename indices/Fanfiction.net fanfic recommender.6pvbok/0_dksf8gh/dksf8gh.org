@@ -1,0 +1,22 @@
+:PROPERTIES:
+:Author: fflai
+:Score: 17
+:DateUnix: 1501156031.0
+:DateShort: 2017-Jul-27
+:END:
+
+Hey, I have once built the exact same thing and have taken even all fics into account. Sadly the results are poor imo. You can try it here: [[https://ffrec.fflai.net/][ffrec.fflai.net]]
+
+How do you rec fics, specifically: Which algos do you use?
+
+Edit: I personally use a weighted k-nearest-neighbor algorithm, with the distance between the a pair of the stories A, B being:
+
+#+begin_example
+  sharedFavorites(A, B) / ( favorites(A) * favorites(B))
+#+end_example
+
+I also tried a few other metrics, but they all had problems. Either they were too conservative (this one is) and recommends only big stories or they didn't recommend good stories at all. It's a bit annoying.
+
+Edit 2: Testing it, your algorithm also seems to be rather conservative and stick to the bigger stories. And there is also an indication that the recommendation isn't that good, for example it often doesn't predict sequels (when it obviously should!)
+
+For example: [[http://i.imgur.com/HcFpZR9.png][my rec]], [[http://i.imgur.com/V1UzW3x.png][your rec]] [[https://www.fanfiction.net/s/11829846][story]]

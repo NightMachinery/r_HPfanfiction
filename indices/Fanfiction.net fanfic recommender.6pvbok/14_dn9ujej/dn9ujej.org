@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1505933593.0
+:DateShort: 2017-Sep-20
+:END:
+
+How did you decide on the user favourites to use as a dataset? In my engine I just used a recursive parse of approximately 30k pages and the results are adequate. Is your dataset the whole of fnn user profiles?

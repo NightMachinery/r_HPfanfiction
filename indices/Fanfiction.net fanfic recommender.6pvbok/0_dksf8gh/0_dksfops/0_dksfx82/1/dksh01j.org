@@ -1,0 +1,32 @@
+:PROPERTIES:
+:Author: deltashad
+:Score: 2
+:DateUnix: 1501159131.0
+:DateShort: 2017-Jul-27
+:END:
+
+#+begin_quote
+  Collaborative Filtering is pretty much exactly what I've been doing
+#+end_quote
+
+No, weighted k-nearest-neighbor and Collaborative filtering are different things, and CF is performing statistically better then KNN (unfortunately I can't find link to the paper).
+
+#+begin_quote
+  Testing it, your algorithm also seems to be rather conservative and stick to the bigger stories
+#+end_quote
+
+Well, tendency to recommend well liked stories isn't bad as long as well liked stories are relevant.
+
+#+begin_quote
+  there is also an indication that the recommendation isn't that good, for example it often doesn't predict sequels
+#+end_quote
+
+Hmm, you are right about predicting sequels, but I am unsure about how much it's fault of algo, how much of metrics and how much of data. I'll investigate this later. Edit: it doesn't work because sequel has <400 favs.
+
+#+begin_quote
+  If you want I can also give you access to my crawled database of FFN
+#+end_quote
+
+That would be great.
+
+Can you also give me link to your recommender?

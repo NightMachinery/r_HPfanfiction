@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: wokste1024
+:Score: 6
+:DateUnix: 1501164338.0
+:DateShort: 2017-Jul-27
+:END:
+
+#+begin_quote
+  If you want I can also give you access to my crawled database of FFN
+#+end_quote
+
+I would love that as well. Another question: is your project open source? I have a few ideas to improve recommendations with finding weight factors using a neural network and I would love to experiment with it.
+
+Short description planned experiment: I want to estimate favourites on things like release date, update date, chapters, words, and other values that shouldn't change the quality of the story. The higher this estimate favourite value, the more chance a story is favoured so favours of users count less.

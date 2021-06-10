@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: deltashad
+:Score: 1
+:DateUnix: 1501177272.0
+:DateShort: 2017-Jul-27
+:END:
+
+#+begin_quote
+  It puts "\" before " ' " in output (and I'm guessing other signs that need escape character).
+#+end_quote
+
+Thanks. When I have couple of free hours I'll do something about it.
+
+#+begin_quote
+  Also giving your user id so it can jus take your favourites would be pretty useful
+#+end_quote
+
+Implemented

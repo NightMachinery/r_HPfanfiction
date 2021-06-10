@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: deltashad
+:Score: 8
+:DateUnix: 1501156893.0
+:DateShort: 2017-Jul-27
+:END:
+
+[[http://yifanhu.net/PUB/cf.pdf][Collaborative filtering for implicit data sets]] + injection of simple story properties into matrix (such as fandom, rating and characters)
+
+Even if results would be subpar, we would see a lot less requests like "Harry + Luna best fics" in this reddit, which is win in my book.

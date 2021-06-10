@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: finebalance
+:Score: 1
+:DateUnix: 1501405464.0
+:DateShort: 2017-Jul-30
+:END:
+
+Suppose I enter a user or a list of favs that is 100 stories long. How many stories will this use to help me find recs from other people's fav lists? 1? 5? Some dynamically generated cutoff?
+
+Really interesting tool and thanks for that link to the collaborative filtering paper.
+
+I think these tools would be really helped if we could figure out some way to standardize these rating metrics (reviews/follows/etc). If FFnet gave out view metrics (over time) for each story, that would make things so much more interesting. Aside from the fact that it would be an immensely fascinating dataset in its own right, it could really help with these rec engines too.

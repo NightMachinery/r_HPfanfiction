@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: deltashad
+:Score: 1
+:DateUnix: 1501329891.0
+:DateShort: 2017-Jul-29
+:END:
+
+#+begin_quote
+  What factors are considered when creating recommendations?
+#+end_quote
+
+Favorite lists of other users with similar tasted and properties of fanfic (for now only fandom, genre, rating and characters)
+
+#+begin_quote
+  Also, would it be possible for you to allow users to add a url to their favorites list, and create recommendations based on that?
+#+end_quote
+
+Implemented

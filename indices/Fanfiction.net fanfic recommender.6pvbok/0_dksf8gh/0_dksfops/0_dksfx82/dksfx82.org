@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: fflai
+:Score: 3
+:DateUnix: 1501157324.0
+:DateShort: 2017-Jul-27
+:END:
+
+Collaborative Filtering is pretty much exactly what I've been doing (forgot the term).
+
+Oh, one thing I do: I only save the 100 stories with the highest s_ij for each story, to reduce the data needed. This makes a lot of the quadratic stuff linear, and allows me to work on all stories.
+
+If you want I can also give you access to my crawled database of FFN, which might make things easier.
