@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: InquisitorCOC
+:Score: 14
+:DateUnix: 1545696035.0
+:DateShort: 2018-Dec-25
+:END:
+
+The Hat has to sort based on quota too, or else number discrepancies between houses can get rather large.
+
+Plot necessity aside, I see the Hat as an algorithm that generally bases its decisions on:
+
+- Min/Max number allowed for a house, so in other word, Quota
+- Student's personality
+- Student's value system
+- Student's own choice
+- Student's ancestry
