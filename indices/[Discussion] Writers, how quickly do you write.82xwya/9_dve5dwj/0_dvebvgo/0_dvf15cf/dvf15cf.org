@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: RedKorss
+:Score: 2
+:DateUnix: 1520572006.0
+:DateShort: 2018-Mar-09
+:END:
+
+Pomodoro Timer, is basically a system where you work for X amount of time, and take a break for Y amount of time until you've done it four or five times. Which is when you take a longer break for Z amount of time. All of this is so that you can keep yourself somewhat focused on the task at hand. But not burning yourself out.
