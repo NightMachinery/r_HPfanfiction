@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 7
+:DateUnix: 1541855004.0
+:DateShort: 2018-Nov-10
+:END:
+
+I know that you've been inundated with messages already, but if you have $5/m to spare, you could create a DigitalOcean account and simply host the bot from there. If you ever get IP banned again, just make another droplet, delete the old one, and presto - new IP address.
+
+You can even save the image of the server directly after installation of the necessary dependencies for the bot so that the process doesn't demand you to constantly be setting up the new machine(s).
+
+If $5/m just doesn't work in your budget (hey, man, shit happens), you could probably pull in /at least/ that much with some kind of Patreon page for it which would cover the monthly costs and, maybe, even a cup of coffee every so often.

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: EpicDaNoob
+:Score: 6
+:DateUnix: 1541827295.0
+:DateShort: 2018-Nov-10
+:END:
+
+Hey now, it seems that the bot's queries for description and stats are being blocked, but the downloading site it uses, ff2ebook, is still working fine. What does ff2ebook do differently from our ffnbot when it can download a whole story without being blocked while ffnbot gets banned from fetching this comparatively small amount of data?

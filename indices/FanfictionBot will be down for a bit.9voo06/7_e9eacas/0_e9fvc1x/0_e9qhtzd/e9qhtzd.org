@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: ThellraAK
+:Score: 1
+:DateUnix: 1542270135.0
+:DateShort: 2018-Nov-15
+:END:
+
+What do you run the bot on, does it need non-vpn outbound access for anything?
+
+I could probably write you a python script that switches vpn profiles around on a time frame.

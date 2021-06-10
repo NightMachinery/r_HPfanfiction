@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: darthShadow
+:Score: 12
+:DateUnix: 1541860191.0
+:DateShort: 2018-Nov-10
+:END:
+
+100% This. Not sure how responsive the admins over there will be, however.
+
+Another simpler workaround could be to make it serverless? I am not sure how many requests it actually handles every day and whether it would be costlier or cheaper?

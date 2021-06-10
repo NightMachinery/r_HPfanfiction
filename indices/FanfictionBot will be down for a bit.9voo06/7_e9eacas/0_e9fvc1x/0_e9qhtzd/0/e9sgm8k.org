@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1542334548.0
+:DateShort: 2018-Nov-16
+:END:
+
+Nope, only inbound (HTTP GET's)!
