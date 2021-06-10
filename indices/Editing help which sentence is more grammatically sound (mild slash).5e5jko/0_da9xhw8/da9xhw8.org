@@ -1,0 +1,35 @@
+:PROPERTIES:
+:Score: 9
+:DateUnix: 1479757756.0
+:DateShort: 2016-Nov-21
+:END:
+
+#+begin_quote
+  Snape pulled Palpatine into his arms, kissing him gently as they stood, entwined on the balcony.
+#+end_quote
+
+This sort of formation lets you remove the phrase between commas while keeping the meaning of the sentence the same:
+
+#+begin_quote
+  Snape pulled Palpatine into his arms, entwined on the balcony.
+#+end_quote
+
+Snape is entwined on the balcony while he pulls Palpatine into his arms. Not what you were going for.
+
+Omit the second comma and you have:
+
+#+begin_quote
+  Snape pulled Palpatine into his arms, kissing him gently as they stood entwined on the balcony
+#+end_quote
+
+That's conveying the meaning you want. The 'entwined on the balcony' specifies how they were standing, not how Snape was pulling.
+
+Compare to the second version:
+
+#+begin_quote
+  Snape pulled Palpatine into his arms and kissed him gently. They stood on the balcony, entwined.
+#+end_quote
+
+In narration, your readers will typically insert a silent 'and then' between sentences: Snape kissed Palpatine, and then they stood on the balcony. That's not really what you're after.
+
+Also, it makes the "stood" part more important and the "entwined" part an afterthought. You want to emphasize that they are clinging to each other like strands on a rope.
