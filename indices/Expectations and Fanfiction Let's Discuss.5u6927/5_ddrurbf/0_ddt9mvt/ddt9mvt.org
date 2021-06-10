@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: Aoloach
+:Score: 1
+:DateUnix: 1487234662.0
+:DateShort: 2017-Feb-16
+:END:
+
+How much space would it take to back up text copies of every story on FFN? Even just HP stories? Could we make an estimate here? Like from how big a text/ePub/html file of let's say an average story length of 10k words is, times 700k stories, for a total of 7 billion words?
+
+Ok, googling tells me that people have already done it, multiple times. There's a post on Reddit of a guy who did it in September of 2015, his final file size was 108 GB compressed, and that's of all fics, not just HP. Took him 18 months using a python script.
