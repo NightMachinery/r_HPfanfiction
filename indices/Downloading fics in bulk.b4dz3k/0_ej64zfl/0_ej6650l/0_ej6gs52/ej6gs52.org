@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: Green0Photon
+:Score: 2
+:DateUnix: 1553323329.0
+:DateShort: 2019-Mar-23
+:END:
+
+I think with the Calibre FanFicFare plugin, you can put in a list of links (each separated by a newline), and it'll download them all for you.
+
+I haven't used it in awhile though, so I'm unsure.
+
+Also, if it gives it in epub, it's very easy to bulk convert to mobi. It probably lets you download in mobi though.

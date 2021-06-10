@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: Edocsiru
+:Score: 10
+:DateUnix: 1553311362.0
+:DateShort: 2019-Mar-23
+:END:
+
+To be more specific, a plugin called FanFicFare. It's made on python so it can be used from the command line if you aren't on a device that calibre supports like a phone or a tablet.
+
+It can fetch all the urls from a profile and then download them (you will need to configure the output format, default is epub), or you can feed it a text file with all the urls. However it will take long since ffnet is very strict with the number of request it allows so fanficfare has a few seconds delay between page requests.
+
+I do recommend you check ff2ebook's archive since it has mobi&epubs for most stuff already made.
