@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: Avalon1632
+:Score: 2
+:DateUnix: 1606903563.0
+:DateShort: 2020-Dec-02
+:END:
+
+I mean, my first thought is to ask if is there a problem with FFNet itself? Could be a difficulty with FFNet, if both sites are doing it with the same fic. I'm pretty sure they're probably both accessing the one site to get all that metadata, after all. Do you use Calibre and Fanficfare at all? It might help to try download the fic through there as well - if that program can't access it, then it probably is a FFNet issue.
+
+Second, the link you've copied here is to chapter three of the story. Have you tried doing the FF2Ebook or Ficsave things with the link set to chapter one? Not sure if it'd make a difference, but weirder things have happened on the internet. :D
+
+Third, have you tried purging your cookie cache? (A traditional fix for a lot of weird website behaviour). Or any fixes suggested for slow or stopped loading screens? If it is on your end, there might be something running in the background that's taking up loads of processing power or actually blocking the loading of the screen entirely. I don't know enough to diagnose that myself over the internet, but there are guides and troubleshooting manuals all over if you google things specifically on your computer.
