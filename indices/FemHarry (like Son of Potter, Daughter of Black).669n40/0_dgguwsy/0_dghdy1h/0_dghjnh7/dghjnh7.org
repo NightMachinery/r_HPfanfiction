@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: kimixa
+:Score: 1
+:DateUnix: 1492636998.0
+:DateShort: 2017-Apr-20
+:END:
+
+I have a rule where if it's not been updated for over 1 year I move it to an "abandoned" subdir.
+
+That was painful.
