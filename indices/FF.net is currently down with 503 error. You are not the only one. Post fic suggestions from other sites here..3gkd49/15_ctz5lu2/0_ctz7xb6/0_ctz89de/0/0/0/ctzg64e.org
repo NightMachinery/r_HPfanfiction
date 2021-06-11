@@ -1,0 +1,11 @@
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1439318932.0
+:DateShort: 2015-Aug-11
+:END:
+
+#+begin_quote
+  almost certainly
+#+end_quote
+
+I've done enough network administration to know this, but ffnet really isn't that large, and with how few people work on it, I wouldn't put it past them to make that mistake even if it has been almost 15 years. Actually, that probably makes it even more likely as people get lazy unless it's automated.
