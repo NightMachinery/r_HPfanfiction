@@ -1,0 +1,15 @@
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1449888940.0
+:DateShort: 2015-Dec-12
+:END:
+
+You can use the Calibra ebook organizer/syncer with the [[https://github.com/JimmXinu/FanFicFare/wiki/FAQs][FanFicFare plugin]] but that will take some setting up if you don't have it already.
+
+Alternatively, you can do
+
+#+begin_example
+    linkffn(<id>, <id>, etc)
+#+end_example
+
+and the bot will do it for you.

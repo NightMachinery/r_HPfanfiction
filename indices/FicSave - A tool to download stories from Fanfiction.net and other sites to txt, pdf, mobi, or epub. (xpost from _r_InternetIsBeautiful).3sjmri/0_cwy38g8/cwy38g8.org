@@ -1,0 +1,19 @@
+:PROPERTIES:
+:Score: 10
+:DateUnix: 1447360737.0
+:DateShort: 2015-Nov-13
+:END:
+
+Though it only has support for FFnet:
+
+* [[http://p0ody-files.com/ff_to_ebook/][P0ody-Files' FFnet to eBook downloader]]
+  :PROPERTIES:
+  :CUSTOM_ID: p0ody-files-ffnet-to-ebook-downloader
+  :END:
+is many times *faster*, and provides *instant* downloads to fics that have already been downloaded.
+
+It's format of the eBook also look *cleaner* IMHO.
+
+[[/u/tusing]] uses for [[/u/FanfictionBot]] as well.
+
+It was made by some guy on DLP IIRC.
