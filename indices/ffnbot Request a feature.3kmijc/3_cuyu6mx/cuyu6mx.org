@@ -1,0 +1,7 @@
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1442048345.0
+:DateShort: 2015-Sep-12
+:END:
+
+Not a feature, but a bugfix: when the bot prints the notes section after a call to linkao3(), extra backslashes end up being inserted before every fullstop and dash.

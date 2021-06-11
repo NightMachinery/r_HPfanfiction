@@ -1,0 +1,15 @@
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 5
+:DateUnix: 1442028445.0
+:DateShort: 2015-Sep-12
+:END:
+
+A new feature of the bot is ffnbot!refresh with should do quite nicely for updating the bot on edits. [[/u/tusing]] and I are currently thinking about automating this process (at least for sufficiently new comments). ([[https://github.com/tusing/reddit-ffn-bot/issues/89][Click Issue Link Here]])
+
+As for narrowing down the fics: The bot just googles everything that does not look like a link or a number. Narrowing down should be easy by adding additional things to the query like
+
+#+begin_quote
+  linkffn(30 Minutes in Harry Potter by Radaslab)\\
+  linkffn(Harry Potter 30 Minutes that changed everything)
+#+end_quote
