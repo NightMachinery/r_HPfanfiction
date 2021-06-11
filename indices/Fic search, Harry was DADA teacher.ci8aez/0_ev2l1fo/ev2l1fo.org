@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: g4rretc
+:Score: 1
+:DateUnix: 1564178948.0
+:DateShort: 2019-Jul-27
+:END:
+
+#+begin_quote
+  how do I flair on mobile?
+#+end_quote
+
+you can't.
+
+You'll have to use a 3rd party app. I recommend Slide for reddit.
+
+[[https://apps.apple.com/us/app/slide-for-reddit/id1260626828][iOS]] [[https://play.google.com/store/apps/details?id=me.ccrama.redditslide][Android - Google Play]] [[https://f-droid.org/en/packages/me.ccrama.redditslide/][Android - F-Droid]]
