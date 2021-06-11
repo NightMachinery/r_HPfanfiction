@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 1
+:DateUnix: 1608832223.0
+:DateShort: 2020-Dec-24
+:END:
+
++1 for calibre.
+
+It'll also update all your in-progress fics and give you the most recent epub with a click of a button. Paired with a kindle or kindle app on your phone/tablet, and another button click will email the fic to your cloud library (though it will /not/ overwrite old versions, unfortunately).
+
+Pair it with epubmerge (another plugin), and you can grab entire AO3 series' in one epub that once again can be updated all at once.
+
+Fantastic resource without even touching on the library aspects of the program.
