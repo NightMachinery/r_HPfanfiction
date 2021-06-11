@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: SnowingSilently
+:Score: 1
+:DateUnix: 1538221207.0
+:DateShort: 2018-Sep-29
+:END:
+
+I believe that ffnbot!delete should work, but I can't seem to find any mention of the functionality. I may be confusing bot message deletion capabilities with another bot, probably the RemindMe bot. If what I suggested doesn't work, I suppose you could message a mod.
