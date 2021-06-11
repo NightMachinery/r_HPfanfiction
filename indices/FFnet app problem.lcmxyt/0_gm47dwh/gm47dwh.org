@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: 4400120
+:Score: 2
+:DateUnix: 1612534526.0
+:DateShort: 2021-Feb-05
+:END:
+
+I think you have to set it to allow third party apps in your google account. Had the same issue with another app as it claimed it might not be secure.
