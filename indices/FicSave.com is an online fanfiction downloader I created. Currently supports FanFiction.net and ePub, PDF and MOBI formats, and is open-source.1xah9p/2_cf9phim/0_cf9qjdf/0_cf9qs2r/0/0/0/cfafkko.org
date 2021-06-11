@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: waylaidwanderer
+:Score: 2
+:DateUnix: 1391894853.0
+:DateShort: 2014-Feb-09
+:END:
+
+After a bunch of testing, I deduced that it's timing out because of the browser itself. Each browser has a max request time because the connection is closed, and I can't change it server-side. I'm going to have to fix the script to speed up the grabbing process somehow.

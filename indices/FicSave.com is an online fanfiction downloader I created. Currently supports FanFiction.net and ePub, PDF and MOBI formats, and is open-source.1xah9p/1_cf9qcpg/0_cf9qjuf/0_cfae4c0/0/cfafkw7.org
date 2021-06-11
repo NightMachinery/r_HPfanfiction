@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: waylaidwanderer
+:Score: 3
+:DateUnix: 1391894875.0
+:DateShort: 2014-Feb-09
+:END:
+
+It's caused by all those chapters that need to be grabbed and then converted to PDF, which takes longer compared to ePub and MOBI.
+
+After a bunch of testing, I deduced that it's timing out because of the browser itself. Each browser has a max request time because the connection is closed, and I can't change it server-side. I'm going to have to fix the script to speed up the grabbing process somehow.

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: waylaidwanderer
+:Score: 2
+:DateUnix: 1391811615.0
+:DateShort: 2014-Feb-08
+:END:
+
+About how long did it take to timeout? PDFs take longer to generate so I might need to increase the timeout setting.
