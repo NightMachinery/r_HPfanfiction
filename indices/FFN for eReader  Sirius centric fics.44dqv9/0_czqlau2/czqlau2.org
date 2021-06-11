@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 3
+:DateUnix: 1454809519.0
+:DateShort: 2016-Feb-07
+:END:
+
+1) Bot seems to be working fine. Sometimes, connection issues on either side (but usually Reddit's) leads to some replies not getting posted; call =ffnbot!refresh= if you need the bot to go over your comment again.
+
+2) Bot works with PMs now. You can PM your requests to the bot.
+
+3) I recommend using Calibre and FanFicFare together to download fics in bulk, instead of the bot.
