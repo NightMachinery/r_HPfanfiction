@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: rek-lama
+:Score: 6
+:DateUnix: 1608975991.0
+:DateShort: 2020-Dec-26
+:END:
+
+Tick "Force update" so it would download and not serve a cached version and it won't work.
