@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: Rangi42
+:Score: 2
+:DateUnix: 1411828754.0
+:DateShort: 2014-Sep-27
+:END:
+
+Without having read the reviews, I would expect some degree of "so bad it's good" to apply. [[http://tvtropes.org/pmwiki/pmwiki.php/Fanfic/MyImmortal][/My Immortal/]] got plenty of hate-reviews, [[http://tvtropes.org/pmwiki/pmwiki.php/Film/TheRoom][/The Room/]] (arguably [[https://news.ycombinator.com/item?id=7710037][the worst movie on IMDB]]) has a cult following, and I've found [[http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/MahoukaKoukouNoRettousei][/Mahouka/]] itself boring but the [[http://thecartdriver.com/mahouka-is-terrible-on-every-level-a-final-review/][reviews]] [[http://moesucks.com/2014/09/13/mahouka-koukou-no-rettousei-ep-24-clearly-the-gary-stu-is-not-overpowered-enough/][detailing]] exactly why it's terrible are fun to read. The best stories and worst ones both get more attention than the merely boring ones.
+
+To make a good recommender system that could estimate how much /you/ would like a story, not how much the average user did (since as you said, popularity ≠ quality), it would need data on which users favorited which stories (for [[https://en.wikipedia.org/wiki/Collaborative_filtering][collaborative filtering]], or even the full text of the story and its reviews (for [[https://en.wikipedia.org/wiki/Sentiment_analysis][sentiment analysis]]). That's kind of what I wanted to do in the first place, but scraping that much data would be excessive. Maybe something simpler would work, like estimating the [[https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests][reading level]] of the description text?
