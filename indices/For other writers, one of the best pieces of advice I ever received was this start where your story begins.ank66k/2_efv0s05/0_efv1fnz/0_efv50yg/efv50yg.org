@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 14
+:DateUnix: 1549455432.0
+:DateShort: 2019-Feb-06
+:END:
+
+It's a result of the FF.NET uploader removing line breaks. So to avoid having to manually reinsert them, writers started using text dividers.
