@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1434497989.0
+:DateShort: 2015-Jun-17
+:END:
+
+It actually needs next to no processing power. It would easily run on a cheap VPS. I was originally considering running it on a Raspbery Pi, but a VPS might be a better idea now that I think about it.
