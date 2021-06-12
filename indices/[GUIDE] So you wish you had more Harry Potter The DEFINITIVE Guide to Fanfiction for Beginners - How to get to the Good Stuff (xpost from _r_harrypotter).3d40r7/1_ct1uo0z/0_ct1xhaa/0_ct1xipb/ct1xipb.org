@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 8
+:DateUnix: 1436809852.0
+:DateShort: 2015-Jul-13
+:END:
+
+[[http://www.fanfiction.net/s/9238861/1/][*/Applied Cultural Anthropology, or/*]] by [[https://www.fanfiction.net/u/2675402/jacobk][/jacobk/]]
+
+#+begin_quote
+  ... How I Learned to Stop Worrying and Love the Cruciatus. Albus Dumbledore always worried about the parallels between Harry Potter and Tom Riddle. But let's be honest, Harry never really had the drive to be the next dark lord. Of course, things may have turned out quite differently if one of the other muggle-raised Gryffindors wound up in Slytherin instead.
+
+  ^{Harry Potter *|* /Rated:/ Fiction T - English - Adventure - Hermione G., Severus S. *|* /Chapters:/ 14 *|* /Words:/ 130,578 *|* /Reviews:/ 1,524 *|* /Favs:/ 2,567 *|* /Follows:/ 3,286 *|* /Updated:/ 6/21 *|* /Published:/ 4/26/2013 *|* /id:/ 9238861}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}
