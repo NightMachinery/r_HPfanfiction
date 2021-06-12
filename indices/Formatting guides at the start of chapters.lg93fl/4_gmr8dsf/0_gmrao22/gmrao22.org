@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: JWBails
+:Score: 12
+:DateUnix: 1612914324.0
+:DateShort: 2021-Feb-10
+:END:
+
+I'm A-OK with using italics to denote thought instead of speech, the context around it should differentiate between inner thoughts or parseltongue or whatever.
+
+What really gets me is using bold for spells and such. I know expelliarmus is a spell, the context should tell me that Harry is casting it. I really don't need
+
+#+begin_quote
+  *"Expelliarmus!"* Harry yelled.
+#+end_quote
