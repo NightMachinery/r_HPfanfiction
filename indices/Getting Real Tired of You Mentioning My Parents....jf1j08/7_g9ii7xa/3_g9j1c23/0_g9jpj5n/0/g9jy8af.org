@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: ParanoidDrone
+:Score: 5
+:DateUnix: 1603297193.0
+:DateShort: 2020-Oct-21
+:END:
+
+Use the carat (^) symbol to turn the next word into a superscript. Use parentheses to turn the next series of words into a superscript, or to apply the superscript to only part of a word. (Periods count here, so this is useful for when it's at the end of a sentence.) Use multiple carats to make the superscript even smaller and tinier.
+
+^{Example} the first. =^Example the first.=\\
+^{Example the second.} =^(Example the second.)=\\
+^{^{^{Example}}} the third. =^^^Example the third.=
