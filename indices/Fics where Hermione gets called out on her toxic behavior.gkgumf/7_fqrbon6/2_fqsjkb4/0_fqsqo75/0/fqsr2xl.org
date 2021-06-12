@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Vercalos
+:Score: 1
+:DateUnix: 1589615880.0
+:DateShort: 2020-May-16
+:END:
+
+No worries. Bots are temperamental. If you ever need bots to do things after commented the incorrect code(or you just add more suggestions), you'll need to include "ffnbot!refresh" in the edited message.
