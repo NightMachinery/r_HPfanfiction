@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: JalapenoEyePopper
+:Score: 2
+:DateUnix: 1563678192.0
+:DateShort: 2019-Jul-21
+:END:
+
+If you pasted that passage into a Reddit app, it may have auto-escaped the spoiler markdown.
+
+I don't use the official app, so I'm not sure exactly, but you may need to look for "markdown mode" in the text editor and remove a slash from in front of the >
