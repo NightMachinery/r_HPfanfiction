@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: deirox
+:Score: 2
+:DateUnix: 1577985676.0
+:DateShort: 2020-Jan-02
+:END:
+
+[[https://github.com/p0ody/ff2ebook/issues/19][It's an issue with the old version of ff2ebook]]. Unfortunately the new version doesn't seem to have a way to construct direct download URLs.
