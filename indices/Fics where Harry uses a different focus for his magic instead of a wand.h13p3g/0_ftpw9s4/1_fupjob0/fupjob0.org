@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: Miqdad_Suleman
+:Score: 2
+:DateUnix: 1592061983.0
+:DateShort: 2020-Jun-13
+:END:
+
+You just put the story ID (in this case, 689909) from the URL and put it after either linkao3 (if it's on [[https://archiveofourown.org][archiveofourown.org]]) or linkffn (if it's on [[https://fanfiction.net][fanfiction.net]]). You can also just out the story name instead of the ID and that should work, especially if you also use the Author name.
+
+[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Here]]'s an 'Extended Bot Usage' guide that might help a bit more than I can.
