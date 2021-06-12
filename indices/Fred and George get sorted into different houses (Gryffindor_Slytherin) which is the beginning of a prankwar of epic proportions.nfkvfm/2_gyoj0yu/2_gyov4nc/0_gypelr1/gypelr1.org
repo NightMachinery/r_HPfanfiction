@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: healzsham
+:Score: 5
+:DateUnix: 1621437129.0
+:DateShort: 2021-May-19
+:END:
+
+Don't mash save, it'll stack up a bunch of the comment if the instruction manages to go through.
