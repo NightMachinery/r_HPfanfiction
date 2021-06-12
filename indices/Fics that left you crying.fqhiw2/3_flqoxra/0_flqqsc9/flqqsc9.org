@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: FrameworkisDigimon
+:Score: 1
+:DateUnix: 1585403775.0
+:DateShort: 2020-Mar-28
+:END:
+
+General Reddit links work like this:
+
+[text](url)
+
+The linking bot I've never used but I think it's just changing the bit in the brackets as appropriate.
