@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: OutOfNiceUsernames
+:Score: 2
+:DateUnix: 1381595924.0
+:DateShort: 2013-Oct-12
+:END:
+
+Install [[https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/][AdBlock+]] and then its sub-addon, [[https://addons.mozilla.org/en-US/firefox/addon/elemhidehelper/][Element Hiding Helper]]. This will allow you to hide unwanted web-page elements.
