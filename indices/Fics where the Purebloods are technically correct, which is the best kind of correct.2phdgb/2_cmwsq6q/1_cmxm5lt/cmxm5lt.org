@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: denarii
+:Score: 1
+:DateUnix: 1418830244.0
+:DateShort: 2014-Dec-17
+:END:
+
+That's a link with alt text, [[/spoiler][spoilers]] are [spoiler](/spoiler).
