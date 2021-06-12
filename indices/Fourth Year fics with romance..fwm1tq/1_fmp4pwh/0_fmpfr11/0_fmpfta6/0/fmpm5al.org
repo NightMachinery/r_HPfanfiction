@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Alion1080
+:Score: 3
+:DateUnix: 1586283286.0
+:DateShort: 2020-Apr-07
+:END:
+
+Don't capitalize the first letter in "linkffn". Also, as a recommendation: very often, two or more stories share the same title on the same platform, like fanfiction.net, for example, which can lead to some bot shenanigans here. To avoid that it's better to link the story's url code instead of the title, since those are always unique to a specific fic. So if you wanted to link Honor Thy Blood by TheBlack'sResurgence, you can do it like this: linkffn(12155794)
