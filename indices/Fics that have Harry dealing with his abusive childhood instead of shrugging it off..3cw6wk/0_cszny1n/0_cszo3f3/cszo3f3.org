@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1436621165.0
+:DateShort: 2015-Jul-11
+:END:
+
+[[http://www.fanfiction.net/s/10449375/1/][*/The Cupboard Under the Stairs/*]] by [[https://www.fanfiction.net/u/5643202/Stargon1][/Stargon1/]]
+
+#+begin_quote
+  A mysterious green inked letter banished Harry from his cupboard. But does taking the boy out of the cupboard also mean that you've taken the cupboard out of the boy? A first year fic.
+
+  ^{Harry Potter *|* /Rated:/ Fiction K - English - Adventure/Friendship - Harry P., Hermione G. *|* /Chapters:/ 22 *|* /Words:/ 51,301 *|* /Reviews:/ 395 *|* /Favs:/ 847 *|* /Follows:/ 569 *|* /Updated:/ 8/28/2014 *|* /Published:/ 6/14/2014 *|* /Status:/ Complete *|* /id:/ 10449375}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}
