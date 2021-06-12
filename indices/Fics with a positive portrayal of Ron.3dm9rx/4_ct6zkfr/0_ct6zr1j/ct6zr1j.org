@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1437166029.0
+:DateShort: 2015-Jul-18
+:END:
+
+[[http://www.fanfiction.net/s/1914111/1/][*/The Price of Love/*]] by [[https://www.fanfiction.net/u/611055/RogueSugah][/RogueSugah/]]
+
+#+begin_quote
+  Hermione & Ron spend the summer together, but the closer they get, the harder it becomes to share her secret plan even though she must. If love really is stronger than hate, as she believes, their feelings for each other may be enough to save them all.
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Romance/Adventure - Hermione G., Ron W. *|* /Chapters:/ 79 *|* /Words:/ 471,470 *|* /Reviews:/ 938 *|* /Favs:/ 719 *|* /Follows:/ 194 *|* /Updated:/ 3/2/2006 *|* /Published:/ 6/16/2004 *|* /id:/ 1914111}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}

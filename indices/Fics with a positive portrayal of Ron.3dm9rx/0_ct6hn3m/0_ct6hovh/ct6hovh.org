@@ -1,0 +1,32 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 3
+:DateUnix: 1437137755.0
+:DateShort: 2015-Jul-17
+:END:
+
+[[http://www.fanfiction.net/s/6452481/1/][*/Gryffindors Never Die/*]] by [[https://www.fanfiction.net/u/1004602/ChipmonkOnSpeed][/ChipmonkOnSpeed/]]
+
+#+begin_quote
+  Harry and Ron, both 58 and both alcoholics, are sent back to their 4th year and given a chance to do everything again. Will they be able to do it right this time? Or will history repeat itself? Cannon to Epilogue, then not so much...
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Humor/Friendship - Harry P., Ron W. *|* /Chapters:/ 18 *|* /Words:/ 74,394 *|* /Reviews:/ 560 *|* /Favs:/ 2,101 *|* /Follows:/ 581 *|* /Updated:/ 12/29/2010 *|* /Published:/ 11/4/2010 *|* /Status:/ Complete *|* /id:/ 6452481}
+#+end_quote
+
+[[http://www.fanfiction.net/s/9742543/1/][*/Boys 'Round Here/*]] by [[https://www.fanfiction.net/u/1004602/ChipmonkOnSpeed][/ChipmonkOnSpeed/]]
+
+#+begin_quote
+  With Sirius Black on the loose, Harry and Ron arrive for their 3rd year as rambunctious, loud, obnoxious teenagers. Sounds normal. Why, then, is Albus Dumbledore so worried? Is it going to be just a normal year at Hogwarts? Is it ever when a Potter is involved?
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Drama/Humor - Harry P., Ron W., Severus S., Albus D. *|* /Chapters:/ 6 *|* /Words:/ 21,518 *|* /Reviews:/ 98 *|* /Favs:/ 211 *|* /Follows:/ 310 *|* /Updated:/ 3/15 *|* /Published:/ 10/5/2013 *|* /id:/ 9742543}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}

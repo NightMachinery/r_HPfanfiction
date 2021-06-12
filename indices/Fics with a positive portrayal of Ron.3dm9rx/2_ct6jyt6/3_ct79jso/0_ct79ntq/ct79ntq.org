@@ -1,0 +1,40 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1437184217.0
+:DateShort: 2015-Jul-18
+:END:
+
+[[http://www.fanfiction.net/s/282139/1/][*/After the End/*]] by [[https://www.fanfiction.net/u/62739/Sugar-Quill][/Sugar Quill/]]
+
+#+begin_quote
+  A post-Hogwarts story by Zsenya and Arabella
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Romance *|* /Chapters:/ 46 *|* /Words:/ 632,204 *|* /Reviews:/ 1,474 *|* /Favs:/ 1,361 *|* /Follows:/ 141 *|* /Updated:/ 6/20/2003 *|* /Published:/ 5/12/2001 *|* /id:/ 282139}
+#+end_quote
+
+[[http://www.fanfiction.net/s/9010540/1/][*/The Black Library/*]] by [[https://www.fanfiction.net/u/1691858/Rokesmith][/Rokesmith/]]
+
+#+begin_quote
+  Years after the war, an unusual request from Draco Malfoy starts Harry, Ron and Hermione on the case of a wizard obsessed with the past. But the stakes rise and the investigation becomes a race against time as long buried secrets threaten to come to light.
+
+  ^{Harry Potter *|* /Rated:/ Fiction T - English - Mystery - Harry P., Ron W. *|* /Chapters:/ 8 *|* /Words:/ 37,984 *|* /Reviews:/ 56 *|* /Favs:/ 58 *|* /Follows:/ 21 *|* /Updated:/ 3/9/2013 *|* /Published:/ 2/14/2013 *|* /Status:/ Complete *|* /id:/ 9010540}
+#+end_quote
+
+[[http://www.fanfiction.net/s/9706917/1/][*/Phantom Limb/*]] by [[https://www.fanfiction.net/u/4675499/MsComrade][/MsComrade/]]
+
+#+begin_quote
+  Sanji would never hesitate to take a hit for his crewmates, especially Zoro. But will the cook ever be able to recover from this devastating injury?
+
+  ^{One Piece *|* /Rated:/ Fiction T - English - Angst/Hurt/Comfort - Sanji, Zoro *|* /Chapters:/ 8 *|* /Words:/ 16,925 *|* /Reviews:/ 45 *|* /Favs:/ 71 *|* /Follows:/ 95 *|* /Updated:/ 2/2/2014 *|* /Published:/ 9/22/2013 *|* /id:/ 9706917}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}

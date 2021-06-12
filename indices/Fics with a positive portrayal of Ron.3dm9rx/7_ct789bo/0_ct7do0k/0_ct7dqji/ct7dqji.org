@@ -1,0 +1,32 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1437192467.0
+:DateShort: 2015-Jul-18
+:END:
+
+[[http://www.fanfiction.net/s/7539141/1/][*/Incorruptible: The Dementor's Stigma/*]] by [[https://www.fanfiction.net/u/1490083/The-Matt-Silver][/The Matt Silver/]]
+
+#+begin_quote
+  A year has passed since the dead started returning to life, and the fate of the world depends on the best and the worst of humanity, the wizards and the Muggles, with politics and the undead in between. A Harry Potter Zombie Apocalypse Fanfiction.
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Suspense - [Harry P., Astoria G.] Ron W., Draco M. *|* /Chapters:/ 16 *|* /Words:/ 264,164 *|* /Reviews:/ 279 *|* /Favs:/ 608 *|* /Follows:/ 379 *|* /Updated:/ 3/8/2012 *|* /Published:/ 11/10/2011 *|* /Status:/ Complete *|* /id:/ 7539141}
+#+end_quote
+
+[[http://www.fanfiction.net/s/2980054/1/][*/The Resistance of Azkaban/*]] by [[https://www.fanfiction.net/u/524094/Shezza][/Shezza/]]
+
+#+begin_quote
+  It's been twenty five years since the death of Albus Dumbledore and the Ministry of Magic is now under the control of Lord Voldemort. Those who oppose him place themselves under the command of Harry Potter, former Auror and ruler of the island of Azkaban
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Adventure - Harry P. *|* /Chapters:/ 22 *|* /Words:/ 146,999 *|* /Reviews:/ 721 *|* /Favs:/ 1,166 *|* /Follows:/ 482 *|* /Updated:/ 11/6/2007 *|* /Published:/ 6/7/2006 *|* /Status:/ Complete *|* /id:/ 2980054}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}
