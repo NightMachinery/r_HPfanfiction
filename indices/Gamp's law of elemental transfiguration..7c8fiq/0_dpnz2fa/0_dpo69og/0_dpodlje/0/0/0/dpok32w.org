@@ -1,0 +1,32 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 3
+:DateUnix: 1510438193.0
+:DateShort: 2017-Nov-12
+:END:
+
+#+begin_quote
+  Nutrition is non-physical, but wizards do not know this, so it's listed as an exception.
+#+end_quote
+
+It depends on how you interpret the rule. One interpretation is that you can use transfiguration to make stuff that looks and tastes like food but carries no nutritive value. If that's the case then yes, strictly speaking it's a "definition of transfiguration" matter rather than an exception. But an alternative interpretation is that you simply cannot create food, at all. That would make it a genuine exception.
+
+The ability to create animals which could be used for food rather pushes you towards the first interpretation. However, the fact that during DH camping they couldn't even use transfiguration to make the food they had taste better supports the idea of "you can't make food, period". Hermione says she doesn't know cooking charms, which is why she couldn't use Charms to make the taste better like Mrs Weasley does. But she definitely knows animate transfiguration.
+
+#+begin_quote
+  ...Author fiat? Value is a non-physical property, and transfigured objects are known to be worthless? Wow that explains why there's an economy. I think.
+#+end_quote
+
+Ultimately all of them are pretty arbitrary in the author fiat sense. They're the basic rules of transfiguration, so I'm not sure that they can be /explained/ (in the sense of putting them in terms of something more basic). They can just be described.
+
+#+begin_quote
+  Wait, now why is Secrets an exception? Voldemort's horcrux is a specific object. You can't reference it. The photo should be replicable if it's widespread, otherwise it's not a generic object. Now I think Secrets are a part of Novelty. Can you distinguish them further?
+#+end_quote
+
+Your decision to go specific/generic is not quite what I had in mind with novelty, which was more narrowly focused on one-of-a-kind items. However, on reflection the generic/specific definition is better.
+
+That of course leaves a fifth exception to be filled. My inclination is for it to have something to do with size. My version of Gamp's law - any object can be changed into any object - leaves open the possibility of transforming a stone into a star. Now, while this possibility can easily be closed off by reference to things wizards know how to do vs. theoretical magical possibilities, it might be nice to close off the possibility. That said, I would be extremely averse to any kind of "equivalent mass" rule or anything so connected to the concepts of Muggle physics.
+
+EDIT: I have changed my mind on further consideration, and after reading [[/u/Kazeto][u/Kazeto]] below. The problem is possession, not just knowledge. Let's say you're an Auror investigating a crime. You know Lucius Malfoy did it. You know he used a knife purchased from Dervish and Banges to do it. You know if you had the knife, you would find the fingerprints of the victim on the handle. But you don't have the knife, so you can't prove it.
+
+If "secrets" is not an exception, then under the generic/specific rule developed above, the Auror can transfigure the knife with the fingerprint on, because they have all the specific knowledge required to do so. But possession adds a huge amount of value over mere knowledge, because now you have an object you can enter into evidence. The only way Lucius can prove it's a transfiguration is by producing the original knife, which of course lands him in the same trouble.

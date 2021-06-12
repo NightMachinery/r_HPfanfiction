@@ -1,0 +1,32 @@
+:PROPERTIES:
+:Author: 295Kelvin
+:Score: 3
+:DateUnix: 1510434820.0
+:DateShort: 2017-Nov-12
+:END:
+
+So, I think I got this:
+
+Transfiguration cannot reference a specific entity to base on, but it can a generic one. If you know about the specific one, you can modify the generic to copy it.
+
+For the homework example: You can reference a generic piece of paper and apply your own knowledge to fill it. However, you cannot reference your previous work, because it's unique. The new paper may have different wording, slightly different handwriting, the paper might not be crumpled, etc.
+
+Does this mean someone with eidetic memory could /appear/ to break this rule?
+
+Yeah, I think that's a good exception.
+
+--------------
+
+Explanations:
+
+1. Nutrition is non-physical, but wizards do not know this, so it's listed as an exception.
+
+2. ...Author fiat? Value is a non-physical property, and transfigured objects are known to be worthless? Wow that explains why there's an economy. ^{I think.}
+
+3. There has to be reference material, i.e. transfiguration cannot innovate.
+
+4. Reference material only includes generic entities.
+
+5. See 4.
+
+Wait, now why is Secrets an exception? Voldemort's horcrux is a specific object. You can't reference it. The photo should be replicable /if/ it's widespread, otherwise it's not a generic object. Now I think Secrets are a part of Novelty. Can you distinguish them further?
