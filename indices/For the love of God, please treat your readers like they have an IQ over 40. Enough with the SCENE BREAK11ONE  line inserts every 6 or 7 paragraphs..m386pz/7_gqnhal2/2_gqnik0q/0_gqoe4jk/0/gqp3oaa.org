@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: dtrower
+:Score: 0
+:DateUnix: 1615562102.0
+:DateShort: 2021-Mar-12
+:END:
+
+As someone that has been involved in web design for over 20 years, line breaks (<br>) and horizontal rules (<hr>) elements are not new. They have existed since at least 1995 with the HTML 2 specificiation. Just because an editor like the one on FFN didn't support them for the longest time, doesn't mean the ability itself didn't/doesn't exist in HTML.

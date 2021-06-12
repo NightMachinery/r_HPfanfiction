@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: SnowingSilently
+:Score: 5
+:DateUnix: 1615619215.0
+:DateShort: 2021-Mar-13
+:END:
+
+Are you trying to do an indentation with four spaces? In reddit's version of markdown that results in a codeblock. I think putting a backslash (\) before a space should work though, let me try:
+
+     bears bare pears.
+
+Edit: nope, backslash doesn't work. I'll experiment some more.
+
+Edit 2: Okay, HTML works, so & nbsp with no space works for one space.

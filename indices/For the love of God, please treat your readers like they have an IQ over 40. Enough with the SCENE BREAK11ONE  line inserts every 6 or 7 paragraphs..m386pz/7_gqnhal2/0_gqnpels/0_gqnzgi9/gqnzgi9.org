@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: alvarkresh
+:Score: 29
+:DateUnix: 1615531574.0
+:DateShort: 2021-Mar-12
+:END:
+
+What I want to know is why text to speech so badly mishandles a /standard HTML element/.
+
+Like, it should not be news that <hr /> means a text separator.
