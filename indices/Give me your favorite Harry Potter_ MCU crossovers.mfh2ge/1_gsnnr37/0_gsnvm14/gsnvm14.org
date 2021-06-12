@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: Erska
+:Score: 4
+:DateUnix: 1617001062.0
+:DateShort: 2021-Mar-29
+:END:
+
+I feel the easiest way is to use the normal reddit linking,
+
+=[Reborn](https://www.fanfiction.net/s/13622324)= --> [[https://www.fanfiction.net/s/13622324][Reborn]]
+
+then throwing at =ffnbot!directlinks= the end of your post
+
+another way is to use =linkffn(name or link or id)= to have the bot try to find that fic in FanFiction.Net
+
+--------------
+
+ffnbot!directlinks
