@@ -1,0 +1,11 @@
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1439789446.0
+:DateShort: 2015-Aug-17
+:END:
+
+[[https://github.com/dhasenan/fanfiction.ebook]]
+
+Unfortunately, I refactored it and the mote-it-not filter isn't working, but I'll fix that soon.
+
+If you're not familiar with how to run Python applications from the command line, this isn't the tool for you.
