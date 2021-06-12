@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1577050827.0
+:DateShort: 2019-Dec-23
+:END:
+
+It should be fairly trivial since the code is cross platform but I don't have a macbook to compile on. So the version will materialize as soon as someone appears to compile it for a Mac.Meanwhile people have been using it through WINE, but I have conflicting reports of whether it actually works there
