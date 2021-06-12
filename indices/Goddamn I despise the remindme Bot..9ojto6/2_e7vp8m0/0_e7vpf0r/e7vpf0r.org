@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Saelora
+:Score: 1
+:DateUnix: 1539709918.0
+:DateShort: 2018-Oct-16
+:END:
+
+also, interesting trivia: the reminder bot WILL find it's trigger phrase mid sentence, and if it can't detect a number it'll treat x days as one day by default...
