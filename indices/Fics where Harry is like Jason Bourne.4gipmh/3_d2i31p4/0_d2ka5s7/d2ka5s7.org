@@ -1,0 +1,15 @@
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1461815420.0
+:DateShort: 2016-Apr-28
+:END:
+
+ffnbot!parent
+
+Also you can always post links then do
+
+#+begin_example
+  ffnbot!directlinks
+#+end_example
+
+and it will parse them without any other user input.
