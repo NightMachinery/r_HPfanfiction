@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: pvoberstein
+:Score: 6
+:DateUnix: 1532041912.0
+:DateShort: 2018-Jul-20
+:END:
+
+Because it's still technically in "[[https://en.wikipedia.org/wiki/Software_release_life_cycle#Open_and_closed_beta][open beta]]". Presumably it'll be out of beta once it gets a 1.0 stable release, but right now it's still [[https://github.com/otwcode/otwarchive/commits/v0.9.218.10][v0.9.218.10]].
