@@ -1,0 +1,20 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1500303712.0
+:DateShort: 2017-Jul-17
+:END:
+
+[[http://www.fanfiction.net/s/3733521/1/][*/The Price of Magic/*]] by [[https://www.fanfiction.net/u/466799/Acid-and-Sinick][/Acid and Sinick/]]
+
+#+begin_quote
+  Haunted by the ghost of a student, a former wizard struggles to preserve magical knowledge for the future generations.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 12 *|* /Words/: 171,514 *|* /Reviews/: 52 *|* /Favs/: 134 *|* /Follows/: 39 *|* /Updated/: 1/21/2011 *|* /Published/: 8/19/2007 *|* /Status/: Complete *|* /id/: 3733521 *|* /Language/: English *|* /Genre/: Supernatural/Romance *|* /Characters/: Harry P., Severus S. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=3733521&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=3733521&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
