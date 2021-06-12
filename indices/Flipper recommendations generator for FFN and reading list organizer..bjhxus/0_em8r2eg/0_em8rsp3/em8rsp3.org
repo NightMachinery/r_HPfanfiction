@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1556733131.0
+:DateShort: 2019-May-01
+:END:
+
+Short answer: possibly.
+
+Long answer: It depends on how succesful I am at switching the database to postgres. Currently all data is kept on user side and I don't want to go mobile until I can have actual synchronized user accounts. And this requires actual writes to server side DB, which currently never happens.

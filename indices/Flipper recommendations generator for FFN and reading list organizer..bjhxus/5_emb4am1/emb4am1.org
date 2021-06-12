@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: therkleon
+:Score: 1
+:DateUnix: 1556798058.0
+:DateShort: 2019-May-02
+:END:
+
+This looks amazing. I have looked into making a recommendations program myself, but couldn't find a ff.net API and I didn't want to write a custom crawler. I'll play around with this program some when I get home on Sunday.
