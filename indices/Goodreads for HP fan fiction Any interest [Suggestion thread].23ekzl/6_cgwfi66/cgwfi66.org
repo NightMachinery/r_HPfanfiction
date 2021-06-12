@@ -1,0 +1,20 @@
+:PROPERTIES:
+:Author: OutOfNiceUsernames
+:Score: 1
+:DateUnix: 1397899531.0
+:DateShort: 2014-Apr-19
+:END:
+
+#+begin_quote
+  what features would you guys want on such a site?
+#+end_quote
+
+- 10-point rating system,
+- a parser function for various websites to import story metadata,
+- [[http://imgur.com/yLZNng0][Goodreads-like metadata]] with (preferably) additional subcategories for both HP-specific themes and TVTropes,
+
+  - ability to search by these data.
+
+- Goodreads-like bookshelves,
+- ability to add an archived backup of the story, so it can be either downloaded directly from the website, or automatically uploaded to a 3rd party hosting (g.Docs, Dropbox, etc account, but in possession of the server and not the user).
+- multiple-criteria search and sorting system---for instance so that sorting by both rating and word count, short stories that have very good ratings will not be displayed on the first page.

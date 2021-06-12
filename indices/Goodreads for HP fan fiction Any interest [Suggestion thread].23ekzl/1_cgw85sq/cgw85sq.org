@@ -1,0 +1,37 @@
+:PROPERTIES:
+:Author: Servalpur
+:Score: 3
+:DateUnix: 1397872060.0
+:DateShort: 2014-Apr-19
+:END:
+
+#+begin_quote
+  Question 1: Is there a Goodreads-esque site for Harry Potter fanfiction?
+#+end_quote
+
+No.
+
+#+begin_quote
+  Question 2: If not, what features would you guys want on such a site?
+#+end_quote
+
+Going down the list of features that would actually get my attention:
+
+- A quality 5 star rating system.
+- A comment and review system
+- Recommendation system based on what others have read and reviewed, similiar to myanimelist.
+- A search system that includes everything on [[http://scryer.darklordpotter.net/][Scryer]], as well as the ability to custom tag stories and then search them.
+
+#+begin_quote
+  Question 4: Is anyone interested in helping out? Back-end will be written in Flask, front-end be written in a Backbone framework, and I'll be open sourcing the entire project on Github. I would love to have a few more developers chipping in some of their time to help out, or a Photoshop guru to come up with a kick-ass design.
+
+  Also, I've only been in the world of Harry Potter fan fiction for a month. If you can think of any clever domains, PM me or post 'em so I can buy them on NameCheap.
+#+end_quote
+
+Unfortunately, I haven't worked in web development for 10+ years, and wouldn't know the first thing about helping on the backend. I'd be willing to help fill out the content that would actually be searched. Link, review, and rate fics for instance.
+
+Something else to keep in mind: You might look into whether it would be possible to either automatically, or manually bring in data from the DLP forums. They have a massive backlog of high(er) quality fics, all with a 5 star rating system and a consistent listing format in the posts.
+
+Last thing I have to bring up, because it's time to be a debby downer. This idea would have been amazing 7 years ago. Today? I honestly don't think there's enough of a population left in the HPfanfiction world to actually sustain it. DLP is all but dead realistically, so is mugglenet and all the old livejournal communities. I've been told Tumbler has kind of picked up the LJ stuff, but I haven't been able to find them. Even this subreddit only has 2k subs on it, and it's probably the most active HP fanfiction site I can think of.
+
+It's a cool idea, and I'd be happy to help out if I could. I just don't think it's sustainable.

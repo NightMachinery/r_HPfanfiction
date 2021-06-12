@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: denarii
+:Score: 1
+:DateUnix: 1397926040.0
+:DateShort: 2014-Apr-19
+:END:
+
+#+begin_quote
+  ability to add an archived backup of the story, so it can be either downloaded directly from the website, or automatically uploaded to a 3rd party hosting (g.Docs, Dropbox, etc account, but in possession of the server and not the user).
+#+end_quote
+
+While ideal, this might be problematic in terms of legality.
