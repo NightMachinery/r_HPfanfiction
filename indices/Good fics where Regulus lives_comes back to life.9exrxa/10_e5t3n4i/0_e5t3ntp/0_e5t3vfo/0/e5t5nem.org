@@ -1,0 +1,20 @@
+:PROPERTIES:
+:Author: MystycMoose
+:Score: 1
+:DateUnix: 1536702824.0
+:DateShort: 2018-Sep-12
+:END:
+
+Call: ffnbot!refresh
+
+Place: reply to the original post that has the ffnbot call you want to redo
+
+Additional tips:
+
+1) you probably should edit the original post, or it will be unlikely that re-calling the bot will do anything different a second time. Most likely you have a spelling error.
+
+2) Alternatively, just change the title in the original call to the full url or the story ID number. Those are more accurate if you have the time to grab them.
+
+3) at the bottom of every ffnbot post there is a "usage" link. Find this info and more there in the future if you need it!
+
+4) once the bot refreshes, you can delete your ffnbot!refresh subcomment if you want and no one will ever know ;)
