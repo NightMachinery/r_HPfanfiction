@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: iendesu
+:Score: 1
+:DateUnix: 1598568608.0
+:DateShort: 2020-Aug-28
+:END:
+
+I sometimes have this problem, and what I noticed is it happens whenever I swipe (instead of tap) from the summary(?) page. I really don't know what you call it, but it's the one that features summary and comments/reviews. If you swipe from there instead of tap, you'll be directed to the first chapter, even if you're already on the nth chapter. But when you tap in the general area of the summary or title, you'll be directed to where you last stopped.
