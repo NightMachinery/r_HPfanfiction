@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1531336982.0
+:DateShort: 2018-Jul-11
+:END:
+
+I have found what caused it. Expect 0.9.2 on github in a couple minutes

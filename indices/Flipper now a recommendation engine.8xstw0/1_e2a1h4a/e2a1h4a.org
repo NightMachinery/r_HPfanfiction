@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: bgottfried91
+:Score: 2
+:DateUnix: 1531428911.0
+:DateShort: 2018-Jul-13
+:END:
+
+Great work, as always. UI is great and the tool adds a lot of utility without being too feature bloated.
+
+Just a heads up though, Avast flagged the exe as potentially harmful, which I don't remember happening with the 1.0 version? Though I might not have had it installed at that point. Regardless, not sure if there's anything you can provide to them/other AV vendors to legitimize it or if you just have to wait for it to get into their systems, but in the meantime you might want to alert people that it might be flagged by AV software so they don't freak out

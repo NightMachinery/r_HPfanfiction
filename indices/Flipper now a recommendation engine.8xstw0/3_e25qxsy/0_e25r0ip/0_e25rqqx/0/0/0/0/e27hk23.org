@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1531334727.0
+:DateShort: 2018-Jul-11
+:END:
+
+oh.... iiiiiinteresting. the problem seems to be with QML not recognizing some specific fics under the cursor. it's always the Red Knight at least so at least I have a test case. Thanks for finding this out.

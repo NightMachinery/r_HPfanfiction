@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: ShaddyDC
+:Score: 1
+:DateUnix: 1531401702.0
+:DateShort: 2018-Jul-12
+:END:
+
+Hey, you can always link to the latest version instead of always updating the tags like [[https://github.com/Zeks/flipper/releases/latest][this]]. Just a headsup! :)
