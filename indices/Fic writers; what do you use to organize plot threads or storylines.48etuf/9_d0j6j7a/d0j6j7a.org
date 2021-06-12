@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: muted90
+:Score: 2
+:DateUnix: 1456824068.0
+:DateShort: 2016-Mar-01
+:END:
+
+I use a combination of Google Sheets and Evernote for organizing.
+
+In Sheets, the rows have the scenes and twists I need organized chronologically. I use columns for chapter, description of the scene, approximate date of event, and POV. If there's subplots, I add one column to identify if the scenes are part of the main plot, romance, etc. (This makes it easier to filter it if I just want to see how just one plot is going.) A final column is labeled links, which is where Evernote comes in.
+
+I organize the scenes in Evernote. They're often written in Notepad, but I get confused when I got a whole bunch of scenes and parts of scenes in one document. So I cut and paste scenes into Evernote. I can create a note and name it something like "Harry finds Sirius" and another "Ginny talks to Arthur." They're separate. I can tag them based on character POV and nest those under the .scene tag. Backstory and explanations get nested under another tag. I know what's happening chronologically and what scenes I still need to write by copying the link of the note into the column in Sheets.
+
+It's awesome being able to access Sheets and Evernote from everywhere too. I tried carrying around pen and paper for if I'm waiting somewhere, but I prefer just adding notes to my phone.
