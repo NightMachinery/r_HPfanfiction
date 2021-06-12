@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: alexandersvendsen
+:Score: 1
+:DateUnix: 1401823677.0
+:DateShort: 2014-Jun-03
+:END:
+
+I can´t get it to export a pdf file or any other file either, and instead it stays at about 90-99% complete. However at this point it has made a html file in the output folder. Have you checked?
+
+Edit: nevermind. It seems you have found a different solution.
