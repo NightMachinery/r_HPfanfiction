@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: pet_genius
+:Score: 1
+:DateUnix: 1564928270.0
+:DateShort: 2019-Aug-04
+:END:
+
+#+begin_example
+  ffnbot!refresh
+#+end_example
