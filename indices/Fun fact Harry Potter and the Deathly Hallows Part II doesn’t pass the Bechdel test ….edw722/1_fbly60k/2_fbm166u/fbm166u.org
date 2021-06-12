@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 5
+:DateUnix: 1576975572.0
+:DateShort: 2019-Dec-22
+:END:
+
+You've hit upon the problem of [[https://en.wikipedia.org/wiki/Operationalization][operationalisation]], I think: we have a concept ("spirit") that we want to assess that we can mostly agree on, but coming up with an instrument (a "test") that we can use to decide what movies (or what fraction of movies) incorporate this concept is much more difficult, and it is likely that any test will exclude some cases that we would, in retrospect, want to include; and include some cases that fit its letter but not its spirit.
+
+The bottom line is that social sciences worth the name are /hard/, and Bechdel Test is just one, imperfect operationalisation, which caught on because of its simplicity and first-mover advantage. For all its imperfection, it has certainly proved to be a useful one.
