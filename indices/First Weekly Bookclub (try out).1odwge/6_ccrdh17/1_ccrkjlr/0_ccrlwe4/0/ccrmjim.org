@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: xachariah
+:Score: 2
+:DateUnix: 1381779761.0
+:DateShort: 2013-Oct-14
+:END:
+
+To be honest, I do some programming but I'm not really a CSS guy. But yeah, ff.net overrode the ability to select things by wrapping them in a custom container that told your browser (through CSS) it was unclickable.
+
+IIRC, if you look through the source, the thing FF.net uses to do the job is their custom built nocopy class.

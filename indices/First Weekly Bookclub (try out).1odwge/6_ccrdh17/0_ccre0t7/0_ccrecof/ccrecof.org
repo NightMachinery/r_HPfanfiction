@@ -1,0 +1,17 @@
+:PROPERTIES:
+:Author: OutOfNiceUsernames
+:Score: 2
+:DateUnix: 1381755534.0
+:DateShort: 2013-Oct-14
+:END:
+
+Thanks.
+
+I thought such techniques are pretty much abandoned by now. Interestingly enough, you can't copy the text even if all javascripts are disabled. And there doesn't seem to be any invisible blocking elements either.
+
+Anyway, to copy it you can do the following:
+
+1. (for Firefox) install [[https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/][Greasemonkey]];
+2. install and use [[http://userscripts.org/scripts/show/33325][Fanfiction.net story export script]] to load all chapters on the same page;
+3. save the changed page with full content as html or mht (using [[https://addons.mozilla.org/en-US/firefox/addon/unmht/][UnMHT]]);
+4. open the html / mht with your text editor (e.g. MS Word) and convert it to the proper format (e.g. docx). Or just copy everything from the opened html / mht and paste into a regular new document.

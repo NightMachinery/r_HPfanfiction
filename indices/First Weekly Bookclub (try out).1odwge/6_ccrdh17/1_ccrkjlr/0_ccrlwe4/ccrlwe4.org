@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: OutOfNiceUsernames
+:Score: 2
+:DateUnix: 1381778078.0
+:DateShort: 2013-Oct-14
+:END:
+
+Nice! It works, thanks.
+
+So ff.net overrides the text merely through CSS? Can you tell what do they use for the top “layer”?
+
+p.s. You can also add [[http://www.mrtech.com/extensions/#toolkit][/MR Tech's Toolkit/]] to your instruction to help others find usercontent.css more easily. It adds several options in F→Tools→Edit My Config, among which are access points to userContent and userChrome.
