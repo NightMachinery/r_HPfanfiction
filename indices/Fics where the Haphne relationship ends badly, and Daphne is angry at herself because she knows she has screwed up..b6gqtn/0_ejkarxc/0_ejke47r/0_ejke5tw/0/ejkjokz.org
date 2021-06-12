@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: Thomaz588
+:Score: 4
+:DateUnix: 1553778274.0
+:DateShort: 2019-Mar-28
+:END:
+
+(apologies if you've already figured this out)
+
+To clarify: the issue was that the bot can only auto link stories from the original comment post. Since you EDITED the story link in secondarily, you have to manually call the bot back to re-check your links... which is what the command I commented did.
