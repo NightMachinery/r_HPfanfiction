@@ -1,0 +1,22 @@
+:PROPERTIES:
+:Author: Selethe
+:Score: 7
+:DateUnix: 1487355444.0
+:DateShort: 2017-Feb-17
+:END:
+
+In the process of reading, but I've noticed an issue with your dialogue tags (at least in the first chapter).
+
+You write...
+
+#+begin_quote
+  "Hey, I love cake," *S*he said, sitting down.
+#+end_quote
+
+Should be...
+
+#+begin_quote
+  "Hey, I love cake," *s*he said, sitting down.
+#+end_quote
+
+The tags are fine in later sections, but just in case it escaped your notice they aren't fixed at the very beginning.
