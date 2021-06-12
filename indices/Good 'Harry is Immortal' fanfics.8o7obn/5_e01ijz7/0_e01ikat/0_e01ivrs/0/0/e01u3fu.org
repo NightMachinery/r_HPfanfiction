@@ -1,0 +1,7 @@
+:PROPERTIES:
+:Score: 8
+:DateUnix: 1528049258.0
+:DateShort: 2018-Jun-03
+:END:
+
+The whole "good bot" "bad bot" thing is call to another bot that tallies up votes on which is the best bot on reddit. [[https://goodbot-badbot.herokuapp.com/][link]] Most people find the constant good bot crap irritating.
