@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: ceplma
+:Score: 5
+:DateUnix: 1579349230.0
+:DateShort: 2020-Jan-18
+:END:
+
+If it actually worked (which apparently it doesn't right now :( ), then there is a bot which goes through all new comments on this subreddit and fills in the extensive additional information about the story. See for example [[https://www.reddit.com/r/HPfanfiction/comments/eppr91/character_goes_to_university/felfjpd/]] If you look at the URL of that story, it is =https://www.fanfiction.net/s/2870133/1/= ... that first number after =/s/= is the story ID on [[http://www.fanfiction.net][www.fanfiction.net]]. So, if I write here linkffn(2870133), then the bot should find this and the information you see below that comment of mine. =linkao3()= does the same, but for [[https://archiveofourown.org]] (where, =https://archiveofourown.org/works/14078862/chapters/32436069= gives the story ID 14078862 and linkao3(14078862) should make the bot to provide additional information).
+
+When it doesn't work (beacuse the bot is broken, it happens too often), the reply to that message of yours with the one which has only =ffnbot!refresh= as a text, and the bot should retry.
