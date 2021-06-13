@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: bonsly24
+:Score: 1
+:DateUnix: 1572641611.0
+:DateShort: 2019-Nov-02
+:END:
+
+Yep, it appears that you can't count fics in a post when I use the ffnbot!parent command as a top level comment.
+
+Nor does the refresh command work.
