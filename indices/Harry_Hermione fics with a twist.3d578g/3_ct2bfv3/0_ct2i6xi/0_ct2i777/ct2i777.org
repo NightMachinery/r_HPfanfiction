@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1436842676.0
+:DateShort: 2015-Jul-14
+:END:
+
+[[http://www.fanfiction.net/s/10937871/1/][*/Blindness/*]] by [[https://www.fanfiction.net/u/717542/AngelaStarCat][/AngelaStarCat/]]
+
+#+begin_quote
+  Harry Potter is not standing up in his crib when the Killing Curse strikes him, and the cursed scar has far more terrible consequences. But some souls will not be broken by horrible circumstance. Some people won't let the world drag them down. Strong men rise from such beginnings, and powerful gifts can be gained in terrible curses. (HP/HG, Scientist!Harry)
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Adventure/Friendship - Harry P., Hermione G. *|* /Chapters:/ 16 *|* /Words:/ 94,591 *|* /Reviews:/ 798 *|* /Favs:/ 1,874 *|* /Follows:/ 2,473 *|* /Updated:/ 3/18 *|* /Published:/ 1/1 *|* /id:/ 10937871}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}

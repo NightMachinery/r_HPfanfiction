@@ -1,0 +1,32 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1436858560.0
+:DateShort: 2015-Jul-14
+:END:
+
+[[http://www.fanfiction.net/s/6033933/1/][*/Time is the Fire/*]] by [[https://www.fanfiction.net/u/2392116/Oddment-Tweak][/Oddment Tweak/]]
+
+#+begin_quote
+  What would you do if the only way to save the person you loved was to sacrifice everything else that you held dear? DH-Epilogue compliant, sort of. Some HP/GW and RW/Hr, but ultimately, epically, HP/Hr.
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Romance/Angst - Harry P., Hermione G. *|* /Chapters:/ 19 *|* /Words:/ 97,317 *|* /Reviews:/ 433 *|* /Favs:/ 844 *|* /Follows:/ 208 *|* /Updated:/ 7/7/2010 *|* /Published:/ 6/7/2010 *|* /Status:/ Complete *|* /id:/ 6033933}
+#+end_quote
+
+[[http://www.fanfiction.net/s/4986849/1/][*/Harry Potter and the Balm of Time/*]] by [[https://www.fanfiction.net/u/918338/ladylaughalot][/ladylaughalot/]]
+
+#+begin_quote
+  Dumbledore concocts a cunning plan to travel back in time and destroy Voldemort's Horcruxes. His untimely death prevents him from going so Harry must go in his place, and take the one person whose help he really needs with him.
+
+  ^{Harry Potter *|* /Rated:/ Fiction T - English - Adventure/Romance - Harry P., Hermione G. *|* /Chapters:/ 19 *|* /Words:/ 86,856 *|* /Reviews:/ 648 *|* /Favs:/ 1,532 *|* /Follows:/ 626 *|* /Updated:/ 12/7/2010 *|* /Published:/ 4/11/2009 *|* /Status:/ Complete *|* /id:/ 4986849}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}
