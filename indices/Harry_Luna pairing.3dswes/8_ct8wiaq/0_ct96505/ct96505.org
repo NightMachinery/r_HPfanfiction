@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: StuxCrystal
+:Score: 2
+:DateUnix: 1437352852.0
+:DateShort: 2015-Jul-20
+:END:
+
+The usage is simple: 1. linkffn(<Name> by <Author>) 2. linkffn(<Direct Link>) 3. linkffn(<ID>)
+
+If you don't want to have these "linkffn" in your reply just copy and paste the links into your post and add a ffnbot!directlinks somewhere in your post.
+
+ffnbot!ignore <-- Causes the bot to ignore your comment.

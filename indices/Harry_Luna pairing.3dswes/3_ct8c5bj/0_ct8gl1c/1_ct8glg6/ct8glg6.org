@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1437291301.0
+:DateShort: 2015-Jul-19
+:END:
+
+[[http://www.fanfiction.net/s/6862426/1/][*/The Quidditch World Cup/*]] by [[https://www.fanfiction.net/u/2638737/TheEndless7][/TheEndless7/]]
+
+#+begin_quote
+  After the war, things didn't go as planned for Harry. He tried to be an Auror, but it wasn't for him. Instead, he turned to Quidditch. Now, at the 2002 World Cup, he looks back on what went wrong and discovers what he always wanted.
+
+  ^{Harry Potter *|* /Rated:/ Fiction M - English - Romance - Harry P., Luna L. *|* /Chapters:/ 6 *|* /Words:/ 69,941 *|* /Reviews:/ 288 *|* /Favs:/ 895 *|* /Follows:/ 480 *|* /Updated:/ 7/18/2011 *|* /Published:/ 3/31/2011 *|* /Status:/ Complete *|* /id:/ 6862426}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}

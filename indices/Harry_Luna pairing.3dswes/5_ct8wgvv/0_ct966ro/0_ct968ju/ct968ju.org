@@ -1,0 +1,30 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1437353031.0
+:DateShort: 2015-Jul-20
+:END:
+
+[[http://www.fanfiction.net/s/6649950/1/][*/Christmas Magic/*]] by [[https://www.fanfiction.net/u/2691000/Aidenk77][/Aidenk77/]]
+
+#+begin_quote
+  The sequel to "The Master Plan, Come Undone" - Harry is having fun with Ginny, but finds himself incredibly jealous of Luna's boyfriend... and Luna has been invited for a Weasley Christmas... H/G - H/L - A bit of fluffy, saucy, smutty fun.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 6 *|* /Words/: 10,678 *|* /Reviews/: 26 *|* /Favs/: 51 *|* /Follows/: 71 *|* /Updated/: 7/17 *|* /Published/: 1/13/2011 *|* /id/: 6649950 *|* /Language/: English *|* /Genre/: Romance/Humor *|* /Characters/: Harry P., Luna L. *|* /Download/: [[http://ficsave.com/?story_url=https://www.fanfiction.net/s/6649950&format=epub&auto_download=yes][EPUB]]}
+
+--------------
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+Supporting fanfiction.net (/linkffn/), AO3 (fixed!) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+^{*New Features 7/19/15:* Download EPUB links for FFNet, FP, and AO3! ffnbot!parent call added!}
+
+^{Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{/Add the following tags to any comment:/}
+
+^{- /ffnbot!parent/: create a reply for all links in a parent comment}
+
+^{- /ffnbot!directlinks/: auto parse fanfiction site links without having to call the bot}
