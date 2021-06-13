@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1436298068.0
+:DateShort: 2015-Jul-08
+:END:
+
+For more accurate bot results, you can put the story ID in the call /or/ the story name and the author name.
+
+So *(3688693)* will always get perfect results, *(What Lies Beneath by Master Slytherin)* will be correct ~99% of the time, and *(What Lies Beneath)* will not be as accurate, as there are multiple stories with the same title.
+
+It's a good idea to use the first two suggestions for stories with generic names.
+
+Like this: linkffn(3688693)
