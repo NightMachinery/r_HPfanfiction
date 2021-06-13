@@ -1,0 +1,9 @@
+:PROPERTIES:
+:Author: Vash_the_Snake
+:Score: 15
+:DateUnix: 1617751565.0
+:DateShort: 2021-Apr-07
+:END:
+
+IF"AvadaKedavra" value is "1"\\
++THEN(Life=0)+ THEN(Null)

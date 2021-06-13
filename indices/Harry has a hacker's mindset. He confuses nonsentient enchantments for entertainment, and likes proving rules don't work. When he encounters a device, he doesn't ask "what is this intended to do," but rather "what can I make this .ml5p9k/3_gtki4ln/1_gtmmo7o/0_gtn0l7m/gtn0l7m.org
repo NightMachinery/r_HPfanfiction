@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Arellan
+:Score: 12
+:DateUnix: 1617758671.0
+:DateShort: 2021-Apr-07
+:END:
+
+THEN("AvadaKedavra".caster.life=0)

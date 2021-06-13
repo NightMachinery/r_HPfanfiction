@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: ClearlyNotAlpharius
+:Score: 5
+:DateUnix: 1618325221.0
+:DateShort: 2021-Apr-13
+:END:
+
+THEN(“AvadaKedavra“.caster.castSpell(“AvadaKedavra”)) Voldemort is defeated, as he is now stuck, continuously casting AKs that will have no effect on their target. That or the engine the Harry Potter universe runs on crashes.
