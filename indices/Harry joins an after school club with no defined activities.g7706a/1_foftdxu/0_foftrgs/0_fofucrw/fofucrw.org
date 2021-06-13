@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: reddog44mag
+:Score: 2
+:DateUnix: 1587742972.0
+:DateShort: 2020-Apr-24
+:END:
+
+That's it. Thanks.
+
+It seems I have it as an epub document and the normal window file search doesn't look at the contents of epub documents.
+
+Anyone have a recommendation for a search that can examine the contents of epub documents that works with windows 10?
