@@ -1,0 +1,23 @@
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1432564961.0
+:DateShort: 2015-May-25
+:END:
+
+#+begin_quote
+  one in ~84 million
+#+end_quote
+
+Handy rule of thumb: 2^{10} ≈ 10^{3} . So 2^{23} = 2^{3} * 2^{20} ≈ 8 * 10^{6} ≈ 8 million.
+
+#+begin_quote
+  Assuming the same egg cell is fertilized
+#+end_quote
+
+There's the problem. I was initially assuming this, but then I realized that that wasn't valid and revised my answer.
+
+A human with a functioning set of ovaries will have about a million egg follicles at birth. That's pared down to about 300,000 by the time puberty hits. Each period, a hormone called Follicle Stimulation Hormone is released from the pituitary gland. It stimulates a handful of follicles to mature. The specific follicles that begin to mature presumably depend on the distribution of the hormone throughout the ovaries. One or sometimes two follicles manage to reach full maturity and the rest subside and become dormant.
+
+If the distribution of FSH is sufficiently consistent, then we've got decent odds that the same egg crops up. If the distribution is more or less random, we don't. But in the worst case, we've reduced the odds for the same genes on Lily's side from 2^{23} to about 2^{18} (a factor of 32).
+
+My knowledge of human physiology isn't good enough to give a better answer than this.

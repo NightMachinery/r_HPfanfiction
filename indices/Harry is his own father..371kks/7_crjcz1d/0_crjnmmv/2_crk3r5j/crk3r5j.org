@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Riversz
+:Score: 1
+:DateUnix: 1432540380.0
+:DateShort: 2015-May-25
+:END:
+
+Shouldn't that be 1 in 2^{23} (one in ~84 million)? Assuming the same egg cell is fertilized, he would just need to supply exactly the same chromosomes from each pair as his father did, which would mean there's a 1:2 chance for each pair, there's 23 pairs, so 1:2^{23} for the total.
