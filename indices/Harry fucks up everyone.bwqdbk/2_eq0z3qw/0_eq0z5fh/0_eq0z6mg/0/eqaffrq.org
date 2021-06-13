@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: NouvelleVoix
+:Score: 1
+:DateUnix: 1559931878.0
+:DateShort: 2019-Jun-07
+:END:
+
+You can include the author inside the ffnbot call. Alternatively, you can just put the entire link to the fic inside the parentheses. linkffn(Emperor by Marquis Black)
