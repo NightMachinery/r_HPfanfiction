@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 1
+:DateUnix: 1579908197.0
+:DateShort: 2020-Jan-25
+:END:
+
+Just to be clear, what [[/u/ChasingAnna]] has described regarding a gear is actually standard for wind turbines used to generate electricity throughout the world ([[http://windeis.anl.gov/guide/basics/turbine.html][example]]). The same principle of transferring mechanical energy into electrical energy applies to steam turbines ([[https://qph.fs.quoracdn.net/main-qimg-ed657bde2fbc7b4a3f546d5306ce3ac3-c][example]]) and water turbines (example in my other comment). So long as the turbine shaft turns - whether via magical or normal means - efficiency is a not a problem.

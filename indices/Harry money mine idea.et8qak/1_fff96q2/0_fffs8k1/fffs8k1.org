@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: chiruochiba
+:Score: 3
+:DateUnix: 1579890673.0
+:DateShort: 2020-Jan-24
+:END:
+
+A turbine: [[https://energyeducation.ca/wiki/images/2/2c/Hydroturbine_schematic.jpg]]
+
+As you can see in that image, a turbine is a set of +rotor+ blades mounted on a shaft which spins depending on the force exerted on the blades. The /other end/ of the shaft sticks into the generator where the actual electrical wiring is located which generates electricity via. electromagnetic induction.
+
+Thus, the turbine is purely mechanical and the length of the shaft keeps it at a distance from the electrical wiring.

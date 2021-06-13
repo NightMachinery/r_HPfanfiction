@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: varno2
+:Score: 2
+:DateUnix: 1579879406.0
+:DateShort: 2020-Jan-24
+:END:
+
+You are thinking about thermodynamic losses in a heat engine, which doesn't apply here. Also combined cycle gas turbines can be over 60% efficient in current plants.
+
+Harry is probably just spinning a dynamo. Those are 95+% efficient. The primary loss is in converting statistical motion into ordered motion, once you have general order converting it is really quite efficient.
