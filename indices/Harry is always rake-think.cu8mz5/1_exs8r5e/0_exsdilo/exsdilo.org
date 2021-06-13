@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 13
+:DateUnix: 1566540987.0
+:DateShort: 2019-Aug-23
+:END:
+
+I think it was supposed to be "rake thin" but I'm still not clear on what OP intends us to do with this.
