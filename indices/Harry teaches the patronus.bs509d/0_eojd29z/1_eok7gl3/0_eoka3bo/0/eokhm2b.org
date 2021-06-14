@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: MuirgenEmrys
+:Score: 2
+:DateUnix: 1558654833.0
+:DateShort: 2019-May-24
+:END:
+
+It's always good to hear that you're still working on the story! As to how to black out text, use: > ! Text ! <
+
+Remove all spaces and you should be set! It'll end up like this. Text
