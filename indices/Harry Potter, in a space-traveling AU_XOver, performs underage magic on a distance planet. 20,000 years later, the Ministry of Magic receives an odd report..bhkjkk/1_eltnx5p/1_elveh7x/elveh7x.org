@@ -1,0 +1,19 @@
+:PROPERTIES:
+:Author: neewom
+:Score: 8
+:DateUnix: 1556318730.0
+:DateShort: 2019-Apr-27
+:END:
+
+Apparently the time limit on the bot is for year 9999, so we've got 7,980 years to play with. Edit: It worked!
+
+#+begin_quote
+  Hello, neewom RemindMeBot Confirmation Sent\\
+  from RemindMeBot
+
+  sent a minute ago
+
+  I will be messaging you on 9999-04-26 22:46:42 UTC to remind you of this link.
+#+end_quote
+
+Woo.
