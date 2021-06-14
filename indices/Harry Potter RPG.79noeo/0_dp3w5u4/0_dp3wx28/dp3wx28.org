@@ -1,0 +1,20 @@
+:PROPERTIES:
+:Author: HaltCPM
+:Score: 3
+:DateUnix: 1509392581.0
+:DateShort: 2017-Oct-30
+:END:
+
+Hello, thanks for the feedback :)
+
+1) Currently, no existing system works exactly as I want it to to capture the HP feel of magic, which is where the majority of my development and focus has gone into. I am liberally stealing/copying things from other systems though, like Aspects/High Concept/Troubles from FATE, Difficulty from Cypher, and Lifepaths/Beliefs/Instincts from Burning Wheel. It's all a bit cobbled together right now, and after a few playtests some things will probably be removed, simplified, or merged into other things.
+
+2) My dice mechanic is a 1d10 for every task. The target number to succeed depends on that task's difficulty number (0 being everyone can do this all the time, 20 is an Impossible task). A bonus decreases the difficulty (as opposed to adding to your dice score) while a penalty increases difficulty. I should probably make this clear earlier on in my document.
+
+3) Yes, Balance is actually one my ten guiding principles in developing this. While Art may feel useless, it's mostly because I haven't finished fleshing out the advantages to each bit. Art allows you to do magical art, such as painting moving photographs that are sapient as spies, sculpting works that can fight for you or tank, poetry/literature would be sort of like inspiration from DnD's bard class or create traps that -when read, places a curse on someone, and music/dance/performance is just a general buff to helping allies succeed at rolls. No skill, hopefully, is truly useless, although not all of them would have a function in combat.
+
+4) Could you point out where that's the case? I'm not sure I follow entirely.
+
+5) The Wand creation bit is still very much a Work In Progress (I only finished making up most of it less than 13 hours ago) and still has a lot to be improve on, I admit. As for the wand stats, there's another link within the doc entitled "Compiled Reference Sheet" where I break down each wand core and wood into specific attributes. While by no means finalized and balanced, it's a good starting point.
+
+6) Thank you, I am definitely planning to test it out before declaring it a complete system :) I'm already recruiting players in a smaller community for a one-shot campaign to alpha test it, set sometime early next year with any luck.
