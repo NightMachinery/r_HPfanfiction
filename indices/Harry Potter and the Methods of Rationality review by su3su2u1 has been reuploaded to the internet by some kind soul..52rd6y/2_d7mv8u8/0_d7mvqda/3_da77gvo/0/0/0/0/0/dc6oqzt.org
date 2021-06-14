@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: opaqueplanet
+:Score: 1
+:DateUnix: 1483935338.0
+:DateShort: 2017-Jan-09
+:END:
+
+That's not how chromosomal crossover works. It doesn't "repair" genes, it simply passes them from one chromosome to the other in a pair.
+
+Furthermore, chromosomal crossover only really comes into play when there are two alleles on the same "leg" of a chromosome. The fic states that there is only one gene (allele) responsible for magic inheritance (ie. straight-up Mendelian inheritance).
