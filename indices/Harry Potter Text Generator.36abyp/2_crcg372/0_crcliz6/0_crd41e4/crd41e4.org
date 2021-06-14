@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: fastfinge
+:Score: 1
+:DateUnix: 1431969413.0
+:DateShort: 2015-May-18
+:END:
+
+If you need bible data for training, this might be helpful: [[http://www.sacred-texts.com/bib/osrc/]]
+
+Stripping out books and verses is a simple matter of a regular expression.
