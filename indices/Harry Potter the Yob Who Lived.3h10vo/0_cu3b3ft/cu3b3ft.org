@@ -1,0 +1,75 @@
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1439591248.0
+:DateShort: 2015-Aug-15
+:END:
+
+Seems like an interesting concept, but there are parts the grammar Nazi in me cannot deal with.
+
+#+begin_quote
+  "Now now Duddykins say hello to Mr Benedict." she simpered. Mr Benedict had to stop himself from chuckling at Mrs Dursley's pet name for her son. Going to grow up spoilt that one was.
+#+end_quote
+
+A few issues. Firstly, use commas. Wherever there's a pause when you read it back to yourself, there should be a comma.
+
+#+begin_quote
+  Now now Duddykins*,* say hello to Mr Benedict
+#+end_quote
+
+When writing direct speech, ideally you don't want a full stop at the end when you're going to put "she said" or something to that effect after. Full stops are for the end of a sentence. However you still want a comma, question mark or exclamation mark depending on the circumstances. So,
+
+#+begin_quote
+  "Now now Duddykins say hello to Mr Benedict." she simpered.
+#+end_quote
+
+becomes
+
+#+begin_quote
+  "Now now Duddykins*,* say hello to Mr Benedict*,*" she simpered.
+#+end_quote
+
+Next,
+
+#+begin_quote
+  Going to grow up spoilt that one was.
+#+end_quote
+
+This is a minor thing that makes it easier for the reader, but personally I like to italicise for a character's thoughts and internal monologue, to differentiate between the third person narrative used the rest of the time.
+
+In short, that whole paragraph should look like:
+
+#+begin_quote
+  "Now now Duddykins, say hello to Mr Benedict," she simpered. Mr Benedict had to stop himself from chuckling at Mrs Dursley's pet name for her son. /Going to grow up spoilt that one was./
+#+end_quote
+
+A few more issues:
+
+#+begin_quote
+  Shaking his head, Mr Benedict picked up his paper and resumed doing the crossword puzzle, as he had been doing before the Dursley's came in. All thoughts of Petunia Dursley's scruffy nephew leaving his mind.
+#+end_quote
+
+Next lesson, apostrophes! An apostrophe should only be placed before the letter s when describing something belonging to something/someone. Eg. "Petunia Dursley's nephew" is a good use of an apostrophe as it is describing the nephew of Petunia Dursley.
+
+However, "as he had been doing before the Dursley's came in" is incorrect as it is talking about the Dursleys as plural, rather than something belonging to the Dursleys.
+
+Finally,
+
+#+begin_quote
+  All thoughts of Petunia Dursley's scruffy nephew leaving his mind.
+#+end_quote
+
+This isn't a sentence. I can't remember why, but it isn't. It could be changed to say:
+
+#+begin_quote
+  All thoughts of Petunia Dursley's scruffy nephew left his mind.
+#+end_quote
+
+Or you could link it up to the previous sentence using a comma.
+
+#+begin_quote
+  ...as he had been doing before the Dursleys came in, all thoughts of Petunia Dursley's scruffy nephew leaving his mind.
+#+end_quote
+
+Some of these issues have been repeated a few times throughout the text, I would suggest going through it and fixing as many as you can.
+
+Sorry if this seems discouraging, the story itself is a good idea, just fix the grammar.
