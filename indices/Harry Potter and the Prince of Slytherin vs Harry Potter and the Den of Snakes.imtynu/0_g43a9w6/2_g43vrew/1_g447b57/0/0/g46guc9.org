@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 5
+:DateUnix: 1599348512.0
+:DateShort: 2020-Sep-06
+:END:
+
+First time someone mentioned this to me all week! Fixed. The bot process was dead. Folks, if the bot is down, let me know :)
+
+Hmm... now that I think about it, I should write another bot that tells me when the first one is down! It'll be a long chain of bots all the way down!
