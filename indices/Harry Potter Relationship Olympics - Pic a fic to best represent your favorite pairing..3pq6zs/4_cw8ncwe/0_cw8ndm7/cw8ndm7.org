@@ -1,0 +1,26 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1445503302.0
+:DateShort: 2015-Oct-22
+:END:
+
+[[http://archiveofourown.org/works/1651109][*/Text Talk/*]] by [[http://archiveofourown.org/users/merlywhirls/pseuds/merlywhirls][/merlywhirls/]]
+
+#+begin_quote
+  Sirius is in boarding school, Remus is in hospital, and they don't know each other until Sirius texts the wrong number.
+
+  #+begin_example
+      Bold is SiriusItalics is RemusRegular is James
+  #+end_example
+
+  Acronyms used:Idk/idek - I don't (even) knowBc - Because(if i've forgotten one please let me know!)
+#+end_quote
+
+^{/Site/: [[http://www.archiveofourown.org/][Archive of Our Own]] *|* /Fandom/: Harry Potter - J. K. Rowling *|* /Published/: 2014-05-18 *|* /Updated/: 2015-05-18 *|* /Words/: 113798 *|* /Chapters/: 11/? *|* /Comments/: 892 *|* /Kudos/: 4310 *|* /Bookmarks/: 1200 *|* /Hits/: 81455 *|* /ID/: 1651109 *|* /Download/: [[http://archiveofourown.org/][EPUB]]}
+
+--------------
+
+*Bot v1.3.0 - 9/7/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* Use /ffnbot!delete/ to delete a comment! Use /ffnbot!refresh/ to refresh bot replies!
