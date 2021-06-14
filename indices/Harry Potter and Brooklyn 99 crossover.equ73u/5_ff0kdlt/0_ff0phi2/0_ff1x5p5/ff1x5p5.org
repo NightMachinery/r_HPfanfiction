@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: ParanoidDrone
+:Score: 1
+:DateUnix: 1579488203.0
+:DateShort: 2020-Jan-20
+:END:
+
+You formatted it as [text](link) but the link itself has a close parentheses character, which the markup interpreted as the end of the link and in turn broke the link (and formatting) entirely.
+
+Insert a backslash character =\= to escape formatting. Like so -- note the \ before I close the parentheses on "TV".
+
+=[Test Link](https://archiveofourown.org/tags/Brooklyn%20Nine-Nine%20(TV\)/works)=
+
+[[https://archiveofourown.org/tags/Brooklyn%20Nine-Nine%20(TV)/works][Test Link]]
