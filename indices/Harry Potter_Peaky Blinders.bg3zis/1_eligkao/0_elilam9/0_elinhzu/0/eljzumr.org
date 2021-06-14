@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: FerusGrim
+:Score: 2
+:DateUnix: 1556000185.0
+:DateShort: 2019-Apr-23
+:END:
+
+It's for both. You can use =linkffn= or =linkao3=.
+
+You can also just call =ffnbot!directlinks= which will search your message for URLs and get the link that way.
+
+Or, even better, I can do it for you.
+
+ffnbot!parent
