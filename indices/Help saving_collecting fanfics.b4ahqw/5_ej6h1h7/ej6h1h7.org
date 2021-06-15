@@ -1,0 +1,28 @@
+:PROPERTIES:
+:Author: bluspacecow
+:Score: 5
+:DateUnix: 1553323707.0
+:DateShort: 2019-Mar-23
+:END:
+
+Everyone forgot about the FanFictionBot !
+
+:(
+
+​
+
+You just send [[/u/FanfictionBot]] a direct message containing commands ([[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][command usage here]]) and it'll package up the fanfiction for you and send you back a link. You can even put multiple link commands in one message and it'll send back ones for each one.
+
+EG
+
+linkffn(4)
+
+linkffn(Harry Potter and the Natural 20 by Sir Poley)
+
+​
+
+Supports - [[https://www.fanfiction.net/][fanfiction.net]] , [[http://archiveofourown.org/][archiveofourown.org]] , [[http://www.hpfanficarchive.com/stories/][hpfanficarchive.com]] , [[https://www.fictionpress.com/][fictionpress.com]] , [[http://www.adult-fanfiction.org/][adult-fanfiction.org]]
+
+​
+
+EDIT - See below for examples. Yes the Bot listens on threads too lol *gently pats the Bot* Good Bot. That'll do Bot. That'll Do.

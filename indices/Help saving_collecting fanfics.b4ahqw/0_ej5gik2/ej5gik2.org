@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: tectonictigress
+:Score: 12
+:DateUnix: 1553290917.0
+:DateShort: 2019-Mar-23
+:END:
+
+Another option is to use FanFicFare with Calibre, I've been getting set up with it and it's great, just drop in the URLs and it downloads an ebook and brings in the tags with it (status, genre, summary, characters, etc) plus you can set up your own tags to organize it however you want or add in your own tags (like WBWL or time travel)
+
+There's like 50+ sites it works with, [[https://github.com/JimmXinu/FanFicFare/wiki/SupportedSites][here]] is the full list
