@@ -1,0 +1,34 @@
+:PROPERTIES:
+:Author: UndeadBBQ
+:Score: 2
+:DateUnix: 1432832450.0
+:DateShort: 2015-May-28
+:END:
+
+Relatively easy, tbh.
+
+GURPS provides a easy to handle skill system. For every form of magic and magical practice (Transfiguration, Charms, Curses/DADA,...) you create a skill.
+
+If a player wants to cast a spell he first rolls on the general skill like any skill in GURPS is rolled on with 3d6. (Depending on the sort of spells, standard modifier (for example: projectile distance, etc) apply). Then we added modifiers for three things: Intent, wand movement, magical exhaustion. For every one of those modifiers, the player rolls 1d4 with the d6 (preferably in different colors or otherwise marked).
+
+*Intent:* 1=The Character failed to visualize the spell. It failed (in early years) or is weak. 2,3= The spell works as usual. 4= The character had a clear picture in his head. The spell works better than normal.
+
+*wand movement* 1=The Character moved his wand wrong, the spell fails or is weakened. 2,3=Good enough wand movement, the spell works. 4=Precise movements make the spell perfect (add another effect, or contribute to general roll)
+
+*magical exhaustion:* 1=The spell channels badly and costs a great amount of energy (Remove 1-5 FP, depending on difficulty of spell). 2= The spell costs the usual amount of energy, 3,4=The spell costs no energy
+
+A much easier method is the system Freeform Universal provides, in which you only roll 1d6. The system works as follows:
+
+6: *Yes, and...* - You get what you want, and something more / Success of epic proportions
+
+5: *Yes* - You get what you want./Complete success
+
+4: *Yes, but...* - You get what you want, but at a cost./Success by the smallest margin
+
+3: *No, but..* - You don't get what you want, but its not a total loss/ Failure by the smallest margin
+
+2: *No* - You don't get what you want/ Complete failure
+
+1: *No, and* - You don't get what you want and it gets worse / Epic failure with a cherry on top
+
+I think this would be more up your alley. Its incredibly fast to play with and drives the story fowards with every roll of the dice. I'd honestly recommed this one for your plans.
