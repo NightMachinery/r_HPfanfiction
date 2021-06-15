@@ -1,0 +1,15 @@
+:PROPERTIES:
+:Author: TheWhiteSquirrel
+:Score: 5
+:DateUnix: 1531689035.0
+:DateShort: 2018-Jul-16
+:END:
+
+I created a mathematical model of the demographics of the wizarding world a while back and got surprisingly similar results to your book survey. The calculation was based on 2 assumptions:
+
+1. 10% of the magical population is muggle-born (which I estimated from the Original 40 list).
+2. The large majority of the population marries in the magical world, and their marriage patterns reflect the demographics of the population as a whole.
+
+If you propagate blood status through many generations based on those two assumptions, then based on the broadest definition of "pure-blood" (all 4 grandparents being magical), you get 10% muggle-born, 44% half-blood, and 46% pure-blood. For purists who say that's not good enough, the number of "pure-bloods" roughly halves for each additional generation you require.
+
+I'm sure JKR didn't do the math, but I think it's plausible to say that your analysis actually does reflect her intent.
