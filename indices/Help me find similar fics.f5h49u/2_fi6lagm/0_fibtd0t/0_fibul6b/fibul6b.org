@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: thrawnca
+:Score: 2
+:DateUnix: 1582330491.0
+:DateShort: 2020-Feb-22
+:END:
+
+Actually, mobile is when the bot is especially useful, because it's harder to do links without it. You just use linkffn, making sure it's lowercase, and let the bot guess. linkffn(A Long Journey Home)
+
+Or, if you've copied a link anyway, you can use ffnbot!directlinks to make the bot detect it.
