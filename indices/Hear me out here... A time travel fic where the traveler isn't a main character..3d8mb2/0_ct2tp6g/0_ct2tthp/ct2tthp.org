@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 3
+:DateUnix: 1436876617.0
+:DateShort: 2015-Jul-14
+:END:
+
+[[http://www.fanfiction.net/s/4487319/1/][*/The Greatest Minister of Magic/*]] by [[https://www.fanfiction.net/u/943028/BajaB][/BajaB/]]
+
+#+begin_quote
+  ?...take the steps I have suggested, and you will be remembered, in office or out, as one of the bravest and greatest Ministers of Magic we have ever known.? - Albus Dumbledore ? Goblet of Fire
+
+  ^{Harry Potter *|* /Rated:/ Fiction K - English - Humor *|* /Words:/ 1,767 *|* /Reviews:/ 329 *|* /Favs:/ 986 *|* /Follows:/ 188 *|* /Published:/ 8/20/2008 *|* /Status:/ Complete *|* /id:/ 4487319}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}

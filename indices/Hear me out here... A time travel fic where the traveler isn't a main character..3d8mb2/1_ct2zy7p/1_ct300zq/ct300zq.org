@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 3
+:DateUnix: 1436888122.0
+:DateShort: 2015-Jul-14
+:END:
+
+[[http://www.fanfiction.net/s/7156582/1/][*/That Which Holds The Image/*]] by [[https://www.fanfiction.net/u/1981006/TheAngelsHaveThePhoneBox][/TheAngelsHaveThePhoneBox/]]
+
+#+begin_quote
+  Harry Potter faces a boggart that doesn't turn into a Dementor or even Voldermort, but into a horror from his childhood. Now the boggart isn't even a boggart anymore. There's no imitation. That which holds the image of an Angel, becomes itself an Angel.
+
+  ^{Doctor Who + Harry Potter Crossover *|* /Rated:/ Fiction K+ - English - Adventure/Horror - 11th Doctor, Harry P. *|* /Chapters:/ 9 *|* /Words:/ 40,036 *|* /Reviews:/ 1,059 *|* /Favs:/ 2,350 *|* /Follows:/ 1,281 *|* /Updated:/ 4/14/2013 *|* /Published:/ 7/7/2011 *|* /Status:/ Complete *|* /id:/ 7156582}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}

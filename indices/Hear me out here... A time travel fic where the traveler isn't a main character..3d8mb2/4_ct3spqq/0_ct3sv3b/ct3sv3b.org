@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 2
+:DateUnix: 1436933005.0
+:DateShort: 2015-Jul-15
+:END:
+
+[[http://www.fanfiction.net/s/4692717/1/][*/Many Thanks/*]] by [[https://www.fanfiction.net/u/873604/Madm05][/Madm05/]]
+
+#+begin_quote
+  James Potter would never forget the first time he met Hermione Granger. Nor would he forget just how much he owed her for all she had done for him, his family, his world, and his future. HHr, through the evolving eyes of James Potter. HHr/JPLE
+
+  ^{Harry Potter *|* /Rated:/ Fiction T - English - Drama - Hermione G., Harry P. *|* /Chapters:/ 5 *|* /Words:/ 25,101 *|* /Reviews:/ 546 *|* /Favs:/ 1,977 *|* /Follows:/ 438 *|* /Updated:/ 12/24/2009 *|* /Published:/ 12/2/2008 *|* /Status:/ Complete *|* /id:/ 4692717}
+#+end_quote
+
+Supporting fanfiction.net (/linkffn/), AO3 (buggy) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+^{*New Feature:* Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{*New Feature:* Type 'ffnbot!directlinks' in any comment to have the bot *automatically parse fanfiction links* and make a reply, without even calling the bot! Added AdultFanFiction support!}
+
+^{^{*Update*}} ^{^{*7/11/2015:*}} ^{^{More}} ^{^{formatting}} ^{^{bugs}} ^{^{fixed.}} ^{^{Feature}} ^{^{added!}}
