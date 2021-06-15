@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: waylaidwanderer
+:Score: 2
+:DateUnix: 1424713571.0
+:DateShort: 2015-Feb-23
+:END:
+
+I don't think something like that would be realistic to implement. For lesser known (or unpopular fanfics) it would be a waste of database space. To check if fanfics have been updated, I'd have to get FicSave to access the URL anyway to check if the number of chapters are the same, and there's no easy way to check if the author has edited or made revisions to an existing chapter either.

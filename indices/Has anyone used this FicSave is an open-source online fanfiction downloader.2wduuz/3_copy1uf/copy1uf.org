@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: ToaKraka
+:Score: 4
+:DateUnix: 1424314019.0
+:DateShort: 2015-Feb-19
+:END:
+
+It'll probably just get asked to cut off access to FanFiction.net stories, just as FlagFic was. FanFiction.net doesn't like story-download sites because they run the risk of overloading the site's servers when they access dozens of chapters in less than a second.
+
+I wrote a program for myself to download in .html format story chapters (one chapter every ten seconds), which I then convert to a single .epub file with (a rather old version of) the [[http://sigil-ebook.com/about/][Sigil]] software--I like to put a personal touch on my electronic books, especially since I can clean up the formatting in Sigil.
