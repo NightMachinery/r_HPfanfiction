@@ -1,0 +1,7 @@
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1488219193.0
+:DateShort: 2017-Feb-27
+:END:
+
+I think the fanficbot is running prioritized searches when it looks for text. First the title, then summary, then the story itself, and then the reviews. Wherever it finds the match with the most priority is the story it links here. That's why a lot of these goofy searches are turning out somewhat legitimate results.
