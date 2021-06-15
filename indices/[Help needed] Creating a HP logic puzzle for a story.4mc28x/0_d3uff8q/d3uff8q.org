@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: __Pers
+:Score: 8
+:DateUnix: 1464961001.0
+:DateShort: 2016-Jun-03
+:END:
+
+A logic puzzle that's probably too easy for what you're looking for:
+
+Rolf wishes to send Luna an engagement ring through the Owl Post. Unfortunately, the government of the nation where he resides is corrupt and anything of value sent via Owl Post without a government-issued lock is immediately impounded. Each lock (purchased at great cost from the government--it's one of their major sources of revenue) is registered, tied to a single wand, and only that wand can open the lock. Rolf and Luna are each in possession of their own wands, as well as locks tied to their respective wands. Neither wishes to give up their wands.
+
+How does Rolf send the engagement ring to Luna?
+
+Solution:
+
+[[/spoiler][He sends Luna the ring with his own lock on it. Luna adds her lock so that it has both locks on it and then returns the ring. Rolf removes his lock and sends Luna the ring with just her lock on it this time. She unlocks her lock, slips on the ring, and lives happily ever after.]]

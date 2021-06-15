@@ -1,0 +1,27 @@
+:PROPERTIES:
+:Author: pezes
+:Score: 7
+:DateUnix: 1464947928.0
+:DateShort: 2016-Jun-03
+:END:
+
+This might be too complex, but you might be able to make a simpler version, and you can easily change the properties to magical things.
+
+#+begin_quote
+  The riddle is as follows: There are five houses, with five occupants, each with a different colour house, different beverage of choice, different item, and a unique pet. The goal is to figure out who owns the fish. Here is all the info you get:\\
+  1) The Magic User lives in the red house.\\
+  2) The Fighter keeps dogs.\\
+  3) The Cleric drinks tea.\\
+  4) The green house is just to the left of the white one.\\
+  5) The owner of the green house drinks coffee.\\
+  6) The owner of the sword keeps birds.\\
+  7) The owner of the yellow house has a scroll.\\
+  8) The man in the centre house drinks milk.\\
+  9) The Monk lives in the first house.\\
+  10) The Ring's owner has a neighbour who keeps cats.\\
+  11) The man who owns the shield drinks beer.\\
+  12) The man who keeps horses lives next to the owner of the scroll.\\
+  13) The Thief owns a potion.\\
+  14) The Monk lives next to the blue house.\\
+  15) The owner of the ring has a neighbour who drinks water.
+#+end_quote
