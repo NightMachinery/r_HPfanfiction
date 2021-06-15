@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: 2001herne
+:Score: 1
+:DateUnix: 1604868674.0
+:DateShort: 2020-Nov-09
+:END:
+
+Probably something to do with how the fuzzy search is implemented. No input to a system very much expecting input is going to give some weird stuff.
