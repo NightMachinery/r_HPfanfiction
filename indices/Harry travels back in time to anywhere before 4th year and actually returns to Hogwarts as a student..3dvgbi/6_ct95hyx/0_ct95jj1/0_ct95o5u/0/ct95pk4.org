@@ -1,0 +1,30 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1437352068.0
+:DateShort: 2015-Jul-20
+:END:
+
+[[http://www.fanfiction.net/s/6671596/1/][*/A Necessary Gift: A Harry Potter Story/*]] by [[https://www.fanfiction.net/u/1121841/cosette-aimee][/cosette-aimee/]]
+
+#+begin_quote
+  The war drags on after Voldemort's defeat and the Order of the Phoenix is fighting a losing battle. When Harry is hit by yet another killing curse, he wakes up years in the past and in an alternate reality. As an unknown child in a foreign world, Harry has a chance to change the outcome of the war - while dealing with new magical talents, pureblood politics and Black family drama.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 24 *|* /Words/: 168,278 *|* /Reviews/: 3,154 *|* /Favs/: 7,029 *|* /Follows/: 8,448 *|* /Updated/: 4/18 *|* /Published/: 1/20/2011 *|* /id/: 6671596 *|* /Language/: English *|* /Genre/: Family/Adventure *|* /Characters/: Harry P., Sirius B. *|* /Download/: [[http://ficsave.com/?story_url=https://www.fanfiction.net/s/6671596/1/A-Necessary-Gift-A-Harry-Potter-Story&format=epub&auto_download=yes][EPUB]]}
+
+--------------
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+Supporting fanfiction.net (/linkffn/), AO3 (fixed!) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+^{*New Features 7/19/15:* Download EPUB links for FFNet, FP, and AO3! ffnbot!parent call added!}
+
+^{Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{/Add the following tags to any comment:/}
+
+^{- /ffnbot!parent/: create a reply for all links in a parent comment}
+
+^{- /ffnbot!directlinks/: auto parse fanfiction site links without having to call the bot}

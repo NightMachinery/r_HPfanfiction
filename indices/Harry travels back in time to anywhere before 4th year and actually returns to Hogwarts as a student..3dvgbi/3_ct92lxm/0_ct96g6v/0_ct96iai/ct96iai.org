@@ -1,0 +1,40 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1437353529.0
+:DateShort: 2015-Jul-20
+:END:
+
+[[http://www.fanfiction.net/s/4536005/1/][*/Oh God Not Again!/*]] by [[https://www.fanfiction.net/u/674180/Sarah1281][/Sarah1281/]]
+
+#+begin_quote
+  So maybe everything didn't work out perfectly for Harry. Still, most of his friends survived, he'd gotten married, and was about to become a father. If only he'd have stayed away from the Veil, he wouldn't have had to go back and do everything AGAIN.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction K+ *|* /Chapters/: 50 *|* /Words/: 162,639 *|* /Reviews/: 10,367 *|* /Favs/: 12,855 *|* /Follows/: 5,256 *|* /Updated/: 12/22/2009 *|* /Published/: 9/13/2008 *|* /Status/: Complete *|* /id/: 4536005 *|* /Language/: English *|* /Genre/: Humor/Parody *|* /Characters/: Harry P. *|* /Download/: [[http://ficsave.com/?story_url=https://www.fanfiction.net/s/4536005&format=epub&auto_download=yes][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/4302068/1/][*/He's Not Normal/*]] by [[https://www.fanfiction.net/u/1585972/Uncle-Stojil][/Uncle Stojil/]]
+
+#+begin_quote
+  Harry Potter goes back in time and has to start everything again. Do you think he will be careful not to screw the timeline up? No, he doesn't even think about it! A story featuring a loony Harry and a Magical World that seems willing to adapt to him.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction T *|* /Chapters/: 6 *|* /Words/: 51,722 *|* /Reviews/: 763 *|* /Favs/: 2,845 *|* /Follows/: 3,092 *|* /Updated/: 5/24/2010 *|* /Published/: 6/5/2008 *|* /id/: 4302068 *|* /Language/: English *|* /Genre/: Parody *|* /Characters/: Harry P. *|* /Download/: [[http://ficsave.com/?story_url=https://www.fanfiction.net/s/4302068&format=epub&auto_download=yes][EPUB]]}
+
+--------------
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+Supporting fanfiction.net (/linkffn/), AO3 (fixed!) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+^{*New Features 7/19/15:* Download EPUB links for FFNet, FP, and AO3! ffnbot!parent call added!}
+
+^{Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{/Add the following tags to any comment:/}
+
+^{- /ffnbot!parent/: create a reply for all links in a parent comment}
+
+^{- /ffnbot!directlinks/: auto parse fanfiction site links without having to call the bot}

@@ -1,0 +1,50 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1437351740.0
+:DateShort: 2015-Jul-20
+:END:
+
+[[http://www.fanfiction.net/s/6153869/1/][*/Harry Potter and Deaths Revenge/*]] by [[https://www.fanfiction.net/u/2305421/DazMal][/DazMal/]]
+
+#+begin_quote
+  Harry died a natural death at 112, he ends up back at the crossover between life and the next great adventure, death gives him a choice, move on or go back and do it all over again risking everything to save his friends. Warning: Some Mature Content.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 26 *|* /Words/: 226,817 *|* /Reviews/: 717 *|* /Favs/: 1,436 *|* /Follows/: 1,614 *|* /Updated/: 4/26/2012 *|* /Published/: 7/18/2010 *|* /id/: 6153869 *|* /Language/: English *|* /Characters/: Harry P., Ginny W. *|* /Download/: [[http://ficsave.com/?story_url=https://www.fanfiction.net/s/6153869/1/Harry-Potter-and-Deaths-Revenge&format=epub&auto_download=yes][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/8076284/1/][*/Harry Potter And The Bonds Of Time/*]] by [[https://www.fanfiction.net/u/670787/Vance-McGill][/Vance McGill/]]
+
+#+begin_quote
+  Book 1 of Bonds of Time Saga. After an attack, Harry and Ginny Potter find themselves back in time before Harry's first year at Hogwarts. Stuck in the past with no way back, they decide to change the future for the better. Larger summary inside. Time-Travel, Soul-Bond, AU. H/G, R/Hr! COMPLETE! The sequel "Bonds of Time II: Fighting Fate" is also complete!
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 92 *|* /Words/: 449,444 *|* /Reviews/: 1,817 *|* /Favs/: 2,148 *|* /Follows/: 1,276 *|* /Updated/: 9/16/2012 *|* /Published/: 5/1/2012 *|* /Status/: Complete *|* /id/: 8076284 *|* /Language/: English *|* /Genre/: Adventure/Romance *|* /Characters/: Harry P., Ginny W. *|* /Download/: [[http://ficsave.com/?story_url=https://www.fanfiction.net/s/8076284/1/Harry-Potter-And-The-Bonds-Of-Time&format=epub&auto_download=yes][EPUB]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/6452481/1/][*/Gryffindors Never Die/*]] by [[https://www.fanfiction.net/u/1004602/ChipmonkOnSpeed][/ChipmonkOnSpeed/]]
+
+#+begin_quote
+  Harry and Ron, both 58 and both alcoholics, are sent back to their 4th year and given a chance to do everything again. Will they be able to do it right this time? Or will history repeat itself? Cannon to Epilogue, then not so much...
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter *|* /Rated/: Fiction M *|* /Chapters/: 18 *|* /Words/: 74,394 *|* /Reviews/: 561 *|* /Favs/: 2,102 *|* /Follows/: 581 *|* /Updated/: 12/29/2010 *|* /Published/: 11/4/2010 *|* /Status/: Complete *|* /id/: 6452481 *|* /Language/: English *|* /Genre/: Humor/Friendship *|* /Characters/: Harry P., Ron W. *|* /Download/: [[http://ficsave.com/?story_url=https://www.fanfiction.net/s/6452481/1/Gryffindors-Never-Die&format=epub&auto_download=yes][EPUB]]}
+
+--------------
+
+Read usage tips and tricks [[https://github.com/tusing/reddit-ffn-bot/blob/master/README.md][*here*]].
+
+Supporting fanfiction.net (/linkffn/), AO3 (fixed!) (/linkao3/), HPFanficArchive (/linkffa/), FictionPress (/linkfp/), AdultFanFiction (linkaff) (story ID only)
+
+^{*New Features 7/19/15:* Download EPUB links for FFNet, FP, and AO3! ffnbot!parent call added!}
+
+^{Parse multiple fics in a single call with;semicolons;like;this!}
+
+^{/Add the following tags to any comment:/}
+
+^{- /ffnbot!parent/: create a reply for all links in a parent comment}
+
+^{- /ffnbot!directlinks/: auto parse fanfiction site links without having to call the bot}
