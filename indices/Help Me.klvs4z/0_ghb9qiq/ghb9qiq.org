@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Kiloee
+:Score: 2
+:DateUnix: 1609181674.0
+:DateShort: 2020-Dec-28
+:END:
+
+Have you done the update for fanficfare? Also which version Calibre are you running? Fanfiction.net has recently changed something with the cloudfarefrontend afaik and the fanficfare plugin has been updated to keep working. The newer plugin needs 5.x to work reliably
