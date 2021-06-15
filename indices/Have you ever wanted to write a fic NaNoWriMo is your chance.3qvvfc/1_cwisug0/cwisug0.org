@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: deirox
+:Score: 3
+:DateUnix: 1446238687.0
+:DateShort: 2015-Oct-31
+:END:
+
+Mostly offtopic, but there's a free program for writing called [[http://www.spacejock.com/yWriter5.html][yWriter]] which I've discovered recently. I guess it's a lot more basic than Scrivener (I wouldn't know since I haven't used that one) but it has stuff like separation by chapter/scene, word count and progress tracker, and assigning character & location for each scene.
+
+That's not even the reason I started using yWriter though. I was just frustrated with ~10 second startup times of LibreOffice (even on an SSD) when I just want to jot down a few notes. Notepad is okay, but I'd rather have some formatting. yWriter launches in a second so that's pretty cool.
