@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: thrawnca
+:Score: 1
+:DateUnix: 1598355850.0
+:DateShort: 2020-Aug-25
+:END:
+
+Incidentally, the reason your bot invocation didn't work is because you had a space between linkffn and the bracket.
