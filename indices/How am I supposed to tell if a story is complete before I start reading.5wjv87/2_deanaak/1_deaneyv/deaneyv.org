@@ -1,0 +1,9 @@
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1488234741.0
+:DateShort: 2017-Feb-28
+:END:
+
+I can't tell if it's bc I'm on mobile, but I don't see a 'complete' tag at the end of the summary metadata on the ffnet website. I remember 'Complete' used to be the last tag listed, after the character tags, on ffnet.
+
+Just checked on the ffnet app, and Status:Complete is listed in the metadata in between 'Published: MM/DD/YYYY' and 'id:#######' on the app. So the info is available, it's just not being displayed to you. It might be a mobile browsing thing.
