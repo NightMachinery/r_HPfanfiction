@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: Mac_cy
+:Score: 3
+:DateUnix: 1522743382.0
+:DateShort: 2018-Apr-03
+:END:
+
+All spoilers must use the spoiler tag: [Some spoiler](/ spoiler)
+
+copied out of the sidebar
+
+example: [[/spoiler][Things you shouldn't read]]
+
+just delete the space between the slash(/) and the word spoiler.
