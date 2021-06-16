@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: munin295
+:Score: 1
+:DateUnix: 1478588216.0
+:DateShort: 2016-Nov-08
+:END:
+
+#+begin_quote
+  a userscript that fades out my NOTPs and do-not-want crossover fandoms.
+#+end_quote
+
+CSS? How did you hook that? I'm not seeing a lot of data to hang user CSS off of...

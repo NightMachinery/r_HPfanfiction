@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: nothorse
+:Score: 1
+:DateUnix: 1478638909.0
+:DateShort: 2016-Nov-09
+:END:
+
+I use a Mac and Safari, so I use [[https://github.com/techietrash/NinjaKit/][Ninjakit]] (but any greasemonkey or clone will do) and a slightly hacked userscript called "FanFiction.Net - Extended Functionality" by Sean Davies which was on the old userscripts.org. That site is gone unfortunately and I don't know if the script is available somewhere else.
