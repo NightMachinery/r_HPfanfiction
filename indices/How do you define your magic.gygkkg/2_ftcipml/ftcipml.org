@@ -1,0 +1,74 @@
+:PROPERTIES:
+:Author: darkpothead
+:Score: 3
+:DateUnix: 1591600015.0
+:DateShort: 2020-Jun-08
+:END:
+
+I have a pretty bare bones magic system written up, defining the different branches of magic. Inspired by both canon and fanon (canon has some decent ideas but is quite disappointing when really looking into it).
+
+Light Magic:
+
+-Aka "Life Magic"
+
+-Spells that provide protection or healing
+
+-Ex. Patronus, medical spells, shield charms
+
+Dark Magic:
+
+-Aka "Death magic"
+
+-Spells that cause harm or suffering
+
+-Jinxes, Hexes, and Curses
+
+Neutral Magic:
+
+-Magic that does not have a significant positive or negative effect on a subject
+
+-All other magic
+
+Transfiguration:
+
+-Spells that cause a physical transformation to a subject
+
+-Neutral
+
+Charms:
+
+-Spells cause a change in the properties of a subject
+
+-Light, Dark, or Neutral
+
+Runes:
+
+-Symbols used to channel magic through
+
+-Used for Rituals, Enchantments, or Alchemy
+
+-Light, Dark, or Neutral
+
+Rituals:
+
+-Ceremonies used to cast a long-lasting or permanent effect on a living subject
+
+-Light, Dark, or Neutral
+
+Enchantments:
+
+-The act of imbuing a long-lasting or permanent effect on a non-living object
+
+-Light, Dark, or Neutral
+
+Potions:
+
+-Drinks created using magical ingredients in order to create a specific effect on the drinker
+
+-Light, Dark, or Neutral
+
+Alchemy:
+
+-The process of causing a permanent transformation of one non-living object into another via Runic magic
+
+-Neutral
