@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Alion1080
+:Score: 2
+:DateUnix: 1595631183.0
+:DateShort: 2020-Jul-25
+:END:
+
+Well, it makes sense. Most of those automated scripts can't discern context, so they just do a quick search in the entire text for specific words, and if they find a match, they trigger a response. Automated moderation is far from perfect, but I guess it's the best they have to keep order in the meantime.
