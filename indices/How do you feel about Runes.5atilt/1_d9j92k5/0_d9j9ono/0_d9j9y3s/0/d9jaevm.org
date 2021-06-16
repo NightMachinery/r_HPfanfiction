@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: seylerius
+:Score: 8
+:DateUnix: 1478136761.0
+:DateShort: 2016-Nov-03
+:END:
+
+Right. You're trying to carve specificity out of a pile of old-as-dirt symbols. Specifics will be crucial to ensure that shit triggers appropriately, affects the right targets, and so on.
