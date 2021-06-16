@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 1
+:DateUnix: 1528827139.0
+:DateShort: 2018-Jun-12
+:END:
+
+While Tom developed control of magic early in life, I never got the impression that he was actually using it all that often.
+
+In any case, from what we can see, enforcement follows a very limited procedure. There isn't anyone sitting around next to the Trace "input feed", monitoring it for general items of interest. It's literally:
+
+1. Information comes in: X magic performed at Y location.
+
+2. Y location is checked against list of known underage wizards who have completed first year of Hogwarts and live in Muggle areas.
+
+3. If step 2 returns no results, do nothing.
+
+4. If step 2 returns a result, AND the date during school holidays, AND no notice has been received of an adult wizard in the area, send a warning letter.
