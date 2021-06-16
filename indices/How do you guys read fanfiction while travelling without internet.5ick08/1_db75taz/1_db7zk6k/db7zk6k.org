@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: inimically
+:Score: 1
+:DateUnix: 1481791822.0
+:DateShort: 2016-Dec-15
+:END:
+
+You can download mobi files directly using fanficfare -- no need for an extra conversion step.
+
+Edit: Here's how to do it: Open Calibre > find the FanFicFare plugin > click triangle to access drop down menu > Configure FanFicFare > Default Output Format > select mobi from dropdown

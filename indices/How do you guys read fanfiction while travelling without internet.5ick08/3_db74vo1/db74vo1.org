@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: ajford
+:Score: 5
+:DateUnix: 1481745866.0
+:DateShort: 2016-Dec-14
+:END:
+
+If you use an Android phone, check out Codex Reader ([[https://play.google.com/store/apps/details?id=com.qan.fiction]]). It's one of the more reliable ones I've found, and always maintains position.
+
+Supports FF.net, AO3, and Fictionpress IIRC.
+
+Hasn't been updated in forever, and has ad support, but it's fairly good. Sadly, no syncing between devices or anything, nor exporting your library.
+
+Another option is to use Calibre (a cool ebook library manager, [[https://calibre-ebook.com/]]), with FanFicFare (a fanfiction downloader plugin, [[http://www.mobileread.com/forums/showthread.php?t=259221]]), then sync to your phone or e-reader (if you have one).
