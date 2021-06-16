@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Wolf129887
+:Score: 6
+:DateUnix: 1484853724.0
+:DateShort: 2017-Jan-19
+:END:
+
+I think one of the core problems of that is that it assumes that you counter after the spell is fired, not during it or before. And given that the speed of the spell could be anything.

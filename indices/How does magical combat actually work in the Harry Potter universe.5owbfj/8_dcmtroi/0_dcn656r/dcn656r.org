@@ -1,0 +1,19 @@
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1484858878.0
+:DateShort: 2017-Jan-20
+:END:
+
+#+begin_quote
+  We have mostly two types of combat spells, projectiles and non projectiles. Projectile spells are those such as Stupefy, and must be shielded against or dodged. Non projectiles encompass everything else, such as Aquamenti, Incendio, and various transfigurations.
+#+end_quote
+
+A physical shield protects against Stupefy and fares decently well against Incendio (assuming it's a magical fire primarily, which it must be since it's got no fuel). In your writing, you can choose whether the standard magic shields protect against the more physical attacks.
+
+That changes the analysis somewhat. You have spells that need line of effect, spells that can target you regardless, and indirect spells. /Aguamenti/ to make the ground slick would be indirect; /Aguamenti/ to bowl you over would be line of effect; /Crucio/ would target you regardless.
+
+#+begin_quote
+  wild magic
+#+end_quote
+
+This would kill probably kill anyone who wanders by. Maybe not immediately, but it's injuring you every time it affects you. Reversed gravity might not hurt much because gravity is such a weak force. Temperature fluctuations -- if one of those hits your brain, that could kill you or give you permanent brain damage. If it hits your bones, it'll stress them and you'll end up with microfractures. Electrons not flowing -- that would probably result in a short seizure or temporary numbness and paralysis in part of your body. Or if you're unlucky, it hits your brain stem and you die.

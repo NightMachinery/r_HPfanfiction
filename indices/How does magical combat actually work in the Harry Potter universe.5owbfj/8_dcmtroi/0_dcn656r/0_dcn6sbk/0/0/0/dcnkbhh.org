@@ -1,0 +1,21 @@
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1484876505.0
+:DateShort: 2017-Jan-20
+:END:
+
+#+begin_quote
+  Maybe the more focused a magic is, then the less it is interfered with by iron, explaining why vehicles don't fail next to the Leaky Cauldron/King's Cross.
+#+end_quote
+
+Or it drops off according to distance from the primary area of effect, according to the strength of the primary effect. Probably using an inverse-square law.
+
+For instance, the Fidelius requires tons of power to cast, at least according to fanon. Let's put a concrete number to it for the sake of demonstration: it consumes 10,000 magic beans to Fidelius a 1m cube. That strength produces one wild magic event per second throughout the area affected by the Fidelius.
+
+This falls off with the square of the distance from the area affected by the spell. At 1m, let's say, you're down to 0.5 events per second. At 2m, you're down to 0.25 events per second. 3m, 0.125 per second. By the time you reach 10m, you get about 3.5 events per hour on average.
+
+Muck about with the numbers to get the effect you want.
+
+Regardless, though, this would put a lot of stress on materials in a magic environment. You have a book with no special protections? Muggle clothing? It's probably going to be trash after a year in Hogwarts.
+
+The worst part of it is that I don't see what good it does you. How does your story benefit specifically from this wild magic idea? It seems to be a complicated thing that opens you up to a ton of plot holes if you're not smart and well-read and careful to examine every single aspect of the effects. It's like the worldbuilding in Firebird's Son: unsatisfying and full of holes, half of which have inadequate attempts to plug them.
