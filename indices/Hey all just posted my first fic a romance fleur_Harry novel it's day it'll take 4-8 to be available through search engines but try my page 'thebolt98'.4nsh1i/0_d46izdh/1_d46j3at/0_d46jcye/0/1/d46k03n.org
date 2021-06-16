@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: yarglethatblargle
+:Score: 4
+:DateUnix: 1465770619.0
+:DateShort: 2016-Jun-13
+:END:
+
+If you read the sidebar (read the damn sidebar), it talks about the fanfiction bot. To link a fic, all you need to do is put in a comment with linkffn (title) with no space between the paranthesis and linkffn. In this case, it would be linkffn(hogwarts love story).
+
+It can be made to be more accurate in case of a duplicate title by adding the author's username, so it would be linkffn (title by author), once again without the space between the linkffn and parenthesis.
+
+EDIT: In this comment, the bot decided to go with a different Hogwarts Love Story, so I would recommend that you use the bot form with your FFN username. It's actually rather convenient this was the case, as examples go.
