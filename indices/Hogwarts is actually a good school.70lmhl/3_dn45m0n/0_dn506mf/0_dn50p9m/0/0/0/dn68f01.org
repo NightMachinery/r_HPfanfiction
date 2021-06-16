@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: Kitten_Wizard
+:Score: 1
+:DateUnix: 1505750234.0
+:DateShort: 2017-Sep-18
+:END:
+
+Well that explains it thanks 🙃
+
+I thought hover menus were pretty much phased out because of the issue they pose with mobile browsers. Would be nice if the 3D Touch on iPhone would recognize a soft-tap as a hover and a subsequent soft-tap or a 3D-tap as actually tapping the link, so that functionality is the same for everything unless it's a hover-able link in which case you get the hover first.
+
+Quick search showed [[http://usabilitypost.com/2010/05/12/css-hover-controls-on-iphone/][this]] article explaining how to get around hover links. Too bad the website designer didn't look that up for an easy workaround for iPhone. I don't think ".link" works on other OS so I guess the issue is still there. Website devs should just stop using it without an accessible alternative.
