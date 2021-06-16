@@ -1,0 +1,21 @@
+:PROPERTIES:
+:Author: xljj42
+:Score: 6
+:DateUnix: 1549271176.0
+:DateShort: 2019-Feb-04
+:END:
+
+I know you're joking and playing a bit, but Imperial measurement units sound like they're right out of Hogwarts.
+
+| Unit    | Relative to Previous | Feet    |
+|---------+----------------------+---------|
+| thou    |                      | 1/12000 |
+| inch    | 1000 thou            | 1/12    |
+| foot    | 12 inches            | 1       |
+| yard    | 3 feet               | 3       |
+| chain   | 22 yards             | 66      |
+| furlong | 10 chains            | 660     |
+| mile    | 8 furlongs           | 5280    |
+| league  | 3 miles              | 15840   |
+
+​
