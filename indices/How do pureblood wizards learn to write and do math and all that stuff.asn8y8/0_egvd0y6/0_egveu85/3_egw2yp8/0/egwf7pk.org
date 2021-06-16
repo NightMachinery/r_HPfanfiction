@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: impossiblefork
+:Score: 9
+:DateUnix: 1550692397.0
+:DateShort: 2019-Feb-20
+:END:
+
+Even mathematicians forget it. It fades into the background and becomes obvious.
+
+You don't remember the mid point theorem, nor do you use it.
+
+Notice for example that this isn't only true for half the length of the sides but for any fraction of the length of the sides. In a way it can be seen as a consequence of the fact that scaling things doesn't really affect angles.
+
+The theorems you remember are foundational theorems, things like the Pythagorean theorem or the sum of angles theorem.
