@@ -1,0 +1,40 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 2
+:DateUnix: 1473585853.0
+:DateShort: 2016-Sep-11
+:END:
+
+#+begin_quote
+  And I feel like you are confusing map (language used to refer to different categories of magic) with territory (magical causes and effects, their similarities and differences). Rowling's quotation was mostly about the "map".
+#+end_quote
+
+The map must be isomorphic with the territory in order to be an effective map.
+
+#+begin_quote
+  That's not in the quotation. Also, there are charms that fundamentally alter their target: Severing Charm (Diffindo), Repair Charm (Reparo), Engorgement Charm, just off the top of my head.
+#+end_quote
+
+Yes it is:
+
+#+begin_quote
+  Charm:
+
+  Does not fundamentally alter the properties of the subject of the spell, but adds, or changes, properties. Turning a teacup into a rat would be a spell, whereas making a teacup dance would be a charm. The grey area comes with things like 'Stunning Spells', which on balance I think are Charms, but which I call spells for alliterative effect.
+#+end_quote
+
+"Turning a teacup into a rat", a transfiguration, is presented as a contrast to Charms. If the defining feature of a Charm is that it does not fundamentally alter the properties of the subject, the corollary is that a Transfiguration does fundamentally alter the properties of the subject (because if it didn't, then it would be a Charm).
+
+Incidentally, this explains why it is that you see conjuration in both Charms and Transfiguration. They may appear the same in the way they are cast, and in the apparent effect they have, but they are magically different. A "transfiguration conjuration" will create an object with its own fundamental existence independent of the caster, whereas a "Charm conjuration" is a magical bundle of properties.
+
+#+begin_quote
+  Also, there are charms that fundamentally alter their target: Severing Charm (Diffindo), Repair Charm (Reparo), Engorgement Charm, just off the top of my head.
+#+end_quote
+
+I don't see any evidence that these fundamentally alter the target. Indeed I would suggest that the reason why these magical effects are so easy to reverse (whereas untransfiguration is a complex topic not covered until NEWT, and Dark magic resists reversal) is because the object's fundamental nature hasn't changed. You've just imposed a property on it. That property can be removed, returning the object to its "true" state.
+
+#+begin_quote
+  Different groupings are useful for different purposes. In this case, performance method matters very much, because the original discussion was about characters learning to perform and being able to perform a particular magic.
+#+end_quote
+
+Except from everything we see in canon, understanding of the magical theory (as you say, the "magical causes and effects, their similarities and differences") has a direct impact on whether or not you can perform said magic. The two are intrinsically intertwined. Indeed it seems to be by far the most significant factor in spell success, given the way in which Hermione's ability to cast more advanced spells is based on her having studied their theory.
