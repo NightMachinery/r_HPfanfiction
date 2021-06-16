@@ -1,0 +1,17 @@
+:PROPERTIES:
+:Author: PsiGuy60
+:Score: 110
+:DateUnix: 1612954902.0
+:DateShort: 2021-Feb-10
+:END:
+
+We might get some clues about certain other number-systems, based on older civilizations that used anything other than Base 10.
+
+For example, the ancient Sumerians counted in Base 12, using their thumb to point at the knuckles on one hand. The Egyptians also used this system after them.
+
+Base 4 was common in Pacific nations, such as Papua New Guinea - they just used their thumb to point at their fingers and counted on one hand.
+
+If we figure out which numbers featured in their folklore/mythology (and that of other civilizations that didn't use Base 10), we'd most likely have an answer to this question.
+
+EDIT: Apparently the Sumerians actually counted in Base 60, using the knuckles on one hand to count to 12 repeatedly and "iterating" with the other.\\
+Incidentally, old civilizations counting in base 12 and base 60 is also why we measure time the way we do - 60 seconds in a minute, 60 minutes in an hour, and (2×)12 hours per day. Anything shorter than a second only became important after the Decimal system was introduced, so we "grafted on" the decimal way for those.

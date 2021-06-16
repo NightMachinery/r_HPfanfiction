@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: lbaloiu
+:Score: 75
+:DateUnix: 1612956187.0
+:DateShort: 2021-Feb-10
+:END:
+
+You are missing an essential truth: when we change the base we just change how we look at a certain number, but not the number. 111 in binary is exactly the same thing as 7 in decimal (or Base12) or as 13 in base 4 (for example).
+
+It's still the 5th prime number and retains all it's properties, including magical ones.
+
+So Voldemort separating his soul in 111 parts in binary is the same as separating his soul in 1111111 in unary or 7 in decimal, you'd get just as many soul parts.

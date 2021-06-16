@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: ParanoidDrone
+:Score: 4
+:DateUnix: 1612979912.0
+:DateShort: 2021-Feb-10
+:END:
+
+#+begin_quote
+  Should Voldemort have separated his soul into 111 parts according to Binaric Arithmancy?
+#+end_quote
+
+Short answer: No.
+
+Troll answer: Yes, but not for the reason you think.
+
+Long answer: Although the /representation/ of a number can vary depending on the base system used, the number itself is the same. 3 + 4 in decimal is the same as 11 + 100 in binary, so Voldemort would not be splitting his souls into one hundred and eleven different pieces even if the magical world happened to run on binary logic. He'd be splitting it into 111 pieces, which is the binary representation of seven.
