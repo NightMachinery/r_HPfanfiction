@@ -1,0 +1,23 @@
+:PROPERTIES:
+:Author: Sescquatch
+:Score: 9
+:DateUnix: 1613774238.0
+:DateShort: 2021-Feb-20
+:END:
+
+At what age are you best at playing the piano?
+
+I think that is a very similar question. So there are three components: Talent, knowledge, and skill. When you are very young, you will lack the last two, although the first can make acquiring it very easy, if you have an intuitive grasp (think Mozart). In theory, you can improve skill and knowledge all your life, but beyond a certain point, improvements are only incremental.
+
+So in theory, I'd say you are best at performing magic in old age. In practice, you'll have learned 99.99% of all the stuff that will max out your talent at some point early in life, probably before 50, if you give wizards a life span of 130 or so. And just because you keep practicing and learning, you're never becoming Mozart if you weren't already, so you'll stay on that plateau for the rest of your life.
+
+The profiency curve therefore should look something like this: [[https://upload.wikimedia.org/wikipedia/commons/5/54/Generalized_logistic_function_A0_K1_B1.5_Q0.5_%CE%BD0.5_M0.5.png][curve]]
+
+The scaling I imagine for average wizards is approximately:
+
+- -1: Age 5
+- -0.5: Age 11
+- 0.5: Age 20
+- 1.5: Age 50
+
+And as long as you don't fall magically ill, magic waning isn't a thing.
