@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1598291255.0
+:DateShort: 2020-Aug-24
+:END:
+
+Ah, my mistake, it is “hit wizard”: ``` Knihy@stitny$ epubgrep -i 'hit wizard' *.epub harry_potter_3_harry_potter_and_the_prisoner_of_az.epub 9. The Marauder's Map:
+
+<p class="MsoNormal2"><span class="sgc4">“You don't know what you're talking about, Hagrid,” said Fudge sharply. “Nobody but trained Hit Wizards from the Magical Law Enforcement Squad would have stood a chance against Black once he was cornered. I was Junior Minister in the Department of Magical Catastrophes at the time, and I was one of the first on the scene after Black murdered all those people. I --- I will never forget it. I still dream about it sometimes. A crater in the middle of the street, so deep it had cracked the sewer below. Bodies everywhere. Muggles screaming. And Black standing there laughing, with what was left of Pettigrew in front of him ... a heap of bloodstained robes and a few --- a few fragments ---”</span></p> Knihy@stitny$ ```
