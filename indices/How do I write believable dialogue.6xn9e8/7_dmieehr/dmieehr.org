@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: PeteNewell
+:Score: 4
+:DateUnix: 1504453944.0
+:DateShort: 2017-Sep-03
+:END:
+
+Aside from getting the spoken bits right, this is critical: keep the description of the speaker in the same paragraph with their spoken words. If the reader has to constantly backfit who's talking, your dialog will be jarring and hard to read.
+
+You typically start a new paragraph each time you change the speaker. That doesn't mean that you start a paragraph when you open a quote.
+
+To illustrate, don't do this:
+
+#+begin_quote
+  Harry was a bit intimidated by the prospect of the Yule Ball.
+
+  "Sounds like this dance is going to be too fancy for me." Hermione was quite excited.
+
+  "I think my dress is gorgeous. I can't wait to surprise everyone." Harry laughed.
+
+  "That sounds great, Hermione, you'll be the belle of the ball."
+#+end_quote
+
+I have ditched otherwise entertaining fiction because page after page of that kind of crap just got too tiring to deal with.
