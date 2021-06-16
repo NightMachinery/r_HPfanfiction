@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: denarii
+:Score: 1
+:DateUnix: 1381957701.0
+:DateShort: 2013-Oct-17
+:END:
+
+You can use what Notosk posted, or paste this into your address bar:
+
+#+begin_example
+  javascript:$('#storytextp').css('-webkit-user-select', 'text');$('.nocopy').removeClass('nocopy');
+#+end_example
