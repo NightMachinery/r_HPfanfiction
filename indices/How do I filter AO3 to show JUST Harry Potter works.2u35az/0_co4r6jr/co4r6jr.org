@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: Urukubarr
+:Score: 2
+:DateUnix: 1422550544.0
+:DateShort: 2015-Jan-29
+:END:
+
+Are you excluding the fandoms with the Search within results bar? Here's an example. [[http://i.imgur.com/rVdULQ3.jpg][Example image.]]
+
+The blue highlighted part has a space in between the first and second words so a quotation is used to count it as one phrase. The minus will exclude whatever follows it, which can be used for whatever fandoms you want.
