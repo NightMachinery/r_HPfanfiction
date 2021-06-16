@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 10
+:DateUnix: 1433975343.0
+:DateShort: 2015-Jun-11
+:END:
+
+It would search Google in order to get the most relevant fic.
+
+If you want to find a fic by a specific author, you can drastically increase your chances of doing so by including the author name in the brackets, eg.
+
+#+begin_example
+  linkffn(The Denarian Renegade by Shezza)
+#+end_example

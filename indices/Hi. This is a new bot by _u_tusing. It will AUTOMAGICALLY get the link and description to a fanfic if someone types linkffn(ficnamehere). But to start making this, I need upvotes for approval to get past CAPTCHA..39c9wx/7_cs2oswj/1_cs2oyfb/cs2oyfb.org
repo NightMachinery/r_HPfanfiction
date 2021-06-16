@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1433997506.0
+:DateShort: 2015-Jun-11
+:END:
+
+Not done yet!
+
+It can grab all the data and generate a reddit-formatted description, but I still have to implement saving comments its replied to, so it doesn't reply to the same comment multiple times.

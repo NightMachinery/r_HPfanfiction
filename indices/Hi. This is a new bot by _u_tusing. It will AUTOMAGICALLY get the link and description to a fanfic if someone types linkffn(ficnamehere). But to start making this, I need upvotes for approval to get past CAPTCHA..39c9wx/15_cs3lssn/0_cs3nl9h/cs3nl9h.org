@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1434065804.0
+:DateShort: 2015-Jun-12
+:END:
+
+So I don't want to use this on a wide scale until I have error handling in place - meaning that if a part of it crashes, it can still keep running without me manually having to manage that.
+
+Until then, I'm running it periodically. It might take up to an hour, until the bot has enough comment karma, per request.

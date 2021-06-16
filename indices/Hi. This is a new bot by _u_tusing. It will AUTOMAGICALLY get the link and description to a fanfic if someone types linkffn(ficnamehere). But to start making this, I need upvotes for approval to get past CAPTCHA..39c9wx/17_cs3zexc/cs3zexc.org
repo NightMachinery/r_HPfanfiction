@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 1
+:DateUnix: 1434090161.0
+:DateShort: 2015-Jun-12
+:END:
+
+I think you should drop the reviews, favs, and follows when fetching the description. Those can change quite a bit in the space of hours.

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: girlikecupcake
+:Score: 4
+:DateUnix: 1433985700.0
+:DateShort: 2015-Jun-11
+:END:
+
+So what happens if there's multiple stories with the same name, but we don't input the author? Will it choose the one with [insert highest parameter]?
