@@ -1,0 +1,30 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1466819843.0
+:DateShort: 2016-Jun-25
+:END:
+
+[[http://archiveofourown.org/works/2725514][*/The Lamentable Comedy of Severus, Half-Blood Prince of Denmark/*]] by [[http://archiveofourown.org/users/a_t_rain/pseuds/a_t_rain][/a_t_rain/]]
+
+#+begin_quote
+  A teenaged Severus Snape drinks a Plothole-Plugging Potion and lands in sixteenth-century Elsinore. Who knew fixing Shakespearean tragedies was his real mission in life?
+#+end_quote
+
+^{/Site/: [[http://www.archiveofourown.org/][Archive of Our Own]] *|* /Fandoms/: Harry Potter - J. K. Rowling, Hamlet - Shakespeare, SHAKESPEARE William - Works *|* /Published/: 2014-12-06 *|* /Completed/: 2014-12-06 *|* /Words/: 18948 *|* /Chapters/: 6/6 *|* /Comments/: 21 *|* /Kudos/: 94 *|* /Bookmarks/: 11 *|* /Hits/: 1202 *|* /ID/: 2725514 *|* /Download/: [[http://archiveofourown.org/downloads/a_/a_t_rain/2725514/The%20Lamentable%20Comedy%20of.epub?updated_at=1417844201][EPUB]] or [[http://archiveofourown.org/downloads/a_/a_t_rain/2725514/The%20Lamentable%20Comedy%20of.mobi?updated_at=1417844201][MOBI]]}
+
+--------------
+
+[[http://www.fanfiction.net/s/11977774/1/][*/The Correspondent/*]] by [[https://www.fanfiction.net/u/7912911/herbertpocket][/herbertpocket/]]
+
+#+begin_quote
+  On his second day at Hogwarts School of Witchcraft and Wizardry, Sherlock finds a blank notebook slipped in among his school things. It is an utterly unremarkable notebook ... except for the fact that it writes back.
+#+end_quote
+
+^{/Site/: [[http://www.fanfiction.net/][fanfiction.net]] *|* /Category/: Harry Potter + Sherlock Crossover *|* /Rated/: Fiction K *|* /Chapters/: 2 *|* /Words/: 2,237 *|* /Reviews/: 5 *|* /Favs/: 5 *|* /Follows/: 17 *|* /Updated/: 14h *|* /Published/: 6/2 *|* /id/: 11977774 *|* /Language/: English *|* /Genre/: Humor/Fantasy *|* /Characters/: Tom R. Jr., Sherlock H. *|* /Download/: [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11977774&source=ff&filetype=epub][EPUB]] or [[http://www.ff2ebook.com/old/ffn-bot/index.php?id=11977774&source=ff&filetype=mobi][MOBI]]}
+
+--------------
+
+*FanfictionBot*^{1.4.0} *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]] | [[[https://www.reddit.com/message/compose?to=tusing][Contact]]]
+
+^{/New in this version: Slim recommendations using/ ffnbot!slim! /Thread recommendations using/ linksub(thread_id)!}
