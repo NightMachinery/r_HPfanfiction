@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: bluspacecow
+:Score: 2
+:DateUnix: 1480152372.0
+:DateShort: 2016-Nov-26
+:END:
+
+Here's a good tip for downloading from fanfiction.net
+
+PM FanfictionBot with the following syntax -
+
+linkffn THEN put the fanfiction URL or Story ID in brackets after it ()
+
+The Fanfiction Bot will then download it for you and send back a summary thing that has a MOBI and EPUB download link for each one.
+
+I find this the most useful way of downloading from fanfiction.net because
+
+(a) I have a record of which chapter I've read to for a fanfiction (useful when you get new chapters)
+
+(b) It means I can prepare a text file of fanfictions to download so I can Copy/Paste ones into a new message (I only like to give it 4 at a time to download)
+
+(c) It's blazingly fast. I think this may be because it searches in an archive of ones already downloaded then adds new chapters if it needs to. Seriously it was done with about 36 fanfictions in the time it takes Fanficfare to download 3
+
+PS - A warning. Only give FFBot a max of around 4 at once. Otherwise it just ignores the PM it sends. Try not to overload it :P

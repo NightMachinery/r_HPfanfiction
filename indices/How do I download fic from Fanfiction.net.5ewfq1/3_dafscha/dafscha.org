@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: Frystix
+:Score: 5
+:DateUnix: 1480125119.0
+:DateShort: 2016-Nov-26
+:END:
+
+There are several ways that I know of:
+
+[[http://ficsave.xyz/][ficsave]] lets you choose between Mobi, ePub, or plain text and you can download stories or have them emailed to you, it should work on any device.
+
+[[https://fanfictiondownloader.net/][FanFiction Downloader]] is an application for Winodws, Mac OSX, and certain Linux distros, 64bit specifically. This has a larger number of formats to download in than ficsave, but installing an application is inconvenient compared to visiting a webpage.
+
+Calibre also has a plugin, [[http://www.mobileread.com/forums/showthread.php?t=259221][Fanficfare]], that can be used to download stories in bulk, I use this to manage my library across two computers, two tablets, and my phone. Although some of the apps for calibre cost money, desktop is totally free though. FYI it's not that good of a solution for reading on a desktop, as the interface is pretty bad on desktop, it's better on tablets and phones.
+
+FanfictionBot also provides links when you use it for ePub and Mobi.
