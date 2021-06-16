@@ -1,0 +1,9 @@
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1418969482.0
+:DateShort: 2014-Dec-19
+:END:
+
+[[https://github.com/dhasenan/fanfiction.ebook][Custom script]] to download stuff and convert it to epub or awz3, depending on which type of ereader I'm using at the moment. At least, that's for stuff over about 70k words. For stuff under 30k words, I'll just read it in my browser.
+
+Because of this, I tend not to read stuff between about 30k and 70k words.
