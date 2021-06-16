@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: JustRuss79
+:Score: 2
+:DateUnix: 1395505962.0
+:DateShort: 2014-Mar-22
+:END:
+
+fixed, removed the S in https; should still work just fine.
