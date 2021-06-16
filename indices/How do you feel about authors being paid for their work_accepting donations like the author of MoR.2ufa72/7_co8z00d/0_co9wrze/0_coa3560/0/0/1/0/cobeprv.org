@@ -1,0 +1,32 @@
+:PROPERTIES:
+:Author: autowikibot
+:Score: 4
+:DateUnix: 1423090899.0
+:DateShort: 2015-Feb-05
+:END:
+
+***** 
+      :PROPERTIES:
+      :CUSTOM_ID: section
+      :END:
+****** 
+       :PROPERTIES:
+       :CUSTOM_ID: section-1
+       :END:
+**** 
+     :PROPERTIES:
+     :CUSTOM_ID: section-2
+     :END:
+[[https://en.wikipedia.org/wiki/Zero-risk%20bias][*Zero-risk bias*]]: [[#sfw][]]
+
+--------------
+
+#+begin_quote
+  *Zero-risk bias* is a tendency to prefer the complete elimination of a [[https://en.wikipedia.org/wiki/Risk][risk]] even when alternative options produce a greater reduction in risk (overall). This effect on [[https://en.wikipedia.org/wiki/Decision_making][decision making]] has been observed in surveys presenting hypothetical scenarios and certain real world policies (e.g. [[https://en.wikipedia.org/wiki/War_against_terrorism][war against terrorism]] as opposed to reducing the risk of [[https://en.wikipedia.org/wiki/Road_traffic_accident][traffic accidents]] or [[https://en.wikipedia.org/wiki/Gun_violence][gun violence]]) have been interpreted as being influenced by it.
+#+end_quote
+
+--------------
+
+^{Interesting:} [[https://en.wikipedia.org/wiki/Closure_(psychology)][^{Closure} ^{(psychology)}]] ^{|} [[https://en.wikipedia.org/wiki/List_of_cognitive_biases][^{List} ^{of} ^{cognitive} ^{biases}]] ^{|} [[https://en.wikipedia.org/wiki/Index_of_philosophy_articles_(R%E2%80%93Z)][^{Index} ^{of} ^{philosophy} ^{articles} ^{(R--Z)}]]
+
+^{Parent} ^{commenter} ^{can} [[/message/compose?to=autowikibot&subject=AutoWikibot%20NSFW%20toggle&message=%2Btoggle-nsfw+cobeprv][^{toggle} ^{NSFW}]] ^{or[[#or][]]} [[/message/compose?to=autowikibot&subject=AutoWikibot%20Deletion&message=%2Bdelete+cobeprv][^{delete}]]^{.} ^{Will} ^{also} ^{delete} ^{on} ^{comment} ^{score} ^{of} ^{-1} ^{or} ^{less.} ^{|} [[http://www.np.reddit.com/r/autowikibot/wiki/index][^{FAQs}]] ^{|} [[http://www.np.reddit.com/r/autowikibot/comments/1x013o/for_moderators_switches_commands_and_css/][^{Mods}]] ^{|} [[http://www.np.reddit.com/r/autowikibot/comments/1ux484/ask_wikibot/][^{Magic} ^{Words}]]
