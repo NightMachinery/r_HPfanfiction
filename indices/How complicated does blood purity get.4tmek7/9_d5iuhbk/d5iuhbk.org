@@ -1,0 +1,15 @@
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1468970717.0
+:DateShort: 2016-Jul-20
+:END:
+
+One way to measure it: in your idealized family tree, how many generations do you have to go back on average to get to a muggleborn? (Idealized family tree because it assumes no overlap among mages -- your mother and father aren't sixth cousins or anything.) So N-- Tonks is a child of Andromeda Black, with an average of (we'll say) 12 generations, and Ted Tonks, with an average of 0 generations; so N-- Tonks gets a score of 7.
+
+This is not the system in use because N-- Tonks is considered to have garbage status, whereas someone who was seven generations removed from muggleborns would be acceptable to high society.
+
+Another metric is the minimum number of generations instead of the average. N-- Tonks would have the same status as, oh, a child of Hermione Granger and Seamus Finnegan. That also doesn't seem quite right.
+
+Still another way to look at it is: assume that magical ability is a dominant single-gene trait. Assume that muggleborns are all heterozygous. What is the probability that you are homozygous? That is what your purity is based on. Every time you produce a squib, that knocks you back to mudblood rank, though -- bearing a squib is shameful, but not quite /that/ shameful.
+
+I think the actual system is far less formal, far harder to specify. (Though it could be amusing for Nott or Zabini to keep a running tally of everyone in Slytherin, both their lineage points and the points they get from actions.) It's got aspects of all three formal measures that I suggested, plus the notion of blood traitors who lose status because of their actions.
