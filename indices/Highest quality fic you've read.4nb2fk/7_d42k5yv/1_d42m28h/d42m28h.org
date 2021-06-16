@@ -1,0 +1,20 @@
+:PROPERTIES:
+:Author: Noexit007
+:Score: 1
+:DateUnix: 1465496783.0
+:DateShort: 2016-Jun-09
+:END:
+
+*How to use the Bot:*
+
+Use the following:
+
+- Fanfiction.net - linkffn(...)
+- Archive of Our Own - linkao3(...)
+- HP Fanfic Archive - linkffa(...)
+- Fictionpress - linkfp(...)
+- Adult FanFiction - linkaff(story URL only)
+
+For example... with linkffn(...) In the (...) you can do the following:
+
+--Linking by the title usually works - example: linkffn(An Unhealthy Fixation With Aurors) -- Linking using title and author will work more often due to more details - Example: linkffn(Emperor by Marquis Black) -- You can also use the fic code (in the URL) - Example: linkffn(5904185). This way should always work.
