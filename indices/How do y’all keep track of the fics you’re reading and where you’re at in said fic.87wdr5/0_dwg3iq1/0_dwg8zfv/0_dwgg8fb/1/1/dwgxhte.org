@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: WilFenrir
+:Score: 1
+:DateUnix: 1522325724.0
+:DateShort: 2018-Mar-29
+:END:
+
+Not really actually it keeps most of them as unloaded pages so when you access one after a while it has to fully reload the page
