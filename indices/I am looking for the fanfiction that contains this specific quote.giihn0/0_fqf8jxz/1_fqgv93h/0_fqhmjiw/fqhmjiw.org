@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: munin295
+:Score: 2
+:DateUnix: 1589380033.0
+:DateShort: 2020-May-13
+:END:
+
+The quotation marks in a google search tell Google to look for these /specific/ words in this specific order. Otherwise Google will treat all the words individually as keywords that can appear anywhere in the document, and will also look for synonyms and miss-spellings.
