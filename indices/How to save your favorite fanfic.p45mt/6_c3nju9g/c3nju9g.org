@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Sunjamin
+:Score: 1
+:DateUnix: 1328288443.0
+:DateShort: 2012-Feb-03
+:END:
+
+This bookmarklet is even better: javascript:void(location.href='[[http://fanfictionloader.appspot.com/fdown?format=epub&login=ffdl&password=sp4rkl3s&url='+location.href]])
