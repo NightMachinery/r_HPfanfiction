@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: WikiTextBot
+:Score: 2
+:DateUnix: 1575991312.0
+:DateShort: 2019-Dec-10
+:END:
+
+*ReStructuredText*
+
+reStructuredText (RST, ReST, or reST) is a file format for textual data used primarily in the Python programming language community for technical documentation.
+
+It is part of the Docutils project of the Python Doc-SIG (Documentation Special Interest Group), aimed at creating a set of tools for Python similar to Javadoc for Java or Plain Old Documentation (pod) for Perl. Docutils can extract comments and information from Python programs, and format them into various forms of program documentation.In this sense, reStructuredText is a lightweight markup language designed to be both (a) processable by documentation-processing software such as Docutils, and (b) easily readable by human programmers who are reading and writing Python source code.
+
+--------------
+
+^{[} [[https://www.reddit.com/message/compose?to=kittens_from_space][^{PM}]] ^{|} [[https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme][^{Exclude} ^{me}]] ^{|} [[https://np.reddit.com/r/HPfanfiction/about/banned][^{Exclude} ^{from} ^{subreddit}]] ^{|} [[https://np.reddit.com/r/WikiTextBot/wiki/index][^{FAQ} ^{/} ^{Information}]] ^{|} [[https://github.com/kittenswolf/WikiTextBot][^{Source}]] ^{]} ^{Downvote} ^{to} ^{remove} ^{|} ^{v0.28}

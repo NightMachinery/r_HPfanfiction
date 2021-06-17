@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: ceplma
+:Score: 3
+:DateUnix: 1575991303.0
+:DateShort: 2019-Dec-10
+:END:
+
+I am a programmer by profession, so I write everything in a plan text editor ([[https://neovim.io/][neovim]] in my case) using [[https://en.wikipedia.org/wiki/ReStructuredText][reStructuredText]] format and then converting to HTML/Open/LibreOffice/ePub/whatever-else. I really liked that AO3 is capable of importing multiple chapters (80+ in my case of linkao3(20896994)) at once.
