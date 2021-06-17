@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Phonsz
+:Score: 1
+:DateUnix: 1549396583.0
+:DateShort: 2019-Feb-05
+:END:
+
+For a mock-up I wrote a while back, I made the game last for a standard of 2 1/2 hours, where the snitch appears once per 30 minutes, but it is at a random time within those 30 minutes. Snitch is valued at 50 points. This makes the Seeker still have to look for the Snitch near-constantly, but also can be used during regular team play. Also, since the last Snitch 'spawns' every 30 minutes, it will spawn during the end of the 2 1/2 hours as well. In this case, the game is played on until the final Snitch is caught, allowing for comebacks, if the Seekers can stall one another until their team has caught up.
