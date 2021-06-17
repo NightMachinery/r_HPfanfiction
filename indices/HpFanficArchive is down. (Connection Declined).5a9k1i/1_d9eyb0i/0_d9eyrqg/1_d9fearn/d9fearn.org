@@ -1,0 +1,11 @@
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1477926448.0
+:DateShort: 2016-Oct-31
+:END:
+
+From the command line on Linux (OSX might also have it; on Windows, you'd have to install Cygwin):
+
+#+begin_example
+  wget --user-agent="User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:32.0) Gecko/20100101 Firefox/32.0" --mirror --limit-rate 100k -e robots=off --wait 1 http://www.harrypotterfanfiction.com/
+#+end_example
