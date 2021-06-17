@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1436362815.0
+:DateShort: 2015-Jul-08
+:END:
+
+Nah. While that might seem like a simple change, it in reality would involve quite a few large changes to the implementation of the bot. I might get around to adding it in the future.

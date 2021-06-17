@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: padawan314
+:Score: 1
+:DateUnix: 1436374582.0
+:DateShort: 2015-Jul-08
+:END:
+
+Is your bot's code on github or are you keeping it private? p.s. It would take more memory sure, you'd need to store each comment that had your bot's linkff() call and compare sequential scans to previous versions of the comment. Or does your bot continually scan the reddit threads and respond only to new comments?

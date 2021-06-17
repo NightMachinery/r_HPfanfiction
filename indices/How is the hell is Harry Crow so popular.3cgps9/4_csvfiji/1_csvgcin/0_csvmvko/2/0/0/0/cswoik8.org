@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 1
+:DateUnix: 1436391354.0
+:DateShort: 2015-Jul-09
+:END:
+
+It is on Github (check the usage tips at the end of a bot reply - that's the README.MD). Right now, I simpmy store all checked comments. If I changed, I would have to store edit status and a dictionary of the IDs for referenced stories. Then I would have to delete if they are different, and re-comment.
