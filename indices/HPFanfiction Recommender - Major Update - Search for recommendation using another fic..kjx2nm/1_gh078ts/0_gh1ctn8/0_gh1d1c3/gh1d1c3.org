@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1608947889.0
+:DateShort: 2020-Dec-26
+:END:
+
+Yep, it's essentially the same as my Flipper application, just in the form of a bot. It compares people's favourites with reference lists on ffn and spits out the best matches. I have my own database of parsed fanfiction.net/u/'s for that.
