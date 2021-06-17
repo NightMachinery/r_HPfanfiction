@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1533954529.0
+:DateShort: 2018-Aug-11
+:END:
+
+Actually sorting on the amount of matches in favourite lists similar to your own works better than you'd think such a simple algo will perform. Even better when you have controls to further filter such sort results. It's how I've been reading for the past two years mostly.
