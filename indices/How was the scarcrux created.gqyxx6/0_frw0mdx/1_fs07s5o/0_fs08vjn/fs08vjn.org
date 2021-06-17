@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: Ash_Lestrange
+:Score: 2
+:DateUnix: 1590605556.0
+:DateShort: 2020-May-27
+:END:
+
+You mean this:
+
+#+begin_quote
+  How do you do the blue line thingy
+#+end_quote
+
+This > space then whatever you're quoting
