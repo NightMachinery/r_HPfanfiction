@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: NouvelleVoix
+:Score: 1
+:DateUnix: 1526496821.0
+:DateShort: 2018-May-16
+:END:
+
+Oh! I found some scripts a while back that might help. You'll need something like Tampermonkey to use 'em:
+
+[[https://greasyfork.org/en/scripts/3579-ao3-savior]]
+
+[[https://greasyfork.org/en/scripts/3578-ao3-saved-filters]]

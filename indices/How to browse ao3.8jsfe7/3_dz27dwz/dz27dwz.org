@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: Hellstrike
+:Score: 12
+:DateUnix: 1526452639.0
+:DateShort: 2018-May-16
+:END:
+
+The exclude function is the feature I use the most on that website. Usually my "Search within result" field looks like this:
+
+#+begin_quote
+  -"m/m" -Malfoy -Snape -Voldemort -Lupin -Weasley
+#+end_quote
+
+Unless I am looking for something with Ginny, then I'm manually excluding her brothers.
+
+That way, I won't stumble across the shitty Death Eater ships or the "Happy Weasley family". I know that this method leads to a lot of false positives due to the excessive tagging, but it's still better than scrolling past pages upon pages of slash and the +Nazis+ Death Eaters did nothing wrong.
