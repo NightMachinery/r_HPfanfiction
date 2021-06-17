@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: denarii
+:Score: 3
+:DateUnix: 1444350053.0
+:DateShort: 2015-Oct-09
+:END:
+
+The new CSS isn't active. There were some issues with it so we reverted the changes until we could fix and change some things.
