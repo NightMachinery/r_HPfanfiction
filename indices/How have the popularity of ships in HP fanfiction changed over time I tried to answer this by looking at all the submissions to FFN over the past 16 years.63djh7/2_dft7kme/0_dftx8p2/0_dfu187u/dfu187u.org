@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 7
+:DateUnix: 1491340665.0
+:DateShort: 2017-Apr-05
+:END:
+
+Well I am in grad school (shhh, don't tell my advisor I'm on reddit :p) so I already do a lot of programming and data analysis. I had never done web scraping before, though, so this is a hobby of mine that I have /very/ slowly cultivated over the past few years. This particular post didn't take long since I already had the code written. The part that took the longest was data collection, which was fully automated and I just had to restart the script every so often.

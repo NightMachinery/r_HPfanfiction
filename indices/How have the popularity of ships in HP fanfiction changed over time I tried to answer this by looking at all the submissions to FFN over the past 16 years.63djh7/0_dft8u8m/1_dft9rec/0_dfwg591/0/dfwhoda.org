@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1491471010.0
+:DateShort: 2017-Apr-06
+:END:
+
+No, just a python script I wrote, using the requests and lxml libraries to get the pages and parse them.

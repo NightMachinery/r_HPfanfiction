@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 2
+:DateUnix: 1491318692.0
+:DateShort: 2017-Apr-04
+:END:
+
+Not really. I'd have to rewrite the html parsing code for each archive since they each display the information in different ways.
