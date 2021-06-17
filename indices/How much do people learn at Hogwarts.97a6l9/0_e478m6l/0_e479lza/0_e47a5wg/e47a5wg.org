@@ -1,0 +1,34 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 9
+:DateUnix: 1534287796.0
+:DateShort: 2018-Aug-15
+:END:
+
+It's likely that vanished things can be retrieved. From the linked doc:
+
+--------------
+
+McGonagall contrasts Vanishing with Conjuration, implying that they are opposites:
+
+#+begin_quote
+  “Yes, you too, Longbottom,” said Professor McGonagall. “There's nothing wrong with your work except lack of confidence. So... today we are starting Vanishing Spells. These are easier than Conjuring Spells, which you would not usually attempt until NEWT level, but they are still among the most difficult magic you will be tested on in your OWL.” (OotP Chapter 13)
+#+end_quote
+
+If Conjuration is the opposite process to Vanishing, then it is the process of taking objects out of non-being into being. The fact that Conjuration is the reverse of Vanishing is supported by the fact that you can retrieve objects that have been Vanished back out of non-being:
+
+#+begin_quote
+  A third twitch of the wand, and a dusty bottle and five glasses appeared in midair. The bottle tipped and poured a generous measure of honey-colored liquid into each of the glasses, which then floated to each person in the room.
+
+  “Madam Rosmerta's finest oak-matured mead,” said Dumbledore, raising his glass to Harry, who caught hold of his own and sipped. (HBP Chapter 3)
+#+end_quote
+
+This is branded mead, meaning that it is not Dumbledore's creation. Rather he must have Vanished it earlier and is now re-conjuring it in a different location (which fits nicely with Vanished objects being “everything”). The only alternative is that Dumbledore is so skilled with the Summoning Charm that he can summon objects via Apparition. While not impossible, that would go against all other uses of the Summoning Charm which we have seen, and would further raise all sorts of questions about the ease of magical theft.
+
+--------------
+
+To this I would add the fact that Montague was (eventually) successfully unvanished after being shoved into the broken vanishing cabinet by Fred and George.
+
+So yes. it's definitely possible to vanish people, especially with enchanted objects. However I don't think it's something that many wizards would be able to just do on a whim. Most wizards do not seem capable of vanishing objects with a single spell but rather need to try it multiple times, each time vanishing a little more of the object.
+
+Further, it gets more difficult as complexity increases, with an iguana being the OWL exam we saw. Given the relative difficulty of human transfiguration to animal transfiguration (even Hermione was said to be struggling to understand human transfiguration in HBP), it seems likely that human vanishing is correspondingly more difficult.
