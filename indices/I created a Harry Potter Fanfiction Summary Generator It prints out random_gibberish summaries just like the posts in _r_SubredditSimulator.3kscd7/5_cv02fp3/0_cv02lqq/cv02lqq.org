@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 6
+:DateUnix: 1442158676.0
+:DateShort: 2015-Sep-13
+:END:
+
+Haha that's an effect of using multiple previous words to predict the next, so it can pull out complete phrases from existing summaries if that particular phrase is especially unique.
+
+You can tell in that example that it has pulled words from at least two summaries, since the pronoun changes from "his" to "her"

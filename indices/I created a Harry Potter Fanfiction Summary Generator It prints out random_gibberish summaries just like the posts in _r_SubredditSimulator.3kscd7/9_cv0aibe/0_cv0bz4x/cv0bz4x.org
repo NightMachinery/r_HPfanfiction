@@ -1,0 +1,11 @@
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 5
+:DateUnix: 1442173317.0
+:DateShort: 2015-Sep-14
+:END:
+
+Thanks! To answer your questions:
+
+1. I don't know the exact complexity, but it's definitely not efficient. I'm also not very familiar with algorithm analysis, but I'll give it a shot. The heavy lifting is done with the matlab function ismember(a,b) which takes two lists of strings /a/ and /b/ and returns the locations in /a/ that are found in /b/. According [[http://www.mathworks.com/matlabcentral/newsreader/view_thread/271030][to this thread]], ismember first sorts the lists, an O(n*log(n)) process, and then starts comparing, so it can terminate early once it's found a match. I think there's too many factors for me to give a good answer, e.g. as the list of keys gets larger, the searching for existing keys takes longer.
+2. You can find plenty of blog posts like mine, e.g. the two I linked to in the supplementary post or [[http://blog.codinghorror.com/markov-and-you/][here]]. Also, I haven't read these sources, but they seem promising: [[https://www-alg.ist.hokudai.ac.jp/%7Ethomas/publications/fow06hz.pdf][1]] [[http://www.cs.princeton.edu/courses/archive/spr05/cos126/assignments/markov.html][2]].

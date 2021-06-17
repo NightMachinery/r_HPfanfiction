@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 5
+:DateUnix: 1442188219.0
+:DateShort: 2015-Sep-14
+:END:
+
+Hmm. In this context, it's just a way of thinking about likely word transitions, so if I ask you to complete the phrase "Chamber of...", what would pick as the next word? Being a Harry Potter fan, you might say "Secrets", but someone who hasn't read the series might say "Commerce". It's all about your prior experience.
+
+I wrote a computer program to mimic this. I fed it a large body of text (in this case fanfiction summaries), and the program "learned" which words are most likely to follow others. Then, to generate a fake summary, I give it a starting phrase and ask it to keep going, randomly choosing words based on what it has learned.

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 8
+:DateUnix: 1442155378.0
+:DateShort: 2015-Sep-13
+:END:
+
+Since people seemed to like my previous post analyzing character choices, this time I analyzed the word and phrasing choices used in the summaries! It's based on the use of a Markov chain (read post for more info) that was constructed by analyzing the top 25,000 fanficition summaries on FFN, sorted by number of reviews.

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 4
+:DateUnix: 1442173849.0
+:DateShort: 2015-Sep-14
+:END:
+
+I briefly mentioned this in the supplementary info [[http://uncertaindecisions.com/index.php/markov_details/][here]]. I decided not to do this because (1) it would take more time to implement, and (2) sometimes the generated summaries mention one or two characters, and then it changes completely and talks about others. So I think the random characters adds to the gibberish nature of it.

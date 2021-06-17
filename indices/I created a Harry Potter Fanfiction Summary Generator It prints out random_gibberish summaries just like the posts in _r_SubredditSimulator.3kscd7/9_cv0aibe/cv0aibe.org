@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 8
+:DateUnix: 1442171152.0
+:DateShort: 2015-Sep-13
+:END:
+
+So, as a student, I really want to do some work in machine learning and AI. I absolutely /loved/ your explanation of Markov Chains and the supplementary post - you explained Markov Chains extremely well, approachable to someone who hasn't touched on probability for years.
+
+Thank you for that! Two questions:
+
+1. What is the time complexity for the algorithm? The thought makes me shudder. It feels like it would be between O(n^{2} ) and O(n!) (of course, there are multiple inputs, so that's not very specific)
+
+2. Where can I go to learn more about stuff like this? Any recommendations for videos/websites/books/PDFs etc?
