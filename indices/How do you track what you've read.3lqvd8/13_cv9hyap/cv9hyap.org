@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 3
+:DateUnix: 1442872534.0
+:DateShort: 2015-Sep-22
+:END:
+
+- Calibre + FanFicFare plugin to keep and update my library of fics I've read or intend to read.
+- Reading List plugin to automatically push newly downloaded or updated fics to my e-Reader.
+- e-Reader to keep track of what I've read: once I'm caught up on a fic, I simply delete it from the e-Reader, while keeping it in the Calibre library.
