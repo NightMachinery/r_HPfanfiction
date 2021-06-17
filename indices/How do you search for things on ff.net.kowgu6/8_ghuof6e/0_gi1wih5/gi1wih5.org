@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1609751453.0
+:DateShort: 2021-Jan-04
+:END:
+
+please note: flipper is broken right now as in - it can't parse new user lists because of the cloudflare that ffn uses. I am working on a solution but it will be a part of the more complex infrastructural refactoring and won't be online for a while yet.
+
+Meanwhile you can use my discord bot(Socrates) in #botspam on my server: [[https://discord.gg/HrftyVQcCV]]
+
+The bot uses the same algorithm as flipper to create recommendations, but ,since it's working on my own server, fixing the parsing was massively easier for it, so unlike flipper it actually works atm

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: zerkses
+:Score: 1
+:DateUnix: 1609752571.0
+:DateShort: 2021-Jan-04
+:END:
+
+If you use my recommendations mechanism via discord bot, then when you don't have a certain pairing in your favourites there's a fair chance my bot won't recommend it to you too. See #botspam on my discord server [[https://discord.gg/HrftyVQcCV]]
+
+You can scroll up in that channel for examples of usage or issue *!help* to see full list of options.
