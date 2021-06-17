@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: yazzledore
+:Score: 2
+:DateUnix: 1598017785.0
+:DateShort: 2020-Aug-21
+:END:
+
+I love this. I wonder if there's a way to include “number of times mentioned” in this framework. I can't think of an actual example from HP, but in GRRM's ASOIAF there's an example of him accidentally changing someone's eye color --- what do we do with cases like that? For example, if in the epilogue she'd mentioned Harry's blue eyes, even though she's said they're green a hundred times, does that supersede the original mentions even though it happened later? I should think not.
+
+Perhaps earlier mentions take precedence over later ones if and only if the number of earlier mentions > n_(later mentions).

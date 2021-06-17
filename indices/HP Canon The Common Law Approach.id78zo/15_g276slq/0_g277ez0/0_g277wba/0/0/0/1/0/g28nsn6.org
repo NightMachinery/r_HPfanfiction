@@ -1,0 +1,26 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 7
+:DateUnix: 1597948516.0
+:DateShort: 2020-Aug-20
+:END:
+
+Your interpretation is not only against the explicit wording, but also conceptually incoherent.
+
+As I understand it, you're proposing that the boat works as follows:
+
+1. The boat measures the amount of magical power within it, where each wizard has a range of possible power levels.
+
+2. The boat has some sort of reference for how much magic one wizard should have.
+
+3. The boat divides the total measured magical power within it by the "magic per wizard" reference figure.
+
+4. If the result is greater than 1, the boat does not permit passage.
+
+But this just doesn't work. The result would absolutely be higher than 1. Dumbledore on his own would surely have more power than a single wizard by the boat's reckoning, because he's one of the most powerful wizards in the world. And on top of Dumbledore, you have Harry, a wizard who we see overcome Voldemort's Imperius curse, who repelled a large number of Dementors, and who beat Voldemort at Priori Incantatem. His magical power, if measured by reference to some kind of "quantity", is surely also at least 1 on this scale.
+
+The sequence /only/ makes sense if the enchantment works as Dumbledore describes it i.e. a counting mechanism which just completely ignores Harry, and which treats Dumbledore as a single wizard. Magic is either "on" or "off", Dumbledore's count's as "on", Harry's counts as "off" because he's not yet 17. The boat counts the number of occupants with "on" to determine the amount of magical power crossing the lake, and only allows passage if the amount of "on" is 1 or fewer.
+
+And of course, all of that has to be read together with the entire rest of the series, which continually reinforces the idea that the difference in power between wizards is a quality they possess, not a quantity of expendable magical power.
+
+Ultimately your argument rests entirely on the fact that, despite Dumbledore explicitly describing the mechanism of the enchantment, you consider the use of the word "amount" to be odd in that context. That subjective sense of oddness is a very weak basis to override an explicit explanation as to how a spell works, especially where it produces even more oddness if you apply it.

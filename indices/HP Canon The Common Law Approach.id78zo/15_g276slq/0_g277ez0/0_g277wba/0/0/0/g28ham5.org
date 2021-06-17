@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 11
+:DateUnix: 1597945571.0
+:DateShort: 2020-Aug-20
+:END:
+
+When you deliberately avoid quoting the entire section, it looks like you're trying to hide something.
+
+#+begin_quote
+  Dumbledore chuckled. “Voldemort will not have cared about the weight, but about the amount of magical power that crossed his lake. I rather think an enchantment will have been placed upon this boat so that only one wizard at a time will be able to sail in it.”
+
+  “I do not think you will count, Harry: You are underage and unqualified. Voldemort would never have expected a sixteen-year-old to reach this place: I think it unlikely that your powers will register compared to mine.”
+#+end_quote
+
+Dumbledore literally explains /in the sentence following the one you quoted/ that when he says amount of power he is referring to the fact the enchantment determines amount of magical power by counting the number of adult wizards, and only permits passage if that number is not greater than one.
+
+There are many parts of canon open to various competing interpretations, such as the nature of the food exception to Gamp's law. But this really isn't one of them. The only way you arrive at quantifiable magical power is by sticking your fingers in your ears and pretending words don't exist.
