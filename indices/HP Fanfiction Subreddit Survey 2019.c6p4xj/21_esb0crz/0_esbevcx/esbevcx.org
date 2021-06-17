@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1561788840.0
+:DateShort: 2019-Jun-29
+:END:
+
+#+begin_quote
+  I would suggest changing how you present the “choose 1 character questions” since the pie charts are hard to read. A ranked table or an ordered bar graph would both work well.
+#+end_quote
+
+The Google Forms results page is entirely auto-generated; there are no customisation options in the presentation.
