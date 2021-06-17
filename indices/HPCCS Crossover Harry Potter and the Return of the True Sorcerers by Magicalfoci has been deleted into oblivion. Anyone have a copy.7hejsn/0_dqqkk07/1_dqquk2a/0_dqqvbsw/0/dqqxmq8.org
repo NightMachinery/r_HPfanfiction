@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 3
+:DateUnix: 1512395051.0
+:DateShort: 2017-Dec-04
+:END:
+
+Yea, I found it in the index. Trying to extract it now.
+
+#+begin_example
+  tar -xf Fanfiction.tar.gz "home/ben/Desktop/Ben's Stuff/Fanfiction/Card Captor Sakura/In-Progress/Card Captor Sakura - Magicalfoci - Harry Potter and the Return of the True Sorcerers.txt"
+#+end_example
+
+Too bad gzip can't really do multithreaded decompression. This box has more cores than single-thread performance.
+
+Edit: I have an ETA of ~50 mins if the file is at the end of the archive.

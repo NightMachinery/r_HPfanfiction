@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: ElusiveGuy
+:Score: 2
+:DateUnix: 1512389397.0
+:DateShort: 2017-Dec-04
+:END:
+
+It's 108GB /compressed/. With typical text compression ratios this can be anywhere from 500GB to 1000GB uncompressed. Yea, it's pretty crazy.
+
+Edit: turns out it's only ~303GiB uncompressed. That's... surprisingly low? Maybe they chose a lower ratio for speed.
