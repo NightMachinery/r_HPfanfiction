@@ -1,0 +1,20 @@
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 2
+:DateUnix: 1441413745.0
+:DateShort: 2015-Sep-05
+:END:
+
+#+begin_quote
+  Technically, this is a one-stage cluster sample
+#+end_quote
+
+Yeah, I'm hoping my sample size is large enough to make the effects negligible. When you look at [[http://uncertaindecisions.com/wp-content/uploads/2015/09/id_cdf.png][the empirical CDF of IDs]], it looks very smooth. You really have to zoom in to see the discrete jumps. Also, there's bound to be discrete jumps anyway, since all of FFN use the same ID system, so there will be larger jumps and gaps when a particular book/movie besides HP became popular.
+
+#+begin_quote
+  The "bracket notation" wasn't available until fairly recently
+#+end_quote
+
+I ignored brackets entirely. I used the word "pairing" to refer to any fic with two characters. Regarding a classifier, I've thought about it, but I'd have to do the classification based on the summary, since I didn't download the full texts. This would also be a lot of work and I'm just doing this for fun.
+
+I think a different, but equally interesting technique is trying an unsupervised clustering technique and then see which dimensions of the data are best for separating the data

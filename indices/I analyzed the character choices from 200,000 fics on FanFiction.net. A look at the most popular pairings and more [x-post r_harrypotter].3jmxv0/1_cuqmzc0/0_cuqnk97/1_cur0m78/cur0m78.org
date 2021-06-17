@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 3
+:DateUnix: 1441409985.0
+:DateShort: 2015-Sep-05
+:END:
+
+#+begin_quote
+  To do this, I used the FFN browsing tool and sorted by publish date (no excluded ratings), and then randomly chose a page number (I think it takes around 28,000 pages to cover the 700,000 fics). I then processed all the fics on that page, skipping fics if they were already in the database. So it wasn't 100% random since I have little chunks of 25 fics here and there with almost sequential IDs, but the ranking changes constantly as new fics get submitted, so I think the net result is decently random.
+#+end_quote
+
+Technically, this is a [[https://en.wikipedia.org/wiki/Cluster_sampling][one-stage cluster sample]]. The good news is that if for descriptives that you generated, it probably doesn't make a difference; the bad news is that if you wanted to do any sort of statistical inference (E.g., is there sufficient evidence to believe that there is more Harmony fanfic than canon pairing fanfic?), you'd have to take that into account, which isn't too hard, provided that you recorded which fic came from which chunk.
+
+Like [[/u/wordhammer]], I'd be more concerned about the measurement issues. The "bracket notation" wasn't available until fairly recently, and I am not sure how fast or complete its adoption was. It might be worth splitting the fics up by date of initial posting and/or date of the last update and seeing if there are any sharp jumps. (Another crazy plan would be to manually classify a subsample of the fics based on their keywords, descriptions, and other available information, and use that to train a classifier to do the rest of the dataset. Of course, one then has to take the (inevitable) misclassification into account. There are methods for that, but they are more complicated.)
+
+Also, it might be worth cross-classifying the character lists by genre: Harry P. + Severus S. + Romance = Snarry (probably), but Harry P. + Severus S. + Family = Severitus (probably). So, show the character combinations for Romance fics, as opposed to for non-Romance fics.

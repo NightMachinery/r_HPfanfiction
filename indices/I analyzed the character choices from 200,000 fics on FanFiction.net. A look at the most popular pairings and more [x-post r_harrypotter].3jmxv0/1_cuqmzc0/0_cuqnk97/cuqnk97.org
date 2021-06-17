@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 8
+:DateUnix: 1441388394.0
+:DateShort: 2015-Sep-04
+:END:
+
+1 - I tried to randomly sample from the entire population and didn't apply any filters. To do this, I used the FFN browsing tool and sorted by publish date (no excluded ratings), and then randomly chose a page number (I think it takes around 28,000 pages to cover the 700,000 fics). I then processed all the fics on that page, skipping fics if they were already in the database. So it wasn't 100% random since I have little chunks of 25 fics here and there with almost sequential IDs, but the ranking changes constantly as new fics get submitted, so I think the net result is decently random.
+
+It would be interesting to repeat this analysis and restrict the sample to "popular" fics, so with some sort of review/fav cutoff. The distribution is definitely skewed to the lower end, i.e. a very large percentage have <100 reviews. However, I think this my analysis is the most unbiased way of doing this.
+
+2 - Thanks for pointing that out, I wasn't aware. That definitely explains the small number of triples/quadruples. I'll take a look at that.

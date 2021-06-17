@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: vir_innominatus
+:Score: 1
+:DateUnix: 1441418139.0
+:DateShort: 2015-Sep-05
+:END:
+
+#+begin_quote
+  A large non-representative sample is no better than a small non-representative sample
+#+end_quote
+
+You're right, of course. An additional complication (or maybe benefit) was that the ordering fics on each page was constantly changing as new fics were submitted (fics at the end of one page were pushed to the next), so not all of the chunks are 25 fics long. Many are shorter since as I went along, some fics on each page had already been parsed. I collected the data over a period of 24 hours (trying to avoid too many page requests at once), so /another/ issue is that fics sampled later could have gotten a few more fics/reviews since I started. I think it's basically impossible to get a random "snapshot" with webscraping. Maybe FFN would be willing to share metadata...
+
+#+begin_quote
+  Another fun thing to do might be to look at a network of users reviewing/faving/following fics of other users and cluster that
+#+end_quote
+
+Someone actually did that [[http://colah.github.io/posts/2014-07-FFN-Graphs-Vis/][here]]. It's fascinating.

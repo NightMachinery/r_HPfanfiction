@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 2
+:DateUnix: 1441415118.0
+:DateShort: 2015-Sep-05
+:END:
+
+#+begin_quote
+  Yeah, I'm hoping my sample size is large enough to make the effects negligible. When you look at the empirical CDF of IDs, it looks very smooth. You really have to zoom in to see the discrete jumps. Also, there's bound to be discrete jumps anyway, since all of FFN use the same ID system, so there will be larger jumps and gaps when a particular book/movie besides HP became popular.
+#+end_quote
+
+A large non-representative sample is no better than a small non-representative sample. That said, your sample probably is representative (because you took a random sample of the 25-fic "clusters"), so for descriptive statistics, it'll do. The cluster sampling issue is only an issue if you want statistical inference, since then you have to think about the [[https://en.wikipedia.org/wiki/Sampling_distribution][sampling distribution]] of your summary statistics.
+
+#+begin_quote
+  I think a different, but equally interesting technique is trying an unsupervised clustering technique and then see which dimensions of the data are best for separating the data
+#+end_quote
+
+Indeed. Another fun thing to do might be to look at a network of users reviewing/faving/following fics of other users and cluster that.

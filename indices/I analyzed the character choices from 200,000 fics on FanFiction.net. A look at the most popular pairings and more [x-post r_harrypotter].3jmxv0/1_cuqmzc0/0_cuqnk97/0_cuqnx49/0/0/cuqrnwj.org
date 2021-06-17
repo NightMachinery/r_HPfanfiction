@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: wordhammer
+:Score: 3
+:DateUnix: 1441394583.0
+:DateShort: 2015-Sep-04
+:END:
+
+Honestly, I haven't tried to penetrate the data structures- I only know that, as a writer, I get to look at story traffic summaries collected on a daily basis by source country, per chapter. Basically, I know the data exists, but I have no idea if it's queriable.
