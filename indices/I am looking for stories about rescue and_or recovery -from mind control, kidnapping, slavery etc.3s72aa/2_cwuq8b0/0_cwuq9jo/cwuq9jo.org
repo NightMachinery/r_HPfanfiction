@@ -1,0 +1,26 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1447114009.0
+:DateShort: 2015-Nov-10
+:END:
+
+[[http://archiveofourown.org/works/333775][*/Forgive Those Who Trespass/*]] by [[http://archiveofourown.org/users/Lomonaaeren/pseuds/Lomonaaeren][/Lomonaaeren/]]
+
+#+begin_quote
+  Harry Potter was convinced he had an ordinary, if inconvenient, life. Then Ron and Hermione vanished in the Department of Mysteries. And the only person who may know where they are is a mute Draco Malfoy.
+
+  #+begin_example
+      This is an extremely dark, violent, and gory story, with torture and mutilation of many kinds\. Please heed the "Graphic Depictions of Violence" warning\.
+  #+end_example
+
+  The title comes from the Lord's Prayer.
+#+end_quote
+
+^{/Site/: [[http://www.archiveofourown.org/][Archive of Our Own]] *|* /Fandom/: Harry Potter - J. K. Rowling *|* /Published/: 2012-02-06 *|* /Completed/: 2012-02-06 *|* /Words/: 135889 *|* /Chapters/: 34/34 *|* /Comments/: 45 *|* /Kudos/: 233 *|* /Bookmarks/: 85 *|* /Hits/: 7467 *|* /ID/: 333775 *|* /Download/: [[http://archiveofourown.org/][EPUB]]}
+
+--------------
+
+*Bot v1.3.0 - 9/7/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* Use /ffnbot!delete/ to delete a comment! Use /ffnbot!refresh/ to refresh bot replies!
