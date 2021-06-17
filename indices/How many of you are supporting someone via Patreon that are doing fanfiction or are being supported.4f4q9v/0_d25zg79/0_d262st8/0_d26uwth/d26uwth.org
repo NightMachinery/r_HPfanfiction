@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 1
+:DateUnix: 1460934557.0
+:DateShort: 2016-Apr-18
+:END:
+
+#+begin_quote
+  Even if the author was okay with noncommercial use, they would be obligated to sick the lawyers on a for-profit person. You have to defend your IP fanatically or you could lose a future case.
+#+end_quote
+
+AFAIK (and IANAL), that's a common misconception with respect to copyrights. Whereas /trademarks/ are an enforce-it-or-lose-it deal, copyright enforcement and non-enforcement are entirely at the copyright owner's and licensees' discretion. (There /is/ the doctrine of latches, but the US Supreme Court seems to have ruled recently that it doesn't really affect copyright law; and if the copyright owner publicly promises not to sue over fanfic, and then decides to sue, promisory estoppel might stop them, but it's likely that even those that given an explicit permission, rather than tacitly tolerate it, stipulate that it's for noncommercial purposes only.)
