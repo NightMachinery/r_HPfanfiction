@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Dimention4
+:Score: 2
+:DateUnix: 1600717378.0
+:DateShort: 2020-Sep-21
+:END:
+
+Its a command for the bot. If you want to know an answer to a question asked, but no one has answered it yet, type RemindMe! and then follow that by a time (here, 5 days), and then the bot will send you a message after that time.
