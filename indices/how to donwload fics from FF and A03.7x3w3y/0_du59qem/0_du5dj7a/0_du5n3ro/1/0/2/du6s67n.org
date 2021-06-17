@@ -1,0 +1,13 @@
+:PROPERTIES:
+:Author: deirox
+:Score: 1
+:DateUnix: 1518541991.0
+:DateShort: 2018-Feb-13
+:END:
+
+If anyone wants to get around this on Firefox, put the following on your [[http://kb.mozillazine.org/index.php?title=UserContent.css][userContent.css]] file in the profile folder:
+
+#+begin_example
+  @-moz-document domain(fanfiction.net)
+  {* {user-select: text !important; -moz-user-select: text !important; }}
+#+end_example
