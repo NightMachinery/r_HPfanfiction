@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: RebelMage
+:Score: 6
+:DateUnix: 1556883334.0
+:DateShort: 2019-May-03
+:END:
+
+Hm, I suppose I have three notes:
+
+1. You don't need to add A/N in front of the notes, since they're already listed under notes.
+2. Using something like " ...o0o..." for scene changes isn't wrong, of course, but I find my preference is for people to use line dividers. This is done by adding <hr> to the html formatting. (See [[https://archiveofourown.org/works/5191202?view_full_work=true][this work]] for more on HTML formatting.)
+3. Although there is the option not to use archive warnings, there may be some people who avoid stories like that. Don't actually know if there are, of course, but it doesn't take much longer to add them. (Unless you choose not to use them for a particular reason.)
+
+Other than that, it looks good! And none of these things are dealbreakers.

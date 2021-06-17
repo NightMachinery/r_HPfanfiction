@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1556898713.0
+:DateShort: 2019-May-03
+:END:
+
+I work for SUSE as a Python packager (that's a Linux distribution). I would probably be able to write it myself, if having some time for it and if there is some description of something resembling API somewhere. Probably documenting the way how to make the website work would be the most time consuming part of the operation.

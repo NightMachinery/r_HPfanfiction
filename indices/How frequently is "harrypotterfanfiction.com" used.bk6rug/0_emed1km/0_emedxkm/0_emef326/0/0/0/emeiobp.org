@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1556885444.0
+:DateShort: 2019-May-03
+:END:
+
+Well, it is not what I would like most:
+
+#+begin_example
+  $ ao3-poster story.rst
+#+end_example
+
+(credentials stored in some config file). That would be the ideal, I can settle of course for the file being HTML (or MarkDown, or even DOC, if anybody cares), but something in this style (again, the ideal would be the metadata picked up from the [[http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html#bibliographic-fields][docinfo]] part of the document, but I can settle for something else). Writing a text of a long story to one field in a spreadsheet seems a bit crazy to me.
