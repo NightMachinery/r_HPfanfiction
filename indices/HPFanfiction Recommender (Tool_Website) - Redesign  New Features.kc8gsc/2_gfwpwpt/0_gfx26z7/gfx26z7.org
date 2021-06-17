@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: dJones176
+:Score: 2
+:DateUnix: 1608038048.0
+:DateShort: 2020-Dec-15
+:END:
+
+I tried doing that today. That increased the size of data by a lot, and my server couldn't handle it. I am looking into other ways of doing it, but lacking a proper way to get data from [[https://Fanfiction.net][Fanfiction.net]], it will be very difficult.
+
+I can't promise anything yet, but if it would be possible, I will add it.

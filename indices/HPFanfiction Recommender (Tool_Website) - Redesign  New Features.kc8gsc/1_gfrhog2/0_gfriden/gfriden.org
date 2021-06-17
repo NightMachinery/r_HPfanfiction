@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: dJones176
+:Score: 3
+:DateUnix: 1607907893.0
+:DateShort: 2020-Dec-14
+:END:
+
+All the filter dropdowns are generated based on the stories. Complete and Completed are there because FF.net calls them complete, and AO3 calls them completed. Anyways, I will fix it somehow.
+
+The duplicate entries are there on the homepage because they are recommended multiple times. I don't think removing that is necessary, but I will look into showing unique stories only after using some filter.
+
+Thanks for the feedback.

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Ironworkshop
+:Score: 1
+:DateUnix: 1608039755.0
+:DateShort: 2020-Dec-15
+:END:
+
+Could you use the front end component to poll the bots comments them selves and pull from there? Not exactly best practise but it would mean no server strain and avoids dealing with the ffnet api?
