@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: LittleDinghy
+:Score: 7
+:DateUnix: 1554479371.0
+:DateShort: 2019-Apr-05
+:END:
+
+For my writings, I use a rule of thumb of a US nickel per Knut, making a sickle being worth about $1.45 and a galleon worth about $24.65 (or about $25).
+
+It doesn't /exactly/ follow the books, but keeping in mind Rowling notoriously struggles with maths, it works out for most things, and makes it easier to tailor the prices in my fiction.
+
+[[https://i.imgur.com/9TghyU1.png][Here]] is a screenshot of the calculations page I use for my rough estimations of costs. Being American, I have everything also represented in USD. I included the tentative prices for various Wizarding items.
+
+All my prices are automatically calculated using a variety of functions. Actually, I might create a tool that outputs currencies in both GBP and USD based on the current GBP/USD exchange rate...
+
+It wouldn't be hard to set up, and it could be useful for fic writers to do quick calculations of how much some things cost. They could enter the conversion they want to use between galleons/sickles/knuts and GBP or USD, and the sheet automatically populates based on those values.

@@ -1,0 +1,38 @@
+:PROPERTIES:
+:Author: Astramancer_
+:Score: 15
+:DateUnix: 1554488798.0
+:DateShort: 2019-Apr-05
+:END:
+
+I think there's a fundamental issue when talking about the conversion rate between wizarding money and british money, one that I never see mentioned.
+
+What's a commodity, service, or even specific product that's shared between the wizarding and muggle world?
+
+Land? Wizards can just make more (expansion charms) or just take a bit and hide it from the muggles. No need to purchase it from them. Dishwashers? There's easy to cast spells for that, wizards don't even /have/ dishwashers. Cars? Well, wizards have flying brooms...
+
+We can't even assume that basic cloth is comparable, thanks to the existence of conjuration and transfiguration.
+
+So what, exactly, is the muggle currency being exchanged used for?
+
+We can guess that gold, silver and copper are valuable in both worlds, given that wizards use them as currency. Which is odd, considering that the only metal that's specifically called out as all but impossible to produce magically is gold. So why are silver and copper considered valuable enough to make money out of?
+
+But regardless, we have exactly three points of comparison that we know have value in the wizarding world but which also can be found in the muggle world.
+
+And the numbers don't add up. We don't know exactly how big the coins are, but if we assume they're all the same size we can at least tell their relative value.
+
+For ease of use, let's assume a knut weighs 10 grams. That's pretty fucking huge for a coin, but it's roughly the size of a copper piece in D&D, so whatever. That comes to about 1.1 cm^{3} volume. A 1 kilo copper ingot costs $15 on ebay, so that puts a knut at around $0.15 worth of copper.
+
+A silver coin the same size would weigh around 11.5 grams. A 10 oz bar of silver costs around $177, so that would put a knut around $6.55 worth of silver.
+
+Except a sickle is 29 nuts. $4.35 of copper is worth $6.55 of silver?
+
+Well, let's check gold. At the same size as the knut and silver, 1.1 cm^{3,} you get 21.3 grams of gold. A 1oz bar of gold costs $1430 on ebay. That puts a galleon at around $1,076 worth of gold.
+
+It's 17 sickles to a galleon, so $111.35 in silver is worth $1,076 in gold. Worse, $73.95 in copper is worth $1,076 in gold.
+
+Since the value of the coins aren't in line with each other compared to the muggle world, this suggests that either the coins aren't pure metal - which means we have zero common points of comparison - or the economy is so decoupled that it's impossible to turn wizarding money back into muggle money which in turn suggests that the ministry is probably "buying" muggle money through the bank to subsidize half-bloods and muggleborns. Which is odd, to say the least.
+
+--------------
+
+So in short, the conversion rate is completely arbitrary, because we are given insufficient information to determine what the 'natural' conversion rate would be.
