@@ -1,0 +1,15 @@
+:PROPERTIES:
+:Score: 4
+:DateUnix: 1446962472.0
+:DateShort: 2015-Nov-08
+:END:
+
+For the favourite non-Harry pairing question, I've got the data and am doing stuff with it now.
+
+First of all, I broke the data down by whether an intelligible preference was entered, or no preference was specified: [[http://i.imgur.com/sREeyrP.png]]
+
+For eveyone who entered a pairing preference, the frequencies are here: [[http://pastebin.com/52MwGrBN]]
+
+Now I need to find a chart program that supports that many segments without doing this: [[http://i.imgur.com/LhjivYd.png]]
+
+I'm also going to look at doing some correlations between fields, any ideas would be appreciated!
