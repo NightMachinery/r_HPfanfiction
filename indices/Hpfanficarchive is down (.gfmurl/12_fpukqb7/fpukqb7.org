@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: reddog44mag
+:Score: 1
+:DateUnix: 1588915493.0
+:DateShort: 2020-May-08
+:END:
+
+I was probably one of the last to cause it to be accessed before it went down. I commented on a post about dementors and in the comment linked to two stories on hpfanficarchive. Fanfictionbot returned one story A History of Azkaban by Nebkreb but it failed to return with the information from the story called Secrets by potter8668.
+
+So whatever happened hpfanficarchive failed within a second or two between the the two requests. I'm not sure if there is any useful information that fanfictionbot records that could help the owner of hpfanficarchive figure out the timeline and what may have happened.
