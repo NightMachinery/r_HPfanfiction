@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: bkromhout
+:Score: 1
+:DateUnix: 1453487151.0
+:DateShort: 2016-Jan-22
+:END:
+
+If you aren't looking for something as heavyweight as FanFicFare, your fics are from some more well-known sites, and you're fine with ePubs only, you could look at [[https://github.com/bkromhout/FictionDL][FictionDL]], which is something I wrote in my spare time for those exact purposes. It's fairly simple. I will warn you that it makes no attempts at rate limiting though, so be careful with how many FFN stories you feed it. And if you find a story which it just won't process properly, feel free to open a Github issue so I can look into it!

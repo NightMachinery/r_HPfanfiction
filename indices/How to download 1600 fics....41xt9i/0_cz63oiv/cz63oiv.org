@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 7
+:DateUnix: 1453347678.0
+:DateShort: 2016-Jan-21
+:END:
+
+Calibre's FanFicFare plugin can bulk-download fics from their FF.net (and other supported sites --- there are many) URLs. 1.6k fics might take a while, but it should be able to. You can also add tags to fics, so you can give them ratings.
