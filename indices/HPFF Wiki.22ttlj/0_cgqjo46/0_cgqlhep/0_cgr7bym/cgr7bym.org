@@ -1,0 +1,17 @@
+:PROPERTIES:
+:Score: 2
+:DateUnix: 1397385810.0
+:DateShort: 2014-Apr-13
+:END:
+
+#+begin_quote
+  And we absolutely don't discriminate based on host site! :D The wiki is open to all fics from everywhere. It just happens to be that the users who have been adding stories to the database have a preference for the bigger sites.
+#+end_quote
+
+Yup, I'm not blaming anyone, but that IS exactly the problem I stated. We're way past the fandom's golden age, and those remaining either remain in their own community which has their own rec list/wiki and interact solely there, while the newer readers/writers only know/care about the newer/larger archives. I was hoping by revamping the wiki, we could bridge the two
+
+#+begin_quote
+  I love the idea of a mirroring system, but I think it would require a dedicated task force. One very small and inactive wiki would never be able to get anything meaningful done. Maybe that could be a new project for the subreddit itself? That's an exciting prospect, honestly! I'd love to see tha
+#+end_quote
+
+The hardest things to do IMO, is archiving the really old stuffs. Newsgroups, Yahoo Groups, personal sites, etc... Those needs to be done by hand usually. The bigger archives will often have API, or a script can be written to comb them automatically. I don't have time right now (school is just about to start again), but I can look into that next holiday. Hosting is fairly simple through Google Doc, and 5gb per account is more than enough.
