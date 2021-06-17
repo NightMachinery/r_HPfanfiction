@@ -1,0 +1,26 @@
+:PROPERTIES:
+:Author: 295Kelvin
+:Score: 3
+:DateUnix: 1509479342.0
+:DateShort: 2017-Oct-31
+:END:
+
+[[https://scifi.stackexchange.com/questions/3354/during-the-events-of-the-harry-potter-series-what-is-the-total-population-of-wiz][This very good answer]] I found on Stack Exchange says everything I wanted to say. (Emphasis mine.)
+
+#+begin_quote
+  I'm guessing between 300,000 and 1 million world wide. I'll explain how I got these numbers in the next paragraphs.
+
+  We do have a few solid leads, as Ryan has pointed out. I'm going to take the numbers given by Ryan, and a few other things, and try to get some numbers straight.
+
+  First of all, the biggest point is the size of the World Cup stadium. 100,000. That means there is at least that many wizards in the world, or at least, human-type creatures in the magical world.
+
+  Hogwarts must have between 300-800 students, with a number of teachers as well. But, given that there must be between 40-100 per year, and a life expectancy somewhat higher than a Muggle (Let's say, 80-100 years)^{[1],} I'm guessing the English population to be around *3000-10,000*. This seems to be fairly consistent with the number of shops in Diagon Alley, the number of people working for the ministry of magic, etc.
+
+  Further proof of this number can be found in the Goblet of Fire. It's mentioned there that there is 200 portkeys put around England for people to travel to the World Cup. The one that we see there had a total of 11 people gathered around it. Assuming that the average is about 10 per portkey, that gives 2000 people going to the world cup. That number seems consistent with the number of wizards in England at around 4K-10K, given that at most half of the population wanted to go to the cup.
+
+  In the year 2001, there were about 60 million people, according to UK census statistics. Given the assumption that the population is roughly equivalent in every country, and a world population of about 6 billion in that year, there is about 100 times more wizards in the world than there is in England. That brings the estimate to between 300,000 and 1 million wizards in the entire world.
+
+  This number is consistent with the world cup. Given that transportation isn't much of an issue, but there is no television, it's reasonable to assume that between one tenth and one third of the world population of wizards could in fact attend the world cup.
+#+end_quote
+
+^{[1]} Wizard life expectancy is around 138 [[http://harrypotter.wikia.com/wiki/File:DailyProphetMakingOfHP1.jpg][per this image]], but I believe the upper numbers for student population are unreasonable, so it evens out.

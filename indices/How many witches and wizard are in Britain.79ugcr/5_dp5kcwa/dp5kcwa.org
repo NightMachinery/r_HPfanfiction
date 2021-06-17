@@ -1,0 +1,36 @@
+:PROPERTIES:
+:Author: StarDolph
+:Score: 3
+:DateUnix: 1509475166.0
+:DateShort: 2017-Oct-31
+:END:
+
+You know I was just going to make this post. I wanted the answer of 'If Hogwarts is the only school in Britain and most wizards go to it, how big is the Wizarding population?'
+
+It would seem to be best to use 'graduating wizards' as your benchmark here, as it lets you avoid issues such as birthrates, earlier kids in the wizarding world, and childhood death rate / accident rate.
+
+Hogwarts is depicted to have losing a student to an accident as unusual. Thus, at graduation (OWL), would depend on your average class size:
+
+Sorted by Average Dorm Size:
+
+- 4: 4 students x 2 gendered dorms x 4 houses = 32 students/year
+- 5: 5 students x 2 gendered dorms x 4 houses = 40 students/year
+- 6: 6 students x 2 gendered dorms x 4 houses = 48 students/year
+
+I don't know where the 1000 number came from, but that would translate to 17 students per dorm, assuming no students leave after their owls. Seem like the numbers don't match up (surprise).
+
+Taking your student/year number, we can calculate how many wizards their would be if no-one died before their life expectancy. Britain Life Expectancy: 81.6 years. Also using numbers for 100 and 150, assuming wizards magic increases their life more than magical accidents reduce it.
+
+Assuming you count an adult as being 18 years old (Years-18)*students/year = Potential Wizards
+
+- 82 Year Life Expectancy: 4dorm: 2048 5dorm: 2560 6dorm: 3072
+- 100 year Life Expectancy: 4dorm: 2624 5dorm: 3280 6dorm: 3936
+- 150 year Life Expectancy: 4dorm: 4224 5dorm: 5280 6dorm: 6336
+
+I'm inclined to set it as a higher life expectancy than non-wizards, however, given the lack of ancient people seen in the series, I'd also peg it as not much more than 125 or 150. Even if wizards live that long, a vast majority do not seem to stay in society/workforce. After all, a large part of the governing body seems middle-aged.
+
+So we are looking at a population of less than 10K Hogwarts-educated Witches. I'm going to use 4000, which seems to be a nice setup between dorm size and population.
+
+We now have to adjust for actuarial rates (Death rates over time) and those who are not enrolled in Hogwarts. Even if all Witches go to Hogwarts, it is clear at least some half-breeds do not regularly attend. You can also adjust for the fact the wizarding world had two recent wars.
+
+I'd imagine it'd work out to about 2K active wizards. Which honestly, feels like it fits the series. With 2K wizards, a team of 30 or 40 terrorists is an huge rebellion. A tribe of 20 werewolves is a significant army to recruit.
