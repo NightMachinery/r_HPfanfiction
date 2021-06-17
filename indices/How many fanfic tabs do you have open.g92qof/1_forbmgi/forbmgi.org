@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: Uncommonality
+:Score: 12
+:DateUnix: 1588009480.0
+:DateShort: 2020-Apr-27
+:END:
+
+Firefox on mobile doesn't show a number higher than 100, but when I transferred from chrome I definitely reached the placeholder for over 100 on both, roughly in the middle of the transfer.
+
+So my best guess is ~250
