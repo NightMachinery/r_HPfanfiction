@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 10
+:DateUnix: 1453200932.0
+:DateShort: 2016-Jan-19
+:END:
+
+It also seems to work on Harry:
+
+#+begin_quote
+  "This is it," said Hagrid, coming to a halt, "the Leaky Cauldron. It's a famous place."
+
+  It was a tiny, grubby-looking pub. *If Hagrid hadn't pointed it out, Harry wouldn't have noticed it was there.* The people hurrying by didn't glance at it. Their eyes slid from the big book shop on one side to the record shop on the other as if they couldn't see the Leaky Cauldron at all.
+#+end_quote
