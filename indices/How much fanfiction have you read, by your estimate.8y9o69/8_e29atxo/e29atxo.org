@@ -1,0 +1,36 @@
+:PROPERTIES:
+:Author: ltouroumov
+:Score: 8
+:DateUnix: 1531407424.0
+:DateShort: 2018-Jul-12
+:END:
+
+Let's do a little math.
+
+[[https://en.wikipedia.org/wiki/Words_per_minute][According to Wikipedia]], the average reading speed for the English language is around 220 words per minute.
+
+As an avid fanfiction reader, I read both during my lunch break for around 30 minutes, and after work for around 3 to 4 hours, during the week-end it increases to 6 to 7 hours per day.
+
+#+begin_example
+  --- during the week ---
+  3.5 to 4.5 h/day => 210 to 270 m/day
+  x220 => 46 200 to 59 400 w/day
+  x5 => 231 000 to 297 000 w/work-week
+  --- during the week-end ---
+  6 to 7 h/day => 360 to 420 m/day
+  x220 => 79 200 to 92 400 w/day
+  x2 => 158 400 to 184 800 w/week-end
+  --- total for a week ---
+  389 400 to 481 800 w/week
+  --- total per month (average) ---
+  x4 => 1557600 to 1927200 w/month
+  --- total per year ---
+  x52 => 20 248 800 to 25 053 600 w/year
+
+  --- over the last three years ---
+  60 746 400 to 75 160 800 words
+#+end_example
+
+This is only a rough estimate, I had periods where I would read for 8 hours a day /all week/ at a much higher wpm (let's say 350wpm), which would put the weekly total to =840 000=, and monthly total to =5 040 000=.
+
+This is across all fandoms, not specifically Harry Potter.
