@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: steve_wheeler
+:Score: 1
+:DateUnix: 1609996314.0
+:DateShort: 2021-Jan-07
+:END:
+
+I have a very large spreadsheet, currently with over 4300 records. I keep in it both stories I have read and stories that I intend to read.
+
+Each record includes columns for story name, author name, link, whether the story is complete or not, post date and last update, number of chapters, number of chapters I've read, days since last update, average days between updates, genre (I don't read just HP), cross (if any), my subjective rating, and description/comments.
+
+The average days between updates and days since last update are calculated fields that give me an idea whether an unfinished story is still updating. I've been considering adding fields for how many times I've read a story, and the date I last read a story.
+
+The stories I've downloaded aren't organized that much. Basically, they're in directories by genre. I'm starting to move them into Calibre, but I've just started that.

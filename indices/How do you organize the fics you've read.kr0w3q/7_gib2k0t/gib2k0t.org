@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1609944496.0
+:DateShort: 2021-Jan-06
+:END:
+
+1192 files, this is my directory structure (some of them are temporary, some of them are known bad idea, but not resolved yet): ``` fanfiction@stitny$ tree -d . . ├── americans ├── ballerinaroy ├── before_hogwarts ├── bennybear ├── blacks ├── budeč ├── dramione ├── dursleys │   └── boy_with_a_scar ├── elsewhere_at_hogwarts │   └── floreat ├── fantastic_beasts ├── femHarry ├── fremione ├── grindewald ├── gryffindor_tie ├── harmony ├── hinny │   └── wallpaper ├── historical ├── humour ├── huna ├── marauders ├── _meta ├── moje ├── muggles ├── next-generation │   └── holly ├── non-Hogwarts │   └── weasley_family_picnic ├── non-HP ├── northumbrian ├── post-war │   └── irnan ├── reading_the_books ├── religious ├── remus ├── retelling │   ├── dangerverse │   ├── child_protection │   ├── sorcerers_muse │   └── while_hunting_horcruxes ├── severitus ├── slytherin ├── soul-bond ├── space_wizards └── tmp
+
+47 directories fanfiction@stitny$ ``= Certainly it seems that ship is one good category how to sort files, others are not so hot. Also, incoming EPubs go to=tmp/=first, where I read them and sort them to particular folder after that.=elsewhere_at_hogwarts/=is for stories like “The Friar's Confessions by Stephen Ratliff” linkffn(11924442), which are just outside of the main canonical story, or=non-Hogwarts/` for stories like “Interwoven: The Seamstress and the Lovable Stray by Katinka31” which are not even at Hogwarts.

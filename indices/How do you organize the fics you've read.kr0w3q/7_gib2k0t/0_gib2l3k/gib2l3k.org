@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: backtickbot
+:Score: 1
+:DateUnix: 1609944513.0
+:DateShort: 2021-Jan-06
+:END:
+
+[[https://np.reddit.com/r/backtickbot/comments/krp92h/httpsnpredditcomrhpfanfictioncommentskr0w3qhow_do/][Fixed formatting.]]
+
+Hello, ceplma: code blocks using triple backticks (```) don't work on all versions of Reddit!
+
+Some users see [[https://stalas.alm.lt/backformat/gib2k0t.png][this]] / [[https://stalas.alm.lt/backformat/gib2k0t.html][this]] instead.
+
+To fix this, *indent every line with 4 spaces* instead.
+
+[[https://www.reddit.com/r/backtickbot/wiki/index][FAQ]]
+
+^{You can opt out by replying with backtickopt6 to this comment.}
