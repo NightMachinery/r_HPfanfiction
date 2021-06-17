@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: Frystix
+:Score: 3
+:DateUnix: 1503929414.0
+:DateShort: 2017-Aug-28
+:END:
+
+Type linkffn() and put the story id between the brackets, which is found in the URL after the /s/ on ffn, basically just look for a string of seemingly random numbers in the url.
+
+Edit: wtf FanfictionBot? Why does linkffn() choose that story? Is it the last queried story? Is it some random memory address? Is it the results of black magic? Or is that God telling me to read that?
+
+Edit #2: Somehow it defaults a null input to that story, no clue how though.

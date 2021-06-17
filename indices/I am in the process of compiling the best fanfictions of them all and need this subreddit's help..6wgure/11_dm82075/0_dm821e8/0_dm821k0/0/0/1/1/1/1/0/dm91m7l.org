@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1503952361.0
+:DateShort: 2017-Aug-29
+:END:
+
+the result of searching Google for the empty string on fanfiction.net is that result for the bot, so that's what it links - essentially, if you don't provide a story ID, it searches fanfiction.net for whatever is inside the brackets via Google
+
+anyways to make a legitimate bot call always put something in between the parentheses - see the sidebar for some ideas
