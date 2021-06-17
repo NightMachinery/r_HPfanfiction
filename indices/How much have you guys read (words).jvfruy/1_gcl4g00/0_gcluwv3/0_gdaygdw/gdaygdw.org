@@ -1,0 +1,13 @@
+:PROPERTIES:
+:Author: roryokane
+:Score: 2
+:DateUnix: 1606108187.0
+:DateShort: 2020-Nov-23
+:END:
+
+I was exploring how I could extract the word counts as I went along, so I ended up using four different programs. The only full programming language I used was Ruby, in the last step. Here was my process:
+
+1. I used Select All in my browser to copy all the text on my profile page, then pasted that into a text file.
+2. I used [[https://github.com/BurntSushi/ripgrep][ripgrep]] to extract all text like “Words: /xxx/” on the page. The command was =cat ffn_profile_text.txt | rg 'Words: [^ ]+' --only-matching > ffn_profile_500_word_counts.txt=. While writing that command I also used =wc -l= to verify that exactly 500 word counts were found on my profile page.
+3. I used my text editor [[https://en.wikipedia.org/wiki/Vim_(text_editor)][Vim]] to verify that the data looked right. Then I used Vim's find-and-replace to delete the “Words: ” prefix and the commas in the numbers.
+4. Finally, I wrote a short program in the [[https://www.ruby-lang.org/en/][Ruby]] programming language that read each line of text (=gets=), converted each line to a number (=to_i=) and added them to a total (=total += count=), and printed the sum at the end (=puts total=). I know there are specialized tools that could do that more conveniently, but Ruby was the tool that I thought of at the time.
