@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: fastfinge
+:Score: 2
+:DateUnix: 1470239717.0
+:DateShort: 2016-Aug-03
+:END:
+
+The problem you'll have with dropbox is that anyone can delete anything. It doesn't really support folder by folder permissions. BTSync is a little bit better, but last I checked it doesn't support sharing files to those who don't have the app installed. The other problem you're going to have is that a lot of authors of fanfic will, strangely enough, actually send DMCA takedown requests that places like dropbox will honor. And it isn't even authors of deleted fics who do this; a lot of authors don't want fics mirrored anywhere but FFN. I can't understand feeling strongly enough about that to lawyer up over a fanfic, but at least two authors do. So for your web links you're going to need to find a web host in a country that doesn't take DMCA requests. I'm speaking here from personal experience; I used to be involved with an archive that mirrored fanfics in .txt format, to make it easier for blind folks to read with screen-readers, and it got lots of takedown requests. The archive eventually had to go private, and now you need to know the server owner and get a username/password to access it.
