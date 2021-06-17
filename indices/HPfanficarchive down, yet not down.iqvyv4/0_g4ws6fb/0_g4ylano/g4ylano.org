@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Jurand20012
+:Score: 1
+:DateUnix: 1599936459.0
+:DateShort: 2020-Sep-12
+:END:
+
+I found a fix. Swap the https to http
