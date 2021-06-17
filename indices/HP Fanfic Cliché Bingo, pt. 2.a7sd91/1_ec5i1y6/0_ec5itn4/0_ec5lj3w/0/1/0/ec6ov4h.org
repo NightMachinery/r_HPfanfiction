@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: wille179
+:Score: 4
+:DateUnix: 1545319675.0
+:DateShort: 2018-Dec-20
+:END:
+
+The average woman has 2.5 children, and the lower/poorer the population, the more she tends to have. Let's round down and say she has 2 children on average that survive to adulthood and themselves have children. After N generations, a squib will have given rise to 2^{N+1} people who might be magical.
+
+After 10 generations, there's 2048 people who might have gotten Hogwarts letters. After 20 generations, there's over 2 million. After 36 generations, you have more people than could have ever lived in the history of our species.
+
+Given /one/ squib, or hell, one wizard, way back before humanity left Africa, and basically every human on the planet is descended from a wizard or a squib. This is also assuming that the the fertility rate is fairly low. In short, it doesn't matter whether /most/ or /all/ come from squibs; humanity as a whole is very likely descended from a squib.
