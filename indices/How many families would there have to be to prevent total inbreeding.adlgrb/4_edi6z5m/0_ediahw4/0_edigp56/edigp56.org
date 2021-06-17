@@ -1,0 +1,20 @@
+:PROPERTIES:
+:Author: evolutionista
+:Score: 3
+:DateUnix: 1546899118.0
+:DateShort: 2019-Jan-08
+:END:
+
+Although I don't want to give you another "it depends" answer, it really does depend.
+
+Based on the info in the canon, I don't think that inbreeding would be a huge problem among wizards, even purebloods.
+
+So, the "Sacred 28" families were identified by Salazar Slytherin (presumably around ~1000 AD, when he lived). That would be 20-40 generations of inbreeding. I did run some simulations and didn't see any bad effects if I allowed my "purebloods" to "breed randomly" after their bottleneck size of 56, for 1000 years. If I kept the population size artificially small around 56, more problems started to pop up (when was wizard birth control invented? LOL). Also, population subdivision would cause far more issues to occur (e.g. if a Weasley would rather die than breed with a Malfoy, that would mean they're functionally in different "populations" as they cannot produce offspring). Population subdivision is the culprit behind the prevalence of genetic disorders among the Amish. They had about 200 founders, but those founders were geographically separated into much smaller subdivisions due to geography and religious/cultural differences.
+
+Returning to HP canon, the concept of pureblood supremacy doesn't seem to take until the 1930. So, that would only be about 2 generations of intermarriage. If you number the families 1-28, it would be easy for the offspring of family 1 (e.g. Lestrange) to pair up with the offspring from family 2 (e.g. Black) and then in generation 2, the Black-Lestrange child has to just not marry someone from those two families. Not hard at all. Although, with subdivisions this becomes a little more difficult, and the more generations they've been holding to pureblood ideology, the more difficult, which is why Sirius is the product of second cousins, not likely to be harmful without those second cousins being more related than they "should" be because their ancestors were also marrying relatives.
+
+JKR isn't very consistent (shocker) about when "pureblood supremacy" became a prevalent idea. But if we go with the 1930 date she offered, then there would have been no reason for Sirius's parents to be related at all. However, it seems the idea of wizards-marrying-wizards was at least somewhat prevalent before that date. That said, it doesn't take much "migration" per generation (in this case, a wizard marrying a foreigner or muggle) to introduce a healthy amount of genetic variation. According to JKR, all the "pureblood" families did this, except for the Blacks, Gaunts, and Lestranges.
+
+Based on that info, it makes sense that specifically the Blacks, Gaunts, and Lestranges were more likely to suffer from low genetic diversity, but there were other factors, like population subdivision (e.g. the Gaunts would only have children with other Slytherin descendants, or am I making that up..?) According to JKR even Malfoys didn't always marry "pure."
+
+If you're writing an AU where purebloods really will NOT EVER marry halfbloods, muggles, or foreigners, then yes, you will absolutely need more families to prevent inbreeding depression. You'll need about 2000 founding families to make that work indefinitely.
