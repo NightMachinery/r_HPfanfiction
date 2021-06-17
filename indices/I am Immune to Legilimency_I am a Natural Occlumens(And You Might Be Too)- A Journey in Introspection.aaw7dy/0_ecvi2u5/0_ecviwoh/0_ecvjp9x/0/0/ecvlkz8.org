@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 13
+:DateUnix: 1546184655.0
+:DateShort: 2018-Dec-30
+:END:
+
+I think the pensieve issue is more clear cut. In OotP, Harry wanders a considerable distance away from Snape to observe the Marauders' conversation, which Snape was not privy to and could not possibly have overheard. The magic of the pensieve is such that you can explore a memory beyond the limits of what the subject originally perceived: it shows you what actually happened in a place and time, not simply the perception of an individual whose memory you are in.
+
+As for legilimency, I think the subject witnessing the memories being viewed is just a common side-effect of the process, not the mechanism of how legilimency works. To see why this must be the case, consider Voldemort's ability to detect lies via legilimency. Snape explains this ability in OotP:
+
+#+begin_quote
+  The Dark Lord, for instance, almost always knows when somebody is lying to him. Only those skilled at Occlumency are able to shut down those feelings and memories that contradict the lie, and so can utter falsehoods in his presence without detection.
+#+end_quote
+
+So memories are still being read by Voldemort when he detects a lie. And yet when Voldemort uses this ability on Harry in OotP, Harry has no inner "film reel" of memories:
+
+#+begin_quote
+  Tall, thin and black-hooded, his terrible snakelike face white and gaunt, his scarlet, slit-pupilled eyes staring... Lord Voldemort had appeared in the middle of the hall, his wand pointing at Harry who stood frozen, quite unable to move.
+
+  “So, you smashed my prophecy?” said Voldemort softly, staring at Harry with those pitiless red eyes. “No, Bella, he is not lying... I see the truth looking at me from within his worthless mind... months of preparation, months of effort... and my Death Eaters have let Harry Potter thwart me again”
+#+end_quote
+
+Voldemort is reading Harry's memories but Harry is not viewing them at the same time. This shows that legilimency does not depend on the victim visualising the memories being watched. The fact that this happened in Snape's classes is perhaps a result of Snape trying to teach Harry so making his attempts obvious.
