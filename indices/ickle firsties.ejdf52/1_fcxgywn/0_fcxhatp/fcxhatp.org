@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: SurbhitSrivastava
+:Score: 7
+:DateUnix: 1578062915.0
+:DateShort: 2020-Jan-03
+:END:
+
+I get the feeling you didn't exclude them by making the text search " ickle" with that space at the start filtering out other words.
