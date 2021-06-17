@@ -1,0 +1,30 @@
+:PROPERTIES:
+:Author: Ignisami
+:Score: 6
+:DateUnix: 1454974567.0
+:DateShort: 2016-Feb-09
+:END:
+
+Yes. When two sentences are related but separate, you /can/ use a period to separate the two, but this runs the risk of dissociating sentence two from sentence one.
+
+Example:
+
+#+begin_quote
+  My uncle has hairy knuckles; he loves washing them.
+#+end_quote
+
+Both halves are independent clauses, but while the link between the two clauses is obvious in this, it does not always need to be so, and the semi-colon is then used to ensure that the reader knows that the second clause /is/ connected to the first. Excellent for strengthening relationships between two sentences or highlighting contrasts.
+
+A second use is in sentences with internal punctuation, or to separate items on a list that already have commas (one site I know refers to it as a super-comma).
+
+An example in a sentence with internal punctuation:
+
+#+begin_quote
+  When Mcguffins agree on something, they high-five each other; Mcguffins are all about the high-five.
+#+end_quote
+
+A bare-bones example of the super-comma:
+
+#+begin_quote
+  My travels led me through Denver, Colorado; Wichita, Kansas; and Washington, DC.
+#+end_quote
