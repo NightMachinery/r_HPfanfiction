@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: ketjatekos
+:Score: 2
+:DateUnix: 1529667517.0
+:DateShort: 2018-Jun-22
+:END:
+
+What I really want to have, is an AI based recommendation system. There are millions of fics, with even more data about user preferencies, tags and so on. The problem is obviously in the tag system: if I were to create an AI, I wouldn't use the tags, as they are not standardized, but instead read the whole texts with the program and try to tag it myself. There would be the more meta tags, like genre, length, writing style, rate of spelling/linguistic mistakes, pace. Then there would be the tags relating to characters, and also pairings. I would give 3 groups of character tags: main, secondary, mentioned. (Secondary characters have some kind of background information/storyline, while mentioned do not - they still could have interaction with MC, but they only add to the main plot. But these clusters are kinda fuzzy.)
+
+Like many others have said, tags should be univocal. No two tag should mean the same. Also they should be obvious on what they stand for. A tag "contains sex" is while a good warning for the young ones, we still don't know what kind of act it is. Is it detailed, or only brushed upon? Is it between M/M or F/M or F/F? Harem? Etc. It feels like some tags should be ordered into trees, and each story would be clustered into one (or more?) leaf. People could include/exclude either the branches, or the leafs of the said tree.
+
+And while the tags one story got would be quiet a lot, not all of them are for the public eye. The recommendation system might use some of these attributes, but in the beginning I really don't care if a character touched Harrys shoulders... or even had a one night stand that is not described further. On the other hand, if I generally dislike one night stands with Harry, the story will not be recommended for me.

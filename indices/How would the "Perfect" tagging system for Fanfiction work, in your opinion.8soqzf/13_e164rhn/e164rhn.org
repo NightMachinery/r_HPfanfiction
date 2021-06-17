@@ -1,0 +1,15 @@
+:PROPERTIES:
+:Author: zerkses
+:Score: 2
+:DateUnix: 1529773506.0
+:DateShort: 2018-Jun-23
+:END:
+
+To me, perfect tagging means:
+
+1. strict set of community suggested tags, possibly per fandom.
+2. tags not visible by default on the search results and only used for searching.
+
+AO3s system actively encourages authors to use tags instead of a summary, which makes searches on the site absolutely horrible AND lowers general summary quality because "who cares, everything is in the tags"
+
+But honestly, recommendation engines are needed much more than any tagging system. You can search for tags all day and still be drowning in crap. I have my own engine that I am preparing to release into public hopefully sometime soon and I can tell you that recommendations tailored to your tastes being available transforms fanfic search for the better more than any possible tag system.

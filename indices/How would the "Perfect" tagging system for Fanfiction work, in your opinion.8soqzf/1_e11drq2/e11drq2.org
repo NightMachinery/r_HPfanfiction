@@ -1,0 +1,22 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 29
+:DateUnix: 1529568459.0
+:DateShort: 2018-Jun-21
+:END:
+
+The key is having different categories of tag. The problem with Ao3 is that the tags are all in a generalised mass, so (for example), you can search by a character tag, looking for stories centred around that character, but in fact a load of stories where that character is barely featured show up.
+
+So I would suggest the following categories:
+
+Main (point of view) character: (field allows *one* character tag, or the tag "multiple")
+
+Secondary characters: (tags)
+
+Primary pairing: (field allows *one* pairing tag, or the tag "multiple")
+
+Secondary pairings: (tags)
+
+Other: (tags)
+
+If you pick "multiple" then then the secondary characters/pairings fields allow you to detail them.

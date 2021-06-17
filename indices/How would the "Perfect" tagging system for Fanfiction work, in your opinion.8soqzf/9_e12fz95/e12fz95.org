@@ -1,0 +1,11 @@
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1529610604.0
+:DateShort: 2018-Jun-22
+:END:
+
+Give people the ability to mark, say, five of their tags as primary. The rest are secondary. Primary tags are for the main parts of the work -- overarching themes, protagonist, primary pairing, that kind of thing.
+
+Then I search like: =primary:"Minerva McGonagall" "Tri-Wizard Tournament"=. This gets any fics tagged with Minerva McGonagall and Tri-Wizard Tournament, but the former tag must be primary. It might be a story about student-Minnie competing in the 1940s, or it might be a fic that recounts the entire 1991 to 1998 period from McGonagall's perspective, or from Harry's perspective but with McGonagall as the major supporting character.
+
+Also, make negative tags work directly. If I add =-Harry Potter= to a search, it should eliminate =Harry Potter=-tagged works. I shouldn't have to find the tag ID and pass =-filter_id:7723=.
