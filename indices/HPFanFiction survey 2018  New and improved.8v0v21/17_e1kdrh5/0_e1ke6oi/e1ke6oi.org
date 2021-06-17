@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1530386491.0
+:DateShort: 2018-Jun-30
+:END:
+
+I think the best way to do pairing would be as follows:
+
+- You have a list of all HP characters.
+
+- The question is set to check-boxes (i.e. respondents can tick more than one box).
+
+- You instruct respondents to tick the two characters of their favourite pairing.
+
+This would not result in a useful graph in the Google auto-generated results, which would merge all the answers together in aggregate. But the link between the two characters selected would be preserved in the raw data. Someone would then have to analyse the raw data to count the instances of each pairing and graph them.
