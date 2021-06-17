@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: T0lias
+:Score: 5
+:DateUnix: 1485781718.0
+:DateShort: 2017-Jan-30
+:END:
+
+If you don't have (or want) an Amazon account, like me:
+
+1) Download and install [[https://calibre-ebook.com/download][Calibre]]
+
+Calibre is a powerful e-reader management suite.
+
+2) Go to [[http://ficsave.xyz/]]
+
+3) Paste the url of the fic you want to save. The site will convert and prepare it for download in the format you choose - I use epub.
+
+4) Connect your kindle to the computer and open calibre. The main screen will show your library.
+
+5) Click add e-books button. Navigate to the folder you saved your fics from ficsave. After a bit they will be added to your library.
+
+6)Simply right click on the newly added ebook fanfic in the main screen and click send to device. If it asks for an autoconvert, press yes.
+
+Voila!

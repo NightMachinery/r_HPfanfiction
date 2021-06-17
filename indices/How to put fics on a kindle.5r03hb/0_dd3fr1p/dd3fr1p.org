@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: Huntrrz
+:Score: 7
+:DateUnix: 1485777831.0
+:DateShort: 2017-Jan-30
+:END:
+
+Save files in a Kindle compatible format - MOBI, PDF, RTF work*. Log into your Amazon account, go to Manage Your Content and Devices, Settings. Make note of the e-mail address assigned to your device under Send-to-Kindle E-Mail Settings (if your device isn't registered, check Amazon help on doing that). Add an e-mail under Approved Personal Document E-mail List.
+
+Once you have all the I's dotted, just mail your documents from your 'approved' e-mail to your 'send-to-kindle' e-mail as attachments. Max 25 documents, max... 20 MB message size? If something goes wrong with your submission Amazon will e-mail you a message describing the problem.
+
+(*Sometimes a MOBI file is rejected, save as PDF or RTF and re-upload).

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: woop_woop_throwaway
+:Score: 7
+:DateUnix: 1485789060.0
+:DateShort: 2017-Jan-30
+:END:
+
+Calibre actually comes with it's own fanfic download plugin, which allows you to imput multiple URLs at a time. Preferences>Plugins>FanFicFare
