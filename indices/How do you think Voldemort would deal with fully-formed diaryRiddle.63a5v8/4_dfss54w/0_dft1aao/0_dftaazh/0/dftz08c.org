@@ -1,0 +1,46 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 9
+:DateUnix: 1491338301.0
+:DateShort: 2017-Apr-05
+:END:
+
+#+begin_quote
+  Is that true, though? I thought the fact that they're basically impervious to destruction except from the two most caustic substances in existence implied that they DO anchor each other. Just the fact that the horcruxes are intrinsically tied to physical objects means that destroying the object destroys the horcrux.
+#+end_quote
+
+This is a common misunderstanding of horcruxes in fanon. Horcruxes don't have default invulnerability. Something being a horcrux does not in itself grant that object any special invulnerability to damage. The Dark wizard creating the horcrux must enchant the receptacle to resist damage separately from the process of making it a horcrux.
+
+Further, there isn't a default set of horcrux-protecting enchantments that all horcruxes possess. The wizard creating the horcrux puts the protections on the receptacle, and what things that wizard chooses to protect against depends on the wizard's choices and capabilities. Different horcruxes will therefore be protected against different things.
+
+This is what it means to put a horcrux beyond magical repair (and thus destroy it): you put the horcrux beyond *that horcrux's specific ability* to magically repair, not beyond some abstract concept of magical repair in general. Basilisk venom, for example, does not necessarily put something beyond magical repair: if you have phoenix tears, you can repair the damage of basilisk venom. So the horcrux in Harry wasn't destroyed by basilisk venom in CoS, because he wasn't put beyond magical repair by it, but it does destroy the others because Voldemort didn't protect them against basilisk venom.
+
+It's specifically stated, however, that basilisk venom is not some set-in-stone horcrux-destroyer, it destroys horcruxes simply because the ingredient necessary to resist it is so rare.
+
+All of this was explained explicitly in Deathly Hallows chapter 6:
+
+#+begin_quote
+  "No,” said Ron, before Harry could answer. “So does it say how to destroy Horcruxes in that book?”
+
+  “Yes,” said Hermione, now turning the fragile pages as if examining rotting entrails, “because it warns Dark wizards how strong they have to make the enchantments on them.
+
+  ...
+
+  "From all that I've read, what Harry did to Riddle's diary was one of the few really foolproof ways of destroying a Horcrux.”
+
+  “What, stabbing it with a basilisk fang?” asked Harry.
+
+  “Oh well, lucky we've got such a large supply of basilisk fangs, then,” said Ron. “I was wondering what we were going to do with them.”
+
+  “It doesn't have to be a basilisk fang,” said Hermione patiently. “It has to be something so destructive that the Horcrux can't repair itself. Basilisk venom only has one antidote, and it's incredibly rare --“
+
+  “-- phoenix tears,” said Harry, nodding.
+
+  “Exactly,” said Hermione.
+#+end_quote
+
+On top of all that, you're assuming multiple horcruxes as a default, when in fact Voldemort was the first to do that. The effect of multiple horcruxes can't be essential to the nature of the horcrux.
+
+Finally, with respect to your second paragraph, I think you're making assumptions about the soul and the way remorse heals it that we just don't have a basis for in canon. We really don't know much about the precise nature of the soul in the HP world. We know it can be fragmented, but that doesn't necessarily mean that what remains is less for it (consider, if that is difficult wrapping your mind around, the fact that if you remove the set of odd numbers from the set of natural numbers, the size of the set does not change). It's possible that remorse can heal the fractured soul without the other soul fragments needing to be present.
+
+Secondly, I think you're discounting the concept of "limbo" which is where JKR said Voldemort's tattered soul went after death. To say that Voldemort's soul and its fragments "exist" is true in a sense, but that doesn't mean they're still in the physical world or capable of acting as anchors.
