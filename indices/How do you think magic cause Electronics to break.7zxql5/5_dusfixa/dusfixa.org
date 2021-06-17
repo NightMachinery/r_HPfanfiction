@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: __Pers
+:Score: 3
+:DateUnix: 1519532550.0
+:DateShort: 2018-Feb-25
+:END:
+
+If I were to write it (sorry, [[/u/Taure]], but I would have to try rationalizing it), I'd note that canon holds that certain materials (gold/Leprechaun gold, foodstuffs, the other of the 5 exceptions to Gant's Law of Elemental Transfiguration) have problematic interactions with certain types of magic.
+
+Then I'd propose that magic doesn't stop all electronics from working. Rather, magic interacts particularly oddly with silicon for reasons that are not entirely apparent but could be ginned up (it's the second most common element in Earth's crust behind oxygen, which might also be exceptional--we never hear of people transfiguring the air in folks' lungs, e.g.). Specifically, magic tends to destabilize current flow from P-type semiconductors across PN junctions. When in a typical switching or amplifying setting, say when using a standard NPN transistor or insulated gate MOSFET device (as found in essentially all modern computers--the silicon dioxide gate oxide layers in MOSFETs are particularly erratic in magical environments), one sees variable gate performance and inevitable blue screens of death. Mr. Weasley's 1964 Ford Anglia has no solid-state microelectronics in it.
+
+There are other semiconductor options, however, such as gallium nitride or indium gallium arsenide that could potentially work in a magical environment--indeed, modern Technomagicians are pursuing these options in research programs in the U.S. and South Korean Ministries. (In the U.K.? Not so much. One of their most celebrated Muggle technology experts is still trying to work out the function of plugs.)
+
+Of course, one could simply go to good old vacuum tube technology, which works fine with magic--this is how Wizarding Wireless receivers work, as we all know.
