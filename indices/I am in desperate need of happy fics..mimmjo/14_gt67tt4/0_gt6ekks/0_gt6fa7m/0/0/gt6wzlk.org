@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: VorpalPlayer
+:Score: 1
+:DateUnix: 1617405506.0
+:DateShort: 2021-Apr-03
+:END:
+
+Same version of Fanficfare, filled in ther personal.ini, but I get this error:
+
+Saphroneth cloudscraper reports: "Detected a Cloudflare version 2 challenge, This feature is not available...."
+
+What did work is turning off my VPN. This creeps me out.

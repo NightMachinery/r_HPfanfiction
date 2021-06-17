@@ -1,0 +1,19 @@
+:PROPERTIES:
+:Author: hrmdurr
+:Score: 1
+:DateUnix: 1617400745.0
+:DateShort: 2021-Apr-03
+:END:
+
+I'm using 5.10.1 (Calibre) and 4.0.2 (Fanficfare) and haven't noticed cloudflare issues recently. FFN updates take /forever/ compared to ao3 though.
+
+I'm also scared to update now that I have it working, as the previous two versions of FFF threw those errors constantly.
+
+For what it's worth, I also have my login information and the adult flag in personal.ini - if you don't, you could try that before fiddling around with file versions.
+
+#+begin_example
+  [fanfiction.net]
+  username:
+  password:
+  is_adult:true
+#+end_example
