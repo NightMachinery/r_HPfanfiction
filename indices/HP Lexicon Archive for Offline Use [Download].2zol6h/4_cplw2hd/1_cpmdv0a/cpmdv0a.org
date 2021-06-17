@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: DZCreeper
+:Score: 1
+:DateUnix: 1426975869.0
+:DateShort: 2015-Mar-22
+:END:
+
+Certainly. wget is fairly powerful and scriptable. curl is the same and actually more versatile.
+
+Just watch which sites you download, some can be quite large and some may have rate limiting on content requests from a single IP address.
