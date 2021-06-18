@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: duriel
+:Score: 7
+:DateUnix: 1409630324.0
+:DateShort: 2014-Sep-02
+:END:
+
+You can use [[http://calibre-ebook.com][calibre]] with the fanfictiondownloader plugin to accomplish this. It downloads in epub or mobi, and calibre can convert to pdf if you like.
