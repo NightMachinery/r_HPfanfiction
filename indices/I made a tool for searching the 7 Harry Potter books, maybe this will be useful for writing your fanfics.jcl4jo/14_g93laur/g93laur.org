@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1602939992.0
+:DateShort: 2020-Oct-17
+:END:
+
+For those who have Rowling's books as EPub (or for example complete archive of fanfiction stories as EPubs) I can suggest my script [[https://gitlab.com/mcepl/epubgrep.git:]]
+
+``` ~@stitny$ epubgrep Uranus ~/Knihy/rowling/anglicky/*.epub /home/matej/Knihy/rowling/anglicky/harry_potter_4_harry_potter_and_the_goblet_of_fire.epub 12. Mad-Eye Moody:
+
+<p class="MsoNormal2"><span class="sgc3" xml:lang="EN-AU">“It is Uranus, my dear,” said Professor Trelawney, peering down at the chart.</span></p> <p class="MsoNormal2"><span class="sgc3" xml:lang="EN-AU">“Can I have a look at Uranus too, Lavender?” said Ron.</span></p> /home/matej/Knihy/rowling/anglicky/harry_potter_5_harry_potter_and_the_order_of_the_p.epub 30. O.W.L.S:
+
+<p class="MsoNormal2"><span class="sgc3">“Yeah,” said Harry. “No more pretending we care what happens when Jupiter and Uranus get too friendly ...”</span></p> 34. Beyond the Veil:
+
+<p class="MsoNormal2"><span class="sgc3">“Harry, we saw Uranus up close!” said Ron, still giggling feebly. “Get it, Harry? We saw Uranus --- ha ha ha ---”</span></p> ~@stitny$ ```

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: ceplma
+:Score: 1
+:DateUnix: 1602949669.0
+:DateShort: 2020-Oct-17
+:END:
+
+#+begin_quote
+  epubgrep Uranus ~/Knihy/rowling/anglicky/*.epub
+#+end_quote
+
+It is the command line application.
