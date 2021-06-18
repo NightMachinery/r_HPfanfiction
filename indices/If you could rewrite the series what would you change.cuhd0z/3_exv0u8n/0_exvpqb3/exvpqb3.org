@@ -1,0 +1,27 @@
+:PROPERTIES:
+:Score: 8
+:DateUnix: 1566604156.0
+:DateShort: 2019-Aug-24
+:END:
+
+#+begin_quote
+  In DH, make a bigger deal out of Harry mastering occlumency, as in the current form most readers don't even realise it happened.
+#+end_quote
+
+You've mentioned this before, but I'm not convinced. The relevant passage from DH:
+
+#+begin_quote
+  His scar burned, but he was master of the pain; he felt it, yet was apart from it. He had learned control at last, learned to shut his mind to Voldemort, the very thing Dumbledore had wanted him to learn from Snape. Just as Voldemort had not been able to possess Harry while Harry was consumed with grief for Sirius, so his thoughts could not penetrate Harry now, while he mourned Dobby. Grief, it seemed, drove Voldemort out . . . though Dumbledore, of course, would have said that it was love. . .
+#+end_quote
+
+This doesn't match what we know of Occlumency. From Snape's lessons, the most basic technique seems to be to "control your anger, discipline your mind" and "let go of all emotion" (OoTP). Harry clearly isn't doing this. The passage is explicit: Voldemort can't enter his mind, because Voldemort can't comprehend grief (or love). Harry would still be unable to keep out Snape, who does know these emotions.
+
+JKR elaborated a bit more on Occlumency in one of her interviews:
+
+#+begin_quote
+  But I think Draco would be very gifted in Occlumency, unlike Harry. Harry's problem with it was always that his emotions were too near the surface and that he is in some ways too damaged. But he's also very in touch with his feelings about what's happened to him. He's not repressed, he's quite honest about facing them, and he couldn't suppress them, he couldn't suppress these memories. But I thought of Draco as someone who is very capable of compartmentalizing his life and his emotions, and always has done. So he's shut down his pity, enabling him to bully effectively. He's shut down compassion --- how else would you become a Death Eater?
+#+end_quote
+
+So occlumency is about suppression. So when it says "he was master of the pain; he felt it, yet was apart from it. He had learned control at last", maybe that's evidence he's got it figured out? But then it goes on to say he's "consumed by grief", so clearly he's /not/ compartmentalising.
+
+Overall it's hard to form firm conclusions. But the passage is specifically referring to Harry's connection to Voldemort. We can't say this technique would work on a Legilimens who understood grief, since it sounds quite different to Occlumency as described by Snape and JKR.
