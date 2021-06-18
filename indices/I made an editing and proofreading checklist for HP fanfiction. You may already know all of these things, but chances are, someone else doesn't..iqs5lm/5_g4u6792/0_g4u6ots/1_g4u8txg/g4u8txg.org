@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: how_to_choose_a_name
+:Score: 2
+:DateUnix: 1599843069.0
+:DateShort: 2020-Sep-11
+:END:
+
+You can also write a list where every entry is an item, with no introductory sentence, and with no punctuation at all. Like this list of colors:
+
+- Red
+- Blue
+- Green

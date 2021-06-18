@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 10
+:DateUnix: 1599842020.0
+:DateShort: 2020-Sep-11
+:END:
+
+Expansion: lists obey the same rules of punctuation as everything else.
+
+You can write a list using complete sentences.
+
+- In lists with complete sentences, each bullet begins with a capital letter and ends with a full stop.
+
+- It's basically a series of completely independent sentences.
+
+Alternatively, you can write a list using commas, exactly the same as if you were writing the list out without the bullet points:
+
+- in lists like this you do not capitalise each bullet,
+
+- but each item must end with a comma or a semi-colon, and
+
+- the final item on the list is preceded with an "and" or an "or" and finishes with a full stop, completing the sentence.
+
+The ultimate rule of lists is this: if you remove the bullets, the resulting prose should still make sense. Bullets are just a formatting tool.
