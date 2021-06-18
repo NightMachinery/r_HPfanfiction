@@ -1,0 +1,16 @@
+:PROPERTIES:
+:Author: rocketsp13
+:Score: 9
+:DateUnix: 1582666162.0
+:DateShort: 2020-Feb-26
+:END:
+
+Yep. I did repeatedly state that this was an idealized situation. This is brute force application of exponential growth.
+
+That said, after some research, [[https://thewildpeak.wordpress.com/2012/03/04/how-many-ancestors-do-you-have/][which this being the most reputable source]] without getting into actual research papers, it seems that mathematical models aren't too far off of what I used as a back of the envelope estimate for the first several generations. According to that source:
+
+#+begin_quote
+  For example, even 15 generations ago in 1527 the mean calculated number of distinct ancestors is still 31,438, not much less than the theoretical maximum of 32,768, and only about 1.5% of Wachter's estimated English population of 2.2 million at the time.
+#+end_quote
+
+Beyond that, assuming that the Black tradition of casting a squib out is common and happened historically, they would be disproportionately /more/ likely to meet and marry a muggle than they would a witch or wizard, so they fit neatly into the numbers I ran previously.
