@@ -1,0 +1,13 @@
+:PROPERTIES:
+:Score: 1
+:DateUnix: 1493890859.0
+:DateShort: 2017-May-04
+:END:
+
+it's not designed to work like that. it's a bookmarklet. save the bookmarklet code to a bookmark on your toolbar, then navigate to the alerts page, then click the bookmark. Or you can just copy the code and run it once on the page by pasting it into the url bar (make sure "javascript:" is still at the beginning. chrome deletes that part.).
+
+here's the bookmarklet code again
+
+#+begin_example
+  javascript:(function(){var b = document.getElementById('gui_table1i');var c = [];for (i = 1; i < (b.rows.length - 1); i++){var d = [];var e = document.getElementById('gui_table1i').rows.item(i).cells;var f = e.item(0).getElementsByTagName("a")[0];d[0] = f.innerHTML; d[1] = f.href; d[2] = f.href.split("/")[4]; d[3] = e.item(1).getElementsByTagName("a")[0].innerHTML;d[4] = e.item(2).innerHTML; d[5] = e.item(3).innerHTML; d[6] = e.item(4).innerHTML;c.push(d);}var g = document.createElement("tr");var h = "<td colspan='6'> Title | Author | Updated | Followed </br> :--|:--|:--|:-- </br>";var j = "linkffn(";for (i = 0; i < c.length; i++){h += "[" + c[i][0] + "](" + c[i][1] + ") |" + c[i][3] + "|" + c[i][5] + "|" + c[i][6] + "</br>";j += c[i][2] + ";";}j += ")";h += "</br>" + j + "</td>";g.innerHTML = h;b.appendChild(g);})()
+#+end_example

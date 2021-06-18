@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: fflai
+:Score: 2
+:DateUnix: 1493848666.0
+:DateShort: 2017-May-04
+:END:
+
+How do you think I wrote [[https://www.reddit.com/r/HPfanfiction/comments/68wudx/what_wips_are_you_subscribed_to/dh2eir5][this]] comment on the fic?
+
+Also some JS-wizardy to generate the markdown. Although I did it with a jQuery-oneliner (it was a long line though)
