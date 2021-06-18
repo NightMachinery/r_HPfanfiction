@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: Clegko
+:Score: 2
+:DateUnix: 1480043081.0
+:DateShort: 2016-Nov-25
+:END:
+
+What about Slack? A long standing IRC group i've been part of recently migrated to it, and it's top. And bots can be used via a Slack <-> IRC gateway.
