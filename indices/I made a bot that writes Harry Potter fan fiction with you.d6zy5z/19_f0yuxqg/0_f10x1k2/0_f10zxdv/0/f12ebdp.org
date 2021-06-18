@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: jshek
+:Score: 2
+:DateUnix: 1569139064.0
+:DateShort: 2019-Sep-22
+:END:
+
+If I had to recommend, CS as your major obv. means you're going to have plenty of job offers when you graduate, but I'd take as many things that make you program in Python at the moment. I don't know electives truly fit that lol. I'd also recommend spaced repetition for early software engineers, but I've written too much about that already.
+
+I'm betting (and this is a bit of a bet on myself too) is that software engineers that can implement ML solutions (aka applied AI, which is what writeup.ai really is) are going to be the next big wave. Right now it's mostly academics writing ML code -- which is frequently a spaghetti monster and doesn't scale well. So if you can get really good at structuring code, managing large codebases, unit tests, etc. you'll be well-suited to learn ML much faster. I look at most ML codebases and I'm just shocked they run. You can tell there was a lot of unnecessary frustration in their debugging attempts that could have been avoided.
+
+For example, when I made this app, the hard part in ML realistically took about 1-2 weeks (and that was prob because I sucked at PyTorch). The hard part was making it scale, automated deployments, handling race conditions -- all software engineering problems.
+
+Hope this is helpful! Caution: I'm obviously biased because I don't come from academia and have more of a self-taught software engineering background.
