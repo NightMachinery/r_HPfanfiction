@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 3
+:DateUnix: 1444127982.0
+:DateShort: 2015-Oct-06
+:END:
+
+Glad you like it! I thought it was time for a change, especially since [[/r/harrypotter]] went all-in.
+
+If anyone finds any bugs, feel free to tell me. This is actually my first time working with CSS (like, ever), and I've basically hacked together many open-source existing themes and added some of my own touches, so I hope you like it!
+
+*Current Bugs (Fix ETA is this weekend)*
+
+- Upvote/Downvote arrows reversed (simple fix)
+
+- "/Nox/" animation doesn't play when downvoting comments (relatively simple fix)
+
+- Selftext image doesn't appear next to links (minor issue, but a bit more involved due to the hack-y nature of this CSS stylesheet)
