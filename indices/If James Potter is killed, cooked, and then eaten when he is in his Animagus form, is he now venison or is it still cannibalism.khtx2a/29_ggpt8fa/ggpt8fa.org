@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: whats-a-monad
+:Score: 1
+:DateUnix: 1608662889.0
+:DateShort: 2020-Dec-22
+:END:
+
+This is a meaningless question. It's like asking what happens when an undefined behavior triggers in c++ code; What happens is totally implementation-dependent.
