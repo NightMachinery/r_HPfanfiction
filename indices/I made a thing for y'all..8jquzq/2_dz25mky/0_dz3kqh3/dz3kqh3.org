@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: zuddsy
+:Score: 1
+:DateUnix: 1526509071.0
+:DateShort: 2018-May-17
+:END:
+
+I have had a similar experience. I've found a few libraries, but they were all either incomplete, outdated, deprecated, or a combination of the three. I think I'll eventually create my own library for MOBI, but I can't be bothered at the moment haha

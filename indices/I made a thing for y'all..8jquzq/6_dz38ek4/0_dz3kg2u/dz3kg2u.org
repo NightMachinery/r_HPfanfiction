@@ -1,0 +1,20 @@
+:PROPERTIES:
+:Author: zuddsy
+:Score: 3
+:DateUnix: 1526508777.0
+:DateShort: 2018-May-17
+:END:
+
+#+begin_quote
+  customer support
+#+end_quote
+
+You are not my customer. I am putting this out at no expense. I owe you nothing. This was a hobby project to further my own understanding of AJAX, CORS, and DOM traversal.
+
+Leaving 4 comments describing no issues you're having, yet complaining that nothing works, is not helpful.
+
+I've personally tested this in every modern desktop browser as well as multiple mobile browsers across 3 different devices, so I'm fairly confident that it works correctly.
+
+Keep in mind that you will need to have JavaScript enabled in your browser, as it is a JS app.
+
+If you believe that isn't the issue, you will need to tell me what the status messages are OR access the developer console tell me what errors you see.

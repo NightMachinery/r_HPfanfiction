@@ -1,0 +1,11 @@
+:PROPERTIES:
+:Score: 3
+:DateUnix: 1526449489.0
+:DateShort: 2018-May-16
+:END:
+
+#+begin_quote
+  don't expect MOBI to show up on that list anytime soon, it's problematic in a purely client-side environment
+#+end_quote
+
+I've looked into MOBI support in the past. It's based on PDB, whose specification is rather poorly written (and a bit hard to find) and which I haven't been able to find good guides for. At some point I'll reverse engineer someone else's library for it.
