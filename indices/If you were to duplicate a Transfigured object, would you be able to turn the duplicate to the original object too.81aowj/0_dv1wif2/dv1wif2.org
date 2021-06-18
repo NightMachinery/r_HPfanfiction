@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: wordhammer
+:Score: 5
+:DateUnix: 1519959990.0
+:DateShort: 2018-Mar-02
+:END:
+
+I would say no. The duplicate object doesn't have the same 'history' attached to it, so there wouldn't be anything to revert to.
+
+That 'history' is probably the kind of magical value that can't be replicated, according to one of the exceptions to Gamp's law of elemental transfiguration.
