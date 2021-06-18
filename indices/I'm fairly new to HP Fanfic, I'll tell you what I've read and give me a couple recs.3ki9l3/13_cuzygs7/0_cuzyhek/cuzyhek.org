@@ -1,0 +1,20 @@
+:PROPERTIES:
+:Author: FanfictionBot
+:Score: 1
+:DateUnix: 1442148881.0
+:DateShort: 2015-Sep-13
+:END:
+
+[[http://archiveofourown.org/works/830080][*/Registration/*]] by [[http://archiveofourown.org/users/copperbadge/pseuds/copperbadge][/copperbadge/]]
+
+#+begin_quote
+  James roped Remus and Sirius into holding his place in line for registering Harry; when he defaults at the last minute, his friends are forced to pick Harry's name for him.
+#+end_quote
+
+^{/Site/: [[http://www.archiveofourown.org/][Archive of Our Own]] *|* /Fandom/: Harry Potter - J. K. Rowling *|* /Published/: 2003-08-26 *|* /Words/: 6320 *|* /Chapters/: 1/1 *|* /Comments/: 29 *|* /Kudos/: 881 *|* /Bookmarks/: 252 *|* /Hits/: 7024 *|* /ID/: 830080 *|* /Download/: [[http://archiveofourown.org/][EPUB]]}
+
+--------------
+
+*Bot v1.3.0 - 9/7/15* *|* [[[https://github.com/tusing/reddit-ffn-bot/wiki/Usage][Usage]]] | [[[https://github.com/tusing/reddit-ffn-bot/wiki/Changelog][Changelog]]] | [[[https://github.com/tusing/reddit-ffn-bot/issues/][Issues]]] | [[[https://github.com/tusing/reddit-ffn-bot/][GitHub]]]
+
+*Update Notes:* Use /ffnbot!delete/ to delete a comment! Use /ffnbot!refresh/ to refresh bot replies!
