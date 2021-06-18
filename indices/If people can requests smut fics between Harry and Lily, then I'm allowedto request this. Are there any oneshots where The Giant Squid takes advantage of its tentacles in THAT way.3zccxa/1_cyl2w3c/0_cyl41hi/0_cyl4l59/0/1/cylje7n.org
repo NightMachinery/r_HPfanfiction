@@ -1,0 +1,25 @@
+:PROPERTIES:
+:Author: denarii
+:Score: 10
+:DateUnix: 1451919181.0
+:DateShort: 2016-Jan-04
+:END:
+
+** traffic by month
+   :PROPERTIES:
+   :CUSTOM_ID: traffic-by-month
+   :END:
+| date      | uniques | pageviews |
+|-----------+---------+-----------|
+| January   | 4,369   | 29,593    |
+| December  | 33,857  | 288,927   |
+| November  | 30,441  | 280,938   |
+| October   | 29,947  | 287,561   |
+| September | 30,886  | 318,635   |
+| August    | 33,275  | 321,761   |
+| July      | 34,941  | 283,239   |
+| June      | 27,280  | 220,326   |
+| May       | 28,819  | 213,342   |
+| April     | 27,528  | 196,182   |
+| March     | 30,311  | 213,768   |
+| February  | 23,539  | 157,840   |
