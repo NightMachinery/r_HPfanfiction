@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: impossiblefork
+:Score: 15
+:DateUnix: 1574851300.0
+:DateShort: 2019-Nov-27
+:END:
+
+No. In mathematics you often have things that don't commute, like matrices. So you have some string of matrices multiplied together ABCCCCD. You can then write ABC^{4} D. A3D would be A(D+D+D). If you instead used A+D+D+D then since you pretty much only use + for things that are commutative you'd have this be equal to D+A+D+D or to the other reorderings, which isn't the something you'd assume with multiplication.
+
+Edit: Also, A3D=(A+A+A)D.
