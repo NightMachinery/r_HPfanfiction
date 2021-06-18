@@ -1,0 +1,20 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 5
+:DateUnix: 1539866779.0
+:DateShort: 2018-Oct-18
+:END:
+
+Per Mr Justice Leggatt:
+
+#+begin_quote
+  In the modern law of evidence relevance is the paramount consideration. The primary rule is that evidence is admissible only if it is relevant -- that is, if it tends to prove or disprove, in the sense of making more or less probable, any fact in issue in the proceeding: see Phipson on Evidence (17th Edn) at paras 7.08--7.09; DPP v Kilbourne [1973] AC 729, 756. Conversely, evidence that is relevant (or of more than minimal relevance) is generally admissible. In former days when facts in civil as well as criminal cases were found by juries and there was fear that more weight would be given to certain kinds of evidence than they deserved, rules were developed to exclude reliance on evidence notwithstanding its relevance. The rule against hearsay is the classic example. The tendency of the law has been and continues to be towards the abolition of such rules. The modern approach is that judges (and, increasingly, juries) can be trusted to evaluate evidence in a rational manner, and that the ability of tribunals to find the true facts will be hindered and not helped if they are prevented from taking relevant evidence into account by exclusionary rules.
+#+end_quote
+
+[[https://www.icao.int/safety/airnavigation/AIG/Database2Docs/Rogers%20v%20Hoyle%202013.pdf]]
+
+Sounds pretty good to me.
+
+In general, arbitrary technicalities which restrict evidence tend to hinder justice. Such rules are largely responsible for situations where a defendant's likelihood of conviction is directly proportional to their ability to pay expensive lawyers, rather than a function of the objective evidence against them.
+
+As a rule, if something has probative value, it should be admitted. Judges and juries are perfectly capable of weighing up evidence -- that is their entire purpose. It's entirely within their capabilities to give indirect or hearsay evidence less weight than direct evidence.
