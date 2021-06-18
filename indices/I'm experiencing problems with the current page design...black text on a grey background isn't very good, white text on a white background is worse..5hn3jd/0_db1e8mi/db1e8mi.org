@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: TheHeciot
+:Score: 13
+:DateUnix: 1481413621.0
+:DateShort: 2016-Dec-11
+:END:
+
+Install RES, untick use subreddit style on the right hand side of the page. I dont know what's actually causing your problem, but that will probably make it at least readable.

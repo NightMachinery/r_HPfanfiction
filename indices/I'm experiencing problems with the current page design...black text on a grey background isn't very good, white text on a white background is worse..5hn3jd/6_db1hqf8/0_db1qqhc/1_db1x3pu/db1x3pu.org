@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1481449397.0
+:DateShort: 2016-Dec-11
+:END:
+
+I don't know how or why you're getting that, because it's certainly not a feature of our stylesheet - or Reddit itself. Reddit posts shouldn't be floating like that.
+
+It's probably some third party app interfering.
+
+Your options are to a) remove whatever third-party plugin is causing that, or b) install [[https://redditenhancementsuite.com/][RES]] and uncheck "subreddit style" on the sidebar
