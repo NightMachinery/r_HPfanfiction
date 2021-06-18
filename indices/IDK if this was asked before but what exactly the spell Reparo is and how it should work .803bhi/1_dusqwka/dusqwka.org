@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: Taure
+:Score: 6
+:DateUnix: 1519554732.0
+:DateShort: 2018-Feb-25
+:END:
+
+It does not return an object to its previous state, because in HBP Harry uses it to switch the covers of two potions books. He severs the covers, switches them, then uses "reparo" to fix the break, attaching the new covers. In doing so he creates new objects rather than returning them to their past state.
+
+So it's not analogous to Untransfiguration.
+
+My take on it is that magical theory will have definitions for what an object is and what it means when something is broken. The reparo spell will essentially remove the property "broken" from an object. This fits nicely with the fact that it is a Charm, not a Transfiguration. Charms are all about adding, removing, and altering properties, whereas Transfiguration is about changing a thing's fundamental (physical) nature.
+
+I think of it almost as a tagging system. Each object will have "tags" associated with it - its properties. E.g. "green", "hot", "forbidden", "broken", "old", etc. Charms change the tags associated with an object, but "beneath" the magic the object is fundamentally the same. Transfiguration changes the object itself. Of course, where the tags relate to physical properties, the result may appear the same. But the process is different, as is how it may interact with other magic.
