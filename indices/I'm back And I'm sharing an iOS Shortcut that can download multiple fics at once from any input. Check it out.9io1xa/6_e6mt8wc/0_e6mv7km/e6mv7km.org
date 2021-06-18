@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 2
+:DateUnix: 1537910722.0
+:DateShort: 2018-Sep-26
+:END:
+
+I think this is because the official app does not include the actual comment text in a share (it just shares the link).
+
+Nothing I can do about that. I could change the shortcut to scrape Reddit and grab the link but then it's not a generic “link extraction” shortcut, and that bothers me :)

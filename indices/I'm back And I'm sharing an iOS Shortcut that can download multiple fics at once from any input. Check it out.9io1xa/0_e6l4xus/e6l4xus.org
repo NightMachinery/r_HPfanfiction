@@ -1,0 +1,24 @@
+:PROPERTIES:
+:Author: tusing
+:Score: 6
+:DateUnix: 1537840757.0
+:DateShort: 2018-Sep-25
+:END:
+
+Shortcut URL: [[https://www.icloud.com/shortcuts/6baf582dd0c14ce1a934e1c18842aa09]]
+
+Only works with fanfiction.net links.
+
+You can pass any content to the Shortcut. In the example above, I pass a bot comment to the shortcut. It extracts the links from the comment and lets the user select the fics they want to keep.
+
+In other words, you can pass emails, documents, clipboard, etc with links and this will extract the links and download the contained fics for you. It downloads the content to your iCloud =/Shortcuts/Fics= folder, but you can change that pretty easily in the shortcut itself (or even switch to Dropbox).
+
+Enjoy the shortcut. If you ever find any bugs or want additional features, let me know and I'll see if I can customize it and update.
+
+--------------
+
+(I have no clue what those fics are in the demo above, don't judge.)
+
+--------------
+
+None of the FanfictionBot or these shortcut downloads would work without [[http://ff2ebook.com/][FF2Ebook]]. You guys have often given me gold for FanfictionBot stuff but I would much rather you donate to FF2Ebook instead (donation link at their homepage).
