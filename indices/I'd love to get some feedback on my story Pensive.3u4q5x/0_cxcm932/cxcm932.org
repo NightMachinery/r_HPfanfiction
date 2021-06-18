@@ -1,0 +1,54 @@
+:PROPERTIES:
+:Author: KwanLi
+:Score: 2
+:DateUnix: 1448464060.0
+:DateShort: 2015-Nov-25
+:END:
+
+Let's get you out of some bad habits.
+
+Here's a good article on how to punctuate your dialogue: [[http://www.be-a-better-writer.com/punctuate-dialogue.html]]
+
+When the character performs an action instead of a dialogue tag, you want a period.
+
+Incorrect
+
+#+begin_quote
+  "We brought you *something" Remus* grinned.
+#+end_quote
+
+Correct
+
+#+begin_quote
+  "We brought you *something." Remus* grinned.
+#+end_quote
+
+When the character has a dialogue tag, you want to have a comma before the dialogue quote.
+
+Incorrect
+
+#+begin_quote
+  "It's called *Pop" Remus* explained
+#+end_quote
+
+Correct
+
+#+begin_quote
+  "It's called *Pop," Remus* explained
+#+end_quote
+
+If you have a dialogue tag in between two quotes, then you want a comma before the first quote and a comma *before* the second quote.
+
+Incorrect
+
+#+begin_quote
+  *"Yes" he whispered*, patting his pocket with *triumph "but* wipe that smirk off your face, or they're going to get suspicious."
+#+end_quote
+
+Correct
+
+#+begin_quote
+  *"Yes," he* whispered, patting his pocket with *triumph, "but* wipe that smirk off your face, or they're going to get suspicious."
+#+end_quote
+
+Just keep writing. The more you write, the more you learn.
