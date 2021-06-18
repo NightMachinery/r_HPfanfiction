@@ -1,0 +1,242 @@
+:PROPERTIES:
+:Score: 6
+:DateUnix: 1396113875.0
+:DateShort: 2014-Mar-29
+:END:
+
+I'm curious about where the stories going, and that's good, but there are a lot of little problems. It's mainly formatting that's the issue, but there are also some problems with redundancies.
+
+First, you miss periods here and there, and that obviously needs to be fixed.
+
+--------------
+
+*Tagging*
+
+Your dialogue is often tagged with:
+
+#+begin_quote
+  "Blank blank blank." Said X.
+#+end_quote
+
+Which just looks overall pleasant and isn't the standard convention. You want it to be:
+
+#+begin_quote
+  "Blank blank blank," said X.
+#+end_quote
+
+With said not capitalized, and a comma instead of a period. Oddly enough, you do this in many places, which confused me a bit.
+
+Sometimes you'll miss out on a second quotation:
+
+#+begin_quote
+  "Now there's a line we've heard before. Said Crouch sarcastically,
+#+end_quote
+
+But that doesn't pop up often enough to be a consistent issue.
+
+--------------
+
+*Adverbs*
+
+The one thing that drew me out of the story though was your use of adverbs. Many classes or books or strangers on the internet tell you to /never/ use adverbs, but I think they have a place.
+
+Your adverbs, however, are often applied to tags, and they're often redundant.
+
+Look at this:
+
+#+begin_quote
+  "You don't know!" Harry spat venomously.
+#+end_quote
+
+Spat implies that you're saying something venomously and quickly, it works equally well without the venomously.
+
+Same thing here, just without an adverb:
+
+#+begin_quote
+  "You know what they're asking me to do?" He rasped in a harsh whisper.
+#+end_quote
+
+A rasp /is/ a harsh whisper.
+
+The usage of adverbs was atrocious at the very end of the chapter. Everyone's talking helplessly, shrieking desperately, laughing maniacally, and you didn't let their actions speak for themselves. Look at the context:
+
+#+begin_quote
+  "Harry No!" Eve shrieked desperately.
+#+end_quote
+
+Contrasted with:
+
+#+begin_quote
+  "Harry no!" Eve shrieked.
+#+end_quote
+
+You get /exactly/ the same meaning, and it feels less superfluous.
+
+The issue with adverbs in dialogue tags is a big problem when the tag is nestled in the text.
+
+#+begin_quote
+  "Perhaps." She whispered venomously "I should just call you dog instead, that seems to be what your masters---"
+#+end_quote
+
+Tagging in the middle warrants the least words possible. It is there exclusively to identify the speaker, and sometimes how they say something.
+
+Anything more, and it gets distracting.
+
+However, in that sentence, I can see how venomously may be warranted. Perhaps doesn't imply any context in how the whisper is said. There, I would recommend restructuring the sentence.
+
+#+begin_quote
+  "Perhaps I should call you dog instead," she whispered. "That seems to be what your masters---"
+#+end_quote
+
+The issue with adverbs isn't just in dialogue though, you have it sometimes in actions.
+
+#+begin_quote
+  Eve suppressed a shudder. She held herself stiffly as the man eyed her body with repulsive intent, as though he were gazing upon a large meal.
+#+end_quote
+
+Suppressing a shudder implies that she's holding herself stiffly. Also, the man is eyeing up a, what I assume to be underage, girl. Of course he has repulsive intent.
+
+That is perhaps the worst thing about adverbs. "...eyed her body with repulsive intent..." It feels like you are trying to make the /reader/ feel repulsed, like you're forcing a feeling upon them. Many readers will recoil at being told what they are feeling, and that's one of the reasons second person hasn't succeeded as a genre.
+
+Back to the sentence above, it would be better structured as:
+
+#+begin_quote
+  The man's eyes raked across her body, as though he was gazing upon a large meal. Eve suppressed a shudder.
+#+end_quote
+
+Now, those aren't very good sentences mind. Gazing upon a large meal and choosing meat are two cliches that are so overused they really don't say anything.
+
+Personally, I would write:
+
+#+begin_quote
+  The man's eyes raked across her body, pausing at the swell of her budding breasts and lingering below her waist. Eve squeezed her thighs together, barely suppressing a shudder.
+#+end_quote
+
+There, budding breasts clearly emphasizes that she's underage, and you have a better picture of what she does in response.
+
+--------------
+
+*Misc Tagging*
+
+There's one other thing that's a pet peeve of mine. You fall into what I call the Spicy Dialogue trap. It's extremely common in fanfiction, and my first fic - written when I was reading way more fanfic than should be healthy - fell into the same trap.
+
+There are a handful of words that are the bread and butter of dialogue. Said and asked very often, shouted and whispered infrequently. Readers, by and large, ignore the first two , and use the second two to simply modify how they read something. These words are unobtrusive and standard.
+
+You have:
+
+- Spat
+- Slurred
+- Intoned
+- Shrieked
+- Hissed
+- Repeated
+- Grunted
+- Rasped
+- Spoke (Sorry, this is personal, but I /despise/ this one)
+- Drawled
+- Snarled
+- Laughed (You can't really laugh a word)
+- Urged (I can't really see how you urge a word)
+- Cried
+
+Now, quite a few of those were good. Rasped in particular I loved, it painted a very clear image of Harry's state.
+
+But quite a few of these are useless, adding nothing.
+
+#+begin_quote
+  "My, my. Now this /is/ a pretty picture," drawled Crouch.
+#+end_quote
+
+I was already getting the drawled voice from the beginning. I know JKR used drawled a lot for Snape, and its become popular in fanfic, but proper speech patterns, like what you have here, render it completely obsolete.
+
+And here:
+
+#+begin_quote
+  "None a' that now," the man slurred with false congeniality, "I told you to call me Leon"
+#+end_quote
+
+"Slurred with false congeniality." I have absolutely zero idea how to picture him saying that. There, it doesn't just add nothing, but it detracts from what you're saying.
+
+This would be better structured as:
+
+#+begin_quote
+  "None a' that now. I told you to call me Leon." He grinned a lecherous toothy grin at her.
+#+end_quote
+
+Where you get rid of the tag and just combine the "He grinned a lecherous toothy grin at her." that's directly below.
+
+Or:
+
+#+begin_quote
+  "None a' that now. I told you to call me Leon." He grinned at her lecherously.
+#+end_quote
+
+You could even cut the lecherously with the paragraph below it, where he's basically eye-raping her.
+
+Moving on, spoke and intoned are some of my least favorite words for dialogue, but that's more personal than anything.
+
+#+begin_quote
+  "You didn't have to do that." Spoke her twin beside her.
+#+end_quote
+
+That means literally the same thing as said, but feels much, much more awkward. You could just throw in said and nothing is lost.
+
+Similarly:
+
+#+begin_quote
+  "Ah!" Bellatrix intoned in a singsong voice.
+#+end_quote
+
+You use intoned absolutely incorrectly here. Intoned has little change in the way words are said in a sentence. You would intone at a spelling bee, or at mass, not singing.
+
+Anyways, that's my pet peeve.
+
+--------------
+
+*Plot*
+
+I liked the plot.
+
+I liked how you try to break Harry, it's a lot like trying to break batman.
+
+I liked the sharp contrast between Eve and Harry's positions and situations, but the way you made it clear that they're both prisoners through little things.
+
+I didn't like the pacing.
+
+You have Harry kill a man in roughly the same word count as it took Eve to head from the garden to the manor.
+
+The longest part is when they're in the dungeon, during which they talk a bit, then Eve narrates for most of it.
+
+The pacing needs to be sped up at the start. You should not waste a large paragraph describing a garden. Especially not as the very first paragraph. To be honest, if you hadn't posted this on reddit, I probably would have stopped reading at the first paragraph.
+
+Then you spend another paragraph describing the gardener, and end up painting no picture at all. The best descriptions are what really stands out about a character, or their oddities, or things like that.
+
+The Weasleys in HP are usually described as just a family of gingers, with Mrs. Weasley a bit round.
+
+This lets the reader picture them however they want.
+
+Continuing on, the dungeon scene needs to be shortened. Look at this:
+
+#+begin_quote
+  It was always like this, back as far as Eve could remember. Sometimes there were good days. Days where they could almost pretend that they were not captives forced to the will of their masters. But always, Harry would refuse demands, be hurt and punished. Always they returned to this dark cell in the depths of the manor. Each time worse than the last. Sometimes Eve herself occupied the cell. Recalling those occasions still made her gut clench with fear.
+#+end_quote
+
+That's all well and good, but it says nothing. You could cut or replace that, and nothing would be changed in the story.
+
+The murder should be lengthened. I understand if you want it to impart a feeling of rushing. It's just that all the murder consists of is Death Eaters urging Harry, Eve saying no, Eve getting stabbed, then Harry stabbing the man.
+
+At the very least, if you want this to be a dark fic, which it feels like, you should describe the Muggle more. You add, almost like a throw away, that he writhes against his bonds. A throwaway line does not convey the sense of taking another man's life.
+
+When Harry stabbed him I felt nothing more than if Harry had stabbed a loaf of bread.
+
+So yeah, these are just suggestions. I don't think you should change the plot, just the pacing.
+
+--------------
+
+*Summary*
+
+You've got a good idea here, but it suffers under poor formatting/grammar, subpar pacing, and almost-purple prose.
+
+I would recommend a beta over anything else.
+
+Keep writing though, I'll keep reading.
