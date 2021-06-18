@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: ceplma
+:Score: 2
+:DateUnix: 1589888642.0
+:DateShort: 2020-May-19
+:END:
+
+Reasonably well with some glaring exceptions. For reasons I don't understand, Android TTS decided that “sat” is always an abbreviation of Saturday, so I have “Ginny Saturday on sofa.” Then it has troubles with some real abbreviations, “Drive Granger” (or is it “Privet Doctor”?), and “Street Mungo Hospital” are most obvious ones. However, aside from these exceptions it is pretty good, and I don't have to turn my eyes from boring parts of my work while listening.
