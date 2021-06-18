@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: Impossible-Poetry
+:Score: 3
+:DateUnix: 1595524528.0
+:DateShort: 2020-Jul-23
+:END:
+
+The issue with this (and I'm no computer engineer) beyond the doubts I have that computing can be made compatible with HP magic, as that seems not only contraindicated from canon and thematically inconsistent, but that memories are modified all the time. Every time you reconsolidate (when you retrieve a memory and then re-encode it) a memory, you unintentionally modify it. The extent depends on a variety of factors.
+
+Also a quick google search seems to indicate that checksums are used to prevent accidental data modification but are not very useful indicators of data authenticity. It seems many memories would fail the checksum because of reconsolidation. And any intentional changes made by others may not even be detected by such algorithms. And that assumes compatibility.
+
+I think the take-away message is that any attempts to consolidate technology and magic is doomed to failure. Magic can recognize what a secret is; souls exist; and you can create matter with a flick of a wand. This method of protecting one's memories is simply inferior, short any advances or superior methods in the HP world.

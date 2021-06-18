@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: 15_Redstones
+:Score: 5
+:DateUnix: 1595498123.0
+:DateShort: 2020-Jul-23
+:END:
+
+Maybe someone could build a Pensieve/Computer hybrid with encryption and a checksum feature. Any change changes the checksum which is easy to compare. Modifying a memory without changing the checksum would require reverse engineering the memory hashing algorithm. Modern cryptography has a lot of neat techniques for preventing people from messing with important data.
