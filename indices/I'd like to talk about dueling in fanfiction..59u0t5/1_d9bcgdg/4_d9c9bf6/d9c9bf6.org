@@ -1,0 +1,26 @@
+:PROPERTIES:
+:Author: turbinicarpus
+:Score: 2
+:DateUnix: 1477704803.0
+:DateShort: 2016-Oct-29
+:END:
+
+This is a beautiful theory, but spell-as-beam and spell-as-projectile descriptions really are too explicit and the beam/projectile mechanics are plot-relevant in some situations. For example, in HBP, Chapter 29, we have the following passage:
+
+#+begin_quote
+  Harry tore past Hagrid and his opponent, took aim at Snape's back and yelled, ‘Stupefy!'
+
+  He missed; the jet of red light soared past Snape's head;
+#+end_quote
+
+Worse yet, from the same chapter, there is an example of a curse missing its intended target and hitting someone else:
+
+#+begin_quote
+  ‘Luckily,' said Lupin hoarsely, ‘Ron, Ginny and Neville ran into us almost immediately and told us what had happened. We found the Death Eaters minutes later, heading in the direction of the Astronomy Tower. Malfoy obviously hadn't expected more people to be on the watch; he seemed to have exhausted his supply of Darkness Powder, at any rate. A fight broke out, they scattered and we gave chase. One of them, Gibbon, broke away and headed up the Tower stairs --'
+
+  ‘To set off the Mark?' asked Harry.
+
+  ‘He must have done, yes, they must have arranged that before they left the Room of Requirement,' said Lupin. ‘But I don't think Gibbon liked the idea of waiting up there alone for Dumbledore, because he came running back downstairs to rejoin the fight and was hit by a Killing Curse that just missed me.'
+#+end_quote
+
+Presumably, the Killing Curse was cast by a Death Eater, not an Order member, so it was not deliberately targeted at Gibbon.
