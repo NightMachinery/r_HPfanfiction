@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: zacker150
+:Score: 2
+:DateUnix: 1590981736.0
+:DateShort: 2020-Jun-01
+:END:
+
+You're missing the point. The limiting factor of human advancement isn't the production of things. It's the generation of ideas. We took hundreds of years for the industrial revolution not because of how long it took to build those things, but because someone had to figure out each of the inputs.
+
+I brought up Factorio because it demonstrates the rapid nature of capital accumulation. In your previous post, you claimed that Japan was uplifted in a lifetime because they could import goods from the West. However, as demonstrated by [[https://i.imgur.com/OHOCfQc.png][this graph]], an economy growing under a neoclassical growth model (s=0.1, d=0.1, Y=100K^{0.3}) can go from a dirt poor country with no capital (k0 = 0.001) to a rich country (k =718.86) in less than a century.
+
+To demonstrate what time travelers could do, I [[https://imgur.com/6h7xBz4][simulated]] a the same economy on a balanced growth path. At year 100, our time travelers show up and spend a century injecting ideas into the economy. As you can see, the time travelers do quite a lot.
