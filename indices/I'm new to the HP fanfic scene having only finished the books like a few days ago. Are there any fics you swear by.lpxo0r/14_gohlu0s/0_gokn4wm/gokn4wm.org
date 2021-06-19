@@ -1,0 +1,10 @@
+:PROPERTIES:
+:Author: Adaire_
+:Score: 2
+:DateUnix: 1614167324.0
+:DateShort: 2021-Feb-24
+:END:
+
+The parentheses in the title confuse the bot. Try by the story id:
+
+linkao3(11314398)
