@@ -1,0 +1,14 @@
+:PROPERTIES:
+:Author: theshaolinbear
+:Score: 1
+:DateUnix: 1494842217.0
+:DateShort: 2017-May-15
+:END:
+
+You have to put the spoiler in the square brackets e.g.
+
+#+begin_example
+  [Thing you want to hide in a spoiler tag](/spoiler)
+#+end_example
+
+Gives [[/spoiler][Thing you want to hide in a spoiler tag]]
