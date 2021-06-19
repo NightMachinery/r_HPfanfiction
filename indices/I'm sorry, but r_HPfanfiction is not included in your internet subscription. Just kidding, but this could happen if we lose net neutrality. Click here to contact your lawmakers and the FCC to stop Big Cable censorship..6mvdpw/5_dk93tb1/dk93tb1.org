@@ -1,0 +1,30 @@
+:PROPERTIES:
+:Author: Avaday_Daydream
+:Score: 3
+:DateUnix: 1500123692.0
+:DateShort: 2017-Jul-15
+:END:
+
+Does anyone actually know what net neutrality is?
+
+** 
+   :PROPERTIES:
+   :CUSTOM_ID: section
+   :END:
+As I understand it, the internet's a bit like a post office; you write a letter to someone overseas, give it to your local post office, they hire the airline to transport your letter overseas to give it to a foreign post office who go and deliver it. And then your pen-pal writes back and the whole thing happens in reverse.
+
+With the internets, you send a website request to your ISP who forwards it to a higher-tier provider who gets it across to a different ISP who sends your packet the last leg to your target website, which sends back the details you're after.
+
+** 
+   :PROPERTIES:
+   :CUSTOM_ID: section-1
+   :END:
+And the thing with net neutrality is, metaphorically, the post office is supposed to treat all letters equally and see that they get delivered in a timely manner, regardless of where they come from and where they go.
+
+But some post offices want to, instead, be able to take payments (read; bribes) to reroute their delivery truck routes to pass so-and-so company's doorstep before anyone else's, and maybe 'forget' to go down X Street of People Who Haven't Paid Bribes now and then.
+
+** 
+   :PROPERTIES:
+   :CUSTOM_ID: section-2
+   :END:
+Have I got it right?
