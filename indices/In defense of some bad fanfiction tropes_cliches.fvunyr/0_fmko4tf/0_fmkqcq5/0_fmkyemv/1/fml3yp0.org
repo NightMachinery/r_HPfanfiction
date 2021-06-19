@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: aaronhowser1
+:Score: 19
+:DateUnix: 1586177986.0
+:DateShort: 2020-Apr-06
+:END:
+
+This sub's CSS italicizes all quotes, so I'll copy the one you were trying to emphasize here:
+
+#+begin_quote
+  The silver fingers slackened. Harry had not expected it: He wrenched himself free, astonished, keeping his hand over Wormtail's mouth. He saw the ratlike man's small watery eyes widen with fear and surprise: He seemed just as shocked as Harry at what his hand had done, at the tiny, merciful impulse it had betrayed, and he continued to struggle more powerfully, as though to undo that moment of weakness.
+#+end_quote
