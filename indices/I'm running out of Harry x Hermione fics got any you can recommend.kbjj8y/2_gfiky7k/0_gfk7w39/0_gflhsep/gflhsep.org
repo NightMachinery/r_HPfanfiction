@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: thrawnca
+:Score: 2
+:DateUnix: 1607811895.0
+:DateShort: 2020-Dec-13
+:END:
+
+Use square brackets for the text, and round brackets for the link, with no space between them.
+
+For example,
+
+[Hermione Granger and the Goblet of Fire]([[https://www.portkey-archive.org/story/7700]])
+
+will result in:
+
+[[https://www.portkey-archive.org/story/7700][Hermione Granger and the Goblet of Fire]]
+
+(Which is a story I favour if you like the Harmony relationship to develop quite slowly and organically.)
