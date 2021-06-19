@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: thrawnca
+:Score: 2
+:DateUnix: 1588410146.0
+:DateShort: 2020-May-02
+:END:
+
+I think the bot is confused by the presence of "by" in the title. It's looking for an author called "Serafim" writing a story called "Swung" and completely failing. You might have more success if you specify the actual author.
