@@ -1,0 +1,18 @@
+:PROPERTIES:
+:Author: Sharedo
+:Score: 12
+:DateUnix: 1603378446.0
+:DateShort: 2020-Oct-22
+:END:
+
+But do you really need it to be translated into Gaelic?
+
+When I encounter phrases in languages I don't know I just skip them. No point reading them if I don't understand them. It's very irritating actually.
+
+I think it's much better to write something in italics and mention that it's in another language. Like this:
+
+#+begin_quote
+  "/Hello, how are you?/" Harry said in French.
+
+  "/I'm fine./" answered his French friend.
+#+end_quote
