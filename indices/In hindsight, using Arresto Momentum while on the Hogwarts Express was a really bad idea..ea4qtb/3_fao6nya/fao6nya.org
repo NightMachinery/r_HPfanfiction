@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: BiteSizedHuman
+:Score: 18
+:DateUnix: 1576258313.0
+:DateShort: 2019-Dec-13
+:END:
+
+Funny, but it'd have to be using [[https://en.wikipedia.org/wiki/Inertial_frame_of_reference#Absolute_space][the target's relative frame of reference,]] not an external one. Otherwise even using it when just standing on solid ground would've had disastrous consequences due to the momentum of Earth, our solar system, our galaxy, etc.
+
+So using an Arresto Momentum on an accelerating object while being on a moving train would only make that object lose its acceleration /relative to the moving train/.
+
+The spell could probably even be used to stabiliise / negate violent accelerations / decelerations of a vehicle that's currently hosting the target, and prevent inertia-related injuries like [[https://www.dolmanlaw.com/whiplash-painful-physics-action/][whiplash,]] essentially functioning as a perfect seatbelt.
