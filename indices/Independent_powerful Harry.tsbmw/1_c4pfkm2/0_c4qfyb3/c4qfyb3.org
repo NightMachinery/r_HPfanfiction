@@ -1,0 +1,12 @@
+:PROPERTIES:
+:Author: serasuna
+:Score: 3
+:DateUnix: 1337576151.0
+:DateShort: 2012-May-21
+:END:
+
+Here's the link format:
+
+#+begin_example
+   [text to display](url here)        
+#+end_example
