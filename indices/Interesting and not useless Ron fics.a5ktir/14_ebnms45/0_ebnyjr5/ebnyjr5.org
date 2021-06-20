@@ -1,0 +1,8 @@
+:PROPERTIES:
+:Author: natus92
+:Score: 3
+:DateUnix: 1544658312.0
+:DateShort: 2018-Dec-13
+:END:
+
+using the bot is really easy even on mobile. for fanfiction.net just add linkffn() and add the name of the fic combined with the authors name in the brackets, a lot of fics have such a distinctive name that the authors name isnt even necessary, for fics from archiveofourown use linkao3() instead
